@@ -142,7 +142,15 @@ def rebuild_index() -> None:
     entries = sorted(DAILY_DIR.glob("*.md"), reverse=True)
     lines = ["# AI News Wiki", "", "Wiki acumulativa de noticias de IA.", "", "## Informes diarios", ""]
     lines += [f"- [{p.stem}](daily/{p.name})" for p in entries]
-    INDEX.write_text("\n".join(lines).rstrip() + "\n")
+    extra = ""
+    if INDEX.exists():
+        # Preserve agent-maintained sections (Temas, Entidades, Tendencias, ...)
+        # that live after the "Informes diarios" block.
+        sections = re.split(r"(?m)^## ", INDEX.read_text())
+        kept = [s for s in sections[1:] if not s.startswith("Informes diarios")]
+        if kept:
+            extra = "\n\n" + "\n\n".join("## " + s.strip() for s in kept)
+    INDEX.write_text("\n".join(lines).rstrip() + extra + "\n")
 
 
 def main() -> int:
