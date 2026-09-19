@@ -2,6 +2,8 @@ name: Update AI news wiki
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '30 5 * * *'
 
 permissions:
   contents: write
