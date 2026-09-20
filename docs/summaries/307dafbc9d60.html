@@ -1,8 +1,20 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash · AI Wiki</title><link rel="stylesheet" href="../assets/style.css"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash · AI Wiki</title><link rel="stylesheet" href="../assets/style.css"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</h1>
 <p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence: high</p>
 <p><code>hacker-news</code> <code>apple</code> <code>alibaba</code> <code>agentic-systems</code> <code>small-specialist-models</code></p>
 <h2>Summary</h2>
-<p>Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks!</p>
+<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.</p>
+<p>The key features: 1) Automation (tool calls &amp; structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON.</p>
+<h2>Highlights</h2>
+<ul>
+<li>If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).</li>
+<li>2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries.</li>
+<li>3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8…</li>
+<li>4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, all at f16.</li>
+<li>5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.</li>
+<li>6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on "narrow task", we found that production users often prefer tuning before production.</li>
+<li>7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.</li>
+<li>Every layer of Needle 3 is a sub-network with monotonically increasing capacity.</li>
+</ul>
 <h2>Source</h2>
 <p><a href="https://cactuscompute.com/needle">Read the original story</a></p>
 <h2>Related pages</h2>

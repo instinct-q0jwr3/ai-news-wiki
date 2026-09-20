@@ -1,8 +1,20 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A search-and-inference database from scratch in pure Zig · AI Wiki</title><link rel="stylesheet" href="../assets/style.css"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>A search-and-inference database from scratch in pure Zig</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A search-and-inference database from scratch in pure Zig · AI Wiki</title><link rel="stylesheet" href="../assets/style.css"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>A search-and-inference database from scratch in pure Zig</h1>
 <p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence: high</p>
 <p><code>hacker-news</code></p>
 <h2>Summary</h2>
-<p>A search-and-inference database from scratch in pure Zig. Hacker News selected it as an AI-relevant development.</p>
+<p>My colleague Rowan summarized our ambitious goal for Antfly over a year ago: perfect search! This goal is silly, ambitious, unobtainable, and perfect for us.</p>
+<p>Aim for perfect search and you miss, but you miss somewhere interesting.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Hearing grandiose technologists talk about perfect search still strikes me as something out of an episode of Silicon Valley , but I love an impossible goal, and my inner tech hipster appreciates the irony.</li>
+<li>So I'll walk you through why we did the thing you are never supposed to do with a new startup: we rewrote the product.</li>
+<li>Antfly v0.1 launched a document storage, full-text, vector, and graph indexing engine in Go.</li>
+<li>Antfly v0.2 launches the same engine in Zig, with zero dependencies (well, none that get to run the show, but more on that below).</li>
+<li>I don't hear people talking about first principles as often as I used to, but they're still important to me and to how I make decisions.</li>
+<li>When building the first version of Antfly, the idea was to fill a gap in the database market: a schema-ish, friendly query engine for indexing like Elasticsearch, closer in scale to Postgres than Iceberg, as easy to use as Mongo, and as…</li>
+<li>Rust can guarantee memory safety through lifetimes, but memory safety wasn't the hard part, and Go is infinitely more readable to me than Rust ever was.</li>
+<li>But Zig was too green for my weekend database project and lacked a lot of the heavy lifting: Raft, full-text indexing, a portable, battle-tested LSM, yada yada yada.</li>
+</ul>
 <h2>Source</h2>
 <p><a href="https://antfly.io/research/antfly-zig">Read the original story</a></p>
 <h2>Related pages</h2>

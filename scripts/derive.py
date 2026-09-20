@@ -29,6 +29,120 @@ COMPARISONS={
  'open-agents-vs-closed-platforms':('Open agents vs closed platforms',['open source','github','local','agents.md'],['openai','anthropic','salesforce','meta'],'This comparison connects the control and auditability of open agents with the integration and capability of hosted platforms.'),
 }
 
+
+import html as _html, time, urllib.request
+
+CACHE=ROOT/'raw'/'cache'/'sources'
+FETCH_BUDGET_S=420; FETCH_DELAY_S=0.8; MAX_FETCHES=150; MAX_TEXT=60000
+UA={'User-Agent':'ai-news-wiki/1.0 (+https://instinct-q0jwr3.github.io/ai-news-wiki/)','Accept':'text/html,application/xhtml+xml'}
+SOURCES={}; RICH={}
+
+STOPWORDS=set('a an the and or but if then else when at by for with about into through during before after above below to from up down in out on off over under again further once here there all any both each few more most other some such no nor not only own same so than too very can will just should now is are was were be been being have has had having do does did doing would could ought i you he she it we they them his her its our their this that these those am of as'.split())
+JUNK=re.compile(r'cookie|subscribe|sign[ -]?up|newsletter|all rights reserved|advertisement|terms of service|privacy policy|follow us|share this|enable javascript|verify you are|listen to this post|watch on youtube|listen to podcast',re.I)
+
+def fetch_url(url):
+    req=urllib.request.Request(url,headers=UA)
+    with urllib.request.urlopen(req,timeout=10) as r:
+        ct=r.headers.get('content-type','')
+        if 'html' not in ct: return None,f'unsupported content-type: {ct}'
+        raw=r.read(1500000)
+    return raw.decode('utf-8','replace'),None
+
+def html_to_text(h):
+    h=re.sub(r'(?is)<(script|style|noscript|svg|form|nav|footer|header|aside|iframe)[^>]*>.*?</\1>',' ',h)
+    m=re.search(r'(?is)<article[^>]*>(.*?)</article>',h)
+    seg=m.group(1) if m else h
+    ps=re.findall(r'(?is)<p[^>]*>(.*?)</p>',seg)
+    txt='\n\n'.join(ps) if len(ps)>=3 else seg
+    txt=_html.unescape(re.sub(r'(?s)<[^>]+>',' ',txt))
+    return re.sub(r'\s+',' ',txt).strip()
+
+def cache_entry(x):
+    CACHE.mkdir(parents=True,exist_ok=True)
+    f=CACHE/f"{x['id']}.json"
+    if f.exists():
+        try: c=json.loads(f.read_text())
+        except Exception: c=None
+        if c and c.get('url')==x.get('url'):
+            if c.get('status') in ('ok','thin'): return c,True
+            try: age=(dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(c.get('fetched_at',''))).total_seconds()
+            except Exception: age=1e9
+            if c.get('status')=='error' and age<86400: return c,True
+    return None,False
+
+def save_entry(x,status,text,note=''):
+    (CACHE/f"{x['id']}.json").write_text(json.dumps({'url':x.get('url'),'fetched_at':dt.datetime.now(dt.timezone.utc).isoformat(),'status':status,'note':note,'text':text[:MAX_TEXT]},ensure_ascii=False))
+
+def enrich_sources(xs):
+    stats={'cache_hit':0,'fetched_ok':0,'fetched_thin':0,'fetch_error':0,'budget_skipped':0}
+    start=time.monotonic(); fetches=0
+    for x in xs:
+        url=x.get('url','')
+        if not url.startswith('http'): SOURCES[x['id']]={}; stats['fetch_error']+=1; continue
+        c,cached=cache_entry(x)
+        if cached: SOURCES[x['id']]=c; stats['cache_hit']+=1; continue
+        if fetches>=MAX_FETCHES or time.monotonic()-start>FETCH_BUDGET_S:
+            SOURCES[x['id']]={}; stats['budget_skipped']+=1; continue
+        fetches+=1; time.sleep(FETCH_DELAY_S)
+        body,err=None,None
+        for attempt in (1,2):
+            try: body,err=fetch_url(url)
+            except Exception as e: body,err=None,str(e)[:160]
+            if body: break
+            time.sleep(FETCH_DELAY_S)
+        if not body:
+            save_entry(x,'error','',err or 'fetch failed'); SOURCES[x['id']]={'status':'error'}; stats['fetch_error']+=1; continue
+        text=html_to_text(body)
+        if len(text)<400:
+            save_entry(x,'thin',text,'extracted text under 400 chars'); SOURCES[x['id']]={'status':'thin','text':text}; stats['fetched_thin']+=1
+        else:
+            save_entry(x,'ok',text); SOURCES[x['id']]={'status':'ok','text':text}; stats['fetched_ok']+=1
+    print('Source fetch: '+', '.join(f'{k}={v}' for k,v in stats.items()))
+
+def sentences_of(text):
+    return [s.strip() for s in re.split(r'(?<=[.!?])\s+(?=[A-Z0-9"“\'])',text) if s.strip()]
+
+def words_of(s): return re.findall(r"[a-zA-Z][a-zA-Z\-']+",s)
+
+def summarize_article(text,title):
+    cand=[]
+    for i,s in enumerate(sentences_of(text)):
+        s=re.sub(r'\s+',' ',s).strip(); w=words_of(s)
+        if not (8<=len(w)<=55) or JUNK.search(s) or s.isupper(): continue
+        cand.append((i,s))
+    if len(cand)<3: return None
+    freq=Counter(w for w in (w.lower() for w in words_of(text)) if w not in STOPWORDS and len(w)>3)
+    if not freq: return None
+    maxf=max(freq.values()); twords={w.lower() for w in words_of(title)}-STOPWORDS
+    scored=[]
+    for i,s in cand:
+        ws=[w.lower() for w in words_of(s)]
+        sc=sum(freq.get(w,0)/maxf for w in ws)/len(ws)+0.6/(1+i*0.15)+0.25*len(twords&set(ws))/max(1,len(twords) or 1)
+        scored.append((sc,i,s))
+    early=[x for x in scored if x[1]<12] or scored
+    prose_pick=sorted(sorted(early,key=lambda x:-x[0])[:3],key=lambda x:x[1])
+    used={i for _,i,_ in prose_pick}
+    hl=[]; seen=[]
+    for sc,i,s in sorted((x for x in scored if x[1] not in used),key=lambda x:-x[0]):
+        key={w.lower() for w in words_of(s)}-STOPWORDS
+        if any(len(key&k)/max(1,len(key|k))>0.6 for k in seen): continue
+        seen.append(key); hl.append((i,s))
+        if len(hl)>=8: break
+    def trim(s):
+        return (s[:237].rsplit(' ',1)[0]+'…') if len(s)>240 else s
+    prose=[trim(s) for _,_,s in prose_pick]
+    highlights=[trim(s) for _,s in sorted(hl)] if len(hl)>=3 else []
+    return {'prose':prose,'highlights':highlights}
+
+def rich_summary(x):
+    e=SOURCES.get(x.get('id')) or {}
+    base=esc(x.get('summary'))
+    base=re.sub(r'^TLDR AI selected this story in its latest issue:\s*','',base)
+    base=base+' ' if base else ''
+    text=(base+(e.get('text','') if e.get('status') in ('ok','thin') else '')).strip()
+    if len(text)<200: return None
+    return summarize_article(text[:MAX_TEXT],x.get('title',''))
+
 def esc(text): return re.sub(r'\s+',' ',str(text or '')).strip()
 
 def md_label(text):
@@ -56,7 +170,10 @@ def load_stories():
     return xs,stamp
 
 def story_summary(x):
+    r=RICH.get(x.get('id'))
+    if r and r['prose']: return r['prose'][0]
     desc=esc(x.get('summary')); title=esc(x.get('title'))
+    desc=re.sub(r'^TLDR AI selected this story in its latest issue:\s*','',desc)
     if desc and desc.lower()!=title.lower() and len(desc)>35:
         desc=re.sub(r'^(?:[A-Z][^:]{1,60} / [^:]{1,60} :\s*)', '', desc)
         sentences=re.split(r'(?<=[.!?])\s+',desc)
@@ -89,7 +206,13 @@ def build_summaries(xs,stamp):
         meta=metadata('news-summary',fmt_date(x.get('first_seen')),fmt_date(stamp),'high',tags)
         source=f'[Read the original story]({x["url"]})'
         if x.get('newsletter_url'): source+=f' · [TLDR AI issue]({x["newsletter_url"]})'
-        text=f'# {x["title"]}\n\n{meta}\n\n## Summary\n\n{story_summary(x)}\n\n## Source\n\n{source}\n\n## Related pages\n\n'+((' · '.join(related_links)) if related_links else '_No related entity or concept page yet._')+'\n'
+        r=rich_summary(x); RICH[x['id']]=r
+        if r:
+            prose=' '.join(r['prose'][:2])+('\n\n'+' '.join(r['prose'][2:]) if len(r['prose'])>2 else '')
+            hl='\n\n## Highlights\n\n'+'\n'.join(f'- {h}' for h in r['highlights']) if r['highlights'] else ''
+            summary_sec=prose+hl
+        else: summary_sec=story_summary(x)
+        text=f'# {x["title"]}\n\n{meta}\n\n## Summary\n\n{summary_sec}\n\n## Source\n\n{source}\n\n## Related pages\n\n'+((' · '.join(related_links)) if related_links else '_No related entity or concept page yet._')+'\n'
         (out/f'{x["id"]}.md').write_text(text)
     for p in out.glob('*.md'):
         if p.name not in valid: p.unlink()
@@ -179,6 +302,6 @@ def update_index(stamp,xs):
     (WIKI/'index.md').write_text('\n'.join(lines)+'\n')
 
 def main():
-    xs,stamp=load_stories(); build_summaries(xs,stamp); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
+    xs,stamp=load_stories(); enrich_sources(xs); build_summaries(xs,stamp); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()
