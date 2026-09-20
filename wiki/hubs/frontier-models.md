@@ -2,9 +2,8 @@
 
 Launches, entities and lab comparisons.
 
-## Explorar
+## Explore
 
-- [Comparison · OpenAI vs Anthropic](../comparisons/openai-vs-anthropic.md)
-- [Topic · Models](../topics/modelos.md)
-- [Entity · OpenAI](../entities/openai.md)
-- [Entity · Anthropic](../entities/anthropic.md)
+- [Openai Vs Anthropic](../comparisons/openai-vs-anthropic.md)
+- [Openai](../entities/openai.md)
+- [Anthropic](../entities/anthropic.md)

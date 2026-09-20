@@ -2,9 +2,8 @@
 
 Entry point to systems that act, specialist models and observability.
 
-## Explorar
+## Explore
 
-- [Concept · Agentic systems](../concepts/agentic-systems.md)
-- [Concept · Small and specialist models](../concepts/small-specialist-models.md)
-- [Comparison · Generalists vs specialists](../comparisons/generalistas-vs-especialistas.md)
-- [Topic · Agents](../topics/agentes.md)
+- [Agentic Systems](../concepts/agentic-systems.md)
+- [Small Specialist Models](../concepts/small-specialist-models.md)
+- [Generalistas Vs Especialistas](../comparisons/generalistas-vs-especialistas.md)

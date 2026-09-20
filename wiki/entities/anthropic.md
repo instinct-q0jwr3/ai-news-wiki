@@ -1,14 +1,25 @@
 # Anthropic
 
-## 2026-09-19
+_type: organization · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
 
-- Claude Fable/Mythos 5.1: new SOTA; cache 75% cheaper, 70% more output tokens. [Latent.Space](https://www.latent.space/p/ainews-claude-fablemythos-51-new)
-- Weighs a new model to answer OpenAI's Astra momentum, ahead of its IPO and after Amodei's slowdown call. [Techmeme/Reuters](https://www.techmeme.com/260918/p38#a260918p38)
-- Claude Code supports AGENTS.md (spec contributed by OpenAI to the Agentic AI Foundation). [Techmeme/The Register](https://www.techmeme.com/260918/p39#a260918p39) and reads it when no Claude.md exists. [changelog](https://code.claude.com/docs/en/changelog)
-- Misalignment incidents cited in the METR/Redwood/Apollo profile. [Techmeme/The Verge](https://www.techmeme.com/260919/p5#a260919p5)
-- Sued over the alleged slowdown pact. [AP](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b)
-- Co-signs AEF-1. [Latent.Space](https://www.latent.space/p/ainews-aef-1-standard-emerges-for)
+`entity` `anthropic` `agentic-systems` `ai-safety-incidents` `external-evaluation` `small-specialist-models`
 
-## 2026-09-20
+## Overview
 
-- Partners with Accenture on "Embedded Evaluation". [anthropic.com](https://www.anthropic.com/news/accenture-embedded-evaluation)
+Anthropic develops the Claude model family and related coding and agent products. This page tracks its research, releases, enterprise strategy, evaluations and safety work.
+
+## Timeline
+
+- **2026-09-20** - TLDR AI selected this story in its latest issue: Anthropic says its AI now does a quarter of its research work. ([Anthropic says its AI now does a quarter of its research work](../summaries/af03609b121c.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-20** - TLDR AI selected this story in its latest issue: How Claude is uplifting biomolecular modeling. ([How Claude is uplifting biomolecular modeling](../summaries/75c9d225c4fa.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-20** - TLDR AI selected this story in its latest issue: The Awesome and Alarming AI Visions of Anthropic's CEO. ([The Awesome and Alarming AI Visions of Anthropic's CEO](../summaries/0f0cce0f2b25.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-20** - Orchestrating Claude Code Agents: The Chief of Staff Pattern. Hacker News selected it as an AI-relevant development. ([Orchestrating Claude Code Agents: The Chief of Staff Pattern](../summaries/56af24d3aa19.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-19** - Claude Code now reads AGENTS.md if there is no Claude.md. Hacker News selected it as an AI-relevant development. ([Claude Code now reads AGENTS.md if there is no Claude.md](../summaries/7471c7d5ef4e.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-19** - Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown. Hacker News selected it as an AI-relevant development. ([Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown](../summaries/3d2dfa680256.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-19** - Since the rise of AI coding assistants, about 80% of the dev candidates that I interview tell me that they aren't writing much code themselves anymore - they are directing agents instead. This makes me deeply uncomfortable (although maybe I'm just being… ([Ask HN: How do you interview devs in a post-AI world?](../summaries/9713626aa1b9.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-19** - [AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign. Latent.Space selected it as an AI-relevant development. ([AINews AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign](../summaries/db8f162a8ee3.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-09-19** - Queue the usual rush of model launches... ([AINews Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens](../summaries/7b173231776d.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-19** - Hello HN! We're Dillon and Francesco from Cua. ([Show HN: CUA-S1 – A System One Model for Computer Use](../summaries/f56f05e1a7fb.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))
+- **2026-09-19** - A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight — On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on… ([A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)](../summaries/af733b586e97.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
+- **2026-09-19** - Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year — Devs cheer relief from compatibility headache — Anthropic on Friday surprised the developer community by… ([Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year (Thomas Claburn/The Register)](../summaries/d2dc3484409d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-19** - Reuters : Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown — Anthropic is considering rolling out a new AI model to counter OpenAI's momentum… ([Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)](../summaries/60591d45c0e8.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))

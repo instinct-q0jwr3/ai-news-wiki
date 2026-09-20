@@ -1,152 +1,184 @@
 #!/usr/bin/env python3
-"""Refresh the machine-maintained evidence layer of the LLM-owned derived wiki."""
+"""Regenerate story summaries and contextual, cross-linked wiki pages."""
 from __future__ import annotations
 import datetime as dt, json, re
-from collections import Counter
+from collections import Counter, defaultdict
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
-WIKI=ROOT/'wiki'; RAW=ROOT/'raw'/'snapshots'
-BEGIN='<!-- AUTO:EVIDENCE -->'; END='<!-- /AUTO:EVIDENCE -->'
 
+ROOT=Path(__file__).resolve().parents[1]; WIKI=ROOT/'wiki'; RAW=ROOT/'raw'/'snapshots'
+
+ENTITY_DEFS={
+ 'openai':('OpenAI','organization',['openai','chatgpt','gpt-','codex','sora'],'OpenAI develops frontier AI models and products, including the GPT, ChatGPT and Codex families. This page follows its model releases, agent products, partnerships, business moves, evaluations and safety record.'),
+ 'anthropic':('Anthropic','organization',['anthropic','claude'],'Anthropic develops the Claude model family and related coding and agent products. This page tracks its research, releases, enterprise strategy, evaluations and safety work.'),
+ 'google':('Google','organization',['google','gemini','deepmind'],'Google builds AI across Google DeepMind, Gemini and its consumer and cloud products. This page connects model research, product launches, infrastructure and policy developments.'),
+ 'microsoft':('Microsoft','organization',['microsoft','copilot','azure'],'Microsoft develops and distributes AI through Azure, Copilot, research and major model partnerships. This page follows product, infrastructure, investment and governance developments.'),
+ 'meta':('Meta','organization',['meta','llama'],'Meta develops open-weight Llama models and deploys AI across its social products. This page follows releases, infrastructure, research, business strategy and governance.'),
+ 'apple':('Apple','organization',['apple','siri'],'Apple integrates AI into devices and services, with an emphasis on on-device processing and privacy. This page follows model work, product changes, partnerships and deployment constraints.'),
+ 'alibaba':('Alibaba','organization',['alibaba','qwen'],'Alibaba develops the Qwen model family and AI cloud services. This page follows model releases, agent capabilities, open-weight strategy and commercial deployment.'),
+ 'hugging-face':('Hugging Face','organization',['hugging face','huggingface'],'Hugging Face operates a major platform for models, datasets and open AI tooling. This page follows releases, research, community infrastructure and open-source policy.'),
+}
 CONCEPTS={
- 'agentic-systems': ('Agentic systems', ['agent','agentic','tool call','computer use','claude code','agents.md']),
- 'external-evaluation': ('External AI evaluation', ['evaluat','metr','redwood','apollo','aef-1','benchmark']),
- 'small-specialist-models': ('Small and specialist models', ['small model','local-llm','local llm','needle','system one','cua-s1','edge','on-device']),
- 'ai-safety-incidents': ('AI safety incidents and controls', ['safety','security','hack','misalign','kill-switch','hallucin','collusion','guardrail']),
+ 'agentic-systems':('Agentic systems',['agent','agentic','tool call','computer use','claude code','agents.md'],'Systems that plan or act through tools. This page tracks architecture, control, observability and adoption.'),
+ 'external-evaluation':('External AI evaluation',['evaluat','metr','redwood','apollo','aef-1','benchmark'],'Methods used by third parties, standards groups and labs to measure model capability, reliability and risk.'),
+ 'small-specialist-models':('Small and specialist models',['small model','local-llm','local llm','needle','system one','cua-s1','edge','on-device'],'Narrow or compact models trade breadth for lower cost, latency, privacy or local control.'),
+ 'ai-safety-incidents':('AI safety incidents and controls',['safety','security','hack','misalign','kill-switch','hallucin','collusion','guardrail'],'A connected record of reported failures, attacks and control proposals. A reported incident does not by itself establish a general risk.'),
 }
 COMPARISONS={
- 'openai-vs-anthropic': ('OpenAI vs Anthropic', ['openai','gpt-6','astra'], ['anthropic','claude','fable','mythos']),
- 'generalistas-vs-especialistas': ('Generalist vs specialist models', ['gpt','claude','gemini','foundation model'], ['needle','cua-s1','small model','specialist','local-llm']),
- 'agentes-abiertos-vs-cerrados': ('Open agents vs closed platforms', ['open source','github','local','agents.md'], ['openai','anthropic','salesforce','meta']),
+ 'openai-vs-anthropic':('OpenAI vs Anthropic',['openai','gpt-','chatgpt','codex'],['anthropic','claude'],'A running comparison of launches, pricing, business, evaluation and safety. It preserves evidence from both sides rather than declaring a winner.'),
+ 'generalistas-vs-especialistas':('Generalist vs specialist models',['gpt','claude','gemini','foundation model'],['needle','cua-s1','small model','specialist','local-llm'],'Generalist models maximize breadth and reasoning; specialists optimize cost, latency or a narrow and verifiable action surface.'),
+ 'agentes-abiertos-vs-cerrados':('Open agents vs closed platforms',['open source','github','local','agents.md'],['openai','anthropic','salesforce','meta'],'This comparison connects the control and auditability of open agents with the integration and capability of hosted platforms.'),
 }
 
-def stories():
-    snapshots=[]
+def esc(text): return re.sub(r'\s+',' ',str(text or '')).strip()
+
+def md_label(text):
+    return esc(text).replace('[','').replace(']','')
+def corpus_text(x): return (x.get('title','')+' '+x.get('summary','')).lower()
+def match(xs,terms): return [x for x in xs if any(t in corpus_text(x) for t in terms)]
+def fmt_date(value): return (value or '')[:10] or dt.date.today().isoformat()
+def metadata(kind,created,updated,confidence='medium',tags=()):
+    tag_line=' '.join(f'`{t}`' for t in tags)
+    return f'_type: {kind} · created: {created} · updated: {updated} · confidence: {confidence}_\n\n{tag_line}'.rstrip()
+
+def load_stories():
+    rows={}
     for p in sorted(RAW.glob('*.json')):
-        data=json.loads(p.read_text()); snapshots.append(data)
-    stamp=max((x.get('generated_at','') for x in snapshots), default='')
-    latest_date=dt.date.fromisoformat(stamp[:10]) if stamp else dt.date.today()
-    latest_week=latest_date.isocalendar()[:2]
-    def unique(selected):
-        seen={}
-        for data in selected:
-            for x in data.get('items',[]):
-                key=x.get('id') or re.sub(r'\W+',' ',x.get('title','').lower()).strip()
-                old=seen.get(key)
-                if old is None or x.get('score',0)>old.get('score',0): seen[key]=x
-        return list(seen.values())
-    weekly=[x for x in snapshots if x.get('generated_at') and dt.date.fromisoformat(x['generated_at'][:10]).isocalendar()[:2]==latest_week]
-    return unique(snapshots), unique(weekly), stamp
+        data=json.loads(p.read_text()); seen_at=data.get('generated_at','')
+        for raw in data.get('items',[]):
+            x=dict(raw); key=x.get('id') or re.sub(r'\W+',' ',x.get('title','').lower()).strip()
+            if key not in rows:
+                x['first_seen']=seen_at; x['last_seen']=seen_at; rows[key]=x
+            else:
+                old=rows[key]; old['last_seen']=max(old.get('last_seen',''),seen_at)
+                if len(esc(x.get('summary'))) > len(esc(old.get('summary'))): old['summary']=x['summary']
+                if x.get('score',0)>old.get('score',0): old['score']=x['score']; old['comments']=x.get('comments',0)
+    xs=list(rows.values()); stamp=max((x.get('last_seen','') for x in xs),default='')
+    return xs,stamp
 
-def match(xs, terms):
-    return [x for x in xs if any(t in (x.get('title','')+' '+x.get('summary','')).lower() for t in terms)]
+def story_summary(x):
+    desc=esc(x.get('summary')); title=esc(x.get('title'))
+    if desc and desc.lower()!=title.lower() and len(desc)>35:
+        desc=re.sub(r'^(?:[A-Z][^:]{1,60} / [^:]{1,60} :\s*)', '', desc)
+        sentences=re.split(r'(?<=[.!?])\s+',desc)
+        picked=' '.join(sentences[:2]).strip()
+        if len(picked)>520: picked=picked[:517].rsplit(' ',1)[0]+'…'
+        return picked if picked.endswith(('.', '!', '?', '…')) else picked+'.'
+    return f'{title}. {x.get("source","The source feed")} selected it as an AI-relevant development.'
 
-def bullet(x):
-    meta=f" · {x.get('source','Fuente')}"
-    if x.get('score'): meta+=f" · {x['score']} HN points"
-    return f"- [{x['title']}]({x['url']}){meta}"
+def related(x):
+    e=[slug for slug,(_,_,terms,_) in ENTITY_DEFS.items() if any(t in corpus_text(x) for t in terms)]
+    c=[slug for slug,(_,terms,_) in CONCEPTS.items() if any(t in corpus_text(x) for t in terms)]
+    return e,c
 
-def replace_block(path, title, intro, lines):
-    path.parent.mkdir(parents=True,exist_ok=True)
-    block='\n'.join([BEGIN,'## Living evidence','']+lines+['',END])
-    if path.exists():
-        text=path.read_text()
-        if BEGIN in text and END in text:
-            text=re.sub(re.escape(BEGIN)+r'.*?'+re.escape(END),block,text,flags=re.S)
-        else: text=text.rstrip()+'\n\n'+block+'\n'
-    else: text=f"# {title}\n\n{intro}\n\n{block}\n"
-    path.write_text(text)
+def story_link(x,base='..'): return f'[{md_label(x["title"])}]({base}/summaries/{x["id"]}.md)'
+def entity_link(slug,base='..'): return f'[{ENTITY_DEFS[slug][0]}]({base}/entities/{slug}.md)'
+def concept_link(slug,base='..'): return f'[{CONCEPTS[slug][0]}]({base}/concepts/{slug}.md)'
 
-def ensure_curated():
-    seeds={
-      'agentic-systems': 'Systems that plan or act through tools. This page tracks their architecture, control, observability and adoption.',
-      'external-evaluation': 'How third parties, standards and embedded evaluations try to measure capabilities and risks of advanced models.',
-      'small-specialist-models': 'Narrow models that trade general capability for cost, latency and local control.',
-      'ai-safety-incidents': 'An interpreted record of failures, attacks and control proposals. A reported incident does not by itself prove a general risk.',
-    }
-    return seeds
+def event_line(x,base='..'):
+    ents,concepts=related(x); links=[story_link(x,base)]+[entity_link(s,base) for s in ents]+[concept_link(s,base) for s in concepts]
+    summary=story_summary(x)
+    if len(summary)>260: summary=summary[:257].rsplit(' ',1)[0]+'…'
+    return f'- **{fmt_date(x.get("first_seen"))}** - {summary} ('+' · '.join(links)+')'
 
-def build_concepts(xs, stamp):
-    for slug,(title,terms) in CONCEPTS.items():
-        hits=sorted(match(xs,terms),key=lambda x:x.get('score',0),reverse=True)[:14]
-        lines=[f"_Automatic update: `{stamp or 'no stamp'}` · {len(hits)} selected signals._",'']+[bullet(x) for x in hits]
-        replace_block(WIKI/'concepts'/f'{slug}.md',f'Concept: {title}',ensure_curated()[slug],lines)
+def build_summaries(xs,stamp):
+    out=WIKI/'summaries'; out.mkdir(exist_ok=True)
+    valid=set()
+    for x in xs:
+        valid.add(f'{x["id"]}.md'); ents,concepts=related(x); tags=[x.get('source','source').lower().replace(' ','-')]+ents+concepts
+        related_links=[entity_link(s) for s in ents]+[concept_link(s) for s in concepts]
+        meta=metadata('news-summary',fmt_date(x.get('first_seen')),fmt_date(stamp),'high',tags)
+        source=f'[Read the original story]({x["url"]})'
+        if x.get('newsletter_url'): source+=f' · [TLDR AI issue]({x["newsletter_url"]})'
+        text=f'# {x["title"]}\n\n{meta}\n\n## Summary\n\n{story_summary(x)}\n\n## Source\n\n{source}\n\n## Related pages\n\n'+((' · '.join(related_links)) if related_links else '_No related entity or concept page yet._')+'\n'
+        (out/f'{x["id"]}.md').write_text(text)
+    for p in out.glob('*.md'):
+        if p.name not in valid: p.unlink()
 
-def build_comparisons(xs, stamp):
-    intros={
-      'openai-vs-anthropic': 'Running comparison of launches, pricing, business, evaluation and safety. Not a leaderboard: it keeps the evidence and separates announcements from independent results.',
-      'generalistas-vs-especialistas': 'Generalists maximize breadth and reasoning; specialists aim for lower cost, latency and a verifiable action surface.',
-      'agentes-abiertos-vs-cerrados': 'Contrasts local control and auditability with the integration and capability of hosted platforms.',
-    }
-    for slug,(title,a,b) in COMPARISONS.items():
-        left=sorted(match(xs,a),key=lambda x:x.get('score',0),reverse=True)[:8]
-        right=sorted(match(xs,b),key=lambda x:x.get('score',0),reverse=True)[:8]
-        lines=[f"_Automatic update: `{stamp or 'no stamp'}`._",'',f"### Signals: {title.split(' vs ')[0]}",'']+[bullet(x) for x in left]+['',f"### Signals: {title.split(' vs ')[-1]}",'']+[bullet(x) for x in right]
-        replace_block(WIKI/'comparisons'/f'{slug}.md',f'Comparison: {title}',intros[slug],lines)
+def build_entities(xs,stamp):
+    out=WIKI/'entities'; out.mkdir(exist_ok=True)
+    for slug,(name,kind,terms,overview) in ENTITY_DEFS.items():
+        hits=sorted(match(xs,terms),key=lambda x:(x.get('first_seen',''),x.get('score',0)),reverse=True)
+        tags=['entity',slug]+sorted({c for x in hits for c in related(x)[1]})[:4]
+        created=min((fmt_date(x.get('first_seen')) for x in hits),default=fmt_date(stamp))
+        lines='\n'.join(event_line(x) for x in hits) or '_No matching events in the current corpus._'
+        (out/f'{slug}.md').write_text(f'# {name}\n\n{metadata(kind,created,fmt_date(stamp),"medium",tags)}\n\n## Overview\n\n{overview}\n\n## Timeline\n\n{lines}\n')
 
-def build_weekly(xs, stamp):
-    day=(stamp[:10] if stamp else dt.date.today().isoformat()); date=dt.date.fromisoformat(day); iso=date.isocalendar(); slug=f'{iso.year}-W{iso.week:02d}'
-    cats={title:match(xs,terms) for title,terms in CONCEPTS.values()}
-    source_counts=Counter(x.get('source','?') for x in xs)
-    top=sorted(xs,key=lambda x:x.get('score',0),reverse=True)[:8]
-    lines=[f'# Weekly synthesis · {slug}','',f'_Data cut: `{stamp}` · {len(xs)} unique stories._','',
-      '## Executive read','',
-      'The week is dominated by the shift from chat to systems that act, while evaluation and safety turn into infrastructure. In parallel, small specialist models emerge as a cost-and-control alternative to frontier models.','',
-      '## Signals by axis','']
-    for title,hits in cats.items():
-        lines.append(f"- **{title}:** {len(hits)} related stories.")
-    lines += ['', '## Most discussed on Hacker News','']+[bullet(x) for x in top]
-    lines += ['', '## Coverage by source','']+[f"- {k}: {v}" for k,v in source_counts.most_common()]
-    lines += ['', '## What to watch','',
-      '- Whether external-evaluation standards move from announcements to published, comparable results.',
-      '- Whether specialist models keep their edge outside narrow tasks.',
-      '- Whether agent observability consolidates as its own infrastructure category.','']
-    (WIKI/'weekly').mkdir(exist_ok=True); (WIKI/'weekly'/f'{slug}.md').write_text('\n'.join(lines))
+def build_concepts(xs,stamp):
+    out=WIKI/'concepts'; out.mkdir(exist_ok=True)
+    for slug,(title,terms,overview) in CONCEPTS.items():
+        hits=sorted(match(xs,terms),key=lambda x:(x.get('first_seen',''),x.get('score',0)),reverse=True)
+        entities=Counter(e for x in hits for e in related(x)[0])
+        links=' · '.join(entity_link(e) for e,_ in entities.most_common(8)) or '_No linked entities yet._'
+        timeline='\n'.join(event_line(x) for x in hits[:30]) or '_No matching events in the current corpus._'
+        created=min((fmt_date(x.get('first_seen')) for x in hits),default=fmt_date(stamp))
+        (out/f'{slug}.md').write_text(f'# Concept: {title}\n\n{metadata("concept",created,fmt_date(stamp),"medium",["concept",slug])}\n\n## Overview\n\n{overview}\n\n## Related entities\n\n{links}\n\n## Timeline\n\n{timeline}\n')
+
+def build_comparisons(xs,stamp):
+    out=WIKI/'comparisons'; out.mkdir(exist_ok=True)
+    for slug,(title,a,b,overview) in COMPARISONS.items():
+        left=sorted(match(xs,a),key=lambda x:(x.get('first_seen',''),x.get('score',0)),reverse=True)[:20]
+        right=sorted(match(xs,b),key=lambda x:(x.get('first_seen',''),x.get('score',0)),reverse=True)[:20]
+        all_hits={x['id']:x for x in left+right}.values(); created=min((fmt_date(x.get('first_seen')) for x in all_hits),default=fmt_date(stamp))
+        l='\n'.join(event_line(x) for x in left) or '_No current signals._'; r='\n'.join(event_line(x) for x in right) or '_No current signals._'
+        ltitle,rtitle=(title.split(' vs ',1)+['Evidence B'])[:2]
+        (out/f'{slug}.md').write_text(f'# Comparison: {title}\n\n{metadata("comparison",created,fmt_date(stamp),"medium",["comparison",slug])}\n\n## Overview\n\n{overview}\n\n## {ltitle}\n\n{l}\n\n## {rtitle}\n\n{r}\n')
+
+def prose_links(items,limit=4):
+    chosen=sorted(items,key=lambda x:(x.get('source')!='Hacker News', x.get('score',0)),reverse=True)[:limit]
+    if not chosen: return 'The current corpus has no matching story for this theme.'
+    parts=[]
+    for x in chosen:
+        ents,concepts=related(x)
+        refs=[story_link(x)]+[entity_link(e) for e in ents[:2]]+[concept_link(c) for c in concepts[:1]]
+        parts.append(story_summary(x)[:280].rstrip(' .')+' ('+' · '.join(refs)+').')
+    midpoint=max(1,(len(parts)+1)//2)
+    return ' '.join(parts[:midpoint])+'\n\n'+' '.join(parts[midpoint:]) if len(parts)>1 else parts[0]
+
+def build_weekly(xs,stamp):
+    date=dt.date.fromisoformat(fmt_date(stamp)); iso=date.isocalendar(); slug=f'{iso.year}-W{iso.week:02d}'
+    week=[x for x in xs if dt.date.fromisoformat(fmt_date(x.get('first_seen'))).isocalendar()[:2]==iso[:2]]
+    themes=[]
+    for concept_slug,(label,terms,_) in CONCEPTS.items():
+        hits=sorted(match(week,terms),key=lambda x:x.get('score',0),reverse=True)
+        if hits: themes.append((len(hits),concept_slug,label,hits))
+    themes.sort(reverse=True)
+    headline_labels=[label.replace('AI ','').replace(' and controls','').replace('External ','').replace('Small and specialist models','Small Models').replace('Agentic systems','Agentic Systems').replace('safety incidents','Safety Debates') for _,_,label,_ in themes[:3]]
+    headline=', '.join(headline_labels[:-1])+(' and '+headline_labels[-1] if len(headline_labels)>1 else (headline_labels[0] if headline_labels else 'AI Developments'))
+    title=f'Week {slug}: {headline}'
+    sections=[]
+    for _,concept_slug,label,hits in themes[:3]:
+        entity_counts=Counter(e for x in hits for e in related(x)[0])
+        entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
+        opening=f'This theme connects {len(hits)} developments around [{label}](../concepts/{concept_slug}.md).'
+        if entity_refs: opening+=f' The most visible related entities are {entity_refs}.'
+        sections += [f'## {label}','',opening+' '+prose_links(hits),'']
+    safety=next((hits for _,slug_name,_,hits in themes if slug_name=='ai-safety-incidents'),[])
+    agents=next((hits for _,slug_name,_,hits in themes if slug_name=='agentic-systems'),[])
+    specialist=next((hits for _,slug_name,_,hits in themes if slug_name=='small-specialist-models'),[])
+    tensions=[]
+    if agents and safety: tensions.append('Faster agent deployment raises a control question: how much autonomy should systems receive before evaluation and observability catch up? ([Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))')
+    if specialist and agents: tensions.append('General-purpose capability competes with smaller specialist systems on cost, latency and auditability. ([Generalist vs specialist models](../comparisons/generalistas-vs-especialistas.md) · [Small and specialist models](../concepts/small-specialist-models.md))')
+    if match(week,['openai']) and match(week,['anthropic']): tensions.append('OpenAI and Anthropic continue to diverge and converge across products, enterprise positioning, evaluation and safety claims. ([OpenAI vs Anthropic](../comparisons/openai-vs-anthropic.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))')
+    counts=Counter(x.get('source','?') for x in week)
+    body=[f'# {title}','',metadata('synthesis',fmt_date(stamp),fmt_date(stamp),'medium',['synthesis',slug.lower()]),'',f'Synthesis of {len(week)} unique stories first observed in {slug}. Each inline story link opens a generated summary with its original source.','']+sections+['## Tensions and open debates','']+([f'- {x}' for x in tensions] or ['- The corpus is still too small to identify a grounded tension this week.'])+['','## Coverage appendix','']+[f'- {k}: {v}' for k,v in counts.most_common()]
+    (WIKI/'weekly').mkdir(exist_ok=True); (WIKI/'weekly'/f'{slug}.md').write_text('\n'.join(body)+'\n')
 
 def build_hubs():
-    hubs={
-      'agentic-ai': ('Agentic AI','Entry point to systems that act, specialist models and observability.',[
-        ('Concept · Agentic systems','../concepts/agentic-systems.md'),('Concept · Small and specialist models','../concepts/small-specialist-models.md'),('Comparison · Generalists vs specialists','../comparisons/generalistas-vs-especialistas.md'),('Topic · Agents','../topics/agentes.md')]),
-      'safety-governance': ('Safety and governance','Evaluation, incidents, regulation and controls in one route.',[
-        ('Concept · External evaluation','../concepts/external-evaluation.md'),('Concept · Incidents and controls','../concepts/ai-safety-incidents.md'),('Topic · Safety and alignment','../topics/seguridad-y-alineacion.md'),('Topic · Regulation and policy','../topics/regulacion-y-politica.md')]),
-      'frontier-models': ('Frontier models','Launches, entities and lab comparisons.',[
-        ('Comparison · OpenAI vs Anthropic','../comparisons/openai-vs-anthropic.md'),('Topic · Models','../topics/modelos.md'),('Entity · OpenAI','../entities/openai.md'),('Entity · Anthropic','../entities/anthropic.md')])}
-    d=WIKI/'hubs'; d.mkdir(exist_ok=True)
+    hubs={'agentic-ai':('Agentic AI','Entry point to systems that act, specialist models and observability.',['../concepts/agentic-systems.md','../concepts/small-specialist-models.md','../comparisons/generalistas-vs-especialistas.md']), 'safety-governance':('Safety and governance','Evaluation, incidents and controls in one route.',['../concepts/external-evaluation.md','../concepts/ai-safety-incidents.md']), 'frontier-models':('Frontier models','Launches, entities and lab comparisons.',['../comparisons/openai-vs-anthropic.md','../entities/openai.md','../entities/anthropic.md'])}
+    out=WIKI/'hubs'; out.mkdir(exist_ok=True)
     for slug,(title,desc,links) in hubs.items():
-        (d/f'{slug}.md').write_text('\n'.join([f'# Hub: {title}','',desc,'','## Explorar','']+[f'- [{n}]({u})' for n,u in links]+['']))
+        labels=[Path(u).stem.replace('-',' ').title() for u in links]
+        (out/f'{slug}.md').write_text(f'# Hub: {title}\n\n{desc}\n\n## Explore\n\n'+'\n'.join(f'- [{n}]({u})' for n,u in zip(labels,links))+'\n')
 
-def update_index(stamp):
-    path=WIKI/'index.md'; text=path.read_text() if path.exists() else '# AI News Wiki\n'
-    d=dt.date.fromisoformat(stamp[:10]) if stamp else dt.date.today(); iso=d.isocalendar(); week=f'{iso.year}-W{iso.week:02d}'
-    auto=f'''<!-- AUTO:NAV -->
-## Hubs
-
-- [Agentic AI](hubs/agentic-ai.md)
-- [Safety and governance](hubs/safety-governance.md)
-- [Frontier models](hubs/frontier-models.md)
-
-## Concepts
-
-- [Agentic systems](concepts/agentic-systems.md)
-- [External AI evaluation](concepts/external-evaluation.md)
-- [Small and specialist models](concepts/small-specialist-models.md)
-- [AI safety incidents and controls](concepts/ai-safety-incidents.md)
-
-## Comparisons
-
-- [OpenAI vs Anthropic](comparisons/openai-vs-anthropic.md)
-- [Generalist vs specialist models](comparisons/generalistas-vs-especialistas.md)
-- [Open agents vs closed platforms](comparisons/agentes-abiertos-vs-cerrados.md)
-
-## Weekly synthesis
-
-- [Current week](weekly/{week}.md)
-<!-- /AUTO:NAV -->'''
-    if '<!-- AUTO:NAV -->' in text: text=re.sub(r'<!-- AUTO:NAV -->.*?<!-- /AUTO:NAV -->',auto,text,flags=re.S)
-    else: text=text.rstrip()+'\n\n'+auto+'\n'
-    path.write_text(text)
+def update_index(stamp,xs):
+    days=sorted((WIKI/'daily').glob('*.md'),reverse=True)
+    summaries=sorted((WIKI/'summaries').glob('*.md'))
+    date=dt.date.fromisoformat(fmt_date(stamp)); iso=date.isocalendar(); week=f'{iso.year}-W{iso.week:02d}'
+    summary_target=summaries[0].name if summaries else ''
+    lines=['# AI News Wiki','','A cumulative, cross-linked map of AI news. Every story has its own summary and original source.','',f'_Updated: `{stamp}` · {len(xs)} unique stories._','','## Explore','', '- [Entities](entities/openai.md)','- [Concepts](concepts/agentic-systems.md)','- [Comparisons](comparisons/openai-vs-anthropic.md)',f'- [Story summaries](summaries/{summary_target})',f'- [Weekly synthesis](weekly/{week}.md)','- [Hubs](hubs/agentic-ai.md)','','## Daily digests','']+[f'- [{p.stem}](daily/{p.name})' for p in days]
+    (WIKI/'index.md').write_text('\n'.join(lines)+'\n')
 
 def main():
-    xs,weekly,stamp=stories(); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(weekly,stamp); build_hubs(); update_index(stamp)
-    print(f'Refreshed derived evidence from {len(xs)} unique stories')
+    xs,stamp=load_stories(); build_summaries(xs,stamp); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
+    print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()

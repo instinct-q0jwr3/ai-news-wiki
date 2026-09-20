@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a persistent AI-news wiki from Techmeme, Hacker News and Lobsters."""
+"""Build a persistent AI-news wiki from public AI and technology news sources."""
 from __future__ import annotations
 
 import argparse
@@ -12,6 +12,8 @@ import sys
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
 from pathlib import Path
 from typing import Iterable
 
@@ -30,6 +32,7 @@ SOURCES = {
 }
 HN_TOP = "https://hacker-news.firebaseio.com/v0/topstories.json"
 HN_ITEM = "https://hacker-news.firebaseio.com/v0/item/{item_id}.json"
+TLDR_AI_LATEST = "https://tldr.tech/api/latest/ai"
 
 # Deliberately inspectable. Tune these in config/ai_terms.txt without an API key.
 DEFAULT_TERMS = {
@@ -93,6 +96,67 @@ def fetch_hn(limit: int) -> list[dict]:
     return items
 
 
+
+class _TldrLinkParser(HTMLParser):
+    """Extract editorial links from TLDR AI's latest public issue page."""
+    def __init__(self):
+        super().__init__()
+        self.current = None
+        self.links = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            href = dict(attrs).get("href", "")
+            if href.startswith("http"):
+                self.current = {"href": html.unescape(href), "text": []}
+
+    def handle_data(self, data):
+        if self.current is not None:
+            self.current["text"].append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self.current is not None:
+            self.links.append((clean(" ".join(self.current["text"])), self.current["href"]))
+            self.current = None
+
+
+def _strip_tracking(url: str) -> str:
+    parts = urlsplit(url)
+    keep = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+            if not k.lower().startswith(("utm_", "sp"))]
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(keep), parts.fragment))
+
+
+def fetch_tldr_ai() -> list[dict]:
+    """Fetch only TLDR AI, using its public latest-issue endpoint."""
+    issue_url = TLDR_AI_LATEST
+    req = urllib.request.Request(issue_url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=20) as response:
+        page = response.read().decode("utf-8", errors="replace")
+        issue_url = response.geturl()
+    parser = _TldrLinkParser()
+    parser.feed(page)
+    items = []
+    seen = set()
+    editorial_marker = re.compile(r"\((?:\d+ minute read|github repo)\)\s*$", re.I)
+    for label, url in parser.links:
+        if not editorial_marker.search(label) or "sponsor" in label.lower():
+            continue
+        title = editorial_marker.sub("", label).strip()
+        url = _strip_tracking(url)
+        if not title or url in seen:
+            continue
+        seen.add(url)
+        items.append({
+            "source": "TLDR AI",
+            "title": title,
+            "url": url,
+            "summary": f"TLDR AI selected this story in its latest issue: {title}.",
+            "newsletter_url": issue_url,
+        })
+    return items
+
+
 def load_terms() -> set[str]:
     path = ROOT / "config" / "ai_terms.txt"
     if not path.exists():
@@ -121,8 +185,8 @@ def dedupe(items: Iterable[dict]) -> list[dict]:
 
 def render_daily(day: str, items: list[dict], generated: str) -> str:
     lines = [f"# AI in the news - {day}", "", f"Updated: `{generated}`", "",
-             "Sources: Techmeme, Hacker News, Lobsters, Latent.Space and Stratechery.", ""]
-    for source in ("Techmeme", "Hacker News", "Lobsters", "Latent.Space", "Stratechery"):
+             "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.", ""]
+    for source in ("Techmeme", "Hacker News", "Lobsters", "Latent.Space", "Stratechery", "TLDR AI"):
         source_items = [item for item in items if item["source"] == source]
         lines.extend([f"## {source}", ""])
         if not source_items:
@@ -133,7 +197,7 @@ def render_daily(day: str, items: list[dict], generated: str) -> str:
             meta = ""
             if source == "Hacker News":
                 meta = f" - {item.get('score', 0)} points, {item.get('comments', 0)} comments"
-            lines.extend([f"- [{item['title']}]({item['url']}){meta}", f"  - AI signals: {signals}"])
+            lines.extend([f"- [{item['title']}](../summaries/{item['id']}.md){meta}", f"  - [Original source]({item['url']}) · AI signals: {signals}"])
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
@@ -144,8 +208,7 @@ def rebuild_index() -> None:
     lines += [f"- [{p.stem}](daily/{p.name})" for p in entries]
     extra = ""
     if INDEX.exists():
-        # Preserve agent-maintained sections (Temas, Entidades, Tendencias, ...)
-        # that live after the "Informes diarios" block.
+        # Preserve agent-maintained sections that live after the daily digest block.
         sections = re.split(r"(?m)^## ", INDEX.read_text())
         kept = [s for s in sections[1:] if not s.startswith("Daily digests")]
         if kept:
@@ -167,12 +230,16 @@ def main() -> int:
         except Exception as exc:
             errors.append(f"{source}: {exc}")
     try:
+        collected.extend(fetch_tldr_ai())
+    except Exception as exc:
+        errors.append(f"TLDR AI: {exc}")
+    try:
         collected.extend(fetch_hn(args.hn_limit))
     except Exception as exc:
         errors.append(f"Hacker News: {exc}")
     filtered = []
     for item in dedupe(collected):
-        matches = ai_matches(item, terms)
+        matches = ["tldr ai"] if item.get("source") == "TLDR AI" else ai_matches(item, terms)
         if matches:
             item["ai_matches"] = matches
             filtered.append(item)
@@ -186,7 +253,7 @@ def main() -> int:
     with LOG.open("a") as log:
         log.write(f"## [{day}] ingest | {len(filtered)} AI stories | snapshot {stamp}\n")
         if errors:
-            log.write("- Errores parciales: " + "; ".join(errors) + "\n")
+            log.write("- Partial errors: " + "; ".join(errors) + "\n")
     print(f"{len(filtered)} AI stories written to wiki/daily/{day}.md")
     if errors:
         print("Partial errors: " + "; ".join(errors), file=sys.stderr)

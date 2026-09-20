@@ -1,16 +1,21 @@
 # Concept: External AI evaluation
 
-How third parties, standards and embedded evaluations try to measure capabilities and risks of advanced models.
+_type: concept · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
 
-<!-- AUTO:EVIDENCE -->
-## Living evidence
+`concept` `external-evaluation`
 
-_Automatic update: `2026-09-20T09:43:40+00:00` · 5 selected signals._
+## Overview
 
-- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) · Hacker News · 78 HN points
-- [Partnering with Accenture on Embedded Evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) · Hacker News · 11 HN points
-- [ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking](https://github.com/xanpavle/rocmfix) · Hacker News · 8 HN points
-- [A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)](https://www.techmeme.com/260919/p5#a260919p5) · Techmeme
-- [[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign](https://www.latent.space/p/ainews-aef-1-standard-emerges-for) · Latent.Space
+Methods used by third parties, standards groups and labs to measure model capability, reliability and risk.
 
-<!-- /AUTO:EVIDENCE -->
+## Related entities
+
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)
+
+## Timeline
+
+- **2026-09-20** - Partnering with Accenture on Embedded Evaluation. Hacker News selected it as an AI-relevant development. ([Partnering with Accenture on Embedded Evaluation](../summaries/47464054b556.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-09-20** - ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking. Hacker News selected it as an AI-relevant development. ([ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking](../summaries/d23467bb3740.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))
+- **2026-09-19** - [AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign. Latent.Space selected it as an AI-relevant development. ([AINews AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign](../summaries/db8f162a8ee3.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-09-19** - Hello HN! We're Dillon and Francesco from Cua. ([Show HN: CUA-S1 – A System One Model for Computer Use](../summaries/f56f05e1a7fb.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))
+- **2026-09-19** - A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight — On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on… ([A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)](../summaries/af733b586e97.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
