@@ -183,6 +183,30 @@ def dedupe(items: Iterable[dict]) -> list[dict]:
     return result
 
 
+def trim_blurb(text, cap=300):
+    text = re.sub(r"\s+", " ", text or "").strip()
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    picked = " ".join(sentences[:2]).strip()
+    if len(picked) > cap:
+        picked = picked[: cap - 1].rsplit(" ", 1)[0] + "\u2026"
+    return picked
+
+
+def blurb_for(item):
+    desc = re.sub(r"\s+", " ", item.get("summary") or "").strip()
+    desc = re.sub(r"^TLDR AI selected this story in its latest issue:\s*", "", desc)
+    desc = re.sub(r"^[A-Z][^.:]{1,50} :\s+", "", desc)
+    title = item["title"]
+    basetitle = re.sub(r"\s*\([^()]{1,60}\)\s*$", "", title)
+    for t in (title, basetitle):
+        if t and desc.lower().startswith(t.lower()):
+            desc = desc[len(t):].lstrip(" \u2014\u2013-:|"); break
+    desc = strip_headline_repeat(desc, title)
+    if desc and desc.lower() != title.lower() and len(desc) > 35:
+        return trim_blurb(desc)
+    return f"{item['title']}."
+
+
 def render_daily(day: str, items: list[dict], generated: str) -> str:
     lines = [f"# AI in the news - {day}", "", f"Updated: `{generated}`", "",
              "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.", ""]
@@ -193,11 +217,13 @@ def render_daily(day: str, items: list[dict], generated: str) -> str:
             lines.extend(["_No stories passed the AI filter._", ""])
             continue
         for item in source_items:
-            signals = ", ".join(f"`{term}`" for term in item["ai_matches"][:5])
-            meta = ""
-            if source == "Hacker News":
-                meta = f" - {item.get('score', 0)} points, {item.get('comments', 0)} comments"
-            lines.extend([f"- [{item['title']}](../summaries/{item['id']}.md){meta}", f"  - [Original source]({item['url']}) · AI signals: {signals}"])
+            lines.extend([f"### [{item['title']}](../summaries/{item['id']}.md)", "",
+                          blurb_for(item), ""])
+            meta = []
+            if source == "Hacker News" and (item.get("score") or item.get("comments")):
+                meta.append(f"{item.get('score', 0)} points, {item.get('comments', 0)} comments")
+            meta.append(f"[Original source]({item['url']})")
+            lines.extend(["_" + " \u00b7 ".join(meta) + "_", ""])
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 

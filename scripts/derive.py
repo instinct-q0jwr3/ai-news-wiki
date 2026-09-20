@@ -174,12 +174,18 @@ def story_summary(x):
     if r and r['prose']: return r['prose'][0]
     desc=esc(x.get('summary')); title=esc(x.get('title'))
     desc=re.sub(r'^TLDR AI selected this story in its latest issue:\s*','',desc)
+    desc=re.sub(r'^[A-Z][^.:]{1,50} :\s+','',desc)
+    basetitle=re.sub(r'\s*\([^()]{1,60}\)\s*$','',title)
+    for t in (title,basetitle):
+        if t and desc.lower().startswith(t.lower()):
+            desc=desc[len(t):].lstrip(' \u2014\u2013-:|'); break
+    desc=strip_headline_repeat(desc,title)
     if desc and desc.lower()!=title.lower() and len(desc)>35:
         desc=re.sub(r'^(?:[A-Z][^:]{1,60} / [^:]{1,60} :\s*)', '', desc)
         sentences=re.split(r'(?<=[.!?])\s+',desc)
         picked=' '.join(sentences[:2]).strip()
         if len(picked)>520: picked=picked[:517].rsplit(' ',1)[0]+'…'
-        return picked if picked.endswith(('.', '!', '?', '…')) else picked+'.'
+        return picked if re.search(r"[.!?…][\"'‘’“”)]?$",picked) else picked+'.'
     return f'{title}. {x.get("source","The source feed")} selected it as an AI-relevant development.'
 
 def related(x):
@@ -308,7 +314,57 @@ def update_index(stamp,xs):
     lines=['# AI News Wiki','','A cumulative, cross-linked map of AI news. Every story has its own summary and original source.','',f'_Updated: `{stamp}` · {len(xs)} unique stories._','','## Explore','', '- [Entities](entities/openai.md)','- [Concepts](concepts/agentic-systems.md)','- [Comparisons](comparisons/openai-vs-anthropic.md)',f'- [Story summaries](summaries/{summary_target})',f'- [Weekly synthesis](weekly/{week}.md)','- [Hubs](hubs/agentic-ai.md)','','## Daily digests','']+[f'- [{p.stem}](daily/{p.name})' for p in days]
     (WIKI/'index.md').write_text('\n'.join(lines)+'\n')
 
+def strip_headline_repeat(desc,title):
+    def norm(t): return re.sub(r'[^a-z0-9 ]',' ',(t or '').lower())
+    parts=re.split(r'\s+\u2014\s+',desc,maxsplit=1)
+    if len(parts)==2:
+        a=set(norm(parts[0]).split()); b=set(norm(title).split())
+        if len(a)>=4 and b and len(a&b)/len(a)>=0.6: return parts[1]
+    return desc
+
+def trim_blurb(text,cap=300):
+    text=re.sub(r'\s+',' ',text or '').strip()
+    sentences=re.split(r'(?<=[.!?])\s+',text)
+    picked=' '.join(sentences[:2]).strip()
+    if len(picked)>cap: picked=picked[:cap-1].rsplit(' ',1)[0]+'\u2026'
+    return picked
+
+def render_daily(day,items,generated):
+    lines=[f"# AI in the news - {day}","",f"Updated: `{generated}`","",
+           "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.",""]
+    for source in ("Techmeme","Hacker News","Lobsters","Latent.Space","Stratechery","TLDR AI"):
+        si=[i for i in items if i.get('source')==source]
+        lines.extend([f"## {source}",""])
+        if not si:
+            lines.extend(["_No stories passed the AI filter._",""]); continue
+        for item in si:
+            lines.extend([f"### [{item['title']}](../summaries/{item['id']}.md)","",
+                          trim_blurb(story_summary(item)),""])
+            meta=[]
+            if source=="Hacker News" and (item.get('score') or item.get('comments')):
+                meta.append(f"{item.get('score',0)} points, {item.get('comments',0)} comments")
+            meta.append(f"[Original source]({item['url']})")
+            lines.extend(["_"+" \u00b7 ".join(meta)+"_",""])
+    return "\n".join(lines).rstrip()+"\n"
+
+def build_daily():
+    days={}; stamps={}
+    for p in sorted(RAW.glob('*.json')):
+        data=json.loads(p.read_text()); gen=data.get('generated_at',''); day=gen[:10]
+        if not re.match(r'\d{4}-\d{2}-\d{2}',day): continue
+        rows=days.setdefault(day,{}); stamps[day]=max(stamps.get(day,''),gen)
+        for raw in data.get('items',[]):
+            x=dict(raw); key=x.get('id')
+            if not key: continue
+            if key not in rows: rows[key]=x
+            else:
+                old=rows[key]
+                if x.get('score',0)>old.get('score',0): old['score']=x['score']; old['comments']=x.get('comments',0)
+                if len(esc(x.get('summary'))) > len(esc(old.get('summary'))): old['summary']=x['summary']
+    for day,rows in sorted(days.items()):
+        (WIKI/'daily'/f"{day}.md").write_text(render_daily(day,list(rows.values()),stamps[day]))
+
 def main():
-    xs,stamp=load_stories(); enrich_sources(xs); build_summaries(xs,stamp); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
+    xs,stamp=load_stories(); enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()
