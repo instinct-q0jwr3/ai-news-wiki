@@ -8,6 +8,8 @@ _type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence:
 
 India's outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves …
 
+_Extractive summary: the original source could not be fully accessed._
+
 ## Source
 
 [Read the original story](https://www.techmeme.com/260919/p6#a260919p6)

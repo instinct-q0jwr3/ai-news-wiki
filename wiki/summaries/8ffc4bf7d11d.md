@@ -18,6 +18,8 @@ Custom assembler for my CHIP-8 emulator (WIP) Developed live at:
 - It's so satisfying to write assembly and have your program spit out a ROM that actually runs in the emulator you wrote.
 - All code is written by me (a lot of it livestreaming) as evident by the quality, no AI.
 
+_Extractive summary: the original source could not be fully accessed._
+
 ## Source
 
 [Read the original story](https://github.com/Tackx/c8-ass)

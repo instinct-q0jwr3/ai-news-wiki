@@ -8,6 +8,8 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-20 · confidence:
 
 A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I.
 
+_Extractive summary: the original source could not be fully accessed._
+
 ## Source
 
 [Read the original story](https://www.techmeme.com/260919/p12#a260919p12)

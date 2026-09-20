@@ -212,11 +212,11 @@ def build_summaries(xs,stamp):
         meta=metadata('news-summary',fmt_date(x.get('first_seen')),fmt_date(stamp),'high',tags)
         source=f'[Read the original story]({x["url"]})'
         if x.get('newsletter_url'): source+=f' · [TLDR AI issue]({x["newsletter_url"]})'
-        r=None; lf=ROOT/'raw'/'llm'/f"{x['id']}.json"
+        r=None; llm=False; lf=ROOT/'raw'/'llm'/f"{x['id']}.json"
         if lf.exists():
             try:
                 d=json.loads(lf.read_text())
-                if d.get('prose'): r={'prose':d['prose'],'highlights':d.get('highlights',[])}
+                if d.get('prose'): r={'prose':d['prose'],'highlights':d.get('highlights',[])}; llm=True
             except Exception: r=None
         if r is None: r=rich_summary(x)
         RICH[x['id']]=r
@@ -225,6 +225,8 @@ def build_summaries(xs,stamp):
             hl='\n\n## Highlights\n\n'+'\n'.join(f'- {h}' for h in r['highlights']) if r['highlights'] else ''
             summary_sec=prose+hl
         else: summary_sec=story_summary(x)
+        if not llm and SOURCES.get(x['id'],{}).get('status') in ('thin','error'):
+            summary_sec+='\n\n_Extractive summary: the original source could not be fully accessed._'
         text=f'# {x["title"]}\n\n{meta}\n\n## Summary\n\n{summary_sec}\n\n## Source\n\n{source}\n\n## Related pages\n\n'+((' · '.join(related_links)) if related_links else '_No related entity or concept page yet._')+'\n'
         (out/f'{x["id"]}.md').write_text(text)
     for p in out.glob('*.md'):
