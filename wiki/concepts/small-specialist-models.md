@@ -5,7 +5,7 @@ Modelos estrechos que cambian capacidad general por coste, latencia y control lo
 <!-- AUTO:EVIDENCE -->
 ## Evidencia viva
 
-_Actualización automática: `2026-09-20T09:21:38+00:00` · 7 señales seleccionadas._
+_Actualización automática: `2026-09-20T09:22:27+00:00` · 7 señales seleccionadas._
 
 - [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) · Hacker News · 225 puntos HN
 - [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) · Hacker News · 78 puntos HN

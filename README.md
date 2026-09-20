@@ -14,7 +14,7 @@ La primera versión funcional está preparada. Incluye ingesta RSS/API, filtro a
 scripts/run_pass.sh
 ```
 
-Ese entrypoint ejecuta ingesta, refresca la capa derivada y regenera el sitio estático de `site/`.
+Ese entrypoint ejecuta ingesta, refresca la capa derivada y regenera el sitio estático de `docs/`.
 
 ## Páginas derivadas
 
@@ -27,8 +27,8 @@ La ingesta (`src/update_feed.py`) solo genera snapshots crudos e informes diario
 - `wiki/comparisons/`: comparativas vivas, con evidencia por lado.
 - `wiki/weekly/`: síntesis semanal y señales a vigilar.
 - `wiki/hubs/`: rutas editoriales que agrupan conceptos, temas, entidades y comparativas.
-- `site/`: web estática navegable y buscable, generada desde todo lo anterior.
+- `docs/`: web estática navegable y buscable, generada desde todo lo anterior.
 
-En cada pase el agente ejecuta `scripts/run_pass.sh`, revisa lo nuevo y puede ampliar la interpretación curada. El script mantiene los bloques de evidencia, la síntesis semanal, conceptos, comparativas, hubs, `wiki/index.md` y la web en `site/`; después se commitean `raw wiki site`. El pase corre cada 6 horas desde un agente externo; la Action de GitHub queda solo como botón manual de respaldo.
+En cada pase el agente ejecuta `scripts/run_pass.sh`, revisa lo nuevo y puede ampliar la interpretación curada. El script mantiene los bloques de evidencia, la síntesis semanal, conceptos, comparativas, hubs, `wiki/index.md` y la web en `docs/`; después se commitean `raw wiki docs`. El pase corre cada 6 horas desde un agente externo; la Action de GitHub queda solo como botón manual de respaldo.
 
 > Stratechery: solo usa su feed público. El RSS personalizado requiere cuenta Passport; una cuenta gratuita incluye artículos semanales y la suscripción de pago añade el Daily Update. El proyecto no incluye credenciales ni evita el muro de pago.

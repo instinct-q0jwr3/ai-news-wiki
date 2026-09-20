@@ -5,7 +5,7 @@ Contrasta control y auditabilidad local con la integración y capacidad de las p
 <!-- AUTO:EVIDENCE -->
 ## Evidencia viva
 
-_Actualización automática: `2026-09-20T09:21:38+00:00`._
+_Actualización automática: `2026-09-20T09:22:27+00:00`._
 
 ### Señales: Agentes abiertos
 

@@ -5,7 +5,7 @@ Sistemas que planifican o actúan mediante herramientas. Esta página sigue su a
 <!-- AUTO:EVIDENCE -->
 ## Evidencia viva
 
-_Actualización automática: `2026-09-20T09:21:38+00:00` · 14 señales seleccionadas._
+_Actualización automática: `2026-09-20T09:22:27+00:00` · 14 señales seleccionadas._
 
 - [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · Hacker News · 715 puntos HN
 - [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) · Hacker News · 225 puntos HN

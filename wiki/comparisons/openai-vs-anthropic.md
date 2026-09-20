@@ -5,7 +5,7 @@ Comparación continua de lanzamientos, precio, empresa, evaluación y seguridad.
 <!-- AUTO:EVIDENCE -->
 ## Evidencia viva
 
-_Actualización automática: `2026-09-20T09:21:38+00:00`._
+_Actualización automática: `2026-09-20T09:22:27+00:00`._
 
 ### Señales: OpenAI
 

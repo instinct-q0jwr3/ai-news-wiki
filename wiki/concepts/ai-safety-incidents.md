@@ -5,7 +5,7 @@ Registro interpretado de fallos, ataques y propuestas de control. Un incidente r
 <!-- AUTO:EVIDENCE -->
 ## Evidencia viva
 
-_Actualización automática: `2026-09-20T09:21:38+00:00` · 13 señales seleccionadas._
+_Actualización automática: `2026-09-20T09:22:27+00:00` · 13 señales seleccionadas._
 
 - [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) · Hacker News · 495 puntos HN
 - [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852) · Hacker News · 76 puntos HN

@@ -5,7 +5,7 @@ Cómo terceros, estándares y evaluaciones embebidas intentan medir capacidades 
 <!-- AUTO:EVIDENCE -->
 ## Evidencia viva
 
-_Actualización automática: `2026-09-20T09:21:38+00:00` · 5 señales seleccionadas._
+_Actualización automática: `2026-09-20T09:22:27+00:00` · 5 señales seleccionadas._
 
 - [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) · Hacker News · 78 puntos HN
 - [Partnering with Accenture on Embedded Evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation) · Hacker News · 11 puntos HN
