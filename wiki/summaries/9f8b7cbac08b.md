@@ -6,11 +6,18 @@ _type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence:
 
 ## Summary
 
-The vision-language model, called Damo Radar, was designed to analyse contrast-enhanced CT scans covering 18 abdominal organs and identify a broad range of diseases and other abnormalities, such as malignant tumours, the institute said…
+Alibaba's Damo Academy has open-sourced Damo Radar, a vision-language model that reads contrast-enhanced CT scans across 18 abdominal organs and identifies nearly 150 conditions, including cancers. Trained on CT scans paired with clinical reports, it achieved an average AUC of 0.913 across 146 clinical findings in nearly 40,000 real-world examinations, outperforming most radiologists, according to a study published in Science.
 
-The model was trained using CT scans paired with clinical reports.
+The research team calls it 'the world's first expert-level generalist medical imaging model' and says the training method could extend to other imaging types. The release, announced September 18, marks Alibaba's latest step into medical AI, where open-sourcing a clinically validated model could accelerate adoption and independent scrutiny at the same time.
 
-The research team said the training method could eventually be extended to other types of medical imaging, calling the model “the world’s first expert-level generalist medical imaging model”.
+## Highlights
+
+- Damo Radar analyzes contrast-enhanced CT scans covering 18 abdominal organs and identifies ~146 clinical findings.
+- Average AUC of 0.913 across 146 findings in nearly 40,000 real-world examinations (1.0 is perfect).
+- Reported to outperform most radiologists in the study, published in Science.
+- Trained on CT scans paired with clinical reports; team says the method extends to other imaging types.
+- Developed by Alibaba's Damo Academy and open-sourced, announced September 18, 2026.
+- Described by its creators as 'the world's first expert-level generalist medical imaging model'.
 
 ## Source
 

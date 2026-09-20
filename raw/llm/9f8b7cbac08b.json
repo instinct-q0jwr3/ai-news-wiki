@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Alibaba's Damo Academy has open-sourced Damo Radar, a vision-language model that reads contrast-enhanced CT scans across 18 abdominal organs and identifies nearly 150 conditions, including cancers. Trained on CT scans paired with clinical reports, it achieved an average AUC of 0.913 across 146 clinical findings in nearly 40,000 real-world examinations, outperforming most radiologists, according to a study published in Science.",
+  "The research team calls it 'the world's first expert-level generalist medical imaging model' and says the training method could extend to other imaging types. The release, announced September 18, marks Alibaba's latest step into medical AI, where open-sourcing a clinically validated model could accelerate adoption and independent scrutiny at the same time."
+ ],
+ "highlights": [
+  "Damo Radar analyzes contrast-enhanced CT scans covering 18 abdominal organs and identifies ~146 clinical findings.",
+  "Average AUC of 0.913 across 146 findings in nearly 40,000 real-world examinations (1.0 is perfect).",
+  "Reported to outperform most radiologists in the study, published in Science.",
+  "Trained on CT scans paired with clinical reports; team says the method extends to other imaging types.",
+  "Developed by Alibaba's Damo Academy and open-sourced, announced September 18, 2026.",
+  "Described by its creators as 'the world's first expert-level generalist medical imaging model'."
+ ],
+ "id": "9f8b7cbac08b",
+ "authored_at": "2026-09-20T11:01:07.082602+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -2,19 +2,18 @@
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-20 · confidence: high</p>
 <p><code>hacker-news</code> <code>agentic-systems</code> <code>small-specialist-models</code> <code>ai-safety-incidents</code></p>
 <h2>Summary</h2>
-<p>Build agents that write their own operating manuals.</p>
-<p>Research, generate code, run it all — on your keys, on your infrastructure.</p>
-<p>There is no ENZO account, no usage meter, no subscription. git clone https://github.com/theguysudo/ENZO.git cd enzo docker compose up -d # → http://localhost:5001 That's the whole install.</p>
+<p>ENZO is an open-source, self-hosted AI platform that pitches itself against subscription AI workspaces: chat with 300+ models, build agents, research and run code, all on your own provider keys and infrastructure, with no account, no usage meter and no middleman taking a cut. Installation is three commands: clone, docker compose up, open localhost:5001 and paste a provider key.</p>
+<p>The security model is spelled out in a written threat model: keys live encrypted in a passphrase-protected browser vault, and on a fresh instance the first live-validated key pasted 'claims' the instance for server-side features like scheduled agents (a pre-seeded compose key avoids that claim window). Projects, learned skills and agent memory persist in named Docker volumes, and a hosted demo plus a Colab notebook offer zero-install trials.</p>
 <h2>Highlights</h2>
 <ul>
-<li>When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price.</li>
-<li>No accounts, no mandatory env, no database server.</li>
-<li>Open the app, press Login , and pick any provider: Keys are saved encrypted in your browser (passphrase-protected vault, with a recovery file you can download).</li>
-<li>On a fresh self-hosted instance the first live-validated key you paste claims the instance — it's written to the container .env and sealed into the enzo-memory volume, so every server-side feature (agents, skills, memory) unlocks…</li>
-<li>This repo is exactly that code, minus Google sign-in (self-hosted login is just your provider keys) with a trimmed default theme set for a small download.</li>
-<li>Don't want the local hassle — or want ENZO reachable from any device?</li>
-<li>Most "AI workspaces" hold your keys, meter your usage, or need a subscription to exist.</li>
-<li>Allocate at least 4 GB RAM in Docker Desktop → Settings → Resources (the model catalog + agents like headroom). git clone https://github.com/theguysudo/ENZO.git cd ENZO docker compose up -d Open http://localhost:5001 , press Login , and…</li>
+<li>Open-source AI workspace: chat with 300+ models, agents, research and code execution, self-hosted via Docker.</li>
+<li>No ENZO account, no subscription, no usage metering: users pay providers directly at normal prices.</li>
+<li>Install is git clone + docker compose up -d; the app runs on localhost:5001.</li>
+<li>Provider keys are stored encrypted in a browser vault (passphrase-protected, with downloadable recovery file).</li>
+<li>First validated key on a fresh instance claims it and unlocks server-side agents, skills and memory; the trade-off is documented in docs/SECURITY.md.</li>
+<li>Data lives in named Docker volumes, surviving upgrades and restarts.</li>
+<li>A hosted demo (enzo-hub.duckdns.org) and a Colab notebook with keep-alive/watchdog hacks offer quick trials.</li>
+<li>Requires Docker Desktop with at least 4 GB RAM on Mac or Windows (WSL 2).</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://github.com/theguysudo/ENZO">Read the original story</a></p>

@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "An Ask HN thread sparked by a hiring manager captures a real tension: about 80% of dev candidates now say they barely write code themselves, directing agents instead, and interviewers are split on whether to accept that as the new job or keep testing raw ability.",
+  "Practitioners report concrete adaptations. One team gives a deliberately tiny take-home (a 10-line CSV mapping exercise), warns candidates they will later extend it live, and finds every AI-generated submission fails because the author cannot explain or modify the code, even verbally. Another built a mistake-riddled Spring Boot Todo API and asks candidates to code-review it without AI tools, then plays junior engineer to test how well they explain issues. Others say AI has changed CV filtering more than interviewing: obviously LLM-generated resumes get flagged, while natural technical conversation still gives the best signal on whether you would want to work with someone."
+ ],
+ "highlights": [
+  "Poster: ~80% of interviewed candidates now say they direct agents rather than write code themselves.",
+  "One team's filter: tiny CSV take-home, then a live pairing extension; every AI-generated submission failed because candidates couldn't reason about the code.",
+  "Extension task is small on purpose: change one rule, add 5 CSV lines, with candidates allowed Google and AI for syntax but not for problem breakdown.",
+  "Another approach: code-review interview over a deliberately buggy Todo REST API (missing auth, no tests), no AI tools, 20-25 minutes.",
+  "Reviewers then play junior engineer to test whether candidates can explain why each issue matters.",
+  "Several respondents report AI mainly changed CV screening; obviously LLM-written resumes get flagged, 'tastefully assisted' ones pass.",
+  "Thread: 37 points, 26 comments on Hacker News."
+ ],
+ "id": "9713626aa1b9",
+ "authored_at": "2026-09-20T11:01:22.648217+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Antfly has rewritten its search-and-inference database from Go to pure Zig, doing the thing startups are told never to do. Version 0.1 shipped a document store with full-text, vector and graph indexing in Go; v0.2 launches the same engine in Zig with effectively zero dependencies, chasing the deliberately impossible goal of 'perfect search'.",
+  "The author explains the original Go choice (readable concurrency, etcd's battle-tested Raft) and what changed: Zig's new std.Io async machinery, a desire to reimplement the LSM, and years of admiration for TigerBeetle's rigor, including VOPR-style deterministic simulation testing with TLA+ trace validation. A core design idea survives the rewrite: users should care about the model, not the embeddings, the way Postgres users never think about B-trees, while vector databases force everyone to know HNSW, SPFresh and RaBitQ."
+ ],
+ "highlights": [
+  "Antfly v0.2 rewrites the document store with full-text, vector and graph indexing from Go to pure Zig.",
+  "Motivations: Zig's new std.Io async work, reimplementing the LSM, and TigerBeetle-inspired engineering discipline.",
+  "Testing approach: VOPR-style deterministic simulation with TLA+ trace validation, building on etcd's Raft TLA+ spec.",
+  "Original v0.1 chose Go for readable concurrency and etcd's battle-tested Raft implementation.",
+  "Design philosophy: users should care about the model, not embeddings, unlike vector DBs exposing HNSW/SPFresh/RaBitQ.",
+  "Early proof point: semantically searchable Wikipedia from a laptop using Antfly and Ollama.",
+  "The rewrite was aided by modern coding agents (Codex, Claude, Aider, Pi named), unavailable during v0.1."
+ ],
+ "id": "120d768e7457",
+ "authored_at": "2026-09-20T11:01:07.082602+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

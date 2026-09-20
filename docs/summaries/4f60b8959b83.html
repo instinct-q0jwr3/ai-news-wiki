@@ -2,19 +2,18 @@
 <p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence: high</p>
 <p><code>hacker-news</code> <code>openai</code></p>
 <h2>Summary</h2>
-<p>On July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts.</p>
-<p>With these accounts, we could then access internal OpenAI repositories, and potentially many other connectors.</p>
-<p>To prove we had in fact gained the access we believed without allowing ourselves to learn any sensitive information, we used the employee’s Codex to open a PR #1186742 in OpenAI’s internal monorepo openai/openai .</p>
+<p>Security firm Hacktron chained two critical vulnerabilities, a libheif heap overflow in OpenAI's Discourse community forum and an SSO misconfiguration in OpenAI's identity infrastructure, to take over multiple OpenAI employees' ChatGPT accounts. From there they could reach internal OpenAI repositories and other connected services (GitHub, Slack, email), proving access by using an employee's Codex to open pull request #1186742 in the internal openai/openai monorepo, all within 72 hours of discovery on July 25, 2026.</p>
+<p>The flaws were disclosed responsibly: OpenAI confirmed a fix about 14 hours after the initial Bugcrowd report and paid a $6,500 bounty (noting the award covers the OpenAI-side finding, since testing against the Discourse-hosted forum was out of scope), while Discourse published advisory GHSA-vhm9-85gw-x335 and added image-processing sandboxing. Hacktron has since expanded the work into 'HEIF Heist', a multi-month investigation tracing libheif exposure across Slack, Meta, GitHub Enterprise, Rails and Node frameworks like Next.js, Astro and Gatsby, and warns that any app processing user-supplied .heic/.heif/.avif images is likely affected. Self-hosted Discourse instances need a full rebuild, not just a web update.</p>
 <h2>Highlights</h2>
 <ul>
-<li>Until two months ago, any user or OpenAI employee logging into OpenAI’s own help forum ( community.openai.com ) could have had their ChatGPT and Codex accounts taken over.</li>
-<li>Since people can connect various services to Codex and ChatGPT, the scope of what we could theoretically access was huge, including GitHub, Slack and emails.</li>
-<li>The entire timeline from initial discovery to access to OpenAI repo access took place in less than 72 hours.</li>
-<li>We immediately reported the initial vulnerability to OpenAI and Discourse and worked with them to coordinate the patch.</li>
-<li>Initial Finding HacktronAI team obtained remote code execution (RCE) and administrative access to the Discourse environment hosted at community.openai.com .</li>
-<li>OpenAI Employee Account Access &amp; Proof of Concept To demonstrate the practical impact of the vulnerability, we created a harmless proof-of-concept pull request in OpenAI’s internal monorepo (link redacted at OpenAI’s request).</li>
-<li>Discourse Responded Discourse replied to the report on Sunday.</li>
-<li>OpenAI uses Discourse for their forum and allows “Sign in with OpenAI” through auth.openai.com .</li>
+<li>Chain: libheif RCE on community.openai.com plus an OpenAI SSO misconfiguration enabled ChatGPT/Codex account takeover.</li>
+<li>Proof of concept: a harmless PR (#1186742) opened in OpenAI's internal openai/openai monorepo via an employee's Codex.</li>
+<li>Connected services (GitHub, Slack, email) made the theoretical blast radius much larger than the forum itself.</li>
+<li>Timeline: discovery to internal repo access in under 72 hours; OpenAI fixed its side ~14 hours after the report.</li>
+<li>OpenAI paid a $6,500 bounty, clarifying it covered the OpenAI-side finding, not testing of out-of-scope Discourse hosting.</li>
+<li>Discourse advisory GHSA-vhm9-85gw-x335 adds image-processing sandboxing; self-hosters must run ./launcher rebuild app.</li>
+<li>Follow-up project 'HEIF Heist' traces libheif across Slack, Meta, GitHub Enterprise, Rails, Next.js, Astro and Gatsby.</li>
+<li>Warning: any application processing user-controlled .heic/.heif/.avif uploads is highly likely affected.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://www.hacktron.ai/blog/hacking-openai">Read the original story</a></p>

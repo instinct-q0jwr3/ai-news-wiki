@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "NASA and IBM Research have released the Lunar Foundation Model, an open-source AI model pretrained from scratch on SomBench, a multimodal lunar dataset of nearly two million co-registered data bundles spanning 11 modalities and two spatial scales. It integrates imagery, topography, illumination geometry, thermophysics, mineralogy, radar and gravity data to help researchers analyze the large, diverse datasets from lunar missions, with USRA contributing planetary science expertise and evaluation.",
+  "Evaluated on three downstream benchmarks, crater detection at regional and meter scales, segmentation of irregular mare patches, and regression of polar ice prospectivity, the model matched or beat ImageNet-pretrained comparisons and an identical architecture without lunar pretraining. Crater detection showed particularly strong label efficiency, and the team released the pretrained model, fine-tuning code and benchmarks openly, including a NAC crater benchmark built from more than 49,000 manually identified craters."
+ ],
+ "highlights": [
+  "Pretrained from scratch on SomBench: ~2 million co-registered lunar data bundles, 11 modalities, two spatial scales.",
+  "Combines imagery, topography, illumination geometry, thermophysics, mineralogy, radar, gravity and other lunar data.",
+  "Benchmarks: crater detection (regional and meter scale), irregular mare patch segmentation, polar ice prospectivity regression.",
+  "Matched or outperformed ImageNet-pretrained models and an identical architecture without lunar pretraining.",
+  "Strong label efficiency in crater detection: lunar pretraining reduces the task-specific labeled data needed.",
+  "USRA's Dr. Rachel Slank led the LROC NAC crater benchmark, manually identifying 49,000+ craters.",
+  "Pretrained model, fine-tuning code and benchmark datasets all released openly.",
+  "Announced September 18, 2026; developed under a NASA-IBM Research collaboration with USRA."
+ ],
+ "id": "fccd3a002555",
+ "authored_at": "2026-09-20T11:01:07.082602+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

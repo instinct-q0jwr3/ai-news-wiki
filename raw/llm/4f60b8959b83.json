@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Security firm Hacktron chained two critical vulnerabilities, a libheif heap overflow in OpenAI's Discourse community forum and an SSO misconfiguration in OpenAI's identity infrastructure, to take over multiple OpenAI employees' ChatGPT accounts. From there they could reach internal OpenAI repositories and other connected services (GitHub, Slack, email), proving access by using an employee's Codex to open pull request #1186742 in the internal openai/openai monorepo, all within 72 hours of discovery on July 25, 2026.",
+  "The flaws were disclosed responsibly: OpenAI confirmed a fix about 14 hours after the initial Bugcrowd report and paid a $6,500 bounty (noting the award covers the OpenAI-side finding, since testing against the Discourse-hosted forum was out of scope), while Discourse published advisory GHSA-vhm9-85gw-x335 and added image-processing sandboxing. Hacktron has since expanded the work into 'HEIF Heist', a multi-month investigation tracing libheif exposure across Slack, Meta, GitHub Enterprise, Rails and Node frameworks like Next.js, Astro and Gatsby, and warns that any app processing user-supplied .heic/.heif/.avif images is likely affected. Self-hosted Discourse instances need a full rebuild, not just a web update."
+ ],
+ "highlights": [
+  "Chain: libheif RCE on community.openai.com plus an OpenAI SSO misconfiguration enabled ChatGPT/Codex account takeover.",
+  "Proof of concept: a harmless PR (#1186742) opened in OpenAI's internal openai/openai monorepo via an employee's Codex.",
+  "Connected services (GitHub, Slack, email) made the theoretical blast radius much larger than the forum itself.",
+  "Timeline: discovery to internal repo access in under 72 hours; OpenAI fixed its side ~14 hours after the report.",
+  "OpenAI paid a $6,500 bounty, clarifying it covered the OpenAI-side finding, not testing of out-of-scope Discourse hosting.",
+  "Discourse advisory GHSA-vhm9-85gw-x335 adds image-processing sandboxing; self-hosters must run ./launcher rebuild app.",
+  "Follow-up project 'HEIF Heist' traces libheif across Slack, Meta, GitHub Enterprise, Rails, Next.js, Astro and Gatsby.",
+  "Warning: any application processing user-controlled .heic/.heif/.avif uploads is highly likely affected."
+ ],
+ "id": "4f60b8959b83",
+ "authored_at": "2026-09-20T11:01:22.648217+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

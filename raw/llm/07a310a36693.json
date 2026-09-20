@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Artificial Analysis has benchmarked StepFun's Step 5 Preview, a proprietary reasoning model released in September 2026, and places it among the leading models on its Intelligence Index with a score of 44, well above the comparable-model median of 24. It supports text and image input with a 1M-token context window and runs faster than average at 100 output tokens per second.",
+  "The trade-offs are clear: the model is very verbose, burning 160M tokens across the Intelligence Index versus a 92M median, but it is priced aggressively at $1.00 per million input tokens (median $1.88) and $2.70 per million output tokens (median $10.00), making the full evaluation cost $922.84. The index covers ten evaluations including Terminal-Bench 4.0, SciCode, Humanity's Last Exam and GDPval-AA."
+ ],
+ "highlights": [
+  "Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index vs a median of 24 for comparable models.",
+  "Pricing: $1.00/1M input and $2.70/1M output tokens, well under medians of $1.88 and $10.00.",
+  "Faster than average: 100 output tokens/second vs a 70 median.",
+  "Very verbose: 160M tokens generated across the Intelligence Index vs a 92M median.",
+  "1M-token context window; text and image input, text output; proprietary model from StepFun, released September 2026.",
+  "Full Intelligence Index evaluation cost $922.84.",
+  "Index v4.3.2 spans 10 evals incl. Terminal-Bench 4.0, SciCode, Humanity's Last Exam, GDPval-AA, AA-Omniscience.",
+  "This page reflects the reasoning variant; a non-reasoning variant may exist."
+ ],
+ "id": "07a310a36693",
+ "authored_at": "2026-09-20T11:01:22.648217+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

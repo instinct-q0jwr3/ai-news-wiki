@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Cactus Compute's Needle 3 is a family of tiny on-device automation models, 9 to 29 MB in CQ2-bit binaries, built for tool calling rather than chat. Its 'intelligence laddering' design makes every layer a sub-network of increasing capacity, so developers pick a size from 2 to 20 layers, and the 4-layer variant, fine-tuned for one epoch on a downstream task, is claimed to match DeepSeek V4 Flash on automation tasks.",
+  "The programming model is deliberately small: decorate a Python function and its docstring becomes the tool description, regex 'triggers' force routing to specific tools, and every turn returns one JSON object with function calls, a reasoning string, a calibrated confidence score and performance stats. Confidence gating lets apps auto-execute above a threshold, ask for confirmation in the middle band, or treat an empty result as a refusal, with examples like 4,300 prefill and 850 decode tokens/second at 28.5 MB peak RAM."
+ ],
+ "highlights": [
+  "Needle 3 models weigh 9-29 MB (CQ2-bit), sized for tiny devices and on-device automation.",
+  "'Intelligence laddering': each layer is a sub-network; developers choose 2L to 20L capacity.",
+  "Claim: the 4L subnetwork, tuned one epoch on a task, can match DeepSeek V4 Flash on automation work.",
+  "Python API: @needle.tool decorators; signatures give argument types, docstrings become tool descriptions.",
+  "Regex 'triggers' restrict decoding to matched tools and force a call, avoiding refusals and misrouting.",
+  "Structured extraction: pass a Pydantic model to needle.extract() and get a typed object back.",
+  "Every response carries calibrated confidence with a 0.1 floor; suppressed calls surface below-threshold intents.",
+  "Example telemetry: 4,300 prefill tps, 850 decode tps, 28.5 MB peak RAM on a tool call."
+ ],
+ "id": "307dafbc9d60",
+ "authored_at": "2026-09-20T11:01:07.082602+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

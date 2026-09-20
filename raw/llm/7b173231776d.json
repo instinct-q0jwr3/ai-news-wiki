@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Anthropic launched Claude Fable 5.1 and Claude Mythos 5.1 on September 1, billed as 'the world's most advanced models for coding and knowledge work', with the announcement drawing over 12 million views. List pricing holds at $10/$50/$12.5 per million tokens (input/output/cache write), but cache reads dropped 75% to $0.25 per million, a big win for long agentic sessions, partly offset by Artificial Analysis measuring 1.7x more output tokens, for a net per-task cost increase around 20%.",
+  "Anthropic's pitch is a 'usable autonomous worker' rather than a benchmark king: Fable 5.1 targets long-horizon delegated work, with staff highlighting honest failure reporting and Enterprise Frontier Safeguards ('ZDR++') with zero-data-retention support. Community analysis suggests Fable and Mythos 5.1 may share underlying weights with different safety/routing behavior. Reactions split between strong praise for coding, planning and tone, and complaints about rate limits, safeguard false positives and subscription UX, with Dan Shipper arguing 5.1 fixes the 'supergenius in a datacenter that was almost unusable' problem of Fable 5. Both models offer 1M-token contexts with text and image input."
+ ],
+ "highlights": [
+  "Fable 5.1 and Mythos 5.1 launched September 1 as Anthropic's flagships for coding and knowledge work; 12M+ views on the announcement.",
+  "Pricing unchanged ($10/$50/$12.5 per MTok input/output/cache write); cache reads cut 75% to $0.25/MTok.",
+  "Artificial Analysis measured ~1.7x more output tokens, netting roughly a 20% per-task cost increase despite the cache cut.",
+  "Both models: 1M-token context, text+image input.",
+  "Positioning: autonomous, multi-step long-horizon work; 'when it's stuck it says so instead of reporting success'.",
+  "Enterprise Frontier Safeguards ('ZDR++') and zero-data retention framed as enterprise adoption unlocks.",
+  "Community hypothesis: Fable and Mythos 5.1 may be the same weights with different safety/routing behavior.",
+  "Praise for coding/planning/tone; complaints on rate limits, safeguard false positives and subscription UX."
+ ],
+ "id": "7b173231776d",
+ "authored_at": "2026-09-20T11:01:22.648217+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

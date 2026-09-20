@@ -2,19 +2,18 @@
 <p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence: high</p>
 <p><code>hacker-news</code> <code>apple</code> <code>alibaba</code> <code>agentic-systems</code> <code>small-specialist-models</code></p>
 <h2>Summary</h2>
-<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks!</p>
-<p>Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.</p>
-<p>The key features: 1) Automation (tool calls &amp; structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON.</p>
+<p>Cactus Compute's Needle 3 is a family of tiny on-device automation models, 9 to 29 MB in CQ2-bit binaries, built for tool calling rather than chat. Its 'intelligence laddering' design makes every layer a sub-network of increasing capacity, so developers pick a size from 2 to 20 layers, and the 4-layer variant, fine-tuned for one epoch on a downstream task, is claimed to match DeepSeek V4 Flash on automation tasks.</p>
+<p>The programming model is deliberately small: decorate a Python function and its docstring becomes the tool description, regex 'triggers' force routing to specific tools, and every turn returns one JSON object with function calls, a reasoning string, a calibrated confidence score and performance stats. Confidence gating lets apps auto-execute above a threshold, ask for confirmation in the middle band, or treat an empty result as a refusal, with examples like 4,300 prefill and 850 decode tokens/second at 28.5 MB peak RAM.</p>
 <h2>Highlights</h2>
 <ul>
-<li>If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).</li>
-<li>2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries.</li>
-<li>3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8…</li>
-<li>4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, all at f16.</li>
-<li>5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.</li>
-<li>6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on "narrow task", we found that production users often prefer tuning before production.</li>
-<li>7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.</li>
-<li>Every layer of Needle 3 is a sub-network with monotonically increasing capacity.</li>
+<li>Needle 3 models weigh 9-29 MB (CQ2-bit), sized for tiny devices and on-device automation.</li>
+<li>'Intelligence laddering': each layer is a sub-network; developers choose 2L to 20L capacity.</li>
+<li>Claim: the 4L subnetwork, tuned one epoch on a task, can match DeepSeek V4 Flash on automation work.</li>
+<li>Python API: @needle.tool decorators; signatures give argument types, docstrings become tool descriptions.</li>
+<li>Regex 'triggers' restrict decoding to matched tools and force a call, avoiding refusals and misrouting.</li>
+<li>Structured extraction: pass a Pydantic model to needle.extract() and get a typed object back.</li>
+<li>Every response carries calibrated confidence with a 0.1 floor; suppressed calls surface below-threshold intents.</li>
+<li>Example telemetry: 4,300 prefill tps, 850 decode tps, 28.5 MB peak RAM on a tool call.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://cactuscompute.com/needle">Read the original story</a></p>
