@@ -206,9 +206,16 @@ def build_summaries(xs,stamp):
         meta=metadata('news-summary',fmt_date(x.get('first_seen')),fmt_date(stamp),'high',tags)
         source=f'[Read the original story]({x["url"]})'
         if x.get('newsletter_url'): source+=f' · [TLDR AI issue]({x["newsletter_url"]})'
-        r=rich_summary(x); RICH[x['id']]=r
+        r=None; lf=ROOT/'raw'/'llm'/f"{x['id']}.json"
+        if lf.exists():
+            try:
+                d=json.loads(lf.read_text())
+                if d.get('prose'): r={'prose':d['prose'],'highlights':d.get('highlights',[])}
+            except Exception: r=None
+        if r is None: r=rich_summary(x)
+        RICH[x['id']]=r
         if r:
-            prose=' '.join(r['prose'][:2])+('\n\n'+' '.join(r['prose'][2:]) if len(r['prose'])>2 else '')
+            prose='\n\n'.join(r['prose'])
             hl='\n\n## Highlights\n\n'+'\n'.join(f'- {h}' for h in r['highlights']) if r['highlights'] else ''
             summary_sec=prose+hl
         else: summary_sec=story_summary(x)

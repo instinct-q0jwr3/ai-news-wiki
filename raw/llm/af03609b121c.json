@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Anthropic has published a measurement framework for how fast frontier AI labs are automating their own R&D, along with a first snapshot from inside the company: as of August 2026, Claude performs roughly a quarter of Anthropic's AI research and development work. The proposal is aimed at the debate over slowing frontier development, arguing that the public, third parties and governments need verifiable metrics rather than assurances.",
+  "The framework centers on an R&D Automation Index built on Epoch AI's Automation Level scale (AL0, no AI involvement, to AL5, full autonomy) and on oversight metrics for agentic work, such as the share of agent actions passing through monitoring. Anthropic says it plans to embed independent third-party evaluators with access comparable to internal risk teams, and suggests any frontier lab could publish the same measures regularly so numbers can be compared over time and across labs."
+ ],
+ "highlights": [
+  "Headline figure: Claude now does about a quarter of Anthropic's AI research work (August 2026 snapshot).",
+  "The R&D Automation Index catalogues every kind of AI R&D task at the company and rates its current automation level.",
+  "Uses Epoch AI's AL0-AL5 scale; AL3 is 'AI collaborates' under close human direction, AL4 is 'AI leads' with human supervision.",
+  "Stated goal: track how close the world is to recursive self-improvement, a model fully autonomously building its successor.",
+  "Anthropic plans to embed independent third-party evaluators with access to internal processes, systems and data.",
+  "Agent oversight metrics include coverage: the share of an agent's actions that pass through a monitoring system.",
+  "Cross-lab comparison faces two obstacles: no common methodology, and labs judging their own models with their own models.",
+  "Numbers are framed as potential regulatory triggers, e.g. a fixed testing window before a model is used for further AI R&D."
+ ],
+ "id": "af03609b121c",
+ "authored_at": "2026-09-20T10:34:30.756464+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

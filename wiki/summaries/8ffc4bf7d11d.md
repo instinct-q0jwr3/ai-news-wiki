@@ -6,7 +6,9 @@ _type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence:
 
 ## Summary
 
-I'm writing a custom assembler for CHIP-8 and just finished adding support for the DB/.byte directive so I can embed sprites in the ROM and finally get something drawn on the screen. This is my first ever C++ project, just like the CHIP-8 emulator was my first ever C (and emudev) project.
+I'm writing a custom assembler for CHIP-8 and just finished adding support for the DB/.byte directive so I can embed sprites in the ROM and finally get something drawn on the screen.
+
+This is my first ever C++ project, just like the CHIP-8 emulator was my first ever C (and emudev) project.
 
 Custom assembler for my CHIP-8 emulator (WIP) Developed live at:
 

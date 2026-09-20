@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "This essay proposes Natural General Intelligence (NGI): a foundation model grounded in the state and dynamics of the planet itself, connecting biosphere, atmosphere, oceans, land, ice and subsurface, able to anticipate how the Earth system responds to intervention. The framing pushback is aimed at both doomers and accelerationists: natural resources are not produced by human intelligence at all, so 'automating knowledge work' misses the point; the Earth system is, in a sense, already fully automated.",
+  "The author's case rests on recent misalignment costs between human action and planetary response: a glacier collapse in Nepal that killed hundreds, European summer heat that killed at least 35,000 and forced French nuclear plants offline, a returning livestock parasite in Texas, and a building El Niño expected to rearrange drought, fire and harvests across four continents. The path forward borrows the LLM playbook: a vast existing observational archive, learning latent structure from multimodal data instead of hand-tuned features, and expecting generalization."
+ ],
+ "highlights": [
+  "Proposal: NGI, a general-purpose nature model spanning biosphere, atmosphere, oceans, land, ice and subsurface.",
+  "Framing: the Earth system is 'already fully automated'; the opportunity is stewardship, not automation of nature.",
+  "Motivating incidents: 10,000 years of glacier collapsed in an afternoon in Nepal killing hundreds; European heat killed at least 35,000 and idled French nuclear plants.",
+  "Also cited: a flesh-eating livestock parasite resurgence keeping Texas cattle in quarantine, and a potentially record El Niño building in the Pacific.",
+  "Analogy: the planet is 'the biggest RL environment there is', with a single episode and no reset button.",
+  "Data moat: generations of scientists assembled a gigantic, still-growing observational archive for weather and climate modeling.",
+  "Method claim: Earth modeling is about a decade behind LLMs; apply the bitter lesson, learn latent structure from vast multimodal observations.",
+  "Intellectual origin story: James Lovelock's 1960s NASA JPL work on detecting life from planetary atmospheres."
+ ],
+ "id": "941f765c59dc",
+ "authored_at": "2026-09-20T10:34:57.797017+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

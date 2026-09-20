@@ -2,18 +2,18 @@
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-20 · confidence: high</p>
 <p><code>tldr-ai</code></p>
 <h2>Summary</h2>
-<p>Two months ago, we released our first Bonsai 27B models and showed that a 27B-class multimodal model could be compressed enough to run efficiently on a local device. Today, we’re releasing Ternary Bonsai 2 27B, our most capable model yet.</p>
-<p>Based on Qwen3.8 27B, Ternary Bonsai 2 27B brings stronger reasoning, coding, vision, and agentic capability to the Bonsai series while preserving the deployment profile that defines it: a dramatically smaller memory footprint, high…</p>
+<p>Prism ML has released Ternary Bonsai 2 27B, a compressed version of Qwen3.8 27B that uses ternary {-1, 0, +1} weights with FP16 group-wise scaling, 1.76 effective bits per weight, for a total footprint of 5.9 GB. The model retains 98.2% of the full-precision model's aggregate benchmark performance while being more than 9x smaller, supports a 262K-token context window and multimodal input, and ships under Apache 2.0.</p>
+<p>The pitch is intelligence density for local deployment: 143 tokens/second on an RTX 5090 and 46.8 on Apple's M5 Max, at 0.714 mWh per token on an RTX 4090, which Prism says is 40% more energy-efficient than a full-precision 8B model. Retention improving from 95% (first Bonsai generation) to over 98% strengthens the case that low-bit models can be practically lossless, widening where 27B-class capability can run.</p>
 <h2>Highlights</h2>
 <ul>
-<li>Ternary Bonsai 2 27B uses ternary {−1, 0, +1} weights with FP16 group-wise scaling, for 1.76 effective bits per weight and a total model footprint of 5.9GB .</li>
-<li>The low-bit representation is applied end to end across the language model.</li>
-<li>Against its full-precision counterpart, Ternary Bonsai 2 27B is more than 9x smaller while retaining 98.2% of aggregate benchmark performance .</li>
-<li>At this level of retention, compression becomes a deployment unlock: nearly the same capability, in a footprint that can run in far more places.</li>
-<li>Our first Bonsai 27B release was an important milestone, offering a practical way to run 27B-class intelligence on local devices.</li>
-<li>Bonsai 2 27B focuses on the next step: improving the model quality and runtime performance needed for real-world local applications.</li>
-<li>Compared with the previous Bonsai 27B generation, Bonsai 2 27B brings: Across a benchmark suite spanning reasoning, math, coding, instruction following, vision, and agentic tool use, Ternary Bonsai 2 27B scores 83.9 , retaining 98.2% of…</li>
-<li>Bonsai 2 27B preserves much of the full-precision model’s performance in exactly these areas while operating at a fraction of the memory footprint.</li>
+<li>Ternary Bonsai 2 27B: 1.76 effective bits per weight, 5.9 GB total footprint, based on Qwen3.8 27B.</li>
+<li>Retains 98.2% of the full-precision model's aggregate benchmark score (83.9), up from 95% retention in the first Bonsai generation.</li>
+<li>More than 9x smaller than the full-precision counterpart; 262K-token context window; multimodal text-and-image input.</li>
+<li>Throughput: up to 143 tokens/s on RTX 5090, 46.8 tokens/s on M5 Max.</li>
+<li>Energy: 0.714 mWh/token on RTX 4090, claimed 40% more efficient than an 8B model at full precision.</li>
+<li>Released under Apache 2.0, with CUDA and MLX (Mac, iPhone, iPad) support via custom low-bit kernels.</li>
+<li>Retention is strongest in compounding-error domains: coding agents, tool use, multimodal workflows, long-horizon tasks.</li>
+<li>Prism ML is a Caltech spin-out backed by Khosla Ventures, Cerberus, Google and Samsung.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://prismml.com/news/bonsai-2-27b">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-18">TLDR AI issue</a></p>

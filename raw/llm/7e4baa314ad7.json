@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Anthropic has redesigned Claude Code projects from a static folder of context into a managed, multi-threaded workflow: you describe the goal and Claude scopes the request, delegates work to parallel threads, coordinates them, reviews outputs and assembles the result. Each thread is a full Claude Code cloud session on its own branch; a coordinator routes work, resolves overlaps as merge conflicts, and can split assignments further with subagents, loops and workflows.",
+  "Projects gain shared memory across threads (release dates, dropped exports, who to check in with) plus a library of added files and produced artifacts, and users can steer from their phone while work continues unattended. The beta is rolling out to select Claude Pro and Max subscribers using cloud sessions, with Team and Enterprise later; local threads running on the user's machine are promised 'very soon'. Anthropic warns multi-threaded projects burn through usage limits faster."
+ ],
+ "highlights": [
+  "Projects become goal-driven: Claude scopes, delegates, coordinates parallel threads, reviews and assembles the finished result.",
+  "Architecture: a coordinator chat directs threads; each thread is a full Claude Code cloud session with its own branch and repo copy.",
+  "Conflicting thread edits are resolved as ordinary merge conflicts, like any PR.",
+  "Shared memory accumulates project facts and user working style across threads; check-in cadence and detail level are adjustable.",
+  "Example uses: cut checkout p75 latency by profiling endpoints in parallel; retire a v1 API across API, web and mobile repos.",
+  "Beta access: select Claude Pro/Max subscribers with cloud sessions and no existing web/desktop projects; waitlist for the rest.",
+  "Trade-off acknowledged: parallel threads are full sessions, so projects can hit usage limits faster.",
+  "Coming soon: threads running locally alongside the user's own tools, code and network."
+ ],
+ "id": "7e4baa314ad7",
+ "authored_at": "2026-09-20T10:34:57.797017+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

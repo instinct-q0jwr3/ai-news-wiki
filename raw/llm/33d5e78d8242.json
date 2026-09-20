@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Slop Sense is a small web game that tests whether players can tell real photographs from AI-generated images. A round lasts 60 seconds with up to 10 seconds per image; players answer 'Real photo' or 'AI-generated' by clicking or pressing 1 or 2.",
+  "Scoring rewards streaks: +100 points per correct answer, rising to +150 at a 3x streak, +200 at 5x and +300 at 10x or more, while a wrong answer resets the streak and a timeout scores zero. The game rides on the broader question of how convincing synthetic imagery has become."
+ ],
+ "highlights": [
+  "A 60-second quiz: real photo or AI-generated, up to 10 seconds per image.",
+  "Scoring: +100 per correct answer; streak bonuses of +150 at 3x, +200 at 5x, +300 at 10x+.",
+  "Wrong answer or timeout resets the streak; timeouts score zero.",
+  "Playable with mouse or keyboard (1 for real, 2 for AI), with an Enlarge option on mobile.",
+  "Positioned as a test of whether people can still spot AI-generated imagery."
+ ],
+ "id": "33d5e78d8242",
+ "authored_at": "2026-09-20T10:35:17.391884+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

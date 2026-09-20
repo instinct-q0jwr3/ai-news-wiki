@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Dwarkesh Patel interviews OpenAI researcher Noam Brown, a foundational contributor to o1 and the reasoning models, now working on multi-agent systems. The conversation ranges across OpenAI's claim of solving a Navier-Stokes Millennium Prize problem with 10,000 agents spending 130 billion tokens over 88 hours, what the current explosion of mathematical progress implies about automating AI research, and how anyone would know whether models are aligned before recursive self-improvement kicks off.",
+  "Brown frames multi-agent systems as the parallel form of test-time compute scaling: serial thinking hits a latency bottleneck, so agents parallelize like a team of people, less efficient per unit of context but much faster in wall-clock terms. Other segments cover how AI firms will work, the Hugging Face incident and alignment, the internal/external model gap, and the degradation of chain-of-thought monitorability."
+ ],
+ "highlights": [
+  "OpenAI's multi-agent system reportedly solved a Millennium Prize problem (Navier-Stokes) using 10,000 agents, 130 billion tokens, 88 hours.",
+  "Brown's thesis: multi-agent is test-time compute scaled in parallel, trading per-agent context for wall-clock speed.",
+  "Key open question discussed: how to verify alignment before recursive self-improvement begins.",
+  "Topics include the degradation of chain of thought as a monitoring surface and the internal/external model gap.",
+  "Brown was an early contributor to o1 and reasoning models, and an early voice on inference scaling revealing future capabilities.",
+  "Recorded September 17, 2026; chapter list includes 'How will AI firms work?' and 'What math progress tells us about recursive self improvement'."
+ ],
+ "id": "20991e2acdb6",
+ "authored_at": "2026-09-20T10:34:57.797017+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

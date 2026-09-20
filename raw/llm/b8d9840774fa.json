@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Prism ML has released Ternary Bonsai 2 27B, a compressed version of Qwen3.8 27B that uses ternary {-1, 0, +1} weights with FP16 group-wise scaling, 1.76 effective bits per weight, for a total footprint of 5.9 GB. The model retains 98.2% of the full-precision model's aggregate benchmark performance while being more than 9x smaller, supports a 262K-token context window and multimodal input, and ships under Apache 2.0.",
+  "The pitch is intelligence density for local deployment: 143 tokens/second on an RTX 5090 and 46.8 on Apple's M5 Max, at 0.714 mWh per token on an RTX 4090, which Prism says is 40% more energy-efficient than a full-precision 8B model. Retention improving from 95% (first Bonsai generation) to over 98% strengthens the case that low-bit models can be practically lossless, widening where 27B-class capability can run."
+ ],
+ "highlights": [
+  "Ternary Bonsai 2 27B: 1.76 effective bits per weight, 5.9 GB total footprint, based on Qwen3.8 27B.",
+  "Retains 98.2% of the full-precision model's aggregate benchmark score (83.9), up from 95% retention in the first Bonsai generation.",
+  "More than 9x smaller than the full-precision counterpart; 262K-token context window; multimodal text-and-image input.",
+  "Throughput: up to 143 tokens/s on RTX 5090, 46.8 tokens/s on M5 Max.",
+  "Energy: 0.714 mWh/token on RTX 4090, claimed 40% more efficient than an 8B model at full precision.",
+  "Released under Apache 2.0, with CUDA and MLX (Mac, iPhone, iPad) support via custom low-bit kernels.",
+  "Retention is strongest in compounding-error domains: coding agents, tool use, multimodal workflows, long-horizon tasks.",
+  "Prism ML is a Caltech spin-out backed by Khosla Ventures, Cerberus, Google and Samsung."
+ ],
+ "id": "b8d9840774fa",
+ "authored_at": "2026-09-20T10:34:30.756464+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

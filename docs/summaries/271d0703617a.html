@@ -2,18 +2,18 @@
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-20 · confidence: high</p>
 <p><code>hacker-news</code> <code>microsoft</code> <code>agentic-systems</code></p>
 <h2>Summary</h2>
-<p>devops The Rust compiler remains unperturbed by the antics of the LLM The software engine underpinning GitHub Copilot and a growing number of Microsoft products is now written entirely in Rust, with AI agents doing most of the porting work. However, managers also had to grapple with a few dozen regressions in the resulting code, pointing to AI’s ongoing challenges in understanding Rust.</p>
-<p>Overall, agents converted 430,000 lines of TypeScript into 800,000 lines of production Rust.</p>
+<p>Microsoft has rewritten the runtime behind GitHub Copilot from TypeScript to Rust, and most of the porting was done by AI agents. The migration cost about $120,000 in AI tokens plus roughly three weeks of developer time, and converted 430,000 lines of TypeScript into 800,000 lines of production Rust across 135 releases over 14.5 weeks. The runtime is not a niche component: it backs the Copilot CLI, the Copilot app, the SDK and the cloud agent, and surfaces in VS Code, Visual Studio, Excel, Outlook and PowerPoint.</p>
+<p>The results make the case for Rust at scale: one benchmark went from 7.55 to 120 completed session lifecycles per second (a 15.9x speedup), and a 10-client agent batch dropped from 1,383 MB to 126 MB of memory. The project is also a data point on agent-led engineering: Microsoft Distinguished Engineer Stephen Toub reports agents spent more time investigating than writing code, spawned and coordinated child sessions on their own, and still shipped a few dozen regressions, a reminder that a compiling Rust program is not necessarily a correct one.</p>
 <h2>Highlights</h2>
 <ul>
-<li>The migration cost about $120,000 in AI token usage plus about three weeks of a developer's time.</li>
-<li>The effort updated the runtime module-by-module until the job was completed, spanning over 135 releases across a 14.5-week time period.</li>
-<li>Roughly 1.3 port pull requests were opened per day.</li>
-<li>To keep the port as simple as possible, the port only replaced TypeScript modules on a case-by-case basis.</li>
-<li>It didn’t look to optimize the structure of the runtime itself.</li>
-<li>And Rust, known for its lean performance, did not disappoint.</li>
-<li>The original TypeScript implementation completed 7.55 of those lifecycles per second, while Rust running in-process managed 120 per second - representing a 15.9x speedup on that particular workload.</li>
-<li>Within Rust, the work remained in-process instead of spawning external background processes for completion, a requirement for TypeScript.</li>
+<li>Cost: about $120,000 in AI tokens plus ~3 weeks of a developer's time; a manual port was estimated at years and millions of dollars.</li>
+<li>Scope: 430,000 lines of TypeScript became 800,000 lines of Rust over 135 releases in 14.5 weeks, about 1.3 port PRs per day.</li>
+<li>Performance: 7.55 to 120 one-turn session lifecycles per second on a 100-concurrent-pipeline benchmark, a 15.9x speedup.</li>
+<li>Memory: a 10-client agent batch fell from 1,383 MB (TypeScript) to 126 MB (Rust).</li>
+<li>Agents did most of the work using several models, including GPT-5.6 Sol and Claude Opus 4.8, chosen per task.</li>
+<li>Hardest file: session.ts (30,000+ lines) took a 25-hour session that spawned 15 child sessions which coordinated with each other.</li>
+<li>Caveat: dozens of regressions slipped through; Rust's compiler guarantees memory safety, not program correctness (Lisa Crossman's RustConf warning quoted).</li>
+<li>Related: Bun's 535,000-line Zig-to-Rust port, also agent-driven, cost $165,000 in tokens and passed 99.8% of tests.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549">Read the original story</a></p>

@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Beijing is pushing back on US calls, most recently from Anthropic CEO Dario Amodei, for a coordinated slowdown of frontier AI development. Chinese officials and analysts read the pitch as an attempt to lock in America's lead: AI is treated in China as a 'core sovereignty capability', and Amodei's own framing, keeping 'democracies' AI lead over autocracies as large as possible' with continued chip export controls, hardened that reading. China's foreign ministry answered that 'fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance'.",
+  "The disagreement is narrower than the rhetoric suggests. This week China released the third iteration of its AI safety governance framework, mapping risks that overlap with Amodei's agenda: agentic systems, frontier-model cybersecurity threats, and recursive self-improvement. Meanwhile President Trump called fears of AI wiping out humanity a 'hoax', and he meets Xi Jinping in Washington next week with AI on the agenda, though analysts expect no breakthrough. China is simultaneously encouraging AI adoption across its economy, written into its latest Five Year Plan."
+ ],
+ "highlights": [
+  "Dario Amodei pitched a 'worldwide pacing of the frontier' last Saturday, saying it would 'require cooperation with China'.",
+  "Omdia's Lian Jye Su: China is 'definitely not receptive' and sees slowdown calls as a bid to lock in US advantage.",
+  "China released the third iteration of its AI safety governance framework this week, now covering agents, cybersecurity and recursive self-improvement.",
+  "Concordia AI's Gabriel Wagner sees 'more common ground than people might assume' between Amodei and Beijing's positions.",
+  "Trump called AI extinction fears a 'hoax' this week; he meets Xi Jinping in Washington next week with AI on the agenda.",
+  "China's regulation is iterative: an algorithm registry since 2022, and a focus shift 'from controlling what AI says to controlling what it does'.",
+  "Carnegie's Leia Wang notes Chinese companies do less voluntary monitoring and evaluation than US ones, and neither government is prepared for a loss-of-control incident.",
+  "AI adoption is being pushed economy-wide under the latest Five Year Plan, with local governments offering funding and low rents to AI companies."
+ ],
+ "id": "0b3fd12f67b6",
+ "authored_at": "2026-09-20T10:35:17.391884+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

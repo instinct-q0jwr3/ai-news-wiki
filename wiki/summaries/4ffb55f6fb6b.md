@@ -6,20 +6,19 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-20 · confidence:
 
 ## Summary
 
-Notion lets teams share the same instructions across AI agents. By Geoffrey Litt Skills make AI agents more capable and customized to your workflows.
+Notion is turning its workspace into a shared skills library for AI agents: teams can author, organize and govern agent skills as ordinary Notion pages and databases, then load them into any agent through a new Skills API. The bet is that skills are becoming a critical store of organizational knowledge that should be agent-neutral rather than locked into one vendor's assistant.
 
-That’s why it’s critical for modern teams to adopt a skills library where they can share and discover skills.
+The API returns skills in spec-compliant file formats, enabling concrete flows: syncing Notion skills into GitHub for use in Claude, ChatGPT and Grok Bot (an open-source starter kit is provided), editing skills from agent apps via MCP tools, and one-line installs through Vercel's skills CLI (npx skills add <notion url>). Customer quotes from Pearmill, Candidly and Brainlabs emphasize the non-engineer ergonomics that Git-only workflows lack.
 
 ## Highlights
 
-- And skills become even more valuable when they’re shared, letting many people benefit from the efforts of a few.
-- Our customers tell us they’re looking for a skills library with these qualities: Made for the whole team : Skills aren’t just for engineers anymore.
-- A skills library must be easy to use for everyone, including functions like sales/marketing, finance, and operations.
-- Agent-neutral : Skills are becoming a critical store of organizational knowledge.
-- Your skills must be available in every agent, not locked into a single one.
-- At Notion, we’re building a skills library that checks all of these boxes.
-- Using the skills API, you can sync your team’s skills from Notion into GitHub.
-- This lets nontechnical teams use Notion as their collaborative home for skills, while still keeping those skills synced into their various agents.
+- New Skills API loads skills from Notion in spec-compliant formats, usable by any agent or tool.
+- Design goals: usable by the whole team (not just engineers), agent-neutral, collaborative with permissions and version history, observable and governable for admins.
+- GitHub sync: open-source starter kit keeps Notion as the editing home while agents consume skills from repos.
+- MCP tools let agent apps upload and edit Notion skills, creating a continuous-improvement loop.
+- Vercel's skills CLI now supports Notion: 'npx skills add <notion url>' or interactive plugin installs.
+- Customers cited: Pearmill (marketing/design/ops sharing skills weekly), Candidly, Brainlabs.
+- Skills are stored as Notion pages in databases, with folders of supporting files like assets and code.
 
 ## Source
 

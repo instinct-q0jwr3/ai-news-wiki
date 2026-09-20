@@ -10,7 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
-- **2026-09-20** - The companies knew they were driving us toward Google Zero, and did it anyway. ([OpenAI and Microsoft knew they were starting a 'doom loop' for the web](../summaries/68538d387150.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md))
+- **2026-09-20** - Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft contain internal warnings that the companies' AI products would damage the web they were trained on. An internal Microsoft document says its AI content strategy… ([OpenAI and Microsoft knew they were starting a 'doom loop' for the web](../summaries/68538d387150.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md))
 - **2026-09-19** - On July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. ([A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](../summaries/4f60b8959b83.md) · [OpenAI](../entities/openai.md))
 - **2026-09-19** - AI drastically shortened its design time; it will only get faster Matthew S. ([How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../summaries/cb7bf963906c.md) · [OpenAI](../entities/openai.md))
 - **2026-09-19** - Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown. Hacker News selected it as an AI-relevant development. ([Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown](../summaries/3d2dfa680256.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))

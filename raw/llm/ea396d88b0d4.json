@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "KDE turns 30 this year, and its Akademy conference in Graz (starting September 19) features a likely divisive proposal: an 'AI-native' desktop. Longtime contributors Eva Brucherseifer and Jan Muehlig sketch 'Kadai', an encrypted, vendor-agnostic personal kernel from which Plasma would assemble each Activity, a desktop 'compiled per user, per device, per moment' from a small portable model of the user.",
+  "The proposal argues Plasma is uniquely suited, thanks to Activities, Plasmoids and its scripting surface, but would need upstream changes like declarative reconciliation, per-widget capabilities and richer Activity metadata, aiming to make KDE 'the first shell that treats AI as infrastructure rather than as a chat box bolted to the side'. Critics note its resemblance to last December's Resonant Computing Manifesto, and even the Trinity Desktop fork (a KDE 3 continuation) has begun dabbling in AI-generated code, leaving few AI-free corners."
+ ],
+ "highlights": [
+  "KDE celebrates its 30th anniversary; Akademy opens September 19 at Graz University of Technology.",
+  "Proposal talk: 'What would it take? A lovable, sovereign, AI-native KDE' by Eva Brucherseifer and Jan Muehlig.",
+  "Core idea: 'Kadai', an encrypted, vendor-agnostic personal kernel from which Plasma assembles each Activity per user, device and moment.",
+  "Required upstream changes: declarative reconciliation, per-widget capabilities, richer Activity metadata.",
+  "Ambition: make KDE the first shell treating AI as infrastructure rather than a bolted-on chat box.",
+  "The talk's first part revisits a 2003 usability study of KDE 3.1 where 87% of 60 Linux-naive office workers enjoyed KDE.",
+  "David Gerard links the concept to the Resonant Computing Manifesto launched at Wired's Big Interview in December 2025.",
+  "Even the AI-skeptical Trinity Desktop (KDE 3 fork) has contributors experimenting with AI-generated code."
+ ],
+ "id": "ea396d88b0d4",
+ "authored_at": "2026-09-20T10:35:17.391884+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

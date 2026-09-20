@@ -2,18 +2,18 @@
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-20 · confidence: high</p>
 <p><code>hacker-news</code> <code>anthropic</code> <code>agentic-systems</code></p>
 <h2>Summary</h2>
-<p>One session coordinates and verifies while others execute, with a durable board holding state. An orchestrator-worker loop for long-running Claude Code agents.</p>
-<p>Long-horizon AI coding work fails less because agents cannot write code and more because their context is ephemeral and their self-reports are unreliable.</p>
+<p>This post lays out a 'Chief of Staff' pattern for orchestrating Claude Code agents on long-horizon work: one long-lived coordinator session assigns work, verifies claims and maintains shared state, while short-lived executor sessions do the implementation, and a durable external board holds the truth. The diagnosis is that long autonomous runs fail less from coding ability than from ephemeral context and unreliable self-reports, and that adding more agents only multiplies the problem unless someone owns 'what is true'.</p>
+<p>The verification discipline is the core contribution: a red gate first (the verifier must fail before work starts, otherwise nothing is proven), every claimed command re-run with exit codes deciding, diffs read hunk by hunk, and one work item per dispatch and commit. The mental model is Git's integration-manager workflow, and the stack is replaceable: Claude Code sessions, cmux for scriptable terminal workspaces, and Plan Desk, an MCP-exposed planning board, as the memory that outlives any context window.</p>
 <h2>Highlights</h2>
 <ul>
-<li>The fix is organizational rather than technical: one session coordinates and verifies while separate sessions execute, a durable external board holds the state, and every claim is re-run before it is believed.</li>
-<li>The shape is already known as orchestrator-worker and coordinator-implementor-verifier.</li>
-<li>Chief of Staff is just what we call it.</li>
-<li>This covers the loop, the tooling that makes it practical, and the failure modes it exists to catch.</li>
-<li>A single AI coding session works well for an hour and degrades after that.</li>
-<li>What fixes it is a division of labour borrowed from human organizations: someone whose job is not to do the work, but to know what is true.</li>
-<li>Chief of Staff is our name for an agent orchestration shape in which one long-lived session acts as coordinator, assigning work, verifying claims, and maintaining shared state, while separate short-lived sessions perform the implementation.</li>
-<li>The phrase chief of staff agent is widely used for something else: an assistant that runs a person’s calendar, inbox, and priorities and routes work out to specialist agents.</li>
+<li>Pattern: one coordinator session plans and verifies; separate short-lived sessions implement; shared state lives outside any context window.</li>
+<li>Rule: the coordinator never writes implementation; the moment it codes, it stops verifying and the pattern collapses.</li>
+<li>Red gate first: run the verifier before starting; if it is already green, the work proves nothing and may already be done.</li>
+<li>Every claimed command is re-run; exit codes, not agent self-reports, decide what is true.</li>
+<li>Loop: pull next unblocked task, read its design doc, red gate, delegate, prove, observe the diff, gate the approval lane, ship one commit.</li>
+<li>Tooling: Claude Code sessions (isolated context windows), cmux for scriptable workspaces, Plan Desk as an MCP planning board.</li>
+<li>Skipping the durable board is cited as the main reason multi-agent setups 'do not survive the night'.</li>
+<li>Prior art named: orchestrator-worker and coordinator-implementor-verifier shapes, and Git's integration-manager workflow.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/">Read the original story</a></p>
