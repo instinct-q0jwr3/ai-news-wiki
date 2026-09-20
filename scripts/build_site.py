@@ -61,17 +61,19 @@ def main():
         relpath=p.relative_to(WIKI).with_suffix('.html'); dest=OUT/relpath; dest.parent.mkdir(parents=True,exist_ok=True)
         rel='../'*len(relpath.parent.parts); text=p.read_text(); title=title_of(p)
         dest.write_text(shell(title,f'<article>{render_md(text)}</article>',rel))
-        plain=re.sub(r'[#*_`\[\]()]',' ',text); docs.append({'title':title,'url':relpath.as_posix(),'text':re.sub(r'\s+',' ',plain)[:2400],'type':p.parent.name})
+        plain=re.sub(r'[#*_`\[\]()]',' ',text)
+        if p.name=='log.md': continue
+        docs.append({'title':title,'url':relpath.as_posix(),'text':re.sub(r'\s+',' ',plain)[:2400],'type':p.parent.name})
     for folder,label in LABELS.items():
         d=WIKI/folder
         if not d.exists(): continue
         arr=sorted(d.glob('*.md'),reverse=True)
         cards=[]
         for p in arr:
-            desc=next((x for x in p.read_text().splitlines()[1:] if x.strip() and not x.startswith(("#","<!--","_"))), "Abrir página")
+            desc=next((x for x in p.read_text().splitlines()[1:] if x.strip() and not x.startswith(("#","<!--","_"))), "Open page")
             cards.append(f'<a class="card" href="{p.stem}.html"><span class="eyebrow">{html.escape(label)}</span><h2>{html.escape(title_of(p))}</h2><p>{html.escape(desc)}</p></a>')
         cards=''.join(cards)
-        (OUT/folder/'index.html').write_text(shell(label,f'<div class="page-title"><span class="eyebrow">Biblioteca</span><h1>{label}</h1><p>{len(arr)} páginas mantenidas desde el corpus.</p></div><div class="card-grid">{cards}</div>','../'))
+        (OUT/folder/'index.html').write_text(shell(label,f'<div class="page-title"><span class="eyebrow">Library</span><h1>{label}</h1><p>{len(arr)} pages maintained from the corpus.</p></div><div class="card-grid">{cards}</div>','../'))
     weekly=sorted((WIKI/'weekly').glob('*.md'),reverse=True); latest=weekly[0] if weekly else None
     entities=sorted((WIKI/'entities').glob('*.md'),key=lambda p:p.stat().st_mtime,reverse=True)
     daily=sorted((WIKI/'daily').glob('*.md'),reverse=True)
@@ -81,13 +83,13 @@ def main():
         if p.name in ('index.md','log.md'): continue
         corpus.extend(re.findall(r'\[([^]]+)\]\((https?://[^)]+)\)',p.read_text()))
     counts=Counter(label for label,url in corpus)
-    most='<section><div class="section-head"><h2>Most Linked</h2><span>señales recurrentes</span></div><ol class="ranked">'+''.join(f'<li><span>{html.escape(k[:88])}</span><b>{v:02d}</b></li>' for k,v in counts.most_common(8))+'</ol></section>'
-    hero=f'<a class="hero-card" href="{latest.relative_to(WIKI).with_suffix(".html").as_posix() if latest else "weekly/index.html"}"><span class="eyebrow">Weekly synthesis</span><h1>{html.escape(title_of(latest)) if latest else "La semana en IA"}</h1><p>Una lectura conectada de los cambios, tensiones y señales que atraviesan el corpus.</p><span class="cta">Leer síntesis →</span></a>'
-    stats=f'<div class="stats"><span><b>{len(files)}</b> páginas</span><span><b>{len(entities)}</b> entidades</span><span><b>{len(concepts)}</b> conceptos</span><span><b>{len(comparisons)}</b> comparativas</span><span><b>{len(daily)}</b> digests</span></div>'
+    most='<section><div class="section-head"><h2>Most Linked</h2><span>recurring signals</span></div><ol class="ranked">'+''.join(f'<li><span>{html.escape(k[:88])}</span><b>{v:02d}</b></li>' for k,v in counts.most_common(8))+'</ol></section>'
+    hero=f'<a class="hero-card" href="{latest.relative_to(WIKI).with_suffix(".html").as_posix() if latest else "weekly/index.html"}"><span class="eyebrow">Weekly synthesis</span><h1>{html.escape(title_of(latest)) if latest else "The week in AI"}</h1><p>A connected read of the changes, tensions and signals running through the corpus.</p><span class="cta">Read the synthesis →</span></a>'
+    stats=f'<div class="stats"><span><b>{len(files)}</b> pages</span><span><b>{len(entities)}</b> entities</span><span><b>{len(concepts)}</b> concepts</span><span><b>{len(comparisons)}</b> comparisons</span><span><b>{len(daily)}</b> digests</span></div>'
     body=stats+hero+'<div class="home-grid"><div>'+section_cards('Latest Digests',daily,6)+section_cards('Recently Updated',entities+concepts,8)+'</div><div>'+most+section_cards('Explore Hubs',sorted((WIKI/'hubs').glob('*.md')),5)+'</div></div>'
     (OUT/'index.html').write_text(shell('AI News Wiki',body,'',True))
     (OUT/'assets'/'search-index.json').write_text(json.dumps(docs,ensure_ascii=False))
-    (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>Sin resultados</i>'});""")
+    (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")
     (OUT/'assets'/'style.css').write_text(CSS)
     (OUT/'.nojekyll').write_text('')
     print(f'Built {len(files)} wiki pages in docs/')
