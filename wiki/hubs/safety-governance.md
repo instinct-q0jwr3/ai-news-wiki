@@ -1,10 +1,10 @@
-# Hub: Seguridad y gobernanza
+# Hub: Safety and governance
 
-Evaluación, incidentes, regulación y controles en una sola ruta.
+Evaluation, incidents, regulation and controls in one route.
 
 ## Explorar
 
-- [Concepto · Evaluación externa](../concepts/external-evaluation.md)
-- [Concepto · Incidentes y controles](../concepts/ai-safety-incidents.md)
-- [Tema · Seguridad y alineación](../topics/seguridad-y-alineacion.md)
-- [Tema · Regulación y política](../topics/regulacion-y-politica.md)
+- [Concept · External evaluation](../concepts/external-evaluation.md)
+- [Concept · Incidents and controls](../concepts/ai-safety-incidents.md)
+- [Topic · Safety and alignment](../topics/seguridad-y-alineacion.md)
+- [Topic · Regulation and policy](../topics/regulacion-y-politica.md)

@@ -9,15 +9,15 @@ WIKI=ROOT/'wiki'; RAW=ROOT/'raw'/'snapshots'
 BEGIN='<!-- AUTO:EVIDENCE -->'; END='<!-- /AUTO:EVIDENCE -->'
 
 CONCEPTS={
- 'agentic-systems': ('Sistemas agénticos', ['agent','agentic','tool call','computer use','claude code','agents.md']),
- 'external-evaluation': ('Evaluación externa de IA', ['evaluat','metr','redwood','apollo','aef-1','benchmark']),
- 'small-specialist-models': ('Modelos pequeños y especialistas', ['small model','local-llm','local llm','needle','system one','cua-s1','edge','on-device']),
- 'ai-safety-incidents': ('Incidentes y controles de seguridad', ['safety','security','hack','misalign','kill-switch','hallucin','collusion','guardrail']),
+ 'agentic-systems': ('Agentic systems', ['agent','agentic','tool call','computer use','claude code','agents.md']),
+ 'external-evaluation': ('External AI evaluation', ['evaluat','metr','redwood','apollo','aef-1','benchmark']),
+ 'small-specialist-models': ('Small and specialist models', ['small model','local-llm','local llm','needle','system one','cua-s1','edge','on-device']),
+ 'ai-safety-incidents': ('AI safety incidents and controls', ['safety','security','hack','misalign','kill-switch','hallucin','collusion','guardrail']),
 }
 COMPARISONS={
  'openai-vs-anthropic': ('OpenAI vs Anthropic', ['openai','gpt-6','astra'], ['anthropic','claude','fable','mythos']),
- 'generalistas-vs-especialistas': ('Modelos generalistas vs especialistas', ['gpt','claude','gemini','foundation model'], ['needle','cua-s1','small model','specialist','local-llm']),
- 'agentes-abiertos-vs-cerrados': ('Agentes abiertos vs plataformas cerradas', ['open source','github','local','agents.md'], ['openai','anthropic','salesforce','meta']),
+ 'generalistas-vs-especialistas': ('Generalist vs specialist models', ['gpt','claude','gemini','foundation model'], ['needle','cua-s1','small model','specialist','local-llm']),
+ 'agentes-abiertos-vs-cerrados': ('Open agents vs closed platforms', ['open source','github','local','agents.md'], ['openai','anthropic','salesforce','meta']),
 }
 
 def stories():
@@ -43,12 +43,12 @@ def match(xs, terms):
 
 def bullet(x):
     meta=f" · {x.get('source','Fuente')}"
-    if x.get('score'): meta+=f" · {x['score']} puntos HN"
+    if x.get('score'): meta+=f" · {x['score']} HN points"
     return f"- [{x['title']}]({x['url']}){meta}"
 
 def replace_block(path, title, intro, lines):
     path.parent.mkdir(parents=True,exist_ok=True)
-    block='\n'.join([BEGIN,'## Evidencia viva','']+lines+['',END])
+    block='\n'.join([BEGIN,'## Living evidence','']+lines+['',END])
     if path.exists():
         text=path.read_text()
         if BEGIN in text and END in text:
@@ -59,58 +59,58 @@ def replace_block(path, title, intro, lines):
 
 def ensure_curated():
     seeds={
-      'agentic-systems': 'Sistemas que planifican o actúan mediante herramientas. Esta página sigue su arquitectura, control, observabilidad y adopción.',
-      'external-evaluation': 'Cómo terceros, estándares y evaluaciones embebidas intentan medir capacidades y riesgos de modelos avanzados.',
-      'small-specialist-models': 'Modelos estrechos que cambian capacidad general por coste, latencia y control local.',
-      'ai-safety-incidents': 'Registro interpretado de fallos, ataques y propuestas de control. Un incidente reportado no equivale por sí solo a un riesgo general demostrado.',
+      'agentic-systems': 'Systems that plan or act through tools. This page tracks their architecture, control, observability and adoption.',
+      'external-evaluation': 'How third parties, standards and embedded evaluations try to measure capabilities and risks of advanced models.',
+      'small-specialist-models': 'Narrow models that trade general capability for cost, latency and local control.',
+      'ai-safety-incidents': 'An interpreted record of failures, attacks and control proposals. A reported incident does not by itself prove a general risk.',
     }
     return seeds
 
 def build_concepts(xs, stamp):
     for slug,(title,terms) in CONCEPTS.items():
         hits=sorted(match(xs,terms),key=lambda x:x.get('score',0),reverse=True)[:14]
-        lines=[f"_Actualización automática: `{stamp or 'sin sello'}` · {len(hits)} señales seleccionadas._",'']+[bullet(x) for x in hits]
-        replace_block(WIKI/'concepts'/f'{slug}.md',f'Concepto: {title}',ensure_curated()[slug],lines)
+        lines=[f"_Automatic update: `{stamp or 'no stamp'}` · {len(hits)} selected signals._",'']+[bullet(x) for x in hits]
+        replace_block(WIKI/'concepts'/f'{slug}.md',f'Concept: {title}',ensure_curated()[slug],lines)
 
 def build_comparisons(xs, stamp):
     intros={
-      'openai-vs-anthropic': 'Comparación continua de lanzamientos, precio, empresa, evaluación y seguridad. No es una tabla de clasificación: conserva la evidencia y separa anuncios de resultados independientes.',
-      'generalistas-vs-especialistas': 'Los generalistas maximizan amplitud y razonamiento; los especialistas buscan menor coste, latencia y una superficie de acción verificable.',
-      'agentes-abiertos-vs-cerrados': 'Contrasta control y auditabilidad local con la integración y capacidad de las plataformas alojadas.',
+      'openai-vs-anthropic': 'Running comparison of launches, pricing, business, evaluation and safety. Not a leaderboard: it keeps the evidence and separates announcements from independent results.',
+      'generalistas-vs-especialistas': 'Generalists maximize breadth and reasoning; specialists aim for lower cost, latency and a verifiable action surface.',
+      'agentes-abiertos-vs-cerrados': 'Contrasts local control and auditability with the integration and capability of hosted platforms.',
     }
     for slug,(title,a,b) in COMPARISONS.items():
         left=sorted(match(xs,a),key=lambda x:x.get('score',0),reverse=True)[:8]
         right=sorted(match(xs,b),key=lambda x:x.get('score',0),reverse=True)[:8]
-        lines=[f"_Actualización automática: `{stamp or 'sin sello'}`._",'',f"### Señales: {title.split(' vs ')[0]}",'']+[bullet(x) for x in left]+['',f"### Señales: {title.split(' vs ')[-1]}",'']+[bullet(x) for x in right]
-        replace_block(WIKI/'comparisons'/f'{slug}.md',f'Comparativa: {title}',intros[slug],lines)
+        lines=[f"_Automatic update: `{stamp or 'no stamp'}`._",'',f"### Signals: {title.split(' vs ')[0]}",'']+[bullet(x) for x in left]+['',f"### Signals: {title.split(' vs ')[-1]}",'']+[bullet(x) for x in right]
+        replace_block(WIKI/'comparisons'/f'{slug}.md',f'Comparison: {title}',intros[slug],lines)
 
 def build_weekly(xs, stamp):
     day=(stamp[:10] if stamp else dt.date.today().isoformat()); date=dt.date.fromisoformat(day); iso=date.isocalendar(); slug=f'{iso.year}-W{iso.week:02d}'
     cats={title:match(xs,terms) for title,terms in CONCEPTS.values()}
     source_counts=Counter(x.get('source','?') for x in xs)
     top=sorted(xs,key=lambda x:x.get('score',0),reverse=True)[:8]
-    lines=[f'# Síntesis semanal · {slug}','',f'_Corte de datos: `{stamp}` · {len(xs)} historias únicas._','',
-      '## Lectura ejecutiva','',
-      'La semana está dominada por el paso de chat a sistemas que actúan, mientras evaluación y seguridad se convierten en infraestructura. En paralelo aparecen modelos pequeños y especialistas como alternativa de coste y control a los modelos frontera.','',
-      '## Señales por eje','']
+    lines=[f'# Weekly synthesis · {slug}','',f'_Data cut: `{stamp}` · {len(xs)} unique stories._','',
+      '## Executive read','',
+      'The week is dominated by the shift from chat to systems that act, while evaluation and safety turn into infrastructure. In parallel, small specialist models emerge as a cost-and-control alternative to frontier models.','',
+      '## Signals by axis','']
     for title,hits in cats.items():
-        lines.append(f"- **{title}:** {len(hits)} historias relacionadas.")
-    lines += ['', '## Historias con más conversación en Hacker News','']+[bullet(x) for x in top]
-    lines += ['', '## Cobertura por fuente','']+[f"- {k}: {v}" for k,v in source_counts.most_common()]
-    lines += ['', '## Qué vigilar','',
-      '- Si los estándares de evaluación externa pasan de anuncios a resultados publicados y comparables.',
-      '- Si los modelos especialistas mantienen su ventaja fuera de tareas estrechas.',
-      '- Si la observabilidad de agentes se consolida como categoría propia de infraestructura.','']
+        lines.append(f"- **{title}:** {len(hits)} related stories.")
+    lines += ['', '## Most discussed on Hacker News','']+[bullet(x) for x in top]
+    lines += ['', '## Coverage by source','']+[f"- {k}: {v}" for k,v in source_counts.most_common()]
+    lines += ['', '## What to watch','',
+      '- Whether external-evaluation standards move from announcements to published, comparable results.',
+      '- Whether specialist models keep their edge outside narrow tasks.',
+      '- Whether agent observability consolidates as its own infrastructure category.','']
     (WIKI/'weekly').mkdir(exist_ok=True); (WIKI/'weekly'/f'{slug}.md').write_text('\n'.join(lines))
 
 def build_hubs():
     hubs={
-      'agentic-ai': ('IA agéntica','Punto de entrada a sistemas que actúan, modelos especialistas y observabilidad.',[
-        ('Concepto · Sistemas agénticos','../concepts/agentic-systems.md'),('Concepto · Modelos pequeños y especialistas','../concepts/small-specialist-models.md'),('Comparativa · Generalistas vs especialistas','../comparisons/generalistas-vs-especialistas.md'),('Tema · Agentes','../topics/agentes.md')]),
-      'safety-governance': ('Seguridad y gobernanza','Evaluación, incidentes, regulación y controles en una sola ruta.',[
-        ('Concepto · Evaluación externa','../concepts/external-evaluation.md'),('Concepto · Incidentes y controles','../concepts/ai-safety-incidents.md'),('Tema · Seguridad y alineación','../topics/seguridad-y-alineacion.md'),('Tema · Regulación y política','../topics/regulacion-y-politica.md')]),
-      'frontier-models': ('Modelos frontera','Lanzamientos, entidades y comparaciones entre laboratorios.',[
-        ('Comparativa · OpenAI vs Anthropic','../comparisons/openai-vs-anthropic.md'),('Tema · Modelos','../topics/modelos.md'),('Entidad · OpenAI','../entities/openai.md'),('Entidad · Anthropic','../entities/anthropic.md')])}
+      'agentic-ai': ('Agentic AI','Entry point to systems that act, specialist models and observability.',[
+        ('Concept · Agentic systems','../concepts/agentic-systems.md'),('Concept · Small and specialist models','../concepts/small-specialist-models.md'),('Comparison · Generalists vs specialists','../comparisons/generalistas-vs-especialistas.md'),('Topic · Agents','../topics/agentes.md')]),
+      'safety-governance': ('Safety and governance','Evaluation, incidents, regulation and controls in one route.',[
+        ('Concept · External evaluation','../concepts/external-evaluation.md'),('Concept · Incidents and controls','../concepts/ai-safety-incidents.md'),('Topic · Safety and alignment','../topics/seguridad-y-alineacion.md'),('Topic · Regulation and policy','../topics/regulacion-y-politica.md')]),
+      'frontier-models': ('Frontier models','Launches, entities and lab comparisons.',[
+        ('Comparison · OpenAI vs Anthropic','../comparisons/openai-vs-anthropic.md'),('Topic · Models','../topics/modelos.md'),('Entity · OpenAI','../entities/openai.md'),('Entity · Anthropic','../entities/anthropic.md')])}
     d=WIKI/'hubs'; d.mkdir(exist_ok=True)
     for slug,(title,desc,links) in hubs.items():
         (d/f'{slug}.md').write_text('\n'.join([f'# Hub: {title}','',desc,'','## Explorar','']+[f'- [{n}]({u})' for n,u in links]+['']))
@@ -121,26 +121,26 @@ def update_index(stamp):
     auto=f'''<!-- AUTO:NAV -->
 ## Hubs
 
-- [IA agéntica](hubs/agentic-ai.md)
-- [Seguridad y gobernanza](hubs/safety-governance.md)
-- [Modelos frontera](hubs/frontier-models.md)
+- [Agentic AI](hubs/agentic-ai.md)
+- [Safety and governance](hubs/safety-governance.md)
+- [Frontier models](hubs/frontier-models.md)
 
-## Conceptos
+## Concepts
 
-- [Sistemas agénticos](concepts/agentic-systems.md)
-- [Evaluación externa de IA](concepts/external-evaluation.md)
-- [Modelos pequeños y especialistas](concepts/small-specialist-models.md)
-- [Incidentes y controles de seguridad](concepts/ai-safety-incidents.md)
+- [Agentic systems](concepts/agentic-systems.md)
+- [External AI evaluation](concepts/external-evaluation.md)
+- [Small and specialist models](concepts/small-specialist-models.md)
+- [AI safety incidents and controls](concepts/ai-safety-incidents.md)
 
-## Comparativas
+## Comparisons
 
 - [OpenAI vs Anthropic](comparisons/openai-vs-anthropic.md)
-- [Generalistas vs especialistas](comparisons/generalistas-vs-especialistas.md)
-- [Agentes abiertos vs plataformas cerradas](comparisons/agentes-abiertos-vs-cerrados.md)
+- [Generalist vs specialist models](comparisons/generalistas-vs-especialistas.md)
+- [Open agents vs closed platforms](comparisons/agentes-abiertos-vs-cerrados.md)
 
-## Síntesis semanal
+## Weekly synthesis
 
-- [Semana actual](weekly/{week}.md)
+- [Current week](weekly/{week}.md)
 <!-- /AUTO:NAV -->'''
     if '<!-- AUTO:NAV -->' in text: text=re.sub(r'<!-- AUTO:NAV -->.*?<!-- /AUTO:NAV -->',auto,text,flags=re.S)
     else: text=text.rstrip()+'\n\n'+auto+'\n'

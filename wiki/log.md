@@ -15,3 +15,4 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-09-20] agent-pass | sin noticias nuevas (5 salen del feed por antigüedad) | snapshot 20260920T045726Z
 ## [2026-09-20] ingest | 42 noticias IA | snapshot 20260920T092138Z
 ## [2026-09-20] ingest | 42 noticias IA | snapshot 20260920T092227Z
+## [2026-09-20] ingest | 42 AI stories | snapshot 20260920T094340Z

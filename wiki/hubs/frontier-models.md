@@ -1,10 +1,10 @@
-# Hub: Modelos frontera
+# Hub: Frontier models
 
-Lanzamientos, entidades y comparaciones entre laboratorios.
+Launches, entities and lab comparisons.
 
 ## Explorar
 
-- [Comparativa · OpenAI vs Anthropic](../comparisons/openai-vs-anthropic.md)
-- [Tema · Modelos](../topics/modelos.md)
-- [Entidad · OpenAI](../entities/openai.md)
-- [Entidad · Anthropic](../entities/anthropic.md)
+- [Comparison · OpenAI vs Anthropic](../comparisons/openai-vs-anthropic.md)
+- [Topic · Models](../topics/modelos.md)
+- [Entity · OpenAI](../entities/openai.md)
+- [Entity · Anthropic](../entities/anthropic.md)

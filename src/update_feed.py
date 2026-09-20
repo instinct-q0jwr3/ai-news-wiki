@@ -120,34 +120,34 @@ def dedupe(items: Iterable[dict]) -> list[dict]:
 
 
 def render_daily(day: str, items: list[dict], generated: str) -> str:
-    lines = [f"# IA en las noticias - {day}", "", f"Actualizado: `{generated}`", "",
-             "Fuentes: Techmeme, Hacker News, Lobsters, Latent.Space y Stratechery.", ""]
+    lines = [f"# AI in the news - {day}", "", f"Updated: `{generated}`", "",
+             "Sources: Techmeme, Hacker News, Lobsters, Latent.Space and Stratechery.", ""]
     for source in ("Techmeme", "Hacker News", "Lobsters", "Latent.Space", "Stratechery"):
         source_items = [item for item in items if item["source"] == source]
         lines.extend([f"## {source}", ""])
         if not source_items:
-            lines.extend(["_No se encontraron noticias que superasen el filtro._", ""])
+            lines.extend(["_No stories passed the AI filter._", ""])
             continue
         for item in source_items:
             signals = ", ".join(f"`{term}`" for term in item["ai_matches"][:5])
             meta = ""
             if source == "Hacker News":
-                meta = f" - {item.get('score', 0)} puntos, {item.get('comments', 0)} comentarios"
-            lines.extend([f"- [{item['title']}]({item['url']}){meta}", f"  - Señales IA: {signals}"])
+                meta = f" - {item.get('score', 0)} points, {item.get('comments', 0)} comments"
+            lines.extend([f"- [{item['title']}]({item['url']}){meta}", f"  - AI signals: {signals}"])
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
 
 def rebuild_index() -> None:
     entries = sorted(DAILY_DIR.glob("*.md"), reverse=True)
-    lines = ["# AI News Wiki", "", "Wiki acumulativa de noticias de IA.", "", "## Informes diarios", ""]
+    lines = ["# AI News Wiki", "", "Cumulative AI news wiki.", "", "## Daily digests", ""]
     lines += [f"- [{p.stem}](daily/{p.name})" for p in entries]
     extra = ""
     if INDEX.exists():
         # Preserve agent-maintained sections (Temas, Entidades, Tendencias, ...)
         # that live after the "Informes diarios" block.
         sections = re.split(r"(?m)^## ", INDEX.read_text())
-        kept = [s for s in sections[1:] if not s.startswith("Informes diarios")]
+        kept = [s for s in sections[1:] if not s.startswith("Daily digests")]
         if kept:
             extra = "\n\n" + "\n\n".join("## " + s.strip() for s in kept)
     INDEX.write_text("\n".join(lines).rstrip() + extra + "\n")
@@ -184,7 +184,7 @@ def main() -> int:
     (DAILY_DIR / f"{day}.md").write_text(render_daily(day, filtered, now.isoformat()))
     rebuild_index()
     with LOG.open("a") as log:
-        log.write(f"## [{day}] ingest | {len(filtered)} noticias IA | snapshot {stamp}\n")
+        log.write(f"## [{day}] ingest | {len(filtered)} AI stories | snapshot {stamp}\n")
         if errors:
             log.write("- Errores parciales: " + "; ".join(errors) + "\n")
     print(f"{len(filtered)} AI stories written to wiki/daily/{day}.md")

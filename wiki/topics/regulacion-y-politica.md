@@ -1,14 +1,14 @@
-# Tema: Regulación y política
+# Topic: Regulation and policy
 
-Gobiernos, demandas y marco legal de la IA.
+Governments, lawsuits and the legal framework for AI.
 
 ## 2026-09-19
 
-- Trump anuncia que nombrará un "zar de la IA" y creará una "AI Force", rechazando las preocupaciones de seguridad como un "hoax". [Techmeme/Bloomberg](https://www.techmeme.com/260919/p11#a260919p11)
-- El USPTO y la Oficina de Copyright de EE.UU. se sorprenden por el brief del DOJ que apoya a OpenAI y Microsoft contra el New York Times. [Techmeme/Axios](https://www.techmeme.com/260919/p8#a260919p8)
-- Demanda antitrust: Anthropic, OpenAI y otros habrían hecho un pacto ilegal de ralentización de la IA. [AP](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b)
-- Un director de Microsoft llamó al scraping de IA "el mayor robo de trabajo de la historia humana" (briefs de la demanda del NYT). [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
+- Trump says he will appoint an AI czar and form an "AI Force", dismissing AI safety concerns as a "hoax". [Techmeme/Bloomberg](https://www.techmeme.com/260919/p11#a260919p11)
+- The USPTO and US Copyright Office were surprised by the DOJ's brief supporting OpenAI and Microsoft against the New York Times. [Techmeme/Axios](https://www.techmeme.com/260919/p8#a260919p8)
+- Antitrust lawsuit: Anthropic, OpenAI and others allegedly made an illegal agreement to slow down AI. [AP](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b)
+- A Microsoft director called AI scraping "the largest theft of labor in human history" (briefs from the NYT lawsuit). [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
 
 ## 2026-09-20
 
-- El debate del "kill-switch" llega a la legislación: expertos advierten de que su implementación real es mucho más compleja de lo que creen los legisladores. [Techmeme/NYT](https://www.techmeme.com/260919/p12#a260919p12)
+- The kill-switch debate reaches legislation: experts warn real implementation is far more complex than lawmakers believe. [Techmeme/NYT](https://www.techmeme.com/260919/p12#a260919p12)

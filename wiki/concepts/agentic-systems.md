@@ -1,20 +1,20 @@
-# Concepto: Sistemas agénticos
+# Concept: Agentic systems
 
-Sistemas que planifican o actúan mediante herramientas. Esta página sigue su arquitectura, control, observabilidad y adopción.
+Systems that plan or act through tools. This page tracks their architecture, control, observability and adoption.
 
 <!-- AUTO:EVIDENCE -->
-## Evidencia viva
+## Living evidence
 
-_Actualización automática: `2026-09-20T09:22:27+00:00` · 14 señales seleccionadas._
+_Automatic update: `2026-09-20T09:43:40+00:00` · 14 selected signals._
 
-- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · Hacker News · 715 puntos HN
-- [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) · Hacker News · 225 puntos HN
-- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) · Hacker News · 78 puntos HN
-- [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) · Hacker News · 59 puntos HN
-- [Ask HN: How do you interview devs in a post-AI world?](https://news.ycombinator.com/item?id=49768826) · Hacker News · 31 puntos HN
-- [Orchestrating Claude Code Agents: The Chief of Staff Pattern](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/) · Hacker News · 16 puntos HN
-- [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) · Hacker News · 11 puntos HN
-- [I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered](https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1) · Hacker News · 4 puntos HN
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) · Hacker News · 715 HN points
+- [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) · Hacker News · 225 HN points
+- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) · Hacker News · 78 HN points
+- [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/) · Hacker News · 59 HN points
+- [Ask HN: How do you interview devs in a post-AI world?](https://news.ycombinator.com/item?id=49768826) · Hacker News · 31 HN points
+- [Orchestrating Claude Code Agents: The Chief of Staff Pattern](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/) · Hacker News · 18 HN points
+- [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) · Hacker News · 11 HN points
+- [I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered](https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1) · Hacker News · 4 HN points
 - [Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year (Thomas Claburn/The Register)](https://www.techmeme.com/260918/p39#a260918p39) · Techmeme
 - [Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV (Chris Metinko/Axios)](https://www.techmeme.com/260919/p7#a260919p7) · Techmeme
 - [[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...](https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed) · Latent.Space

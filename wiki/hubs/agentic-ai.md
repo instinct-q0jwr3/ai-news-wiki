@@ -1,10 +1,10 @@
-# Hub: IA agéntica
+# Hub: Agentic AI
 
-Punto de entrada a sistemas que actúan, modelos especialistas y observabilidad.
+Entry point to systems that act, specialist models and observability.
 
 ## Explorar
 
-- [Concepto · Sistemas agénticos](../concepts/agentic-systems.md)
-- [Concepto · Modelos pequeños y especialistas](../concepts/small-specialist-models.md)
-- [Comparativa · Generalistas vs especialistas](../comparisons/generalistas-vs-especialistas.md)
-- [Tema · Agentes](../topics/agentes.md)
+- [Concept · Agentic systems](../concepts/agentic-systems.md)
+- [Concept · Small and specialist models](../concepts/small-specialist-models.md)
+- [Comparison · Generalists vs specialists](../comparisons/generalistas-vs-especialistas.md)
+- [Topic · Agents](../topics/agentes.md)

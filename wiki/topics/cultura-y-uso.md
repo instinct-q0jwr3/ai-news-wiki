@@ -1,20 +1,20 @@
-# Tema: Cultura y uso de la IA
+# Topic: Culture and use of AI
 
-Escritura, persuasión, adopción y debate social.
+Writing, persuasion, adoption and public debate.
 
 ## 2026-09-19
 
-- "AI-generated posters don't have to be horrible" (1.243 puntos, el tema más votado del día en HN). [john.hartnup.uk](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-- "How to Write with an LLM" (607 puntos). [sockpuppet.org](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-- Contrapunto: "I think you should almost never use AI to write" (161 puntos). [erichgrunewald.substack.com](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
-- Los chatbots de IA se están volviendo expertos en cambiar opiniones. [Science](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
-- Una estrella de cine generada por IA tiene un "meltdown" en TV. [honest-broker.com](https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total)
-- "AI Is an Elite Crime Spree" (ensayo en Lobsters). [thebignewsletter.com](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
-- Ask HN: ¿cómo entrevistar a desarrolladores en un mundo post-IA? [HN](https://news.ycombinator.com/item?id=49768826)
-- Entrevista a Joanna Stern sobre el iPhone Duo y la "IA para gente normal". [Stratechery](https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/)
-- ¿Se transfieren a trabajos reales las habilidades aprendidas en juegos? [Latent.Space](https://www.latent.space/p/good-start-labs)
+- "AI-generated posters don't have to be horrible" (1,243 points, the day's top HN story). [john.hartnup.uk](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+- "How to Write with an LLM" (607 points). [sockpuppet.org](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
+- Counterpoint: "I think you should almost never use AI to write" (161 points). [erichgrunewald.substack.com](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
+- AI chatbots are becoming experts at changing people's minds. [Science](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
+- An AI-generated movie star has a total meltdown on TV. [honest-broker.com](https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total)
+- "AI Is an Elite Crime Spree" (essay on Lobsters). [thebignewsletter.com](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+- Ask HN: how do you interview devs in a post-AI world? [HN](https://news.ycombinator.com/item?id=49768826)
+- Interview with Joanna Stern about the iPhone Duo and "AI for normal people". [Stratechery](https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/)
+- Can skills learned in games transfer to real-world work? [Latent.Space](https://www.latent.space/p/good-start-labs)
 
 ## 2026-09-20
 
-- Juego: ¿sabes qué imágenes están generadas por IA? [slop-sense.labtoagi.com](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
-- "AI in schools - The choice we keep making": el debate de la IA en educación. [friendsschoolboulder.org](https://friendsschoolboulder.org/the-choice-we-keep-making/)
+- Game: can you tell which images are AI-generated? [slop-sense.labtoagi.com](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+- "AI in schools - The choice we keep making". [friendsschoolboulder.org](https://friendsschoolboulder.org/the-choice-we-keep-making/)

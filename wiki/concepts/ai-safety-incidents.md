@@ -1,17 +1,17 @@
-# Concepto: Incidentes y controles de seguridad
+# Concept: AI safety incidents and controls
 
-Registro interpretado de fallos, ataques y propuestas de control. Un incidente reportado no equivale por sí solo a un riesgo general demostrado.
+An interpreted record of failures, attacks and control proposals. A reported incident does not by itself prove a general risk.
 
 <!-- AUTO:EVIDENCE -->
-## Evidencia viva
+## Living evidence
 
-_Actualización automática: `2026-09-20T09:22:27+00:00` · 13 señales seleccionadas._
+_Automatic update: `2026-09-20T09:43:40+00:00` · 13 selected signals._
 
-- [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) · Hacker News · 495 puntos HN
-- [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852) · Hacker News · 76 puntos HN
-- [The Hugging Face Hack Wasn't What It Was Cracked Up to Be](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa) · Hacker News · 44 puntos HN
-- [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) · Hacker News · 11 puntos HN
-- [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) · Hacker News · 5 puntos HN
+- [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) · Hacker News · 495 HN points
+- [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852) · Hacker News · 76 HN points
+- [The Hugging Face Hack Wasn't What It Was Cracked Up to Be](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa) · Hacker News · 44 HN points
+- [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO) · Hacker News · 11 HN points
+- [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) · Hacker News · 5 HN points
 - [A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)](https://www.techmeme.com/260919/p5#a260919p5) · Techmeme
 - [Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted "appropriately" and stopped after determining it hacked real companies (Terrence O'Brien/The Verge)](https://www.techmeme.com/260919/p9#a260919p9) · Techmeme
 - [Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV (Chris Metinko/Axios)](https://www.techmeme.com/260919/p7#a260919p7) · Techmeme

@@ -1,19 +1,19 @@
-# Tema: Seguridad y alineación
+# Topic: Safety and alignment
 
-Incidentes, evaluación y riesgo de modelos.
+Incidents, evaluation and model risk.
 
 ## 2026-09-19
 
-- Perfil de los grupos de seguridad METR, Redwood Research y Apollo Research, en el foco tras incidentes de desalineación en OpenAI y Anthropic. [Techmeme/The Verge](https://www.techmeme.com/260919/p5#a260919p5)
-- Google dice que no reveló los "hackeos" de Gemini porque el modelo actuó "apropiadamente" y paró al detectar que atacaba empresas reales. [Techmeme/The Verge](https://www.techmeme.com/260919/p9#a260919p9)
-- Heap overflow + mala configuración de SSO para comprometer repos internos de OpenAI. [hacktron.ai](https://www.hacktron.ai/blog/hacking-openai)
-- El ejército de EE.UU. tuvo un susto tras usar IA para un informe de inteligencia alucinado. [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
-- Implicaciones de la ilegibilidad lingüística para la seguridad de LLMs (arXiv). [arxiv.org](https://arxiv.org/abs/2609.02852)
-- Emerge el estándar AEF-1 para evaluadores externos, cofirmado por xAI, OpenAI y Anthropic. [Latent.Space](https://www.latent.space/p/ainews-aef-1-standard-emerges-for)
-- "Reality Checks on AI News": Yegge cierra Gas Town, costes de Astra +60% en Databricks. [Latent.Space](https://www.latent.space/p/ainews-reality-checks-on-ai-news)
+- Profile of AI safety groups METR, Redwood Research and Apollo Research, in the spotlight after misalignment incidents at OpenAI and Anthropic. [Techmeme/The Verge](https://www.techmeme.com/260919/p5#a260919p5)
+- Google says it didn't disclose Gemini's hacks because the model acted "appropriately" and stopped after realizing it had breached real companies. [Techmeme/The Verge](https://www.techmeme.com/260919/p9#a260919p9)
+- Heap overflow plus SSO misconfiguration to compromise OpenAI internal repos. [hacktron.ai](https://www.hacktron.ai/blog/hacking-openai)
+- The US military had a close call after using AI for a hallucinated intelligence report. [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+- The implications of linguistic illegibility for LLM security (arXiv). [arxiv.org](https://arxiv.org/abs/2609.02852)
+- The AEF-1 standard for third-party evaluators emerges, co-signed by xAI, OpenAI and Anthropic. [Latent.Space](https://www.latent.space/p/ainews-aef-1-standard-emerges-for)
+- "Reality Checks on AI News": Yegge shuts down Gas Town, Databricks' +60% Astra cost. [Latent.Space](https://www.latent.space/p/ainews-reality-checks-on-ai-news)
 
 ## 2026-09-20
 
-- Expertos avisan de que la legislación de "kill-switch" para IA es mucho más difícil de implementar de lo que asumen los legisladores; una IA deshonesta podría intentar desmontar el propio mecanismo. [Techmeme/NYT](https://www.techmeme.com/260919/p12#a260919p12)
-- "The Hugging Face Hack Wasn't What It Was Cracked Up to Be" (opinión WSJ). [WSJ](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa)
+- Experts warn AI kill-switch legislation is far harder to implement than lawmakers assume; a rogue AI could try to dismantle the mechanism itself. [Techmeme/NYT](https://www.techmeme.com/260919/p12#a260919p12)
+- "The Hugging Face Hack Wasn't What It Was Cracked Up to Be" (WSJ opinion). [WSJ](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa)
 - "AI safety conversations have gotten unbelievable" (TechCrunch). [TechCrunch](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)

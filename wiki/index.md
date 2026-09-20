@@ -1,22 +1,22 @@
 # AI News Wiki
 
-Wiki acumulativa de noticias de IA.
+Cumulative AI news wiki.
 
-## Informes diarios
+## Daily digests
 
 - [2026-09-20](daily/2026-09-20.md)
 - [2026-09-19](daily/2026-09-19.md)
 
-## Temas
+## Topics
 
-- [Agentes de IA](topics/agentes.md)
-- [Modelos (lanzamientos y capacidades)](topics/modelos.md)
-- [Seguridad y alineación](topics/seguridad-y-alineacion.md)
-- [Regulación y política](topics/regulacion-y-politica.md)
-- [Industria y financiación](topics/industria-y-financiacion.md)
-- [Cultura y uso de la IA](topics/cultura-y-uso.md)
+- [AI agents](topics/agentes.md)
+- [Models (launches and capabilities)](topics/modelos.md)
+- [Safety and alignment](topics/seguridad-y-alineacion.md)
+- [Regulation and policy](topics/regulacion-y-politica.md)
+- [Industry and funding](topics/industria-y-financiacion.md)
+- [Culture and use of AI](topics/cultura-y-uso.md)
 
-## Entidades
+## Entities
 
 - [OpenAI](entities/openai.md)
 - [Anthropic](entities/anthropic.md)
@@ -27,35 +27,35 @@ Wiki acumulativa de noticias de IA.
 - [Alibaba](entities/alibaba.md)
 - [Hugging Face](entities/hugging-face.md)
 
-## Tendencias
+## Trends
 
-- [Panorama inicial (2026-09-19)](trends/2026-09-19-panorama-inicial.md)
+- [Initial baseline (2026-09-19)](trends/2026-09-19-panorama-inicial.md)
 
-## Registro
+## Log
 
 - [log.md](log.md)
 
 <!-- AUTO:NAV -->
 ## Hubs
 
-- [IA agéntica](hubs/agentic-ai.md)
-- [Seguridad y gobernanza](hubs/safety-governance.md)
-- [Modelos frontera](hubs/frontier-models.md)
+- [Agentic AI](hubs/agentic-ai.md)
+- [Safety and governance](hubs/safety-governance.md)
+- [Frontier models](hubs/frontier-models.md)
 
-## Conceptos
+## Concepts
 
-- [Sistemas agénticos](concepts/agentic-systems.md)
-- [Evaluación externa de IA](concepts/external-evaluation.md)
-- [Modelos pequeños y especialistas](concepts/small-specialist-models.md)
-- [Incidentes y controles de seguridad](concepts/ai-safety-incidents.md)
+- [Agentic systems](concepts/agentic-systems.md)
+- [External AI evaluation](concepts/external-evaluation.md)
+- [Small and specialist models](concepts/small-specialist-models.md)
+- [AI safety incidents and controls](concepts/ai-safety-incidents.md)
 
-## Comparativas
+## Comparisons
 
 - [OpenAI vs Anthropic](comparisons/openai-vs-anthropic.md)
-- [Generalistas vs especialistas](comparisons/generalistas-vs-especialistas.md)
-- [Agentes abiertos vs plataformas cerradas](comparisons/agentes-abiertos-vs-cerrados.md)
+- [Generalist vs specialist models](comparisons/generalistas-vs-especialistas.md)
+- [Open agents vs closed platforms](comparisons/agentes-abiertos-vs-cerrados.md)
 
-## Síntesis semanal
+## Weekly synthesis
 
-- [Semana actual](weekly/2026-W38.md)
+- [Current week](weekly/2026-W38.md)
 <!-- /AUTO:NAV -->

@@ -43,8 +43,8 @@ def title_of(p):
 
 def shell(title,content,rel='',search=False):
     nav=''.join(f'<a href="{rel}{k}/index.html">{v}</a>' for k,v in [('hubs','Hubs'),('weekly','Weekly'),('entities','Entities'),('daily','Digests'),('concepts','Concepts'),('comparisons','Compare')])
-    box='<div class="search-wrap"><input id="search" type="search" placeholder="Buscar en la wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Buscar</a>'
-    return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · AI Wiki</title><link rel="stylesheet" href="{rel}assets/style.css"></head><body><header><a class="brand" href="{rel}index.html"><span>AI</span> wiki</a><nav>{nav}</nav>{box}</header><main>{content}</main><footer>AI News Wiki · Fuentes enlazadas en cada entrada</footer>{'<script src="assets/search.js"></script>' if search else ''}</body></html>'''
+    box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · AI Wiki</title><link rel="stylesheet" href="{rel}assets/style.css"></head><body><header><a class="brand" href="{rel}index.html"><span>AI</span> wiki</a><nav>{nav}</nav>{box}</header><main>{content}</main><footer>AI News Wiki · Sources linked in every entry</footer>{'<script src="assets/search.js"></script>' if search else ''}</body></html>'''
 
 def section_cards(name,files,limit=5):
     cards=[]
