@@ -34,3 +34,28 @@ Wiki acumulativa de noticias de IA.
 ## Registro
 
 - [log.md](log.md)
+
+<!-- AUTO:NAV -->
+## Hubs
+
+- [IA agéntica](hubs/agentic-ai.md)
+- [Seguridad y gobernanza](hubs/safety-governance.md)
+- [Modelos frontera](hubs/frontier-models.md)
+
+## Conceptos
+
+- [Sistemas agénticos](concepts/agentic-systems.md)
+- [Evaluación externa de IA](concepts/external-evaluation.md)
+- [Modelos pequeños y especialistas](concepts/small-specialist-models.md)
+- [Incidentes y controles de seguridad](concepts/ai-safety-incidents.md)
+
+## Comparativas
+
+- [OpenAI vs Anthropic](comparisons/openai-vs-anthropic.md)
+- [Generalistas vs especialistas](comparisons/generalistas-vs-especialistas.md)
+- [Agentes abiertos vs plataformas cerradas](comparisons/agentes-abiertos-vs-cerrados.md)
+
+## Síntesis semanal
+
+- [Semana actual](weekly/2026-W38.md)
+<!-- /AUTO:NAV -->
