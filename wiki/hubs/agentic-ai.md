@@ -6,4 +6,4 @@ Entry point to systems that act, specialist models and observability.
 
 - [Agentic Systems](../concepts/agentic-systems.md)
 - [Small Specialist Models](../concepts/small-specialist-models.md)
-- [Generalistas Vs Especialistas](../comparisons/generalistas-vs-especialistas.md)
+- [Generalist Vs Specialist Models](../comparisons/generalist-vs-specialist-models.md)

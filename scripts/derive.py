@@ -25,8 +25,8 @@ CONCEPTS={
 }
 COMPARISONS={
  'openai-vs-anthropic':('OpenAI vs Anthropic',['openai','gpt-','chatgpt','codex'],['anthropic','claude'],'A running comparison of launches, pricing, business, evaluation and safety. It preserves evidence from both sides rather than declaring a winner.'),
- 'generalistas-vs-especialistas':('Generalist vs specialist models',['gpt','claude','gemini','foundation model'],['needle','cua-s1','small model','specialist','local-llm'],'Generalist models maximize breadth and reasoning; specialists optimize cost, latency or a narrow and verifiable action surface.'),
- 'agentes-abiertos-vs-cerrados':('Open agents vs closed platforms',['open source','github','local','agents.md'],['openai','anthropic','salesforce','meta'],'This comparison connects the control and auditability of open agents with the integration and capability of hosted platforms.'),
+ 'generalist-vs-specialist-models':('Generalist vs specialist models',['gpt','claude','gemini','foundation model'],['needle','cua-s1','small model','specialist','local-llm'],'Generalist models maximize breadth and reasoning; specialists optimize cost, latency or a narrow and verifiable action surface.'),
+ 'open-agents-vs-closed-platforms':('Open agents vs closed platforms',['open source','github','local','agents.md'],['openai','anthropic','salesforce','meta'],'This comparison connects the control and auditability of open agents with the integration and capability of hosted platforms.'),
 }
 
 def esc(text): return re.sub(r'\s+',' ',str(text or '')).strip()
@@ -157,14 +157,14 @@ def build_weekly(xs,stamp):
     specialist=next((hits for _,slug_name,_,hits in themes if slug_name=='small-specialist-models'),[])
     tensions=[]
     if agents and safety: tensions.append('Faster agent deployment raises a control question: how much autonomy should systems receive before evaluation and observability catch up? ([Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))')
-    if specialist and agents: tensions.append('General-purpose capability competes with smaller specialist systems on cost, latency and auditability. ([Generalist vs specialist models](../comparisons/generalistas-vs-especialistas.md) · [Small and specialist models](../concepts/small-specialist-models.md))')
+    if specialist and agents: tensions.append('General-purpose capability competes with smaller specialist systems on cost, latency and auditability. ([Generalist vs specialist models](../comparisons/generalist-vs-specialist-models.md) · [Small and specialist models](../concepts/small-specialist-models.md))')
     if match(week,['openai']) and match(week,['anthropic']): tensions.append('OpenAI and Anthropic continue to diverge and converge across products, enterprise positioning, evaluation and safety claims. ([OpenAI vs Anthropic](../comparisons/openai-vs-anthropic.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))')
     counts=Counter(x.get('source','?') for x in week)
     body=[f'# {title}','',metadata('synthesis',fmt_date(stamp),fmt_date(stamp),'medium',['synthesis',slug.lower()]),'',f'Synthesis of {len(week)} unique stories first observed in {slug}. Each inline story link opens a generated summary with its original source.','']+sections+['## Tensions and open debates','']+([f'- {x}' for x in tensions] or ['- The corpus is still too small to identify a grounded tension this week.'])+['','## Coverage appendix','']+[f'- {k}: {v}' for k,v in counts.most_common()]
     (WIKI/'weekly').mkdir(exist_ok=True); (WIKI/'weekly'/f'{slug}.md').write_text('\n'.join(body)+'\n')
 
 def build_hubs():
-    hubs={'agentic-ai':('Agentic AI','Entry point to systems that act, specialist models and observability.',['../concepts/agentic-systems.md','../concepts/small-specialist-models.md','../comparisons/generalistas-vs-especialistas.md']), 'safety-governance':('Safety and governance','Evaluation, incidents and controls in one route.',['../concepts/external-evaluation.md','../concepts/ai-safety-incidents.md']), 'frontier-models':('Frontier models','Launches, entities and lab comparisons.',['../comparisons/openai-vs-anthropic.md','../entities/openai.md','../entities/anthropic.md'])}
+    hubs={'agentic-ai':('Agentic AI','Entry point to systems that act, specialist models and observability.',['../concepts/agentic-systems.md','../concepts/small-specialist-models.md','../comparisons/generalist-vs-specialist-models.md']), 'safety-governance':('Safety and governance','Evaluation, incidents and controls in one route.',['../concepts/external-evaluation.md','../concepts/ai-safety-incidents.md']), 'frontier-models':('Frontier models','Launches, entities and lab comparisons.',['../comparisons/openai-vs-anthropic.md','../entities/openai.md','../entities/anthropic.md'])}
     out=WIKI/'hubs'; out.mkdir(exist_ok=True)
     for slug,(title,desc,links) in hubs.items():
         labels=[Path(u).stem.replace('-',' ').title() for u in links]

@@ -2,7 +2,7 @@
 
 _type: comparison · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
 
-`comparison` `agentes-abiertos-vs-cerrados`
+`comparison` `open-agents-vs-closed-platforms`
 
 ## Overview
 
