@@ -38,7 +38,7 @@ UA={'User-Agent':'ai-news-wiki/1.0 (+https://instinct-q0jwr3.github.io/ai-news-w
 SOURCES={}; RICH={}
 
 STOPWORDS=set('a an the and or but if then else when at by for with about into through during before after above below to from up down in out on off over under again further once here there all any both each few more most other some such no nor not only own same so than too very can will just should now is are was were be been being have has had having do does did doing would could ought i you he she it we they them his her its our their this that these those am of as'.split())
-JUNK=re.compile(r'cookie|subscribe|sign[ -]?up|newsletter|all rights reserved|advertisement|terms of service|privacy policy|follow us|share this|enable javascript|verify you are|listen to this post|watch on youtube|listen to podcast',re.I)
+JUNK=re.compile(r'cookie|subscribe|sign[ -]?up|newsletter|all rights reserved|advertisement|terms of service|privacy policy|follow us|share this|enable javascript|verify you are|listen to this post|watch on youtube|listen to podcast|views\s+\d+\s+replies|\d+\s+reposts?\b.{0,12}\blikes\b',re.I)
 
 def fetch_url(url):
     req=urllib.request.Request(url,headers=UA)
