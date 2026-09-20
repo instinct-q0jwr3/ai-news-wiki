@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Swedish startup Scaleout Systems demonstrated an autonomous strike drone that identifies, ranks and attacks targets using small computer-vision models running entirely onboard, no external comms required. At BAE Systems Bofors' Winter Demo 2026 under the ALMA (Affordable Loitering Modular Ammunition) program, a low-cost loitering munition autonomously ranked an armored engineering vehicle highest among detected targets, flew to it and dropped an explosive, with about 200 seconds of recon and a full mission under 320 seconds.",
+  "An earlier February 'arctic strike demonstration' at BTC Karlskoga ran YOLOv8 Nano on an Nvidia Jetson Orin Nano aboard an Airolit S1 airframe at -18C, claiming 30 fps at around 20 m/s with ~30 ms latency. Scaleout's FEDAIR project, part of NATO's DIANA accelerator, received 100,000 euros in development funding; its Tactical Computer Vision Network uses federated learning, and a Swedish Air Force ISR test kept inference running at full frame rate on a node whose link was degraded and then cut. No procurement order or combat deployment exists yet, and a UN expert group recently concluded human judgment and control are required under the laws of war."
+ ],
+ "highlights": [
+  "BAE Winter Demo 2026: loitering munition autonomously detected, ranked and struck an armored engineering vehicle.",
+  "Fully onboard processing; mission completed without communications, supporting electronic-warfare resilience claims.",
+  "Mission profile: ~200 seconds of recon, full mission under 320 seconds; pilot retained as failsafe.",
+  "February test: YOLOv8 Nano on a hobbyist-available Nvidia Jetson Orin Nano, 30 fps at ~20 m/s, ~30 ms latency.",
+  "FEDAIR is part of NATO's DIANA accelerator with 100,000 euros in development funding.",
+  "Tactical Computer Vision Network combines Scaleout Edge with federated learning for local training and shared updates.",
+  "Swedish Air Force ISR test: offline node kept inference and active learning at full frame rate, then backfilled on reconnect.",
+  "A UN expert group says human judgment and control are required to comply with the laws of war; review in Geneva in November."
+ ],
+ "id": "9b668d5a2694",
+ "authored_at": "2026-09-20T17:55:14.056376+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

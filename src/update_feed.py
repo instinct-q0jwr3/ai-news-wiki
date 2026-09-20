@@ -192,6 +192,15 @@ def trim_blurb(text, cap=300):
     return picked
 
 
+def strip_headline_repeat(desc, title):
+    def norm(t): return re.sub(r"[^a-z0-9 ]", " ", (t or "").lower())
+    parts = re.split(r"\s+\u2014\s+", desc, maxsplit=1)
+    if len(parts) == 2:
+        a = set(norm(parts[0]).split()); b = set(norm(title).split())
+        if len(a) >= 4 and b and len(a & b) / len(a) >= 0.6: return parts[1]
+    return desc
+
+
 def blurb_for(item):
     desc = re.sub(r"\s+", " ", item.get("summary") or "").strip()
     desc = re.sub(r"^TLDR AI selected this story in its latest issue:\s*", "", desc)

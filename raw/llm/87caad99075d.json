@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "AIUC, cofounded by Anthropic's first product hire Rune Kvist, announced a $40M Series A to build the standards, testing and insurance infrastructure for deploying frontier AI. Its thesis: the binding constraint on AI adoption will be trust, not capability, and companies like Cursor, Harvey, Lovable and ElevenLabs increasingly face the question of who is responsible when autonomous systems fail.",
+  "The episode centers on AIUC-1, a standard for agent security, safety and reliability backed by real insurance, with agents stress-tested for jailbreaks, hallucinations and data leaks. Kvist argues most AI companies optimize the happy path without serious adversarial testing, that standards may need quarterly updates rather than decadal ones, and that insurance (via markets like Lloyd's of London) and standards must evolve together, especially as cases like the Air Canada chatbot clarify liability and a $20 coding agent could plausibly contribute to $200M of damage."
+ ],
+ "highlights": [
+  "AIUC raised a $40M Series A, backed earlier by NFDG, with a notable industry advisor list.",
+  "Cofounder Rune Kvist was Anthropic's first product hire after reading the Scaling Laws paper.",
+  "AIUC-1: a standard for AI agent security, safety and reliability backed by real insurance.",
+  "Agents are stress-tested for jailbreaks, hallucinations and data leakage.",
+  "Claim: most AI companies optimize the happy path and under-test adversarial cases.",
+  "Standards may need quarterly updates; insurance and standards should evolve together.",
+  "Liability framing: a $20 Cursor subscription contributing to a $200M plane crash; the Air Canada chatbot case.",
+  "Roadmap spans agents, frontier models, robotics and 'universal red teaming'."
+ ],
+ "id": "87caad99075d",
+ "authored_at": "2026-09-20T17:55:38.082095+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

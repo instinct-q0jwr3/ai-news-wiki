@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Pirate Face is a decentralized mirror for open AI models: it turns Hugging Face models, datasets and other open artifacts into checksum-verified torrents with magnet links, so no single host can take them down. Every torrent carries a web-seed (BEP-19) pointing at the original Hugging Face file, so downloads work even with zero peers, and every weight file keeps its official Hugging Face SHA-256 so any copy can be verified byte-for-byte against tampering.",
+  "The pitch is permanence plus drop-in compatibility: pipelines can point at Pirate Face with the same paths and API, just a different endpoint, and no code changes. Browsing, downloading and seeding need no account; submitting a model requires it to live on Hugging Face first, with direct publishing planned. Users can reserve public handles, and verifying a matching Hugging Face identity adds a creator badge against impersonation; account perks like free compute credits and exclusive releases are promised."
+ ],
+ "highlights": [
+  "Mirrors open models from Hugging Face as magnet-link torrents held by a peer swarm instead of one company.",
+  "Every torrent embeds a BEP-19 web-seed to the Hugging Face file, so it downloads even with zero peers.",
+  "Weight files carry their official Hugging Face SHA-256; any downloaded copy must match byte-for-byte.",
+  "Drop-in migration: same paths, same API, different endpoint; zero code changes for existing pipelines.",
+  "No account needed to browse, download or seed; submission currently requires the model to exist on HF first.",
+  "Handle reservation plus Hugging Face identity verification for creator badges and anti-impersonation.",
+  "Account perks in preparation: free compute credits and exclusive model releases.",
+  "If a model is deleted from Hugging Face, surviving copies can be submitted as magnets with source evidence."
+ ],
+ "id": "2381cac469f6",
+ "authored_at": "2026-09-20T17:55:14.056376+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

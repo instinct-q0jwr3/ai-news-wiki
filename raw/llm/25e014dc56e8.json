@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "An independent researcher describes how OpenAI's advertising pixel ties browsing on ordinary websites to a ChatGPT account. ChatGPT's backend issues a 60-second RS256 JWT binding the account subject to a 22-character 'obi' identifier, which is then set as the __obi cookie scoped to .openai.com with SameSite=none and a one-year Max-Age, exactly the configuration needed for cross-site tracking. Any advertiser running OpenAI's pixel code sends that cookie back to bzr.openai.com along with page data.",
+  "The investigation, reproduced on the author's phone and cross-checked against months of traffic covering 936 distinct advertiser pixels across 1,029 hostnames, found the pixel SDK also scrapes identity from pages: form fields, rendered text and the tag-manager data layer (emails and phones SHA-256 hashed, country/region/city/postal code in the clear). Scraped identity outnumbered advertiser-supplied identity 685 to 255 events; automatic matching was enabled for 638 of 881 pixels, including every credit and lending advertiser observed, and collected URL paths included a medical condition, a debt-solutions funnel and a litigation intake form."
+ ],
+ "highlights": [
+  "ChatGPT issues a 60-second RS256 JWT (iss 'chatgpt-wadi', aud bzr.openai.com) binding account subject to a 22-char obi id.",
+  "The __obi cookie is set on .openai.com with SameSite=none; Secure, HttpOnly and a one-year Max-Age.",
+  "Any site running OpenAI's advertiser pixel sends __obi plus page context back to OpenAI's collector.",
+  "Even the SDK's no-credentials code path leaks the id: the browser attaches cookies when loading the script tag.",
+  "936 advertiser pixels observed across 1,029 hostnames; scraped identity beat advertiser-supplied 685 to 255 events.",
+  "SDK harvests form fields, page text and the tag-manager bus; email/phone hashed, geo and postal code sent in clear.",
+  "Automatic matching enabled for 638 of 881 pixels, including every credit and lending advertiser seen.",
+  "Collected URL paths included a medical condition, a debt-solutions funnel and a litigation intake form."
+ ],
+ "id": "25e014dc56e8",
+ "authored_at": "2026-09-20T17:55:14.056376+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

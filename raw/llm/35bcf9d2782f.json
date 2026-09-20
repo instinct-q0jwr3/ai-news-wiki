@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Latent Space's hands-on review of GPT-6 Astra, after burning over 20 billion tokens on early access, reaches a striking conclusion: Astra is one of a new class of models that are fully capable AI Engineers in their own right, able to choose and train models, label data with active learning, keep pipelines saturated, instrument logs, deploy and debug entire systems, and coordinate subagents over billions of tokens of a single thread. OpenAI's launch claims it saturates the hardest FrontierMath (97.6%) and ARC-AGI-3 (99.9%).",
+  "The headline economics: at preview latency, Astra runs about 33 tokens per second at a max of $50 per million output tokens, roughly $6 an hour for what a junior AI engineer does babysitting runs, and Artificial Analysis independently confirmed it is more token-efficient than Sol and Fable. In practice the authors ramped 20-50 parallel agents under one main Astra agent; over a month they built a dozen internal tools (replacing four paid SaaS products), a functional GitHub+Vercel replacement, game AI for a board game with 10,000x more legal moves than Go, and republished a book with synced audiobook and print editions."
+ ],
+ "highlights": [
+  "20B+ tokens of testing: Astra acts as a full AI Engineer, from data labeling to deployment and subagent command.",
+  "Launch claims: saturates hardest FrontierMath (97.6%) and ARC-AGI-3 (99.9%), beats Fable 5.1 on many metrics.",
+  "~$6/hour: 33 tok/s at $50/M output tokens; cheaper than a junior engineer's $200-1000/day.",
+  "Artificial Analysis independently confirms Astra is more token-efficient than Sol and Fable.",
+  "Practical usage pattern: 20-50 parallel agents managed by one main Astra agent.",
+  "One month of projects: a dozen internal tools, four paid SaaS replaced, a GitHub+Vercel stand-in, game AI, a republished book.",
+  "OpenAI reportedly uses GPT-6 internally for its own AI engineering.",
+  "Advice: raise your expectations of agents 'unreasonably'; patterns apply to all late-2026 frontier models."
+ ],
+ "id": "35bcf9d2782f",
+ "authored_at": "2026-09-20T17:55:38.082095+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

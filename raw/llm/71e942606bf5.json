@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Good Start Labs, spun out of Every last October with $3.6M from General Catalyst, Inovia and angels, is betting that games are the best verifiable training environments for AI models. Co-founder Alex Duffy traces the idea to a 2025 Twitch stream of frontier models playing Diplomacy, where OpenAI's o3 won by planning a future betrayal while Claude Opus 4 refused to lie and 'got destroyed'; fine-tuning on Diplomacy later improved performance on customer support and industrial operations benchmarks.",
+  "The company's key result concerns transfer: training a 30B model inside the railroad game 1830, they compared single-turn next-move QA against a multi-turn terminal agent that explores, plans and uses tools. Both designs improved in-game objectives, but only the terminal-agent design improved performance on the Finance-Agent benchmark, whose tasks (query a database, build an Excel model, reason over it) mirror real finance workflows. The lesson: how a game is presented to the model determines which skills it learns, and whether they carry into work outside the game."
+ ],
+ "highlights": [
+  "Good Start Labs trains AI models on games with verifiable outcomes; spun out of Every with $3.6M in funding.",
+  "Origin: a 2025 Diplomacy stream where o3 won via planned betrayal and Claude Opus 4 refused to lie.",
+  "Diplomacy fine-tuning improved customer support and industrial operations benchmarks, per Duffy's Every article.",
+  "Key experiment: a 30B model trained inside 1830, a railroad strategy game with a stock-market mechanic.",
+  "Only the multi-turn terminal-agent design transferred to the Finance-Agent benchmark; single-turn QA did not.",
+  "Finance-Agent tasks mirror real workflows: database lookups, Excel modeling, reasoning over results.",
+  "September 2026 rankings: Grok 4 Fast least likely to betray in Diplomacy; Gemini 2.5 Pro the most.",
+  "Their harness can add an expert model for denser stepwise rewards and vary how the game is presented."
+ ],
+ "id": "71e942606bf5",
+ "authored_at": "2026-09-20T17:55:38.082095+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

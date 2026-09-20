@@ -2,19 +2,18 @@
 <p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-20 · confidence: high</p>
 <p><code>latent.space</code> <code>agentic-systems</code></p>
 <h2>Summary</h2>
-<p>Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.</p>
-<p>Richard MacManus Sep 01, 2026 68 6 Share GitHub invented pull requests, and for 18 years they have been open by default.</p>
-<p>But now some of the top AI-native open source projects are shutting PRs off , because they’ve found a better way.</p>
+<p>After 18 years of GitHub pull requests being open by default, top AI-native open source projects are shutting them off. Projects like Flue and tldraw refuse external PRs, largely because so many are AI-generated slop, and instead run 'software factories': teams of agents that triage an issue, reproduce the bug, implement a fix, review it, and hand it to a human to merge.</p>
+<p>Vercel's AI SDK (20M+ npm downloads/week) deployed such a factory after its backlog hit over 1,000 open issues and nearly 800 PRs; four weeks in, the factory authors 25-35% of merged PRs and closes 70-80% of issues, and engineer Lars Grammel argues projects should trust their own tuned agents over the community's. Astro's Fred Schott reports the same shift for the 62k-star framework, issues now get prioritized weekly instead of piling into a backlog, and his auto-triage work led him to create Flue, where every external PR is auto-closed and converted into an issue or discussion.</p>
 <h2>Highlights</h2>
 <ul>
-<li>These projects, which include Flue and tldraw, refuse to accept PRs from external contributors — in part because they’re usually AI-generated.</li>
-<li>Instead, the maintainers prefer to use their own agents to create and manage PRs.</li>
-<li>Also, many projects have begun using a “ software factory ” to manage community contributions.</li>
-<li>Vercel recently published a post entitled “ Building a software factory for AI SDK .” It describes how the open source AI SDK project, which gets over 20 million npm downloads per week, deployed agents to get control over its PR and…</li>
-<li>There are several types of agents in Vercel’s system, each of which focuses on a different task .</li>
-<li>Diagram from Vercel; comments by Latent Space One of the key reasons why Vercel set up this software factory is because it trusts its own agents to do the work , more so than agents run by community members.</li>
-<li>Example of software factory workflow in AI SDK project.</li>
-<li>Vercel’s software factory deployment architecture; diagram by Lars Grammel.</li>
+<li>Flue and tldraw no longer accept external PRs, citing AI-generated drive-by slop.</li>
+<li>'Software factory': specialized agents triage, reproduce, fix, review; a human merges.</li>
+<li>Vercel AI SDK backlog before the factory: 1,000+ open issues and almost 800 PRs.</li>
+<li>Four weeks after deployment: factory authors 25-35% of merged PRs and closes 70-80% of issues.</li>
+<li>Grammel's argument: trust your own optimized agent configurations, not necessarily the community's.</li>
+<li>Astro (62k stars) went from drowning in issues to weekly prioritization; bots verify fixes with users first.</li>
+<li>Flue auto-closes every external PR, converting bug reports to issues and feature requests to discussions.</li>
+<li>Factory architecture per Grammel: UI, web app, API, execution space, sandboxes, GitHub synchronization.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://www.latent.space/p/pr-not-welcome">Read the original story</a></p>

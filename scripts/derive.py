@@ -93,6 +93,10 @@ def enrich_sources(xs):
         if not body:
             save_entry(x,'error','',err or 'fetch failed'); SOURCES[x['id']]={'status':'error'}; stats['fetch_error']+=1; continue
         text=html_to_text(body)
+        if text:
+            probe=text[:2000]; bad=sum(1 for ch in probe if (ord(ch)<32 and ch not in '\n\t') or ord(ch)==0xfffd)
+            if bad/max(len(probe),1)>0.05:
+                save_entry(x,'error','','non-text or compressed response body'); SOURCES[x['id']]={'status':'error'}; stats['fetch_error']+=1; continue
         if len(text)<400:
             save_entry(x,'thin',text,'extracted text under 400 chars'); SOURCES[x['id']]={'status':'thin','text':text}; stats['fetched_thin']+=1
         else:

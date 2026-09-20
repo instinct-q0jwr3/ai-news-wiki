@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "After 18 years of GitHub pull requests being open by default, top AI-native open source projects are shutting them off. Projects like Flue and tldraw refuse external PRs, largely because so many are AI-generated slop, and instead run 'software factories': teams of agents that triage an issue, reproduce the bug, implement a fix, review it, and hand it to a human to merge.",
+  "Vercel's AI SDK (20M+ npm downloads/week) deployed such a factory after its backlog hit over 1,000 open issues and nearly 800 PRs; four weeks in, the factory authors 25-35% of merged PRs and closes 70-80% of issues, and engineer Lars Grammel argues projects should trust their own tuned agents over the community's. Astro's Fred Schott reports the same shift for the 62k-star framework, issues now get prioritized weekly instead of piling into a backlog, and his auto-triage work led him to create Flue, where every external PR is auto-closed and converted into an issue or discussion."
+ ],
+ "highlights": [
+  "Flue and tldraw no longer accept external PRs, citing AI-generated drive-by slop.",
+  "'Software factory': specialized agents triage, reproduce, fix, review; a human merges.",
+  "Vercel AI SDK backlog before the factory: 1,000+ open issues and almost 800 PRs.",
+  "Four weeks after deployment: factory authors 25-35% of merged PRs and closes 70-80% of issues.",
+  "Grammel's argument: trust your own optimized agent configurations, not necessarily the community's.",
+  "Astro (62k stars) went from drowning in issues to weekly prioritization; bots verify fixes with users first.",
+  "Flue auto-closes every external PR, converting bug reports to issues and feature requests to discussions.",
+  "Factory architecture per Grammel: UI, web app, API, execution space, sandboxes, GitHub synchronization."
+ ],
+ "id": "a52ee36f20d9",
+ "authored_at": "2026-09-20T17:55:38.082095+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

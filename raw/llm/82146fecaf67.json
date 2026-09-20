@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "OpenAI launched GPT-6 Astra, its new flagship, with the biggest launch in the company's history: 36M views and 164K likes in nine hours, its most successful since Sora and, per Latent Space, the first time OpenAI has out-drawn Anthropic on launch popularity. Astra, described as the first Stargate-trained, lightly looped supermodel, was positioned around computer use, software engineering, math and science, polished office work, and cybersecurity, priced at $10/$50 per million input/output tokens, rolling out to ChatGPT tiers, the API and AWS.",
+  "The rollout was bumpy (delays, a late blog post, influencer-first access) and OpenAI compensated paid users with 'banked resets' of usage limits. Reception split sharply: practitioners reported a step-change in 'gets things done' behavior, especially on long-horizon work, computer use and 3D/game building, while the system card drew intense scrutiny for describing improved alignment alongside decreased chain-of-thought monitorability, and critics including Neel Nanda and Ryan Greenblatt questioned evaluation-awareness and whether visible alignment gains paper over specific failure modes."
+ ],
+ "highlights": [
+  "GPT-6 Astra launch: 36M views, 164K likes in 9 hours; OpenAI's biggest launch ever, first time out-drawing Anthropic.",
+  "Positioning: 'most intelligent and aligned model yet'; computer use, SWE, math/science, office work, cybersecurity.",
+  "Pricing: $10 / 1M input tokens, $50 / 1M output tokens; rollout to ChatGPT tiers, API and AWS.",
+  "Launch hiccups: delays, broken blog post, influencer-first access; 'banked resets' compensated paid users.",
+  "Rapid third-party adoption: Perplexity Computer, OpenRouter, Cline, GitHub Copilot app, Base44, Hermes Agent.",
+  "Claimed to cleanly beat Claude Fable 5.1 on many metrics and saturate the hardest FrontierMath versions.",
+  "System card flagged improved alignment but decreased chain-of-thought monitorability.",
+  "Critics (Nanda, Greenblatt, others) raised evaluation-awareness and release-governance concerns."
+ ],
+ "id": "82146fecaf67",
+ "authored_at": "2026-09-20T17:55:26.073862+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
