@@ -8,3 +8,7 @@ Primer análisis; solo hay un día de histórico en `wiki/daily/`, así que esto
 - **Política y tribunales como frente principal**: "zar de la IA" y AI Force de Trump, DOJ apoyando a OpenAI/Microsoft contra NYT, demanda antitrust por pacto de ralentización.
 - **Capital fluye a infra de agentes y datos**: $100M+ (Vantora), $35M (Raindrop), $20M (Veridion) en un solo día.
 - **Debate cultural sobre escribir con IA**: dos piezas virales contrapuestas en HN el mismo día (a favor y en contra de escribir con LLMs).
+
+## Actualización 2026-09-20
+
+Segundo día de histórico. La seguridad consolida su primer plano: el debate del kill-switch legislativo, la matización del hackeo de Hugging Face y la crítica al tono de la conversación de seguridad (TechCrunch) se suman a los incidentes del día anterior. Anthropic abre frente empresarial (Accenture, evaluación integrada) mientras la carrera de modelos se pausa tras Astra/Fable. Se mantiene el patrón: la conversación pública oscila entre adopción práctica (LLMs locales en AMD, plataformas open source como ENZO) y debate cultural (detección de imágenes IA, IA en escuelas).

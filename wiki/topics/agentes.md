@@ -17,3 +17,7 @@ Herramientas, estándares y productos alrededor de agentes (sistemas que actúan
 - Salesforce AI Force, agentes como UI, carrera hacia lo headless. [Stratechery](https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/)
 - Meta lanza un agente personal (mención en resumen de Stratechery). [Stratechery](https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/)
 - Un desarrollador construyó agentes que piden a empresas borrar sus datos; la mayoría nunca respondió. [Medium](https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1)
+
+## 2026-09-20
+
+- Show HN: ENZO, plataforma de IA local open source "completa". [GitHub](https://github.com/theguysudo/ENZO)

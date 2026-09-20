@@ -10,3 +10,8 @@ Rondas, negocio y efectos económicos de la IA.
 - ING: las exportaciones de servicios de software de la India suben al ~5,2% del PIB (desde 3,3% prepandemia) empujadas por la IA. [Techmeme/Bloomberg](https://www.techmeme.com/260919/p6#a260919p6)
 - DraftKings usa IA para identificar a los jugadores con más probabilidad de perder. [NYT](https://www.nytimes.com/2026/09/19/business/draftkings-ai.html)
 - Anuncios en OpenAI, anuncios de Amazon en ChatGPT, Walmart aceptará Apple Pay. [Stratechery](https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/)
+
+## 2026-09-20
+
+- Anthropic se asocia con Accenture en "Embedded Evaluation" (evaluación integrada para empresas). [anthropic.com](https://www.anthropic.com/news/accenture-embedded-evaluation)
+- "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data": sin gobierno de datos, la IA empresarial no despega. [architectureintel.com](https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317)

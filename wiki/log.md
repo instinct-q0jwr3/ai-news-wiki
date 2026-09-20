@@ -9,3 +9,5 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-09-19] ingest | 52 noticias IA | snapshot 20260919T225631Z
 ## [2026-09-19] ingest | 52 noticias IA | snapshot 20260919T225651Z
 ## [2026-09-19] agent-pass | sin noticias nuevas; fix: update_feed.py preserva secciones derivadas en index.md | snapshot 20260919T225651Z
+## [2026-09-20] ingest | 51 noticias IA | snapshot 20260920T011623Z
+## [2026-09-20] agent-pass | 9 noticias nuevas; 6 temas y 2 entidades actualizados, entidad Hugging Face creada, tendencias actualizadas | snapshot 20260920T011623Z

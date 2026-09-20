@@ -13,3 +13,8 @@ Escritura, persuasión, adopción y debate social.
 - Ask HN: ¿cómo entrevistar a desarrolladores en un mundo post-IA? [HN](https://news.ycombinator.com/item?id=49768826)
 - Entrevista a Joanna Stern sobre el iPhone Duo y la "IA para gente normal". [Stratechery](https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/)
 - ¿Se transfieren a trabajos reales las habilidades aprendidas en juegos? [Latent.Space](https://www.latent.space/p/good-start-labs)
+
+## 2026-09-20
+
+- Juego: ¿sabes qué imágenes están generadas por IA? [slop-sense.labtoagi.com](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+- "AI in schools - The choice we keep making": el debate de la IA en educación. [friendsschoolboulder.org](https://friendsschoolboulder.org/the-choice-we-keep-making/)

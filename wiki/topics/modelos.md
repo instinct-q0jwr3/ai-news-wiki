@@ -13,3 +13,7 @@ Nuevos modelos, benchmarks y técnicas.
 - NASA-IBM Lunar Foundation: modelo geoespacial open source. [USRA](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
 - Cómo OpenAI usó sus propios LLMs para diseñar su chip Jalapeño. [IEEE Spectrum](https://spectrum.ieee.org/llms-for-chip-design)
 - Base de datos de búsqueda e inferencia desde cero en Zig. [antfly.io](https://antfly.io/research/antfly-zig)
+
+## 2026-09-20
+
+- ROCmFix e InferBench: setup de LLMs locales en AMD y benchmarks Vulkan vs. HIP. [GitHub](https://github.com/xanpavle/rocmfix)

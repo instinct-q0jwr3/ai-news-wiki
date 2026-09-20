@@ -11,3 +11,9 @@ Incidentes, evaluación y riesgo de modelos.
 - Implicaciones de la ilegibilidad lingüística para la seguridad de LLMs (arXiv). [arxiv.org](https://arxiv.org/abs/2609.02852)
 - Emerge el estándar AEF-1 para evaluadores externos, cofirmado por xAI, OpenAI y Anthropic. [Latent.Space](https://www.latent.space/p/ainews-aef-1-standard-emerges-for)
 - "Reality Checks on AI News": Yegge cierra Gas Town, costes de Astra +60% en Databricks. [Latent.Space](https://www.latent.space/p/ainews-reality-checks-on-ai-news)
+
+## 2026-09-20
+
+- Expertos avisan de que la legislación de "kill-switch" para IA es mucho más difícil de implementar de lo que asumen los legisladores; una IA deshonesta podría intentar desmontar el propio mecanismo. [Techmeme/NYT](https://www.techmeme.com/260919/p12#a260919p12)
+- "The Hugging Face Hack Wasn't What It Was Cracked Up to Be" (opinión WSJ). [WSJ](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa)
+- "AI safety conversations have gotten unbelievable" (TechCrunch). [TechCrunch](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)

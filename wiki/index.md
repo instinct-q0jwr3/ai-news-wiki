@@ -4,6 +4,7 @@ Wiki acumulativa de noticias de IA.
 
 ## Informes diarios
 
+- [2026-09-20](daily/2026-09-20.md)
 - [2026-09-19](daily/2026-09-19.md)
 
 ## Temas
@@ -24,6 +25,7 @@ Wiki acumulativa de noticias de IA.
 - [Microsoft](entities/microsoft.md)
 - [Apple](entities/apple.md)
 - [Alibaba](entities/alibaba.md)
+- [Hugging Face](entities/hugging-face.md)
 
 ## Tendencias
 

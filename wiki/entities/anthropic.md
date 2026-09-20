@@ -8,3 +8,7 @@
 - Incidentes de desalineación citados en el perfil de METR/Redwood/Apollo. [Techmeme/The Verge](https://www.techmeme.com/260919/p5#a260919p5)
 - Demandada por presunto pacto de ralentización. [AP](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b)
 - Cofirma AEF-1. [Latent.Space](https://www.latent.space/p/ainews-aef-1-standard-emerges-for)
+
+## 2026-09-20
+
+- Partnership con Accenture en "Embedded Evaluation". [anthropic.com](https://www.anthropic.com/news/accenture-embedded-evaluation)
