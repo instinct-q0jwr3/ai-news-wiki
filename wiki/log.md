@@ -13,3 +13,4 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-09-20] agent-pass | 9 noticias nuevas; 6 temas y 2 entidades actualizados, entidad Hugging Face creada, tendencias actualizadas | snapshot 20260920T011623Z
 ## [2026-09-20] ingest | 46 noticias IA | snapshot 20260920T045726Z
 ## [2026-09-20] agent-pass | sin noticias nuevas (5 salen del feed por antigüedad) | snapshot 20260920T045726Z
+## [2026-09-20] ingest | 42 noticias IA | snapshot 20260920T092138Z
