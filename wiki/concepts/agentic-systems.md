@@ -10,10 +10,11 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Alibaba](../entities/alibaba.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Google](../entities/google.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Alibaba](../entities/alibaba.md) · [Meta](../entities/meta.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Google](../entities/google.md)
 
 ## Timeline
 
+- **2026-09-20** - Microsoft agentically ports Copilot runtime to Rust for $120K. Hacker News selected it as an AI-relevant development. ([Microsoft agentically ports Copilot runtime to Rust for $120K](../summaries/271d0703617a.md) · [Microsoft](../entities/microsoft.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - TLDR AI selected this story in its latest issue: Git as Shared Memory for AI Research Agents. ([Git as Shared Memory for AI Research Agents](../summaries/e7aebbb21b42.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - TLDR AI selected this story in its latest issue: Noam Brown – Agent swarms, alignment, & recursive self-improvement. ([Noam Brown – Agent swarms, alignment, & recursive self-improvement](../summaries/20991e2acdb6.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - TLDR AI selected this story in its latest issue: Notion lets teams share the same instructions across AI agents. ([Notion lets teams share the same instructions across AI agents](../summaries/4ffb55f6fb6b.md) · [Agentic systems](../concepts/agentic-systems.md))
