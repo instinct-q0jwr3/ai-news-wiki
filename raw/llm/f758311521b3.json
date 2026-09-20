@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Ben Thompson's 'Write Things Down' starts from David Allen's Getting Things Done and its RAM analogy: the conscious mind is a focusing tool, not a storage place, and open loops kept in short-term memory degrade it. Thompson confesses he was never conscientious enough to run the system himself, so when he hired an assistant for Stratechery, the first job was reading GTD, for Thompson's sake, not the assistant's: someone else became his inbox and task manager, keeping a perfectly organized OmniFocus he never opens.",
+  "The essay then pivots to AI: Nvidia CEO Jensen Huang declared on X that 'AGI has arrived' with GPT-6 Astra, trained on roughly 100K+ Grace Blackwell NVLink72 GPUs, his second such declaration this year. The GTD frame sets up the connection: just as Thompson outsourced remembering to a trusted person, the promise of an assistant that writes everything down and empties your RAM is what AI agents are now being sold on."
+ ],
+ "highlights": [
+  "GTD's core claim: the conscious mind is for focus, not storage; open loops in 'RAM' cause distraction and worry.",
+  "Thompson was an OmniFocus beta user but 'sucked' at running the system himself.",
+  "His fix after starting Stratechery solo in 2013: hire an assistant whose first job was reading GTD for him.",
+  "Result: a perfectly organized OmniFocus he never opens; the assistant is his inbox and task manager.",
+  "Segue: Jensen Huang declared 'AGI has arrived' with GPT-6 Astra, trained on ~100K+ NVLink72 GPUs.",
+  "It is Huang's second AGI declaration this year; 400K GPUs 'coming online next', per his post."
+ ],
+ "id": "f758311521b3",
+ "authored_at": "2026-09-20T23:54:51.050691+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

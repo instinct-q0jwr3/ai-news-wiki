@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Erich Grunewald argues you should almost never use AI to write substantive text, blog posts, reports, memos, thoughtful emails, even when you supply detailed bullet points and edit the result. His three reasons: the writing process is an essential part of the thinking process; AI writing is vague and wrong in hard-to-notice ways; and publishing AI writing without labeling it is rude and misleading to the reader.",
+  "He is not anti-AI: transcription, data analysis, search, brainstorming, draft feedback and human-reviewed line editing all get a pass, and he concedes future models may earn the delegation. The centerpiece is the thinking-writing identity, with Paul Graham ('half the ideas in an essay are ones you thought of while writing it') and Clara Collier on Patrick McKenzie's podcast (an LLM fed an outline will not stop and consider that the outline is bad) as the witnesses."
+ ],
+ "highlights": [
+  "Thesis: almost never delegate writing itself, even with detailed notes and post-editing.",
+  "Reason 1: writing is thinking; outsourcing the prose outsources the idea formation.",
+  "Reason 2: AI writing is vague and wrong in ways that are hard to notice.",
+  "Reason 3: unlabeled AI writing is rude and misleading to readers.",
+  "Allowed: transcription, data analysis, search, brainstorming, draft feedback, human-reviewed copyedits.",
+  "Paul Graham: half the ideas in an essay appear while writing it.",
+  "Clara Collier: an LLM given an outline won't stop to consider the outline itself is wrong.",
+  "Scope limited to current and near-future models; end-to-end delegation may make sense later."
+ ],
+ "id": "25cb63e5aa93",
+ "authored_at": "2026-09-20T23:55:08.739237+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

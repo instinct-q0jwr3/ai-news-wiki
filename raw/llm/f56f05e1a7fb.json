@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Cua is an open-source stack for giving AI agents computers they can actually use: a Cua Driver for native desktop automation on macOS, Windows and Linux, isolated cloud desktops (Fleets at run.cua.ai) claimable from a pool via the Sandbox SDK, local macOS/Linux VMs on Apple Silicon via Apple's Virtualization.Framework, and benchmarks for computer-use agents. Agents connect through a CLI, MCP or typed SDKs, and background delivery lets them work without moving the user's pointer or stealing focus where the platform supports it.",
+  "The headline piece is CUA-S1, a family of small 'System 1' models for fast, bounded computer-use decisions, choosing which value belongs in a field, whether to leave an element alone, rather than general planning. The first research profile targets forms, scoring decisions from structured interface elements and document values instead of generating token by token; application code orders the actions and the Cua Driver executes within explicit boundaries. The GitHub release is source-only and MIT-licensed; weights and datasets for CUA-S1-FORMS live on Hugging Face with artifact-specific licenses."
+ ],
+ "highlights": [
+  "Cua: open-source desktop automation across macOS, Windows and Linux, plus cloud and local sandboxes.",
+  "Fleets at run.cua.ai provision isolated cloud desktops from a pool via the Sandbox SDK.",
+  "Background delivery lets agents operate apps without moving the pointer or taking focus (platform-dependent).",
+  "CUA-S1: small 'System 1' models for fast, bounded decisions, not a replacement for a planning agent.",
+  "First profile is forms: scores decisions from structured UI elements and document values, no token-by-token generation.",
+  "MIT-licensed source; CUA-S1-FORMS weights and dataset hosted separately on Hugging Face.",
+  "Local VMs on Apple Silicon via Virtualization.Framework ('lume' installer).",
+  "Integrations for Claude Code, Codex, Cursor, OpenClaw and others."
+ ],
+ "id": "f56f05e1a7fb",
+ "authored_at": "2026-09-20T23:55:08.739237+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

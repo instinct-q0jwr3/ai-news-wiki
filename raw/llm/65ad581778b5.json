@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Thomas Ptacek's 'How to Write with an LLM' starts from a hard premise: readers detect LLM prose in parts per trillion, and no amount of scuffing will make an LLM paragraph register as writing rather than output. So the method is: write the piece yourself, then use the model as a copyeditor to find flaws, never as a ghostwriter.",
+  "Two rules keep the model from pasteurizing your voice. Rule one: you may not use a single word the LLM suggests, because frontier models are supernaturally good at pleasing turns of phrase and will sand your writing down to Velveeta; treat every suggested phrase as disqualified, even the ones you love. Rule two: avoid encouragement, because models respond to drafts with 'that's gold, Jerry', pushing you to double down on first-draft impulses instead of doing the load-bearing rethinks that are your voice. His own workaround for years was prompting as a publication editor screening submissions rather than as the author."
+ ],
+ "highlights": [
+  "Core premise: readers detect LLM output in 'parts per trillion'; you have to write for yourself.",
+  "Method: write the piece, then feed it to a good model strictly to find flaws, copyeditor, not ghostwriter.",
+  "Rule 1: never use a single word an LLM suggests; suggested phrases are disqualified on principle.",
+  "Reason: frontier models are wedged in magazine-headline mode; dozens of those per article reads as output.",
+  "Rule 2: avoid encouragement; models praise structure, transitions and metaphors that are actually bad.",
+  "The failure mode: skipping the edits and rethinks that are load-bearing parts of your voice.",
+  "His old trick: prompt as the editor of a publication screening submissions, not as the author."
+ ],
+ "id": "65ad581778b5",
+ "authored_at": "2026-09-20T23:55:08.739237+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
