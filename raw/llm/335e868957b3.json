@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com on behalf of customers, after failing to get Meta to voluntarily exclude the site. Amazon's account: Meta never told it Muse would access the store, the agent does not identify itself when it browses, and it appears to capture and store customer credentials, which Amazon calls a privacy and security risk. Since Sunday night, Muse users hitting Amazon see a popup: 'Continued access by an unauthorized AI agent violates Amazon's Conditions of Use.'",
+  "Meta counters that Muse 'has no visibility into people's passwords or payment methods', with credentials going into secure storage the agent can use without seeing. The standoff is notable because the two are partners: Amazon products have been purchasable inside Facebook and Instagram since 2023, and Meta signed a multibillion-dollar deal in April to run agentic AI workloads on Amazon's cloud. It fits Amazon's year-long campaign to keep outside agents off its site, suing Perplexity over Comet and blocking shopping agents from Google and OpenAI, and it lands on a business with more than $68 billion in ad revenue at stake. Amazon says it is in direct conversation with Meta and declined to comment on legal action."
+ ],
+ "highlights": [
+  "Amazon blocked Meta's Muse personal AI agent from shopping on Amazon.com for customers.",
+  "Amazon: Meta never disclosed Muse would access the store; the agent doesn't identify itself and appears to capture credentials.",
+  "Popup shown to Muse users: 'Continued access by an unauthorized AI agent violates Amazon's Conditions of Use.'",
+  "Meta: Muse 'has no visibility into people's passwords or payment methods'; credentials sit in secure storage.",
+  "The two are partners: Amazon shopping inside Facebook/Instagram since 2023; Meta's April multibillion-dollar agentic AI deal on AWS.",
+  "Amazon has sued Perplexity over Comet and blocked Google and OpenAI shopping agents in the past year.",
+  "Amazon generated more than $68B in ad revenue last year; legal action not ruled out, talks ongoing.",
+  "Reported by Todd Bishop, GeekWire, September 20-21, 2026."
+ ],
+ "id": "335e868957b3",
+ "authored_at": "2026-09-21T11:58:01.881493+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

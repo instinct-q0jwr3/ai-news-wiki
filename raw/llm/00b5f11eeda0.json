@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Brennan Kenneth Brown's third guide to the 'smallnets' makes the case for blogging on Gemini, a minimal internet protocol built in 2019 by the pseudonymous Solderpunk. Instead of HTML, every page is written in Gemtext, a stripped-down format with only headings, links and lists; every connection runs over TLS on port 1965, one request, one response, then the connection closes. Using it requires a dedicated browser rather than a web browser.",
+  "The pitch is partly practical and partly cultural. Practical: no JavaScript, CSS or even HTML to worry about, and hosting is cheap enough to run on low-spec hardware. Cultural: with no viable revenue model and general obscurity, Gemini space has no generative-AI swarms, no agents and no ads, just humans, an appealing answer to the anxiety that AI could take over the open web. The guide, published from Calgary as issue 288 of brennan.day, aims at creation, socialization and interactivity, and also touches Gopher and Spartan."
+ ],
+ "highlights": [
+  "Guide to creating a blog on Gemini, the minimal protocol built by Solderpunk in 2019.",
+  "Pages are written in Gemtext: headings, links and lists only, no HTML, CSS or JavaScript.",
+  "Protocol mechanics: TLS on port 1965, one request, one response, connection closes.",
+  "Requires a dedicated Gemini browser instead of a web browser.",
+  "Cultural draw: no revenue model and obscurity mean no AI slop, agents or ads, 'just humans'.",
+  "Third in a series on alternative internets; also covers Gopher and Spartan.",
+  "Published by Brennan Kenneth Brown, brennan.day issue 288, Calgary."
+ ],
+ "id": "00b5f11eeda0",
+ "authored_at": "2026-09-21T11:58:01.881493+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

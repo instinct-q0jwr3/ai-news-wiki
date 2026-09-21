@@ -1,95 +1,77 @@
 {
- "generated_at": "2026-09-21T05:55:06+00:00",
+ "generated_at": "2026-09-21T11:55:18+00:00",
  "stories": [
   {
-   "id": "07975f32cf7b",
-   "title": "AX – Google’s Open Agentic Orchestrator",
+   "id": "458d8111da3b",
+   "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
    "source": "Hacker News",
-   "url": "https://agentexecutor.io"
+   "url": "https://github.com/volotat/mini-AGI/"
   },
   {
-   "id": "a22f3962c05b",
-   "title": "If AI coding is lowering your code quality, you're not managing quality right",
+   "id": "728be1730c22",
+   "title": "Show HN: Ambits – agentic grep/rg tool will history tracking",
    "source": "Hacker News",
-   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"
+   "url": "https://github.com/joshLong145/ambits"
   },
   {
-   "id": "8404acc22305",
-   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
-  },
-  {
-   "id": "ca40655cc1ac",
-   "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
-   "source": "Hacker News",
-   "url": "https://github.com/openlayer-ai/jevals"
-  },
-  {
-   "id": "a9e2d774140a",
-   "title": "College Is Coming Apart After Successive, Overlapping Crises",
-   "source": "Hacker News",
-   "url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/"
-  },
-  {
-   "id": "ee50667d7c16",
-   "title": "The president wanted to unleash AI. Then came Anthropic",
-   "source": "Hacker News",
-   "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212"
-  },
-  {
-   "id": "f82dcef2c6c9",
-   "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
-   "source": "Hacker News",
-   "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/"
-  },
-  {
-   "id": "14b4a1cb2f89",
-   "title": "Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter",
-   "source": "Hacker News",
-   "url": "https://github.com/behdad/gdocs-me-up"
-  },
-  {
-   "id": "43450543b075",
-   "title": "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
+   "id": "a872a888f7c9",
+   "title": "After hacking incidents and the industry's existential risk warnings, we need a regulatory ban on RSI, as competition drives unchecked autonomous acceleration (Ezra Klein/New York Times)",
    "source": "Techmeme",
-   "url": "https://www.techmeme.com/260920/p17#a260920p17"
+   "url": "https://www.techmeme.com/260921/p16#a260921p16"
   },
   {
-   "id": "e2ec92e6c10f",
-   "title": "Mithrl, which integrates its proprietary biomedical world model with the R&D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures (Natalie Breymeyer/Axios)",
+   "id": "1e87ebd2fdf6",
+   "title": "Pacing the frontier may be sincere, but it would also be strategically useful for frontier AI labs to have time to reduce overhangs caused by model advancement (Ben Thompson/Stratechery)",
    "source": "Techmeme",
-   "url": "https://www.techmeme.com/260920/p16#a260920p16"
+   "url": "https://www.techmeme.com/260921/p19#a260921p19"
   },
   {
-   "id": "bec13b8d3c1c",
-   "title": "Aided by AI, young people in China launched 7M+ one-person startups in 2025 to escape a bleak job market, up ~42% from 2024, as they face fierce competition (Wall Street Journal)",
+   "id": "2df9fc8a6ef0",
+   "title": "As Xi Jinping visits Washington, Chinese economists warn that Beijing's heavy focus on AI comes at the expense of addressing a severe broader economic crisis (Li Yuan/New York Times)",
    "source": "Techmeme",
-   "url": "https://www.techmeme.com/260920/p18#a260920p18"
+   "url": "https://www.techmeme.com/260921/p14#a260921p14"
   },
   {
-   "id": "751756900f10",
-   "title": "Sources: SoftBank is looking to issue $10B and €1B in debt for its OpenAI investment, in what would be one of the biggest junk bond sales ever (Bloomberg)",
+   "id": "6454d90b0a14",
+   "title": "Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases (Financial Times)",
    "source": "Techmeme",
-   "url": "https://www.techmeme.com/260920/p20#a260920p20"
+   "url": "https://www.techmeme.com/260921/p10#a260921p10"
   },
   {
-   "id": "da42475dac42",
-   "title": "A detailed recap of the White House's 19-day standoff with Anthropic, where a jailbreak dispute led officials to bluntly order Dario Amodei to take Fable down (Politico)",
+   "id": "5a338b42b074",
+   "title": "South Korea reopens a program letting AI talent fulfill their military obligations by doing research in corporate labs instead of conventional military service (Jo He-rim/The Korea Herald)",
    "source": "Techmeme",
-   "url": "https://www.techmeme.com/260921/p4#a260921p4"
+   "url": "https://www.techmeme.com/260921/p8#a260921p8"
   },
   {
-   "id": "7acb34dc128e",
-   "title": "Altis Labs, whose AI model analyzes CT scans taken during oncology trials and produces predictions tied to patient survival, has raised a $25M Series A (Natalie Breymeyer/Axios)",
+   "id": "c4abfcca143a",
+   "title": "Investigation: AI hacker house AGI House had 37 incidents logged by police since 2022, many for party-related complaints, as Bay Area tech houses proliferate (Kirsten Grind/New York Times)",
    "source": "Techmeme",
-   "url": "https://www.techmeme.com/260921/p1#a260921p1"
+   "url": "https://www.techmeme.com/260921/p20#a260921p20"
   },
   {
-   "id": "5a74f7e09981",
-   "title": "Hong Kong-based Qupital, which offers cross-border ecommerce financing to SMEs, raised a $300M Series C led by M Capital as it weighs a possible IPO (FinTech Global)",
+   "id": "693059959006",
+   "title": "IFR: ~7,000 autonomous humanoids were sold globally in 2025 for industrial and professional use, with many bought for research instead of doing productive work (Toby Sterling/Reuters)",
    "source": "Techmeme",
-   "url": "https://www.techmeme.com/260921/p2#a260921p2"
+   "url": "https://www.techmeme.com/260921/p12#a260921p12"
+  },
+  {
+   "id": "357ea6567b48",
+   "title": "Sources: Alibaba names senior AI researcher Dayiheng Liu as the head of its Qwen project, bringing clarity after multiple reorganization rounds earlier in 2026 (Juro Osawa/The Information)",
+   "source": "Techmeme",
+   "url": "https://www.techmeme.com/260921/p13#a260921p13"
+  },
+  {
+   "id": "335e868957b3",
+   "title": "Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)",
+   "source": "Techmeme",
+   "url": "https://www.techmeme.com/260921/p9#a260921p9"
+  },
+  {
+   "id": "00b5f11eeda0",
+   "title": "Creating a Blog in Gemini://",
+   "source": "Lobsters",
+   "url": "https://brennan.day/creating-a-blog-in-gemini/"
   }
  ]
 }

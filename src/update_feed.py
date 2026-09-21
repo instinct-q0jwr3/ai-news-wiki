@@ -63,13 +63,25 @@ def clean(text: str | None) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def techmeme_original(raw_description: str) -> str | None:
+    """Techmeme permalinks 403 our fetcher; the item description links the original article."""
+    for match in re.finditer(r'(?i)<a\s+href="([^"]+)"', raw_description or ""):
+        href = html.unescape(match.group(1))
+        if "techmeme.com" not in href:
+            return href
+    return None
+
+
 def parse_feed(source: str, url: str) -> list[dict]:
     root = ET.fromstring(fetch_text(url))
     items = []
     for node in root.findall(".//item"):
         title = clean(node.findtext("title"))
         link = clean(node.findtext("link"))
-        description = clean(node.findtext("description"))
+        raw_description = node.findtext("description") or ""
+        description = clean(raw_description)
+        if source == "Techmeme":
+            link = techmeme_original(raw_description) or link
         if title and link:
             items.append({"source": source, "title": title, "url": link, "summary": description})
     return items

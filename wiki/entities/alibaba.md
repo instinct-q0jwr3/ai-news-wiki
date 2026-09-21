@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-09-21** - Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models … ([Sources: Alibaba names senior AI researcher Dayiheng Liu as the head of its Qwen project, bringing clarity after multiple reorganization rounds earlier in 2026 (Juro Osawa/The Information)](../summaries/357ea6567b48.md) · [Alibaba](../entities/alibaba.md))
 - **2026-09-20** - Alibaba's Qwen team open-sourced Qwen-Image-2.1, an image model that unifies text-to-image generation and image editing in a single system with just 7B parameters in its visual generation component (32 Single-Stream DiT layers). The headline addition is… ([Qwen Image 2.1](../summaries/1ba4b92c727b.md) · [Alibaba](../entities/alibaba.md))
 - **2026-09-20** - Qwen-Image-2.1: Compact, efficient, and unified image creation. Hacker News selected it as an AI-relevant development. ([Qwen-Image-2.1: Compact, efficient, and unified image creation](../summaries/168311a32c68.md) · [Alibaba](../entities/alibaba.md))
 - **2026-09-20** - Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery. TLDR AI selected it as an AI-relevant development. ([Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery](../summaries/393d17575b44.md) · [Alibaba](../entities/alibaba.md) · [Agentic systems](../concepts/agentic-systems.md))

@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Mini-AGI is an experiment in continual learning: a byte-level language model that assembles its own architecture, trains from scratch on a single 8 GB VRAM GPU, and keeps learning from everything it reads. Weights are stored as ordinary files on disk and paged onto the card as needed, so the parameter count is bounded by free disk space rather than VRAM; the model grows new capacity while training when it runs short and prunes what nothing asks for. Reading and serving use exactly the same code path, so training never has to stop.",
+  "The author is explicit that this is a toy-level model, not a frontier contender: the point is to show that continual learning from a single stream of data without catastrophic forgetting is possible on modest hardware, meaning almost anyone could train their own version or continue training this one. The pitch is ownership: every language model you can actually own today is a model somebody else trained and froze, fine-tunable at the edges but stopped the day it shipped. The current run is still on its first pass over the corpus; weights will be published once that pass completes, a couple of weeks away at the current rate."
+ ],
+ "highlights": [
+  "Mini-AGI: byte-level continual-learning language model that assembles its own architecture.",
+  "Trains from scratch on a single 8 GB VRAM GPU; weights paged from disk, so size is bounded by disk, not VRAM.",
+  "Grows new capacity during training and prunes unused parts; reading and serving share one code path.",
+  "Author's caveat: a small toy-level model; the claim is that continual learning without catastrophic forgetting works on modest hardware.",
+  "Argument: personal models today are always someone else's frozen model with 'a thin layer of you on top'.",
+  "Weights not yet published; the run finishes its first corpus pass in a couple of weeks.",
+  "Target hardware: any PC or laptop with at least an 8 GB VRAM GPU."
+ ],
+ "id": "458d8111da3b",
+ "authored_at": "2026-09-21T11:58:01.881493+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
