@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "jevals replaces the LLM judge in agent evaluation with Jev-style typed decision models. All the evals for a trace, tool choice, groundedness, scope, relevancy, completeness, indirect-injection and PHI checks, go out as a single HTTP request that costs a few thousandths of a cent and returns in a few hundred milliseconds, cheap and fast enough to run on every trace and even inside the agent loop. The quickstart numbers: eight evals in one request, 1,388 tokens, $0.00006, 0.33 seconds.",
+  "The cost argument is the point. With a frontier LLM as judge, Ragas-style metrics explode into many calls: faithfulness is two LLM calls, answer relevancy three plus embeddings, context precision one call per retrieved chunk, each carrying few-shot examples and generating JSON token by token with retries. Four metrics on one sample means six to eleven round trips and several seconds, so teams sample 1% nightly and never touch the request path. jevals runs through Jev via the TypeSafe or Vercel AI Gateway APIs, locally on a Mac with Kev or Laya, or against a regular chat LLM as a slower fallback."
+ ],
+ "highlights": [
+  "jevals: evals and guardrails for agents using Jev-style typed decision models instead of an LLM judge.",
+  "All evals for a trace in one HTTP request: thousandths of a cent, a few hundred milliseconds.",
+  "Quickstart: 8 evals, 1 request, 1,388 tokens, $0.00006, 0.33s.",
+  "LLM-judge economics: faithfulness = 2 calls, answer relevancy = 3 + embeddings, context precision = 1 per chunk.",
+  "Typical result: 6-11 round trips and several seconds per sample, forcing 1% nightly sampling.",
+  "Checks include ToolChoice, UsedToolResult, Grounded, StayedInScope, AnswerRelevancy, Completeness, IndirectInjection, PHI.",
+  "Runs via Vercel AI Gateway, TypeSafe or OpenRouter keys, locally with Kev/Laya on Mac, or any chat LLM fallback.",
+  "pip install jevals; accepts OpenAI chat format, Anthropic content blocks, or LangChain messages."
+ ],
+ "id": "ca40655cc1ac",
+ "authored_at": "2026-09-21T05:56:57.396332+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

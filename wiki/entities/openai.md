@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
 
 `entity` `openai` `agentic-systems` `ai-safety-incidents` `external-evaluation` `small-specialist-models`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-09-21** - SoftBank Group Corp. is seeking the equivalent of more than $11 billion in what would be one of the biggest junk bond deals ever … ([Sources: SoftBank is looking to issue $10B and €1B in debt for its OpenAI investment, in what would be one of the biggest junk bond sales ever (Bloomberg)](../summaries/751756900f10.md) · [OpenAI](../entities/openai.md))
 - **2026-09-20** - OpenAI's Sam Altman to Brief UN Security Council Next Week. Hacker News selected it as an AI-relevant development. ([OpenAI's Sam Altman to Brief UN Security Council Next Week](../summaries/69e81aedbf2d.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-20** - Anthropic and OpenAI taking more space in city's already squeezed prime property market — AI heavyweights including Anthropic … ([AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)](../summaries/27f4107ecf9b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-20** - An independent researcher describes how OpenAI's advertising pixel ties browsing on ordinary websites to a ChatGPT account. ChatGPT's backend issues a 60-second RS256 JWT binding the account subject to a 22-character 'obi' identifier, which is then set as… ([ChatGPT now knows what you do on other websites via ad collector](../summaries/25e014dc56e8.md) · [OpenAI](../entities/openai.md))

@@ -1,6 +1,6 @@
 # Notion lets teams share the same instructions across AI agents
 
-_type: news-summary · created: 2026-09-20 · updated: 2026-09-20 · confidence: high_
+_type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence: high_
 
 `tldr-ai` `agentic-systems`
 

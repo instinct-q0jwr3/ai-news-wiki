@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
 
 `entity` `anthropic` `agentic-systems` `ai-safety-incidents` `external-evaluation` `small-specialist-models`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-09-21** - The president wanted to unleash AI. Then came Anthropic. Hacker News selected it as an AI-relevant development. ([The president wanted to unleash AI. Then came Anthropic](../summaries/ee50667d7c16.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-21** - On the evening of April 6, an unusual request began making its way from Washington to some of Wall Street's most powerful executives. ([A detailed recap of the White House's 19-day standoff with Anthropic, where a jailbreak dispute led officials to bluntly order Dario Amodei to take Fable down (Politico)](../summaries/da42475dac42.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-20** - Anthropic and OpenAI taking more space in city's already squeezed prime property market — AI heavyweights including Anthropic … ([AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)](../summaries/27f4107ecf9b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-20** - Anthropic has published a measurement framework for how fast frontier AI labs are automating their own R&D, along with a first snapshot from inside the company: as of August 2026, Claude performs roughly a quarter of Anthropic's AI research and development… ([Anthropic says its AI now does a quarter of its research work](../summaries/af03609b121c.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-20** - Anthropic reports that Claude, working inside its Claude Science setup, optimized more than 30 open-source biomolecular models in just under four weeks, making them roughly 4x faster on average (nearly 2x with bit-identical outputs) and far more… ([How Claude is uplifting biomolecular modeling](../summaries/75c9d225c4fa.md) · [Anthropic](../entities/anthropic.md))

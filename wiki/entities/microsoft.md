@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
 
 `entity` `microsoft` `agentic-systems`
 

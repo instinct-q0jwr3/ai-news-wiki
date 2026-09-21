@@ -1,6 +1,6 @@
 # Concept: Agentic systems
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
 
 `concept` `agentic-systems`
 
@@ -14,6 +14,8 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## Timeline
 
+- **2026-09-21** - AX is Google's open-source orchestrator for AI agents, built around a blunt observation: agents are neither microservices nor batch jobs. They accumulate state, need strict isolation, call out to model APIs and tool servers, and can burn money in a loop if… ([AX – Google’s Open Agentic Orchestrator](../summaries/07975f32cf7b.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-21** - gdocs-me-up is a Node.js script that exports Google Docs to HTML and CSS with unusually high fidelity, aimed at creating offline or self-hosted versions of documents that closely match the original. Where simpler exports lose alignment, line spacing or… ([Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](../summaries/14b4a1cb2f89.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - AX is an open orchestrator for agent workloads, pitching itself against treating agents as microservices or batch jobs: agents accumulate state, need strict isolation, call model APIs and tool servers, and can burn money in a loop unwatched. It exposes… ([Google's Open Agentic Orchestrator](../summaries/90d894d096f2.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - Most of what an AI agent asks a frontier model to do is not writing. It is choosing. ([Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)](../summaries/d7dd3facc31b.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - Microsoft has rewritten the runtime behind GitHub Copilot from TypeScript to Rust, and most of the porting was done by AI agents. The migration cost about $120,000 in AI tokens plus roughly three weeks of developer time, and converted 430,000 lines of… ([Microsoft agentically ports Copilot runtime to Rust for $120K](../summaries/271d0703617a.md) · [Microsoft](../entities/microsoft.md) · [Agentic systems](../concepts/agentic-systems.md))

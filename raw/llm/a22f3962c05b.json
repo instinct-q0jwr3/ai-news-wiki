@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Answering the common worry that coding agents trade quality for speed, Iouri Khramtsov argues the opposite is achievable: with a thoughtful, layered approach to quality, teams can increase output roughly 2x while keeping the bug count stable or actually reducing it. Most defensive layers are the same ones good teams used before Claude, Copilot and Codex, just easier now, but a few are new.",
+  "The biggest surprise was spec-driven development: teams used to spend up to a third of total effort on post-development 'polishing', finding and fixing bugs born of unforeseen interactions, tired developers, or unexamined scenarios. Having the AI review requirements and tech designs for gaps, edge cases and unexpected interactions sharply cut those bugs, because the model doesn't get tired or give up hunting, though it can be overzealous and invent issues, so its edits still need review. Coding agents also make test-driven development trivial, but only if done right: the agent derives test cases from the requirements first, then writes the implementation, so it never writes passing tests that bless its own fresh bugs."
+ ],
+ "highlights": [
+  "Claim: layered quality management lets teams roughly double output while holding or reducing bugs.",
+  "Teams previously spent up to a third of total effort on post-development bug 'polishing'.",
+  "Spec-driven development cut fresh-code bugs sharply; key step is AI review of requirements and designs.",
+  "AI reviewers don't get tired, but can invent non-existent issues; human review of proposed edits stays mandatory.",
+  "TDD is now trivial with agents, but tests must be written from requirements before implementation.",
+  "Never let the agent write passing tests for bugs it just introduced.",
+  "Most defensive layers predate AI coding tools; AI just makes them cheaper to apply."
+ ],
+ "id": "a22f3962c05b",
+ "authored_at": "2026-09-21T05:56:57.396332+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

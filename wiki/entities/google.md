@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
 
 `entity` `google` `agentic-systems` `ai-safety-incidents` `small-specialist-models`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-09-21** - AX is Google's open-source orchestrator for AI agents, built around a blunt observation: agents are neither microservices nor batch jobs. They accumulate state, need strict isolation, call out to model APIs and tool servers, and can burn money in a loop if… ([AX – Google’s Open Agentic Orchestrator](../summaries/07975f32cf7b.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-21** - gdocs-me-up is a Node.js script that exports Google Docs to HTML and CSS with unusually high fidelity, aimed at creating offline or self-hosted versions of documents that closely match the original. Where simpler exports lose alignment, line spacing or… ([Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](../summaries/14b4a1cb2f89.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - AX is an open orchestrator for agent workloads, pitching itself against treating agents as microservices or batch jobs: agents accumulate state, need strict isolation, call model APIs and tool servers, and can burn money in a loop unwatched. It exposes… ([Google's Open Agentic Orchestrator](../summaries/90d894d096f2.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-20** - Google wants to give your family its own cloud computer. TLDR AI selected it as an AI-relevant development. ([Google wants to give your family its own cloud computer](../summaries/e21991ab0a3f.md) · [Google](../entities/google.md))
 - **2026-09-19** - Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing. ([Show HN: Scry, programmable internet search w/ congestion pricing](../summaries/885025e27aa7.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md))
