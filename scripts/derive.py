@@ -356,6 +356,14 @@ def trim_blurb(text,cap=300):
 def render_daily(day,items,generated):
     lines=[f"# AI in the news - {day}","",f"Updated: `{generated}`","",
            "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.",""]
+    bf=ROOT/'raw'/'llm'/f"digest-{day}.json"
+    if bf.exists():
+        try:
+            d=json.loads(bf.read_text())
+            lines.extend(["## Briefing",""])
+            for para in d.get('prose',[]):
+                lines.extend([para,""])
+        except Exception: pass
     for source in ("Techmeme","Hacker News","Lobsters","Latent.Space","Stratechery","TLDR AI"):
         si=[i for i in items if i.get('source')==source]
         lines.extend([f"## {source}",""])
