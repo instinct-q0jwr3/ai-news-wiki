@@ -1,0 +1,21 @@
+{
+ "id": "1ba4b92c727b",
+ "prose": [
+  "Alibaba's Qwen team open-sourced Qwen-Image-2.1, an image model that unifies text-to-image generation and image editing in a single system with just 7B parameters in its visual generation component (32 Single-Stream DiT layers). The headline addition is native transparency: the model generates regular or transparent images from the prompt, edits transparent layers directly, and can extract a subject from an ordinary photo as an RGBA layer, folding in what the dedicated Qwen-Image-Layered model introduced in December 2025.",
+  "Efficiency comes from a mixed-granularity attention architecture: text uses a token-level causal mask while image generation uses a chunk-level mask, and KV cache reuse lets input images and editing instructions serve as static context computed once. Editing is the other focus: up to 10 reference images can be combined into one composition (six portraits into a group photo, five items into a virtual try-on outfit, ten furnishings into a room), local edits can be specified with colored circles, painted annotations or separate masks, and fidelity work targets preserving portrait identity and product text, textures and shape. Task coverage extends to panoramas from a selfie, infographics from a product photo, and storyboards from a three-view character reference. Weights are on GitHub, Hugging Face and ModelScope."
+ ],
+ "highlights": [
+  "Qwen-Image-2.1 open-sourced September 20, 2026; weights on GitHub, Hugging Face and ModelScope.",
+  "7B-parameter visual generation component, 32 Single-Stream DiT layers; unifies generation and editing in one model.",
+  "Native transparency: prompt decides regular vs transparent output; transparent layers editable; photo subjects extractable as RGBA.",
+  "Transparency capability absorbed from the dedicated Qwen-Image-Layered model (December 2025).",
+  "Mixed-granularity attention: token-level causal mask for text, chunk-level for images, KV cache reuse for inputs and instructions.",
+  "Up to 10 reference images combined into one composition (group portraits, virtual try-on, interior design).",
+  "Local editing via colored circles, painted annotations, or a separate mask input; sequential edits can build simple animations.",
+  "Fidelity work preserves portrait identity and product text, textures and shape across edits.",
+  "Also generates panoramas from a selfie, infographics from a photo, and storyboards from a character reference."
+ ],
+ "authored_at": "2026-09-21T06:40:53.726064+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
