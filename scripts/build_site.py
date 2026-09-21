@@ -87,13 +87,34 @@ document.querySelectorAll('.filter-bar').forEach(function(bar){
 });
 </script>'''
 
+FILTER_JS_GROUPS='''<script>
+document.querySelectorAll('.filter-bar').forEach(function(bar){
+  var scope=bar.parentElement; if(!scope) return;
+  var groups=Array.prototype.slice.call(scope.querySelectorAll('.tree > details'));
+  groups.forEach(function(g){g.dataset.init=g.open?'1':''});
+  bar.addEventListener('click',function(e){
+    var b=e.target.closest('.chip'); if(!b) return;
+    bar.querySelectorAll('.chip').forEach(function(c){c.classList.toggle('active',c===b)});
+    var t=b.dataset.tag;
+    scope.querySelectorAll('.row').forEach(function(r){
+      r.style.display=(!t||r.dataset.tags.split(' ').indexOf(t)>=0)?'':'none';
+    });
+    groups.forEach(function(g){
+      var any=Array.prototype.some.call(g.querySelectorAll('.row'),function(r){return r.style.display!=='none'});
+      g.style.display=any?'':'none';
+      g.open=t?any:g.dataset.init==='1';
+    });
+  });
+});
+</script>'''
+
 def filter_bar(tagcount):
     if len(tagcount)<2: return ''
     chips=''.join(f'<button class="chip" data-tag="{html.escape(t,quote=True)}">{html.escape(t)}<span>{c}</span></button>' for t,c in tagcount.most_common())
     return f'<div class="filter-bar"><button class="chip active" data-tag="">All</button>{chips}</div>'
 
 BUILD_V=str(int(time.time()))
-NAV=[('hubs','Hubs'),('weekly','Weekly'),('entities','Entities'),('daily','Digests'),('summaries','Stories'),('archive','Archive'),('concepts','Concepts'),('comparisons','Compare')]
+NAV=[('hubs','Hubs'),('weekly','Weekly'),('entities','Entities'),('daily','Digests'),('summaries','Stories'),('concepts','Concepts'),('comparisons','Compare')]
 def shell(title,content,rel='',search=False,section=''):
     nav=''.join(f'<a href="{rel}{k}/index.html"'+((' class="active" aria-current="page"') if k==section else '')+f'>{v}</a>' for k,v in NAV)
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
@@ -134,10 +155,24 @@ def main():
         tagcount=Counter()
         for p in arr:
             for t in meta_of(p)['tags']: tagcount[t]+=1
-        rows=''.join(row_html(p,f'{p.stem}.html',is_new=(folder=='summaries' and p.stem in NEW_IDS)) for p in arr)
-        body=(f'<div class="page-title"><span class="eyebrow">Library</span><h1>{label}</h1>'
-              f'<p>{len(arr)} pages maintained from the corpus.</p></div>'
-              f'{filter_bar(tagcount)}<ul class="row-list">{rows}</ul>{FILTER_JS}')
+        if folder=='summaries':
+            groups={}
+            for p in arr:
+                m=meta_of(p); day=m['created'] or m['updated'] or 'undated'
+                groups.setdefault(day,[]).append(p)
+            parts=[]
+            for i,day in enumerate(sorted(groups,reverse=True)):
+                rows=''.join(row_html(p,f'{p.stem}.html',is_new=(p.stem in NEW_IDS)) for p in sorted(groups[day],key=lambda p:title_of(p)))
+                openattr=' open' if i<3 else ''
+                parts.append(f'<details class="ty"{openattr}><summary>{day}<span class="tc">{len(groups[day])} stories</span></summary><ul class="row-list tree-list" style="margin-left:32px">{rows}</ul></details>')
+            body=(f'<div class="page-title"><span class="eyebrow">Library</span><h1>{label}</h1>'
+                  f'<p>{len(arr)} pages maintained from the corpus, grouped by first-seen date.</p></div>'
+                  f'{filter_bar(tagcount)}<div class="tree">' + ''.join(parts) + f'</div>{FILTER_JS_GROUPS}')
+        else:
+            rows=''.join(row_html(p,f'{p.stem}.html',is_new=(folder=='summaries' and p.stem in NEW_IDS)) for p in arr)
+            body=(f'<div class="page-title"><span class="eyebrow">Library</span><h1>{label}</h1>'
+                  f'<p>{len(arr)} pages maintained from the corpus.</p></div>'
+                  f'{filter_bar(tagcount)}<ul class="row-list">{rows}</ul>{FILTER_JS}')
         (OUT/folder/'index.html').write_text(shell(label,body,'../',section=folder if folder in dict(NAV) else ''))
     weekly=sorted((WIKI/'weekly').glob('*.md'),reverse=True); latest=weekly[0] if weekly else None
     entities=sorted((WIKI/'entities').glob('*.md'),key=lambda p:p.stat().st_mtime,reverse=True)
@@ -158,53 +193,11 @@ def main():
         newsec=''
     body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Latest Digests',daily,6)+section_list('Recently Updated',entities+concepts,8)+'</div><div>'+most+section_list('Explore Hubs',sorted((WIKI/'hubs').glob('*.md')),5)+'</div></div>'
     (OUT/'index.html').write_text(shell('AI News Wiki',body,'',True))
-    build_archive()
     (OUT/'assets'/'search-index.json').write_text(json.dumps(docs,ensure_ascii=False))
     (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")
     (OUT/'assets'/'style.css').write_text(CSS)
     (OUT/'.nojekyll').write_text('')
     print(f'Built {len(files)} wiki pages in docs/')
-
-def build_archive():
-    import datetime as _dt
-    stories=[]
-    for p in (WIKI/'summaries').glob('*.md'):
-        m=meta_of(p); day=m['created'] or m['updated']
-        if not re.match(r'\d{4}-\d{2}-\d{2}',day or ''): continue
-        stories.append((day,title_of(p),f'summaries/{p.stem}.html'))
-    digests=sorted((p.stem,f'daily/{p.stem}.html') for p in (WIKI/'daily').glob('*.md'))
-    def tree(items,render_row):
-        years={}
-        for day,*rest in items:
-            y,mo,_=day.split('-'); years.setdefault(y,{}).setdefault(mo,{}).setdefault(day,[]).append((day,*rest))
-        out=['<div class="tree">']
-        months=sorted({mo for y in years.values() for mo in y},reverse=True)
-        latest_year=max(years) if years else ''
-        for y in sorted(years,reverse=True):
-            ycount=sum(len(d) for mo in years[y].values() for d in mo.values())
-            out.append(f'<details class="ty"{" open" if y==latest_year else ""}><summary>{y}<span class="tc">{ycount}</span></summary>')
-            for mo in sorted(years[y],reverse=True):
-                mcount=sum(len(d) for d in years[y][mo].values())
-                mname=_dt.date(int(y),int(mo),1).strftime('%B')
-                out.append(f'<details class="tm" open><summary>{mname}<span class="tc">{mcount}</span></summary>')
-                for day in sorted(years[y][mo],reverse=True):
-                    rows=years[y][mo][day]
-                    out.append(f'<details class="td"><summary>{day}<span class="tc">{len(rows)}</span></summary><ul class="row-list tree-list">')
-                    for row in sorted(rows,key=lambda r:r[1] if len(r)>1 else ''):
-                        out.append(render_row(row))
-                    out.append('</ul></details>')
-                out.append('</details>')
-            out.append('</details>')
-        out.append('</div>')
-        return ''.join(out)
-    story_rows=tree(stories,lambda r:f'<li class="row"><a class="row-title" href="../{r[2]}">{html.escape(r[1])}</a><span class="row-meta">{r[0]}</span></li>')
-    digest_rows=tree([(d,l) for d,l in digests],lambda r:f'<li class="row"><a class="row-title" href="../{r[1]}">Digest {r[0]}</a><span class="row-meta">{r[0]}</span></li>')
-    body=(f'<div class="page-title"><span class="eyebrow">Chronology</span><h1>Archive</h1>'
-          f'<p>{len(stories)} stories and {len(digests)} digests, organized by year, month and day.</p></div>'
-          f'<section><div class="section-head"><h2>Stories by day</h2><span>first-seen date</span></div>{story_rows}</section>'
-          f'<section><div class="section-head"><h2>Digests by day</h2><span>daily issues</span></div>{digest_rows}</section>')
-    (OUT/'archive').mkdir(exist_ok=True)
-    (OUT/'archive'/'index.html').write_text(shell('Archive',body,'../',section='archive'))
 
 CSS='''
 :root{--bg:#0b0d0f;--panel:#111418;--line:#242a30;--text:#e8edf2;--muted:#8c98a4;--cyan:#74c7e8;--green:#8ad6b1;--max:1120px}*{box-sizing:border-box}html{background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,sans-serif}body{margin:0}a{color:var(--cyan);text-decoration:none}a:hover{color:#b8e8fb}header{height:58px;border-bottom:1px solid var(--line);display:flex;align-items:center;padding:0 28px;gap:30px;position:sticky;top:0;background:rgba(11,13,15,.94);backdrop-filter:blur(12px);z-index:10}.brand{font-weight:750;color:var(--text);font-size:17px;letter-spacing:-.02em}.brand span{color:var(--cyan)}nav{display:flex;gap:22px;flex:1}nav a,.search-link{font-size:13px;color:var(--muted)}nav a:hover{color:var(--text)}nav a.active{color:var(--text);font-weight:700;border-bottom:2px solid var(--cyan);padding-bottom:2px}main{max-width:var(--max);margin:0 auto;padding:52px 28px 90px}.stats{font:12px ui-monospace,SFMono-Regular,monospace;color:var(--muted);display:flex;gap:20px;margin-bottom:22px}.stats b{color:var(--text)}.hero{display:block;color:var(--text);margin:0 0 44px}.hero h1{max-width:820px;font-size:clamp(34px,5vw,58px);line-height:1.02;letter-spacing:-.045em;margin:12px 0 14px;color:var(--text)}.hero p{color:#a8b3bd;max-width:610px;font-size:17px;line-height:1.6}.eyebrow{text-transform:uppercase;letter-spacing:.13em;color:var(--green);font-size:11px;font-weight:700}.cta{display:inline-block;margin-top:18px;color:var(--cyan);font-weight:650}.home-grid{display:grid;grid-template-columns:1fr 1fr;gap:46px}section{margin:0 0 42px}.section-head{display:flex;align-items:baseline;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:10px}.section-head h2{font-size:12px;text-transform:uppercase;letter-spacing:.12em;margin:0;color:#c3cbd3}.section-head span{font-size:11px;color:var(--muted)}.ranked{list-style:none;padding:0;margin:0}.ranked li{border-bottom:1px solid #1c2126;padding:11px 0;display:flex;justify-content:space-between;gap:18px}.ranked li span{color:#b8c2cb;font-size:13px}.ranked b{font:12px ui-monospace,monospace;color:var(--muted)}.filter-bar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px}.chip{font:12px ui-monospace,SFMono-Regular,monospace;background:transparent;border:1px solid var(--line);color:var(--muted);border-radius:999px;padding:5px 12px;cursor:pointer}.chip span{color:var(--cyan);margin-left:7px}.chip:hover{border-color:#3b4b56;color:var(--text)}.chip.active{background:var(--cyan);border-color:var(--cyan);color:#06222e}.chip.active span{color:#06222e}.row-list{list-style:none;padding:0;margin:0 0 42px}.row{display:flex;align-items:baseline;gap:14px;border-bottom:1px solid #1c2126;padding:9px 0}.row-title{font-size:14px;flex:1;min-width:180px}.row-tags{display:flex;gap:6px;flex-wrap:wrap}.row-tags code{background:#171b20;border:1px solid var(--line);padding:1px 5px;border-radius:4px;font-size:11px;color:var(--cyan);white-space:nowrap}.new-badge{display:inline-block;font:10px ui-monospace,SFMono-Regular,monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--green);border:1px solid #2c4a3b;border-radius:999px;padding:1px 7px;margin-left:8px;vertical-align:middle;white-space:nowrap}.row-meta{font:11px ui-monospace,SFMono-Regular,monospace;color:var(--muted);white-space:nowrap}.search-wrap{position:relative;width:250px}.search-wrap input{width:100%;background:#111418;border:1px solid var(--line);color:var(--text);border-radius:6px;padding:9px 12px;outline:none}.search-wrap input:focus{border-color:#426c80}#results{position:absolute;right:0;top:42px;width:420px;background:#111418;border:1px solid var(--line);border-radius:8px;box-shadow:0 16px 50px #000;padding:5px;max-height:420px;overflow:auto}#results:empty{display:none}#results a{display:flex;justify-content:space-between;padding:10px;border-radius:5px;color:var(--text)}#results a:hover{background:#182027}#results span{color:var(--muted);font-size:11px}article{max-width:800px;margin:auto}article h1{font-size:clamp(25px,3.2vw,32px);letter-spacing:-.025em;line-height:1.16;margin:12px 0 26px}article h2{margin-top:46px;border-bottom:1px solid var(--line);padding-bottom:10px;font-size:21px}article h3{margin-top:32px;font-size:16px}article p,article li{color:#b7c0c9;line-height:1.7;font-size:15px}article li{margin:8px 0}article>p.meta+ p code{display:inline-block;margin:3px 4px 3px 0;color:var(--cyan)}article code{background:#171b20;border:1px solid var(--line);padding:2px 5px;border-radius:4px;font-size:12px}.meta{color:var(--muted);font:12px ui-monospace,monospace}.page-title{margin-bottom:28px}.page-title h1{font-size:clamp(28px,3.6vw,36px);margin:10px 0}.page-title p{color:var(--muted)}footer{border-top:1px solid var(--line);padding:24px;text-align:center;color:#5f6972;font-size:12px}@media(max-width:760px){article p,article li{font-size:16px;line-height:1.72}article h2{margin-top:38px}.page-title h1{font-size:28px}header{padding:10px 16px;gap:8px 16px;flex-wrap:wrap;height:auto}nav{display:flex;order:3;flex:1 1 100%;overflow-x:auto;gap:18px;padding-bottom:4px;scrollbar-width:none}nav::-webkit-scrollbar{display:none}nav a{white-space:nowrap}.search-wrap{width:auto;flex:1}.home-grid{grid-template-columns:1fr}main{padding:34px 18px 70px}.stats{overflow:auto}.hero h1{font-size:36px}article h1{font-size:25px}#results{width:100%}.row{flex-wrap:wrap;gap:6px 12px;padding:10px 0}.row-title{flex:1 1 100%}.row-meta{margin-left:auto}}.tree details{margin:0 0 2px}.tree summary{cursor:pointer;list-style:none;font:700 15px/1.9 ui-monospace,monospace;color:#e8edf3;user-select:none}.tree summary::before{content:"+";display:inline-block;width:16px;color:#6b7684}.tree details[open]>summary::before{content:"-"}.tree .tc{margin-left:10px;font:400 11px ui-monospace,monospace;color:#6b7684}.tree .tm{margin-left:16px}.tree .td{margin-left:32px}.tree .td summary{font:400 12px/2 ui-monospace,monospace;color:#9aa5b1}.tree .tree-list{margin-left:48px;margin-bottom:10px}
