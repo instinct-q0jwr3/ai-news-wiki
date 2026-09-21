@@ -22,7 +22,7 @@ The piece opens with a broadside against the Effective Altruism-adjacent philoso
 
 ## Source
 
-[Read the original story](https://www.techmeme.com/260921/p19#a260921p19)
+[Read the original story](https://stratechery.com/2026/frontier-overhangs/)
 
 ## Related pages
 

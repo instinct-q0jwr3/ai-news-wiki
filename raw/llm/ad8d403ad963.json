@@ -1,0 +1,17 @@
+{
+ "id": "ad8d403ad963",
+ "prose": [
+  "Bloomberg reports that a growing set of startups - including Harvey, Abridge, Ramp and Rogo - are embracing open-weight models or training their own models to cut their expensive reliance on frontier labs like OpenAI and Anthropic. Harvey, the $15.6 billion legal startup, built its business on fine-tuning models like GPT-4 for lawyers, but after a March update to its AI agents, customer usage spiked while gross margins dropped sharply from about 50 percent, pushing it to diversify its model stack.",
+  "The shift reflects a broader repricing of the application layer: as open-weight models close the quality gap, startups see training or customizing their own models as the way to protect margins and reduce vendor risk, rather than paying frontier-lab API prices that scale with their own growth."
+ ],
+ "highlights": [
+  "Harvey, Abridge, Ramp and Rogo among the startups embracing open-weight or self-trained models",
+  "Harvey valued at $15.6B; after a March agent update, usage spiked but gross margins fell sharply from about 50%",
+  "Harvey built its business on fine-tuning models like OpenAI's GPT-4 for legal work",
+  "Open-weight models closing the quality gap are squeezing application-layer margins",
+  "Startups frame self-trained models as margin protection and vendor-risk reduction"
+ ],
+ "authored_at": "2026-09-21T21:38:39.474469+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

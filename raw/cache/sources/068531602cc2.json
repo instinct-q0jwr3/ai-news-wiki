@@ -1,1 +1,7 @@
-{"url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame", "fetched_at": "2026-09-21T17:57:32.149041+00:00", "status": "error", "note": "HTTP Error 403: Forbidden", "text": ""}
+{
+ "url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame",
+ "fetched_at": "2026-09-21T21:37:47.573398+00:00",
+ "status": "error",
+ "note": "refetched 2026-09-21 via reader proxy/browser after fetch error | DOWNGRADED 2026-09-21: refetch returned boilerplate/paywall only; stays extractive",
+ "text": ""
+}

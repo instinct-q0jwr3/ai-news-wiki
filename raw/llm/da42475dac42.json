@@ -1,0 +1,21 @@
+{
+ "id": "da42475dac42",
+ "prose": [
+  "Politico Magazine reconstructs the 85-day collision between the Trump White House and Anthropic that began with the March release of Mythos, a model able to find holes in digital infrastructure at machine speed. After Microsoft privately warned that Mythos could automate sophisticated cyberattacks against banks, the energy grid and other critical infrastructure, the administration spun into crisis mode: Cabinet secretaries met in the Situation Room, VP JD Vance convened tech CEOs, and chief of staff Susie Wiles handed the frontier-AI portfolio to Sean Cairncross, a political operative running the Office of the National Cyber Director. His office drafted an executive order built around a mandatory 60-day government evaluation of frontier models by the Commerce Department's CAISI, with a 75-day trusted-access program before wider deployment. Google, Anthropic and OpenAI rejected it as unworkable, Cairncross shifted to a voluntary scheme, and a signing ceremony was set for May 21 - until David Sacks phoned Trump that morning arguing that slowing US models would aid China, and Trump abruptly canceled.",
+  "The order was finally signed without fanfare on June 2, with the review window cut from 90 to 30 days. Six days later Anthropic released Fable, a softened public version of Mythos, after CAISI pre-deployment testing and Treasury approval - and two days after that, Amazon researchers stress-testing it found a jailbreak. What followed was the 19-day standoff of the title: Cairncross and Treasury Secretary Scott Bessent bluntly ordered Dario Amodei to take Fable down; Amodei refused, arguing no frontier model is immune to jailbreaks and that recalling Fable would set a precedent that no sufficiently capable model could be deployed commercially. The White House escalated to export controls, making Commerce Secretary Howard Lutnick the lead player, and on June 13 the Commerce Department directed Anthropic to suspend all Fable and Mythos access by any foreign national - which forced a global takedown, since Anthropic's own overseas engineers could no longer use the models. Anthropic complied publicly while disagreeing, co-founder Tom Brown took over negotiations, and an open letter from tech executives urged the administration to revoke the control. The episode ended with the first Trump-era federal AI framework already obsolete, companies like Telnyx accelerating experiments with Chinese models such as Z.ai's GLM, and both sides aware that no policymaking process can keep pace with model releases."
+ ],
+ "highlights": [
+  "Mythos could find holes in digital infrastructure at machine speed; Microsoft warned it could automate attacks on banks, the grid and other critical infrastructure",
+  "First EO draft required a mandatory 60-day CAISI evaluation plus a 75-day trusted-access program; Google, Anthropic and OpenAI all pushed back",
+  "Trump canceled the May 21 signing ceremony hours beforehand after a phone call from David Sacks arguing the rules would help China",
+  "Final EO signed June 2 with the review window cut from 90 to 30 days; Trump remarked at one point that if Anthropic refused to comply, 'I want to send them to jail'",
+  "Amazon researchers found the Fable jailbreak two days after its June 9 release; CEO Andy Jassy shared the findings with White House officials",
+  "Cairncross to Amodei: 'To protect the United States of America, we need Fable access to be removed' - Amodei refused to act within the hour",
+  "The June 13 export-control directive suspended Fable and Mythos access for any foreign national, which forced a global takedown because Anthropic's own overseas staff could no longer use the models",
+  "Anthropic complied while publicly disagreeing: a narrow jailbreak 'should be cause for recalling a commercial model deployed to hundreds of millions of people' would halt all frontier deployments",
+  "Fallout: Telnyx CEO David Casem says the 'rug pulled' risk pushed his company more aggressively toward Chinese models like Z.ai's GLM"
+ ],
+ "authored_at": "2026-09-21T21:38:19.526925+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

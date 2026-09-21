@@ -1,1 +1,7 @@
-{"url": "https://www.techmeme.com/260920/p9#a260920p9", "fetched_at": "2026-09-21T17:56:36.858095+00:00", "status": "error", "note": "HTTP Error 403: Forbidden", "text": ""}
+{
+ "url": "https://www.techmeme.com/260920/p9#a260920p9",
+ "fetched_at": "2026-09-21T17:56:36.858095+00:00",
+ "status": "error",
+ "note": "HTTP Error 403: Forbidden | refetch 2026-09-21 failed: paywall/anti-bot (browser+proxy); stays extractive",
+ "text": ""
+}

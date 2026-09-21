@@ -63,7 +63,7 @@ def cache_entry(x):
     if f.exists():
         try: c=json.loads(f.read_text())
         except Exception: c=None
-        if c and c.get('url')==x.get('url'):
+        if c and (c.get('url')==x.get('url') or c.get('feed_url')==x.get('url')):
             if c.get('status') in ('ok','thin'): return c,True
             try: age=(dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(c.get('fetched_at',''))).total_seconds()
             except Exception: age=1e9
@@ -232,7 +232,8 @@ def build_summaries(xs,stamp):
         valid.add(f'{x["id"]}.md'); ents,concepts=related(x); tags=[x.get('source','source').lower().replace(' ','-')]+ents+concepts
         related_links=[entity_link(s) for s in ents]+[concept_link(s) for s in concepts]
         meta=metadata('news-summary',fmt_date(x.get('first_seen')),fmt_date(stamp),'high',tags)
-        source=f'[Read the original story]({x["url"]})'
+        src_url=SOURCES.get(x['id'],{}).get('url') or x['url']
+        source=f'[Read the original story]({src_url})'
         if x.get('newsletter_url'): source+=f' · [TLDR AI issue]({x["newsletter_url"]})'
         r=None; llm=False; lf=ROOT/'raw'/'llm'/f"{x['id']}.json"
         if lf.exists():
