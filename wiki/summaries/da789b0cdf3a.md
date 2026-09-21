@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-Access to frontier models no longer guarantees access to the inference regime that can reliably reproduce frontier model capabilities.
+The author defines an 'inference gap': access to a frontier model no longer guarantees access to the inference regime needed to reproduce its frontier capabilities. The case study is Anthropic's Fable 5, a 'Mythos class' model whose availability the US government briefly blocked over safety concerns before Anthropic restored it on July 1st. The author found it could solve previously out-of-reach problems over longer agentic horizons, with unusual intuition and judgment.
 
-On July 1st, Anthropic restored availability to Fable 5 after safety concerns briefly led the U.S. government to block access.
-
-Fable 5 was Anthropic's first Mythos class model and represented a step-change in frontier capability.
+Fable 5 was initially promised to subscribers only until July 7th, a deadline that slid to July 12 and then July 19 under apparent competitive pressure from open-source releases and rival price cuts, before Anthropic announced on July 17 that it would stay permanently available from July 20. Right after that permanence began, the author experienced what felt like a sharp performance drop: inconsistent instruction-following, ignored guidelines, and degraded architecture and design work - the perceived cost of serving the model at subscription scale.
 
 ## Highlights
 
-- And many, including myself, discovered we now had a model that could solve previously out-of-reach problems, over longer agentic horizons, and that exhibited an unusual level of intuition and judgment in its work.
-- Initially, Fable 5 was only expected to be available to subscription plan holders until July 7th.
-- This deadline was inexplicably moved to July 12, and then July 19th.
-- Each move happened with little notice and did not appear to be part of a coordinated plan.
-- Major open-source releases and other frontier model price reductions seemed to be applying considerable competitive pressure on Anthropic.
-- The model identity had remained the same, but the inference regime being delivered behind that model had not.
-- As you read through the findings and evidence below, here's the thread to carry with you: inference effort, and the broader inference regime available to the model, may be the most consequential performance-bearing resource in AI.
-- This is the meaning of The Inference Gap .
+- Thesis: 'Access to frontier models no longer guarantees access to the inference regime' that reproduces frontier capability.
+- Fable 5 described as Anthropic's first 'Mythos class' model, briefly blocked by the US government over safety concerns and restored July 1st.
+- Availability deadline moved from July 7 to July 12 to July 19, then made permanent from July 20.
+- Author reports a sharp perceived performance drop immediately after permanent availability began: ignored guidelines, degraded design work.
+- Competitive pressure from open-source releases and price cuts is cited as context for the shifting deadlines.
 
 ## Source
 

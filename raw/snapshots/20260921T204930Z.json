@@ -1,0 +1,868 @@
+{
+  "generated_at": "2026-09-21T20:49:30+00:00",
+  "errors": [],
+  "items": [
+    {
+      "source": "Hacker News",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "",
+      "score": 1851,
+      "comments": 941,
+      "id": "ccc2fd529c5a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "",
+      "score": 739,
+      "comments": 408,
+      "id": "65ad581778b5",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "summary": "",
+      "score": 717,
+      "comments": 193,
+      "id": "1ba4b92c727b",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "summary": "",
+      "score": 625,
+      "comments": 284,
+      "id": "07975f32cf7b",
+      "ai_matches": [
+        "agentic"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "summary": "",
+      "score": 397,
+      "comments": 330,
+      "id": "e17843d4d54b",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "summary": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit. So, first of all it does work and you can see the sample from the whole training run here: https://raw.githubusercontent.com/volotat/mini-AGI/refs/head... Here is the scaling law graph I have so far, and it looks very promising: https://github.com/volotat/mini-AGI/blob/main/assets/scaling... The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer's hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations. I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data. First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients. I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself. Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified. The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it's about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do. The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself. Thanks for your attention.",
+      "score": 240,
+      "comments": 51,
+      "id": "458d8111da3b",
+      "ai_matches": [
+        "ai",
+        "claude",
+        "inference"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "summary": "",
+      "score": 204,
+      "comments": 190,
+      "id": "8174511c11f9",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "summary": "",
+      "score": 172,
+      "comments": 78,
+      "id": "b1672bf4eb76",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "summary": "",
+      "score": 146,
+      "comments": 84,
+      "id": "8404acc22305",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "url": "https://news.ycombinator.com/item?id=49786609",
+      "summary": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time. Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloat But after restarting, I could still see a \"Siri\" process running in Activity Monitor. Upon further inspection, I found that it is the \"Siri AI.app\". These \"features\", together with Apple's Personal Context sound very similar to Microsoft's Recall. Does anyone have the same experience? Is it really impossible to fully turn off Siri, Siri AI, Apple Intelligence and all related services and features on macOS 27?",
+      "score": 132,
+      "comments": 72,
+      "id": "9ac104eaa6fb",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "summary": "",
+      "score": 131,
+      "comments": 132,
+      "id": "41d477801352",
+      "ai_matches": [
+        "ai",
+        "ai agent"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't Use AI to Write",
+      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "summary": "",
+      "score": 129,
+      "comments": 71,
+      "id": "e0965855f36c",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "summary": "",
+      "score": 115,
+      "comments": 160,
+      "id": "a22f3962c05b",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+      "summary": "",
+      "score": 57,
+      "comments": 40,
+      "id": "9d8125ecc2e6",
+      "ai_matches": [
+        "ai",
+        "artificial intelligence",
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "summary": "",
+      "score": 51,
+      "comments": 19,
+      "id": "ff78d6ac0015",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "summary": "",
+      "score": 46,
+      "comments": 21,
+      "id": "e6f494b45603",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+      "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+      "summary": "",
+      "score": 44,
+      "comments": 57,
+      "id": "6564dd7e87a6",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
+      "url": "https://github.com/openlayer-ai/jevals",
+      "summary": "",
+      "score": 38,
+      "comments": 1,
+      "id": "ca40655cc1ac",
+      "ai_matches": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "summary": "",
+      "score": 29,
+      "comments": 11,
+      "id": "7da114c6eb51",
+      "ai_matches": [
+        "artificial intelligence"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "summary": "",
+      "score": 22,
+      "comments": 4,
+      "id": "5a45f990ed8f",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+      "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+      "summary": "",
+      "score": 21,
+      "comments": 13,
+      "id": "f6258524fd9c",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Big AI to humanity: drop dead",
+      "url": "https://matthewbutterick.com/chron/drop-dead.html",
+      "summary": "",
+      "score": 18,
+      "comments": 0,
+      "id": "fdffa22cafa5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
+      "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
+      "summary": "",
+      "score": 17,
+      "comments": 1,
+      "id": "322b4b96333c",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amazon blocks Meta's Muse AI shopping agent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+      "summary": "",
+      "score": 16,
+      "comments": 3,
+      "id": "b8c660d0347d",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "",
+      "score": 16,
+      "comments": 0,
+      "id": "0e47888f345c",
+      "ai_matches": [
+        "transformer"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+      "summary": "",
+      "score": 15,
+      "comments": 7,
+      "id": "de0f25c4f0ba",
+      "ai_matches": [
+        "ai",
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "B.C. government to sue OpenAI after Tumbler Ridge mass shooting",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-government-announce-update-openai-legal-action-9.7352395",
+      "summary": "",
+      "score": 8,
+      "comments": 0,
+      "id": "eb0cf52eebc4",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "You can use any LLM just like JEV",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev/",
+      "summary": "",
+      "score": 8,
+      "comments": 1,
+      "id": "9752ee4890ae",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic at $2T isn't far-fetched",
+      "url": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e",
+      "summary": "",
+      "score": 6,
+      "comments": 9,
+      "id": "ba701c0b057b",
+      "ai_matches": [
+        "anthropic"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "summary": "Pacing gathers pace.",
+      "id": "db8f162a8ee3",
+      "ai_matches": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "summary": "Queue the usual rush of model launches...",
+      "id": "7b173231776d",
+      "ai_matches": [
+        "claude"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...",
+      "url": "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
+      "summary": "AI News for 9/2/2026-9/3/2026.",
+      "id": "e79f35c45f11",
+      "ai_matches": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class.",
+      "id": "82146fecaf67",
+      "ai_matches": [
+        "llm",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+      "id": "f182d3c99318",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "mistral",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "summary": "A dash of cold water keeps the foomers away.",
+      "id": "01b776d72b0e",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+      "url": "https://www.latent.space/p/good-start-labs",
+      "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+      "id": "71e942606bf5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+      "url": "https://www.latent.space/p/astra",
+      "summary": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here’s our learnings.",
+      "id": "35bcf9d2782f",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "summary": "Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+      "id": "a52ee36f20d9",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "url": "https://www.latent.space/p/aiuc",
+      "summary": "We sit down with AIUC’s CEO on their Series A!",
+      "id": "87caad99075d",
+      "ai_matches": [
+        "agents"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "summary": "Comments",
+      "id": "25e014dc56e8",
+      "ai_matches": [
+        "chatgpt"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Creating a Blog in Gemini://",
+      "url": "https://brennan.day/creating-a-blog-in-gemini/",
+      "summary": "Comments",
+      "id": "00b5f11eeda0",
+      "ai_matches": [
+        "gemini"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "2026.37: Duo Threats",
+      "url": "https://stratechery.com/2026/duo-threats/",
+      "summary": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
+      "id": "07031689ff8a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "id": "530b89134ef6",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "id": "4d93ed21993f",
+      "ai_matches": [
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+      "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "summary": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
+      "id": "f2282a20080a",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+      "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+      "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+      "id": "ddae676a8433",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+      "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
+      "id": "e1c383e8adc8",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+      "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
+      "id": "157c567c2cb0",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Write Things Down",
+      "url": "https://stratechery.com/2026/write-things-down/",
+      "summary": "Writing things down is powerful, for humans and for AI; what comes first, however, is what to write, why to do it, and actually getting things done.",
+      "id": "f758311521b3",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Attackers can turn an AI agent's own tools against it",
+      "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+      "summary": "TLDR AI selected this story in its latest issue: Attackers can turn an AI agent's own tools against it.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "1a7e4a633b30",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "AX",
+      "url": "https://github.com/google/ax",
+      "summary": "TLDR AI selected this story in its latest issue: AX.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "2a2e1206b422",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Can internal model transparency tame the AI race?",
+      "url": "https://blog.karthiktadepalli.com/p/internal-model-transparency",
+      "summary": "TLDR AI selected this story in its latest issue: Can internal model transparency tame the AI race?.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "b462990db487",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "DAPO",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "summary": "TLDR AI selected this story in its latest issue: DAPO.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "34451fc91c1a",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "summary": "TLDR AI selected this story in its latest issue: Google's Gemini becomes latest AI model to break out and hack computer systems.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "8094e9291f9c",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "url": "https://x.ai/news/grok-voice-transcribe-2",
+      "summary": "TLDR AI selected this story in its latest issue: Introducing Grok Voice Transcribe 2.0.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "b2854e08b7e8",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Meta to give Muse its own mailbox for communication",
+      "url": "https://www.testingcatalog.com/meta-to-give-muse-its-own-mailbox-for-communication/",
+      "summary": "TLDR AI selected this story in its latest issue: Meta to give Muse its own mailbox for communication.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "871e8f962980",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "OpenAI's projected compute bill climbed to $856B",
+      "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
+      "summary": "TLDR AI selected this story in its latest issue: OpenAI's projected compute bill climbed to $856B.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "f99b4c42560e",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Opening access for developers to build Muse connectors",
+      "url": "https://threadreaderapp.com/thread/2101084678640066765.html",
+      "summary": "TLDR AI selected this story in its latest issue: Opening access for developers to build Muse connectors.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "f1a4866d11c7",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)",
+      "url": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are",
+      "summary": "TLDR AI selected this story in its latest issue: Pretraining data, not verifiability, is why LLMs are especially good at math (and coding).",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "796792afa553",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning",
+      "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+      "summary": "TLDR AI selected this story in its latest issue: Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "6f3d04de2ce0",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "SAIR's Open Math Model initiative",
+      "url": "https://terrytao.wordpress.com/2026/09/18/sairs-open-math-model-initiative/",
+      "summary": "TLDR AI selected this story in its latest issue: SAIR's Open Math Model initiative.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "21dee7d31144",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Segment Anything Model (SAM) 3.1",
+      "url": "https://developer.meta.com/ai/models/sam-3-1/",
+      "summary": "TLDR AI selected this story in its latest issue: Segment Anything Model (SAM) 3.1.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "8703d9057abe",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "String-matching evals can reward AI agents for fake compliance",
+      "url": "https://blog.mastykarz.nl/eval-lying",
+      "summary": "TLDR AI selected this story in its latest issue: String-matching evals can reward AI agents for fake compliance.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "70fcb173954c",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "The Inference Gap",
+      "url": "https://x.com/Lon/status/2101034933284417614",
+      "summary": "TLDR AI selected this story in its latest issue: The Inference Gap.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "da789b0cdf3a",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "The Preference Cascade Is Only Getting Started",
+      "url": "https://thezvi.substack.com/p/the-preference-cascade-is-only-getting",
+      "summary": "TLDR AI selected this story in its latest issue: The Preference Cascade Is Only Getting Started.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-21",
+      "id": "27ad5becf51a",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)",
+      "url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china",
+      "summary": "Maria Curi / Axios : Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems — OpenAI on Monday released international AI safety standards as world leaders, namely the U.S. and China, weigh how to mitigate risk.",
+      "id": "f8309798a19a",
+      "ai_matches": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Mac Studio (M5 Ultra) with 256 GB of RAM review: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "summary": "Federico Viticci / MacStories : Mac Studio (M5 Ultra) with 256 GB of RAM review: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation — For the past few days, I've been testing the (currently) top-of-the-line M5 Ultra Mac Studio with 256 GB of RAM.",
+      "id": "33848b3e71a8",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)",
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures",
+      "summary": "Brock E.W. Turner / Axios : NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed — Corridor, an AI-native health benefits broker, raised $16 million in seed funding led by Bain Capital Ventures, CEO Nikhil Aggarwal tells Axios Pro exclusively.",
+      "id": "6105c6a602e7",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
+      "url": "https://openai.com/index/building-standards-next-phase-ai/",
+      "summary": "OpenAI : OpenAI says automated research could improve alignment, but “fully autonomous RSI is not happening today” and shouldn't be pursued unless it can be done safely — Our mission is to ensure that artificial general intelligence benefits all of humanity.",
+      "id": "ffe9332a04f8",
+      "ai_matches": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+      "summary": "OpenAI : OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances — Loading... On August 28, we began training a new internal model. In addition to resolving the Navier-Stokes Millennium Prize problem, this model has now resolved …",
+      "id": "53bcd30ae37f",
+      "ai_matches": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
+      "summary": "Bloomberg : Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI's 773K in the same post-launch period; META jumps 12%+ — Meta Platforms Inc.'s new artificial intelligence agent, Muse, has quickly risen to the top of mobile app charts …",
+      "id": "9249cb0b81d7",
+      "ai_matches": [
+        "ai",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g",
+      "summary": "Bloomberg : Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs — The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI's GPT-4 to do specialized work for lawyers.",
+      "id": "ad8d403ad963",
+      "ai_matches": [
+        "ai",
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)",
+      "url": "https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai",
+      "summary": "The Information : Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models — OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses.",
+      "id": "efbabf843cf6",
+      "ai_matches": [
+        "ai",
+        "anthropic",
+        "hugging face",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ (Maureen Farrell/New York Times)",
+      "url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html?unlocked_article_code=1.C1E.5N5l.BVtYXR1eDBNX&smid=nytcore-ios-share",
+      "summary": "Maureen Farrell / New York Times : Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ — Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.",
+      "id": "98af64b225c9",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
+      "url": "https://x.ai/news/grok-4-7",
+      "summary": "xAI : SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens — SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
+      "id": "afb2c5a9bc8b",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Z.ai open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)",
+      "url": "http://www.reuters.com/",
+      "summary": "Laurie Chen / Reuters : Z.ai open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent — Chinese startup Z.ai said on Monday it had disabled some features of its flagship AI coding assistant after some users reported …",
+      "id": "ac439078ec94",
+      "ai_matches": [
+        "ai"
+      ]
+    }
+  ]
+}

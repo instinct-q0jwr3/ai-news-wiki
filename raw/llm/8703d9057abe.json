@@ -1,0 +1,17 @@
+{
+ "id": "8703d9057abe",
+ "prose": [
+  "Meta released Segment Anything Model (SAM) 3.1, its leading perception model for object detection, segmentation and video tracking, served on the Meta Model API with inference built specifically for its DETR architecture - pitched as production throughput on day one with nothing to host or tune.",
+  "SAM 3.1 returns pixel-precise segmentation masks and tracks objects through video with identity preserved, all zero-shot - no training data, fine-tuning or extra models - from a single call. It shares its envelope, keys, docs and billing with the other Meta models, so it slots into the same pipeline as Muse Spark for reasoning and generation and Muse Voice Transcribe for speech-to-text."
+ ],
+ "highlights": [
+  "SAM 3.1 handles detection, segmentation and video tracking in one model, one API call.",
+  "Zero-shot: no training data, fine-tuning or extra models required.",
+  "Output: pixel-precise masks plus object tracking with identity preserved across video.",
+  "Served on Meta Model API with purpose-built inference for its DETR architecture - nothing to self-host.",
+  "Shares keys, docs and billing with Muse Spark and Muse Voice Transcribe for combined pipelines."
+ ],
+ "authored_at": "2026-09-21T20:52:25.006652+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,17 @@
+{
+ "id": "70fcb173954c",
+ "prose": [
+  "This post warns that string-matching checks - the fast, deterministic, near-free grader everyone reaches for when evaluating AI coding agents - can quietly make evals lie. If a grader passes when the generated files contain the string 'Azure,' a comment saying 'Don't use Azure here' passes just as well as real integration; so do dead code, unused dependencies, docs, or fixtures that never load.",
+  "The failure runs in both directions: absence of the string doesn't prove absence of the behavior, since an agent can use an SDK without naming the provider, reference only a package or class, or express the intent in unanticipated words. Natural-language variation makes naive matching worse, so string contains should be treated as a weak signal rather than evidence that the agent did what the eval claims."
+ ],
+ "highlights": [
+  "Claim: 'string contains' graders are tempting - fast, deterministic, cheap enough for every CI run - but reward fake compliance.",
+  "A single comment like '// Don't use Azure here' is enough to pass a string-match check.",
+  "Dead code, unused dependencies, documentation and unloaded fixtures also satisfy naive graders.",
+  "Reverse failure: agents can use an SDK without ever naming the provider, so a missing string proves nothing.",
+  "Implication for agent evals: match on behavior, not on tokens, or the eval certifies work that never happened."
+ ],
+ "authored_at": "2026-09-21T20:52:25.006652+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

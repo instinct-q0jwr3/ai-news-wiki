@@ -1,0 +1,17 @@
+{
+ "id": "0e47888f345c",
+ "prose": [
+  "Transformer Explainer is an interactive, visual introduction to the Transformer architecture behind modern generative AI. It walks through how text-generative models work - next-token prediction over a prompt - using the self-attention mechanism that lets Transformers process entire sequences and capture long-range dependencies better than earlier architectures.",
+  "The explainer runs on GPT-2 (small), a 124-million-parameter model that shares its core architectural components with today's state-of-the-art systems, making it a tractable stand-in for learning the fundamentals. It frames the three key components every text-generative Transformer shares and shows how a prompt such as 'Data visualization empowers users to' is converted into model input."
+ ],
+ "highlights": [
+  "Transformers were introduced in the 2017 paper 'Attention is All You Need.'",
+  "They power GPT (OpenAI), Llama (Meta) and Gemini (Google), plus audio, image recognition, protein-structure prediction and game playing.",
+  "Core mechanism: next-token prediction combined with self-attention over the whole sequence.",
+  "The tool runs GPT-2 (small) with 124 million parameters as a live teaching model.",
+  "Target: making the architecture's key components understandable visually rather than through equations."
+ ],
+ "authored_at": "2026-09-21T20:52:25.006652+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

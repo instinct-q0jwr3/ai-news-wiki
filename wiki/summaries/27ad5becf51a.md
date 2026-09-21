@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-Zvi Mowshowitz Sep 18, 2026 102 51 11 Share We are in the midst of a preference cascade about existential risk from AI.
+Zvi Mowshowitz argues that a preference cascade on AI existential risk is underway - the moment when enough people have enough context to say publicly what they privately believed. He credits Mike Solana's explanation for why Jacob Coxon's post went viral: enough Americans finally have context on AI to care, and big accounts were ready to amplify it. His warning: the cascade around the need to 'Pace the Frontier' is, by itself, insufficient.
 
-A preference cascade is, alas, the best method we have to change the debate.
-
-What we must realize is that the current preference cascade, on the need to Pace the Frontier, is insufficient.
+The post catalogs the cascade's spread - Elon Musk doubling down, Matthew Yglesias stepping up, op-eds across major outlets, Bilal Chughtai quitting DeepMind and sounding the alarm - and predicts political opposition from Nvidia and a16z, which he says currently hold the President's rhetorical allegiance and are planting 'hack job METR hit pieces' in the New York Post. A hastily organized conference, AGI.WTF, is set for Lighthaven on September 22-23.
 
 ## Highlights
 
-- There is still time for the pebbles to vote .
-- Mike Solana gave the correct view of why Coxon’s post went viral , which is that enough Americans finally have enough context on AI to care, and there were enough big accounts that were happy to amplify the Tweet quickly to get it…
-- That is all you need when there is enough dry tinder.
-- We have to, as Dan Selsam warns, actually solve the underlying problems.
-- The next step is to continue the cascade.
-- That includes inside the labs, and also among the media and politics.
-- It includes both people who previously focused on other things stepping up and new voices being heard.
-- I think many people from many backgrounds in many roles have a part to play.
+- Claims a live 'preference cascade' on AI existential risk following Jacob Coxon's viral post.
+- Argues pacing-the-frontier sentiment is not enough: the underlying alignment problems must actually be solved, per Dan Selsam's warning.
+- Named amplifiers: Elon Musk, Matthew Yglesias; named alarm voice: Bilal Chughtai, who quit DeepMind.
+- Expected opposition: Nvidia and a16z, accused of planting anti-METR pieces in the New York Post.
+- AGI.WTF conference announced at Lighthaven for September 22-23.
 
 ## Source
 

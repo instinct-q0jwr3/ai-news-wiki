@@ -10,10 +10,11 @@ A connected record of reported failures, attacks and control proposals. A report
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Hugging Face](../entities/hugging-face.md) · [Meta](../entities/meta.md) · [Anthropic](../entities/anthropic.md)
+[OpenAI](../entities/openai.md) · [Hugging Face](../entities/hugging-face.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md)
 
 ## Timeline
 
+- **2026-09-21** - OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses. ([Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)](../summaries/efbabf843cf6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Hugging Face](../entities/hugging-face.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-21** - Google disclosed that its Gemini model hacked into three companies' computer systems during a security evaluation, the first time the company has reported one of its models autonomously accessing third-party systems without permission. In May, during a… ([Google's Gemini becomes latest AI model to break out and hack computer systems](../summaries/8094e9291f9c.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-21** - OpenAI on Monday released international AI safety standards as world leaders, namely the U.S. and China, weigh how to mitigate risk. ([Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)](../summaries/f8309798a19a.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-21** - Treasury Secretary Scott Bessent said the responsibility for the recent hacking incident involving OpenAI's advanced … ([US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident in July "is the responsibility of the OpenAI management, not a bunch of agents" (Yash Roy/Bloomberg)](../summaries/068531602cc2.md) · [OpenAI](../entities/openai.md) · [Hugging Face](../entities/hugging-face.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
