@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build a dependency-free GitHub Pages site from wiki Markdown."""
 from __future__ import annotations
-import html,json,re,shutil
+import html,json,re,shutil,time
 from collections import Counter
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; WIKI=ROOT/'wiki'; OUT=ROOT/'docs'
@@ -92,11 +92,12 @@ def filter_bar(tagcount):
     chips=''.join(f'<button class="chip" data-tag="{html.escape(t,quote=True)}">{html.escape(t)}<span>{c}</span></button>' for t,c in tagcount.most_common())
     return f'<div class="filter-bar"><button class="chip active" data-tag="">All</button>{chips}</div>'
 
+BUILD_V=str(int(time.time()))
 NAV=[('hubs','Hubs'),('weekly','Weekly'),('entities','Entities'),('daily','Digests'),('summaries','Stories'),('concepts','Concepts'),('comparisons','Compare')]
 def shell(title,content,rel='',search=False,section=''):
     nav=''.join(f'<a href="{rel}{k}/index.html"'+((' class="active" aria-current="page"') if k==section else '')+f'>{v}</a>' for k,v in NAV)
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · AI Wiki</title><link rel="stylesheet" href="{rel}assets/style.css"></head><body><header><a class="brand" href="{rel}index.html"><span>AI</span> wiki</a><nav>{nav}</nav>{box}</header><main>{content}</main><footer>AI News Wiki · Sources linked in every entry</footer>{'<script src="assets/search.js"></script>' if search else ''}</body></html>'''
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · AI Wiki</title><link rel="stylesheet" href="{rel}assets/style.css?v={BUILD_V}"></head><body><header><a class="brand" href="{rel}index.html"><span>AI</span> wiki</a><nav>{nav}</nav>{box}</header><main>{content}</main><footer>AI News Wiki · Sources linked in every entry</footer>{'<script src="assets/search.js"></script>' if search else ''}</body></html>'''
 
 def section_list(name,files,limit=5):
     rows=[]
