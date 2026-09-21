@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "A short essay argues for using AI tools for everything except writing. The author uses Claude, Codex/ChatGPT and Gemini all day for coding, research and data work, but refuses to let them write, because writing forces you to think deeply about the problem and what you want to communicate. Generating a document from bullet points skips the thinking step; the result looks pretty good, gets accepted with minor tweaks, and you will never know what you failed to think through.",
+  "The argument is not that AI writes badly, it writes well, but that it is bad at thinking and producing new ideas, which is exactly the human's job. Productivity in writing is not the most content in the shortest time, just as programming is not the most lines of code: a 3-page strategy that gets to the core beats a 60-page document full of fluff. The author is not dogmatic: once the initial writing and thinking is done, AI gets used for feedback and polish."
+ ],
+ "highlights": [
+  "Thesis: use AI for coding, research and data work, but not for writing.",
+  "Writing forces deep thinking about the problem and the message; generating from bullets skips it.",
+  "AI's weakness is not writing quality but thinking and originating ideas.",
+  "A pretty-good generated draft hides what you never thought through.",
+  "Productivity in writing is idea impact, not content volume, like lines of code in programming.",
+  "60 pages of fluff vs a 3-page strategy that reaches the core problem.",
+  "Not dogmatic: AI is fine for feedback and polish after your own first draft."
+ ],
+ "id": "e0965855f36c",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

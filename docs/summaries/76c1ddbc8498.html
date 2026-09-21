@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Foremerge – Catch intent conflicts between parallel coding agents · AI Wiki</title><link rel="stylesheet" href="../assets/style.css"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Foremerge – Catch intent conflicts between parallel coding agents</h1>
+<p class="meta">type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence: high</p>
+<p><code>hacker-news</code> <code>openai</code> <code>anthropic</code> <code>agentic-systems</code></p>
+<h2>Summary</h2>
+<p>Foremerge is an open-source coordination protocol for coding agents, built above Git. The problem: two agents working the same project in isolated worktrees can both finish, both look correct, and have undone each other's work, because Git compares text, not intent. If one agent moves every caller to a new StripePaymentService while another adds PayPal support to the old PaymentService, nothing overlaps textually, Git merges both, and the PayPal work is stranded on a class nothing calls.</p>
+<p>Foremerge has agents announce what they are about to do before they do it, a shared whiteboard of intent, semantic claims, dependencies, provisional ChangeSets, decisions, validation and provenance. Two deliberate omissions: it never locks files or blocks agents (one crashed agent would stall the fleet, so warnings are advisory), and it never asks a model to judge conflicts, so the same inputs always produce the same answer. Version 0.5.0 is a pre-1.0 local-first MVP: CLI, JSON API, MCP server, SQLite store, deterministic conflict detector and a verification-gated lifecycle are implemented; public schemas may change, benchmarks do not exist yet, and cross-machine coordination is out of scope.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Foremerge: open-source coordination protocol for parallel coding agents, built above Git.</li>
+<li>Problem: Git compares text, not intent; non-overlapping edits can still undo each other's work.</li>
+<li>Example: StripePaymentService migration merges cleanly with PayPal work on the old class, stranding it.</li>
+<li>Agents declare intent, semantic claims, dependencies and ChangeSets before acting, a shared whiteboard.</li>
+<li>No locks, no blocking: crashed agents must not stall the fleet; warnings are advisory.</li>
+<li>No model in the conflict loop: deterministic detector, same inputs, same answer.</li>
+<li>v0.5.0 pre-1.0 MVP: CLI, JSON API, MCP server, SQLite store; schemas may change, no benchmarks yet.</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://github.com/naw103/foremerge">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

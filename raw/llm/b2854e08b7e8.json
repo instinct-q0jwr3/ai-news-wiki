@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "SpaceXAI released Grok Voice Transcribe 2.0, a speech-to-text model it claims is twice as accurate as version 1.0 at the same price. It is built on the audio foundation model behind Grok Voice, which the company says already powers tens of thousands of customer-support calls a day, transcribes millions of hours of video narration, and runs voice agents in physical products including the Grok assistant in Tesla vehicles. Training used a dataset of live, noisy, multilingual audio recorded across diverse environments, refined with post-training.",
+  "The pitch targets hard audio: flaky phone lines, competing voices, local accents, phone numbers and email addresses read aloud, where most transcription models degrade after doing well on clean single-speaker input. On the public Artificial Analysis leaderboard, Grok Voice Transcribe 2.0 ranks first for accuracy among 32 streaming models."
+ ],
+ "highlights": [
+  "Grok Voice Transcribe 2.0 released: speech-to-text, claimed 2x accuracy of v1.0 at the same price.",
+  "Built on the audio foundation model behind Grok Voice.",
+  "Grok Voice already powers tens of thousands of support calls daily and millions of hours of narration.",
+  "Deployed in physical products, including the Grok assistant in Tesla vehicles.",
+  "Trained on live, noisy, multilingual audio; designed for phone lines, accents, overlapping voices.",
+  "Ranks first for accuracy among 32 streaming models on the Artificial Analysis leaderboard.",
+  "SpaceXAI announcement."
+ ],
+ "id": "b2854e08b7e8",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

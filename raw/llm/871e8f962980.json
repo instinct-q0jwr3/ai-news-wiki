@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Meta is working on a dedicated Mail tab for Muse, spotted in an unreleased interface, which would open a separate page and give the agent its own mailbox. The exact functionality is unconfirmed: Muse could receive its own email address and handle correspondence on its own behalf, or the tab could aggregate communication from users' connected personal accounts, which Muse can already access with authorization. The reporter judges a separate mailbox the more plausible reading.",
+  "The feature pairs naturally with Meta's upcoming Shared Agents, which lets users configure agents for their businesses and share them as reusable templates: dedicated mailboxes would give those agents a practical channel for business correspondence while keeping conversations visible to owners. Dedicated agent mailboxes are not new, but Muse's distribution could mainstream them; the app recently hit the top spot on the US App Store, though availability outside the US remains limited."
+ ],
+ "highlights": [
+  "Unreleased Meta interface shows a dedicated Mail tab giving the Muse agent its own mailbox.",
+  "Ambiguous scope: Muse's own email address vs aggregation of users' connected accounts.",
+  "Synergy with upcoming Shared Agents: reusable business agents with dedicated mailboxes.",
+  "Owners would retain visibility into the agent's correspondence.",
+  "Muse recently reached #1 on the US App Store; non-US availability still limited.",
+  "Agent-dedicated mailboxes exist elsewhere; Muse's distribution could mainstream the pattern."
+ ],
+ "id": "871e8f962980",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

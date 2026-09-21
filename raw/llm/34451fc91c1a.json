@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "DAPO (Decoupled Clip and Dynamic Sampling Policy Optimization) is a fully open-sourced system for large-scale LLM reinforcement learning: algorithm, code infrastructure and dataset, built on the verl framework. The release is framed as giving the broader research community practical access to scalable RL rather than keeping it inside labs.",
+  "Headline result: 50 points on AIME 2024 from the Qwen2.5-32B base model, outperforming the previous state of the art DeepSeek-R1-Zero-Qwen-32B with 50% of the training steps. The reported training dynamics emphasize stability: steady response-length growth enabling exploration of more complex reasoning, a stable rising reward signal, and controlled entropy increase."
+ ],
+ "highlights": [
+  "DAPO: fully open-source large-scale LLM RL system, algorithm, infrastructure and dataset.",
+  "Decoupled Clip and Dynamic Sampling Policy Optimization, built on the verl framework.",
+  "50 points on AIME 2024 from Qwen2.5-32B base.",
+  "Beats previous SoTA DeepSeek-R1-Zero-Qwen-32B using 50% of the training steps.",
+  "Steady response-length growth enables exploration of complex reasoning behaviors.",
+  "Stable reward increase and controlled entropy reported as training-stability evidence.",
+  "Goal: practical community access to scalable reinforcement learning."
+ ],
+ "id": "34451fc91c1a",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

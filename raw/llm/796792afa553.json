@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Why are LLMs especially good at math? The standard answer, math is easy to verify, begs the question, this essay argues: for advanced math the verifier is itself an LLM, so the claim reduces to 'LLMs are very good at judging math arguments', which is the very thing to explain. The author's alternative theory, extending his earlier 'LLMs are mostly powered by imitative learning, not RL': almost everything in the research math literature is correct, read a random sentence in a random math paper and you can be more than 99% confident it is true.",
+  "If LLMs do what they do best, imitative learning, then in the limit they will almost always make correct deductions in mathematical reasoning, needing only a sprinkling of curated mid-training data or RL to hone metacognitive strategies. So the advantage is about pretraining data quality, not verifiability: math is the domain where imitation of the literature is nearly always imitation of truth."
+ ],
+ "highlights": [
+  "Thesis: LLMs excel at math because of pretraining data quality, not verifiability.",
+  "Critique of the standard story: the verifier for advanced math is itself an LLM, begging the question.",
+  ">99% of sentences in the research math literature are true, per the author.",
+  "Imitative learning on a nearly-always-true corpus yields nearly-always-correct deductions.",
+  "RL and curated mid-training only hone metacognitive strategies on top.",
+  "Follow-up to the author's 'LLMs are (still) mostly powered by imitative learning, not RL'."
+ ],
+ "id": "796792afa553",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

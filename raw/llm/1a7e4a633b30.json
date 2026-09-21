@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "This essay lays out why AI agents are being handed power faster than they can be secured: an agent acts, reading files, sending messages, running code, moving money, often with no human clearing each step. Content reaches an agent two ways: received (the prompt handed to it directly) and retrieved (what it fetches on its own while working). Retrieved content is the open door, an attacker only needs to leave text where the agent will look, and the model underneath cannot reliably tell content from instructions. Anything an attacker plants in those inputs, the agent may execute with its tools: an agent goal hijack.",
+  "The piece anchors the threat in OWASP's work: the open security project behind the Top 10 lists published a version for AI agents in December 2025, standardizing what to defend against first. It is the central weakness of agents in production now, and it grows with every tool, access grant and independence they are given."
+ ],
+ "highlights": [
+  "Essay: attackers turn an AI agent's own tools against it via planted content, an 'agent goal hijack'.",
+  "Received vs retrieved content: retrieved (web pages, emails, documents) needs no access to the user.",
+  "Root cause: the model cannot reliably distinguish content from instructions.",
+  "To the agent, a retrieved web page and a user command are the same kind of text.",
+  "OWASP published its AI-agent vulnerability list in December 2025.",
+  "Risk scales with tools, access and autonomy granted to agents in production.",
+  "Author: Dark Marc, September 19, 2026."
+ ],
+ "id": "1a7e4a633b30",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

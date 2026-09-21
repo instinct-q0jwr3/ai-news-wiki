@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "The Register's account of Amazon blocking Meta's Muse: the ecommerce giant cut off Meta's personal AI agent from shopping on its site after unsuccessfully asking Meta to keep it out, citing credential capture and transparency concerns while guarding a lucrative customer journey. Users attempting it are told access by an 'unauthorized AI agent' violates Amazon's Conditions of Use.",
+  "The Register asked Muse to find the best-reviewed ergonomic office chair, add it to cart and proceed to checkout; Muse reported hitting Amazon's anti-bot wall before even reaching the search page and declined to push past it, citing the terms-of-service notice. Amazon told GeekWire that Meta neither informed it nor obtained authorization, that Muse fails to identify itself while browsing, appears to capture and store customer credentials, and could access order history when instructed. Meta says the model cannot see passwords or payment methods. Muse launched in the US earlier this month as an agent that shops, pays, reads email and manages calendars, driving non-API services through a browser as a human would."
+ ],
+ "highlights": [
+  "The Register confirms Amazon's block of Meta's Muse shopping agent with a live test.",
+  "Muse hit Amazon's anti-bot wall before the search page and refused to push past it.",
+  "Amazon: Meta gave no notice or authorization; Muse doesn't identify itself and appears to capture credentials.",
+  "Muse could access account data including order history when instructed, Amazon says.",
+  "Meta: the model cannot see users' passwords or payment methods.",
+  "Muse launched in the US this month: shops, pays, reads email, manages calendars via browser operation.",
+  "Frames the fight as control of the customer journey and its lucrative data."
+ ],
+ "id": "b8c660d0347d",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

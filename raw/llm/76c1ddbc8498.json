@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Foremerge is an open-source coordination protocol for coding agents, built above Git. The problem: two agents working the same project in isolated worktrees can both finish, both look correct, and have undone each other's work, because Git compares text, not intent. If one agent moves every caller to a new StripePaymentService while another adds PayPal support to the old PaymentService, nothing overlaps textually, Git merges both, and the PayPal work is stranded on a class nothing calls.",
+  "Foremerge has agents announce what they are about to do before they do it, a shared whiteboard of intent, semantic claims, dependencies, provisional ChangeSets, decisions, validation and provenance. Two deliberate omissions: it never locks files or blocks agents (one crashed agent would stall the fleet, so warnings are advisory), and it never asks a model to judge conflicts, so the same inputs always produce the same answer. Version 0.5.0 is a pre-1.0 local-first MVP: CLI, JSON API, MCP server, SQLite store, deterministic conflict detector and a verification-gated lifecycle are implemented; public schemas may change, benchmarks do not exist yet, and cross-machine coordination is out of scope."
+ ],
+ "highlights": [
+  "Foremerge: open-source coordination protocol for parallel coding agents, built above Git.",
+  "Problem: Git compares text, not intent; non-overlapping edits can still undo each other's work.",
+  "Example: StripePaymentService migration merges cleanly with PayPal work on the old class, stranding it.",
+  "Agents declare intent, semantic claims, dependencies and ChangeSets before acting, a shared whiteboard.",
+  "No locks, no blocking: crashed agents must not stall the fleet; warnings are advisory.",
+  "No model in the conflict loop: deterministic detector, same inputs, same answer.",
+  "v0.5.0 pre-1.0 MVP: CLI, JSON API, MCP server, SQLite store; schemas may change, no benchmarks yet."
+ ],
+ "id": "76c1ddbc8498",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

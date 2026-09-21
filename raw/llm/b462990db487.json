@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Karthik Tadepalli proposes 'internal model transparency' as a policy lever against the race to automate AI research. Context: 1400 frontier-lab employees have signed the Pacing the Frontier letter arguing that industry, government and society may need the option to buy time for risks, security and oversight, but every company and country faces intense competitive pressure not to slow down unilaterally, and the world lacks the technical and governance tools to deliberately pace frontier-wide progress. The first firm to automate AI research could run away with it, concentrating enormous power and forcing rivals to race.",
+  "The proposal targets the central incentive: labs pursue recursive self-improvement because it yields better research technology than competitors. If a lab were required to share the internal models that drive its research automation, imagine DeepMind focused on scientific research, the advantage from racing would shrink and the competitive pressure to pursue RSI recklessly would mute. The essay develops how such transparency could work as a disincentive mechanism where direct pacing mandates cannot."
+ ],
+ "highlights": [
+  "Proposal: internal model transparency to disincentivize the recursive self-improvement race.",
+  "Backdrop: 1400 frontier-lab employees signed the Pacing the Frontier letter.",
+  "The letter: society may need the option to buy time for risk mitigation, security and oversight.",
+  "Problem: unilateral slowing is competitively punished; no pacing tools exist today.",
+  "First firm to automate AI research could run away with it, forcing rivals to race.",
+  "Sharing internal research-automation models would mute the competitive RSI incentive.",
+  "Author: Karthik Tadepalli, September 1, 2026."
+ ],
+ "id": "b462990db487",
+ "authored_at": "2026-09-21T17:58:52.027276+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
