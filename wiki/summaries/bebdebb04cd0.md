@@ -1,4 +1,4 @@
-# Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself (New York Times)
+# Experts: AI kill-switch legislation is far harder than lawmakers assume
 
 _type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence: high_
 
@@ -6,7 +6,7 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I.
+Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself — A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I.
 
 _Extractive summary: the original source could not be fully accessed._
 

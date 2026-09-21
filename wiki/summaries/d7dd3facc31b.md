@@ -1,4 +1,4 @@
-# Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)
+# Vercel, Cloudflare and others quickly add Jev for agent tool selection
 
 _type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence: high_
 
@@ -6,7 +6,7 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-Most of what an AI agent asks a frontier model to do is not writing. It is choosing.
+Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals — Most of what an AI agent asks a frontier model to do is not writing. It is choosing.
 
 _Extractive summary: the original source could not be fully accessed._
 

@@ -1,4 +1,4 @@
-# As Xi Jinping visits Washington, Chinese economists warn that Beijing's heavy focus on AI comes at the expense of addressing a severe broader economic crisis (Li Yuan/New York Times)
+# Chinese economists warn AI focus crowds out a broader economic crisis
 
 _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence: high_
 
@@ -6,7 +6,7 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-阅读.体中文.閱讀.體中文. — “The U.S.
+As Xi Jinping visits Washington, Chinese economists warn that Beijing's heavy focus on AI comes at the expense of addressing a severe broader economic crisis — 阅读.体中文.閱讀.體中文. — “The U.S.
 
 _Extractive summary: the original source could not be fully accessed._
 

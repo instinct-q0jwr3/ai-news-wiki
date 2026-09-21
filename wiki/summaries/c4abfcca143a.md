@@ -1,4 +1,4 @@
-# Investigation: AI hacker house AGI House had 37 incidents logged by police since 2022, many for party-related complaints, as Bay Area tech houses proliferate (Kirsten Grind/New York Times)
+# AI hacker house AGI House logged 37 police incidents since 2022
 
 _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence: high_
 
@@ -6,7 +6,7 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom.
+Investigation: AI hacker house AGI House had 37 incidents logged by police since 2022, many for party-related complaints, as Bay Area tech houses proliferate — Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom.
 
 _Extractive summary: the original source could not be fully accessed._
 

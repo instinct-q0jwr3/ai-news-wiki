@@ -371,7 +371,7 @@ def render_daily(day,items,generated):
             lines.extend(["_No stories passed the AI filter._",""]); continue
         for item in si:
             badge=' {new}' if day==LATEST_DAY and item.get('id') in NEW_IDS else ''
-            lines.extend([f"### [{item['title']}](../summaries/{item['id']}.md){badge}","",
+            lines.extend([f"### [{short_title(item)}](../summaries/{item['id']}.md){badge}","",
                           trim_blurb(story_summary(item)),""])
             meta=[]
             if source=="Hacker News" and (item.get('score') or item.get('comments')):
@@ -397,7 +397,28 @@ def build_daily():
     for day,rows in sorted(days.items()):
         (WIKI/'daily'/f"{day}.md").write_text(render_daily(day,list(rows.values()),stamps[day]))
 
+TITLE_OVERRIDES={}
+_to=ROOT/'raw'/'llm'/'titles.json'
+if _to.exists():
+    try: TITLE_OVERRIDES=json.loads(_to.read_text())
+    except Exception: TITLE_OVERRIDES={}
+
+def short_title(x):
+    """Succinct display title: editorial override, else original-style trim of the feed title. Never touches ids."""
+    t=TITLE_OVERRIDES.get(x.get('id',''))
+    if t: return t
+    t=(x.get('title') or '').strip()
+    t=re.sub(r'^(Sources?|Report|Exclusive|Rumou?r):\s+','',t)
+    m=re.search(r'\s*\(([A-Za-z][^()]{0,58})\)\s*$',t)
+    if m:
+        inner=m.group(1)
+        if '/' in inner or re.match(r'^[A-Z][A-Za-z0-9.&+]*(?: [A-Za-z0-9.&+]+){0,3}$',inner):
+            t=t[:m.start()].rstrip()
+    return t or (x.get('title') or '').strip()
+
 def main():
-    compute_new(); xs,stamp=load_stories(); enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
+    compute_new(); xs,stamp=load_stories()
+    for x in xs: x['title']=short_title(x)
+    enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()

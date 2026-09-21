@@ -1,4 +1,4 @@
-# SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)
+# SpaceXAI releases Grok 4.7 at $2/1M input, $6/1M output tokens
 
 _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence: high_
 

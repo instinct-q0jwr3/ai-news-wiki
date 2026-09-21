@@ -1,4 +1,4 @@
-# An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)
+# An interview with Raspberry Pi CEO Eben Upton
 
 _type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence: high_
 
@@ -6,7 +6,7 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’.
+on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more — The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’.
 
 _Extractive summary: the original source could not be fully accessed._
 

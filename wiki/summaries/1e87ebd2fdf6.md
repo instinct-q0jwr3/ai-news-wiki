@@ -1,4 +1,4 @@
-# Pacing the frontier may be sincere, but it would also be strategically useful for frontier AI labs to have time to reduce overhangs caused by model advancement (Ben Thompson/Stratechery)
+# Pacing the frontier may be sincere - and strategically useful for labs
 
 _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence: high_
 
