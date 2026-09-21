@@ -35,7 +35,7 @@ import html as _html, time, urllib.request
 CACHE=ROOT/'raw'/'cache'/'sources'
 FETCH_BUDGET_S=420; FETCH_DELAY_S=0.8; MAX_FETCHES=150; MAX_TEXT=60000
 UA={'User-Agent':'ai-news-wiki/1.0 (+https://instinct-q0jwr3.github.io/ai-news-wiki/)','Accept':'text/html,application/xhtml+xml'}
-SOURCES={}; RICH={}
+SOURCES={}; RICH={}; NEW_IDS=set(); NEW_STORIES=[]; LATEST_DAY=''
 
 STOPWORDS=set('a an the and or but if then else when at by for with about into through during before after above below to from up down in out on off over under again further once here there all any both each few more most other some such no nor not only own same so than too very can will just should now is are was were be been being have has had having do does did doing would could ought i you he she it we they them his her its our their this that these those am of as'.split())
 JUNK=re.compile(r'cookie|subscribe|sign[ -]?up|newsletter|all rights reserved|advertisement|terms of service|privacy policy|follow us|share this|enable javascript|verify you are|listen to this post|watch on youtube|listen to podcast|views\s+\d+\s+replies|\d+\s+reposts?\b.{0,12}\blikes\b',re.I)
@@ -157,6 +157,24 @@ def fmt_date(value): return (value or '')[:10] or dt.date.today().isoformat()
 def metadata(kind,created,updated,confidence='medium',tags=()):
     tag_line=' '.join(f'`{t}`' for t in tags)
     return f'_type: {kind} · created: {created} · updated: {updated} · confidence: {confidence}_\n\n{tag_line}'.rstrip()
+
+def compute_new():
+    global NEW_IDS,NEW_STORIES,LATEST_DAY
+    snaps=sorted(RAW.glob('*.json'))
+    if not snaps: return
+    latest=json.loads(snaps[-1].read_text()); LATEST_DAY=latest.get('generated_at','')[:10]
+    latest_ids={x.get('id') for x in latest.get('items',[]) if x.get('id')}
+    prev=set()
+    for q in snaps[:-1]:
+        prev.update(x.get('id') for x in json.loads(q.read_text()).get('items',[]) if x.get('id'))
+    NEW_IDS=latest_ids-prev
+    by_id={}
+    for q in snaps:
+        for x in json.loads(q.read_text()).get('items',[]):
+            if x.get('id'): by_id[x['id']]=x
+    NEW_STORIES=sorted((by_id[i] for i in NEW_IDS if i in by_id),key=lambda x:-x.get('score',0))
+    state={'generated_at':latest.get('generated_at',''),'stories':[{'id':x['id'],'title':x.get('title',''),'source':x.get('source',''),'url':x.get('url','')} for x in NEW_STORIES]}
+    (WIKI/'new.json').write_text(json.dumps(state,ensure_ascii=False,indent=1))
 
 def load_stories():
     rows={}
@@ -344,7 +362,8 @@ def render_daily(day,items,generated):
         if not si:
             lines.extend(["_No stories passed the AI filter._",""]); continue
         for item in si:
-            lines.extend([f"### [{item['title']}](../summaries/{item['id']}.md)","",
+            badge=' {new}' if day==LATEST_DAY and item.get('id') in NEW_IDS else ''
+            lines.extend([f"### [{item['title']}](../summaries/{item['id']}.md){badge}","",
                           trim_blurb(story_summary(item)),""])
             meta=[]
             if source=="Hacker News" and (item.get('score') or item.get('comments')):
@@ -371,6 +390,6 @@ def build_daily():
         (WIKI/'daily'/f"{day}.md").write_text(render_daily(day,list(rows.values()),stamps[day]))
 
 def main():
-    xs,stamp=load_stories(); enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
+    compute_new(); xs,stamp=load_stories(); enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()
