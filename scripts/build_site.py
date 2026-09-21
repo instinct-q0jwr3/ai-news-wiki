@@ -56,7 +56,7 @@ def meta_of(p):
         if s and re.fullmatch(r'(`[^`]+`\s*)+',s):
             meta['tags']=re.findall(r'`([^`]+)`',s); continue
         m=re.match(r'^Sources:\s*(.+?)\.?$',s)
-        if m:
+        if m and not meta['tags']:
             meta['tags']=[slugify(x) for x in re.split(r',|\sand\s',m.group(1)) if x.strip()]; continue
     if not meta['updated']:
         m=re.search(r'(\d{4}-\d{2}-\d{2})',p.stem) or re.search(r'(\d{4}-W\d{2})',p.stem)

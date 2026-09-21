@@ -6,7 +6,7 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more — The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’.
+The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’.
 
 _Extractive summary: the original source could not be fully accessed._
 

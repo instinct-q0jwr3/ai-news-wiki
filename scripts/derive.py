@@ -145,13 +145,13 @@ def rich_summary(x):
     base=base+' ' if base else ''
     text=(base+(e.get('text','') if e.get('status') in ('ok','thin') else '')).strip()
     if len(text)<200: return None
-    return summarize_article(text[:MAX_TEXT],x.get('title',''))
+    return summarize_article(text[:MAX_TEXT],x.get('feed_title') or x.get('title',''))
 
 def esc(text): return re.sub(r'\s+',' ',str(text or '')).strip()
 
 def md_label(text):
     return esc(text).replace('[','').replace(']','')
-def corpus_text(x): return (x.get('title','')+' '+x.get('summary','')).lower()
+def corpus_text(x): return ((x.get('feed_title') or x.get('title',''))+' '+x.get('title','')+' '+x.get('summary','')).lower()
 def match(xs,terms): return [x for x in xs if any(t in corpus_text(x) for t in terms)]
 def fmt_date(value): return (value or '')[:10] or dt.date.today().isoformat()
 def metadata(kind,created,updated,confidence='medium',tags=()):
@@ -173,7 +173,7 @@ def compute_new():
         for x in json.loads(q.read_text()).get('items',[]):
             if x.get('id'): by_id[x['id']]=x
     NEW_STORIES=sorted((by_id[i] for i in NEW_IDS if i in by_id),key=lambda x:-x.get('score',0))
-    state={'generated_at':latest.get('generated_at',''),'stories':[{'id':x['id'],'title':x.get('title',''),'source':x.get('source',''),'url':x.get('url','')} for x in NEW_STORIES]}
+    state={'generated_at':latest.get('generated_at',''),'stories':[{'id':x['id'],'title':short_title(x),'source':x.get('source',''),'url':x.get('url','')} for x in NEW_STORIES]}
     (WIKI/'new.json').write_text(json.dumps(state,ensure_ascii=False,indent=1))
 
 def load_stories():
@@ -194,7 +194,7 @@ def load_stories():
 def story_summary(x):
     r=RICH.get(x.get('id'))
     if r and r['prose']: return r['prose'][0]
-    desc=esc(x.get('summary')); title=esc(x.get('title'))
+    desc=esc(x.get('summary')); title=esc(x.get('feed_title') or x.get('title')); dtitle=esc(x.get('title'))
     desc=re.sub(r'^TLDR AI selected this story in its latest issue:\s*','',desc)
     desc=re.sub(r'^[A-Z][^.:]{1,50} :\s+','',desc)
     basetitle=re.sub(r'\s*\([^()]{1,60}\)\s*$','',title)
@@ -208,7 +208,7 @@ def story_summary(x):
         picked=' '.join(sentences[:2]).strip()
         if len(picked)>520: picked=picked[:517].rsplit(' ',1)[0]+'…'
         return picked if re.search(r"[.!?…][\"'‘’“”)]?$",picked) else picked+'.'
-    return f'{title}. {x.get("source","The source feed")} selected it as an AI-relevant development.'
+    return f'{dtitle}. {x.get("source","The source feed")} selected it as an AI-relevant development.'
 
 def related(x):
     e=[slug for slug,(_,_,terms,_) in ENTITY_DEFS.items() if any(t in corpus_text(x) for t in terms)]
@@ -418,7 +418,8 @@ def short_title(x):
 
 def main():
     compute_new(); xs,stamp=load_stories()
-    for x in xs: x['title']=short_title(x)
+    for x in xs:
+        t=short_title(x); x['feed_title']=x.get('title',''); x['title']=t
     enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()

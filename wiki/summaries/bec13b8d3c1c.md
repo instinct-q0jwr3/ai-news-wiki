@@ -6,7 +6,7 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-Aided by AI, young people in China launched 7M+ one-person startups in 2025 to escape a bleak job market, up ~42% from 2024, as they face fierce competition — Fed up with the rat race, people are trying their luck by starting solo AI companies—but they face a brutal market.
+Fed up with the rat race, people are trying their luck by starting solo AI companies—but they face a brutal market.
 
 _Extractive summary: the original source could not be fully accessed._
 
