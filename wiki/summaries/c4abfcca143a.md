@@ -6,20 +6,17 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence:
 
 ## Summary
 
-Go to The Athletic](https://www.nytimes.com/athletic/) ### LEAGUES * [N.F.L.](https://www.nytimes.com/athletic/nfl/) * [N.B.A.](https://www.nytimes.com/athletic/nba/) * [N.H.L.](https://www.nytimes.com/athletic/nhl/) * [Premier…
+The New York Times investigates AGI House, the eight-bedroom mansion in Hillsborough, California, that became one of the most prominent - and notorious - group homes of the AI boom. Police records obtained by the NYT show 37 incidents logged since 2022, many involving parties that drew Silicon Valley's elite: Sergey Brin has given talks there, Grimes has performed, one party featured a car flying through the air, another ('Midnight in Paris') brought guests in horse-drawn carriages to a replica Eiffel Tower.
 
-Women’s](https://www.nytimes.com/athletic/womens-college-basketball/) * [Tennis](https://www.nytimes.com/athletic/tennis/) * [F1](https://www.nytimes.com/athletic/formula-1/) * [Fantasy &…
+Behind the networking sheen, previously unreported police reports, court records and interviews with more than 20 people in the AI industry describe sexual harassment cases and rape allegations at some group houses, infighting among residents, and parties featuring psychedelic drugs and partner-sharing. The piece traces how the frat-style hacker houses of early Facebook evolved into lavish, venture-backed mansions - and how the culture inside them has sometimes tipped into allegations with real legal stakes.
 
 ## Highlights
 
-- Party House Where Networking Has a Dark Side Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom.
-- ET The eight-bedroom Mediterranean-style mansion, which borders a golf course in the wealthy Silicon Valley town of Hillsborough, Calif., has gone through a lot in recent years.
-- A car flew through the air at one party on its grounds.
-- At another event, titled “Midnight in Paris,” guests arrived in horse-drawn carriages to a replica of the Eiffel Tower.
-- The mansion is one of the most prominent — and notorious — tech group homes, which have proliferated across Silicon Valley and San Francisco amid the artificial intelligence boom.
-- Today these so-called hacker houses are [driven by missions](https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html), like the advancement of humanity, and have become critical nodes for the A.I. industry.
-- Some houses have become the sites for sexual harassment cases and rape allegations, as well as infighting among residents, according to previously unreported police reports obtained by The New York Times, court records and more than 20…
-- Enjoy unlimited access to all of The Times. [See subscription options](https://www.nytimes.com/subscription?campaignId=7Q87L)
+- AGI House logged 37 police incidents since 2022, per records obtained by the NYT
+- The Hillsborough mansion hosted Sergey Brin talks, a Grimes performance, and parties with horse-drawn carriages and a flying car
+- Reporting draws on unreported police reports, court records and 20+ AI industry sources
+- Allegations across group houses include sexual harassment cases and rape allegations
+- Tech group homes have proliferated across the Bay Area during the AI boom, evolving far beyond the early Facebook-era rentals
 
 ## Source
 

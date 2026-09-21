@@ -1,0 +1,18 @@
+{
+ "id": "33848b3e71a8",
+ "prose": [
+  "Federico Viticci's MacStories review of the M5 Ultra Mac Studio (256GB) is both a benchmark deep-dive and a personal case for local AI. The M5 Ultra's next-gen 80-core GPU, with a Neural Accelerator in each core, delivers up to 4.5x the peak GPU compute for AI versus the M3 Ultra, and Viticci ran four days of tests and visualizations to see what that buys for running models locally.",
+  "He is upfront about the economics: local AI requires expensive hardware, and by the time the investment is repaid you could have paid for years of the priciest Anthropic subscription with better performance. His reasons are a mix of privacy (sensitive documents never leave the machine), cost over time, work needs (training adapters and fine-tunes), and the 'cool, why not?' factor. The verdict is conditional: this is the bleeding edge of AI workflows, fiddly by definition, and not something he would recommend to anyone who just wants to pay $20 a month for a cloud assistant."
+ ],
+ "highlights": [
+  "M5 Ultra: 80-core GPU with a Neural Accelerator per core, up to 4.5x peak GPU compute for AI vs M3 Ultra",
+  "Review based on four days of tests, numbers and visualizations plus practical local-AI workflows for MacStories",
+  "Honest economics: the hardware cost could instead buy years of a top Anthropic subscription with better performance",
+  "Reasons to go local anyway: privacy, long-term cost, training adapters/fine-tunes, and the 'cool' factor",
+  "Viticci's caveat: fiddly, bleeding-edge, not for someone who 'just wants to pay $20' for a cloud assistant",
+  "Reviewed configuration: Mac Studio M5 Ultra with 256GB memory"
+ ],
+ "authored_at": "2026-09-21T21:51:51.349817+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

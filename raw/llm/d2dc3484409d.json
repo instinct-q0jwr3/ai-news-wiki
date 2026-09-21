@@ -1,0 +1,17 @@
+{
+ "id": "d2dc3484409d",
+ "prose": [
+  "Anthropic has added support for AGENTS.md - the instruction-file spec originated by rival OpenAI - to Claude Code, ending a split that forced developers to maintain parallel CLAUDE.md and AGENTS.md files (and keep them in sync with symlinks and other workarounds) when using both platforms' coding agents.",
+  "These Markdown files are read by coding agents on every request and define expected behavior, tool usage and conventions. The Register notes that Claude Code's popularity would have let Anthropic insist on its own standard, making the detente a pragmatic gift to developers - OpenAI's head of core product Thibault Sottiaux welcomed it with 'Yay! This is the way. Come to the light.'"
+ ],
+ "highlights": [
+  "Claude Code now supports the AGENTS.md spec, OpenAI's instruction-file format",
+  "Ends the need to maintain parallel CLAUDE.md and AGENTS.md files (and symlink workarounds)",
+  "These files are read by coding agents on every request: behavior, tools, conventions",
+  "The Register: Claude Code's popularity gave Anthropic room to insist on its own standard - it chose compatibility instead",
+  "OpenAI's Thibault Sottiaux: 'Yay! This is the way. Come to the light.'"
+ ],
+ "authored_at": "2026-09-21T21:52:13.682063+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
