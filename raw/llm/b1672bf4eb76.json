@@ -1,0 +1,21 @@
+{
+ "id": "b1672bf4eb76",
+ "prose": [
+  "A Reddit post in r/MacOSBeta documents a community workaround to stop macOS 27 from downloading Apple's local AI models and reclaim the storage they consume. For the macOS 27 public release the author, animorphreligion, lists two verified methods, pick one: turn off Siri and then set its language to one that does not match (and preferably is not supported by) your system, or enable Low Data Mode for your network in System Settings, which the author only recommends as a last resort because it also blocks macOS updates and can cause syncing headaches.",
+  "Only after applying one of those settings can the models be deleted for good: boot into recovery (shut down, hold the Touch ID button until startup options appear, choose Options), mount the Data partition in Disk Utility, and in Terminal remove the Foundation Models asset bundles under /Volumes/Data/System/Library/AssetsV2 (rm -rf com_apple_MobileAsset_UAF_FM*), with rm -rf downloadDir in the same directory for incomplete downloads. The author stresses this is safe, no need to disable SIP, it only removes Foundation Models assets, and fully reversible: reverting the altered setting re-enables the AI. The post closes by urging readers to file Feedback Assistant reports asking Apple to make AI opt-in again."
+ ],
+ "highlights": [
+  "r/MacOSBeta post: community workaround to avoid downloading macOS 27's local AI models and save storage.",
+  "Method 1: disable Siri, then set a Siri language that doesn't match (ideally isn't supported by) the system.",
+  "Method 2: enable Low Data Mode for the network; last resort, it blocks macOS updates and can break syncing.",
+  "Deletion must happen after applying a setting, or the models redownload.",
+  "Recovery boot (hold Touch ID at startup), mount Data partition, delete com_apple_MobileAsset_UAF_FM* under /Volumes/Data/System/Library/AssetsV2.",
+  "Incomplete downloads removed with rm -rf downloadDir in the same directory.",
+  "Claimed safe: SIP untouched, only Foundation Models assets removed, fully reversible.",
+  "Author urges Feedback Assistant reports asking Apple to make AI opt-in again.",
+  "Related HN discussion: users report local AI features consuming ~10% of base Mac storage."
+ ],
+ "authored_at": "2026-09-21T20:35:02.638203+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

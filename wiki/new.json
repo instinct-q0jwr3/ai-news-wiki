@@ -74,124 +74,10 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus"
   },
   {
-   "id": "068531602cc2",
-   "title": "US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident in July \"is the responsibility of the OpenAI management, not a bunch of agents\" (Yash Roy/Bloomberg)",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame"
-  },
-  {
-   "id": "b462990db487",
-   "title": "Can internal model transparency tame the AI race?",
-   "source": "TLDR AI",
-   "url": "https://blog.karthiktadepalli.com/p/internal-model-transparency"
-  },
-  {
-   "id": "8094e9291f9c",
-   "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
-  },
-  {
-   "id": "da789b0cdf3a",
-   "title": "The Inference Gap",
-   "source": "TLDR AI",
-   "url": "https://x.com/Lon/status/2101034933284417614"
-  },
-  {
-   "id": "b7d8c96b5fab",
-   "title": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot \"teammates\", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse"
-  },
-  {
-   "id": "6f3d04de2ce0",
-   "title": "Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning",
-   "source": "TLDR AI",
-   "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate"
-  },
-  {
    "id": "33848b3e71a8",
    "title": "Mac Studio (M5 Ultra) with 256 GB of RAM review: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)",
    "source": "Techmeme",
    "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
-  },
-  {
-   "id": "3d3ba139ef22",
-   "title": "Q&A with Mark Gurman on the iPhone Duo, breaking Apple news, Apple's AI-native devices, Tim Cook staying as executive chair, John Ternus, Johny Srouji, and more (Nilay Patel/The Verge)",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
-  },
-  {
-   "id": "ac439078ec94",
-   "title": "Z.ai open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)",
-   "source": "Techmeme",
-   "url": "http://www.reuters.com/"
-  },
-  {
-   "id": "27ad5becf51a",
-   "title": "The Preference Cascade Is Only Getting Started",
-   "source": "TLDR AI",
-   "url": "https://thezvi.substack.com/p/the-preference-cascade-is-only-getting"
-  },
-  {
-   "id": "34451fc91c1a",
-   "title": "DAPO",
-   "source": "TLDR AI",
-   "url": "https://github.com/BytedTsinghua-SIA/DAPO"
-  },
-  {
-   "id": "796792afa553",
-   "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are"
-  },
-  {
-   "id": "8703d9057abe",
-   "title": "Segment Anything Model (SAM) 3.1",
-   "source": "TLDR AI",
-   "url": "https://developer.meta.com/ai/models/sam-3-1/"
-  },
-  {
-   "id": "1a7e4a633b30",
-   "title": "Attackers can turn an AI agent's own tools against it",
-   "source": "TLDR AI",
-   "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents"
-  },
-  {
-   "id": "f99b4c42560e",
-   "title": "OpenAI's projected compute bill climbed to $856B",
-   "source": "TLDR AI",
-   "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved"
-  },
-  {
-   "id": "b2854e08b7e8",
-   "title": "Introducing Grok Voice Transcribe 2.0",
-   "source": "TLDR AI",
-   "url": "https://x.ai/news/grok-voice-transcribe-2"
-  },
-  {
-   "id": "ad2f4e5707ed",
-   "title": "Nscale's S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more (Bloomberg)",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts"
-  },
-  {
-   "id": "871e8f962980",
-   "title": "Meta to give Muse its own mailbox for communication",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/meta-to-give-muse-its-own-mailbox-for-communication/"
-  },
-  {
-   "id": "afb2c5a9bc8b",
-   "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
-   "source": "Techmeme",
-   "url": "https://x.ai/news/grok-4-7"
-  },
-  {
-   "id": "70fcb173954c",
-   "title": "String-matching evals can reward AI agents for fake compliance",
-   "source": "TLDR AI",
-   "url": "https://blog.mastykarz.nl/eval-lying"
   },
   {
    "id": "21dee7d31144",
@@ -200,10 +86,106 @@
    "url": "https://terrytao.wordpress.com/2026/09/18/sairs-open-math-model-initiative/"
   },
   {
+   "id": "da789b0cdf3a",
+   "title": "The Inference Gap",
+   "source": "TLDR AI",
+   "url": "https://x.com/Lon/status/2101034933284417614"
+  },
+  {
    "id": "f8309798a19a",
    "title": "Ahead of Sam Altman's UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)",
    "source": "Techmeme",
    "url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china"
+  },
+  {
+   "id": "afb2c5a9bc8b",
+   "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
+   "source": "Techmeme",
+   "url": "https://x.ai/news/grok-4-7"
+  },
+  {
+   "id": "796792afa553",
+   "title": "Pretraining data, not verifiability, is why LLMs are especially good at math (and coding)",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are"
+  },
+  {
+   "id": "3d3ba139ef22",
+   "title": "Q&A with Mark Gurman on the iPhone Duo, breaking Apple news, Apple's AI-native devices, Tim Cook staying as executive chair, John Ternus, Johny Srouji, and more (Nilay Patel/The Verge)",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
+  },
+  {
+   "id": "f99b4c42560e",
+   "title": "OpenAI's projected compute bill climbed to $856B",
+   "source": "TLDR AI",
+   "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved"
+  },
+  {
+   "id": "6f3d04de2ce0",
+   "title": "Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning",
+   "source": "TLDR AI",
+   "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate"
+  },
+  {
+   "id": "f1a4866d11c7",
+   "title": "Opening access for developers to build Muse connectors",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2101084678640066765.html"
+  },
+  {
+   "id": "1a7e4a633b30",
+   "title": "Attackers can turn an AI agent's own tools against it",
+   "source": "TLDR AI",
+   "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents"
+  },
+  {
+   "id": "70fcb173954c",
+   "title": "String-matching evals can reward AI agents for fake compliance",
+   "source": "TLDR AI",
+   "url": "https://blog.mastykarz.nl/eval-lying"
+  },
+  {
+   "id": "34451fc91c1a",
+   "title": "DAPO",
+   "source": "TLDR AI",
+   "url": "https://github.com/BytedTsinghua-SIA/DAPO"
+  },
+  {
+   "id": "8703d9057abe",
+   "title": "Segment Anything Model (SAM) 3.1",
+   "source": "TLDR AI",
+   "url": "https://developer.meta.com/ai/models/sam-3-1/"
+  },
+  {
+   "id": "068531602cc2",
+   "title": "US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident in July \"is the responsibility of the OpenAI management, not a bunch of agents\" (Yash Roy/Bloomberg)",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame"
+  },
+  {
+   "id": "871e8f962980",
+   "title": "Meta to give Muse its own mailbox for communication",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/meta-to-give-muse-its-own-mailbox-for-communication/"
+  },
+  {
+   "id": "27ad5becf51a",
+   "title": "The Preference Cascade Is Only Getting Started",
+   "source": "TLDR AI",
+   "url": "https://thezvi.substack.com/p/the-preference-cascade-is-only-getting"
+  },
+  {
+   "id": "b7d8c96b5fab",
+   "title": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot \"teammates\", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse"
+  },
+  {
+   "id": "8094e9291f9c",
+   "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+   "source": "TLDR AI",
+   "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
   },
   {
    "id": "2a2e1206b422",
@@ -212,10 +194,28 @@
    "url": "https://github.com/google/ax"
   },
   {
-   "id": "f1a4866d11c7",
-   "title": "Opening access for developers to build Muse connectors",
+   "id": "ac439078ec94",
+   "title": "Z.ai open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)",
+   "source": "Techmeme",
+   "url": "http://www.reuters.com/"
+  },
+  {
+   "id": "b462990db487",
+   "title": "Can internal model transparency tame the AI race?",
    "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2101084678640066765.html"
+   "url": "https://blog.karthiktadepalli.com/p/internal-model-transparency"
+  },
+  {
+   "id": "ad2f4e5707ed",
+   "title": "Nscale's S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more (Bloomberg)",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts"
+  },
+  {
+   "id": "b2854e08b7e8",
+   "title": "Introducing Grok Voice Transcribe 2.0",
+   "source": "TLDR AI",
+   "url": "https://x.ai/news/grok-voice-transcribe-2"
   },
   {
    "id": "6105c6a602e7",
