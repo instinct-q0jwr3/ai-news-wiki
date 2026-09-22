@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A Faster Shortest Path Algorithm · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790109250"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>A Faster Shortest Path Algorithm</h1>
+<p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
+<p><code>hacker-news</code></p>
+<h2>Summary</h2>
+<p>There is a graph of vertices and (possibly directed) edges that connect them.</p>
+<p>Any operations the shortest path algorithm does internally (such as counting how many nodes are visited or storing distances on intermediate vertices) counts towards running time.</p>
+<p>With this setup, the classic Dijkstra’s shortest path algorithm runs in O ( m + n log ⁡ n ) O(m+n\log n) O ( m + n lo g n ) time, where n ≥ 2 n \ge 2 n ≥ 2 is the number of vertices and m m m is the number of edges in the input graph.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Starting from some vertex, for every other vertex in the graph you want to find the minimum total weight of a path, or report that it is unreachable.</li>
+<li>In the version I considered, the graph was directed, I required exact answers and was given non-negative real weights for the edges.</li>
+<li>I assume that real number weights can be compared and added.</li>
+<li>After about 15 hours and 733 messages on the message board, the team had completed a proposed new algorithm for finding exact shortest-path distances in the directed graph setting.</li>
+<li>This algorithm, called C-HD, is presented in this Lean proof .</li>
+<li>The algorithm handles local search which encounter unproductive edges quite well.</li>
+<li>The algorithm maintains local invariants (rules that stay true after each update), with careful edge deletion and a bounded local search.</li>
+<li>The runtime bound for Dijkstra is O ( n log ⁡ n ) O(n \log n) O ( n lo g n ) ; the C-HD algorithm gets O ( n log ⁡ 11 / 12 n ) O(n \log^{11/12} n) O ( n lo g 11/12 n ) .</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://www.vals.ai/blogs/faster-shortest-path-algorithm">Read the original story</a></p>
+<h2>Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

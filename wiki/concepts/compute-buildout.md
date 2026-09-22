@@ -10,10 +10,11 @@ The race for compute links chip supply, energy, financing and geopolitics. This 
 
 ## Related entities
 
-[Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [OpenAI](../entities/openai.md) · [Alibaba](../entities/alibaba.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [SoftBank](../entities/softbank.md) · [Apple](../entities/apple.md)
+[Alibaba](../entities/alibaba.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [SoftBank](../entities/softbank.md) · [Apple](../entities/apple.md)
 
 ## Timeline
 
+- **2026-09-22** - Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032. ([Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032](../summaries/125c3bc51b4f.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Venture-capital firm Andreessen Horowitz spending $35 million to back two-year academy, with other Bay Area tech giants on board. ([a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute](../summaries/d7891b6544bb.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Cognex, the Nasdaq-listed machine vision company, is acquiring RealSense, the robotics and 3D computer vision company spun out of Intel just 14 months ago, in a deal valued at approximately $600 million. The acquisition turns what was once an uncertain… ([Cognex acquires Intel spinout RealSense for ~$600M](../summaries/9397c2d80daf.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Cloud startup Verda has raised $189 million in fresh financing, underscoring continued investor appetite for the infrastructure powering the artificial intelligence boom. ([Finnish neocloud startup Verda raised $189M led by Emergence at a $1B+ valuation and aims to raise up to $1.5B in equity and debt in 2026 and up to $10B in 2027](../summaries/972bad579a1b.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

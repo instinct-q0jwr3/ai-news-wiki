@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790109250"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why</h1>
+<p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
+<p><code>hacker-news</code> <code>anthropic</code> <code>agentic-systems</code> <code>external-evaluation</code> <code>ai-safety-incidents</code> <code>ai-policy-regulation</code></p>
+<h2>Summary</h2>
+<p>Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on "guardrails" after the fact.</p>
+<p>A pure-Python Rete engine evaluates YAML rules against your facts.</p>
+<p>Same facts, same verdict, every time, with salience-based conflict resolution.</p>
+<h2>Highlights</h2>
+<ul>
+<li>RAG retrieves passages from your own policy documents, and an LLM writes a plain-English explanation of the decision that was already made, citing those passages.</li>
+<li>A few things that went further than I expected: - Rules are a graph, not flat lists: nested all/any/not, and rules can assert facts that other rules consume (forward chaining).</li>
+<li>There's also an MCP server, so Claude and other agents can call /decide as a tool: <code>uvx ai-rete-rag-mcp</code>.</li>
+<li>To be upfront: it's a hosted product with a free tier.</li>
+<li>The MCP client is open source (MIT, github.com/zaharajabeen13-create/ai-rete-rag-mcp); the engine and platform are not open source right now.</li>
+<li>I'd especially like to hear from anyone who has had to explain an automated decision to a regulator or an auditor: what did they actually ask for? ai·rete·rag — Deterministic decisions, told in plain language</li>
+</ul>
+<p class="meta">Extractive summary: the original source could not be fully accessed.</p>
+<h2>Source</h2>
+<p><a href="https://ai-rete-rag.com/">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a> · <a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a> · <a href="../concepts/ai-policy-regulation.html">AI policy, regulation and litigation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

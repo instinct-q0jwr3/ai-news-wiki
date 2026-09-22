@@ -1,4 +1,305 @@
 {
- "generated_at": "2026-09-22T12:48:22+00:00",
- "stories": []
+ "generated_at": "2026-09-22T20:32:50+00:00",
+ "stories": [
+  {
+   "id": "6e142cae15e5",
+   "title": "Claude Opus 5.5",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/claude-opus-5-5"
+  },
+  {
+   "id": "8375187ae71f",
+   "title": "GPT-6 Sol and Luna",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+  },
+  {
+   "id": "f2f52074f70a",
+   "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+   "source": "Hacker News",
+   "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
+  },
+  {
+   "id": "ca5a92ed0988",
+   "title": "OpenAI is well positioned to fast-follow Jev",
+   "source": "Hacker News",
+   "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/"
+  },
+  {
+   "id": "0abe1054a0d1",
+   "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+   "source": "Hacker News",
+   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+  },
+  {
+   "id": "3cd622bd2bd9",
+   "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
+  },
+  {
+   "id": "9b0d26a2135f",
+   "title": "Meta’s Muse has a serious 0-day",
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+  },
+  {
+   "id": "6df4f2080d60",
+   "title": "Writing Rust code that's fast by asking agents to make the code faster",
+   "source": "Hacker News",
+   "url": "https://minimaxir.com/2026/09/agentic-iteration/"
+  },
+  {
+   "id": "5cf8ea90c5f9",
+   "title": "Vacate a drone restriction that criminalized recording immigration agents",
+   "source": "Hacker News",
+   "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration"
+  },
+  {
+   "id": "c88d7eb636d1",
+   "title": "Unreal Agent",
+   "source": "Hacker News",
+   "url": "https://unreallabs.ai/blog/unreal-agent/"
+  },
+  {
+   "id": "d9380593f36b",
+   "title": "The Economics of Open-Weight Inference",
+   "source": "Hacker News",
+   "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference"
+  },
+  {
+   "id": "22bd49ca5917",
+   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+   "source": "Hacker News",
+   "url": "https://ai-rete-rag.com/"
+  },
+  {
+   "id": "2683f31e3bce",
+   "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+   "source": "Hacker News",
+   "url": "https://www.coveragecat.com/"
+  },
+  {
+   "id": "0bd216136f9c",
+   "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+   "source": "Hacker News",
+   "url": "https://benchmarkheaven.com/jev-models"
+  },
+  {
+   "id": "66ae865969a2",
+   "title": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
+   "source": "Hacker News",
+   "url": "https://github.com/General-Instinct/InstinctFlash"
+  },
+  {
+   "id": "31eb00fc07df",
+   "title": "A Faster Shortest Path Algorithm",
+   "source": "Hacker News",
+   "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm"
+  },
+  {
+   "id": "71d2055c6b1e",
+   "title": "Training a model to identify AI-generated web content from structure alone",
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2609.15369"
+  },
+  {
+   "id": "569ac52a7850",
+   "title": "Prominent art therapist quoted by Vice, Forbes and others is AI-generated",
+   "source": "Hacker News",
+   "url": "https://pressgazette.co.uk/news/prominent-art-therapist-quoted-by-vice-forbes-and-others-is-ai-generated/"
+  },
+  {
+   "id": "228d512e632a",
+   "title": "AI Leaders Are Standing on a Liability Landmine",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060"
+  },
+  {
+   "id": "ce81e4f963b6",
+   "title": "Show HN: Hack – my Hacker News mobile client now lets you block AI posts",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49802005"
+  },
+  {
+   "id": "6dd5a4e81f65",
+   "title": "AI Comes for the If Statement",
+   "source": "TLDR AI",
+   "url": "https://tomtunguz.com/ai-comes-for-the-if-statement"
+  },
+  {
+   "id": "c11c0bc7fd02",
+   "title": "The Great Unbundling of Intelligence",
+   "source": "TLDR AI",
+   "url": "https://x.com/JayaGup10/status/2101799427145183571"
+  },
+  {
+   "id": "ea35859532c7",
+   "title": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset",
+   "source": "Techmeme",
+   "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/"
+  },
+  {
+   "id": "5abca8fb7ec6",
+   "title": "Internal data: Meta's Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "4a3109ec9c12",
+   "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+   "source": "TLDR AI",
+   "url": "https://www.alphaxiv.org/abs/2609.mimo-scaling-reinforcement-learning"
+  },
+  {
+   "id": "125c3bc51b4f",
+   "title": "Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032",
+   "source": "TLDR AI",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-unveils-ai-chip-drive-022139864.html"
+  },
+  {
+   "id": "fd365fa4c0e1",
+   "title": "The current balance of power in open models",
+   "source": "TLDR AI",
+   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open"
+  },
+  {
+   "id": "bfdc062eb22b",
+   "title": "Bringing Devin Cloud to your terminal",
+   "source": "TLDR AI",
+   "url": "https://devin.ai/blog/devin-cloud-in-your-terminal"
+  },
+  {
+   "id": "ba5c19fa1475",
+   "title": "In his UN General Assembly speech, Trump rejects a \"globalist scheme to control\" AI, saying the US is \"leading now over China by a lot and everyone else\"",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db"
+  },
+  {
+   "id": "d84886accb5c",
+   "title": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
+  },
+  {
+   "id": "d698d4b05dd1",
+   "title": "Swarm Scaling",
+   "source": "TLDR AI",
+   "url": "https://www.tobyord.com/writing/swarm-scaling"
+  },
+  {
+   "id": "819a6cca1def",
+   "title": "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost",
+   "source": "Techmeme",
+   "url": "https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/"
+  },
+  {
+   "id": "b13989d45792",
+   "title": "Aikido Altar: open-weight AI for sovereign security",
+   "source": "TLDR AI",
+   "url": "https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security"
+  },
+  {
+   "id": "6534848dace4",
+   "title": "ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site",
+   "source": "Techmeme",
+   "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"
+  },
+  {
+   "id": "21547c42c153",
+   "title": "AWS Launches Strands Harness, an Agent That Brings Its Own Everything but the Model",
+   "source": "TLDR AI",
+   "url": "https://thelettertwo.com/2026/09/21/aws-strands-harness"
+  },
+  {
+   "id": "2d1b65e25688",
+   "title": "OpenAI says it plans to let third-party groups conduct technical safety evaluations of its AI models during the training, evaluation, and deployment phases",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase"
+  },
+  {
+   "id": "bffd74252ebb",
+   "title": "The Business of Building God",
+   "source": "TLDR AI",
+   "url": "https://www.strangeloopcanon.com/p/the-business-of-building-god"
+  },
+  {
+   "id": "1e8aac8e1925",
+   "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
+   "source": "TLDR AI",
+   "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html"
+  },
+  {
+   "id": "34c3114cee80",
+   "title": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6",
+   "source": "Techmeme",
+   "url": "https://www.thedeepview.com/articles/openai-s-cheaper-gpt-6-models-change-the-math"
+  },
+  {
+   "id": "080fb4bbd400",
+   "title": "New York-based Ande, whose AI agents help businesses arrange corporate events for employees or customers, emerges from stealth with $52M in seed and Series A",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/entertainment-booking-startup-ande-raises-52-million-lightspeed-redpoint"
+  },
+  {
+   "id": "aa7fe1b874f6",
+   "title": "Qwen's RecreationWorld Trains Agents to Rebuild Apps",
+   "source": "TLDR AI",
+   "url": "https://github.com/QwenLM/RecreationWorld"
+  },
+  {
+   "id": "a43510b68295",
+   "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
+   "source": "Lobsters",
+   "url": "https://minimaxir.com/2026/09/agentic-iteration/"
+  },
+  {
+   "id": "2fcf251e5584",
+   "title": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens",
+   "source": "Techmeme",
+   "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/"
+  },
+  {
+   "id": "63ef1645c0b2",
+   "title": "Anthropic tests Fable 5.2 and Opus 5.5 ahead of the release",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/anthropic-tests-fable-5-2-and-opus-5-5-ahead-of-the-release/"
+  },
+  {
+   "id": "2219c51047b1",
+   "title": "Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value"
+  },
+  {
+   "id": "9cdf98a599bc",
+   "title": "Xiaomi open-sources MiMo-V2.6 Pro and Flash models",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/xiaomi-open-sources-mimo-v2-6-pro-and-flash-models/"
+  },
+  {
+   "id": "f26b5220f766",
+   "title": "Introducing Grok 4.7",
+   "source": "TLDR AI",
+   "url": "https://x.ai/news/grok-4-7"
+  },
+  {
+   "id": "3700415b22e6",
+   "title": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\"",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
+  },
+  {
+   "id": "753b4e617be0",
+   "title": "StepFun's Step 5 Preview",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2102213621963243704.html"
+  },
+  {
+   "id": "685caccd7011",
+   "title": "Kev",
+   "source": "TLDR AI",
+   "url": "https://github.com/jaredpalmer/kev"
+  }
+ ]
 }

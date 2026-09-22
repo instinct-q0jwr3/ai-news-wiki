@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
 
-`entity` `google` `agentic-systems` `ai-safety-incidents` `compute-buildout` `external-evaluation`
+`entity` `google` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-safety-incidents`
 
 ## Overview
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-09-22** - We’re Max and Gabriel the co-founders of Coverage Cat. ([Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](../summaries/2683f31e3bce.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-09-22** - We’re Vincent and Jochen from Sitefire ( https://sitefire.ai ). ([Training a model to identify AI-generated web content from structure alone](../summaries/71d2055c6b1e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI. ([multiple staff at the UK's AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout](../summaries/6ea4ee649c95.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md))
 - **2026-09-22** - Norwegian researchers reviewed 173 international studies on how generative AI affects students' ability to think critically and solve problems, and found a clear dual effect: the same technology can strengthen or weaken learning depending on how it is… ([Review of 173 studies: AI's dual effect on how students think](../summaries/ea841c171e71.md) · [Google](../entities/google.md))
 - **2026-09-22** - That puts Xiaomi's new flagship ahead of proprietary models including xAI's Grok 4.6, currently at 44, and Google's Gemini 3.8 Flash … ([MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model](../summaries/cba40109d163.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Xiaomi](../entities/xiaomi.md) · [External AI evaluation](../concepts/external-evaluation.md))
