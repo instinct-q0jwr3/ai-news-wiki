@@ -1,0 +1,18 @@
+{
+ "id": "e90a122e3464",
+ "prose": [
+  "Artificial Analysis scores GPT-6 Sol (max) at 48 on its Intelligence Index - well above the 25 median for comparable models - while rating it moderately priced at $2.00 per 1M input and $10.00 per 1M output tokens. The reasoning model was also fairly concise in evaluation, generating 77M tokens against an 88M median.",
+  "GPT-6 Sol supports text and image input with an 872k-token context window, and at 104 tokens per second it runs faster than the 75 t/s average for its class."
+ ],
+ "highlights": [
+  "Scores 48 on Artificial Analysis Intelligence Index (median: 25)",
+  "$2.00 per 1M input tokens, $10.00 per 1M output - at class median",
+  "872k-token context window; text and image input",
+  "104 tokens/second vs 75 class average",
+  "Generated 77M tokens in evaluation vs 88M median - 'fairly concise'",
+  "Index components include Terminal-Bench 4.0, SciCode and Humanity's Last Exam"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "31eb00fc07df",
+ "prose": [
+  "Vals.ai walks through new fastest shortest-path results for directed graphs with non-negative real weights and exact answers. The baseline: Dijkstra with a Fibonacci heap runs in O(m + n log n), while 2025's breakthrough deterministic algorithms improved dense-graph bounds to O(m log^(2/3) n) and related forms.",
+  "The post presents a faster algorithm in this line, analyzing running time where internal operations like counting visited nodes or storing distances count toward the total. It situates the result among the recent wave of worst-case improvements to one of computer science's most-studied problems."
+ ],
+ "highlights": [
+  "New faster exact shortest-path algorithm for directed graphs with non-negative real weights",
+  "Baseline: Dijkstra O(m + n log n) with Fibonacci heaps",
+  "2025 breakthrough: deterministic O(m log^(2/3) n) for m >= n",
+  "Analysis counts internal operations (visits, distance storage) toward running time",
+  "Part of a recent wave of worst-case improvements to single-source shortest paths"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "c88d7eb636d1",
+ "prose": [
+  "Unreal Labs describes Unreal Agent, a harness that manages tool calls fully asynchronously so the model no longer handles waits, polls and heartbeats. The design lets users steer the agent mid-tool-call and lets the agent schedule useful work between model calls.",
+  "The company claims up to 40% cost savings versus Codex and up to 20% versus Pi in real workloads and on shared agentic benchmarks, and argues harness design deserves treatment as a research area in its own right. The post also shares lessons from building agentic products on popular SDKs, noting trade-offs such as those of CLI-oriented SDKs like Claude's Agent SDK."
+ ],
+ "highlights": [
+  "Harness manages tool calls asynchronously, removing wait/poll/heartbeat overhead from the model",
+  "Users can steer the agent without waiting for tool calls to finish",
+  "Agent schedules useful tool work between model calls",
+  "Claims up to 40% cost savings vs Codex and 20% vs Pi in real workloads",
+  "Argues harness design is a research area of its own",
+  "Draws on lessons building agentic products across vendor SDKs"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

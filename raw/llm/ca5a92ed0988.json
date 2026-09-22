@@ -1,0 +1,17 @@
+{
+ "id": "ca5a92ed0988",
+ "prose": [
+  "Arcturus Labs argues that OpenAI is well positioned to fast-follow TypeSafe's Jev, the decision-model spin on LLMs that Vercel says was 'adopted faster than any other model in AI Gateway history.' The thesis: OpenAI has used its LLMs as implicit classifiers for years, so if it can replicate Jev's training, it can replicate the product in short order.",
+  "More than replication, the post claims OpenAI could fold classification into its own models and agents for quick model selection, more efficient reasoning, security guardrails, and cheaper operation - capabilities Jev is not positioned to reproduce. The decisive question, in the author's view, is whether TypeSafe has a moat, with its training data and processes the most plausible candidate."
+ ],
+ "highlights": [
+  "Jev adopted 'faster than any other model in AI Gateway history', per Vercel",
+  "Author's thesis: OpenAI can fast-follow, not just replicate, Jev's flagship product",
+  "OpenAI has long used LLMs as implicit classifiers, just never packaged classification as a product",
+  "A built-in classifier could enable model selection, efficient thinking, guardrails and cheaper models",
+  "TypeSafe's likeliest moat: its training data and training processes"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,20 +1,17 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Unreal Agent · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790112750"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Unreal Agent</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Unreal Agent · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790113764"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Unreal Agent</h1>
 <p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
 <p><code>hacker-news</code> <code>agentic-systems</code></p>
 <h2>Summary</h2>
-<p>https://github.com/unreallabsai/unreal-agent If you’re interested in frontier cost-efficiency for your AI agents, we’d love to work together!</p>
-<p>We’ve noticed that agents spend a lot of time and tokens managing tool calls, which motivated us to build Unreal Agent with a harness that would reduce the model’s tool-management overhead.</p>
-<p>The Unreal Agent harness manages tool calls in a completely asynchronous way, relieving the underlying model of the need to manage waits, polls, and heartbeats for tools.</p>
+<p>Unreal Labs describes Unreal Agent, a harness that manages tool calls fully asynchronously so the model no longer handles waits, polls and heartbeats. The design lets users steer the agent mid-tool-call and lets the agent schedule useful work between model calls.</p>
+<p>The company claims up to 40% cost savings versus Codex and up to 20% versus Pi in real workloads and on shared agentic benchmarks, and argues harness design deserves treatment as a research area in its own right. The post also shares lessons from building agentic products on popular SDKs, noting trade-offs such as those of CLI-oriented SDKs like Claude's Agent SDK.</p>
 <h2>Highlights</h2>
 <ul>
-<li>While deploying agents in the wild, we wanted them to respond to users quickly and be cost-effective to run.</li>
-<li>First, it always allows users to steer the agent without the need to wait for tool calls to finish.</li>
-<li>Second, it allows the agent to schedule more useful tool call work between model calls, driving frontier cost efficiency.</li>
-<li>Every time Unreal Agent issues a tool call, we immediately append an event-log record that the tool has returned in the “in-progress” state, while continuing its execution in the background.</li>
-<li>2 On the surface, Unreal Agent achieves the same outcomes with fewer model turns and fewer input tokens.</li>
-<li>Unreal Agent has simple prompts, token-optimized tool results, and no sub-agents or workflows.</li>
-<li>Unreal Agent has a straightforward asynchronous tool-calling model that is clearly explained to an LLM.</li>
-<li>Codex (lb) is the leaderboard baseline; Unreal Agent and Pi runs are linked below.</li>
+<li>Harness manages tool calls asynchronously, removing wait/poll/heartbeat overhead from the model</li>
+<li>Users can steer the agent without waiting for tool calls to finish</li>
+<li>Agent schedules useful tool work between model calls</li>
+<li>Claims up to 40% cost savings vs Codex and 20% vs Pi in real workloads</li>
+<li>Argues harness design is a research area of its own</li>
+<li>Draws on lessons building agentic products across vendor SDKs</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://unreallabs.ai/blog/unreal-agent/">Read the original story</a></p>

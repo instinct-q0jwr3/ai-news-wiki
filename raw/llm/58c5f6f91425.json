@@ -1,0 +1,16 @@
+{
+ "id": "58c5f6f91425",
+ "prose": [
+  "An Ask HN thread asks when fine-tuning a small LLM is worth it, soliciting concrete experiences: task, model and results. Early replies mix failure and qualified success.",
+  "One commenter trained a model to play hearts on ~20,000 RL hands and found it matched decent procedural logic but no more, since human hearts strategy is too varied; the same person's dream-interpretation model, trained on the literature they could find, produced subjectively interesting but unverifiable readings."
+ ],
+ "highlights": [
+  "Ask HN collecting real fine-tuning experiences on small LLMs",
+  "Hearts-playing model trained on ~20,000 RL hands: matched procedural logic, no better",
+  "Dream-interpretation model trained on available literature: interesting, unverifiable output",
+  "Thread format: task, model and results requested"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

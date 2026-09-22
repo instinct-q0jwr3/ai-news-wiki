@@ -1,11 +1,53 @@
 {
- "generated_at": "2026-09-22T20:35:26+00:00",
+ "generated_at": "2026-09-22T21:46:43+00:00",
  "stories": [
   {
-   "id": "71d2055c6b1e",
-   "title": "Training a model to identify AI-generated web content from structure alone",
+   "id": "0abe1054a0d1",
+   "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2609.15369"
+   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+  },
+  {
+   "id": "aee2993c8b3e",
+   "title": "LLM Ass Bench",
+   "source": "Hacker News",
+   "url": "https://www.assbench.com/"
+  },
+  {
+   "id": "58c5f6f91425",
+   "title": "Ask HN: When is fine-tuning a small LLM worth it?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49807413"
+  },
+  {
+   "id": "e90a122e3464",
+   "title": "GPT-6 Sol (Max) Intelligence, Performance and Price Analysis",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/gpt-6-sol"
+  },
+  {
+   "id": "ffe9332a04f8",
+   "title": "OpenAI: 'fully autonomous RSI is not happening today'",
+   "source": "Techmeme",
+   "url": "https://openai.com/index/building-standards-next-phase-ai/"
+  },
+  {
+   "id": "ce513ce75380",
+   "title": "Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money",
+   "source": "Hacker News",
+   "url": "https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/"
+  },
+  {
+   "id": "655c95b73263",
+   "title": "Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor",
+   "source": "Techmeme",
+   "url": "https://www.semafor.com/article/09/22/2026/bessent-eyed-for-trumps-ai-czar"
+  },
+  {
+   "id": "c6e9612c0a29",
+   "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/john-platt"
   }
  ]
 }

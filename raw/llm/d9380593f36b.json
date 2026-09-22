@@ -1,0 +1,18 @@
+{
+ "id": "d9380593f36b",
+ "prose": [
+  "Ornn Data challenges the assumption that each new NVIDIA generation makes the last one obsolete, arguing open-weight demand extends the economic life of older GPUs. Across eleven open-weight and eight closed models on the Artificial Analysis Intelligence Index, the cheapest qualifying open-weight model completes a task at roughly one fifth the cost of a comparable closed model, and self-hosting on rented hardware can reach $0.12 to $0.35 per million output tokens at full utilization.",
+  "The economics invert hardware rankings: on gpt-oss-120b (5.1B active parameters), the A100 produces output more cheaply than the H100 at spot and term prices. Ornn's rental data shows the market agreeing - five-year A100 contracts hold 80% of the one-month price versus 44-60% for Hopper and Blackwell - and the paper notes that long-running agents, batch evaluation and RL tolerate latency, routing price-elastic demand to older hardware."
+ ],
+ "highlights": [
+  "Cheapest qualifying open-weight model completes tasks at ~1/5 the cost of comparable closed models",
+  "Self-hosting on rented hardware: $0.12-$0.35 per million output tokens at full utilization",
+  "On gpt-oss-120b, A100 output is cheaper than H100 at spot and 3- and 5-year terms",
+  "Five-year A100 rental price holds 80% of one-month price vs 44-60% for Hopper/Blackwell",
+  "Compute-intensive workloads (agents, batch eval, RL) tolerate latency and are hardware-agnostic",
+  "Closed-model token rate cards reset by providers; open weights keep marginal cost predictable"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

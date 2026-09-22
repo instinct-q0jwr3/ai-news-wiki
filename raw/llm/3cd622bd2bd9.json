@@ -1,0 +1,18 @@
+{
+ "id": "3cd622bd2bd9",
+ "prose": [
+  "Artificial Analysis lists Claude Opus 5.5 (Adaptive Reasoning, Max Effort) among the leading proprietary models on its Intelligence Index with a score of 58, well above the 25 median for comparable models, though the evaluation notes it is somewhat expensive for its class and very verbose, generating 260M tokens during the index run against an 88M median.",
+  "The model supports text and image input with a 1M-token context window. Pricing is $4.00 per 1M input tokens and $20.00 per 1M output tokens - about double the class median - and the full Intelligence Index evaluation cost $8,708.20 to run."
+ ],
+ "highlights": [
+  "Scores 58 on Artificial Analysis Intelligence Index v4.3.2 (median: 25)",
+  "$4.00 per 1M input tokens, $20.00 per 1M output tokens - roughly 2x class median",
+  "1M-token context window; text and image input, text output",
+  "Generated 260M tokens during evaluation vs 88M median - 'very verbose'",
+  "Intelligence Index evaluation cost $8,708.20",
+  "Index components include Terminal-Bench 4.0, SciCode, Humanity's Last Exam and GDPval-AA v2.1"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

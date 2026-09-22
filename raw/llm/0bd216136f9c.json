@@ -1,0 +1,18 @@
+{
+ "id": "0bd216136f9c",
+ "prose": [
+  "JevBench scores Jev 1.13.0 at 83.6, keeping it at #1 on the typed-decision-model leaderboard. The benchmark maintainers explain why classifier.dev is listed as an honorable mention rather than ranked from v1.2.4: its own pages and API identify the fast tier as Jev itself ('the fast tier is Jev, TypeSafe's decision model', model 'jev-1.13.0'), so ranking it would rank Jev against Jev.",
+  "The smart tier - Jev plus a reasoning model (gemini-3.8-flash) that re-asks only answers under 0.7 confidence - was never run in the benchmark, so nothing scores it. Only the free fast tier was measured; the page estimates the paid flat rate at $0.0033 per 1,000 decisions at full use of the $20/month Pro plan (200,000 fast classifications a day)."
+ ],
+ "highlights": [
+  "Jev 1.13.0 scores 83.6 on JevBench, ranked #1",
+  "classifier.dev demoted to honorable mention: its fast tier is Jev itself",
+  "Smart tier is escalation on sub-0.7 confidence answers, not best-of-N or a committee",
+  "Escalation model: gemini-3.8-flash; never benchmarked, so unscored",
+  "Measured run used the free tier (20,000 classifications/day)",
+  "Estimated $0.0033 per 1,000 decisions at full use of the $20/month Pro plan"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

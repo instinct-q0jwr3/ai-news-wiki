@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-09-20 · updated: 2026-09-22 · confidence: high_
 
-`techmeme` `openai` `agentic-systems`
+`techmeme` `openai` `typesafe` `agentic-systems`
 
 ## Summary
 
@@ -16,4 +16,4 @@ _Extractive summary: the original source could not be fully accessed._
 
 ## Related pages
 
-[OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md)
+[OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md)

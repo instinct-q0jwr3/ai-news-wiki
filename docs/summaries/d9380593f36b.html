@@ -1,20 +1,17 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The Economics of Open-Weight Inference · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790112750"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>The Economics of Open-Weight Inference</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The Economics of Open-Weight Inference · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790113764"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>The Economics of Open-Weight Inference</h1>
 <p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
 <p><code>hacker-news</code></p>
 <h2>Summary</h2>
-<p>Publications How open-weight demand can support the useful life of NVIDIA GPU families Ornn Data · 7 September 2026 GPUs are commonly depreciated on the assumption that each new NVIDIA generation renders the previous one obsolete.</p>
-<p>In this paper, we provide a counter to this thesis by examining the effect of open-weight demand on the economic usefulness of older GPU families.</p>
-<p>Across eleven open-weight and eight closed models on the Artificial Analysis Intelligence Index, the cheapest qualifying open-weight model, standardized by intelligence, completes a task at roughly one fifth of the cost of a comparable…</p>
+<p>Ornn Data challenges the assumption that each new NVIDIA generation makes the last one obsolete, arguing open-weight demand extends the economic life of older GPUs. Across eleven open-weight and eight closed models on the Artificial Analysis Intelligence Index, the cheapest qualifying open-weight model completes a task at roughly one fifth the cost of a comparable closed model, and self-hosting on rented hardware can reach $0.12 to $0.35 per million output tokens at full utilization.</p>
+<p>The economics invert hardware rankings: on gpt-oss-120b (5.1B active parameters), the A100 produces output more cheaply than the H100 at spot and term prices. Ornn's rental data shows the market agreeing - five-year A100 contracts hold 80% of the one-month price versus 44-60% for Hopper and Blackwell - and the paper notes that long-running agents, batch evaluation and RL tolerate latency, routing price-elastic demand to older hardware.</p>
 <h2>Highlights</h2>
 <ul>
-<li>Closed-model access runs through subscription allowances that the provider is able to reset, so the posted token rate card represents the marginal price of additional usage.</li>
-<li>Self-hosting on rented hardware lowers this to $0.12 to $0.35 per million output tokens at full utilization and reverses the hardware ranking: on gpt-oss-120b, a sparse model with 5.1 billion active parameters, the A100 produces output…</li>
-<li>Ornn’s rental data show the market reflecting this utility.</li>
-<li>The five-year A100 rental price maintains 80 percent of its one-month term price (vs 44 to 60 percent for the Hopper and Blackwell families) for a contract ending when the Ampere family is more than eleven years old.</li>
-<li>See NVIDIA’s acquisition of Hugging Face on 3 September 2026 (NVIDIA, 2026c).</li>
-<li>Source: Ornn Data calculation from published throughput and 1 September 2026 spot rents (paper Table 7).</li>
-<li>Source: Ornn occupancy and listed-capacity series and the settled spot index (paper Table 8), retrieved 2 September 2026.</li>
-<li>“The Economics of Open-Weight Inference.” 7 September. https://data.ornn.com/publications/the-economics-of-open-weight-inference .</li>
+<li>Cheapest qualifying open-weight model completes tasks at ~1/5 the cost of comparable closed models</li>
+<li>Self-hosting on rented hardware: $0.12-$0.35 per million output tokens at full utilization</li>
+<li>On gpt-oss-120b, A100 output is cheaper than H100 at spot and 3- and 5-year terms</li>
+<li>Five-year A100 rental price holds 80% of one-month price vs 44-60% for Hopper/Blackwell</li>
+<li>Compute-intensive workloads (agents, batch eval, RL) tolerate latency and are hardware-agnostic</li>
+<li>Closed-model token rate cards reset by providers; open weights keep marginal cost predictable</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://data.ornn.com/publications/the-economics-of-open-weight-inference">Read the original story</a></p>

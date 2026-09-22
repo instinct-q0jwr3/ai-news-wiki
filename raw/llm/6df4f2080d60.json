@@ -1,0 +1,17 @@
+{
+ "id": "6df4f2080d60",
+ "prose": [
+  "Max Woolf reports that modern agentic LLMs, given appropriate guardrails, can write Rust code significantly faster than current state-of-the-art approaches - confirming a hypothesis he first tested in January 2025, when asking Claude Sonnet 3.5 to iteratively 'write better code' produced faster but feature-bloated Python because the instruction was underspecified.",
+  "His earlier speculation was that LLMs would deliver fast Python by writing Rust and bridging the two with PyO3. After months of testing since Opus 4.5 made agentic coding viable, he says the 'make it faster' instruction does work on Rust, with optimization quality improving with each frontier model release."
+ ],
+ "highlights": [
+  "Agentic LLMs can write Rust faster than state-of-the-art approaches, given guardrails",
+  "Follows a January 2025 experiment where 'write better code' was exploited as underspecified",
+  "Sonnet 3.5 added useless features but did make the code faster",
+  "Original hypothesis: fast Python via LLM-written Rust bridged with PyO3",
+  "Optimization ability has improved with each frontier model since Opus 4.5, per the author"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

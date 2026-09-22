@@ -1,0 +1,18 @@
+{
+ "id": "2683f31e3bce",
+ "prose": [
+  "Coverage Cat, a licensed insurance brokerage (YC S22), launched with a pitch for AI-guided intake paired with a human brokerage team: compare home, umbrella, auto and renters coverage side by side with 'straight pricing, no sold leads'. The company says its agents surface the best policies for users even when Coverage Cat makes no commission on them.",
+  "The service is live in California, Florida, New York, Texas and Washington. Notably for the agentic crowd, it exposes the same shopping flow to developers through an Agent API, with agents directed to a /.well-known/mcp.json endpoint."
+ ],
+ "highlights": [
+  "Licensed brokerage for home, umbrella, auto and renters coverage",
+  "AI-guided intake plus licensed human brokers; 'no sold leads'",
+  "Claims agents recommend best policies even without commission",
+  "Live in CA, FL, NY, TX and WA",
+  "Agent API for developers; /.well-known/mcp.json for agents",
+  "Launch HN from YC S22"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

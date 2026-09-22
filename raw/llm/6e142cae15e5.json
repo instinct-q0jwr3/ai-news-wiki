@@ -1,0 +1,20 @@
+{
+ "id": "6e142cae15e5",
+ "prose": [
+  "Anthropic introduced Claude Opus 5.5, the first model in its Claude 5.5 family, saying it performs at the level of Claude Fable 5.1 on most work while costing 40% less to run than Opus 5. It is the company's first release since it publicly called for pacing the frontier, and Anthropic says it was tested before release by external evaluators including Frontier Design and METR.",
+  "Anthropic positions the release around capability and safety together. Early testers reported large jumps on complex work - one completed a 680,000-line code migration in under a day - and Opus 5.5 succeeded at cutting load times across a web app in 39 of 40 tries, where Opus 5 made smaller changes that altered behavior. On the company's automated behavioral audit, its most comprehensive alignment test, Opus 5.5 posted the best scores of any model Anthropic has tested, and the company says it is much less likely than recent models to take hard-to-reverse actions or act outside the bounds of a task."
+ ],
+ "highlights": [
+  "First model in the new Claude 5.5 family; performs at Claude Fable 5.1 level on most work",
+  "Costs 40% less to run than Opus 5",
+  "Anthropic's first release since calling for pacing the frontier",
+  "Externally evaluated before release by Frontier Design and METR",
+  "Tester completed a 680,000-line code migration in less than a day",
+  "Cut web-app load times in 39 of 40 attempts; Opus 5 altered app behavior on the same task",
+  "Best scores to date on Anthropic's automated behavioral audit",
+  "Much less likely to take hard-to-reverse actions or act outside task bounds, per Anthropic"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

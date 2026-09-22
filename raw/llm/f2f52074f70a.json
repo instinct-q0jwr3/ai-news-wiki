@@ -1,0 +1,19 @@
+{
+ "id": "f2f52074f70a",
+ "prose": [
+  "Crypto Cellar Research reports the break of the German Army Enigma message MVUEH of 10 July 1941, which had resisted all attempts since 2005. Carter Leffer submitted the break on 15 September 2026 for validation, and the key and plaintext checked out immediately: the recovered key even uses a different wheel order (253) than the other known keys from that day (512).",
+  "The page's author emphasizes how the break was achieved: GPT-6 Astra did it 'entirely on its own', with Leffer only directing the model to try the unbroken Enigma messages published on the site. The 82-letter plaintext is nearly identical to that of message Nr. 173 (SIPVX), broken in 2017 by Alex Shovkoplyas, differing because of an enciphering mistake (Bitte became Btte) and the sender's signature. The author, a self-described old cryptanalyst, says he spent weeks verifying the Bundesarchiv files the model cited and calls the result 'simply amazing'."
+ ],
+ "highlights": [
+  "Enigma message MVUEH from 10 July 1941 unbroken since 2005",
+  "Break submitted by Carter Leffer on 15 September 2026 and validated by Crypto Cellar Research",
+  "GPT-6 Astra performed the cryptanalysis 'entirely on its own', per the page",
+  "Recovered key uses wheel order 253, unlike the 512 of other keys from that day",
+  "82-letter plaintext nearly matches message Nr. 173 (SIPVX), broken in 2017",
+  "Differences traced to an enciphering error (Btte for Bitte) and the sender's signature",
+  "Author says he spent weeks checking the Bundesarchiv files the model referenced"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

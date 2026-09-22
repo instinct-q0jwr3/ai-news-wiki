@@ -74,5 +74,16 @@
    "mistral ai"
   ],
   "overview": "Mistral is Europe's flagship foundation-model lab, pairing frontier model releases with applied partnerships such as Apollo, an Ancient Greek LLM built with the Austrian Academy of Science and Sail Reply. This page follows its models, partnerships and positioning in the multi-vendor AI landscape."
+ },
+ "typesafe": {
+  "name": "TypeSafe",
+  "kind": "organization",
+  "terms": [
+   "typesafe",
+   " jev",
+   "classifier.dev",
+   "jevbench"
+  ],
+  "overview": "TypeSafe is the company behind Jev, a typed decision-model spin on large language models that Vercel says was adopted faster than any other model in AI Gateway history. Its classifier.dev service wraps Jev with a confidence-based escalation tier, and the community-run JevBench ranks Jev as the leading typed decision model. The company's staying power is openly debated: analysts argue OpenAI could fast-follow by folding classification into its own models unless TypeSafe's training data and processes form a real moat."
  }
 }

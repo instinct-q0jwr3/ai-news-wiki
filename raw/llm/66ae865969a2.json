@@ -1,0 +1,19 @@
+{
+ "id": "66ae865969a2",
+ "prose": [
+  "InstinctFlash is an open-source high-performance serving framework for robotics models, claiming up to 33.78x speedup with no observed loss in task performance in real-robot tests. Its benchmarks measure prediction p50 latency on Jetson Thor (September 15, 2026), with the headline figure including a schedule change from 25V/50A to 2V/4A action chunks; FP8 and sampling changes are optional.",
+  "The Python 3.10+ core inspects checkpoints and plans without PyTorch or a GPU, while inference runs in a separate pinned environment per model family (va, vla4, vla2, pi05, groot, edge, nano, dreamzero). The repo ships bootstrap scripts with reproduction commands for RTX 4090/5090 and Jetson Thor setups."
+ ],
+ "highlights": [
+  "Open-source serving framework for robotics models",
+  "Claims up to 33.78x speedup with no observed task-performance loss on real robots",
+  "Benchmarks: prediction p50 on Jetson Thor, measured 15 September 2026",
+  "Headline figure includes 25V/50A to 2V/4A schedule change; FP8 optional",
+  "Core inspects checkpoints without PyTorch or GPU; per-family pinned inference environments",
+  "Supports va, vla4, vla2, pi05, groot, edge, nano and dreamzero families",
+  "Ships reproduction commands for RTX 4090/5090 and Jetson Thor"
+ ],
+ "authored_at": "2026-09-22T21:48:44.359623+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}
