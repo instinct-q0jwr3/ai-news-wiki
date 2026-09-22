@@ -63,10 +63,10 @@ def meta_of(p):
         if m: meta['updated']=m.group(1)
     return meta
 
-def row_html(p,link,is_new=False):
+def row_html(p,link,is_new=False,kind=None):
     m=meta_of(p)
     tags=' '.join(m['tags'])
-    chips=''.join(f'<code>{html.escape(t)}</code>' for t in m['tags'])
+    chips=(f'<code class="kind">{html.escape(kind)}</code>' if kind else '')+''.join(f'<code>{html.escape(t)}</code>' for t in m['tags'])
     meta=f"upd {m['updated']}" if m['updated'] else ''
     badge=NEW_BADGE if is_new else ''
     return (f'<li class="row" data-tags="{html.escape(tags,quote=True)}">'
@@ -120,10 +120,12 @@ def shell(title,content,rel='',search=False,section=''):
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · AI Wiki</title><link rel="stylesheet" href="{rel}assets/style.css?v={BUILD_V}"></head><body><header><a class="brand" href="{rel}index.html"><span>AI</span> wiki</a><nav>{nav}</nav>{box}</header><main>{content}</main><footer>AI News Wiki · Sources linked in every entry</footer>{'<script src="assets/search.js"></script>' if search else ''}</body></html>'''
 
-def section_list(name,files,limit=5):
+def section_list(name,files,limit=5,show_kind=False):
     rows=[]
     for p in files[:limit]:
-        rel=p.relative_to(WIKI).with_suffix('.html').as_posix(); rows.append(row_html(p,rel))
+        rel=p.relative_to(WIKI).with_suffix('.html').as_posix()
+        kind={'entities':'entity','concepts':'concept','hubs':'hub','daily':'daily','weekly':'weekly','summaries':'story'}.get(p.parent.name,p.parent.name) if show_kind else None
+        rows.append(row_html(p,rel,kind=kind))
     return f'<section><div class="section-head"><h2>{name}</h2></div><ul class="row-list">'+''.join(rows)+'</ul></section>'
 
 def load_new():
@@ -191,7 +193,7 @@ def main():
         newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{len(NEW_STORIES)} added in the latest pass</span></div><ul class="row-list">{nrows}</ul></section>'
     else:
         newsec=''
-    body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Daily',daily,6)+section_list('Recently Updated',entities+concepts,8)+'</div><div>'+most+section_list('Explore Hubs',sorted((WIKI/'hubs').glob('*.md')),5)+'</div></div>'
+    body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Daily',daily,6)+section_list('Recently Updated',entities[:4]+concepts[:4],8,show_kind=True)+'</div><div>'+most+'</div></div>'
     (OUT/'index.html').write_text(shell('AI News Wiki',body,'',True))
     (OUT/'assets'/'search-index.json').write_text(json.dumps(docs,ensure_ascii=False))
     (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")
