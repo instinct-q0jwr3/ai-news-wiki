@@ -10,10 +10,11 @@ Narrow or compact models trade breadth for lower cost, latency, privacy or local
 
 ## Related entities
 
-[SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Google](../entities/google.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)
+[NVIDIA](../entities/nvidia.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Google](../entities/google.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)
 
 ## Timeline
 
+- **2026-09-22** - During the Cold War, the Soviet Union's smallest republic was an electronics and tech center for the Communist superpower. ([US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia](../summaries/4aaba5feca90.md) · [NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Latent Space interviews Diogo Almeida - coauthor of the InstructGPT paper and now CEO of TypeSafe AI - about Jev, a model family built for software rather than chat, whose launch video was viewed roughly 40 million times (for comparison, the episode cites… ([Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI](../summaries/5e34a38be50a.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-21** - xAI released Grok 4.7, positioned as its most capable model for coding and knowledge work, at $2 per million input tokens and $6 per million output - the same price and higher speed positioning as Grok 4.6. The release claims a new, larger base model… ([SpaceXAI releases Grok 4.7 at $2/1M input, $6/1M output tokens](../summaries/afb2c5a9bc8b.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-20** - The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’. ([An interview with Raspberry Pi CEO Eben Upton](../summaries/7b1ae7fee2e9.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

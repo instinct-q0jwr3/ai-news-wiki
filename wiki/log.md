@@ -55,3 +55,5 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-09-22] ingest | 71 AI stories | snapshot 20260922T091506Z
 ## [2026-09-22] ingest | 71 AI stories | snapshot 20260922T091602Z
 ## [2026-09-22] ingest | 71 AI stories | snapshot 20260922T094330Z
+## [2026-09-22] ingest | 69 AI stories | snapshot 20260922T111252Z
+## [2026-09-22] ingest | 69 AI stories | snapshot 20260922T111321Z

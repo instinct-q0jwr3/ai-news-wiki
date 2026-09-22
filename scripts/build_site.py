@@ -7,6 +7,17 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; WIKI=ROOT/'wiki'; OUT=ROOT/'docs'
 LABELS={'daily':'Daily','weekly':'Weekly','summaries':'Stories','entities':'Entities','hubs':'Hubs','concepts':'Concepts'}
 
+def last_pass():
+    """Timestamp of the latest fetch pass (newest snapshot), in Europe/Madrid."""
+    import datetime
+    from zoneinfo import ZoneInfo
+    snaps=sorted((ROOT/'raw'/'snapshots').glob('*.json'))
+    if not snaps: return ''
+    try:
+        dt=datetime.datetime.fromisoformat(json.loads(snaps[-1].read_text()).get('generated_at',''))
+        return dt.astimezone(ZoneInfo('Europe/Madrid')).strftime('%d %b %Y, %H:%M %Z')
+    except Exception: return ''
+
 NEW_BADGE='<span class="new-badge" title="Added in the latest update">new</span>'
 def inline(s):
     s=html.escape(s,quote=False)
@@ -190,9 +201,13 @@ def main():
     most='<section><div class="section-head"><h2>Most Linked</h2><span>recurring signals</span></div><ol class="ranked">'+''.join(f'<li><span>{html.escape(k[:88])}</span><b>{v:02d}</b></li>' for k,v in counts.most_common(8))+'</ol></section>'
     hero=f'<a class="hero" href="{latest.relative_to(WIKI).with_suffix(".html").as_posix() if latest else "weekly/index.html"}"><span class="eyebrow">Weekly synthesis</span><h1>{html.escape(title_of(latest)) if latest else "The week in AI"}</h1><p>A connected read of the changes, tensions and signals running through the corpus.</p><span class="cta">Read the synthesis →</span></a>'
     stats=f'<div class="stats"><span><b>{len(files)}</b> pages</span><span><b>{len(entities)}</b> entities</span><span><b>{len(concepts)}</b> concepts</span><span><b>{len(daily)}</b> daily briefings</span></div>'
+    ts=last_pass()
+    note=f'last pass {ts}' if ts else 'latest pass'
     if NEW_STORIES:
         nrows=''.join(f'<li class="row"><a class="row-title" href="summaries/{html.escape(x["id"],quote=True)}.html">{html.escape(x.get("title",""))}</a>{NEW_BADGE}<span class="row-meta">{html.escape(x.get("source",""))}</span></li>' for x in NEW_STORIES)
-        newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{len(NEW_STORIES)} added in the latest pass</span></div><ul class="row-list">{nrows}</ul></section>'
+        newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{note} \u00b7 {len(NEW_STORIES)} added</span></div><ul class="row-list">{nrows}</ul></section>'
+    elif ts:
+        newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{note} \u00b7 0 added</span></div><p class="meta">No new stories in the latest pass.</p></section>'
     else:
         newsec=''
     body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Daily',daily,6)+section_list('Recently Updated',entities[:4]+concepts[:4],8,show_kind=True)+'</div><div>'+most+'</div></div>'
