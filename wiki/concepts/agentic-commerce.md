@@ -1,0 +1,20 @@
+# Concept: Agentic commerce
+
+_type: concept · created: 2026-09-21 · updated: 2026-09-22 · confidence: medium_
+
+`concept` `agentic-commerce`
+
+## Overview
+
+AI agents that browse, decide and buy on a user's behalf force a negotiation between assistant platforms and merchants over access, consent and liability. This page tracks checkout integrations, merchant blocks and the emerging rules of agent-driven shopping.
+
+## Related entities
+
+[Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Shopify](../entities/shopify.md)
+
+## Timeline
+
+- **2026-09-22** - Shopify plans to allow Meta's personal AI agent to complete purchases on behalf of users with the e-commerce platform's roster of stores. ([Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay](../summaries/69da42e0e50b.md) · [Meta](../entities/meta.md) · [Shopify](../entities/shopify.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md))
+- **2026-09-21** - Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com. Hacker News selected it as an AI-relevant development. ([Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](../summaries/41d477801352.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md))
+- **2026-09-21** - The Register's account of Amazon blocking Meta's Muse: the ecommerce giant cut off Meta's personal AI agent from shopping on its site after unsuccessfully asking Meta to keep it out, citing credential capture and transparency concerns while guarding a… ([Amazon blocks Meta's Muse AI shopping agent](../summaries/b8c660d0347d.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md))
+- **2026-09-21** - Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com on behalf of customers, after failing to get Meta to voluntarily exclude the site. Amazon's account: Meta never told it Muse would access the store, the agent does not… ([Amazon blocks Meta's Muse agent from shopping on Amazon.com](../summaries/335e868957b3.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Agentic commerce](../concepts/agentic-commerce.md))

@@ -1,0 +1,50 @@
+{
+ "xai": {
+  "name": "SpaceXAI (xAI)",
+  "kind": "organization",
+  "terms": [
+   "xai",
+   "spacexai",
+   "grok"
+  ],
+  "overview": "SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcription products, tightly integrated with the X platform. This page follows its model releases, pricing, agent ambitions and competitive positioning against OpenAI, Anthropic and Google."
+ },
+ "amazon": {
+  "name": "Amazon",
+  "kind": "organization",
+  "terms": [
+   "amazon",
+   "aws",
+   "alexa"
+  ],
+  "overview": "Amazon operates the largest cloud platform and a growing AI stack, from AWS infrastructure and chips to shopping agents and marketplace policy. This page tracks its infrastructure investments, model partnerships and its boundary-setting toward third-party agents."
+ },
+ "nvidia": {
+  "name": "NVIDIA",
+  "kind": "organization",
+  "terms": [
+   "nvidia",
+   "jensen huang"
+  ],
+  "overview": "NVIDIA supplies the GPUs, networking and software behind most frontier AI training and inference. This page follows its hardware roadmap, its financing entanglement with AI labs and data centers, and executive commentary on policy and competition."
+ },
+ "softbank": {
+  "name": "SoftBank",
+  "kind": "organization",
+  "terms": [
+   "softbank",
+   "sb energy",
+   "masayoshi son"
+  ],
+  "overview": "SoftBank is one of the largest outside financiers of the AI build-out, anchored by its OpenAI stake and data-center ventures such as SB Energy. This page tracks its fundraising, debt issuance, IPO plans and exposure to the data-center cycle."
+ },
+ "shopify": {
+  "name": "Shopify",
+  "kind": "organization",
+  "terms": [
+   "shopify",
+   "shop pay"
+  ],
+  "overview": "Shopify powers a large share of independent e-commerce and is opening its checkout rails, including Shop Pay, to AI agents that complete purchases on behalf of users. This page follows its agentic-commerce strategy and platform policy."
+ }
+}

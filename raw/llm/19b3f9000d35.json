@@ -1,0 +1,19 @@
+{
+ "id": "19b3f9000d35",
+ "prose": [
+  "Copper-Rs v1.2 adds live telemetry for robots built on its deterministic Rust stack: a robot can now clone its full state in real time to a remote 'deterministic twin' over a lossy one-way link. The mechanism leans on forward error correction - error-correction packets sent after the fact for past packets - plus the stack's determinism: given the minimal input series, the twin reconstructs everything downstream. If too many packets are lost, the stack sends self-healing recovery points to jump-restart the twin at any point.",
+  "The design targets field realities the team lists bluntly: unreliable networks, robots that might not come back, and one-way return links that could broadcast a ground station's position. Operators can still log a standard deterministic .copper log remotely and build telemetry displays - messages, task states, error states, even task fields - via a full API, with a TUI example and a demo app on GitHub. To make streaming practical, the copperlist encoding was optimized; the flight-controller logging entropy improved from 5.9816 to 7.0975 bits."
+ ],
+ "highlights": [
+  "Copper-Rs v1.2: live-clone a robot's full state to a remote deterministic twin over a lossy one-way link.",
+  "Mechanism: forward error correction plus stack determinism - the twin replays the minimal input series to reconstruct all downstream state.",
+  "Self-healing recovery points jump-restart the twin when packet loss overwhelms FEC.",
+  "Motivations: unreliable networks, robots that might not return, and avoiding two-way links that broadcast ground-station position.",
+  "Remote .copper deterministic logs; telemetry displays expose messages, task states, error states and task fields via API.",
+  "Copperlist encoding optimized; flight-controller logging entropy improved from 5.9816 to 7.0975 bits.",
+  "Demo app with a minimal remote telemetry console and simulated packet loss on GitHub (copper-project/copper-rs)."
+ ],
+ "authored_at": "2026-09-22T05:44:46.761927+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

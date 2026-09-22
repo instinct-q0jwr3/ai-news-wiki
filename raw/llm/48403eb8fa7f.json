@@ -1,0 +1,18 @@
+{
+ "id": "48403eb8fa7f",
+ "prose": [
+  "Scientific American reports a brewing caveat to OpenAI's claimed Navier-Stokes solution: the proof appears eligible for the Clay Mathematics Institute's $1-million prize, but only by exploiting what many mathematicians consider a loophole. The generated proof relies on an external force to break the equations - solving a variant that experts say is disconnected from the physical reality the problem is meant to capture. 'The most important problem is unsolved,' says the University of Chicago's Luis Silvestre. 'The Clay problem is settled, but the main problem for the Navier-Stokes equations is not.'",
+  "The external-force question cuts both ways: Diego C\u00f3rdoba notes that 'all fluids we know of are under some kind of external force,' so including one is physically sensible - but the classic problem most experts mean by Navier-Stokes does not work that way. More damaging, last Thursday three mathematicians posted a proof showing OpenAI's method can never be extended to solve the full problem: the loophole stays open only for the variant, barring a completely new idea. The episode lands amid wider anxiety about AI companies' race to disrupt mathematics."
+ ],
+ "highlights": [
+  "OpenAI's proof seems eligible for the $1M Clay prize - but only via what experts call a controversial loophole.",
+  "The proof exploits an external force to break the equations, a variant mathematicians call disconnected from reality.",
+  "Luis Silvestre (University of Chicago): 'The Clay problem is settled, but the main problem for the Navier-Stokes equations is not.'",
+  "Diego C\u00f3rdoba counters that 'all fluids we know of are under some kind of external force.'",
+  "Three mathematicians posted a proof last Thursday that OpenAI's method can never extend to the full problem.",
+  "Reported by Joseph Howlett for Scientific American, September 21, 2026."
+ ],
+ "authored_at": "2026-09-22T05:44:46.761927+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

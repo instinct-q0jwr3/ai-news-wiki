@@ -1,0 +1,22 @@
+{
+ "business-of-ai": {
+  "title": "The business of AI",
+  "desc": "Money, infrastructure and market structure behind the AI boom.",
+  "links": [
+   "../concepts/compute-buildout.md",
+   "../entities/nvidia.md",
+   "../entities/softbank.md",
+   "../entities/xai.md"
+  ]
+ },
+ "agents-in-practice": {
+  "title": "Agents in practice",
+  "desc": "How agents are actually being deployed: code, commerce and control.",
+  "links": [
+   "../concepts/ai-coding-agents.md",
+   "../concepts/agentic-commerce.md",
+   "../concepts/agentic-systems.md",
+   "../entities/shopify.md"
+  ]
+ }
+}

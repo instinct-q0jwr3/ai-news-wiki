@@ -1,0 +1,20 @@
+{
+ "id": "226c609decf3",
+ "prose": [
+  "A pair of discussion-draft bills - one federal, one for Minnesota - published at righttorun.us propose a statutory right to 'acquire, possess, develop, share, access and operate computational resources and AI systems for lawful purposes,' while categorically stripping government of the power to restrict an AI system because of how capable it is. The drafts argue that capability-based rules - compute thresholds, parameter counts, benchmarks, autonomy proxies - reliably sort people: agencies and large institutions absorb compliance costs while individuals, small businesses and researchers get degraded access.",
+  "The framing is deliberately absolute. An earlier draft allowed capability restrictions under a compelling-interest and narrow-tailoring test; the current versions drop it, on the logic that conceding the balancing test concedes the right. Misuse stays fully punishable - fraud, intrusion, weapons development, harm to children remain illegal with or without AI - and export controls like the 2025 AI Diffusion Framework are expressly left alone. Other burdens on the right get an RFRA-modeled strict-scrutiny test with added requirements. The proposal, which asks readers to share it, cites EO 14110's revoked 10^26-operations reporting threshold and California and New York's frontier-model duties as the trend it answers."
+ ],
+ "highlights": [
+  "Two discussion drafts (federal + Minnesota) at righttorun.us: a statutory right to run computation and AI for lawful purposes.",
+  "Core move: government loses all power to restrict a system for its capability - compute thresholds, parameter counts, benchmarks, autonomy proxies all void.",
+  "Categorical by design: an earlier draft allowed compelling-interest exceptions; the current one withholds the authority entirely.",
+  "Misuse remains punishable: fraud, intrusion, weapons development, harm to children stay illegal with or without AI.",
+  "Export controls such as the 2025 AI Diffusion Framework are expressly out of scope.",
+  "Other burdens face an RFRA-modeled compelling-interest / least-restrictive-means test.",
+  "Targets capability-based regimes: EO 14110's revoked 10^26 threshold, California and New York frontier-model duties.",
+  "Argues capability rules sort people: big institutions keep access, individuals and small players get the degraded version."
+ ],
+ "authored_at": "2026-09-22T05:44:46.761927+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

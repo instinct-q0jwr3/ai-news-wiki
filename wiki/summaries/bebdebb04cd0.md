@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-09-20 · updated: 2026-09-22 · confidence: high_
 
-`techmeme` `ai-safety-incidents`
+`techmeme` `ai-safety-incidents` `ai-policy-regulation`
 
 ## Summary
 
@@ -16,4 +16,4 @@ _Extractive summary: the original source could not be fully accessed._
 
 ## Related pages
 
-[AI safety incidents and controls](../concepts/ai-safety-incidents.md)
+[AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)

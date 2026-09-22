@@ -1,0 +1,25 @@
+# Concept: AI coding agents and the software pipeline
+
+_type: concept · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
+
+`concept` `ai-coding-agents`
+
+## Overview
+
+Coding agents are reshaping how software is written, reviewed and shipped. This page tracks the tooling itself and the second-order effects: CI bottlenecks, pull-request floods, evaluation of generated code and the management practices that keep quality stable.
+
+## Related entities
+
+[Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md)
+
+## Timeline
+
+- **2026-09-21** - Linear describes how it reworked its CI pipeline after AI coding agents turned continuous integration into a bottleneck: agents made shipping code exponentially faster, but every PR still has to pass CI, so infrastructure costs and feedback latency… ([AI coding has made CI a bottleneck, so we reworked ours to keep up](../summaries/e6f494b45603.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-21** - Foremerge is an open-source coordination protocol for coding agents, built above Git. The problem: two agents working the same project in isolated worktrees can both finish, both look correct, and have undone each other's work, because Git compares text,… ([Show HN: Foremerge – Catch intent conflicts between parallel coding agents](../summaries/76c1ddbc8498.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
+- **2026-09-21** - Federico Viticci's MacStories review of the M5 Ultra Mac Studio (256GB) is both a benchmark deep-dive and a personal case for local AI. The M5 Ultra's next-gen 80-core GPU, with a Neural Accelerator in each core, delivers up to 4.5x the peak GPU compute… ([Mac Studio (M5 Ultra, 256GB) review: a dream machine for local AI agents](../summaries/33848b3e71a8.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-21** - Chinese startup Z.ai said on Monday it had disabled some features of its flagship AI coding assistant after some users reported … ([Z.ai open-sources ZCode, disables features over codebase-upload complaints](../summaries/ac439078ec94.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-21** - Answering the common worry that coding agents trade quality for speed, Iouri Khramtsov argues the opposite is achievable: with a thoughtful, layered approach to quality, teams can increase output roughly 2x while keeping the bug count stable or actually… ([If AI coding is lowering your code quality, you're not managing quality right](../summaries/a22f3962c05b.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-20** - This post lays out a 'Chief of Staff' pattern for orchestrating Claude Code agents on long-horizon work: one long-lived coordinator session assigns work, verifies claims and maintains shared state, while short-lived executor sessions do the implementation,… ([Orchestrating Claude Code Agents: The Chief of Staff Pattern](../summaries/56af24d3aa19.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-19** - Claude Code 2.1.277 (September 18, 2026) added AGENTS.md support: in a project with no CLAUDE.md, Claude Code now reads AGENTS.md as its project instructions instead, configurable under 'Project instructions' in /config. The change lands days after… ([Claude Code now reads AGENTS.md if there is no Claude.md](../summaries/7471c7d5ef4e.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-19** - An Ask HN thread sparked by a hiring manager captures a real tension: about 80% of dev candidates now say they barely write code themselves, directing agents instead, and interviewers are split on whether to accept that as the new job or keep testing raw… ([Ask HN: How do you interview devs in a post-AI world?](../summaries/9713626aa1b9.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-19** - Anthropic has added support for AGENTS.md - the instruction-file spec originated by rival OpenAI - to Claude Code, ending a split that forced developers to maintain parallel CLAUDE.md and AGENTS.md files (and keep them in sync with symlinks and other… ([Claude Code adds support for the AGENTS.md spec](../summaries/d2dc3484409d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

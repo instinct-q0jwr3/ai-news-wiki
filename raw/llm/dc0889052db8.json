@@ -1,0 +1,17 @@
+{
+ "id": "dc0889052db8",
+ "prose": [
+  "Anthropic's status page reports an incident of elevated errors across multiple Claude models, now resolved. Impact ran from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC on September 21-22, affecting claude.ai, the Claude API, Claude Code and Claude Cowork.",
+  "The timeline: investigation opened at 00:57 UTC into errors on Claude Mythos 5.1, Fable 5.1 and Opus 5; the cause was identified by 01:35; by 02:11 Fable 5 and 5.1 and Mythos 5 and 5.1 had returned to normal success rates with Opus 5 still being fixed; at 02:35 UTC the incident was marked resolved with monitoring in place."
+ ],
+ "highlights": [
+  "Elevated errors on Claude Mythos 5.1, Fable 5.1 and Opus 5; incident resolved.",
+  "Impact window: 5:50pm PT to 7:10pm PT (00:50-02:10 UTC), September 21-22, 2026.",
+  "Affected surfaces: claude.ai, Claude API, Claude Code and Claude Cowork.",
+  "Cause identified ~01:35 UTC; Fable and Mythos recovered by 02:11, Opus 5 last.",
+  "Posted resolved at 02:35 UTC with success rates back to normal."
+ ],
+ "authored_at": "2026-09-22T05:44:46.761927+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

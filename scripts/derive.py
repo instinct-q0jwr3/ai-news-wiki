@@ -30,6 +30,22 @@ COMPARISONS={
 }
 
 
+def _load_overlay(name):
+    f=ROOT/'raw'/'llm'/name
+    if f.exists():
+        try: return json.loads(f.read_text())
+        except Exception: return {}
+    return {}
+
+# Curated overlays (LLM-authored each pass): raw/llm/entities.json, concepts.json, hubs.json.
+# Hardcoded definitions win on slug conflicts.
+for _slug,_d in _load_overlay('entities.json').items():
+    if _slug not in ENTITY_DEFS:
+        ENTITY_DEFS[_slug]=(_d['name'],_d.get('kind','organization'),_d['terms'],_d['overview'])
+for _slug,_d in _load_overlay('concepts.json').items():
+    if _slug not in CONCEPTS:
+        CONCEPTS[_slug]=(_d['name'],_d['terms'],_d['overview'])
+
 import html as _html, time, urllib.request
 
 CACHE=ROOT/'raw'/'cache'/'sources'
@@ -326,6 +342,8 @@ def build_weekly(xs,stamp):
 
 def build_hubs():
     hubs={'agentic-ai':('Agentic AI','Entry point to systems that act, specialist models and observability.',['../concepts/agentic-systems.md','../concepts/small-specialist-models.md','../comparisons/generalist-vs-specialist-models.md']), 'safety-governance':('Safety and governance','Evaluation, incidents and controls in one route.',['../concepts/external-evaluation.md','../concepts/ai-safety-incidents.md']), 'frontier-models':('Frontier models','Launches, entities and lab comparisons.',['../comparisons/openai-vs-anthropic.md','../entities/openai.md','../entities/anthropic.md'])}
+    for _slug,_d in _load_overlay('hubs.json').items():
+        if _slug not in hubs: hubs[_slug]=(_d['title'],_d['desc'],_d['links'])
     out=WIKI/'hubs'; out.mkdir(exist_ok=True)
     for slug,(title,desc,links) in hubs.items():
         labels=[Path(u).stem.replace('-',' ').title() for u in links]

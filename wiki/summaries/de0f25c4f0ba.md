@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-09-21 · updated: 2026-09-22 · confidence: high_
 
-`hacker-news` `openai` `anthropic`
+`hacker-news` `openai` `anthropic` `ai-policy-regulation`
 
 ## Summary
 
@@ -25,4 +25,4 @@ The plaintiffs say they accept slower development for safety's sake, but frame A
 
 ## Related pages
 
-[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)

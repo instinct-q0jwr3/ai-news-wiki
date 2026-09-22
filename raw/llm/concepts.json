@@ -1,0 +1,73 @@
+{
+ "ai-coding-agents": {
+  "name": "AI coding agents and the software pipeline",
+  "terms": [
+   "coding agent",
+   "claude code",
+   "codex",
+   "ai coding",
+   "pull request",
+   "code review",
+   "ci "
+  ],
+  "overview": "Coding agents are reshaping how software is written, reviewed and shipped. This page tracks the tooling itself and the second-order effects: CI bottlenecks, pull-request floods, evaluation of generated code and the management practices that keep quality stable."
+ },
+ "compute-buildout": {
+  "name": "Compute and the data-center build-out",
+  "terms": [
+   "data center",
+   "datacenter",
+   "compute",
+   "gpu",
+   "stargate",
+   "infrastructure"
+  ],
+  "overview": "The race for compute links chip supply, energy, financing and geopolitics. This page tracks projected compute bills, data-center deals and delays, the financing structures behind them, and the growing skepticism about returns on the build-out."
+ },
+ "ai-policy-regulation": {
+  "name": "AI policy, regulation and litigation",
+  "terms": [
+   "regulat",
+   "antitrust",
+   "lawsuit",
+   "sues",
+   "sued",
+   "court",
+   "congress",
+   "senate",
+   "white house",
+   "policy",
+   "ban on",
+   "ftc",
+   "safety standard"
+  ],
+  "overview": "Governments, regulators and courts are moving from AI principles to enforcement: antitrust suits, safety-violation litigation, proposed bans and diplomatic frameworks. This page tracks concrete legal and policy actions rather than commentary."
+ },
+ "agentic-commerce": {
+  "name": "Agentic commerce",
+  "terms": [
+   "agentic checkout",
+   "agentic commerce",
+   "shopping agent",
+   "complete purchases",
+   "shop pay",
+   "buy on behalf",
+   "agent from shopping",
+   "unauthorized ai agent"
+  ],
+  "overview": "AI agents that browse, decide and buy on a user's behalf force a negotiation between assistant platforms and merchants over access, consent and liability. This page tracks checkout integrations, merchant blocks and the emerging rules of agent-driven shopping."
+ },
+ "labor-displacement": {
+  "name": "AI, jobs and displacement",
+  "terms": [
+   "layoff",
+   "laid off",
+   "replace",
+   "workers",
+   "jobs",
+   "displacement",
+   "automation of"
+  ],
+  "overview": "Claims and evidence about AI's effect on employment: layoffs attributed to AI, tasks automated inside companies, and the arguments over whether displacement or augmentation dominates. This page collects concrete cases and data points."
+ }
+}

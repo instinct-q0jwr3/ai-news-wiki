@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-09-20 · updated: 2026-09-22 · confidence: high_
 
-`techmeme` `small-specialist-models`
+`techmeme` `small-specialist-models` `compute-buildout`
 
 ## Summary
 
@@ -16,4 +16,4 @@ _Extractive summary: the original source could not be fully accessed._
 
 ## Related pages
 
-[Small and specialist models](../concepts/small-specialist-models.md)
+[Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)

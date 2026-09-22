@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-09-21 · updated: 2026-09-22 · confidence: high_
 
-`techmeme` `small-specialist-models`
+`techmeme` `xai` `small-specialist-models`
 
 ## Summary
 
@@ -25,4 +25,4 @@ xAI emphasizes safeguards: it calls Grok 4.7 the strongest model it has tested o
 
 ## Related pages
 
-[Small and specialist models](../concepts/small-specialist-models.md)
+[SpaceXAI (xAI)](../entities/xai.md) · [Small and specialist models](../concepts/small-specialist-models.md)
