@@ -210,7 +210,7 @@ def main():
         newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{note} \u00b7 0 added</span></div><p class="meta">No new stories in the latest pass.</p></section>'
     else:
         newsec=''
-    body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Daily',daily,6)+section_list('Recently Updated',entities[:4]+concepts[:4],8,show_kind=True)+'</div><div>'+most+'</div></div>'
+    body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Daily',daily,7)+section_list('Recently Updated',entities[:4]+concepts[:4],8,show_kind=True)+'</div><div>'+most+'</div></div>'
     (OUT/'index.html').write_text(shell('AI News Wiki',body,'',True))
     (OUT/'assets'/'search-index.json').write_text(json.dumps(docs,ensure_ascii=False))
     (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")

@@ -373,6 +373,11 @@ def trim_blurb(text,cap=300):
     return picked
 
 def render_daily(day,items,generated):
+    try:
+        import datetime
+        from zoneinfo import ZoneInfo
+        generated=datetime.datetime.fromisoformat(generated).astimezone(ZoneInfo('Europe/Madrid')).strftime('%d %b %Y, %H:%M %Z')
+    except Exception: pass
     lines=[f"# AI in the news - {day}","",f"Updated: `{generated}`","",
            "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.",""]
     bf=ROOT/'raw'/'llm'/f"digest-{day}.json"
