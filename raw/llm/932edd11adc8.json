@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "JetBrains is consolidating its agentic development work into JetBrains Air, an open system of products for developers, teams and organizations that works inside and beyond its IDEs. Announced six months after the company began publicly experimenting with agentic development environments and introduced JetBrains Central as an open control and execution system, Air brings together the Central CLI, shared context, cloud agents, automations, governance and AI cost controls.",
+  "The launch marks a strategic expansion for a company that spent 26 years focused on the individual developer workbench: JetBrains now wants to build for the wider system through which agentic work is initiated, executed, coordinated, reviewed and governed, on the belief that the future of agentic development will be multi-vendor. The product family includes Junie, JetBrains' coding agent, which will be supported across all Air surfaces; Air in JetBrains IDEs for directing agents and verifying output; Air Teams for coordinated team workflows; and Air Governance, with some products available today and others to follow as the system develops."
+ ],
+ "highlights": [
+  "JetBrains Air unifies the company's agentic development products into one open, multi-surface, multi-service system.",
+  "Builds on six months of public experiments and JetBrains Central, the open control and execution system.",
+  "Core belief: the future of agentic development will be multi-vendor, so Air must stay open to outside tools and agents.",
+  "Junie, JetBrains' coding agent, will be supported across all Air surfaces.",
+  "Air in JetBrains IDEs lets developers direct agents and verify output with JetBrains' code intelligence.",
+  "Air Teams turns individual agent activity into coordinated team workflows; Air Governance adds organizational control.",
+  "Strategic shift: after 26 years building for the individual developer, JetBrains now builds for the wider organizational system.",
+  "Some products are available today, others will be introduced as the system develops."
+ ],
+ "id": "932edd11adc8",
+ "authored_at": "2026-09-22T12:44:09.038419+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,27 +1,25 @@
-# The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free
+# Mistral and partners release Apollo, an LLM for Ancient Greek
 
 _type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high_
 
-`techmeme` `external-evaluation`
+`techmeme` `mistral` `external-evaluation`
 
 ## Summary
 
-Joel Khalili / Wired : The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free — In the hope of uncovering new details about…
+The Austrian Academy of Science, in partnership with French AI lab Mistral and technology services firm Sail Reply, is releasing Apollo, billed as the world's first advanced large language model for Ancient Greek. Trained on roughly 600 million historical Greek words drawn from manuscripts, papyri and inscriptions, the model will be freely available to academics through a chatbot interface.
 
-Academic libraries across the globe are stuffed with hundreds of thousands of Ancient Greek papyrus fragments.
-
-On Wednesday, the Austrian Academy of Science will release “the world’s first advanced large language model for Ancient Greek,” developed in partnership with French AI lab Mistral and technology services firm Sail Reply.
+Apollo is built to fill the gaps in damaged papyrus fragments with the most statistically likely words or passages, work that until now required a rare specialist to identify word divisions, date the document and weigh socio-political context. The model adapts to the dialect in front of it, supplementing Homeric Greek for Homer and Doric for inscriptions. Scholars expect it to speed up reconstruction so they can focus on what documents mean, though they caution it will mostly surface mundane letters and contracts rather than lost plays by Sophocles.
 
 ## Highlights
 
-- Though many are so damaged that their meaning is probably lost, scholars have the ability to restore the rest by methodically filling in missing words or phrases.
-- To accelerate that laborious task, researchers have turned to artificial intelligence .
-- The model, Apollo, is trained on roughly 600 million historical Greek words drawn from manuscripts, papyri, and inscriptions.
-- The model will be freely available to academics through a chatbot interface.
-- The ambition is to help scholars to more rapidly identify papyrus fragments relevant to their specific sub-disciplines, as well as promising new avenues of research.
-- Where documents are tattered and torn, Apollo is built to fill in the blanks with the most statistically likely words or passages, potentially revealing hidden details about historical events and practices.
-- “There are very few people in the world who are that good at Greek history,” says Stephen Colvin, a professor of classics and historical linguistics at University College London.
-- “When it sees Homer, it supplements Homeric Greek.
+- Austrian Academy of Science, Mistral and Sail Reply built Apollo, an LLM for Ancient Greek.
+- Trained on roughly 600 million historical Greek words from manuscripts, papyri and inscriptions.
+- Free to academics through a chatbot interface.
+- Fills gaps in damaged papyri with the most statistically likely words or passages.
+- Adapts by dialect: Homeric Greek for Homer, Doric for inscriptions, says papyrologist Anna Dolganov.
+- Sail Reply partner Dimitris Vlitas: unlocking knowledge this way 'was unthinkable a year ago.'
+- Oxford's Armand D'Angour: a machine suggesting three candidate words per gap 'would speed up matters considerably.'
+- UCL's Stephen Colvin cautions most unrestored papyri are mundane, so no new Sophocles plays should be expected.
 
 ## Source
 
@@ -29,4 +27,4 @@ On Wednesday, the Austrian Academy of Science will release “the world’s firs
 
 ## Related pages
 
-[External AI evaluation](../concepts/external-evaluation.md)
+[Mistral](../entities/mistral.md) · [External AI evaluation](../concepts/external-evaluation.md)

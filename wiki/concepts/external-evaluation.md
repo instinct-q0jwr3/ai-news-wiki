@@ -10,11 +10,11 @@ Methods used by third parties, standards groups and labs to measure model capabi
 
 ## Related entities
 
-[Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Google](../entities/google.md) · [Xiaomi](../entities/xiaomi.md)
+[Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Mistral](../entities/mistral.md) · [Google](../entities/google.md) · [Xiaomi](../entities/xiaomi.md)
 
 ## Timeline
 
-- **2026-09-22** - Joel Khalili / Wired : The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free — In the hope of uncovering new details about… ([The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free](../summaries/21d1ffcdfde3.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-09-22** - The Austrian Academy of Science, in partnership with French AI lab Mistral and technology services firm Sail Reply, is releasing Apollo, billed as the world's first advanced large language model for Ancient Greek. Trained on roughly 600 million historical… ([Mistral and partners release Apollo, an LLM for Ancient Greek](../summaries/21d1ffcdfde3.md) · [Mistral](../entities/mistral.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-22** - Copper-Rs v1.2 adds live telemetry for robots built on its deterministic Rust stack: a robot can now clone its full state in real time to a remote 'deterministic twin' over a lossy one-way link. The mechanism leans on forward error correction -… ([Copper-Rs: Live Telemetry Deterministic Twins for Robots](../summaries/19b3f9000d35.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-22** - That puts Xiaomi's new flagship ahead of proprietary models including xAI's Grok 4.6, currently at 44, and Google's Gemini 3.8 Flash … ([MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model](../summaries/cba40109d163.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Xiaomi](../entities/xiaomi.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-22** - I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer. ([Show HN: Vellum, the best diagram editor you'll ever use](../summaries/fb904ed7339c.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))

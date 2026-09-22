@@ -55,5 +55,24 @@
    "mimo"
   ],
   "overview": "Xiaomi is extending its device business into foundation models with the MiMo family, whose open-weight releases now rank at the top of independent benchmarks. This page follows its model releases, benchmark results and bid to control the intelligence layer of its own hardware."
+ },
+ "jetbrains": {
+  "name": "JetBrains",
+  "kind": "organization",
+  "terms": [
+   "jetbrains",
+   "junie",
+   "jetbrains air"
+  ],
+  "overview": "JetBrains is expanding beyond the IDE into agentic software development with JetBrains Air, an open, multi-vendor system spanning the Junie coding agent, in-IDE agent direction, team coordination and governance. This page follows its product launches and its bid to own the organizational layer of agent-driven development."
+ },
+ "mistral": {
+  "name": "Mistral",
+  "kind": "organization",
+  "terms": [
+   "mistral",
+   "mistral ai"
+  ],
+  "overview": "Mistral is Europe's flagship foundation-model lab, pairing frontier model releases with applied partnerships such as Apollo, an Ancient Greek LLM built with the Austrian Academy of Science and Sail Reply. This page follows its models, partnerships and positioning in the multi-vendor AI landscape."
  }
 }

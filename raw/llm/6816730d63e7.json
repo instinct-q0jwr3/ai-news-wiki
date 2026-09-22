@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Veteran developer Alexandru Nedelcu argues that AI has no wisdom, and that developers who stop reading and writing code do so at their peril. His case rests on a measurement problem: code maintainability and good architecture have no good metrics, because the effects of bad architecture take months or years to appear, while vibe-coded projects devolve over time into unmaintainable messes.",
+  "Bad code is easy to define but slow to notice: hard to read, hard to evolve, one change breaking distant logic in butterfly-effect fashion, features requiring patches in multiple places, unclear invariants with no authors left to guard them, and fragile tests that block refactoring. Experienced engineers develop a nose for code smells through years of debugging production issues, an intuition that cannot be reduced to rigid rules, and that is precisely the problem: AI is not trained on what it means for code to be maintainable, and experts, who make rules rather than follow them, are incompatible with the recipes that make beginners productive."
+ ],
+ "highlights": [
+  "Claim: vibe-coded projects devolve over time into unmaintainable messes.",
+  "Root cause: maintainability and good architecture lack good measurements; bad effects take months or years to surface.",
+  "Bad code defined: hard to read, understand and evolve, with distant butterfly-effect breakage.",
+  "Symptoms: multi-place patches, inconsistencies, unclear invariants, absent original authors, fragile mock-heavy tests blocking refactoring.",
+  "Expert intuition, built from years of production debugging, detects code smells early but cannot be turned into rigid rules.",
+  "'Experts don't follow the rules, they make the rules', making them incompatible with beginner productivity recipes.",
+  "Core gap: AI is not trained on what it means for code to be maintainable."
+ ],
+ "id": "6816730d63e7",
+ "authored_at": "2026-09-22T12:44:09.038419+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

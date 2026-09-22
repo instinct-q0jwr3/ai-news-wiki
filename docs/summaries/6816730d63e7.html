@@ -1,20 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI Has No Wisdom and Neither Will You · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790078448"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>AI Has No Wisdom and Neither Will You</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI has no wisdom: the case against abandoning code craft · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790081314"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>AI has no wisdom: the case against abandoning code craft</h1>
 <p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
 <p><code>lobsters</code></p>
 <h2>Summary</h2>
-<p>Comments In the past month alone I’ve heard these phrases: Certainly the industry is transforming, however, the people and organizations falling into the trap of no longer reading and writing code only do so at their peril.</p>
-<p>Fact is, vibe-coded projects devolve over time into an unmaintainable mess.</p>
-<p>The reason is simple, yet hard to fix: code maintainability and good architecture don’t have good measurements that we can apply, because it takes months, years even, to notice the effects of bad architecture or of unmaintainable code.</p>
+<p>Veteran developer Alexandru Nedelcu argues that AI has no wisdom, and that developers who stop reading and writing code do so at their peril. His case rests on a measurement problem: code maintainability and good architecture have no good metrics, because the effects of bad architecture take months or years to appear, while vibe-coded projects devolve over time into unmaintainable messes.</p>
+<p>Bad code is easy to define but slow to notice: hard to read, hard to evolve, one change breaking distant logic in butterfly-effect fashion, features requiring patches in multiple places, unclear invariants with no authors left to guard them, and fragile tests that block refactoring. Experienced engineers develop a nose for code smells through years of debugging production issues, an intuition that cannot be reduced to rigid rules, and that is precisely the problem: AI is not trained on what it means for code to be maintainable, and experts, who make rules rather than follow them, are incompatible with the recipes that make beginners productive.</p>
 <h2>Highlights</h2>
 <ul>
-<li>We can certainly define bad code: code that’s hard to read, hard to understand, hard to evolve for whatever the future throws our way.</li>
-<li>The kind of code in which changing one thing breaks the program in very non-deterministic ways, or breaks the logic somewhere else, far removed from your change, resembling the “butterfly effect”.</li>
-<li>The kind of code where adding a feature means a serious undertaking due to changing code in multiple places and still forgetting to patch everything, thus getting inconsistencies.</li>
-<li>Code in which the invariants of the design aren’t clear, with its authors no longer being around to guard against violations and ensure some coherence.</li>
-<li>Code that is hard to test, requiring mocks and exposing implementation details, leading to fragile tests that end up preventing meaningful refactoring.</li>
-<li>And yet, we know it as a fact that noticing bad code takes time.</li>
-<li>The AI notices patterns from code in the wild and let’s be honest, most code in the wild is pretty bad.</li>
-<li>Most developers, being still “advanced beginners” in the Dreyfus model , are not able to define good, clarifying, reusable functions and neither does the AI currently.</li>
+<li>Claim: vibe-coded projects devolve over time into unmaintainable messes.</li>
+<li>Root cause: maintainability and good architecture lack good measurements; bad effects take months or years to surface.</li>
+<li>Bad code defined: hard to read, understand and evolve, with distant butterfly-effect breakage.</li>
+<li>Symptoms: multi-place patches, inconsistencies, unclear invariants, absent original authors, fragile mock-heavy tests blocking refactoring.</li>
+<li>Expert intuition, built from years of production debugging, detects code smells early but cannot be turned into rigid rules.</li>
+<li>'Experts don't follow the rules, they make the rules', making them incompatible with beginner productivity recipes.</li>
+<li>Core gap: AI is not trained on what it means for code to be maintainable.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">Read the original story</a></p>
