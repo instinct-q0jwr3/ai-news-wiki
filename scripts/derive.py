@@ -205,10 +205,18 @@ def canon_url(u):
     q=''
     if host=='news.ycombinator.com':
         q=urlencode([(k,v) for k,v in parse_qsl(parts.query) if k=='id'])
+    elif host.endswith('youtube.com'):
+        q=urlencode([(k,v) for k,v in parse_qsl(parts.query) if k=='v'])
     return f'{host}{path}'+(f'?{q}' if q else '')
 
 def _ttoks(t):
     return set(re.sub(r'[^a-z0-9 ]',' ',(t or '').lower()).split())
+
+def url_specific(cu):
+    p=cu.split('?',1)[0]; i=p.find('/')
+    if i<0: return False
+    path=p[i:]; segs=[s for s in path.split('/') if s]
+    return len(segs)>=2 and len(path)>=12
 
 def titles_alike(a,b):
     ta,tb=_ttoks(a),_ttoks(b)
@@ -238,7 +246,7 @@ def load_stories():
         keep=rows[keys[0]]
         for k in keys[1:]:
             dup=rows[k]
-            if not titles_alike(keep.get('feed_title') or keep.get('title'), dup.get('feed_title') or dup.get('title')): continue
+            if not titles_alike(keep.get('feed_title') or keep.get('title'), dup.get('feed_title') or dup.get('title')) and not url_specific(cu): continue
             keep['last_seen']=max(keep.get('last_seen',''),dup.get('last_seen',''))
             keep['first_seen']=min(keep.get('first_seen',''),dup.get('first_seen',''))
             if len(esc(dup.get('summary')))>len(esc(keep.get('summary'))): keep['summary']=dup['summary']

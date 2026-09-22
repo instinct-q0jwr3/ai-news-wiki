@@ -10,5 +10,5 @@ SoftBank is one of the largest outside financiers of the AI build-out, anchored 
 
 ## Timeline
 
-- **2026-09-21** - Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities. ([SoftBank's SB Energy delays its IPO as investors balk at valuation](../summaries/98af64b225c9.md) · [SoftBank](../entities/softbank.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-21** - Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ — Several companies tied to the data center industry have delayed their initial public offerings amid… ([Wall Street Is Growing Skeptical of the Data Center Boom](../summaries/6564dd7e87a6.md) · [SoftBank](../entities/softbank.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-21** - SoftBank Group Corp. is seeking the equivalent of more than $11 billion in what would be one of the biggest junk bond deals ever … ([SoftBank looks to issue $10B+ in debt for its OpenAI investment](../summaries/751756900f10.md) · [OpenAI](../entities/openai.md) · [SoftBank](../entities/softbank.md))
