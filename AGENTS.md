@@ -28,3 +28,7 @@ Read `wiki/index.md` first, then open only relevant daily pages and raw snapshot
 ## Lint
 
 Check for broken links, duplicated stories, stale daily pages, orphaned wiki pages, contradictions and missing source attribution. Raw snapshots are immutable.
+
+## Daily digest artifact (raw/llm/digest-YYYY-MM-DD.json, schema 2)
+
+The external runner may author one curated artifact per day: `{"id":"digest-YYYY-MM-DD","date":"YYYY-MM-DD","schema":2,"model":"agent-pass","lead":["<one tight editorial paragraph framing the day, with inline [links](../summaries/<id>.md)>"]}`. The pipeline renders the lead directly under the daily header; the thematic sections below it are generated automatically from the corpus in the same style as the weekly synthesis. Do not author per-section prose for the daily page. Daily and weekly titles are static: `AI in the news - YYYY-MM-DD` and `Week YYYY-Www` (no descriptive headlines).

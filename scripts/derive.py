@@ -319,9 +319,7 @@ def build_weekly(xs,stamp):
         hits=sorted(match(week,terms),key=lambda x:x.get('score',0),reverse=True)
         if hits: themes.append((len(hits),concept_slug,label,hits))
     themes.sort(reverse=True)
-    headline_labels=[label.replace('AI ','').replace(' and controls','').replace('External ','').replace('Small and specialist models','Small Models').replace('Agentic systems','Agentic Systems').replace('safety incidents','Safety Debates').replace('policy, regulation and litigation','Policy and Litigation').replace('coding agents and the software pipeline','Coding Agents').replace('Compute and the data-center build-out','Compute Build-out').replace('Agentic commerce','Agentic Commerce').replace(', jobs and displacement','Jobs and Displacement') for _,_,label,_ in themes[:3]]
-    headline=', '.join(headline_labels[:-1])+(' and '+headline_labels[-1] if len(headline_labels)>1 else (headline_labels[0] if headline_labels else 'AI Developments'))
-    title=f'Week {slug}: {headline}'
+    title=f'Week {slug}'
     sections=[]
     for _,concept_slug,label,hits in themes[:3]:
         entity_counts=Counter(e for x in hits for e in related(x)[0])
@@ -380,14 +378,27 @@ def render_daily(day,items,generated):
     except Exception: pass
     lines=[f"# AI in the news - {day}","",f"Updated: `{generated}`","",
            "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.",""]
+    lines.append(f'Digest of {len(items)} unique stories first observed on {day}. Each inline story link opens a generated summary with its original source.')
+    lines.append('')
     bf=ROOT/'raw'/'llm'/f"digest-{day}.json"
     if bf.exists():
         try:
             d=json.loads(bf.read_text())
-            lines.extend([""])
-            for para in d.get('prose',[]):
+            lead=d.get('lead') or d.get('prose',[])[:1]
+            for para in lead[:1]:
                 lines.extend([para,""])
         except Exception: pass
+    themes=[]
+    for concept_slug,(label,terms,_) in CONCEPTS.items():
+        hits=sorted(match(items,terms),key=lambda x:x.get('score',0),reverse=True)
+        if hits: themes.append((len(hits),concept_slug,label,hits))
+    themes.sort(reverse=True)
+    for _,concept_slug,label,hits in themes[:4]:
+        entity_counts=Counter(e for x in hits for e in related(x)[0])
+        entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
+        opening=f'This theme connects {len(hits)} developments around [{label}](../concepts/{concept_slug}.md).'
+        if entity_refs: opening+=f' The most visible related entities are {entity_refs}.'
+        lines.extend([f'## {label}','',opening+' '+prose_links(hits),''])
     counts=Counter(i.get('source','?') for i in items)
     lines.extend(["## Sources",""])
     lines.extend([f"- {k}: {v} stories" for k,v in counts.most_common()])
