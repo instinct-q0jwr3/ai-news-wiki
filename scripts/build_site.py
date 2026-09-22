@@ -81,8 +81,10 @@ def row_html(p,link,is_new=False,kind=None,state=False):
     chips=''.join(f'<code>{html.escape(t)}</code>' for t in show_tags)
     kindcell=f'<span class="row-kind">{html.escape(kind)}</span>' if kind else ''
     if state and m['updated']:
-        lbl='new' if m['created'] and m['created']==m['updated'] else 'upd'
-        meta=f"{lbl} {m['updated']}"
+        if m['created'] and m['created']==m['updated']:
+            meta=f"{NEW_BADGE} {m['updated']}"
+        else:
+            meta=f"upd {m['updated']}"
     else:
         meta=f"upd {m['updated']}" if m['updated'] else ''
     badge=NEW_BADGE if is_new else ''
