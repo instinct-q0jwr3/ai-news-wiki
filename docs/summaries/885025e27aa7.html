@@ -1,20 +1,20 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Scry, programmable internet search w/ congestion pricing · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790027547"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Scry, programmable internet search w/ congestion pricing</h1>
-<p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-21 · confidence: high</p>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Scry, programmable internet search w/ congestion pricing · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790035940"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Scry, programmable internet search w/ congestion pricing</h1>
+<p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-22 · confidence: high</p>
 <p><code>hacker-news</code> <code>google</code> <code>agentic-systems</code> <code>small-specialist-models</code></p>
 <h2>Summary</h2>
-<p>Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing.</p>
-<p>When there's capacity, the service is free for non-commercial use. --- Hello.</p>
-<p>It's 2026, we're training simulated fruit fly brains to play Beat Saber, do we still have to be stuck with internet (re)search as fn: natural language -&gt; black box we can't do anything about -&gt; ranked_list/summary?</p>
+<p>Scry is an open-alpha MCP connector that lets an agent run arbitrary read-only programs - SQL and some Datalog - over a claimed 166.9 billion rows of internet documents, adding 62.4 billion rows in the last week alone. The pitch: where web search hands an agent ten links, Scry answers questions like 'every page that mentions this compound but not that patent, grouped by domain, since March' as a single query. Setup is a two-minute, no-code MCP install for ChatGPT or Claude.</p>
+<p>The index spans social (27.2B Reddit comments, 3.75B Reddit posts, 2.43B Bluesky, 45.7M Hacker News items), web (45.5B Common Crawl index entries, 26.1B pages, 1.67B mailing-list posts), scholarship (3.33B book passages, 512M OpenAlex works, 6.93M arXiv papers), markets (632M Kalshi trades, 310M Polymarket trades), records (1.05B Google Trends points, 234M SEC filings) and code (25.2B deps.dev graph entries, 11.2B GitHub Archive events), plus 262B rows from 20 undisclosed sources. The associated Show HN describes a 500 TB NVMe index in ClickHouse with congestion-based micro-auction pricing for contention, free for non-commercial use when capacity allows.</p>
 <h2>Highlights</h2>
 <ul>
-<li>There is a long history of people trying to do very fancy things that end up being done in relational databases and a little SQL.</li>
-<li>There is a gravity to them, a bitter lesson, just like scaling of generalized ml training methods.</li>
-<li>I mean many, many information products can be built off essentially giant real-time OLAP databases and frontier LLMs writing brilliant SQL+Datalog+vector+Jev etc. queries.</li>
-<li>Google Search, Tavily, Exa essentially have the problem of mapping your agents' context you are willing to provide, to a tiny subset of their index.</li>
-<li>Their algorithms are opaque to the caller, there's really not much user control, and there's not a serious opportunity to communally improve search recipes, like the lexical+Jev recipes you trust to select bleeding edge AI builders.</li>
-<li>Furthermore, search companies aren't even pursuing text-to-SQL anymore (several have talked to me)... they made up their minds during the traumatic 2024 text-to-sql days.</li>
-<li>I'm intent on scaling this paradigm on differentiated hardware over much more data, so any compelling use cases or queries I could show off, would be much appreciated! ⬢ ChatGPT Open ChatGPT on the web and go to Settings .</li>
-<li>Open Plugins , click + , and enter a name ( scry ), a description ( programmatic search ), and the server URL https://mcp.scry.io .</li>
+<li>MCP server at mcp.scry.io; two-minute no-code setup for ChatGPT (Developer mode) or Claude.</li>
+<li>Claims 166,912,566,110 queryable rows, +62.4B in one week; open alpha.</li>
+<li>Show HN: 500 TB NVMe internet index in ClickHouse; arbitrary read-only SQL plus some Datalog.</li>
+<li>Resource contention handled by congestion-based micro-auction pricing; free for non-commercial use when there's capacity.</li>
+<li>Social data: 27.2B Reddit comments, 3.75B Reddit posts, 2.43B Bluesky, 45.7M Hacker News.</li>
+<li>Scholarship: 3.33B book passages, 512M OpenAlex works, 6.93M arXiv, 91.2M full-text academic papers.</li>
+<li>Code: 25.2B deps.dev graph entries, 11.2B GitHub Archive events, 5.94B Software Heritage revisions.</li>
+<li>Markets/records: 632M Kalshi trades, 310M Polymarket trades, 234M SEC filings, 434M FEC transactions.</li>
+<li>Example query shape: 'every page that mentions this compound but not that patent, grouped by domain, since March.'</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://scry.io/">Read the original story</a></p>

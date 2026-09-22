@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
 
 `entity` `meta` `agentic-systems` `ai-safety-incidents`
 
@@ -10,6 +10,8 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-09-22** - Ars Technica's Dan Goodin reports a zero-day in Meta's new Muse AI assistant for macOS, discovered by Mac security expert Patrick Wardle, that lets any locally installed app or terminal command seize the token authenticating a user to their Muse account -… ([A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account](../summaries/16444d7e895b.md) · [Meta](../entities/meta.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
+- **2026-09-22** - Shopify plans to allow Meta's personal AI agent to complete purchases on behalf of users with the e-commerce platform's roster of stores. ([Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay](../summaries/69da42e0e50b.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-21** - Meta Platforms Inc.'s new artificial intelligence agent, Muse, has quickly risen to the top of mobile app charts … ([Sensor Tower: Muse hit 902K+ downloads in six days](../summaries/9249cb0b81d7.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-21** - Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com. Hacker News selected it as an AI-relevant development. ([Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](../summaries/41d477801352.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-21** - The Register's account of Amazon blocking Meta's Muse: the ecommerce giant cut off Meta's personal AI agent from shopping on its site after unsuccessfully asking Meta to keep it out, citing credential capture and transparency concerns while guarding a… ([Amazon blocks Meta's Muse AI shopping agent](../summaries/b8c660d0347d.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))

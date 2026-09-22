@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
 
 `entity` `anthropic` `agentic-systems` `ai-safety-incidents` `external-evaluation` `small-specialist-models`
 
@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-09-22** - I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer. ([Show HN: Vellum, the best diagram editor you'll ever use](../summaries/fb904ed7339c.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-21** - Four subscribers to ChatGPT, Claude, Grok or Gemini filed a proposed class-action lawsuit alleging that the leading AI labs violated antitrust law by agreeing to collectively slow AI development. The suit, reported by the Associated Press, argues the… ([Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development](../summaries/de0f25c4f0ba.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-21** - Anthropic at $2T isn't far-fetched. Hacker News selected it as an AI-relevant development. ([Anthropic at $2T isn't far-fetched](../summaries/ba701c0b057b.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-21** - OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses. ([OpenAI was negotiating mutual stress-tests with Anthropic before the hack](../summaries/efbabf843cf6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Hugging Face](../entities/hugging-face.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

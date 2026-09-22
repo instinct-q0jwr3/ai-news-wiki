@@ -1,6 +1,6 @@
 # Comparison: Generalist vs specialist models
 
-_type: comparison · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
+_type: comparison · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
 
 `comparison` `generalist-vs-specialist-models`
 
@@ -10,6 +10,8 @@ Generalist models maximize breadth and reasoning; specialists optimize cost, lat
 
 ## Generalist
 
+- **2026-09-22** - I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer. ([Show HN: Vellum, the best diagram editor you'll ever use](../summaries/fb904ed7339c.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-09-22** - The lawsuit alleges AI company failed to notify law enforcement, calls out product safety gaps — British Columbia filed a lawsuit … ([British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police](../summaries/a076342fd0a7.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-21** - Bloomberg reports that a growing set of startups - including Harvey, Abridge, Ramp and Rogo - are embracing open-weight models or training their own models to cut their expensive reliance on frontier labs like OpenAI and Anthropic. Harvey, the $15.6… ([Startups embrace open-weight models to cut reliance on frontier labs](../summaries/ad8d403ad963.md) · [OpenAI](../entities/openai.md))
 - **2026-09-21** - Cory Doctorow's essay argues that attributing mind and intention to chatbot output is a delusion we are slowly curing. He opens with atheism and sunsets: a religious person sees an intentional creation, an atheist sees beauty empty of purpose, and an… ([The Claude Delusion](../summaries/6cae6ec2ba8a.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-21** - Foremerge is an open-source coordination protocol for coding agents, built above Git. The problem: two agents working the same project in isolated worktrees can both finish, both look correct, and have undone each other's work, because Git compares text,… ([Show HN: Foremerge – Catch intent conflicts between parallel coding agents](../summaries/76c1ddbc8498.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
@@ -28,8 +30,6 @@ Generalist models maximize breadth and reasoning; specialists optimize cost, lat
 - **2026-09-19** - OpenAI claimed a solution to the Navier-Stokes Millennium Prize Problem, saying the proof was produced by a group of agents using a next-generation model 'significantly more capable than GPT-6 Astra'. OpenAI-affiliated researcher Ethan Knight described the… ([OpenAI reports Navier-Stokes singularity find in 88 hours with Astra-next](../summaries/f182d3c99318.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-19** - Latent Space's hands-on review of GPT-6 Astra, after burning over 20 billion tokens on early access, reaches a striking conclusion: Astra is one of a new class of models that are fully capable AI Engineers in their own right, able to choose and train… ([GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour](../summaries/35bcf9d2782f.md) · [OpenAI](../entities/openai.md))
 - **2026-09-19** - ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. ([OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay](../summaries/4d93ed21993f.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md))
-- **2026-09-19** - Cua is an open-source stack for giving AI agents computers they can actually use: a Cua Driver for native desktop automation on macOS, Windows and Linux, isolated cloud desktops (Fleets at run.cua.ai) claimable from a pool via the Sandbox SDK, local… ([Show HN: CUA-S1 – A System One Model for Computer Use](../summaries/f56f05e1a7fb.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))
-- **2026-09-19** - Anthropic has added support for AGENTS.md - the instruction-file spec originated by rival OpenAI - to Claude Code, ending a split that forced developers to maintain parallel CLAUDE.md and AGENTS.md files (and keep them in sync with symlinks and other… ([Claude Code adds support for the AGENTS.md spec](../summaries/d2dc3484409d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
 
 ## specialist models
 

@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
 
 `entity` `openai` `agentic-systems` `ai-safety-incidents` `external-evaluation` `small-specialist-models`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-09-22** - The lawsuit alleges AI company failed to notify law enforcement, calls out product safety gaps — British Columbia filed a lawsuit … ([British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police](../summaries/a076342fd0a7.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-21** - Four subscribers to ChatGPT, Claude, Grok or Gemini filed a proposed class-action lawsuit alleging that the leading AI labs violated antitrust law by agreeing to collectively slow AI development. The suit, reported by the Associated Press, argues the… ([Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development](../summaries/de0f25c4f0ba.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-21** - B.C. government to sue OpenAI after Tumbler Ridge mass shooting. Hacker News selected it as an AI-relevant development. ([B.C. government to sue OpenAI after Tumbler Ridge mass shooting](../summaries/eb0cf52eebc4.md) · [OpenAI](../entities/openai.md))
 - **2026-09-21** - OpenAI lays out its position on the next phase of AI development: as automated AI research takes over more of the work of building successive model generations, recursive self-improvement (RSI) could accelerate progress rapidly even while people remain… ([OpenAI: 'fully autonomous RSI is not happening today'](../summaries/ffe9332a04f8.md) · [OpenAI](../entities/openai.md))

@@ -1,6 +1,6 @@
 # Vercel, Cloudflare and others quickly add Jev for agent tool selection
 
-_type: news-summary · created: 2026-09-20 · updated: 2026-09-21 · confidence: high_
+_type: news-summary · created: 2026-09-20 · updated: 2026-09-22 · confidence: high_
 
 `techmeme` `openai` `agentic-systems`
 

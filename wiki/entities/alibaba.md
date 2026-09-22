@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
 
 `entity` `alibaba` `agentic-systems` `small-specialist-models`
 

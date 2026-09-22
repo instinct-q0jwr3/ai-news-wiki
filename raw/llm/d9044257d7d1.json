@@ -1,0 +1,21 @@
+{
+ "id": "d9044257d7d1",
+ "prose": [
+  "CNN reports that the US military nearly intercepted a Chinese ship in the Middle East this spring after an intelligence report - later found to have been generated with the help of an AI chatbot - falsely claimed the vessel was carrying components of a nuclear weapons program. According to four sources familiar with the episode, armed personnel were preparing to board and military planes were airborne before officials, digging into the report just ahead of the operation, discovered that a special operations command analyst had used a chatbot that misidentified the ship's cargo. One source called the report 'entirely false' and said it 'almost started a war.'",
+  "The incident lands in the middle of a Pentagon push - codified in Defense Secretary Pete Hegseth's January 'Artificial Intelligence Acceleration Strategy' - to put AI in the hands of the department's three million civilian and military personnel at all classification levels. Officials told CNN the effort is decentralized, with no single standard for verifying AI-generated information, and that AI is rapidly being adopted for targeting with no real guidance on human-in-the-loop safeguards. Sources said such hallucinations have not been isolated across the intelligence community, and that younger analysts in particular tend to trust the tools uncritically: 'AI allows you to get to a bad idea faster.'"
+ ],
+ "highlights": [
+  "CNN exclusive by Katie Bo Lillis and Zachary Cohen, based on four sources familiar with the episode.",
+  "Spring 2026: intelligence report claimed a Chinese ship in the Middle East carried nuclear weapons program components.",
+  "US military prepared to intercept: armed boarding team readied, planes in the air, before the report was rechecked.",
+  "Report was produced by a special operations command analyst using a chatbot that fused open-source and signals intelligence; it misidentified the cargo.",
+  "Source: the report was 'entirely false' and 'almost started a war.'",
+  "Hegseth's January 'Artificial Intelligence Acceleration Strategy' pushes AI to 3M personnel 'at all classification levels.'",
+  "No unified standards for verifying AI output; AI in targeting is 'ramping up' with no human-in-the-loop guidance.",
+  "Former senior official on internal tools: 'mostly just copies of the commercial stuff wearing lipstick.'",
+  "Sources: similar hallucinations have recurred across the intelligence community since the tools proliferated."
+ ],
+ "authored_at": "2026-09-22T00:11:15.435751+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

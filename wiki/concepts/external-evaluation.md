@@ -1,6 +1,6 @@
 # Concept: External AI evaluation
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-21 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
 
 `concept` `external-evaluation`
 
@@ -10,10 +10,11 @@ Methods used by third parties, standards groups and labs to measure model capabi
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)
+[Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md)
 
 ## Timeline
 
+- **2026-09-22** - I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer. ([Show HN: Vellum, the best diagram editor you'll ever use](../summaries/fb904ed7339c.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-21** - Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart. ([Bessent: US and China agree to set up an AI dialogue](../summaries/43450543b075.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-20** - Anthropic is partnering with Accenture, through its specialist AI business Faculty, on independent evaluation of frontier AI, a concrete step toward the commitment in CEO Dario Amodei's 'We Must Pace the Frontier' essay to embed evaluators inside the… ([Partnering with Accenture on Embedded Evaluation](../summaries/47464054b556.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-20** - ROCmFix is a single-file, zero-install utility that fixes the most common pain of running local LLMs on AMD GPUs: cryptic ROCm errors like HSA_STATUS_ERROR_INVALID_ISA or silent fallbacks to CPU. It detects the exact AMD GPU, checks a live community… ([ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking](../summaries/d23467bb3740.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))

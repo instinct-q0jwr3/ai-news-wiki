@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Vellum, the best diagram editor you&#x27;ll ever use · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790035940"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../hubs/index.html">Hubs</a><a href="../weekly/index.html">Weekly</a><a href="../entities/index.html">Entities</a><a href="../daily/index.html">Digests</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../concepts/index.html">Concepts</a><a href="../comparisons/index.html">Compare</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Vellum, the best diagram editor you'll ever use</h1>
+<p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
+<p><code>hacker-news</code> <code>anthropic</code> <code>external-evaluation</code></p>
+<h2>Summary</h2>
+<p>I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer.</p>
+<p>But its annoying I have to re-draw the same thing, but better in Draw.io / Visio when it comes to writing the formal documentation later.</p>
+<p>Vellum is designed to give you the speed of a whiteboard, but the architecture-diagram-finish in quality.</p>
+<h2>Highlights</h2>
+<ul>
+<li>It uses YAML to store everything, and even has a 'graph' section for those of you who like the diagram-as-code elements of mermaid... but vellum allows full authoring of layout without the restrictions of Mermaid.</li>
+<li>Been working on it a while, but decided to make it source available here: https://github.com/blueprintr-io/vellum-editor Proud to say its not purely vibe coded slop, but I used Claude to help with some of the more challenging geometry…</li>
+<li>Vellum .s3. .amazonaws.com — a third origin, neither this SPA's nor the API's — so 'self' and https://blueprintr.io do not cover them.</li>
+<li>2026-09-04: their absence blocked every save of a diagram containing a new image.</li>
+<li>Scoped to S3 rather than reusing img-src's broad *.amazonaws.com — connect-src grants read access to responses, so it earns a tighter leash.</li>
+<li>NOTE THE REGION COUPLING: eu-west-1 is pinned across this deployment; moving the bucket's region without editing this line reintroduces the bug silently. --&gt;</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://vellum.blueprintr.io">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

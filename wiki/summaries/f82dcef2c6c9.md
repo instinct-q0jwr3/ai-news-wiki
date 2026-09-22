@@ -1,6 +1,6 @@
 # Flock Partnered with Nonprofit That Uses AI to Rally Public Support
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-21 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-22 · confidence: high_
 
 `hacker-news`
 
