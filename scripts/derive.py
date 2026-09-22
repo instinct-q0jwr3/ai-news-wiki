@@ -379,7 +379,7 @@ def render_daily(day,items,generated):
     if bf.exists():
         try:
             d=json.loads(bf.read_text())
-            lines.extend(["## Briefing",""])
+            lines.extend([""])
             for para in d.get('prose',[]):
                 lines.extend([para,""])
         except Exception: pass
