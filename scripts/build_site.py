@@ -5,7 +5,7 @@ import html,json,re,shutil,time
 from collections import Counter
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; WIKI=ROOT/'wiki'; OUT=ROOT/'docs'
-LABELS={'hubs':'Hubs','weekly':'Weekly','entities':'Entities','daily':'Digests','summaries':'Stories','concepts':'Concepts','comparisons':'Compare','topics':'Topics','trends':'Trends'}
+LABELS={'daily':'Daily','weekly':'Weekly','summaries':'Stories','entities':'Entities','hubs':'Hubs','concepts':'Concepts'}
 
 NEW_BADGE='<span class="new-badge" title="Added in the latest update">new</span>'
 def inline(s):
@@ -114,7 +114,7 @@ def filter_bar(tagcount):
     return f'<div class="filter-bar"><button class="chip active" data-tag="">All</button>{chips}</div>'
 
 BUILD_V=str(int(time.time()))
-NAV=[('hubs','Hubs'),('weekly','Weekly'),('entities','Entities'),('daily','Digests'),('summaries','Stories'),('concepts','Concepts'),('comparisons','Compare')]
+NAV=[('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('hubs','Hubs'),('concepts','Concepts')]
 def shell(title,content,rel='',search=False,section=''):
     nav=''.join(f'<a href="{rel}{k}/index.html"'+((' class="active" aria-current="page"') if k==section else '')+f'>{v}</a>' for k,v in NAV)
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
@@ -177,7 +177,7 @@ def main():
     weekly=sorted((WIKI/'weekly').glob('*.md'),reverse=True); latest=weekly[0] if weekly else None
     entities=sorted((WIKI/'entities').glob('*.md'),key=lambda p:p.stat().st_mtime,reverse=True)
     daily=sorted((WIKI/'daily').glob('*.md'),reverse=True)
-    concepts=list((WIKI/'concepts').glob('*.md')); comparisons=list((WIKI/'comparisons').glob('*.md'))
+    concepts=list((WIKI/'concepts').glob('*.md'))
     corpus=[]
     for p in files:
         if p.name in ('index.md','log.md'): continue
@@ -185,13 +185,13 @@ def main():
     counts=Counter(label for label,url in corpus)
     most='<section><div class="section-head"><h2>Most Linked</h2><span>recurring signals</span></div><ol class="ranked">'+''.join(f'<li><span>{html.escape(k[:88])}</span><b>{v:02d}</b></li>' for k,v in counts.most_common(8))+'</ol></section>'
     hero=f'<a class="hero" href="{latest.relative_to(WIKI).with_suffix(".html").as_posix() if latest else "weekly/index.html"}"><span class="eyebrow">Weekly synthesis</span><h1>{html.escape(title_of(latest)) if latest else "The week in AI"}</h1><p>A connected read of the changes, tensions and signals running through the corpus.</p><span class="cta">Read the synthesis →</span></a>'
-    stats=f'<div class="stats"><span><b>{len(files)}</b> pages</span><span><b>{len(entities)}</b> entities</span><span><b>{len(concepts)}</b> concepts</span><span><b>{len(comparisons)}</b> comparisons</span><span><b>{len(daily)}</b> digests</span></div>'
+    stats=f'<div class="stats"><span><b>{len(files)}</b> pages</span><span><b>{len(entities)}</b> entities</span><span><b>{len(concepts)}</b> concepts</span><span><b>{len(daily)}</b> daily briefings</span></div>'
     if NEW_STORIES:
         nrows=''.join(f'<li class="row"><a class="row-title" href="summaries/{html.escape(x["id"],quote=True)}.html">{html.escape(x.get("title",""))}</a>{NEW_BADGE}<span class="row-meta">{html.escape(x.get("source",""))}</span></li>' for x in NEW_STORIES)
         newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{len(NEW_STORIES)} added in the latest pass</span></div><ul class="row-list">{nrows}</ul></section>'
     else:
         newsec=''
-    body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Latest Digests',daily,6)+section_list('Recently Updated',entities+concepts,8)+'</div><div>'+most+section_list('Explore Hubs',sorted((WIKI/'hubs').glob('*.md')),5)+'</div></div>'
+    body=stats+hero+newsec+'<div class="home-grid"><div>'+section_list('Daily',daily,6)+section_list('Recently Updated',entities+concepts,8)+'</div><div>'+most+section_list('Explore Hubs',sorted((WIKI/'hubs').glob('*.md')),5)+'</div></div>'
     (OUT/'index.html').write_text(shell('AI News Wiki',body,'',True))
     (OUT/'assets'/'search-index.json').write_text(json.dumps(docs,ensure_ascii=False))
     (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")

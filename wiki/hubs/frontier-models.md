@@ -1,9 +1,9 @@
 # Hub: Frontier models
 
-Launches, entities and lab comparisons.
+Launches and the labs behind them.
 
 ## Explore
 
-- [Openai Vs Anthropic](../comparisons/openai-vs-anthropic.md)
 - [Openai](../entities/openai.md)
 - [Anthropic](../entities/anthropic.md)
+- [Google](../entities/google.md)

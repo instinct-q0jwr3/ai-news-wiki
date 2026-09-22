@@ -319,7 +319,7 @@ def build_weekly(xs,stamp):
         hits=sorted(match(week,terms),key=lambda x:x.get('score',0),reverse=True)
         if hits: themes.append((len(hits),concept_slug,label,hits))
     themes.sort(reverse=True)
-    headline_labels=[label.replace('AI ','').replace(' and controls','').replace('External ','').replace('Small and specialist models','Small Models').replace('Agentic systems','Agentic Systems').replace('safety incidents','Safety Debates') for _,_,label,_ in themes[:3]]
+    headline_labels=[label.replace('AI ','').replace(' and controls','').replace('External ','').replace('Small and specialist models','Small Models').replace('Agentic systems','Agentic Systems').replace('safety incidents','Safety Debates').replace('AI policy, regulation and litigation','Policy and Litigation').replace('AI coding agents and the software pipeline','Coding Agents').replace('Compute and the data-center build-out','Compute Build-out').replace('Agentic commerce','Agentic Commerce').replace('AI, jobs and displacement','Jobs and Displacement') for _,_,label,_ in themes[:3]]
     headline=', '.join(headline_labels[:-1])+(' and '+headline_labels[-1] if len(headline_labels)>1 else (headline_labels[0] if headline_labels else 'AI Developments'))
     title=f'Week {slug}: {headline}'
     sections=[]
@@ -334,14 +334,14 @@ def build_weekly(xs,stamp):
     specialist=next((hits for _,slug_name,_,hits in themes if slug_name=='small-specialist-models'),[])
     tensions=[]
     if agents and safety: tensions.append('Faster agent deployment raises a control question: how much autonomy should systems receive before evaluation and observability catch up? ([Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))')
-    if specialist and agents: tensions.append('General-purpose capability competes with smaller specialist systems on cost, latency and auditability. ([Generalist vs specialist models](../comparisons/generalist-vs-specialist-models.md) · [Small and specialist models](../concepts/small-specialist-models.md))')
-    if match(week,['openai']) and match(week,['anthropic']): tensions.append('OpenAI and Anthropic continue to diverge and converge across products, enterprise positioning, evaluation and safety claims. ([OpenAI vs Anthropic](../comparisons/openai-vs-anthropic.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))')
+    if specialist and agents: tensions.append('General-purpose capability competes with smaller specialist systems on cost, latency and auditability. ([Small and specialist models](../concepts/small-specialist-models.md))')
+    if match(week,['openai']) and match(week,['anthropic']): tensions.append('OpenAI and Anthropic continue to diverge and converge across products, enterprise positioning, evaluation and safety claims. ([OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))')
     counts=Counter(x.get('source','?') for x in week)
     body=[f'# {title}','',metadata('synthesis',fmt_date(stamp),fmt_date(stamp),'medium',['synthesis',slug.lower()]),'',f'Synthesis of {len(week)} unique stories first observed in {slug}. Each inline story link opens a generated summary with its original source.','']+sections+['## Tensions and open debates','']+([f'- {x}' for x in tensions] or ['- The corpus is still too small to identify a grounded tension this week.'])+['','## Coverage appendix','']+[f'- {k}: {v}' for k,v in counts.most_common()]
     (WIKI/'weekly').mkdir(exist_ok=True); (WIKI/'weekly'/f'{slug}.md').write_text('\n'.join(body)+'\n')
 
 def build_hubs():
-    hubs={'agentic-ai':('Agentic AI','Entry point to systems that act, specialist models and observability.',['../concepts/agentic-systems.md','../concepts/small-specialist-models.md','../comparisons/generalist-vs-specialist-models.md']), 'safety-governance':('Safety and governance','Evaluation, incidents and controls in one route.',['../concepts/external-evaluation.md','../concepts/ai-safety-incidents.md']), 'frontier-models':('Frontier models','Launches, entities and lab comparisons.',['../comparisons/openai-vs-anthropic.md','../entities/openai.md','../entities/anthropic.md'])}
+    hubs={'agentic-ai':('Agentic AI','Entry point to systems that act, specialist models and observability.',['../concepts/agentic-systems.md','../concepts/small-specialist-models.md','../concepts/ai-coding-agents.md']), 'safety-governance':('Safety and governance','Evaluation, incidents and controls in one route.',['../concepts/external-evaluation.md','../concepts/ai-safety-incidents.md']), 'frontier-models':('Frontier models','Launches and the labs behind them.',['../entities/openai.md','../entities/anthropic.md','../entities/google.md'])}
     for _slug,_d in _load_overlay('hubs.json').items():
         if _slug not in hubs: hubs[_slug]=(_d['title'],_d['desc'],_d['links'])
     out=WIKI/'hubs'; out.mkdir(exist_ok=True)
@@ -354,7 +354,7 @@ def update_index(stamp,xs):
     summaries=sorted((WIKI/'summaries').glob('*.md'))
     date=dt.date.fromisoformat(fmt_date(stamp)); iso=date.isocalendar(); week=f'{iso.year}-W{iso.week:02d}'
     summary_target=summaries[0].name if summaries else ''
-    lines=['# AI News Wiki','','A cumulative, cross-linked map of AI news. Every story has its own summary and original source.','',f'_Updated: `{stamp}` · {len(xs)} unique stories._','','## Explore','', '- [Entities](entities/openai.md)','- [Concepts](concepts/agentic-systems.md)','- [Comparisons](comparisons/openai-vs-anthropic.md)',f'- [Story summaries](summaries/{summary_target})',f'- [Weekly synthesis](weekly/{week}.md)','- [Hubs](hubs/agentic-ai.md)','','## Daily digests','']+[f'- [{p.stem}](daily/{p.name})' for p in days]
+    lines=['# AI News Wiki','','A cumulative, cross-linked map of AI news. Every story has its own summary and original source.','',f'_Updated: `{stamp}` · {len(xs)} unique stories._','','## Explore','',f'- [Daily](daily/{days[0].name if days else "index.md"})',f'- [Weekly](weekly/{week}.md)',f'- [Stories](summaries/{summary_target})','- [Entities](entities/openai.md)','- [Hubs](hubs/agentic-ai.md)','- [Concepts](concepts/agentic-systems.md)','','## Daily briefings','']+[f'- [{p.stem}](daily/{p.name})' for p in days]
     (WIKI/'index.md').write_text('\n'.join(lines)+'\n')
 
 def strip_headline_repeat(desc,title):
@@ -383,20 +383,10 @@ def render_daily(day,items,generated):
             for para in d.get('prose',[]):
                 lines.extend([para,""])
         except Exception: pass
-    for source in ("Techmeme","Hacker News","Lobsters","Latent.Space","Stratechery","TLDR AI"):
-        si=[i for i in items if i.get('source')==source]
-        lines.extend([f"## {source}",""])
-        if not si:
-            lines.extend(["_No stories passed the AI filter._",""]); continue
-        for item in si:
-            badge=' {new}' if day==LATEST_DAY and item.get('id') in NEW_IDS else ''
-            lines.extend([f"### [{short_title(item)}](../summaries/{item['id']}.md){badge}","",
-                          trim_blurb(story_summary(item)),""])
-            meta=[]
-            if source=="Hacker News" and (item.get('score') or item.get('comments')):
-                meta.append(f"{item.get('score',0)} points, {item.get('comments',0)} comments")
-            meta.append(f"[Original source]({item['url']})")
-            lines.extend(["_"+" \u00b7 ".join(meta)+"_",""])
+    counts=Counter(i.get('source','?') for i in items)
+    lines.extend(["## Sources",""])
+    lines.extend([f"- {k}: {v} stories" for k,v in counts.most_common()])
+    lines.extend(["",f"_{sum(counts.values())} stories processed this day. Each briefing link opens the full story page; the complete list lives under Stories._",""])
     return "\n".join(lines).rstrip()+"\n"
 
 def build_daily():
@@ -439,6 +429,6 @@ def main():
     compute_new(); xs,stamp=load_stories()
     for x in xs:
         t=short_title(x); x['feed_title']=x.get('title',''); x['title']=t
-    enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_comparisons(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
+    enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()
