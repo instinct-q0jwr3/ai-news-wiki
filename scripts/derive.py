@@ -192,6 +192,30 @@ def compute_new():
     state={'generated_at':latest.get('generated_at',''),'stories':[{'id':x['id'],'title':short_title(x),'source':x.get('source',''),'url':x.get('url','')} for x in NEW_STORIES]}
     (WIKI/'new.json').write_text(json.dumps(state,ensure_ascii=False,indent=1))
 
+from urllib.parse import urlsplit,parse_qsl,urlencode
+def canon_url(u):
+    u=(u or '').strip()
+    if not u: return ''
+    u=u.split('#')[0]
+    try: parts=urlsplit(u)
+    except Exception: return u.lower().rstrip('/')
+    host=parts.netloc.lower()
+    if host.startswith('www.'): host=host[4:]
+    path=parts.path.rstrip('/') or '/'
+    q=''
+    if host=='news.ycombinator.com':
+        q=urlencode([(k,v) for k,v in parse_qsl(parts.query) if k=='id'])
+    return f'{host}{path}'+(f'?{q}' if q else '')
+
+def _ttoks(t):
+    return set(re.sub(r'[^a-z0-9 ]',' ',(t or '').lower()).split())
+
+def titles_alike(a,b):
+    ta,tb=_ttoks(a),_ttoks(b)
+    if not ta or not tb: return False
+    inter=len(ta&tb); small=min(len(ta),len(tb))
+    return inter/max(1,len(ta|tb))>=0.5 or (small>=2 and inter/small>=0.8)
+
 def load_stories():
     rows={}
     for p in sorted(RAW.glob('*.json')):
@@ -204,6 +228,22 @@ def load_stories():
                 old=rows[key]; old['last_seen']=max(old.get('last_seen',''),seen_at)
                 if len(esc(x.get('summary'))) > len(esc(old.get('summary'))): old['summary']=x['summary']
                 if x.get('score',0)>old.get('score',0): old['score']=x['score']; old['comments']=x.get('comments',0)
+    by_url={}
+    for key,x in rows.items():
+        cu=canon_url(x.get('url'))
+        if cu: by_url.setdefault(cu,[]).append(key)
+    for cu,keys in by_url.items():
+        if len(keys)<2: continue
+        keys.sort(key=lambda k:(rows[k].get('first_seen',''),k))
+        keep=rows[keys[0]]
+        for k in keys[1:]:
+            dup=rows[k]
+            if not titles_alike(keep.get('feed_title') or keep.get('title'), dup.get('feed_title') or dup.get('title')): continue
+            keep['last_seen']=max(keep.get('last_seen',''),dup.get('last_seen',''))
+            keep['first_seen']=min(keep.get('first_seen',''),dup.get('first_seen',''))
+            if len(esc(dup.get('summary')))>len(esc(keep.get('summary'))): keep['summary']=dup['summary']
+            if dup.get('score',0)>keep.get('score',0): keep['score']=dup['score']; keep['comments']=dup.get('comments',0)
+            del rows[k]
     xs=list(rows.values()); stamp=max((x.get('last_seen','') for x in xs),default='')
     return xs,stamp
 
