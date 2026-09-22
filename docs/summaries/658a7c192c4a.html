@@ -1,20 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Can gzip be a language model? · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790064117"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Can gzip be a language model?</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Can gzip be a language model? · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790068576"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Can gzip be a language model?</h1>
 <p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
 <p><code>hacker-news</code></p>
 <h2>Summary</h2>
-<p>A while back I wrote about language modeling without neural networks , where I generated Shakespeare with an unbounded n-gram model: no weights, no training, just counting.</p>
-<p>Fortuitously, I came across the paper Language Modeling is Compression , which mentioned the compression–prediction equivalence : every prediction model is inherently a compressor, and all compression algorithms are prediction models .</p>
-<p>This led to the natural question: can gzip do language modeling?</p>
+<p>Following his earlier Shakespeare-generating n-gram experiment, Nathan asks the natural follow-up from the paper 'Language Modeling is Compression': if every predictor is a compressor and every compressor a predictor, can gzip do language modeling? His tool, gzipt, primes DEFLATE's 32 KiB sliding window with a corpus, then continues a prompt by scoring candidate continuations - the smaller the compressed length, the more 'predicted' the candidate. Primed on tiny Shakespeare, the unedited output is not coherent, 'but it clearly knows something about the text. Much more than I expected gzip to know.'</p>
+<p>The mechanics are pure information theory: bits needed to encode a symbol equal -log2 of its modeled probability, so any compressor hides a probability model, and DEFLATE's back-references make corpus-like continuations compress to almost nothing. Scoring is one thing; the post goes on to generation, turning that scoring into actual text continuation. No neural network, no learned parameters - just the compressor that ships with the operating system.</p>
 <h2>Highlights</h2>
 <ul>
-<li>Just the compressor that ships with your operating system.</li>
-<li>You prime it with a corpus, give it a normal text prompt, and it continues that prompt by searching for the byte sequences that compress best.</li>
-<li>Here’s some real, unedited output after priming it on tiny Shakespeare: gzipt --corpus data/tinyshakespeare.txt --prompt $'MENENIUS:\n' --length 200 MENENIUS: 'Though all at once canq MARCIUS: Pray now, nocamest thou to a morsel .</li>
-<li>It’s not exactly coherent text, but it clearly knows something about the text.</li>
-<li>It spends few bytes on data it “expects” and many bytes on data it doesn’t.</li>
-<li>So any compressor has a probability model hiding inside it, whether or not anyone wrote one down. gzip uses DEFLATE , which compresses the next bytes by finding matches against the recent text in a 32 KiB sliding window.</li>
-<li>So: A continuation that gzip “expected”, because it echoes text already in its window, compresses to almost nothing.</li>
-<li>To prime the model, I include a corpus in gzip’s window.</li>
+<li>gzipt: language modeling with gzip - prime DEFLATE's 32 KiB window with a corpus, score continuations by compressed length.</li>
+<li>Grounding: the compression-prediction equivalence from the paper 'Language Modeling is Compression.'</li>
+<li>Core identity: encoding bits = -log2(probability), so every compressor contains an implicit probability model.</li>
+<li>DEFLATE trick: continuations echoing window text become cheap back-references instead of literal bytes.</li>
+<li>Primed on tiny Shakespeare, output is incoherent but 'clearly knows something about the text.'</li>
+<li>Follow-up to the author's unbounded n-gram Shakespeare generator; no weights, no training.</li>
+<li>Hacker News score 36.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://nathan.rs/posts/gzip-lm/">Read the original story</a></p>

@@ -1,0 +1,19 @@
+{
+ "id": "658a7c192c4a",
+ "prose": [
+  "Following his earlier Shakespeare-generating n-gram experiment, Nathan asks the natural follow-up from the paper 'Language Modeling is Compression': if every predictor is a compressor and every compressor a predictor, can gzip do language modeling? His tool, gzipt, primes DEFLATE's 32 KiB sliding window with a corpus, then continues a prompt by scoring candidate continuations - the smaller the compressed length, the more 'predicted' the candidate. Primed on tiny Shakespeare, the unedited output is not coherent, 'but it clearly knows something about the text. Much more than I expected gzip to know.'",
+  "The mechanics are pure information theory: bits needed to encode a symbol equal -log2 of its modeled probability, so any compressor hides a probability model, and DEFLATE's back-references make corpus-like continuations compress to almost nothing. Scoring is one thing; the post goes on to generation, turning that scoring into actual text continuation. No neural network, no learned parameters - just the compressor that ships with the operating system."
+ ],
+ "highlights": [
+  "gzipt: language modeling with gzip - prime DEFLATE's 32 KiB window with a corpus, score continuations by compressed length.",
+  "Grounding: the compression-prediction equivalence from the paper 'Language Modeling is Compression.'",
+  "Core identity: encoding bits = -log2(probability), so every compressor contains an implicit probability model.",
+  "DEFLATE trick: continuations echoing window text become cheap back-references instead of literal bytes.",
+  "Primed on tiny Shakespeare, output is incoherent but 'clearly knows something about the text.'",
+  "Follow-up to the author's unbounded n-gram Shakespeare generator; no weights, no training.",
+  "Hacker News score 36."
+ ],
+ "authored_at": "2026-09-22T09:16:02.489264+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
