@@ -1,0 +1,21 @@
+{
+ "id": "ba12d1e61843",
+ "prose": [
+  "Simon Willison's take on Jev, TypeSafe AI's 'System One model,' crystallizes what makes it unusual: it accepts text input but returns only floating-point numbers - categories, yes/no answers, ratings and confidence scores. TypeSafe pitches it as 'a frontier-intelligence function call: unstructured state in, typed probabilistic decisions out.' The economics are as notable as the shape: Jev charges only for input tokens - output is free - at $0.042 per million input tokens, undercutting even OpenAI's GPT-5 Nano at $0.05. Questions are evaluated in parallel, so one document with many questions costs about the same time as one.",
+  "Willison (who prefers Maggie Appleton's name 'decision models') sees the fit anywhere a task is really classification: spam detection, labeling, prioritization, and search reranking - fetch 100 BM25 candidates, let Jev score them. His discomfort is just as sharp: Jev is a regression further into black-box ML, since it can't even offer a rationalization for its scores, which puts bias concerns 'front and center' - his experiment scoring Bay Area cities as 'Good city?' ranked Cupertino top and East Palo Alto bottom. His mitigation: evals and structured experiments matter even more, and Jev is cheap enough that thousands of probes cost cents. He also notes the community's week-one explosion: open-weight clones like Kev (0.8B/4B/9B on Qwen 3.5) and an already-circulating 'JevBench' benchmark for decision models."
+ ],
+ "highlights": [
+  "Jev returns only floating-point decisions (categories, yes/no, ratings, confidence) - no text output.",
+  "TypeSafe framing: 'a frontier-intelligence function call: unstructured state in, typed probabilistic decisions out.'",
+  "Pricing: input-only billing at $0.042/M tokens, output free; undercuts GPT-5 Nano ($0.05/M).",
+  "Parallel question evaluation: many questions on one state cost about the same time as one.",
+  "Willison's best-fit uses: classification, spam detection, labeling, prioritization, BM25 search reranking.",
+  "Critique: a regression deeper into black-box ML - no rationalizations, so bias concerns are 'front and center.'",
+  "Bias probe: 'Good city?' scoring put Cupertino top and East Palo Alto bottom.",
+  "Community one week in: Kev open-weight clones (0.8B/4B/9B on Qwen 3.5) and a JevBench benchmark already circulating.",
+  "Posted September 21, 2026, on simonwillison.net; prefers the name 'decision models' (Maggie Appleton)."
+ ],
+ "authored_at": "2026-09-22T06:34:23.251341+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

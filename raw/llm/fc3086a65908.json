@@ -1,0 +1,18 @@
+{
+ "id": "fc3086a65908",
+ "prose": [
+  "Artificial Analysis' model page for Xiaomi's MiMo-V2.6-Pro places it among the leading open-weight models on intelligence at a reasonable price for its class. The model scores 46 on the Artificial Analysis Intelligence Index (v4.3.2), well above the comparable-model median of 18, supports text, image, speech and video input with text output, and offers a 1M-token context window.",
+  "Trade-offs: it is notably fast at 125 tokens per second (median 75) but somewhat verbose, generating 140M tokens across the Intelligence Index evaluations. Pricing is $0.43 per 1M input tokens (median $0.30) and $0.87 per 1M output (median $1.13); the full Intelligence Index run cost $206.66. The page covers the reasoning variant of the model and breaks results across agentic knowledge work, coding, physics reasoning, hallucination rate, long-context and more."
+ ],
+ "highlights": [
+  "MiMo-V2.6-Pro scores 46 on the Artificial Analysis Intelligence Index v4.3.2; comparable-model median is 18.",
+  "Open weights, released September 2026; reasoning variant benchmarked.",
+  "Multimodal input: text, image, speech and video; text output; 1M-token context window.",
+  "Speed: 125 tokens/second, well above the 75 median; verbosity on the high side (140M tokens across evals).",
+  "Pricing: $0.43 per 1M input tokens, $0.87 per 1M output; full index evaluation cost $206.66.",
+  "Index components include Terminal-Bench 4.0, SciCode, Humanity's Last Exam, GDPval-AA and AA-Omniscience."
+ ],
+ "authored_at": "2026-09-22T06:34:23.251341+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

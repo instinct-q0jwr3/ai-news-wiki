@@ -10,12 +10,12 @@ Methods used by third parties, standards groups and labs to measure model capabi
 
 ## Related entities
 
-[Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Google](../entities/google.md)
+[Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Google](../entities/google.md) · [Xiaomi](../entities/xiaomi.md)
 
 ## Timeline
 
 - **2026-09-22** - Copper-Rs v1.2 adds live telemetry for robots built on its deterministic Rust stack: a robot can now clone its full state in real time to a remote 'deterministic twin' over a lossy one-way link. The mechanism leans on forward error correction -… ([Copper-Rs: Live Telemetry Deterministic Twins for Robots](../summaries/19b3f9000d35.md) · [External AI evaluation](../concepts/external-evaluation.md))
-- **2026-09-22** - That puts Xiaomi's new flagship ahead of proprietary models including xAI's Grok 4.6, currently at 44, and Google's Gemini 3.8 Flash … ([MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model](../summaries/cba40109d163.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-09-22** - That puts Xiaomi's new flagship ahead of proprietary models including xAI's Grok 4.6, currently at 44, and Google's Gemini 3.8 Flash … ([MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model](../summaries/cba40109d163.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Xiaomi](../entities/xiaomi.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-22** - I love Excalidraw, I use it all the time for work to quickly draw up a proposal for a customer. ([Show HN: Vellum, the best diagram editor you'll ever use](../summaries/fb904ed7339c.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-21** - Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart. ([Bessent: US and China agree to set up an AI dialogue](../summaries/43450543b075.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-20** - Anthropic is partnering with Accenture, through its specialist AI business Faculty, on independent evaluation of frontier AI, a concrete step toward the commitment in CEO Dario Amodei's 'We Must Pace the Frontier' essay to embed evaluators inside the… ([Partnering with Accenture on Embedded Evaluation](../summaries/47464054b556.md) · [External AI evaluation](../concepts/external-evaluation.md))
