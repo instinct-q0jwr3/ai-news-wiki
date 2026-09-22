@@ -319,7 +319,7 @@ def build_weekly(xs,stamp):
         hits=sorted(match(week,terms),key=lambda x:x.get('score',0),reverse=True)
         if hits: themes.append((len(hits),concept_slug,label,hits))
     themes.sort(reverse=True)
-    headline_labels=[label.replace('AI ','').replace(' and controls','').replace('External ','').replace('Small and specialist models','Small Models').replace('Agentic systems','Agentic Systems').replace('safety incidents','Safety Debates').replace('AI policy, regulation and litigation','Policy and Litigation').replace('AI coding agents and the software pipeline','Coding Agents').replace('Compute and the data-center build-out','Compute Build-out').replace('Agentic commerce','Agentic Commerce').replace('AI, jobs and displacement','Jobs and Displacement') for _,_,label,_ in themes[:3]]
+    headline_labels=[label.replace('AI ','').replace(' and controls','').replace('External ','').replace('Small and specialist models','Small Models').replace('Agentic systems','Agentic Systems').replace('safety incidents','Safety Debates').replace('policy, regulation and litigation','Policy and Litigation').replace('coding agents and the software pipeline','Coding Agents').replace('Compute and the data-center build-out','Compute Build-out').replace('Agentic commerce','Agentic Commerce').replace(', jobs and displacement','Jobs and Displacement') for _,_,label,_ in themes[:3]]
     headline=', '.join(headline_labels[:-1])+(' and '+headline_labels[-1] if len(headline_labels)>1 else (headline_labels[0] if headline_labels else 'AI Developments'))
     title=f'Week {slug}: {headline}'
     sections=[]
