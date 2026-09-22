@@ -51,7 +51,7 @@ import html as _html, time, urllib.request
 CACHE=ROOT/'raw'/'cache'/'sources'
 FETCH_BUDGET_S=420; FETCH_DELAY_S=0.8; MAX_FETCHES=150; MAX_TEXT=60000
 UA={'User-Agent':'ai-news-wiki/1.0 (+https://instinct-q0jwr3.github.io/ai-news-wiki/)','Accept':'text/html,application/xhtml+xml'}
-SOURCES={}; RICH={}; NEW_IDS=set(); NEW_STORIES=[]; LATEST_DAY=''
+SOURCES={}; RICH={}; NEW_IDS=set(); NEW_STORIES=[]; LATEST_DAY=''; MERGED={}
 
 STOPWORDS=set('a an the and or but if then else when at by for with about into through during before after above below to from up down in out on off over under again further once here there all any both each few more most other some such no nor not only own same so than too very can will just should now is are was were be been being have has had having do does did doing would could ought i you he she it we they them his her its our their this that these those am of as'.split())
 JUNK=re.compile(r'cookie|subscribe|sign[ -]?up|newsletter|all rights reserved|advertisement|terms of service|privacy policy|follow us|share this|enable javascript|verify you are|listen to this post|watch on youtube|listen to podcast|views\s+\d+\s+replies|\d+\s+reposts?\b.{0,12}\blikes\b',re.I)
@@ -189,6 +189,12 @@ def compute_new():
         for x in json.loads(q.read_text()).get('items',[]):
             if x.get('id'): by_id[x['id']]=x
     NEW_STORIES=sorted((by_id[i] for i in NEW_IDS if i in by_id),key=lambda x:-x.get('score',0))
+    seen_keep=set(); remapped=[]
+    for x in NEW_STORIES:
+        kid=MERGED.get(x['id'],{}).get('to',x['id'])
+        if kid in seen_keep or kid not in by_id: continue
+        seen_keep.add(kid); remapped.append(by_id[kid])
+    NEW_STORIES=remapped
     state={'generated_at':latest.get('generated_at',''),'stories':[{'id':x['id'],'title':short_title(x),'source':x.get('source',''),'url':x.get('url','')} for x in NEW_STORIES]}
     (WIKI/'new.json').write_text(json.dumps(state,ensure_ascii=False,indent=1))
 
@@ -247,12 +253,15 @@ def load_stories():
         for k in keys[1:]:
             dup=rows[k]
             if not titles_alike(keep.get('feed_title') or keep.get('title'), dup.get('feed_title') or dup.get('title')) and not url_specific(cu): continue
+            if dup.get('id') and keep.get('id'): MERGED[dup['id']]={'to':keep['id'],'title':short_title(dup)}
             keep['last_seen']=max(keep.get('last_seen',''),dup.get('last_seen',''))
             keep['first_seen']=min(keep.get('first_seen',''),dup.get('first_seen',''))
             if len(esc(dup.get('summary')))>len(esc(keep.get('summary'))): keep['summary']=dup['summary']
             if dup.get('score',0)>keep.get('score',0): keep['score']=dup['score']; keep['comments']=dup.get('comments',0)
             del rows[k]
     xs=list(rows.values()); stamp=max((x.get('last_seen','') for x in xs),default='')
+    red=[{'from':k,'to':v['to'],'title':v['title']} for k,v in sorted(MERGED.items())]
+    (RAW.parent/'redirects.json').write_text(json.dumps(red,ensure_ascii=False,indent=1))
     return xs,stamp
 
 def story_summary(x):
@@ -490,7 +499,7 @@ def short_title(x):
     return t or (x.get('title') or '').strip()
 
 def main():
-    compute_new(); xs,stamp=load_stories()
+    xs,stamp=load_stories(); compute_new()
     for x in xs:
         t=short_title(x); x['feed_title']=x.get('title',''); x['title']=t
     enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)

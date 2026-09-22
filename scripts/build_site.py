@@ -183,6 +183,14 @@ def main():
         plain=re.sub(r'[#*_`\[\]()]',' ',text)
         if p.name=='log.md': continue
         docs.append({'title':title,'url':relpath.as_posix(),'text':re.sub(r'\s+',' ',plain)[:2400],'type':p.parent.name})
+    redir=ROOT/'raw'/'redirects.json'
+    if redir.exists():
+        for r in json.loads(redir.read_text()):
+            target=OUT/'summaries'/f"{r['to']}.html"
+            if not target.exists(): continue
+            dest=OUT/'summaries'/f"{r['from']}.html"
+            t=html.escape(r.get('title') or 'Story moved',quote=True)
+            dest.write_text(f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>{t}</title><meta http-equiv="refresh" content="0; url={r["to"]}.html"><link rel="canonical" href="{r["to"]}.html"></head><body style="font-family:sans-serif;background:#0e0e10;color:#ddd;padding:2em"><p>This story was merged with its canonical summary: <a style="color:#7ec8ff" href="{r["to"]}.html">{t}</a>.</p></body></html>')
     for folder,label in LABELS.items():
         d=WIKI/folder
         if not d.exists(): continue
