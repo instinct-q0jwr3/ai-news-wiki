@@ -88,9 +88,10 @@ def row_html(p,link,is_new=False,kind=None,state=False):
     else:
         meta=f"upd {m['updated']}" if m['updated'] else ''
     badge=NEW_BADGE if is_new else ''
+    lock=' \U0001F512' if p.parent.name=='summaries' and 'could not be fully accessed' in p.read_text() else ''
     return (f'<li class="row" data-tags="{html.escape(tags,quote=True)}">'
             f'<a class="row-title" href="{link}">{html.escape(title_of(p))}</a>{badge}{kindcell}'
-            f'<span class="row-tags">{chips}</span><span class="row-meta">{meta}</span></li>')
+            f'<span class="row-tags">{chips}</span><span class="row-meta">{meta}{lock}</span></li>')
 
 FILTER_JS='''<script>
 document.querySelectorAll('.filter-bar').forEach(function(bar){
@@ -244,7 +245,11 @@ def main():
     ts=last_pass()
     note=f'last pass {ts}' if ts else 'latest pass'
     if NEW_STORIES:
-        nrows=''.join(f'<li class="row"><a class="row-title" href="summaries/{html.escape(x["id"],quote=True)}.html">{html.escape(x.get("title",""))}</a>{NEW_BADGE}<span class="row-meta">{html.escape(x.get("source",""))}</span></li>' for x in NEW_STORIES)
+        def _nrow(x):
+            sf=WIKI/'summaries'/f'{x["id"]}.md'
+            lock=' \U0001F512' if sf.exists() and 'could not be fully accessed' in sf.read_text() else ''
+            return f'<li class="row"><a class="row-title" href="summaries/{html.escape(x["id"],quote=True)}.html">{html.escape(x.get("title",""))}</a>{NEW_BADGE}<span class="row-meta">{html.escape(x.get("source",""))}{lock}</span></li>'
+        nrows=''.join(_nrow(x) for x in NEW_STORIES)
         newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{note} \u00b7 {len(NEW_STORIES)} added</span></div><ul class="row-list">{nrows}</ul></section>'
     elif ts:
         newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{note} \u00b7 0 added</span></div><p class="meta">No new stories in the latest pass.</p></section>'

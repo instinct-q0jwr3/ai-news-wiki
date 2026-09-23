@@ -14,10 +14,22 @@
    "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7"
   },
   {
+   "id": "4eaf196b01fe",
+   "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/pro/cybersecurity/cyera-raises-400-million-from-goldman-in-extension-round-0643389c?st=YfcfGj&reflink=desktopwebshare_permalink"
+  },
+  {
    "id": "f29ad7754038",
    "title": "AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025",
    "source": "Techmeme",
    "url": "http://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/"
+  },
+  {
+   "id": "aed66f1ed130",
+   "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/"
   },
   {
    "id": "7ae0154c4306",
@@ -26,10 +38,10 @@
    "url": "https://www.reuters.com/legal/litigation/anthropic-openevidence-partner-bring-medical-ai-worldwide-2026-09-22/"
   },
   {
-   "id": "aed66f1ed130",
-   "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital",
-   "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/"
+   "id": "e35d02aab32b",
+   "title": "DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale",
+   "source": "Lobsters",
+   "url": "https://arxiv.org/abs/2609.22978"
   },
   {
    "id": "5c70f233b9ff",
@@ -44,22 +56,10 @@
    "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/"
   },
   {
-   "id": "4eaf196b01fe",
-   "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/pro/cybersecurity/cyera-raises-400-million-from-goldman-in-extension-round-0643389c?st=YfcfGj&reflink=desktopwebshare_permalink"
-  },
-  {
    "id": "6f154f0d0568",
    "title": "How to talk about \"AI\" without adding to the anthropomorphization",
    "source": "Lobsters",
    "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/"
-  },
-  {
-   "id": "e35d02aab32b",
-   "title": "DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale",
-   "source": "Lobsters",
-   "url": "https://arxiv.org/abs/2609.22978"
   }
  ]
 }

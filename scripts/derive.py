@@ -303,9 +303,13 @@ def event_line(x,base='..'):
     ents,concepts=related(x); links=[story_link(x,base)]+[entity_link(s,base) for s in ents]+[concept_link(s,base) for s in concepts]
     summary=story_summary(x)
     if len(summary)>260: summary=summary[:257].rsplit(' ',1)[0]+'…'
-    return f'- **{fmt_date(x.get("first_seen"))}** - {summary} ('+' · '.join(links)+')'
+    lock=' 🔒' if x.get('id') in PAYWALLED else ''
+    return f'- **{fmt_date(x.get("first_seen"))}** - {summary} ('+' · '.join(links)+')'+lock
+
+PAYWALLED=set()
 
 def build_summaries(xs,stamp):
+    PAYWALLED.clear()
     out=WIKI/'summaries'; out.mkdir(exist_ok=True)
     valid=set()
     for x in xs:
@@ -330,6 +334,7 @@ def build_summaries(xs,stamp):
         else: summary_sec=story_summary(x)
         if not llm and SOURCES.get(x['id'],{}).get('status') in ('thin','error'):
             summary_sec+='\n\n_Extractive summary: the original source could not be fully accessed._'
+            PAYWALLED.add(x['id'])
         text=f'# {x["title"]}\n\n{meta}\n\n## Summary\n\n{summary_sec}\n\n## Source\n\n{source}\n\n## Related pages\n\n'+((' · '.join(related_links)) if related_links else '_No related entity or concept page yet._')+'\n'
         (out/f'{x["id"]}.md').write_text(text)
     for p in out.glob('*.md'):
@@ -371,7 +376,8 @@ def prose_links(items,limit=4):
     for x in chosen:
         t=story_summary(x)
         if len(t)>280: t=t[:280].rsplit(' ',1)[0].rstrip(' ,;:')+'\u2026'
-        parts.append(f"{t} ([read more](../summaries/{x['id']}.md)).")
+        lock=' 🔒' if x.get('id') in PAYWALLED else ''
+        parts.append(f"{t} ([read more](../summaries/{x['id']}.md){lock}).")
     midpoint=max(1,(len(parts)+1)//2)
     return ' '.join(parts[:midpoint])+'\n\n'+' '.join(parts[midpoint:]) if len(parts)>1 else parts[0]
 
