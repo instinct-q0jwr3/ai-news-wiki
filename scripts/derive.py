@@ -377,9 +377,11 @@ def prose_links(items,limit=4):
 
 def build_weekly(xs,stamp):
     # Regenerate every week present in the corpus, so style fixes apply retroactively.
+    # Weeks follow the same first-observed Europe/Madrid days as the dailies.
+    first=first_observed_days()
     groups={}
     for x in xs:
-        try: iso=dt.date.fromisoformat(fmt_date(x.get('first_seen'))).isocalendar()
+        try: iso=dt.date.fromisoformat(first.get(x.get('id'),fmt_date(x.get('first_seen')))).isocalendar()
         except Exception: continue
         groups.setdefault((iso[0],iso[1]),[]).append(x)
     (WIKI/'weekly').mkdir(exist_ok=True)
@@ -484,12 +486,28 @@ def render_daily(day,items,generated):
     lines.extend(["",f"_{sum(counts.values())} stories processed this day. Each briefing link opens the full story page; the complete list lives under Stories._",""])
     return "\n".join(lines).rstrip()+"\n"
 
-def build_daily():
-    # A story belongs to exactly one daily: the Europe/Madrid day it was FIRST observed.
-    # Stories lingering in a feed for several days no longer reappear in later dailies.
+def first_observed_days():
+    # The Europe/Madrid day each story was FIRST observed. Stories lingering in a
+    # feed for several days do not reappear in later digests.
     from zoneinfo import ZoneInfo
     madrid=ZoneInfo('Europe/Madrid')
-    days={}; stamps={}; first={}
+    first={}
+    for p in sorted(RAW.glob('*.json')):
+        data=json.loads(p.read_text()); gen=data.get('generated_at','')
+        try:
+            day=dt.datetime.fromisoformat(gen.replace('Z','+00:00')).astimezone(madrid).date().isoformat()
+        except Exception:
+            day=gen[:10]
+        for raw in data.get('items',[]):
+            key=raw.get('id')
+            if key and key not in first: first[key]=day
+    return first
+
+def build_daily():
+    # A story belongs to exactly one daily: the Europe/Madrid day it was FIRST observed.
+    from zoneinfo import ZoneInfo
+    madrid=ZoneInfo('Europe/Madrid')
+    days={}; stamps={}; first=first_observed_days()
     for p in sorted(RAW.glob('*.json')):
         data=json.loads(p.read_text()); gen=data.get('generated_at','')
         try:
@@ -501,8 +519,7 @@ def build_daily():
         for raw in data.get('items',[]):
             x=dict(raw); key=x.get('id')
             if not key: continue
-            if key not in first: first[key]=day
-            if first[key]!=day: continue
+            if first.get(key)!=day: continue
             rows=days.setdefault(day,{})
             if key not in rows: rows[key]=x
             else:

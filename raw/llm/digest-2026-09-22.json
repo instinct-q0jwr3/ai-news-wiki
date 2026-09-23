@@ -1,10 +1,9 @@
 {
  "id": "digest-2026-09-22",
- "date": "2026-09-22",
- "schema": 2,
- "model": "agent-pass",
- "authored_at": "2026-09-22T21:49:04.015274+00:00",
  "lead": [
-  "Tuesday ended as release night: Anthropic unveiled [Claude Opus 5.5](../summaries/6e142cae15e5.md), its first model since publicly calling for pacing the frontier, and OpenAI answered with [GPT-6 Sol and Luna](../summaries/8375187ae71f.md) - while its Astra line was credited with [breaking a 1941 Enigma message](../summaries/f2f52074f70a.md) that had resisted cryptanalysts since 2005. The day's sharpest story stayed Meta's Muse: Patrick Wardle disclosed a [zero-day in the Muse macOS app](../summaries/16444d7e895b.md) that lets any local app steal the token authenticating a user's account, days after Sensor Tower counted [902K+ downloads in six days](../summaries/9249cb0b81d7.md) and Amazon [blocked Muse from shopping on amazon.com](../summaries/41d477801352.md). The accountability beat turned grimmer when the Pentagon said [overreliance on AI contributed to a missile strike on an Iran school](../summaries/0abe1054a0d1.md). Underneath, the Jev thread kept running - [OpenAI is well positioned to fast-follow](../summaries/ca5a92ed0988.md), with [JevBench](../summaries/0bd216136f9c.md) keeping score - Max Woolf showed agents can [write Rust faster than state-of-the-art](../summaries/6df4f2080d60.md), and the discourse stayed hot: a viral essay told readers to [fear AI companies, not AI](../summaries/d8d2c72cc3e1.md), and Zelda Williams told fans generating AI videos of her father to ['have some shame'](../summaries/40f72ef242d4.md)."
- ]
+  "Monday belonged to Meta's Muse, for better and worse: [a zero-day let any local app seize the user's Muse account token](../summaries/16444d7e895b.md) just as [Shopify moved to let Muse complete purchases through Shop Pay](../summaries/69da42e0e50b.md). [British Columbia sued OpenAI](../summaries/a076342fd0a7.md) for failing to flag the Tumbler Ridge suspect's ChatGPT activity to police. Alibaba dominated infrastructure with [a plan for a 5-10T parameter model](../summaries/e562c5be6182.md) and [the Zhenwu V900 accelerator](../summaries/d405036f6769.md), while [Xiaomi's MiMo-V2.6-Pro became the top-scoring open-weight model](../summaries/cba40109d163.md) on Artificial Analysis' Intelligence Index."
+ ],
+ "authored_at": "2026-09-23T08:30:25.231795+00:00",
+ "model": "agent-pass",
+ "schema": 2
 }
