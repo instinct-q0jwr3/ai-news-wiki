@@ -1,0 +1,17 @@
+{
+ "id": "63ef1645c0b2",
+ "prose": [
+  "Testing Catalog reports that Anthropic appears to be quietly A/B testing Claude Fable 5.2 in the wild, weeks after launching Fable 5.1: users on X shared outputs from standard prompts that seemed far more advanced than typical Claude results, including a ship-shooter game with a video demo produced 'one shot' in pure JS. Anthropic has not commented.",
+  "The report also says Anthropic is testing Opus 5.5 ahead of release. Users sharing the alleged outputs noted the model added unprompted polish - in one clip, every animated animal got its own customized snack."
+ ],
+ "highlights": [
+  "Apparent Claude Fable 5.2 outputs shared on X, weeks after Fable 5.1",
+  "Standard prompts producing unusually advanced results, per users",
+  "Example: ship-shooter game plus video demo, 'one shot', pure JS",
+  "Anthropic has not commented on the potential A/B test",
+  "Opus 5.5 also reportedly in testing ahead of release"
+ ],
+ "authored_at": "2026-09-23T03:48:50.283227+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

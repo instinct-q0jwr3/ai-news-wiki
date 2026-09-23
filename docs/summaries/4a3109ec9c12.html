@@ -1,20 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790113764"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement</h1>
-<p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high</p>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790135343"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement</h1>
+<p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-23 · confidence: high</p>
 <p><code>tldr-ai</code> <code>xiaomi</code></p>
 <h2>Summary</h2>
-<p>Reinforcement learning (RL) is the central training paradigm for advancing large foundation models towards self-improvement.</p>
-<p>This report introduces the MiMo-V2.6 series, an omni-modal family that pushes the frontier of model intelligence by scaling RL compute.</p>
-<p>Prior to RL, we conduct mid-training on a broad multimodal corpus to provide ample exploration space, and build a solid infrastructure on the pretrained hybrid-SWA architecture to support subsequent scale-up.</p>
+<p>Xiaomi's MiMo-V2.6 report presents an omni-modal model family pushed forward by scaling reinforcement-learning compute: mid-training on a broad multimodal corpus first, then RL scaled along three dimensions - larger batches and throughput (1,568 samples and 2.7-3.7B tokens per step at up to 1M context, asynchronously), more diverse environments (code, general, visual, cyber) under a mixture of agent harnesses, and more grader compute via groupwise agentic grading that rewards shorter, token-efficient solutions on long-horizon tasks.</p>
+<p>To keep training stable at scale, the team freezes the MoE router and builds a multi-layer defense against reward hacking, plus infrastructure for mixed-task agentic RL including a unified trajectory representation and high-concurrency multi-frame rollouts.</p>
 <h2>Highlights</h2>
 <ul>
-<li>To keep training stable at scale, we freeze the MoE router and establish a multi-layer defense against reward hacking.</li>
-<li>We further build infrastructure for mixed-task agentic RL, including a unified trajectory representation, high-concurrency multi-framework rollout, decoupled control and data planes, and training inference consistency.</li>
-<li>We open-source the training dynamics, RL environments, and RL framework to facilitate reproduction and further research on scaled RL and model self-improvement.</li>
-<li>The authors of MiMo-V2.6 argue that this is not a quirk of one task type but a fundamental limit on how useful reinforcement learning can become for agents.</li>
-<li>Their answer is to compare sibling attempts within each training batch, shift the learning signal toward the cleaner passing solution, and run this graded feedback across coding, professional workflows, visual design, and cybersecurity…</li>
-<li>Across all four domains, both model sizes improved steadily as reinforcement learning training progressed.</li>
-<li>MiMo-V2.6 processes 1,568 prompts per training step, generates 16 attempts per prompt, and accumulates 2.7–3.7B training tokens each step [p 8 ] —roughly the text equivalent of several thousand academic papers flowing through a single…</li>
-<li>After each training step, the model generates sixteen attempts at the same task.</li>
+<li>MiMo-V2.6: omni-modal family advancing via scaled RL compute</li>
+<li>Mid-training on broad multimodal corpus precedes RL</li>
+<li>1,568 samples, 2.7-3.7B tokens per step at up to 1M context, asynchronous</li>
+<li>Environments span code, general, visual and cyber domains</li>
+<li>Groupwise agentic grading rewards shorter, token-efficient solutions</li>
+<li>MoE router frozen; multi-layer reward-hacking defense</li>
+<li>Unified trajectory representation for mixed-task agentic RL</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://www.alphaxiv.org/abs/2609.mimo-scaling-reinforcement-learning">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-22">TLDR AI issue</a></p>

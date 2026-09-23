@@ -1,6 +1,6 @@
 # Concept: Agentic commerce
 
-_type: concept · created: 2026-09-21 · updated: 2026-09-22 · confidence: medium_
+_type: concept · created: 2026-09-21 · updated: 2026-09-23 · confidence: medium_
 
 `concept` `agentic-commerce`
 

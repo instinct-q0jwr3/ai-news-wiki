@@ -1,0 +1,17 @@
+{
+ "id": "bfdc062eb22b",
+ "prose": [
+  "Devin added Devin Cloud to its CLI: `devin --cloud` or `/cloud` creates, steers, resumes and watches cloud sessions from the terminal, and `/handoff` transfers any local task to Devin's cloud VM while keeping terminal-based steering - the laptop can be closed while Devin continues in the background.",
+  "Cloud sessions outlive the terminal that started them. `/open web` and `/open desktop` move the current session to the web app or Devin Desktop for watching or reviewing recordings, and `devin --cloud --resume` reattaches any cloud session in the terminal."
+ ],
+ "highlights": [
+  "Create, steer, resume and watch Devin Cloud sessions from the terminal",
+  "/handoff transfers a local task to Devin's cloud VM",
+  "Steering stays in the terminal; laptop can be closed mid-task",
+  "Sessions outlive the terminal; /open web|desktop for watching and recordings",
+  "devin --cloud --resume reattaches any cloud session"
+ ],
+ "authored_at": "2026-09-23T03:48:50.283227+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

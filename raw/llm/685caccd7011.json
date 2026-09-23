@@ -1,0 +1,18 @@
+{
+ "id": "685caccd7011",
+ "prose": [
+  "Kev (from Jared Palmer) is a family of small, Jev-like decision models built on Qwen3.5, based on the architecture described in 'Jev's Architecture Unmasked'. Pretrained weights are available or users can train their own, and the API matches TypeSafe's System One, so TypeSafe's Python SDK can be pointed at a local server.",
+  "The repo supports Python 3.12/3.13 with uv; `kev.serve --run jaredpalmer/kev-4b` starts Kev-4B locally in bf16 (with an fp32 exact path matching the evaluations). Models are also available as Hub revisions such as jaredpalmer/kev-4b@qwen3 for the previous generation."
+ ],
+ "highlights": [
+  "Small decision models built on Qwen3.5, trainable and self-runnable",
+  "Based on the architecture from 'Jev's Architecture Unmasked'",
+  "API matches TypeSafe's System One - their SDK works against a local server",
+  "Pretrained weights available, or train your own",
+  "Kev-4B runs locally in bf16; fp32 path matches published evaluations",
+  "Requires Python 3.12/3.13 and uv; torch lacks 3.14 wheels"
+ ],
+ "authored_at": "2026-09-23T03:48:50.283227+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

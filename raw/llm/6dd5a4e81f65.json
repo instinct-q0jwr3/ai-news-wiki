@@ -1,0 +1,17 @@
+{
+ "id": "6dd5a4e81f65",
+ "prose": [
+  "Tom Tunguz argues that AI is coming for the if statement: machine-native models like Jev and SemIf replace human-facing text generation with zero-token typed execution for basic programming primitives, answering rule-and-exception questions in hundreds of milliseconds at a 99% cost reduction versus traditional AI. Coding, in his framing, has always been encoding rules and exceptions into software; pre-AI programs were rigid, and AI handles the exceptions.",
+  "His point is that the world's most brilliant model is unnecessary for 'if-plantain-then-produce' logic. The newest wave of models acts as a robust if-then decider, simplifying existing models by running the attention machinery only where judgment is actually needed."
+ ],
+ "highlights": [
+  "Machine-native models replace text generation with zero-token typed execution",
+  "Jev and SemIf answer rule questions in hundreds of milliseconds",
+  "~99% cost reduction vs traditional AI for basic primitives",
+  "Coding = encoding rules and exceptions; AI handles the exceptions",
+  "Argument: you don't need the most brilliant model for if-then logic"
+ ],
+ "authored_at": "2026-09-23T03:48:50.283227+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

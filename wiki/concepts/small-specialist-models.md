@@ -1,6 +1,6 @@
 # Concept: Small and specialist models
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
 
 `concept` `small-specialist-models`
 
@@ -10,10 +10,11 @@ Narrow or compact models trade breadth for lower cost, latency, privacy or local
 
 ## Related entities
 
-[NVIDIA](../entities/nvidia.md) · [TypeSafe](../entities/typesafe.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Google](../entities/google.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)
+[Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md) · [TypeSafe](../entities/typesafe.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Google](../entities/google.md) · [OpenAI](../entities/openai.md)
 
 ## Timeline
 
+- **2026-09-23** - Artificial intelligence startup Anthropic and medical knowledge platform OpenEvidence are collaborating to bring AI-powered … ([Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries](../summaries/7ae0154c4306.md) · [Anthropic](../entities/anthropic.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-22** - InstinctFlash is an open-source high-performance serving framework for robotics models, claiming up to 33.78x speedup with no observed loss in task performance in real-robot tests. Its benchmarks measure prediction p50 latency on Jetson Thor (September 15,… ([Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models](../summaries/66ae865969a2.md) · [NVIDIA](../entities/nvidia.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-22** - During the Cold War, the Soviet Union's smallest republic was an electronics and tech center for the Communist superpower. ([US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia](../summaries/4aaba5feca90.md) · [NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Latent Space interviews Diogo Almeida - coauthor of the InstructGPT paper and now CEO of TypeSafe AI - about Jev, a model family built for software rather than chat, whose launch video was viewed roughly 40 million times (for comparison, the episode cites… ([Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI](../summaries/5e34a38be50a.md) · [TypeSafe](../entities/typesafe.md) · [Small and specialist models](../concepts/small-specialist-models.md))

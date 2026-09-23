@@ -1,6 +1,6 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
 
 `entity` `xai` `agentic-systems` `external-evaluation` `small-specialist-models`
 
@@ -10,7 +10,8 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
-- **2026-09-22** - Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads. ([Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads](../summaries/1e8aac8e1925.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-23** - At the beginning of last year, Ali Ansari's company, Micro1, was a recruiting business with $7 million in ARR. It's now generating over $500 million in ARR and two xAI cofounders invested its latest round. ([AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025](../summaries/f29ad7754038.md) · [SpaceXAI (xAI)](../entities/xai.md))
+- **2026-09-22** - Meta's Muse personal AI agent overtook ChatGPT as the leading free iOS app in the U.S. on Friday, less than two weeks after launch, CNBC reports. Sensor Tower counted 730,000 downloads in about five days after its September 8 debut and over 2.5 million… ([Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads](../summaries/1e8aac8e1925.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - That puts Xiaomi's new flagship ahead of proprietary models including xAI's Grok 4.6, currently at 44, and Google's Gemini 3.8 Flash … ([MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model](../summaries/cba40109d163.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Xiaomi](../entities/xiaomi.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-21** - xAI released Grok 4.7, positioned as its most capable model for coding and knowledge work, at $2 per million input tokens and $6 per million output - the same price and higher speed positioning as Grok 4.6. The release claims a new, larger base model… ([SpaceXAI releases Grok 4.7 at $2/1M input, $6/1M output tokens](../summaries/afb2c5a9bc8b.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-21** - SpaceXAI released Grok Voice Transcribe 2.0, a speech-to-text model it claims is twice as accurate as version 1.0 at the same price. It is built on the audio foundation model behind Grok Voice, which the company says already powers tens of thousands of… ([Introducing Grok Voice Transcribe 2.0](../summaries/b2854e08b7e8.md) · [SpaceXAI (xAI)](../entities/xai.md))

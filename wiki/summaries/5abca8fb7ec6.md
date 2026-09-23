@@ -1,6 +1,6 @@
 # Internal data: Meta's Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-09-22 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-09-23 · confidence: high_
 
 `techmeme` `meta` `agentic-systems`
 

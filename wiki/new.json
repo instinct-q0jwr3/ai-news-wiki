@@ -1,53 +1,65 @@
 {
- "generated_at": "2026-09-22T21:46:43+00:00",
+ "generated_at": "2026-09-23T03:47:34+00:00",
  "stories": [
   {
-   "id": "0abe1054a0d1",
-   "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-   "source": "Hacker News",
-   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+   "id": "e21991ab0a3f",
+   "title": "Google wants to give your family its own cloud computer",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups"
   },
   {
-   "id": "aee2993c8b3e",
-   "title": "LLM Ass Bench",
-   "source": "Hacker News",
-   "url": "https://www.assbench.com/"
-  },
-  {
-   "id": "58c5f6f91425",
-   "title": "Ask HN: When is fine-tuning a small LLM worth it?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49807413"
-  },
-  {
-   "id": "e90a122e3464",
-   "title": "GPT-6 Sol (Max) Intelligence, Performance and Price Analysis",
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/models/gpt-6-sol"
-  },
-  {
-   "id": "ffe9332a04f8",
-   "title": "OpenAI: 'fully autonomous RSI is not happening today'",
+   "id": "6ea4ee649c95",
+   "title": "multiple staff at the UK's AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout",
    "source": "Techmeme",
-   "url": "https://openai.com/index/building-standards-next-phase-ai/"
+   "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7"
   },
   {
-   "id": "ce513ce75380",
-   "title": "Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money",
-   "source": "Hacker News",
-   "url": "https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/"
-  },
-  {
-   "id": "655c95b73263",
-   "title": "Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor",
+   "id": "7ae0154c4306",
+   "title": "Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries",
    "source": "Techmeme",
-   "url": "https://www.semafor.com/article/09/22/2026/bessent-eyed-for-trumps-ai-czar"
+   "url": "https://www.reuters.com/legal/litigation/anthropic-openevidence-partner-bring-medical-ai-worldwide-2026-09-22/"
   },
   {
-   "id": "c6e9612c0a29",
-   "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/john-platt"
+   "id": "f29ad7754038",
+   "title": "AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025",
+   "source": "Techmeme",
+   "url": "http://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/"
+  },
+  {
+   "id": "4eaf196b01fe",
+   "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/pro/cybersecurity/cyera-raises-400-million-from-goldman-in-extension-round-0643389c?st=YfcfGj&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "4c7cb941cc78",
+   "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/"
+  },
+  {
+   "id": "aed66f1ed130",
+   "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/"
+  },
+  {
+   "id": "e35d02aab32b",
+   "title": "DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale",
+   "source": "Lobsters",
+   "url": "https://arxiv.org/abs/2609.22978"
+  },
+  {
+   "id": "6f154f0d0568",
+   "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+   "source": "Lobsters",
+   "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/"
+  },
+  {
+   "id": "5c70f233b9ff",
+   "title": "Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-23/alibaba-to-add-data-centers-in-europe-middle-east-in-ai-push"
   }
  ]
 }

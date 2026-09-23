@@ -1,0 +1,18 @@
+{
+ "id": "21547c42c153",
+ "prose": [
+  "AWS released the Strands harness, a ready-to-run agent that can search the web, run commands, edit files, remember prior work, and hand off tasks to helper agents - everything except the intelligence, which developers supply from Amazon Bedrock, Anthropic, OpenAI, Google, or a local Ollama model. It extends the open-source Strands Agents SDK launched in May 2025.",
+  "AWS claims the harness costs 26% less using the same model across seven benchmarks, is more token-efficient, and performs better than Claude Code and Codex; in one evaluation with Fable 5 it reportedly cost 77% less."
+ ],
+ "highlights": [
+  "Strands harness: ready-to-run agent shell, BYO model",
+  "Searches web, runs commands, edits files, remembers, delegates to helper agents",
+  "Supports Bedrock, Anthropic, OpenAI, Google and local Ollama models",
+  "Extends open-source Strands Agents SDK (May 2025)",
+  "AWS claims 26% lower cost than same-model baselines across 7 benchmarks",
+  "77% cheaper than rivals in one Fable 5 evaluation, per AWS"
+ ],
+ "authored_at": "2026-09-23T03:48:50.283227+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

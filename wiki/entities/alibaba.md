@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
 
 `entity` `alibaba` `agentic-systems` `compute-buildout` `labor-displacement` `small-specialist-models`
 
@@ -10,7 +10,8 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
-- **2026-09-22** - Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032. ([Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032](../summaries/125c3bc51b4f.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-23** - Alibaba Group Holding Ltd. is accelerating its data center expansion in Europe and the Middle East, propelling … ([Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions](../summaries/5c70f233b9ff.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-22** - Alibaba outlined the Zhenwu V900, an accelerator it calls China's most powerful AI chip, built by its T-Head division to compete with Nvidia. CEO Eddie Wu said it triples the performance of its predecessor and can be combined in clusters of up to 500,000… ([Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032](../summaries/125c3bc51b4f.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Scalable and Verifiable Environments for Hybrid Computer-Use Agents Website · Report · Hugging Face · ModelScope Results · Quickstart · Citation RecreationWorld is a five-platform framework for studying and improving hybrid computer-use… ([Qwen's RecreationWorld Trains Agents to Rebuild Apps](../summaries/aa7fe1b874f6.md) · [Alibaba](../entities/alibaba.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - Alibaba Group (9988.HK) said on Tuesday it was developing an AI model up to four times larger than the company's flagship model … ([Alibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers](../summaries/e562c5be6182.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Alibaba Group Holding Ltd. is rolling out what it calls China's most powerful AI chip, an accelerator to compete with Nvidia Corp … ([Alibaba's T-Head unveils the Zhenwu V900 AI accelerator, which it says triples its predecessor's performance and can scale to clusters of up to 500,000 units](../summaries/d405036f6769.md) · [Alibaba](../entities/alibaba.md) · [NVIDIA](../entities/nvidia.md))

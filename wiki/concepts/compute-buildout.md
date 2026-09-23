@@ -1,6 +1,6 @@
 # Concept: Compute and the data-center build-out
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-22 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
 
 `concept` `compute-buildout`
 
@@ -14,7 +14,9 @@ The race for compute links chip supply, energy, financing and geopolitics. This 
 
 ## Timeline
 
-- **2026-09-22** - Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032. ([Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032](../summaries/125c3bc51b4f.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-23** - Comments arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. ([DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale](../summaries/e35d02aab32b.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-23** - Alibaba Group Holding Ltd. is accelerating its data center expansion in Europe and the Middle East, propelling … ([Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions](../summaries/5c70f233b9ff.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-22** - Alibaba outlined the Zhenwu V900, an accelerator it calls China's most powerful AI chip, built by its T-Head division to compete with Nvidia. CEO Eddie Wu said it triples the performance of its predecessor and can be combined in clusters of up to 500,000… ([Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032](../summaries/125c3bc51b4f.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Venture-capital firm Andreessen Horowitz spending $35 million to back two-year academy, with other Bay Area tech giants on board. ([a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute](../summaries/d7891b6544bb.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Cognex, the Nasdaq-listed machine vision company, is acquiring RealSense, the robotics and 3D computer vision company spun out of Intel just 14 months ago, in a deal valued at approximately $600 million. The acquisition turns what was once an uncertain… ([Cognex acquires Intel spinout RealSense for ~$600M](../summaries/9397c2d80daf.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Cloud startup Verda has raised $189 million in fresh financing, underscoring continued investor appetite for the infrastructure powering the artificial intelligence boom. ([Finnish neocloud startup Verda raised $189M led by Emergence at a $1B+ valuation and aims to raise up to $1.5B in equity and debt in 2026 and up to $10B in 2027](../summaries/972bad579a1b.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

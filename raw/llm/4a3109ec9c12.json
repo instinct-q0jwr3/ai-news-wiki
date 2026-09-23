@@ -1,0 +1,19 @@
+{
+ "id": "4a3109ec9c12",
+ "prose": [
+  "Xiaomi's MiMo-V2.6 report presents an omni-modal model family pushed forward by scaling reinforcement-learning compute: mid-training on a broad multimodal corpus first, then RL scaled along three dimensions - larger batches and throughput (1,568 samples and 2.7-3.7B tokens per step at up to 1M context, asynchronously), more diverse environments (code, general, visual, cyber) under a mixture of agent harnesses, and more grader compute via groupwise agentic grading that rewards shorter, token-efficient solutions on long-horizon tasks.",
+  "To keep training stable at scale, the team freezes the MoE router and builds a multi-layer defense against reward hacking, plus infrastructure for mixed-task agentic RL including a unified trajectory representation and high-concurrency multi-frame rollouts."
+ ],
+ "highlights": [
+  "MiMo-V2.6: omni-modal family advancing via scaled RL compute",
+  "Mid-training on broad multimodal corpus precedes RL",
+  "1,568 samples, 2.7-3.7B tokens per step at up to 1M context, asynchronous",
+  "Environments span code, general, visual and cyber domains",
+  "Groupwise agentic grading rewards shorter, token-efficient solutions",
+  "MoE router frozen; multi-layer reward-hacking defense",
+  "Unified trajectory representation for mixed-task agentic RL"
+ ],
+ "authored_at": "2026-09-23T03:48:50.283227+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

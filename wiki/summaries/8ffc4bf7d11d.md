@@ -1,6 +1,6 @@
 # Show HN: I wrote a custom assembler for CHIP-8 in C++
 
-_type: news-summary · created: 2026-09-19 · updated: 2026-09-22 · confidence: high_
+_type: news-summary · created: 2026-09-19 · updated: 2026-09-23 · confidence: high_
 
 `hacker-news` `small-specialist-models`
 
