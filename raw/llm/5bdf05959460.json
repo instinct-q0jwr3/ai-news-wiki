@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "Basecamp Research, a London-based AI life sciences startup founded in 2019, raised a $140M Series C led by S32, the California venture firm founded by Bill Maris. Nvidia's NVentures returned and Anthropic's Anthology Fund (a partnership with Menlo Ventures) joined as a new investor, alongside Catalio, the NATO Innovation Fund, Rockefeller, European Tech Collective and the UK government's Sovereign AI Fund; the round takes total funding to $225M.",
+    "Basecamp applies its Eden biological foundation models - trained on what it calls the world's largest proprietary genomic dataset - to in vivo cell therapy, reprogramming a patient's cells inside the body. It argues current cell therapies are limited by complexity and by manufacturing costs of hundreds of thousands of dollars per patient, and says the raise follows strong preclinical results across multiple disease areas. The funds will train a new generation of models and advance its AI-designed therapeutics pipeline aimed at cancer and autoimmune disease."
+  ],
+  "highlights": [
+    "$140M Series C led by S32; total funding now $225M.",
+    "New investors include Anthropic's Anthology Fund, the NATO Innovation Fund and the UK Sovereign AI Fund; NVentures returned.",
+    "Eden foundation models trained on a proprietary genomic dataset the company calls the world's largest.",
+    "Focus on in vivo cell therapy: designing long, complex DNA sequences paired with precise delivery enzymes.",
+    "Claims strong preclinical results across multiple disease areas, including cancer and autoimmune disease."
+  ],
+  "id": "5bdf05959460",
+  "authored_at": "2026-09-23T19:16:52.817012+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

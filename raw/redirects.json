@@ -1,5 +1,10 @@
 [
  {
+  "from": "03ed461abfa9",
+  "to": "ee6ebd402552",
+  "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]"
+ },
+ {
   "from": "07975f32cf7b",
   "to": "90d894d096f2",
   "title": "AX – Google’s Open Agentic Orchestrator"
@@ -15,9 +20,19 @@
   "title": "Building standards for the next phase of AI"
  },
  {
+  "from": "2d25e53b9ec0",
+  "to": "3700415b22e6",
+  "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence"
+ },
+ {
   "from": "528db2efa3dc",
   "to": "04f6c99ae8d4",
   "title": "Belgium-based AI recruitment startup Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, taking its total funding to $24M"
+ },
+ {
+  "from": "5fd10480f430",
+  "to": "13123bf3c886",
+  "title": "Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages"
  },
  {
   "from": "8174511c11f9",

@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What a task costs on Opus 5.5 · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790191170"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>What a task costs on Opus 5.5</h1>
+<p class="meta">type: news-summary · created: 2026-09-23 · updated: 2026-09-23 · confidence: high</p>
+<p><code>tldr-ai</code></p>
+<h2>Summary</h2>
+<p>Anthropic's pricing explainer argues you don't buy tokens, you buy finished tasks - and two models with the same per-token price can cost very different amounts on the same task because one may need more turns, with each turn resending the conversation so far. Opus 5.5 costs less per token than Opus 5, but the real question is what a task costs end to end.</p>
+<p>The post breaks a Claude Code task into its cost drivers - turns, cache reads (billed at a fraction of input price), output tokens - and warns upfront that every way to spend fewer tokens can also cost you a finished task: lower effort, a smaller model or less context can all save tokens, but a retry costs more than the savings. Figures mix list prices with interactive illustrations.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Frames cost per task, not cost per token, as the number that matters.</li>
+<li>Each agent turn resends the conversation, so turn count dominates cost.</li>
+<li>Cache reads bill at a small fraction of input price and are the main offset.</li>
+<li>Tradeoff warning: cheaper settings save tokens but retries can cost more than the savings.</li>
+<li>Opus 5.5 is cheaper per token than Opus 5; task-level math decides the real bill.</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://claude.com/blog/what-a-task-costs-on-opus-5-5">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-23">TLDR AI issue</a></p>
+<h2>Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

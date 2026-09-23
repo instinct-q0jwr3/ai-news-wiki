@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-23 · updated: 2026-09-23 · confidence:
 
 ## Summary
 
-25% off tickets now Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m.
+Ema, a startup building 'AI employees' - systems that coordinate multiple AI agents to carry out multi-step business processes across HR, IT and finance - raised $77M in a Series B led by Bengaluru-based Creaegis, with existing investors Accel, Section 32 and Prosus increasing their stakes. The all-primary-equity round takes total funding to $140M and more than quadruples the 2024 valuation (undisclosed).
 
-Ema , a startup that uses teams of AI agents to automate corporate processes across HR, IT, and finance, has raised $77 million in a new funding round as it aims to take on more of the work traditionally handled by enterprise software…
-
-The financing brings the startup’s total funding to $140 million and more than quadruples its valuation from its last funding round in 2024. (Ema declined to disclose its latest valuation.) The round consisted entirely of primary…
+Founded in 2023 by former Google and Coinbase executive Surojit Chatterjee and ex-Okta executive Souvik Sen, Ema first 'wraps' around an enterprise's existing applications before customers reduce dependence on some of them - in some cases replacing traditional SaaS. Chatterjee frames the market as AI beginning to compete for the dollars businesses have historically spent on enterprise software and IT services, a pool startups, AI labs and incumbents are all now fighting to capture.
 
 ## Highlights
 
-- The Series B round was led by Bengaluru-based venture firm Creaegis, with existing investors Accel, Section 32, and Prosus increasing their stakes.
-- The funding comes as AI is beginning to compete for dollars that businesses have traditionally spent on enterprise software and IT services.
-- Startups, major AI labs, and established software companies are now fighting to capture that spending.
-- Founded in 2023 by former Google and Coinbase executive Surojit Chatterjee and ex-Okta executive Souvik Sen, Ema is looking to expand its position in that market.
-- The startup deploys its technology, which it calls “AI employees” — systems that coordinate multiple AI agents.
-- These help carry out multi-step business processes across a company’s existing applications, rather than handling a single task at a time.
-- Chatterjee sees that model eventually reducing companies’ reliance on traditional software products, including those sold as software-as-a-service (SaaS).
-- He told TechCrunch that Ema’s software can draw on more than 150 models, including frontier and open-source models, while the startup focuses on the domain knowledge, integrations, and orchestration needed to automate business processes…
+- $77M Series B led by Creaegis; Accel, Section 32 and Prosus increased stakes.
+- Total funding reaches $140M; valuation more than quadrupled since 2024 (undisclosed).
+- 'AI employees' coordinate multiple agents across a company's existing applications.
+- Founded 2023 by ex-Google/Coinbase and ex-Okta executives.
+- Strategy: wrap existing enterprise apps first, then displace some SaaS over time.
 
 ## Source
 

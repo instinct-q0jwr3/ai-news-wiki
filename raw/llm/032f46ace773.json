@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "At its Made on YouTube event, YouTube unveiled Custom Feeds, an LLM-powered feature that lets users type a natural-language request - 'I want a rainy Shanghai vibe: cafe jazz, street food, and vlogs' - and get a freshly personalized homepage. It is a rare chance to directly steer YouTube's recommendation algorithm beyond thumbs-up and blocking.",
+    "YouTube tested Custom Feeds as an experiment earlier this year and plans to roll it out to all US users on mobile, desktop and TV. VP of product management Emily Moxley framed it as answering constant user demand for more control: 'They want more ability to steer their algorithm... They can tell us exactly what they want.' A hands-on test with a three-part request produced exactly the requested blend."
+  ],
+  "highlights": [
+    "Custom Feeds lets users steer the YouTube homepage with natural-language prompts.",
+    "LLMs process the request and regenerate a personalized feed.",
+    "Rolling out to all US users on mobile, desktop and TV after an experiment earlier this year.",
+    "YouTube's product VP frames it as direct user control over the algorithm.",
+    "Announced at Made on YouTube alongside other new features."
+  ],
+  "id": "032f46ace773",
+  "authored_at": "2026-09-23T19:16:52.817012+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

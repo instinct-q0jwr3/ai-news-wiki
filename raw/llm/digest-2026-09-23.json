@@ -1,10 +1,10 @@
 {
- "id": "digest-2026-09-23",
- "date": "2026-09-23",
- "schema": 2,
- "model": "agent-pass",
- "lead": [
-  "Wednesday's funding wire ran hot - [Cyera raised $400M](../summaries/4eaf196b01fe.md) from Goldman Sachs, [Micro1 hit a $4B valuation](../summaries/f29ad7754038.md), and [Firecrawl raised $75M](../summaries/aed66f1ed130.md) for agent web scraping - while [Alibaba outlined its first cloud regions](../summaries/5c70f233b9ff.md) in Turkey, Finland and the Netherlands and [Anthropic teamed with OpenEvidence](../summaries/7ae0154c4306.md) on medical AI search for ~100 countries. Hacker News crowned a rebuttal implementing [Jev in 25 lines of Python](../summaries/c1f415621917.md) and a finding that [Claude Code only reads AGENTS.md with telemetry on](../summaries/ee6ebd402552.md). On policy, the [UK's CMA proposed search and AI-assistant choice rules](../summaries/8add4b29dbcf.md); the reading list keeps DeepSeek's [DSec sandbox infrastructure](../summaries/e35d02aab32b.md)."
- ],
- "authored_at": "2026-09-23T13:04:40.804170+00:00"
+  "id": "digest-2026-09-23",
+  "date": "2026-09-23",
+  "schema": 2,
+  "model": "agent-pass",
+  "lead": [
+    "Wednesday evening belonged to the labs and the diplomats: [Sam Altman and Dario Amodei are set to address the UN Security Council](../summaries/6e036c5b4b74.md) on AI, hours after [OpenAI said it will give its Daybreak cyber-defense system and GPT 5.6 Sol to Ukraine](../summaries/30bb23e1b34d.md) for free. Anthropic said [Claude autonomously discovered a novel CRISPR-like enzyme system](../summaries/246da2e2481d.md) as it stands up a life-sciences lab, and Google answered with [Gemini 3.8 Flash TTS models](../summaries/13123bf3c886.md) that direct custom voices from scratch. The agent wave kept rolling into products: [YouTube's Custom Feeds](../summaries/032f46ace773.md) steer the homepage with natural language, [Amazon opened its seller tools to Claude and its own Quick assistant](../summaries/9532e3c0f713.md), and [Rabbit launched OS3](../summaries/4c7cb941cc78.md), an agentic OS for every screen. Funding followed, with [Basecamp Research raising $140M](../summaries/5bdf05959460.md) joined by Anthropic's own fund and [Ema taking $77M](../summaries/dfb5bccbad7d.md) for enterprise 'AI employees'."
+  ],
+  "authored_at": "2026-09-23T19:17:31.589078+00:00"
 }

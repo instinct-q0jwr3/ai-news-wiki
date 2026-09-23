@@ -1,0 +1,18 @@
+{
+  "prose": [
+    "Latent Space's AINews roundup covers the launch of Claude Opus 5.5, 'the first model in our new Claude 5.5 family', which Anthropic says performs at the level of Claude Fable 5.1 for most tasks while costing 40% less to run than Opus 5. The launch post drew 17M+ views and immediately made Opus 5.5 the default model for AINews itself.",
+    "Community reaction focused on efficiency: speculation that Opus 5.5 may be smaller than Opus 5 with a major post-training level-up, double-digit gains from prefill to decode, and Artificial Analysis's finding that the $5.98-per-task cost is roughly flat versus Opus 5 because higher token usage offsets the price cuts. The roundup also notes Anthropic's unusual emphasis on writing improvements - front-loaded information and rule-following - and OpenAI's GPT-6 Sol and Luna launching 50% lower than GPT-5.6 the same week."
+  ],
+  "highlights": [
+    "Claude Opus 5.5 performs like Claude Fable 5.1 on most tasks at 40% lower running cost than Opus 5.",
+    "Launch post passed 17M views; AINews adopted Opus 5.5 as its default model.",
+    "Artificial Analysis: ~$5.98 per Intelligence Index task, near flat vs Opus 5 once higher token usage is counted.",
+    "Speculation that Opus 5.5 is smaller than Opus 5 with much stronger post-training.",
+    "Anthropic emphasized writing quality: important information up front, follows user writing rules.",
+    "OpenAI's GPT-6 Sol and Luna launched 50% below GPT-5.6 pricing in the same window."
+  ],
+  "id": "8eabd886b67b",
+  "authored_at": "2026-09-23T19:16:52.817012+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

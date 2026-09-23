@@ -1,0 +1,18 @@
+{
+  "prose": [
+    "Google launched Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its most expressive audio generation models yet, available across Google AI Studio, the Gemini API, Gemini Enterprise, Gemini Notebook and Google Vids. The models turn voice generation from static presets into a dynamic creative studio: creators can generate custom character voices from scratch and direct accent, style and emotional tone, scaling from 30 original voices to what Google bills as an infinite library.",
+    "The launch extends the Gemini Audio family after 3.5 Live Translate, 3.5 Transcribe, 3.8 Live and 3.8 Live Extended Thinking, with Google pitching audiobook, game and podcast production that sounds like real people talking, plus safety features meant to keep generated voices used responsibly."
+  ],
+  "highlights": [
+    "Two new models: Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS.",
+    "Available in Google AI Studio, Gemini API, Gemini Enterprise, Gemini Notebook and Google Vids.",
+    "Custom voices can be created from scratch and directed for accent and emotional tone.",
+    "Scales from 30 original voices to an effectively infinite voice library.",
+    "Follows 3.5 Live Translate, 3.5 Transcribe, 3.8 Live and 3.8 Live Extended Thinking in the Gemini Audio family.",
+    "Ships with safety features aimed at responsible use of generated voices."
+  ],
+  "id": "13123bf3c886",
+  "authored_at": "2026-09-23T19:16:52.817012+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

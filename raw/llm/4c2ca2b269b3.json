@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "Anthropic's pricing explainer argues you don't buy tokens, you buy finished tasks - and two models with the same per-token price can cost very different amounts on the same task because one may need more turns, with each turn resending the conversation so far. Opus 5.5 costs less per token than Opus 5, but the real question is what a task costs end to end.",
+    "The post breaks a Claude Code task into its cost drivers - turns, cache reads (billed at a fraction of input price), output tokens - and warns upfront that every way to spend fewer tokens can also cost you a finished task: lower effort, a smaller model or less context can all save tokens, but a retry costs more than the savings. Figures mix list prices with interactive illustrations."
+  ],
+  "highlights": [
+    "Frames cost per task, not cost per token, as the number that matters.",
+    "Each agent turn resends the conversation, so turn count dominates cost.",
+    "Cache reads bill at a small fraction of input price and are the main offset.",
+    "Tradeoff warning: cheaper settings save tokens but retries can cost more than the savings.",
+    "Opus 5.5 is cheaper per token than Opus 5; task-level math decides the real bill."
+  ],
+  "id": "4c2ca2b269b3",
+  "authored_at": "2026-09-23T19:16:52.817012+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

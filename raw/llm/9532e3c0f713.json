@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "At its Accelerate seller conference in Seattle, Amazon announced new AI tools for independent sellers, led by a plugin that lets merchants run their Amazon businesses from Anthropic's Claude or Amazon's own Quick assistant - checking inventory, adjusting prices and updating listings without opening Seller Central. Amazon says about 90% of sellers already use some form of outside AI, and VP Mary Beth Westmoreland described the vision as sellers never having to log into Seller Central at all.",
+    "Amazon is also releasing background automations that monitor a seller's business and act with approval, plus an upgraded Seller Assistant that remembers pricing patterns, inventory cycles and growth goals. The stakes are large: independent sellers account for over 60% of units sold on Amazon, and seller fees brought in $46.8B in Q2 - more revenue than AWS - while those fees sit at the center of the FTC's antitrust case, set for trial in March 2027."
+  ],
+  "highlights": [
+    "Plugin lets sellers manage their business from Anthropic's Claude or Amazon's Quick assistant.",
+    "Amazon says ~90% of sellers already use outside AI for parts of their operations.",
+    "New background automations act on the business with seller approval; Seller Assistant gains memory.",
+    "Independent sellers are over 60% of units sold; seller fees were $46.8B in Q2, above AWS revenue.",
+    "Seller fees are central to the FTC antitrust case, trial set for March 2027."
+  ],
+  "id": "9532e3c0f713",
+  "authored_at": "2026-09-23T19:16:52.817012+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

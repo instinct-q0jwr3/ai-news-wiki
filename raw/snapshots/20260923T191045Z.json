@@ -1,0 +1,838 @@
+{
+  "generated_at": "2026-09-23T19:10:45+00:00",
+  "errors": [],
+  "items": [
+    {
+      "source": "Hacker News",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "https://archive.ph/0V37g",
+      "score": 862,
+      "comments": 465,
+      "id": "8358f7b45bd7",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "",
+      "score": 759,
+      "comments": 410,
+      "id": "65ad581778b5",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "",
+      "score": 715,
+      "comments": 428,
+      "id": "f2f52074f70a",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "",
+      "score": 627,
+      "comments": 88,
+      "id": "0e47888f345c",
+      "ai_matches": [
+        "transformer"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "summary": "",
+      "score": 545,
+      "comments": 165,
+      "id": "c1f415621917",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "summary": "",
+      "score": 396,
+      "comments": 224,
+      "id": "03ed461abfa9",
+      "ai_matches": [
+        "agents",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "",
+      "score": 395,
+      "comments": 155,
+      "id": "658a7c192c4a",
+      "ai_matches": [
+        "language model"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "summary": "",
+      "score": 325,
+      "comments": 103,
+      "id": "3cd622bd2bd9",
+      "ai_matches": [
+        "ai",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "",
+      "score": 309,
+      "comments": 218,
+      "id": "ca5a92ed0988",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "summary": "https://github.com/unreallabsai/unreal-agent",
+      "score": 227,
+      "comments": 119,
+      "id": "c88d7eb636d1",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "summary": "",
+      "score": 161,
+      "comments": 63,
+      "id": "fc3086a65908",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "summary": "",
+      "score": 153,
+      "comments": 83,
+      "id": "13123bf3c886",
+      "ai_matches": [
+        "ai",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "summary": "",
+      "score": 133,
+      "comments": 88,
+      "id": "4d1ed990a381",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects really perform in comparison. Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on. JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting. A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibration, Speed and Cost. Leaderboard right now: #1 - Jev 74.4 #2 - SemIf 73.1 #3 - djev 73.0 #4 - Winnow-12B Q8 71.2 #5 reflex 4B 70.3. MIT harness, public items, frozen artifacts, scoring code and public per-task outcomes: https://github.com/fstandhartinger/jevbench Two no-signup demos: https://who-is-right.app.mintapis.com https://is-it-ai-slop.app.mintapis.com Limitations: English-only; latency from one German server; local/demo latency gets a disclosed ×2 adjustment (+150 ms on my servers) which is an informed assumption; held-out prompts still reach evaluated services; ~1-point gaps can be noise. Wdyt?",
+      "score": 129,
+      "comments": 35,
+      "id": "0bd216136f9c",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "summary": "",
+      "score": 115,
+      "comments": 66,
+      "id": "48403eb8fa7f",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "",
+      "score": 113,
+      "comments": 52,
+      "id": "fd365fa4c0e1",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "summary": "",
+      "score": 107,
+      "comments": 56,
+      "id": "6df4f2080d60",
+      "ai_matches": [
+        "agentic",
+        "agents"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "",
+      "score": 67,
+      "comments": 35,
+      "id": "246da2e2481d",
+      "ai_matches": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire ( https://sitefire.ai ). We have been working together for years, with backgrounds in RL/optimization at Stanford and software engineering from Technical University Munich (TUM). With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts. This means we have a commercial stake in AI-generated web content. And for now, high-information, AI-generated content works great to get cited and recommended in AI Search. But after talking to hundreds of marketing teams, it became clear that everyone despises AI-generated content (“AI slop”). And yet, everyone still wants to leverage AI to create content. So we asked ourselves: what characterizes AI slop? Can we train a model to identify it from human-generated web pages? Researchers from the University of Maryland and Google DeepMind already asked this question for fiction. Their paper StoryScope (Russell et al., 2026) showed that you can tell AI-written stories from human ones by their structure alone, without looking at the words. We ported their pipeline to commercial web pages. Using the Wayback Machine, we collected 2,250 blog posts from 268 B2B company websites that were written before ChatGPT existed. For each blog post, five AI models (GPT-5.4, Claude Sonnet 4.6, Gemini 3 Flash, DeepSeek V3.2, Kimi K2.5) wrote their own version. Instead of looking at the words, we looked at how each post is built. We had an AI model answer 214 questions about every post, e.g. how hard it pushes its own product, whether it backs up its claims with sources, or whether it quotes a named expert. Then we trained a classifier on these answers. On blog posts it had never seen before, our classifier told AI-generated and human posts apart with 98% accuracy, getting only 19 of 1,740 wrong. Why does it work so well? Because all five AI models write in a similar shape. Mapping every AI model’s values for these features, we see they cluster together, while the human values sit apart and spread out much more. Of the 1% most unique blog posts in our data set, 149 are human, only 4 are AI. So what characterizes AI slop? It tells you the same thing three times. The title already promises what you'll get (\"How to Cut Onboarding Time in Half\"), the intro lays out what's coming, and the ending says it all again. 77% of the AI posts end by repeating their main point, compared to only 12% of the human posts. We call it the tidy, self-announcing blog post. Still, each AI model has its own accent. We trained a second classifier to tell which of the five AI models wrote a post, or whether a human did. It picks the right author 79% of the time, where random guessing (1 in 6) would get 17%. Almost all of its mistakes are mix-ups between the AI models, not between human and AI. The cool thing about structural features is that you can't simply reword your way out of it. We had each AI model rewrite its own posts until, on average, 73% of their original 13-word sequences were gone, and the AI slop classifier still worked just as well. We're building this into Sitefire: our agents get a structural understanding of text, so the posts they write go deeper and vary the way human writing does. There's a lot we haven't tested yet, like the myriad of humanizer tools, human rewriting, restructuring a post, or prompting an AI model to explicitly avoid these habits. And our human posts are mostly from 2020 to 2022, while the AI posts were generated in August 2026. Structure can't really tell when a human post was written, but it's still not a same-year comparison. We published the study with all the figures on arXiv: https://arxiv.org/abs/2609.15369 . The code is on GitHub: https://github.com/pulse-energy-eu/slopshape We're pretty sure your own blog isn't AI slop, is it? We built a checker that runs one of your posts through the ten features from the paper, so you can see for yourself (the full report asks for a work email): https://sitefire.ai/slop-checker . Think you can tell AI slop from human writing? We also made a little game to see if you can keep up with our model, which gets all five rounds right: https://sitefire.ai/spot-the-slop .",
+      "score": 63,
+      "comments": 21,
+      "id": "dec9e8e699df",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "chatgpt",
+        "claude",
+        "deepmind",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Economics of Open-Weight Inference",
+      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+      "summary": "",
+      "score": 52,
+      "comments": 26,
+      "id": "d9380593f36b",
+      "ai_matches": [
+        "inference"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com/",
+      "summary": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade. We’re building Coverage Cat: a licensed insurance brokerage that helps you compare umbrella and home coverage side by side — with straight pricing, no sold leads, and a real broker on the other end. Our current focus is helping tech folks (think L3-L8) buy umbrella insurance. Coverage Cat pairs AI-guided intake with a licensed brokerage team, so you can size up coverage, see honest price ranges, and compare real carrier options without handing your details to five agents overnight. Folks who use personal AI agents (think Muse, Instinct, Town, Openclaw, etc.) can drive the same flow through the Agent API/MCP. We’d love your feedback so please do try it out. Just feed the prompt: “Shop for umbrella insurance with Coverage Cat” to your personal agent and let us know what you think! If you want to watch a couple of agents navigate the flow before you use it there’s a video here: https://youtu.be/1BUkgAn6s-I For those who are unfamiliar with this type of coverage, here’s a blurb from one of our insurance agents: “Umbrella liability insurance is a policy that provides additional coverage above the limits of existing auto, homeowners, renters, or landlord policies. It kicks in after the underlying policy limits are exhausted and may also cover personal injury claims like libel, slander, or defamation that standard policies often exclude. Policies typically start at $1 million in additional liability coverage and can protect you, your spouse, dependents, and even pets in your household.” Buying insurance online is a miserable experience. You fill out a bunch of forms that say they’re going to give you quotes. Most don’t and then you end up with tons of unwanted phone calls and spam. Even if you wade through the muck, you’ll often still end up with sub-optimal prices and coverage because of a lack of market transparency and poorly-aligned advisory incentives. We came to this problem because Max is a classic personal finance obsessive. He's the type of person that needs to know that he has the best possible price for something (everyone has one friend with the patience for a two hour phone call with the bank for some $10 fee) or that his insurance coverage is as tailored to his risk profile as the market will allow. He actually reads insurance policies end to end. Years ago, when he shopped for his homeowners insurance it took him 10+ phone calls and dozens of online form fills to find the right deal. He also suffered tons of collateral damage in the process: websites sold his information to dozens of agents who proceeded to call, text, and email him a spam hoard that grows to this day. After this painful search made us aware of the problem, we also spent a lot of time doing user research with wealthy-ish tech employees to see if they felt the same way. They did, and also complained that they 1) often felt like they'd left money on the table, 2) didn’t really understand their coverages, and 3) that brokers were slow, hard to communicate with, and unreliable. To solve the problem, we set out to build Coverage Cat. Our approach has three major components: First, we work really really hard to find and partner with insurance carriers that offer high-quality, competitively-priced products. We've also taken time to identify insurers that work on a direct-to-consumer basis or transparently list their prices online so we can make our customers aware of all the options available to them. We get paid commission when we match users to great insurance deals, but we still show and recommend folks deals that we don't make money on when they're accessible and will always recommend users buy what's best for their personal financial situation. Our goal is to meaningfully improve price transparency so consumers (and their AI agents) can make informed coverage decisions and not get nickel-and-dimed! Second, we automate every possible part of the insurance process. Some forms, portals, & approvals still need human review due to regulatory constraints, but if it's not restricted, we're automating it. LLMs have given our small team tremendous leverage and enabled us to tackle problems at a scale that would've been unfathomable five years ago. Finally, we build for agents first (a remix of the more classic adage, build for developers/APIs). We've always been big believers that personal finance would be the killer use-case for the AI revolution and have done our best to position ourselves to surf the wave. As personal assistants have started to explode onto the mainstream (think Muse, Instinct, Town, Codex, CC etc.) we've ensured our shopping and comparison process works via API/MCP so agents can present their users with all the information they need to make a good decision and transform a miserable shopping experience into a delightful one. Coverage Cat is an unusual business because, while we also help folks find homeowners insurance in California and Texas, our main focus is on umbrella insurance. Most brokerages only sell umbrella coverage as a customer retention product, but it makes them almost no money. We focus on it as our core business because: 1) it's one piece of the insurance puzzle that many people in tech overlook and/or are confused about even though it can have a huge impact on their financial well-being. 2) Existing online tools and brokerages broadly don't make it easy to comparison shop for. 3) It was, for us, the most technically feasible candidate for automation given startup resource constraints. Insofar as we know Coverage Cat is the first instance of a tool/portal that allows AI agents to complete most of the comparison and shopping steps required to allow people to buy insurance. Also happy to answer any questions about the product, the problem space, and even some insurance questions (Max is a licensed agent) where regulation permits. Cheers!",
+      "score": 51,
+      "comments": 30,
+      "id": "2683f31e3bce",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "summary": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact. It runs the two in series instead: 1. A pure-Python Rete engine evaluates YAML rules against your facts. The verdict comes only from here. Same facts, same verdict, every time, with salience-based conflict resolution. 2. RAG retrieves passages from your own policy documents, and an LLM writes a plain-English explanation of the decision that was already made, citing those passages. It can't change the verdict. A few things that went further than I expected: - Rules are a graph, not flat lists: nested all/any/not, and rules can assert facts that other rules consume (forward chaining). The decision trace shows the causal chain. - Audit mode records every rule evaluated, including the ones that didn't fire, condition by condition, with a snapshot of the rule set for replay. - Rules can steer retrieval (a fired rule narrows which documents get searched), and retrieved text can be turned into facts for the engine. - Non-technical authors can build rules in a visual editor, or paste a policy document and get LLM-drafted rules with citations. Drafts are never saved without review. YAML is still there for engineers. The landing page has a live demo with no signup (8 demo domains: loan, fraud, clinical, insurance, legal, ops, e-commerce, blockchain). There's also an MCP server, so Claude and other agents can call /decide as a tool: `uvx ai-rete-rag-mcp`. To be upfront: it's a hosted product with a free tier. The MCP client is open source (MIT, github.com/zaharajabeen13-create/ai-rete-rag-mcp); the engine and platform are not open source right now. I'd especially like to hear from anyone who has had to explain an automated decision to a regulator or an auditor: what did they actually ask for?",
+      "score": 41,
+      "comments": 5,
+      "id": "22bd49ca5917",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "claude",
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Community condemn Bedminster AI mural as 'insult' to artists",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
+      "summary": "",
+      "score": 31,
+      "comments": 24,
+      "id": "31fcd82d35b0",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "What AI-Native Looks Like",
+      "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+      "summary": "",
+      "score": 18,
+      "comments": 20,
+      "id": "38d0eab48596",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Is a Boring Technology",
+      "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
+      "summary": "",
+      "score": 10,
+      "comments": 0,
+      "id": "e58c2f99e9b5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "summary": "Pacing gathers pace.",
+      "id": "db8f162a8ee3",
+      "ai_matches": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "summary": "overshadowing more efficient GPT6 models from OpenAI",
+      "id": "8eabd886b67b",
+      "ai_matches": [
+        "claude",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...",
+      "url": "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
+      "summary": "AI News for 9/2/2026-9/3/2026.",
+      "id": "e79f35c45f11",
+      "ai_matches": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+      "id": "f182d3c99318",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "mistral",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "summary": "A dash of cold water keeps the foomers away.",
+      "id": "01b776d72b0e",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+      "url": "https://www.latent.space/p/good-start-labs",
+      "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+      "id": "71e942606bf5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "url": "https://www.latent.space/p/jev",
+      "summary": "The definitive Jev podcast with its lead creator.",
+      "id": "5e34a38be50a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "url": "https://www.latent.space/p/aiuc",
+      "summary": "We sit down with AIUC’s CEO on their Series A!",
+      "id": "87caad99075d",
+      "ai_matches": [
+        "agents"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+      "url": "https://www.latent.space/p/john-platt",
+      "summary": "We talked to Google’s Oscar winning “Giganerd” about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+      "id": "c6e9612c0a29",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
+      "id": "a8fff3fdb173",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Cheaper LLM labelling",
+      "url": "https://entropicthoughts.com/cheaper-llm-labeling",
+      "summary": "Comments",
+      "id": "2d17452fd4bb",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+      "summary": "Comments",
+      "id": "6f154f0d0568",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The GNOME LLM Policy That I Want",
+      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+      "summary": "Comments",
+      "id": "1963a50da237",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "2026.37: Duo Threats",
+      "url": "https://stratechery.com/2026/duo-threats/",
+      "summary": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
+      "id": "07031689ff8a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "id": "6cb998ccdf39",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "id": "530b89134ef6",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "id": "4d93ed21993f",
+      "ai_matches": [
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+      "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+      "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+      "id": "ddae676a8433",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+      "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
+      "id": "e1c383e8adc8",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+      "url": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "summary": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
+      "id": "157c567c2cb0",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
+      "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+      "summary": "TLDR AI selected this story in its latest issue: Altman and Amodei expected to join UN Security Council meeting about AI.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "6e036c5b4b74",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Better GPT-6 Prompt Caching",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6/",
+      "summary": "TLDR AI selected this story in its latest issue: Better GPT-6 Prompt Caching.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "a8a9e43f7867",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "China's biggest memory maker says it has caught up with Samsung and Micron",
+      "url": "https://thenextweb.com/news/cxmt-dram-fifth-generation-mass-production-memory-shortage",
+      "summary": "TLDR AI selected this story in its latest issue: China's biggest memory maker says it has caught up with Samsung and Micron.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "0f933d4beccf",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "TLDR AI selected this story in its latest issue: Claude Opus 5.5.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "6e142cae15e5",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Google Publishes RRSI for Self-Improving AI Agents",
+      "url": "https://regularized-rsi.com/",
+      "summary": "TLDR AI selected this story in its latest issue: Google Publishes RRSI for Self-Improving AI Agents.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "a81da28dcf04",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "GPT-6 Astra Breaks an Old Enigma Message",
+      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
+      "summary": "TLDR AI selected this story in its latest issue: GPT-6 Astra Breaks an Old Enigma Message.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "4c4de830c63b",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "TLDR AI selected this story in its latest issue: GPT-6 Sol and Luna.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "8375187ae71f",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Hardware-Agnostic Models in vLLM",
+      "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/",
+      "summary": "TLDR AI selected this story in its latest issue: Hardware-Agnostic Models in vLLM.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "84f27c7a0732",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Involution Without Export Is Wasted Effort",
+      "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted",
+      "summary": "TLDR AI selected this story in its latest issue: Involution Without Export Is Wasted Effort.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "8fbc9d98b319",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Keeping Large MoE Training Within Fixed GPU Memory",
+      "url": "https://arxiv.org/abs/2609.14306",
+      "summary": "TLDR AI selected this story in its latest issue: Keeping Large MoE Training Within Fixed GPU Memory.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "72ba5a768845",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "summary": "TLDR AI selected this story in its latest issue: Meta admits Muse's likeness to OpenClaw isn't a coincidence.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "2d25e53b9ec0",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "People need to start paying attention to the issue of derived data in AI training",
+      "url": "https://threadreaderapp.com/thread/2102311135441547405.html",
+      "summary": "TLDR AI selected this story in its latest issue: People need to start paying attention to the issue of derived data in AI training.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "0b2f89e38089",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "SWE-Bench Pro V2",
+      "url": "https://labs.scale.com/leaderboard/swe_bench_pro_public_v2",
+      "summary": "TLDR AI selected this story in its latest issue: SWE-Bench Pro V2.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "296ba246469d",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "The Biological Computing Co. partners with AWS to sell its neuron-derived AI video model",
+      "url": "https://thenextweb.com/news/biological-computing-co-aws-neuron-derived-ai-video-model",
+      "summary": "TLDR AI selected this story in its latest issue: The Biological Computing Co. partners with AWS to sell its neuron-derived AI video model.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "385973982b1d",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Training AI From Real-World Tool Use",
+      "url": "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience",
+      "summary": "TLDR AI selected this story in its latest issue: Training AI From Real-World Tool Use.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "75dc51a6e1e9",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Vinod Khosla's Two Moats for Personal AI",
+      "url": "https://x.com/tbpn/status/2102177383306670393",
+      "summary": "TLDR AI selected this story in its latest issue: Vinod Khosla's Two Moats for Personal AI.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "83b8e154c048",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "What a task costs on Opus 5.5",
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+      "summary": "TLDR AI selected this story in its latest issue: What a task costs on Opus 5.5.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-23",
+      "id": "4c2ca2b269b3",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab (Robert Hart/The Verge)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "summary": "Robert Hart / The Verge : Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab — It took nearly 1,000 Claude agents 21 hours and 210 million tokens to uncover the ‘novel enzyme system.’",
+      "id": "7d1eccd9d8d4",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "At its Accelerate conference, Amazon says it is opening its seller tools to third-party AI agents, starting with Claude, in beta for US merchants (Todd Bishop/GeekWire)",
+      "url": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
+      "summary": "Todd Bishop / GeekWire : At its Accelerate conference, Amazon says it is opening its seller tools to third-party AI agents, starting with Claude, in beta for US merchants — Amazon announced new AI tools for its independent sellers Wednesday, led by a plugin that lets them run their Amazon businesses from Anthropic's Claude or Amazon's own Quick assistant.",
+      "id": "9532e3c0f713",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users (Reece Rogers/Wired)",
+      "url": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/",
+      "summary": "Reece Rogers / Wired : At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users — In YouTube's latest update, viewers can tweak what the algorithm shows on their front page and curate it to a specific vibe.",
+      "id": "032f46ace773",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M (Jagmeet Singh/TechCrunch)",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "summary": "Jagmeet Singh / TechCrunch : Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M — Ema, a startup that uses teams of AI agents to automate corporate processes across HR, IT, and finance, has raised $77 million …",
+      "id": "dfb5bccbad7d",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages (Google)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "summary": "Google : Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its “most expressive audio generation models yet”, with support for more than 100 languages — Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet.",
+      "id": "5fd10480f430",
+      "ai_matches": [
+        "ai",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "summary": "Business Insider : HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users — AI's reputation is in hot water. Can influencers save it? — OpenAI has been ramping up its creator marketing efforts as AI safety concerns take center stage.",
+      "id": "0c9916e78278",
+      "ai_matches": [
+        "ai",
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "London-based AI life sciences startup Basecamp Research raised a $140M Series C led by S32, with participation from Anthropic, taking its total funding to $225M (John Reynolds/Tech.eu)",
+      "url": "https://tech.eu/2026/09/23/anthropic-and-nvidia-back-basecamp-research-in-140m-series-c/",
+      "summary": "John Reynolds / Tech.eu : London-based AI life sciences startup Basecamp Research raised a $140M Series C led by S32, with participation from Anthropic, taking its total funding to $225M — Basecamp says it will use the funding to train a new generation of its AI models. — A UK life sciences startup using AI …",
+      "id": "5bdf05959460",
+      "ai_matches": [
+        "ai",
+        "anthropic"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Pilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation (Kate Clark/Wall Street Journal)",
+      "url": "https://www.wsj.com/tech/ai/anthropic-leaders-back-startup-developing-system-to-detect-biological-threats-88ef9f0a?st=S5V7SX&reflink=desktopwebshare_permalink",
+      "summary": "Kate Clark / Wall Street Journal : Pilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation — Pilgrim has raised $25 million and has developed a 50-pound device that detects biological threats — Two Anthropic leaders are investing …",
+      "id": "833884055b21",
+      "ai_matches": [
+        "ai",
+        "anthropic"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Q&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more (Ezra Klein/New York Times)",
+      "url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share",
+      "summary": "Ezra Klein / New York Times : Q&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more — This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts.",
+      "id": "c63b02e9cf70",
+      "ai_matches": [
+        "ai",
+        "hugging face"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney (Corbin Bolies/Variety)",
+      "url": "https://variety.com/2026/music/news/sony-music-group-joins-ai-content-coalition-ariam-1236873137/",
+      "summary": "Corbin Bolies / Variety : Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney — Sony Music Group has joined the Alliance for Responsible Innovation in the Arts & Media (ARIAM), becoming the first music company …",
+      "id": "2290142bb10c",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators (Ben Fritz/Wall Street Journal)",
+      "url": "https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ&reflink=desktopwebshare_permalink",
+      "summary": "Ben Fritz / Wall Street Journal : YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators — Google-owned platform rolling out better tools for digital producers that could help it keep more of their content exclusively",
+      "id": "e2ab649db418",
+      "ai_matches": [
+        "ai"
+      ]
+    }
+  ]
+}

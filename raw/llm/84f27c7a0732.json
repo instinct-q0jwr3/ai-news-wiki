@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "vLLM announced it is changing internal implementations in ways incompatible with fullgraph torch.compile, because frontier open-weight model architectures are diverging too fast for the old abstractions - models increasingly ship bespoke layers and optimized kernels, and even attention is fragmenting, with DeepSeek V4 and Kimi K3 reaching million-token context via completely different approaches.",
+    "To keep serving out-of-tree accelerators, older GPUs and exotic models, vLLM is introducing a set of 'HW agnostic' layers. On NVIDIA H100 GPUs these achieve total token throughput within 3.4% of the native implementation (geometric mean across three recent models), aiming to let vLLM keep moving at frontier speed without sacrificing its role as the portable abstraction layer across NVIDIA, AMD, Intel XPU, Google TPU, IBM Spyre, Huawei Ascend and more."
+  ],
+  "highlights": [
+    "vLLM is moving beyond fullgraph torch.compile for frontier performance, breaking some existing compatibility.",
+    "New 'HW agnostic' layers keep out-of-tree accelerators, older GPUs and exotic models supported.",
+    "HW agnostic layers reach within 3.4% of native throughput on H100 (geomean over three recent models).",
+    "Motivation: frontier open-weight architectures are diverging with bespoke layers and kernels.",
+    "DeepSeek V4 and Kimi K3 reach million-token context through entirely different attention approaches."
+  ],
+  "id": "84f27c7a0732",
+  "authored_at": "2026-09-23T19:16:52.817012+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}
