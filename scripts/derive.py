@@ -74,6 +74,8 @@ def html_to_text(h):
     m=re.search(r'(?is)<article[^>]*>(.*?)</article>',h)
     seg=m.group(1) if m else h
     ps=re.findall(r'(?is)<p[^>]*>(.*?)</p>',seg)
+    bq=re.findall(r'(?is)<blockquote[^>]*>(.*?)</blockquote>',seg)
+    if bq: ps=bq+ps
     txt='\n\n'.join(ps) if len(ps)>=3 else seg
     txt=_html.unescape(re.sub(r'(?s)<[^>]+>',' ',txt))
     return re.sub(r'\s+',' ',txt).strip()
@@ -367,28 +369,40 @@ def prose_links(items,limit=4):
     if not chosen: return 'The current corpus has no matching story for this theme.'
     parts=[]
     for x in chosen:
-        ents,concepts=related(x)
-        refs=[story_link(x)]+[entity_link(e) for e in ents[:2]]+[concept_link(c) for c in concepts[:1]]
-        parts.append(story_summary(x)[:280].rstrip(' .')+' ('+' · '.join(refs)+').')
+        t=story_summary(x)
+        if len(t)>280: t=t[:280].rsplit(' ',1)[0].rstrip(' ,;:')+'\u2026'
+        parts.append(f"{t} ([read more](../summaries/{x['id']}.md)).")
     midpoint=max(1,(len(parts)+1)//2)
     return ' '.join(parts[:midpoint])+'\n\n'+' '.join(parts[midpoint:]) if len(parts)>1 else parts[0]
 
 def build_weekly(xs,stamp):
-    date=dt.date.fromisoformat(fmt_date(stamp)); iso=date.isocalendar(); slug=f'{iso.year}-W{iso.week:02d}'
-    week=[x for x in xs if dt.date.fromisoformat(fmt_date(x.get('first_seen'))).isocalendar()[:2]==iso[:2]]
+    # Regenerate every week present in the corpus, so style fixes apply retroactively.
+    groups={}
+    for x in xs:
+        try: iso=dt.date.fromisoformat(fmt_date(x.get('first_seen'))).isocalendar()
+        except Exception: continue
+        groups.setdefault((iso[0],iso[1]),[]).append(x)
+    (WIKI/'weekly').mkdir(exist_ok=True)
+    for (yr,wk),week in sorted(groups.items()):
+        slug=f'{yr}-W{wk:02d}'
+        _write_weekly(slug,week,stamp)
+
+def _write_weekly(slug,week,stamp):
     themes=[]
     for concept_slug,(label,terms,_) in CONCEPTS.items():
         hits=sorted(match(week,terms),key=lambda x:x.get('score',0),reverse=True)
         if hits: themes.append((len(hits),concept_slug,label,hits))
     themes.sort(reverse=True)
     title=f'Week {slug}'
-    sections=[]
+    sections=[]; used=set()
     for _,concept_slug,label,hits in themes[:3]:
-        entity_counts=Counter(e for x in hits for e in related(x)[0])
+        fresh=[x for x in hits if x.get('id') not in used]
+        if not fresh: continue
+        for x in fresh: used.add(x.get('id'))
+        entity_counts=Counter(e for x in fresh for e in related(x)[0])
         entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
-        opening=f'This theme connects {len(hits)} developments around [{label}](../concepts/{concept_slug}.md).'
-        if entity_refs: opening+=f' The most visible related entities are {entity_refs}.'
-        sections += [f'## {label}','',opening+' '+prose_links(hits),'']
+        opening=f'The most visible related entities are {entity_refs}. ' if entity_refs else ''
+        sections += [f'## {label}','',opening+prose_links(fresh),'']
     safety=next((hits for _,slug_name,_,hits in themes if slug_name=='ai-safety-incidents'),[])
     agents=next((hits for _,slug_name,_,hits in themes if slug_name=='agentic-systems'),[])
     specialist=next((hits for _,slug_name,_,hits in themes if slug_name=='small-specialist-models'),[])
@@ -455,12 +469,15 @@ def render_daily(day,items,generated):
         hits=sorted(match(items,terms),key=lambda x:x.get('score',0),reverse=True)
         if hits: themes.append((len(hits),concept_slug,label,hits))
     themes.sort(reverse=True)
+    used=set()
     for _,concept_slug,label,hits in themes[:4]:
-        entity_counts=Counter(e for x in hits for e in related(x)[0])
+        fresh=[x for x in hits if x.get('id') not in used]
+        if not fresh: continue
+        for x in fresh: used.add(x.get('id'))
+        entity_counts=Counter(e for x in fresh for e in related(x)[0])
         entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
-        opening=f'This theme connects {len(hits)} developments around [{label}](../concepts/{concept_slug}.md).'
-        if entity_refs: opening+=f' The most visible related entities are {entity_refs}.'
-        lines.extend([f'## {label}','',opening+' '+prose_links(hits),''])
+        opening=f'The most visible related entities are {entity_refs}. ' if entity_refs else ''
+        lines.extend([f'## {label}','',opening+prose_links(fresh),''])
     counts=Counter(i.get('source','?') for i in items)
     lines.extend(["## Sources",""])
     lines.extend([f"- {k}: {v} stories" for k,v in counts.most_common()])

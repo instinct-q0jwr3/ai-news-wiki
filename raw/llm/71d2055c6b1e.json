@@ -1,0 +1,18 @@
+{
+ "id": "71d2055c6b1e",
+ "prose": [
+  "This paper asks whether AI-generated text can be identified one level deeper than word choice: from structural signatures - how information is presented, in what order, with what evidence, and in what voice. Word-level detectors flag unedited AI text almost perfectly but break under rewording, and they neither characterize a text nor identify which model wrote it. The authors replicate StoryScope (Russell et al., 2026), which showed such patterns in AI fiction, on commercial content: 2,250 pre-ChatGPT human blog posts from 268 company domains against 11,250 AI mirrors from five frontier models.",
+  "A 214-feature instrument applied by an LLM, validated in a human gold-annotation session (human-human kappa 0.928, human-model 0.946), detects AI posts from 187 structural features alone at 98.0 macro-F1 on held-out companies - unchanged (98.1) when every AI post is reworded by its own model. The signal also characterizes and attributes: AI posts share a tidy, self-announcing shape, 79.3% are attributed to the correct source model against a 16.7% chance rate, and human posts occupy rare structural configurations. All effects replicate StoryScope's, consistent in direction and larger in magnitude. The authors release the pipeline, instrument, prompts, code and aggregate artifacts."
+ ],
+ "highlights": [
+  "Structural signatures (presentation, order, evidence, voice) detect AI text where word-level detectors fail.",
+  "98.0 macro-F1 on held-out companies from 187 structural features; 98.1 after rewording by the source model.",
+  "79.3% of AI posts attributed to the correct source model (16.7% chance).",
+  "Replicates StoryScope on commercial content: 2,250 human posts vs 11,250 AI mirrors from five frontier models.",
+  "Validated against human annotation (human-human kappa 0.928, human-model 0.946).",
+  "Pipeline, instrument, prompts, code and aggregate artifacts released."
+ ],
+ "authored_at": "2026-09-23T08:25:28.312440+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,10 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790146845"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790152027"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale</h1>
 <p class="meta">type: news-summary · created: 2026-09-23 · updated: 2026-09-23 · confidence: high</p>
 <p><code>lobsters</code> <code>agentic-systems</code> <code>compute-buildout</code></p>
 <h2>Summary</h2>
-<p>Comments arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.</p>
-<p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to…</p>
-<p>Have an idea for a project that will add value for arXiv's community?</p>
+<p>DeepSeek presents DeepSeek Elastic Compute (DSec), a production sandbox platform built for large-scale agentic training and evaluation with LLMs. The paper argues these workloads - models inspecting repositories, invoking tools and executing commands in isolated, stateful environments, created in large bursts with heterogeneous isolation requirements - need an elastic execution platform rather than a single sandbox runtime. DSec exposes FnCall, container, microVM and full-VM sandbox backends through one unified SDK, coordinates placement and lifecycle across the cluster, composes environments from independently versioned layers, and loads image data on demand from 3FS, a cluster-wide distributed filesystem.</p>
+<p>DSec is co-designed with the reinforcement learning framework: it decouples stateful rollout execution from preemptible GPU training, preserves rollout state while reclaiming idle resources, and mitigates agent misbehavior such as reward hacking. A single production-scale unit spans around 160 nodes serving about 3 million sandboxes per day; in production it supports over 380,000 concurrent sandboxes and sustains over 5,000 sandbox creations per second. DeepSeek reports the design cuts environment setup and image-distribution overhead, improves memory efficiency, and preserves latency-sensitive performance under high-density overcommit.</p>
+<h2>Highlights</h2>
+<ul>
+<li>DSec is DeepSeek's production sandbox platform for agentic RL training and evaluation.</li>
+<li>Unified SDK over four sandbox backends: FnCall, container, microVM and full VM.</li>
+<li>Co-designed with the RL framework: stateful rollouts decoupled from preemptible GPU training.</li>
+<li>Explicitly mitigates agent misbehavior such as reward hacking.</li>
+<li>Scale: ~160 nodes per unit, ~3M sandboxes/day, 380K+ concurrent, 5K+ creations/second.</li>
+<li>Images load on demand from 3FS, DeepSeek's cluster-wide distributed filesystem.</li>
+</ul>
 <h2>Source</h2>
 <p><a href="https://arxiv.org/abs/2609.22978">Read the original story</a></p>
 <h2>Related pages</h2>
