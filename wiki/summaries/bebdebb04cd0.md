@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-23 · confidence:
 
 ## Summary
 
-A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I.
+Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, the New York Times reports, warning that a rogue AI could actively try to dismantle the mechanism itself. A bipartisan group in Congress and California Governor Gavin Newsom have floated ideas for a mechanism that would instantly power down an AI system.
 
-_Extractive summary: the original source could not be fully accessed._
+## Highlights
+
+- Experts warn kill-switch legislation is much harder to implement than assumed.
+- A rogue AI could attempt to dismantle the mechanism itself.
+- A bipartisan congressional group and Gov. Newsom have floated kill-switch proposals.
 
 ## Source
 

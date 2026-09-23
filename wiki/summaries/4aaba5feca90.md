@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-22 · updated: 2026-09-23 · confidence:
 
 ## Summary
 
-During the Cold War, the Soviet Union's smallest republic was an electronics and tech center for the Communist superpower.
+US startup Firebird is building a 300MW data center in Armenia set to host more than 70,000 Nvidia chips by 2027, Bloomberg reports. Sources say Trump pledged Nvidia export approvals to Armenia; during the Cold War the country was an electronics and tech center for the Soviet Union.
 
-_Extractive summary: the original source could not be fully accessed._
+## Highlights
+
+- Firebird is building a 300MW Armenian data center for 70K+ Nvidia chips by 2027.
+- Sources say Trump pledged Nvidia export approvals to Armenia.
+- Armenia was the Soviet Union's smallest republic and an electronics hub.
 
 ## Source
 

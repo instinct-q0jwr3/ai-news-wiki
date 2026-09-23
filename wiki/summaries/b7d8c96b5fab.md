@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-23 · confidence:
 
 ## Summary
 
-OpenAI pioneered AI that can take over web browsers and other applications on people's behalf, and its ChatGPT app brought generative AI to consumers.
+OpenAI is developing features to counter SpaceX's Grok Bot 'teammates' and has discussed building a personal AI assistant to compete with Meta's Muse, The Information reports. The outlet notes OpenAI pioneered AI that can operate web browsers and other applications on a user's behalf, while ChatGPT brought generative AI to consumers.
 
-_Extractive summary: the original source could not be fully accessed._
+## Highlights
+
+- OpenAI is working on features to counter SpaceX's Grok Bot 'teammates', per sources.
+- It has discussed a personal AI assistant to compete with Meta's Muse.
+- The reporting comes as agent-style assistants proliferate across rivals.
 
 ## Source
 

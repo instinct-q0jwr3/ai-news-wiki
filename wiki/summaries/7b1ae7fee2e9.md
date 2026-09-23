@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-23 · confidence:
 
 ## Summary
 
-The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’.
+The Financial Times interviews Raspberry Pi CEO Eben Upton about the Raspberry Pi Foundation, his skepticism of AI evangelists and how AI is driving demand for edge compute devices. Upton frames coding as the modern form of literacy and jokes that 'the p(doom) is probably Russia.'
 
-_Extractive summary: the original source could not be fully accessed._
+## Highlights
+
+- FT interviews Raspberry Pi CEO Eben Upton.
+- Upton is skeptical of AI evangelists while noting AI is driving edge-device demand.
+- He calls coding the modern form of literacy.
 
 ## Source
 

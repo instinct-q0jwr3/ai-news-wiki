@@ -56,9 +56,14 @@ SOURCES={}; RICH={}; NEW_IDS=set(); NEW_STORIES=[]; LATEST_DAY=''; MERGED={}
 STOPWORDS=set('a an the and or but if then else when at by for with about into through during before after above below to from up down in out on off over under again further once here there all any both each few more most other some such no nor not only own same so than too very can will just should now is are was were be been being have has had having do does did doing would could ought i you he she it we they them his her its our their this that these those am of as'.split())
 JUNK=re.compile(r'cookie|subscribe|sign[ -]?up|newsletter|all rights reserved|advertisement|terms of service|privacy policy|follow us|share this|enable javascript|verify you are|listen to this post|watch on youtube|listen to podcast|views\s+\d+\s+replies|\d+\s+reposts?\b.{0,12}\blikes\b',re.I)
 
+class _RedirectHandler(urllib.request.HTTPRedirectHandler):
+    def http_error_308(self,req,fp,code,msg,headers):
+        return self.http_error_301(req,fp,301,msg,headers)
+_opener=urllib.request.build_opener(_RedirectHandler)
+
 def fetch_url(url):
     req=urllib.request.Request(url,headers=UA)
-    with urllib.request.urlopen(req,timeout=10) as r:
+    with _opener.open(req,timeout=10) as r:
         ct=r.headers.get('content-type','')
         if 'html' not in ct: return None,f'unsupported content-type: {ct}'
         raw=r.read(1500000)
@@ -463,19 +468,33 @@ def render_daily(day,items,generated):
     return "\n".join(lines).rstrip()+"\n"
 
 def build_daily():
-    days={}; stamps={}
+    # A story belongs to exactly one daily: the Europe/Madrid day it was FIRST observed.
+    # Stories lingering in a feed for several days no longer reappear in later dailies.
+    from zoneinfo import ZoneInfo
+    madrid=ZoneInfo('Europe/Madrid')
+    days={}; stamps={}; first={}
     for p in sorted(RAW.glob('*.json')):
-        data=json.loads(p.read_text()); gen=data.get('generated_at',''); day=gen[:10]
+        data=json.loads(p.read_text()); gen=data.get('generated_at','')
+        try:
+            day=dt.datetime.fromisoformat(gen.replace('Z','+00:00')).astimezone(madrid).date().isoformat()
+        except Exception:
+            day=gen[:10]
         if not re.match(r'\d{4}-\d{2}-\d{2}',day): continue
-        rows=days.setdefault(day,{}); stamps[day]=max(stamps.get(day,''),gen)
+        stamps[day]=max(stamps.get(day,''),gen)
         for raw in data.get('items',[]):
             x=dict(raw); key=x.get('id')
             if not key: continue
+            if key not in first: first[key]=day
+            if first[key]!=day: continue
+            rows=days.setdefault(day,{})
             if key not in rows: rows[key]=x
             else:
                 old=rows[key]
                 if x.get('score',0)>old.get('score',0): old['score']=x['score']; old['comments']=x.get('comments',0)
                 if len(esc(x.get('summary'))) > len(esc(old.get('summary'))): old['summary']=x['summary']
+    (WIKI/'daily').mkdir(exist_ok=True)
+    for stale in (WIKI/'daily').glob('*.md'):
+        if stale.stem not in days: stale.unlink()
     for day,rows in sorted(days.items()):
         (WIKI/'daily'/f"{day}.md").write_text(render_daily(day,list(rows.values()),stamps[day]))
 

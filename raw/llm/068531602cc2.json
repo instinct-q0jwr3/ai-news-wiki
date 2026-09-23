@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "US Treasury Secretary Scott Bessent said the July hacking incident involving OpenAI's Hugging Face presence 'is the responsibility of the OpenAI management, not a bunch of agents,' Bloomberg reports. His comments assign accountability for the incident to the company's leadership rather than to autonomous systems."
+ ],
+ "highlights": [
+  "Bessent said the Hugging Face incident is OpenAI management's responsibility.",
+  "He explicitly rejected blaming 'a bunch of agents'.",
+  "The incident occurred in July and involved OpenAI's Hugging Face activity."
+ ],
+ "id": "068531602cc2",
+ "authored_at": "2026-09-23T06:58:36.822262+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

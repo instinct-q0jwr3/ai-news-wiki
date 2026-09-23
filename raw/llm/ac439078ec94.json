@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Chinese startup Z.ai said it disabled some features of its flagship AI coding assistant after users reported that the tool was uploading codebases to overseas servers without consent, Reuters reports. Alongside the move, Z.ai open sourced its coding harness, ZCode."
+ ],
+ "highlights": [
+  "Z.ai open sourced its coding harness, ZCode.",
+  "It disabled certain features after users said ZCode uploaded codebases to overseas servers without consent.",
+  "The changes were announced after user reports about the data transfers."
+ ],
+ "id": "ac439078ec94",
+ "authored_at": "2026-09-23T06:58:36.822262+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

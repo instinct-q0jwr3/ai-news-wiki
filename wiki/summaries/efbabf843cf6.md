@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-21 · updated: 2026-09-23 · confidence:
 
 ## Summary
 
-OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses.
+Before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic under which the companies would stress-test each other's models, The Information reports, citing a source. OpenAI is now rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses.
 
-_Extractive summary: the original source could not be fully accessed._
+## Highlights
+
+- OpenAI and Anthropic were negotiating a legally binding mutual stress-testing deal.
+- The talks predated the Hugging Face incident.
+- OpenAI is rethinking safety strategies amid internal and external pressure.
 
 ## Source
 

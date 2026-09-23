@@ -1,0 +1,18 @@
+{
+ "id": "e21991ab0a3f",
+ "prose": [
+  "Google Labs is expanding CC, its experimental personal agent, from an individual assistant into one built for families and households. CC now gets its own Google account with a distinct identity and permissions model, and up to six members can share information with it. Each person controls exactly what CC can see - for example emails from a child's school, the local swim center, or the vet.",
+  "With that shared context, CC produces a 'Your Day Ahead' brief for the household, delivered by email, and connects to Calendar and Tasks: it can automatically add calendar events based on what family members share and can take actions such as filling out forms, with the user's permission. Google pitches it as a way to spend less time on logistics like school schedules, sports practices, bills and meal planning. CC is an early Google Labs experiment, available on web and mobile to people 18+ in the US with a personal Google account; existing users will get an upgrade email in the coming days and new users can join a waitlist."
+ ],
+ "highlights": [
+  "Google's CC agent expands from personal use to families and households, announced September 17, 2026.",
+  "CC gets its own Google account with a distinct identity and clear permissions model.",
+  "Up to six members can share information with the agent; each member controls what CC sees.",
+  "CC creates a shared daily 'Your Day Ahead' brief and connects to Google Calendar and Tasks.",
+  "It can auto-add calendar events from what the family shares and fill out forms with permission.",
+  "Available on web and mobile for US users 18+ with a personal Google account; waitlist for new users."
+ ],
+ "authored_at": "2026-09-23T06:57:57.102069+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

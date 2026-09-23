@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-22 · updated: 2026-09-23 · confidence:
 
 ## Summary
 
-Meta's new personal AI agent, Muse, had more than 500,000 people try it out roughly a week after launch, including more than 250,000 daily active users …
+Meta's new personal AI agent, Muse, was tried by more than 500,000 people roughly a week after launch, including more than 250,000 daily active users, The Information reports, citing internal data. Users submitted more than 2 million prompts in its first week.
 
-_Extractive summary: the original source could not be fully accessed._
+## Highlights
+
+- Muse surpassed 500,000 total users about a week after launch, per internal data.
+- Daily active users exceeded 250,000.
+- More than 2M prompts were submitted in the first week.
 
 ## Source
 
