@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Prepared remarks from a Congressional briefing lay out a state of the union on open models through the lens of US-China competition. The author distinguishes open-weight models (public weights governed by licenses - Llama, Qwen, Gemma, DeepSeek) from true open-source models, which also ship training code and data. Since about April 2025, Chinese companies have been the clear leaders in open-weight models, while the most prominent fully open-source models have been built in the United States."
+ ],
+ "highlights": [
+  "Written as a briefing for Congressional members and staff.",
+  "Open-weight (Llama, Qwen, Gemma, DeepSeek) vs. open-source (weights plus training code and data).",
+  "Chinese AI companies have led open-weight models since about April 2025.",
+  "The most prominent open-source models are US-built."
+ ],
+ "id": "fd365fa4c0e1",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

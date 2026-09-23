@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Anthropic launched Claude Opus 5.5, the first model in a new family, saying it matches Claude Fable 5.1 'on most tasks' while costing about 40% less to run than Opus 5 and generating output more than 30% faster. Pricing drops to $4 per million input and $20 per million output tokens (from $5/$25), with cache read costs cut 60%; five-hour usage limits rise 20% and stretch ~25% further overall. Anthropic's benchmarks put Opus 5.5 ahead of Fable 5.1 and OpenAI's much pricier GPT-6 Astra on most tasks, and Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks."
+ ],
+ "highlights": [
+  "Opus 5.5 matches Fable 5.1 'on most tasks' at ~40% lower operating cost than Opus 5.",
+  "Priced at $4/$20 per million input/output tokens; cache reads down 60%.",
+  "Output generation over 30% faster; five-hour subscriber limits up 20%.",
+  "Anthropic benchmarks claim leads over Fable 5.1 and GPT-6 Astra on most tasks.",
+  "Sonnet 5.5 and Haiku 5.5 expected in coming weeks."
+ ],
+ "id": "2fcf251e5584",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

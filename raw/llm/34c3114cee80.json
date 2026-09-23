@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "OpenAI unveiled GPT-6 Sol and GPT-6 Luna on Tuesday, budget-friendly companions to Astra trained with similar methods, with claimed advances in factuality, coding, computer use and alignment. Sol costs $2 per million input and $10 per million output tokens; Luna costs $0.10/$0.50 - both about 50% cheaper than their GPT-5.6 counterparts. OpenAI says Sol beats previous OpenAI models and Anthropic's Claude Opus 5 on benchmarks including AutomationBench, Agents' Last Exam and DeepSWE v1.1, and both models inherit Astra's clearer communication style and improved alignment (lower rates of circumventing warnings, coding deception and unauthorized agent interactions). Availability: ChatGPT Work and Codex for Plus/Pro/Business/Enterprise, with Luna reaching Free and Go users."
+ ],
+ "highlights": [
+  "GPT-6 Sol: $2/$10 per million input/output tokens; GPT-6 Luna: $0.10/$0.50.",
+  "Roughly 50% cheaper than the GPT-5.6 generation.",
+  "Sol claimed to beat Claude Opus 5 on AutomationBench, Agents' Last Exam and DeepSWE v1.1.",
+  "Astra remains OpenAI's 'best model across the board'; Sol/Luna inherit its style and alignment gains.",
+  "Available in ChatGPT Work and Codex on paid tiers; Luna extends to Free and Go."
+ ],
+ "id": "34c3114cee80",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

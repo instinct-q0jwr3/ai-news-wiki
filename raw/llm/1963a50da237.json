@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Responding to KDE's controversial proposal for an official AI/LLM policy, a GNOME community member argues such policies should shape social norms, not micro-manage developer workflows. His proposed GNOME policy is uncompromising: LLMs cannot be used to create or modify anything submitted to GNOME or hosted on its infrastructure, contributors may be asked to prove compliance, and circumvention can bring a ban. The rationale is humanist: GNOME is framed as a collective that finds joy in reaching beyond individual limitations, not merely software that ships every six months."
+ ],
+ "highlights": [
+  "A proposed GNOME LLM policy prompted by KDE's controversial AI-policy debate.",
+  "Total ban: no LLM-created or LLM-modified submissions to GNOME or its infrastructure.",
+  "Enforcement via proof requests and bans for circumvention.",
+  "Frames the policy as norm-setting and humanist, not workflow micro-management."
+ ],
+ "id": "1963a50da237",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

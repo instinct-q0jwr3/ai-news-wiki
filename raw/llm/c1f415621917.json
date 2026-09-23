@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A skeptical counter to the Jev hype: the author reimplements the idea behind decision-type models in 25 lines of Python. The script loads a small GGUF model (Qwen3-0.6B via llama-cpp-python), prompts it to choose among labeled options (e.g. Legitimate / Spam / Phishing for an email), then reads the logits of the label tokens, converts them to log-probabilities and picks the argmax. The point: constrained-choice 'decision' inference is a logit-comparison trick any developer can reproduce, not a new paradigm."
+ ],
+ "highlights": [
+  "Reimplements Jev-style typed decision inference in 25 lines of Python.",
+  "Uses llama-cpp-python with Qwen3-0.6B-GGUF, n_ctx=512.",
+  "Compares logits of the label tokens (A/B/C) and takes the argmax after log-softmax.",
+  "Framed as a direct rebuttal to claims that Jev is 'the next frontier of LLMs'."
+ ],
+ "id": "c1f415621917",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

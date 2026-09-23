@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-09-21 · updated: 2026-09-23 · confidence: high_
 
-`techmeme` `openai` `meta` `xai`
+`techmeme` `openai` `meta` `xai` `muse`
 
 ## Summary
 
@@ -20,4 +20,4 @@ OpenAI is developing features to counter SpaceX's Grok Bot 'teammates' and has d
 
 ## Related pages
 
-[OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md)
+[OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md)

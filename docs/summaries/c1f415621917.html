@@ -1,0 +1,16 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Jev in 25 Lines of Python · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790168824"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Jev in 25 Lines of Python</h1>
+<p class="meta">type: news-summary · created: 2026-09-23 · updated: 2026-09-23 · confidence: high</p>
+<p><code>hacker-news</code> <code>typesafe</code></p>
+<h2>Summary</h2>
+<p>A skeptical counter to the Jev hype: the author reimplements the idea behind decision-type models in 25 lines of Python. The script loads a small GGUF model (Qwen3-0.6B via llama-cpp-python), prompts it to choose among labeled options (e.g. Legitimate / Spam / Phishing for an email), then reads the logits of the label tokens, converts them to log-probabilities and picks the argmax. The point: constrained-choice 'decision' inference is a logit-comparison trick any developer can reproduce, not a new paradigm.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Reimplements Jev-style typed decision inference in 25 lines of Python.</li>
+<li>Uses llama-cpp-python with Qwen3-0.6B-GGUF, n_ctx=512.</li>
+<li>Compares logits of the label tokens (A/B/C) and takes the argmax after log-softmax.</li>
+<li>Framed as a direct rebuttal to claims that Jev is 'the next frontier of LLMs'.</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/typesafe.html">TypeSafe</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

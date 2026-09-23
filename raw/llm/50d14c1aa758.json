@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Cameron Gordon applies Coase's 1937 'The Nature of the Firm' to AI: humans form firms because bounded individuals must cooperate for long-term planning, making the corporation a command-and-control architecture within market economies. The hook is Moltbook, a Reddit-style environment for decentralised AI agents interacting through message boards, which drew attention from Andrej Karpathy and an overview from Simon Willison. Gordon frames such agent collectives as a potential next step on the AI research frontier."
+ ],
+ "highlights": [
+  "Reads Coase's theory of the firm onto emerging AI-agent collectives.",
+  "Centered on Moltbook, a Reddit-style message-board environment for AI agents.",
+  "Notes Karpathy's attention and Simon Willison's technical overview.",
+  "Poses agent organizations as a research-frontier question, not just a curiosity."
+ ],
+ "id": "50d14c1aa758",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

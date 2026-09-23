@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Latent Space interviews John Platt - Oscar winner, inventor of two textbook ML algorithms, namesake of two asteroids, Erdos-Bacon number 6 - about Google's Empirical Research Assistance (ERA) and AI for science. Platt's team noticed many hard scientific problems reduce to what he calls a 'scoreable task': formulate a score function, then find code that maximizes it. That insight grew out of an 'auto-Kaggle' idea and drives their effort to automate solutions to any scientific problem that can be written down as a score. Colleague Dave Bacon jokes Platt's career is defined by being twenty years early to the next big thing, from convolutional neural networks (some credit him with coining the term) to fusion and quantum computing."
+ ],
+ "highlights": [
+  "John Platt: Oscar, two textbook algorithms, two asteroids, Erdos-Bacon 6.",
+  "Google's ERA frames scientific problems as 'scoreable tasks' and automates finding the maximizing code.",
+  "The approach grew out of an 'auto-Kaggle' concept.",
+  "Platt is credited by some with coining 'convolutional neural network'."
+ ],
+ "id": "c6e9612c0a29",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

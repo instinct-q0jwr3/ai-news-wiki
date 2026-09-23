@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-09-22 · updated: 2026-09-23 · confidence: high_
 
-`techmeme` `meta` `agentic-systems`
+`techmeme` `meta` `muse` `agentic-systems`
 
 ## Summary
 
@@ -20,4 +20,4 @@ Meta's new personal AI agent, Muse, was tried by more than 500,000 people roughl
 
 ## Related pages
 
-[Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md)
+[Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)

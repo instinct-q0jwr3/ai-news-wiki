@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Kristian Polso's five-month check-in on AI-assisted development vents about 'Claudisms': bloated PR descriptions, overly complex code and inlined comment slop, shipped fast under management mandates to 'just ship things'. He assigns most blame to management, which hears velocity promises from executives and AI salespeople and measures lines of code rather than readability or maintainability. His prediction: the industry sits at the top of an AI-assisted development bell curve, and a correction toward quality is coming."
+ ],
+ "highlights": [
+  "Five-month follow-up on whether to keep programming in the AI era.",
+  "Blames management mandates, not developers, for low-quality AI output in production.",
+  "Describes a split: daily shippers with no quality regard vs. developers tired of PR slop.",
+  "Predicts the industry is at the peak of an AI-assisted dev bell curve."
+ ],
+ "id": "6afe326c3e24",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

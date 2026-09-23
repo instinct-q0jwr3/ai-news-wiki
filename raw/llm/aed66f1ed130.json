@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Firecrawl, which builds web-scraping tooling for AI agents, raised a $75 million Series B led by LA-based Smash Ventures (reported as Smash Capital), joined by Y Combinator, Altos Ventures, Nexus Venture Partners, Freestyle and Offline Ventures. Its platform targets the practical problems of collecting web data at agent scale: an agent-optimized search engine that filters pages by creation date and file type, a 'smart wait' that avoids scraping pages before they finish loading, and automatic scrolling, clicking and form submission for interactive content."
+ ],
+ "highlights": [
+  "Firecrawl raised a $75M Series B led by Smash Ventures.",
+  "YC, Altos, Nexus, Freestyle and Offline Ventures joined.",
+  "Agent-optimized search filters pages by creation date, file type and more.",
+  "'Smart wait' plus automated scroll/click/form actions handle interactive pages."
+ ],
+ "id": "aed66f1ed130",
+ "authored_at": "2026-09-23T13:03:16.024791+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

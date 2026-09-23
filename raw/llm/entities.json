@@ -85,5 +85,29 @@
    "jevbench"
   ],
   "overview": "TypeSafe is the company behind Jev, a typed decision-model spin on large language models that Vercel says was adopted faster than any other model in AI Gateway history. Its classifier.dev service wraps Jev with a confidence-based escalation tier, and the community-run JevBench ranks Jev as the leading typed decision model. The company's staying power is openly debated: analysts argue OpenAI could fast-follow by folding classification into its own models unless TypeSafe's training data and processes form a real moat."
+ },
+ "deepseek": {
+  "name": "DeepSeek",
+  "kind": "organization",
+  "terms": [
+   "deepseek"
+  ],
+  "overview": "DeepSeek is the Chinese AI lab whose open-weight models set the pace for the open ecosystem. This page follows its model releases, its sandbox and training infrastructure work such as DSec, its briefings to international bodies, and the regulatory scrutiny it faces at home and abroad."
+ },
+ "qwen": {
+  "name": "Qwen",
+  "kind": "product",
+  "terms": [
+   "qwen"
+  ],
+  "overview": "Qwen is Alibaba's family of open-weight large language and image models. This page follows Qwen releases such as Qwen-Image, the project's leadership and organization inside Alibaba, and how the family competes with DeepSeek, MiMo and other open-weight lines."
+ },
+ "muse": {
+  "name": "Muse (Meta)",
+  "kind": "product",
+  "terms": [
+   "muse"
+  ],
+  "overview": "Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence Labs and heavily inspired by OpenClaw. This page follows its launch and adoption, security incidents such as the macOS token zero-day, agentic-commerce integrations like Shop Pay, and rival responses from OpenAI and others."
  }
 }

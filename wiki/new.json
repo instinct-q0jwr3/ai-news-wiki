@@ -1,65 +1,119 @@
 {
- "generated_at": "2026-09-23T03:47:34+00:00",
+ "generated_at": "2026-09-23T12:58:48+00:00",
  "stories": [
   {
-   "id": "e21991ab0a3f",
-   "title": "Google wants to give your family its own cloud computer",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups"
+   "id": "c1f415621917",
+   "title": "Jev in 25 Lines of Python",
+   "source": "Hacker News",
+   "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/"
   },
   {
-   "id": "6ea4ee649c95",
-   "title": "multiple staff at the UK's AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout",
+   "id": "ee6ebd402552",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on",
+   "source": "Hacker News",
+   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
+  },
+  {
+   "id": "6afe326c3e24",
+   "title": "I'm sick of Claudisms, & what will happen next in AI-boosted software dev",
+   "source": "Hacker News",
+   "url": "https://www.polso.info/im-sick-of-claudisms-future-ai-software-development"
+  },
+  {
+   "id": "4d831221d2c2",
+   "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+   "source": "Hacker News",
+   "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9"
+  },
+  {
+   "id": "df9af3c6bee6",
+   "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+   "source": "Hacker News",
+   "url": "https://filmstudio.rxlab.app"
+  },
+  {
+   "id": "50d14c1aa758",
+   "title": "The (AI) Nature of the Firm",
+   "source": "Hacker News",
+   "url": "https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm"
+  },
+  {
+   "id": "cf937ae6e0ba",
+   "title": "Analysis: 30 Chinese tech stocks with the largest overseas revenue exposure returned 36% YTD, outperforming the 8% return from domestically dependent peers",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions"
   },
   {
-   "id": "4eaf196b01fe",
-   "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B",
+   "id": "dad42cdc26d0",
+   "title": "Gallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/pro/cybersecurity/cyera-raises-400-million-from-goldman-in-extension-round-0643389c?st=YfcfGj&reflink=desktopwebshare_permalink"
+   "url": "https://www.nytimes.com/2026/09/23/world/ai-gallup-poll.html?unlocked_article_code=1.DVE.YqAd.JnPw-sQidvkd&smid=url-share"
   },
   {
-   "id": "f29ad7754038",
-   "title": "AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025",
+   "id": "8add4b29dbcf",
+   "title": "The UK CMA proposes rules requiring Google and Android OEMs to offer search choice screens on first use and via yearly prompts, new AI assistant rules, and more",
    "source": "Techmeme",
-   "url": "http://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/"
+   "url": "https://www.engadget.com/2266226/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/"
   },
   {
-   "id": "aed66f1ed130",
-   "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital",
+   "id": "837be35e1b3b",
+   "title": "NADI, a new DARPA-like Dutch government agency, launches a €40M challenge to accelerate chip design with AI in collaboration with its German counterpart SPRIND",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/"
+   "url": "https://www.reuters.com/business/german-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-2026-09-23/"
   },
   {
-   "id": "7ae0154c4306",
-   "title": "Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries",
+   "id": "8eabd886b67b",
+   "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default"
+  },
+  {
+   "id": "c85f803a5778",
+   "title": "A profile of Noah Shinn, founder of AI assistant Instinct, who soft-launched it as an invite-only site for VCs and is reportedly fundraising at a $10B valuation",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/anthropic-openevidence-partner-bring-medical-ai-worldwide-2026-09-22/"
+   "url": "https://www.businessinsider.com/noah-shinn-instinct-ai-competes-meta-muse-2026-9"
   },
   {
-   "id": "e35d02aab32b",
-   "title": "DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale",
+   "id": "1963a50da237",
+   "title": "The GNOME LLM Policy That I Want",
    "source": "Lobsters",
-   "url": "https://arxiv.org/abs/2609.22978"
+   "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/"
   },
   {
-   "id": "5c70f233b9ff",
-   "title": "Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions",
+   "id": "8b1c60ac1e2c",
+   "title": "A Facebook co-founder proposes creating an \"Office of AI Supervision\" to embed teams inside frontier AI labs, with a three-year term to avoid regulatory capture",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-23/alibaba-to-add-data-centers-in-europe-middle-east-in-ai-push"
+   "url": "https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f"
   },
   {
-   "id": "4c7cb941cc78",
-   "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device",
+   "id": "8544a5fef648",
+   "title": "Anthropic reported disrupting a Beijing-aligned operation to monitor religious leaders and diaspora communities, including a DC-based advocacy group for Tibet",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/"
+   "url": "https://www.wsj.com/opinion/beijing-turns-ai-against-tibetans-worldwide-a95c6132?st=ybtPN4&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "6f154f0d0568",
-   "title": "How to talk about \"AI\" without adding to the anthropomorphization",
-   "source": "Lobsters",
-   "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/"
+   "id": "97d835cc7d00",
+   "title": "German publisher C.H.BECK takes a majority stake in Noxtua, which develops AI tech to research, analyze, and draft legal documents and raised a $100M+ Series C",
+   "source": "Techmeme",
+   "url": "https://tech.eu/2026/09/23/noxtua-raises-more-than-eur100m-as-chbeck-takes-majority-stake-german-legaltech/"
+  },
+  {
+   "id": "30bb23e1b34d",
+   "title": "OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure",
+   "source": "Techmeme",
+   "url": "https://www.bbc.com/news/articles/c90kly26d7pzo"
+  },
+  {
+   "id": "dfb5bccbad7d",
+   "title": "Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+  },
+  {
+   "id": "fe927ad0a185",
+   "title": "Carnegie China: China passed the US as the top destination for elite AI talent in 2025, rising from 2022's 27.1% share to 40.6%; the US fell from 46.4% to 34.2%",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/"
   }
  ]
 }
