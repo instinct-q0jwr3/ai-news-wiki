@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "Google's RRSI (a self-improving agent harness) reports gains on every out-of-distribution benchmark without overfitting the split it evolves on - the inverse of prior methods, whose large evolve-set gains shrink or vanish on new benchmarks, two ending below the harness they started from.",
+    "The method constrains its own edit loop: caps on how much one proposal may change and which measured gains may stick; early rounds may bundle coordinated edits to find a mechanism, late rounds get one attributable change. Every candidate is logged with hypothesis, diff, score and cost; when progress stalls inside the noise band, budget redirects to untouched components; task names, entities, answers and benchmark-specific logic are rejected before scoring; and a gain must clear the variance of the unchanged base harness, with extra inference tokens paid for."
+  ],
+  "highlights": [
+    "Improves every out-of-distribution benchmark without overfitting the evolve split.",
+    "Prior self-improvement methods lose their gains - or regress - when the benchmark changes.",
+    "Constrains proposal size and which measured gains are allowed to stick.",
+    "Logs every candidate with hypothesis, diff, score and cost; redirects budget to untouched components when stalled.",
+    "Rejects benchmark-specific edits pre-scoring; gains must beat base-harness variance."
+  ],
+  "id": "a81da28dcf04",
+  "authored_at": "2026-09-24T12:57:33.521172+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}
