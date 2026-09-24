@@ -1,123 +1,134 @@
 {
-  "xai": {
-    "name": "SpaceXAI (xAI)",
-    "kind": "organization",
-    "terms": [
-      "xai",
-      "spacexai",
-      "grok"
-    ],
-    "overview": "SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcription products, tightly integrated with the X platform. This page follows its model releases, pricing, agent ambitions and competitive positioning against OpenAI, Anthropic and Google."
-  },
-  "amazon": {
-    "name": "Amazon",
-    "kind": "organization",
-    "terms": [
-      "amazon",
-      "aws",
-      "alexa"
-    ],
-    "overview": "Amazon operates the largest cloud platform and a growing AI stack, from AWS infrastructure and chips to shopping agents and marketplace policy. This page tracks its infrastructure investments, model partnerships and its boundary-setting toward third-party agents."
-  },
-  "nvidia": {
-    "name": "NVIDIA",
-    "kind": "organization",
-    "terms": [
-      "nvidia",
-      "jensen huang"
-    ],
-    "overview": "NVIDIA supplies the GPUs, networking and software behind most frontier AI training and inference. This page follows its hardware roadmap, its financing entanglement with AI labs and data centers, and executive commentary on policy and competition."
-  },
-  "softbank": {
-    "name": "SoftBank",
-    "kind": "organization",
-    "terms": [
-      "softbank",
-      "sb energy",
-      "masayoshi son"
-    ],
-    "overview": "SoftBank is one of the largest outside financiers of the AI build-out, anchored by its OpenAI stake and data-center ventures such as SB Energy. This page tracks its fundraising, debt issuance, IPO plans and exposure to the data-center cycle."
-  },
-  "shopify": {
-    "name": "Shopify",
-    "kind": "organization",
-    "terms": [
-      "shopify",
-      "shop pay"
-    ],
-    "overview": "Shopify powers a large share of independent e-commerce and is opening its checkout rails, including Shop Pay, to AI agents that complete purchases on behalf of users. This page follows its agentic-commerce strategy and platform policy."
-  },
-  "xiaomi": {
-    "name": "Xiaomi",
-    "kind": "organization",
-    "terms": [
-      "xiaomi",
-      "mimo"
-    ],
-    "overview": "Xiaomi is extending its device business into foundation models with the MiMo family, whose open-weight releases now rank at the top of independent benchmarks. This page follows its model releases, benchmark results and bid to control the intelligence layer of its own hardware."
-  },
-  "jetbrains": {
-    "name": "JetBrains",
-    "kind": "organization",
-    "terms": [
-      "jetbrains",
-      "junie",
-      "jetbrains air"
-    ],
-    "overview": "JetBrains is expanding beyond the IDE into agentic software development with JetBrains Air, an open, multi-vendor system spanning the Junie coding agent, in-IDE agent direction, team coordination and governance. This page follows its product launches and its bid to own the organizational layer of agent-driven development."
-  },
-  "mistral": {
-    "name": "Mistral",
-    "kind": "organization",
-    "terms": [
-      "mistral",
-      "mistral ai"
-    ],
-    "overview": "Mistral is Europe's flagship foundation-model lab, pairing frontier model releases with applied partnerships such as Apollo, an Ancient Greek LLM built with the Austrian Academy of Science and Sail Reply. This page follows its models, partnerships and positioning in the multi-vendor AI landscape."
-  },
-  "typesafe": {
-    "name": "TypeSafe",
-    "kind": "organization",
-    "terms": [
-      "typesafe",
-      " jev",
-      "classifier.dev",
-      "jevbench"
-    ],
-    "overview": "TypeSafe is the company behind Jev, a typed decision-model spin on large language models that Vercel says was adopted faster than any other model in AI Gateway history. Its classifier.dev service wraps Jev with a confidence-based escalation tier, and the community-run JevBench ranks Jev as the leading typed decision model. The company's staying power is openly debated: analysts argue OpenAI could fast-follow by folding classification into its own models unless TypeSafe's training data and processes form a real moat."
-  },
-  "deepseek": {
-    "name": "DeepSeek",
-    "kind": "organization",
-    "terms": [
-      "deepseek"
-    ],
-    "overview": "DeepSeek is the Chinese AI lab whose open-weight models set the pace for the open ecosystem. This page follows its model releases, its sandbox and training infrastructure work such as DSec, its briefings to international bodies, and the regulatory scrutiny it faces at home and abroad."
-  },
-  "qwen": {
-    "name": "Qwen",
-    "kind": "product",
-    "terms": [
-      "qwen"
-    ],
-    "overview": "Qwen is Alibaba's family of open-weight large language and image models. This page follows Qwen releases such as Qwen-Image, the project's leadership and organization inside Alibaba, and how the family competes with DeepSeek, MiMo and other open-weight lines."
-  },
-  "muse": {
-    "name": "Muse (Meta)",
-    "kind": "product",
-    "terms": [
-      "muse"
-    ],
-    "overview": "Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence Labs and heavily inspired by OpenClaw. This page follows its chart-topping launch, expansion into phone and video calls, computer use and smart glasses, security incidents such as the macOS token zero-day, agentic-commerce integrations like Shop Pay, reporting on its human-agent fallback layer, and rival responses from OpenAI and others."
-  },
-  "rabbit": {
-    "name": "Rabbit",
-    "kind": "company",
-    "terms": [
-      "rabbit r1",
-      "rabbit os3",
-      "jesse lyu"
-    ],
-    "overview": "Rabbit is Jesse Lyu's AI-hardware startup behind the R1 gadget and OS3, a standalone agentic operating system that runs across screens via browser, Telegram and iMessage. This page follows its pivot from panned handheld hardware to the agent-software wave it anticipated."
-  }
+ "xai": {
+  "name": "SpaceXAI (xAI)",
+  "kind": "organization",
+  "terms": [
+   "xai",
+   "spacexai",
+   "grok"
+  ],
+  "overview": "SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcription products, tightly integrated with the X platform. This page follows its model releases, pricing, agent ambitions and competitive positioning against OpenAI, Anthropic and Google."
+ },
+ "amazon": {
+  "name": "Amazon",
+  "kind": "organization",
+  "terms": [
+   "amazon",
+   "aws",
+   "alexa"
+  ],
+  "overview": "Amazon operates the largest cloud platform and a growing AI stack, from AWS infrastructure and chips to shopping agents and marketplace policy. This page tracks its infrastructure investments, model partnerships and its boundary-setting toward third-party agents."
+ },
+ "nvidia": {
+  "name": "NVIDIA",
+  "kind": "organization",
+  "terms": [
+   "nvidia",
+   "jensen huang"
+  ],
+  "overview": "NVIDIA supplies the GPUs, networking and software behind most frontier AI training and inference. This page follows its hardware roadmap, its financing entanglement with AI labs and data centers, and executive commentary on policy and competition."
+ },
+ "softbank": {
+  "name": "SoftBank",
+  "kind": "organization",
+  "terms": [
+   "softbank",
+   "sb energy",
+   "masayoshi son"
+  ],
+  "overview": "SoftBank is one of the largest outside financiers of the AI build-out, anchored by its OpenAI stake and data-center ventures such as SB Energy. This page tracks its fundraising, debt issuance, IPO plans and exposure to the data-center cycle."
+ },
+ "shopify": {
+  "name": "Shopify",
+  "kind": "organization",
+  "terms": [
+   "shopify",
+   "shop pay"
+  ],
+  "overview": "Shopify powers a large share of independent e-commerce and is opening its checkout rails, including Shop Pay, to AI agents that complete purchases on behalf of users. This page follows its agentic-commerce strategy and platform policy."
+ },
+ "xiaomi": {
+  "name": "Xiaomi",
+  "kind": "organization",
+  "terms": [
+   "xiaomi",
+   "mimo"
+  ],
+  "overview": "Xiaomi is extending its device business into foundation models with the MiMo family, whose open-weight releases now rank at the top of independent benchmarks. This page follows its model releases, benchmark results and bid to control the intelligence layer of its own hardware."
+ },
+ "jetbrains": {
+  "name": "JetBrains",
+  "kind": "organization",
+  "terms": [
+   "jetbrains",
+   "junie",
+   "jetbrains air"
+  ],
+  "overview": "JetBrains is expanding beyond the IDE into agentic software development with JetBrains Air, an open, multi-vendor system spanning the Junie coding agent, in-IDE agent direction, team coordination and governance. This page follows its product launches and its bid to own the organizational layer of agent-driven development."
+ },
+ "mistral": {
+  "name": "Mistral",
+  "kind": "organization",
+  "terms": [
+   "mistral",
+   "mistral ai"
+  ],
+  "overview": "Mistral is Europe's flagship foundation-model lab, pairing frontier model releases with applied partnerships such as Apollo, an Ancient Greek LLM built with the Austrian Academy of Science and Sail Reply. This page follows its models, partnerships and positioning in the multi-vendor AI landscape."
+ },
+ "typesafe": {
+  "name": "TypeSafe",
+  "kind": "organization",
+  "terms": [
+   "typesafe",
+   " jev",
+   "classifier.dev",
+   "jevbench"
+  ],
+  "overview": "TypeSafe is the company behind Jev, a typed decision-model spin on large language models that Vercel says was adopted faster than any other model in AI Gateway history. Its classifier.dev service wraps Jev with a confidence-based escalation tier, and the community-run JevBench ranks Jev as the leading typed decision model. The company's staying power is openly debated: analysts argue OpenAI could fast-follow by folding classification into its own models unless TypeSafe's training data and processes form a real moat."
+ },
+ "deepseek": {
+  "name": "DeepSeek",
+  "kind": "organization",
+  "terms": [
+   "deepseek"
+  ],
+  "overview": "DeepSeek is the Chinese AI lab whose open-weight models set the pace for the open ecosystem. This page follows its model releases, its sandbox and training infrastructure work such as DSec, its briefings to international bodies, and the regulatory scrutiny it faces at home and abroad."
+ },
+ "qwen": {
+  "name": "Qwen",
+  "kind": "product",
+  "terms": [
+   "qwen"
+  ],
+  "overview": "Qwen is Alibaba's family of open-weight large language and image models. This page follows Qwen releases such as Qwen-Image, the project's leadership and organization inside Alibaba, and how the family competes with DeepSeek, MiMo and other open-weight lines."
+ },
+ "muse": {
+  "name": "Muse (Meta)",
+  "kind": "product",
+  "terms": [
+   "muse"
+  ],
+  "overview": "Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence Labs and heavily inspired by OpenClaw. This page follows its chart-topping launch, expansion into phone and video calls, computer use and smart glasses, security incidents such as the macOS token zero-day, agentic-commerce integrations like Shop Pay, reporting on its human-agent fallback layer, and rival responses from OpenAI and others."
+ },
+ "rabbit": {
+  "name": "Rabbit",
+  "kind": "company",
+  "terms": [
+   "rabbit r1",
+   "rabbit os3",
+   "jesse lyu"
+  ],
+  "overview": "Rabbit is Jesse Lyu's AI-hardware startup behind the R1 gadget and OS3, a standalone agentic operating system that runs across screens via browser, Telegram and iMessage. This page follows its pivot from panned handheld hardware to the agent-software wave it anticipated."
+ },
+ "gemini": {
+  "name": "Google Gemini",
+  "kind": "product",
+  "terms": [
+   "gemini",
+   "gemini app",
+   "gemini api",
+   "deepmind"
+  ],
+  "overview": "Google's Gemini family spans the consumer app, the API, and a growing set of agentic and media features: Call for Me phone calls on Pixel, Connected Apps, Gemini 3.8 Flash TTS voice models, and Enterprise and Notebook integrations. This page follows Gemini's product rollouts and its positioning against Muse, ChatGPT and other personal agents."
+ }
 }

@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>RRSI: Regularized Recursive Self-Improvement of Agent Harnesses · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790276301"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>RRSI: Regularized Recursive Self-Improvement of Agent Harnesses</h1>
+<p class="meta">type: news-summary · created: 2026-09-24 · updated: 2026-09-24 · confidence: high</p>
+<p><code>tldr-ai</code> <code>agentic-systems</code></p>
+<h2>Summary</h2>
+<p>RRSI (Regularized Recursive Self-Improvement) applies self-improvement loops to agent harnesses while constraining how the loop edits them. The authors report it improves every out-of-distribution benchmark without overfitting the split it evolves on, where prior methods show large evolve-set gains that shrink or vanish once the benchmark changes - two of them ending below the harness they started from.</p>
+<p>The regularization: every harness component stays editable, but the loop limits how much one proposal may change and which measured gains are allowed to stick. Early rounds may bundle a few coordinated edits to find a mechanism; late rounds get one attributable change. Every candidate is logged with its hypothesis, diff, score and cost change, so the proposer builds on what worked and stops re-testing what failed.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Self-improvement of agent harnesses with a constrained edit loop.</li>
+<li>Improves every out-of-distribution benchmark without overfitting the evolve split.</li>
+<li>Prior methods' evolve-set gains shrink or vanish OOD; two ended below their starting harness.</li>
+<li>Early rounds bundle coordinated edits; late rounds get one attributable change.</li>
+<li>Every candidate logged with hypothesis, diff, score and cost change.</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://regularized-rsi.com/">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-24">TLDR AI issue</a></p>
+<h2>Related pages</h2>
+<p><a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

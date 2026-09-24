@@ -1,0 +1,16 @@
+{
+ "id": "b6a79d539c31",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A developer with a PhD in Instrumentation Physics confesses that his site's engine is built entirely with AI - though none of the content is. He describes himself as a scientist who ended up in software, self-taught through reading, open source (Mojolicious), and conferences, specializing in low-level protocols and async patterns across Perl, PHP, Python, Node, Java and more, coding in Vim and recently working with Kubernetes.",
+  "He frames the post as 'a long and somewhat sad story' about how that craft changed a few years ago, and asks the reader's forgiveness."
+ ],
+ "highlights": [
+  "Confession: the site's engine is all AI-built; none of the content is.",
+  "Author: instrumentation physicist turned self-taught software developer.",
+  "Background in low-level protocols, async patterns, many languages, Vim, Kubernetes.",
+  "Frames the shift to AI-built tooling as 'a long and somewhat sad story'."
+ ]
+}

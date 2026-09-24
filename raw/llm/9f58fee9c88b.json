@@ -1,0 +1,17 @@
+{
+ "id": "9f58fee9c88b",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "An essay on post-training for robotics opens with a rambling GPT-2 sample about roasting a chicken to mark where language models stood - and argues frontier robotics models (Physical Intelligence, Generalist, DeepMind) now look like language models in the GPT-2 days, with pretrained models capable of genuinely complex tasks.",
+  "The catch: complex behavior does not equal reliability. A robot that loads dishes correctly 95% of the time will break something every week in a home full of glass, pets and kids, so a pretrained generalist policy cannot be deployed as-is - hence the case for universal post-training."
+ ],
+ "highlights": [
+  "Frontier robotics models look like LMs in the GPT-2 days, the essay argues.",
+  "Pretrained models from Physical Intelligence, Generalist and DeepMind already do complex tasks.",
+  "Complex behavior is not reliability: 95% dish-loading still breaks things weekly at home.",
+  "A pretrained generalist policy cannot be deployed as-is.",
+  "Makes the case for universal post-training for robotics."
+ ]
+}

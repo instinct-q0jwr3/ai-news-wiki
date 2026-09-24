@@ -1,0 +1,18 @@
+{
+ "id": "7ebd7bc9adad",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "AgentRun is a workflow language (DSL) for the agents developers already run: define repeatable steps, use Jev for focused decisions, and call an agent when the work needs investigation, while the application keeps its tools, model access, permissions and budgets.",
+  "It is distributed as an npm beta (@parcha/agentrun-dsl, Node 22.19+). A ticket-routing demo runs with scripted decisions and needs no API key, and a Pi extension lets an agent help build workflows."
+ ],
+ "highlights": [
+  "DSL that turns agents into repeatable workflows.",
+  "Jev handles focused decisions; agents are called for investigation work.",
+  "The host app keeps its tools, model access, permissions and budgets.",
+  "npm beta: @parcha/agentrun-dsl; requires Node 22.19+.",
+  "Scripted ticket-routing demo needs no API key.",
+  "Pi extension builds workflows with your agent."
+ ]
+}

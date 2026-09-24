@@ -1,0 +1,798 @@
+{
+  "generated_at": "2026-09-24T18:55:41+00:00",
+  "errors": [],
+  "items": [
+    {
+      "source": "Hacker News",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "",
+      "score": 1788,
+      "comments": 1111,
+      "id": "6e142cae15e5",
+      "ai_matches": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "",
+      "score": 1762,
+      "comments": 835,
+      "id": "8375187ae71f",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "https://archive.ph/0V37g",
+      "score": 943,
+      "comments": 531,
+      "id": "8358f7b45bd7",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "",
+      "score": 749,
+      "comments": 765,
+      "id": "246da2e2481d",
+      "ai_matches": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "summary": "",
+      "score": 666,
+      "comments": 208,
+      "id": "c1f415621917",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux support is coming to Snapdragon X2 series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": "",
+      "score": 583,
+      "comments": 244,
+      "id": "db8e779b5d9c",
+      "ai_matches": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "summary": "",
+      "score": 571,
+      "comments": 346,
+      "id": "7914128328fe",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "summary": "",
+      "score": 476,
+      "comments": 279,
+      "id": "03ed461abfa9",
+      "ai_matches": [
+        "agents",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "summary": "",
+      "score": 358,
+      "comments": 388,
+      "id": "29134683d098",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "summary": "",
+      "score": 324,
+      "comments": 144,
+      "id": "13123bf3c886",
+      "ai_matches": [
+        "ai",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "summary": "",
+      "score": 243,
+      "comments": 251,
+      "id": "1ad93e415f35",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "summary": "",
+      "score": 205,
+      "comments": 191,
+      "id": "b8f0bee377b2",
+      "ai_matches": [
+        "ai",
+        "ai agent"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Best LLM for every budget, updated daily",
+      "url": "https://bestmodelforyourbudget.terrydjony.com/",
+      "summary": "",
+      "score": 144,
+      "comments": 96,
+      "id": "7abaa19a2a04",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "summary": "",
+      "score": 143,
+      "comments": 89,
+      "id": "0427dd1e9481",
+      "ai_matches": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "summary": "",
+      "score": 126,
+      "comments": 44,
+      "id": "98977c5332a7",
+      "ai_matches": [
+        "ai",
+        "chatgpt",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+      "summary": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-cente...",
+      "score": 114,
+      "comments": 109,
+      "id": "7e555752ec03",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard, an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard and our homepage: https://whiteboard.dev.fast/ We were missing the feeling of a “whiteboard session” with another dev where you leave with a deep understanding of a system, so we built this app for ourselves. Whiteboard plugs into the tools you already use - e.g. Claude Code, Codex, etc. – and gives your agent an SDK to draw on an in-app canvas to describe its work. We began with an MVP based on HTML artifacts and started rethinking the app as we ran into limitations: 1. Built on top of CodeOSS: We found that in pure HTML tools it was hard to connect a spec or diagram to code. In Whiteboard, when you click on visualizations like a sequence diagram, an entity relationship diagram, or a quote from the agent’s trace, you can jump to the underlying code directly. When navigating code, you get keybindings and LSP support from VSCode out of the box. We’ve found this is especially valuable because tradeoffs are often only discovered after a first pass at implementation (re: slop) 2. Semantic diff viewer: we wrote a semantic, AST-aware diff viewer in Rust so you can only view the code changes which are relevant to you [1]. We’ve set up some sane defaults: large added functions are summarized as pseudocode, and things like unit tests and large documentation changes are collapsed / hidden. This is all customizable with a WASM-based plugin system. 3. Decision Log: We found it difficult to reason about what set of decisions our agents made autonomously. So we built tools for agents to query and link their own traces to the Whiteboard, so you can understand how the requirements that you set were implemented, and understand what decisions your agent made autonomously. Here’s a quick demo video explaining more: https://youtu.be/ChPn3ftULWE Folks at companies like Salesforce and Modal are using Whiteboard today as a review tool for architecture or spec-level changes – really any change where they want to be involved: 1. Reviewing your own coding agent’s work: because Whiteboard makes it easier to review large amounts of code, folks will typically have their AI agents create a prototype and a corresponding Whiteboard session so they can iterate on the design. 2. Reviewing other people’s changes: We’ve found that Whiteboard is particularly helpful when composed with tools like Greptile. For example, you can run an automated code reviewer on small changes and escalate to a Whiteboard session for the changes that require human judgement. Why we built this: we’re four buddies from college who quit our jobs as tech leads right before agentic coding became industry standard. As we iterated towards an MVP for a previous idea, we struggled to maintain a comprehensible codebase while reaping all the velocity benefits of agentic coding. As more PRs were merged without our understanding, we felt a ‘cognitive debt’ begin to seep in, until it became difficult for us to even contribute to the system [2]. We’re releasing our desktop app under an MIT license. Please poke through and feel free to contribute! Eventually we’ll charge companies for a hosted web version that manages whiteboard session creation alongside features like trajectory storage and multiplayer reviews. Everything will always remain self-hostable. Thanks for reading, and we hope you try it out! We would love to hear any feedback and to learn from your expertise. Here’s are the project links again: https://github.com/devdotfast/whiteboard , and you can install (for MacOS + Linux) at https://install.dev.fast [1] diffs library: https://github.com/devdotfast/diffr [2] Credit for the term ‘cognitive debt’ goes to https://www.geoffreylitt.com/2026/07/02/understanding-is-the...",
+      "score": 78,
+      "comments": 20,
+      "id": "528aa11f5bcc",
+      "ai_matches": [
+        "agentic",
+        "agents",
+        "ai",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cloud Agents Are Inevitable AI Prisons",
+      "url": "https://normanponte.io/19df691f",
+      "summary": "",
+      "score": 68,
+      "comments": 143,
+      "id": "c7dfd5de1890",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "What Is RLCD? The Secret Behind Jev",
+      "url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
+      "summary": "",
+      "score": 59,
+      "comments": 7,
+      "id": "b1dc07b2fd2b",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Humans Are Reading Your ChatGPT Chats, Lawsuit Claims",
+      "url": "https://openclassactions.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php",
+      "summary": "",
+      "score": 37,
+      "comments": 13,
+      "id": "53a65e948cd1",
+      "ai_matches": [
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
+      "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
+      "summary": "",
+      "score": 36,
+      "comments": 38,
+      "id": "b6a79d539c31",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI safety is mostly a sex cult in Berkeley",
+      "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+      "summary": "",
+      "score": 27,
+      "comments": 4,
+      "id": "6dfac56d9060",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is A.I. Above the Law?",
+      "url": "https://www.newyorker.com/magazine/2026/09/28/is-ai-above-the-law",
+      "summary": "",
+      "score": 18,
+      "comments": 11,
+      "id": "85f2f8940dc5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "",
+      "score": 16,
+      "comments": 1,
+      "id": "f2cce3a179de",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "summary": "Hi HN, I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation. Our harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full agent loop where one isn’t needed. For example, a research workflow can split a question into subquestions, send agents to research them in parallel, use Jev to screen the evidence, and have another agent write the report. You can inspect the steps, evaluate the evidence screening separately, or change one agent without rebuilding everything. The DSL and examples are in our GitHub. There’s a scripted demo you can run without API keys: https://github.com/Parcha-ai/agentrun You can also use it as a Pi extension to build, inspect, and run workflows: https://github.com/Parcha-ai/agentrun#use-it-in-pi I would love to hear if this is useful to others. More background on how AgentRun works in this video: https://www.youtube.com/watch?v=vOVhtGjtwpg . Or read about our use cases in this article: https://x.com/MiguelriosEN/status/2101029313906987422 .",
+      "score": 16,
+      "comments": 1,
+      "id": "7ebd7bc9adad",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+      "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+      "summary": "",
+      "score": 10,
+      "comments": 5,
+      "id": "06ffdceccf93",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta puts its AI assistant on a keychain",
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "summary": "",
+      "score": 6,
+      "comments": 8,
+      "id": "3e28667b1bb8",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Million Agents Is a Distributed System Problem",
+      "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
+      "summary": "",
+      "score": 4,
+      "comments": 0,
+      "id": "a1a07ef5eb13",
+      "ai_matches": [
+        "agents"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "summary": "Pacing gathers pace.",
+      "id": "db8f162a8ee3",
+      "ai_matches": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "summary": "overshadowing more efficient GPT6 models from OpenAI",
+      "id": "8eabd886b67b",
+      "ai_matches": [
+        "claude",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+      "id": "f182d3c99318",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "mistral",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "summary": "A dash of cold water keeps the foomers away.",
+      "id": "01b776d72b0e",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+      "url": "https://www.latent.space/p/good-start-labs",
+      "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+      "id": "71e942606bf5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "url": "https://www.latent.space/p/jev",
+      "summary": "The definitive Jev podcast with its lead creator.",
+      "id": "5e34a38be50a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "url": "https://www.latent.space/p/aiuc",
+      "summary": "We sit down with AIUC’s CEO on their Series A!",
+      "id": "87caad99075d",
+      "ai_matches": [
+        "agents"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+      "url": "https://www.latent.space/p/john-platt",
+      "summary": "We talked to Google’s Oscar winning “Giganerd” about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+      "id": "c6e9612c0a29",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
+      "id": "a8fff3fdb173",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "AI Workers' Inquiry 2026",
+      "url": "https://techworkersinquiry.org/ai/",
+      "summary": "Comments",
+      "id": "b552108697d7",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "The GNOME LLM Policy That I Want",
+      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+      "summary": "Comments",
+      "id": "1963a50da237",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "Watermarking in vLLM",
+      "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
+      "summary": "Comments",
+      "id": "49c96a49ab22",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "2026.37: Duo Threats",
+      "url": "https://stratechery.com/2026/duo-threats/",
+      "summary": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
+      "id": "07031689ff8a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "id": "6cb998ccdf39",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "id": "530b89134ef6",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "id": "4d93ed21993f",
+      "ai_matches": [
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+      "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+      "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+      "id": "ddae676a8433",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+      "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
+      "id": "e1c383e8adc8",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "A new wave of Connected Apps is rolling out to Gemini",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+      "summary": "TLDR AI selected this story in its latest issue: A new wave of Connected Apps is rolling out to Gemini.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "80651cbe53e2",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Amjad Masad on Rethinking College for the AI Era",
+      "url": "https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-sOmuMQGQ",
+      "summary": "TLDR AI selected this story in its latest issue: Amjad Masad on Rethinking College for the AI Era.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "ec56500ac4a9",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Claude Discovered a Novel Enzyme System",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "TLDR AI selected this story in its latest issue: Claude Discovered a Novel Enzyme System.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "52ce3f318f7d",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Escaping SPACE: Part I",
+      "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-i",
+      "summary": "TLDR AI selected this story in its latest issue: Escaping SPACE: Part I.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "491f873500c5",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Google plans AI memory that even Google cannot read",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "summary": "TLDR AI selected this story in its latest issue: Google plans AI memory that even Google cannot read.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "4a33c99c10fd",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Google's new speech models can design and direct voices",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "summary": "TLDR AI selected this story in its latest issue: Google's new speech models can design and direct voices.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "a3e10aaf1930",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "How Accurate Have AI Progress Forecasts Been So Far?",
+      "url": "https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy",
+      "summary": "TLDR AI selected this story in its latest issue: How Accurate Have AI Progress Forecasts Been So Far?.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "44e8921b6419",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Introducing Comfy Router: One API for Frontier Media Models",
+      "url": "https://blog.comfy.org/p/introducing-comfy-router-one-api",
+      "summary": "TLDR AI selected this story in its latest issue: Introducing Comfy Router: One API for Frontier Media Models.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "93faebe3e822",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Introducing Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "summary": "TLDR AI selected this story in its latest issue: Introducing Ember-1.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "de514be9cac9",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "OpenAI introduced MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench/",
+      "summary": "TLDR AI selected this story in its latest issue: OpenAI introduced MentalHealthBench.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "ac820aa14cb6",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Qwen Intelligence Launches Three Mobile AI Agents",
+      "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753",
+      "summary": "TLDR AI selected this story in its latest issue: Qwen Intelligence Launches Three Mobile AI Agents.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "2b6ab9ff4400",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "url": "https://regularized-rsi.com/",
+      "summary": "TLDR AI selected this story in its latest issue: RRSI: Regularized Recursive Self-Improvement of Agent Harnesses.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "0ceac45e5689",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "tev1-4B-experimental",
+      "url": "https://threadreaderapp.com/thread/2102882216950763814.html",
+      "summary": "TLDR AI selected this story in its latest issue: tev1-4B-experimental.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "f594d2be2010",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Towards Universal Post-Training for Robotics",
+      "url": "https://pd-perry.github.io/posts/post-training.html",
+      "summary": "TLDR AI selected this story in its latest issue: Towards Universal Post-Training for Robotics.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "9f58fee9c88b",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders (Isabella Simonetti/Wall Street Journal)",
+      "url": "https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322?st=BayjT8&reflink=desktopwebshare_permalink",
+      "summary": "Isabella Simonetti / Wall Street Journal : Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders — Company, which uses robots for sorting and moving packages inside warehouses, is among world's top manufacturers of them",
+      "id": "64658baaef0b",
+      "ai_matches": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "At a White House summit, Xi Jinping says the US and China share the \"capability and responsibility\" to manage AI for good and calls for healthy competition (Abigail Hauslohner/Financial Times)",
+      "url": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
+      "summary": "Abigail Hauslohner / Financial Times : At a White House summit, Xi Jinping says the US and China share the “capability and responsibility” to manage AI for good and calls for healthy competition — Israeli leader's speech comes on high-profile day for international relations as Donald Trump hosts Xi Jinping at the White House",
+      "id": "2050b7581ed7",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US (Sarah Perez/TechCrunch)",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "summary": "Sarah Perez / TechCrunch : Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US — With AI agents like Meta's Muse and Instinct now able to make calls on users' behalf, Google is now letting Gemini call businesses with a new feature called “Call for Me.”",
+      "id": "53cca45fdc97",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year (New York Times)",
+      "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&smid=nytcore-ios-share",
+      "summary": "New York Times : Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year — Technicians in a clean room at the Planet Labs office inspect the solar panels and wires of a Google-commissioned satellite …",
+      "id": "b203a8782eaf",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "OpenAI discovered the Australian breach in August but didn't alert the government until September 10, when it sent an email to a generic disclosure address (Shakeel Hashim/Transformer)",
+      "url": "https://www.transformernews.ai/p/openai-australia-hack-least-worrying-part",
+      "summary": "Shakeel Hashim / Transformer : OpenAI discovered the Australian breach in August but didn't alert the government until September 10, when it sent an email to a generic disclosure address — OpenAI didn't tell Australia about the hack for weeks — raising serious questions about how it handles rogue AI incidents",
+      "id": "2616d7338b6d",
+      "ai_matches": [
+        "ai",
+        "openai",
+        "transformer"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: a White House memo paints effective altruism as a fringe, dangerous cult that \"built the AI-doom pipeline\" and places Dario Amodei at its foundation (Axios)",
+      "url": "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
+      "summary": "Axios : Sources: a White House memo paints effective altruism as a fringe, dangerous cult that “built the AI-doom pipeline” and places Dario Amodei at its foundation — President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI “doomerism” and a founding father …",
+      "id": "ffb9a41ae00d",
+      "ai_matches": [
+        "ai",
+        "anthropic"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs (The Information)",
+      "url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape",
+      "summary": "The Information : Sources: Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs — Google, OpenAI and Anthropic are pushing forward with a plan to create a new AI safety-focused standards body on their own …",
+      "id": "b3fc26ffc991",
+      "ai_matches": [
+        "ai",
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "summary": "Jeff Stein / The Washington Sun : Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year — The price tag is significantly higher than previously known. — Copy — The National Security Agency told lawmakers …",
+      "id": "3a302fa6632d",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+      "url": "https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769",
+      "summary": "Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed — The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until …",
+      "id": "3201d41ea16a",
+      "ai_matches": [
+        "anthropic",
+        "artificial intelligence",
+        "openai"
+      ]
+    }
+  ]
+}

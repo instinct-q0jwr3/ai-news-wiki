@@ -1,0 +1,17 @@
+{
+ "id": "2b6ab9ff4400",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Qwen launched Qwen Intelligence with three mobile agents it calls SOTA: a Mobile Planner Agent that plans, decomposes and orchestrates complex tasks (#1 on MobilePA-Bench, MobilePA-Bench Business and Memory); a Mobile-Use Agent that executes tasks API-first with GUI fallback (MobileWorld 82.1, MobileWorld-Real 92.2, AndroidDaily 97.2, 90% end-to-end success rate); and a Mobile Creative Agent that turns one sentence into ready-to-use creations, generating images in 3 seconds, about 2x faster than leading peers.",
+  "The team is also opening its benchmark suite - MobilePA-Bench, MobileWorld, MobileWorld-Real and MobileWorld-Safety - covering planning, cross-app execution, real-device performance and safety. Resources live at qwenintelligence.com, GitHub and arXiv."
+ ],
+ "highlights": [
+  "Qwen Intelligence launches with three mobile agents.",
+  "Mobile Planner Agent: #1 on MobilePA-Bench and variants.",
+  "Mobile-Use Agent: API-first with GUI fallback; 90% end-to-end success.",
+  "Mobile Creative Agent: one sentence to creations; images in 3s.",
+  "Open benchmark suite: MobilePA-Bench, MobileWorld, MobileWorld-Real, MobileWorld-Safety."
+ ]
+}

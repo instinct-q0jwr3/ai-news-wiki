@@ -1,0 +1,18 @@
+{
+ "id": "528aa11f5bcc",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Whiteboard (YC W26) is an open-source desktop IDE where humans and agents architect software together in a common workspace. It plugs into the tools developers already use, such as Claude Code and Codex, and gives the agent an SDK to draw on an in-app canvas to describe its work - for example proposing API examples and motivations for a stack of commits, or explaining the telemetry changes in a PostHog PR and how to build dashboards from them.",
+  "The makers say Whiteboard works best with frontier models such as GPT-6 Sol and Claude. It is available as a macOS download, with the code on GitHub and a one-minute demo video."
+ ],
+ "highlights": [
+  "Open-source desktop IDE for humans and agents to architect software together.",
+  "Plugs into existing agent tools like Claude Code and Codex.",
+  "Agents get an SDK to draw their plans on an in-app canvas.",
+  "Example use: propose an API for a commit stack, or explain a PostHog telemetry PR.",
+  "Works best with models like GPT-6 Sol and Claude, per the authors.",
+  "YC W26; macOS download, code on GitHub."
+ ]
+}

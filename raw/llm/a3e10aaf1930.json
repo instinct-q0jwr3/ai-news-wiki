@@ -1,0 +1,17 @@
+{
+ "id": "a3e10aaf1930",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Google DeepMind introduced Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, described as its most expressive audio generation models yet. They can generate custom character voices and direct scene dialogue - accent through emotional tone - across Google AI Studio, the Gemini API, Gemini Enterprise, Gemini Notebook and Google Vids.",
+  "Google pitches the models for audiobooks, games and podcasts that sound like real people talking, and says safety features are included so the voices are used responsibly. The September 23 post is by Leland Rechis and Alan Cowen on behalf of the Gemini Audio Team."
+ ],
+ "highlights": [
+  "Gemini 3.8 Flash TTS and Flash-Lite TTS are Google's most expressive audio models yet.",
+  "Create custom voices and direct dialogue, from accent to emotional tone.",
+  "Available in AI Studio, Gemini API, Enterprise, Notebook and Vids.",
+  "Pitched for audiobooks, games and podcasts.",
+  "Safety features ship with the models."
+ ]
+}

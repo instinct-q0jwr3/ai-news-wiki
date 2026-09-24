@@ -1,0 +1,17 @@
+{
+ "id": "a1a07ef5eb13",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "An Instacloud blog post argues that a million agents is a distributed system problem: one agent is a worker, a thousand agents is an organization, and an organization of machines is a distributed system. It cites recent research warnings: unrestricted access to LLM or tool resources can lead to inefficient or harmful allocation; the 'more agents' approach hits a ceiling and can degrade performance; and agents spontaneously form coordination topologies yet systematically fail to synthesize distributed state into correct answers.",
+  "The author's frame: agents can technically run forever, but they run on finite stuff - tokens, context, compute, memory, tools, money. Humans cope the same way: we write the important parts down, sleep, and come back with a clear head."
+ ],
+ "highlights": [
+  "Thesis: a million agents is an organization, i.e. a distributed system.",
+  "Cites research: unrestricted resource access leads to inefficient or harmful allocation.",
+  "'More agents' hits a ceiling and can degrade performance.",
+  "Agents form coordination topologies but fail to synthesize distributed state into correct answers.",
+  "Agents run on finite tokens, context, compute, memory, tools and money."
+ ]
+}

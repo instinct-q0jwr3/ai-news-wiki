@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Watermarking in vLLM · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790276301"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Watermarking in vLLM</h1>
+<p class="meta">type: news-summary · created: 2026-09-24 · updated: 2026-09-24 · confidence: high</p>
+<p><code>lobsters</code></p>
+<h2>Summary</h2>
+<p>Comments Establishing the provenance of digital content is essential to build trust and accountability in the information we share.</p>
+<p>Watermarking offers a solution: it alters a work to embed a message about it [1] , for instance its provenance.</p>
+<p>Watermarking should add minimal latency and memory overhead to generation and detection.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Images and audio can embed watermarks as a subtle perturbation, but these techniques are not applicable to text due to its discrete nature.</li>
+<li>Instead of trying to perturb the text itself, we influence the generation process in a way that is detectable but does not modify the expected output distribution.</li>
+<li>Watermarking text is both a scientific and engineering challenge, and there are several requirements that we must aim to balance to have a practical solution: Adding a watermark should not modify the expected output distribution of a…</li>
+<li>A good watermarking system aims to preserve its provenance signal even under such modification.</li>
+<li>This is particularly important in a high-throughput serving engine such as vLLM.</li>
+<li>Detecting watermarking on text should require as little information as possible: users seeking to determine the source of a piece of writing may not necessarily have additional information on its origin, such as its date of creation or…</li>
+<li>Watermarking instead derives reproducible keyed values from the recent context and each candidate token.</li>
+<li>See the watermarking documentation for configuration and detection examples. vLLM now supports distortion-free watermarking using the Gumbel-max algorithm, with efficient GPU generation and speculative decoding support.</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://vllm.ai/blog/2026-09-24-watermarking-in-vllm">Read the original story</a></p>
+<h2>Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

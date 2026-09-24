@@ -1,0 +1,18 @@
+{
+ "id": "53cca45fdc97",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "TechCrunch reports that Google is testing 'Call for Me', a feature that lets Gemini call businesses on users' behalf, as agents like Meta's Muse and Instinct already make calls for their users. It rolls out first to US Pixel 11 owners with a paid Gemini subscription, and requires the beta version of Google's Phone app for Android while it remains an experiment.",
+  "Compared with Google's earlier AI-guided calling, Gemini will be able to share personal information the user approves during calls, allowing a broader set of actions; users can follow the call as it happens and take over at any time, and calls are placed from the user's own phone number."
+ ],
+ "highlights": [
+  "'Call for Me' lets Gemini phone businesses on a user's behalf.",
+  "Initial rollout: US Pixel 11 owners with a paid Gemini subscription, beta Phone app.",
+  "Gemini can share user-approved personal info during calls.",
+  "Users can watch the call live and take over anytime.",
+  "Calls use the user's own phone number.",
+  "Context: Meta's Muse and Instinct already place calls for users."
+ ]
+}

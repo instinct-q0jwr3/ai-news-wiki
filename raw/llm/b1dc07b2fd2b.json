@@ -1,0 +1,18 @@
+{
+ "id": "b1dc07b2fd2b",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "This blog post argues that Jev looks mysterious as an alternative to a language model but becomes simple when seen as the next step in reward modeling. The core idea is RLCD, a schema-conditioned Plackett-Luce objective that moves from pairwise reward modeling to calibrated, multiway decisions; Jev turns that objective into a product by adding typed outputs and parallel inference. 'The reward model is no longer hidden behind a generator. The reward model becomes the model.'",
+  "The motivation: conventional reward models map a context and candidate answer to a scalar score, but that number is not actually absolute - a reward of 0.8 has no stable meaning across problems, candidate pools, checkpoints, or model families, and is mainly useful for comparing candidates generated under similar conditions."
+ ],
+ "highlights": [
+  "Frames Jev as the next step in reward modeling, not an alternative LM.",
+  "RLCD is a schema-conditioned Plackett-Luce objective: calibrated multiway decisions.",
+  "Jev productizes it with typed outputs and parallel inference.",
+  "'The reward model becomes the model.'",
+  "Conventional scalar rewards are not absolute: they shift across problems, pools, checkpoints and model families.",
+  "Outcome reward models score final answers; process reward models score individual steps."
+ ]
+}

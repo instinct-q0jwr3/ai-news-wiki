@@ -1,0 +1,18 @@
+{
+ "id": "7abaa19a2a04",
+ "authored_at": "2026-09-24T18:57:53.310677+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Best LLM for Every Budget is a daily-updated site that plots blended cost per million tokens (3:1 input:output, log scale) against an Intelligence Index, turning the model frontier into a lookup table: find the row your budget falls in and the pick is the highest-scoring model available at that price, with a runner-up that also fits. A diff view tracks changes between consecutive daily fetches - new models, removed models, and re-scored or re-priced ones - and columns are sortable, with model names linking to their Artificial Analysis pages.",
+  "Data comes from the Artificial Analysis free API, fetched daily by a GitHub Actions cron; code and data are published at github.com/terryds/bestvaluemodel."
+ ],
+ "highlights": [
+  "Plots blended cost per 1M tokens (3:1 input:output, log scale) against an Intelligence Index.",
+  "The frontier as a lookup table: a pick and a runner-up for each budget row.",
+  "Daily diffs list new, removed, re-scored and re-priced models.",
+  "Sortable columns; model names link to Artificial Analysis.",
+  "Data: Artificial Analysis free API, refreshed daily via GitHub Actions cron.",
+  "Code and data at github.com/terryds/bestvaluemodel."
+ ]
+}
