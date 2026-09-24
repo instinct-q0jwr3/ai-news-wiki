@@ -8,7 +8,7 @@ _type: news-summary · created: 2026-09-23 · updated: 2026-09-24 · confidence:
 
 China's push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring …
 
-_Extractive summary: the original source could not be fully accessed._
+_The original source is behind a paywall._
 
 ## Source
 

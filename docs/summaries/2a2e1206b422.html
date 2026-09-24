@@ -1,9 +1,21 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AX · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790254705"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>AX</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AX · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790266320"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>AX</h1>
 <p class="meta">type: news-summary · created: 2026-09-21 · updated: 2026-09-24 · confidence: high</p>
 <p><code>tldr-ai</code></p>
 <h2>Summary</h2>
-<p>AX. TLDR AI selected it as an AI-relevant development.</p>
-<p class="meta">Extractive summary: the original source could not be fully accessed.</p>
+<p>Declare an agentic task with workspaces and gateway specifications.</p>
+<p>AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.</p>
+<p>AX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Warning We are still actively refining our core concepts, protocols, and specifications.</li>
+<li>We will likely to introduce major breaking changes prior to a stable release.</li>
+<li>It runs on top of Agent Substrate for sandboxed execution and is built to run billions of tasks per cluster.</li>
+<li>They are neither stateless microservices nor run-to-completion batch jobs.</li>
+<li>They accumulate state, need strict isolation, call out to model APIs and tool servers, and can burn money in a loop if nobody is watching.</li>
+<li>AX gives you four small primitives that handle all of that declaratively: Everything is expressed as ax.io/v1alpha1 manifests and applied with a single command. go install github.com/google/ax/cmd/ax@latest This puts the ax binary in…</li>
+<li>You need a Kubernetes cluster, ko ( brew install ko ), a container registry your cluster can pull from, and a reachable Agent Substrate Control API (in-cluster default: api.ate-system.svc.cluster.local:443 ). make deploy AX_IMAGE_REPO=…</li>
+<li>It applies a custom workspace, waits for readiness, runs commands over ax ssh , and suspends the task. ax talks to the control plane over gRPC.</li>
+</ul>
 <h2>Source</h2>
 <p><a href="https://github.com/google/ax">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-21">TLDR AI issue</a></p>
 <h2>Related pages</h2>

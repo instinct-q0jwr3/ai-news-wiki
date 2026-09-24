@@ -6,13 +6,9 @@ _type: news-summary · created: 2026-09-22 · updated: 2026-09-24 · confidence:
 
 ## Summary
 
-Will Oremus / The Atlantic : Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments — Professors are tearing their hair out over…
+Professors are tearing their hair out over AI detectors. — Timothy Paustian has tried everything to stop his students from writing essays with AI.
 
-Christopher Gregory-Rivera for The Atlantic The Northern Passage ICE is targeting Haitians with new intensity.
-
-Now some are fleeing the United States for Canada.
-
-_Extractive summary: the original source could not be fully accessed._
+_The original source is behind a paywall._
 
 ## Source
 

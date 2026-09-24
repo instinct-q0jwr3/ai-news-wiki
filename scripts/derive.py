@@ -50,7 +50,15 @@ import html as _html, time, urllib.request
 
 CACHE=ROOT/'raw'/'cache'/'sources'
 FETCH_BUDGET_S=420; FETCH_DELAY_S=0.8; MAX_FETCHES=150; MAX_TEXT=60000
-UA={'User-Agent':'ai-news-wiki/1.0 (+https://instinct-q0jwr3.github.io/ai-news-wiki/)','Accept':'text/html,application/xhtml+xml'}
+UA={'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8','Accept-Language':'en-US,en;q=0.9'}
+PAYWALL_DOMAINS={'wsj.com','ft.com','bloomberg.com','nytimes.com','theinformation.com','science.org','sfchronicle.com','theathletic.com','washingtonpost.com','economist.com','newyorker.com','thetimes.co.uk','latimes.com','hbr.org','foreignaffairs.com','theatlantic.com','technologyreview.com','statnews.com','barrons.com','afr.com','theaustralian.com.au','bizjournals.com','seekingalpha.com'}
+WALL_MARKERS=re.compile(r'subscribe to (continue|keep reading|read)|subscription (is )?required|sign in to continue|already a subscriber|this (article|story|content) is for (our )?(subscribers|members)|premium (article|content)|create a free account|to keep reading,? (please )?(sign in|subscribe|register)|unlock this article|behind a paywall|support (our|independent) journalism',re.I)
+BOTBLOCK_MARKERS=re.compile(r'cf-chl|just a moment|verify you are a human|checking your browser|are you a robot|attention required|access denied|px-captcha|perimeterx|datadome|request blocked',re.I)
+def classify_block(body,http_code=None):
+    seg=(body or '')[:60000]
+    if WALL_MARKERS.search(seg): return 'paywall'
+    if http_code in (401,402,403) or BOTBLOCK_MARKERS.search(seg): return 'bot-block'
+    return 'error'
 SOURCES={}; RICH={}; NEW_IDS=set(); NEW_STORIES=[]; LATEST_DAY=''; MERGED={}
 
 STOPWORDS=set('a an the and or but if then else when at by for with about into through during before after above below to from up down in out on off over under again further once here there all any both each few more most other some such no nor not only own same so than too very can will just should now is are was were be been being have has had having do does did doing would could ought i you he she it we they them his her its our their this that these those am of as'.split())
@@ -63,11 +71,18 @@ _opener=urllib.request.build_opener(_RedirectHandler)
 
 def fetch_url(url):
     req=urllib.request.Request(url,headers=UA)
-    with _opener.open(req,timeout=10) as r:
-        ct=r.headers.get('content-type','')
-        if 'html' not in ct: return None,f'unsupported content-type: {ct}'
-        raw=r.read(1500000)
-    return raw.decode('utf-8','replace'),None
+    try:
+        with _opener.open(req,timeout=10) as r:
+            ct=r.headers.get('content-type','')
+            if 'html' not in ct: return None,f'unsupported content-type: {ct}','error'
+            raw=r.read(1500000)
+        return raw.decode('utf-8','replace'),None,None
+    except urllib.error.HTTPError as e:
+        try: seg=e.read(60000).decode('utf-8','replace')
+        except Exception: seg=''
+        return None,f'HTTP {e.code}',classify_block(seg,e.code)
+    except Exception as e:
+        return None,str(e)[:160],'error'
 
 def html_to_text(h):
     h=re.sub(r'(?is)<(script|style|noscript|svg|form|nav|footer|header|aside|iframe)[^>]*>.*?</\1>',' ',h)
@@ -93,8 +108,10 @@ def cache_entry(x):
             if c.get('status')=='error' and age<86400: return c,True
     return None,False
 
-def save_entry(x,status,text,note=''):
-    (CACHE/f"{x['id']}.json").write_text(json.dumps({'url':x.get('url'),'fetched_at':dt.datetime.now(dt.timezone.utc).isoformat(),'status':status,'note':note,'text':text[:MAX_TEXT]},ensure_ascii=False))
+def save_entry(x,status,text,note='',kind=None):
+    d={'url':x.get('url'),'fetched_at':dt.datetime.now(dt.timezone.utc).isoformat(),'status':status,'note':note,'text':text[:MAX_TEXT]}
+    if kind: d['block']=kind
+    (CACHE/f"{x['id']}.json").write_text(json.dumps(d,ensure_ascii=False))
 
 def enrich_sources(xs):
     stats={'cache_hit':0,'fetched_ok':0,'fetched_thin':0,'fetch_error':0,'budget_skipped':0}
@@ -107,21 +124,26 @@ def enrich_sources(xs):
         if fetches>=MAX_FETCHES or time.monotonic()-start>FETCH_BUDGET_S:
             SOURCES[x['id']]={}; stats['budget_skipped']+=1; continue
         fetches+=1; time.sleep(FETCH_DELAY_S)
-        body,err=None,None
+        body,err,kind=None,None,None
         for attempt in (1,2):
-            try: body,err=fetch_url(url)
-            except Exception as e: body,err=None,str(e)[:160]
+            try: body,err,kind=fetch_url(url)
+            except Exception as e: body,err,kind=None,str(e)[:160],'error'
             if body: break
             time.sleep(FETCH_DELAY_S)
         if not body:
-            save_entry(x,'error','',err or 'fetch failed'); SOURCES[x['id']]={'status':'error'}; stats['fetch_error']+=1; continue
+            save_entry(x,'error','',err or 'fetch failed',kind); SOURCES[x['id']]={'status':'error','block':kind}; stats['fetch_error']+=1; continue
         text=html_to_text(body)
         if text:
             probe=text[:2000]; bad=sum(1 for ch in probe if (ord(ch)<32 and ch not in '\n\t') or ord(ch)==0xfffd)
             if bad/max(len(probe),1)>0.05:
                 save_entry(x,'error','','non-text or compressed response body'); SOURCES[x['id']]={'status':'error'}; stats['fetch_error']+=1; continue
         if len(text)<400:
-            save_entry(x,'thin',text,'extracted text under 400 chars'); SOURCES[x['id']]={'status':'thin','text':text}; stats['fetched_thin']+=1
+            kind2=classify_block(body,None)
+            if kind2=='paywall':
+                save_entry(x,'thin',text,'paywall markers in page','paywall'); SOURCES[x['id']]={'status':'thin','text':text,'block':'paywall'}
+            else:
+                save_entry(x,'thin',text,'extracted text under 400 chars'); SOURCES[x['id']]={'status':'thin','text':text}
+            stats['fetched_thin']+=1
         else:
             save_entry(x,'ok',text); SOURCES[x['id']]={'status':'ok','text':text}; stats['fetched_ok']+=1
     print('Source fetch: '+', '.join(f'{k}={v}' for k,v in stats.items()))
@@ -332,9 +354,14 @@ def build_summaries(xs,stamp):
             hl='\n\n## Highlights\n\n'+'\n'.join(f'- {h}' for h in r['highlights']) if r['highlights'] else ''
             summary_sec=prose+hl
         else: summary_sec=story_summary(x)
-        if not llm and SOURCES.get(x['id'],{}).get('status') in ('thin','error'):
-            summary_sec+='\n\n_Extractive summary: the original source could not be fully accessed._'
-            PAYWALLED.add(x['id'])
+        st=SOURCES.get(x['id'],{})
+        if not llm and st.get('status') in ('thin','error'):
+            dom=re.sub(r'^www\.','',urlsplit(st.get('url') or x.get('url') or '').netloc)
+            if st.get('block')=='paywall' or dom in PAYWALL_DOMAINS:
+                summary_sec+='\n\n_The original source is behind a paywall._'
+                PAYWALLED.add(x['id'])
+            else:
+                summary_sec+='\n\n_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._'
         text=f'# {x["title"]}\n\n{meta}\n\n## Summary\n\n{summary_sec}\n\n## Source\n\n{source}\n\n## Related pages\n\n'+((' · '.join(related_links)) if related_links else '_No related entity or concept page yet._')+'\n'
         (out/f'{x["id"]}.md').write_text(text)
     for p in out.glob('*.md'):

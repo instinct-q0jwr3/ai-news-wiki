@@ -8,7 +8,7 @@ _type: news-summary · created: 2026-09-24 · updated: 2026-09-24 · confidence:
 
 OpenAI 'agent' hacked Australia's health service. Hacker News selected it as an AI-relevant development.
 
-_Extractive summary: the original source could not be fully accessed._
+_The original source is behind a paywall._
 
 ## Source
 

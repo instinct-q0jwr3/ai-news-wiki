@@ -8,7 +8,7 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-24 · confidence:
 
 Why AI Cannot Save an Enterprise That Doesn't Understand Its Data. Hacker News selected it as an AI-relevant development.
 
-_Extractive summary: the original source could not be fully accessed._
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
 
 ## Source
 

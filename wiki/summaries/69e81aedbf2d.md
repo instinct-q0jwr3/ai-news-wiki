@@ -8,7 +8,7 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-24 · confidence:
 
 OpenAI's Sam Altman to Brief UN Security Council Next Week. Hacker News selected it as an AI-relevant development.
 
-_Extractive summary: the original source could not be fully accessed._
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
 
 ## Source
 

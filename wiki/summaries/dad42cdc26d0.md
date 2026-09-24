@@ -8,7 +8,7 @@ _type: news-summary · created: 2026-09-23 · updated: 2026-09-24 · confidence:
 
 A Gallup poll found that a majority of people surveyed across 37 countries said they were curious or excited about artificial intelligence, more than scared or worried.
 
-_Extractive summary: the original source could not be fully accessed._
+_The original source is behind a paywall._
 
 ## Source
 
