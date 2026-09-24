@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
 
 `entity` `google` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-09-24** - Court documents reveal how companies' ties unravelled while the iPhone maker has since turned to a Google-powered ‘Siri AI’. ([Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones "dramatically underperformed" after it launched in 2024](../summaries/db1bf7958087.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-09-23** - Google launched Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its most expressive audio generation models yet, available across Google AI Studio, the Gemini API, Gemini Enterprise, Gemini Notebook and Google Vids. The models turn voice generation… ([Gemini 3.8 text-to-speech](../summaries/13123bf3c886.md) · [Google](../entities/google.md))
 - **2026-09-23** - RRSI improves every out-of-distribution benchmark without overfitting the split it evolves on. ([Google Publishes RRSI for Self-Improving AI Agents](../summaries/a81da28dcf04.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-23** - Google-owned platform rolling out better tools for digital producers that could help it keep more of their content exclusively. ([YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators](../summaries/e2ab649db418.md) · [Google](../entities/google.md)) 🔒

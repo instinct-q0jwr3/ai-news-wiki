@@ -1,6 +1,6 @@
 # US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-09-23 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-09-24 · confidence: high_
 
 `techmeme` `nvidia` `small-specialist-models` `compute-buildout`
 

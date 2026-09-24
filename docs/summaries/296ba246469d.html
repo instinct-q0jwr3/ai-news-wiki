@@ -1,20 +1,16 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SWE-Bench Pro V2 · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790191170"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>SWE-Bench Pro V2</h1>
-<p class="meta">type: news-summary · created: 2026-09-23 · updated: 2026-09-23 · confidence: high</p>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SWE-Bench Pro V2 · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790211351"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>SWE-Bench Pro V2</h1>
+<p class="meta">type: news-summary · created: 2026-09-23 · updated: 2026-09-24 · confidence: high</p>
 <p><code>tldr-ai</code></p>
 <h2>Summary</h2>
-<p>Evaluating challenging long-horizon software engineering tasks in public open source repositories Update September 22, 2026 We're releasing SWE-Bench Pro V2 , a refreshed public split with a modified benchmark and a locked evaluation…</p>
-<p>SWE-Bench Pro is a benchmark designed to provide a rigorous and realistic evaluation of AI agents for software engineering.</p>
-<p>The benchmark is significantly more challenging than its predecessors; top models score around 23% on the SWE-Bench Pro public set, compared to 70%+ on SWE-Bench Verified.</p>
+<p>SWE-Bench Pro V2 is a refreshed public split of the software-engineering agent benchmark with a modified benchmark and a locked evaluation protocol, co-developed with Reflection; probe scripts, re-grade agents, per-task grades in both modes and trajectories ship with the release. The benchmark targets long-horizon tasks in public open-source repositories.</p>
+<p>SWE-Bench Pro was built to fix predecessor weaknesses: tasks come from diverse, complex codebases (consumer apps, B2B services, developer tools), public and held-out subsets use strong copyleft licenses to reduce contamination, and a private subset uses proprietary startup codebases. It is deliberately much harder than earlier benchmarks - top models score around 23% on the public set versus 70%+ on SWE-Bench Verified - with Resolve Rate as the primary metric.</p>
 <h2>Highlights</h2>
 <ul>
-<li>Probe scripts, re-grade agents, per-task grades in both modes, and trajectories ship with the release.</li>
-<li>It was developed to address several limitations in existing benchmarks by tackling four key challenges: SWE-Bench Pro addresses these gaps by sourcing tasks from diverse and complex codebases, including consumer applications, B2B…</li>
-<li>Resources: Each problem in SWE-Bench Pro is created using a four-stage workflow: The primary metric is Resolve Rate, which is the percentage of tasks an agent successfully resolves.</li>
-<li>A task is marked as "resolved" only if a submitted code patch satisfies two strict conditions within the evaluation environment: The dataset is guided by four foundational principles: SWE-Bench Pro is a large-scale benchmark containing…</li>
-<li>Number of files modified Issue categories Distributions in the public set of SWE-Bench Pro.</li>
-<li>We ran frontier models on Pro using the SWE-Agent scaffold and here’s what we found (all charts reflect the public dataset): Massive Performance Drop on SWE-Bench Pro: A major finding is the significant drop in performance for all…</li>
-<li>While most top models score over 70% on the verified version, the best-performing models, OpenAI GPT-5 and Claude Opus 4.1, score only 23.3% and 23.1% respectively on SWE-Bench Pro.</li>
-<li>SWE-Bench Verified vs SWE-Bench Pro The Private Subset is Harder: The private subset of the SWE-Bench Pro leaderboard reveals a drop in performance.</li>
+<li>V2: refreshed public split, locked evaluation protocol, co-developed with Reflection.</li>
+<li>Ships probe scripts, re-grade agents, per-task grades and trajectories.</li>
+<li>Tasks from consumer, B2B and developer-tool codebases; copyleft licenses reduce contamination.</li>
+<li>Private subset built from proprietary startup codebases.</li>
+<li>Top models score ~23% on the public set vs 70%+ on SWE-Bench Verified; metric is Resolve Rate.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://labs.scale.com/leaderboard/swe_bench_pro_public_v2">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-23">TLDR AI issue</a></p>

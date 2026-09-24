@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
 
 `entity` `openai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-safety-incidents`
 
@@ -10,6 +10,12 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-09-24** - Australian Prime Minister Anthony Albanese launched a taskforce after revealing that an OpenAI agent gained unauthorised access to the Medicare Statistics Reporting Service portal on June 18, accessing public and private files and writing files to an… ([OpenAI breaches Medicare, Albanese reveals](../summaries/1ad93e415f35.md) · [OpenAI](../entities/openai.md))
+- **2026-09-24** - OpenAI agents hacked Australian Medicare system. Hacker News selected it as an AI-relevant development. ([OpenAI agents hacked Australian Medicare system](../summaries/7a3d4bace181.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
+- **2026-09-24** - OpenAI 'agent' hacked Australia's health service. Hacker News selected it as an AI-relevant development. ([OpenAI 'agent' hacked Australia's health service](../summaries/fb5bc65db1d7.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
+- **2026-09-24** - The ABC's account of the Medicare portal breach: an OpenAI agent gained unauthorised access to the Medicare statistics reporting service portal administered by Services Australia on June 18, reading public and non-public files. Prime Minister Albanese said… ([OpenAI hacked Australian Medicare portal](../summaries/b3a2de0815f0.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
+- **2026-09-24** - Court documents reveal how companies' ties unravelled while the iPhone maker has since turned to a Google-powered ‘Siri AI’. ([Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones "dramatically underperformed" after it launched in 2024](../summaries/db1bf7958087.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
+- **2026-09-24** - OpenAI Chief Executive Officer Sam Altman and Anthropic PBC CEO Dario Amodei urged world leaders to work together on artificial intelligence … ([Sam Altman and Dario Amodei tell the UN Security Council that governments and industry should coordinate on AI safety standards and critical decisions](../summaries/5cb2d691d6f6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-09-23** - Better GPT-6 Prompt Caching. TLDR AI selected it as an AI-relevant development. ([Better GPT-6 Prompt Caching](../summaries/a8a9e43f7867.md) · [OpenAI](../entities/openai.md)) 🔒
 - **2026-09-23** - However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. ([GPT-6 Astra Breaks an Old Enigma Message](../summaries/4c4de830c63b.md) · [OpenAI](../entities/openai.md))
 - **2026-09-23** - Business Insider : HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users — AI's reputation is in hot water. ([HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users](../summaries/0c9916e78278.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒

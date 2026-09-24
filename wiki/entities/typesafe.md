@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `compute-buildout` `external-evaluation` `small-specialist-models`
 

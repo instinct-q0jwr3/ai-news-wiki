@@ -1,6 +1,6 @@
 # Concept: AI policy, regulation and litigation
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
 
 `concept` `ai-policy-regulation`
 
@@ -10,10 +10,13 @@ Governments, regulators and courts are moving from AI principles to enforcement:
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Microsoft](../entities/microsoft.md) · [Muse (Meta)](../entities/muse.md) · [NVIDIA](../entities/nvidia.md) · [Google](../entities/google.md) · [DeepSeek](../entities/deepseek.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [Muse (Meta)](../entities/muse.md) · [NVIDIA](../entities/nvidia.md)
 
 ## Timeline
 
+- **2026-09-24** - Client Challenge A required part of this site couldn’t load. ([Stanford violated AI policy after race-swapping students in ad](../summaries/f5e208cb02c1.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
+- **2026-09-24** - Court documents reveal how companies' ties unravelled while the iPhone maker has since turned to a Google-powered ‘Siri AI’. ([Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones "dramatically underperformed" after it launched in 2024](../summaries/db1bf7958087.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
+- **2026-09-24** - OpenAI Chief Executive Officer Sam Altman and Anthropic PBC CEO Dario Amodei urged world leaders to work together on artificial intelligence … ([Sam Altman and Dario Amodei tell the UN Security Council that governments and industry should coordinate on AI safety standards and critical decisions](../summaries/5cb2d691d6f6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-09-23** - Responding to KDE's controversial proposal for an official AI/LLM policy, a GNOME community member argues such policies should shape social norms, not micro-manage developer workflows. His proposed GNOME policy is uncompromising: LLMs cannot be used to… ([The GNOME LLM Policy That I Want](../summaries/1963a50da237.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-23** - Both industries change rapidly and reach throughout the economy, requiring officials to weigh the benefits of innovation against risks. ([A Facebook co-founder proposes creating an "Office of AI Supervision" to embed teams inside frontier AI labs, with a three-year term to avoid regulatory capture](../summaries/8b1c60ac1e2c.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-09-22** - Coverage Cat, a licensed insurance brokerage (YC S22), launched with a pitch for AI-guided intake paired with a human brokerage team: compare home, umbrella, auto and renters coverage side by side with 'straight pricing, no sold leads'. The company says… ([Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](../summaries/2683f31e3bce.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

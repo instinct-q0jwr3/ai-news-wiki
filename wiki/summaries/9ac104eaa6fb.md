@@ -1,6 +1,6 @@
 # Ask HN: Is it impossible to disable Siri on macOS 27?
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-23 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-24 · confidence: high_
 
 `hacker-news` `microsoft` `apple`
 

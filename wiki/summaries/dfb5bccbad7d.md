@@ -1,6 +1,6 @@
 # Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M
 
-_type: news-summary · created: 2026-09-23 · updated: 2026-09-23 · confidence: high_
+_type: news-summary · created: 2026-09-23 · updated: 2026-09-24 · confidence: high_
 
 `techmeme` `agentic-systems`
 

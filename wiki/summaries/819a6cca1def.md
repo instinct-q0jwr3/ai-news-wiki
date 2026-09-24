@@ -1,6 +1,6 @@
 # OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-09-23 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-09-24 · confidence: high_
 
 `techmeme` `openai`
 

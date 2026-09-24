@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "Nvidia CEO Jensen Huang, in an Ezra Klein interview at Nvidia's Santa Clara headquarters, rejected the conclusion drawn from forecasts like Dario Amodei's March 2025 prediction that AI would write 90% of code within three to six months. Huang separates a job's purpose from its tasks: as agents take on more of the actual coding, engineers spend more time checking what agents produce and keeping them within the right permissions and boundaries.",
+    "His framing for the junior-developer question is historical: 'There was engineering before software. There will be engineering after software programming,' and today's engineers are far better systems thinkers than his cohort was - while he was the better transistor thinker. The junior developer problem, in his telling, ends in about two years as the role reshapes around systems thinking rather than syntax."
+  ],
+  "highlights": [
+    "Huang rejects the 'no more software engineers' reading of 90%-of-code forecasts.",
+    "Separates a job's purpose from its tasks: engineers shift to verifying agent output and setting boundaries.",
+    "'There was engineering before software. There will be engineering after software programming.'",
+    "Argues today's engineers are better systems thinkers than his graduating cohort.",
+    "Interview with Ezra Klein recorded at Nvidia's Santa Clara HQ."
+  ],
+  "id": "c8e9b9679314",
+  "authored_at": "2026-09-24T00:55:01.311629+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

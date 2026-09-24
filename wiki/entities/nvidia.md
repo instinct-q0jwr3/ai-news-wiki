@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-09-23 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-09-24 · confidence: medium_
 
 `entity` `nvidia` `ai-policy-regulation` `compute-buildout` `external-evaluation` `labor-displacement`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-09-24** - Nvidia CEO Jensen Huang, in an Ezra Klein interview at Nvidia's Santa Clara headquarters, rejected the conclusion drawn from forecasts like Dario Amodei's March 2025 prediction that AI would write 90% of code within three to six months. Huang separates a… ([Jensen Huang says the junior developer problem ends in two years](../summaries/c8e9b9679314.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-23** - This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts. ([Q&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more](../summaries/c63b02e9cf70.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-09-22** - InstinctFlash is an open-source high-performance serving framework for robotics models, claiming up to 33.78x speedup with no observed loss in task performance in real-robot tests. Its benchmarks measure prediction p50 latency on Jetson Thor (September 15,… ([Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models](../summaries/66ae865969a2.md) · [NVIDIA](../entities/nvidia.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-22** - US startup Firebird is building a 300MW data center in Armenia set to host more than 70,000 Nvidia chips by 2027, Bloomberg reports. Sources say Trump pledged Nvidia export approvals to Armenia; during the Cold War the country was an electronics and tech… ([US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia](../summaries/4aaba5feca90.md) · [NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

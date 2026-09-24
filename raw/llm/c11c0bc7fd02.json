@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "This essay argues the LLM era's great trick was bundling: GPT, Claude, Gemini and Kimi collapsed extraction, search, ranking, suspicion checks, tool choice, browsing, writing, verification and hard reasoning into one general-purpose product, replacing stacks of narrow systems. That convenience hid radically different computational requirements across those capabilities - and models are already better at different parts of the bundle.",
+    "The trigger for unbundling is agents: one human objective becomes hundreds or thousands of machine decisions, so small per-step differences in cost and latency compound into product economics, and inference has become a real cost of goods sold. As variance in performance, latency and cost across the bundled capabilities grows, the economically rational architecture stops being one model in the middle and becomes a routed mix - the Great Unbundling of Intelligence."
+  ],
+  "highlights": [
+    "The LLM miracle was bundling many capabilities into one general-purpose model.",
+    "Bundled capabilities have radically different compute, latency and cost profiles.",
+    "Agents multiply one objective into hundreds of machine decisions, compounding per-step economics.",
+    "Inference is now a real COGS line, forcing cost/ROI discipline.",
+    "Predicts a routed, multi-model architecture replacing the single model in the middle."
+  ],
+  "id": "c11c0bc7fd02",
+  "authored_at": "2026-09-24T00:55:01.311629+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

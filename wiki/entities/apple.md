@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
 
 `entity` `apple` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-09-24** - Court documents reveal how companies' ties unravelled while the iPhone maker has since turned to a Google-powered ‘Siri AI’. ([Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones "dramatically underperformed" after it launched in 2024](../summaries/db1bf7958087.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-09-22** - The developer of Hack, an eight-year-old Hacker News client for iOS, iPadOS, macOS and Android, added a toggle to block AI-related posts. In his test, 32 of 90 front-page titles were filtered across three pages. ([Show HN: Hack – my Hacker News mobile client now lets you block AI posts](../summaries/ce81e4f963b6.md) · [Apple](../entities/apple.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-22** - Apple has announced Apple Music Hall, a live music venue built into its London headquarters at Battersea Power Station, Forbes reports. The venue holds up to 600 people and includes two recording and mixing studios. ([Apple unveils Apple Music Hall, a live music venue in London's Battersea Power Station with a capacity of up to 600 people and two recording and mixing studios](../summaries/5615c8ee66a9.md) · [Apple](../entities/apple.md))
 - **2026-09-22** - In the Apple v. OpenAI trade-secrets case, Apple has asked the court to let its own experts review the forensic images the defendants' experts relied on, and is seeking documents tied to parts of OpenAI's hardware R&D. Apple sued former employees, OpenAI… ([Apple v. OpenAI: Apple asks the court to let its own experts review forensic images used in the case, and seeks documents tied to parts of OpenAI's hardware R&D](../summaries/6f9689965ac9.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

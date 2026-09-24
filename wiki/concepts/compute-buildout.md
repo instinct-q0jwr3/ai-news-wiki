@@ -1,6 +1,6 @@
 # Concept: Compute and the data-center build-out
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-23 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
 
 `concept` `compute-buildout`
 
@@ -10,10 +10,11 @@ The race for compute links chip supply, energy, financing and geopolitics. This 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Alibaba](../entities/alibaba.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [DeepSeek](../entities/deepseek.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [SoftBank](../entities/softbank.md)
+[OpenAI](../entities/openai.md) · [Alibaba](../entities/alibaba.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [DeepSeek](../entities/deepseek.md) · [Muse (Meta)](../entities/muse.md) · [NVIDIA](../entities/nvidia.md)
 
 ## Timeline
 
+- **2026-09-24** - Meta is expanding Muse on several fronts at once: users will be able to hold live video conversations with their Muse avatar, communicate with the agent over new email addresses, and the Muse Mac app is gaining the ability to use your computer. A new Muse… ([Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support](../summaries/407aaf63f303.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-23** - Keeping Large MoE Training Within Fixed GPU Memory. ([Keeping Large MoE Training Within Fixed GPU Memory](../summaries/72ba5a768845.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-23** - OpenAI will share its AI cyber defence system Daybreak free with the Ukrainian government to help protect civilian infrastructure such as hospitals and power plants, according to CERT-UA, which recorded nearly 6,000 cyber-attacks in 2025. Under the deal… ([OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure](../summaries/30bb23e1b34d.md) · [OpenAI](../entities/openai.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-23** - DeepSeek presents DeepSeek Elastic Compute (DSec), a production sandbox platform built for large-scale agentic training and evaluation with LLMs. The paper argues these workloads - models inspecting repositories, invoking tools and executing commands in… ([DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale](../summaries/e35d02aab32b.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

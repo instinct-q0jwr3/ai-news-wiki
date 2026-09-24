@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "Artificial Analysis' model page for Mercury 2.5, released September 2026, puts its headline number at 770 output tokens per second - notably fast for its class. The proprietary model scores 12 on the Artificial Analysis Intelligence Index, below the comparable median of 13, but generated only 35M tokens during evaluation versus a median of 85M, making it fairly concise.",
+    "Pricing is $0.25 per 1M input tokens and $0.75 per 1M output tokens, with an average Intelligence Index evaluation cost of $0.06 per task. The model is text-only with a 260k-token context window, and the page covers the reasoning variant, with a non-reasoning variant also available."
+  ],
+  "highlights": [
+    "Mercury 2.5 runs at 770 output tokens per second, well above its class median.",
+    "Scores 12 on the Intelligence Index vs a 13 median - below average intelligence, well priced.",
+    "Concise: 35M tokens generated in evaluation vs an 85M median.",
+    "Pricing: $0.25/1M input, $0.75/1M output; $0.06 per task on the Index.",
+    "Text-only, 260k context window; page covers the reasoning variant."
+  ],
+  "id": "0427dd1e9481",
+  "authored_at": "2026-09-24T00:55:01.311629+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

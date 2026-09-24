@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "Techmeme's coverage of Anthropic's enzyme discovery adds the operational detail: over 21 hours, nearly 950 Claude agents worked through 210 million tokens before one spotted an unusual repeating pattern in a massive DNA-sequence database and flagged it for human review. Lab analysis then confirmed 'a previously uncharacterized enzyme system found in bacteriophages', with Anthropic's scientists limited to the initial prompt and the wet-lab work.",
+    "The report keeps a cooler frame than Anthropic's own post: whether the enzyme system does anything useful - let alone resembles CRISPR's impact - remains unclear, and the admittedly premature announcement serves Anthropic's recruiting push for its new life-sciences lab and its pre-IPO narrative that frontier models prove their value in scientific research. Anthropic said it shared early to demonstrate capability and give the community insight into the work."
+  ],
+  "highlights": [
+    "~950 Claude agents, 210M tokens and 21 hours produced the flagged pattern.",
+    "Confirmed in the lab as a previously uncharacterized enzyme system in bacteriophages.",
+    "Scientist involvement limited to the initial prompt and lab validation.",
+    "Practical applications unproven; CRISPR comparison premature.",
+    "Announcement doubles as recruiting for Anthropic's life-sciences lab ahead of a public listing."
+  ],
+  "id": "7d1eccd9d8d4",
+  "authored_at": "2026-09-24T00:55:01.311629+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

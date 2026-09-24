@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "SWE-Bench Pro V2 is a refreshed public split of the software-engineering agent benchmark with a modified benchmark and a locked evaluation protocol, co-developed with Reflection; probe scripts, re-grade agents, per-task grades in both modes and trajectories ship with the release. The benchmark targets long-horizon tasks in public open-source repositories.",
+    "SWE-Bench Pro was built to fix predecessor weaknesses: tasks come from diverse, complex codebases (consumer apps, B2B services, developer tools), public and held-out subsets use strong copyleft licenses to reduce contamination, and a private subset uses proprietary startup codebases. It is deliberately much harder than earlier benchmarks - top models score around 23% on the public set versus 70%+ on SWE-Bench Verified - with Resolve Rate as the primary metric."
+  ],
+  "highlights": [
+    "V2: refreshed public split, locked evaluation protocol, co-developed with Reflection.",
+    "Ships probe scripts, re-grade agents, per-task grades and trajectories.",
+    "Tasks from consumer, B2B and developer-tool codebases; copyleft licenses reduce contamination.",
+    "Private subset built from proprietary startup codebases.",
+    "Top models score ~23% on the public set vs 70%+ on SWE-Bench Verified; metric is Resolve Rate."
+  ],
+  "id": "296ba246469d",
+  "authored_at": "2026-09-24T00:55:01.311629+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

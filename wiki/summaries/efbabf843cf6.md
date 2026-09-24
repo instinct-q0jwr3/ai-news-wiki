@@ -1,6 +1,6 @@
 # OpenAI was negotiating mutual stress-tests with Anthropic before the hack
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-23 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-24 · confidence: high_
 
 `techmeme` `openai` `anthropic` `hugging-face` `ai-safety-incidents`
 

@@ -1,203 +1,131 @@
 {
- "generated_at": "2026-09-23T19:10:45+00:00",
+ "generated_at": "2026-09-24T00:53:23+00:00",
  "stories": [
   {
-   "id": "ee6ebd402552",
-   "title": "Claude Code reads AGENTS.md only when telemetry is on",
+   "id": "502934d0eadd",
+   "title": "Once Claude can measure something, it can make it faster",
    "source": "Hacker News",
-   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
+   "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/"
   },
   {
-   "id": "13123bf3c886",
-   "title": "Gemini 3.8 text-to-speech",
+   "id": "1ad93e415f35",
+   "title": "OpenAI breaches Medicare, Albanese reveals",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
+   "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html"
   },
   {
-   "id": "4d1ed990a381",
-   "title": "Stripe's Knowledge AI Platform",
+   "id": "db8e779b5d9c",
+   "title": "Linux support is coming to Snapdragon X2 Series",
    "source": "Hacker News",
-   "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
+   "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"
   },
   {
-   "id": "246da2e2481d",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "id": "0427dd1e9481",
+   "title": "Mercury 2.5 LLM hits 770 tokens per second",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+   "url": "https://artificialanalysis.ai/models/mercury-2-5"
   },
   {
-   "id": "31fcd82d35b0",
-   "title": "Community condemn Bedminster AI mural as 'insult' to artists",
+   "id": "7a3d4bace181",
+   "title": "OpenAI agents hacked Australian Medicare system",
    "source": "Hacker News",
-   "url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo"
+   "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/"
   },
   {
-   "id": "38d0eab48596",
-   "title": "What AI-Native Looks Like",
+   "id": "2b803c85a182",
+   "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
    "source": "Hacker News",
-   "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459"
+   "url": "https://www.forensicdbg.com"
   },
   {
-   "id": "e58c2f99e9b5",
-   "title": "AI Is a Boring Technology",
+   "id": "b3a2de0815f0",
+   "title": "OpenAI hacked Australian Medicare portal",
    "source": "Hacker News",
-   "url": "https://www.chrbutler.com/ai-is-a-boring-technology"
+   "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078"
   },
   {
-   "id": "72ba5a768845",
-   "title": "Keeping Large MoE Training Within Fixed GPU Memory",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2609.14306"
+   "id": "fb5bc65db1d7",
+   "title": "OpenAI 'agent' hacked Australia's health service",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507"
   },
   {
-   "id": "385973982b1d",
-   "title": "The Biological Computing Co. partners with AWS to sell its neuron-derived AI video model",
-   "source": "TLDR AI",
-   "url": "https://thenextweb.com/news/biological-computing-co-aws-neuron-derived-ai-video-model"
+   "id": "c8e9b9679314",
+   "title": "Jensen Huang says the junior developer problem ends in two years",
+   "source": "Hacker News",
+   "url": "https://thenewstack.io/huang-ai-agents-engineers/"
   },
   {
-   "id": "a8fff3fdb173",
-   "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric"
+   "id": "f5e208cb02c1",
+   "title": "Stanford violated AI policy after race-swapping students in ad",
+   "source": "Hacker News",
+   "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php"
   },
   {
-   "id": "2290142bb10c",
-   "title": "Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney",
+   "id": "3984fc3fb9b8",
+   "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+   "source": "Hacker News",
+   "url": "https://www.avclub.com/meta-muse-ai-human-labor"
+  },
+  {
+   "id": "f2cce3a179de",
+   "title": "Security auditing in the age of (good enough) AI",
+   "source": "Hacker News",
+   "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/"
+  },
+  {
+   "id": "a10389df7f5e",
+   "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+   "source": "Hacker News",
+   "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib"
+  },
+  {
+   "id": "09bdcbb499eb",
+   "title": "Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year",
    "source": "Techmeme",
-   "url": "https://variety.com/2026/music/news/sony-music-group-joins-ai-content-coalition-ariam-1236873137/"
+   "url": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/"
   },
   {
-   "id": "a8a9e43f7867",
-   "title": "Better GPT-6 Prompt Caching",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6/"
-  },
-  {
-   "id": "c63b02e9cf70",
-   "title": "Q&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more",
+   "id": "407aaf63f303",
+   "title": "Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share"
+   "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
   },
   {
-   "id": "a81da28dcf04",
-   "title": "Google Publishes RRSI for Self-Improving AI Agents",
-   "source": "TLDR AI",
-   "url": "https://regularized-rsi.com/"
-  },
-  {
-   "id": "83b8e154c048",
-   "title": "Vinod Khosla's Two Moats for Personal AI",
-   "source": "TLDR AI",
-   "url": "https://x.com/tbpn/status/2102177383306670393"
-  },
-  {
-   "id": "0b2f89e38089",
-   "title": "People need to start paying attention to the issue of derived data in AI training",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2102311135441547405.html"
-  },
-  {
-   "id": "4c4de830c63b",
-   "title": "GPT-6 Astra Breaks an Old Enigma Message",
-   "source": "TLDR AI",
-   "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html"
-  },
-  {
-   "id": "296ba246469d",
-   "title": "SWE-Bench Pro V2",
-   "source": "TLDR AI",
-   "url": "https://labs.scale.com/leaderboard/swe_bench_pro_public_v2"
-  },
-  {
-   "id": "e2ab649db418",
-   "title": "YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators",
+   "id": "bba6a1692e38",
+   "title": "Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ&reflink=desktopwebshare_permalink"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8"
   },
   {
-   "id": "75dc51a6e1e9",
-   "title": "Training AI From Real-World Tool Use",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience"
-  },
-  {
-   "id": "84f27c7a0732",
-   "title": "Hardware-Agnostic Models in vLLM",
-   "source": "TLDR AI",
-   "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm/"
-  },
-  {
-   "id": "0f933d4beccf",
-   "title": "China's biggest memory maker says it has caught up with Samsung and Micron",
-   "source": "TLDR AI",
-   "url": "https://thenextweb.com/news/cxmt-dram-fifth-generation-mass-production-memory-shortage"
-  },
-  {
-   "id": "4c2ca2b269b3",
-   "title": "What a task costs on Opus 5.5",
-   "source": "TLDR AI",
-   "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5"
-  },
-  {
-   "id": "8fbc9d98b319",
-   "title": "Involution Without Export Is Wasted Effort",
-   "source": "TLDR AI",
-   "url": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted"
-  },
-  {
-   "id": "2d17452fd4bb",
-   "title": "Cheaper LLM labelling",
-   "source": "Lobsters",
-   "url": "https://entropicthoughts.com/cheaper-llm-labeling"
-  },
-  {
-   "id": "0c9916e78278",
-   "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users",
+   "id": "5cb2d691d6f6",
+   "title": "Sam Altman and Dario Amodei tell the UN Security Council that governments and industry should coordinate on AI safety standards and critical decisions",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-23/altman-amodei-call-for-global-cooperation-on-ai-to-boost-safety"
   },
   {
-   "id": "9532e3c0f713",
-   "title": "At its Accelerate conference, Amazon says it is opening its seller tools to third-party AI agents, starting with Claude, in beta for US merchants",
+   "id": "db1bf7958087",
+   "title": "Court docs: OpenAI says Apple's ChatGPT integration to power Apple Intelligence on iPhones \"dramatically underperformed\" after it launched in 2024",
    "source": "Techmeme",
-   "url": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/"
+   "url": "https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced"
   },
   {
-   "id": "7d1eccd9d8d4",
-   "title": "Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab",
+   "id": "1d82d8235a8d",
+   "title": "A live blog of Meta Connect 2026, where a new pair of Meta Glasses without cameras onboard and a new VR headset are expected",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
+   "url": "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/"
   },
   {
-   "id": "833884055b21",
-   "title": "Pilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation",
+   "id": "cf6f45a0bd2f",
+   "title": "Colorado-based Enveda, which uses AI to discover new drugs in the natural world, raised a $311M Series E at a $2B valuation, double its valuation a year ago",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/anthropic-leaders-back-startup-developing-system-to-detect-biological-threats-88ef9f0a?st=S5V7SX&reflink=desktopwebshare_permalink"
+   "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
   },
   {
-   "id": "3700415b22e6",
-   "title": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\"",
+   "id": "258f4ef9d943",
+   "title": "A recording of the Meta Connect 2026 opening keynote",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
-  },
-  {
-   "id": "5bdf05959460",
-   "title": "London-based AI life sciences startup Basecamp Research raised a $140M Series C led by S32, with participation from Anthropic, taking its total funding to $225M",
-   "source": "Techmeme",
-   "url": "https://tech.eu/2026/09/23/anthropic-and-nvidia-back-basecamp-research-in-140m-series-c/"
-  },
-  {
-   "id": "6e036c5b4b74",
-   "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html"
-  },
-  {
-   "id": "032f46ace773",
-   "title": "At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/"
+   "url": "https://www.youtube.com/watch?v=w9RyNj0ukWo"
   }
  ]
 }
