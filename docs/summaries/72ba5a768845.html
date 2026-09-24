@@ -1,18 +1,16 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Keeping Large MoE Training Within Fixed GPU Memory · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790211351"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Keeping Large MoE Training Within Fixed GPU Memory</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Keeping Large MoE Training Within Fixed GPU Memory · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790233308"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Keeping Large MoE Training Within Fixed GPU Memory</h1>
 <p class="meta">type: news-summary · created: 2026-09-23 · updated: 2026-09-24 · confidence: high</p>
 <p><code>tldr-ai</code> <code>compute-buildout</code></p>
 <h2>Summary</h2>
-<p>Keeping Large MoE Training Within Fixed GPU Memory.</p>
-<p>Abstract: Training a Mixture-of-Experts (MoE) model at long context or large batch size fails as soon as any one component's peak allocation exceeds device memory, so the target is every peak at once, not the average footprint.</p>
-<p>Four are left unbounded by the parallelism plans in common use, and each grows differently: expert dispatch with the routing matrix, the vocabulary projection with tokens times vocabulary, gradient checkpoint boundaries with depth times…</p>
+<p>A systems paper tackles MoE training at long context or large batch: failure happens as soon as any single component's peak allocation exceeds device memory, so the target is bounding every peak at once rather than the average footprint. Four peaks escape common parallelism plans - expert dispatch (routing matrix), vocabulary projection (tokens x vocabulary), gradient checkpoint boundaries (depth x sequence length), and optimizer state (parameter count) - and which one blows up first changes with model, context length and device count.</p>
+<p>The authors bound all four with schedules whose GPU working set is fixed at launch: PipelinedLLEP caps the tokens each source contributes to a dispatch chunk, Ring-DTP circulates activations or weight shards around a ring at the vocabulary projection and folds logit blocks into an online log-sum-exp, Selective Checkpoint Offload keeps each boundary's one long-lived tensor in CPU memory, and OffloadStreamAdamW streams the serial CPU Adam update.</p>
 <h2>Highlights</h2>
 <ul>
-<li>Which one runs out first changes with the model, the context length, and the device count, so lowering the largest only exposes the next.</li>
-<li>All four change only the order and granularity of computation and data movement, so the loss and gradients stay exact.</li>
-<li>In matched component tests, they cut the MoE dispatch peak by up to $59.3\%$ without losing throughput, the vocabulary projection peak by $86.6\%$, and the offloaded optimizer step by $2.05\times$ faster.</li>
-<li>Composed on MoE models from 120B to 667B parameters, they train at 1M context length, $8$--$32\times$ the reach of a tuned FSDP2 baseline, and up to $10.4\times$ its throughput. arXivLabs is a framework that allows collaborators to…</li>
-<li>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to…</li>
-<li>Have an idea for a project that will add value for arXiv's community?</li>
+<li>Goal: fixed GPU working set for MoE training at long context or large batch.</li>
+<li>Four unbounded peaks identified: dispatch, vocabulary projection, checkpoint boundaries, optimizer state.</li>
+<li>PipelinedLLEP caps per-source tokens in expert dispatch chunks.</li>
+<li>Ring-DTP circulates shards at the vocabulary projection with online log-sum-exp.</li>
+<li>SCO offloads checkpoint boundary tensors to CPU; OffloadStreamAdamW streams the CPU Adam update.</li>
 </ul>
 <h2>Source</h2>
 <p><a href="https://arxiv.org/abs/2609.14306">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-23">TLDR AI issue</a></p>

@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "ZDNET's hands-on coverage of Claude Opus 5.5, less than two months after Opus 5: the workhorse delivers Fable 5.1 performance for most work at about 40% lower running cost, generates output more than 30% faster, and tokens are priced 20% below Opus 5 - with Box reporting Opus 5.5 used a third of the tokens Opus 5 did and was 40% less verbose without losing accuracy in their evaluations.",
+    "For subscribers, Anthropic is raising its five-hour usage limits by 20% on Pro, Max and Team plans, and Sonnet 5.5 and Haiku 5.5 are promised in the coming weeks. The announcement also merges Claude chat and Cowork into one product."
+  ],
+  "highlights": [
+    "Opus 5.5: Fable 5.1-level performance for most work at ~40% lower running cost.",
+    "30%+ faster output; token prices 20% below Opus 5.",
+    "Box: a third of Opus 5's tokens and 40% less verbosity at equal accuracy in evaluations.",
+    "Five-hour usage limits raised 20% on Pro, Max and Team.",
+    "Sonnet 5.5 and Haiku 5.5 coming; Claude chat and Cowork merge into one product."
+  ],
+  "id": "ea35859532c7",
+  "authored_at": "2026-09-24T07:00:59.075419+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

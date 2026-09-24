@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "Qwen's RecreationWorld is a five-platform framework for studying hybrid computer-use agents that autonomously interleave GUI exploration, implementation with coding tools, and visual verification of their own running artifacts. By framing recreation around a running reference app as an executable oracle, it turns open-source applications into scalable, verifiable training experience that transfers beyond recreation.",
+    "Each task gives the agent a high-level request, interactive access to a running reference, and both GUI-control and software-development tools; the agent decides when to explore, implement, build, inspect and revise - an explore-implement-verify loop rather than a fixed pipeline. RecreationBench adds 250 held-out tasks scored by a frozen suite of reference-validated programmatic and visual assertions, with scoring based on observable behavior."
+  ],
+  "highlights": [
+    "Five-platform framework for hybrid computer-use agents that recreate running applications.",
+    "Running reference apps act as executable oracles for verifiable training experience.",
+    "Agents interleave GUI exploration, coding and visual self-verification.",
+    "RecreationBench: 250 held-out tasks with programmatic and visual assertions.",
+    "Website, report, Hugging Face and ModelScope releases available."
+  ],
+  "id": "aa7fe1b874f6",
+  "authored_at": "2026-09-24T07:00:59.075419+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

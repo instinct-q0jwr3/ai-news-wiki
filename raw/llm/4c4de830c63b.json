@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "GPT-6 Astra broke a previously unbroken WWII Enigma message entirely on its own. Carter Leffer merely directed it to try the unbroken messages published on the Crypto Cellar Research page; Astra analyzed them, picked message Nr. 172 (MVUEH) as most promising, suspected Nr. 173 (SIPVX) was related, and after trying many approaches settled on the repeated place name ROSENOW ROSENOW as a crib.",
+    "It then wrote the necessary Python and C++ itself - an Enigma simulator and an Enigma Bombe - and ran a thorough break with the ROSENOW crib, recovering the correct key and plaintext for MVUEH. The researchers are still analyzing Astra's logs to reconstruct exactly how it executed the break, and say they keep discovering amazing details."
+  ],
+  "highlights": [
+    "GPT-6 Astra autonomously broke unbroken Enigma message Nr. 172 (MVUEH).",
+    "Chose the target, suspected Nr. 173 was related, and found the ROSENOW ROSENOW crib itself.",
+    "Wrote its own Enigma simulator and Bombe in Python and C++.",
+    "Human involvement was limited to the initial direction.",
+    "Logs still being analyzed to reconstruct the break."
+  ],
+  "id": "4c4de830c63b",
+  "authored_at": "2026-09-24T07:00:59.075419+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

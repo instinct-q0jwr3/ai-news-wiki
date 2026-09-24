@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "A security researcher's rebuttal of 1Password's Off-by-1 Labs paper 'Frontier Models' Vulnerability Patches are Often F.L.A.W.E.D' (FLAWED), following Trail of Bits's 'misleading' verdict and Davi Ottenheimer's 'disinformation' charge. The author had classified the paper as slop on release, but writes after realizing how far 1Password's distribution carried it - into news coverage and defender roadmaps - where it obscures more rigorous work from less-resourced groups.",
+    "After quote-tweeting the criticisms, the author heard privately from CISOs, academics, industry researchers and practitioners who had noticed the same problems but lacked a forum or feared backlash. The post spells out second-order costs of flawed vendor research, especially for academics, and argues research should not be treated like sports: distribution muscle should not decide which results defenders build on."
+  ],
+  "highlights": [
+    "Rebuts 1Password's FLAWED AI-patching paper alongside Trail of Bits and Ottenheimer criticisms.",
+    "Paper reached news coverage and defender roadmaps despite quality problems.",
+    "CISOs, academics and practitioners privately confirmed the same concerns; many feared speaking out.",
+    "Highlights second-order costs for less-resourced research groups crowded out by vendor distribution.",
+    "Argues security research should not be treated like sports."
+  ],
+  "id": "a3b9bcb59bc9",
+  "authored_at": "2026-09-24T07:00:59.075419+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

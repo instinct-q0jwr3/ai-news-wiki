@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-22 · updated: 2026-09-24 · confidence:
 
 ## Summary
 
-While new AI model releases are now a constant drumbeat in the AI industry, the reliability improvements announced today stand out from a sea of statistics.
+OpenAI announced general availability of GPT-6 Sol and GPT-6 Luna, its new mainstream models, with reliability as the headline: OpenAI says Sol makes about half as many mistakes as its predecessor, and Luna at higher effort levels matches GPT-5.6 Sol at about a hundredth of its cost.
 
-GPT-6 Luna, the low-cost engine, now performs as well as its more capable tier in the previous release.
-
-Both OpenAI and Anthropic have flagship, workhorse, and cheap model offerings.
+ZDNET puts the tiers in perspective against Anthropic's lineup: both labs now field flagship, workhorse and cheap models, with OpenAI's Astra workflows as the super-elite specialist tier. The disclosure notes Ziff Davis, ZDNET's parent, has an April 2025 copyright lawsuit pending against OpenAI - and a sidebar warns OpenAI itself sees 'sophisticated' AI swarm attacks as months away.
 
 ## Highlights
 
-- Think of OpenAI’s Astra workflows as super-elite specialists.
-- If they were doctors, they’d be the experts flown in to save the life of a head of state.
-- Also: How OpenAI’s GPT-5.6 and ChatGPT Work aim to beat Anthropic Now, think of Sol (and Opus on the Claude side) as senior staff — the top-tier doctors at major hospitals, who do the bulk of the serious work.
-- GPT-5.6 Sol and Luna were released in July , less than three months ago.
-- Professional work (using the AutomationBench benchmark): OpenAI reports that GPT-6 Luna beat its earlier GPT-5.6 release by 5.4%.
-- Comparing GPT-6 Sol to Anthropic’s Claude Opus 5, GPT-6 scores 6.3% better at only 9% of the cost per task.
-- Even so, the company claims a slight performance win for GPT-6 over Opus 5, but the real win is cost, where OpenAI’s offering costs 61% less per task.
-- OpenAI says it’s improved the AI’s communication style for GPT-6 Sol and Luna.
+- GPT-6 Sol and Luna reach general availability.
+- OpenAI: Sol makes about half as many mistakes as its predecessor.
+- Luna at higher effort matches GPT-5.6 Sol at ~1/100th the cost.
+- Both OpenAI and Anthropic now run flagship/workhorse/cheap model tiers.
+- Sidebar: OpenAI warns sophisticated AI swarm attacks are months away.
 
 ## Source
 

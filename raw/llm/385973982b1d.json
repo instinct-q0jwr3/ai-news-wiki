@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons to improve AI models, partnered with AWS to bring its first commercial product - a neuron-derived AI video model - to paying customers. The text-to-video model is tuned with software based on how those cells process information and is built on an unnamed open-source video generator; TBC says it produces video five times more efficiently.",
+    "CEO Alex Ksendzovsky frames the deal as taking 'neuron-derived AI optimization to commercial scale', and co-founder/COO Jon Pomeraniec argues that with compute becoming AI's biggest constraint, every unit of compute must become dramatically more productive so more companies can afford to build. AWS's Jason Bennett says nature solved the computing efficiency problem billions of years ago."
+  ],
+  "highlights": [
+    "TBC partners with AWS to sell its neuron-derived AI video model commercially.",
+    "Text-to-video model tuned with neuron-inspired software on an unnamed open-source generator.",
+    "Claims 5x more efficient video production.",
+    "Startup grows living neurons to improve AI model efficiency.",
+    "Pitches biological computing as an answer to AI's compute constraint."
+  ],
+  "id": "385973982b1d",
+  "authored_at": "2026-09-24T07:00:59.075419+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}

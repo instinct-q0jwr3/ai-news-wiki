@@ -1,0 +1,17 @@
+{
+  "prose": [
+    "AI-CAD is an open-source multi-agent harness for mechanical-engineering CAD: give it a plain-English brief or a hand-drawn sketch and a team of LLM agents delivers real, manufacturable parts and assemblies - 'an autonomous engineering department you commission', not a CAD tool you operate. Agents look at what they built, argue about it until it survives review, and work inside your coding agent of choice with a live dashboard.",
+    "The project runs on Claude Code as its agent runtime, with the filesystem as the message bus, a shared canonical layer, a 'mortal orchestrator' and a single model engine with no keys - all documented as decision records. A public runs gallery shows real design trees, including an IC-engine core with piston and crank; Windows users must clone with symlinks enabled or use WSL."
+  ],
+  "highlights": [
+    "Open-source multi-agent harness turning briefs or sketches into manufacturable CAD parts and assemblies.",
+    "Agents visually inspect their own output and iterate until it survives review.",
+    "Built on Claude Code as the agent runtime; filesystem as message bus.",
+    "Public gallery of real runs, including an IC-engine core at top-dead-center.",
+    "Windows requires git clone -c core.symlinks=true or WSL."
+  ],
+  "id": "36d22564205e",
+  "authored_at": "2026-09-24T07:00:59.075419+00:00",
+  "model": "agent-pass",
+  "schema": 1
+}
