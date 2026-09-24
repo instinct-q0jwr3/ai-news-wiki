@@ -1,0 +1,14 @@
+{
+ "id": "8ffc4bf7d11d",
+ "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In a Show HN post, a developer shares a custom CHIP-8 assembler written in C++, which has just gained support for the DB/.byte directive so sprites can be embedded directly in the ROM. The author says it should support all original CHIP-8 instructions, with rough edges still being ironed out, and notes it is a first-ever C++ project, written without AI assistance and much of it on livestream."
+ ],
+ "highlights": [
+  "Custom CHIP-8 assembler in C++, now with DB/.byte sprite support.",
+  "Should cover all original CHIP-8 instructions; rough edges remain.",
+  "Author's first C++ project, written by hand without AI."
+ ]
+}

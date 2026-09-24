@@ -1,0 +1,14 @@
+{
+ "id": "22bd49ca5917",
+ "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In a Show HN post, the maker of ai-rete-rag describes running a Rete rule engine and RAG in series: a pure-Python Rete engine evaluates YAML rules against the facts and issues the verdict (same facts, same verdict, every time, with salience-based conflict resolution), while RAG retrieves passages from the user's own policy documents and an LLM only writes the plain-English explanation, citing those passages. The author says the motivation is auditable decisions in lending, fraud and clinical triage, instead of putting an LLM in charge and bolting on guardrails after the fact."
+ ],
+ "highlights": [
+  "Verdicts come only from a deterministic Rete rule engine over YAML rules.",
+  "The LLM explains the decision with cited policy passages but cannot change the verdict.",
+  "Aimed at auditable domains: lending, fraud, clinical triage."
+ ]
+}

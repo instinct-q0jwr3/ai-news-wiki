@@ -1,0 +1,14 @@
+{
+ "id": "8410d14a9efc",
+ "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In a blog post, the GLM team at z.ai describes how it built its own inference infrastructure, framing the work as a step 'toward recursive self-improvement'. TLDR AI featured the story in a recent issue. (Brief based on the link title.)"
+ ],
+ "highlights": [
+  "GLM built its own inference infrastructure.",
+  "Framed as a step toward recursive self-improvement.",
+  "Published on z.ai; selected by TLDR AI."
+ ]
+}

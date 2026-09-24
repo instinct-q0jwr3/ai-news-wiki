@@ -1,0 +1,14 @@
+{
+ "id": "a4c0c2721de4",
+ "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "OpenAI has released MentalHealthBench, an open benchmark designed to evaluate AI responses in realistic mental health conversations. According to OpenAI, the benchmark was developed with more than 80 licensed mental health experts."
+ ],
+ "highlights": [
+  "MentalHealthBench evaluates AI responses in realistic mental health conversations.",
+  "Developed with 80+ licensed mental health experts.",
+  "Released openly by OpenAI."
+ ]
+}

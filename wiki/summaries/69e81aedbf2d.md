@@ -6,9 +6,12 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-24 · confidence:
 
 ## Summary
 
-OpenAI's Sam Altman to Brief UN Security Council Next Week. Hacker News selected it as an AI-relevant development.
+Reuters reports that OpenAI CEO Sam Altman is set to brief the UN Security Council next week. (Brief based on the headline.)
 
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+## Highlights
+
+- Sam Altman to brief the UN Security Council next week, per Reuters.
+- Drew 43 points and 54 comments on Hacker News.
 
 ## Source
 

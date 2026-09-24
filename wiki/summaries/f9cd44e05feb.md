@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-20 · updated: 2026-09-24 · confidence:
 
 ## Summary
 
-Why AI Cannot Save an Enterprise That Doesn't Understand Its Data. Hacker News selected it as an AI-relevant development.
+A piece on Architecture Intel argues that AI cannot save an enterprise that does not understand its own data. (Brief based on the headline.)
 
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+## Highlights
+
+- Argument: AI cannot fix an enterprise that misunderstands its data.
+- Published on architectureintel.com.
+- Drew 13 points and 5 comments on Hacker News.
 
 ## Source
 
