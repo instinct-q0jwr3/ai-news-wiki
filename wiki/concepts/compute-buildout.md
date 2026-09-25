@@ -1,6 +1,6 @@
 # Concept: Compute and the data-center build-out
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `concept` `compute-buildout`
 
@@ -10,10 +10,12 @@ The race for compute links chip supply, energy, financing and geopolitics. This 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Alibaba](../entities/alibaba.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [NVIDIA](../entities/nvidia.md) · [Meta](../entities/meta.md) · [DeepSeek](../entities/deepseek.md) · [Muse (Meta)](../entities/muse.md)
+[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [Alibaba](../entities/alibaba.md) · [NVIDIA](../entities/nvidia.md) · [Meta](../entities/meta.md) · [DeepSeek](../entities/deepseek.md) · [Muse (Meta)](../entities/muse.md)
 
 ## Timeline
 
+- **2026-09-25** - Google unveiled Project Suncatcher, an early test to scale AI compute in space. The team is launching a prototype satellite to evaluate whether Google's AI hardware can survive the harsh conditions of orbit: extreme radiation, intense vibrations and the… ([Google’s Project Suncatcher to put ML infrastructure in space](../summaries/a1a9cda1ffd3.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-25** - We help companies build custom models from their data. ([Show HN: Critic – Review code with the agent that wrote it](../summaries/0be0b63b98a2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-24** - https://qz.com/oracle-force-majeure-new-mexico-ai-data-cente... ([Oracle cites 'force majeure' to shield itself on controversial data center](../summaries/7e555752ec03.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-09-24** - The president of the dotcom-era darling discusses the company's strong conviction around AI and some of the technology's risks. ([Q&A with Cisco President and CPO Jeetu Patel on its multibillion-dollar networking deals for AI infrastructure, competition from partners like Nvidia, and more](../summaries/457e025cf81f.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-09-24** - Meta is expanding Muse on several fronts at once: users will be able to hold live video conversations with their Muse avatar, communicate with the agent over new email addresses, and the Muse Mac app is gaining the ability to use your computer. A new Muse… ([Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support](../summaries/407aaf63f303.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

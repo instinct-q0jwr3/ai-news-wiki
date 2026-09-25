@@ -1,6 +1,6 @@
 # Concept: Small and specialist models
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `concept` `small-specialist-models`
 
@@ -14,6 +14,7 @@ Narrow or compact models trade breadth for lower cost, latency, privacy or local
 
 ## Timeline
 
+- **2026-09-25** - A follow-up post on the GPT-6 Astra code-breaking story reports that the team is still analyzing the model's logs to see exactly how it executed the break. It also documents a July 2026 find in the German Bundesarchiv: several collections of radio… ([Using LLMs to trace alchemical knowledge and decode 17th century letters](../summaries/a2d471e92c66.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-24** - AgentRun is a workflow language (DSL) for the agents developers already run: define repeatable steps, use Jev for focused decisions, and call an agent when the work needs investigation, while the application keeps its tools, model access, permissions and… ([Show HN: AgentRun: DSL to turn agents into workflows](../summaries/7ebd7bc9adad.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-24** - Qualcomm announced the Snapdragon Sound Elite Gen 2, a chipset purpose-built for audio wearables - 'hearables' - with a heavy emphasis on on-device AI performance rather than simple audio quality. ([Qualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption](../summaries/51e1ff6a5134.md) · [Google](../entities/google.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-23** - Stripe's engineering blog introduces the company's Knowledge AI Platform. (Brief based on the link title.) ([Stripe's Knowledge AI Platform](../summaries/4d1ed990a381.md) · [Small and specialist models](../concepts/small-specialist-models.md))

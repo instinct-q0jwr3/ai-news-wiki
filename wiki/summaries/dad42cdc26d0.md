@@ -1,6 +1,6 @@
 # Gallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life
 
-_type: news-summary · created: 2026-09-23 · updated: 2026-09-24 · confidence: high_
+_type: news-summary · created: 2026-09-23 · updated: 2026-09-25 · confidence: high_
 
 `techmeme`
 

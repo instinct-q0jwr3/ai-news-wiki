@@ -1,6 +1,6 @@
 # Concept: AI policy, regulation and litigation
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `concept` `ai-policy-regulation`
 
@@ -14,6 +14,8 @@ Governments, regulators and courts are moving from AI principles to enforcement:
 
 ## Timeline
 
+- **2026-09-25** - We help companies build custom models from their data. ([Show HN: Critic – Review code with the agent that wrote it](../summaries/0be0b63b98a2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-09-25** - Chinese President Xi Jinping said Thursday the U.S. and China have an obligation to manage the development … ([At a White House summit, Xi Jinping says the US and China have "the capability and responsibility to develop and manage AI for good" as "leading nations" in AI](../summaries/468aea7c71ac.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-24** - '] = true BEFORE the gtag loader runs is Google's documented opt-out mechanism, so this script must execute first. ([Humans Are Reading Your ChatGPT Chats, Lawsuit Claims](../summaries/53a65e948cd1.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-24** - Israeli leader's speech comes on high-profile day for international relations as Donald Trump hosts Xi Jinping at the White House. ([At a White House summit, Xi Jinping says the US and China share the "capability and responsibility" to manage AI for good and calls for healthy competition](../summaries/2050b7581ed7.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-09-24** - President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI “doomerism” and a founding father … ([a White House memo paints effective altruism as a fringe, dangerous cult that "built the AI-doom pipeline" and places Dario Amodei at its foundation](../summaries/ffb9a41ae00d.md) · [Anthropic](../entities/anthropic.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

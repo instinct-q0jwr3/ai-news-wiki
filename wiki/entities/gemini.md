@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `gemini` `agentic-systems` `ai-safety-incidents` `compute-buildout` `external-evaluation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-09-25** - Google updated Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions during real-time conversations. It can also pull up information on-screen while it talks. ([Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers](../summaries/92f3a74309a1.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-09-24** - Google is rolling out a new wave of Connected Apps for Gemini, letting users manage projects, design creative assets and plan workouts without switching tabs. Apps can be connected in Gemini settings or brought into a chat by typing an @ mention or asking… ([A new wave of Connected Apps is rolling out to Gemini](../summaries/80651cbe53e2.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-09-24** - TechCrunch reports that Google is testing 'Call for Me', a feature that lets Gemini call businesses on users' behalf, as agents like Meta's Muse and Instinct already make calls for their users. It rolls out first to US Pixel 11 owners with a paid Gemini… ([Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US](../summaries/53cca45fdc97.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-24** - Writing on Medium, Ariel Simon describes how hackers manipulate ChatGPT and Gemini to direct users to scam centers, in a piece titled 'Dark Sourcery'. (Brief based on the headline and URL.) ([Hackers influence ChatGPT and Gemini to direct users to scam centers](../summaries/98977c5332a7.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

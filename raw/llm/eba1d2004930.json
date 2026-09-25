@@ -1,0 +1,17 @@
+{
+ "id": "eba1d2004930",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In a Show HN post, developer Paul introduces Koi.rest, a virtual zen garden where visitors watch koi fish to regain their balance. He explains the personal context: he has ADHD, has been unemployed since the beginning of August, and the stress of the past year made him want to build the calming project he had been postponing.",
+  "The twist is the process: he does not know JavaScript and says he lacked the capacity to learn it right now, so after letting 'perfect be the enemy of good' for a while, he used AI to make the thing he really wanted - tweaking, adding, removing, drawing, researching, questioning and testing without being the one writing the code."
+ ],
+ "highlights": [
+  "Koi.rest: a virtual zen garden with koi fish to watch and decompress.",
+  "Author has ADHD and has been unemployed since August; the project answers a stressful year.",
+  "He does not know JavaScript and built the site with AI instead.",
+  "'I didn't want perfect. I wanted good enough.'",
+  "He directed the work - tweaking, drawing, testing - without writing the code."
+ ]
+}

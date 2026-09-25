@@ -1,0 +1,17 @@
+{
+ "id": "49ff3b30a0d1",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A Rails essay argues that convention over configuration set the path for 20+ years of great training data, and that this is why coding agents do so well with Rails today: most Rails codebases look the same and are, on average, high quality, so an AI already 'knows' a project that stays close to the defaults.",
+  "The author credits this for getting very good LLM output quality in the early days of AI-assisted coding, when many developers still found it unusable, and claims keeping close to Rails conventions makes things '100x faster'. Humans benefit too: they can review agent output quickly 'without a jungle of distracting boilerplate'."
+ ],
+ "highlights": [
+  "Thesis: convention over configuration made Rails ideal training data.",
+  "Agents do well because Rails codebases look alike and average high quality.",
+  "Staying close to Rails defaults makes AI assistance '100x faster'.",
+  "Conventions also let humans review agent output quickly.",
+  "The author saw strong LLM output quality from the early days."
+ ]
+}

@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `anthropic` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-safety-incidents`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-09-25** - We help companies build custom models from their data. ([Show HN: Critic – Review code with the agent that wrote it](../summaries/0be0b63b98a2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-09-25** - Anthropic has signed an $11.6 billion cloud services agreement with Akamai Technologies (AKAM.O), as the AI lab seeks additional computing capacity … ([Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours](../summaries/40f2f97b9fb5.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-25** - Anthropic is asking shareholders to approve a new corporate structure that would award CEO Dario Amodei and his six cofounders … ([Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes](../summaries/a2805f875074.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-09-24** - Whiteboard (YC W26) is an open-source desktop IDE where humans and agents architect software together in a common workspace. It plugs into the tools developers already use, such as Claude Code and Codex, and gives the agent an SDK to draw on an in-app… ([Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](../summaries/528aa11f5bcc.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-09-24** - President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI “doomerism” and a founding father … ([a White House memo paints effective altruism as a fringe, dangerous cult that "built the AI-doom pipeline" and places Dario Amodei at its foundation](../summaries/ffb9a41ae00d.md) · [Anthropic](../entities/anthropic.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-24** - Google, OpenAI and Anthropic are pushing forward with a plan to create a new AI safety-focused standards body on their own … ([Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs](../summaries/b3fc26ffc991.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒

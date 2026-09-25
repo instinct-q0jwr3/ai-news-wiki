@@ -1,6 +1,6 @@
 # The UK CMA proposes rules requiring Google and Android OEMs to offer search choice screens on first use and via yearly prompts, new AI assistant rules, and more
 
-_type: news-summary · created: 2026-09-23 · updated: 2026-09-24 · confidence: high_
+_type: news-summary · created: 2026-09-23 · updated: 2026-09-25 · confidence: high_
 
 `techmeme` `google`
 

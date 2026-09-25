@@ -1,6 +1,6 @@
 # Show HN: AgentRun: DSL to turn agents into workflows
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-09-24 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-09-25 · confidence: high_
 
 `hacker-news` `typesafe` `agentic-systems` `external-evaluation` `small-specialist-models`
 

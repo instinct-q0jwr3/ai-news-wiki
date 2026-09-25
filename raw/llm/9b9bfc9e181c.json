@@ -1,0 +1,16 @@
+{
+ "id": "9b9bfc9e181c",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The Cutting Room Floor, a much-beloved wiki archiving unused content and unreleased builds from video games since 2002, is offline following a DDoS attack. The outage follows a public controversy: the site says an AI user pointed automated tools at it and got a warning about prompt injection from its anti-AI page, which 'successfully annoyed the operator and interrupted their work'.",
+  "The dispute spilled onto X, where one participant asked Grok about the 'proper legal response' to what he called false DDoS accusations posted in a GitHub gist and a live website."
+ ],
+ "highlights": [
+  "The Cutting Room Floor wiki is offline after a DDoS attack.",
+  "TCRF has archived unused video-game content with volunteers since 2002.",
+  "The site says an AI user's tools tripped its anti-AI page with a prompt-injection warning.",
+  "The feud escalated to legal threats over alleged false DDoS accusations."
+ ]
+}

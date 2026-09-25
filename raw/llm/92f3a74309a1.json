@@ -1,0 +1,17 @@
+{
+ "id": "92f3a74309a1",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Google updated Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions during real-time conversations. It can also pull up information on-screen while it talks.",
+  "Google says Live Avatar transitions between the 97 languages it supports 'without degrading video fidelity or introducing visual drift'; a demo video shows it switching between English and Japanese with mouth animation matching the speech. For now, Live Avatar is available only to Gemini Enterprise customers."
+ ],
+ "highlights": [
+  "Gemini 3.8 Live adds Live Avatar: an animated persona that lip-syncs and emotes.",
+  "It can display information on-screen while talking.",
+  "Supports transitions across 97 languages without visual drift.",
+  "Demo shows English-Japanese switching with matched mouth animation.",
+  "Enterprise-only at launch."
+ ]
+}

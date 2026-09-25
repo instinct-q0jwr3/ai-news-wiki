@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `muse` `agentic-commerce` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 

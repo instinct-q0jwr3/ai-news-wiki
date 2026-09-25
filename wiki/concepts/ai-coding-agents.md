@@ -1,6 +1,6 @@
 # Concept: AI coding agents and the software pipeline
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `concept` `ai-coding-agents`
 
@@ -14,6 +14,7 @@ Coding agents are reshaping how software is written, reviewed and shipped. This 
 
 ## Timeline
 
+- **2026-09-25** - We help companies build custom models from their data. ([Show HN: Critic – Review code with the agent that wrote it](../summaries/0be0b63b98a2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-24** - Whiteboard (YC W26) is an open-source desktop IDE where humans and agents architect software together in a common workspace. It plugs into the tools developers already use, such as Claude Code and Codex, and gives the agent an SDK to draw on an in-app… ([Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](../summaries/528aa11f5bcc.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-09-23** - A developer investigation shows Claude Code's new AGENTS.md support silently depends on a server-side feature flag: the loader ships as a built-in plugin whose availability asks a remote flag (tengu_agents_md_mod) with fallback false. With telemetry or… ([Claude Code reads AGENTS.md only when telemetry is on](../summaries/ee6ebd402552.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-22** - Coverage Cat, a licensed insurance brokerage (YC S22), launched with a pitch for AI-guided intake paired with a human brokerage team: compare home, umbrella, auto and renters coverage side by side with 'straight pricing, no sold leads'. The company says… ([Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](../summaries/2683f31e3bce.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

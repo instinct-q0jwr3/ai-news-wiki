@@ -1,6 +1,6 @@
 # An interview with Raspberry Pi CEO Eben Upton
 
-_type: news-summary · created: 2026-09-20 · updated: 2026-09-24 · confidence: high_
+_type: news-summary · created: 2026-09-20 · updated: 2026-09-25 · confidence: high_
 
 `techmeme` `small-specialist-models` `compute-buildout`
 

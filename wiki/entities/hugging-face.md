@@ -1,6 +1,6 @@
 # Hugging Face
 
-_type: organization · created: 2026-09-20 · updated: 2026-09-24 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `hugging-face` `agentic-systems` `ai-safety-incidents` `labor-displacement`
 

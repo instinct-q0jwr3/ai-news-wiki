@@ -1,6 +1,6 @@
 # a White House memo paints effective altruism as a fringe, dangerous cult that "built the AI-doom pipeline" and places Dario Amodei at its foundation
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-09-24 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-09-25 · confidence: high_
 
 `techmeme` `anthropic` `ai-policy-regulation`
 

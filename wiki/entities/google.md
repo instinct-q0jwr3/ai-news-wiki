@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `google` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-safety-incidents`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-09-25** - Google unveiled Project Suncatcher, an early test to scale AI compute in space. The team is launching a prototype satellite to evaluate whether Google's AI hardware can survive the harsh conditions of orbit: extreme radiation, intense vibrations and the… ([Google’s Project Suncatcher to put ML infrastructure in space](../summaries/a1a9cda1ffd3.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-25** - Google updated Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions during real-time conversations. It can also pull up information on-screen while it talks. ([Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers](../summaries/92f3a74309a1.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-09-24** - Google is rolling out a new wave of Connected Apps for Gemini, letting users manage projects, design creative assets and plan workouts without switching tabs. Apps can be connected in Gemini settings or brought into a chat by typing an @ mention or asking… ([A new wave of Connected Apps is rolling out to Gemini](../summaries/80651cbe53e2.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-09-24** - Google plans AI memory that even Google cannot read. TLDR AI selected it as an AI-relevant development. ([Google plans AI memory that even Google cannot read](../summaries/4a33c99c10fd.md) · [Google](../entities/google.md))
 - **2026-09-24** - Google DeepMind introduced Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, described as its most expressive audio generation models yet. They can generate custom character voices and direct scene dialogue - accent through emotional tone - across Google… ([Google's new speech models can design and direct voices](../summaries/a3e10aaf1930.md) · [Google](../entities/google.md))

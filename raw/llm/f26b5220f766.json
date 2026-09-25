@@ -1,0 +1,18 @@
+{
+ "id": "f26b5220f766",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "SpaceXAI introduced Grok 4.7, calling it its most capable model for coding and knowledge work: twice as fast at half the price of comparable models, and served at the same price and speed as Grok 4.6. The company says it works longer on difficult tasks, checks its own work more carefully, and ships with its best-calibrated safeguards to date.",
+  "On CursorBench 4.0, which stresses longer-running coding work, the model posts competitive results in its class."
+ ],
+ "highlights": [
+  "Grok 4.7: SpaceXAI's most capable coding and knowledge-work model.",
+  "Twice as fast, half the price of comparable models.",
+  "Same price and speed as Grok 4.6.",
+  "Works longer on hard tasks and checks its own work more carefully.",
+  "Ships with the company's best-calibrated safeguards to date.",
+  "Competitive on CursorBench 4.0 for long-running coding."
+ ]
+}

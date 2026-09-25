@@ -1,6 +1,6 @@
 # DeepSeek
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `deepseek` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 

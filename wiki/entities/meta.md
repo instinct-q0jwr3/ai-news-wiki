@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `meta` `agentic-commerce` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-09-25** - Meta announced two new tools for building games on its Horizon social platform with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app with more granular controls. Both are heading to early access with a waitlist. ([Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon](../summaries/102c2ecfc0b6.md) · [Meta](../entities/meta.md))
 - **2026-09-24** - Ars Technica reports from Meta Connect: Mark Zuckerberg unveiled Muse Charm, a small pendant-like device that fits on a keychain, activated by a fingerprint sensor, with a screen showing the Muse avatar and real-time voice interactivity, set for release in… ([Meta puts its AI assistant on a keychain](../summaries/3e28667b1bb8.md) · [Meta](../entities/meta.md))
 - **2026-09-24** - TechCrunch reports that Google is testing 'Call for Me', a feature that lets Gemini call businesses on users' behalf, as agents like Meta's Muse and Instinct already make calls for their users. It rolls out first to US Pixel 11 owners with a paid Gemini… ([Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US](../summaries/53cca45fdc97.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-24** - A Reddit post claims that Meta took down a video critical of its AI Glasses after the video was filmed at Meta. (Brief based on the link title.) ([Meta takes down a critical video about meta AI Glasses after filming at Meta](../summaries/7914128328fe.md) · [Meta](../entities/meta.md))

@@ -1,6 +1,6 @@
 # Rabbit
 
-_type: company · created: 2026-09-24 · updated: 2026-09-24 · confidence: medium_
+_type: company · created: 2026-09-25 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `rabbit`
 

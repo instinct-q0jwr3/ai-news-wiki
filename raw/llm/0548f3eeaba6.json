@@ -1,0 +1,17 @@
+{
+ "id": "0548f3eeaba6",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Health insurers are deploying AI to deny claims, and the practice is already in court. UnitedHealth Group, the largest US health insurer, faces a class-action lawsuit accusing it of using AI programs to deny payments for care doctors said was necessary; Humana and Cigna face their own litigation over similar allegations.",
+  "Meanwhile, Medicare has launched its own AI tool to help decide whether to approve prior authorizations, and doctors are sending the federal government reports of problems. The piece argues that while the public 'AI freakout' centers on extinction risk, AI is already having a direct and sinister effect on people's physical health."
+ ],
+ "highlights": [
+  "UnitedHealth faces a class action over AI-driven claim denials.",
+  "Humana and Cigna face similar litigation.",
+  "Doctors said the denied care was necessary, per the suits.",
+  "Medicare launched its own AI prior-authorization tool.",
+  "Doctors are reporting problems with the approvals process to the government."
+ ]
+}

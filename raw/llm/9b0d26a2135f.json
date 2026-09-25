@@ -1,0 +1,17 @@
+{
+ "id": "9b0d26a2135f",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A security writeup says Meta's Muse has a serious zero-day: a vulnerability that gives locally run apps and terminal commands complete control of the agent. That sits awkwardly with Mark Zuckerberg's claim that Muse is 'built from the ground up for privacy and security' - and with the news that Amazon began blocking Muse from its site on Sunday.",
+  "The piece recaps Muse's reach a few weeks after launch: it books appointments, fills out forms, handles customer service, makes purchases, generates images and documents, and connects with apps and services; the macOS app (no Windows version) also works with a user's WhatsApp, email, calendar and social media accounts, and can build tools it does not yet have."
+ ],
+ "highlights": [
+  "Report: a Muse zero-day gives local apps and terminal commands complete control of the agent.",
+  "Zuckerberg called Muse 'built from the ground up for privacy and security'.",
+  "Amazon began blocking Muse from its site on Sunday.",
+  "Muse books, fills forms, buys, generates, and connects to apps and accounts.",
+  "The macOS app ties into WhatsApp, email, calendar and social accounts."
+ ]
+}

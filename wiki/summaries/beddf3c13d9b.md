@@ -1,6 +1,6 @@
 # Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-09-24 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-09-25 · confidence: high_
 
 `techmeme`
 

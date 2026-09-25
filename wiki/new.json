@@ -1,227 +1,113 @@
 {
- "generated_at": "2026-09-24T18:55:41+00:00",
+ "generated_at": "2026-09-25T00:56:31+00:00",
  "stories": [
   {
-   "id": "7abaa19a2a04",
-   "title": "Best LLM for every budget, updated daily",
+   "id": "eba1d2004930",
+   "title": "Show HN: Koi.rest – watch some fish and regain your balance",
    "source": "Hacker News",
-   "url": "https://bestmodelforyourbudget.terrydjony.com/"
+   "url": "https://koi.rest"
   },
   {
-   "id": "7e555752ec03",
-   "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
+   "id": "a1a9cda1ffd3",
+   "title": "Google’s Project Suncatcher to put ML infrastructure in space",
    "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/"
   },
   {
-   "id": "528aa11f5bcc",
-   "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+   "id": "92d156c903b1",
+   "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
    "source": "Hacker News",
-   "url": "https://github.com/devdotfast/whiteboard"
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities"
   },
   {
-   "id": "b1dc07b2fd2b",
-   "title": "What Is RLCD? The Secret Behind Jev",
+   "id": "54445fc3d776",
+   "title": "Tutoring company tells parents to save their money and 'use AI instead'",
    "source": "Hacker News",
-   "url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/"
+   "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
   },
   {
-   "id": "53a65e948cd1",
-   "title": "Humans Are Reading Your ChatGPT Chats, Lawsuit Claims",
+   "id": "a2d471e92c66",
+   "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
    "source": "Hacker News",
-   "url": "https://openclassactions.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php"
+   "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
   },
   {
-   "id": "b6a79d539c31",
-   "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
+   "id": "9b9bfc9e181c",
+   "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
    "source": "Hacker News",
-   "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai"
+   "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335"
   },
   {
-   "id": "6dfac56d9060",
-   "title": "AI safety is mostly a sex cult in Berkeley",
+   "id": "0548f3eeaba6",
+   "title": "AI is deciding whether or not people receive medical care",
    "source": "Hacker News",
-   "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in"
+   "url": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana"
   },
   {
-   "id": "85f2f8940dc5",
-   "title": "Is A.I. Above the Law?",
+   "id": "0be0b63b98a2",
+   "title": "Show HN: Critic – Review code with the agent that wrote it",
    "source": "Hacker News",
-   "url": "https://www.newyorker.com/magazine/2026/09/28/is-ai-above-the-law"
+   "url": "https://www.critic.run/"
   },
   {
-   "id": "7ebd7bc9adad",
-   "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+   "id": "49ff3b30a0d1",
+   "title": "Rails and AI",
    "source": "Hacker News",
-   "url": "https://github.com/Parcha-ai/agentrun"
+   "url": "https://rubyonrails.org/ai"
   },
   {
-   "id": "43073a65be06",
-   "title": "Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP",
+   "id": "7069f35e1ce0",
+   "title": "Don't let AI kill the author",
+   "source": "Hacker News",
+   "url": "https://www.economist.com/leaders/2026/09/24/dont-let-ai-kill-the-author"
+  },
+  {
+   "id": "102c2ecfc0b6",
+   "title": "Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?st=hqeLCw&reflink=desktopwebshare_permalink"
+   "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
   },
   {
-   "id": "3e28667b1bb8",
-   "title": "Meta puts its AI assistant on a keychain",
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/"
-  },
-  {
-   "id": "a1a07ef5eb13",
-   "title": "A Million Agents Is a Distributed System Problem",
-   "source": "Hacker News",
-   "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem"
-  },
-  {
-   "id": "3a302fa6632d",
-   "title": "the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year",
+   "id": "0645c5e72562",
+   "title": "Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year",
    "source": "Techmeme",
-   "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic"
   },
   {
-   "id": "b203a8782eaf",
-   "title": "Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year",
+   "id": "468aea7c71ac",
+   "title": "At a White House summit, Xi Jinping says the US and China have \"the capability and responsibility to develop and manage AI for good\" as \"leading nations\" in AI",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&smid=nytcore-ios-share"
+   "url": "https://thehill.com/homenews/administration/6109283-xi-china-us-ai-responsibility-trump/"
   },
   {
-   "id": "4a33c99c10fd",
-   "title": "Google plans AI memory that even Google cannot read",
-   "source": "TLDR AI",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
-  },
-  {
-   "id": "a3e10aaf1930",
-   "title": "Google's new speech models can design and direct voices",
-   "source": "TLDR AI",
-   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"
-  },
-  {
-   "id": "ec56500ac4a9",
-   "title": "Amjad Masad on Rethinking College for the AI Era",
-   "source": "TLDR AI",
-   "url": "https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-sOmuMQGQ"
-  },
-  {
-   "id": "b552108697d7",
-   "title": "AI Workers' Inquiry 2026",
-   "source": "Lobsters",
-   "url": "https://techworkersinquiry.org/ai/"
-  },
-  {
-   "id": "9f58fee9c88b",
-   "title": "Towards Universal Post-Training for Robotics",
-   "source": "TLDR AI",
-   "url": "https://pd-perry.github.io/posts/post-training.html"
-  },
-  {
-   "id": "de514be9cac9",
-   "title": "Introducing Ember-1",
-   "source": "TLDR AI",
-   "url": "https://fireworks.ai/blog/ember-1"
-  },
-  {
-   "id": "49c96a49ab22",
-   "title": "Watermarking in vLLM",
-   "source": "Lobsters",
-   "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm"
-  },
-  {
-   "id": "3201d41ea16a",
-   "title": "the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed",
+   "id": "c461e67eee9b",
+   "title": "OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself",
    "source": "Techmeme",
-   "url": "https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769"
+   "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9"
   },
   {
-   "id": "64658baaef0b",
-   "title": "Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders",
+   "id": "92f3a74309a1",
+   "title": "Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322?st=BayjT8&reflink=desktopwebshare_permalink"
+   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
   },
   {
-   "id": "f594d2be2010",
-   "title": "tev1-4B-experimental",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2102882216950763814.html"
-  },
-  {
-   "id": "93faebe3e822",
-   "title": "Introducing Comfy Router: One API for Frontier Media Models",
-   "source": "TLDR AI",
-   "url": "https://blog.comfy.org/p/introducing-comfy-router-one-api"
-  },
-  {
-   "id": "a4c0c2721de4",
-   "title": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts",
+   "id": "40f2f97b9fb5",
+   "title": "Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours",
    "source": "Techmeme",
-   "url": "https://openai.com/index/introducing-mentalhealthbench/"
+   "url": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/"
   },
   {
-   "id": "2616d7338b6d",
-   "title": "OpenAI discovered the Australian breach in August but didn't alert the government until September 10, when it sent an email to a generic disclosure address",
+   "id": "a2805f875074",
+   "title": "Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes",
    "source": "Techmeme",
-   "url": "https://www.transformernews.ai/p/openai-australia-hack-least-worrying-part"
+   "url": "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo"
   },
   {
-   "id": "b3fc26ffc991",
-   "title": "Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs",
+   "id": "da08b81cbdb5",
+   "title": "Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape"
-  },
-  {
-   "id": "0ceac45e5689",
-   "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-   "source": "TLDR AI",
-   "url": "https://regularized-rsi.com/"
-  },
-  {
-   "id": "80651cbe53e2",
-   "title": "A new wave of Connected Apps is rolling out to Gemini",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/"
-  },
-  {
-   "id": "2b6ab9ff4400",
-   "title": "Qwen Intelligence Launches Three Mobile AI Agents",
-   "source": "TLDR AI",
-   "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753"
-  },
-  {
-   "id": "246da2e2481d",
-   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-  },
-  {
-   "id": "491f873500c5",
-   "title": "Escaping SPACE: Part I",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-i"
-  },
-  {
-   "id": "ffb9a41ae00d",
-   "title": "a White House memo paints effective altruism as a fringe, dangerous cult that \"built the AI-doom pipeline\" and places Dario Amodei at its foundation",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei"
-  },
-  {
-   "id": "53cca45fdc97",
-   "title": "Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-  },
-  {
-   "id": "2050b7581ed7",
-   "title": "At a White House summit, Xi Jinping says the US and China share the \"capability and responsibility\" to manage AI for good and calls for healthy competition",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73"
-  },
-  {
-   "id": "44e8921b6419",
-   "title": "How Accurate Have AI Progress Forecasts Been So Far?",
-   "source": "TLDR AI",
-   "url": "https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy"
+   "url": "https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost"
   }
  ]
 }

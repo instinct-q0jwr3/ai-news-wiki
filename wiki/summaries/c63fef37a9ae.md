@@ -1,6 +1,6 @@
 # Automatically detecting AI text in my browser
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-09-24 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-09-25 · confidence: high_
 
 `lobsters`
 

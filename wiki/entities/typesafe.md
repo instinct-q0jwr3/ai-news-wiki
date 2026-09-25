@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `compute-buildout` `external-evaluation` `small-specialist-models`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-09-25** - Silicon Valley has a new AI startup to obsess over—and throw money at. We're hearing that TypeSafe AI … ([Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation](../summaries/da08b81cbdb5.md) · [TypeSafe](../entities/typesafe.md)) 🔒
 - **2026-09-24** - This blog post argues that Jev looks mysterious as an alternative to a language model but becomes simple when seen as the next step in reward modeling. The core idea is RLCD, a schema-conditioned Plackett-Luce objective that moves from pairwise reward… ([What Is RLCD? The Secret Behind Jev](../summaries/b1dc07b2fd2b.md) · [TypeSafe](../entities/typesafe.md))
 - **2026-09-24** - AgentRun is a workflow language (DSL) for the agents developers already run: define repeatable steps, use Jev for focused decisions, and call an agent when the work needs investigation, while the application keeps its tools, model access, permissions and… ([Show HN: AgentRun: DSL to turn agents into workflows](../summaries/7ebd7bc9adad.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-09-23** - A skeptical counter to the Jev hype: the author reimplements the idea behind decision-type models in 25 lines of Python. The script loads a small GGUF model (Qwen3-0.6B via llama-cpp-python), prompts it to choose among labeled options (e.g. Legitimate /… ([Jev in 25 Lines of Python](../summaries/c1f415621917.md) · [TypeSafe](../entities/typesafe.md))

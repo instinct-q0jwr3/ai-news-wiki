@@ -1,6 +1,6 @@
 # Qwen
 
-_type: product · created: 2026-09-19 · updated: 2026-09-24 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
 `entity` `qwen` `agentic-systems` `compute-buildout` `labor-displacement` `small-specialist-models`
 

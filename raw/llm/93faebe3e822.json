@@ -1,0 +1,18 @@
+{
+ "id": "93faebe3e822",
+ "authored_at": "2026-09-25T00:58:00.250178+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Comfy Router is live on the Comfy Developer Platform: one API for frontier image, video, 3D and audio models, with the freedom to choose the provider for each job for better availability and better prices. Day-one access includes Seedance 2.5, MiniMax H3, Nano Banana Pro, GPT Image 2, Kling and Black Forest Labs, with more coming - the same models 3M+ ComfyUI users already use, now behind one API.",
+  "API keys and run history live in one account covering both the models called and the workflows deployed. Coming soon: deploying and scaling custom ComfyUI workflows with the Comfy API."
+ ],
+ "highlights": [
+  "Comfy Router: one API for frontier image, video, 3D and audio models.",
+  "Pick the provider per job for availability and price.",
+  "Day-one models: Seedance 2.5, MiniMax H3, Nano Banana Pro, GPT Image 2, Kling, Black Forest Labs.",
+  "Same models 3M+ ComfyUI users already run.",
+  "Keys and run history unified in one account.",
+  "Comfy API for deploying custom workflows is next."
+ ]
+}
