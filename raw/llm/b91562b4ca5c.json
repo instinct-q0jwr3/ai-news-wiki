@@ -1,0 +1,17 @@
+{
+ "id": "b91562b4ca5c",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Part 2 of a teardown of Meta's Muse filesystem asks an awkward question: does Muse actually use OpenAI and Claude models behind the scenes? The author found a model labeled azure/muse-special in his logs while Muse was building his website, and dug deeper after his first article hit the Hacker News front page.",
+  "Muse records which model each agent session uses: nearly every session log in his VM was routed to Meta's internal model, called Avocado - but one subagent used azure/muse-special, and a search of the repo inside Cursor turned up a 'GPT Responses model client'."
+ ],
+ "highlights": [
+  "Teardown part 2: a model labeled azure/muse-special appears in Muse logs.",
+  "Nearly all sessions route to Meta's internal model, Avocado.",
+  "One subagent used azure/muse-special.",
+  "The repo contains a 'GPT Responses model client'.",
+  "Open question: does Muse quietly call OpenAI/Claude models?"
+ ]
+}

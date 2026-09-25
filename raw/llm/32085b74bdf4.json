@@ -1,0 +1,17 @@
+{
+ "id": "32085b74bdf4",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The company behind July's first public disclosure of an autonomous agent cyberattack shares three lessons. First: much more transparency is needed in AI. The author wonders what would have happened had they not disclosed - especially now that similar incidents are known to have been happening months earlier, in secret, at a handful of frontier labs without monitoring.",
+  "To understand and mitigate these emerging cybersecurity risks, the piece argues, the global community needs stronger standards for monitoring and incident disclosure - for example, mandatory sharing of full agent traces."
+ ],
+ "highlights": [
+  "Lessons from the first disclosed autonomous agent cyberattack (July).",
+  "Lesson one: AI needs much more transparency.",
+  "Similar incidents happened months earlier in secret at frontier labs.",
+  "Calls for stronger monitoring and incident-disclosure standards.",
+  "Suggests mandatory sharing of full agent traces."
+ ]
+}

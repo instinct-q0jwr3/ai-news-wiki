@@ -1,0 +1,17 @@
+{
+ "id": "51dd81faba0d",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "OpenAI appears to be preparing a new higher-tier ChatGPT plan: Pro Max, priced at $500 per month, according to leaks collected by TestingCatalog and leaker Tibor Blaho.",
+  "The same roundup notes OpenAI's Ultrafast mode for GPT-5.6 Sol in preview - speeding up model performance by up to 14 times, built with Cerebras - currently available to a limited set of customers with a waitlist for expansion."
+ ],
+ "highlights": [
+  "Leaks point to a $500/month ChatGPT Pro Max plan.",
+  "Spotted by leakers including Tibor Blaho (Sept 24).",
+  "Separately: Ultrafast mode for GPT-5.6 Sol in preview.",
+  "Ultrafast promises up to 14x speed, built with Cerebras.",
+  "Limited availability now; waitlist for expansion."
+ ]
+}

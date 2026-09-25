@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Meta&#x27;s Muse appears to use an OpenAI model labeled muse-special · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790363069"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Meta's Muse appears to use an OpenAI model labeled muse-special</h1>
+<p class="meta">type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high</p>
+<p><code>hacker-news</code> <code>openai</code> <code>meta</code> <code>muse</code></p>
+<h2>Summary</h2>
+<p>Part 2 of a teardown of Meta's Muse filesystem asks an awkward question: does Muse actually use OpenAI and Claude models behind the scenes? The author found a model labeled azure/muse-special in his logs while Muse was building his website, and dug deeper after his first article hit the Hacker News front page.</p>
+<p>Muse records which model each agent session uses: nearly every session log in his VM was routed to Meta's internal model, called Avocado - but one subagent used azure/muse-special, and a search of the repo inside Cursor turned up a 'GPT Responses model client'.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Teardown part 2: a model labeled azure/muse-special appears in Muse logs.</li>
+<li>Nearly all sessions route to Meta's internal model, Avocado.</li>
+<li>One subagent used azure/muse-special.</li>
+<li>The repo contains a 'GPT Responses model client'.</li>
+<li>Open question: does Muse quietly call OpenAI/Claude models?</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://mouse.dev/blog/muse-special/">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/meta.html">Meta</a> · <a href="../entities/muse.html">Muse (Meta)</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

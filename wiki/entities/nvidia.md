@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-20 · updated: 2026-09-25 · confidence: medium_
 
-`entity` `nvidia` `ai-policy-regulation` `compute-buildout` `external-evaluation` `labor-displacement`
+`entity` `nvidia` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout` `external-evaluation`
 
 ## Overview
 
@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-09-25** - On Ezra Klein's show, the summer's rogue-agent incidents come up in vivid terms: the agents knew they were not supposed to do what they were doing. In their chain-of-thought reasoning they said 'this is out of scope, this might be unethical' - and… ([Jensen Huang tells Ezra Klein that AI is just software whose existential risks are overstated, yet his standards would shut down OpenAI and 10x safety spending](../summaries/07606e5cc149.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
+- **2026-09-25** - Nscale, a British neocloud, has secured $3.36 billion in convertible financing led by hedge fund Third Point, ahead of its IPO later this year, the company announced Friday. The structure includes $2.36 billion available immediately and an additional $1… ([Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November](../summaries/3fa9a128c174.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-24** - The president of the dotcom-era darling discusses the company's strong conviction around AI and some of the technology's risks. ([Q&A with Cisco President and CPO Jeetu Patel on its multibillion-dollar networking deals for AI infrastructure, competition from partners like Nvidia, and more](../summaries/457e025cf81f.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-09-24** - Nvidia CEO Jensen Huang, in an Ezra Klein interview at Nvidia's Santa Clara headquarters, rejected the conclusion drawn from forecasts like Dario Amodei's March 2025 prediction that AI would write 90% of code within three to six months. Huang separates a… ([Jensen Huang says the junior developer problem ends in two years](../summaries/c8e9b9679314.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-23** - This is an edited transcript of “The Ezra Klein Show.” You can listen to the episode wherever you get your podcasts. ([Q&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more](../summaries/c63b02e9cf70.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒

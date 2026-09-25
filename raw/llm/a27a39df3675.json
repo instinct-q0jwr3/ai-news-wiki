@@ -1,0 +1,17 @@
+{
+ "id": "a27a39df3675",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Doom or Bloom is a Show HN interactive that maps AI worldviews on a spectrum from civilizational doom to bloom, built with Jev. It places named public figures along the axis - from Eliezer Yudkowsky, Nate Soares, Daniel Kokotajlo and Ed Zitron on the doom side to Marc Andreessen, Jensen Huang and Donald Trump on the bloom side, with a wide middle of researchers, CEOs and commentators in between.",
+  "The roster spans the field's loudest voices: Geoffrey Hinton, Yoshua Bengio, Dario Amodei, Sam Altman, Demis Hassabis, Ilya Sutskever, Yann LeCun, Fei-Fei Li, Gary Marcus, Scott Alexander, Dwarkesh Patel and dozens more."
+ ],
+ "highlights": [
+  "Interactive map of AI worldviews from doom to bloom.",
+  "Built with Jev; a Show HN project.",
+  "Doom side: Yudkowsky, Soares, Kokotajlo, Zitron.",
+  "Bloom side: Andreessen, Huang, Trump.",
+  "Maps dozens of researchers, CEOs and commentators in between."
+ ]
+}

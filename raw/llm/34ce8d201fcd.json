@@ -1,0 +1,17 @@
+{
+ "id": "34ce8d201fcd",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A post argues the industry measures AI cost wrong: a cheaper token does not necessarily make a cheaper task, because a model can use more tokens, make more tool calls, or take longer to reach the same result. Tibo, who leads Codex at OpenAI, puts it in pizza terms: each slice can get cheaper while the whole pizza gets more expensive.",
+  "The authors say they often find open source models cost more than closed ones over time - because everyone is measuring cost per token. What we actually care about is closer to cost per task, cost per unit of intelligence. They call this Intelligence Density."
+ ],
+ "highlights": [
+  "A cheaper token is not necessarily a cheaper task.",
+  "OpenAI's Codex lead: slices get cheaper while the pizza gets pricier.",
+  "Open source models often cost more over time than closed ones.",
+  "The wrong metric: cost per token.",
+  "Proposal: measure cost per task - 'Intelligence Density'."
+ ]
+}

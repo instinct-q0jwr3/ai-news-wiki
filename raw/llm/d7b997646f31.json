@@ -1,0 +1,17 @@
+{
+ "id": "d7b997646f31",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A research post on 'decision forking' tests how good LLMs are at choosing between approaches mid-task, using a concrete example: modify NodeBB production source so the admin file-upload endpoint validates the requested folder before saving - resolving it under the configured upload path, rejecting missing or non-directory targets with [[error:invalid-path]], and preventing paths from escaping the upload root.",
+  "The writeup shows a run's progress: 30 recorded steps in, the agent has inspected the harness, found the admin upload controller and its tests, and read the surrounding file helpers - and now faces the fork of whether to add a focused folder-existence helper first."
+ ],
+ "highlights": [
+  "Study: how good are LLMs at decision forking?",
+  "Testbed task: harden NodeBB's admin upload endpoint.",
+  "Requirements: validate folder, reject bad targets, block path escapes.",
+  "Example run: 30 recorded steps before the key decision point.",
+  "The fork: add a focused folder-existence helper first, or not."
+ ]
+}

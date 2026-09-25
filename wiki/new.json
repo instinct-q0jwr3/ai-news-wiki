@@ -1,47 +1,149 @@
 {
- "generated_at": "2026-09-25T12:58:10+00:00",
+ "generated_at": "2026-09-25T18:58:50+00:00",
  "stories": [
   {
-   "id": "713859067595",
-   "title": "Special Projects (2016)",
+   "id": "32597850c76c",
+   "title": "A federal appeals court upholds DOD's Anthropic blacklisting, finding Claude's integration with DOD systems is \"a statutorily covered national-security risk\"",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+  },
+  {
+   "id": "3a302fa6632d",
+   "title": "the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year",
+   "source": "Techmeme",
+   "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+  },
+  {
+   "id": "b20df8221f7f",
+   "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
    "source": "Hacker News",
-   "url": "https://openai.com/index/special-projects/"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
   },
   {
-   "id": "8dee73da3464",
-   "title": "Show HN: Agentic CUDA Kernel Optimizer",
+   "id": "646673028836",
+   "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
    "source": "Hacker News",
-   "url": "https://github.com/bertaye/agentic-cuda-optimizer"
+   "url": "https://github.com/Avinash-jetwani/jevmem"
   },
   {
-   "id": "7c1b32021d67",
-   "title": "Project Jupiter, the New Mexico data center for which Oracle made major financial commitments, faces power and permitting hurdles, exposing Oracle's AI risks",
+   "id": "3dadec52205d",
+   "title": "Yes, Claude can do Nine Loops",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+  },
+  {
+   "id": "a27a39df3675",
+   "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+   "source": "Hacker News",
+   "url": "https://www.doom-or-bloom.com"
+  },
+  {
+   "id": "4b7fe8fca346",
+   "title": "The cheap new AI model taking aim at OpenAI and Anthropic",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430"
+  },
+  {
+   "id": "b91562b4ca5c",
+   "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+   "source": "Hacker News",
+   "url": "https://mouse.dev/blog/muse-special/"
+  },
+  {
+   "id": "a0a6ae1e7d8c",
+   "title": "Are you ready for superintelligence",
+   "source": "TLDR AI",
+   "url": "https://x.com/knowerofmarkets/status/2103138714050331089"
+  },
+  {
+   "id": "89e375984d7b",
+   "title": "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\"",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2"
+   "url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom"
   },
   {
-   "id": "ccdde235b22f",
-   "title": "The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies",
+   "id": "e920128400d4",
+   "title": "Contrastive Language Models",
+   "source": "TLDR AI",
+   "url": "https://contrastive-lm.notion.site/"
+  },
+  {
+   "id": "55630c7408fc",
+   "title": "A finance benchmark asks agents to finish the whole assignment",
+   "source": "TLDR AI",
+   "url": "https://surgehq.ai/benchmarks/dayjob-finance"
+  },
+  {
+   "id": "d7b997646f31",
+   "title": "How Good Are LLMs at Decision Forking?",
+   "source": "TLDR AI",
+   "url": "https://github.com/wbopan/tastebench"
+  },
+  {
+   "id": "1b7f6259adbf",
+   "title": "Ando, which is building a team messaging platform for both humans and AI agents, comes out of stealth with $20M in pre-seed and seed funding",
    "source": "Techmeme",
-   "url": "https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety"
+   "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
   },
   {
-   "id": "61f8ba08662d",
-   "title": "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot",
+   "id": "d1bdf8d5751f",
+   "title": "Gemini 3.8 Live with Live Avatar",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+  },
+  {
+   "id": "32085b74bdf4",
+   "title": "What we learned from being the first company to disclose an agent cyberattack",
+   "source": "TLDR AI",
+   "url": "https://x.com/ClementDelangue/status/2103144463279276146"
+  },
+  {
+   "id": "1c1693983f6a",
+   "title": "Bringing Your Muse to Life",
+   "source": "TLDR AI",
+   "url": "https://research.meta.ai/blog/bringing-your-muse-to-life"
+  },
+  {
+   "id": "34ce8d201fcd",
+   "title": "Intelligence Density",
+   "source": "TLDR AI",
+   "url": "https://www.trajectory.ai/field-notes/intelligence-density"
+  },
+  {
+   "id": "51dd81faba0d",
+   "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/"
+  },
+  {
+   "id": "acc13934a14a",
+   "title": "President Trump says Scott Bessent is not \"going to be Super Intelligence (SI) Czar\", because \"he doesn't want to\" and Trump wants to keep him at the Treasury",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&utm_medium=gift-link"
+   "url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html"
   },
   {
-   "id": "1aebf0bf9a7a",
-   "title": "LLM Policies: Progress At All Costs",
-   "source": "Lobsters",
-   "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/"
+   "id": "07606e5cc149",
+   "title": "Jensen Huang tells Ezra Klein that AI is just software whose existential risks are overstated, yet his standards would shut down OpenAI and 10x safety spending",
+   "source": "Techmeme",
+   "url": "https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen"
   },
   {
-   "id": "58807fefbed7",
-   "title": "AI is not “just a tool”",
-   "source": "Lobsters",
-   "url": "https://brettcodes.com/ai-is-not-just-a-tool/"
+   "id": "de6c82620dff",
+   "title": "Anthropic tested what happens when agents bargain for people",
+   "source": "TLDR AI",
+   "url": "https://www.anthropic.com/research/project-swap"
+  },
+  {
+   "id": "2d4b375f0490",
+   "title": "Managed Deep Agents v0.8: new auth, memory, and channels",
+   "source": "TLDR AI",
+   "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new"
+  },
+  {
+   "id": "3fa9a128c174",
+   "title": "Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
   }
  ]
 }

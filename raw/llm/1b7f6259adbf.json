@@ -1,0 +1,17 @@
+{
+ "id": "1b7f6259adbf",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "TechCrunch profiles Ando, a startup building a team messaging platform for both humans and AI agents. Founder Sara Du kept hitting the problem while helping companies build MCP servers in 2025: people wanted to use AI agents from within Slack, but moving messages back and forth and getting agents the right context burned through token budgets.",
+  "Digging in, Du concluded the issue was deeper than tooling: Slack and Teams were built for humans, not for agents - so Ando is rebuilding the communication layer itself for mixed human-agent teams."
+ ],
+ "highlights": [
+  "Ando: team messaging for humans and AI agents.",
+  "Founder Sara Du saw the problem building MCP servers in 2025.",
+  "Using agents from Slack burned context and token budgets.",
+  "Her conclusion: Slack and Teams were designed for humans, not agents.",
+  "Ando rebuilds the communication layer for mixed teams."
+ ]
+}

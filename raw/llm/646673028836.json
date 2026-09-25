@@ -1,0 +1,18 @@
+{
+ "id": "646673028836",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Jevmem is automatic project memory for Claude Code, and also works with Cursor and Codex. It records project knowledge as typed, timestamped entries - decisions, constraints, superseded items - each with an id and a confidence score, so 'Use Postgres 16 as the primary store' can formally supersede the older SQLite decision it replaces.",
+  "Setup takes about a minute: you need a TypeSafe AI key for Jev (an OpenAI or Anthropic key is optional), and because hooks do not read the shell profile reliably, the simplest place for it is ~/.jevmem/env."
+ ],
+ "highlights": [
+  "Automatic project memory for Claude Code; works with Cursor and Codex.",
+  "Typed entries: decisions, constraints, superseded items.",
+  "Each entry carries an id, timestamp and confidence score.",
+  "Superseded decisions link to the entry that replaced them.",
+  "Needs a TypeSafe AI key for Jev; OpenAI/Anthropic key optional.",
+  "Install via ~/.jevmem/env since hooks skip the shell profile."
+ ]
+}

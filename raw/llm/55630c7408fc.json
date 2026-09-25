@@ -1,0 +1,17 @@
+{
+ "id": "55630c7408fc",
+ "authored_at": "2026-09-25T19:04:24.330294+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "DAYJOB: Finance is a new benchmark measuring long-horizon finance agents across corporate finance, banking, credit, investing and real assets. It is built around the messy reality of knowledge work: realistic requests, complex environments, and end-to-end professional judgment - asking agents to finish the whole assignment rather than answer a question.",
+  "A sample task: evaluate a 2026 expansion proposal using attached materials and recommend whether the company should proceed and how to finance it, then summarize the work in an exportable text file. (The reference answer: proceed with Nashville only, financed with incremental senior debt in early FY2026.) The environments ship off the shelf alongside new Frontier data and RL environments."
+ ],
+ "highlights": [
+  "DAYJOB: Finance benchmarks long-horizon finance agents.",
+  "Covers corporate finance, banking, credit, investing, real assets.",
+  "Realistic requests, complex environments, end-to-end judgment.",
+  "Agents must finish the whole assignment, not answer a question.",
+  "Ships with new Frontier data and RL environments."
+ ]
+}
