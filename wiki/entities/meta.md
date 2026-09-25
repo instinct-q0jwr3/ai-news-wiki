@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
-`entity` `meta` `agentic-commerce` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents`
+`entity` `meta` `agentic-commerce` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
 ## Overview
 
@@ -10,6 +10,12 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-09-25** - In my opinion, one of the best critiques of modern AI design comes from a 1992 talk by the researcher Mark Weiser where he ranted against “copilot” as a metaphor for AI. ([Enough AI copilots! We need AI HUDs](../summaries/7d68d0dd53c0.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md))
+- **2026-09-25** - My comment on Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint — Hacker News. ([Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](../summaries/cc309ff8dff9.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Hugging Face](../entities/hugging-face.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
+- **2026-09-25** - Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! ([Gemini Hacked Three Companies in First Known Breakout by Google’s AI](../summaries/a2bd2306e722.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
+- **2026-09-25** - My comment on MCP was always a bad idea? — Hacker News. ([MCP was always a bad idea?](../summaries/c3be5bff6a81.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-25** - Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use… ([Quoting John Gruber](../summaries/2482207657a5.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-25** - It’s crazy how much Fullmetal Alchemist mimics how AI is playing out. ([Liminality](../summaries/a81808ef8452.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md))
 - **2026-09-25** - Part 2 of a teardown of Meta's Muse filesystem asks an awkward question: does Muse actually use OpenAI and Claude models behind the scenes? The author found a model labeled azure/muse-special in his logs while Muse was building his website, and dug deeper… ([Meta's Muse appears to use an OpenAI model labeled muse-special](../summaries/b91562b4ca5c.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-09-25** - Meta announced two new tools for building games on its Horizon social platform with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app with more granular controls. Both are heading to early access with a waitlist. ([Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon](../summaries/102c2ecfc0b6.md) · [Meta](../entities/meta.md))
 - **2026-09-24** - Ars Technica reports from Meta Connect: Mark Zuckerberg unveiled Muse Charm, a small pendant-like device that fits on a keychain, activated by a fingerprint sensor, with a screen showing the Muse avatar and real-time voice interactivity, set for release in… ([Meta puts its AI assistant on a keychain](../summaries/3e28667b1bb8.md) · [Meta](../entities/meta.md))

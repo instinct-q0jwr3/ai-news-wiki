@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
-`entity` `microsoft` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
+`entity` `microsoft` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `compute-buildout`
 
 ## Overview
 
@@ -10,6 +10,10 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-09-25** - Executive Summary: Microsoft disclosures and Bloomberg analyses show that OpenAI's compute spend and revenue share accounted for 70% or more of Microsoft's FY26 AI revenues, and more than 7% of Microsoft's overall FY2026 revenues. ([News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI Revenue, More Than 7% of FY26 Revenue](../summaries/c8387d57e285.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-25** - You know, sometimes it’s kind of hard to explain the “circular” part of circular financing to people, in the sense that some of the agreements are kind of clunky. ([Premium: The Hater's Guide To Circular Financing](../summaries/f6c559547989.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-25** - In my opinion, one of the best critiques of modern AI design comes from a 1992 talk by the researcher Mark Weiser where he ranted against “copilot” as a metaphor for AI. ([Enough AI copilots! We need AI HUDs](../summaries/7d68d0dd53c0.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md))
+- **2026-09-25** - Copilot+ PCs were met with immediate backlash from security researchers after discovering that Copilot+ PCs blockbuster feature, Recall, was woefully insecure. ([Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices](../summaries/dafc59516313.md) · [Microsoft](../entities/microsoft.md))
 - **2026-09-25** - Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot. Hacker News selected it as an AI-relevant development. ([Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot](../summaries/b20df8221f7f.md) · [Microsoft](../entities/microsoft.md)) 🔒
 - **2026-09-25** - Microsoft officially unveiled its redesigned Copilot 'super app', bundling AI chat, coding and agents into a single interface after teasing it last month. As part of the launch, Scout - the AI personal assistant introduced at Build earlier this year - is… ([Microsoft launches its Copilot "super app", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot](../summaries/61f8ba08662d.md) · [Microsoft](../entities/microsoft.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - Coverage Cat, a licensed insurance brokerage (YC S22), launched with a pitch for AI-guided intake paired with a human brokerage team: compare home, umbrella, auto and renters coverage side by side with 'straight pricing, no sold leads'. The company says… ([Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](../summaries/2683f31e3bce.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

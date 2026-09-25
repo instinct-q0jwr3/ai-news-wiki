@@ -29,6 +29,19 @@ SOURCES = {
     "Lobsters": "https://lobste.rs/rss",
     "Latent.Space": "https://www.latent.space/feed",
     "Stratechery": "https://stratechery.com/feed/",
+    # Oscar's personal blog roll (OPML import 2026-09-26), batch 1: AI-dense feeds.
+    "Simon Willison": "https://simonwillison.net/atom/everything/",
+    "Marcus on AI": "https://garymarcus.substack.com/feed",
+    "Ed Zitron": "https://www.wheresyoured.at/rss/",
+    "Gwern": "https://gwern.substack.com/feed",
+    "Dwarkesh Podcast": "https://www.dwarkesh.com/feed",
+    "geohot": "https://geohot.github.io/blog/feed.xml",
+    "Max Woolf": "https://minimaxir.com/index.xml",
+    "Works on My Machine": "https://worksonmymachine.substack.com/feed",
+    "lcamtuf": "https://lcamtuf.substack.com/feed",
+    "Westenberg": "https://www.joanwestenberg.com/feed",
+    "Geoffrey Litt": "https://www.geoffreylitt.com/feed.xml",
+    "Experimental History": "https://www.experimental-history.com/feed",
 }
 HN_TOP = "https://hacker-news.firebaseio.com/v0/topstories.json"
 HN_ITEM = "https://hacker-news.firebaseio.com/v0/item/{item_id}.json"
@@ -82,6 +95,27 @@ def parse_feed(source: str, url: str) -> list[dict]:
         description = clean(raw_description)
         if source == "Techmeme":
             link = techmeme_original(raw_description) or link
+        if title and link:
+            items.append({"source": source, "title": title, "url": link, "summary": description})
+    if items:
+        return items
+    # Atom feeds (many personal blogs publish Atom only).
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    for entry in root.findall(".//a:entry", ns):
+        title = clean(entry.findtext("a:title", default="", namespaces=ns))
+        link = ""
+        for ln in entry.findall("a:link", ns):
+            if ln.get("href") and ln.get("rel", "alternate") in ("alternate", ""):
+                link = ln.get("href")
+                break
+        if not link:
+            for ln in entry.findall("a:link", ns):
+                if ln.get("href"):
+                    link = ln.get("href")
+                    break
+        raw_description = (entry.findtext("a:summary", default="", namespaces=ns)
+                           or entry.findtext("a:content", default="", namespaces=ns) or "")
+        description = clean(raw_description)
         if title and link:
             items.append({"source": source, "title": title, "url": link, "summary": description})
     return items
@@ -229,9 +263,10 @@ def blurb_for(item):
 
 
 def render_daily(day: str, items: list[dict], generated: str) -> str:
+    all_sources = list(SOURCES.keys()) + ["Hacker News", "TLDR AI"]
     lines = [f"# AI in the news - {day}", "", f"Updated: `{generated}`", "",
-             "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.", ""]
-    for source in ("Techmeme", "Hacker News", "Lobsters", "Latent.Space", "Stratechery", "TLDR AI"):
+             "Sources: " + ", ".join(all_sources) + ".", ""]
+    for source in all_sources:
         source_items = [item for item in items if item["source"] == source]
         lines.extend([f"## {source}", ""])
         if not source_items:

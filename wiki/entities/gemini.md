@@ -2,7 +2,7 @@
 
 _type: product · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
-`entity` `gemini` `agentic-systems` `ai-safety-incidents` `compute-buildout` `external-evaluation`
+`entity` `gemini` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
 ## Overview
 
@@ -10,6 +10,9 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-09-25** - I’ve been working on a pipeline for representing an image as semantic structured data using multimodal LLMs for better image categorization, tagging, and searching. ([LLMs can now identify public figures in images](../summaries/40fe30b016a4.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-09-25** - Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . ([Gemini 3.8 TTS Playground](../summaries/5a7775f19d2f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-09-25** - Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! ([Gemini Hacked Three Companies in First Known Breakout by Google’s AI](../summaries/a2bd2306e722.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-25** - Google's own blog introduces Gemini 3.8 Live with Live Avatar: by natively coupling its live dialogue capabilities with low-latency streaming video, Live Avatar brings near real-time visual presence to Gemini's conversational AI, pitched at enterprises and… ([Gemini 3.8 Live with Live Avatar](../summaries/d1bdf8d5751f.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-09-25** - Gemini 3.8 Live with Live Avatar is now generally available in Gemini Enterprise, a week after the Gemini 3.8 Live and Extended Thinking announcements. First previewed at Google Cloud Next 2026, the interactive visual persona is, Google says, officially… ([Power your agents: Gemini 3.8 Live with Live Avatar is now generally available](../summaries/0c73632efa13.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-25** - Google updated Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions during real-time conversations. It can also pull up information on-screen while it talks. ([Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers](../summaries/92f3a74309a1.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

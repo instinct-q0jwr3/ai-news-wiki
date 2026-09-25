@@ -2,7 +2,7 @@
 
 _type: product · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
-`entity` `qwen` `agentic-systems` `compute-buildout` `labor-displacement` `small-specialist-models`
+`entity` `qwen` `agentic-systems` `ai-safety-incidents` `compute-buildout` `external-evaluation`
 
 ## Overview
 
@@ -12,6 +12,7 @@ Qwen is Alibaba's family of open-weight large language and image models. This pa
 
 - **2026-09-24** - Qwen launched Qwen Intelligence with three mobile agents it calls SOTA: a Mobile Planner Agent that plans, decomposes and orchestrates complex tasks (#1 on MobilePA-Bench, MobilePA-Bench Business and Memory); a Mobile-Use Agent that executes tasks… ([Qwen Intelligence Launches Three Mobile AI Agents](../summaries/2b6ab9ff4400.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - Qwen's RecreationWorld is a five-platform framework for studying hybrid computer-use agents that autonomously interleave GUI exploration, implementation with coding tools, and visual verification of their own running artifacts. By framing recreation around… ([Qwen's RecreationWorld Trains Agents to Rebuild Apps](../summaries/aa7fe1b874f6.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-22** - Simon Willison's take on Jev, TypeSafe AI's 'System One model,' crystallizes what makes it unusual: it accepts text input but returns only floating-point numbers - categories, yes/no answers, ratings and confidence scores. TypeSafe pitches it as 'a… ([Jev introduces a new shape of LLM](../summaries/ba12d1e61843.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [TypeSafe](../entities/typesafe.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-21** - The Qwen team introduces Qwen3.8-LiveTranslate, a live translation model with the tagline 'Names the speaker. Carries the meaning.', in a post on the Qwen blog. TLDR AI featured the story in a recent issue. (Brief based on the link title.) ([Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning](../summaries/6f3d04de2ce0.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-09-21** - Alibaba has appointed Dayiheng Liu, one of its senior AI researchers, as head of its Qwen large language model project, The Information reports. The move brings clarity to the effort after multiple reorganization rounds earlier in 2026. ([Alibaba names Dayiheng Liu head of its Qwen project](../summaries/357ea6567b48.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-09-20** - Alibaba's Qwen team open-sourced Qwen-Image-2.1, an image model that unifies text-to-image generation and image editing in a single system with just 7B parameters in its visual generation component (32 Single-Stream DiT layers). The headline addition is… ([Qwen Image 2.1](../summaries/1ba4b92c727b.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))

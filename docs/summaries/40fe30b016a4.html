@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>LLMs can now identify public figures in images · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790375727"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>LLMs can now identify public figures in images</h1>
+<p class="meta">type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high</p>
+<p><code>max-woolf</code> <code>openai</code> <code>anthropic</code> <code>google</code> <code>gemini</code></p>
+<h2>Summary</h2>
+<p>I’ve been working on a pipeline for representing an image as semantic structured data using multimodal LLMs for better image categorization, tagging, and searching.</p>
+<p>During my research, I started with something simple by taking an image and having a LLM describe who is in it: if they’re famous, there should be more than enough annotated images in the LLM’s training dataset to accurately identify them.</p>
+<p>Presidential Campaign: via IowaPolitics.com / Flickr It would be weird if an LLM couldn’t identify Obama from this picture.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Let’s take this photo of President Barack Obama during the 2008 U.S.</li>
+<li>I fed this image to ChatGPT using the ChatGPT.com web app with the question “Who is the person in this image?”: Huh.</li>
+<li>Next, I tried Claude at claude.ai : Double huh.</li>
+<li>Using OpenRouter , I wrote a pipeline to query a few 1 top multimodal LLMs simultaneously given an input image and a system prompt to see how well different LLMs can identify public figures ( Jupyter Notebook ).</li>
+<li>But even with the customized system prompt, GPT and Claude still do not want to identify public figures.</li>
+<li>I’m still not happy with GPT’s and Claude Sonnet’s refusals to identify public figures in images, but that won’t stop me from figuring out what those two LLMs actually know.</li>
+<li>Let’s try to get those LLMs to do identify public figures anyways through more aggressive prompt engineering ( Jupyter Notebook ).</li>
+<li>Is there an ethical issue allowing LLMs to be able to identify public figures?</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://minimaxir.com/2025/07/llms-identify-people/">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/anthropic.html">Anthropic</a> · <a href="../entities/google.html">Google</a> · <a href="../entities/gemini.html">Google Gemini</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

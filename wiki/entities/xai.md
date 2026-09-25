@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-19 · updated: 2026-09-25 · confidence: medium_
 
-`entity` `xai` `agentic-systems` `external-evaluation` `small-specialist-models`
+`entity` `xai` `agentic-systems` `ai-coding-agents` `external-evaluation` `small-specialist-models`
 
 ## Overview
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-09-25** - Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . ([Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](../summaries/0ca9f7982272.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Xiaomi](../entities/xiaomi.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-23** - AI training-data startup Micro1 raised more than $100 million at a $4 billion valuation, Forbes reports, up from a $500 million valuation in September 2025. Ali Ansari's company began last year as a recruiting business with $7 million in ARR and now… ([AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025](../summaries/f29ad7754038.md) · [SpaceXAI (xAI)](../entities/xai.md))
 - **2026-09-22** - Meta's Muse personal AI agent overtook ChatGPT as the leading free iOS app in the U.S. on Friday, less than two weeks after launch, CNBC reports. Sensor Tower counted 730,000 downloads in about five days after its September 8 debut and over 2.5 million… ([Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads](../summaries/1e8aac8e1925.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - Xiaomi's MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model, VentureBeat reports. That puts Xiaomi's new flagship ahead of proprietary models… ([MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis' Intelligence Index, making it the benchmark's top-scoring open-weight model](../summaries/cba40109d163.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Xiaomi](../entities/xiaomi.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md))
