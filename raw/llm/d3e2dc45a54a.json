@@ -1,0 +1,16 @@
+{
+ "id": "d3e2dc45a54a",
+ "authored_at": "2026-09-25T07:01:31.294206+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A blog essay asks whether open source will survive the agents that replaced it, opening with matplotlib maintainer Tim Hoffmann's February 2026 warning: agents change the cost balance between generating and reviewing code. Generation can be automated and becomes cheap, so code input volume increases - but review is still a manual human activity, 'burdened on the shoulders of few core developers'."
+ ],
+ "highlights": [
+  "Essay: will open source survive the agents that replaced it?",
+  "Cites matplotlib maintainer Tim Hoffmann (Feb 2026).",
+  "Agents make code generation cheap; input volume rises.",
+  "Review stays manual and lands on a few core developers.",
+  "The asymmetry between generation and review is the crux."
+ ]
+}

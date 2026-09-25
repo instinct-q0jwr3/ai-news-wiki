@@ -1,0 +1,17 @@
+{
+ "id": "f29a87cc1c2f",
+ "authored_at": "2026-09-25T07:01:31.294206+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Docker released cloud sandboxes for agentic workloads: each agent gets its own cloud sandbox with its own microVM and kernel, so whatever the agent installs stays inside and agents can install and test without touching each other's files - and nothing depends on a laptop staying awake. Docker pitches the setup for running automated tasks around the clock.",
+  "As a launch offer, new Docker Agentic Platform signups receive a one-time $250 compute credit instead of the standard $25 (one per user, card required, charged only beyond the credit), valid September 22-26, 2026."
+ ],
+ "highlights": [
+  "Docker cloud sandboxes for agentic workloads.",
+  "Each agent gets its own sandbox, microVM and kernel.",
+  "Agents install and test without touching each other's files.",
+  "Runs in the cloud: nothing depends on a laptop staying awake.",
+  "Launch offer: $250 one-time compute credit for new signups (Sept 22-26, 2026)."
+ ]
+}

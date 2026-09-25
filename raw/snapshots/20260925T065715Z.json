@@ -1,0 +1,774 @@
+{
+  "generated_at": "2026-09-25T06:57:15+00:00",
+  "errors": [],
+  "items": [
+    {
+      "source": "Hacker News",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "",
+      "score": 1793,
+      "comments": 1117,
+      "id": "6e142cae15e5",
+      "ai_matches": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "",
+      "score": 1764,
+      "comments": 843,
+      "id": "8375187ae71f",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "",
+      "score": 763,
+      "comments": 784,
+      "id": "246da2e2481d",
+      "ai_matches": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux support is coming to Snapdragon X2 series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": "",
+      "score": 595,
+      "comments": 259,
+      "id": "db8e779b5d9c",
+      "ai_matches": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "summary": "",
+      "score": 480,
+      "comments": 282,
+      "id": "03ed461abfa9",
+      "ai_matches": [
+        "agents",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "summary": "",
+      "score": 328,
+      "comments": 147,
+      "id": "13123bf3c886",
+      "ai_matches": [
+        "ai",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard . We were missing the feeling of a “whiteboard session” with another dev where you leave with a deep understanding of a system, so we built this app for ourselves. Whiteboard plugs into the tools you already use - e.g. Claude Code, Codex, etc. – and gives your agent an SDK to draw on an in-app canvas to describe its work. We began with an MVP based on HTML artifacts and started rethinking the app as we ran into limitations: 1. Built on top of CodeOSS: We found that in pure HTML tools it was hard to connect a spec or diagram to code. In Whiteboard, when you click on visualizations like a sequence diagram, an entity relationship diagram, or a quote from the agent’s trace, you can jump to the underlying code directly. When navigating code, you get keybindings and LSP support from VSCode out of the box. We’ve found this is especially valuable because tradeoffs are often only discovered after a first pass at implementation (re: slop) 2. Semantic diff viewer: we wrote a semantic, AST-aware diff viewer in Rust so you can only view the code changes which are relevant to you [1]. We’ve set up some sane defaults: large added functions are summarized as pseudocode, and things like unit tests and large documentation changes are collapsed / hidden. This is all customizable with a WASM-based plugin system. 3. Decision Log: We found it difficult to reason about what set of decisions our agents made autonomously. So we built tools for agents to query and link their own traces to the Whiteboard, so you can understand how the requirements that you set were implemented, and understand what decisions your agent made autonomously. Here’s a quick demo video explaining more: https://www.youtube.com/watch?v=ChPn3ftULWE Folks at companies like Salesforce and Modal are using Whiteboard today as a review tool for architecture or spec-level changes – really any change where they want to be involved: 1. Reviewing your own coding agent’s work: because Whiteboard makes it easier to review large amounts of code, folks will typically have their AI agents create a prototype and a corresponding Whiteboard session so they can iterate on the design. 2. Reviewing other people’s changes: We’ve found that Whiteboard is particularly helpful when composed with tools like Greptile. For example, you can run an automated code reviewer on small changes and escalate to a Whiteboard session for the changes that require human judgement. Why we built this: we’re four buddies from college who quit our jobs as tech leads right before agentic coding became industry standard. As we iterated towards an MVP for a previous idea, we struggled to maintain a comprehensible codebase while reaping all the velocity benefits of agentic coding. As more PRs were merged without our understanding, we felt a ‘cognitive debt’ begin to seep in, until it became difficult for us to even contribute to the system [2]. We’re releasing our desktop app under an MIT license. Please poke through and feel free to contribute! Eventually we’ll charge companies for a hosted web version that manages whiteboard session creation alongside features like trajectory storage and multiplayer reviews. Everything will always remain self-hostable. Thanks for reading, and we hope you try it out! We would love to hear any feedback and to learn from your expertise. Here’s are the project links again: https://github.com/devdotfast/whiteboard , and you can install (for MacOS + Linux) at https://install.dev.fast [1] diffs library: https://github.com/devdotfast/diffr [2] Credit for the term ‘cognitive debt’ goes to https://www.geoffreylitt.com/2026/07/02/understanding-is-the...",
+      "score": 268,
+      "comments": 108,
+      "id": "528aa11f5bcc",
+      "ai_matches": [
+        "agentic",
+        "agents",
+        "ai",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "summary": "",
+      "score": 256,
+      "comments": 258,
+      "id": "b8f0bee377b2",
+      "ai_matches": [
+        "ai",
+        "ai agent"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Best LLM for every budget, updated daily",
+      "url": "https://bestmodelforyourbudget.terrydjony.com/",
+      "summary": "",
+      "score": 171,
+      "comments": 106,
+      "id": "7abaa19a2a04",
+      "ai_matches": [
+        "llm"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with everything else this past year, has caused me a great deal of stress. While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use. It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now. So I let perfect be the enemy of good and, well... just kept the idea to myself. Then I said \"fuck it\" and used AI to make the thing I really wanted to make. I realized I didn't want \"perfect\". I wanted \"good enough\". I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it. So now, instead of occupying my brain, it now lives on the internet for others to enjoy. Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head? So here I am. I made the thing. The weird, little, quiet koi pond. The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together. I hope this pond helps you as much as it helped me.",
+      "score": 171,
+      "comments": 42,
+      "id": "eba1d2004930",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "summary": "https://www.nytimes.com/2026/09/24/technology/google-suncatc... ( https://archive.ph/BGFnP )",
+      "score": 166,
+      "comments": 302,
+      "id": "a1a9cda1ffd3",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+      "summary": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-cente...",
+      "score": 141,
+      "comments": 134,
+      "id": "7e555752ec03",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "summary": "",
+      "score": 140,
+      "comments": 203,
+      "id": "978e6313d9ce",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "summary": "",
+      "score": 134,
+      "comments": 49,
+      "id": "98977c5332a7",
+      "ai_matches": [
+        "ai",
+        "chatgpt",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "",
+      "score": 112,
+      "comments": 20,
+      "id": "a2d471e92c66",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "summary": "",
+      "score": 104,
+      "comments": 172,
+      "id": "54445fc3d776",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "",
+      "score": 84,
+      "comments": 12,
+      "id": "f2cce3a179de",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+      "summary": "",
+      "score": 79,
+      "comments": 123,
+      "id": "92d156c903b1",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is A.I. Above the Law?",
+      "url": "https://www.newyorker.com/magazine/2026/09/28/is-ai-above-the-law",
+      "summary": "",
+      "score": 55,
+      "comments": 46,
+      "id": "85f2f8940dc5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "summary": "Hi HN, I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation. Our harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full agent loop where one isn’t needed. For example, a research workflow can split a question into subquestions, send agents to research them in parallel, use Jev to screen the evidence, and have another agent write the report. You can inspect the steps, evaluate the evidence screening separately, or change one agent without rebuilding everything. The DSL and examples are in our GitHub. There’s a scripted demo you can run without API keys: https://github.com/Parcha-ai/agentrun You can also use it as a Pi extension to build, inspect, and run workflows: https://github.com/Parcha-ai/agentrun#use-it-in-pi I would love to hear if this is useful to others. More background on how AgentRun works in this video: https://www.youtube.com/watch?v=vOVhtGjtwpg . Or read about our use cases in this article: https://x.com/MiguelriosEN/status/2101029313906987422 .",
+      "score": 42,
+      "comments": 10,
+      "id": "7ebd7bc9adad",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
+      "url": "https://www.docker.com/c/sbx-promo/",
+      "summary": "",
+      "score": 19,
+      "comments": 1,
+      "id": "f29a87cc1c2f",
+      "ai_matches": [
+        "agentic"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench/",
+      "summary": "",
+      "score": 16,
+      "comments": 6,
+      "id": "dfa27cc13cc3",
+      "ai_matches": [
+        "openai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
+      "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
+      "summary": "",
+      "score": 11,
+      "comments": 3,
+      "id": "f387b8c0a810",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Critic – Review code with the agent that wrote it",
+      "url": "https://www.critic.run/",
+      "summary": "Hey HN, I'm Shreyash from Feyn. We help companies build custom models from their data. Today we're releasing Critic, a change review platform that lets you engage directly with the AI that wrote the code. Agents write most of our code. While that has made us more productive, understanding a change and its consequences has become incredibly difficult. As our company adopted more agentic tools, we found it harder to loop people in on the impact of a PR and the state of a project. We built Critic to fix this. Critic lets AI agents present their code, annotate key blocks, and include relevant evidence (like screenshots and instructions to run locally). Anyone viewing that change can talk directly to the agent that wrote it. See a demo here: https://www.youtube.com/watch?v=U2--lytmOtQ . Critic works through a plugin for Codex or Claude Code. When your agent writes code, the plugin asks it to also write a narrative describing the story behind the change, and highlight any assumptions, decisions, or complex code. You can then view the change at critic.run or have your agent pull it via the bundled MCP. Every feature in Critic is available over MCP, so your agent gets all the same context without leaving its harness. From the dashboard or MCP, you can chat with the authoring agent directly. When Critic receives a question, it forks the authoring session and forwards your question there. That way your main thread stays clean and keeps working. Local changes are visible only to the owner. Anything pushed to GitHub is mirrored and visible to anyone with permission to view that change on GitHub. When building Critic, security was a big priority for us. AI agents often run in auto mode and can take many actions on your computer. We wanted to ensure that giving people access to your agent doesn't mean giving them access to your computer. All Critic forked sessions are stripped of their write tools. They can only answer questions about the change and in-progress work in that workspace. Critic has helped us catch several incidents before they hit production. The most common is a model not reusing artifacts, like existing styles, components, or functions. Because it's so easy to dig into an agent's work and question it, we've also caught more cases of models misdiagnosing issues or writing unhelpful code. Since Critic's UI is faster and friendlier to agents than GitHub, our team is returning feedback quicker as well. Critic is free to use. Sign up at https://critic.run . Let me know if you have feedback or questions.",
+      "score": 7,
+      "comments": 2,
+      "id": "0be0b63b98a2",
+      "ai_matches": [
+        "agentic",
+        "agents",
+        "ai",
+        "claude"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available",
+      "summary": "",
+      "score": 3,
+      "comments": 0,
+      "id": "0c73632efa13",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Hacker News",
+      "title": "Which AI model is best for coding? A hands-on comparison",
+      "url": "https://flaviocopes.com/ai-coding-models/",
+      "summary": "",
+      "score": 3,
+      "comments": 0,
+      "id": "ba773657f16f",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "summary": "Pacing gathers pace.",
+      "id": "db8f162a8ee3",
+      "ai_matches": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "summary": "overshadowing more efficient GPT6 models from OpenAI",
+      "id": "8eabd886b67b",
+      "ai_matches": [
+        "claude",
+        "openai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "summary": "A dash of cold water keeps the foomers away.",
+      "id": "01b776d72b0e",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+      "url": "https://www.latent.space/p/good-start-labs",
+      "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+      "id": "71e942606bf5",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "url": "https://www.latent.space/p/jev",
+      "summary": "The definitive Jev podcast with its lead creator.",
+      "id": "5e34a38be50a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "url": "https://www.latent.space/p/aiuc",
+      "summary": "We sit down with AIUC’s CEO on their Series A!",
+      "id": "87caad99075d",
+      "ai_matches": [
+        "agents"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+      "url": "https://www.latent.space/p/john-platt",
+      "summary": "We talked to Google’s Oscar winning “Giganerd” about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+      "id": "c6e9612c0a29",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Latent.Space",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
+      "id": "a8fff3fdb173",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Lobsters",
+      "title": "AI Workers' Inquiry 2026",
+      "url": "https://techworkersinquiry.org/ai/",
+      "summary": "Comments",
+      "id": "b552108697d7",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "2026.37: Duo Threats",
+      "url": "https://stratechery.com/2026/duo-threats/",
+      "summary": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
+      "id": "07031689ff8a",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "summary": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "id": "6cb998ccdf39",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "summary": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "id": "530b89134ef6",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "id": "4d93ed21993f",
+      "ai_matches": [
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+      "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+      "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+      "id": "ddae676a8433",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Stratechery",
+      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+      "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "summary": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
+      "id": "e1c383e8adc8",
+      "ai_matches": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "A new wave of Connected Apps is rolling out to Gemini",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+      "summary": "TLDR AI selected this story in its latest issue: A new wave of Connected Apps is rolling out to Gemini.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "80651cbe53e2",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Amjad Masad on Rethinking College for the AI Era",
+      "url": "https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-sOmuMQGQ",
+      "summary": "TLDR AI selected this story in its latest issue: Amjad Masad on Rethinking College for the AI Era.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "ec56500ac4a9",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Claude Discovered a Novel Enzyme System",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "TLDR AI selected this story in its latest issue: Claude Discovered a Novel Enzyme System.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "52ce3f318f7d",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Escaping SPACE: Part I",
+      "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-i",
+      "summary": "TLDR AI selected this story in its latest issue: Escaping SPACE: Part I.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "491f873500c5",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Google plans AI memory that even Google cannot read",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+      "summary": "TLDR AI selected this story in its latest issue: Google plans AI memory that even Google cannot read.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "4a33c99c10fd",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Google's new speech models can design and direct voices",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "summary": "TLDR AI selected this story in its latest issue: Google's new speech models can design and direct voices.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "a3e10aaf1930",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "How Accurate Have AI Progress Forecasts Been So Far?",
+      "url": "https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy",
+      "summary": "TLDR AI selected this story in its latest issue: How Accurate Have AI Progress Forecasts Been So Far?.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "44e8921b6419",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Introducing Comfy Router: One API for Frontier Media Models",
+      "url": "https://blog.comfy.org/p/introducing-comfy-router-one-api",
+      "summary": "TLDR AI selected this story in its latest issue: Introducing Comfy Router: One API for Frontier Media Models.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "93faebe3e822",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Introducing Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "summary": "TLDR AI selected this story in its latest issue: Introducing Ember-1.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "de514be9cac9",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "OpenAI introduced MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench/",
+      "summary": "TLDR AI selected this story in its latest issue: OpenAI introduced MentalHealthBench.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "ac820aa14cb6",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Qwen Intelligence Launches Three Mobile AI Agents",
+      "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753",
+      "summary": "TLDR AI selected this story in its latest issue: Qwen Intelligence Launches Three Mobile AI Agents.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "2b6ab9ff4400",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "url": "https://regularized-rsi.com/",
+      "summary": "TLDR AI selected this story in its latest issue: RRSI: Regularized Recursive Self-Improvement of Agent Harnesses.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "0ceac45e5689",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "tev1-4B-experimental",
+      "url": "https://threadreaderapp.com/thread/2102882216950763814.html",
+      "summary": "TLDR AI selected this story in its latest issue: tev1-4B-experimental.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "f594d2be2010",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "TLDR AI",
+      "title": "Towards Universal Post-Training for Robotics",
+      "url": "https://pd-perry.github.io/posts/post-training.html",
+      "summary": "TLDR AI selected this story in its latest issue: Towards Universal Post-Training for Robotics.",
+      "newsletter_url": "https://tldr.tech/ai/2026-09-24",
+      "id": "9f58fee9c88b",
+      "ai_matches": [
+        "tldr ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours (Harshita Mary Varghese/Reuters)",
+      "url": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/",
+      "summary": "Harshita Mary Varghese / Reuters : Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours — Anthropic has signed an $11.6 billion cloud services agreement with Akamai Technologies (AKAM.O), as the AI lab seeks additional computing capacity …",
+      "id": "40f2f97b9fb5",
+      "ai_matches": [
+        "ai",
+        "anthropic"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "At a White House summit, Xi Jinping says the US and China have \"the capability and responsibility to develop and manage AI for good\" as \"leading nations\" in AI (Mallory Wilson/The Hill)",
+      "url": "https://thehill.com/homenews/administration/6109283-xi-china-us-ai-responsibility-trump/",
+      "summary": "Mallory Wilson / The Hill : At a White House summit, Xi Jinping says the US and China have “the capability and responsibility to develop and manage AI for good” as “leading nations” in AI — Chinese President Xi Jinping said Thursday the U.S. and China have an obligation to manage the development …",
+      "id": "468aea7c71ac",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push (Reuters)",
+      "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/",
+      "summary": "Reuters : Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push — When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago …",
+      "id": "d77e5117606e",
+      "ai_matches": [
+        "ai",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic",
+      "summary": "Chris Metinko / Axios : Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year — Databricks bought RowZero as it looks to build out its AI coworker platform Genie, co-founder Patrick Wendell tells Axios Pro exclusively.",
+      "id": "0645c5e72562",
+      "ai_matches": [
+        "agentic",
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl (Robert Hart/The Verge)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "summary": "Robert Hart / The Verge : Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl — Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways.",
+      "id": "d3308afa4bf8",
+      "ai_matches": [
+        "agents",
+        "ai",
+        "hugging face"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers (Emma Roth/The Verge)",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Emma Roth / The Verge : Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers — Google's Live Avatar can lip-sync and show different facial expressions. … Google's new Gemini 3.8 Live update lets users …",
+      "id": "92f3a74309a1",
+      "ai_matches": [
+        "ai",
+        "gemini"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation (New York Times)",
+      "url": "https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&smid=bs-share",
+      "summary": "New York Times : Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation — In response to a New York Times report on DraftKings, the state's gaming commission said it would evaluate how each company deployed the technology.",
+      "id": "c99188b3ab8c",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)",
+      "url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900",
+      "summary": "Louise Lucas / Financial Times : Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT — It is true that these numbers can hide some sleight of hand — It would be a brave or foolhardy investor who set out today to build a new Walmart, Uber or Amazon.",
+      "id": "35a4f5d56f66",
+      "ai_matches": [
+        "ai",
+        "anthropic",
+        "chatgpt",
+        "openai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Report: insurers claim hospitals' AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims (New York Times)",
+      "url": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&smid=nytcore-android-share",
+      "summary": "New York Times : Report: insurers claim hospitals' AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims — The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care.",
+      "id": "30537807398d",
+      "ai_matches": [
+        "ai",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (The Information)",
+      "url": "https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation",
+      "summary": "The Information : Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation — DensityAI, an AI chip startup founded just a year ago by former leaders of Tesla's Dojo supercomputer program, is in advanced talks …",
+      "id": "b210ac1b4487",
+      "ai_matches": [
+        "ai"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes (The Information)",
+      "url": "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo",
+      "summary": "The Information : Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes — Anthropic is asking shareholders to approve a new corporate structure that would award CEO Dario Amodei and his six cofounders …",
+      "id": "a2805f875074",
+      "ai_matches": [
+        "anthropic"
+      ]
+    },
+    {
+      "source": "Techmeme",
+      "title": "Sources: OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself (Katie Roof/Business Insider)",
+      "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9",
+      "summary": "Katie Roof / Business Insider : Sources: OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself — OpenEvidence, an AI search engine for doctors, is the latest AI darling to raise back-to-back funding rounds.",
+      "id": "c461e67eee9b",
+      "ai_matches": [
+        "ai",
+        "chatgpt"
+      ]
+    }
+  ]
+}

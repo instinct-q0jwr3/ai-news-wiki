@@ -6,18 +6,18 @@ _type: news-summary · created: 2026-09-23 · updated: 2026-09-25 · confidence:
 
 ## Summary
 
-Hi HN, I built RxFilm Studio, a video workspace that lets you create and revise videos with AI agent.
+RxFilm Studio is a native macOS app for creating and editing product videos with an AI agent 'sitting in the director's chair': score, narrate, caption and render in one place, keeping every take in one reel. Cues are generated with Lyria; narration supports multiple speakers tuned line by line; captions can be transcribed, translated and retimed, exported as VTT or SRT.
 
-The reason I started this project is simple: I’ve noticed that many independent developers and small teams want to create marketing videos for their product, but producing these videos requires a lot of time and effort — from editing…
-
-So I built Rxfilm Studio to simplify the entire video creation process.
+The app renders a real timeline at 4K 60 fps, generates stills and reference art in-app, and reviews every agent edit before it lands. It runs locally ('Nothing leaves this window'), is Apple Silicon only, free, and shipped September 21 as a 41 MB download.
 
 ## Highlights
 
-- Take 01 — Native macOS Score, narrate, caption, and render — with an agent sitting in the director’s chair.
-- RxFilmStudio.dmg · 41 MB · September 21, 2026 Generate cues with Lyria.
-- We open on a quiet room. 我们从一个安静的房间开始。 The reel is already running. 胶片已经在转动。 Nothing leaves this window. 一切都在这一个窗口里。 Stills and reference art without leaving the app.
-- Review every edit before it lands. macOS · Apple Silicon · Free
+- Native macOS app: product videos with an agent in the director's chair.
+- Score with Lyria; multi-speaker narration tuned line by line.
+- Captions: transcribe, translate, retime; export VTT or SRT.
+- Real timeline, 4K 60 fps, in-app stills and reference art.
+- Every agent edit is reviewed before it lands.
+- Apple Silicon only, free, local-first.
 
 ## Source
 

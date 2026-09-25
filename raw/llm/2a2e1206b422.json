@@ -1,0 +1,17 @@
+{
+ "id": "2a2e1206b422",
+ "authored_at": "2026-09-25T07:01:31.294206+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "AX is a high-throughput, declarative orchestrator for running billions of autonomous agent workloads in a cluster. You declare an agentic task with workspaces and gateway specifications; AX sandboxes it, wires up its workspace, fences its network and helps run it at scale. It runs on top of Agent Substrate for sandboxed execution, and the authors say anyone who has used Kubernetes will feel at home - the example is a Kubernetes-style task.yaml.",
+  "The project warns it is still refining its core concepts, protocols and specifications, with major breaking changes likely before a stable release."
+ ],
+ "highlights": [
+  "AX: declarative orchestrator for billions of agent workloads per cluster.",
+  "Declare tasks with workspaces and gateway specs; AX sandboxes and network-fences them.",
+  "Runs on Agent Substrate for sandboxed execution.",
+  "Kubernetes-style API (task.yaml, apiVersion, kind).",
+  "Pre-stable: breaking changes expected."
+ ]
+}

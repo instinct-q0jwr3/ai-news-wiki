@@ -1,113 +1,71 @@
 {
- "generated_at": "2026-09-25T00:56:31+00:00",
+ "generated_at": "2026-09-25T06:57:15+00:00",
  "stories": [
   {
-   "id": "eba1d2004930",
-   "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+   "id": "f29a87cc1c2f",
+   "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
    "source": "Hacker News",
-   "url": "https://koi.rest"
+   "url": "https://www.docker.com/c/sbx-promo/"
   },
   {
-   "id": "a1a9cda1ffd3",
-   "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/"
-  },
-  {
-   "id": "92d156c903b1",
-   "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
-   "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities"
-  },
-  {
-   "id": "54445fc3d776",
-   "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-   "source": "Hacker News",
-   "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
-  },
-  {
-   "id": "a2d471e92c66",
-   "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-   "source": "Hacker News",
-   "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
-  },
-  {
-   "id": "9b9bfc9e181c",
-   "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-   "source": "Hacker News",
-   "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335"
-  },
-  {
-   "id": "0548f3eeaba6",
-   "title": "AI is deciding whether or not people receive medical care",
-   "source": "Hacker News",
-   "url": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana"
-  },
-  {
-   "id": "0be0b63b98a2",
-   "title": "Show HN: Critic – Review code with the agent that wrote it",
-   "source": "Hacker News",
-   "url": "https://www.critic.run/"
-  },
-  {
-   "id": "49ff3b30a0d1",
-   "title": "Rails and AI",
-   "source": "Hacker News",
-   "url": "https://rubyonrails.org/ai"
-  },
-  {
-   "id": "7069f35e1ce0",
-   "title": "Don't let AI kill the author",
-   "source": "Hacker News",
-   "url": "https://www.economist.com/leaders/2026/09/24/dont-let-ai-kill-the-author"
-  },
-  {
-   "id": "102c2ecfc0b6",
-   "title": "Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon",
+   "id": "a4c0c2721de4",
+   "title": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
+   "url": "https://openai.com/index/introducing-mentalhealthbench/"
   },
   {
-   "id": "0645c5e72562",
-   "title": "Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic"
+   "id": "f387b8c0a810",
+   "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=wytH7dPlCVw"
   },
   {
-   "id": "468aea7c71ac",
-   "title": "At a White House summit, Xi Jinping says the US and China have \"the capability and responsibility to develop and manage AI for good\" as \"leading nations\" in AI",
-   "source": "Techmeme",
-   "url": "https://thehill.com/homenews/administration/6109283-xi-china-us-ai-responsibility-trump/"
+   "id": "0c73632efa13",
+   "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
+   "source": "Hacker News",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available"
   },
   {
-   "id": "c461e67eee9b",
-   "title": "OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9"
+   "id": "ba773657f16f",
+   "title": "Which AI model is best for coding? A hands-on comparison",
+   "source": "Hacker News",
+   "url": "https://flaviocopes.com/ai-coding-models/"
   },
   {
-   "id": "92f3a74309a1",
-   "title": "Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers",
+   "id": "b210ac1b4487",
+   "title": "AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+   "url": "https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation"
   },
   {
-   "id": "40f2f97b9fb5",
-   "title": "Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours",
+   "id": "30537807398d",
+   "title": "insurers claim hospitals' AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/"
+   "url": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&smid=nytcore-android-share"
   },
   {
-   "id": "a2805f875074",
-   "title": "Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes",
+   "id": "c99188b3ab8c",
+   "title": "Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo"
+   "url": "https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&smid=bs-share"
   },
   {
-   "id": "da08b81cbdb5",
-   "title": "Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation",
+   "id": "d3308afa4bf8",
+   "title": "Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"
+  },
+  {
+   "id": "d77e5117606e",
+   "title": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/"
+  },
+  {
+   "id": "35a4f5d56f66",
+   "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900"
   }
  ]
 }

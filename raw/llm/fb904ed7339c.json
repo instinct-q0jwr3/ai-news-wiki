@@ -1,0 +1,17 @@
+{
+ "id": "fb904ed7339c",
+ "authored_at": "2026-09-25T07:01:31.294206+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In a Show HN for Vellum, a diagram editor, the author tells a debugging war story: every save of a diagram containing a new image was blocked because the app's CSP connect-src lacked the S3 origin that hosts the bytes - a third origin beyond the SPA and the API. img-src already allowed the S3 domain for displaying images, but connect-src never got the matching entry for transferring them.",
+  "The bug hid behind a genuine CORS misconfiguration on the uploads bucket, because a CSP-blocked fetch fails with the same wording as a CORS-blocked one ('NetworkError when attempting to fetch resource.' in Firefox, 'Failed to fetch' in Chrome) - so fixing the real CORS issue did not reveal it."
+ ],
+ "highlights": [
+  "Show HN: Vellum, a diagram editor, plus a CSP war story.",
+  "A missing connect-src entry for the S3 origin blocked saves with new images.",
+  "CSP- and CORS-blocked fetches fail with identical wording.",
+  "The bug hid behind a real CORS misconfiguration on the uploads bucket.",
+  "img-src had the domain; connect-src never got the match."
+ ]
+}
