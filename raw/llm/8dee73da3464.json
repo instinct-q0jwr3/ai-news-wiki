@@ -1,0 +1,18 @@
+{
+ "id": "8dee73da3464",
+ "authored_at": "2026-09-25T13:00:23.268862+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A Show HN presents an agentic CUDA kernel optimizer that turns workload descriptions into GPU implementations through an automated cycle of code generation, correctness checks, benchmarking and refinement. Powered by LangGraph, the agent explores kernel implementations and launch configurations, queries GPU properties, researches NVIDIA documentation for optimization guidance, and inspects Nsight Compute counters to inform its next experiment.",
+  "Each experiment is recorded and the fastest validated implementation is retained; the model can change both kernel code and per-case launch configurations. A standalone C++ harness compiles kernels with NVRTC and launches them through the CUDA Driver API, Python handles comparison and candidate selection, and every case must pass validation."
+ ],
+ "highlights": [
+  "Agentic CUDA kernel optimizer: description to GPU implementation.",
+  "Loop: generate, check correctness, benchmark, refine.",
+  "Built on LangGraph; queries GPU properties and NVIDIA docs.",
+  "Reads Nsight Compute counters to plan the next experiment.",
+  "Changes kernel code and per-case launch configurations.",
+  "C++ harness compiles with NVRTC; every case must pass validation."
+ ]
+}

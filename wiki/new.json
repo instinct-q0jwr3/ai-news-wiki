@@ -1,71 +1,47 @@
 {
- "generated_at": "2026-09-25T06:57:15+00:00",
+ "generated_at": "2026-09-25T12:58:10+00:00",
  "stories": [
   {
-   "id": "f29a87cc1c2f",
-   "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
+   "id": "713859067595",
+   "title": "Special Projects (2016)",
    "source": "Hacker News",
-   "url": "https://www.docker.com/c/sbx-promo/"
+   "url": "https://openai.com/index/special-projects/"
   },
   {
-   "id": "a4c0c2721de4",
-   "title": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/introducing-mentalhealthbench/"
-  },
-  {
-   "id": "f387b8c0a810",
-   "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
+   "id": "8dee73da3464",
+   "title": "Show HN: Agentic CUDA Kernel Optimizer",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=wytH7dPlCVw"
+   "url": "https://github.com/bertaye/agentic-cuda-optimizer"
   },
   {
-   "id": "0c73632efa13",
-   "title": "Power your agents: Gemini 3.8 Live with Live Avatar is now generally available",
-   "source": "Hacker News",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available"
-  },
-  {
-   "id": "ba773657f16f",
-   "title": "Which AI model is best for coding? A hands-on comparison",
-   "source": "Hacker News",
-   "url": "https://flaviocopes.com/ai-coding-models/"
-  },
-  {
-   "id": "b210ac1b4487",
-   "title": "AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation",
+   "id": "7c1b32021d67",
+   "title": "Project Jupiter, the New Mexico data center for which Oracle made major financial commitments, faces power and permitting hurdles, exposing Oracle's AI risks",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation"
+   "url": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2"
   },
   {
-   "id": "30537807398d",
-   "title": "insurers claim hospitals' AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims",
+   "id": "ccdde235b22f",
+   "title": "The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&smid=nytcore-android-share"
+   "url": "https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety"
   },
   {
-   "id": "c99188b3ab8c",
-   "title": "Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation",
+   "id": "61f8ba08662d",
+   "title": "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&smid=bs-share"
+   "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&utm_medium=gift-link"
   },
   {
-   "id": "d3308afa4bf8",
-   "title": "Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents"
+   "id": "1aebf0bf9a7a",
+   "title": "LLM Policies: Progress At All Costs",
+   "source": "Lobsters",
+   "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/"
   },
   {
-   "id": "d77e5117606e",
-   "title": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/"
-  },
-  {
-   "id": "35a4f5d56f66",
-   "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900"
+   "id": "58807fefbed7",
+   "title": "AI is not “just a tool”",
+   "source": "Lobsters",
+   "url": "https://brettcodes.com/ai-is-not-just-a-tool/"
   }
  ]
 }

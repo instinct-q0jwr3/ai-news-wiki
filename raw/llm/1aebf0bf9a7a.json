@@ -1,0 +1,17 @@
+{
+ "id": "1aebf0bf9a7a",
+ "authored_at": "2026-09-25T13:00:23.268862+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A post on LLM Policies argues that the fights over AI contributions in GNOME and KDE are really about the raison d'etre of FLOSS projects, not workflow nitpicking. KDE ignited a flame war with an LLM-friendly draft policy that was deleted after causing bans and a 'Some of you may die, but that is a sacrifice I am willing to make' attitude.",
+  "GNOME has proposed nothing official, but teams including gnome-calendar, loupe, libadwaita, gnome-software and Circle already have strong policies, and an informal draft now circulating would ban all LLM contributions to GNOME projects and infrastructure."
+ ],
+ "highlights": [
+  "Essay: LLM contribution policies are about the raison d'etre of FLOSS.",
+  "KDE's LLM-friendly draft was deleted after a flame war and bans.",
+  "Several GNOME teams already have strong AI policies.",
+  "An informal draft would ban all LLM contributions to GNOME.",
+  "Author: the debate is not about workflows but purpose."
+ ]
+}
