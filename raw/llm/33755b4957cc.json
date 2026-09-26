@@ -1,0 +1,17 @@
+{
+ "id": "33755b4957cc",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Armin Ronacher on Codeberg's new terms excluding projects largely written with generative AI - a decision he disagrees with while defending Codeberg's right to make it. His framework is infrastructure neutrality: he wants GitHub to have competition, but what he needs from a code host isn't democracy, it's predictability and reasonable neutrality toward the open-source software it hosts.",
+  "The catch he names: a democratic provider without a clear constitution can be worse at both than a corporation. Codeberg is a German association and the vote was legitimate - but a majority vote says nothing about whether a decision is good, especially for the people already depending on the platform. A majority can still decide certain projects and people no longer belong."
+ ],
+ "highlights": [
+  "Codeberg's new terms exclude projects largely written with generative AI",
+  "Ronacher: infrastructure needs predictability and neutrality more than democracy",
+  "A democratic vote can still produce bad decisions for existing dependents",
+  "'A majority can still decide that certain projects and people no longer belong'",
+  "He wants GitHub competition - but with a constitution, not just votes"
+ ]
+}

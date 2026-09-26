@@ -1,0 +1,18 @@
+{
+ "id": "b23da63db8d8",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez tells the four-month story of Redis's new Array data type, from January spec to merged PR - and how AI changed the shape of the work. The first month went entirely to a hand-written specification: rationale, C structures, the sparse representation, the exact semantics of the array cursor for ring buffers and ARINSERT. He then paired with Opus, and when GPT 5.3 shipped he switched all design and development to Codex; since then he uses only GPT 5.x for system programming.",
+  "His estimate: the implementation was something he could have done in four months even before LLMs - but with AI, the same span held far more total work. The spec evolved through genuine back-and-forth: intellectual challenge over the best design rather than one-shot code generation."
+ ],
+ "highlights": [
+  "Redis's new Array type: four months from spec to PR",
+  "First month was a hand-written spec: C structures, sparse representation, cursor semantics",
+  "Workflow: Opus first, then GPT 5.3/Codex for all design and development",
+  "antirez now uses only GPT 5.x for system programming",
+  "His claim: AI didn't make the same work faster - it made the same time hold more work",
+  "The spec evolved through adversarial design dialogue, not one-shot generation"
+ ]
+}

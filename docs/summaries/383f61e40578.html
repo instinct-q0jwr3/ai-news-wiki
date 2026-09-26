@@ -1,22 +1,17 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Scaling HNSWs · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790427786"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Scaling HNSWs</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Scaling HNSWs · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790439866"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Scaling HNSWs</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
 <p><code>antirez</code> <code>microsoft</code> <code>meta</code> <code>external-evaluation</code> <code>ai-safety-incidents</code> <code>compute-buildout</code> <code>labor-displacement</code></p>
 <h2 id="summary">Summary</h2>
-<p>I’m taking a few weeks of pause on my HNSWs developments (now working on some other data structure, news soon).</p>
-<p>At this point, the new type I added to Redis is stable and complete enough, it’s the perfect moment to reason about what I learned about HNSWs, and turn it into a blog post.</p>
-<p>Well, after almost one year of thinking and implementing HNSWs and vector similarity stuff, it is time for some writing.</p>
+<p>antirez is pausing his HNSW work to build another data structure, and uses the moment for a brain dump on what a year of implementing HNSWs and vector similarity in Redis taught him. The new Redis type he built is stable enough that it's the right time to write.</p>
+<p>He is explicit about the genre: not another HNSW intro - there are too many already - but the 'extra mile', the practical lessons that only show up when you implement and scale the structure yourself. He also notes, wistfully, that this kind of implementation brain dump was common in the pre-AI era and has become rarer. (Summary based on the post's opening; the full text was only partially retrievable.)</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>That kind of brain dump that was so common pre-AI era, and now has become, maybe, a bit more rare.</li>
-<li>However this is not going to be an intro on HNSWs: too many are present already.</li>
-<li>The original paper introducing HNSWs is a great piece of computer science literature, and HNSWs are amazing data structures, but: I don’t believe they are the last word for searching, in a greedy way, for nearby vectors according to a…</li>
-<li>All this to say that, if you are into data structures research, I believe that a great area is to imagine evolutions and refinements of HNSWs, without getting trapped within the idea that the evolutions are only in the sense of: let’s…</li>
-<li>Ok, enough with the premise, let’s go to the actual low level stuff :) ## Scaling memory Redis is an in-memory system, and both HNSWs and vectors have the unfortunate quality of being very space-hungry.</li>
-<li>HNSWs have a lot of pointers, like 16, 32 or more pointers (this is a tunable parameter of HNSWs) to neighbor nodes.</li>
-<li>HNSWs have many levels, being a skiplist-alike data structure.</li>
-<li>This is the paper about the "H" in HNSW and how useful it is -&gt; https://arxiv.org/abs/2412.01940 Comments Scaling HNSWs</li>
+<li>antirez pauses HNSW development after making the new Redis type stable</li>
+<li>A year of HNSW/vector-similarity implementation lessons, written up as a brain dump</li>
+<li>Explicitly NOT an intro: the 'extra mile' of practical scaling knowledge</li>
+<li>He laments that this pre-AI genre of implementation writing is becoming rare</li>
+<li>Summary based on the opening section; full text partially retrievable</li>
 </ul>
-<p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
 <h2 id="source">Source</h2>
 <p><a href="http://antirez.com/news/156">Read the original story</a></p>
 <h2 id="related-pages">Related pages</h2>

@@ -1,0 +1,17 @@
+{
+ "id": "383f61e40578",
+ "authored_at": "2026-09-26T16:22:35.317646+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez is pausing his HNSW work to build another data structure, and uses the moment for a brain dump on what a year of implementing HNSWs and vector similarity in Redis taught him. The new Redis type he built is stable enough that it's the right time to write.",
+  "He is explicit about the genre: not another HNSW intro - there are too many already - but the 'extra mile', the practical lessons that only show up when you implement and scale the structure yourself. He also notes, wistfully, that this kind of implementation brain dump was common in the pre-AI era and has become rarer. (Summary based on the post's opening; the full text was only partially retrievable.)"
+ ],
+ "highlights": [
+  "antirez pauses HNSW development after making the new Redis type stable",
+  "A year of HNSW/vector-similarity implementation lessons, written up as a brain dump",
+  "Explicitly NOT an intro: the 'extra mile' of practical scaling knowledge",
+  "He laments that this pre-AI genre of implementation writing is becoming rare",
+  "Summary based on the opening section; full text partially retrievable"
+ ]
+}

@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-September 2020 gwern.net newsletter with links on DRL and AI scaling, psychiatric disorders; no reviews.
+Gwern's September 2020 newsletter: a link roundup covering deep reinforcement learning and AI scaling, plus psychiatric-disorder reading; no reviews that month. A short historical entry from the OPML blog backfill. (The canonical web edition is linked from the post.)
 
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+## Highlights
+
+- September 2020 gwern.net newsletter: DRL, AI scaling and psychiatry links
+- No reviews that month; a minimal monthly edition
+- Historical entry surfaced via the OPML blog batch
 
 ## Source
 

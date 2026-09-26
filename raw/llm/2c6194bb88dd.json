@@ -1,0 +1,18 @@
+{
+ "id": "2c6194bb88dd",
+ "authored_at": "2026-09-26T16:22:35.317646+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Geoffrey Litt shows that a genuinely useful personal AI assistant needs no fancy agent frameworks: his family's assistant, Stevens (named for the butler in 'Remains of the Day'), runs on one SQLite table of memories plus a handful of cron jobs for ingestion and updates, hosted on Val.town. The whole architecture is simple enough to copy and extend.",
+  "Every morning Stevens sends a formal, butler-style Telegram brief to Litt and his wife: the day's calendars, a weather preview, expected mail and packages, and tracked reminders. Beyond the daily brief they can talk to it on demand - forwarding an email, for instance, to have its contents remembered. The post's quiet point: memory plus scheduling, not agentic complexity, is what makes an assistant feel useful."
+ ],
+ "highlights": [
+  "A family AI assistant built on a single SQLite memories table and cron jobs",
+  "Hosted on Val.town; deliberately simple enough to copy and extend",
+  "Sends a formal morning brief via Telegram: calendars, weather, mail, reminders",
+  "Supports on-demand chat, e.g. forwarding emails to be remembered",
+  "Named Stevens after the butler in Ishiguro's 'Remains of the Day'",
+  "Litt's point: memory + scheduling beat agentic buzzwords for personal tools"
+ ]
+}

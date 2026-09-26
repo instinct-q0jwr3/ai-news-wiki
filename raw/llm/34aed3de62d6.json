@@ -1,0 +1,17 @@
+{
+ "id": "34aed3de62d6",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Sean Goedecke's advice piece: tell agents the why, not just the how. He illustrates with his own real prompt to a coding agent: it opens with the long-term goal (a local tool that hides AI content from pages he loads) and the short-term goal (the best detection model that runs on a MacBook without killing battery), his current guess (Pangram's EditLens 3B or a smaller Roberta, quantized), the infrastructure available (Runpod via MCP for experiments too heavy for local), and an explicit invitation to propose a better path.",
+  "The argument: agents make better decisions when they know what success looks like and why, because goal-level context lets them correct your plan instead of just executing it - the same reason senior engineers want context, not tickets."
+ ],
+ "highlights": [
+  "Goedecke: give agents goals and rationale, not just instructions",
+  "His example prompt states long-term goal, short-term goal, current guess, and available infra",
+  "Explicit invitation: 'if you can see a better way to achieve my goals, let me know'",
+  "The why lets agents correct the plan, not just execute it",
+  "Same principle as briefing senior engineers: context, not tickets"
+ ]
+}

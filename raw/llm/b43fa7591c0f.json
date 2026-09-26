@@ -1,0 +1,17 @@
+{
+ "id": "b43fa7591c0f",
+ "authored_at": "2026-09-26T16:22:35.317646+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Bert Hubert's 'Hello Deep Learning' is a from-scratch, GPU-free introduction to modern machine learning that aims to actually explain what's happening, ground up - and to end with a demo that is genuinely useful on real-life data you supply yourself.",
+  "He rejects both common on-ramps: learning deep learning through PyTorch is like learning aerodynamics by flying an Airbus A380, and the pure-maths approach ('it's just a Jacobian matrix') suits only seasoned mathematicians. The tutorial builds modern neural networks entirely from scratch while still reaching impressive results. Code is published, and the blog posts' markdown lives on GitHub so readers can turn typos into pull requests."
+ ],
+ "highlights": [
+  "A from-scratch, GPU-free deep-learning tutorial aiming at real understanding",
+  "Ends with a demo that works on the reader's own real-life data",
+  "PyTorch-first learning is like aerodynamics from flying an A380",
+  "The pure-maths route only serves seasoned mathematicians",
+  "Code and markdown are on GitHub; typo fixes arrive as pull requests"
+ ]
+}

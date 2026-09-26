@@ -1,0 +1,17 @@
+{
+ "id": "df6362328ad2",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Scott Werner deconstructs freemium: build a whole thing, give away the worst part on purpose, and hope users of the constrained version eventually pay for the better one. It sounds insane said aloud, he writes, but it funded a trillion-dollar industry because of one asymmetry - the company knew how to build the thing and you didn't. The free tier lived in the gap between your need and your ability.",
+  "His claim: that asymmetry is collapsing, one prompt at a time. Exhibit A: he needed basic error tracking for an app and built his own instead of signing up for a service. When users can make their own version, the constraint stops being real - and the funnel stops working."
+ ],
+ "highlights": [
+  "Freemium rests on one asymmetry: the company can build the thing and you can't",
+  "The free tier exists in the gap between your need and your ability",
+  "Werner: that asymmetry is collapsing 'one prompt at a time'",
+  "His example: he built his own error tracker instead of subscribing",
+  "If users can make their own version, the funnel's constraint stops being real"
+ ]
+}

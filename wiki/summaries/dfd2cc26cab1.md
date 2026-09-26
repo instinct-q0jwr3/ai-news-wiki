@@ -6,24 +6,17 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-Meta’s annual keynote yesterday was a tight 55-minute live event held on their campus in Menlo Park.
+John Gruber's take on Meta Connect 2026: a tight 55-minute keynote from Menlo Park built around consumer glasses. The headline hardware was the third-generation Meta Glasses with cameras, plus a new line - Ray-Ban Meta Audio: audio-only smart glasses (microphones and speakers, no camera) pitched as cheaper, longer-lasting and more ordinary-looking.
 
-Consumer products announced: Third-generation Meta Glasses with cameras.
-
-Some significant differences from Vision Pro: Meta VR Glasses only weigh 100g; Vision Pro weighs 750–800g.
+Gruber notes Zuckerberg deftly sidestepped the camera-privacy backlash by leading with the camera-free model, while observing the price difference isn't as large as the pitch implied.
 
 ## Highlights
 
-- These are audio-only smart glasses, with microphones and speakers, but no camera.
-- Zuckerberg pitched them as being less expensive, having longer battery life, and looking much more like regular glasses.
-- All of those things are true, but he deftly avoided the privacy backlash against glasses with cameras.
-- They’re not that much less expensive than the camera models, starting at $350.
-- By dint of their weight alone, Meta VR Glasses seem far more comfortable, and also far more portable.
-- They look a lot more like regular sunglasses than Vision Pro (or Meta’s own Quest goggles) — but they definitely don’t look like regular sunglasses.
-- Muse is the through line for Meta this year.
-- If there’s one thing I think Zuckerberg did wrong in the keynote, it’s that he didn’t explain where Muse stands compared to Meta AI.
-
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+- Meta Connect 2026: a 55-minute keynote centered on consumer smart glasses
+- Third-generation Meta Glasses with cameras announced
+- New Ray-Ban Meta Audio: audio-only glasses with mics and speakers, no camera
+- Zuckerberg pitched price, battery and looks while dodging the camera-privacy debate
+- Gruber: the audio model is 'not that much less expensive' than pitched
 
 ## Source
 

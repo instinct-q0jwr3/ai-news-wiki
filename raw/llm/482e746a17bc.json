@@ -1,0 +1,17 @@
+{
+ "id": "482e746a17bc",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Chapter of Bert Hubert's 'Hello Deep Learning' series covering automatic differentiation. Previously the tutorial configured a neural network that learned to distinguish the digits 3 and 7 by 'twisting the knobs in the right direction'; this chapter scales up to a 5-layer network recognizing all 10 handwritten digits with near-perfect accuracy.",
+  "That jump requires moving beyond naive parameter-twisting: the chapter's first half is theory (no code) covering autograd, and the second half builds the code that makes it work. The page is open for improvement via GitHub."
+ ],
+ "highlights": [
+  "The series moves from 2-digit to 10-digit handwriting recognition",
+  "A 5-layer network reaches near-perfect MNIST accuracy",
+  "First half theory (autograd), second half implementation",
+  "'Twisting the knobs in the right direction' gets replaced by real gradient machinery",
+  "The chapter is open-source and improvable via GitHub"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "1404df82e10f",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Scott Werner and Justin went to a Google hackathon built around a striking fact: Chrome now ships with a language model inside. 'Built-in AI' gives developers local inference APIs - no server calls, no API keys, no rate limits, image understanding and text generation on-device.",
+  "Their project asked: what if you could navigate the latent space of image generation without writing prompts? Instead of elaborating 'a cat' into 'a tabby cat sitting...' forever, they explored steering generation directly. The post is mostly the story of the hackathon conversations - hence the title."
+ ],
+ "highlights": [
+  "Chrome ships a built-in small language model ('Built-in AI') with local inference APIs",
+  "No server calls, API keys or rate limits; multimodal on-device",
+  "Their hack: navigating image-generation latent space without prompts",
+  "The post is a hackathon narrative - the idea mattered more than the demo"
+ ]
+}

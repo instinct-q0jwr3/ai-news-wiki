@@ -1,0 +1,16 @@
+{
+ "id": "755984b393ae",
+ "authored_at": "2026-09-26T16:22:35.317646+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The intro to Bert Hubert's 'Hello Deep Learning' series is a confession and a motivation: he spent years dismissing deep learning as overhyped nonsense with fake demos, and was only half right - the demos were often fake, but staggering things were happening underneath, which he ignored.",
+  "His turning point: Andrej Karpathy's 2015 'The Unreasonable Effectiveness of Recurrent Neural Networks', whose self-contained examples prove something remarkable was discovered. The intro sets up the series (skippable - chapter 1 is where the machine learning begins) and frames his conviction that deep learning and generative AI will have huge impact, good or bad."
+ ],
+ "highlights": [
+  "Hubert admits he wrongly derided deep learning as overhyped for years",
+  "Karpathy's 2015 RNN essay is what changed his mind - self-contained proof of something remarkable",
+  "The series starts from his catch-up journey; chapter 1 is where the ML begins",
+  "His premise: deep learning and generative AI will have huge impact, for good or ill"
+ ]
+}

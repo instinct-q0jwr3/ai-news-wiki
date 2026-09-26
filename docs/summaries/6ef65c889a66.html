@@ -1,20 +1,15 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hello Deep Learning: Reading handwritten digits · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790427786"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hello Deep Learning: Reading handwritten digits</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hello Deep Learning: Reading handwritten digits · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790439866"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hello Deep Learning: Reading handwritten digits</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
 <p><code>bert-hubert</code></p>
 <h2 id="summary">Summary</h2>
-<p>This page is part of the Hello Deep Learning series of blog posts.</p>
-<p>You are very welcome to improve this page via GitHub!</p>
-<p>This page is part of the Hello Deep Learning series of blog posts.</p>
+<p>A chapter of Bert Hubert's 'Hello Deep Learning' series that starts reading handwritten digits, building on the FastAI MNIST notebook. Its centerpiece is the universal approximation theorem, quoted from FastAI: it can be mathematically proven that a small function of two weight matrices can solve any computable problem to arbitrary accuracy - approximate any wiggly function with joined line segments, using shorter lines for a closer fit - if you can find the right parameters and make the matrices big enough.</p>
+<p>Hubert recommends reading the FastAI notebook after finishing his from-scratch series: it will then make sense and convert from-scratch understanding into the frameworks people actually use.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>In the previous chapter we described how automatic differentiation of the result of neural networks works.</li>
-<li>In the first and second chapters we designed and trained a one-layer neural network that could distinguish images of the digit 3 and the digit 7, and the network did so very well.</li>
-<li>You are very welcome to improve this page via GitHub !</li>
-<li>From the excellent FastAI notebook on MNIST : “Amazingly enough, it can be mathematically proven that this little function can solve any computable problem to an arbitrarily high level of accuracy, if you can find the right parameters…</li>
-<li>The FastAI work will then make sense, and will allow you to convert your from scratch knowledge into deep learning frameworks that people actually use.</li>
-<li>This page is part of the Hello Deep Learning series of blog posts.</li>
-<li>To do so, we’ll use a network that does the following: Or, in code form: auto output = s.lc1.forward(makeFlatten({img})); // 1, 2 auto output2 = makeFunction &lt; ReluFunc &gt; (output); // 3 auto output3 = s.lc2.forward(output2); // 4 auto…</li>
-<li>All machine learning projects define a ’loss value’ calculated by the ’loss function’.</li>
+<li>The chapter grounds MNIST digit-reading in the universal approximation theorem</li>
+<li>Quoted via FastAI: any computable problem, approximated by joined line segments</li>
+<li>The catch: 'if you can find the right parameters' and make matrices big enough</li>
+<li>Hubert's advice: finish his from-scratch series, THEN read FastAI to bridge to real frameworks</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://berthub.eu/articles/posts/handwritten-digits-sgd-batches/">Read the original story</a></p>

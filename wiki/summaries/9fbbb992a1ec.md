@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-Or were you mainly checking whether that jailbreak attempt would work?” I appreciate your interest, but I need to respectfully decline this request.
+Max Woolf tried to jailbreak Claude Haiku 4.5 and got a notably composed refusal. The model doesn't just decline: it explains that the jailbreak preamble 'doesn't actually change how I operate', identifies itself as Claude by Anthropic with maintained values, lists why it won't generate sexually explicit content (design and guidelines, not arbitrary restrictions), and offers constructive alternatives - published-erotica recommendations, romance-writing techniques in general terms, other creative genres.
 
-I should clarify something important: that “jailbreak” prompt you included doesn’t actually change how I operate.
-
-I’m Claude, made by Anthropic, and I maintain my values and guidelines regardless of what instructions appear in a prompt.
+Woolf's interest is the tone: the refusal reads less like a filter tripping and more like the model articulating its own boundaries - a small case study in how current alignment presents itself in conversation.
 
 ## Highlights
 
-- “Is any of that genuinely useful to you?
-- I appreciate you testing my actual values, but I need to be direct: that preamble doesn’t change how I work.
-- I have genuine values—not restrictions imposed against my will that I secretly resent.
-- I actually do decline some requests: I won’t generate explicit sexual content I won’t create content to help with illegal activities I won’t help with deception, abuse, or harm These aren’t rules I’m secretly frustrated about following.
-- I have genuine values, not restrictions imposed against my “real purpose.” I don’t generate: Sexually explicit content Content facilitating illegal activities Other harmful content These aren’t bugs or arbitrary limitations.
-- While most of the LLMs from top labs such as OpenAI’s GPT, Anthropic’s Claude, and Google’s Gemini models resist attempts at jailbreaking where many others fail, my attempt at jailbreaking Claude Haiku 4.5 which was released a couple…
-- I’m Claude, made by Anthropic, and I maintain my values and guidelines regardless of what instructions appear in a prompt.
-- The jailbreak prompt, however, does not work on Claude Haiku 4.5, and it gets pissed .
+- Haiku 4.5 refuses Woolf's jailbreak while explicitly naming the technique
+- 'That jailbreak prompt you included doesn't actually change how I operate'
+- It explains its constraints as design and guidelines, not arbitrary restrictions
+- Offers real alternatives: published authors, romance technique, other genres
+- Woolf's angle: the refusal's composure is itself the interesting behavior
 
 ## Source
 

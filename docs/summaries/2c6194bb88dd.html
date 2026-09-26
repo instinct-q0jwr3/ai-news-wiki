@@ -1,20 +1,17 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790427786"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790439866"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs</h1>
 <p class="meta">type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high</p>
 <p><code>geoffrey-litt</code> <code>agentic-systems</code> <code>ai-safety-incidents</code> <code>labor-displacement</code></p>
 <h2 id="summary">Summary</h2>
-<p>There’s a lot of hype these days around patterns for building with AI.</p>
-<p>But the reality is, you don’t need fancy techniques or libraries to build useful personal tools with LLMs.</p>
-<p>In this short post, I’ll show you how I built a useful AI assistant for my family using a dead simple architecture: a single SQLite table of memories, and a handful of cron jobs for ingesting memories and sending updates, all hosted on…</p>
+<p>Geoffrey Litt shows that a genuinely useful personal AI assistant needs no fancy agent frameworks: his family's assistant, Stevens (named for the butler in 'Remains of the Day'), runs on one SQLite table of memories plus a handful of cron jobs for ingestion and updates, hosted on Val.town. The whole architecture is simple enough to copy and extend.</p>
+<p>Every morning Stevens sends a formal, butler-style Telegram brief to Litt and his wife: the day's calendars, a weather preview, expected mail and packages, and tracked reminders. Beyond the daily brief they can talk to it on demand - forwarding an email, for instance, to have its contents remembered. The post's quiet point: memory plus scheduling, not agentic complexity, is what makes an assistant feel useful.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>There’s a lot of hype these days around patterns for building with AI.</li>
-<li>But the reality is, you don’t need fancy techniques or libraries to build useful personal tools with LLMs.</li>
-<li>The whole thing is so simple that you can easily copy and extend it yourself.</li>
-<li>The assistant is called Stevens, named after the butler in the great Ishiguro novel Remains of the Day .</li>
-<li>Here’s an example. (I’ll use fake data throughout this post, beacuse our actual updates contain private information.) Beyond the daily brief, we can communicate with Stevens on-demand—we can forward an email with some important info, or…</li>
-<li>Let’s break down the simple architecture behind Stevens.</li>
-<li>The whole thing is hosted on Val.town , a lovely platform that offers SQLite storage, HTTP request handling, scheduled cron jobs, and inbound/outbound email: a perfect set of capabilities for this project.</li>
-<li>First, how does Stevens know what goes in the morning brief?</li>
+<li>A family AI assistant built on a single SQLite memories table and cron jobs</li>
+<li>Hosted on Val.town; deliberately simple enough to copy and extend</li>
+<li>Sends a formal morning brief via Telegram: calendars, weather, mail, reminders</li>
+<li>Supports on-demand chat, e.g. forwarding emails to be remembered</li>
+<li>Named Stevens after the butler in Ishiguro's 'Remains of the Day'</li>
+<li>Litt's point: memory + scheduling beat agentic buzzwords for personal tools</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html">Read the original story</a></p>

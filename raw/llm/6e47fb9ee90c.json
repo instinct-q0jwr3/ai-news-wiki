@@ -1,0 +1,18 @@
+{
+ "id": "6e47fb9ee90c",
+ "authored_at": "2026-09-26T16:22:35.317646+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Amazon cut off Meta's new Muse personal AI agent from shopping on Amazon.com, after failing to get Meta to voluntarily exclude the store. Amazon's case: Meta never told it Muse would access the site, the agent doesn't identify itself when browsing, and it appears to capture and store customer credentials - which Amazon calls a privacy and security risk.",
+  "Since Sunday night, Muse users trying to shop on Amazon hit a popup stating that continued access by an unauthorized AI agent violates Amazon's Conditions of Use. Amazon says third-party purchasing agents should operate openly and respect service providers' participation choices. Meta didn't respond to requests for comment. It's an early skirmish over who controls the doorway when agents shop on users' behalf."
+ ],
+ "highlights": [
+  "Amazon blocked Meta's Muse agent from shopping Amazon.com on users' behalf",
+  "Amazon says Meta never disclosed Muse's access and the agent doesn't identify itself",
+  "Amazon alleges Muse appears to capture and store customer credentials",
+  "Users now see a popup citing violation of Amazon's Conditions of Use",
+  "Amazon's line: purchasing agents should operate openly and respect opt-outs",
+  "An early precedent in platform-vs-agent control of agentic commerce"
+ ]
+}

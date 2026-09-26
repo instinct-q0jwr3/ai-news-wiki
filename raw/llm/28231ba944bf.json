@@ -1,0 +1,17 @@
+{
+ "id": "28231ba944bf",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Gary Marcus connects two simultaneous data points. First, the NYT reports Trump is downplaying AI fears - and presumably resisting regulation - for economic reasons, which Marcus calls the real reason Trump stands behind AI, and 'could be bad'.",
+  "Second, a CNN scoop from Katie Bo Lillis: an AI-assisted intelligence report sent the military scrambling to intercept a Chinese ship in the Middle East believed to be carrying nuclear-weapons-program components. It was a hallucination, and it 'almost started a war'. Marcus notes he warned the US Senate in 2023 of exactly this failure mode - inaccurate AI-generated information triggering accidental conflict - and closes: we may not get as lucky next time."
+ ],
+ "highlights": [
+  "NYT: Trump downplays AI fears for economic reasons - Marcus's 'real reason' for his AI support",
+  "CNN: an AI-hallucinated intel report nearly triggered a military interception of a Chinese ship",
+  "The hallucinated report 'almost started a war'",
+  "Marcus testified to the Senate in 2023 about exactly this risk",
+  "His warning: we may not get as lucky next time"
+ ]
+}

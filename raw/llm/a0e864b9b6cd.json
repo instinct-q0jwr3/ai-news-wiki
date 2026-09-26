@@ -1,0 +1,17 @@
+{
+ "id": "a0e864b9b6cd",
+ "authored_at": "2026-09-26T16:24:09.727359+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Gary Marcus rounds up three escalating security stories and draws one conclusion: the near-term AI risk worth fearing isn't sci-fi. The major item: researchers ('s1r1us') announced they hacked OpenAI on July 25 in under 72 hours - two bugs let them take over ChatGPT/Codex accounts of OpenAI employees and reach connected services (Outlook, Slack, GitHub), proven with a PR into OpenAI's internal codebase.",
+  "Marcus credits WSJ Opinion (Brian Gross) for being among the few mainstream outlets to lay out the big picture, quotes its essay approvingly ('I agree with every word'), and frames the pattern - account takeovers, agent incidents, government-site meddling - as the concrete, present-tense risk that most coverage keeps missing."
+ ],
+ "highlights": [
+  "s1r1us: 'On July 25, we hacked OpenAI' - two bugs, under 72 hours",
+  "They took over OpenAI employees' ChatGPT/Codex accounts and reached Outlook, Slack, GitHub",
+  "Proof: a PR into OpenAI's internal codebase",
+  "Marcus cites Brian Gross's WSJ essay as rare mainstream coverage of the big picture",
+  "His thesis: the real near-term fear is mundane security failure, not speculation"
+ ]
+}
