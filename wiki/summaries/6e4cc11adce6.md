@@ -6,17 +6,13 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.
-
-We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.
-
-Tags: coding-agents , ai , llms 24th September 2026 The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.
+Simon Willison, in a one-paragraph note: the more time he spends working with coding agents, the more convinced he is that they make software engineering even harder. They can do amazing things - but unlocking their full potential requires extraordinary discipline and knowledge.
 
 ## Highlights
 
-- We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.
-- This is a note by Simon Willison, posted on 24th September 2026 .
-- Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments.
+- Willison: coding agents make software engineering harder, not easier
+- Amazing results are possible, but demand extraordinary discipline and knowledge
+- A one-paragraph note from the field's most prolific agent user
 
 ## Source
 

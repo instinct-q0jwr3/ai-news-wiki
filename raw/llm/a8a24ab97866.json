@@ -1,0 +1,17 @@
+{
+ "id": "a8a24ab97866",
+ "authored_at": "2026-09-26T16:26:52.775008+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez draws a historical parallel for the AI-rewrite wars: many of the people protesting the fairness of reimplementing existing projects with AI were around in the 90s, cheering as Richard Stallman and the GNU project reimplemented the UNIX userspace. 'Those who cannot remember the past are condemned to repeat it' - a sentence he never liked, and the AI-reimplementation debate shows its limits: people remember, and still repeat.",
+  "He credits Stallman as more than a programming genius - someone with broad vision - and notes he cheered GNU then, and still thinks that was right. The essay's point: the legitimacy of reimplementation was settled once already, by the free-software movement itself, and the same arguments now aimed at AI rewrites would have convicted GNU."
+ ],
+ "highlights": [
+  "AI reimplementations of existing projects mirror GNU's reimplementation of UNIX",
+  "Many AI-rewrite critics cheered GNU's rewrites in the 90s - antirez did too",
+  "His aim: the legitimacy of reimplementation was already settled by free software",
+  "The Santayana line about repeating the past fails: people remember and repeat anyway",
+  "Stallman praised as a programmer with broad vision beyond code"
+ ]
+}

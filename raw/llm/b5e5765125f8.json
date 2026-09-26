@@ -1,0 +1,17 @@
+{
+ "id": "b5e5765125f8",
+ "authored_at": "2026-09-26T16:26:52.775008+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Gwern's January 2021 newsletter, from the month DALL·E and CLIP dropped: the roundup covers OpenAI's DALL·E (GPT-3-12B generating 1280 tokens into VQ-VAE pixels, producing illustrations and photos from text) and CLIP, plus Danbooru2020 (a large crowdsourced tagged anime-illustration dataset) and 'This Anime Does Not Exist.ai'.",
+  "Site notes: a return-to-top floating button, disableable popups, and a final popup reimplementation - the dynamic-JS version, after the clever recursive-inlining approach hit painful edge cases and proved too inefficient for browsers. A time capsule from the week image generation went public, via the OPML backfill."
+ ],
+ "highlights": [
+  "January 2021: the DALL·E and CLIP month, covered as it happened",
+  "DALL·E described as GPT-3-12B tokens mapped to VQ-VAE pixels",
+  "Also: Danbooru2020 dataset and This Anime Does Not Exist.ai",
+  "Site engineering note: recursive-inlining popups abandoned for dynamic JS",
+  "An OPML-backfill time capsule from the start of text-to-image"
+ ]
+}

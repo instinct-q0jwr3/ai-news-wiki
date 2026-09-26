@@ -1,0 +1,17 @@
+{
+ "id": "cc309ff8dff9",
+ "authored_at": "2026-09-26T16:26:52.775008+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison's practical note on Bonsai 2 27B, a ternary-compressed model claiming near-lossless quality at 9x smaller footprint: trying the GGUFs requires Prism's own llama.cpp fork, not stock llama.cpp.",
+  "He posts working commands: download the Prism macOS runtime tarball, pull the ~5.95GB Ternary-Bonsai-2-27B GGUF from Hugging Face, and run llama-server on a chosen port. The useful detail for anyone testing small-footprint models: the runtime dependency is easy to miss."
+ ],
+ "highlights": [
+  "Bonsai 2 27B: near-lossless compression claims at 9x smaller footprint",
+  "The GGUFs require Prism's llama.cpp fork, not stock llama.cpp",
+  "Willison posts the full working command sequence",
+  "Model size ~5.95GB (PTQ1_0 GGUF on Hugging Face)",
+  "The runtime-fork dependency is the detail testers will trip on"
+ ]
+}

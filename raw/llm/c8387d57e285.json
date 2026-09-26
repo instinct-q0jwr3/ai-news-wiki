@@ -1,0 +1,17 @@
+{
+ "id": "c8387d57e285",
+ "authored_at": "2026-09-26T16:26:52.775008+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Ed Zitron on new Microsoft disclosures: for fiscal year 2026, Microsoft recorded $24.1 billion of revenue from commercial arrangements with OpenAI (including revenue-sharing payments), with $6.0 billion of accounts receivable from OpenAI at June 30, 2026.",
+  "Why it matters: Bloomberg's analysis - assuming Microsoft's AI run rate kept growing at the 123% reported in March - puts Microsoft's AI business at roughly $34 billion for the fiscal year. Set the two numbers side by side and OpenAI appears to account for more than half, and likely about 70%, of Microsoft's AI revenue. Combined with analyst estimates that OpenAI and Anthropic make up over 70% of all AI revenue across Microsoft, Google and Amazon, the AI revenue story starts to look like a two-customer story."
+ ],
+ "highlights": [
+  "Microsoft FY2026: $24.1B revenue from OpenAI arrangements, $6.0B receivable",
+  "Bloomberg's estimate: Microsoft's total AI run rate ~$34B",
+  "Implication: OpenAI is more than half, likely ~70%, of Microsoft's AI revenue",
+  "Analysts: OpenAI + Anthropic are 70%+ of AI revenue across MSFT, Google and Amazon",
+  "Zitron's framing: the AI revenue boom may be a two-customer story"
+ ]
+}

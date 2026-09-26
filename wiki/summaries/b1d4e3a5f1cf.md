@@ -6,9 +6,13 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-Links on the Uighurs, authoritarianism, negative emissions, AI overhang; 1 movie & 2 anime reviews.
+Gwern's July 2020 newsletter: links on the Uighurs, authoritarianism, negative emissions and AI overhang, plus one movie and two anime reviews. A short historical monthly from the OPML blog backfill. (The canonical edition lives on gwern.net.)
 
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+## Highlights
+
+- July 2020 gwern.net newsletter: Uighurs, authoritarianism, negative emissions, AI overhang
+- Includes one movie and two anime reviews
+- Historical entry surfaced via the OPML blog batch
 
 ## Source
 

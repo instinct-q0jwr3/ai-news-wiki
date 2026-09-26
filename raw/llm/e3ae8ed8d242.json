@@ -1,0 +1,17 @@
+{
+ "id": "e3ae8ed8d242",
+ "authored_at": "2026-09-26T16:26:52.775008+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez proposes 'automatic programming' as the name for writing software with AI assistance - a process he expects will soon just be called 'writing software'. His key observation: the same LLMs produce vastly different results depending on the human guiding them - intuition, design, continuous steering, and an idea of what software should be are the differentiators.",
+  "Hence his plea to stop saying 'Claude vibe coded this for me': vibe coding means generating software without being part of the process at all - describe in general terms, accept the first idea the model produces. Automatic programming is the opposite: the human stays in the loop as the designer, and that is exactly why outcomes vary so much between practitioners."
+ ],
+ "highlights": [
+  "antirez's term: 'automatic programming' for AI-assisted software writing",
+  "Same LLM, vastly different results - the human's intuition and steering are the variable",
+  "Vibe coding = absent from the process; automatic programming = guiding it",
+  "'Please stop saying Claude vibe coded this software for me'",
+  "He expects AI assistance to soon be synonymous with programming itself"
+ ]
+}

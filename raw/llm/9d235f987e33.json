@@ -1,0 +1,17 @@
+{
+ "id": "9d235f987e33",
+ "authored_at": "2026-09-26T16:26:52.775008+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez's early-2024 testimony as an individual programmer using LLMs daily - explicitly not a retrospective on 2023. Since ChatGPT, and later with locally-running models, he made extensive use of the technology to accelerate code-writing and, just as much, to avoid wasting mental energy on the parts of programming not worth the effort: hunting documentation for peculiar APIs, boilerplate, one-off glue.",
+  "He includes a concrete example from his own Redis work: a hashing-implementation question answered by DeepSeek Coder running on his MacBook M1 Max - the model flagged poor distribution from appending hash_id, suggested XOR mixing, and produced improved C code. 'Not bad for a model running on my MacBook' - an early data point that local models were already useful for real systems questions."
+ ],
+ "highlights": [
+  "antirez's testimony: LLMs accelerate coding AND save mental energy on unworthy parts",
+  "Documentation hunts and boilerplate are his examples of wasted effort",
+  "Concrete demo: DeepSeek Coder on an M1 Max improving a Redis hash function",
+  "The model spotted distribution issues and proposed XOR mixing in C",
+  "Early-2024 evidence that local models were already practically useful"
+ ]
+}

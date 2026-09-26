@@ -1,0 +1,17 @@
+{
+ "id": "1393e9d39ac4",
+ "authored_at": "2026-09-26T16:26:52.775008+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "geohot calls it: adopting AI agents into software development will be one of the most costly mistakes in the field's history. His case: agents cannot program - they are highly sophisticated statistical models mimicking the distribution of programming, and their output is broken in ways that get harder to detect as the models improve. Which, he notes, is exactly what you'd expect from an increasingly accurate statistical model.",
+  "He includes his own reversal: at first he bought the 'status anxiety' explanation - a programmer's ego defending itself - because the models plainly solve math problems beyond his lifetime's reach. So why can't they program? The essay is him working through that gap, and landing on deception-by-quality: errors that hide better, not errors that disappear."
+ ],
+ "highlights": [
+  "geohot: agent adoption in software development will be a historically costly mistake",
+  "'Agents cannot program' - they mimic the distribution of programming",
+  "The failure mode: output broken in ways that get HARDER to detect as models improve",
+  "He rejected the 'status anxiety' cope after seeing models solve math he never could",
+  "His tension: superhuman at math, broken at programming - why?"
+ ]
+}
