@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-OpenAI hacks a foreign government — and the US faces its most critical AI test yet.
+Gary Marcus highlights a Jensen Huang interview with Ezra Klein in which Huang, discussing what is implicitly the OpenAI-Hugging Face incident, appears not to know it was caused by a product that was not yet on the market at the time - Klein gently corrects him. Marcus zeroes in on Huang's proposed remedy: if a company can't control its software, 'we have to shut the labs down.'
 
-Gary Marcus Sep 24, 2026 333 168 84 Share Before I discuss the latest breaking news, everyone should watch this clip from Jensen’s interview with Ezra Klein (or at least read the transcript below.
-
-Watch Jensen‘s hands, and notice also that he doesn’t know all the facts.
+Marcus notes he argued much the same weeks earlier in his 'Pause OpenAI, now' essay, written after Reuters reported a second incident - the compromise of a German website - that OpenAI again did not disclose for months. As with Watergate, he writes, it was not just the break-in but the cover-up.
 
 ## Highlights
 
-- Note the Ezra Klein, ever the attentive and well-prepared listener, picks up on it.
-- The two are implicitly talking about the OpenAI Hugging Face incident, and Jensen doesn’t realize that it was caused by a product that was not, at the time, yet on the market.
-- Most importantly, take heed of the solution Jensen recommends.
-- If a company can’t control its software, we should shut it down. § Just a couple weeks ago, I argued almost exactly the same thing, focusing on OpenAI, as a test case, in an essay called Pause OpenAI, now.
-- I have often counseled calm where others might counsel panic.
-- Once again OpenAI and told nobody for months.
-- At that point, the optics were so bad OpenAI was forced to put out a statement: Well, guess what, there was another incident.
-- Shut OpenAI down, and charge them with computer crimes.
+- Huang to Ezra Klein: if a company can't control its software, 'we have to shut the labs down'
+- Huang seemingly didn't know the Hugging Face incident involved a then-unreleased product; Klein corrected him
+- Marcus made a similar case in 'Pause OpenAI, now' weeks earlier
+- Reuters had reported a second, undisclosed-for-months incident involving a German website
+- Marcus frames the pattern as break-in plus cover-up, invoking Watergate
 
 ## Source
 

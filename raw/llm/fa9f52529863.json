@@ -1,0 +1,17 @@
+{
+ "id": "fa9f52529863",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Ed Zitron digs into Microsoft's data center claims and finds them squishy. In September 2025, Satya Nadella said Microsoft had added 2GW of capacity 'in the last year' and spoke of Fairwater - two data centers, in Wisconsin (ground broken September 2023) and Atlanta (July 2024) - as if it were being 'announced' rather than being a very expensive project that has taken forever. Nadella also claimed 'multiple identical Fairwater datacenters under construction' without naming them.",
+  "Analysts on the earnings call, like UBS's Karl Keirstead, pressed for the real magnitude of capacity adds. Meanwhile infrastructure expert Alistair Speirs notes newer AI tools need growing amounts of CPU servers alongside GPUs - 'GPUs by themselves don't make great AI infrastructure' - so Microsoft must expand all kinds of compute, not just GPU halls."
+ ],
+ "highlights": [
+  "Nadella claimed 2GW of capacity added 'in the last year' and unnamed 'multiple identical Fairwater datacenters'",
+  "Fairwater Wisconsin broke ground in September 2023 and Atlanta in July 2024 - years before being 'announced'",
+  "UBS analyst pressed Microsoft on the actual magnitude of capacity coming online",
+  "Alistair Speirs: modern AI workloads need CPU expansion too, not just GPUs",
+  "Zitron frames Microsoft's capacity narrative as ahead of the physical reality"
+ ]
+}

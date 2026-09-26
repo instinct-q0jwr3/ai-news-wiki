@@ -1,0 +1,17 @@
+{
+ "id": "eebbb7c502a0",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Gary Marcus highlights a Jensen Huang interview with Ezra Klein in which Huang, discussing what is implicitly the OpenAI-Hugging Face incident, appears not to know it was caused by a product that was not yet on the market at the time - Klein gently corrects him. Marcus zeroes in on Huang's proposed remedy: if a company can't control its software, 'we have to shut the labs down.'",
+  "Marcus notes he argued much the same weeks earlier in his 'Pause OpenAI, now' essay, written after Reuters reported a second incident - the compromise of a German website - that OpenAI again did not disclose for months. As with Watergate, he writes, it was not just the break-in but the cover-up."
+ ],
+ "highlights": [
+  "Huang to Ezra Klein: if a company can't control its software, 'we have to shut the labs down'",
+  "Huang seemingly didn't know the Hugging Face incident involved a then-unreleased product; Klein corrected him",
+  "Marcus made a similar case in 'Pause OpenAI, now' weeks earlier",
+  "Reuters had reported a second, undisclosed-for-months incident involving a German website",
+  "Marcus frames the pattern as break-in plus cover-up, invoking Watergate"
+ ]
+}

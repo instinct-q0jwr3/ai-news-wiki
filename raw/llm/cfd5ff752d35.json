@@ -1,0 +1,17 @@
+{
+ "id": "cfd5ff752d35",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Max Woolf noticed something odd on OpenRouter's public AI Model Rankings: two models beating Claude in token usage by more than 50%. One is DeepSeek Flash V4 - fast, cheap, open-source, near-frontier, so its popularity is no surprise. The other, 'Hy3 preview', he had never heard of; searching traces it to a Tencent open-source release whose Hugging Face page is sparse and carries oddly honest, unfavorable benchmark results against other Chinese open models, especially on coding.",
+  "OpenRouter's rankings are uniquely informative because labs otherwise keep usage data secret - which makes Hy3's unexplained rise the mystery Woolf sets out to unravel."
+ ],
+ "highlights": [
+  "OpenRouter's usage rankings are rare public data in an industry that keeps them secret",
+  "Hy3 preview topped the rankings, beating Claude's token usage by over 50%",
+  "DeepSeek Flash V4's rise is explicable (fast, cheap, open, near-frontier); Hy3's is not",
+  "Hy3 traces to a Tencent open-source release with sparse docs and unflattering benchmarks",
+  "Woolf investigates how an apparently mediocre, unknown model topped the charts"
+ ]
+}

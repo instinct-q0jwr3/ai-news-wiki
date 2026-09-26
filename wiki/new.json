@@ -1,47 +1,29 @@
 {
- "generated_at": "2026-09-26T07:00:20+00:00",
+ "generated_at": "2026-09-26T13:01:08+00:00",
  "stories": [
   {
-   "id": "c26d6f1af9bf",
-   "title": "How I changed teaching after AI managed to do all my homework assignments",
+   "id": "1b56d94badfc",
+   "title": "One Month Without AI",
    "source": "Hacker News",
-   "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
+   "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
   },
   {
-   "id": "f5692436d88a",
-   "title": "Evolving programming languages in the AI era",
+   "id": "dafc59516313",
+   "title": "Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices",
+   "source": "Techmeme",
+   "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
+  },
+  {
+   "id": "22ef243d53b2",
+   "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
    "source": "Hacker News",
-   "url": "https://twitter.com/josevalim/status/2103133294317445290"
+   "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276"
   },
   {
-   "id": "92340425fbd5",
-   "title": "Generate fonts where every LLM token is the same width",
+   "id": "58e9676b50aa",
+   "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
    "source": "Hacker News",
-   "url": "https://ampdot.mesh.host/token-space-fonts.html"
-  },
-  {
-   "id": "00fc63ce26ec",
-   "title": "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training",
-   "source": "Techmeme",
-   "url": "https://openai.com/"
-  },
-  {
-   "id": "c1e839e06b0c",
-   "title": "A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE"
-  },
-  {
-   "id": "d46d417788d5",
-   "title": "Palantir and 8VC cofounder Joe Lonsdale, an investor in Anthropic, says AI companies are attempting to sway public policy by warning of existential AI risks",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/media-telecom/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-2026-09-25/"
-  },
-  {
-   "id": "20a0884d5b1f",
-   "title": "NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners",
-   "source": "Techmeme",
-   "url": "https://www.alleywatch.com/2026/09/confido-raises-55m-to-scale-its-ai-infrastructure-across-the-cpg-commercial-cycle/"
+   "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
   }
  ]
 }

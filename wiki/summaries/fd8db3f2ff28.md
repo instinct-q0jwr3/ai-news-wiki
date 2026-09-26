@@ -6,22 +6,16 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-When I talked about the rise of Cancer Capital , I mentioned that it represents a massive shift from how venture capital has worked over the years.
+Anil Dash illustrates how far 'Cancer Capital' - his term for the current era of venture capital - has drifted from how tech companies used to be built. Neither Microsoft nor Apple took any venture capital at founding: both were funded by their founders and early customer revenue. Microsoft went six years and reached $17 million in annual revenue (in 1981) before taking VC money, and only closed its first venture round after going public-era scale was visible.
 
-First: The companies that defined the modern era of tech weren’t founded with venture capital.
-
-Neither Microsoft nor Apple took a penny of venture capital funding when they were founded.
+Dash says most people, even inside tech, don't grasp how extreme the shift has become, and uses these familiar companies' origin stories to make the contrast concrete.
 
 ## Highlights
 
-- But my conversations in recent years with people in tech, and especially with those outside the industry, reveal that most folks have no idea just how huge that shift has been.
-- It's easy to illustrate exactly how extreme things have gotten just by using a few examples, starting with companies that are familiar to everyone, and sharing some details of what I've seen firsthand.
-- Both got started from money they got from their founders and their first customers, and took off from there.
-- More strikingly, Microsoft didn't close their venture capital funding until after they had made their deal with IBM and shipped MS-DOS — the deal that actually made Microsoft into the industry-dominating player that they've been ever since.
-- And, tellingly, in that funding round, Microsoft only raised $1M from David Marquardt , less than 6% of their annual revenues.
-- Like Microsoft, Apple didn't take any venture capital funding until January of 1978, when it raised about half a million dollars, nearly two years after it was founded.
-- Microsoft and Apple had built the businesses and launched the foundational products that would make them legendary before they ever took a single penny of venture capital funding.
-- I first learned about venture capital when the startup I was part of in 2003 got its first round of funding.
+- Microsoft and Apple took no venture capital at founding; founders and first customers funded them
+- Microsoft reached $17M in 1981 revenue before any VC investment
+- Dash calls the current VC era 'Cancer Capital' and says the shift is underappreciated even inside tech
+- Early customer revenue, not startup capital, defined the first era of modern tech companies
 
 ## Source
 

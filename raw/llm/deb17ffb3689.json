@@ -1,0 +1,17 @@
+{
+ "id": "deb17ffb3689",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Scott Werner's piece opens with a fable: a master carpenter's worn jigs - 'templates smoothed by ten thousand cuts' - versus an apprentice's programmable machine that can cut anything. The machine's chair is perfect but 'does not sing'; the master's dovetail jig encodes which possibility actually matters. 'Your machine can cut anything. My jigs remember everything.'",
+  "The point lands on LLM workflows: the gap between 'I need the thing that responds to HTTP requests and returns JSON, organized in a specific way with middleware... you know what I mean?' and simply saying 'I need an Express server with JWT middleware.' Shared vocabulary and templates - pidgin for a probability distribution - do more than open-ended possibility. A playable example ships in the library (examples/10_meta_read_only.rb)."
+ ],
+ "highlights": [
+  "A fable contrasts a carpenter's jigs ('remember everything') with a machine that can cut anything",
+  "The perfect machine-cut chair 'did not sing' - correctness without accumulated judgment",
+  "Werner's analogy: precise shared vocabulary ('Express server with JWT middleware') beats vague prompting",
+  "Templates and conventions tell the model which possibility matters",
+  "An interactive example ships in the project's library (examples/10_meta_read_only.rb)"
+ ]
+}

@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-As of this week, I’m suddenly seeing people dismiss points made in otherwise readable articles because Pangram says these were (partially) AI authored.
+Bert Hubert pushes back on a growing habit: dismissing an article's argument outright because a detector like Pangram says the text was partly AI-authored. Hubert is no AI booster - he says he hates the origins and consequences of generative AI, wants the bubble to burst, and has publicly argued AI has gutted his own professional field. His point is narrower: choosing not to engage with AI-assisted writing is a legitimate personal choice, but declaring an article's premise wrong BECAUSE AI helped write it is a logical cop-out - and detectors can be wrong to begin with.
 
-I hate the origins and consequences of GenAI more than almost anyone.
-
-As of this week, I’m suddenly seeing people dismiss points made in otherwise readable articles because Pangram says these were (partially) AI authored.
+The piece is a follow-up to an earlier essay about content served in ways readers might not like. Hubert's ask: ignore such pieces if you want, even criticize the author's ethics, but stop doing 'gotchas' that treat AI involvement as proof an argument fails.
 
 ## Highlights
 
-- I can’t wait for the bubble to burst also.
-- I presented in Amsterdam on how AI has killed my professional field.
-- If you discover that an opinion piece was authored with or by GenAI, by all means feel free not to engage with it.
-- I hate the origins and consequences of GenAI more than almost anyone .
-- But what you can not do is state that the premise of the article is wrong BECAUSE the text was (co)authored by AI.
-- That is a cop out. (Also, Pangram might be wrong !) No matter how angry you (justifiably!) are about Large Language Models messing up the world, their use does not invalidate points people are trying to make.
-- So please, stop doing “gotchas!” on folks you discover were probably using AI.
-- But do NOT use AI as a shortcut to facilely dismiss the points people are trying to make.
+- Dismissing an argument solely because AI helped write the text is a logical cop-out, says Hubert
+- Pangram-style AI detectors can also simply be wrong
+- Refusing to engage with AI-assisted pieces is presented as a legitimate personal choice
+- Hubert notes his own anti-AI credentials: he rejects AI-written code contributions to his software
+- The post follows up an earlier piece on content served in ways readers may not like
 
 ## Source
 

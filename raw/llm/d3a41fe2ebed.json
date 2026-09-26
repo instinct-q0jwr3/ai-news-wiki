@@ -1,0 +1,17 @@
+{
+ "id": "d3a41fe2ebed",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Dwarkesh Patel lays out eight predictions for the era of continual learning, starting from why he thinks continual learning is necessary at all: AIs that must write Markdown notes between sessions can never do whole jobs as competently as humans. His analogy: an infinite line of saxophone-virgin students, each writing notes for the next, still never produces one who can play on the first try - experience has to accumulate into the brain.",
+  "The predictions explore what changes once models keep learning in deployment - including how most regulatory proposals, which assume a model is trained and then frozen, stop making sense."
+ ],
+ "highlights": [
+  "Patel's saxophone analogy: note-passing between cold-start students never yields proficiency",
+  "Continual learning = accumulating experience 'into the brain' rather than session Markdown files",
+  "He argues whole-job competence requires continual learning",
+  "Most AI regulation assumes train-then-freeze and breaks under continual learning",
+  "Framed as eight concrete predictions for the continual-learning era"
+ ]
+}

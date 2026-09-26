@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence:
 
 ## Summary
 
-Locking in AI safety regulation now is a mistake.
+Dwarkesh Patel lays out eight predictions for the era of continual learning, starting from why he thinks continual learning is necessary at all: AIs that must write Markdown notes between sessions can never do whole jobs as competently as humans. His analogy: an infinite line of saxophone-virgin students, each writing notes for the next, still never produces one who can play on the first try - experience has to accumulate into the brain.
 
-Dwarkesh Patel Aug 07, 2026 195 22 16 Share Transcript I have explained elsewhere why I think continual learning is needed.
-
-Okay, so what changes about AI once we have continual learning?
+The predictions explore what changes once models keep learning in deployment - including how most regulatory proposals, which assume a model is trained and then frozen, stop making sense.
 
 ## Highlights
 
-- I don’t think you can have AIs that perform whole jobs as competently as humans if they’re forced to just write Markdown files from session to session.
-- Even if you had an infinite sequence of saxophone-virgin students waiting outside the studio that could write notes to the next guy, there’s no sequence of text they could write together that would allow the Nth student outside to play…
-- At some point, you have to accumulate the experience into the brain.
-- I think the same will be true about a lot of skills and knowledge that we’ll want AIs to learn in all the different workplaces they find themselves deployed in.
-- A lot of the proposals that have been put forward for regulating AI assume that you train a model, and then you deploy it.
-- In a continual learning regime, a four-month internal/external gap means ceding four months of deployment learning.
-- Continual learning will create a clear moat for leading AI labs that they currently lack.
-- But once we get continual learning and the model you’re working with is actually getting better as it interacts with you from session to session, then there are actually pretty significant switching costs.
+- Patel's saxophone analogy: note-passing between cold-start students never yields proficiency
+- Continual learning = accumulating experience 'into the brain' rather than session Markdown files
+- He argues whole-job competence requires continual learning
+- Most AI regulation assumes train-then-freeze and breaks under continual learning
+- Framed as eight concrete predictions for the continual-learning era
 
 ## Source
 

@@ -1,0 +1,17 @@
+{
+ "id": "d666d987f8c5",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Armin Ronacher argues that LLMs have made language choice far less consequential: agents don't feel the friction that shaped human preferences, and if you dislike a language choice you can seemingly have the codebase rewritten in another - including one you don't know. As a result, people increasingly choose languages 'based on the marketing'.",
+  "As a long-time Rust programmer he finds it fascinating that people now ship Rust who never would have picked it before. He credits two vibe shifts: renewed hunger for fast software, and LLMs being exceptionally good at optimizing code without changing behavior - a combination long championed by Mitchell Hashimoto, Charlie Marsh, Jarred Sumner, Daniel Lemire and others."
+ ],
+ "highlights": [
+  "LLMs flatten language-choice friction: rewriting in another language is suddenly cheap",
+  "Ronacher: people now pick languages 'based on the marketing' more than before",
+  "Rust is being shipped by programmers who would never have chosen it pre-LLM",
+  "Two vibe shifts: demand for fast software plus LLM strength at behavior-preserving optimization",
+  "Names Hashimoto, Marsh, Sumner and Lemire as carriers of the performance-obsessed, agent-friendly culture"
+ ]
+}

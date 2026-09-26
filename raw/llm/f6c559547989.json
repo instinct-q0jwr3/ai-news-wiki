@@ -1,0 +1,16 @@
+{
+ "id": "f6c559547989",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Ed Zitron's second 'Hater's Guide' installment on circular financing (premium) explains the circularity plainly: NVIDIA funds OpenAI, which spends the money renting NVIDIA GPUs back from Microsoft, Google, Amazon or CoreWeave; those dollars then go to Taiwanese ODMs building servers, who buy GPUs from NVIDIA to fill them. Defenders argue some indeterminately large set of 'real' customers hides inside the loop, making the circle unmeasurable and therefore harmless.",
+  "Zitron then points at what he calls a pure, unfiltered example: SoftBank subsidiary SB Energy just filed its S-1, and in his reading the circularity is right there in the filing."
+ ],
+ "highlights": [
+  "The circle: NVIDIA funds OpenAI, which rents NVIDIA GPUs from clouds, which pay ODMs, which buy NVIDIA GPUs",
+  "Critics' counter-argument: an unmeasurable set of 'real' customers supposedly breaks the circle",
+  "SB Energy (a SoftBank subsidiary) filed an S-1 that Zitron calls a pure circular-financing case",
+  "The piece is part two of Zitron's premium series on AI-era financing structures"
+ ]
+}

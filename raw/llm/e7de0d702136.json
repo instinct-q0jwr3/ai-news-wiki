@@ -1,0 +1,17 @@
+{
+ "id": "e7de0d702136",
+ "authored_at": "2026-09-26T13:02:54.924446+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Geoffrey Litt describes an unusual AI-assisted programming experience: the AI wrote none of his code. While building a Prolog interpreter as a learning project, he hit subtle bugs in unification (solving symbolic equations) and found himself parsing screens of log output. Instead of asking AI to fix the code, he had Claude Artifacts build a custom debugger UI for viewing execution traces.",
+  "After a few iterations he could step through executions with a clear visualization of the interpreter's stack - goals being broken down, the rule under evaluation, variable assignments. The result: debugging his own code became fun again."
+ ],
+ "highlights": [
+  "AI wrote zero lines of the project code; it built the debugging tool instead",
+  "The project: a Prolog interpreter with tricky unification bugs",
+  "Claude Artifacts produced a custom trace-viewing UI after a few iterations",
+  "The UI visualizes the goal stack, current rule and variable assignments step by step",
+  "Litt's takeaway: AI-generated tools can make hand-coding more fun, not obsolete"
+ ]
+}
