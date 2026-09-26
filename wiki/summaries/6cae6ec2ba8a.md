@@ -1,8 +1,8 @@
 # The Claude Delusion
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high_
 
-`hacker-news` `anthropic`
+`hacker-news` `anthropic` `apple` `agentic-systems` `ai-safety-incidents` `compute-buildout` `ai-policy-regulation` `labor-displacement`
 
 ## Summary
 
@@ -27,4 +27,4 @@ Two barriers remain. First, most people cannot tell which parts of an unfamiliar
 
 ## Related pages
 
-[Anthropic](../entities/anthropic.md)
+[Anthropic](../entities/anthropic.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)

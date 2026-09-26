@@ -1,6 +1,6 @@
 # Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-09-26 · confidence: high_
 
 `techmeme`
 

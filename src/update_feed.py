@@ -42,6 +42,21 @@ SOURCES = {
     "Westenberg": "https://www.joanwestenberg.com/feed",
     "Geoffrey Litt": "https://www.geoffreylitt.com/feed.xml",
     "Experimental History": "https://www.experimental-history.com/feed",
+    # OPML batch 2: tech feeds with regular AI coverage (AI-terms filter guards the rest).
+    "Daring Fireball": "https://daringfireball.net/feeds/main",
+    "Krebs on Security": "https://krebsonsecurity.com/feed/",
+    "Troy Hunt": "https://www.troyhunt.com/rss/",
+    "Pluralistic": "https://pluralistic.net/feed/",
+    "Bert Hubert": "https://berthub.eu/articles/index.xml",
+    "matklad": "https://matklad.github.io/feed.xml",
+    "Xe Iaso": "https://xeiaso.net/blog.rss",
+    "seangoedecke": "https://www.seangoedecke.com/rss.xml",
+    "antirez": "https://antirez.com/rss",
+    "Mitchell Hashimoto": "https://mitchellh.com/feed.xml",
+    "Anil Dash": "https://www.anildash.com/feed.xml",
+    "Paul Graham": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+    "Armin Ronacher": "https://lucumr.pocoo.org/feed.atom",
+    "Terence Eden": "https://shkspr.mobi/blog/feed/",
 }
 HN_TOP = "https://hacker-news.firebaseio.com/v0/topstories.json"
 HN_ITEM = "https://hacker-news.firebaseio.com/v0/item/{item_id}.json"

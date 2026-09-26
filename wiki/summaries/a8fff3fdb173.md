@@ -1,6 +1,6 @@
 # 🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)
 
-_type: news-summary · created: 2026-09-23 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-23 · updated: 2026-09-26 · confidence: high_
 
 `latent.space` `ai-safety-incidents`
 

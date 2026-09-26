@@ -1,6 +1,6 @@
 # Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high_
 
 `techmeme` `typesafe`
 

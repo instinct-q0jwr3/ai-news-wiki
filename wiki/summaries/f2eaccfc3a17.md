@@ -1,6 +1,6 @@
 # "Someone just sent me an ad that features an AI version of me. What do I do?"
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high_
 
 `hacker-news`
 

@@ -1,8 +1,8 @@
 # Big AI to humanity: drop dead
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high_
 
-`hacker-news`
+`hacker-news` `amazon` `ai-policy-regulation`
 
 ## Summary
 
@@ -24,4 +24,4 @@ Butterick has standing beyond punditry: after learning in 2022 that his works we
 
 ## Related pages
 
-_No related entity or concept page yet._
+[Amazon](../entities/amazon.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)

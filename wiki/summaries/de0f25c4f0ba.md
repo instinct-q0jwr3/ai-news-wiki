@@ -1,6 +1,6 @@
 # Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high_
 
 `hacker-news` `openai` `anthropic` `ai-policy-regulation`
 

@@ -1,6 +1,6 @@
 # Claude Haiku 4.5 does not appreciate my attempts to jailbreak it
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high_
 
 `max-woolf` `anthropic`
 

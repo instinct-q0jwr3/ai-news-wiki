@@ -1,6 +1,6 @@
 # Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab
 
-_type: news-summary · created: 2026-09-23 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-23 · updated: 2026-09-26 · confidence: high_
 
 `techmeme` `anthropic` `agentic-systems`
 

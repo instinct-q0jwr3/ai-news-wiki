@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Better Models: Worse Tools · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790385045"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Better Models: Worse Tools</h1>
+<p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
+<p><code>armin-ronacher</code> <code>openai</code> <code>anthropic</code> <code>agentic-systems</code> <code>external-evaluation</code> <code>small-specialist-models</code> <code>ai-coding-agents</code> <code>labor-displacement</code></p>
+<h2>Summary</h2>
+<p>A strange bug in the Pi harness sent Armin Ronacher down a rabbit hole: newer Claude models - Opus 4.8 and Sonnet 5, not some small variant - sometimes call the edit tool with invented extra fields in the nested edits array. The edit itself is usually correct, but the arguments do not match the schema, so Pi rejects the call and the model retries. The odd part is that this is getting worse with newer Anthropic models: older siblings do not show it, meaning the SOTA models are worse at this specific tool schema than their predecessors.</p>
+<p>The post explains how tool calling actually works under the hood: no magic, just in-band signalling where the server folds tools into the prompt with special marker tokens and the model emits something the client interprets as a call. For Anthropic models an 'ANTML' format leaks at times - not really XML, just something convenient to tokenize and train on - where string parameters appear inline but arrays of objects are JSON-serialized, a mixed convention he suspects is close to how it works. Without grammar-aware constrained decoding, the model merely follows a learned convention, and in the failing cases it invents a zoo of trailing keys: requireUnique, oldText2, newText2, type, id, kind, matchCase, forceMatchCount and more. He deliberately did not test Fable, unsure whether Anthropic's classifiers might silently downgrade him to Opus.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Newer Claude models (Opus 4.8, Sonnet 5) invent extra fields in edit tool calls; older ones do not</li>
+<li>The edit content is usually right but the schema violation makes the harness reject the call</li>
+<li>SOTA Anthropic models are worse at this specific tool schema than their older siblings</li>
+<li>Tool calls are crude in-band signalling: marker tokens plus learned conventions, not magic</li>
+<li>Anthropic's 'ANTML' format leaks at times; strings inline, object arrays JSON-serialized</li>
+<li>Without constrained decoding the model follows convention, so it hallucinates keys</li>
+<li>Invented keys observed: requireUnique, oldText2, newText2, type, id, kind, matchCase and more</li>
+<li>He skipped testing Fable, wary of classifiers silently downgrading him to Opus</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a> · <a href="../concepts/small-specialist-models.html">Small and specialist models</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a> · <a href="../concepts/labor-displacement.html">AI, jobs and displacement</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

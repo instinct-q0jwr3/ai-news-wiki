@@ -1,0 +1,20 @@
+{
+ "id": "d9a433314612",
+ "authored_at": "2026-09-26T01:08:20.104594+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Anil Dash argues that the nearly lost art of platform strategy is exactly what the AI ecosystem needs right now. Tech markets have grown so concentrated that companies forgot how to compete against platforms, but the AI market is still early enough - and users and society angry enough - that Big AI can still lose. With US regulators and major media largely captured or complicit, he says, leverage sits with users, especially developers, if they can coordinate.",
+  "His first and most important technical goal is disintermediation: users should reach AI services through open, community-controlled tools - harnesses, editors, command lines, chat interfaces - rather than interfaces the Big AI companies control, undermining lock-in before it cements. He rates the status here as good, with mature open tools in most categories; the remaining work is spreading the word and polishing their user experience. A second capability is seamless switching between AI providers on the fly, to cut costs or improve performance, which forces platforms to stay compatible with competitors and keeps every big provider replaceable at any time."
+ ],
+ "highlights": [
+  "Platform strategy is a lost art the AI ecosystem needs to revive, Dash argues",
+  "Big AI is vulnerable: the noise and spending show they know it",
+  "US regulators and big media are largely captured or complicit, so leverage sits with users and developers",
+  "First goal: disintermediation - access AI through open, community-controlled interfaces",
+  "Status of open harnesses and tools: good, with mature options in most categories",
+  "Remaining work is awareness and polish so open tools beat commercial UX",
+  "Second capability: seamless on-the-fly switching between AI providers",
+  "Easy switching forces platforms to stay compatible and keeps every vendor replaceable"
+ ]
+}

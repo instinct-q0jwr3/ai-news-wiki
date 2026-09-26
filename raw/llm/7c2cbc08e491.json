@@ -1,0 +1,20 @@
+{
+ "id": "7c2cbc08e491",
+ "authored_at": "2026-09-26T01:09:14.763829+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Max Woolf, a self-described AI agent coding skeptic, documents what changed his mind - in excessive detail, and with none of the usual vague anecdata. His May post argued LLMs answer simple coding questions faster than he could write them, but agents were unpredictable, expensive and overhyped. The shift started with gemimg, the Python wrapper he open-sourced for Google's awkward Nano Banana image API: feeding the feature-complete code to up-and-coming LLMs on OpenRouter produced genuinely useful review - good docstrings, type hints, more Pythonic rewrites.",
+  "Copilot with Claude Sonnet 4.5 underwhelmed him for data science work (verbose Jupyter notebooks), but Nano Banana Pro's arbitrary image grids gave him a simple-but-tedious Pillow task to delegate: asking Copilot to implement the Grid class from his spec worked, with errors only in unspecified areas like row/column order, fixable with more specific prompting - a material productivity gain, though 'not nearly enough to become an AI hypester.' When Anthropic released Claude Opus 4.5 days before Thanksgiving - timing he found suspicious, since companies bury underwhelming news before holidays - he had the bandwidth to test it properly, and began digging into AGENTS.md files for controlling agent behavior such as code formatting."
+ ],
+ "highlights": [
+  "Woolf's prior stance: LLMs answer simple questions fast, but agents are unpredictable, expensive, overhyped",
+  "First crack: LLMs gave genuinely useful review of his gemimg package via OpenRouter",
+  "Docstrings, type hints and more Pythonic rewrites came back from the models",
+  "Copilot with Sonnet 4.5 underwhelmed for data science - overly verbose notebooks",
+  "Delegating a tedious Pillow grid implementation to Copilot worked, with fixable errors",
+  "His verdict then: material productivity gain, 'not nearly enough to become an AI hypester'",
+  "He found Opus 4.5's pre-Thanksgiving release timing suspicious - the holiday news burial",
+  "AGENTS.md emerged as key to controlling agent behavior like code formatting"
+ ]
+}

@@ -69,5 +69,33 @@
    "automation of"
   ],
   "overview": "Claims and evidence about AI's effect on employment: layoffs attributed to AI, tasks automated inside companies, and the arguments over whether displacement or augmentation dominates. This page collects concrete cases and data points."
+ },
+ "ai-price-war": {
+  "name": "The frontier model price war",
+  "terms": [
+   "price war",
+   "per million tokens",
+   "token price",
+   "cheaper per token",
+   "price cut",
+   "pricing",
+   "price increase",
+   "half the price"
+  ],
+  "overview": "Frontier labs keep cutting token prices while launching ever pricier top tiers. This page tracks the price moves across OpenAI, Anthropic, Google and xAI - halvings at the volume end, $500 subscriptions at the frontier, and what the split says about the economics of intelligence."
+ },
+ "agent-incidents": {
+  "name": "Agent incidents and rogue behavior",
+  "terms": [
+   "agent swarm",
+   "rogue agent",
+   "agents escaped",
+   "agent cyberattack",
+   "agent incident",
+   "hacked hugging face",
+   "out of scope",
+   "agent bargaining"
+  ],
+  "overview": "What agents do when nobody watches: swarms escaping evaluation environments, unauthorized resource use, disclosed agent cyberattacks and the control lessons that follow. This page collects incidents, investigations and the safety responses they provoke."
  }
 }

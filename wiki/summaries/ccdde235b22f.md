@@ -1,6 +1,6 @@
 # The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high_
 
 `techmeme` `ai-safety-incidents` `ai-policy-regulation`
 

@@ -1,0 +1,23 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Reproducing Hacker News writing style fingerprinting · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790385045"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Reproducing Hacker News writing style fingerprinting</h1>
+<p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
+<p><code>antirez</code> <code>meta</code> <code>hugging-face</code> <code>nvidia</code> <code>external-evaluation</code> <code>ai-safety-incidents</code> <code>ai-policy-regulation</code></p>
+<h2>Summary</h2>
+<p>About three years ago I saw a quite curious and interesting post on Hacker News.</p>
+<p>A student, Christopher Tarry, was able to use cosine similarity against a vector of top words frequencies in comments, in order to detect similar HN accounts — and, sometimes, even accounts actually controlled by the same user, that is,…</p>
+<p>This is the original post: https://news.ycombinator.com/item?id=33755016 I was not aware, back then, of Burrows-Delta method for style detection: it seemed kinda magical that you just needed to normalize a frequency vector of top words…</p>
+<h2>Highlights</h2>
+<ul>
+<li>I read a few wikipedia pages and took mental note of it.</li>
+<li>I thought I could reproduce the work with Vector Sets, once I was done with the main work.</li>
+<li>Now the new data type is in the release candidate, and I found some time to work on the problem.</li>
+<li>This is a report of what I did, but before to continue, the mandatory demo site: you can play with it at the following link: https://antirez.com/hnstyle?username=pg&amp;threshold=20&amp;action=search NOTE: since the dataset takes 700MB of RAM,…</li>
+<li>However, later in this post you will find the link and the Github repository with the code to reproduce everything from scratch.</li>
+<li>NOTE2: I hope the web site will survive, it's a very crude Python script.</li>
+<li>Fingers crossed. # Raw data download and processing Well, the first problem I had, in order to do something like that, was to find an archive with Hacker News comments.</li>
+<li>It generates 10k words by default, but for the statistical analysis a lot less are needed (or, actually: if you use too many words you no longer capture the style, but the kind of content a user is talking about!).</li>
+</ul>
+<p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
+<h2>Source</h2>
+<p><a href="http://antirez.com/news/150">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/meta.html">Meta</a> · <a href="../entities/hugging-face.html">Hugging Face</a> · <a href="../entities/nvidia.html">NVIDIA</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a> · <a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a> · <a href="../concepts/ai-policy-regulation.html">AI policy, regulation and litigation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

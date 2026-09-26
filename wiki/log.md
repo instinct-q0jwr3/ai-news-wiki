@@ -84,3 +84,5 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-09-25] ingest | 154 AI stories | snapshot 20260925T223109Z
 - Partial errors: Dwarkesh Podcast: HTTP Error 308: Permanent Redirect; Westenberg: HTTP Error 404: Not Found
 ## [2026-09-25] ingest | 166 AI stories | snapshot 20260925T223141Z
+## [2026-09-26] ingest | 160 AI stories | snapshot 20260926T005942Z
+## [2026-09-26] ingest | 306 AI stories | snapshot 20260926T010105Z

@@ -1,0 +1,23 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Human coders are still better than LLMs · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790385045"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Human coders are still better than LLMs</h1>
+<p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
+<p><code>antirez</code> <code>google</code> <code>gemini</code> <code>external-evaluation</code> <code>small-specialist-models</code> <code>ai-safety-incidents</code> <code>ai-coding-agents</code></p>
+<h2>Summary</h2>
+<p>This is a short story of how humans are still so much more capable of LLMs.</p>
+<p>Note that I'm not anti-AI or alike, you know it if you know me / follow me somewhere.</p>
+<p>But, still: the current level of AI is useful, great too, but so incredibly behind human intelligence, and I want to remark this as lately it is impossible to have balanced conversations.</p>
+<h2>Highlights</h2>
+<ul>
+<li>So, today I was working to Vector Sets for Redis, to fix a complicated bug: during the time I stopped working at Redis my colleagues introduced resistance against corruption RDB and RESTORE payloads, even when the checksum of the data…</li>
+<li>This feature is disabled by default, but provides an enhanced layer of safety for people wanting it.</li>
+<li>But… there is a but as big as an elephant: In order to make HNSWs fast to save into Redis RDBs and to load back, I serialized the *graph* representation, and not the element-vector pairs, otherwise I would have to re-insert back data…</li>
+<li>So I store all the links the nodes have with other nodes, as integers, and then I resolve them into pointers, it’s a nice trick and works great.</li>
+<li>But if you mix this and random corruptions of the representation, and the fact that my own twist on HNSWs enforce reciprocal links between nodes (I wrote my own implementation of HNSWs with many useful features, but reciprocal links are…</li>
+<li>We load corrupted data that says A links to B, but B no longer links to A (corrupted node IDs).</li>
+<li>We delete node B: since the reciprocity is violated, we don’t clear the link from A to B.</li>
+<li>Comments Human coders are still better than LLMs</li>
+</ul>
+<p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
+<h2>Source</h2>
+<p><a href="http://antirez.com/news/153">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/google.html">Google</a> · <a href="../entities/gemini.html">Google Gemini</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a> · <a href="../concepts/small-specialist-models.html">Small and specialist models</a> · <a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

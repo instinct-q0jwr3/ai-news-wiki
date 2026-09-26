@@ -1,6 +1,6 @@
 # Note on 24th September 2026
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high_
 
 `simon-willison` `agentic-systems` `small-specialist-models` `ai-coding-agents`
 

@@ -1,6 +1,6 @@
 # Colorado-based Enveda, which uses AI to discover new drugs in the natural world, raised a $311M Series E at a $2B valuation, double its valuation a year ago
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-09-26 · confidence: high_
 
 `techmeme`
 

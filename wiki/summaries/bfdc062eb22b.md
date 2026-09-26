@@ -1,6 +1,6 @@
 # Bringing Devin Cloud to your terminal
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-09-26 · confidence: high_
 
 `tldr-ai`
 

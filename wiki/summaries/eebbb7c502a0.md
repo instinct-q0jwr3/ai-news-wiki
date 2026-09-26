@@ -1,6 +1,6 @@
 # “I think the answer is we have to shut the labs down” - Jensen Huang
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high_
 
 `marcus-on-ai` `openai` `nvidia` `ai-safety-incidents`
 

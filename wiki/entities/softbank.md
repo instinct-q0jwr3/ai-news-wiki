@@ -1,8 +1,8 @@
 # SoftBank
 
-_type: organization · created: 2026-09-21 · updated: 2026-09-25 · confidence: medium_
+_type: organization · created: 2026-09-21 · updated: 2026-09-26 · confidence: medium_
 
-`entity` `softbank` `compute-buildout`
+`entity` `softbank` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
 ## Overview
 
@@ -10,6 +10,7 @@ SoftBank is one of the largest outside financiers of the AI build-out, anchored 
 
 ## Timeline
 
+- **2026-09-26** - Today's links How an AI moratorium can save AI bosses: If you can't impose switching costs, just eliminate the competition. ([Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)](../summaries/afcfeb4407d9.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [SoftBank](../entities/softbank.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-24** - Billionaire Masayoshi Son's SoftBank Group Corp. pushed through one of the largest junk-bond offerings on record … ([SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world](../summaries/01e996fd385a.md) · [SoftBank](../entities/softbank.md)) 🔒
 - **2026-09-21** - Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ — Several companies tied to the data center industry have delayed their initial public offerings amid… ([Wall Street Is Growing Skeptical of the Data Center Boom](../summaries/6564dd7e87a6.md) · [SoftBank](../entities/softbank.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-09-21** - SoftBank is looking to issue $10 billion and €1 billion in debt to fund its OpenAI investment, Bloomberg reports, in what would be one of the biggest junk bond sales ever. The package seeks the equivalent of more than $11 billion. ([SoftBank looks to issue $10B+ in debt for its OpenAI investment](../summaries/751756900f10.md) · [OpenAI](../entities/openai.md) · [SoftBank](../entities/softbank.md))

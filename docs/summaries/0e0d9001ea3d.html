@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What Is Reasoning · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790385045"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>What Is Reasoning</h1>
+<p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
+<p><code>armin-ronacher</code> <code>openai</code> <code>deepseek</code> <code>small-specialist-models</code> <code>ai-safety-incidents</code></p>
+<h2>Summary</h2>
+<p>A few weeks ago a paper was shared that showed how to extract reasoning traces from closed-weight models.</p>
+<p>Twitter seems full of half-truths and confusion about how this works, so perhaps this helps some to understand what is happening.</p>
+<p>Hiding Traces Reasoning traces are usually hidden from us.</p>
+<h2>Highlights</h2>
+<ul>
+<li>Together with online discussions about tricking models into leaking them, it made me investigate it more out of curiosity.</li>
+<li>This is probably a good reason to separate them from what is normally shown to users.</li>
+<li>The industry has done a good job at making reasoning traces sound special and exotic, but they really are just text: the model is trained to emit its thinking into a scratchpad as part of its response, before its final answer.</li>
+<li>The markers are special tokens, but the reasoning between them uses “the same text” as the final answer (just that GPT chain-of-thought text sounds really funny).</li>
+<li>Reasoning Effort How much budget goes to reasoning?</li>
+<li>Earlier APIs exposed reasoning token budgets, making it seem like a property of the sampling process.</li>
+<li>In reality, reasoning effort is baked into the system prompt.</li>
+<li>I think closed GPT models call reasoning effort “juice,” since you can ask most models how much juice they have.</li>
+</ul>
+<h2>Source</h2>
+<p><a href="https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/">Read the original story</a></p>
+<h2>Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/deepseek.html">DeepSeek</a> · <a href="../concepts/small-specialist-models.html">Small and specialist models</a> · <a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -1,0 +1,19 @@
+{
+ "id": "b13f3031595f",
+ "authored_at": "2026-09-26T01:08:04.762619+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "OpenAI's Codex coding service went down on Friday, with users hit by an 'Incorrect API key' 401 error even though nothing initially appeared on the status page; an incident entry was added later. Reports on X suggested the outage was widespread, and one user said requests were being flagged as security violations half an hour before the full outage. The service was later marked fixed.",
+  "The thread turned into a debate about depending on SaaS models for a whole workday. Some argued for local fallback models - one user said their luna agent automatically fell back to a locally hosted bonsai 2 model and the work still got done, just slower - while others pointed out that swapping Codex for Claude Code or another provider is far easier than when a moat-heavy service like GitHub goes down. A quieter faction suggested treating an AI outage like a power outage: do the neglected small tasks, or go outside and wait."
+ ],
+ "highlights": [
+  "Codex users got 'Incorrect API key' 401 errors during the outage",
+  "The status page initially showed nothing; an incident entry was added later",
+  "Reports on X indicated the outage was widespread",
+  "One user saw requests flagged as security violations shortly before the full outage",
+  "Commenters debated local-model fallbacks versus simply switching providers",
+  "One user said their agent fell back to a local bonsai 2 model and kept working, more slowly",
+  "Others compared the outage to Stack Overflow going down: an excuse for a break"
+ ]
+}

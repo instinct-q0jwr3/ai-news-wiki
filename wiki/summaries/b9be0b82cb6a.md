@@ -1,27 +1,24 @@
 # Tell HN: OpenAI $500 ProMax plan listed in API
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-26 · confidence: high_
 
-`hacker-news` `openai`
+`hacker-news` `openai` `ai-price-war`
 
 ## Summary
 
-OpenAI's API is showing the first signs in the API of a new 500$ ProMax plan https://chatgpt.com/backend-anon/checkout_pricing_config/con...
+OpenAI's own API backend has begun showing a new $500-per-month 'ProMax' plan in its checkout pricing configuration, the clearest sign yet of a top tier above existing subscriptions. A related Ask HN thread about the $500 subscription was already running when the API listing was spotted.
 
-So I would still prefer to spend some dollars in Anthropic or even Cursor solutions, which work much better as cloud dev envs. reply ryandetzel 10 hours ago | prev | next [–] If it's unlimited that would be tempting.
-
-But that will never happen and if it does "unlimited" would not be reply sejje 7 hours ago | parent | next [–] Particularly in this situation, it cannot be unlimited.
+Commenters debated where subscription prices ceiling out - at some point a plan becomes a non-negligible fraction of a salary, especially outside the US - and whether any plan can honestly be 'unlimited' when a single agent command can scale into a datacenter's worth of tokens. The counterpoint: unlimited usage is possible if concurrency and speed are throttled. Several noted the split in inference economics - the same level of intelligence keeps getting cheaper (gpt-6-sol was cited as dropping in price) while the frontier keeps finding ways to cost more. Others compared the tier unfavorably with Anthropic or Cursor for cloud development setups.
 
 ## Highlights
 
-- A command to one agent could scale into a whole datacenter very quickly.
-- It can feel unlimited for many use cases, probably.
-- But I doubt it can, let's say, 3D model things in blender on 3 different computers for 24/7.
-- If you're just watching them, it's easy to get ridiculous. reply Someone1234 7 hours ago | root | parent | next [–] I understand your point; but I disagree - Unlimited is possible.
-- You could give "unlimited" usage, but still "limit" both concurrency and throttle speed.
-- Even if you run 24/7, they still have knobs they can twist. reply sejje 5 hours ago | root | parent | next [–] Fair enough, but you're kind of changing the parameters.
-- The limiting thing now is total tokens, so unlimited would mean infinite tokens.
-- Frontier intelligence keeps finding ways to get more expensive, yes.
+- A $500/month 'ProMax' plan appeared in OpenAI's checkout pricing config
+- A separate Ask HN thread about the $500 subscription was already active
+- Commenters questioned where plan prices ceiling out relative to salaries, especially outside the US
+- One agent command can scale into huge token volumes, making 'unlimited' hard to honor
+- The counterargument: throttle concurrency and speed and unlimited becomes feasible
+- Same-level intelligence keeps getting cheaper - gpt-6-sol dropped in price - while the frontier gets pricier
+- Some said Anthropic or Cursor setups beat Codex cloud agents for development work
 
 ## Source
 
@@ -29,4 +26,4 @@ But that will never happen and if it does "unlimited" would not be reply sejje 7
 
 ## Related pages
 
-[OpenAI](../entities/openai.md)
+[OpenAI](../entities/openai.md) · [The frontier model price war](../concepts/ai-price-war.md)

@@ -1,0 +1,20 @@
+{
+ "id": "0ca9f7982272",
+ "authored_at": "2026-09-26T01:09:14.763829+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison's September 22 roundup covers a same-day model pile-up: a day after Grok 4.7 and MiMo v2.6 Flash/Pro, Anthropic released Claude Opus 5.5 and OpenAI answered about an hour later with GPT-6 Sol and GPT-6 Luna. The headline is pricing. GPT-6 Luna lands at $0.10/$0.50 per million tokens - half the price of GPT-5.6 Luna, already his favorite for building applications - and one of the cheapest models OpenAI has ever released, beaten only by the far weaker GPT-4.1 Nano and GPT-5 Nano. GPT-6 Sol saw a similar halving, and with a scheduled 25% GPT-5.6 price increase in November, GPT-6 is effectively half the promotional price of the older family; any remaining reason to use GPT-5.6 Terra 'just evaporated.' Grok 4.7's $2/$6, once disruptive, is now merely level with GPT-6 Sol on input.",
+  "Opus 5.5 addresses the biggest complaints about Opus's communication style, per Anthropic's Thariq Shihipar - 'cheaper per token than Opus 5.0 with the intelligence of Fable 5.1,' very token efficient across every effort level, and meant to be better at Blender. After holding $5/$25 across Opus 4.5 through 5, the new model cuts 20% to $4/$20 - and cache reads fall 60%, significant for long agentic conversations where 90%+ of input tokens hit cached prices. Both GPT-6 Astra and Claude Fable 5.1 sit at $10/$50, so the price war is now in the tier below. Willison's pelican benchmarks show the 5.6 family choosing bolder colors against the muted 6 family, with GPT-6 Astra on max still producing the best pelican; Sonnet 5.5 and Haiku 5.5 are promised soon."
+ ],
+ "highlights": [
+  "Same-day releases: Claude Opus 5.5, then GPT-6 Sol and GPT-6 Luna about an hour later",
+  "GPT-6 Luna: $0.10/$0.50 per million tokens - half GPT-5.6 Luna's price",
+  "GPT-5.6's scheduled 25% November increase makes GPT-6 half the promo price",
+  "Grok 4.7's once-disruptive $2/$6 is now merely level with GPT-6 Sol on input",
+  "Opus 5.5: 20% cheaper at $4/$20, cache reads down 60% - big for agentic workloads",
+  "Anthropic's Shihipar: Opus 5 intelligence of Fable 5.1, cheaper per token, better at Blender",
+  "GPT-6 Astra and Claude Fable 5.1 both hold the $10/$50 frontier tier",
+  "Pelican tests: muted GPT-6 palette vs bolder 5.6; Astra on max still draws the best pelican"
+ ]
+}

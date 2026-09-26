@@ -1,8 +1,8 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-09-25 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-09-26 · confidence: medium_
 
-`entity` `nvidia` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout` `external-evaluation`
+`entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
 ## Overview
 
@@ -10,6 +10,9 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-09-26** - Today's links On the sincerity of AI bosses: Fascism is always an incoherent bundle. ([Pluralistic: On the sincerity of AI bosses (17 Sep 2026)](../summaries/b3134a231265.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
+- **2026-09-26** - High end NVIDIA cards, and the server and power needed to run them, cost a lot of money, especially if you plan to reach enough VRAM to run massive models. ([Distributing LLM inference in DwarfStar](../summaries/2372f1b42c08.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md) · [Xiaomi](../entities/xiaomi.md) · [DeepSeek](../entities/deepseek.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-26** - About three years ago I saw a quite curious and interesting post on Hacker News. ([Reproducing Hacker News writing style fingerprinting](../summaries/a82cb73526ec.md) · [Meta](../entities/meta.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-25** - [NVIDIA Company Meeting, the present day, YMCA playing] JENSEN HUANG : We love NVIDIA, don’t we folks? ([Premium: The Hater's Guide To Circular Financing](../summaries/3afee2eb20a5.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-25** - You know, sometimes it’s kind of hard to explain the “circular” part of circular financing to people, in the sense that some of the agreements are kind of clunky. ([Premium: The Hater's Guide To Circular Financing](../summaries/f6c559547989.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-25** - KARL KEIRSTEAD, UBS : Okay, thank you very much. ([Where're All The AI Chips?](../summaries/fa9f52529863.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md))

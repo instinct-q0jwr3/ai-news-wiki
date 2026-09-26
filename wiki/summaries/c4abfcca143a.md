@@ -1,6 +1,6 @@
 # AI hacker house AGI House logged 37 police incidents since 2022
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high_
 
 `techmeme` `ai-safety-incidents`
 

@@ -1,6 +1,6 @@
 # Meta says it will allow its AI glasses users to opt out of having their "visual data" used to train its AI or shown to third-party contractors outside the US
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-09-26 · confidence: high_
 
 `techmeme` `meta`
 

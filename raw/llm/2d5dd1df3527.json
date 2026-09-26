@@ -1,0 +1,20 @@
+{
+ "id": "2d5dd1df3527",
+ "authored_at": "2026-09-26T01:09:14.763829+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Mitchell Hashimoto describes AI tool adoption through his standard three phases - a period of inefficiency, then adequacy, then workflow-altering discovery - and stresses he usually has to force himself through the first two. His advice to start: immediately cease trying to do meaningful work via a chatbot. Chat interfaces have daily value, but for coding they mostly mean hoping prior training produces the right result, with the human correcting repeatedly. His own 'oh wow' moment was pasting a screenshot of Zed's command palette into Gemini and getting a SwiftUI reproduction so good that Ghostty's macOS command palette today is only lightly modified from it - but brownfield chat results stayed poor and inefficient.",
+  "To find real value, he says, you must use an agent - an LLM that chats and invokes external behavior in a loop, at minimum reading files, executing programs and making HTTP requests. Claude Code initially did not impress him, so he forced himself to reproduce every manual commit agentically, doing the work twice without letting the agent see his solution. It was excruciating, but expertise formed: he discovered from first principles what agents were good at, how to get the results he wanted, and just as importantly when not to reach for an agent - using one for something it will likely fail at is an obvious waste of time. The result was natural use at parity speed, though still babysitting rather than acceleration."
+ ],
+ "highlights": [
+  "Hashimoto's adoption arc: inefficiency, then adequacy, then workflow-altering discovery",
+  "Step one: stop trying to do meaningful coding work through a chatbot",
+  "His first wow: Gemini reproduced Zed's command palette in SwiftUI - now shipping in Ghostty",
+  "Agents must at minimum read files, execute programs and make HTTP requests",
+  "Claude Code initially unimpressed him - so he redid every manual commit agentically",
+  "Doing the work twice was excruciating but built first-principles expertise",
+  "Key skill: learning when NOT to reach for an agent",
+  "Payoff: natural agent use at parity speed, though still babysitting"
+ ]
+}

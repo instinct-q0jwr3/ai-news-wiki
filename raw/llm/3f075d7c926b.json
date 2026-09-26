@@ -1,0 +1,19 @@
+{
+ "id": "3f075d7c926b",
+ "authored_at": "2026-09-26T01:09:22.890407+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Sean Goedecke examines why almost five thousand mathematicians, including twenty-five Fields medalists, signed a declaration called 'A Severe Misalignment of AI in Mathematics.' Their core argument: solving problems is only a tool and proxy for the real goal - conceptual understanding and insight - and mass-producing true/false statements at ever faster pace could 'destroy fertile ground instead of breathing life into new ideas.' Online reaction has dismissed this as the standard complaint of any field being automated, but Goedecke thinks that is too easy.",
+  "His frame: mathematics has two modes. Puzzle-solving - taking a problem and finding a solution - is legible: easy to understand, hard to do, impressive to outsiders, highly prestigious. Idea-generating - inventing new concepts like Hardy spaces or Banach lattices - is illegible: nobody can tell whether a new concept carves nature at its joints without years or decades of work. Puzzle-solving matters instrumentally, because it identifies which ideas are worthwhile, and prosaically, because it makes mathematical skill legible to outsiders. That is exactly the proxy AI now breaks: it can solve prestigious puzzles without generating the understanding the puzzles were meant to certify. The pattern generalizes beyond mathematics to every field that reads expertise through legible proxies."
+ ],
+ "highlights": [
+  "~5,000 mathematicians, incl. 25 Fields medalists, signed 'A Severe Misalignment of AI in Mathematics'",
+  "Their claim: problem-solving is a proxy for insight; mass-produced answers destroy fertile ground",
+  "Goedecke: dismissing this as automation anxiety is too easy",
+  "Two modes of math: puzzle-solving (legible, prestigious) vs idea-generating (illegible)",
+  "Puzzle-solving certifies which new concepts are worthwhile - and makes skill visible to outsiders",
+  "AI breaks the proxy: it solves prestigious puzzles without the understanding they certified",
+  "The same proxy-breaking pattern applies to other fields built on legible expertise signals"
+ ]
+}

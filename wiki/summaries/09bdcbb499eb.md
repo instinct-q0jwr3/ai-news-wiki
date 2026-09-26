@@ -1,6 +1,6 @@
 # Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-09-25 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-09-26 · confidence: high_
 
 `techmeme` `meta`
 
