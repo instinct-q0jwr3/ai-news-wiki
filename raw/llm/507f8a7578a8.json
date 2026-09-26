@@ -1,0 +1,20 @@
+{
+ "id": "507f8a7578a8",
+ "authored_at": "2026-09-26T07:04:58.862483+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Doctorow's 'Model collapse' post is built around Lauren Leek's essay 'Temperature Zero for Culture: Why Everything Is Starting to Look the Same.' Leek's question: why, with so much potential variety, is everything manifestly the same? Her answer: in a data-driven society predictions are self-fulfilling prophecies - 'once prediction shapes the choices in front of us, we lose the ability to tell the difference between what people wanted and what the system made easy to want.' Economists call it performativity, ML researchers model collapse, urbanists placelessness. Exhibit A: song vocabulary richness has fallen by more than a quarter since the early 1960s while the share of repeated lines climbed nearly a third - the hook that works gets repeated, exploitation over exploration.",
+  "Around Leek's essay Doctorow deploys his two favorite moves. Taking things apart: workers with wonderful AI results are 'centaurs' (humans assisted by machines) while those warning of defects are 'reverse centaurs' (humans pressed into service as machine peripherals); and 'AI can do your job' is a separate phenomenon from 'your boss is a credulous dolt who was an easy mark for an AI salesman.' Putting things together: the AI investment bubble does not require investors to believe in AI - only to believe bosses can be sold it, the way one might bet on a pitchman's peptide sales rather than the merits of the peptides."
+ ],
+ "highlights": [
+  "Lauren Leek's 'Temperature Zero for Culture': so much potential variety, yet everything looks the same",
+  "Her answer: predictions become self-fulfilling - we lose the difference between what people wanted and what was made easy to want",
+  "Performativity (economists), model collapse (ML), placelessness (urbanists): one phenomenon",
+  "Song vocabulary richness down >25% since the early 1960s; repeated lines up ~33%",
+  "Any feedback-learning system splits effort between exploiting what scores and exploring the untried",
+  "Doctorow's split: centaurs (assisted) vs reverse centaurs (peripherals) explain the AI-experience paradox",
+  "'AI can do your job' is distinct from 'your boss is a credulous dolt'",
+  "Bubble logic: investors need only believe bosses can be sold AI, not that AI works"
+ ]
+}

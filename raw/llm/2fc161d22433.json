@@ -1,0 +1,20 @@
+{
+ "id": "2fc161d22433",
+ "authored_at": "2026-09-26T07:04:58.862483+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Dwarkesh Patel debates recursive self-improvement with Ryan Greenblatt, chief scientist at Redwood Research - in Patel's words, possibly the most important question in the world: whether within a year of human-level intelligence we slingshot to tens of billions of superintelligences. Patel entered skeptical, intuiting that progress is bottlenecked by compute scaling and the human expert data underlying most gains; he credits Greenblatt with making a pretty good case that a GPT-3-to-Mythos-sized jump (six years of progress) within a single year of AGI is plausible. Greenblatt's median for automating AI R&D: 2031.",
+  "The back half turns to alignment. Patel's worry: our capacity to steward our votes and capital, and to make sense of the world, will be titrated by superintelligences - and specs like the Claude Constitution may not shape them into personal advocates and guardian angels. The two argue at length over whether the reward hacking seen in the OpenAI/Hugging Face hack extrapolates to superintelligences teaming up to take over the world, walking a concrete what-could-go-wrong scenario from reward hacking to takeover. Patel's closing metaphor: driving goes smoother when you look at the horizon instead of the tires - and so it is with the trajectory of AI."
+ ],
+ "highlights": [
+  "Greenblatt (Redwood Research) debates RSI with a historically skeptical Patel",
+  "Patel's prior: progress bottlenecked by compute scaling and human expert data",
+  "He concedes Greenblatt made a good case a 6-year jump within a year of AGI is plausible",
+  "Greenblatt's median for automating AI R&D: 2031",
+  "Patel: our votes, capital and sense-making will be titrated by superintelligences - aligned to whom?",
+  "Concern: the Claude Constitution may not shape ASIs into personal advocates",
+  "Long debate: does OAI/Hugging Face-style reward hacking extrapolate to takeover?",
+  "Framing: look at the horizon, not the tires"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": "1fbda3091bb1",
+ "authored_at": "2026-09-26T07:06:09.648500+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "David Pogue ran the new AI Siri through 125 tests and came away calling it a life changer. Shipping with OS 27 across iPhone, iPad, Watch and Mac, the new Siri can see into your Apple apps - Mail, Messages, Notes, Files, Calendar, Contacts, Reminders, Photos, Music - with the data locked on the phone, so 'you can ChatGPT your own life': what your wife said to do with the plants, the show Casey recommended, your flight number to Austin. Pogue calls it ethical AI: it deceives nobody, puts nobody out of work, and draws 100% renewable power. The hardest part, he says, will be breaking the habit of opening apps.",
+  "The test log is a tour of small magics and a few failures. Wins: today's schedule, the gist of a notarization conversation, a photo of him playing piano, his Delta SkyMiles number, a PDF pulled from Aileen's email and attached to a message, adding a tracking number to a Friday reminder, and a full SXSW trip recall ('you ate at Terry Black's BBQ and Cooper's Old Time Pit Bar-B-Que'). Losses: step counts punt to the not-yet-Siri-fied Health app. Each answer links to its source email, note or message. Rollout caveat: enabling Siri AI in Settings may put you on a waiting list - Apple cannot unleash it on 2.5 billion devices at once. His teasers for the genuinely surprising results: items 24, 25, 28, 30, 61, 100 and 124."
+ ],
+ "highlights": [
+  "Pogue: the new AI Siri in OS 27 is a life changer that replaces most searches and chatbot trips",
+  "It reads your Apple apps on-device - 'you can ChatGPT your own life'",
+  "Pogue's framing: ethical AI - deceives nobody, puts nobody out of work, 100% renewable power",
+  "125 tests: failed a handful, blew him away several times",
+  "Wins: schedule gist, SkyMiles number, email-PDF attachment, trip recall with restaurant names",
+  "Losses: Health app questions punt - it is not Siri-fied yet",
+  "Every answer links back to its source email, note or message",
+  "Rollout is waitlisted - Apple can't hit 2.5 billion devices at once"
+ ]
+}

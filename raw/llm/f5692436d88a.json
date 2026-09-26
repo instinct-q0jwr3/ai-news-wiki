@@ -1,0 +1,20 @@
+{
+ "id": "f5692436d88a",
+ "authored_at": "2026-09-26T07:04:33.295002+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "José Valim's ramblings on programming languages in the AI era start from a premise already true for many teams: agents write most of the code. Languages are held together by communities rallying around shared sensibilities - Python's one obvious way, Ruby's programmer happiness, Lisp's reshape-the-language ethos - and he asks what happens to that sense of belonging when humans stop writing most of the code, and whether communities should preserve it or find a new glue.",
+  "On ecosystems he sees two opposing forces: agents shrink the gap between ecosystems (porting implementations, translating papers and known algorithms gets cheap, so small communities catch up fast), yet the same cheapness weakens the force that creates ecosystems at all - why join a shared effort when an agent builds exactly the library you need? On syntax he is blunt: affordances like optional chaining matter far less to agents, which are unbothered by boilerplate; token efficiency is a tail-end concern as models get cheaper and contexts grow; and any new language claiming to be 'for coding agents' that focuses on syntax is building around today's limitations. From the model's perspective, he writes, it is all tokens-in, tokens-out."
+ ],
+ "highlights": [
+  "Valim: agents already write most of the code for many teams - design for that reality",
+  "Language communities are glued by shared sensibilities; what replaces the glue?",
+  "Agents could shrink ecosystem gaps - porting and translating known work gets cheap",
+  "But cheap implementation also weakens the collaboration that forms ecosystems",
+  "Syntax ergonomics matter less: agents are unbothered by boilerplate",
+  "Token efficiency is a tail-end optimization as models get cheaper",
+  "Languages 'for coding agents' that focus on syntax build around today's limitations",
+  "'From their perspective, it is all tokens-in, tokens-out'"
+ ]
+}

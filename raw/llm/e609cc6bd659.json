@@ -1,0 +1,19 @@
+{
+ "id": "e609cc6bd659",
+ "authored_at": "2026-09-26T07:05:22.517939+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Mitchell Hashimoto reads the rise of AI through the historical lens of the rise of cloud. AWS's 2006 launch of S3 and EC2 kicked off the cloud-native platform shift; today's LLM advances feel like the start of another one - not a shift from cloud, but a shift in a different category with the same potential to change how software is built and delivered. His method: compare a few categories of thought and derive predictions.",
+  "Category one: immediate value. Early EC2/S3 gave small projects the fastest server and easiest storage, with HTTP APIs that invited automation; AI has the same feel - sentiment analysis is trivial, Copilot code generation is 'kind of decent,' and everything is getting an HTTP API. But immediate value is often mistaken for durable value; crypto failed that test for him ('someone sent me a bitcoin in 2010 and I thought: okay, now what?'). Category two: impracticality is contextual. Early cloud lacked long-lived IPs until 2008, persistent storage until 2008, private networks until VPC in 2009 - impractical for business software, irrelevant for small projects, so it grew where it was practical while the impractical contexts kept shrinking. And the dismissals moved with them: real businesses, then Fortune 500s, then regulated companies, then governments - until US national defense ran on cloud. AI, he argues, sits in the same position today."
+ ],
+ "highlights": [
+  "Hashimoto: AI is a platform shift like cloud - compare the categories, derive predictions",
+  "Immediate value marked early cloud (EC2/S3) and marks AI now (trivial sentiment analysis, decent codegen)",
+  "Warning: immediate value is often mistaken for durable value - crypto failed his test",
+  "Early cloud was raw: no long-lived IPs or persistent storage until 2008, no VPC until 2009",
+  "Impracticality is contextual - cloud grew where it was practical and shrank the rest",
+  "The dismissal goalposts moved: businesses, Fortune 500, regulated, government - all fell",
+  "Today US national defense relies on cloud; AI is in the same early position"
+ ]
+}

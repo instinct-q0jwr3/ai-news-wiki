@@ -1,0 +1,19 @@
+{
+ "id": "68010cb833f8",
+ "authored_at": "2026-09-26T07:05:22.517939+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Max Woolf follows up his exhaustive Nano Banana prompt-engineering analysis with a review of Nano Banana Pro, Google's image model with five touted additions: high-resolution output, better text rendering, grounding with Google Search, thinking/reasoning, and better use of image inputs. His first relief: Pro is not Nano Banana 2 and does not obsolete the base model - it costs far more per generation (AI Studio requires payment, though the Gemini chat app offers free watermarked generations) and may not even be the best option depending on your intended style.",
+  "So he reruns his test suite of cases tuned to the base model's strengths and weaknesses. The infamous 'make me into Studio Ghibli' style transfer, which objectively failed on his mirror selfie in base Nano Banana, now passes - 'you can nit on whether the style is truly Ghibli or just something animesque,' but Pro understands the intent, and beats what ChatGPT managed. Code-in-image generation is next on the docket (the excerpt cuts off at a recursive Fibonacci test). His earlier work showed the base model could handle a comical number of simultaneous constraints - three precisely specified kittens, heterochromatic eyes matching fur colors, rule-of-thirds composition, Victorian mansion, no text or watermarks - so the bar for 'better' is genuinely high."
+ ],
+ "highlights": [
+  "Woolf: Nano Banana Pro does not obsolete base Nano Banana - different models, different trades",
+  "Pro adds: high-res output, better text rendering, Search grounding, reasoning, better image-input use",
+  "Free in the Gemini app with watermark; AI Studio generations require payment",
+  "Pro costs far more per image and is not always the best choice of style",
+  "The Ghibli style-transfer test that failed on base Nano Banana now passes",
+  "Base-model bar: three-constraint-kitten prompts with exact composition and eye-color rules already worked",
+  "Review method: rerun the test suite built to expose the base model's strengths and weaknesses"
+ ]
+}

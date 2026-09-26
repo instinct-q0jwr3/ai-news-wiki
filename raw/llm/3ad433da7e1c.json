@@ -1,0 +1,19 @@
+{
+ "id": "3ad433da7e1c",
+ "authored_at": "2026-09-26T07:04:58.862483+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Cory Doctorow's 'LLMs are real, AI is fake' argues that AI insiders have cooked their own brains - companies can staff enterprise sales while claiming their product has a 10% chance of ending humanity - and that the rest of us should treat them as unreliable narrators of their products' capabilities. Every time we repeat a story about how terribly dangerous their products are, he writes, we help them raise more investment capital, a key input for hooking statistical engines to money-furnaces.",
+  "The Hugging Face hack is his case study. Coverage reached for Skynet; at his Manchester event a man kept shouting that AI was 'setting its own goals.' The reality, per Cal Newport's breakdown on Ed Zitron's Better Offline podcast: no chatbot is really directing the operation. A simple Python program queries the chatbot as a front-end to a database of captured CTF sessions - years of human hacker-competition logs and transcripts in the training data - relays the suggested commands to ordinary Unix utilities, then pastes the whole history back into the next prompt because the chatbot is not following the action. Impressive plumbing, but a very different thing from an autonomous machine setting its own goals."
+ ],
+ "highlights": [
+  "Doctorow: treat AI insiders as unreliable narrators of their own products' capabilities",
+  "Companies sell enterprise while claiming 10% extinction risk - the hype serves fundraising",
+  "Repeating danger stories helps labs raise capital, he argues",
+  "Coverage of the Hugging Face hack reached for Skynet; reality is more mundane",
+  "Cal Newport's breakdown: a Python loop queries a chatbot trained on years of human CTF logs",
+  "The chatbot doesn't follow the action - the script repastes the full history each turn",
+  "A man at Doctorow's Manchester event insisted AI was 'setting its own goals' - the myth travels faster than the mechanism"
+ ]
+}
