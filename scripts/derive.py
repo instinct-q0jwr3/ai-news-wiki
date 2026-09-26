@@ -492,27 +492,43 @@ def render_daily(day,items,generated):
     lines.append(f'Digest of {len(items)} unique stories first observed on {day}. Each inline story link opens a generated summary with its original source.')
     lines.append('')
     bf=ROOT/'raw'/'llm'/f"digest-{day}.json"
+    digest=None
     if bf.exists():
         try:
-            d=json.loads(bf.read_text())
-            lead=d.get('lead') or d.get('prose',[])[:1]
+            digest=json.loads(bf.read_text())
+            lead=digest.get('lead') or digest.get('prose',[])[:1]
             for para in lead[:1]:
                 lines.extend([para,""])
-        except Exception: pass
-    themes=[]
-    for concept_slug,(label,terms,_) in CONCEPTS.items():
-        hits=sorted(match(items,terms),key=lambda x:x.get('score',0),reverse=True)
-        if hits: themes.append((len(hits),concept_slug,label,hits))
-    themes.sort(reverse=True)
-    used=set()
-    for _,concept_slug,label,hits in themes[:4]:
-        fresh=[x for x in hits if x.get('id') not in used]
-        if not fresh: continue
-        for x in fresh: used.add(x.get('id'))
-        entity_counts=Counter(e for x in fresh for e in related(x)[0])
-        entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
-        opening=f'The most visible related entities are {entity_refs}. ' if entity_refs else ''
-        lines.extend([f'## {label}','',opening+prose_links(fresh),''])
+        except Exception: digest=None
+    # Authored, day-specific sections (digest schema 3) win when present: the
+    # pass writes what genuinely mattered THAT day instead of fixed taxonomy.
+    authored=False
+    if digest:
+        secs=digest.get('sections') or []
+        by_id={x.get('id'):x for x in items}
+        used=set()
+        for sec in secs[:6]:
+            fresh=[by_id[i] for i in sec.get('stories',[]) if i in by_id and i not in used]
+            if not fresh: continue
+            for x in fresh: used.add(x.get('id'))
+            blurb=(sec.get('intro') or '').strip()
+            lines.extend([f"## {sec.get('title','Section')}",""] + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=6),''])
+            authored=True
+    if not authored:
+        themes=[]
+        for concept_slug,(label,terms,_) in CONCEPTS.items():
+            hits=sorted(match(items,terms),key=lambda x:x.get('score',0),reverse=True)
+            if hits: themes.append((len(hits),concept_slug,label,hits))
+        themes.sort(reverse=True)
+        used=set()
+        for _,concept_slug,label,hits in themes[:4]:
+            fresh=[x for x in hits if x.get('id') not in used]
+            if not fresh: continue
+            for x in fresh: used.add(x.get('id'))
+            entity_counts=Counter(e for x in fresh for e in related(x)[0])
+            entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
+            opening=f'The most visible related entities are {entity_refs}. ' if entity_refs else ''
+            lines.extend([f'## {label}','',opening+prose_links(fresh),''])
     counts=Counter(i.get('source','?') for i in items)
     lines.extend(["## Sources",""])
     lines.extend([f"- {k}: {v} stories" for k,v in counts.most_common()])
