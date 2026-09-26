@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: A Claude Code skill to analyze your chess games · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790449656"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: A Claude Code skill to analyze your chess games</h1>
+<p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
+<p><code>hacker-news</code> <code>anthropic</code> <code>agentic-systems</code> <code>ai-coding-agents</code></p>
+<h2 id="summary">Summary</h2>
+<p>Hello HN, It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation?</p>
+<p>The next experiment was to see whether Claude + Stockfish could explain a game.</p>
+<p>Claude Code skills that turn one of your chess games into a post-mortem you can actually read: plain-language explanations of your mistakes, checked against Stockfish, and a narrated video of the whole game.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like "analyze my last lichess game", and gives me a commented video of the game.</li>
+<li>The result is not perfect and it takes time to deliver (an hour or so), but for me it is a much more pleasant and memorable experience than clicking around Stockfish branches.</li>
+<li>It burns tokens, so make sure you have enough quota.</li>
+<li>From the session logs, the last analyzed game would have cost around $15 at API prices.</li>
+<li>The fact that it reflects on my own thinking during the game makes it interesting from a teaching point of view, so I thought it was worth sharing.</li>
+<li>After the game I gave Claude two things: the lichess link and the mp3.</li>
+<li>Copy (or symlink) the skill folders into .claude/skills/ of your project, or into ~/.claude/skills/ for all projects: git clone https://github.com/brumar/chess-postmortem-skills cp -r chess-postmortem-skills/skills/ * ~ /.claude/skills/…</li>
+<li>For your own games, tell Claude your level once and make it stick, for example in your CLAUDE.md : My lichess handle is &lt;handle&gt;.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/brumar/chess-postmortem-skills">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

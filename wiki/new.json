@@ -1,11 +1,59 @@
 {
- "generated_at": "2026-09-26T13:01:08+00:00",
+ "generated_at": "2026-09-26T19:03:10+00:00",
  "stories": [
   {
-   "id": "1b56d94badfc",
-   "title": "One Month Without AI",
+   "id": "82c5ffbcd33b",
+   "title": "Show HN: A Claude Code skill to analyze your chess games",
    "source": "Hacker News",
-   "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
+   "url": "https://github.com/brumar/chess-postmortem-skills"
+  },
+  {
+   "id": "60bdac794cd6",
+   "title": "OpenAI bots meddled with multiple US Government agency sites",
+   "source": "Hacker News",
+   "url": "https://www.bbc.com/news/articles/cw62jje658dlo"
+  },
+  {
+   "id": "438d4eb4233c",
+   "title": "The AI Bubble Explained",
+   "source": "Hacker News",
+   "url": "https://hughhowey.com/the-ai-bubble-explained/"
+  },
+  {
+   "id": "dd5ec9fc1c82",
+   "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+   "source": "Hacker News",
+   "url": "https://github.com/reladraw/reladraw"
+  },
+  {
+   "id": "f27e3440c00e",
+   "title": "What Happens if the A.I. Bubble Bursts",
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html"
+  },
+  {
+   "id": "d0242d0895ec",
+   "title": "Broken promises, confiscated land: the hyperscale AI datacentre being built",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land"
+  },
+  {
+   "id": "16dd090085a6",
+   "title": "The US and China create a \"Super Intelligence Dialogue\" on AI risks and a separate AI incident hotline, likened to a Cold War-era \"red telephone\"",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal"
+  },
+  {
+   "id": "8317262ab18e",
+   "title": "Walmart CEO John Furner says the company won't use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper's identity",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd"
+  },
+  {
+   "id": "03d802571153",
+   "title": "The Talk Show: ‘I’m Thinking X, Not X’",
+   "source": "Daring Fireball",
+   "url": "https://daringfireball.net/thetalkshow/2026/09/25/ep-455"
   },
   {
    "id": "dafc59516313",
@@ -14,16 +62,10 @@
    "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
   },
   {
-   "id": "22ef243d53b2",
-   "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276"
-  },
-  {
-   "id": "58e9676b50aa",
-   "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
-   "source": "Hacker News",
-   "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
+   "id": "b3425b1bcef6",
+   "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+   "source": "Lobsters",
+   "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0"
   }
  ]
 }

@@ -1,22 +1,14 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Xcode 27.2 Now Supports a New JSON Project File Format · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790440022"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Xcode 27.2 Now Supports a New JSON Project File Format</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Xcode 27.2 Now Supports a New JSON Project File Format · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790449656"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Xcode 27.2 Now Supports a New JSON Project File Format</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
 <p><code>daring-fireball</code> <code>apple</code> <code>agentic-systems</code> <code>ai-coding-agents</code></p>
 <h2 id="summary">Summary</h2>
-<p>Apple Developer: Xcode now supports a JSON-based project format (.xcproj) that’s more readable, merge-friendly, and easier for coding agents to edit.</p>
-<p>Projects using .xcproj also open in earlier versions of Xcode 27.</p>
-<p>Apple released, on GitHub, a Swift library (and CLI tool) for reading, writing, and manipulating this new project format.</p>
+<p>John Gruber notes that Xcode 27.2 supports a new JSON project file format - a notable step away from the famously merge-conflict-prone pbxproj plist that has defined Xcode projects for decades. (Summary based on the Daring Fireball post and Apple's Xcode 27.2 release notes.)</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>Michael Tsai has a list of developer reactions , which are universally positive.</li>
-<li>Støvring : Developers have been screaming for a friendlier Xcode project format for years.</li>
-<li>Tony Arnold : I’ve been waiting for something like this for most of my career! 🎉 Rob Napier : It does feel like another case of “we’ve quickly done a thing to help AI that we’ve been unwilling to do for years to help humans.” I’m seeing…</li>
-<li>It’s also frustrating that it took “it can help AI” to make it happen.</li>
-<li>The old .pbxproj project format was not XML; it was an old NeXT-style “ASCII” property list — a file format that is surprisingly JSON-like considering that it predates not only JSON, but JavaScript (JSON = JavaScript Object Notation ).</li>
-<li>The problem developers have long had with the old .pbxproj project file isn’t about the old plist format, but instead the way the object graph was represented in it.</li>
-<li>Everything was represented by opaque ID values; one small change in Xcode often resulted in multiple changes on different lines in the .pbxproj file.</li>
-<li>While technically that format is a human-readable (and thus LLM-readable) text file, it effectively needed to be treated as a binary file. ★ Xcode 27.2 Beta Release Notes | Apple Developer Documentation</li>
+<li>Xcode 27.2 introduces a JSON project file format</li>
+<li>A break from the ancient, merge-hostile pbxproj plist format</li>
+<li>Summary from Daring Fireball and Apple's release notes</li>
 </ul>
-<p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
 <h2 id="source">Source</h2>
 <p><a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes">Read the original story</a></p>
 <h2 id="related-pages">Related pages</h2>

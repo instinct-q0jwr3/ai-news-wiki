@@ -1,0 +1,19 @@
+{
+ "id": "1fb37f2d4b1e",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Bert Hubert wrote this for people who must actually decide on AI policy, after talks at the Dutch public-service network NPD and the science advisory council AWTI. His honest position: AI the phenomenon is genuinely Nobel-worthy and can do amazing things - and organizations still have no business rushing. 'Is there really such a hurry? Does every municipality need Copilot this year?'",
+  "His checklist for decision-makers: don't buy FOMO - if AI is a good idea it will still be one next year; the IP, climate, energy and digital-autonomy problems are real and vendors will make them yours (ask Microsoft to indemnify you for Copilot's output and enjoy the silence); juniors replaced by AI means no future seniors; almost nobody measures whether AI rollouts actually made people more productive or happier; and a burst bubble won't kill AI but will make it suddenly expensive - a problem if your organization has grown dependent. (The page is in Dutch, with an English version linked; summary from the Dutch original.)"
+ ],
+ "highlights": [
+  "Hubert's advice to AI decision-makers: impressive tech, but no hurry",
+  "FOMO is the main driver - 'there is no boat to miss' for most organizations",
+  "Ask vendors to indemnify AI output IP claims; watch them dodge",
+  "Replacing juniors with AI leaves you without future seniors",
+  "Rollouts happen without success criteria or measurement",
+  "A bubble burst makes AI expensive, not gone - dependency is the risk",
+  "Page in Dutch with an English version linked"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "4da3252b3f0e",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Krebs on Security: Microsoft's September Patch Tuesday fixes at least 974 vulnerabilities - by far its largest batch ever, obliterating July's record of 570 and pushing 2026 past 2,600 CVEs, more than double the previous record year. Two zero-days are being actively exploited (both privilege escalation), 113 bugs are critical, including a wormable DNS flaw (CVE-2026-69730) and a 9.8 CVSS Windows Shell RCE (CVE-2026-69829).",
+  "Microsoft credits AI-assisted discovery for the accelerating find rate, and it's not alone - Adobe, Cisco, Google, Mozilla and Oracle all report the same, with Google moving to security updates every two weeks. Experts' caveats: Tenable's Satnam Narang says AI is 'creating larger haystacks, not finding more needles' - organizations must prioritize by actual reachability; and Fortra's Tyler Reguly warns the human side (testing and deploying) is now the bottleneck, telling CISOs to budget dinners for weekend patching teams."
+ ],
+ "highlights": [
+  "September Patch Tuesday: 974+ fixes, Microsoft's biggest batch ever",
+  "2026 already tops 2,600 CVEs - double the previous record year",
+  "Two exploited zero-days; 113 critical, incl. wormable DNS and a 9.8 Shell RCE",
+  "AI-assisted discovery credited industry-wide; Google moves to biweekly updates",
+  "Tenable: 'larger haystacks, not more needles' - prioritize by exploitability",
+  "The bottleneck is now human: testing and deploying the flood"
+ ]
+}

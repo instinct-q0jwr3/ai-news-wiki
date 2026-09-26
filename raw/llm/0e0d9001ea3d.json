@@ -1,0 +1,17 @@
+{
+ "id": "0e0d9001ea3d",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Armin Ronacher demystifies 'reasoning' in LLMs: reasoning traces are not exotic internals, just text the model is trained to emit into a scratchpad before its final answer. GPT-OSS's Harmony format makes the mechanics visible - special channel tokens route analysis text into a separate stream, while closed models presumably redact and summarize it.",
+  "More surprises: 'reasoning effort' is not a sampler setting but a line baked into the system prompt (which is why changing it invalidates the KV cache); some models can be tricked into leaking reasoning into the 'final' channel or even into tool calls; and disabling 'thinking' can be as mechanical as prefilling a closing token. Punchline: GPT 5.6 terra's safety filters refused to spell-check the post itself, so he switched to Kimi."
+ ],
+ "highlights": [
+  "Reasoning traces are just text routed to a scratchpad channel, not exotic machinery",
+  "GPT-OSS Harmony shows the plumbing: channel tokens split analysis from final",
+  "'Reasoning effort' is a system-prompt line, not a sampling property",
+  "Models can be tricked into leaking traces into final answers or tool calls",
+  "GPT 5.6 terra refused to spell-check the article - he used Kimi instead"
+ ]
+}

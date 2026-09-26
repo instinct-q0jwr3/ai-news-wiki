@@ -1,0 +1,17 @@
+{
+ "id": "094adcc692e7",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Geoffrey Litt stages the chat-vs-GUI debate as a Socratic dialogue: a pupil climbs Mount GPT to ask a wizard whether chat is a good UI for AI. The wizard's teaching unfolds through demonstrations - no buttons can phrase an open-ended question, but describing your house on a map without pointing 'sucks', and ordering pizza is better in UberEats than over the phone because the script is the same every time.",
+  "The three precepts that emerge: text is not the universal information visualization (maps, charts and tables exist); natural language and precision inputs are complementary ('put that there' needs both voice and finger); and graphical interfaces make repeated workflows nicer, while chat wins the open-ended ones. The compass beats Mr. Magnetic, the fairy you must converse with: a good tool becomes an extension of your mind, not a conversation partner."
+ ],
+ "highlights": [
+  "A Socratic dialogue on whether chat is the right UI for AI",
+  "Precept 1: text is not the universal information visualization",
+  "Precept 2: natural language and precision inputs are complementary",
+  "Precept 3: GUIs win repeated workflows; chat wins open-ended ones",
+  "The compass vs 'Mr. Magnetic': tools should extend the mind, not require conversation"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "54791112a628",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Max Woolf complains about getting free stuff: OpenAI and Anthropic's surprise weekly-quota resets for Codex and Claude Code. After GPT-5.6 Sol's release, OpenAI reset Codex weekly quotas six times in two weeks, unannounced - users discover them by finding their quota back at 100%, sometimes hours before their natural reset.",
+  "The annoyance is real economics: a reset with his quota at 50% 'wastes' $12 of the $100 plan he upgraded to; resets unset his weekly timer, forcing a throwaway prompt; and the random-reward schedule that should give dopamine instead produces deficit - urgent idea-generation to burn quota before it resets again. His cynical read: resets aren't serendipity, they're retention - keeping power users from drifting to Grok 4.5, Muse Spark 1.1 or Kimi K3 when their quota runs out. If it continues, his rational move is downgrading back to $20."
+ ],
+ "highlights": [
+  "OpenAI reset Codex weekly quotas 6 times in two weeks around the GPT-5.6 launch",
+  "Resets are unannounced; users find them by luck, sometimes minutes before expiry",
+  "A reset at 50% quota is a $12 loss on the $100 plan, not a gift",
+  "Random rewards produce 'net dopamine deficit', not excitement",
+  "Cynical reading: retention against Grok, Muse Spark and Kimi competition",
+  "His logical response if it continues: downgrade plans"
+ ]
+}

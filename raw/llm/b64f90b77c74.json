@@ -1,0 +1,18 @@
+{
+ "id": "b64f90b77c74",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez's manifesto for programming's next phase: if you control the ideas of your software, reading the code is suboptimal and often pointless. His reasons: nobody can review 5k generated lines a day; LLMs write locally optimal code but are weaker on big ideas, so prompt the design you want and evaluate the model of the system instead; and every hour spent reading code is an hour not spent on direction, features and QA.",
+  "He's candid about the tension: he still reviews Redis code out of respect for its users, while believing it's mostly pointless now that models like Fable and GPT 5.6 Sol spot more races than he will - what he'd rather produce is a DESIGN.md where each data structure is described in human language. His framing borrows the Mythical Man Month and his own DwarfStar inference work (subtle bugs in hand-written GPU kernels everywhere) to argue the pre-AI software world was already rotten with slop. His one open doubt: young programmers who can't yet build a mental model - for them he suspects writing small interpreters and databases beats reviewing webshit."
+ ],
+ "highlights": [
+  "'Control the ideas, not the code': reviewing generated code is a poor use of the day",
+  "LLMs: locally optimal code, weaker big ideas - steer design, not lines",
+  "He still reviews Redis code for users, but thinks DESIGN.md docs beat it",
+  "DwarfStar experience: hand-written inference code is full of subtle errors",
+  "Pre-AI software was already full of slop; resistance is partly ideological",
+  "Open question: how juniors build mental models without reading code"
+ ]
+}

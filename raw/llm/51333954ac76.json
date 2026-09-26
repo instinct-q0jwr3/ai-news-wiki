@@ -1,0 +1,17 @@
+{
+ "id": "51333954ac76",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "lcamtuf, a security person, wants to know how models fail - and recursion is his lab: agent loops feed models their own output, and it's the mechanic behind both model-collapse doomerism and self-improvement gospel. His demo: ask Gemini to 'boldly rewrite' a Raymond Chandler passage, then feed it only its previous output, round after round.",
+  "The prose degrades on a tour through kitsch horror - mirrors 'weaponized the brutal glare', Mrs. Regan's legs become 'stiletto blades' - until around iteration 20 the model steps back from the ledge and the output stabilizes at iteration 31 as cycling tepid menace ('venom wrapped in high fashion'). The lesson: open-ended rewrites don't diverge forever; they thrash, then settle into 'peak LLMese' - a stable point far from the source. Image pipelines, with their per-step noise, collapse much faster: a few edits in, pure chaos."
+ ],
+ "highlights": [
+  "Recursive self-consumption is the core of agent loops, model collapse and self-improvement claims",
+  "Experiment: 31 rounds of Gemini rewriting one Chandler passage",
+  "Output drifts into bizarre horror metaphors, then stabilizes far from the source",
+  "Rewrites converge to 'peak LLMese' rather than diverging forever",
+  "Image editing collapses faster: a few iterations to chaos from accumulated noise"
+ ]
+}

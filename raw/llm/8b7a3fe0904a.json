@@ -1,0 +1,18 @@
+{
+ "id": "8b7a3fe0904a",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison covers Jev, TypeSafe AI's 'System One model' - he prefers 'decision model'. Jev takes unstructured text state in and returns not text but floating-point judgments: yes/no confidence ('Noul', from Bernoulli), a probability distribution over provided choices, or a score along a defined numeric scale. It's very fast, charges only for input tokens ($0.042/million, under GPT-5 Nano), and evaluates as many parallel questions as fit the context.",
+  "His uses: classification, labeling, prioritization - he reranks BM25 search candidates with it. His discomfort: it's a regression into pure black-box ML. An LLM can at least be asked to justify itself; Jev returns only a number, so bias has nowhere visible to hide (his test: Jev ranked Cupertino the Bay Area's 'good city' and East Palo Alto the bottom - 'huh'). Community toys followed within a week: jevchat (a terrible chat model one symbol at a time), jev-leftpad, jev-2048, plus open-weight recreations like Kev on Qwen 3.5."
+ ],
+ "highlights": [
+  "Jev: a 'decision model' - text state in, typed probabilistic judgments out",
+  "Three question types: yes/no confidence, choice distributions, numeric scores",
+  "Input-only pricing at $0.042/million tokens; parallel questions per state",
+  "Willison's worry: a pure black box - no rationale, bias invisible",
+  "His test: Jev ranked Cupertino top and East Palo Alto bottom for 'Good city?'",
+  "A week of toys: jevchat, jev-leftpad, jev-2048, and open-weight clones (Kev)"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "4f0826acfea1",
+ "authored_at": "2026-09-26T19:07:00.967840+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez's 2024 proposal for LLM sampling: First Token Cutoff (FTC), an alternative to top-p nucleus sampling. The flaw in top-p: accumulating tokens up to probability mass p can admit tokens vastly weaker than the top choice (a p of 0.4 can let a 0.01 token ride along at ~3%), derailing the generation - while the avalanche effect means variety comes free anyway from context perturbation.",
+  "FTC instead bounds the worst selectable token relative to the top token T0: compute softmax, sort, and keep only tokens with r = 1 - T[i]/T0 below a cutoff 'co' (e.g. 0.5). When the model is confident, FTC picks the top token; when several candidates are genuinely close, it samples among them - a hard, understandable bound instead of TFS-style cluster heuristics. He published it as work in progress, hoping to stimulate hacking."
+ ],
+ "highlights": [
+  "FTC sampling: bound the worst token relative to the top token's probability",
+  "Top-p's flaw: mass accumulation can admit tokens 25x weaker than the leader",
+  "Rule: keep tokens with 1 - T[i]/T0 <= co; confident states go greedy, close states diversify",
+  "The avalanche effect supplies variety without picking weak tokens",
+  "Published as a work in progress to invite discussion"
+ ]
+}
