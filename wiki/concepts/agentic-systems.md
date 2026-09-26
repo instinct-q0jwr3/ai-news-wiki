@@ -11,6 +11,7 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 ## In the briefings
 
 - [Learning to work with agents](../daily/2026-09-26.md#learning-to-work-with-agents) — 2026-09-26
+- [Agents got manners and methods](../weekly/2026-W38.md#agents-got-manners-and-methods) — Week 2026-W38
 - [Agents act on the world, and the world pushes back](../weekly/2026-W39.md#agents-act-on-the-world-and-the-world-pushes-back) — Week 2026-W39
 
 ## Related entities

@@ -10,7 +10,7 @@ Narrow or compact models trade breadth for lower cost, latency, privacy or local
 
 ## In the briefings
 
-_Not yet referenced by any briefing section._
+- [Small models, big claims](../weekly/2026-W38.md#small-models-big-claims) — Week 2026-W38
 
 ## Related entities
 

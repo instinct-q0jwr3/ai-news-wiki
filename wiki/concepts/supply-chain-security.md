@@ -11,6 +11,7 @@ An open concept gathered from briefing sections, first referenced on 2026-09-26.
 ## In the briefings
 
 - [The Hugging Face hack, reconstructed](../daily/2026-09-26.md#the-hugging-face-hack-reconstructed) — 2026-09-26
+- [Security reality checks](../weekly/2026-W38.md#security-reality-checks) — Week 2026-W38
 - [Agents act on the world, and the world pushes back](../weekly/2026-W39.md#agents-act-on-the-world-and-the-world-pushes-back) — Week 2026-W39
 
 ## Related entities

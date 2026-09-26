@@ -10,6 +10,7 @@ Governments, regulators and courts are moving from AI principles to enforcement:
 
 ## In the briefings
 
+- [Persuasion and its abuses](../weekly/2026-W38.md#persuasion-and-its-abuses) — Week 2026-W38
 - [The state meets AI](../weekly/2026-W39.md#the-state-meets-ai) — Week 2026-W39
 
 ## Related entities

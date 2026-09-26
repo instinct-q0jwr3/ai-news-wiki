@@ -1,0 +1,86 @@
+{
+ "id": "weekly-2026-W38",
+ "date": "2026-W38",
+ "week": "2026-W38",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "The wiki's first week on record, and a revealing one: agent tooling matured fast ([Claude Code learned to read AGENTS.md](../summaries/7471c7d5ef4e.md)), security reality checks piled up ([a heap overflow that reached OpenAI's internal systems](../summaries/4f60b8959b83.md), [a US military close call over hallucinated intelligence](../summaries/d9044257d7d1.md)), and the argument over creative labor got its sharpest week yet ([Microsoft's own director calling AI scraping 'the largest theft of labor in human history'](../summaries/6a0b69e877a7.md))."
+ ],
+ "sections": [
+  {
+   "title": "Agents got manners and methods",
+   "stories": [
+    "7471c7d5ef4e",
+    "56af24d3aa19",
+    "271d0703617a",
+    "9713626aa1b9",
+    "25cb63e5aa93"
+   ],
+   "concepts": [
+    "agentic-systems",
+    "agent-engineering-practices"
+   ]
+  },
+  {
+   "title": "Security reality checks",
+   "stories": [
+    "4f60b8959b83",
+    "d9044257d7d1",
+    "661265968ece",
+    "d1f43a311766"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    "supply-chain-security"
+   ]
+  },
+  {
+   "title": "Small models, big claims",
+   "stories": [
+    "307dafbc9d60",
+    "f56f05e1a7fb",
+    "168311a32c68",
+    "07a310a36693",
+    "9f8b7cbac08b"
+   ],
+   "concepts": [
+    "small-specialist-models",
+    "frontier-model-launches"
+   ]
+  },
+  {
+   "title": "The fight over creative labor and the open web",
+   "stories": [
+    "ccc2fd529c5a",
+    "a3be206af138",
+    "6a0b69e877a7",
+    "68538d387150",
+    "2836a90fa837"
+   ],
+   "concepts": [
+    {
+     "slug": "ai-and-creative-labor",
+     "name": "AI and creative labor"
+    }
+   ]
+  },
+  {
+   "title": "Persuasion and its abuses",
+   "stories": [
+    "23d9ffc053d5",
+    "192a8e285617",
+    "a1f207e7aefb",
+    "3d2dfa680256",
+    "b4d003ca42dd"
+   ],
+   "concepts": [
+    {
+     "slug": "ai-persuasion",
+     "name": "AI persuasion"
+    },
+    "ai-policy-regulation"
+   ]
+  }
+ ]
+}
