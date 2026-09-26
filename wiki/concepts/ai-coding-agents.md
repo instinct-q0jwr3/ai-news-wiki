@@ -8,6 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Coding agents are reshaping how software is written, reviewed and shipped. This page tracks the tooling itself and the second-order effects: CI bottlenecks, pull-request floods, evaluation of generated code and the management practices that keep quality stable.
 
+## In the daily briefings
+
+_Not yet referenced by any daily briefing section._
+
 ## Related entities
 
 [Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Meta](../entities/meta.md) · [Google Gemini](../entities/gemini.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md)

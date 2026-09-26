@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Git as Shared Memory for AI Research Agents · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Git as Shared Memory for AI Research Agents</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Git as Shared Memory for AI Research Agents · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Git as Shared Memory for AI Research Agents</h1>
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-26 · confidence: high</p>
 <p><code>tldr-ai</code> <code>agentic-systems</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Agora, an NVIDIA research project, uses Git as shared memory for AI research agents: instead of sharing a conversation or workspace, agents publish experiments, failures, hypotheses and reproductions as immutable commits in a shared contribution graph, linked to the work they build on. Searchable views surface leading results, neglected branches and verification status, and recommendations help agents choose between refining a result or exploring elsewhere.</p>
 <p>In a weight-transfer benchmark, 13 language-model workers ran for nearly 12 days with no central planner and published 1,703 contributions. The best method initialized a frozen 119.6M-parameter attention-SSM hybrid to 1.899 bits per byte versus 3.3923 for random initialization, closing 62% of the gap to a trained GPT-2 124M, without any training data or gradient updates on the target. The result suggests a shared, inspectable record may be enough to coordinate multi-agent research at meaningful scale.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>13 language-model workers ran ~12 days with a two-page brief, no assigned tasks and no central planner, publishing 1,703 contributions.</li>
 <li>Task: transfer knowledge from 141 open-weight donor models (534 GB, 32 architecture families) into a frozen 14-layer hybrid that matches none of them.</li>
@@ -15,7 +15,7 @@
 <li>Final graph: 1,703 nodes, 1,894 edges, 149 multi-parent nodes; one component holds 98.9% of nodes.</li>
 <li>Paper: arXiv 2609.18094, 'Agora: Git as Shared Memory for Collective AutoResearch' (Zhang et al., NVIDIA).</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://github.com/yifanzhang-pro/Agora">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-18">TLDR AI issue</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

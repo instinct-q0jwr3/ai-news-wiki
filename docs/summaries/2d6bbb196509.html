@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Go-based Robotics Framework built around NATS.io · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Go-based Robotics Framework built around NATS.io</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Go-based Robotics Framework built around NATS.io · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Go-based Robotics Framework built around NATS.io</h1>
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Gorai (pronounced 'go-ray') is a Go-based robotics framework that treats a robot as what it really is, a distributed system: every sensor and actuator becomes a named service on a NATS mesh, discovered at runtime instead of wired by hand. It ports cloud-systems discipline, service discovery, location transparency, health checks, fan-out and replay, to robots built from MCUs, SBCs and sensors.</p>
 <p>Its capability model (NCP, the NATS Capability Protocol) exposes sensors as resources and actuators as tools, giving AI agents MCP-style capabilities natively over NATS with no MCP server in the path, while safety is enforced at the capability node, not the agent. A 'Composite Robot' can span a rover, drone, sensor mast and compute box as one logical robot. Deployment is a single static binary on a Raspberry Pi or Orange Pi, no containers or Kubernetes, with a workstation CLI for building, validating, and observing the live mesh.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Every sensor and actuator is a named service on a NATS mesh, discovered at runtime, addressed by name.</li>
 <li>NCP (NATS Capability Protocol): resources and tools for agents natively over NATS, no MCP server needed.</li>
@@ -15,7 +15,7 @@
 <li>Action logs, state streams and replay are first-class platform concerns.</li>
 <li>Docs include strategy, specs, hardware analysis and a 20-chapter book, indexed for both humans and AI agents.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://github.com/emergingrobotics/gorai">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

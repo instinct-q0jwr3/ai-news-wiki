@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hardware-Agnostic Models in vLLM · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hardware-Agnostic Models in vLLM</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hardware-Agnostic Models in vLLM · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hardware-Agnostic Models in vLLM</h1>
 <p class="meta">type: news-summary · created: 2026-09-23 · updated: 2026-09-26 · confidence: high</p>
 <p><code>tldr-ai</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>vLLM announced it is changing internal implementations in ways incompatible with fullgraph torch.compile, because frontier open-weight model architectures are diverging too fast for the old abstractions - models increasingly ship bespoke layers and optimized kernels, and even attention is fragmenting, with DeepSeek V4 and Kimi K3 reaching million-token context via completely different approaches.</p>
 <p>To keep serving out-of-tree accelerators, older GPUs and exotic models, vLLM is introducing a set of 'HW agnostic' layers. On NVIDIA H100 GPUs these achieve total token throughput within 3.4% of the native implementation (geometric mean across three recent models), aiming to let vLLM keep moving at frontier speed without sacrificing its role as the portable abstraction layer across NVIDIA, AMD, Intel XPU, Google TPU, IBM Spyre, Huawei Ascend and more.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>vLLM is moving beyond fullgraph torch.compile for frontier performance, breaking some existing compatibility.</li>
 <li>New 'HW agnostic' layers keep out-of-tree accelerators, older GPUs and exotic models supported.</li>
@@ -12,7 +12,7 @@
 <li>Motivation: frontier open-weight architectures are diverging with bespoke layers and kernels.</li>
 <li>DeepSeek V4 and Kimi K3 reach million-token context through entirely different attention approaches.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://pytorch.org/blog/hardware-agnostic-models-in-vllm/">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-23">TLDR AI issue</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

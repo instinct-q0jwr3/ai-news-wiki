@@ -8,6 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 A connected record of reported failures, attacks and control proposals. A reported incident does not by itself establish a general risk.
 
+## In the daily briefings
+
+- [The Hugging Face hack, reconstructed](../daily/2026-09-26.md#the-hugging-face-hack-reconstructed) — 2026-09-26
+
 ## Related entities
 
 [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [Hugging Face](../entities/hugging-face.md)

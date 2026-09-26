@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Generate fonts where every LLM token is the same width · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Generate fonts where every LLM token is the same width</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Generate fonts where every LLM token is the same width · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Generate fonts where every LLM token is the same width</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>A delightfully odd tool: token-space fonts, where a font and a tokenizer are compiled together so that every LLM token renders at exactly the same width - 3 em per token. You pick a model's tokenizer (the preset pairs DeepSeek V4.1 Flash's byte-level BPE with Inter), and the site compiles a single TTF with the tokenizer built into its shaping rules, so no script is needed to display it.</p>
 <p>The practical payloads are chat themes: a Vesktop theme that applies the token font to a specific Discord user's messages (so you can spot the em using an LLM by the tell-tale even spacing), and a Slack userscript that restyles messages from named agents or member IDs, threads included, making no network requests and leaving text untouched. Caveats are honest: browser shaping, line breaks and normalization can shift token boundaries, contextual shaping is not universally preserved, and it is a token font, not an exact token counter. Everything compiles locally with Pyodide and fontTools, and the author invites someone with more font expertise to 'implement this project properly.'</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Token-space fonts: compile a tokenizer into a TTF so every LLM token renders at equal width</li>
 <li>Preset pairs DeepSeek V4.1 Flash's byte-level BPE with Inter; each token is 3 em wide</li>
@@ -15,7 +15,7 @@
 <li>It is a token font, not an exact whole-message token counter</li>
 <li>Compiles locally with Pyodide and fontTools</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://ampdot.mesh.host/token-space-fonts.html">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

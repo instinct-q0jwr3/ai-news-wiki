@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Lossless-memory – a personal AI memory that never summarizes · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Lossless-memory – a personal AI memory that never summarizes</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Lossless-memory – a personal AI memory that never summarizes · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Lossless-memory – a personal AI memory that never summarizes</h1>
 <p class="meta">type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Lossless-memory is a personal AI memory system built on a refusal to summarize: most long-term memory systems either compress conversations into notes or embed and retrieve similar chunks, and both lose what actually matters to someone who talks to the same AI every day, what was actually said, and when. This project appends every conversation turn as a fixed seven-field record (timestamp, actor, role, type, verbatim text, model, session) to a per-day JSONL file; the raw logs are the source of truth and every index can be deleted and rebuilt from them.</p>
 <p>Time is the primary axis, not metadata: the AI can answer 'what did we decide last Tuesday night?' with the actual lines from last Tuesday night, in order. A tiny index of timestamped topic markers (LLL), injected into the model's context every turn, lets a long-running assistant come back from compaction. The lineage runs from a December 2025 memory-inheritance tool through a predecessor in daily use since January 2026; this implementation has run every day since July 2026 for one user, with raw logs back to June 2026, and docs/lessons.md documents the failures.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Lossless-memory: personal AI memory that never summarizes; keeps every line with a timestamp.</li>
 <li>Critique: summarization and embedding retrieval both lose what was actually said and when.</li>
@@ -14,7 +14,7 @@
 <li>LLL: tiny timestamped topic-marker index injected into context every turn to survive compaction.</li>
 <li>In daily use since July 2026 for one user; lineage back to December 2025; failures documented in docs/lessons.md.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://github.com/aru-labs/lossless-memory">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

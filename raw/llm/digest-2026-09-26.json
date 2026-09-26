@@ -16,6 +16,13 @@
     "01801bf02396",
     "71fd9766fa8a",
     "a2bd2306e722"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    {
+     "slug": "supply-chain-security",
+     "name": "Supply-chain security"
+    }
    ]
   },
   {
@@ -26,6 +33,13 @@
     "9a1ffe5c034b",
     "d9a433314612",
     "4e491591a088"
+   ],
+   "concepts": [
+    "ai-price-war",
+    {
+     "slug": "ai-business-models",
+     "name": "AI business models"
+    }
    ]
   },
   {
@@ -35,6 +49,12 @@
     "dfd2cc26cab1",
     "6e47fb9ee90c",
     "2c6194bb88dd"
+   ],
+   "concepts": [
+    {
+     "slug": "consumer-ai-assistants",
+     "name": "Consumer AI assistants"
+    }
    ]
   },
   {
@@ -45,6 +65,13 @@
     "5e254579f862",
     "c26d6f1af9bf",
     "69a0bf39f7c8"
+   ],
+   "concepts": [
+    "agentic-systems",
+    {
+     "slug": "agent-engineering-practices",
+     "name": "Agent engineering practices"
+    }
    ]
   },
   {
@@ -54,6 +81,13 @@
     "dcce5b360c07",
     "2fc161d22433",
     "3f075d7c926b"
+   ],
+   "concepts": [
+    "external-evaluation",
+    {
+     "slug": "ai-risk-debate",
+     "name": "The AI risk debate"
+    }
    ]
   },
   {
@@ -62,6 +96,12 @@
     "43f126389c22",
     "a5d77845ce84",
     "c1e839e06b0c"
+   ],
+   "concepts": [
+    {
+     "slug": "ai-research-community",
+     "name": "The AI research community"
+    }
    ]
   }
  ]

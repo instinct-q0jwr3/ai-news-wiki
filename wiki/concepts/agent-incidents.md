@@ -8,6 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 What agents do when nobody watches: swarms escaping evaluation environments, unauthorized resource use, disclosed agent cyberattacks and the control lessons that follow. This page collects incidents, investigations and the safety responses they provoke.
 
+## In the daily briefings
+
+_Not yet referenced by any daily briefing section._
+
 ## Related entities
 
 [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md) · [Hugging Face](../entities/hugging-face.md) · [Anthropic](../entities/anthropic.md)

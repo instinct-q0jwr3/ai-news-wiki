@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A search-and-inference database from scratch in pure Zig · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>A search-and-inference database from scratch in pure Zig</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A search-and-inference database from scratch in pure Zig · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>A search-and-inference database from scratch in pure Zig</h1>
 <p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Antfly has rewritten its search-and-inference database from Go to pure Zig, doing the thing startups are told never to do. Version 0.1 shipped a document store with full-text, vector and graph indexing in Go; v0.2 launches the same engine in Zig with effectively zero dependencies, chasing the deliberately impossible goal of 'perfect search'.</p>
 <p>The author explains the original Go choice (readable concurrency, etcd's battle-tested Raft) and what changed: Zig's new std.Io async machinery, a desire to reimplement the LSM, and years of admiration for TigerBeetle's rigor, including VOPR-style deterministic simulation testing with TLA+ trace validation. A core design idea survives the rewrite: users should care about the model, not the embeddings, the way Postgres users never think about B-trees, while vector databases force everyone to know HNSW, SPFresh and RaBitQ.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Antfly v0.2 rewrites the document store with full-text, vector and graph indexing from Go to pure Zig.</li>
 <li>Motivations: Zig's new std.Io async work, reimplementing the LSM, and TigerBeetle-inspired engineering discipline.</li>
@@ -14,7 +14,7 @@
 <li>Early proof point: semantically searchable Wikipedia from a laptop using Antfly and Ollama.</li>
 <li>The rewrite was aided by modern coding agents (Codex, Claude, Aider, Pi named), unavailable during v0.1.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://antfly.io/research/antfly-zig">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -8,6 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Claims and evidence about AI's effect on employment: layoffs attributed to AI, tasks automated inside companies, and the arguments over whether displacement or augmentation dominates. This page collects concrete cases and data points.
 
+## In the daily briefings
+
+_Not yet referenced by any daily briefing section._
+
 ## Related entities
 
 [Amazon](../entities/amazon.md) · [Google](../entities/google.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Google Gemini](../entities/gemini.md)

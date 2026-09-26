@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>LLM Classification Is Feature Engineering · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>LLM Classification Is Feature Engineering</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>LLM Classification Is Feature Engineering · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>LLM Classification Is Feature Engineering</h1>
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-26 · confidence: high</p>
 <p><code>tldr-ai</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>This essay argues that using an LLM directly as a classifier, a prompt that returns a label, is the wrong abstraction, and that the practical fix is to treat the LLM's verdict as a feature inside an ordinary statistical model. Wrapping the LLM output in a simple logistic regression recovers the properties practitioners actually need, such as calibration to the class distribution of the population being scored, without any prompt gymnastics.</p>
 <p>Worked through on the SemEval 2018 irony-detection dataset (4,618 tweets), the one-shot LLM classifier shows decent ranking ability but a poor Brier score for lack of calibration; the logistic wrapper fixes calibration without changing the ordering. The broader point: when performance disappoints, prompt tweaking is arcane folklore, while the classic ML toolkit (better features, more data, model tuning) becomes available again once the LLM is demoted to feature extractor.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Core claim: an LLM's verdict should be a feature, not the classifier; wrap it in logistic regression, p(y=1|x) = sigma(alpha + beta*LLM(x)).</li>
 <li>LLM classifiers lack calibration: the model cannot know whether the positive class is rare or prevalent in the tested population.</li>
@@ -14,7 +14,7 @@
 <li>Enrichment trick: have the LLM answer auxiliary questions (humor? plausibility? needs context? genuine complaint? tone mismatch) and feed those as extra features.</li>
 <li>When accuracy disappoints, prompt engineering offers folklore; the ML framing reopens feature engineering, data and model selection as levers.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-18">TLDR AI issue</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

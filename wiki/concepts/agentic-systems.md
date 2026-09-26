@@ -8,6 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Systems that plan or act through tools. This page tracks architecture, control, observability and adoption.
 
+## In the daily briefings
+
+- [Learning to work with agents](../daily/2026-09-26.md#learning-to-work-with-agents) — 2026-09-26
+
 ## Related entities
 
 [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Meta](../entities/meta.md) · [Google](../entities/google.md) · [Muse (Meta)](../entities/muse.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md)

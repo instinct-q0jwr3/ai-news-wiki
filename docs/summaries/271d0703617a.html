@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Microsoft agentically ports Copilot runtime to Rust for $120K · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Microsoft agentically ports Copilot runtime to Rust for $120K</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Microsoft agentically ports Copilot runtime to Rust for $120K · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Microsoft agentically ports Copilot runtime to Rust for $120K</h1>
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code> <code>microsoft</code> <code>agentic-systems</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Microsoft has rewritten the runtime behind GitHub Copilot from TypeScript to Rust, and most of the porting was done by AI agents. The migration cost about $120,000 in AI tokens plus roughly three weeks of developer time, and converted 430,000 lines of TypeScript into 800,000 lines of production Rust across 135 releases over 14.5 weeks. The runtime is not a niche component: it backs the Copilot CLI, the Copilot app, the SDK and the cloud agent, and surfaces in VS Code, Visual Studio, Excel, Outlook and PowerPoint.</p>
 <p>The results make the case for Rust at scale: one benchmark went from 7.55 to 120 completed session lifecycles per second (a 15.9x speedup), and a 10-client agent batch dropped from 1,383 MB to 126 MB of memory. The project is also a data point on agent-led engineering: Microsoft Distinguished Engineer Stephen Toub reports agents spent more time investigating than writing code, spawned and coordinated child sessions on their own, and still shipped a few dozen regressions, a reminder that a compiling Rust program is not necessarily a correct one.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Cost: about $120,000 in AI tokens plus ~3 weeks of a developer's time; a manual port was estimated at years and millions of dollars.</li>
 <li>Scope: 430,000 lines of TypeScript became 800,000 lines of Rust over 135 releases in 14.5 weeks, about 1.3 port PRs per day.</li>
@@ -15,7 +15,7 @@
 <li>Caveat: dozens of regressions slipped through; Rust's compiler guarantees memory safety, not program correctness (Lisa Crossman's RustConf warning quoted).</li>
 <li>Related: Bun's 535,000-line Zig-to-Rust port, also agent-driven, cost $165,000 in tokens and passed 99.8% of tests.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../entities/microsoft.html">Microsoft</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

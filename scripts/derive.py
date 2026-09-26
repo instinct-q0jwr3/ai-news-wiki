@@ -46,6 +46,40 @@ for _slug,_d in _load_overlay('concepts.json').items():
     if _slug not in CONCEPTS:
         CONCEPTS[_slug]=(_d['name'],_d['terms'],_d['overview'])
 
+def _slugify(s):
+    return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
+
+def digest_sections_all():
+    """All authored daily sections across digests (schema 3): [(day, title, [concept...])]."""
+    out=[]
+    for f in sorted((ROOT/'raw'/'llm').glob('digest-*.json')):
+        try: d=json.loads(f.read_text())
+        except Exception: continue
+        day=d.get('date') or f.stem.replace('digest-','')
+        for sec in d.get('sections') or []:
+            out.append((day, sec.get('title','Section'), sec.get('concepts') or []))
+    return out
+
+def _concept_slug_name(c):
+    if isinstance(c,dict): return c.get('slug',''), c.get('name') or c.get('slug','').replace('-',' ').title()
+    return str(c), str(c).replace('-',' ').title()
+
+# Open concepts named by authored daily sections join CONCEPTS (curated entries win).
+for _day,_title,_cs in digest_sections_all():
+    for _c in _cs:
+        _slug,_name=_concept_slug_name(_c)
+        if _slug and _slug not in CONCEPTS:
+            CONCEPTS[_slug]=(_name,[],f'An open concept gathered from daily briefing sections, first referenced on {_day}. It accrues every daily section that touches it; curated terms and overview can replace this note.')
+
+def digest_section_refs():
+    """concept slug -> [(day, section title)] from authored digests, oldest first."""
+    refs={}
+    for day,title,cs in digest_sections_all():
+        for c in cs:
+            slug,_=_concept_slug_name(c)
+            if slug: refs.setdefault(slug,[]).append((day,title))
+    return refs
+
 import html as _html, time, urllib.request
 
 CACHE=ROOT/'raw'/'cache'/'sources'
@@ -378,13 +412,16 @@ def build_entities(xs,stamp):
 
 def build_concepts(xs,stamp):
     out=WIKI/'concepts'; out.mkdir(exist_ok=True)
+    sec_refs=digest_section_refs()
     for slug,(title,terms,overview) in CONCEPTS.items():
         hits=sorted(match(xs,terms),key=lambda x:(x.get('first_seen',''),x.get('score',0)),reverse=True)
         entities=Counter(e for x in hits for e in related(x)[0])
         links=' · '.join(entity_link(e) for e,_ in entities.most_common(8)) or '_No linked entities yet._'
         timeline='\n'.join(event_line(x) for x in hits[:30]) or '_No matching events in the current corpus._'
         created=min((fmt_date(x.get('first_seen')) for x in hits),default=fmt_date(stamp))
-        (out/f'{slug}.md').write_text(f'# Concept: {title}\n\n{metadata("concept",created,fmt_date(stamp),"medium",["concept",slug])}\n\n## Overview\n\n{overview}\n\n## Related entities\n\n{links}\n\n## Timeline\n\n{timeline}\n')
+        srefs=sec_refs.get(slug,[])
+        ref_block='\n'.join(f'- [{t}](../daily/{d}.md#{_slugify(t)}) — {d}' for d,t in srefs) or '_Not yet referenced by any daily briefing section._'
+        (out/f'{slug}.md').write_text(f'# Concept: {title}\n\n{metadata("concept",created,fmt_date(stamp),"medium",["concept",slug])}\n\n## Overview\n\n{overview}\n\n## In the daily briefings\n\n{ref_block}\n\n## Related entities\n\n{links}\n\n## Timeline\n\n{timeline}\n')
 
 def build_comparisons(xs,stamp):
     out=WIKI/'comparisons'; out.mkdir(exist_ok=True)
@@ -512,7 +549,11 @@ def render_daily(day,items,generated):
             if not fresh: continue
             for x in fresh: used.add(x.get('id'))
             blurb=(sec.get('intro') or '').strip()
-            lines.extend([f"## {sec.get('title','Section')}",""] + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=6),''])
+            cslugs=[_concept_slug_name(c)[0] for c in (sec.get('concepts') or [])]
+            cslugs=[c for c in cslugs if c in CONCEPTS]
+            clinks=('Concepts: '+' · '.join(concept_link(c) for c in cslugs)) if cslugs else ''
+            block=[f"## {sec.get('title','Section')}",""] + ([clinks,""] if clinks else []) + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=6),'']
+            lines.extend(block)
             authored=True
     if not authored:
         themes=[]

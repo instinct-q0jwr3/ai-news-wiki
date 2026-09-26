@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Claude Code now reads AGENTS.md if there is no Claude.md · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Claude Code now reads AGENTS.md if there is no Claude.md</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Claude Code now reads AGENTS.md if there is no Claude.md · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Claude Code now reads AGENTS.md if there is no Claude.md</h1>
 <p class="meta">type: news-summary · created: 2026-09-19 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code> <code>anthropic</code> <code>agentic-systems</code> <code>ai-coding-agents</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Claude Code 2.1.277 (September 18, 2026) added AGENTS.md support: in a project with no CLAUDE.md, Claude Code now reads AGENTS.md as its project instructions instead, configurable under 'Project instructions' in /config. The change lands days after Anthropic backed the AGENTS.md convention and contributes to making the file a cross-vendor standard for steering coding agents.</p>
 <p>The same changelog entry ships gateway and proxy improvements (CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY, static headers for gateway upstreams) and a long list of fixes, from hangs in claude -p and Agent SDK sessions to Edit/Write tool edge cases. The following day's 2.1.278 moved auto mode for API and Enterprise users to a server-side classifier that does not charge for classifier overhead. AGENTS.md support is not yet available on Bedrock, Vertex or Foundry.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Claude Code 2.1.277: with no CLAUDE.md present, the CLI reads AGENTS.md for project instructions.</li>
 <li>The file is swappable under 'Project instructions' in /config; not yet on Bedrock, Vertex or Foundry.</li>
@@ -14,7 +14,7 @@
 <li>Gateway additions: egress-boundary proxy mode and static headers for upstream proxies.</li>
 <li>Fixes include hangs with no result in claude -p, 'text content blocks must be non-empty' failures, and Edit tool regex/escape edge cases.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://code.claude.com/docs/en/changelog">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

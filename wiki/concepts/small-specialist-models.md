@@ -8,6 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Narrow or compact models trade breadth for lower cost, latency, privacy or local control.
 
+## In the daily briefings
+
+_Not yet referenced by any daily briefing section._
+
 ## Related entities
 
 [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Anthropic](../entities/anthropic.md) · [DeepSeek](../entities/deepseek.md) · [Apple](../entities/apple.md) · [Meta](../entities/meta.md) · [Microsoft](../entities/microsoft.md)

@@ -1,11 +1,11 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vector Sets are part of Redis · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Vector Sets are part of Redis</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vector Sets are part of Redis · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Vector Sets are part of Redis</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high</p>
 <p><code>antirez</code> <code>apple</code> <code>external-evaluation</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Vector Sets are still a beta feature but I can tell you something, I can guarantee you can learn the API in 3 minutes.</p>
 <p>I decided that a fundamental requirement for implementing vector similarity was to also reimplement from scratch HNSWs (you can see my implementation in hnsw.c), because that was going to be my core data structure, and I didn’t want to…</p>
 <p>In Vector Sets you can add new elements with VADD, and you can remove elements with VREM.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>However, as I started reading the papers, I started to understand that a few pieces were missing.</li>
 <li>They are slow, a lot slower than other data structures modeled by Redis.</li>
@@ -17,7 +17,7 @@
 <li>Please, ping me if you find bugs :) Comments Vector Sets are part of Redis</li>
 </ul>
 <p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="http://antirez.com/news/149">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../entities/apple.html">Apple</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

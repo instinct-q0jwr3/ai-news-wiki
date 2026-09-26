@@ -8,6 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Methods used by third parties, standards groups and labs to measure model capability, reliability and risk.
 
+## In the daily briefings
+
+- [How worried should anyone be?](../daily/2026-09-26.md#how-worried-should-anyone-be) — 2026-09-26
+
 ## Related entities
 
 [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [TypeSafe](../entities/typesafe.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md)

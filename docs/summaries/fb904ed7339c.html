@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Vellum, the best diagram editor you&#x27;ll ever use · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Vellum, the best diagram editor you'll ever use</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Vellum, the best diagram editor you&#x27;ll ever use · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Vellum, the best diagram editor you'll ever use</h1>
 <p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code> <code>anthropic</code> <code>external-evaluation</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>In a Show HN for Vellum, a diagram editor, the author tells a debugging war story: every save of a diagram containing a new image was blocked because the app's CSP connect-src lacked the S3 origin that hosts the bytes - a third origin beyond the SPA and the API. img-src already allowed the S3 domain for displaying images, but connect-src never got the matching entry for transferring them.</p>
 <p>The bug hid behind a genuine CORS misconfiguration on the uploads bucket, because a CSP-blocked fetch fails with the same wording as a CORS-blocked one ('NetworkError when attempting to fetch resource.' in Firefox, 'Failed to fetch' in Chrome) - so fixing the real CORS issue did not reveal it.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Show HN: Vellum, a diagram editor, plus a CSP war story.</li>
 <li>A missing connect-src entry for the S3 origin blocked saves with new images.</li>
@@ -12,7 +12,7 @@
 <li>The bug hid behind a real CORS misconfiguration on the uploads bucket.</li>
 <li>img-src had the domain; connect-src never got the match.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://vellum.blueprintr.io">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

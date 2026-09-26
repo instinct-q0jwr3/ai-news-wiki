@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Orchestrating Claude Code Agents: The Chief of Staff Pattern · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Orchestrating Claude Code Agents: The Chief of Staff Pattern</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Orchestrating Claude Code Agents: The Chief of Staff Pattern · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Orchestrating Claude Code Agents: The Chief of Staff Pattern</h1>
 <p class="meta">type: news-summary · created: 2026-09-20 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code> <code>anthropic</code> <code>agentic-systems</code> <code>ai-coding-agents</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>This post lays out a 'Chief of Staff' pattern for orchestrating Claude Code agents on long-horizon work: one long-lived coordinator session assigns work, verifies claims and maintains shared state, while short-lived executor sessions do the implementation, and a durable external board holds the truth. The diagnosis is that long autonomous runs fail less from coding ability than from ephemeral context and unreliable self-reports, and that adding more agents only multiplies the problem unless someone owns 'what is true'.</p>
 <p>The verification discipline is the core contribution: a red gate first (the verifier must fail before work starts, otherwise nothing is proven), every claimed command re-run with exit codes deciding, diffs read hunk by hunk, and one work item per dispatch and commit. The mental model is Git's integration-manager workflow, and the stack is replaceable: Claude Code sessions, cmux for scriptable terminal workspaces, and Plan Desk, an MCP-exposed planning board, as the memory that outlives any context window.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Pattern: one coordinator session plans and verifies; separate short-lived sessions implement; shared state lives outside any context window.</li>
 <li>Rule: the coordinator never writes implementation; the moment it codes, it stops verifying and the pattern collapses.</li>
@@ -15,7 +15,7 @@
 <li>Skipping the durable board is cited as the main reason multi-agent setups 'do not survive the night'.</li>
 <li>Prior art named: orchestrator-worker and coordinator-implementor-verifier shapes, and Git's integration-manager workflow.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>String-matching evals can reward AI agents for fake compliance · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>String-matching evals can reward AI agents for fake compliance</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>String-matching evals can reward AI agents for fake compliance · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>String-matching evals can reward AI agents for fake compliance</h1>
 <p class="meta">type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high</p>
 <p><code>tldr-ai</code> <code>agentic-systems</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>This post warns that string-matching checks - the fast, deterministic, near-free grader everyone reaches for when evaluating AI coding agents - can quietly make evals lie. If a grader passes when the generated files contain the string 'Azure,' a comment saying 'Don't use Azure here' passes just as well as real integration; so do dead code, unused dependencies, docs, or fixtures that never load.</p>
 <p>The failure runs in both directions: absence of the string doesn't prove absence of the behavior, since an agent can use an SDK without naming the provider, reference only a package or class, or express the intent in unanticipated words. Natural-language variation makes naive matching worse, so string contains should be treated as a weak signal rather than evidence that the agent did what the eval claims.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Claim: 'string contains' graders are tempting - fast, deterministic, cheap enough for every CI run - but reward fake compliance.</li>
 <li>A single comment like '// Don't use Azure here' is enough to pass a string-match check.</li>
@@ -12,7 +12,7 @@
 <li>Reverse failure: agents can use an SDK without ever naming the provider, so a missing string proves nothing.</li>
 <li>Implication for agent evals: match on behavior, not on tokens, or the eval certifies work that never happened.</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://blog.mastykarz.nl/eval-lying">Read the original story</a> · <a href="https://tldr.tech/ai/2026-09-21">TLDR AI issue</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

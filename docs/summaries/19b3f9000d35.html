@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Copper-Rs: Live Telemetry Deterministic Twins for Robots · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423418"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Copper-Rs: Live Telemetry Deterministic Twins for Robots</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Copper-Rs: Live Telemetry Deterministic Twins for Robots · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790423766"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Copper-Rs: Live Telemetry Deterministic Twins for Robots</h1>
 <p class="meta">type: news-summary · created: 2026-09-22 · updated: 2026-09-26 · confidence: high</p>
 <p><code>hacker-news</code> <code>external-evaluation</code></p>
-<h2>Summary</h2>
+<h2 id="summary">Summary</h2>
 <p>Copper-Rs v1.2 adds live telemetry for robots built on its deterministic Rust stack: a robot can now clone its full state in real time to a remote 'deterministic twin' over a lossy one-way link. The mechanism leans on forward error correction - error-correction packets sent after the fact for past packets - plus the stack's determinism: given the minimal input series, the twin reconstructs everything downstream. If too many packets are lost, the stack sends self-healing recovery points to jump-restart the twin at any point.</p>
 <p>The design targets field realities the team lists bluntly: unreliable networks, robots that might not come back, and one-way return links that could broadcast a ground station's position. Operators can still log a standard deterministic .copper log remotely and build telemetry displays - messages, task states, error states, even task fields - via a full API, with a TUI example and a demo app on GitHub. To make streaming practical, the copperlist encoding was optimized; the flight-controller logging entropy improved from 5.9816 to 7.0975 bits.</p>
-<h2>Highlights</h2>
+<h2 id="highlights">Highlights</h2>
 <ul>
 <li>Copper-Rs v1.2: live-clone a robot's full state to a remote deterministic twin over a lossy one-way link.</li>
 <li>Mechanism: forward error correction plus stack determinism - the twin replays the minimal input series to reconstruct all downstream state.</li>
@@ -14,7 +14,7 @@
 <li>Copperlist encoding optimized; flight-controller logging entropy improved from 5.9816 to 7.0975 bits.</li>
 <li>Demo app with a minimal remote telemetry console and simulated packet loss on GitHub (copper-project/copper-rs).</li>
 </ul>
-<h2>Source</h2>
+<h2 id="source">Source</h2>
 <p><a href="https://www.copper-robotics.com/whats-new/copper-12-live-telemetry-and-replayable-logs-over-a-lossy-one-way-connection-with-twinning">Read the original story</a></p>
-<h2>Related pages</h2>
+<h2 id="related-pages">Related pages</h2>
 <p><a href="../concepts/external-evaluation.html">External AI evaluation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

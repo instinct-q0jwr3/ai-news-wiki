@@ -38,7 +38,9 @@ def render_md(text):
         if line.startswith('<!--'): continue
         if line.startswith('#'):
             if in_list: out.append('</ul>'); in_list=False
-            level=len(line)-len(line.lstrip('#')); out.append(f'<h{level}>{inline(line[level:].strip())}</h{level}>')
+            level=len(line)-len(line.lstrip('#')); htxt=line[level:].strip()
+            anchor=f' id="{slugify(htxt)}"' if level>=2 else ''
+            out.append(f'<h{level}{anchor}>{inline(htxt)}</h{level}>')
         elif line.startswith('- '):
             if not in_list: out.append('<ul>'); in_list=True
             out.append(f'<li>{inline(line[2:])}</li>')
