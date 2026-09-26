@@ -6,11 +6,12 @@ _type: concept · created: 2026-09-26 · updated: 2026-09-26 · confidence: medi
 
 ## Overview
 
-An open concept gathered from daily briefing sections, first referenced on 2026-09-26. It accrues every daily section that touches it; curated terms and overview can replace this note.
+An open concept gathered from briefing sections, first referenced on 2026-09-26. It accrues every daily or weekly section that touches it; curated terms and overview can replace this note.
 
-## In the daily briefings
+## In the briefings
 
 - [The price war meets the money question](../daily/2026-09-26.md#the-price-war-meets-the-money-question) — 2026-09-26
+- [The business of AI, repriced](../weekly/2026-W39.md#the-business-of-ai-repriced) — Week 2026-W39
 
 ## Related entities
 

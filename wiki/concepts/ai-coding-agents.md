@@ -8,9 +8,9 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Coding agents are reshaping how software is written, reviewed and shipped. This page tracks the tooling itself and the second-order effects: CI bottlenecks, pull-request floods, evaluation of generated code and the management practices that keep quality stable.
 
-## In the daily briefings
+## In the briefings
 
-_Not yet referenced by any daily briefing section._
+- [Builders adapt to agentic coding](../weekly/2026-W39.md#builders-adapt-to-agentic-coding) — Week 2026-W39
 
 ## Related entities
 

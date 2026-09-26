@@ -8,7 +8,7 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Methods used by third parties, standards groups and labs to measure model capability, reliability and risk.
 
-## In the daily briefings
+## In the briefings
 
 - [How worried should anyone be?](../daily/2026-09-26.md#how-worried-should-anyone-be) — 2026-09-26
 

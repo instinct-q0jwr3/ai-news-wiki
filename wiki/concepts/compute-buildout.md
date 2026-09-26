@@ -8,9 +8,9 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 The race for compute links chip supply, energy, financing and geopolitics. This page tracks projected compute bills, data-center deals and delays, the financing structures behind them, and the growing skepticism about returns on the build-out.
 
-## In the daily briefings
+## In the briefings
 
-_Not yet referenced by any daily briefing section._
+_Not yet referenced by any briefing section._
 
 ## Related entities
 

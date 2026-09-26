@@ -8,9 +8,9 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Claims and evidence about AI's effect on employment: layoffs attributed to AI, tasks automated inside companies, and the arguments over whether displacement or augmentation dominates. This page collects concrete cases and data points.
 
-## In the daily briefings
+## In the briefings
 
-_Not yet referenced by any daily briefing section._
+_Not yet referenced by any briefing section._
 
 ## Related entities
 

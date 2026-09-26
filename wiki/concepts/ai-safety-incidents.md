@@ -8,9 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 A connected record of reported failures, attacks and control proposals. A reported incident does not by itself establish a general risk.
 
-## In the daily briefings
+## In the briefings
 
 - [The Hugging Face hack, reconstructed](../daily/2026-09-26.md#the-hugging-face-hack-reconstructed) — 2026-09-26
+- [Agents act on the world, and the world pushes back](../weekly/2026-W39.md#agents-act-on-the-world-and-the-world-pushes-back) — Week 2026-W39
 
 ## Related entities
 

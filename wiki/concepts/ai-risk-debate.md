@@ -6,9 +6,9 @@ _type: concept · created: 2026-09-26 · updated: 2026-09-26 · confidence: medi
 
 ## Overview
 
-An open concept gathered from daily briefing sections, first referenced on 2026-09-26. It accrues every daily section that touches it; curated terms and overview can replace this note.
+An open concept gathered from briefing sections, first referenced on 2026-09-26. It accrues every daily or weekly section that touches it; curated terms and overview can replace this note.
 
-## In the daily briefings
+## In the briefings
 
 - [How worried should anyone be?](../daily/2026-09-26.md#how-worried-should-anyone-be) — 2026-09-26
 

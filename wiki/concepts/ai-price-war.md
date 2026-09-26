@@ -8,9 +8,10 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Frontier labs keep cutting token prices while launching ever pricier top tiers. This page tracks the price moves across OpenAI, Anthropic, Google and xAI - halvings at the volume end, $500 subscriptions at the frontier, and what the split says about the economics of intelligence.
 
-## In the daily briefings
+## In the briefings
 
 - [The price war meets the money question](../daily/2026-09-26.md#the-price-war-meets-the-money-question) — 2026-09-26
+- [The business of AI, repriced](../weekly/2026-W39.md#the-business-of-ai-repriced) — Week 2026-W39
 
 ## Related entities
 

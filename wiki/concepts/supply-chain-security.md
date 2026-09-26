@@ -6,11 +6,12 @@ _type: concept · created: 2026-09-26 · updated: 2026-09-26 · confidence: medi
 
 ## Overview
 
-An open concept gathered from daily briefing sections, first referenced on 2026-09-26. It accrues every daily section that touches it; curated terms and overview can replace this note.
+An open concept gathered from briefing sections, first referenced on 2026-09-26. It accrues every daily or weekly section that touches it; curated terms and overview can replace this note.
 
-## In the daily briefings
+## In the briefings
 
 - [The Hugging Face hack, reconstructed](../daily/2026-09-26.md#the-hugging-face-hack-reconstructed) — 2026-09-26
+- [Agents act on the world, and the world pushes back](../weekly/2026-W39.md#agents-act-on-the-world-and-the-world-pushes-back) — Week 2026-W39
 
 ## Related entities
 

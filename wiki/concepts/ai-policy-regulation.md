@@ -8,9 +8,9 @@ _type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medi
 
 Governments, regulators and courts are moving from AI principles to enforcement: antitrust suits, safety-violation litigation, proposed bans and diplomatic frameworks. This page tracks concrete legal and policy actions rather than commentary.
 
-## In the daily briefings
+## In the briefings
 
-_Not yet referenced by any daily briefing section._
+- [The state meets AI](../weekly/2026-W39.md#the-state-meets-ai) — Week 2026-W39
 
 ## Related entities
 

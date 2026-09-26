@@ -49,35 +49,42 @@ for _slug,_d in _load_overlay('concepts.json').items():
 def _slugify(s):
     return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 
-def digest_sections_all():
-    """All authored daily sections across digests (schema 3): [(day, title, [concept...])]."""
+def briefing_sections_all():
+    """Authored sections across daily AND weekly digests (schema 3):
+    [(page_from_concepts_dir, label, title, [concept...])]."""
     out=[]
     for f in sorted((ROOT/'raw'/'llm').glob('digest-*.json')):
         try: d=json.loads(f.read_text())
         except Exception: continue
         day=d.get('date') or f.stem.replace('digest-','')
         for sec in d.get('sections') or []:
-            out.append((day, sec.get('title','Section'), sec.get('concepts') or []))
+            out.append((f'../daily/{day}.md', day, sec.get('title','Section'), sec.get('concepts') or []))
+    for f in sorted((ROOT/'raw'/'llm').glob('weekly-*.json')):
+        try: d=json.loads(f.read_text())
+        except Exception: continue
+        slug=d.get('week') or f.stem.replace('weekly-','')
+        for sec in d.get('sections') or []:
+            out.append((f'../weekly/{slug}.md', f'Week {slug}', sec.get('title','Section'), sec.get('concepts') or []))
     return out
 
 def _concept_slug_name(c):
     if isinstance(c,dict): return c.get('slug',''), c.get('name') or c.get('slug','').replace('-',' ').title()
     return str(c), str(c).replace('-',' ').title()
 
-# Open concepts named by authored daily sections join CONCEPTS (curated entries win).
-for _day,_title,_cs in digest_sections_all():
+# Open concepts named by authored briefing sections join CONCEPTS (curated entries win).
+for _page,_label,_title,_cs in briefing_sections_all():
     for _c in _cs:
         _slug,_name=_concept_slug_name(_c)
         if _slug and _slug not in CONCEPTS:
-            CONCEPTS[_slug]=(_name,[],f'An open concept gathered from daily briefing sections, first referenced on {_day}. It accrues every daily section that touches it; curated terms and overview can replace this note.')
+            CONCEPTS[_slug]=(_name,[],f'An open concept gathered from briefing sections, first referenced on {_label}. It accrues every daily or weekly section that touches it; curated terms and overview can replace this note.')
 
 def digest_section_refs():
-    """concept slug -> [(day, section title)] from authored digests, oldest first."""
+    """concept slug -> [(page, label, section title)] from authored digests, oldest first."""
     refs={}
-    for day,title,cs in digest_sections_all():
+    for page,label,title,cs in briefing_sections_all():
         for c in cs:
             slug,_=_concept_slug_name(c)
-            if slug: refs.setdefault(slug,[]).append((day,title))
+            if slug: refs.setdefault(slug,[]).append((page,label,title))
     return refs
 
 import html as _html, time, urllib.request
@@ -420,8 +427,8 @@ def build_concepts(xs,stamp):
         timeline='\n'.join(event_line(x) for x in hits[:30]) or '_No matching events in the current corpus._'
         created=min((fmt_date(x.get('first_seen')) for x in hits),default=fmt_date(stamp))
         srefs=sec_refs.get(slug,[])
-        ref_block='\n'.join(f'- [{t}](../daily/{d}.md#{_slugify(t)}) — {d}' for d,t in srefs) or '_Not yet referenced by any daily briefing section._'
-        (out/f'{slug}.md').write_text(f'# Concept: {title}\n\n{metadata("concept",created,fmt_date(stamp),"medium",["concept",slug])}\n\n## Overview\n\n{overview}\n\n## In the daily briefings\n\n{ref_block}\n\n## Related entities\n\n{links}\n\n## Timeline\n\n{timeline}\n')
+        ref_block='\n'.join(f'- [{t}]({pg}#{_slugify(t)}) — {lb}' for pg,lb,t in srefs) or '_Not yet referenced by any briefing section._'
+        (out/f'{slug}.md').write_text(f'# Concept: {title}\n\n{metadata("concept",created,fmt_date(stamp),"medium",["concept",slug])}\n\n## Overview\n\n{overview}\n\n## In the briefings\n\n{ref_block}\n\n## Related entities\n\n{links}\n\n## Timeline\n\n{timeline}\n')
 
 def build_comparisons(xs,stamp):
     out=WIKI/'comparisons'; out.mkdir(exist_ok=True)
@@ -460,6 +467,13 @@ def build_weekly(xs,stamp):
         _write_weekly(slug,week,stamp)
 
 def _write_weekly(slug,week,stamp):
+    # Authored, week-specific sections (raw/llm/weekly-<slug>.json, schema 3)
+    # win when present: the pass writes what genuinely mattered THAT week.
+    wdigest=None
+    wf=ROOT/'raw'/'llm'/f'weekly-{slug}.json'
+    if wf.exists():
+        try: wdigest=json.loads(wf.read_text())
+        except Exception: wdigest=None
     themes=[]
     for concept_slug,(label,terms,_) in CONCEPTS.items():
         hits=sorted(match(week,terms),key=lambda x:x.get('score',0),reverse=True)
@@ -467,14 +481,26 @@ def _write_weekly(slug,week,stamp):
     themes.sort(reverse=True)
     title=f'Week {slug}'
     sections=[]; used=set()
-    for _,concept_slug,label,hits in themes[:3]:
-        fresh=[x for x in hits if x.get('id') not in used]
-        if not fresh: continue
-        for x in fresh: used.add(x.get('id'))
-        entity_counts=Counter(e for x in fresh for e in related(x)[0])
-        entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
-        opening=f'The most visible related entities are {entity_refs}. ' if entity_refs else ''
-        sections += [f'## {label}','',opening+prose_links(fresh),'']
+    if wdigest and wdigest.get('sections'):
+        by_id={x.get('id'):x for x in week}
+        for sec in (wdigest.get('sections') or [])[:8]:
+            fresh=[by_id[i] for i in sec.get('stories',[]) if i in by_id and i not in used]
+            if not fresh: continue
+            for x in fresh: used.add(x.get('id'))
+            cslugs=[_concept_slug_name(c)[0] for c in (sec.get('concepts') or [])]
+            cslugs=[c for c in cslugs if c in CONCEPTS]
+            clinks=('Concepts: '+' · '.join(concept_link(c) for c in cslugs)) if cslugs else ''
+            blurb=(sec.get('intro') or '').strip()
+            sections += [f"## {sec.get('title','Section')}",""] + ([clinks,""] if clinks else []) + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=6),'']
+    else:
+      for _,concept_slug,label,hits in themes[:3]:
+          fresh=[x for x in hits if x.get('id') not in used]
+          if not fresh: continue
+          for x in fresh: used.add(x.get('id'))
+          entity_counts=Counter(e for x in fresh for e in related(x)[0])
+          entity_refs=' · '.join(entity_link(e) for e,_ in entity_counts.most_common(4))
+          opening=f'The most visible related entities are {entity_refs}. ' if entity_refs else ''
+          sections += [f'## {label}','',opening+prose_links(fresh),'']
     safety=next((hits for _,slug_name,_,hits in themes if slug_name=='ai-safety-incidents'),[])
     agents=next((hits for _,slug_name,_,hits in themes if slug_name=='agentic-systems'),[])
     specialist=next((hits for _,slug_name,_,hits in themes if slug_name=='small-specialist-models'),[])
@@ -483,7 +509,10 @@ def _write_weekly(slug,week,stamp):
     if specialist and agents: tensions.append('General-purpose capability competes with smaller specialist systems on cost, latency and auditability. ([Small and specialist models](../concepts/small-specialist-models.md))')
     if match(week,['openai']) and match(week,['anthropic']): tensions.append('OpenAI and Anthropic continue to diverge and converge across products, enterprise positioning, evaluation and safety claims. ([OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))')
     counts=Counter(x.get('source','?') for x in week)
-    body=[f'# {title}','',metadata('synthesis',fmt_date(stamp),fmt_date(stamp),'medium',['synthesis',slug.lower()]),'',f'Synthesis of {len(week)} unique stories first observed in {slug}. Each inline story link opens a generated summary with its original source.','']+sections+['## Tensions and open debates','']+([f'- {x}' for x in tensions] or ['- The corpus is still too small to identify a grounded tension this week.'])+['','## Coverage appendix','']+[f'- {k}: {v}' for k,v in counts.most_common()]
+    lead_lines=[]
+    if wdigest:
+        for para in (wdigest.get('lead') or [])[:2]: lead_lines += [para,'']
+    body=[f'# {title}','',metadata('synthesis',fmt_date(stamp),fmt_date(stamp),'medium',['synthesis',slug.lower()]),'',f'Synthesis of {len(week)} unique stories first observed in {slug}. Each inline story link opens a generated summary with its original source.','']+lead_lines+sections+['## Tensions and open debates','']+([f'- {x}' for x in tensions] or ['- The corpus is still too small to identify a grounded tension this week.'])+['','## Coverage appendix','']+[f'- {k}: {v}' for k,v in counts.most_common()]
     (WIKI/'weekly').mkdir(exist_ok=True); (WIKI/'weekly'/f'{slug}.md').write_text('\n'.join(body)+'\n')
 
 def build_hubs():

@@ -8,9 +8,9 @@ _type: concept · created: 2026-09-21 · updated: 2026-09-26 · confidence: medi
 
 AI agents that browse, decide and buy on a user's behalf force a negotiation between assistant platforms and merchants over access, consent and liability. This page tracks checkout integrations, merchant blocks and the emerging rules of agent-driven shopping.
 
-## In the daily briefings
+## In the briefings
 
-_Not yet referenced by any daily briefing section._
+_Not yet referenced by any briefing section._
 
 ## Related entities
 

@@ -6,11 +6,12 @@ _type: concept · created: 2026-09-26 · updated: 2026-09-26 · confidence: medi
 
 ## Overview
 
-An open concept gathered from daily briefing sections, first referenced on 2026-09-26. It accrues every daily section that touches it; curated terms and overview can replace this note.
+An open concept gathered from briefing sections, first referenced on 2026-09-26. It accrues every daily or weekly section that touches it; curated terms and overview can replace this note.
 
-## In the daily briefings
+## In the briefings
 
 - [Learning to work with agents](../daily/2026-09-26.md#learning-to-work-with-agents) — 2026-09-26
+- [Builders adapt to agentic coding](../weekly/2026-W39.md#builders-adapt-to-agentic-coding) — Week 2026-W39
 
 ## Related entities
 
