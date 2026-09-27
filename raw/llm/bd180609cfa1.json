@@ -1,0 +1,17 @@
+{
+ "id": "bd180609cfa1",
+ "authored_at": "2026-09-27T01:06:19.815853+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison wanted a celebratory closing slide for his keynote at the WeAreDevelopers World Congress North America, tied to the record-breaking kakapo breeding season of 2026. Having heard that Claude Opus 5.5 was good at pixel-art animation, he gave it three kakapo photos and asked for an HTML5 canvas animation of at least twenty pixel-art kakapos jumping with confetti - and got a result he calls pretty great.",
+  "He then pushed the experiment further: he asked the model to make a 15-second video of the resulting page, which required loading the file in a browser and clicking several times to trigger the confetti effect. The post is a small but telling STAR-moment demo of agentic multimodality: a model producing interactive art, then operating a browser to record its own creation."
+ ],
+ "highlights": [
+  "Closing keynote slide for WeAreDevelopers World Congress North America",
+  "Theme: the record-breaking 2026 kakapo breeding season",
+  "Claude Opus 5.5 generated a pixel-art kakapo party animation on HTML5 canvas from three photos",
+  "Follow-up: the model recorded a 15s video by driving a browser and clicking to trigger confetti",
+  "A compact demo of agentic, multimodal capability"
+ ]
+}

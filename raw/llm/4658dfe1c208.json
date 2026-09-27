@@ -1,0 +1,18 @@
+{
+ "id": "4658dfe1c208",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In this Dutch-language piece ('Don't break yourself on your own government'), Bert Hubert argues that the Dutch government has written rules for its own use of cloud, AI and other algorithms - and almost never follows them. The Algemene Rekenkamer, the national audit office, found that for two-thirds of government cloud IT projects the mandatory risk assessment was not merely inadequate but entirely absent. A report by ABDTOPconsult, an internal investigation body, adds that recent tests of the obligatory fallback plans all failed.",
+  "Hubert also raises the unresolved legal question of whether GDPR article 9 special-category personal data - including health data - may be stored in American clouds at all. Government-commissioned research indicates this is permitted only with an extra protective encryption layer, a requirement everyone quietly ignores because it is too difficult. His warning: citizens should not let their own government's habitual non-compliance become their problem."
+ ],
+ "highlights": [
+  "Dutch original: 'Ga niet kapot aan je eigen overheid'",
+  "The Dutch government sets rules for cloud, AI and algorithms - then ignores them",
+  "Audit office: two-thirds of government cloud projects had no mandatory risk assessment at all",
+  "ABDTOPconsult: every test of the required fallback plans failed",
+  "Open question: may GDPR article 9 data (incl. health data) go to US clouds at all?",
+  "Government's own research: only with extra encryption - which everyone skips as too hard"
+ ]
+}

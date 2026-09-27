@@ -1,0 +1,17 @@
+{
+ "id": "6e41c4cc8b07",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In this Hello Deep Learning chapter, Bert Hubert takes on the chasm between a model that works on his data and one that works in the real world - the step, he notes, that almost all demos and YouTube tutorials skip. The goal: a program that reads handwritten letters from an actual supplied photo, built on the convolutional model developed in earlier chapters.",
+  "Training uses his tensor-convo-par.cc tool, which can train the alphabet model with the Adam optimizer, dropout, weight decay and data augmentation enabled as options. The point of the exercise is not the code but the experience: confronting firsthand how hard it is to make a clean demo model survive contact with real inputs."
+ ],
+ "highlights": [
+  "Part of Bert Hubert's Hello Deep Learning series",
+  "Theme: 'works on my data' versus 'works in the real world'",
+  "Task: read handwritten letters from a real photo using the earlier convnet",
+  "Training tool tensor-convo-par.cc exposes Adam, dropout, weight decay, augmentation",
+  "Real-world deployment is where most tutorials stop - and where the hard part starts"
+ ]
+}

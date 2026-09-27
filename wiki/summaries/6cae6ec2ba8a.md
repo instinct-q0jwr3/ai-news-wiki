@@ -1,6 +1,6 @@
 # The Claude Delusion
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-27 · confidence: high_
 
 `hacker-news` `anthropic` `apple` `agentic-systems` `ai-safety-incidents` `compute-buildout` `ai-policy-regulation` `labor-displacement`
 

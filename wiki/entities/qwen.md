@@ -1,6 +1,6 @@
 # Qwen
 
-_type: product · created: 2026-09-19 · updated: 2026-09-26 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-09-27 · confidence: medium_
 
 `entity` `qwen` `agentic-systems` `ai-price-war` `ai-safety-incidents` `compute-buildout`
 

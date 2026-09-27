@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-26 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-27 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-09-27** - We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash. ([Turning GLM-5.3-Flash into a Jev-like decision model](../summaries/1215c27934dc.md) · [TypeSafe](../entities/typesafe.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-25** - a class of AI models built to make fast, structured decisions that software can use directly. ([Jev was built for agents, here's how we're using it in computer use instead](../summaries/09881d1fba42.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-25** - Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. ([llm 0.36](../summaries/449d1237bee3.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md))
 - **2026-09-25** - Simon Willison released llm-typesafe, a plugin for his LLM command-line tool adding support for TypeSafe AI's new Jev model. After 'llm install llm-typesafe' and setting an API key (the waitlist 'seems to move pretty fast'), Jev answers structured… ([llm-typesafe 0.1a0](../summaries/f80826d84a7b.md) · [TypeSafe](../entities/typesafe.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

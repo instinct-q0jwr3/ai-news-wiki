@@ -1,6 +1,6 @@
 # Pluralistic: IP can't save you from AI (18 Aug 2026)
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high_
 
 `pluralistic` `openai` `anthropic` `google` `amazon` `agentic-systems` `ai-safety-incidents` `compute-buildout` `ai-policy-regulation` `labor-displacement`
 

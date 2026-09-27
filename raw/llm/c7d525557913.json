@@ -1,0 +1,17 @@
+{
+ "id": "c7d525557913",
+ "authored_at": "2026-09-27T01:06:19.815853+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "This arXiv position paper argues that 'human in the loop' oversight of AI agents is failing from both directions at once: current agent designs impede effective human oversight, and the cognitive capacities oversight requires are themselves degraded by extended use of AI systems. Development and deployment practices, the authors argue, actively contribute to the degradation of the oversight they nominally provide.",
+  "Their prescription: treat the situated goals and cognitive requirements of human overseers as a top design priority, on the same level as agent capability. Drawing on automation research and HCI, they outline design-level affordances and organizational protocols that support overseers' critical judgment and counteract skill atrophy from prolonged automation use - warning that without explicit support, agent systems will keep passively incentivizing the erosion of the very human abilities oversight depends on."
+ ],
+ "highlights": [
+  "Position paper: human-in-the-loop oversight of AI agents is structurally failing",
+  "Double bind: agent designs impede oversight, and AI use degrades the cognition oversight needs",
+  "Overseer needs should rank with agent capability as a design priority",
+  "Proposed: design affordances and organizational protocols from automation/HCI research",
+  "Goals: support critical judgment and counter automation-induced skill atrophy"
+ ]
+}

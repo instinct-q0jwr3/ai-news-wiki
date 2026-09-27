@@ -1,0 +1,18 @@
+{
+ "id": "c0012d4923a0",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Scott Werner explains the intellectual lens he brings to the current wave of AI agents. He came up in Ruby - not just the language but the culture that read _why's poignant guide and treated code as a medium for creative expression, a place to think, rather than a calculator for producing outputs. Underneath the whimsy sat Smalltalk's vision from Alan Kay's team: objects as little computers, messages passed between them and interpreted by the receiver, binding as late as possible, the whole system a living thing you reshape while it runs.",
+  "Now that everyone is talking about agents, Werner finds himself reaching for those older words instead. The essay asks what agent systems would look like if we took message-passing seriously - autonomous objects exchanging messages whose meaning the receiver interprets, rather than rigid API calls and orchestration graphs - as the organizing metaphor for software in the AI era."
+ ],
+ "highlights": [
+  "Werner's lens: Ruby culture and _why's 'code as a medium'",
+  "A piano is a tool for music; it can also be a medium - same for languages",
+  "Smalltalk/Alan Kay ideas: objects as little computers, messages interpreted by receivers",
+  "Late binding; a system you reshape while it runs",
+  "As 'agents' arrive, he reaches for Smalltalk's vocabulary",
+  "Question posed: what if agent systems took message-passing seriously?"
+ ]
+}

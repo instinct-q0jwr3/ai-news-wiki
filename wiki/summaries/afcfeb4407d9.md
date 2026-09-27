@@ -1,6 +1,6 @@
 # Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-09-26 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high_
 
 `pluralistic` `openai` `anthropic` `google` `microsoft` `apple` `softbank` `agentic-systems` `small-specialist-models` `ai-safety-incidents` `compute-buildout` `ai-policy-regulation`
 

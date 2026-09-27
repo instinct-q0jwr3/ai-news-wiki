@@ -1,0 +1,19 @@
+{
+ "id": "7e63c0cdd883",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez argues that what made Linus Torvalds singular is not the thing everyone cites. Writing the first Linux kernel - a minimal but working Unix kernel for the 386 - was, he says, within the reach of perhaps one in a thousand or ten thousand programmers who had studied Minix and computer architecture; the parade of hobby kernels on Hacker News proves the feat is repeatable. Torvalds did it better because he is a brilliant programmer, but of Linus there is only one, and the reason is what came after.",
+  "Very early, Torvalds almost completely stopped writing code to lead: coordinator, owner of direction, holder - in Fred Brooks's sense - of the kernel's design concepts. He communicates with subsystem maintainers, judges whether a feature is a road to take, and only occasionally dives into an implementation or writes something himself, as with Git. antirez contrasts this with Richard Hipp of SQLite and with his own long habit of keeping projects small and personal: Linux had to grow immeasurably, and Linus understood immediately that his time was worth more to the project as leadership than as implementation. That, he says, is a capacity not for everybody."
+ ],
+ "highlights": [
+  "Writing a working 386 Unix kernel was within reach of many strong programmers",
+  "Hacker News hobby kernels show the feat is repeatable",
+  "Linus's real genius: stopping writing code very early to lead",
+  "He holds the kernel's design concepts, in Mythical Man Month terms",
+  "He works through subsystem maintainers, occasionally diving deep or building Git",
+  "Contrast: Richard Hipp and antirez kept projects small and kept coding",
+  "Linux had to grow immeasurably - leadership beat implementation as his contribution"
+ ]
+}

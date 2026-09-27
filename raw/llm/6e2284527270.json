@@ -1,0 +1,18 @@
+{
+ "id": "6e2284527270",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "In this chapter of his Hello Deep Learning series, Bert Hubert moves from making a convolutional network fast to making it robust. Earlier chapters delivered a 20x speedup from a better optimizer and another 4x from shared-nothing multithreading; the digit recognizer now scores well on training and validation sets. But is it robust, or has it merely internalized the training set's details?",
+  "The motivation is a failure seen earlier: flip a few pixels or shift the digit slightly and recognition collapses, because the linear combination behind the network was tied to actual pixel positions, not to shapes. This chapter introduces the standard remedies and what each one really does: dropout, data augmentation, weight decay and quantisation."
+ ],
+ "highlights": [
+  "Part of Bert Hubert's Hello Deep Learning series",
+  "Recap: 20x from a better optimizer, 4x more from shared-nothing threads",
+  "The robustness question: high scores, or memorized training-set details?",
+  "Flipped pixels or a moved digit broke the earlier recognizer",
+  "The network keyed on pixel positions rather than shapes",
+  "Chapter covers dropout, data augmentation, weight decay and quantisation"
+ ]
+}

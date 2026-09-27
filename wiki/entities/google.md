@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-26 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-27 · confidence: medium_
 
 `entity` `google` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-09-27** - Tool: Kākāpō Party I gave presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. ([Kākāpō Party](../summaries/bd180609cfa1.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-09-27** - Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies' costly AI resources. ([Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts](../summaries/6c51a9290266.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
 - **2026-09-26** - Bloomberg reports a wave of Google DeepMind researchers leaving to found their own AI startups, many chasing alternatives to large language models. At a London breakfast this month, 15 DeepMind employees and alumni compared notes - a snapshot of how much… ([A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs](../summaries/c1e839e06b0c.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-09-26** - Anil Dash illustrates how far 'Cancer Capital' - his term for the current era of venture capital - has drifted from how tech companies used to be built. Neither Microsoft nor Apple took any venture capital at founding: both were funded by their founders… ([Cancer Capital: VC didn’t use to work like this](../summaries/fd8db3f2ff28.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Google Gemini](../entities/gemini.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-09-26** - Great interview from Stern, as usual, seemingly conducted on the old set of Three’s Company . ([Joanna Stern Interviews Mark Zuckerberg](../summaries/b7ab2740143d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md))

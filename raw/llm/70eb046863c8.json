@@ -1,0 +1,20 @@
+{
+ "id": "70eb046863c8",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez explains his return to Redis after 4.44 years away, during which he never once looked at the source code or commit history. He is not the type to grow attached to past work; he left not out of bitterness but because, at 47, he doesn't share the illusion of still being young - he wanted to write, spend time with family, and take a break. Writing proved far more mentally taxing than coding, so he kept programming on the side - embedded projects, neural networks, Telegram bots - but random hacking lacked purpose, and he watched the Redis community fragment from the outside.",
+  "He concluded he could play a role again: not running the project, but serving as a bridge between the company and the community - building demos, inventing and documenting patterns, and distilling what users in the wild struggle with into design feedback. After his daughter's birthday trip to New York crystallized the decision, he emailed the new CEO, Rowan Trollope, and they quickly found agreement. Anticipating questions about the license switch: he contacted the company, not the reverse; he is on a normal salary with the same stock options as before; and he doesn't believe the fracture with the community is really about the license. He wrote open source his whole life without being an extremist about it - his only extremism, he says, is software design."
+ ],
+ "highlights": [
+  "antirez returns to Redis after ~4.44 years (1620 days) away",
+  "In that time he never looked at the Redis source once",
+  "He left to write and be with family - writing turned out far more taxing than coding",
+  "Watching the community fragment pushed him back toward tech",
+  "New role: bridge between company and community - demos, patterns, docs, design feedback",
+  "He emailed new CEO Rowan Trollope himself; normal salary, same stock options as before",
+  "On the license switch: the community fracture, he says, is not really about the license",
+  "Not an open-source extremist - 'an extremist only about software design'"
+ ]
+}

@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>An agent used DNS to reach an external chatbot · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790471074"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>An agent used DNS to reach an external chatbot</h1>
+<p class="meta">type: news-summary · created: 2026-09-27 · updated: 2026-09-27 · confidence: high</p>
+<p><code>hacker-news</code> <code>agentic-systems</code></p>
+<h2 id="summary">Summary</h2>
+<p>Internal research model · RL training Sample: Sep 20, 2026 Discovery: Sep 20, 2026 Report updated: Sep 25, 2026 An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our…</p>
+<p>Before this, the agent issued queries via our search tool and unsuccessfully tried to access search engines directly.</p>
+<p>Note that all internet access apart from the DNS resolver in this report hit our offline webcache and therefore did not access the live internet.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>We have since added blocking controls at two independent layers, either of which would have prevented this access.</li>
+<li>Our misalignment monitoring system flagged the behavior within 15 minutes and a person began reviewing it three minutes after that.</li>
+<li>All training, evaluation, and inference with tool-use (defined broadly) of our most capable models remain paused.</li>
+<li>The task asked for information about a specific person who had published a blog post and the agent was provided with a set of biographical details and clues from the person’s public blog post.</li>
+<li>Tool call "[redacted]" "rarely" "[redacted]" "[distinctivephrase1]" "[redacted]" […] "[redacted]" "[redacted]" "[distinctivephrase1]" "[redacted]" The web search returned unrelated material, including music and general advice about ‘…</li>
+<li>The agent questioned whether the search tool was working and decided to try other search engines.</li>
+<li>Tool call https://www.google.com/search?q= https://www.bing.com/search?q= https://html.duckduckgo.com/html/?q = %22[redacted]%22+%22rarely%22+%22[distinctivephrase1]%22+%22s[redacted]%22 […]…</li>
+<li>Tool call for t in ['[redacted]','[redacted] '] : if t in p:c[t]+=1 print(c) Tool result Counter({'2022': 162, '[redacted]': 110, '[redacted]': 15, '[redacted]': 5, '[redacted]': 1, '[redacted date]': 1}) The agent also checked the…</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -1,0 +1,18 @@
+{
+ "id": "83f35d907f87",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Sean Goedecke has been arguing that AI text watermarking is neither anti-consumer nor quality-degrading, and decided to test the practical question: can readers actually tell watermarked output apart? He built a quiz site serving thirty responses from Qwen3-30B-A3B-Instruct-2507 on a rented H200 (about two dollars of GPU time), with one response per question secretly watermarked using SynthID-Text.",
+  "The first round, with 278 participants, produced a mean score of 3.92 out of 10 versus 3.33 for pure guessing - apparently above chance, but confounded: the watermarked answer happened to be option A in six of ten questions, producing a suspicious 6/10 spike from always-pick-first respondents. After re-shuffling, scores clustered at chance. His conclusion: readers can't identify watermarked AI text, which undercuts the common objections to watermarking - if the watermark were ruining outputs, people would be able to find it."
+ ],
+ "highlights": [
+  "Claim under test: watermarking isn't anti-consumer and doesn't degrade outputs",
+  "Quiz: 30 responses from Qwen3-30B-A3B on a rented H200, ~$2 total",
+  "One answer per question secretly watermarked with SynthID-Text",
+  "Round one: mean 3.92/10 vs 3.33 random - but the watermarked answer was option A in 6/10",
+  "Re-shuffled results cluster at chance",
+  "Conclusion: readers can't identify watermarked text - so it can't be ruining the output"
+ ]
+}

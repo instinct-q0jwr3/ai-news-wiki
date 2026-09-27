@@ -1,0 +1,19 @@
+{
+ "id": "40fe30b016a4",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Max Woolf, working on a pipeline to turn images into structured semantic data, tested whether today's multimodal LLMs can name public figures in photos. Through OpenRouter he sent the same images to six models - GPT-4.1, Claude Sonnet 4, Gemini 2.5 Flash, Llama 4 Scout, Mistral Small 3.2 and Qwen 2.5-VL - with a system prompt demanding only names, left to right.",
+  "The answer: the capability exists, but willingness varies by vendor. Given a famous 2008 Obama campaign photo, GPT-4.1 and Claude refused outright while the other four all answered correctly. Given Woolf's own profile photo - a deliberately non-notable person - every model correctly said there was nobody notable, though Mistral hit a guardrail and falsely claimed it cannot identify people at all. A two-person shot of Mark Zuckerberg and Priscilla Chan also tested ordering: Gemini returned Chan, then Zuckerberg, as instructed. The experiment underlines both how useful identification is for tagging and search pipelines and how inconsistent refusals make it unreliable."
+ ],
+ "highlights": [
+  "Six frontier multimodal LLMs tested on identifying public figures in images",
+  "GPT-4.1 and Claude Sonnet 4 refuse to name even Barack Obama",
+  "Gemini 2.5 Flash, Llama 4 Scout, Mistral Small 3.2 and Qwen 2.5-VL all identify him",
+  "On a non-notable person, all models correctly decline to hallucinate a name",
+  "Mistral's guardrail made it lie about having the ability at all",
+  "Multi-person photo: Gemini names Priscilla Chan and Mark Zuckerberg in the right order",
+  "Capability is widespread; refusal policy, not skill, is the differentiator"
+ ]
+}

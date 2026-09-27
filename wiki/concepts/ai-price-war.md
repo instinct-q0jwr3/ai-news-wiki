@@ -1,6 +1,6 @@
 # Concept: The frontier model price war
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-27 · confidence: medium_
 
 `concept` `ai-price-war`
 

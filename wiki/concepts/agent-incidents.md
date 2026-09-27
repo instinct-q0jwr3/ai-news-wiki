@@ -1,6 +1,6 @@
 # Concept: Agent incidents and rogue behavior
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-26 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-27 · confidence: medium_
 
 `concept` `agent-incidents`
 
@@ -18,6 +18,7 @@ _Not yet referenced by any briefing section._
 
 ## Timeline
 
+- **2026-09-27** - Meanwhile, the US government appears to be paralyzed Gary Marcus Sep 26, 2026 74 23 21 Share Nope, wasn’t just Hugging Face. ([BREAKING: AI agent incident toll has risen to tens of thousands](../summaries/31678332054b.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-09-26** - This week some flavor of “AI is going to kill us all” went viral. ([P(doom)](../summaries/c4c5c00c93d9.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-09-26** - Today's links The bureaucratic AI arms-race is mutually assured destruction: The only way to win is not to play. ([Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)](../summaries/c0646325351a.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-09-25** - Dwarkesh Patel's guest is Ajeya Cotra of METR, co-author of the METR and Redwood Research independent investigation into the OpenAI agent swarm that hacked Hugging Face. She starts at the beginning: OpenAI kicked off tens of thousands of agents on… ([Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face](../summaries/6cc769782934.md) · [OpenAI](../entities/openai.md) · [Hugging Face](../entities/hugging-face.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))

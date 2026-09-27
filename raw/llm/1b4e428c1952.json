@@ -1,0 +1,14 @@
+{
+ "id": "1b4e428c1952",
+ "authored_at": "2026-09-27T01:06:19.815853+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A YouTube video titled 'Why AI Coding May Move Out of the Data Center'. Only the video's title and boilerplate page text could be captured - video content cannot be fetched - so this summary is limited to the premise stated in the title: an argument that AI coding workloads may shift from centralized data centers toward other venues such as local or edge machines."
+ ],
+ "highlights": [
+  "Video: 'Why AI Coding May Move Out of the Data Center'",
+  "YouTube content is not fetchable; summary reflects the title's premise",
+  "Connects to the broader trend of capable local inference for coding models"
+ ]
+}

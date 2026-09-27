@@ -1,0 +1,19 @@
+{
+ "id": "b81161636ca7",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Geoffrey Litt pushes back on the idea that AI turns programmers into managers or editors - a view he calls dangerously incomplete. His model is the surgeon: someone who does the actual work, but whose time and skill are leveraged by a team that handles prep, secondary tasks and admin. His goal is to spend 100% of his own time on what matters - as a UI prototyper, tinkering with design concepts.",
+  "The tasks he now hands to agents: writing guides to relevant parts of the codebase before a big task, spiking a rough first attempt at a large change as a sketch to react to, fixing typescript errors with a clear spec, and writing documentation - often run async in the background or overnight. The key discipline is Karpathy's autonomy slider: core design work stays hands-on with tight feedback loops (Cursor tab-complete), while secondary work runs loose and unsupervised for hours (Claude Code, with Codex CLI becoming a contender). Conflating the two patterns, he warns, is where AI workflows go wrong."
+ ],
+ "highlights": [
+  "Not manager or editor: code like a surgeon - do the work, leveraged by a support team",
+  "Goal: 100% of his time on design-concept tinkering",
+  "Delegated tasks: codebase guides, spike attempts, spec'd typescript fixes, docs",
+  "Secondary tasks run async - during lunch or literally overnight",
+  "Karpathy's autonomy slider separates primary from secondary work",
+  "Core work: hands-on, fast feedback (Cursor tab-complete)",
+  "Background work: Claude Code, with Codex CLI a rising contender"
+ ]
+}

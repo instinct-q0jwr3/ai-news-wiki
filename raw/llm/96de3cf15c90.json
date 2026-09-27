@@ -1,0 +1,18 @@
+{
+ "id": "96de3cf15c90",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "This item is the Czech translation of Bert Hubert's brief on the EU's proposed 'Chat Control' regulation. The original text was not fetchable in Czech, so this summary is based on the known English original it translates.",
+  "Hubert's brief explains the proposal to fight child sexual abuse material by obliging providers to scan private communications - including client-side scanning on users' devices. His core argument: such scanning breaks the guarantees of end-to-end encryption, is technically unworkable at the claimed accuracy, creates infrastructure that will inevitably be repurposed beyond its stated scope, and puts everyone's private messages under permanent suspicionless surveillance. The brief urges policymakers to reject detection orders for encrypted services."
+ ],
+ "highlights": [
+  "Czech translation of Bert Hubert's Chat Control brief (summary based on the English original)",
+  "Chat Control: EU CSAM proposal mandating scanning of private messages",
+  "Client-side scanning undermines end-to-end encryption for everyone",
+  "False-positive rates make mass scanning technically unreliable",
+  "Scope-creep risk: surveillance infrastructure rarely stays limited to its first purpose",
+  "Hubert urges rejection of detection orders on encrypted services"
+ ]
+}

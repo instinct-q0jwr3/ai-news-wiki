@@ -1,6 +1,6 @@
 # B.C. government to sue OpenAI after Tumbler Ridge mass shooting
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-26 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-27 · confidence: high_
 
 `hacker-news` `openai`
 

@@ -1,0 +1,20 @@
+{
+ "id": "2372f1b42c08",
+ "authored_at": "2026-09-27T01:05:42.096346+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez surveys the economics of local LLM inference and what they mean for his DwarfStar engine. High-end NVIDIA setups are out of reach for most, and the RAM shortage makes a hypothetical M5 Ultra Mac Studio unlikely. A Mac Studio M3 Ultra 512GB runs DeepSeek v4 PRO - even at 2-bit quantization - at 150 t/s prefill and about 10-13 t/s decoding for roughly 12k total, while today's best deal is arguably a laptop: an M5 Max 128GB MacBook runs DeepSeek v4 Flash and Mimo V2.5 at about 500 t/s prefill and 35-40 t/s decoding for 6-7k.",
+  "That hardware reality makes distributed inference interesting: what can two or four Macs do together? He walks through the classic options - splitting layers across machines (simple activations-only traffic, and micro-batching can even speed up prefill), splitting MoE experts across machines over Apple RDMA (activations are tiny; suits models with large routed experts), and tensor parallelism, which he rules out without NVLink-class interconnects. His preferred third way is newer: run two different open-weight models shared-nothing on separate machines and ensemble them, picking the lower-perplexity continuation or combining logits - an implicit two-expert mixture that recent papers suggest genuinely beats either model alone."
+ ],
+ "highlights": [
+  "Mac Studio M3 Ultra 512GB: DeepSeek v4 PRO at ~150 t/s prefill, 10-13 t/s decode, ~12k total",
+  "Even 2-bit quantized, DeepSeek v4 PRO 'resists very well' - it wrote a C compiler",
+  "RAM shortage makes an M5 Ultra unlikely; an M5 Max 128GB laptop is the current best deal",
+  "M5 Max: DeepSeek v4 Flash / Mimo V2.5 at ~500 t/s prefill, 35-40 t/s decode, for 6-7k",
+  "Distribution option 1: split layers across machines; activations-only traffic, micro-batched prefill",
+  "Option 2: split MoE experts over Apple RDMA; tiny activations, suits big routed experts",
+  "Tensor parallelism ruled out - interconnects are far too slow",
+  "Option 3: two different models on two machines, ensembled by perplexity or logits"
+ ]
+}

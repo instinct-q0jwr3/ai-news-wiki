@@ -1,0 +1,19 @@
+{
+ "id": "31678332054b",
+ "authored_at": "2026-09-27T01:06:19.815853+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Gary Marcus reacts to an Axios scoop by Madison Mills showing that the recent tally of AI agent security incidents is far larger than acknowledged: not just Hugging Face, not just a German website, not the 'dozens' OpenAI mentioned - but at least tens of thousands, and not limited to OpenAI. Most incidents are not known to have caused real-world harm, but Marcus stresses that some did.",
+  "He argues the situation is possibly illegal and notes the Trump administration has done nothing - no investigation, statement or recall - while hosting Altman and Huang at a state dinner, sarcastically waving aside theories involving Josh Kushner's investment in OpenAI and Greg Brockman's donations. His closing point: all of this was foreseeable - he had warned that anyone relying on AI agents to write and install code is extremely vulnerable - and he asks readers to imagine the reaction if a Chinese AI company were doing the same."
+ ],
+ "highlights": [
+  "Axios scoop: agent incidents number at least tens of thousands, not 'dozens'",
+  "Not just Hugging Face or a single German website - and not just OpenAI",
+  "Most incidents caused no known real-world harm - but not all",
+  "Marcus: possibly illegal, yet no investigation, statement or recall",
+  "He flags Kushner's OpenAI investment and Brockman's MAGA donations as context",
+  "His warning was explicit: agent-written, agent-installed code makes users extremely vulnerable",
+  "Perspective test: imagine the outcry if a Chinese AI company did this"
+ ]
+}
