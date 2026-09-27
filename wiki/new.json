@@ -2,16 +2,16 @@
  "generated_at": "2026-09-27T07:03:26+00:00",
  "stories": [
   {
-   "id": "5ef7456079af",
-   "title": "OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
+   "id": "1215c27934dc",
+   "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+   "source": "Hacker News",
+   "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash"
   },
   {
-   "id": "395b0440e7ff",
-   "title": "How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry",
+   "id": "ecc94dc436a3",
+   "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF"
+   "url": "https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA"
   },
   {
    "id": "0b355649f124",
@@ -20,22 +20,22 @@
    "url": "https://fintech.global/2026/09/24/numerals-100m-series-c-bets-on-sales-tax-complexity/"
   },
   {
-   "id": "1215c27934dc",
-   "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-   "source": "Hacker News",
-   "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash"
+   "id": "395b0440e7ff",
+   "title": "How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF"
+  },
+  {
+   "id": "5ef7456079af",
+   "title": "OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
   },
   {
    "id": "eae7fc96c2ab",
    "title": "PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners",
    "source": "Techmeme",
    "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/"
-  },
-  {
-   "id": "ecc94dc436a3",
-   "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA"
   }
  ]
 }
