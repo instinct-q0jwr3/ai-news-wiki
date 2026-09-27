@@ -1,0 +1,21 @@
+{
+ "prose": [
+  "Scott Werner returns to Alan Kay's 1997 talk about dog houses: nail boards together and any amateur can make a small structure stand, but scale it up a hundredfold and it collapses, because mass grows a million times while strength grows only ten thousand. Kay says there are two reactions to the rubble. The popular one is to plaster it with limestone, call it a pyramid and ship it. The other is to invent architecture - 'a non-obvious, non-linear interaction between simple materials to give you non-obvious synergies.' Chartres Cathedral is the proof: proportionally less material than the Parthenon, almost all air and glass, everything cunningly organized so the whole has more integrity than any part. A stone cannot be a bridge; the bridge lives in the leaning, the relationship between the stones.",
+  "Werner then maps this onto agent systems. Chain three agents at 80% reliability and you get a coin flip; seven, and you're at 21%. The industry's response is the pyramid reaction: more retries, more guardrails, more orchestration - more material. His alternative is prompt objects: Smalltalk-style objects that communicate by message passing with an LLM interpreting messages at runtime. Because each object can reflect on what it received, ask for clarification, modify itself, or even modify the sender and create new objects, chains stop merely compounding failure and start compounding recovery - the system routes around damage the way a conversation routes around a misunderstanding. He insists he didn't engineer this: he took message passing seriously and the self-healing fell out of the arrangement, emergent like the arch."
+ ],
+ "highlights": [
+  "Alan Kay, 1997: a dog house scaled 100x collapses - mass grows a millionfold, strength only ten thousandfold",
+  "Two reactions to the rubble: plaster it into a pyramid and ship it, or invent architecture",
+  "Chartres: proportionally less material than the Parthenon, almost all air - integrity in the arrangement, not the stuff",
+  "The bridge isn't in any stone; it lives in the leaning - the relationship between the stones",
+  "Agent-chain math: three 80%-reliable links = 51% success; seven = 21% - every link is an opportunity to fail",
+  "The standard fix is pyramid-thinking: retries, guardrails, orchestration - more material",
+  "Prompt objects: Smalltalk-style message passing with an LLM interpreter - objects can reflect, clarify, self-modify, spawn new objects",
+  "Result: compounding recovery instead of compounding failure - the error correction is a property of the arrangement, not a bolted-on layer",
+  "Werner: 'I didn't design this... the stones started leaning on each other and now there's a bridge'"
+ ],
+ "id": "eba074bd5369",
+ "authored_at": "2026-09-27T19:09:57.231908+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

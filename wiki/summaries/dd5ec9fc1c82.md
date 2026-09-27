@@ -6,22 +6,21 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to…
+Reladraw is a text language for diagrams where the author, not an algorithm, decides placement - but in relative statements ('below app.ui', 'right of app', 'between cluster.desktop1 and cluster.laptop1'), never coordinates. It aims at the gap between auto-layout languages like Mermaid, Graphviz and D2 (which can't express 'I want this module over here') and absolute-positioning tools like draw.io or Figma (where every edit to a complex diagram is slow hand-work). Nothing is nested, so no line depends on another line's position or indentation, and gaps are minimum distances: insert an element between two others and they push apart, delete it and they close back up.
 
-I wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.
-
-A text language for diagrams where you say where things go .
+The pitch is unusually agent-aware. Reading a pixel-positioned file, an agent must reconstruct the picture from coordinates before it can edit; with auto-layout there is nothing to read at all. With stated placement, editing the picture means editing the sentence that says where a thing goes - and the agent can re-read its own file to confirm intent (though not visual outcomes like overlaps, which need the renderer's diagnostics). Since no model has reladraw in its training data, the repo ships an installable agent skill (npx skills add reladraw/reladraw) for Claude Code, Codex, Cursor and others. v0.4.0 is a TypeScript parser, resolver and SVG renderer with zero runtime dependencies, CLI included; the language is explicitly unstable.
 
 ## Highlights
 
-- I love making diagrams to help understand, plan, etc.
-- I also wanted this to work well for humans and agents.
-- On the Github link, there's a playground where you can try it out without installation.
-- There's also instructions for a simple npm install and for installing a skill you can use with Claude or other agents.
-- Try it in your browser → — edit the source on the left, watch the layout re-solve on the right.
-- A diagram drawn by hand in draw.io: And the same diagram written down in reladraw and rendered from the text — examples/arch.reladraw , 44 statements, no coordinates anywhere in it: Every distance in the second picture was worked out…
-- Nothing chose the arrangement; the file states it.
-- A text diagram format with no layout engine, where placement is stated and deterministic.
+- Reladraw: a diagram text language where placement is stated in relative sentences, never coordinates
+- Middle ground: Mermaid/Graphviz auto-layout can't express intended arrangement; draw.io/Figma make every edit manual
+- Example: 44 statements reproduce a hand-drawn architecture diagram with no coordinates anywhere
+- Flat structure: nothing nested, so lines never depend on each other's indentation or order
+- Gaps are minimum distances - inserting a node pushes neighbors apart, deleting it closes them back up
+- Agent angle: editing = changing the sentence that says where a thing goes; intent is re-readable from the file
+- Honest limit: an agent can confirm stated intent but not rendered outcomes (overlaps, overflows) without diagnostics
+- Ships an agent skill (npx skills add reladraw/reladraw) since the language is too new for any training data
+- v0.4.0: TypeScript parser/resolver/SVG renderer, no runtime dependencies; syntax explicitly unstable
 
 ## Source
 

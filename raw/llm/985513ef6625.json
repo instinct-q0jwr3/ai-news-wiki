@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A Show HN for Recurse, a tool for developing and deploying specialist agents faster. The captured text is a single fragment: 'A stable contract - the engine refuses a manifest it does not recognize.'",
+  "On that narrow basis: Recurse appears to define agents through a manifest format with a strict validation contract, rejecting anything it doesn't recognize rather than guessing. No further detail on the runtime, deployment model, or supported providers was captured."
+ ],
+ "highlights": [
+  "Recurse: a Show HN for developing and deploying specialist agents faster",
+  "One captured design point: a stable manifest contract - the engine refuses unrecognized manifests",
+  "Suggests strict, fail-closed agent configuration over permissive parsing",
+  "Source capture is one fragment; treat all other details as unknown"
+ ],
+ "id": "985513ef6625",
+ "authored_at": "2026-09-27T19:10:18.719009+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

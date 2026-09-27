@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A video of Alan Kay titled 'Shannon Gave Us a Way of Dealing with Noisy Channels.' The captured text is YouTube boilerplate only, so this summary rests on the title and speaker.",
+  "On that basis: Kay discusses Claude Shannon's information theory - the idea that communication over noisy channels can be made reliable through redundancy and error correction. Kay regularly uses Shannon's insights to explain computing ideas; the specific talk's venue, date, and argument are unknown from the capture."
+ ],
+ "highlights": [
+  "Alan Kay video on Shannon's treatment of noisy channels",
+  "Topic: information theory's answer to unreliable communication - redundancy and error correction",
+  "Capture contains YouTube boilerplate only; venue, date and full argument unknown"
+ ],
+ "id": "b0e553b7da8c",
+ "authored_at": "2026-09-27T19:10:18.719009+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

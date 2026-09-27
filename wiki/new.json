@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T13:04:37+00:00",
+ "generated_at": "2026-09-27T19:05:02+00:00",
  "stories": [
   {
    "id": "8a545290485c",
@@ -8,34 +8,46 @@
    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
   },
   {
-   "id": "f8ba3c5edbdc",
-   "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+   "id": "9cd005fb2d81",
+   "title": "There are no \"rogue\" AI agents",
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2609.25021"
+   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
   },
   {
-   "id": "94e1bdbe8c0d",
-   "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+   "id": "7dae76a0f370",
+   "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
    "source": "Hacker News",
-   "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20"
+   "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
   },
   {
-   "id": "2d4ed3821f12",
-   "title": "Robot-use agents",
-   "source": "Lobsters",
-   "url": "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html"
+   "id": "de514be9cac9",
+   "title": "Introducing Ember-1",
+   "source": "TLDR AI",
+   "url": "https://fireworks.ai/blog/ember-1"
   },
   {
-   "id": "17f604bc1566",
-   "title": "Human-AI partnerships are for alignment, not capability",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/"
+   "id": "e914c457afe3",
+   "title": "Show HN: TinyAIArena watch AI agents battle it out",
+   "source": "Hacker News",
+   "url": "https://tinyaiarena.com/"
   },
   {
-   "id": "ad6665a4c6a4",
-   "title": "In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals",
+   "id": "e1c85db206d9",
+   "title": "Ask HN: Allow agents access to cloud files with least privilege?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49867620"
+  },
+  {
+   "id": "1ba3b2d933b5",
+   "title": "A profile of Jaan Tallinn, who led Anthropic's $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html?unlocked_article_code=1.EVE.h8tG.lRHxbBc3XBI8&smid=url-share"
+   "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181?st=cB1SVM&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "3a6340afbae2",
+   "title": "Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite"
   }
  ]
 }

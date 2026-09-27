@@ -1,0 +1,21 @@
+{
+ "prose": [
+  "Geely's fifth-generation Smart Charging Station peaks at 2,250 kW - one-upping BYD's 1,500 kW Flash Charging network - and in real-world tests took the Lynk & Co 10 and Zeekr 001 from 10% to 70% in 4 minutes 30 seconds and to 97% in 8 minutes 40. But Geely spent most of its presentation on battery damage: fast charging causes lithium plating, where ions pile up on the anode surface instead of slotting in, permanently draining capacity.",
+  "Its answer is 'lithium-ion pulse restoration': micro-pulse currents that claim to reactivate plated lithium and add up to 20% more cycle life (a best-case figure), plus a low-rate home-charging mode that gradually repairs fast-charging wear overnight. The orchestration brain, Xingrui PowerMind (co-developed with AI startup StepFun), forecasts battery temperature 30 seconds ahead instead of reacting when the pack is already hot, holds an average of 55C during charging with a five-point liquid-cooling chain, and gives every car and battery its own profile. New batteries - a 12C-peak Golden Battery and a 6C Next-Gen Ultra Short Blade for cheaper models - would bring 10-minute-class charging downmarket. Electrek notes Tesla has simply throttled aging packs since 2017, and most US EVs still charge below 350 kW."
+ ],
+ "highlights": [
+  "Geely's 2.25MW charger edges BYD: 10-70% in 4:30 and 10-97% in 8:40 on Lynk & Co 10 / Zeekr 001",
+  "Fast charging's main damage is lithium plating - ions stuck on the anode surface stop cycling and capacity fades",
+  "'Pulse restoration' sends micro-pulse currents to reactivate plated lithium, claiming up to 20% more cycle life (best case)",
+  "A home charging mode slowly repairs fast-charging degradation overnight - fast on trips, heal at home",
+  "Xingrui PowerMind (with StepFun) coordinates car, battery, charger, cloud, grid and station storage",
+  "It predicts battery temperature 30 seconds ahead rather than throttling after the pack is hot",
+  "Industry-first five-point liquid cooling covers storage battery, pile, cable, port and pack",
+  "Next-Gen Ultra Short Blade Battery (laser-welded tabs, 10% less heat, 6C) targets affordable models",
+  "Contrast: Tesla has capped Supercharging on high-DCFC packs since 2017; most US EVs top out below 350 kW"
+ ],
+ "id": "d299056e5d6f",
+ "authored_at": "2026-09-27T19:08:51.173607+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

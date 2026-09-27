@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A video titled 'A Brief Perspective on Deep Learning Using Common Lisp.' The captured text is YouTube boilerplate only, so this summary rests on the title alone.",
+  "On that basis: a short presentation on doing deep learning in Common Lisp - an uncommon pairing, given the field's Python dominance. The speaker, libraries used, and conclusions are unknown from the capture."
+ ],
+ "highlights": [
+  "Video: a brief perspective on deep learning with Common Lisp",
+  "An unusual stack - deep learning is overwhelmingly done in Python",
+  "Capture contains YouTube boilerplate only; speaker, libraries and content unknown"
+ ],
+ "id": "b3425b1bcef6",
+ "authored_at": "2026-09-27T19:10:18.719009+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

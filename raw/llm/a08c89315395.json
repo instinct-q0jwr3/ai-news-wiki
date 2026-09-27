@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Cory Doctorow opens with a concession: statistical extrapolation is a fine method, and LLMs are astonishingly good at it. Calling an LLM 'a word-guessing program' is not reductionism, he argues - the remarkable thing is how plausible the output of pure word-guessing turns out to be. The deeper surprise is about us, not the machines: routine human sentences, like much of the natural world, have far more statistical regularity than our intuition admits. Every wave of 'AI' has refined our understanding of which things truly require consciousness, and this one is no different.",
+  "But the method has hard limits, and the limits live exactly where the value is: surprises. Doctorow's example is a podcast host who claimed his phone understood his wife because it could predict her typing - a theory-free prediction that collapses the day she says 'I want a divorce.' Coping with surprise requires a theory of the other, not a lookup table. The statistical picture always sands off the final decimal places, and those smoothings are where the gold seam is - Dylan going electric, Miles Davis not playing a note. Because AI bosses won't acknowledge the limits, he argues, we're spending trillions and emitting gigatons for diminishing returns while replacing workers with defective chatbots."
+ ],
+ "highlights": [
+  "Doctorow concedes the method: statistical extrapolation works, and LLMs are shockingly good at producing plausible text and images",
+  "'Word-guessing program' is an acknowledgment, not a dismissal - the surprise is how far guessing goes",
+  "The real revelation is about humans: our routine language has more statistical regularity than we assumed",
+  "Each 'AI' wave has sharpened the line of what genuinely requires conscious minds; this one did too",
+  "Hard limit: prediction without theory fails at surprises - the 'I want a divorce' problem",
+  "Surprises are where the value lives: 'the seam of gold in the wall of quartz', Dylan going electric, the note Miles Davis doesn't play",
+  "The statistical picture truncates the last decimal places, and what's lost in smoothing is often what matters",
+  "His critique of the industry: trillions spent and gigatons emitted for diminishing returns, while workers are replaced with defective chatbots"
+ ],
+ "id": "a08c89315395",
+ "authored_at": "2026-09-27T19:06:17.956657+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

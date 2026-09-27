@@ -1,20 +1,20 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI text watermarking is not a big deal · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790533479"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>AI text watermarking is not a big deal</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI text watermarking is not a big deal · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790536273"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>AI text watermarking is not a big deal</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high</p>
 <p><code>seangoedecke</code></p>
 <h2 id="summary">Summary</h2>
-<p>Text AI watermarks will always be trivial to remove The European Union AI Act will begin to be enforceable in August 2026, one month from now.</p>
-<p>One of the biggest new requirements is Article 50 , which requires all AI outputs to be “detectable as artificially generated”.</p>
-<p>In other words, if LLM providers want to do business in the EU, they will have to apply a watermark to their outputs: some hidden signature that can be used to identify AI content.</p>
+<p>Sean Goedecke argues that the backlash to Anthropic's plan to hide a watermark in Claude's outputs - and to the EU AI Act's Article 50, which from August 2026 requires AI outputs to be 'detectable as artificially generated' - is overblown. Technically, schemes like Google's SynthID-Text and Meta's TextSeal just swap one pseudo-random sampler for another detectable one: if a model prefers 'overcast' to 'grey' 80/20, you get 'grey' 20% of the time from the watermarked and unwatermarked model alike. Where the output is deterministic - quotes, math - there is no randomness to exploit, so no watermark and no quality loss there either.</p>
+<p>His second point is that AI text has always been effectively watermarked: house styles, em-dashes and 'claudese' are legible to careful readers, and classifiers like Pangram already estimate AI probability - a provider's own detector is at most more trustworthy, not fundamentally more certain, since watermarks are probabilistic too. He suspects part of the backlash comes from people who pass AI output off as their own work, and notes they were never as hidden as they thought. His conclusion: watermarking doesn't degrade text, doesn't meaningfully change detectability, doesn't violate privacy, and every lab will be doing it by 2027 anyway.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>People are pretty unhappy about Anthropic’s recent announcement that they’re planning to include a hidden watermark in Claude model outputs.</li>
-<li>Will this lead to a mass exodus from Anthropic models?</li>
-<li>Will the introduction of watermarking be a meaningful change for users?</li>
-<li>It doesn’t make the text worse, it doesn’t make AI outputs more detectable in practice, it doesn’t violate user privacy, and everyone’s going to be doing it by 2027 regardless.</li>
-<li>There is no meaningful difference in quality between watermarked and unwatermarked text.</li>
-<li>Text watermarking works the same way: it chooses a method of “randomness” that can be detected after-the-fact.</li>
-<li>Text watermarking just introduces a way to make those random choices that’s detectable after the fact.</li>
-<li>The other big reason to not worry about AI watermarking is that AI text content has always effectively been watermarked .</li>
+<li>EU AI Act Article 50, enforceable from August 2026, requires AI outputs to be detectable as artificially generated</li>
+<li>Anthropic's announcement of a hidden watermark in Claude outputs triggered predictions of a user exodus - Goedecke says no</li>
+<li>SynthID-Text and TextSeal replace the pseudo-random logit sampler with a detectable one; token probabilities are unchanged</li>
+<li>The 'overcast vs grey' worry misunderstands the mechanism: an 80/20 preference stays 80/20, watermark or not</li>
+<li>Deterministic outputs (quotes, math answers) carry no watermark because there is no sampling randomness to shape</li>
+<li>AI text was always effectively watermarked: style habits are visible, and classifiers like Pangram already flag it</li>
+<li>Provider detectors are still probabilistic - any token a sampler picks could have been written by a human</li>
+<li>He reads part of the backlash as people who pass AI text off as their own work feeling exposed</li>
+<li>Prediction: every provider will watermark by 2027, so it changes nothing in practice</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/">Read the original story</a></p>

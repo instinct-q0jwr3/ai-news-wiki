@@ -6,19 +6,14 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-My comment on MCP was always a bad idea? — Hacker News.
-
-This article entirely misses the value that MCP brings today.
-
-Tags: hacker-news , model-context-protocol 20th September 2026 Comment My comment on MCP was always a bad idea? — Hacker News This article entirely misses the value that MCP brings today.
+Simon Willison pushes back on the claim that MCP was always a bad idea, arguing the article misses the value MCP brings today. His concession: if you run a full-blown terminal agent with unfettered internet access - Claude Code, Codex, Meta Muse, OpenClaw - there is almost no reason to use MCPs, since the agent can just call APIs directly. But anything less YOLO than that wants controlled, structured access to tools and data, and MCP makes providing that much easier. Dismissing MCP because frontier coding agents don't need it ignores all the other things people might want to build.
 
 ## Highlights
 
-- Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly.
-- Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build.
-- If you want to operate something that's less YOLO than that, you'll find yourself wanting: MCP makes all of that so much easier to provide.
-- This is a beat by Simon Willison, posted on 20th September 2026 .
-- Sponsor me for $10/month and get a curated email digest of the month's most important LLM developments.
+- Willison's rebuttal to 'MCP was always a bad idea?': it misses MCP's present-day value
+- Conceded point: full terminal agents with open internet (Claude Code, Codex, Muse, OpenClaw) can skip MCP and call APIs directly
+- His point: anything less YOLO wants structured, permissioned tool access - exactly what MCP eases
+- 'Thinking MCP is obsolete because full coding agents don't need it misses out on all of the other things we might want to build'
 
 ## Source
 

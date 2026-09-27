@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A short Ask HN thread on whether Claude Opus 5.5 is another step change. The original poster is thrilled for their Claude Code workflows and API resale business but admits the pace 'scares the crap out of me,' wondering aloud whether the exponential is real. The few comments mostly say yes: one calls it the first real leap since Opus 4.5, citing dramatically better time-to-first-token in Claude Code and slower quota burn; another says Opus 5.5 and Astra-6 are big improvements that finally let them automate complicated work, naming a new meta of Astra-6-Max for orchestration and architecture with Xiaomi's Mimo v2.6 for cheap grunt work. The dissenters are pithy: 'It's less shit, so that's good' and 'No. Next question?'"
+ ],
+ "highlights": [
+  "Ask HN: is Opus 5.5 another step change? OP is thrilled for their use cases and unnerved by 'the exponential'",
+  "One commenter: first real leap since Opus 4.5, with much better time-to-first-token and slower subscription quota burn",
+  "Another: can now automate complicated workflows; names the new meta - Astra-6-Max for orchestration, Xiaomi Mimo v2.6 for cheap grunt work",
+  "Mimo v2.6 singled out as an outstanding light, cheap model",
+  "Dissent is terse: 'It's less shit, so that's good' / 'No. Next question?'"
+ ],
+ "id": "c803462d5949",
+ "authored_at": "2026-09-27T19:08:03.759868+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

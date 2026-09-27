@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Through a fable about a beaver and an Oracle living in a stump, Scott Werner taxonomizes the 'think before you build' family of prompting techniques. Deductive prompting asks the model to articulate what good is before asking for the artifact - the principles sit fresh in context and the model builds against them. Inductive prompting is classic few-shot: show three good dams and trust the implicit pattern - fastest, but unauditable, and the model may latch onto the wrong regularity ('ah yes, they all face north').",
+  "Abductive prompting fixes that by forcing the pattern out: give examples, make the model explain why they work, then build from those explicit principles - slower, but you can see, audit and argue with them, even when they come out strange ('Argue with the river, not against it'). Contrapositive prompting defines good by enumerating bad: list every way a dam can fail, then ask for one that fails in none of those ways - and the Oracle, the beaver notes, is excellent at imagining failure. The excerpt ends there, mid-thought."
+ ],
+ "highlights": [
+  "A fable (beaver + Oracle) for four 'think before you build' prompting shapes",
+  "Deductive: make the model state the principles of good first, then build - it forgets to use what it knows unless you make it say it",
+  "Inductive: few-shot examples with the pattern left implicit - fastest, trust-based, and risky when the model induces the wrong pattern",
+  "Abductive: examples, then explicit principles extracted and audited, then implementation - trading speed for visibility",
+  "Contrapositive: enumerate every failure mode, then ask for a build that avoids them all - models are oddly good at imagining failure",
+  "The frame: knowing and doing 'kept arriving at different addresses' - the techniques are ways to close that gap",
+  "Source excerpt ends mid-thought; the piece likely continues the taxonomy"
+ ],
+ "id": "c311d6648c43",
+ "authored_at": "2026-09-27T19:08:03.759868+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

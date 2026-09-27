@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Scott Werner starts from the Bezos insight of 1994: on the internet, shelf space is free, so Amazon could list every book that exists - the infinite shelf. But he points at the assumption underneath: infinite shelf space is only useful with infinite inventory, and for three decades the supply side stayed human-paced. LLMs change that. A model can generate essentially any permutation of tokens - the inventory is now as infinite as the shelf.",
+  "The bottleneck moved to navigation. Werner's undergrad story: every imaginable image already exists as a point in pixel-space, but a 100x100 black-and-white canvas has 10^3010 possibilities against 10^80 atoms in the universe - his iterator just showed static. 'Infinite possibility' and 'useful possibility' are not the same thing. LLMs solved a version of the navigation problem by learning the structure of useful text, compressing the library of all books into a samplable distribution - yet we still interact through 'the narrow straw of a text box', like Bezos building the infinite shelf without aisles. The excerpt ends with a sketch of the alternative: a bookstore where books begin existing as you browse categories and follow citations."
+ ],
+ "highlights": [
+  "Bezos 1994: shelf space became free - the infinite shelf and the Long Tail",
+  "The hidden requirement: infinite shelf needs infinite inventory, which publishing's human pace used to supply",
+  "LLMs make the inventory infinite too - any permutation of tokens up to the output limit",
+  "The pixel-space thought experiment: every image exists among 10^3010 possibilities; the problem was never existence but navigation",
+  "LLMs navigated the space by learning the structure of useful text - a probability distribution over the library of everything",
+  "But the interface is still a text box - 'tuning a car's engine by shouting at the hood' (via Rohit Krishnan)",
+  "The sketched future: generative bookstores where a book 'begins existing' when you browse to it or follow its citations"
+ ],
+ "id": "d686106635a4",
+ "authored_at": "2026-09-27T19:09:27.897777+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

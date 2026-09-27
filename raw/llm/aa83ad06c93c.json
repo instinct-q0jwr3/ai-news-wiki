@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Scott Werner introduces touring_test, a Cucumber extension that replaces hardcoded integration-test steps with a computer-use agent. His critique of the status quo: traditional tests are 'mechanical gods' with perfect knowledge of your DOM - they never misread a label or click the wrong button, so they can never tell you your UI is confusing. An agent looking at a screenshot, by contrast, can be confused - and when it is, that might be the UI's fault, not the test's.",
+  "The shift is from testing implementations ('a button labelled Logout exists') to testing concepts ('a reasonable entity can figure out how to log out'). He sketches an agentic BDD loop - write the behavior, let the agent try, feed the fascinating failures to a coding agent, repeat until the sprint or the token quota ends - and lists the honest objections: it will be flaky, slow, expensive, and agents sometimes hallucinate success. Still, he argues, a selenium script will never tell you your logout button is too small; an agent accidentally tells you the truth. The name is a Turing test pun: a confused tourist touring your application."
+ ],
+ "highlights": [
+  "touring_test: a Cucumber extension that sends natural-language steps to a computer-use agent (Gemini Computer Use) instead of DOM selectors",
+  "The critique: traditional integration tests have superpowers no user has - perfect memory of every CSS class and button location",
+  "An agent that can misread your UI is a feature: confusion in the test points at confusion in the design",
+  "Tests shift from implementation ('this exact button exists') to concept ('can a reasonable entity log out?')",
+  "'Reasonable entity' includes users, their AI assistants, future shopping agents, and you after three glasses of wine",
+  "Agentic BDD loop: describe behavior, let the agent fail in fascinating ways, hand failures to a coding agent, repeat",
+  "Stated objections: flaky (probably), slow (definitely), CI bill 'like a phone number' (maybe), hallucinated success reports",
+  "The payoff: 'Your selenium tests will never tell you that your logout button is too small'"
+ ],
+ "id": "aa83ad06c93c",
+ "authored_at": "2026-09-27T19:06:49.828032+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

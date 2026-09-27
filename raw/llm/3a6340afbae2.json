@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Per its headline, sourced reporting that Trump plans to host Anthropic CEO Dario Amodei at a private White House dinner on Sunday - read as an indication of the AI industry's growing proximity to the administration. The article body was not captured (fetch error), so this summary rests on the headline alone.",
+  "On that basis: the dinner is newsworthy because Anthropic has positioned itself around safety and policy seriousness, and a private White House invitation marks a notable warming in relations between the frontier labs and the administration. The outlet, other attendees and agenda are unknown from the capture."
+ ],
+ "highlights": [
+  "Sources: Trump to host Anthropic CEO Dario Amodei at a private White House dinner on Sunday",
+  "Framed as a signal of thawing relations between the administration and frontier AI labs",
+  "Headline only; body failed to fetch - outlet, guest list and agenda unknown"
+ ],
+ "id": "3a6340afbae2",
+ "authored_at": "2026-09-27T19:11:01.256891+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Cory Doctorow meditates on itch-scratching as the deepest pleasure in software. Free software's 'scratch your own itch' is technological self-determination, and it works - his own tiny automations (like binding Win+E to open a file explorer) still give him a jolt of pleasure every time. But better than scratching your own itch is having it scratched by someone who loves you and knows the spot: his daily-used boingpic script was written for him by his friend Seth Schoen twenty years ago, and every use is a small remembrance of that friendship.",
+  "He connects this to a politics of autonomy - 'Nothing about us without us' (a slogan he traces to 16th-century Poland), the parental trick of offering a choice instead of a command - and to his long championship of low-code and no-code tools from Logo to Hypercard to Scratch. Code you write yourself may be inefficient, but you don't have to pay anyone, convince anyone, or translate your need into someone else's understanding. His example is Bakka Books' inventory system: an idiosyncratic Filemaker database lovingly tended for years by the store's owner, precisely fitted to a science fiction bookstore's strange needs."
+ ],
+ "highlights": [
+  "Spider Robinson's image: scratching the exact spot between someone's shoulder blades as proof of a psychic link",
+  "Free software's 'scratch your own itch' is self-determination - and it endures as a daily small pleasure",
+  "Better still: tools made for you by people who know you - his 20-year-old boingpic script is a memento of a friendship",
+  "'Nothing about us without us' dates to 16th-century Poland, and even small autonomy choices disarm conflict",
+  "His case for low-code/no-code (Logo, Hypercard, Visual Basic, Scratch): your own tool fits even when it's inefficient",
+  "Bakka Books' Filemaker database - idiosyncratic, owner-tended, perfectly suited - as the species' ideal specimen"
+ ],
+ "id": "d98840be1d7a",
+ "authored_at": "2026-09-27T19:09:27.897777+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

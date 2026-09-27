@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Max Woolf tests Google's Nano Banana - the text-to-image model released as Gemini 2.5 Flash Image after appearing mysteriously on LMArena in August 2025 - and finds its prompt adherence far stronger than Google advertises. Unlike diffusion models, it is autoregressive, generating 1,290 tokens per image, and its popularity pushed the Gemini app to the top of the mobile app stores. Woolf's benchmark is not leaderboards but whether the model follows comically specific instructions, like a three-dimensional pancake in the shape of a skull garnished with blueberries and maple syrup that must drip logically.",
+  "Practical notes: images are free through the Gemini app or AI Studio (the latter allows aspect-ratio control, both add a visible watermark), while the Gemini API costs roughly $0.04 per megapixel image - on par with diffusion models and far cheaper than gpt-image-1's $0.17. Woolf prefers the API despite the cost because web UIs carry system prompts that interfere with inputs, API output has no visible watermark, and some prompts are 'inconvenient' for a public UI. He open-sourced gemimg, a small Python wrapper that hides the API's encoding boilerplate."
+ ],
+ "highlights": [
+  "Nano Banana = Gemini 2.5 Flash Image, Google's autoregressive image model (1,290 tokens per image), ex-LMArena mystery model",
+  "Woolf's verdict: 'extremely strong prompt adherence that Google has understated'",
+  "His test method: absurdly specific prompts - e.g. a 3D skull-shaped pancake with syrup that must drip logically",
+  "Context: ChatGPT's free image generation (gpt-image-1) set the popular benchmark after the Ghibli viral moment",
+  "Free access via the Gemini app or AI Studio, both with a visible watermark; AI Studio adds aspect-ratio control",
+  "API pricing: ~$0.04 per megapixel image, on par with diffusion models, much cheaper than gpt-image-1's $0.17",
+  "He open-sourced gemimg, a lightweight Python wrapper for the Gemini image endpoint",
+  "Why the API despite the cost: no system-prompt interference, no visible watermark, and freedom for awkward prompts"
+ ],
+ "id": "bff5bd2048b8",
+ "authored_at": "2026-09-27T19:07:18.394595+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

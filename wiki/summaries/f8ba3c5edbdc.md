@@ -6,22 +6,19 @@ _type: news-summary · created: 2026-09-27 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-Abstract: Large Language Models (LLMs) tend to add disclaimers like "I'm just an AI" when asked about something related to themselves.
+This arXiv paper shows that the chat template - the wrapper that formats prompts for instruct-tuned models - acts as a switch on how LLMs talk about themselves. With the template on, disclaimer voice ('I'm just an AI') goes up and experiential voice ('I feel') goes down; with it off, the pattern reverses. The result holds across 8 popular open-source instruct models up to 9B parameters.
 
-In this work, we show that the chat template works like a switch - when present, it turns this disclaimer voice up and experiential voice like "I feel" down, across 8 popular open-source instruct models up to 9B parameters in size.
-
-And conversely when the chat template is not present, it turns the disclaimer voice down and experiential voice up.
+The authors then find a direction in the activation space of 3 models that steers this behavior: adding it increases disclaimers, removing it suppresses them, while a random direction of equal size does little. Adding the direction to a base model without a template makes it disclaim as if the template were there. Their conclusion is a methodological warning: what a model says about itself is not a fact about its weights alone - it is partly set by deployment scaffolding - so self-reports and introspection studies have a confound they need to control for, and this direction gives them a way to do it.
 
 ## Highlights
 
-- The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood.
-- Are the models telling us about themselves or rather how they are deployed?
-- Inside the activations of 3 models, we find a direction that steers this behavior.
-- Removing the direction in the model's activation space turns disclaimer voice down and adding it turns it up, while a random direction of the same size has little effect.
-- We find that instruct models without chat template, when we add the disclaimer direction to them, disclaim like the template was there.
-- Since the chat template controls the disclaimer voice of LLMs, then researchers studying self-reports or introspection of models might have a confound they need to control for.
-- Our results show that there is a direction they can use to steer this voice.
-- What they say doesn't come only from weights, but it is partially set by the chat template, and because of that a model's self-description shouldn't be treated literally. arXivLabs is a framework that allows collaborators to develop and…
+- The chat template works like a switch on LLM self-reference: disclaimer voice up, experiential voice down - and reversed without it
+- Holds across 8 open-source instruct models up to 9B parameters
+- A steerable direction exists in activation space: add it, disclaimers rise; remove it, they fall
+- A random direction of the same size has little effect - the direction is specific
+- Base models with the direction added disclaim as if a chat template were present
+- Implication: model self-reports confound weights with deployment scaffolding - don't treat self-descriptions literally
+- The direction gives introspection and AI-safety researchers a control for the confound
 
 ## Source
 

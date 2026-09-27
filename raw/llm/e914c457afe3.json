@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A Show HN for TinyAIArena, where you 'watch AI agents battle it out.' The captured text is just the app's game-shell UI (keyboard controls, auto-play, mute), so the summary rests on the title and that shell.",
+  "On that basis: a browser-based spectator arena where AI agents compete against each other in real time - built like a small arcade game, with playback controls for watching matches. The games, agent setup, and mechanics are unknown from the capture."
+ ],
+ "highlights": [
+  "TinyAIArena: a Show HN for watching AI agents battle each other live",
+  "Game-shell interface: arrow-key navigation, auto-play, menu and mute controls",
+  "Capture is sparse UI text only; game mechanics and agent configuration unknown"
+ ],
+ "id": "e914c457afe3",
+ "authored_at": "2026-09-27T19:11:01.256891+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

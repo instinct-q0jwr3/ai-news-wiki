@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A Business Insider report, per its sources: OpenEvidence, an AI search engine for doctors, raised $250 million at a $15 billion valuation - sharply up from a previous valuation in the low billions (the headline is truncated mid-figure). The captured text is site boilerplate only, so the headline is the evidence.",
+  "On that basis: OpenEvidence's raise signals continued investor appetite for vertical AI in medicine - a search and evidence tool aimed at clinicians rather than general consumers. Round participants and terms are not in the captured text."
+ ],
+ "highlights": [
+  "Per BI's sources: OpenEvidence raised $250M at a $15B valuation",
+  "OpenEvidence is an AI search engine for doctors - vertical AI for clinical evidence lookup",
+  "Headline notes a steep markup from the prior valuation (truncated mid-figure)",
+  "Only the headline was captured; investors, timing and terms unknown"
+ ],
+ "id": "c461e67eee9b",
+ "authored_at": "2026-09-27T19:10:18.719009+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

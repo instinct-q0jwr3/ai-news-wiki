@@ -6,22 +6,20 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-If you followed along with the recent joyful celebrations of the Artemis cruise around the moon, and took a moment to dive into the photographic archives of the mission, you might have noticed that all of the original images were shared…
+Prompted by NASA publishing the Artemis II mission's original photos on Flickr, Anil Dash explains why that choice is less odd than it sounds by retelling what Flickr actually is. Founded in 2004 by Stewart Butterfield and Caterina Fake out of the remains of a failed game, it arguably invented the Web 2.0 playbook - the friendly voice, the interface conventions, the dropped 'e' - while being, crucially, a photography platform first: full-resolution storage, no filters, visible camera settings, and tags that directly inspired Twitter's hashtags.
 
-Flickr is a social sharing site for photography which was founded in 2004, and these days people might say that it shares some of its cofounders with Slack, though back when Slack started, everybody said that the company was started by…
-
-That’s because Flickr was arguably the most influential site of the Web 2.0 era, helping define everything from the user interface design to the bright colors to the easy way that developers could access data from the platform.
+Flickr also baked in the era's open-data ethic: easy Creative Commons licensing (with a teenage Aaron Swartz among the people who created those standards), fine-grained privacy controls and real human moderation. Dash notes the bitter coda that Big AI later ransacked those permissively licensed images without consent or compensation - legal, maybe, but telling. Against that history, NASA's use of Flickr reads as a bet on a platform designed from the start for serious, openly licensed photographic archives rather than engagement. NOTE: the source excerpt available here covers the historical argument; the piece continues beyond it.
 
 ## Highlights
 
-- A lot of the things that we take for granted on the modern social internet, like a friendly “voice” used to communicate to users, were pioneered by Flickr, and then quickly came to be considered standard expectations for the apps and…
-- It’s hard to imagine that sites from Tumblr to Grindr would have omitted their final “e”s without Flickr’s precedent.
-- Flickr spun out of a Canadian gaming company called Ludicorp, founded by Stewart Butterfield (later CEO/co-founder of Slack) and Caterina Fake (later an investor and chair of Etsy).
-- Flickr also inherited the fine-grained privacy controls and thoughtful community features of earlier social platforms like LiveJournal — along with being actively, intentionally moderated by actual humans who worked diligently to…
-- This meant that, more than 20 years ago, this early photo sharing community typically had better social norms than people see on today’s social media apps. (A little side note: Part of Flickr/Ludicorp’s initial funding was with public…
-- What a remarkable way to fund lasting innovation!) With all of these groundbreaking features, Flickr didn’t just inspire lots of other entrepreneurs to create a new wave of Web 2.0 startups, it also attracted millions of users who, for…
-- Until Flickr, photo sharing online was essentially still analog, even if the experience was technically happening online.
-- In Focus Flickr wasn't a social platform first — it was a photography platform first.
+- NASA posted the original Artemis II photos on Flickr - Dash unpacks why that venerable platform
+- Flickr (2004, Butterfield and Fake) grew out of a failed game and defined much of Web 2.0's design language
+- It was photography-first: high-resolution originals, EXIF data, no filters - built as an archive, not a feed
+- Tags pioneered there directly influenced Twitter's hashtags
+- Flickr made Creative Commons licensing easy, reflecting the era's open-data beliefs
+- Human moderation and fine-grained privacy controls gave it better norms than today's social apps
+- Dash's aside: AI companies scraped the permissively licensed images without consent or compensation - legal, but 'you're probably an asshole'
+- The excerpt covers the historical case; the article continues past this point
 
 ## Source
 

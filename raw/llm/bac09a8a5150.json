@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Bert Hubert's Hello Deep Learning series moves from plain linear networks to convolutional networks, motivated by a concrete failure: the previous digit recognizer drops to around 50% validation accuracy when inputs are shifted by two pixels and five random pixels are flipped - changes no human would notice. The network memorized pixel positions instead of learning what a 7 looks like, a textbook case of the overfitting battle he says defines production machine learning.",
+  "The fix is the CNN toolkit. Convolutions slide small kernels over the input to scan for features wherever they appear (each kernel producing its own output layer, at the cost of billions of multiply-accumulates - few parameters, heavy compute, but very parallelizable). Max-pooling then keeps only the strongest response in each small window, discarding exact position on purpose so the network can't lean on it. He points to Yann LeCun's 1989 demo as the lineage of the network built here, which goes on to read handwritten letters as well as digits, and frames the chapter with his four phases of production neural networks: most demos declare victory at phase two; this series aims for the last one."
+ ],
+ "highlights": [
+  "The motivating failure: shifting inputs 2 pixels and flipping 5 random pixels halves the previous network's accuracy",
+  "Lesson: the network memorized pixel positions rather than learning shapes - rote learning, not generalization",
+  "Convolution = small kernels sliding over the input, summing element-wise products to detect features anywhere in the image",
+  "Each kernel produces its own output layer; multi-channel inputs multiply the work into billions of operations",
+  "CNNs use few parameters but burn CPU; low memory access makes them very parallelizable",
+  "Max-pooling (typically 2x2) keeps the strongest response and deliberately throws away exact position",
+  "Lineage: LeCun's 1989 demo and paper; CNNs were arguably the first neural networks in bona fide production use",
+  "Hubert's four phases of production NN use - 'almost all demos declare victory after phase 2'; the series targets the final phase"
+ ],
+ "id": "bac09a8a5150",
+ "authored_at": "2026-09-27T19:07:18.394595+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

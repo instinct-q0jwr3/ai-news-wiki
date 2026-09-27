@@ -1,0 +1,21 @@
+{
+ "prose": [
+  "Armin Ronacher writes down why, despite sharing Dario Amodei's observations and much of his concern, he reacts against the 'pacing the frontier' agenda that Amodei proposed and Sam Altman and Elon Musk quickly endorsed. On the substance, his near-term worry is not nukes but nuisance at scale - persistent botnets and agent cyberattacks (Wikipedia already has a '2026 OpenAI agent cyberattacks' page, and it's incomplete) - plus the fact that the labs operate at a scale where they seem genuinely blind to what their own systems are doing. Mostly, though, he worries about what all this does to us as humans.",
+  "On the politics, he finds the pacing framing convenient: it involves exactly two companies, Anthropic and OpenAI, which share an origin and are more alike than different; the proposed third-party evaluator, METR, has strong ties to both. Both labs trained on the public's data and increasingly strain public resources, yet now argue the material is so dangerous that only a few American corporations may decide who builds what - while the China rationale slides from 'democracy and freedom' into maintaining a gap, with Anthropic openly gating its API against distillation. His counterintuitive conclusion: open weights would provide built-in pacing, 'the truest form of MAD or proliferation' - today's pickle exists because the public indirectly funds the models and then buys the benefits back from a handful of labs holding geopolitical power."
+ ],
+ "highlights": [
+  "Written during a viral 'AI is going to kill us all' week, with Amodei's apparent P(doom) cited around 10-25%",
+  "Ronacher shares the observations but opposes the 'pacing the frontier' program Amodei proposed and Altman and Musk endorsed",
+  "His concrete worry: persistent botnets and agent cyberattacks - Wikipedia's 2026 OpenAI agent cyberattacks page is already out of date (RubyGems poisoning)",
+  "Labs operate at such scale they can be blind to what their systems are doing",
+  "His primary fear is what the technology does to us as humans, not weapons scenarios",
+  "Pacing involves only two companies with a shared origin; the proposed evaluator METR has strong ties to both",
+  "Both trained on public data and strain public resources, yet now claim only they can be trusted to decide access",
+  "China framing slides from values talk into maintaining a capability gap; Anthropic's API restrictions target distillation openly",
+  "His counterproposal: open weights as built-in pacing - 'the truest form of MAD or proliferation'"
+ ],
+ "id": "c4c5c00c93d9",
+ "authored_at": "2026-09-27T19:08:03.759868+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Cory Doctorow argues that any honest account of personal achievement starts with the world-historic forces that made it possible. His own case: being born in 1971 to a computer scientist father - a refugee who reached a doctorate through Canada's post-war public education - plus universities cheap enough to drop out of four times debt-free, and a tech industry you could walk into with curiosity and work ethic. 'When it comes to this kind of career, I was born on third base.' The same logic applies to boomers whose starter homes made them feel like Warren Buffets.",
+  "He then applies the frame to computing itself. Moore's Law handed serial-computation people a faster machine every year or two for doing nothing; when it tapped out, the industry built wide instead of tall - more cores, more chips, GPUs - and every parallelizable problem got cheaper by the year: graphics, gaming, VR/AR, crypto, and of course AI. Invoking Kevin Kelly's 'adjacent possible' (Da Vinci sketched a helicopter in the 15th century, but only alloys, engines and refined fuel made it inevitable, whereupon several people invented it at once), he presents each wave as a moment that rewards whoever happens to be suited to it - luck dressed up as foresight."
+ ],
+ "highlights": [
+  "Doctorow's rule: frank assessment of your achievements starts with the world-historic forces behind them",
+  "His joke to young people: 'If you don't have the foresight and work ethic to have been born in 1971, I can't really help you'",
+  "His luck stack: refugee father, post-war public universities, debt-free dropouts, a walk-in tech industry",
+  "The boomer-housing parallel: buying a house and living in it made a generation feel like investment geniuses",
+  "Moore's Law era: serial applications got faster and cheaper every year whether you did anything or not",
+  "When Moore's Law plateaued, computing 'built wide' - parallelism, GPUs - and parallelizable fields got their own tailwind",
+  "Gaming, VR/AR, cryptocurrency and AI are all children of the parallel-computing moment",
+  "Kevin Kelly's adjacent possible: the helicopter was invented many times at once once alloys, engines and fuel existed"
+ ],
+ "id": "cd5c5f6c7019",
+ "authored_at": "2026-09-27T19:08:51.173607+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

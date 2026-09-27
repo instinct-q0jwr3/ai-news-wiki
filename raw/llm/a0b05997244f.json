@@ -1,0 +1,21 @@
+{
+ "prose": [
+  "Sean Goedecke argues that the backlash to Anthropic's plan to hide a watermark in Claude's outputs - and to the EU AI Act's Article 50, which from August 2026 requires AI outputs to be 'detectable as artificially generated' - is overblown. Technically, schemes like Google's SynthID-Text and Meta's TextSeal just swap one pseudo-random sampler for another detectable one: if a model prefers 'overcast' to 'grey' 80/20, you get 'grey' 20% of the time from the watermarked and unwatermarked model alike. Where the output is deterministic - quotes, math - there is no randomness to exploit, so no watermark and no quality loss there either.",
+  "His second point is that AI text has always been effectively watermarked: house styles, em-dashes and 'claudese' are legible to careful readers, and classifiers like Pangram already estimate AI probability - a provider's own detector is at most more trustworthy, not fundamentally more certain, since watermarks are probabilistic too. He suspects part of the backlash comes from people who pass AI output off as their own work, and notes they were never as hidden as they thought. His conclusion: watermarking doesn't degrade text, doesn't meaningfully change detectability, doesn't violate privacy, and every lab will be doing it by 2027 anyway."
+ ],
+ "highlights": [
+  "EU AI Act Article 50, enforceable from August 2026, requires AI outputs to be detectable as artificially generated",
+  "Anthropic's announcement of a hidden watermark in Claude outputs triggered predictions of a user exodus - Goedecke says no",
+  "SynthID-Text and TextSeal replace the pseudo-random logit sampler with a detectable one; token probabilities are unchanged",
+  "The 'overcast vs grey' worry misunderstands the mechanism: an 80/20 preference stays 80/20, watermark or not",
+  "Deterministic outputs (quotes, math answers) carry no watermark because there is no sampling randomness to shape",
+  "AI text was always effectively watermarked: style habits are visible, and classifiers like Pangram already flag it",
+  "Provider detectors are still probabilistic - any token a sampler picks could have been written by a human",
+  "He reads part of the backlash as people who pass AI text off as their own work feeling exposed",
+  "Prediction: every provider will watermark by 2027, so it changes nothing in practice"
+ ],
+ "id": "a0b05997244f",
+ "authored_at": "2026-09-27T19:06:49.828032+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Cory Doctorow argues that competition matters whether you love markets or fear them. Pro-market: without rivals, companies go 'too big to care.' Anti-market: without rivals, industries collapse into cartels that collude, mint cash and capture their regulators - 'too big to jail.' Either way, oligarchy is the enemy, and that lens makes Big Tech's authoritarian turn legible.",
+  "Tech should have been different: every computer is a universal machine, so every '10-foot pile of shit' a platform adds induces someone to build an 11-foot ladder - adversarial interoperability, the early-web cycle of pirates becoming admirals becoming disrupted by new pirates. What killed it wasn't technology but policy: Section 1201 of the 1998 DMCA made reverse-engineering and modification a felony punishable by $500k and five years in prison. That one-way ratchet progressively outlawed the disenshittification ecosystem, until American startups gave up on disrupting Big Tech and reoriented toward acqui-hires - being absorbed and mothballed by the incumbents they once would have dethroned."
+ ],
+ "highlights": [
+  "Both theories of markets need competition: it disciplines firms ('too big to care') and keeps them governable ('too big to jail')",
+  "Oligarchic sectors stop competing, collude, and buy the policy environment that suits them",
+  "Universal computers make tech intrinsically competitive: every enshittificatory move invites a countermeasure",
+  "Adversarial interoperability - mods, plugins, reverse-engineered complements - powered early tech's constant ferment",
+  "The cycle: pirates disrupt, become admirals, get disrupted by new pirates",
+  "DMCA Section 1201 (1998) made that a felony: $500k and five years for modifying or reverse-engineering",
+  "Result: a one-way ratchet toward lock-in; startups now aim to be acqui-hired rather than to displace incumbents"
+ ],
+ "id": "da7762cbf131",
+ "authored_at": "2026-09-27T19:09:27.897777+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

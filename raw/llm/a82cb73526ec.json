@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A post titled 'Reproducing Hacker News writing style fingerprinting.' Only the title was captured; the body is unavailable.",
+  "On the title's basis: the author attempts to reproduce a stylometry result - identifying or linking Hacker News commenters by their writing style. The original fingerprinting claim, the method, and how well the reproduction worked are unknown from the capture."
+ ],
+ "highlights": [
+  "A reproduction attempt of writing-style fingerprinting applied to Hacker News",
+  "Stylometry: linking accounts or comments by how people write",
+  "Only the title was captured; method and results are unknown"
+ ],
+ "id": "a82cb73526ec",
+ "authored_at": "2026-09-27T19:10:18.719009+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

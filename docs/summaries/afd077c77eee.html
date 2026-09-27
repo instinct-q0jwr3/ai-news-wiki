@@ -1,20 +1,20 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The data black hole at the center of AI · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790533479"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>The data black hole at the center of AI</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The data black hole at the center of AI · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790536273"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>The data black hole at the center of AI</h1>
 <p class="meta">type: news-summary · created: 2026-09-25 · updated: 2026-09-27 · confidence: high</p>
 <p><code>dwarkesh-podcast</code></p>
 <h2 id="summary">Summary</h2>
-<p>It’s not clear that we’ve actually made much progress on training sample efficiency over the last few years - it seems like more so we’ve dramatically widened and improved the data distribution.</p>
-<p>The main way that AIs have been getting better is from adding more and better data , and scaling the compute to develop that data in the first place.</p>
-<p>You can think of RL as a kind of synthetic data generation - you dump a lot of compute against a verifier in order to find the “good” data.</p>
+<p>Dwarkesh Patel's essay argues that the real engine of AI progress is data, not sample efficiency. If intelligence is how little data you need to become fluent in a domain, then models have barely improved - they are simply fed vastly more and better data. RL is best understood as synthetic data generation: burn compute against a verifier to find good trajectories, then train on them. That in turn demands 'mind-stretching' volumes of bespoke human expert work - hundreds of specialists per skill writing example completions, rubrics and chains of thought - which is why the data industry behind it earns billions and heads for deca-billions.</p>
+<p>This framing explains why open models sit only about four months behind the frontier: data can be distilled from public APIs, while architectures and training tricks cannot - if those drove progress, catch-up would be slower. The scale gap is stark: a human sees perhaps 200 million tokens by adulthood; frontier models train on tens to hundreds of trillions, a million-fold difference. A teenager drives after 20 hours of practice; Waymo and Tesla needed orders of magnitude more. To the objection that evolution is our pre-training, he answers that the 3GB genome can't store the parameters - evolution found the hyperparameters and loss functions, not the weights. The image he leaves: a galaxy of capabilities held together by an invisible black hole of data at its center.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>Obviously RL is the main way that has happened.</li>
-<li>Then you train your model to predict these correct rollouts, much in the same way that you might train it to predict the next word in internet text.</li>
-<li>For this process to work, the model must have at least prior some probability to anticipate the correct solution, which is why you also need mind-stretching amounts of human expert trajectories in every single field and skill you want…</li>
-<li>It’s hard to overstate how task specific and bespoke this human expert data is.</li>
-<li>And it is not only that the data have to be so domain specific, but there has to be so much of it!</li>
-<li>There’s a reason that the data industry producing these expert labels (and the RL environments in which their meticulously catalogued skills can congeal) is earning billions a year in revenue, soon deca-billions.</li>
-<li>It is easy to forget how much data these models are trained on, and how much more it is than what we humans see in our lifetimes.</li>
-<li>We see these AIs as a galaxy glittering with capabilities, but at their center, invisible to the naked eye, holding all the constellations together, is an unimaginably massive black hole of data.</li>
+<li>One definition of intelligence is sample efficiency - and on that measure, models have barely progressed</li>
+<li>Progress comes from more and better data; RL is synthetic data generation against verifiers</li>
+<li>RL still needs the model to assign some prior probability to the correct solution, so expert human trajectories are indispensable</li>
+<li>Data vendors hire hundreds of specialists per skill - Word polishers, M&amp;A diligence writers, consultants - to author completions and rubrics</li>
+<li>Models grind thousands of rollouts per task where a human student practices once or twice</li>
+<li>Open models lag the frontier by ~4 months because data distills through public APIs while training tricks don't transfer</li>
+<li>Scale gap: ~200M tokens in a human lifetime vs tens to hundreds of trillions for a frontier model - a million-fold difference</li>
+<li>Robotics and driving as evidence: humans teleoperate a robot arm in hours or drive after 20 hours of practice</li>
+<li>Rebuttal to 'evolution is pre-training': the 3GB genome is too small to hold the weights - it encodes the learning algorithm, not the knowledge</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://www.dwarkesh.com/p/the-sample-efficiency-black-hole">Read the original story</a></p>

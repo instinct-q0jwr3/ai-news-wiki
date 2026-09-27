@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Part one of Ed Zitron's Hater's Guide to AI Debt covers the form of the debt: who is raising it and against what. The hyperscalers - Oracle, Google and Amazon already cashflow negative, Meta close behind - have let AI data-center capex eat nearly every dollar of operating cashflow, and the trillion-plus dollars of revenue backlog added from Anthropic and OpenAI contracts isn't easing the burn. The satirical frame (a CEO screaming at his CFO to just raise debt) captures how little the demand side is questioned.",
+  "Alongside them sit the neoclouds: companies conjured to buy AI chips and build data centers, often crypto miners converting their operations, sometimes renting colocation from Core Scientific or Applied Digital, which raise their own debt for buildings and power. Their capex rivals the biggest companies on earth while their revenues are a footnote. Zitron's simplification: hundreds of billions are being invested to maybe, someday, make single-digit billions - if the data centers actually get built and the demand materializes. NOTE: the full article is paywalled; this summary is based on the free excerpt."
+ ],
+ "highlights": [
+  "Oracle, Google and Amazon have gone cashflow negative on the AI buildout; Meta is close behind",
+  "Capex has gone from a sleepy line item to consuming almost every dollar of big-tech operating cashflow",
+  "Over $1T of revenue backlog from Anthropic and OpenAI alone hasn't shown up in revenue or eased the burn",
+  "Neoclouds: chip-buying data-center companies conjured by the bubble or converted from crypto mining",
+  "Some neoclouds rent colocation from Core Scientific and Applied Digital, which stack on their own debt for buildings and power",
+  "Neocloud capex rivals the largest companies' while their revenues are 'a footnote' to the outflow",
+  "His one-line version of the bubble: hundreds of billions invested to make single-digit billions, maybe, someday",
+  "Paywalled: summary grounded in the free excerpt, not the full text"
+ ],
+ "id": "d04f4b2efcd8",
+ "authored_at": "2026-09-27T19:08:51.173607+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

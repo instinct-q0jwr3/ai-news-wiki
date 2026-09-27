@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Ed Zitron's second part of The Hater's Guide to AI Debt shifts from the form of the debt to its function. His central worry: somewhere between $100 and $150 billion of debt (excluding the hyperscalers, with hundreds of billions more planned) is priced for perfection while being poured into thousands of the most ambitious, intricate and fragile infrastructure projects ever attempted - many run by companies with no experience building data centers, securing power, or doing much of anything.",
+  "The piece argues that each data center is its own unique monster - geography, weather, bespoke cooling, the power of a city compressed into a thousandth of the space - and that treating them like ordinary buildings sets up a doom loop of debt, delays and doubt that compounds costs until the economics of paying off the debt become near-impossible for most projects. The satirical framing sketch (a hyperscaler CEO blowing off his CFO's 'critical finance meeting' for mindfulness hour) makes the point about how casually the industry treats the risk. NOTE: the full article is paywalled; this summary is based on the substantial free excerpt."
+ ],
+ "highlights": [
+  "Part 2 of the series: part 1 covered the form of AI debt, this one covers what the debt is actually buying",
+  "Core worry: debt is 'priced for perfection' while funding thousands of fragile, first-of-their-kind infrastructure projects",
+  "$100-150B of debt raised for AI data centers excluding hyperscalers, with hundreds of billions more planned",
+  "Many builders have no experience in data centers, power procurement, or construction at all",
+  "Each project is a unique monster: geography, weather, specialist talent, city-scale power in a thousandth of the space",
+  "The predicted mechanism: a doom loop of debt, delays and doubt that compounds costs",
+  "Conclusion previewed in the subtitle: 'Gross Profit Unlikely' - most projects can't make the economics of repayment work",
+  "Paywalled: summary grounded in the free excerpt, not the full text"
+ ],
+ "id": "b1f92b2fe290",
+ "authored_at": "2026-09-27T19:07:18.394595+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

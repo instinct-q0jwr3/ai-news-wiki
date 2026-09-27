@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A Mark Zuckerberg thread titled 'Opening access for developers to build Muse connectors.' The captured text consists almost entirely of archiving-site boilerplate, so only the announcement's title is available as evidence.",
+  "On that basis: Meta is opening developer access to build connectors for Muse. What connectors do, who qualifies, and any timelines are not in the captured text."
+ ],
+ "highlights": [
+  "Mark Zuckerberg announced developer access for building Muse connectors",
+  "The captured thread contains no body text beyond the title - details are unavailable",
+  "Summary based on the announcement headline only; treat specifics as unknown"
+ ],
+ "id": "f1a4866d11c7",
+ "authored_at": "2026-09-27T19:09:57.231908+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

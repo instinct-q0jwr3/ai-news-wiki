@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "Cory Doctorow takes apart an Economist editorial claiming AI is 'breaking the British state' by letting citizens file complaints and appeals as well-crafted as a first-class lawyer's. Beyond noting the magazine's credulity about robo-lawyers - law being where AI hallucinates most - he targets its proposed fix: prune procedural rights and replace the bureaucrats with AI that decides benefits through 'personalised welfare interventions' unmoored from guaranteed entitlements.",
+  "Political scientist Henry Farrell explains where that leads: stingy robo-bureaucrats create demand for aggressive robo-lawyers, an arms race Alan Moore prophesied in the 1980s with Abelard Snazz, whose Big Police Robots end up battling Big Criminal Robots with the citizens as collateral. It's already here - US health insurers' robo-claim-deniers now fight doctors' robo-appealers. Doctorow connects this to Dan Davies' 'Problem Factory' (bureaucratic defenses push participants onto a war footing, producing the very cost inflation the defenses were meant to prevent) and to the spam wars, where escalating countermeasures ended with email so hard to run that most of it centralized into a few providers."
+ ],
+ "highlights": [
+  "The Economist's claim: AI-crafted complaints and appeals will 'drown the state' - and its fix is to prune procedural rights",
+  "Doctorow notes the irony: law is the domain where AI hallucinates most and most needs expert review",
+  "The proposed replacement - AI deciding 'personalised welfare interventions' - abandons guaranteed entitlements",
+  "Farrell's prediction: robo-bureaucrats and robo-lawyers in an escalating arms race",
+  "Alan Moore called it in the 1980s: Abelard Snazz's Big Police Robots vs Big Criminal Robots, citizens as collateral",
+  "Already real in US healthcare: insurer robo-deniers vs doctors' robo-appealers",
+  "Dan Davies' Problem Factory: defensive bureaucracy creates the war footing and cost inflation it was meant to prevent",
+  "Spam-wars parallel: ever-stricter mail standards ended with email centralized among a handful of providers"
+ ],
+ "id": "c0646325351a",
+ "authored_at": "2026-09-27T19:07:18.394595+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,20 @@
+{
+ "prose": [
+  "In this Hello Deep Learning chapter, Bert Hubert tackles training speed two ways: do the calculations faster, or do fewer of them. Faster means parallelism - batches of 64 inputs processed as tensors so GPUs, SIMD instructions and multiple cores all work at once, which is safe because batch evaluation holds the network parameters constant and only the gradient application is sequential. It also means not writing your own matrix multiplication: switching his naive implementation to the Eigen library delivered an immediate 320-fold speedup.",
+  "Fewer calculations means using derivatives better. Plain gradient descent - every parameter nudged by a fixed multiple of its derivative - is like climbing a hill in tiny equal steps: on a complex landscape it nearly stalls on flat sections and then overshoots. The chapter sets up smarter update rules (momentum and ADAM, per the title) as the fix, with a rare look inside the network at how parameters actually evolve during training. The excerpt ends as the improved optimizer is introduced."
+ ],
+ "highlights": [
+  "Two levers for training speed: faster calculations or fewer of them - deep learning uses both",
+  "Batches of 64 as stacked tensors let GPUs, SIMD and multiple cores work in parallel",
+  "Why it parallelizes: parameters stay constant during batch evaluation; only gradient application is sequential",
+  "His cautionary benchmark: a professional matrix library (Eigen) beat his hand-written matmul by 320x",
+  "'Unless you really know what you are doing, you have no business implementing matrix multiplication yourself'",
+  "Fixed-step gradient descent nearly gets stuck on flat regions and overshoots valleys on complex landscapes",
+  "The chapter pivots to better use of derivatives - momentum and ADAM - plus inspection of how parameters evolve",
+  "Slow training isn't just inconvenient: it caps how much you can experiment and wastes energy"
+ ],
+ "id": "d1ae49be59e2",
+ "authored_at": "2026-09-27T19:08:51.173607+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}
