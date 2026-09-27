@@ -6,22 +6,19 @@ _type: news-summary · created: 2026-09-25 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-The funny thing about Anthropic haters is that they still mostly believe Anthropic’s marketing.
+geohot argues that Anthropic's loudest critics still believe Anthropic's marketing: they accept the picture of Claude as a recursively self-improving silicon god and therefore hand the company more power than it deserves. The technology to build models, he says, is far more commodity than previous generations of tech - the main variable is willingness to spend on compute and data - and Anthropic's ideology pushes it to train bigger models than is economically rational. Once you reject the premise, the drama shrinks to an ordinary question: who captures margin in a commoditizing industry?
 
-They think Claude is a recursively self-improving silicon God, and that we are all a couple refusals away from falling into the perpetual underclass.
-
-The funny thing about Anthropic haters is that they still mostly believe Anthropic’s marketing.
+His prediction rests on the tractor fallacy. When a tractor replaces a team of diggers, naive finance assumes the tractor market will be the size of the hole-digging market. But unless there is price fixing, the price of the labor is set by its real cost in a competitive market, not by the value it replaced. Applied to AI: the industry will not capture the value of all the cognition it automates - it will be competed down toward cost, which is why AI will be massively deflationary.
 
 ## Highlights
 
-- This gives them way more power than they deserve.
-- They think Claude is a recursively self-improving silicon God, and that we are all a couple refusals away from falling into the perpetual underclass.
-- A lot of people in history have had dumb ideas about ruling the world, doesn’t mean they can actually do it.
-- They are a product of the rationalist cult (which surprise surprise, thinks the world is going to end soon but advocates for polyamory in the mean time).
-- Remember when SBF wanted to regulatory capture all of crypto?
-- Imagine a tractor replacing a team of people to dig holes.
-- At first, finance people are stupid, and think that the size of the tractor market will be the size of the hole digging market.
-- So if holes become 10x cheaper to dig, the hole digging market size in dollars becomes 10x smaller.
+- Anthropic's haters, ironically, still believe Anthropic's marketing
+- Model-building tech is commodity: compute and data spend is the main barrier
+- Their ideology pushes them to train bigger models than economics justifies
+- Reject the premise and the question becomes who captures margin in a commodity market
+- The tractor fallacy: the tractor market does not equal the hole-digging market
+- Labor's price is set by real cost in a competitive market, not replaced value
+- Conclusion: AI will be massively deflationary
 
 ## Source
 

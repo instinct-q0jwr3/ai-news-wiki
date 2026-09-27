@@ -1,22 +1,20 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Distributing LLM inference in DwarfStar · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790471074"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Distributing LLM inference in DwarfStar</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Distributing LLM inference in DwarfStar · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790471202"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Distributing LLM inference in DwarfStar</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high</p>
 <p><code>antirez</code> <code>apple</code> <code>nvidia</code> <code>xiaomi</code> <code>deepseek</code> <code>small-specialist-models</code> <code>compute-buildout</code></p>
 <h2 id="summary">Summary</h2>
-<p>High end NVIDIA cards, and the server and power needed to run them, cost a lot of money, especially if you plan to reach enough VRAM to run massive models.</p>
-<p>The alternative, so far, has been Apple hardware, or the DGX Spark that, even if severely limited because of memory bandwidth, still allows to run LLMs prompt processing (prefill) fast enough.</p>
-<p>The Mac Studio provided up to 512GB unified memory, a solution with modest memory bandwidth (but much better than the Spark) and compute at a price that was, after all, given the current situation, relatively fair.</p>
+<p>antirez surveys the economics of local LLM inference and what they mean for his DwarfStar engine. High-end NVIDIA setups are out of reach for most, and the RAM shortage makes a hypothetical M5 Ultra Mac Studio unlikely. A Mac Studio M3 Ultra 512GB runs DeepSeek v4 PRO - even at 2-bit quantization - at 150 t/s prefill and about 10-13 t/s decoding for roughly 12k total, while today's best deal is arguably a laptop: an M5 Max 128GB MacBook runs DeepSeek v4 Flash and Mimo V2.5 at about 500 t/s prefill and 35-40 t/s decoding for 6-7k.</p>
+<p>That hardware reality makes distributed inference interesting: what can two or four Macs do together? He walks through the classic options - splitting layers across machines (simple activations-only traffic, and micro-batching can even speed up prefill), splitting MoE experts across machines over Apple RDMA (activations are tiny; suits models with large routed experts), and tensor parallelism, which he rules out without NVLink-class interconnects. His preferred third way is newer: run two different open-weight models shared-nothing on separate machines and ensemble them, picking the lower-perplexity continuation or combining logits - an implicit two-expert mixture that recent papers suggest genuinely beats either model alone.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>For instance, with DwarfStar the Mac Studio M3 Ultra 512GB can run DeepSeek v4 PRO at 150 t/s prefill and ~10-13 t/s decoding, not great but at a level that is usable for certain use cases.</li>
-<li>Even 2-bit quantized, DeepSeek v4 PRO resists very well, like Flash at the same quantization (today I made PRO write a C compiler, I'll publish the video soon).</li>
-<li>I would not consider a trivial fact to run a frontier model at home, with a ~12k total spending.</li>
-<li>One could expect this to get better and better, but the situation at the horizon appears cloudy.</li>
-<li>There is almost zero hope that NVIDIA setups will get less expensive, and even a small company can’t afford to easily purchase and handle a small data center for local inference.</li>
-<li>At the same time the RAM shortage is making it not exactly likely that we will see a Mac Studio with an M5 Ultra, maybe 1.2T/s memory bandwidth and more compute (the M5 Max is already faster, compute wise, and has the Neural…</li>
-<li>So the current situation for local inference is that the best machine is probably a laptop.</li>
-<li>If this is the situation, for local inference projects in general, and for DwarfStart in particular, looking at distributed inference starts to be interesting.</li>
+<li>Mac Studio M3 Ultra 512GB: DeepSeek v4 PRO at ~150 t/s prefill, 10-13 t/s decode, ~12k total</li>
+<li>Even 2-bit quantized, DeepSeek v4 PRO 'resists very well' - it wrote a C compiler</li>
+<li>RAM shortage makes an M5 Ultra unlikely; an M5 Max 128GB laptop is the current best deal</li>
+<li>M5 Max: DeepSeek v4 Flash / Mimo V2.5 at ~500 t/s prefill, 35-40 t/s decode, for 6-7k</li>
+<li>Distribution option 1: split layers across machines; activations-only traffic, micro-batched prefill</li>
+<li>Option 2: split MoE experts over Apple RDMA; tiny activations, suits big routed experts</li>
+<li>Tensor parallelism ruled out - interconnects are far too slow</li>
+<li>Option 3: two different models on two machines, ensembled by perplexity or logits</li>
 </ul>
-<p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
 <h2 id="source">Source</h2>
 <p><a href="http://antirez.com/news/167">Read the original story</a></p>
 <h2 id="related-pages">Related pages</h2>

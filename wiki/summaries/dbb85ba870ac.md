@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-Today's links But do you use keyboard shortcuts?: AI people are WEIRD.
+Cory Doctorow dissects what he calls the weirdest recurring motif of the AI labor wars: bosses demanding reassurance that their workers and contractors will absolutely use AI to get the job done. That demand is strange, he argues, because for most people AI is a synonym for low quality - nobody cheers that a teacher or a customer service department was replaced by AI, and his teenager's generation uses 'that's so AI' to mean low-effort.
 
-Object permanence: "Changeling"; Sony Rootkit vs CD drives; Google's scumbag lobbyists; NJ's e-voting coverup; Spying sex toys; Scott Walker dark money leak; "REAMDE"; Snowden's pardon.
-
-Upcoming appearances: Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa.
+Bosses are the exception. The essay documents how management has become positively evangelical about forced AI adoption, harassing employees into using the tools regardless of whether they help. In Doctorow's framing this is a cult of Taylorist productivity theater - the modern equivalent of quizzing workers on whether they use keyboard shortcuts - where visible compliance with the AI mandate matters more than the work itself.
 
 ## Highlights
 
-- Latest books: You keep readin' em, I'll keep writin' 'em.
-- Upcoming books: Like I said, I'll keep writin' 'em.
-- But do you use keyboard shortcuts? (permalink) Of all the weird recurring motifs of the stories people tell me about the AI labor wars, the weirdest is when bosses demand to be reassured that their contractors and workers will…
-- That's weird for the obvious reason that for most people "AI" is a synonym for "low quality." No one ever said "My kid's math teacher was replaced with AI" in a happy tone of voice.
-- No one ever said, "Oh, great, they replaced their customer service department with AI chatbots!" My teenager and her friends use "That's so AI" as a shorthand for "That's low-effort shit." Not bosses, though.
-- My illustrator friends whose clients want to be assured that the work is being done "with AI" were never before asked "Did you use a Wacom tablet to draw these lines?
-- That's like asking "Do you use keyboard shortcuts, or do you mouse over the Word ribbon and click on the little scissors icon when you want to cut some text?" The actual, finished document is right in front of you.
-- AI is sold as a way to wire the toy steering wheel directly into the corporation's drive-train: https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism Seen in this light, bosses' insistence that workers…
+- Motif of the AI labor wars: bosses demanding proof workers will use AI
+- For most people, AI signals low quality - 'that's so AI' means low-effort
+- Bosses are the outlier, pressuring staff into AI use
+- Doctorow reads mandatory AI adoption as Taylorist productivity theater
+- The keyboard-shortcuts analogy: compliance signaling over actual output
 
 ## Source
 

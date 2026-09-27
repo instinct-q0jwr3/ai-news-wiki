@@ -1,20 +1,17 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hello Deep Learning: Dropout, data augmentation, weight decay and quantisation · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790471074"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hello Deep Learning: Dropout, data augmentation, weight decay and quantisation</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hello Deep Learning: Dropout, data augmentation, weight decay and quantisation · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790471202"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hello Deep Learning: Dropout, data augmentation, weight decay and quantisation</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high</p>
 <p><code>bert-hubert</code></p>
 <h2 id="summary">Summary</h2>
-<p>This page is part of the Hello Deep Learning series of blog posts.</p>
-<p>You are very welcome to improve this page via GitHub!</p>
-<p>In the previous chapter we found ways to speed up our character recognition learning by a factor of 20 by using a better optimizer, and a further factor of four by cleverly using threads using a ‘shared nothing architecture’.</p>
+<p>In this chapter of his Hello Deep Learning series, Bert Hubert moves from making a convolutional network fast to making it robust. Earlier chapters delivered a 20x speedup from a better optimizer and another 4x from shared-nothing multithreading; the digit recognizer now scores well on training and validation sets. But is it robust, or has it merely internalized the training set's details?</p>
+<p>The motivation is a failure seen earlier: flip a few pixels or shift the digit slightly and recognition collapses, because the linear combination behind the network was tied to actual pixel positions, not to shapes. This chapter introduces the standard remedies and what each one really does: dropout, data augmentation, weight decay and quantisation.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>We also learned how we can observe the development of parameters.</li>
-<li>This page is part of the Hello Deep Learning series of blog posts.</li>
-<li>You are very welcome to improve this page via GitHub !</li>
-<li>This is the only feature discussed in this blog series that is not (currently) present in the demo code.</li>
-<li>In the previous chapter we found ways to speed up our character recognition learning by a factor of 20 by using a better optimizer, and a further factor of four by cleverly using threads using a ‘shared nothing architecture’.</li>
-<li>So our convolutional network is now super fast, and performs well on training and validation sets.</li>
-<li>Let’s see how the network performs with slightly modified inputs: Well, that is disappointing.</li>
-<li>Through a technique called data augmentation , we can shake up our training set, making sure our network is exposed to more variation.</li>
+<li>Part of Bert Hubert's Hello Deep Learning series</li>
+<li>Recap: 20x from a better optimizer, 4x more from shared-nothing threads</li>
+<li>The robustness question: high scores, or memorized training-set details?</li>
+<li>Flipped pixels or a moved digit broke the earlier recognizer</li>
+<li>The network keyed on pixel positions rather than shapes</li>
+<li>Chapter covers dropout, data augmentation, weight decay and quantisation</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://berthub.eu/articles/posts/dropout-data-augmentation-weight-decay/">Read the original story</a></p>
