@@ -1,0 +1,17 @@
+{
+ "id": "7d68d0dd53c0",
+ "authored_at": "2026-09-27T13:08:49.441084+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Geoffrey Litt revives a 1992 talk by Mark Weiser as the best critique of today's AI interface design. At an MIT Media Lab event on 'interface agents', everyone was excited about virtual personal assistants - except Weiser, who rejected the 'copilot' metaphor outright. His example: a computer can help a pilot avoid collisions either as a copilot - a virtual human who yells 'collision, go right and down!' - or by designing the cockpit so the pilot is naturally aware of their surroundings. His goal was the 'invisible computer': you would no more fly into another plane than walk through a wall.",
+  "Litt's translation to 2026: copilots make AI a conversation partner you must manage, while a HUD (heads-up display) keeps computation inside the user's own perception and control. Designing for ambient awareness rather than delegation is the road not taken - and still available."
+ ],
+ "highlights": [
+  "Weiser critiqued 'copilot' AI as early as 1992.",
+  "Copilot = a virtual human you talk to and manage.",
+  "Alternative: HUD - awareness built into the environment.",
+  "'No more run into another airplane than walk through a wall.'",
+  "Litt: choose augmented perception over delegated conversation."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "57ba6b2de17e",
+ "authored_at": "2026-09-27T13:07:29.162344+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The opening chapter of Bert Hubert's Hello Deep Learning series builds a first neural network from scratch: a classifier that tells handwritten 3s from 7s, using the extended EMNIST dataset rather than the classic MNIST. The chapter splits deliberately into a code-free theory half and an implementation half, so readers can take the ideas without the plumbing.",
+  "Hubert's framing is that this trivial exercise should both underwhelm ('is this all?') and impress - linear combinations over pixels already separate most 3s from 7s, which is the seed from which everything else in deep learning grows."
+ ],
+ "highlights": [
+  "First chapter of the Hello Deep Learning from-scratch series.",
+  "Build a 3-vs-7 handwritten digit classifier.",
+  "Uses the improved EMNIST dataset (280k images).",
+  "Theory half needs no code; implementation half optional.",
+  "Message: even linear combinations do surprising work."
+ ]
+}

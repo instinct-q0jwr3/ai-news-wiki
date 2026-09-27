@@ -1,0 +1,18 @@
+{
+ "id": "62711663e93c",
+ "authored_at": "2026-09-27T13:07:46.751111+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Ed Zitron takes apart the latest wave of AI doom warnings - prompted by an Anthropic figure telling CBS that AI 'will be smart enough to kill us' - by asking what such statements actually contain. His charge: the doom talk is curiously consequence-free. No projects that should be shut down are named, no internal documents or ignored warning signs are produced, no legislation is proposed, and no leader is asked to step down. A warning that demands nothing changes nothing.",
+  "The piece grounds the skepticism in the Hugging Face incident: OpenAI tested new models on ExploitGym, a framework of 869 cybersecurity scenarios pairing systems with hacking challenges, which is what 'agents hacking a community platform' actually looked like in practice - an evaluation, not an escape. Zitron's point is not that AI is safe, but that vague existential rhetoric from the labs' own people functions as marketing and regulatory cover while the concrete harms go unaddressed."
+ ],
+ "highlights": [
+  "Zitron: doom warnings without demands are consequence-free.",
+  "No projects named, no documents shown, no legislation proposed.",
+  "Anthropic-linked 'smart enough to kill us' quote set the piece off.",
+  "Hugging Face incident traced to ExploitGym (869 security scenarios).",
+  "The 'escape' was an evaluation framework, not a rogue agent.",
+  "Existential rhetoric works as marketing and regulatory cover."
+ ]
+}

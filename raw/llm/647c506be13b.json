@@ -1,0 +1,17 @@
+{
+ "id": "647c506be13b",
+ "authored_at": "2026-09-27T13:07:46.751111+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The second chapter of Bert Hubert's Hello Deep Learning takes the linear-combination network built earlier and makes it actually learn. Same dataset, same simple architecture - but now the weights are adjusted by gradient descent rather than set by hand. Hubert again splits the chapter into a code-free theory half and an implementation half.",
+  "Practical details surface here for the first time: the learning rate (he uses 0.01 rather than the typical 0.1 because slower learning seeks out optima more diligently and improves final results), and a forward pointer to learning-rate schedulers that automate the tuning. The series' signature is intact: the demo should feel simultaneously trivial and quietly impressive."
+ ],
+ "highlights": [
+  "Hello Deep Learning chapter 2: the network learns by itself.",
+  "Gradient descent replaces hand-set weights.",
+  "Learning rate 0.01: slower but finds better optima.",
+  "Schedulers to automate rates come in a later chapter.",
+  "Theory half code-free; code half optional."
+ ]
+}

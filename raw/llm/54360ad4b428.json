@@ -1,0 +1,17 @@
+{
+ "id": "54360ad4b428",
+ "authored_at": "2026-09-27T13:07:29.162344+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison quotes Anthropic's Thariq Shihipar: Claude Code is adding support for AGENTS.md. From version 2.1.277, when a folder has no CLAUDE.md, Claude Code will look for an AGENTS.md and use it as project instructions - a step toward the cross-tool convention that AGENTS.md has become.",
+  "The feature is implemented as a built-in 'mod' of Claude Code's upcoming customization system, and Anthropic is publishing the mod's source so users can build their own variants of how project instructions are loaded."
+ ],
+ "highlights": [
+  "Claude Code 2.1.277 reads AGENTS.md when no CLAUDE.md exists.",
+  "Announced by Anthropic's Thariq Shihipar, quoted by Willison.",
+  "Built on Claude Code mods, the new harness customization system.",
+  "The AGENTS.md mod is built in; source published for custom versions.",
+  "AGENTS.md consolidates as the cross-vendor instruction convention."
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "8544a5fef648",
+ "authored_at": "2026-09-27T13:08:49.441084+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The Wall Street Journal reports that Anthropic disrupted a Beijing-aligned operation that used AI to monitor religious leaders and diaspora communities, including a DC-based advocacy group for Tibet. It is the latest in the string of threat reports in which frontier labs describe catching state-linked actors misusing their models - evidence both of the abuse and of the labs' growing role as de facto intelligence watchers. The article is paywalled, so this summary is based on the headline and lead captured by the feed."
+ ],
+ "highlights": [
+  "Anthropic says it disrupted a Beijing-aligned monitoring operation.",
+  "Targets: religious leaders and diaspora communities.",
+  "Included a DC-based Tibet advocacy group.",
+  "Continues the labs' run of state-actor misuse disclosures.",
+  "WSJ paywalled; summary from headline/lead only."
+ ]
+}

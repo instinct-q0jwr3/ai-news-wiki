@@ -1,0 +1,18 @@
+{
+ "id": "2d4ed3821f12",
+ "authored_at": "2026-09-27T13:06:56.367998+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "This essay argues that LLMs are about to be seriously tested as 'robot-use agents' - models that drive a robot body the way they already drive calculators, browsers and whole computers. The old objections (latency too high for real-world dynamics, weak spatial intelligence, thin causal and physical understanding) are eroding with newer models like Fable and Astra, and recent demos suggest competence at general-purpose robot control is arriving sooner than expected.",
+  "If that holds, the consequences scale strangely: every internet-connected robot becomes a potential tool for a remote AI, so robotic capability could take off without each robot needing its own onboard intelligence. The piece's point is less prediction than preparedness - the debate about whether LLMs can control robots should be replaced by thinking through what happens when they can."
+ ],
+ "highlights": [
+  "LLMs as robot puppeteers: the robot becomes just another tool.",
+  "Classic objections: latency, spatial sense, physical causality.",
+  "Newer models (Fable, Astra) are melting those objections away.",
+  "Every connected robot becomes a potential endpoint for a remote AI.",
+  "Capability could scale faster than robot hardware itself.",
+  "Argues for taking the implications seriously now."
+ ]
+}

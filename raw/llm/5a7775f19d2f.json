@@ -1,0 +1,17 @@
+{
+ "id": "5a7775f19d2f",
+ "authored_at": "2026-09-27T13:07:29.162344+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison tries Google's two new Gemini text-to-speech models - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts - which ship with a library of over 2,000 voices and can clone a custom voice from a 30-second sample (of your own voice or one you have rights to). Because the underlying API allows open CORS, he vibe-coded a bring-your-own-key playground with GPT-6 Astra to try it from the browser.",
+  "The API's standout feature for him is scripted multi-character conversation: each speaker gets its own voice and style instructions. His demo - two pelicans debating a move to Pacifica Pier, script by Claude 4.5 Opus - cost 2.74 cents for 1m18s of audio on the full Flash TTS model, generated in about 20 seconds."
+ ],
+ "highlights": [
+  "Google ships gemini-3.8-flash-tts and flash-lite-tts.",
+  "2,000+ built-in voices; custom voice from a 30s sample.",
+  "Willison vibe-coded a BYOK playground (GPT-6 Astra) via open CORS.",
+  "Multi-speaker scripts: per-character voices and style instructions.",
+  "Demo cost: 78 seconds of audio for 2.74 cents in ~20 seconds."
+ ]
+}

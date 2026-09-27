@@ -1,0 +1,14 @@
+{
+ "id": "6564dd7e87a6",
+ "authored_at": "2026-09-27T13:08:13.586544+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A report shared on Hacker News argues Wall Street is turning skeptical of the AI data-center boom: after months of ever-larger build-out announcements, investors are reportedly starting to question the returns on the enormous capital being committed to compute infrastructure. The article itself could not be fetched, so this summary is based on the headline and the debate it points to - financing, depreciation and utilization of the AI build-out - rather than the piece's specific data."
+ ],
+ "highlights": [
+  "Headline: Wall Street grows skeptical of the data-center boom.",
+  "Fits the ongoing debate over AI capex returns and financing.",
+  "Article not fetchable; summary based on the headline only."
+ ]
+}

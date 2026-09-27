@@ -1,0 +1,18 @@
+{
+ "id": "61a1b431ac99",
+ "authored_at": "2026-09-27T13:07:46.751111+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Scott Werner argues that enterprise software is heading the way of the self-checkout: vendors will no longer ship finished software but 'the raw materials of software', leaving the customer to do the labor. The grocery self-checkout did not eliminate the clerk's work - it transferred it to the shopper. The enterprise version is the forward-deployed-engineer model and AI-customizable platforms: the work of making the software fit moves from the vendor to the customer's own people.",
+  "For enterprises this is not a choice made by the user - nobody chooses to enter the Salesforce store. His warning is to notice who ends up holding the bag: when vendors ship raw materials plus AI tooling, 'customization' becomes unpaid implementation labor done by the buyer's staff, and the vendor books it as product."
+ ],
+ "highlights": [
+  "Self-checkout economics are coming to enterprise software.",
+  "Vendors will ship raw materials, not finished software.",
+  "The clerk's labor did not vanish - the consumer now does it.",
+  "Forward-deployed/AI-custom models transfer work to customers.",
+  "Enterprise buyers cannot opt out the way shoppers can.",
+  "'Customization' risks becoming unpaid customer labor."
+ ]
+}

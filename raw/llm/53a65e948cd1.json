@@ -1,0 +1,15 @@
+{
+ "id": "53a65e948cd1",
+ "authored_at": "2026-09-27T13:07:29.162344+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A lawsuit alleges that humans are reading users' ChatGPT conversations, according to the headline shared on Hacker News. The claim goes to a recurring privacy anxiety about chatbots: that provider-side reviewers, contractors or content-moderation pipelines can see what users type in confidence. The article text could not be captured cleanly (the fetched page did not contain the story), so this summary is based on the headline alone and the specific claims, parties and court remain unverified here."
+ ],
+ "highlights": [
+  "Lawsuit claims humans read ChatGPT user chats.",
+  "Touches the standing privacy concern over human review of conversations.",
+  "Article body not captured; summary based on the headline only.",
+  "Parties, court and specific allegations unverified from this capture."
+ ]
+}

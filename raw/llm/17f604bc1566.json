@@ -1,0 +1,18 @@
+{
+ "id": "17f604bc1566",
+ "authored_at": "2026-09-27T13:06:56.367998+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Sean Goedecke argues that the popular 'chess centaur' analogy for AI-assisted programming is misleading. In chess there was a middle period where human-AI pairs beat both humans and AIs; many engineers believe software is in that phase now. His claim: AI-assisted engineers do outperform unassisted ones, but not because the pair is better at programming - the value of the human in the loop is alignment (judgment about what to build, catching wrong directions), not capability.",
+  "The practical consequence, in his advice to a beginning engineer: do not build your career plan on being the capable half of a centaur. If the human's real contribution is steering and taste, then skill at reviewing, specifying and directing agents matters more than out-coding them - and the analogy's implied reassurance that humans stay essential for raw programming ability is weaker than it feels."
+ ],
+ "highlights": [
+  "Chess-centaur analogy for AI pair programming is the wrong frame.",
+  "AI-assisted engineers are better, but not better 'at programming'.",
+  "Human contribution is alignment: judgment, direction, review.",
+  "Agents already make fewer outright coding mistakes than he does.",
+  "Career advice: learn to specify and steer, not to out-code AI.",
+  "Part of his advice-to-a-beginning-engineer series."
+ ]
+}

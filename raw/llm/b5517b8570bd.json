@@ -1,0 +1,15 @@
+{
+ "id": "b5517b8570bd",
+ "authored_at": "2026-09-27T13:06:56.367998+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "A Lobsters-shared piece on turning GLM-5.3-Flash into a 'Jev-like System One model': the idea, per the title, is to configure the small, fast GLM-5.3-Flash model to answer from immediate intuition - System One thinking in Kahneman's terms, as popularized for LLMs by the character Jev - rather than deliberate step-by-step reasoning. Only the title and link metadata could be captured; the page content was not fetchable, so this summary is limited to that premise."
+ ],
+ "highlights": [
+  "Topic: steering GLM-5.3-Flash toward fast 'System One' style answers.",
+  "References the 'Jev' persona associated with one-shot, intuitive responses.",
+  "Shared on Lobsters as an AI-relevant development.",
+  "Page content unavailable; summary based on the title only."
+ ]
+}

@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-27T07:03:26+00:00",
+ "generated_at": "2026-09-27T13:04:37+00:00",
  "stories": [
   {
-   "id": "1215c27934dc",
-   "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+   "id": "8a545290485c",
+   "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
    "source": "Hacker News",
-   "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash"
+   "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
   },
   {
-   "id": "ecc94dc436a3",
-   "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA"
+   "id": "f8ba3c5edbdc",
+   "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2609.25021"
   },
   {
-   "id": "0b355649f124",
-   "title": "Numeral, a provider of AI-powered tech to automate sales tax compliance workflows in over 90 countries, raised a $100M Series C led by Insight Partners",
-   "source": "Techmeme",
-   "url": "https://fintech.global/2026/09/24/numerals-100m-series-c-bets-on-sales-tax-complexity/"
+   "id": "94e1bdbe8c0d",
+   "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+   "source": "Hacker News",
+   "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20"
   },
   {
-   "id": "395b0440e7ff",
-   "title": "How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF"
+   "id": "2d4ed3821f12",
+   "title": "Robot-use agents",
+   "source": "Lobsters",
+   "url": "https://web.mit.edu/phillipi/www/writing/robot-use-agents.html"
   },
   {
-   "id": "5ef7456079af",
-   "title": "OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
+   "id": "17f604bc1566",
+   "title": "Human-AI partnerships are for alignment, not capability",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/"
   },
   {
-   "id": "eae7fc96c2ab",
-   "title": "PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners",
+   "id": "ad6665a4c6a4",
+   "title": "In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/"
+   "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html?unlocked_article_code=1.EVE.h8tG.lRHxbBc3XBI8&smid=url-share"
   }
  ]
 }

@@ -1,0 +1,18 @@
+{
+ "id": "54b2cb9775b6",
+ "authored_at": "2026-09-27T13:07:29.162344+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Gwern's April 2021 newsletter: a collation of that month's links and site changes. On the ML research side he flags Set Transformer and Perceiver - early attempts to slim or generalize attention - and pauses on the question of whether attention was 'getting too much attention'. His answer: no. If the marginal return on Transformer research had fallen below rival directions, those neglected directions would be invading Transformer topics; instead the reverse kept happening, with whole application areas still untouched.",
+  "Also noted: Z-IL, showing predictive coding can perform exact backpropagation on any neural network, plus the usual mix of links and site changelog entries."
+ ],
+ "highlights": [
+  "Gwern's monthly link collation for April 2021.",
+  "Set Transformer and Perceiver: early attention variants.",
+  "'Is attention getting too much attention?' - his answer: no.",
+  "Test: neglected rival approaches would invade if returns had fallen.",
+  "Z-IL: predictive coding can do exact backprop.",
+  "Historical snapshot of the pre-LLM Transformer gold rush."
+ ]
+}

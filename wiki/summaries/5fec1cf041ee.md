@@ -6,22 +6,18 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-Today's links IP can't save you from AI: Property rights cannot substitute for labor rights and privacy rights.
+Cory Doctorow argues that expanding copyright is the wrong weapon for creative workers threatened by AI. Capital markets are pouring trillions into AI because they expect to fire workers, and many of his peers in the creative industries want to respond by making it unambiguously illegal to scrape the internet and train models on what the scrapers collect. His verdict: a losing strategy.
 
-Object permanence: Flying Brits v brown people; Probability neglect; Law v "enhanced patdowns"; Onion says Brits love paywalls; "Hench"; "Lessons in Magic and Disaster." Upcoming appearances: Sydney, Melbourne, Brighton, London, South Bend.
-
-Latest books: You keep readin' em, I'll keep writin' 'em.
+First, banning scraping or requiring licenses to publish facts about copyrighted works inflicts enormous collateral damage on a wide range of legitimate activity - archiving, search, critique, research - long before it inconveniences a frontier lab. The labor fight, in his view, has to be won as a labor fight (organizing, contracts, liability, competition policy), not by handing platforms a broader IP veto that incumbents will end up owning.
 
 ## Highlights
 
-- Upcoming books: Like I said, I'll keep writin' 'em.
-- First, because banning scraping, or requiring permission to count the elements in creative works, or demanding a license to publish collections of facts about copyrighted works will inflict enormous collateral damage on a wide variety…
-- From the OED to search engines to the Internet Archive, so many beneficial activities rely on the fact that copyright permits unlicensed collection and analysis of every copyrighted work as a single, massive corpus, and copyright allows…
-- A lot of people who are (rightfully) very angry about AI dispute this.
-- They believe that they can craft an "AI training" law that would ban scraping, analysis and publication when these activities are part of AI training, but not when they're undertaken for a benign purpose.
-- I think they're making the wrong trade-off because copyright will not protect their livelihoods from AI-based wage erosion.
-- This is where copyright fails to serve creative workers.
-- This, too, has been a failure: https://pluralistic.net/2026/03/03/its-a-trap/#inheres-at-the-moment-of-fixation The sale of Spirit's data to Google for AI training shows us that privacy and labor rights are indispensable.
+- Doctorow: copyright expansion will not save creative workers.
+- The AI investment thesis is firing workers, not making art.
+- Banning scraping/training causes huge collateral damage.
+- Would hit archiving, search, research before any frontier lab.
+- Labor interests need labor tools: organizing, contracts, policy.
+- More IP rights end up owned by the same platforms.
 
 ## Source
 

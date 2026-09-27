@@ -1,0 +1,18 @@
+{
+ "id": "691f7a21d3d4",
+ "authored_at": "2026-09-27T13:08:13.586544+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Bert Hubert dissects the revived EU 'chat control' proposal: led by Denmark, many member states again want to force WhatsApp, Signal and similar services to scan users' photos and links with AI. If the classifier has any doubt that an image could be child sexual abuse material, the photo plus location, phone number and other data would be forwarded to a new 'EU Centre', then Europol and local police.",
+  "His specifics are worth noting: at least four organizations would look at a reported private photo (Meta staff, the EU Centre, Europol, local police); the AI-scanning language was only recently re-added, against the Netherlands' opposition; and the proposal does not say what happens next - so a Cyprus holiday could end at a local police station, explaining your photos, in Greek. The post is in Dutch with links to translations."
+ ],
+ "highlights": [
+  "Danish-led push to make WhatsApp/Signal scan photos with AI.",
+  "'Doubt' triggers forwarding of photo, location, phone number.",
+  "Chain: Meta staff, new EU Centre, Europol, local police.",
+  "AI scanning re-added recently, over Dutch objections.",
+  "Hubert: consequences for the falsely flagged are unspecified.",
+  "Post in Dutch; translations linked."
+ ]
+}

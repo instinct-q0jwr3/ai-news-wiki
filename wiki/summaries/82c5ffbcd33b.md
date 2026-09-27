@@ -6,22 +6,18 @@ _type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence:
 
 ## Summary
 
-Hello HN, It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation?
+Show HN: a Claude Code skill that turns one of your chess games into a readable post-mortem - plain-language explanations of your mistakes, checked against Stockfish, plus a narrated video of the game. The author's own twist: during a 15+10 rapid game on lichess he recorded himself thinking aloud in French, then gave Claude the lichess link and the mp3. Claude transcribed the audio locally with whisper.cpp and used the PGN clock times to match each spoken thought to the move being decided.
 
-The next experiment was to see whether Claude + Stockfish could explain a game.
-
-Claude Code skills that turn one of your chess games into a post-mortem you can actually read: plain-language explanations of your mistakes, checked against Stockfish, and a narrated video of the whole game.
+The result is a video where the commentary answers your own questions ('at move eight you asked yourself whether the bishop belongs on c4 or e2') with engine verification - a personal coach built from your own voice. The post hit the HN front page; the author regrets demoing with a game containing a massive blunder of his own.
 
 ## Highlights
 
-- A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like "analyze my last lichess game", and gives me a commented video of the game.
-- The result is not perfect and it takes time to deliver (an hour or so), but for me it is a much more pleasant and memorable experience than clicking around Stockfish branches.
-- It burns tokens, so make sure you have enough quota.
-- From the session logs, the last analyzed game would have cost around $15 at API prices.
-- The fact that it reflects on my own thinking during the game makes it interesting from a teaching point of view, so I thought it was worth sharing.
-- After the game I gave Claude two things: the lichess link and the mp3.
-- Copy (or symlink) the skill folders into .claude/skills/ of your project, or into ~/.claude/skills/ for all projects: git clone https://github.com/brumar/chess-postmortem-skills cp -r chess-postmortem-skills/skills/ * ~ /.claude/skills/…
-- For your own games, tell Claude your level once and make it stick, for example in your CLAUDE.md : My lichess handle is <handle>.
+- Claude Code skill generates chess post-mortems in plain language.
+- Mistakes verified against Stockfish; narrated video output.
+- Syncs think-aloud audio to moves via PGN clock times.
+- Local transcription with whisper.cpp.
+- Commentary answers the player's own in-game questions.
+- Made the HN front page.
 
 ## Source
 

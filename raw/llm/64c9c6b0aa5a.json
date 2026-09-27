@@ -1,0 +1,14 @@
+{
+ "id": "64c9c6b0aa5a",
+ "authored_at": "2026-09-27T13:08:13.586544+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Salvatore Sanfilippo announces the first release candidate of Redis 4.0. The captured page is thin - essentially the announcement line itself - so this summary can only confirm the milestone: Redis 4.0 enters its release-candidate phase, the final stretch before a major stable release of the in-memory data store."
+ ],
+ "highlights": [
+  "Redis 4.0 release candidate 1 is out.",
+  "Announced by antirez (Salvatore Sanfilippo).",
+  "Captured text is minimal; details not available from this fetch."
+ ]
+}

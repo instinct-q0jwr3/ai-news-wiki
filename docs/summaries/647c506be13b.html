@@ -1,20 +1,16 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hello Deep Learning: actually learning something · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790504943"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hello Deep Learning: actually learning something</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hello Deep Learning: actually learning something · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790514592"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hello Deep Learning: actually learning something</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high</p>
 <p><code>bert-hubert</code></p>
 <h2 id="summary">Summary</h2>
-<p>This page is part of the Hello Deep Learning series of blog posts.</p>
-<p>In this chapter we’re going to take the neural network we made earlier, but actually make it do some learning itself.</p>
-<p>This page is part of the Hello Deep Learning series of blog posts.</p>
+<p>The second chapter of Bert Hubert's Hello Deep Learning takes the linear-combination network built earlier and makes it actually learn. Same dataset, same simple architecture - but now the weights are adjusted by gradient descent rather than set by hand. Hubert again splits the chapter into a code-free theory half and an implementation half.</p>
+<p>Practical details surface here for the first time: the learning rate (he uses 0.01 rather than the typical 0.1 because slower learning seeks out optima more diligently and improves final results), and a forward pointer to learning-rate schedulers that automate the tuning. The series' signature is intact: the demo should feel simultaneously trivial and quietly impressive.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>You are very welcome to improve this page via GitHub!</li>
-<li>And, oddly enough, this demonstration will again likely simultaneously make you wonder “is this all??” and also impress you by what even this trivial stuff can do.</li>
-<li>Earlier on this page we mentioned 0.1 as a typical learning rate.</li>
-<li>Here I’ve chosen 0.01 since the network learns plenty fast already, and by slowing it down, the final results improve a bit.</li>
-<li>This is because the network can seek out optima somewhat more diligently.</li>
-<li>In a later chapter we’ll read about learning rate schedulers that automate this process.</li>
-<li>This page is part of the Hello Deep Learning series of blog posts.</li>
-<li>In this chapter we’re going to take the neural network we made earlier , but actually make it do some learning itself.</li>
+<li>Hello Deep Learning chapter 2: the network learns by itself.</li>
+<li>Gradient descent replaces hand-set weights.</li>
+<li>Learning rate 0.01: slower but finds better optima.</li>
+<li>Schedulers to automate rates come in a later chapter.</li>
+<li>Theory half code-free; code half optional.</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://berthub.eu/articles/posts/first-learning/">Read the original story</a></p>

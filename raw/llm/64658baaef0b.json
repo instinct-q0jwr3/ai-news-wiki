@@ -1,0 +1,16 @@
+{
+ "id": "64658baaef0b",
+ "authored_at": "2026-09-27T13:07:46.751111+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The Wall Street Journal reports that Amazon plans to invest $100M in a robotics manufacturing facility in Indiana, slated to open by 2028. Context: Amazon's robots already operate at more than 300 facilities and touch roughly 75% of customer orders, so the plant expands in-house production of the machines its logistics network increasingly depends on. The article is paywalled, so this summary is based on the headline and lead captured by the feed."
+ ],
+ "highlights": [
+  "Amazon to invest $100M in an Indiana robotics plant.",
+  "Facility planned to open by 2028.",
+  "Amazon robots run at 300+ facilities today.",
+  "Robots involved in about 75% of customer orders.",
+  "WSJ piece is paywalled; summary from headline/lead only."
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "8ac12e01aba8",
+ "authored_at": "2026-09-27T13:09:34.558403+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Scott Werner makes the case for tmux as the natural habitat of agentic development. Physicists talk about parallel universes, but tmux users actually live in multiple realities at once - and modern agentic coding is exactly that: you are cooking dinner, answering a text, and remembering the cat, except the cat is a Claude Code instance and it is definitely hungry. Computers context-switch thousands of times a second; humans are stuck with tools designed for one terminal window.",
+  "His 'Tmux Menagerie' workflow - presented to Latent Space's AI In Action Club - is fifteen years of refinement applied to the new problem of supervising several AI agents in parallel: named sessions and windows per project, quick jumps between them, and a layout where every agent's output stays visible and recoverable."
+ ],
+ "highlights": [
+  "tmux as the habitat for parallel agentic coding.",
+  "Modern dev work = juggling Claude instances like house chores.",
+  "Tools were designed for one terminal; agents need many.",
+  "'Menagerie': named sessions per agent, all output visible.",
+  "15 years of tmux practice applied to agent supervision.",
+  "Presented at Latent Space's AI In Action Club."
+ ]
+}
