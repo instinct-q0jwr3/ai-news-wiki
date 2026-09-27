@@ -1,0 +1,15 @@
+{
+ "id": "40f2f97b9fb5",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Reuters reports that Anthropic committed to spending $11.6B over seven years on Akamai cloud services and secured an option to take a stake of up to 5% in the company; Akamai shares jumped more than 17% on the news. The article is behind bot protection, so this summary is based on the headline and lead captured by the feed."
+ ],
+ "highlights": [
+  "Anthropic commits $11.6B over 7 years to Akamai cloud services",
+  "Option to acquire up to a 5% stake",
+  "Akamai shares jumped 17%+",
+  "Bot-blocked - summary based on headline and lead"
+ ]
+}

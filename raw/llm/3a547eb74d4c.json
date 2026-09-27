@@ -1,0 +1,17 @@
+{
+ "id": "3a547eb74d4c",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Scott Werner opens with the NES cartridge ritual everyone had: three short breaths and one long one, or blowing through your shirt. It worked - provably, because the game started. What actually worked was reseating the cartridge so the flaky 72-pin connector found a new grip; the blowing just deposited moisture that corroded the contacts and made things worse over time. The fix was hiding inside the myth, because you couldn't blow without removing the cartridge first.",
+  "He turns this on how we talk to machines today: hours a day of prompting, everyone with a technique, everyone with proof. The question the essay plants is which parts of our AI rituals are the reseating - and which are the moisture."
+ ],
+ "highlights": [
+  "Everyone had an NES blowing technique - and everyone had proof it worked",
+  "The actual fix: reseating the cartridge; the blowing corroded the contacts",
+  "The working mechanism was bundled invisibly inside the ritual",
+  "Analogy: our prompting rituals with AI, each with its own 'proof'",
+  "Which parts of our techniques are the reseat, and which are the moisture?"
+ ]
+}

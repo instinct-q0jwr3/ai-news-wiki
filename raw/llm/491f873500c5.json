@@ -1,0 +1,13 @@
+{
+ "id": "491f873500c5",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Perplexity's research blog posts 'Escaping SPACE: Part I'. The page returned an error to the feed's fetcher, so this summary is limited to the title; the SPACE framework it refers to could not be verified from the source."
+ ],
+ "highlights": [
+  "Perplexity blog: 'Escaping SPACE: Part I'",
+  "Source fetch failed - summary based on the title only"
+ ]
+}

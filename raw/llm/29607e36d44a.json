@@ -1,0 +1,17 @@
+{
+ "id": "29607e36d44a",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison built llm-keys-ui, a plugin solving a specific problem: when he runs coding agents on remote machines from his phone via Codex Remote, those machines sometimes need API keys, and he doesn't want to paste keys into agent chat sessions.",
+  "With the plugin he tells the agent to run one uvx command, which serves a small web UI - reachable over the local network or Tailscale - where he can enter keys himself. The agent then retrieves keys non-interactively with 'llm keys get', so secrets never pass through the chat."
+ ],
+ "highlights": [
+  "llm-keys-ui: keep API keys out of agent chat sessions",
+  "Born from running coding agents on remote machines via Codex Remote",
+  "One uvx command serves a key-entry UI on local or Tailscale addresses",
+  "Agents then use 'llm keys get' non-interactively",
+  "Secrets flow through a side channel, never through the conversation"
+ ]
+}

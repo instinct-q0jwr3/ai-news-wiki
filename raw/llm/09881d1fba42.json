@@ -1,0 +1,17 @@
+{
+ "id": "09881d1fba42",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Kyle Jeong explains Jev, TypeSafe's class of 'System One' AI models built for fast, structured decisions that software can consume directly: state in, typed answers with probabilities out. TypeSafe claims Jev is 20-200x faster and 40-400x cheaper than LLMs, positioning it as a frontier-intelligence function call rather than a chat model.",
+  "Jev exposes three primitives - Choice, Score and Noul - and the article walks through a customer-support example where one call routes a message to the right department and detects an explicit refund request. Jeong's goal is to teach what Jev is, why it exists, and how to introduce it into production systems."
+ ],
+ "highlights": [
+  "Jev: 'System One' models for fast, typed decisions software can use directly",
+  "Claimed 20-200x faster and 40-400x cheaper than LLMs",
+  "Primitives: Choice, Score and Noul",
+  "Example: one call routes a support ticket and flags a refund request",
+  "Framed as a frontier-intelligence function call, not a chat model"
+ ]
+}

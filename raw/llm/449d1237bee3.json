@@ -1,0 +1,16 @@
+{
+ "id": "449d1237bee3",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison's LLM tool adds support for OpenAI's new models - gpt-6-sol (GPT-6 Sol) and gpt-6-luna (GPT-6 Luna) - plus a new capability for model plugins: declaring supports_conversation = False for models that only accept single-turn prompts, so llm raises ConversationNotSupported instead of silently mishandling history. The llm-typesafe plugin is the first user. Reasoning traces in the Markdown output of llm logs are now wrapped in collapsible details tags, and the release includes fixes from five new contributors."
+ ],
+ "highlights": [
+  "LLM adds OpenAI's GPT-6 Sol (gpt-6-sol) and GPT-6 Luna (gpt-6-luna)",
+  "New: plugins can declare single-turn-only models via supports_conversation = False",
+  "llm-typesafe is the first plugin to use it",
+  "Reasoning traces in llm logs now render collapsed",
+  "Bug fixes from five new contributors"
+ ]
+}

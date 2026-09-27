@@ -1,0 +1,17 @@
+{
+ "id": "2ab88584f0c5",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Sean Goedecke argues that giving LLMs a personality is simply good engineering, against skeptics - most recently Nathan Beacom - who say models should be explicit tools like calculators, since human-like presentation invites overestimation and AI psychosis.",
+  "His evidence is the 2026 flood of LLM-produced mathematical results: what was a once-a-year trickle of disputed proofs is now near-daily. The curious part is the prompting: getting Claude Mythos to produce a cryptographic breakthrough looks like asking 'please come up with a breakthrough' and then checking in every few hours to say 'keep looking'. If encouragement measurably helps, treating the model as something with morale isn't sentimentality - it's what works."
+ ],
+ "highlights": [
+  "Thesis: giving LLMs a personality is good engineering, not a hazard",
+  "Contrast: skeptics want calculator-style tools to avoid overestimation and psychosis",
+  "2026: LLM mathematical results went from yearly trickle to near-daily flood",
+  "The prompting style: ask for a breakthrough, then periodically say 'keep looking'",
+  "If moral support improves output, personality is an engineering feature"
+ ]
+}

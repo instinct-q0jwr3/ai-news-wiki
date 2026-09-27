@@ -1,0 +1,15 @@
+{
+ "id": "323b703723e3",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Bert Hubert closes his Hello Deep Learning series - a 20,000-word from-scratch introduction - with guidance on where to go next. His warning: much of what is online about deep learning is sloppy or plain wrong, so he keeps a curated short list of books and sites he has found genuinely useful, and invites readers to send their own favorites by pull request or email."
+ ],
+ "highlights": [
+  "Wrap-up page of the Hello Deep Learning series",
+  "A 20k-word introduction leaves much to learn - and much nonsense to avoid",
+  "Curated list of useful books and sites",
+  "Reader contributions welcome via GitHub or email"
+ ]
+}

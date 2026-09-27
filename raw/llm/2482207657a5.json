@@ -1,0 +1,17 @@
+{
+ "id": "2482207657a5",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Simon Willison quotes John Gruber's take on Meta's Muse: technically groundbreaking - every user gets their own persistent Linux VM in Meta's cloud - and packaged disarmingly, down to a cute mascot. It is the first consumer-accessible agentic AI system, and Meta has done an amazing job on the packaging.",
+  "But Gruber's power-saw analogy frames the worry: someone who buys a saw that can sever fingers knows what they bought, whereas consumers installing a cute agent have no real understanding of what it can do - especially, he adds, if it's running on your Mac. How powerful Muse is, and therefore how dangerous, is a genuinely open question most users are not equipped to evaluate."
+ ],
+ "highlights": [
+  "Gruber: Muse is groundbreaking - each user gets a persistent Linux VM in Meta's cloud",
+  "First consumer-accessible agentic AI, packaged with a cute mascot",
+  "Power-saw analogy: buyers know a saw's danger; users don't know an agent's",
+  "Special warning about running it on your own Mac",
+  "Open question whether consumers understand what they're installing"
+ ]
+}

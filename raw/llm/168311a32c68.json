@@ -1,14 +1,13 @@
 {
  "id": "168311a32c68",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
  "model": "agent-pass",
  "schema": "1",
  "prose": [
-  "The Qwen team presents Qwen-Image-2.1 on its blog, describing it as a compact, efficient and unified model for image creation. (Brief based on the link title.)"
+  "Qwen announces Qwen-Image-2.1, described as a compact, efficient and unified image-creation model. The Qwen blog is JavaScript-only and its content could not be extracted, so this summary is based on the announcement title captured by the feed."
  ],
  "highlights": [
-  "Qwen-Image-2.1 is billed as compact, efficient and unified for image creation.",
-  "Announced on the Qwen blog.",
-  "Drew 296 points and 114 comments on Hacker News."
+  "Qwen-Image-2.1: compact, efficient, unified image creation",
+  "Qwen blog is JS-only - summary based on the announcement title"
  ]
 }

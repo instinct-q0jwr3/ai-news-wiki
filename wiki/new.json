@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-09-27T01:02:44+00:00",
+ "generated_at": "2026-09-27T07:03:26+00:00",
  "stories": [
   {
-   "id": "da155b52dcf6",
-   "title": "An agent used DNS to reach an external chatbot",
-   "source": "Hacker News",
-   "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
+   "id": "5ef7456079af",
+   "title": "OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
   },
   {
-   "id": "906bdabef37a",
-   "title": "OpenAI pauses training of its 'most capable models'",
-   "source": "Hacker News",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+   "id": "395b0440e7ff",
+   "title": "How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF"
+  },
+  {
+   "id": "0b355649f124",
+   "title": "Numeral, a provider of AI-powered tech to automate sales tax compliance workflows in over 90 countries, raised a $100M Series C led by Insight Partners",
+   "source": "Techmeme",
+   "url": "https://fintech.global/2026/09/24/numerals-100m-series-c-bets-on-sales-tax-complexity/"
   },
   {
    "id": "1215c27934dc",
@@ -20,58 +26,16 @@
    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash"
   },
   {
-   "id": "7053d5e0b5ac",
-   "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
-   "source": "Hacker News",
-   "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/"
-  },
-  {
-   "id": "d66b5b84f6b0",
-   "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
-   "source": "Hacker News",
-   "url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/"
-  },
-  {
-   "id": "1b4e428c1952",
-   "title": "AI Data Center Are Monkey Business [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=2g7doI0BGrs"
-  },
-  {
-   "id": "e1ac398de338",
-   "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
-   "source": "Hacker News",
-   "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z"
-  },
-  {
-   "id": "6c51a9290266",
-   "title": "Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts",
+   "id": "eae7fc96c2ab",
+   "title": "PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32"
+   "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/"
   },
   {
-   "id": "c7d525557913",
-   "title": "AI Agents Push Humans Out of the Loop",
-   "source": "Lobsters",
-   "url": "https://arxiv.org/abs/2608.23642"
-  },
-  {
-   "id": "bd180609cfa1",
-   "title": "Kākāpō Party",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
-  },
-  {
-   "id": "31678332054b",
-   "title": "BREAKING: AI agent incident toll has risen to tens of thousands",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has"
-  },
-  {
-   "id": "de0ccb0283d1",
-   "title": "US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more",
+   "id": "ecc94dc436a3",
+   "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data",
    "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/"
+   "url": "https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA"
   }
  ]
 }

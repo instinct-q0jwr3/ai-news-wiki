@@ -1,22 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A few words on DS4 · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790471202"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>A few words on DS4</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A few words on DS4 · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790492826"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>A few words on DS4</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high</p>
 <p><code>antirez</code> <code>anthropic</code> <code>deepseek</code> <code>agentic-systems</code> <code>external-evaluation</code> <code>ai-coding-agents</code> <code>compute-buildout</code></p>
 <h2 id="summary">Summary</h2>
-<p>I didn’t expect DwarfStar 4 (https://github.com/antirez/ds4) to become so popular so fast.</p>
-<p>And, of course: all the experience produced by the local AI movement in the latest years, that can be leveraged more promptly because of GPT 5.5 (otherwise you can’t build DS4 in one week — and even with all this help you need to know…</p>
-<p>The last week was funny and also tiring, I worked 14 hours per day on average.</p>
+<p>antirez reflects on DwarfStar 4's unexpected popularity: it landed at the intersection of pent-up demand for a single-model, well-integrated local AI experience, the release of a quasi-frontier open model large and fast enough to change local inference, and an extremely asymmetric 2/8-bit quantization recipe that lets 96-128GB of RAM run it. He also credits the local AI movement's accumulated experience - and GPT 5.5, without which DS4 couldn't have been built in one week. The launch week meant 14-hour days, a pace he hadn't kept since early Redis.</p>
+<p>On what's next: DS4 is not tied to DeepSeek v4 Flash - the slot will be held by whatever open-weights model is practically fastest on a high-end Mac or GPU-in-a-box. He expects the next contender to be DeepSeek v4 Flash's own next checkpoint, and sees expert variants - ds4-coding, ds4-legal, ds4-medical - as the natural future: load the model the question needs.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>My normal average is 4/6 since early Redis times, but the first few months of Redis were like that.</li>
-<li>Is this a project that starts and ends with DeepSeek v4 Flash?</li>
-<li>The space will be occupied, in my vision, by the best current open weights model that is *practically fast* on a high end Mac or “GPU in a box” gear (like the DGX Spark and other similar setups).</li>
-<li>I bet that the next contender is DeepSeek v4 Flash itself, in the new checkpoint that will be released and, hopefully, a version specifically tuned for coding, and who knows, other expert-variants (not in the sense of MoE experts) maybe.</li>
-<li>For local inference, to have a ds4-coding, ds4-legal, ds4-medical models make a lot of sense, after all.</li>
-<li>It is the first time since I play with local inference (I play with it since the start) that I find myself using a local model for serious stuff that I would normally ask to Claude / GPT.</li>
-<li>DeepSeek v4 Flash is really an impressive model, no doubt about that.</li>
-<li>If you can imagine in your mind the small good local model experience as A, and the frontier model you use online as B, DS4 is a lot more B than A.</li>
+<li>DwarfStar 4: a single-model local AI experience that hit a real need</li>
+<li>Ingredients: quasi-frontier open model + asymmetric 2/8-bit quants on 96-128GB</li>
+<li>Built in one week with GPT 5.5's help - 'you need to know how to gently talk to LLMs'</li>
+<li>Launch week: 14-hour days, like early Redis</li>
+<li>Vision: the model slot rotates to the best practically-fast open weights model</li>
+<li>Expected: ds4-coding, ds4-legal, ds4-medical variants you load per task</li>
 </ul>
-<p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
 <h2 id="source">Source</h2>
 <p><a href="http://antirez.com/news/165">Read the original story</a></p>
 <h2 id="related-pages">Related pages</h2>

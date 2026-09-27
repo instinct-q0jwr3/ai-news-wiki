@@ -1,0 +1,18 @@
+{
+ "id": "415066f44568",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez reflects on DwarfStar 4's unexpected popularity: it landed at the intersection of pent-up demand for a single-model, well-integrated local AI experience, the release of a quasi-frontier open model large and fast enough to change local inference, and an extremely asymmetric 2/8-bit quantization recipe that lets 96-128GB of RAM run it. He also credits the local AI movement's accumulated experience - and GPT 5.5, without which DS4 couldn't have been built in one week. The launch week meant 14-hour days, a pace he hadn't kept since early Redis.",
+  "On what's next: DS4 is not tied to DeepSeek v4 Flash - the slot will be held by whatever open-weights model is practically fastest on a high-end Mac or GPU-in-a-box. He expects the next contender to be DeepSeek v4 Flash's own next checkpoint, and sees expert variants - ds4-coding, ds4-legal, ds4-medical - as the natural future: load the model the question needs."
+ ],
+ "highlights": [
+  "DwarfStar 4: a single-model local AI experience that hit a real need",
+  "Ingredients: quasi-frontier open model + asymmetric 2/8-bit quants on 96-128GB",
+  "Built in one week with GPT 5.5's help - 'you need to know how to gently talk to LLMs'",
+  "Launch week: 14-hour days, like early Redis",
+  "Vision: the model slot rotates to the best practically-fast open weights model",
+  "Expected: ds4-coding, ds4-legal, ds4-medical variants you load per task"
+ ]
+}

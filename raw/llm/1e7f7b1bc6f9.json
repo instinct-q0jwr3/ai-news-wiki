@@ -1,0 +1,17 @@
+{
+ "id": "1e7f7b1bc6f9",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Armin Ronacher wanted to see if a cheap Chinese CarPlay dongle could run something more interesting than its stock firmware. Through a conversation with LLM assistants he learned about CatPlay, a Rust reimplementation of the CarPlay protocol that runs on Carlinkit devices, and bought a Carlinkit Mini Ultra to try it.",
+  "The device that arrived was branded correctly but turned out to use entirely different hardware from the Ingenic model the CatPlay author used - normally where the story would stop. But it's 2026: armed with an LLM, he keeps going, and the post chronicles what latent capability these tools add to a hobbyist willing to push past a dead end."
+ ],
+ "highlights": [
+  "Goal: run custom code on a cheap CarPlay dongle while keeping CarPlay passthrough",
+  "Found CatPlay, a Rust CarPlay-protocol reimplementation for Carlinkit devices, via an LLM chat",
+  "His Carlinkit Mini Ultra arrived with different hardware than expected",
+  "2026 twist: with an LLM's help, a wrong-hardware dead end becomes solvable",
+  "A study in the latent powers AI adds to hobbyist hacking"
+ ]
+}

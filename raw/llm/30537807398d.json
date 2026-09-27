@@ -1,0 +1,14 @@
+{
+ "id": "30537807398d",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The New York Times reports that insurers claim hospitals' use of AI was responsible for roughly $1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims. The article is paywalled, so this summary is based on the headline and lead captured by the feed."
+ ],
+ "highlights": [
+  "Insurers blame hospital AI use for ~$1B in extra expenses in 2024-25",
+  "Mechanism: more patient data collected, larger claims submitted",
+  "Paywalled - summary based on headline and lead"
+ ]
+}

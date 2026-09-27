@@ -1,22 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790471202"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790492826"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code</h1>
 <p class="meta">type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high</p>
 <p><code>antirez</code> <code>openai</code> <code>anthropic</code> <code>agentic-systems</code> <code>small-specialist-models</code> <code>ai-coding-agents</code> <code>compute-buildout</code> <code>ai-policy-regulation</code></p>
 <h2 id="summary">Summary</h2>
-<p>Anthropic recently released a blog post with the description of an experiment in which the last version of Opus, the 4.6, was instructed to write a C compiler in Rust, in a “clean room” setup.</p>
-<p>The experiment methodology left me dubious about the kind of point they wanted to make.</p>
-<p>Why not provide the agent with the ISA documentation?</p>
+<p>antirez responds to Anthropic's experiment in which Opus 4.6 wrote a C compiler in Rust under 'clean room' conditions, by way of introducing his own project: a clean-room Z80 / ZX Spectrum emulator written with Claude Code. His critique of Anthropic's methodology: why withhold the ISA documentation, and why Rust, when a C compiler is exactly the kind of giant graph-manipulation program Rust makes hardest? A proper clean-room setup should still give the agent the established computer science - SSA, register allocation, instruction selection and scheduling - synthesized as prerequisite reading.</p>
+<p>Blocking internet access and other compilers' source was the right call, he agrees. Less understandable is the near-zero steering: fine if the goal is showcasing fully autonomous writing of a large project, but not how coding agents are used in practice - anyone who uses them extensively knows a few well-placed hints completely change the quality of the result.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>Writing a C compiler is exactly a giant graph manipulation exercise: the kind of program that is harder to write in Rust.</li>
-<li>Also, in a clean room experiment, the agent should have access to all the information about well established computer science progresses related to optimizing compilers: there are a number of papers that could be easily synthesized in a…</li>
-<li>Those things needed to be researched *first*, as a prerequisite, and the implementation would still be “clean room”.</li>
-<li>Not allowing the agent to access the Internet, nor any other compiler source code, was certainly the right call.</li>
-<li>Then, I started a Claude Code session, and asked it to fetch all the useful documentation on the internet about the Z80 (later I did this for the Spectrum as well), and to extract only the useful factual information into markdown files.</li>
-<li>I also provided the binary files for the most ambitious test vectors for the Z80, the ZX Spectrum ROM, and a few other binaries that could be used to test if the emulator actually executed the code correctly.</li>
-<li>The rules were to never access the Internet for any reason (I supervised the agent while it was implementing the code, to make sure this didn’t happen), to never search the disk for similar source code, as this was a “clean room”…</li>
-<li>Comments Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code</li>
+<li>antirez builds a clean-room Z80/ZX Spectrum emulator with Claude Code</li>
+<li>Critique of Anthropic's Opus 4.6 C-compiler experiment setup</li>
+<li>No ISA docs and Rust were odd choices for a graph-manipulation-heavy program</li>
+<li>Clean room should still include established CS: SSA, register allocation, scheduling</li>
+<li>No internet and no other compilers: right call; near-zero steering: not real-world usage</li>
+<li>A few hints 'here and there' completely change agent output quality</li>
 </ul>
-<p class="meta">The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt.</p>
 <h2 id="source">Source</h2>
 <p><a href="http://antirez.com/news/160">Read the original story</a></p>
 <h2 id="related-pages">Related pages</h2>

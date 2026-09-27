@@ -1,0 +1,18 @@
+{
+ "id": "4b806bc71b82",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "antirez responds to Anthropic's experiment in which Opus 4.6 wrote a C compiler in Rust under 'clean room' conditions, by way of introducing his own project: a clean-room Z80 / ZX Spectrum emulator written with Claude Code. His critique of Anthropic's methodology: why withhold the ISA documentation, and why Rust, when a C compiler is exactly the kind of giant graph-manipulation program Rust makes hardest? A proper clean-room setup should still give the agent the established computer science - SSA, register allocation, instruction selection and scheduling - synthesized as prerequisite reading.",
+  "Blocking internet access and other compilers' source was the right call, he agrees. Less understandable is the near-zero steering: fine if the goal is showcasing fully autonomous writing of a large project, but not how coding agents are used in practice - anyone who uses them extensively knows a few well-placed hints completely change the quality of the result."
+ ],
+ "highlights": [
+  "antirez builds a clean-room Z80/ZX Spectrum emulator with Claude Code",
+  "Critique of Anthropic's Opus 4.6 C-compiler experiment setup",
+  "No ISA docs and Rust were odd choices for a graph-manipulation-heavy program",
+  "Clean room should still include established CS: SSA, register allocation, scheduling",
+  "No internet and no other compilers: right call; near-zero steering: not real-world usage",
+  "A few hints 'here and there' completely change agent output quality"
+ ]
+}

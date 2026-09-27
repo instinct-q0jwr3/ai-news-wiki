@@ -1,0 +1,16 @@
+{
+ "id": "3fe5471acd4f",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Anil Dash observes that most business documents are genuinely poor - presentations that glaze eyes, memos that obscure - and that his earlier 'Make Better Documents' post, a list of advice he'd given for years, got a huge response.",
+  "So he has packaged that advice as a 'Better Documents' skills.md file: one of the simple markdown skill files that give LLM tools like Claude new capabilities, so that AI-assisted document drafting starts from good defaults instead of reproducing the average - which is to say, the mediocrity - of the documents in its training data."
+ ],
+ "highlights": [
+  "Most business documents are poor; Dash's advice list struck a nerve",
+  "He shipped a 'Better Documents' skills.md for LLM tools",
+  "Agent skills: plain markdown files that add capabilities - more proof markdown is taking over",
+  "Point: make AI tools produce better documents by default, not average ones"
+ ]
+}

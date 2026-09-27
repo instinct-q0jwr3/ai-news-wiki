@@ -1,0 +1,17 @@
+{
+ "id": "22ef243d53b2",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "The Register reports that the US Department of Energy announced $5.25 billion - $1.9B in federal funds plus $3.35B in cost-share - for dozens of grid improvements across the country, expected to unlock at least 23 gigawatts of additional capacity through better conductors and improved sensing.",
+  "The program covers 31 specific projects in 26 states under the Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) initiative, with federal money from the Grid Resilience and Innovation Partnerships (GRIP) program - welcome news for data-center builders facing power constraints."
+ ],
+ "highlights": [
+  "DoE announces $5.25B for US grid improvements ($1.9B federal, $3.35B cost-share)",
+  "Expected to unlock at least 23 GW of additional capacity",
+  "31 projects across 26 states",
+  "Part of the SPARK initiative, funded under the GRIP program",
+  "Better conductors and sensing, not new generation - a reconductoring push"
+ ]
+}

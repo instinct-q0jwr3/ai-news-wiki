@@ -1,0 +1,15 @@
+{
+ "id": "0be0b63b98a2",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Critic is a Show HN project whose pitch is 'review code with the agent that wrote it'. Its site shows a change narrative for keeping agent questions alive across disconnects: the system can enqueue a question while every author device is offline, exactly one connected device owns a question at a time, and a lost device's work returns after 45 seconds without losing the thread."
+ ],
+ "highlights": [
+  "Show HN: Critic - review code with the agent that wrote it",
+  "Tagline: understand the change",
+  "Keeps agent questions alive across device disconnects",
+  "One connected device owns a question; lost work returns after 45s"
+ ]
+}

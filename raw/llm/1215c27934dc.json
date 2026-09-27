@@ -1,0 +1,17 @@
+{
+ "id": "1215c27934dc",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Privatemode shows how an off-the-shelf LLM can produce typed decisions - each option with a probability - in a single forward pass, effectively turning it into a Jev-like decision model. Instead of making the model write a whole JSON object (or think for hundreds of tokens first), their approach reads the decision directly from the forward pass, which also yields a confidence signal for free.",
+  "Evaluating GLM-5.3-Flash running on Privatemode against a benchmark built from public datasets, they report decision accuracy and speed on par with TypeSafe's Jev. A bonus: the LLM setup extends typed decisions to images, which Jev cannot do."
+ ],
+ "highlights": [
+  "Typed decisions with per-option probabilities in a single forward pass",
+  "Turns an off-the-shelf LLM into a Jev-like decision model",
+  "GLM-5.3-Flash matches Jev on decision accuracy and speed in their benchmark",
+  "Bonus: typed decisions on images, not possible with Jev",
+  "Avoids JSON-generation overhead and yields confidence for free"
+ ]
+}

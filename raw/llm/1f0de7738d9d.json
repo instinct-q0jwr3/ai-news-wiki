@@ -1,0 +1,17 @@
+{
+ "id": "1f0de7738d9d",
+ "authored_at": "2026-09-27T07:05:15.870609+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": [
+  "Bert Hubert reports a significant development in the EU 'Chat Control' saga: the Dutch government consulted its civilian intelligence service AIVD (where Hubert once worked and later served as a regulator) on the proposal to force WhatsApp, Apple, Signal and Telegram to scan private messages for CSAM.",
+  "The AIVD's translated conclusion is blunt: putting a scanning application on every mobile phone creates an extensive, very complex system with access to a huge number of devices and their personal data - too large a risk for the country's digital resilience - and applying detection orders to end-to-end encrypted providers likewise entails too large a security risk. When even the intelligence service says the surveillance is too dangerous, Hubert notes, the proposal's security case is dead."
+ ],
+ "highlights": [
+  "EU chat-control plan: scan private messages for CSAM, AI image scanning in three years",
+  "Dutch government asked the AIVD intelligence service for its view",
+  "AIVD: a scanner on every phone is 'too large a risk for our digital resilience'",
+  "AIVD: detection orders on E2E providers also too large a security risk",
+  "Hubert: the intelligence service itself has now sunk the security case"
+ ]
+}
