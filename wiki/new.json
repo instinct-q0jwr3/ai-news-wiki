@@ -1,77 +1,101 @@
 {
- "generated_at": "2026-09-28T07:06:48+00:00",
+ "generated_at": "2026-09-28T13:07:36+00:00",
  "stories": [
   {
-   "id": "a38522338071",
-   "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
+   "id": "fb931bae9c91",
+   "title": "AI companies in race to demonstrate their model most threatening to humanity",
    "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"
+   "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
   },
   {
-   "id": "8fa1b6045ef6",
-   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+   "id": "08f2e40ace38",
+   "title": "Prompting Claude Opus 5.5",
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2110.01834"
+   "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5"
   },
   {
-   "id": "9fabf50736d0",
-   "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
+   "id": "ff5eecb673fe",
+   "title": "Big AI's content problem: Take the work, keep the money",
    "source": "Hacker News",
-   "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html"
+   "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007"
   },
   {
-   "id": "96700a658bb8",
-   "title": "Cambrian Explosion of AI",
+   "id": "acb3d129c935",
+   "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
    "source": "Hacker News",
-   "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion"
+   "url": "https://github.com/seamusc/papermono-shopping-list"
   },
   {
-   "id": "deedc8ea693c",
-   "title": "Show HN: Fusor – Like Vue, but the logic is Rust",
-   "source": "Hacker News",
-   "url": "https://fusor.build"
-  },
-  {
-   "id": "dfe10a013700",
-   "title": "A look at OpenAI-backed Red Queen Bio, an AI biosecurity startup with $36M raised to design antibody drugs against pathogens, including AI-enabled bioweapons",
+   "id": "c6efd552792e",
+   "title": "Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/health/this-startup-is-using-ai-to-fight-off-a-future-ai-pandemic-aceedf1b?st=3hXhHo"
+   "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
   },
   {
-   "id": "ebd4ba78c341",
-   "title": "Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A",
+   "id": "90c10bfbf2b0",
+   "title": "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities",
    "source": "Techmeme",
-   "url": "https://www.axios.com/local/raleigh/2026/09/22/ramona-optics-making-advanced-microscopes-raises-usd25m"
+   "url": "https://artificialanalysis.ai/articles/artificial-analysis-cyber-index"
   },
   {
-   "id": "0cf6248a0a21",
-   "title": "Quoting Muse AI Agent",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/"
-  },
-  {
-   "id": "36db04323c92",
-   "title": "The US DHS says it will \"revolutionize\" its FOIA process by using AI to handle certain types of requests and recommend what information should be redacted",
+   "id": "06e198f1920e",
+   "title": "AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service",
    "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/investigations/2026/09/26/government-is-enlisting-ai-help-decide-what-public-records-you-get-see/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkwMzk1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkxNzc3NTk5LCJpYXQiOjE3OTAzOTUyMDAsImp0aSI6ImY4YjYzZWIwLWJmNDgtNDVkYS1iZmNhLWMyZTNkZjNmNWVmZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzA5LzI2L2dvdmVybm1lbnQtaXMtZW5saXN0aW5nLWFpLWhlbHAtZGVjaWRlLXdoYXQtcHVibGljLXJlY29yZHMteW91LWdldC1zZWUvIn0.zAu4NheqwA4cR4iQ78X-6GRIXdN-rkdANBumxe8sjh8&itid=gfta"
+   "url": "https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/"
   },
   {
-   "id": "965c88ac174c",
-   "title": "We just shipped support for the ugliest part of HTTP: Vary",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/"
+   "id": "cce49bcaaacf",
+   "title": "Mark Zuckerberg unveils Meta Enterprise Platform, its \"next major pillar of our business\" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc?st=GGaGqm&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "5c4abef21ca5",
-   "title": "DogWood: Monitoring Policies using First Order Temporal Logic",
+   "id": "c351dad18730",
+   "title": "Yes, no AI is now a feature",
    "source": "Lobsters",
-   "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/"
+   "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/"
   },
   {
-   "id": "af0d1f1c9f55",
-   "title": "Bluesky reply bot checker",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/"
+   "id": "42d374376c90",
+   "title": "China has expanded its foreign travel restrictions to include the direct relatives, such as spouses and children, of certain key AI and chip executives",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent"
+  },
+  {
+   "id": "09d500f10a9b",
+   "title": "Nvidia increases its share buyback program by $150B, raising the remaining authorized amount to $235B, aiming to complete it through FY 2028; NVDA is up 20% YTD",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7"
+  },
+  {
+   "id": "4548d58207b3",
+   "title": "An interview with ASML CEO Christophe Fouquet on the company's 42-year history, its complex supply chain across 2,000 companies, US export bans, AI, and more",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1"
+  },
+  {
+   "id": "5cf987ed6ff1",
+   "title": "Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the \"bipartisan psychosis\" over data centers",
+   "source": "Techmeme",
+   "url": "https://www.washingtonsun.com/national/ai-bros-are-partying-data-center"
+  },
+  {
+   "id": "e7bb942435e8",
+   "title": "AI agents are the ultimate aggregators; they reveal apps as a means, not an end, and offering them is tech's ultimate prize, with Meta and Microsoft well-poised",
+   "source": "Techmeme",
+   "url": "https://stratechery.com/2026/apps-agents-and-aggregation/"
+  },
+  {
+   "id": "c4d0339c2402",
+   "title": "Blackstone, OpenAI, QTS, and SoftBank partner with key US unions to launch the American Infrastructure Alliance, aiming to create data center standards in 2027",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/09/28/ai-industry-unions-data-centers"
+  },
+  {
+   "id": "dd0175c18b67",
+   "title": "Shobr: Job seach CLI via browser automation, event-sourcing, LLM",
+   "source": "Lobsters",
+   "url": "https://github.com/sebastiancarlos/shobr"
   }
  ]
 }

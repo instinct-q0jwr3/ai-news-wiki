@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "An essay arguing that AI agents are the ultimate aggregators - that apps were a means, not an end. The captured excerpt walks the argument's history: Steve Jobs' three-devices-one-iPhone introduction; the smartphone era whose killer app turned out to be messaging (constant communication, attention-paced); and Facebook Home, Zuckerberg's attempt to make people, not apps, the center of the phone.",
+  "The author's counter then as now: Zuckerberg was wrong - what organizes a phone isn't apps or people but jobs to be done (his own home screens show four 'people' icons across three screens). The excerpt cuts off before the agent payoff, but the throughline is clear: if apps exist to do jobs, an agent that does the job directly aggregates the app layer away."
+ ],
+ "highlights": [
+  "Thesis: AI agents are the ultimate aggregators; apps were a means, not an end",
+  "History arc: iPhone intro, messaging as the smartphone killer app, Facebook Home",
+  "Zuckerberg 2013: 'Apps aren't the center of the world. People are.' - the author disagrees",
+  "The real organizing principle: jobs to be done - and agents do jobs without apps",
+  "Excerpt truncated before the full agent argument"
+ ],
+ "id": "e7bb942435e8",
+ "authored_at": "2026-09-28T13:12:14.088394+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

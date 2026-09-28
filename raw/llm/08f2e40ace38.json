@@ -1,0 +1,19 @@
+{
+ "prose": [
+  "Anthropic's prompting guide for Claude Opus 5.5 opens with migration economics: the model generates output over 30% faster than Opus 5 and finishes the same task with fewer tokens, and existing Opus 5 prompts should work unchanged. The central control is effort - thinking is always on in 5.5 - and the defaults shifted: Opus 5.5 defaults to medium where Opus 5 defaulted to high. In Anthropic's testing, 5.5 at medium matches or exceeds Opus 5 at high on coding and knowledge-work evals, and low comes close on several coding evals at much lower cost. But effort names aren't portable: at the same level, 5.5 thinks more per turn than Opus 5, especially at xhigh and max, so carried-over settings mean longer turns.",
+  "Operational gotchas fill the rest. Changing the top-level effort value between requests invalidates the prompt cache - use the per-message effort change (beta) to keep it. Opus 5 accepted thinking: disabled at high effort or below; Opus 5.5 doesn't, and the migration guide covers the request change. And on long multi-part tasks, 5.5 posts progress updates that end the turn with text (stop_reason: end_turn) rather than a tool call - an unattended agent loop that treats that as task completion will stall, so harnesses and prompts need to handle mid-task end_turn updates."
+ ],
+ "highlights": [
+  "Opus 5.5: 30%+ faster output, fewer tokens per task; Opus 5 prompts carry over",
+  "Thinking is always on; effort is the main dial - default dropped from high (Opus 5) to medium (5.5)",
+  "5.5 at medium matches or beats Opus 5 at high on coding and knowledge work; low comes close on several coding evals",
+  "Effort names aren't comparable across models: same level = more thinking per turn on 5.5, especially xhigh/max",
+  "Changing top-level effort kills the prompt cache - use per-message effort (beta) instead",
+  "Opus 5.5 rejects thinking: disabled (Opus 5 allowed it at high and below) - migration guide covers the change",
+  "Agent-loop trap: mid-task progress updates can end the turn with text - unattended loops must not treat that as done"
+ ],
+ "id": "08f2e40ace38",
+ "authored_at": "2026-09-28T13:12:14.088394+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

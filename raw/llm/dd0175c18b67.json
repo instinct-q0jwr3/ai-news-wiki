@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Shobr is a 'hacker-in-the-loop' job-search automator with a distinctive stealth angle: it runs on beachpatrol, a browser you use as your daily driver that is also fully automatable via a Playwright wrapper - so scraping LinkedIn uses your actual authenticated session and looks identical to regular use, instead of headless browsers or exported credentials. It compiles Markdown resumes to PDF via roffume (needing groff and pandoc), runs on Python 3.14 with uv, and leans on an LLM (any-llm-sdk) for screening.",
+  "The workflow is a five-stage event-sourced pipeline - discovery (scrape and regex pre-filter), enrichment (visit job pages for full details), screening (LLM scores plus human review), tailoring (build application packages), and tracking (applied/interviewing/offer/rejected/ghosted) - with a status dashboard showing counts at each stage, LLM vs human score distributions, and what's pending. The human stays in the loop at the decision points; the machine does the drudgery."
+ ],
+ "highlights": [
+  "Shobr: UNIX-y job-search CLI with a hacker-in-the-loop philosophy",
+  "Stealth scraping via beachpatrol: your real daily-driver browser with your real session - no headless giveaways",
+  "Five-stage event-sourced pipeline: discovery, enrichment, screening, tailoring, tracking",
+  "LLM scores candidates, humans review and decide - status dashboard shows every stage",
+  "Resumes: Markdown to PDF via roffume (groff + pandoc); Python 3.14 + uv; any-llm-sdk"
+ ],
+ "id": "dd0175c18b67",
+ "authored_at": "2026-09-28T13:12:14.088394+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Artificial Analysis is launching a Cyber Index - an independent benchmark of how AI models perform on enterprise cyber defense - alongside a Cyber Index Alliance of industry partners (Collinear, IBM and others) contributing expert input and datasets. The index measures the defensive loop: discovering vulnerabilities in a codebase, reproducing and validating them, and patching them without breaking existing functionality. Models work from source code, as a security engineer auditing an application would, and are explicitly not asked to build working exploits.",
+  "The framing is procurement: as attackers automate with AI, security teams need to know which models actually help defenders and what they cost to run. The index combines partner-contributed and open benchmarks, including two private held-out evaluations (CWE-bench and DeepsecBench), to keep the comparison like-for-like and uncontaminated. The Alliance is open to new members."
+ ],
+ "highlights": [
+  "Artificial Analysis Cyber Index: benchmarking models on enterprise cyber defense",
+  "Tests the defensive loop: find, reproduce, validate and patch vulnerabilities from source - no exploit building",
+  "Cyber Index Alliance launches with partners incl. Collinear and IBM contributing datasets and methodology input",
+  "Includes private held-out evals (CWE-bench, DeepsecBench) to resist contamination",
+  "Purpose: procurement-grade comparison of defensive capability and cost as attackers automate"
+ ],
+ "id": "90c10bfbf2b0",
+ "authored_at": "2026-09-28T13:12:14.088394+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

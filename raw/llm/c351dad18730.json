@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Answering a comment on the LibreOffice 26.8 announcement ('So, no AI is now a feature?'), the project lays out the conditions any AI feature must meet before shipping in the default configuration of software used by tens of millions in schools, hospitals, public bodies and law firms: user-controlled execution (local, user infrastructure, or an independently chosen service - never a silent single-provider default); no content leaves the computer without authorization; no telemetry of any kind; no dependence on a single provider (open, multi-backend interfaces); generated content in ODF with structure and semantics intact; and entirely optional - installable, removable, and invisible for those who don't want it, including admins deploying to thousands of workstations.",
+  "The verdict: no integration today meets all six requirements, so none ships by default. The post stresses this is an assessment of the current state of the technology, not a judgment on the sector - and users who want AI features can install them separately."
+ ],
+ "highlights": [
+  "LibreOffice's six conditions for shipping AI by default: user-controlled execution, no unauthorized content egress, zero telemetry, no single-provider lock-in, ODF-only output, fully optional",
+  "No current integration meets all six - so no AI in the default configuration",
+  "Framed as an assessment of today's tech, not a rejection of AI",
+  "The bar exists because the suite runs in schools, hospitals, law firms and public bodies",
+  "Users can still install AI features themselves"
+ ],
+ "id": "c351dad18730",
+ "authored_at": "2026-09-28T13:12:14.088394+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}
