@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "A Bloomberg report, per its sources: Modal Labs is in funding talks at a valuation around $15 billion - up from $4.65 billion in May - and fellow AI-inference startup Baseten is also in raise talks. The body is paywalled and was not captured, so this summary rests on the headline.",
+  "On that basis: the inference-infrastructure tier is re-rating violently as AI workloads shift from training to serving. A 3x markup in four months for Modal signals how scarce investors believe this capacity is. Round sizes and investors are unknown from the capture."
+ ],
+ "highlights": [
+  "Modal Labs in talks at ~$15B, per Bloomberg - up from $4.65B in May",
+  "Baseten also reported in funding talks",
+  "Both sell AI inference infrastructure - the serving layer, not the models",
+  "A ~3x markup in four months shows how hot the inference tier is",
+  "Paywalled; round sizes and investors unknown"
+ ],
+ "id": "bd3cdb85cfca",
+ "authored_at": "2026-09-28T01:07:32.321867+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

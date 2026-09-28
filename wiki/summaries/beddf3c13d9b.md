@@ -1,14 +1,21 @@
 # Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-09-27 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-09-28 · confidence: high_
 
 `techmeme`
 
 ## Summary
 
-Professors are tearing their hair out over AI detectors. — Timothy Paustian has tried everything to stop his students from writing essays with AI.
+An Atlantic piece on universities barring the use of AI detectors, after false positives poisoned trust between students and instructors. The body was not captured (fetch error), so this summary rests on the headline.
 
-_The original source is behind a paywall._
+On that basis: the unreliability of detectors - flagging honest work as machine-made - has pushed some campuses to prohibit them outright rather than litigate accusations built on shaky evidence. Which universities, and what replaces detection in integrity policy, are unknown from the capture.
+
+## Highlights
+
+- Some universities have barred AI detectors, per The Atlantic
+- Driver: false positives and the distrust they created between students and instructors
+- Accusations built on unreliable tools proved worse than the problem
+- Body not captured; which campuses and what replaces detection unknown
 
 ## Source
 

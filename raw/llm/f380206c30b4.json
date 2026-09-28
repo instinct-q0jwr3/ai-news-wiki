@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A short antirez post titled 'Reasoning models are just LLMs.' Only the title was captured, so this summary rests on it alone.",
+  "On that basis: Sanfilippo argues there is no new species here - 'reasoning' models are the same LLM machinery with different training or inference scaffolding, not a qualitative break. His supporting points are unknown from the capture."
+ ],
+ "highlights": [
+  "antirez: reasoning models are just LLMs",
+  "Against treating chain-of-thought models as a new kind of system",
+  "Title only; the argument's substance unknown"
+ ],
+ "id": "f380206c30b4",
+ "authored_at": "2026-09-28T01:07:32.321867+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

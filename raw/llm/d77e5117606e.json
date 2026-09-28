@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A Reuters report that Chinese local governments are offering subsidies - computing vouchers, rent waivers and deductions - to fuel a rush to turn AI video into an industry. The body was not captured (fetch error), so this summary rests on the headline.",
+  "On that basis: after large models, AI-generated video is the next sector getting the full local-government industrial-policy treatment in China - cheap compute and free rent to seed a cluster. Which cities and companies feature is unknown from the capture."
+ ],
+ "highlights": [
+  "Reuters: Chinese local governments subsidize an AI video industry",
+  "Instruments: computing vouchers, rent waivers, tax deductions",
+  "Classic regional industrial policy applied to generative video",
+  "Body not captured; cities, companies and amounts unknown"
+ ],
+ "id": "d77e5117606e",
+ "authored_at": "2026-09-28T01:07:32.321867+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

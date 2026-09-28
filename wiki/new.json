@@ -1,53 +1,65 @@
 {
- "generated_at": "2026-09-27T19:05:02+00:00",
+ "generated_at": "2026-09-28T01:07:40+00:00",
  "stories": [
   {
-   "id": "8a545290485c",
-   "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+   "id": "d141723c4627",
+   "title": "Imp is a full port of DSPy to the BEAM",
    "source": "Hacker News",
-   "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
+   "url": "https://github.com/deepfates/imp"
   },
   {
-   "id": "9cd005fb2d81",
-   "title": "There are no \"rogue\" AI agents",
+   "id": "cc3769ec6985",
+   "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
    "source": "Hacker News",
-   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+   "url": "https://earnanhonestdollar.com/bench"
   },
   {
-   "id": "7dae76a0f370",
-   "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+   "id": "19ca012fa961",
+   "title": "George Hotz’s opinion on AI coding",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=-Nvne3LzBls"
+   "url": "https://twitter.com/__tinygrad__/status/2044354852663558370"
   },
   {
-   "id": "de514be9cac9",
-   "title": "Introducing Ember-1",
-   "source": "TLDR AI",
-   "url": "https://fireworks.ai/blog/ember-1"
-  },
-  {
-   "id": "e914c457afe3",
-   "title": "Show HN: TinyAIArena watch AI agents battle it out",
+   "id": "8e94d3175fe7",
+   "title": "Hitachi to double US production of small and medium-sized power transformers",
    "source": "Hacker News",
-   "url": "https://tinyaiarena.com/"
+   "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/"
   },
   {
-   "id": "e1c85db206d9",
-   "title": "Ask HN: Allow agents access to cloud files with least privilege?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49867620"
+   "id": "972616c28956",
+   "title": "[Sponsor] Mux: Turn Your Video Into Context",
+   "source": "Daring Fireball",
+   "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF"
   },
   {
-   "id": "1ba3b2d933b5",
-   "title": "A profile of Jaan Tallinn, who led Anthropic's $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives",
+   "id": "646f99334f2d",
+   "title": "How AI's acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181?st=cB1SVM&reflink=desktopwebshare_permalink"
+   "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&smid=url-share"
   },
   {
-   "id": "3a6340afbae2",
-   "title": "Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei",
+   "id": "2c107a3eea21",
+   "title": "Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’",
+   "source": "Daring Fireball",
+   "url": "https://x.com/katienotopoulos/status/2103993429659386026"
+  },
+  {
+   "id": "f480b85a889d",
+   "title": "Q&A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite"
+   "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/microsoft-s-suleyman-says-industry-needs-red-line-for-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDI4OTM3OCwiZXhwIjoxNzkwODk0MTc4LCJhcnRpY2xlSWQiOiJUTFZWQ05LSVVQU1MwMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.tuaYuOGB4U9EUjwbUA1dnmwfr2Q0gcQ2azhGCaTIXT4"
+  },
+  {
+   "id": "1d42ed94b0ae",
+   "title": "Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&T's AI workloads",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd"
+  },
+  {
+   "id": "716db3fe6e25",
+   "title": "2026 in LLMs (so far)",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
   }
  ]
 }

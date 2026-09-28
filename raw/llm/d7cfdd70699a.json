@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A short antirez post titled 'Vector Sets are part of Redis.' Only the title was captured, so this summary rests on it alone.",
+  "On that basis: Sanfilippo - Redis's creator, back at the project - announces that Vector Sets, his new data type for vector similarity, has landed in Redis proper. Version, API and availability details are unknown from the capture."
+ ],
+ "highlights": [
+  "antirez: Vector Sets are now part of Redis",
+  "Vector similarity becomes a native Redis data type",
+  "Notable given Sanfilippo's return to the project he created",
+  "Title only; version and API details unknown"
+ ],
+ "id": "d7cfdd70699a",
+ "authored_at": "2026-09-28T01:07:32.321867+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

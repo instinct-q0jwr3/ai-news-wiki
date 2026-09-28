@@ -1,6 +1,6 @@
 # LLM Policies: Progress At All Costs
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-27 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-28 · confidence: high_
 
 `lobsters`
 

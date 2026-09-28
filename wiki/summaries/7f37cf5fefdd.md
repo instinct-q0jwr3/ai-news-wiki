@@ -1,6 +1,6 @@
 # Redis on the Raspberry Pi: adventures in unaligned lands
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-09-28 · confidence: high_
 
 `antirez` `agentic-systems` `external-evaluation` `small-specialist-models` `ai-safety-incidents` `ai-policy-regulation`
 

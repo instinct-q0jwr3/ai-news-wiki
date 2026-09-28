@@ -1,0 +1,21 @@
+{
+ "prose": [
+  "Simon Willison's closing keynote at the WeAreDevelopers World Congress North America in San Jose: a chronological tour of 2026 in LLMs, told through his own year. It starts in November 2025, when Claude Opus 4.5 and GPT-5.1 crossed an invisible line - paired with Claude Code and Codex, coding agents went from 'often make mistakes' to 'reliable enough to use on a day-to-day basis.' (His pelican-on-a-bicycle benchmark still humbled both.) December holidays became a collective tinkering season, and by January his resolution flipped from 'take on less' to 'be more ambitious' - the only way to find the technology's limits is to keep pushing until it fails.",
+  "He revisits his Oxide and Friends predictions: 'LLMs write good code' is now undeniable; sandboxing is at least being worked on (about 40 of the conference's 277 sessions touch it); his predicted 'Challenger disaster' for coding-agent security hasn't quite happened despite plenty of noise; and the joke prediction that the Pope would weigh in on LLM economics apparently came true - prompting the quote that 'getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen.' The talk also names 'Deep Blue' (coined with Adam Leventhal) for the AI-induced ennui software engineers feel when the AI can do anything - a recurring theme of his fastest-changing year in the industry. Plus: New Zealand's Kakapo parrots (236 of them) finally got a good Rimu fruiting season."
+ ],
+ "highlights": [
+  "November 2025: Opus 4.5 and GPT-5.1 crossed the line - coding agents became daily-use reliable",
+  "Willison's verdict on his own prediction: 'LLMs write good code' is now undeniable",
+  "The pelican-riding-a-bicycle benchmark still defeats the state of the art",
+  "Sandboxing: ~40 of 277 conference sessions touch it - effort, not solution",
+  "His 'Challenger disaster' for agent security hasn't happened; the Pope joke prediction did",
+  "'Getting the literal Pope to canonize your product's specific technical limitations' - the year's best vendor-lobbying line",
+  "'Deep Blue': the term for AI-induced engineer ennui, coined with Adam Leventhal",
+  "His 2026 resolution inverted: from 'take on less' to 'be more ambitious' - find the limits by pushing them",
+  "Bonus: Kakapo parrots (236 worldwide) finally breeding again after four years"
+ ],
+ "id": "716db3fe6e25",
+ "authored_at": "2026-09-28T01:10:35.965027+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

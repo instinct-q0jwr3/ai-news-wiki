@@ -1,6 +1,6 @@
 # Meta Connect Keynote 2026
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-09-27 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-09-28 · confidence: high_
 
 `daring-fireball` `meta` `muse` `agentic-systems` `compute-buildout`
 

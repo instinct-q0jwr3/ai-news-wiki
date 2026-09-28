@@ -1,8 +1,8 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
 
-`entity` `alibaba` `agentic-systems` `ai-price-war` `ai-safety-incidents` `compute-buildout`
+`entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
 ## Overview
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-09-28** - Simon Willison's closing keynote at the WeAreDevelopers World Congress North America in San Jose: a chronological tour of 2026 in LLMs, told through his own year. It starts in November 2025, when Claude Opus 4.5 and GPT-5.1 crossed an invisible line -… ([2026 in LLMs (so far)](../summaries/716db3fe6e25.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Hugging Face](../entities/hugging-face.md) · [Amazon](../entities/amazon.md) · [Qwen](../entities/qwen.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-09-24** - Qwen launched Qwen Intelligence with three mobile agents it calls SOTA: a Mobile Planner Agent that plans, decomposes and orchestrates complex tasks (#1 on MobilePA-Bench, MobilePA-Bench Business and Memory); a Mobile-Use Agent that executes tasks… ([Qwen Intelligence Launches Three Mobile AI Agents](../summaries/2b6ab9ff4400.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-23** - Alibaba says it plans to build its first cloud regions in Turkey, Finland and the Netherlands over the next 12 months, Bloomberg reports. The move accelerates its data-center expansion in Europe and the Middle East amid escalating US-China AI tensions. ([Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions](../summaries/5c70f233b9ff.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-22** - Alibaba outlined the Zhenwu V900, an accelerator it calls China's most powerful AI chip, built by its T-Head division to compete with Nvidia. CEO Eddie Wu said it triples the performance of its predecessor and can be combined in clusters of up to 500,000… ([Alibaba Unveils AI Chip to Drive 20GW of Data Centers by 2032](../summaries/125c3bc51b4f.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

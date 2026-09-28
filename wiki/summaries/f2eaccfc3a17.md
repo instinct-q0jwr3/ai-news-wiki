@@ -1,14 +1,21 @@
 # "Someone just sent me an ad that features an AI version of me. What do I do?"
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-27 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-28 · confidence: high_
 
 `hacker-news`
 
 ## Summary
 
-"Someone just sent me an ad that features an AI version of me. What do I do?". Hacker News selected it as an AI-relevant development.
+A Bluesky post by @lebassett: 'Someone just sent me an ad that features an AI version of me. What do I do?' Only the post line was captured, so this summary rests on it alone.
 
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+On that basis: another case of an unauthorized AI likeness used in advertising - a person's synthetic double deployed commercially without consent, with the victim publicly asking what recourse exists. The brand, jurisdiction and responses are unknown from the capture.
+
+## Highlights
+
+- Bluesky user finds an ad running an AI-generated version of herself
+- Unauthorized AI likeness in commercial advertising - a growing genre of abuse
+- Her question - 'what do I do?' - is exactly what law hasn't settled
+- Post line only; brand and follow-up unknown
 
 ## Source
 

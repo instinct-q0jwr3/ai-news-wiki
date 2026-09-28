@@ -1,8 +1,8 @@
 # Qwen
 
-_type: product · created: 2026-09-19 · updated: 2026-09-27 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
 
-`entity` `qwen` `agentic-systems` `ai-price-war` `ai-safety-incidents` `compute-buildout`
+`entity` `qwen` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
 ## Overview
 
@@ -10,6 +10,7 @@ Qwen is Alibaba's family of open-weight large language and image models. This pa
 
 ## Timeline
 
+- **2026-09-28** - Simon Willison's closing keynote at the WeAreDevelopers World Congress North America in San Jose: a chronological tour of 2026 in LLMs, told through his own year. It starts in November 2025, when Claude Opus 4.5 and GPT-5.1 crossed an invisible line -… ([2026 in LLMs (so far)](../summaries/716db3fe6e25.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Hugging Face](../entities/hugging-face.md) · [Amazon](../entities/amazon.md) · [Qwen](../entities/qwen.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-09-24** - Qwen launched Qwen Intelligence with three mobile agents it calls SOTA: a Mobile Planner Agent that plans, decomposes and orchestrates complex tasks (#1 on MobilePA-Bench, MobilePA-Bench Business and Memory); a Mobile-Use Agent that executes tasks… ([Qwen Intelligence Launches Three Mobile AI Agents](../summaries/2b6ab9ff4400.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - Qwen's RecreationWorld is a five-platform framework for studying hybrid computer-use agents that autonomously interleave GUI exploration, implementation with coding tools, and visual verification of their own running artifacts. By framing recreation around… ([Qwen's RecreationWorld Trains Agents to Rebuild Apps](../summaries/aa7fe1b874f6.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-22** - Simon Willison's take on Jev, TypeSafe AI's 'System One model,' crystallizes what makes it unusual: it accepts text input but returns only floating-point numbers - categories, yes/no answers, ratings and confidence scores. TypeSafe pitches it as 'a… ([Jev introduces a new shape of LLM](../summaries/ba12d1e61843.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [TypeSafe](../entities/typesafe.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [The frontier model price war](../concepts/ai-price-war.md))

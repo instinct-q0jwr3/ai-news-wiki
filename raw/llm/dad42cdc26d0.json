@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A New York Times report on a Gallup survey across 37 countries: in 34 of them, positive sentiment about AI outweighed negative. The body was not captured (fetch error), so this summary rests on the headline.",
+  "On that basis: global public opinion on AI is far more favorable than Western discourse suggests - the angst is concentrated in a handful of rich countries while most of the world leans positive. Country rankings and demographics are unknown from the capture."
+ ],
+ "highlights": [
+  "Gallup 37-country survey, via NYT: positive AI sentiment wins in 34",
+  "AI pessimism is a minority-global, Western-skewed phenomenon",
+  "Body not captured; rankings and demographic splits unknown"
+ ],
+ "id": "dad42cdc26d0",
+ "authored_at": "2026-09-28T01:07:32.321867+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

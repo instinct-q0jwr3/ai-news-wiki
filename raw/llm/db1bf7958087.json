@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A Financial Times report drawn from court documents: OpenAI made claims about the performance of Apple's ChatGPT integration powering Apple Intelligence on iPhones - the headline cuts off mid-word, so the claim itself ('dra...') is not fully captured. The body is paywalled.",
+  "On that basis: litigation is surfacing what the partners really think of the Apple-OpenAI integration, with OpenAI's own characterization now on record. Whether the claim was about dramatically high or low usage, revenue, or engagement is unknown from the capture - treat the direction of the claim as unsettled."
+ ],
+ "highlights": [
+  "FT court docs: OpenAI's characterization of the Apple Intelligence ChatGPT integration is on the record",
+  "The key word is truncated in the captured headline - direction of the claim unknown",
+  "Litigation keeps exposing the real economics of AI partnerships",
+  "Paywalled; case context and specifics unknown"
+ ],
+ "id": "db1bf7958087",
+ "authored_at": "2026-09-28T01:07:32.321867+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

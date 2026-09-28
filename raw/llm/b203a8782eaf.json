@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A New York Times report that Google plans to launch an experimental satellite - a minimum viable prototype - on a SpaceX rocket on October 1, as part of Project Suncatcher, its effort to run AI compute in space. The body was not captured, so this summary rests on the headline and URL.",
+  "On that basis: Suncatcher explores space-based AI data centers powered by near-constant solar energy; the MVP would test whether the concept survives contact with orbit. Payload details, orbit, and success criteria are unknown from the capture."
+ ],
+ "highlights": [
+  "Google to launch an experimental satellite MVP on a SpaceX rocket, October 1",
+  "Part of Project Suncatcher - AI data centers in space",
+  "Rationale: near-constant solar power for energy-hungry AI compute",
+  "Body not captured; payload, orbit and criteria unknown"
+ ],
+ "id": "b203a8782eaf",
+ "authored_at": "2026-09-28T01:07:32.321867+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}
