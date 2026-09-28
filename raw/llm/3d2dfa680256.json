@@ -1,14 +1,14 @@
 {
- "id": "3d2dfa680256",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "The Associated Press reports on a lawsuit alleging that Anthropic, OpenAI and other AI companies made an illegal agreement to slow down AI development. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Lawsuit alleges an illegal agreement among Anthropic, OpenAI and others on an AI slowdown.",
-  "Reported by AP News.",
-  "Drew 37 points and 11 comments on Hacker News."
- ]
+  "id": "3d2dfa680256",
+  "prose": "The Associated Press reports on a lawsuit alleging that Anthropic, OpenAI, and other AI companies entered an illegal agreement to slow down AI development. The original article could not be retrieved (the fetch returned an error), so this summary is based only on the AP headline and its Hacker News discussion; the plaintiffs, legal theory, and specific allegations could not be verified.",
+  "highlights": [
+    "AP: lawsuit alleges an illegal agreement among Anthropic, OpenAI and others to slow AI development",
+    "The source could not be fetched, so only the headline claim is summarized",
+    "Drew 37 points and 11 comments on Hacker News",
+    "Honest-basis note: plaintiffs and legal details are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-28T19:14:23Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

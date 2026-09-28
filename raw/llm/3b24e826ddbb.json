@@ -1,13 +1,16 @@
 {
- "id": "3b24e826ddbb",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "A Show HN post presents an AI model that rates facial attractiveness, described as aligned with human preferences. (Brief based on the link title.)"
- ],
- "highlights": [
-  "AI facial attractiveness model claiming alignment with human preferences.",
-  "Show HN entry at faceanalysisai.com; 7 points on Hacker News."
- ]
+  "id": "3b24e826ddbb",
+  "prose": "A Show HN entry for a face-analysis tool whose model estimates facial attractiveness on a 10-point scale. According to the site, the score is not arbitrary: the model was trained on ratings from 60 people who reviewed thousands of face photos, so its output is meant to reflect shared human rating patterns rather than a single aesthetic opinion. The cached source was very brief, so this summary reflects only that limited material.",
+  "highlights": [
+    "Show HN: an AI model that scores facial attractiveness (e.g. '8.0 / 10')",
+    "Trained on ratings from 60 people across thousands of face photos",
+    "The pitch is that scores reflect shared human rating patterns, not one opinion",
+    "The cached source was a minimal snippet; further detail is unverified"
+  ],
+  "quotes": [
+    "Based on real human preferences"
+  ],
+  "authored_at": "2026-09-28T19:14:23Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

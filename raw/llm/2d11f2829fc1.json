@@ -1,0 +1,18 @@
+{
+  "id": "2d11f2829fc1",
+  "prose": "Simon Sp\u00e4ti argues the real danger of AI-generated codebases is not code quality but organizational amnesia: teams that no longer understand their own system architecture or the intent behind past decisions. He anchors the essay in a striking anonymous account from an engineer at a large company where specs, tests, PRDs, tickets, and reports are all produced by Claude Code, engineers work 12-13 hour days 'just to press enter', and management treats code output as a solved bottleneck while wondering why delivery is still slow. Sp\u00e4ti's counterpoint is that AI can lift a below-average codebase to average, but only people who understand the system can tell whether what ships is right.",
+  "highlights": [
+    "The core problem is teams not knowing their system architecture or intent, not AI code quality",
+    "An anonymous engineer describes a big company where everything from specs to tickets is made by Claude Code",
+    "Engineers there work 12-13 hour days 'just to press enter' while nobody reads or reviews anything",
+    "Management reasons that since writing code is no longer the bottleneck, slowness must have some other cause",
+    "Sp\u00e4ti's observation: AI writes average code, so it can raise a below-average codebase to average",
+    "Data teams adapt better because they always had to understand the product and business from day one"
+  ],
+  "quotes": [
+    "just to press enter"
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

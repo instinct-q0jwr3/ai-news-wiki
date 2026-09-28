@@ -1,0 +1,18 @@
+{
+  "id": "6a5445ab9761",
+  "prose": "Boston voice-intelligence startup Modulate has raised $25M led by Future Ventures (with Hyperplane and Lakestar) for a platform that runs 100+ small models to give enterprises transcription, emotional analysis, deepfake and AI-music detection, and policy enforcement for voice agents in regulated industries. Founded in 2017 by MIT physics grads Mike Pappas and Carter Huffman, the company moved from gaming voice modulation to moderation to its current focus: detecting AI-generated audio and the intent behind speech. Huffman argues transcription alone misses the nuance of conversation, and that small models keep the company off specialized hardware and big compute bills while making custom training easier. PitchBook had the company at $41M raised and a $170M valuation before this round.",
+  "highlights": [
+    "Modulate raised $25M led by Future Ventures, with Hyperplane and Lakestar participating",
+    "Runs 100+ small models: signal extraction (emotion, tone, synthetic voice) plus analysis/detection (intent, scams, rule violations)",
+    "Targets transcription, deepfake and AI-music detection, and voice-agent policy enforcement in regulated industries",
+    "Founded 2017 by MIT physics undergrads; pivoted from gaming voice modulation to moderation to AI-audio detection",
+    "Small models mean no specialized hardware and lower compute bills, per the CEO",
+    "PitchBook: $41M raised at a $170M valuation before this round"
+  ],
+  "quotes": [
+    "there's not really any capability out there that gets the full nuance"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

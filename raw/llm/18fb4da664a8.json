@@ -1,0 +1,18 @@
+{
+  "id": "18fb4da664a8",
+  "prose": "Google will migrate Gems, its custom-Gemini feature introduced in 2024, into 'skills' starting November 17, 2026, with automatic migration and Gems usable until they convert. Skills, introduced with Gemini Spark, serve the same purpose (custom instructions, default tools, attached files, sharing) but are invoked with a slash in the prompt box and can be combined. 9to5Google notes the announcement seems to have rolled out early, since the help article and 'Create skills' button do not work yet, and the author editorializes against AI apps pushing 'cutesy' curated prompts over users' own customizations. Skills creation is currently gated to AI Pro/Ultra subscribers via the Gemini Spark tab.",
+  "highlights": [
+    "Gems become 'skills' starting Nov 17, 2026, with automatic migration",
+    "Skills launched with Gemini Spark and cover the same custom-instruction use case",
+    "Skills are invoked with / in the prompt box and multiple can be combined",
+    "The help article and Create-skills button did not work yet at announcement time",
+    "Skills creation is currently limited to AI Pro and AI Ultra subscribers",
+    "The author criticizes Gemini's habit of promoting cutesy curated prompts over users' own Gems"
+  ],
+  "quotes": [
+    "Gems will become skills starting Nov 17, 2026"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

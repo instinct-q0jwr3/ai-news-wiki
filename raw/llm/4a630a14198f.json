@@ -1,0 +1,18 @@
+{
+  "id": "4a630a14198f",
+  "prose": "Internal papers seen by the Guardian show Oxford let OpenAI train its models on texts scanned at the Bodleian Library - something Oxford did not disclose when it announced the deal in March 2025, saying only that OpenAI's tools would help scan rare texts for students and scholars. By June 2025 the Bodleian had sent OpenAI 125,000 scans of old PhD theses from European and US universities. Staff meeting notes obtained via FOI show internal doubts about reputational harm and AI's energy use. Oxford says the scans are small-scale, out of copyright, and non-exclusive, that the library keeps the rights and will post them online soon, and that the training use was not hidden. OpenAI framed the deal as making its technology reflect different cultures and histories. The story lands as AI firms buy printed books for 'slop-free' training data.",
+  "highlights": [
+    "Guardian: texts OpenAI scanned at the Bodleian went into its training data",
+    "Oxford's March 2025 announcement mentioned scanning help, not AI training",
+    "By June 2025 the Bodleian had sent 125,000 scans of 19th-20th century PhD theses",
+    "FOI'd staff notes show worries about Oxford's reputation and AI energy use",
+    "Oxford: scans are out of copyright, non-exclusive, rights retained, going online soon",
+    "Context: AI firms are buying print books for slop-free training data; some get destroyed after scanning"
+  ],
+  "quotes": [
+    "it reflects different cultures, histories and perspectives"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

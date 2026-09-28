@@ -1,0 +1,19 @@
+{
+  "id": "ab68b7018611",
+  "prose": "TypeSafe AI introduces Quail, a query-aware inference layer that hits over a billion tokens per minute per H100 on a multi-join AI-SQL query - more than 10x its vLLM baseline, and under 6 cents per billion tokens on Modal. The thesis: while everyone builds coding agents, a quieter inference revolution is happening at the data layer, where LLM transformations of data (like an AI.IF prompt filter inside a SQL join) produce millions of long sequences that need far less than frontier intelligence. Serving those workloads through engines optimized for agentic, arbitrary-request traffic is massively inefficient, so Quail co-designs inference with the query planner; Karpathy is quoted framing the underlying model Jev as a point on the LLM pareto curve in an under-invested regime (no thinking, single token, low latency). On TypeSafe's new AI-SQL benchmark, Quail runs 1.84x faster than vLLM geometrically averaged, including two queries deliberately included to show headroom.",
+  "highlights": [
+    "Quail: a query-aware inference layer for AI-SQL workloads",
+    "Over 1 billion tokens/minute per H100 on a heavy multi-join query, >10x a vLLM baseline",
+    "Under 6 cents per billion tokens on Modal",
+    "The workload: SQL queries with LLM predicates (AI.IF) generating millions of long, simple sequences",
+    "Small open-weights models suffice; agentic-optimized engines waste that fact",
+    "1.84x geomean speedup over vLLM on their released AI-SQL benchmark",
+    "Karpathy: this regime (no thinking, single-token, low-latency) had large latent demand and was under-invested"
+  ],
+  "quotes": [
+    "over a billion tokens processed per minute"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

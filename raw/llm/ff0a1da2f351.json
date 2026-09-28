@@ -1,0 +1,18 @@
+{
+  "id": "ff0a1da2f351",
+  "prose": "A developer with ADHD built ClearTime, a visual timer, as a native app across macOS, iOS, watchOS, and tvOS in about five hours from first commit to TestFlight builds, using an AI workflow. The motivation is personal: a clock tells the time but does not help him feel how much is left. The post also explains why this matters more now: at 48 he developed SVT, spent a week in the ICU with a heart rate pinned at 220 bpm, and underwent an ablation; recovery and a healthier, lower-stress life became the backdrop for building tools that reduce friction. The writeup, he jokes, took longer than the build.",
+  "highlights": [
+    "Native visual timer shipped to Mac, iPhone, Apple Watch, and Apple TV in ~5 hours via an AI workflow",
+    "Built for ADHD: clocks show the time but do not convey how much is left",
+    "The author developed SVT at 48, spent a week in ICU at 220 bpm, and had an ablation",
+    "Physical visual timers inspired the idea; he wanted one that follows him across screens",
+    "TestFlight builds worked on all four platforms the same afternoon",
+    "Jokes the writeup took more time than the design and build"
+  ],
+  "quotes": [
+    "about five hours from the first commit"
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

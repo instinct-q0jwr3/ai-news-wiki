@@ -1,0 +1,18 @@
+{
+  "id": "afe26365427e",
+  "prose": "Vespper (YC F24) launches what it calls a state-of-the-art Docx MCP, aiming at the surprisingly hard problem of agents editing Word documents. In legal, finance, and healthcare the .docx file is the deliverable, and engineers report spending weeks or months tuning harnesses to edit them reliably. The post explains why: a .docx is a ZIP of verbose OOXML XML parts where a 4-5 sentence paragraph can inflate into thousands of tokens, user-visible text is split across many XML nodes, and changes are not local the way they are in Markdown or simple HTML. Existing agent approaches fall into three categories, all of which break on complex scenarios.",
+  "highlights": [
+    "Launch HN for Vespper, a YC F24 startup building a Docx MCP for agents",
+    "In legal, finance, and healthcare the Word document is the deliverable, but agents struggle to edit .docx well",
+    "Engineers report weeks to months tuning harnesses for reliable Word editing",
+    "A .docx is a ZIP of verbose OOXML: a short paragraph can become thousands of tokens",
+    "Visible text is split across many XML nodes, so edits are not local like in Markdown or HTML",
+    "Existing approaches fall into three categories that all fail on complex documents"
+  ],
+  "quotes": [
+    "the Word document is the deliverable"
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

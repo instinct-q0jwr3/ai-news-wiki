@@ -1,14 +1,16 @@
 {
- "id": "40f72ef242d4",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "Variety reports that Robin Williams' daughter told fans creating AI videos of her father to 'have some shame'. (Brief based on the headline.)"
- ],
- "highlights": [
-  "Robin Williams' daughter condemns fan-made AI videos: 'Have some shame'.",
-  "Reported by Variety.",
-  "Drew 78 points and 47 comments on Hacker News."
- ]
+  "id": "40f72ef242d4",
+  "prose": "Zelda Williams is again asking fans to stop creating and circulating AI-generated videos of her late father, Robin Williams. Per Variety, this comes nearly a year after she last took to social media to ask people not to send her augmented content featuring the actor. The cached source was only the article's opening, so this summary reflects that limited text plus the headline's report of her telling fans to 'have some shame'.",
+  "highlights": [
+    "Zelda Williams calls for an end to fan-made AI videos of Robin Williams",
+    "Variety: nearly a year since her previous plea against augmented content of her father",
+    "Headline quote: she told fans creating the videos to 'have some shame'",
+    "The cached source was only the opening lines; fuller detail is unverified"
+  ],
+  "quotes": [
+    "have some shame"
+  ],
+  "authored_at": "2026-09-28T19:14:23Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

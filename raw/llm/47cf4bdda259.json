@@ -1,0 +1,18 @@
+{
+  "id": "47cf4bdda259",
+  "prose": "OpenAI appears to be preparing a wider rollout of its Ultrafast API mode around DevDay on September 29, with new references surfacing in the OpenAI Platform and API docs and a hidden speed selector (Standard, Fast, Ultrafast) spotted in the Responses API Playground. Ultrafast was previewed with GPT-5.6 Sol at up to 750 output tokens per second - up to 14x faster inference than Standard - is powered by Cerebras, and remains limited to selected customers. The piece expects tiered speed pricing to let developers match latency to workload value, notes OpenAI's 750 MW Cerebras partnership being deployed in stages through 2028, and reads the moves (plus new 'Accelerate' onboarding tiers) as a DevDay focus on API infrastructure and production tooling. Whether every GPT-6 model gets Ultrafast at launch is unconfirmed.",
+  "highlights": [
+    "Ultrafast references appeared in OpenAI's cloud-agent API docs ahead of DevDay (Sept 29)",
+    "A hidden Standard/Fast/Ultrafast selector was spotted in the Responses API Playground",
+    "Ultrafast with GPT-5.6 Sol: up to 750 output tokens/sec, up to 14x faster than Standard",
+    "The mode is powered by Cerebras and still limited to selected customers",
+    "OpenAI's 750 MW Cerebras partnership is being deployed in stages through 2028",
+    "Support for GPT-6 Sol and GPT-6 Astra at launch is a key open question"
+  ],
+  "quotes": [
+    "Standard, Fast, and Ultrafast"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

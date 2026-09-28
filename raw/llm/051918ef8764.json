@@ -1,0 +1,18 @@
+{
+  "id": "051918ef8764",
+  "prose": "A visual, from-scratch derivation of the policy gradient (REINFORCE) for language models, arguing that PPO, GRPO and most RL algorithms used to train LLMs are elaborations of one idea. The post follows a single prompt, 'What is 17 x 24?', from next-token probabilities to the gradient that makes correct answers more likely. It frames the model as a policy sampling tokens one at a time, shows how a completion's probability factors into per-token probabilities along a tree of continuations, and introduces a verifier reward (RL with verifiable rewards, RLVR) that returns 1 for a correct final answer. The objective J is then the expected reward over prompts and completions, and the post derives the gradient that nudges the model toward rewarded paths.",
+  "highlights": [
+    "Derives REINFORCE from scratch for an LLM answering 'What is 17 x 24?'",
+    "Frames the model as a policy: each token is sampled from a distribution over the next token",
+    "A completion's probability is the product of per-token probabilities along one path in a tree",
+    "Uses RLVR: a verifier reward returns 1 for correct answers, 0 otherwise",
+    "The objective J is expected reward; RL borrowed the letter from optimal control",
+    "Positions PPO and GRPO as elaborations of this single policy-gradient idea"
+  ],
+  "quotes": [
+    "elaborations of one idea: the policy gradient"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

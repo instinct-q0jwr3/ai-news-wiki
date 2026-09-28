@@ -1,14 +1,14 @@
 {
- "id": "38d0eab48596",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "In a blog post, Fagner Brack lays out what 'AI-native' development looks like on stable infrastructure. (Brief based on the link title.)"
- ],
- "highlights": [
-  "A practitioner's take on what 'AI-native' looks like.",
-  "Published on fagnerbrack.com.",
-  "Drew 18 points and 20 comments on Hacker News."
- ]
+  "id": "38d0eab48596",
+  "prose": "Fagner Brack's blog post lays out what 'AI-native' software development looks like when it is built on stable, boring infrastructure rather than constant churn. The original source could not be retrieved (the fetch returned an error), so this summary is based only on the post's title and its Hacker News discussion context; the specific practices Brack recommends could not be verified.",
+  "highlights": [
+    "A practitioner's essay on 'AI-native' development built on stable infrastructure",
+    "The source could not be fetched, so only the headline framing is summarized",
+    "Drew 18 points and 20 comments on Hacker News",
+    "Honest-basis note: details beyond the headline are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-28T19:14:23Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "1ae20d0463c7",
+  "prose": "An inference-cloud operator argues for compute derivatives as the missing financial infrastructure of the GPU rental market. With B300 deals clearing above $24/GPU/hr and short-term compute above $7, the author lays out the bind: five-year contracts force a huge demand bet to get an affordable rate, while selling fixed-price inference against a floating GPU bill is an unintended short position on compute prices. A worked example (a video-gen customer needing 2,048 B300s for months 13-15, about 4.5M GPU-hours) motivates a call option on a rental index with a $4.50 strike, letting the operator pay a premium for protection against expensive GPU-hours while keeping the ability to resize the fleet. The claim: an emerging market in compute derivatives could change how neoclouds grow and hedge.",
+  "highlights": [
+    "Spot context: B300 deals clearing above $24/GPU/hr, short-term compute above $7",
+    "A 5-year reservation secures a good rate but forces a big bet on future demand",
+    "Selling fixed-price inference while GPU costs float is an unintended position on compute prices",
+    "Worked example: 2,048 B300s for months 13-15, ~4.49M GPU-hours, offered at $4.15/GPU/hr for 5 years",
+    "Proposes call options on a rental index (e.g. $4.50 strike) to cap renewal pain while staying resizable",
+    "Frames compute derivatives as a market that could reshape how neoclouds grow and hedge"
+  ],
+  "quotes": [
+    "trading compute"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

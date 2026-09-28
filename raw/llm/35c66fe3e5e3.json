@@ -1,0 +1,18 @@
+{
+  "id": "35c66fe3e5e3",
+  "prose": "SemiAnalysis-style modeling of what Meta's Muse agent would cost in infrastructure at 100 million daily users. The piece separates two very different stacks: the VM/sandbox layer (about 2 vCPUs, 8 GB RAM and 100 GB persistent storage per user) and the Spark inference layer running on Meta's external inference infrastructure. The key correction is that 100M DAU does not mean 100M live VMs: assuming two active hours per user per day yields ~8M average concurrent sandboxes, ~20M at a 2.5x peak-to-average ratio, and ~25M provisioned with headroom. Using DeepSeek's DSec production figures (about 800 microVMs per 188-core node, 380k peak sandboxes on ~160 nodes) as a benchmark for CPU oversubscription, the base case lands at roughly 1-2 GW of average total power, of which only ~0.1 GW is the CPU/VM layer, with 3-4 GW plausible depending on model-call intensity. The sandbox layer itself is under $1B of CPU content and about $2B of DRAM.",
+  "highlights": [
+    "Estimates ~1-2 GW average power for 100M Muse DAU; 3-4 GW plausible at higher reasoning-call rates",
+    "Only ~0.1 GW of that comes from the CPU/VM sandbox layer; inference dominates",
+    "Muse sandboxes run about 2 vCPUs, 8 GB RAM, and 100 GB persistent storage per user",
+    "Base case assumes 2 active agent-hours per DAU, 2.5x peak-to-average, plus 20% headroom: ~25M live VMs",
+    "DeepSeek's DSec is the benchmark: ~800 microVMs per node, 380k peak sandboxes on ~160 nodes",
+    "Sandbox layer totals under $1B of CPU content and roughly $2B of DRAM"
+  ],
+  "quotes": [
+    "~1-2 GW of average total power"
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

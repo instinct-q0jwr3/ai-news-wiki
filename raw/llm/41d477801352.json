@@ -1,14 +1,14 @@
 {
- "id": "41d477801352",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "Forbes reports that Amazon is blocking Meta's new Muse AI agent from shopping on amazon.com. (Brief based on the headline.)"
- ],
- "highlights": [
-  "Amazon blocks Meta's Muse agent from shopping on amazon.com.",
-  "Reported by Forbes.",
-  "Drew 46 points and 23 comments on Hacker News."
- ]
+  "id": "41d477801352",
+  "prose": "Forbes reports that Amazon is blocking Meta's new Muse AI agent from shopping on amazon.com. The original article could not be retrieved (the fetch returned an error), so this summary is based only on the Forbes headline and its Hacker News discussion; Amazon's stated rationale, the technical mechanism of the block, and Meta's response could not be verified.",
+  "highlights": [
+    "Forbes: Amazon is blocking Meta's Muse AI agent from shopping on amazon.com",
+    "The source could not be fetched, so only the headline claim is summarized",
+    "Drew 46 points and 23 comments on Hacker News",
+    "Honest-basis note: rationale and mechanism of the block are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-28T19:14:23Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

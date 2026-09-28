@@ -1,0 +1,17 @@
+{
+  "id": "98ebf5712914",
+  "prose": "Cloudflare introduces cf, a new CLI built to give AI agents access to the entire Cloudflare API rather than the roughly 280 operations Wrangler exposes. The motivation is usage data: agents went from single-digit percentages of Wrangler use a year ago to 48% last week, run nearly twice as many distinct commands per day as humans, and are four times as likely to chain six or more. Wrangler was assembled product-by-product with inconsistent command patterns that were impossible to standardize, so cf is designed from scratch for agent-driven development. It is available as an open beta via npm.",
+  "highlights": [
+    "Agents reached 48% of Wrangler usage last week, up from single digits a year earlier",
+    "Agents use ~2x as many distinct commands per day and are ~4x as likely to use 6+ commands",
+    "Wrangler covers only ~280 of Cloudflare's thousands of API operations, with inconsistent patterns across teams",
+    "The new cf CLI is designed agent-first and exposes every Cloudflare product",
+    "Available now as an open beta: npm i -g cf"
+  ],
+  "quotes": [
+    "cf gives your agent access to the entire Cloudflare API"
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

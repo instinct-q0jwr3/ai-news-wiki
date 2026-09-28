@@ -1,0 +1,16 @@
+{
+  "id": "92d01df799c3",
+  "prose": "HN.watch is a Show HN project that attaches a short AI-generated explainer video to every story on the Hacker News front page. The site renders the current front page with a 'video' link beside each title so readers can watch a quick summary instead of, or before, opening the article. The cached snapshot is essentially the front-page listing itself, which shows the concept in action across that day's mix of stories.",
+  "highlights": [
+    "Show HN project that generates a short explainer video for every HN front-page story",
+    "The front page is rendered with a video link next to each story title",
+    "The cached snapshot is mostly the live story listing, demonstrating the format",
+    "Aimed at readers who want a quick gist before deciding to open an article"
+  ],
+  "quotes": [
+    "Hacker News with explainer videos"
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

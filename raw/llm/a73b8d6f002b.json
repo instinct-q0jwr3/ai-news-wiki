@@ -1,0 +1,17 @@
+{
+  "id": "a73b8d6f002b",
+  "prose": "The author asks what an AI product that took its own premises seriously would actually include, arguing today's chatbots are composed like a grift: interfaces designed to make users feel they are interacting with capabilities the product does not have. The opening exhibit is the universal fine print ('ChatGPT can make mistakes. Check important info.') which pushes verification responsibility back onto the user without explaining how to tell which info is 'important'. The post then lays out the features a serious research or development tool would need, starting with reliable information provenance. The critique, the author notes, applies at least as much to Ollama and local models as to the frontier labs.",
+  "highlights": [
+    "Argues current AI products do not take their own problem-solving premises seriously",
+    "The universal 'AI can make mistakes' fine print is legalese that shifts verification burden onto users",
+    "No chatbot explains how a user is supposed to know which info is 'important' to check",
+    "Proposes concrete features a serious research/coding AI tool would need, starting with provenance",
+    "Says the critique applies to Ollama and local models as much as to frontier labs"
+  ],
+  "quotes": [
+    "AI can make mistakes. Check important info."
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

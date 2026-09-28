@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
 
-`entity` `xai` `agentic-systems` `ai-coding-agents` `ai-price-war` `external-evaluation`
+`entity` `xai` `agentic-systems` `ai-coding-agents` `ai-price-war` `compute-buildout`
 
 ## Overview
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-09-28** - E ([Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year](../summaries/0f3d42b526f5.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-25** - Simon Willison's September 22 roundup covers a same-day model pile-up: a day after Grok 4.7 and MiMo v2.6 Flash/Pro, Anthropic released Claude Opus 5.5 and OpenAI answered about an hour later with GPT-6 Sol and GPT-6 Luna. The headline is pricing. GPT-6… ([Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](../summaries/0ca9f7982272.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Xiaomi](../entities/xiaomi.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-09-23** - AI training-data startup Micro1 raised more than $100 million at a $4 billion valuation, Forbes reports, up from a $500 million valuation in September 2025. Ali Ansari's company began last year as a recruiting business with $7 million in ARR and now… ([AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025](../summaries/f29ad7754038.md) · [SpaceXAI (xAI)](../entities/xai.md))
 - **2026-09-22** - Meta's Muse personal AI agent overtook ChatGPT as the leading free iOS app in the U.S. on Friday, less than two weeks after launch, CNBC reports. Sensor Tower counted 730,000 downloads in about five days after its September 8 debut and over 2.5 million… ([Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads](../summaries/1e8aac8e1925.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))

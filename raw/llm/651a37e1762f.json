@@ -1,0 +1,19 @@
+{
+  "id": "651a37e1762f",
+  "prose": "Anthropic introduces Claude Sonnet 5.5, the second model in the 5.5 family: a clear upgrade over Sonnet 5, more than 30% faster, and up to 30% cheaper per task in Anthropic's testing despite unchanged list prices. Positioned as the fast, lower-cost complement to Opus 5.5, it targets well-scoped everyday work like bug fixing and polished documents, slides, and spreadsheets. Notably it scores 70.6% on Terminal-Bench 4.0 versus Sonnet 5's 10.3%, sits two points below Opus 5.5 on GDPval-AA, and is the first Sonnet to beat Pok\u00e9mon Red from screenshots alone. Because its cyber capabilities match Opus 5's, it is the first Sonnet shipping with cyber safeguards. Epic's early testing praised its performance on system design audits and multi-hour tasks. Haiku 5.5 follows in coming weeks.",
+  "highlights": [
+    "Sonnet 5.5: 30%+ faster than Sonnet 5 and up to 30% cheaper per task at the same list price",
+    "Scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%",
+    "Two points below Opus 5.5 on GDPval-AA; first Sonnet to beat Pok\u00e9mon Red from screenshots",
+    "First Sonnet to launch with cyber safeguards, since capabilities match Opus 5",
+    "Priced at $2/M input, $10/M output tokens, same as Sonnet 5",
+    "Epic tested it on tens of thousands of lines of gameplay architecture code and multi-hour tasks",
+    "Claude Haiku 5.5, for high-volume cost-sensitive work, arrives in coming weeks"
+  ],
+  "quotes": [
+    "runs 30%+ faster, and costs up to 30% less"
+  ],
+  "authored_at": "2026-09-28T19:13:53Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

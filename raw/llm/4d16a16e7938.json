@@ -1,0 +1,18 @@
+{
+  "id": "4d16a16e7938",
+  "prose": "SiMa.ai, a startup building chips for 'physical AI' (robots, drones, autonomous vehicles), has raised a $150M Series C at a $1.45B valuation, co-led by Fidelity and Amplify with participation from Dell Technologies Capital, StepStone, AllianceBernstein, Baron Capital and J.P. Morgan. CEO Krishna Rangasayee pitches physical AI as the gateway to a $50 trillion market and says the funds will scale Palette Neat, its agentic development environment, and the next generation of its Modalix SoC for embedded robotics, targeting 1,000 TOPS in new hardware in H1 2028. The competitive frame is Nvidia: SiMa positions its purpose-built platform against pricier CUDA-based Jetson modules, whose high-end AGX Thor hits 2,000 FP4 TOPS while mainstream modules cover roughly 400-865 TOPS.",
+  "highlights": [
+    "SiMa.ai raised $150M Series C at a $1.45B valuation, co-led by Fidelity and Amplify",
+    "Physical AI covers robots, drones, and autonomous vehicles that sense and act in the real world",
+    "CEO Rangasayee calls it the gateway to a $50 trillion market",
+    "Funds scale Palette Neat (agentic dev environment) and the next-gen Modalix SoC",
+    "Targeting 1,000 TOPS in new hardware in the first half of 2028",
+    "Positions against Nvidia's Jetson line: 2,000 FP4 TOPS at the high end, 400-865 TOPS mainstream"
+  ],
+  "quotes": [
+    "we've built the entire puzzle"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

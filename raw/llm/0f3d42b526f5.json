@@ -1,0 +1,18 @@
+{
+  "id": "0f3d42b526f5",
+  "prose": "Elon Musk says SpaceXAI will bring another 660,000 Nvidia GPUs online this year, pushing the Colossus buildout past the million-GPU goal he announced nearly two years ago. Per his X post, 220,000 GB300s will be operational next week, another 220,000 in November, and a further 220,000 by late December 'if we get lucky'. Added to the existing fleet (Colossus 1: 150k H100, 50k H200, 30k GB200; Colossus 2: 110k GB200, 440k GB300), that would put SpaceXAI at 1.1 million GB300s and 1.44 million GPUs total. The piece notes Colossus 1's mixed Hopper/Blackwell setup was inefficient for training Grok, so Musk rented it to Anthropic for inference, while Colossus 2 is all-Blackwell to avoid bottlenecks.",
+  "highlights": [
+    "Musk: 220k GB300s next week, 220k in November, 220k more by late December 'if we get lucky'",
+    "Would take SpaceXAI to 1.1M GB300s and 1.44M total GPUs in operation",
+    "Colossus 1: 150k H100, 50k H200, 30k GB200; Colossus 2: 110k GB200, 440k GB300",
+    "Colossus 1 was inefficient for training Grok, so it is rented to Anthropic for inference",
+    "Colossus 2 is all-Blackwell to avoid training bottlenecks",
+    "SpaceXAI is three years old, against rivals six (Anthropic) and ten (OpenAI) years old"
+  ],
+  "quotes": [
+    "If we get lucky, yet another 220k GB300"
+  ],
+  "authored_at": "2026-09-28T19:16:52Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

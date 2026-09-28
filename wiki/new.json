@@ -1,101 +1,245 @@
 {
- "generated_at": "2026-09-28T13:07:36+00:00",
+ "generated_at": "2026-09-28T19:08:10+00:00",
  "stories": [
   {
-   "id": "fb931bae9c91",
-   "title": "AI companies in race to demonstrate their model most threatening to humanity",
+   "id": "2d11f2829fc1",
+   "title": "The problem is not AI code, but not knowing about system architecture or intent",
    "source": "Hacker News",
-   "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/"
+   "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/"
   },
   {
-   "id": "08f2e40ace38",
-   "title": "Prompting Claude Opus 5.5",
+   "id": "651a37e1762f",
+   "title": "Sonnet 5.5",
    "source": "Hacker News",
-   "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5"
+   "url": "https://www.anthropic.com/claude-sonnet-5-5"
   },
   {
-   "id": "ff5eecb673fe",
-   "title": "Big AI's content problem: Take the work, keep the money",
+   "id": "92d01df799c3",
+   "title": "Show HN: HN.watch – Videos of all Hacker News posts",
    "source": "Hacker News",
-   "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007"
+   "url": "https://hn.watch/"
   },
   {
-   "id": "acb3d129c935",
-   "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+   "id": "87a58cdce6d5",
+   "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
    "source": "Hacker News",
-   "url": "https://github.com/seamusc/papermono-shopping-list"
+   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
   },
   {
-   "id": "c6efd552792e",
-   "title": "Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs",
+   "id": "98ebf5712914",
+   "title": "Cf: The Agentic CLI for the Cloudflare API",
+   "source": "Hacker News",
+   "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/"
+  },
+  {
+   "id": "11dd053527b0",
+   "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+   "source": "Hacker News",
+   "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/"
+  },
+  {
+   "id": "77e66f9d1426",
+   "title": "How Pew Research Center is – and is not – using AI in our work",
+   "source": "Hacker News",
+   "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
+  },
+  {
+   "id": "cca857e2f3c7",
+   "title": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
+   "source": "Hacker News",
+   "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+  },
+  {
+   "id": "afe26365427e",
+   "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+   "source": "Hacker News",
+   "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp"
+  },
+  {
+   "id": "5bc6c91a3a04",
+   "title": "I made a visual workspace for AI Automations",
+   "source": "Hacker News",
+   "url": "https://www.biom.dev/"
+  },
+  {
+   "id": "4bde30476b78",
+   "title": "We Can't Let Enormous Weirdos Regulate AI",
+   "source": "Hacker News",
+   "url": "https://little-flying-robots.ghost.io/why-we-cant-let-enormous-weirdos-regulate-ai/"
+  },
+  {
+   "id": "ff0a1da2f351",
+   "title": "I built a native Apple app for 4 platforms in one afternoon with my AI workflow",
+   "source": "Hacker News",
+   "url": "https://twitter.com/danielhayesmith/status/2103976394338271515"
+  },
+  {
+   "id": "68b8e1cceef1",
+   "title": "Schools are experimenting with AI with little evidence or policy to guide them",
+   "source": "Hacker News",
+   "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research"
+  },
+  {
+   "id": "98ddb2d43c25",
+   "title": "Florida AG James Uthmeier files for an emergency injunction to halt ChatGPT development, saying OpenAI doesn't have the ability to properly regulate its tech",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
+   "url": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier"
   },
   {
-   "id": "90c10bfbf2b0",
-   "title": "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities",
+   "id": "01cd06085984",
+   "title": "Anthropic Signed an $11.6 Billion Akamai Compute Deal",
+   "source": "TLDR AI",
+   "url": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic"
+  },
+  {
+   "id": "6131334b44c6",
+   "title": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models",
    "source": "Techmeme",
-   "url": "https://artificialanalysis.ai/articles/artificial-analysis-cyber-index"
+   "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
   },
   {
-   "id": "06e198f1920e",
-   "title": "AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service",
+   "id": "18fb4da664a8",
+   "title": "Google says it will migrate Gems, which let users create custom versions of Gemini, to \"skills\", starting Nov. 17; Google introduced skills with Gemini Spark",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/"
+   "url": "https://9to5google.com/2026/09/27/gemini-gems-skills/"
   },
   {
-   "id": "cce49bcaaacf",
-   "title": "Mark Zuckerberg unveils Meta Enterprise Platform, its \"next major pillar of our business\" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it",
+   "id": "086a2622e89c",
+   "title": "Pluralistic: Priceful (28 Sep 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/09/28/cost-of-everything/"
+  },
+  {
+   "id": "1659c154bd20",
+   "title": "Jensen Huang says AI model distillation is \"competition\"; Scott Bessent described it as \"theft\" in July and threatened sanctions against overseas companies",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc?st=GGaGqm&reflink=desktopwebshare_permalink"
+   "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html"
   },
   {
-   "id": "c351dad18730",
-   "title": "Yes, no AI is now a feature",
+   "id": "b3ac68f8ebff",
+   "title": "Build plugins for Claude with the directory submission portal",
+   "source": "TLDR AI",
+   "url": "https://claude.com/blog/build-plugins-for-claude"
+  },
+  {
+   "id": "6af7bb72fe84",
+   "title": "OpenAI and Anthropic Probe Tens of Thousands of Incidents as OpenAI Halts Training",
+   "source": "TLDR AI",
+   "url": "https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause/"
+  },
+  {
+   "id": "07606e5cc149",
+   "title": "Jensen Huang tells Ezra Klein that AI is just software whose existential risks are overstated, yet his standards would shut down OpenAI and 10x safety spending",
+   "source": "Techmeme",
+   "url": "https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen"
+  },
+  {
+   "id": "0f3d42b526f5",
+   "title": "Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year",
+   "source": "TLDR AI",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online"
+  },
+  {
+   "id": "6a5445ab9761",
+   "title": "Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
+  },
+  {
+   "id": "3dadec52205d",
+   "title": "Yes, Claude can do Nine Loops",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+  },
+  {
+   "id": "ab68b7018611",
+   "title": "Hitting a billion tokens per minute on one GPU by combining a query planner and an inference engine",
+   "source": "TLDR AI",
+   "url": "https://modal.com/blog/quail-billion-tpm"
+  },
+  {
+   "id": "051918ef8764",
+   "title": "Policy Gradients for LLMs Explained Visually",
+   "source": "TLDR AI",
+   "url": "https://www.tylerromero.com/posts/2026-09-policy-gradient/"
+  },
+  {
+   "id": "a20db707a955",
+   "title": "Why I'm Building Muse",
+   "source": "TLDR AI",
+   "url": "https://x.com/alexandr_wang/status/2103551714536439951"
+  },
+  {
+   "id": "35c66fe3e5e3",
+   "title": "Agent (Muse) Compute Demand",
+   "source": "TLDR AI",
+   "url": "https://robonomics.substack.com/p/agent-muse-compute-demand"
+  },
+  {
+   "id": "285fc34acf58",
+   "title": "An OpenAI agent security executive discusses the Hugging Face incident, OpenAI's response, sandboxing improvements, alignment, \"reasonable paranoia\", and more",
+   "source": "Techmeme",
+   "url": "https://x.com/joedaroo"
+  },
+  {
+   "id": "6a1aa18ec441",
+   "title": "Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/"
+  },
+  {
+   "id": "a73b8d6f002b",
+   "title": "What Would A Serious AI Product Look Like?",
    "source": "Lobsters",
-   "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/"
+   "url": "https://blog.glyph.im/2026/09/serious-ai-product.html"
   },
   {
-   "id": "42d374376c90",
-   "title": "China has expanded its foreign travel restrictions to include the direct relatives, such as spouses and children, of certain key AI and chip executives",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent"
+   "id": "4a630a14198f",
+   "title": "Oxford let OpenAI train AI models on Bodleian Library texts",
+   "source": "TLDR AI",
+   "url": "https://thenextweb.com/news/oxford-bodleian-openai-training-data"
   },
   {
-   "id": "09d500f10a9b",
-   "title": "Nvidia increases its share buyback program by $150B, raising the remaining authorized amount to $235B, aiming to complete it through FY 2028; NVDA is up 20% YTD",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7"
-  },
-  {
-   "id": "4548d58207b3",
-   "title": "An interview with ASML CEO Christophe Fouquet on the company's 42-year history, its complex supply chain across 2,000 companies, US export bans, AI, and more",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1"
-  },
-  {
-   "id": "5cf987ed6ff1",
-   "title": "Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the \"bipartisan psychosis\" over data centers",
-   "source": "Techmeme",
-   "url": "https://www.washingtonsun.com/national/ai-bros-are-partying-data-center"
-  },
-  {
-   "id": "e7bb942435e8",
-   "title": "AI agents are the ultimate aggregators; they reveal apps as a means, not an end, and offering them is tech's ultimate prize, with Meta and Microsoft well-poised",
-   "source": "Techmeme",
-   "url": "https://stratechery.com/2026/apps-agents-and-aggregation/"
-  },
-  {
-   "id": "c4d0339c2402",
-   "title": "Blackstone, OpenAI, QTS, and SoftBank partner with key US unions to launch the American Infrastructure Alliance, aiming to create data center standards in 2027",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/09/28/ai-industry-unions-data-centers"
-  },
-  {
-   "id": "dd0175c18b67",
-   "title": "Shobr: Job seach CLI via browser automation, event-sourcing, LLM",
+   "id": "47bb2db06ae4",
+   "title": "It’s Time to Investigate the AI Labs",
    "source": "Lobsters",
-   "url": "https://github.com/sebastiancarlos/shobr"
+   "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/"
+  },
+  {
+   "id": "9220bd172403",
+   "title": "Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market"
+  },
+  {
+   "id": "9b0a09357242",
+   "title": "Can AI self-improvement overcome diminishing returns?",
+   "source": "TLDR AI",
+   "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence"
+  },
+  {
+   "id": "1ae20d0463c7",
+   "title": "Let's talk about trading compute",
+   "source": "TLDR AI",
+   "url": "https://x.com/gpugene/status/2104186844007248332?s=12"
+  },
+  {
+   "id": "05684476589d",
+   "title": "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4?st=W99TtM&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "4d16a16e7938",
+   "title": "Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia's CUDA-based hardware",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/09/28/physical-ai-custom-chip-producer-sima-ai-raises-150m-at-1-45b-valuation/"
+  },
+  {
+   "id": "47cf4bdda259",
+   "title": "OpenAI prepares to expand Ultrafast API to more users",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/"
   }
  ]
 }
