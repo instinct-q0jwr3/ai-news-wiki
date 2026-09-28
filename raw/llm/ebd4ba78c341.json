@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A report on Ramona Optics, which makes microscopes that use AI to capture and analyze large volumes of images or samples - the headline truncates the news hook (likely a funding round). The body was not captured (fetch error), so this summary rests on the headline.",
+  "On that basis: AI-driven microscopy as lab infrastructure - automating the imaging and analysis bottleneck in biology workflows. The announcement's specifics are unknown from the capture."
+ ],
+ "highlights": [
+  "Ramona Optics makes AI-driven microscopes for high-volume image capture and analysis",
+  "Headline truncates the news hook; funding or launch details unknown",
+  "Body not captured"
+ ],
+ "id": "ebd4ba78c341",
+ "authored_at": "2026-09-28T07:11:40.177862+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A report that the US Department of Homeland Security says it will 'revolutionize' its FOIA process by using AI to handle certain requests - the headline truncates the specifics. The body was not captured (fetch error), so this summary rests on the headline.",
+  "On that basis: the largest FOIA shop in the US government plans to put AI in the request pipeline - presumably triage, search and redaction - which cuts both ways: faster responses if it works, and a new class of automated-denial and accountability questions if it doesn't. Which request types and what system are unknown from the capture."
+ ],
+ "highlights": [
+  "DHS says it will 'revolutionize' FOIA processing with AI",
+  "The biggest FOIA operation in government moves toward automated handling",
+  "Promise: speed; risk: automated denials and opaque accountability",
+  "Body not captured; scope and system details unknown"
+ ],
+ "id": "36db04323c92",
+ "authored_at": "2026-09-28T07:11:40.177862+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

@@ -1,65 +1,77 @@
 {
- "generated_at": "2026-09-28T01:07:40+00:00",
+ "generated_at": "2026-09-28T07:06:48+00:00",
  "stories": [
   {
-   "id": "d141723c4627",
-   "title": "Imp is a full port of DSPy to the BEAM",
+   "id": "a38522338071",
+   "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
    "source": "Hacker News",
-   "url": "https://github.com/deepfates/imp"
+   "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html"
   },
   {
-   "id": "cc3769ec6985",
-   "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+   "id": "8fa1b6045ef6",
+   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
    "source": "Hacker News",
-   "url": "https://earnanhonestdollar.com/bench"
+   "url": "https://arxiv.org/abs/2110.01834"
   },
   {
-   "id": "19ca012fa961",
-   "title": "George Hotz’s opinion on AI coding",
+   "id": "9fabf50736d0",
+   "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
    "source": "Hacker News",
-   "url": "https://twitter.com/__tinygrad__/status/2044354852663558370"
+   "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html"
   },
   {
-   "id": "8e94d3175fe7",
-   "title": "Hitachi to double US production of small and medium-sized power transformers",
+   "id": "96700a658bb8",
+   "title": "Cambrian Explosion of AI",
    "source": "Hacker News",
-   "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/"
+   "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion"
   },
   {
-   "id": "972616c28956",
-   "title": "[Sponsor] Mux: Turn Your Video Into Context",
-   "source": "Daring Fireball",
-   "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF"
+   "id": "deedc8ea693c",
+   "title": "Show HN: Fusor – Like Vue, but the logic is Rust",
+   "source": "Hacker News",
+   "url": "https://fusor.build"
   },
   {
-   "id": "646f99334f2d",
-   "title": "How AI's acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks",
+   "id": "dfe10a013700",
+   "title": "A look at OpenAI-backed Red Queen Bio, an AI biosecurity startup with $36M raised to design antibody drugs against pathogens, including AI-enabled bioweapons",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&smid=url-share"
+   "url": "https://www.wsj.com/health/this-startup-is-using-ai-to-fight-off-a-future-ai-pandemic-aceedf1b?st=3hXhHo"
   },
   {
-   "id": "2c107a3eea21",
-   "title": "Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’",
-   "source": "Daring Fireball",
-   "url": "https://x.com/katienotopoulos/status/2103993429659386026"
-  },
-  {
-   "id": "f480b85a889d",
-   "title": "Q&A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more",
+   "id": "ebd4ba78c341",
+   "title": "Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-09-24/microsoft-s-suleyman-says-industry-needs-red-line-for-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDI4OTM3OCwiZXhwIjoxNzkwODk0MTc4LCJhcnRpY2xlSWQiOiJUTFZWQ05LSVVQU1MwMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.tuaYuOGB4U9EUjwbUA1dnmwfr2Q0gcQ2azhGCaTIXT4"
+   "url": "https://www.axios.com/local/raleigh/2026/09/22/ramona-optics-making-advanced-microscopes-raises-usd25m"
   },
   {
-   "id": "1d42ed94b0ae",
-   "title": "Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&T's AI workloads",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd"
-  },
-  {
-   "id": "716db3fe6e25",
-   "title": "2026 in LLMs (so far)",
+   "id": "0cf6248a0a21",
+   "title": "Quoting Muse AI Agent",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+   "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/"
+  },
+  {
+   "id": "36db04323c92",
+   "title": "The US DHS says it will \"revolutionize\" its FOIA process by using AI to handle certain types of requests and recommend what information should be redacted",
+   "source": "Techmeme",
+   "url": "https://www.washingtonpost.com/investigations/2026/09/26/government-is-enlisting-ai-help-decide-what-public-records-you-get-see/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkwMzk1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkxNzc3NTk5LCJpYXQiOjE3OTAzOTUyMDAsImp0aSI6ImY4YjYzZWIwLWJmNDgtNDVkYS1iZmNhLWMyZTNkZjNmNWVmZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzA5LzI2L2dvdmVybm1lbnQtaXMtZW5saXN0aW5nLWFpLWhlbHAtZGVjaWRlLXdoYXQtcHVibGljLXJlY29yZHMteW91LWdldC1zZWUvIn0.zAu4NheqwA4cR4iQ78X-6GRIXdN-rkdANBumxe8sjh8&itid=gfta"
+  },
+  {
+   "id": "965c88ac174c",
+   "title": "We just shipped support for the ugliest part of HTTP: Vary",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/"
+  },
+  {
+   "id": "5c4abef21ca5",
+   "title": "DogWood: Monitoring Policies using First Order Temporal Logic",
+   "source": "Lobsters",
+   "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/"
+  },
+  {
+   "id": "af0d1f1c9f55",
+   "title": "Bluesky reply bot checker",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/"
   }
  ]
 }

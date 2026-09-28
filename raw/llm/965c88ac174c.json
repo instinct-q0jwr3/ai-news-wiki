@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A Simon Willison beat on Cloudflare finally shipping support for the Vary header - 'the ugliest part of HTTP' - something he says he'd wanted for years. The classic problem: serving HTML to user agents that send 'accept: text/html' and JSON to those that don't was undeployable behind Cloudflare's cache, which ignored Vary for anything but images. You risked the cache storing the JSON variant and serving it to a browser expecting HTML.",
+  "He adds the coda that independent of the Cloudflare feature, he'd already sworn off content negotiation: he prefers URLs that predictably return one format, adding a .json suffix for the JSON version of a page. Vary support removes a footgun; explicit URLs remove the whole category."
+ ],
+ "highlights": [
+  "Cloudflare now honors the HTTP Vary header - a years-long Willison wishlist item",
+  "The bug it fixes: cached JSON getting served to HTML-expecting browsers under content negotiation",
+  "Willison's own practice: skip negotiation entirely - .json suffix URLs that return one predictable format",
+  "Vary support removes a footgun; explicit URLs remove the category"
+ ],
+ "id": "965c88ac174c",
+ "authored_at": "2026-09-28T07:11:40.177862+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}

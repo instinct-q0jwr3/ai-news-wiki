@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Samsung halted a SmartThings software update for its refrigerators after units shut down entirely when it was applied. The failures began the afternoon of September 22 in South Korea - days before the Chuseok holiday - and filled Samsung's own Members forum with reports: owners tapped the update prompt and the fridge died; one came home to a dark interior light, an unresponsive touch panel and no cold; others were stuck on an 'updating' screen that a power cycle wouldn't clear. Most affected units are Bespoke AI 4-Door models from 2024 onward.",
+  "ZDNet Korea reports the cause: a system error pushed internal test software to customers. Samsung says it spotted the deployment error and stopped distribution immediately, and has publicly apologized - but the fix requires an in-person technician visit, the booking system buckled under load, and some owners were told no visit until after the holiday. Samsung says engineers and call staff will work through the break for urgent cooling failures. It has not said how many fridges are affected and has announced no compensation for spoiled food; owners are packing fridges with dry ice in the meantime."
+ ],
+ "highlights": [
+  "A SmartThings update bricked Samsung Bespoke AI 4-Door fridges - days before Chuseok",
+  "Symptoms: dead units (no light, no panel, no cold) or stuck on an 'updating' screen",
+  "Cause per ZDNet Korea: internal test software was pushed to customers by mistake",
+  "Samsung halted the rollout and apologized; fix requires an in-person technician visit",
+  "The repair booking system overloaded; some visits scheduled only after the holiday",
+  "No affected-unit count, no compensation for spoiled food; owners resorting to dry ice"
+ ],
+ "id": "9fabf50736d0",
+ "authored_at": "2026-09-28T07:11:40.177862+00:00",
+ "model": "agent-pass",
+ "schema": "1"
+}
