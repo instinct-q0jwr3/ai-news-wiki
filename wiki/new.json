@@ -80,10 +80,52 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDcwMzYzNiwiZXhwIjoxNzkxMzA4NDM2LCJhcnRpY2xlSWQiOiJUTTRTTFpLSzNOWUEwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.7HTfC-MuSDvHseE_-WELh_56bNEsYQo0SCqnHZoE0BE"
   },
   {
-   "id": "376f02b2dcd3",
-   "title": "State of Agent Skills",
+   "id": "540aba4c7dde",
+   "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
    "source": "TLDR AI",
-   "url": "https://vercel.com/blog/state-of-agent-skills"
+   "url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html?unlocked_article_code=1.E1E.XwFn.itY4m5r1HZiy&smid=url-share"
+  },
+  {
+   "id": "845ba2d144fd",
+   "title": "OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+  },
+  {
+   "id": "4882733fd778",
+   "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding",
+   "source": "Techmeme",
+   "url": "https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/"
+  },
+  {
+   "id": "61f2a333f736",
+   "title": "OpenAI unveils a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast tier, with up to 8x faster token generation in Codex",
+   "source": "Techmeme",
+   "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/"
+  },
+  {
+   "id": "fd4193143be1",
+   "title": "A recording of the OpenAI DevDay 2026 keynote",
+   "source": "Techmeme",
+   "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
+  },
+  {
+   "id": "bfe406b44382",
+   "title": "OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier"
+  },
+  {
+   "id": "04be50bfa4e5",
+   "title": "OpenAI announces ChatGPT Space, a collaborative hub for shared pages and files, available on Pro, Business, and Enterprise plans; it replaces Library",
+   "source": "Techmeme",
+   "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
+  },
+  {
+   "id": "3de385ce6dc4",
+   "title": "Pluralistic: Lindsay Owens's \"Gouged\" (29 Sep 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/09/29/algorithmic-wage-theft/"
   },
   {
    "id": "f0d491b89743",
@@ -92,16 +134,46 @@
    "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
   },
   {
-   "id": "6a20b99c1028",
-   "title": "Introducing Eleven v4, our most emotive model",
+   "id": "376f02b2dcd3",
+   "title": "State of Agent Skills",
    "source": "TLDR AI",
-   "url": "https://elevenlabs.io/blog/eleven-v4"
+   "url": "https://vercel.com/blog/state-of-agent-skills"
   },
   {
-   "id": "04be50bfa4e5",
-   "title": "OpenAI announces ChatGPT Space, a collaborative hub for shared pages and files, available on Pro, Business, and Enterprise plans; it replaces Library",
+   "id": "ba4a3d630c95",
+   "title": "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations",
    "source": "Techmeme",
-   "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
+   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+  },
+  {
+   "id": "fbf89145e88a",
+   "title": "NVIDIA Launched Open Agent Safety Platform",
+   "source": "TLDR AI",
+   "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform"
+  },
+  {
+   "id": "0349d5bd34ab",
+   "title": "The Facebook Fake-out",
+   "source": "Anil Dash",
+   "url": "https://anildash.com/2026/09/29/facebook-fake-out/"
+  },
+  {
+   "id": "b755e3c17094",
+   "title": "OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
+  },
+  {
+   "id": "cac994236fbe",
+   "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
+   "source": "TLDR AI",
+   "url": "https://www.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent"
+  },
+  {
+   "id": "6131334b44c6",
+   "title": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models",
+   "source": "Techmeme",
+   "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
   },
   {
    "id": "dcc816f4f8b1",
@@ -116,94 +188,10 @@
    "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
   },
   {
-   "id": "8292c3b873cb",
-   "title": "OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests",
-   "source": "Techmeme",
-   "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
-  },
-  {
-   "id": "2b7a4321b91d",
-   "title": "OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT",
-   "source": "Techmeme",
-   "url": "https://thenewstack.io/sign-in-with-chatgpt/"
-  },
-  {
-   "id": "c19c45fc21ea",
-   "title": "Automating eval design and hill-climbing with Claude",
-   "source": "TLDR AI",
-   "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/"
-  },
-  {
-   "id": "15c441b6bbe0",
-   "title": "AMD to Acquire World Labs for $8.2 Billion",
-   "source": "TLDR AI",
-   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
-  },
-  {
    "id": "8a05acacdf29",
    "title": "Team Bots: AI coworkers that learn from your team",
    "source": "TLDR AI",
    "url": "https://x.ai/news/team-bots"
-  },
-  {
-   "id": "3de385ce6dc4",
-   "title": "Pluralistic: Lindsay Owens's \"Gouged\" (29 Sep 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/09/29/algorithmic-wage-theft/"
-  },
-  {
-   "id": "74f53037a561",
-   "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
-  },
-  {
-   "id": "fbf89145e88a",
-   "title": "NVIDIA Launched Open Agent Safety Platform",
-   "source": "TLDR AI",
-   "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform"
-  },
-  {
-   "id": "b755e3c17094",
-   "title": "OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
-  },
-  {
-   "id": "0349d5bd34ab",
-   "title": "The Facebook Fake-out",
-   "source": "Anil Dash",
-   "url": "https://anildash.com/2026/09/29/facebook-fake-out/"
-  },
-  {
-   "id": "cac994236fbe",
-   "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
-   "source": "TLDR AI",
-   "url": "https://www.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent"
-  },
-  {
-   "id": "61f2a333f736",
-   "title": "OpenAI unveils a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast tier, with up to 8x faster token generation in Codex",
-   "source": "Techmeme",
-   "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/"
-  },
-  {
-   "id": "845ba2d144fd",
-   "title": "OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
-  },
-  {
-   "id": "540aba4c7dde",
-   "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
-   "source": "TLDR AI",
-   "url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html?unlocked_article_code=1.E1E.XwFn.itY4m5r1HZiy&smid=url-share"
-  },
-  {
-   "id": "2964d289f4bc",
-   "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details",
-   "source": "Techmeme",
-   "url": "https://thenewstack.io/openai-decision-api-luna/"
   },
   {
    "id": "1710ad8b61b5",
@@ -212,40 +200,52 @@
    "url": "https://www.wheresyoured.at/dead-money/"
   },
   {
-   "id": "6131334b44c6",
-   "title": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models",
-   "source": "Techmeme",
-   "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
-  },
-  {
-   "id": "bfe406b44382",
-   "title": "OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier"
-  },
-  {
-   "id": "4882733fd778",
-   "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding",
-   "source": "Techmeme",
-   "url": "https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/"
-  },
-  {
    "id": "36aa98af2b48",
    "title": "China's AI travel curbs now reach executives' spouses and children",
    "source": "TLDR AI",
    "url": "https://thenextweb.com/news/china-travel-curbs-families-ai-executives-bloomberg"
   },
   {
-   "id": "ba4a3d630c95",
-   "title": "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations",
+   "id": "2b7a4321b91d",
+   "title": "OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+   "url": "https://thenewstack.io/sign-in-with-chatgpt/"
   },
   {
-   "id": "fd4193143be1",
-   "title": "A recording of the OpenAI DevDay 2026 keynote",
+   "id": "15c441b6bbe0",
+   "title": "AMD to Acquire World Labs for $8.2 Billion",
+   "source": "TLDR AI",
+   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
+  },
+  {
+   "id": "c19c45fc21ea",
+   "title": "Automating eval design and hill-climbing with Claude",
+   "source": "TLDR AI",
+   "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/"
+  },
+  {
+   "id": "74f53037a561",
+   "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+   "source": "TLDR AI",
+   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+  },
+  {
+   "id": "6a20b99c1028",
+   "title": "Introducing Eleven v4, our most emotive model",
+   "source": "TLDR AI",
+   "url": "https://elevenlabs.io/blog/eleven-v4"
+  },
+  {
+   "id": "8292c3b873cb",
+   "title": "OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests",
    "source": "Techmeme",
-   "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
+   "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
+  },
+  {
+   "id": "2964d289f4bc",
+   "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details",
+   "source": "Techmeme",
+   "url": "https://thenewstack.io/openai-decision-api-luna/"
   }
  ]
 }

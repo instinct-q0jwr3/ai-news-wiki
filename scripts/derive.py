@@ -336,7 +336,7 @@ def load_stories():
 
 def story_summary(x):
     r=RICH.get(x.get('id'))
-    if r and r['prose']: return r['prose'][0]
+    if r and r['prose']: return r['prose'] if isinstance(r['prose'],str) else r['prose'][0]
     desc=esc(x.get('summary')); title=esc(x.get('feed_title') or x.get('title')); dtitle=esc(x.get('title'))
     desc=re.sub(r'^TLDR AI selected this story in its latest issue:\s*','',desc)
     desc=re.sub(r'^[A-Z][^.:]{1,50} :\s+','',desc)
@@ -391,7 +391,7 @@ def build_summaries(xs,stamp):
         if r is None: r=rich_summary(x)
         RICH[x['id']]=r
         if r:
-            prose='\n\n'.join(r['prose'])
+            prose=r['prose'] if isinstance(r['prose'],str) else '\n\n'.join(r['prose'])
             hl='\n\n## Highlights\n\n'+'\n'.join(f'- {h}' for h in r['highlights']) if r['highlights'] else ''
             summary_sec=prose+hl
         else: summary_sec=story_summary(x)
