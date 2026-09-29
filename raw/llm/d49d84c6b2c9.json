@@ -1,0 +1,18 @@
+{
+  "id": "d49d84c6b2c9",
+  "prose": "Simon Willison's link-blog take on Claude Sonnet 5.5: priced identically to Sonnet 5 while beating it on every benchmark and running cheaper and 30%+ faster. His pelican-riding-a-bicycle benchmark reproduced the same bug he hit with Opus 5.5 - at 'max' thinking effort the model thought for 128,000 tokens ($1.28) and ran out of tokens before producing an SVG - while 'xhigh' effort delivered a solid WebGL pelican for 5.74 cents in 41 seconds. Sonnet 5.5 is nearly Opus 5.5-level on some coding tasks, including viral 3D animation tricks. The strategically interesting detail: Sonnet 5.5 is now the free-tier model on claude.ai, against ChatGPT's free tier on Luna 5.6, giving Anthropic the more capable free offering. Haiku 5.5 is promised in coming weeks; Willison hopes it competes with GPT-6 Luna on price.",
+  "highlights": [
+    "Sonnet 5.5: same price as Sonnet 5, beats it on every benchmark, 30%+ faster and cheaper per task",
+    "Willison's pelican benchmark hit the same bug as Opus 5.5: 128k thinking tokens at max effort, then failure",
+    "At 'xhigh' effort: a solid WebGL pelican in 41 seconds for 5.74 cents",
+    "Nearly Opus 5.5-level on some coding tasks, including 3D animation tricks",
+    "Now the claude.ai free-tier model - Anthropic's free offering currently beats ChatGPT's Luna 5.6 tier",
+    "Haiku 5.5 due in coming weeks; Willison hopes it is price-competitive with GPT-6 Luna"
+  ],
+  "quotes": [
+    "runs 30%+ faster, and costs up to 30% less"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

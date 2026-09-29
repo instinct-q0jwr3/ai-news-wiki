@@ -1,0 +1,18 @@
+{
+  "id": "9160ce88f671",
+  "prose": "A critical essay arguing that 'pacing the frontier' is not what the AI labs actually aim for, whatever their letters say. The author quotes Dario Amodei's own words - 'we must slow the pace at which we improve the capabilities of AI models' because recursive self-improvement is 'starting to happen' and could outrun control - and his FLI podcast stance that labs should not race to build models far bigger than rivals' or hype giant advances, but should build what safety work requires at models 'reasonably close to state of the art'. The author then recalls a pre-RSP conversation with Dario in October 2022 describing Anthropic's real arms-race policy: scale heavily, stay at the frontier for safety research, but release only second-best models and never be the one to ratchet capabilities up - catching up only after someone else moves first. The piece closes by invoking June 22, 1941, implying such pacts and postures collapse when incentives shift.",
+  "highlights": [
+    "Argues 'pacing the frontier' is rhetoric, not the labs' actual goal",
+    "Quotes Amodei: recursive self-improvement is 'starting to happen' and could outrun control",
+    "Amodei on FLI: don't race ahead or hype giant models; do safety work near the state of the art",
+    "Author's 2022 conversation with Dario: Anthropic would release only second-best models and never ratchet first",
+    "The implied strategy: don't contribute to races, but never fall behind either",
+    "Closing allusion to the 1939 pact's collapse in June 1941"
+  ],
+  "quotes": [
+    "Pacing the Frontier is not the actual goal"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

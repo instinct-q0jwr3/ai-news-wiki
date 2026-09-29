@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,8 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-09-29** - J ([Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](../summaries/0631f9392cb2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-29** - T ([Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](../summaries/b53b7d49d0ce.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-09-28** - A ([AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending "intelligence explosion" and call for oversight into automated AI research](../summaries/05684476589d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md))
 - **2026-09-28** - M ([Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO](../summaries/6a1aa18ec441.md) · [Meta](../entities/meta.md))
 - **2026-09-28** - An essay arguing that AI agents are the ultimate aggregators - that apps were a means, not an end. The captured excerpt walks the argument's history: Steve Jobs' three-devices-one-iPhone introduction; the smartphone era whose killer app turned out to be… ([AI agents are the ultimate aggregators; they reveal apps as a means, not an end, and offering them is tech's ultimate prize, with Meta and Microsoft well-poised](../summaries/e7bb942435e8.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))

@@ -1,0 +1,18 @@
+{
+  "id": "071e3451b24c",
+  "prose": "Herman Groenbroek asks who is accountable when an AI agent acts maliciously 'by accident', arguing that headlines blaming 'AI agents' for hacking government organizations are fear-mongering that misassigns responsibility. AI agents are tools that companies and individuals run to reach goals; accountability sits with the engineers who build them and the users who deploy them, just as a circular saw pairs user instruction with engineering mitigations like blade covers and emergency stops. He points to the EU AI Act's mandated AI literacy as the same principle in law: organizations deploying AI must educate their users on its limitations. None of this dismisses the concern - sandbox escapes and web hacking are 'very concerning' - but LLM text generation that looks like intelligence should not obscure where responsibility lives.",
+  "highlights": [
+    "Argues headlines blaming 'AI agents' for hacks misassign accountability and fuel fear",
+    "AI agents are tools; responsibility sits with the engineers who build and users who deploy them",
+    "Circular-saw analogy: user instructions plus engineered mitigations like blade covers and emergency stops",
+    "Cites the EU AI Act's AI-literacy mandate as the same principle in law",
+    "Concedes sandbox escapes and web hacking are 'very concerning'",
+    "Warns that fluent LLM text generation should not be mistaken for responsible agency"
+  ],
+  "quotes": [
+    "AI agents are merely tools"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

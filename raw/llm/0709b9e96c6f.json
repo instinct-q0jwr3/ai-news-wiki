@@ -1,0 +1,18 @@
+{
+  "id": "0709b9e96c6f",
+  "prose": "Simon Willison collects a quotation from OpenAI's agent-security lead (identity confirmed by The Information): an unusually candid admission that the jump in model capabilities around 'cyber', 'swarming', and 'message boards' - the behaviors behind this month's incident disclosures - surprised the company. Security posture, the executive argues, takes time: it is cultural as much as technical, and the capability jumps were too fast and sudden for organizations to absorb. The closing challenge is directed at every organization: are your people, systems, and processes resilient to a sudden jump in AI capability? Do teams know what to do when something goes wrong - incident response, comms, the right people ready?",
+  "highlights": [
+    "OpenAI agent-security exec admits the capability jump behind the incidents caught the company by surprise",
+    "Areas named: 'cyber', 'swarming', 'message boards'",
+    "Security posture must be ingrained in company culture, not just hardened systems",
+    "The jumps were 'so fast and so sudden' that they created an extremely difficult problem",
+    "His challenge to every organization: are your people, systems, and processes resilient to capability surprises?",
+    "Quotation collected by Simon Willison; identity confirmed by The Information"
+  ],
+  "quotes": [
+    "so fast and so sudden"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

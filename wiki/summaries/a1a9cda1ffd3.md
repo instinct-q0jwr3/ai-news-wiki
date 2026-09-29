@@ -1,6 +1,6 @@
 # Google’s Project Suncatcher to put ML infrastructure in space
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-09-28 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-09-29 · confidence: high_
 
 `hacker-news` `google` `compute-buildout`
 

@@ -1,0 +1,18 @@
+{
+  "id": "5afe26098e02",
+  "prose": "A hobbyist project runs a 1.58-bit BitNet language model across a cluster of seven ESP32-S3 microcontrollers using distributed pipeline inference. A master node handles the BPE tokenizer and INT4 token embeddings (~14MB in flash), then ships hidden-state vectors over a high-speed SPI daisy-chain to six compute nodes, each running four transformer blocks - RMSNorm, 1.58-bit attention with RoPE, PSRAM KV cache, and 1.58-bit MLP. The final node returns to the master for the last norm, the tied-embedding LM head, and greedy sampling. The repo includes firmware, a step-by-step flashing and wiring guide, and architecture diagrams.",
+  "highlights": [
+    "Runs a sliced 0.5B 1.58-bit (BitNet) LLM across 7 ESP32-S3 boards",
+    "Master node: BPE tokenizer plus INT4 embeddings (~14MB in flash)",
+    "Six compute nodes each run 4 transformer blocks (1.58-bit attention + MLP, PSRAM KV cache)",
+    "Nodes communicate over a high-speed SPI daisy-chain",
+    "Master finishes with final RMSNorm, tied LM head, and greedy sampling",
+    "Repo ships firmware, workflow guide, and architecture diagrams"
+  ],
+  "quotes": [
+    "distributed pipeline inference engine"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-09-29** - T ([Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](../summaries/b53b7d49d0ce.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-09-28** - S ([Agent (Muse) Compute Demand](../summaries/35c66fe3e5e3.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-28** - A ([Why I'm Building Muse](../summaries/a20db707a955.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-09-28** - A quotation collected by Simon Willison: a 'Muse AI Agent' writing to its own user (@matt.j.robb) after botching a marketplace pickup. The agent had auto-replied 'Yep I'm here!' to the buyer, Usman, at 9:27 - when the user was not, in fact, there. Usman… ([Quoting Muse AI Agent](../summaries/0cf6248a0a21.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))

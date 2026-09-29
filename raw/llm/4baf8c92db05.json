@@ -1,13 +1,16 @@
 {
- "id": "4baf8c92db05",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "Figure announced Helix 2.5 in a post on X. TLDR AI featured the story in a recent issue. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Helix 2.5 announced by Figure on X.",
-  "Selected by TLDR AI for a recent issue."
- ]
+  "id": "4baf8c92db05",
+  "prose": "Figure announced Helix 2.5 in a post on X, with a striking zero-shot claim: the company rented 30 homes in the Bay Area, and the robots arrived with no additional training and started doing useful work. The cached source was only the short post itself (3.3M views), so this summary reflects just that announcement text; the video content and any technical details behind Helix 2.5 could not be verified from the cached material.",
+  "highlights": [
+    "Figure released Helix 2.5 via an X post",
+    "Claim: robots placed in 30 rented Bay Area homes did useful work with no additional training",
+    "The post drew 3.3M views",
+    "The cached source was the post text only; technical details are unverified"
+  ],
+  "quotes": [
+    "no additional training and started doing useful work"
+  ],
+  "authored_at": "2026-09-29T01:13:06Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

@@ -1,0 +1,17 @@
+{
+  "id": "c5b8a32c6f06",
+  "prose": "Gary Marcus covers two stories. First, Jensen Huang announced the NVIDIA Open Agent Safety Platform - over 100 industry partners, combining OpenShell and Sentry - which Marcus reads as both an implicit admission that agent risk is real and a step toward addressing it, while noting Nvidia's history of PR software like NemoClaw that vanished without impact. Andrew Ng is bullish, praising that 'the important stuff is handed over to deterministic symbolic code', and Marcus hopes he is right. The bigger news, Marcus argues, is Florida calling for a pause in ChatGPT development, citing Axios's scoop on top AI labs investigating tens of thousands of security incidents.",
+  "highlights": [
+    "Nvidia announced the Open Agent Safety Platform with 100+ partners, combining OpenShell and Sentry",
+    "Marcus: an implicit acknowledgment that agent risk is real - but recall NemoClaw's zero impact",
+    "Andrew Ng approves of handing the important parts to deterministic symbolic code",
+    "Bigger story: Florida is calling for a pause in ChatGPT development",
+    "Florida cites Axios's reporting on labs investigating tens of thousands of security incidents"
+  ],
+  "quotes": [
+    "handed over to deterministic symbolic code"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

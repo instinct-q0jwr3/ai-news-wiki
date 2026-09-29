@@ -1,6 +1,6 @@
 # OpenAI is building features to counter Grok Bot teammates and Muse
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-28 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-29 · confidence: high_
 
 `techmeme` `openai` `meta` `xai` `muse`
 

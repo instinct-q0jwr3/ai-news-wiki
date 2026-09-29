@@ -1,6 +1,6 @@
 # Concept: AI, jobs and displacement
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
 
 `concept` `labor-displacement`
 

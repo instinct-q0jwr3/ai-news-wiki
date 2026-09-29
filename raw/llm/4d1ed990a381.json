@@ -1,13 +1,13 @@
 {
- "id": "4d1ed990a381",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "Stripe's engineering blog introduces the company's Knowledge AI Platform. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Stripe presents its internal Knowledge AI Platform on stripe.dev.",
-  "Drew 133 points and 88 comments on Hacker News."
- ]
+  "id": "4d1ed990a381",
+  "prose": "Stripe's engineering blog introduces the company's Knowledge AI Platform, authored by members of its technical writing, Agent Foundation, and AI Platform teams. The cached source captured only the author bylines rather than the article body, so this summary is limited to the announcement's existence and authorship; the platform's architecture and capabilities could not be verified from the cached material.",
+  "highlights": [
+    "Stripe engineering blog introduces a Knowledge AI Platform",
+    "Authors span technical writing, the Agent Foundation team, and the AI Platform team",
+    "The cached source captured bylines only; platform details are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-29T01:13:06Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

@@ -1,6 +1,6 @@
 # Concept: Agentic systems
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
 
 `concept` `agentic-systems`
 
@@ -20,6 +20,8 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## Timeline
 
+- **2026-09-29** - H ([Who should be held accountable when an AI Agent (accidentally) acts maliciously?](../summaries/071e3451b24c.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-29** - S ([Quoting @joedaroo](../summaries/0709b9e96c6f.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-28** - H ([Show HN: HN.watch – Videos of all Hacker News posts](../summaries/92d01df799c3.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-28** - C ([Cf: The Agentic CLI for the Cloudflare API](../summaries/98ebf5712914.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-28** - N ([Nvidia wants to put a watchdog chip next to every AI agent](../summaries/11dd053527b0.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md))
@@ -48,5 +50,3 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 - **2026-09-27** - This arXiv position paper argues that 'human in the loop' oversight of AI agents is failing from both directions at once: current agent designs impede effective human oversight, and the cognitive capacities oversight requires are themselves degraded by… ([AI Agents Push Humans Out of the Loop](../summaries/c7d525557913.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-27** - Gary Marcus reacts to an Axios scoop by Madison Mills showing that the recent tally of AI agent security incidents is far larger than acknowledged: not just Hugging Face, not just a German website, not the 'dozens' OpenAI mentioned - but at least tens of… ([BREAKING: AI agent incident toll has risen to tens of thousands](../summaries/31678332054b.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-09-27** - Simon Willison wanted a celebratory closing slide for his keynote at the WeAreDevelopers World Congress North America, tied to the record-breaking kakapo breeding season of 2026. Having heard that Claude Opus 5.5 was good at pixel-art animation, he gave it… ([Kākāpō Party](../summaries/bd180609cfa1.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
-- **2026-09-26** - Reladraw is a text language for diagrams where the author, not an algorithm, decides placement - but in relative statements ('below app.ui', 'right of app', 'between cluster.desktop1 and cluster.laptop1'), never coordinates. It aims at the gap between… ([Show HN: Reladraw – A diagram language where you decide where to place things](../summaries/dd5ec9fc1c82.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
-- **2026-09-26** - Show HN: a Claude Code skill that turns one of your chess games into a readable post-mortem - plain-language explanations of your mistakes, checked against Stockfish, plus a narrated video of the game. The author's own twist: during a 15+10 rapid game on… ([Show HN: A Claude Code skill to analyze your chess games](../summaries/82c5ffbcd33b.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

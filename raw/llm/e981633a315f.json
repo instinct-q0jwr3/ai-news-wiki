@@ -1,0 +1,13 @@
+{
+  "id": "e981633a315f",
+  "prose": "MicroLLM Lab is a Show HN project for trying seven tiny LLMs directly in the browser, per the headline. The cached source contained no usable text beyond the title, so this summary is limited to that framing; the models included and the runtime (e.g. WebGPU vs WASM) could not be verified.",
+  "highlights": [
+    "Show HN: MicroLLM Lab lets you try 7 tiny LLMs in the browser",
+    "The cached source had no usable text, so details are unverified",
+    "Summary reflects only the headline's framing"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

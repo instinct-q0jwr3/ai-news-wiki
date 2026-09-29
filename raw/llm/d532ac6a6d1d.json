@@ -1,0 +1,14 @@
+{
+  "id": "d532ac6a6d1d",
+  "prose": "The New York Times reports that OpenAI says it will not release its newest AI model over safety concerns, per the headline of this story - the flagship version of the Astra 6.1 withdrawal covered across several outlets today. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the headline's claim; the specific concerns cited and the internal debate could not be verified.",
+  "highlights": [
+    "NYT headline: OpenAI says it will not release its newest AI model over safety concerns",
+    "The source could not be fetched, so only the headline claim is summarized",
+    "Matches the cluster of reports on the scrapped Astra 6.1 launch",
+    "Honest-basis note: the cited concerns and decision process are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

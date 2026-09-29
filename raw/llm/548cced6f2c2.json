@@ -1,14 +1,16 @@
 {
- "id": "548cced6f2c2",
- "authored_at": "2026-09-26T16:26:52.775008+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "Simon Willison's beat: llm-anthropic 0.29 adds support for Claude Opus 5.5 to his LLM command-line tool - 'llm -m claude-opus-5.5 \"prompt goes here\"'. Same-day tooling support for the new model."
- ],
- "highlights": [
-  "llm-anthropic 0.29 adds Claude Opus 5.5 support",
-  "Usage: llm -m claude-opus-5.5 \"prompt goes here\"",
-  "Same-day plugin update from Willison for the new model"
- ]
+  "id": "548cced6f2c2",
+  "prose": "Simon Willison's beat for llm-anthropic 0.29: same-day support for Claude Opus 5.5 in his LLM command-line tool, invoked as llm -m claude-opus-5.5. The release landed the day Opus 5.5 shipped, keeping his tooling current with Anthropic's latest model.",
+  "highlights": [
+    "llm-anthropic 0.29 adds Claude Opus 5.5 support",
+    "Usage: llm -m claude-opus-5.5 \"prompt goes here\"",
+    "Same-day tooling support, released September 22, 2026",
+    "A Simon Willison beat (short link-blog entry)"
+  ],
+  "quotes": [
+    "llm -m claude-opus-5.5"
+  ],
+  "authored_at": "2026-09-29T01:13:06Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

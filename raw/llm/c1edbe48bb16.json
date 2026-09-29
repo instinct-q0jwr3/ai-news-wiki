@@ -1,0 +1,14 @@
+{
+  "id": "c1edbe48bb16",
+  "prose": "OpenAI has scrapped the release of its Astra 6.1 model over safety issues, per the headline of this story. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the headline's claim; which safety issues drove the decision and whether the model is delayed or cancelled could not be verified. This is one of several near-simultaneous reports that OpenAI is withholding its newest model over safety concerns.",
+  "highlights": [
+    "Headline: OpenAI scraps release of Astra 6.1 over safety issues",
+    "The source could not be fetched, so only the headline claim is summarized",
+    "One of several concurrent reports that OpenAI is holding back its newest model on safety grounds",
+    "Honest-basis note: delay vs cancellation and the specific issues are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

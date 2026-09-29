@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-09-28 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-09-29 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,9 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-09-29** - G ([BREAKING: Florida seeks injunction against OpenAI](../summaries/c5b8a32c6f06.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md))
+- **2026-09-29** - S ([Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June](../summaries/52ed0a47028e.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-09-29** - B ([OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks](../summaries/4e63fc6f0d2f.md) · [OpenAI](../entities/openai.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-28** - N ([Nvidia wants to put a watchdog chip next to every AI agent](../summaries/11dd053527b0.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-28** - J ([Jensen Huang says AI model distillation is "competition"; Scott Bessent described it as "theft" in July and threatened sanctions against overseas companies](../summaries/1659c154bd20.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-28** - S ([Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia's CUDA-based hardware](../summaries/4d16a16e7938.md) · [NVIDIA](../entities/nvidia.md))

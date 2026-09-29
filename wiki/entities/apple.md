@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-28 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-09-29** - J ([Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](../summaries/0631f9392cb2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-28** - A ([I built a native Apple app for 4 platforms in one afternoon with my AI workflow](../summaries/ff0a1da2f351.md) · [Apple](../entities/apple.md))
 - **2026-09-28** - Simon Willison's closing keynote at the WeAreDevelopers World Congress North America in San Jose: a chronological tour of 2026 in LLMs, told through his own year. It starts in November 2025, when Claude Opus 4.5 and GPT-5.1 crossed an invisible line -… ([2026 in LLMs (so far)](../summaries/716db3fe6e25.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Hugging Face](../entities/hugging-face.md) · [Amazon](../entities/amazon.md) · [Qwen](../entities/qwen.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-09-26** - John Gruber's The Talk Show episode 455 brings back Andru Edwards to discuss Apple's big September event and its new hardware: the iPhones 18 Pro and the new Duo, AirPods 5, and Apple Watch Series 12 and Ultra 4. ([The Talk Show: ‘I’m Thinking X, Not X’](../summaries/03d802571153.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md))

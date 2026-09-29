@@ -1,0 +1,19 @@
+{
+  "id": "99c0c92e1a30",
+  "prose": "Artificial Analysis evaluates Claude Sonnet 5.5: at max effort it gains 18 points over Sonnet 5 and takes #2 on the Intelligence Index, behind only Opus 5.5 (max). It reaches parity with Opus 5.5 on Terminal-Bench 4.0-class agentic work (64% vs 60% for Opus 5.5 and GPT-6 Astra), AA-Briefcase, GDPval-AA, and AutomationBench-AA - but gets there with the heaviest token usage ever measured: ~193k output tokens per task, about 60% higher than Opus 5.5 (max) and ~7x GPT-6 Astra (max). Pricing matches Sonnet 5 at $2/$10 per million input/output, yet cost per task lands near $7.60, ~50% above Sonnet 5, leaving it off the intelligence-vs-cost Pareto frontier except at high effort, where it sits narrowly behind GPT-6 Sol. It lags Opus 5.5 on factual knowledge (54% vs 66% on AA-Omniscience, though with a lower hallucination rate). Anthropic flagged a pre-release bug that can degrade results.",
+  "highlights": [
+    "Sonnet 5.5 (max) ranks #2 on the Intelligence Index, +18 over Sonnet 5, behind only Opus 5.5 (max)",
+    "Reaches parity with Opus 5.5 on Terminal-Bench 4.0, AA-Briefcase, GDPval-AA, and AutomationBench-AA",
+    "Heaviest token use ever measured: ~193k output tokens per task, ~7x GPT-6 Astra (max)",
+    "Same $2/$10 pricing as Sonnet 5, but ~$7.60 per task, ~50% higher than Sonnet 5",
+    "Off the cost Pareto frontier except at high effort, where it sits narrowly behind GPT-6 Sol",
+    "Lags Opus 5.5 on factual knowledge (54% vs 66%) but hallucinates less (47% vs 59%)",
+    "Evaluations ran on a pre-release deployment with a known bug that can degrade results"
+  ],
+  "quotes": [
+    "Heaviest token use we have measured"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

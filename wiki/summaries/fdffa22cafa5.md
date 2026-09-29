@@ -1,6 +1,6 @@
 # Big AI to humanity: drop dead
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-09-28 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-09-29 · confidence: high_
 
 `hacker-news` `amazon` `ai-policy-regulation`
 

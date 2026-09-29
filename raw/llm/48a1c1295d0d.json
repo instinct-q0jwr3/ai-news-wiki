@@ -1,0 +1,18 @@
+{
+  "id": "48a1c1295d0d",
+  "prose": "Rep. Ro Khanna will introduce the 'Human Control Over AI Act', a bill combining strict liability standards with a ban on recursively self-improving AI until federal safeguards exist and an agency approves the activity. The bill, whose summary was shared with CNBC, would create a new federal agency overseeing frontier models from OpenAI, Anthropic, Google DeepMind and xAI: writing safety regulations, running a licensing system for training and deployment, auditing frontier models, and setting standards for continuous testing and effective human control. Independent auditors would be embedded at every frontier lab and report directly to the agency. Standards would cover sandboxes, air gaps, kill switches, anti-escape controls, and monitoring of advanced chips. Khanna frames the stakes as 'civilizational extinction risk', with both loss-of-control and misuse risks requiring a response after years of congressional inaction.",
+  "highlights": [
+    "Khanna's 'Human Control Over AI Act' bans recursive self-improvement and autonomous modification of objectives or shutdown controls until guardrails exist",
+    "Creates a new federal agency for frontier models from OpenAI, Anthropic, Google DeepMind, and xAI",
+    "The agency would run licensing, audits, and security standards for testing and human control",
+    "Independent auditors embedded at every frontier lab, reporting directly to the agency",
+    "Standards would cover sandboxes, air gaps, kill switches, anti-escape controls, and chip monitoring",
+    "Khanna: 'There's actually a civilizational extinction risk' - both loss-of-control and misuse risks"
+  ],
+  "quotes": [
+    "There's actually a civilizational extinction risk"
+  ],
+  "authored_at": "2026-09-29T01:12:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}
