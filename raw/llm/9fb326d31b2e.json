@@ -1,0 +1,17 @@
+{
+  "id": "9fb326d31b2e",
+  "prose": "Simon Willison live-blogs OpenAI DevDay 2026 from Fort Mason. Altman opens promising 'our best DevDay yet' and runs through shipped requests (Codex on Linux and on phone drew applause) before unveiling the day's theme: a 'whole new way of working with AI' called Dots - personal, nameable agents with cute blob avatars that look, in Willison's immediate read, very Muse-like. Meta-detail: he vibe-coded a new photo workflow for the live blog on the way to the venue, abandoning Codex Cloud for Claude Code for web after hitting problems.",
+  "highlights": [
+    "Willison live-blogs DevDay 2026 from the creator area at Fort Mason",
+    "Altman promises 'our best DevDay yet'; Codex on Linux and phone drew applause",
+    "The keynote theme: Dots, personal agents with nameable blob avatars",
+    "Willison's instant read: very Muse-like",
+    "He built his live-blog photo tool en route, switching from Codex Cloud to Claude Code for web"
+  ],
+  "quotes": [
+    "whole new way of working with AI"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

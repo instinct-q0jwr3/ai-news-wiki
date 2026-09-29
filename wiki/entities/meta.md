@@ -10,6 +10,9 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-09-29** - R ([Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions](../summaries/dd49b233e21a.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-09-29** - A ([The Facebook Fake-out](../summaries/0349d5bd34ab.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-09-29** - M ([Meta Launches an Enterprise AI Platform](../summaries/f0d491b89743.md) · [Meta](../entities/meta.md))
 - **2026-09-29** - H ([Meta's new AI agent built lists of people in vulnerable groups on request](../summaries/d9d1d1a6e1be.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-29** - S ([One More Note on Agents, Meta Connect, Meta Enterprise Platform](../summaries/c0965cb56591.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-29** - M ([Meta launches Muse for Small Business, integrating the AI agent with Asana, Zoom, Intuit, Box, Canva, Slack, and other apps, alongside its own ad accounts](../summaries/291a20c37fc8.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))

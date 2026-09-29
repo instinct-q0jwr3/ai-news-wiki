@@ -1,0 +1,17 @@
+{
+  "id": "c19c45fc21ea",
+  "prose": "Anthropic's claude-api skill now automates eval design and hill-climbing: /claude-api build-eval constructs an evaluation inside your codebase, and /claude-api hillclimb improves the app against it one change at a time with a held-out set to catch overfitting. The accompanying article lays out the principles first: model capability is jagged, so cases chosen because today's model fails them can mislead; good evals share common design elements; and improving against an eval without fooling yourself requires discipline the held-out set enforces. Examples close out the piece.",
+  "highlights": [
+    "New claude-api skill commands: build-eval and hillclimb",
+    "build-eval constructs an evaluation inside your codebase",
+    "hillclimb improves the app one change at a time against the eval",
+    "A held-out example set catches overfitting to the eval",
+    "Principles: model capability is jagged; case selection by current failure can mislead"
+  ],
+  "quotes": [
+    "without fooling yourself"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

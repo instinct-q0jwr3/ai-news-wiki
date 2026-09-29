@@ -1,0 +1,16 @@
+{
+  "id": "845ba2d144fd",
+  "prose": "OpenAI announced a Codex upgrade at DevDay centered on reusable cloud development environments: instead of each cloud task being an isolated sandbox, environments are now persistent and configurable, accessible from any device - laptop, phone, or cloud. The update also brings a refreshed Codex CLI, a new code review experience, infrastructure-hardening tools, and API enhancements. The direction is clear: Codex as a software-engineering agent that runs wherever the developer happens to be, with continuity between sessions.",
+  "highlights": [
+    "Codex gets reusable cloud development environments, persistent across sessions",
+    "Accessible from any device - computer, phone, or cloud",
+    "Also announced: refreshed Codex CLI, new code review experience, infra-hardening tools, API updates",
+    "Moves Codex from isolated remote sandboxes to persistent, configurable environments"
+  ],
+  "quotes": [
+    "reusable cloud development environments"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

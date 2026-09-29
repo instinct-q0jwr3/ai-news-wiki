@@ -10,6 +10,9 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-09-29** - ' ([Dead Money](../summaries/1710ad8b61b5.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md))
+- **2026-09-29** - N ([Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever](../summaries/540aba4c7dde.md) · [NVIDIA](../entities/nvidia.md))
+- **2026-09-29** - N ([NVIDIA Launched Open Agent Safety Platform](../summaries/fbf89145e88a.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-29** - P ([Pope Leo XIV rebukes Jensen Huang for downplaying AI risks, saying "the concerns raised by many of the experts, specialists in AI, should be taken seriously"](../summaries/5faa695e7371.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-29** - N ([Nvidia is in early-stage talks with insurance companies to structure risk-mitigation products to protect lenders against loan defaults by neoclouds](../summaries/04c051338dce.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-29** - G ([BREAKING: Florida seeks injunction against OpenAI](../summaries/c5b8a32c6f06.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md))

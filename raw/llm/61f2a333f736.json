@@ -1,0 +1,17 @@
+{
+  "id": "61f2a333f736",
+  "prose": "OpenAI unveiled a $500/month Pro plan at DevDay - its highest usage allowance, bundled with the new Ultrafast speed tier that pushes Codex and Work apps to up to 300 tokens per second (also available to API users). The $200 plan OpenAI pioneered at the end of 2024 (later matched by Anthropic and Perplexity) is simultaneously made less appealing: $200 Pro subscribers will see reduced something in Codex and Work (the cached text truncates), a classic upsell ladder. A new version of the Sol model was announced at the same event.",
+  "highlights": [
+    "New $500/month Pro 500 plan: OpenAI's highest usage allowance",
+    "Includes Ultrafast: up to 300 tokens/sec in Codex and Work apps, also via API",
+    "The $200 tier is concurrently degraded in Codex and Work",
+    "OpenAI started the $200 tier trend in late 2024; Anthropic and Perplexity followed",
+    "A new Sol model version was announced at the same DevDay"
+  ],
+  "quotes": [
+    "our premium speed tier for workloads where speed matters"
+  ],
+  "authored_at": "2026-09-29T19:16:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

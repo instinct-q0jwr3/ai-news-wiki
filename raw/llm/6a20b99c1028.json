@@ -1,0 +1,17 @@
+{
+  "id": "6a20b99c1028",
+  "prose": "ElevenLabs launches Eleven v4, its most emotive text-to-speech model, plus the low-latency Eleven v4 Turbo. The pitch is prosody with intent: 'I need you to stay calm' should sound different from a doctor to a frightened patient than from a squad leader dropping into battle, and v4 interprets tone, pacing, emotion, character, and context while preserving speaker identity. It ranks #1 on Artificial Analysis and was preferred by ~75% of listeners in blind head-to-head tests. A new architecture improves multi-speaker dynamics so dialogue responds to conversational context rather than sounding assembled line by line.",
+  "highlights": [
+    "Eleven v4: ElevenLabs' most emotive TTS model, plus a low-latency Turbo variant",
+    "Interprets tone, pacing, emotion, character, and context while keeping speaker identity",
+    "#1 on Artificial Analysis; preferred by ~75% in blind head-to-head tests",
+    "Built on a new architecture with more natural multi-speaker dialogue dynamics",
+    "Example: 'I need you to stay calm' rendered differently for a doctor vs a game character"
+  ],
+  "quotes": [
+    "our most emotive text-to-speech model"
+  ],
+  "authored_at": "2026-09-29T19:16:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

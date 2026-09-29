@@ -1,0 +1,16 @@
+{
+  "id": "c5e19fce30b6",
+  "prose": "Claude had a partial outage on September 29: elevated errors hit claude.ai, the desktop and mobile apps, Claude Code, Claude Cowork, and the API from 07:00 to 07:59 PT (14:00-14:59 UTC). Anthropic's status page reports full recovery, warns that some messages sent during the impact window may not have been saved, and marked the incident resolved the same morning while continuing to monitor.",
+  "highlights": [
+    "Partial Claude outage on Sep 29, 07:00-07:59 PT",
+    "Hit claude.ai, desktop/mobile apps, Claude Code, Cowork, and the API",
+    "Some messages sent during the window may not have been saved",
+    "Resolved the same morning; services operating normally"
+  ],
+  "quotes": [
+    "Elevated errors on claude.ai"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

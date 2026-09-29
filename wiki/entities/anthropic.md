@@ -10,6 +10,11 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-09-29** - C ([Claude partial outage](../summaries/c5e19fce30b6.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-29** - ' ([Dead Money](../summaries/1710ad8b61b5.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md))
+- **2026-09-29** - R ([Anthropic's IPO prospectus shows sweeping AI vision, surging costs](../summaries/74f53037a561.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-29** - A ([Automating eval design and hill-climbing with Claude](../summaries/c19c45fc21ea.md) · [Anthropic](../entities/anthropic.md))
+- **2026-09-29** - O ([OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests](../summaries/8292c3b873cb.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-09-29** - A ([Anthropic dedicated nearly a third of its IPO prospectus to detailing "risk factors", including that its AI may pose "existential risks to humanity"](../summaries/35d6a2426add.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-29** - L ([Claude Code’s Next Era — Thariq Shihipar, Anthropic](../summaries/7ac69580843a.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-29** - A ([IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers](../summaries/2fb8b670c5c1.md) · [Anthropic](../entities/anthropic.md))

@@ -1,6 +1,12 @@
 {
- "generated_at": "2026-09-29T13:10:44+00:00",
+ "generated_at": "2026-09-29T19:11:16+00:00",
  "stories": [
+  {
+   "id": "172bca586abe",
+   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+  },
   {
    "id": "ab1ec1d412c6",
    "title": "AI companies leak data to advertisers [pdf]",
@@ -8,100 +14,238 @@
    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
   },
   {
-   "id": "3c488e95c4ce",
-   "title": "Uncensored and Offensive Security AI Models Benchmark",
+   "id": "3c6d2c64dc76",
+   "title": "Dots: Always-on agents",
    "source": "Hacker News",
-   "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
+   "url": "https://openai.com/index/introducing-dots/"
   },
   {
-   "id": "fd17bfd8c735",
-   "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+   "id": "a6b87a4df2e4",
+   "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
    "source": "Hacker News",
-   "url": "https://github.com/EverMind-AI/Raven"
+   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
   },
   {
-   "id": "d9d1d1a6e1be",
-   "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
+   "id": "c5e19fce30b6",
+   "title": "Claude partial outage",
    "source": "Hacker News",
-   "url": "https://hntrbrk.com/breaking-news/muse-doxxing"
+   "url": "https://status.claude.com/incidents/4xvtc2gnq73l"
   },
   {
-   "id": "fc08d2b4546f",
-   "title": "Muse gives out your home address without telling you",
+   "id": "dd49b233e21a",
+   "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address"
+   "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
   },
   {
-   "id": "291a20c37fc8",
-   "title": "Meta launches Muse for Small Business, integrating the AI agent with Asana, Zoom, Intuit, Box, Canva, Slack, and other apps, alongside its own ad accounts",
+   "id": "cd380ba158a0",
+   "title": "ChatGPT Pro 500",
+   "source": "Hacker News",
+   "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
+  },
+  {
+   "id": "4c288fab1a40",
+   "title": "DevDay 2026 Recap",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/devday-2026-recap/"
+  },
+  {
+   "id": "70f97797ab2a",
+   "title": "NAND-16: a computer built from 277,248 NAND gates",
+   "source": "Hacker News",
+   "url": "https://somethingbig.ai/computer"
+  },
+  {
+   "id": "b801037ee3f2",
+   "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html"
+  },
+  {
+   "id": "0df971bdfa66",
+   "title": "AI models keep posting screenshots showing sensitive data from inside companies",
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640"
+  },
+  {
+   "id": "d5e0b908c4fc",
+   "title": "Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School",
+   "source": "Hacker News",
+   "url": "https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/"
+  },
+  {
+   "id": "4731b61614de",
+   "title": "OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDcwMzYzNiwiZXhwIjoxNzkxMzA4NDM2LCJhcnRpY2xlSWQiOiJUTTRTTFpLSzNOWUEwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.7HTfC-MuSDvHseE_-WELh_56bNEsYQo0SCqnHZoE0BE"
   },
   {
-   "id": "355dc8659b36",
-   "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-   "source": "Lobsters",
-   "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
+   "id": "376f02b2dcd3",
+   "title": "State of Agent Skills",
+   "source": "TLDR AI",
+   "url": "https://vercel.com/blog/state-of-agent-skills"
   },
   {
-   "id": "fe391f987884",
-   "title": "OpenAI reopens sign-ups for its $200/month Pro tier while halving the API credits provided per dollar to encourage pay-per-use, and removes the five-hour cap",
+   "id": "f0d491b89743",
+   "title": "Meta Launches an Enterprise AI Platform",
+   "source": "TLDR AI",
+   "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
+  },
+  {
+   "id": "6a20b99c1028",
+   "title": "Introducing Eleven v4, our most emotive model",
+   "source": "TLDR AI",
+   "url": "https://elevenlabs.io/blog/eleven-v4"
+  },
+  {
+   "id": "04be50bfa4e5",
+   "title": "OpenAI announces ChatGPT Space, a collaborative hub for shared pages and files, available on Pro, Business, and Enterprise plans; it replaces Library",
    "source": "Techmeme",
-   "url": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/"
+   "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
   },
   {
-   "id": "169e2f9e4731",
-   "title": "Q&A with Timnit Gebru, who says the \"existential risk\" narrative is a harmful marketing strategy and the \"stochastic parrots\" metaphor is not outdated",
+   "id": "dcc816f4f8b1",
+   "title": "OpenAI repeatedly dismissed internal warnings about inadequate monitoring of testing, prioritizing fast releases without additional security protocols",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/"
+   "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.3BXo.2nnf06c4MQhQ&smid=bs-share"
   },
   {
-   "id": "fcd322e21a97",
-   "title": "OpenAI is adopting a structured \"safety case\" documentation framework modeled after industries like aviation and nuclear power to govern frontier RL training",
+   "id": "9fb326d31b2e",
+   "title": "OpenAI DevDay 2026 live blog",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+  },
+  {
+   "id": "8292c3b873cb",
+   "title": "OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests",
    "source": "Techmeme",
-   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training/"
+   "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
   },
   {
-   "id": "5382e86866bb",
-   "title": "Google appeals the European Commission's DMA mandates to open up Android at the EU General Court, arguing the requirements threaten user privacy and security",
+   "id": "2b7a4321b91d",
+   "title": "OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots"
+   "url": "https://thenewstack.io/sign-in-with-chatgpt/"
   },
   {
-   "id": "11bca39fb24a",
-   "title": "EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025",
+   "id": "c19c45fc21ea",
+   "title": "Automating eval design and hill-climbing with Claude",
+   "source": "TLDR AI",
+   "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/"
+  },
+  {
+   "id": "15c441b6bbe0",
+   "title": "AMD to Acquire World Labs for $8.2 Billion",
+   "source": "TLDR AI",
+   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
+  },
+  {
+   "id": "8a05acacdf29",
+   "title": "Team Bots: AI coworkers that learn from your team",
+   "source": "TLDR AI",
+   "url": "https://x.ai/news/team-bots"
+  },
+  {
+   "id": "3de385ce6dc4",
+   "title": "Pluralistic: Lindsay Owens's \"Gouged\" (29 Sep 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/09/29/algorithmic-wage-theft/"
+  },
+  {
+   "id": "74f53037a561",
+   "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+   "source": "TLDR AI",
+   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+  },
+  {
+   "id": "fbf89145e88a",
+   "title": "NVIDIA Launched Open Agent Safety Platform",
+   "source": "TLDR AI",
+   "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform"
+  },
+  {
+   "id": "b755e3c17094",
+   "title": "OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/09/29/elise-ai-4-billion-valuation-funding-round-housing-unicorn-andreessen-bessemer/"
+   "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
   },
   {
-   "id": "5faa695e7371",
-   "title": "Pope Leo XIV rebukes Jensen Huang for downplaying AI risks, saying \"the concerns raised by many of the experts, specialists in AI, should be taken seriously\"",
+   "id": "0349d5bd34ab",
+   "title": "The Facebook Fake-out",
+   "source": "Anil Dash",
+   "url": "https://anildash.com/2026/09/29/facebook-fake-out/"
+  },
+  {
+   "id": "cac994236fbe",
+   "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
+   "source": "TLDR AI",
+   "url": "https://www.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent"
+  },
+  {
+   "id": "61f2a333f736",
+   "title": "OpenAI unveils a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast tier, with up to 8x faster token generation in Codex",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084"
+   "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/"
   },
   {
-   "id": "13e1e2ef5f73",
-   "title": "India plans to invest up to $25B in its nascent deep tech industry, as it looks to catch up with the US and China, after investing $11.6B over the past decade",
+   "id": "845ba2d144fd",
+   "title": "OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html"
+   "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
   },
   {
-   "id": "04c051338dce",
-   "title": "Nvidia is in early-stage talks with insurance companies to structure risk-mitigation products to protect lenders against loan defaults by neoclouds",
+   "id": "540aba4c7dde",
+   "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+   "source": "TLDR AI",
+   "url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html?unlocked_article_code=1.E1E.XwFn.itY4m5r1HZiy&smid=url-share"
+  },
+  {
+   "id": "2964d289f4bc",
+   "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82"
+   "url": "https://thenewstack.io/openai-decision-api-luna/"
   },
   {
-   "id": "35d6a2426add",
-   "title": "Anthropic dedicated nearly a third of its IPO prospectus to detailing \"risk factors\", including that its AI may pose \"existential risks to humanity\"",
+   "id": "1710ad8b61b5",
+   "title": "Dead Money",
+   "source": "Ed Zitron",
+   "url": "https://www.wheresyoured.at/dead-money/"
+  },
+  {
+   "id": "6131334b44c6",
+   "title": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1"
+   "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
   },
   {
-   "id": "c0965cb56591",
-   "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/"
+   "id": "bfe406b44382",
+   "title": "OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier"
+  },
+  {
+   "id": "4882733fd778",
+   "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding",
+   "source": "Techmeme",
+   "url": "https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/"
+  },
+  {
+   "id": "36aa98af2b48",
+   "title": "China's AI travel curbs now reach executives' spouses and children",
+   "source": "TLDR AI",
+   "url": "https://thenextweb.com/news/china-travel-curbs-families-ai-executives-bloomberg"
+  },
+  {
+   "id": "ba4a3d630c95",
+   "title": "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+  },
+  {
+   "id": "fd4193143be1",
+   "title": "A recording of the OpenAI DevDay 2026 keynote",
+   "source": "Techmeme",
+   "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
   }
  ]
 }

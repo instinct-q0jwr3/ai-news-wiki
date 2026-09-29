@@ -1,0 +1,18 @@
+{
+  "id": "b755e3c17094",
+  "prose": "Dots are OpenAI's new always-on agents, announced at DevDay 2026 and powered by GPT-6 Astra. Unlike single-turn chat, a Dot keeps working: it crawls the web, pulls context from connected apps, learns preferences, and messages the user through ChatGPT, Slack, or Microsoft Teams. The canned demos: a Dot notices the user's calendar runs through dinner and proactively messages two Grubhub options with prices; another collaborates on launching a website. The agents are personalized as cute nameable blobs and take multi-step projects.",
+  "highlights": [
+    "Dots: OpenAI's always-on agents, powered by GPT-6 Astra",
+    "Reachable through ChatGPT, Slack, and Microsoft Teams",
+    "Constantly crawl the web and pull context from connected apps",
+    "Demo: notices a late work calendar, proactively offers two Grubhub options with pricing",
+    "Personalized as cute, nameable blob avatars; take multi-step projects",
+    "The direct answer to Meta's Muse"
+  ],
+  "quotes": [
+    "always-on"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ba4a3d630c95",
+  "prose": "OpenAI is expanding ChatGPT plugins into app-like experiences: developers can now build interactive panels that live in the ChatGPT sidebar, letting users work with their tools while chatting, plus file viewers supporting arbitrary formats. Existing plugins already connect ChatGPT to Slack, SharePoint, Airtable, and Google Drive; the new extensions give apps a dedicated home inside the product. Announced at DevDay alongside Pages, Slides, and Space, it is a clear play to make ChatGPT the container for any application that works better with a model attached.",
+  "highlights": [
+    "Plugin extensions give apps a dedicated home in the ChatGPT sidebar",
+    "Developers can build interactive panels users operate while chatting",
+    "File viewers support arbitrary file formats inside ChatGPT",
+    "Existing plugins connect Slack, SharePoint, Airtable, Google Drive",
+    "Announced at DevDay with Pages, Slides, and Space - ChatGPT as an app platform"
+  ],
+  "quotes": [
+    "app-like experiences within ChatGPT"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

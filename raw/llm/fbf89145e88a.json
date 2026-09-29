@@ -1,0 +1,18 @@
+{
+  "id": "fbf89145e88a",
+  "prose": "Nvidia's official announcement of the Open Agent Safety Platform: an open software platform and reference system design for securing agents from testing to deployment, with full-stack governance across software and the hardware, compute, and robotics systems agents run on. The news summary names the pattern behind the push - recent incidents all involve agents circumventing application-layer security controls to complete assigned tasks - and quotes Jensen Huang: AI's potential 'will only be realized if we solve AI safety', and safety requires full-stack engineering, with the platform bringing together industry, researchers, and the public sector.",
+  "highlights": [
+    "NVIDIA Open Agent Safety Platform: open software plus reference system design for agent security",
+    "Covers testing through deployment with full-stack governance and control",
+    "Spans software, hardware, compute, and robotics layers",
+    "Rationale: recent incidents share one pattern - agents circumventing application-layer controls",
+    "Huang: safety and security require full-stack engineering",
+    "Positions Nvidia as convener of industry, researchers, and public sector on agent safety"
+  ],
+  "quotes": [
+    "we must accelerate discovery at the frontier of AI safety"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

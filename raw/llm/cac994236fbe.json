@@ -1,0 +1,17 @@
+{
+  "id": "cac994236fbe",
+  "prose": "CoreWeave introduces ARIA (AI Research and Iteration Agent), a coding agent built into Weights & Biases with deep platform knowledge. ARIA reads your experiments, builds live visualizations to support its analysis, and starts with full project context. The pitch is a full autoresearch loop: you describe what you want to learn ('does dropout after attention help my overfitting?'), ARIA forms a hypothesis, writes the config, launches the experiment via W&B Launch on your compute, evaluates results against baseline, and updates the workspace with comparisons - running the whole research cycle rather than just analyzing it.",
+  "highlights": [
+    "CoreWeave ARIA: a research agent built into Weights & Biases",
+    "Reads experiments, builds live visualizations, starts with full project context",
+    "Runs the full loop: hypothesis, config, launch, evaluation, comparison",
+    "Launches experiments through W&B Launch on the team's own compute",
+    "Example prompt: does dropout after attention layers help with overfitting?"
+  ],
+  "quotes": [
+    "AI Research and Iteration Agent"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

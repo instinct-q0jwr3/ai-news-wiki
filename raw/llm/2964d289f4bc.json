@@ -1,0 +1,16 @@
+{
+  "id": "2964d289f4bc",
+  "prose": "OpenAI announced a Decisions API at DevDay - its answer to the decision-model category TypeSafe's Jev made hot. The API returns predefined answers with confidence and is based on Luna, the smallest and cheapest model in OpenAI's lineup. The New Stack reads it as a reactive, possibly rushed announcement: for now OpenAI is sharing little beyond the concept, though a spokesperson confirmed the Luna foundation.",
+  "highlights": [
+    "OpenAI's Decisions API returns predefined answers with confidence scores",
+    "Based on Luna, the smallest and most affordable OpenAI model",
+    "A response to the decision-model category created by TypeSafe's Jev",
+    "Announced at DevDay with minimal detail so far"
+  ],
+  "quotes": [
+    "decision models have become incredibly popular"
+  ],
+  "authored_at": "2026-09-29T19:16:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

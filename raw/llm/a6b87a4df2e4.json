@@ -1,0 +1,16 @@
+{
+  "id": "a6b87a4df2e4",
+  "prose": "The EFF highlights a New York Times finding that DraftKings uses AI trained on customers' betting records to identify chronic losing gamblers and target them with promotions designed to bring them back to place more - expected losing - bets. This is behavioral advertising supercharged: losing gamblers are precisely the customers DraftKings makes money from, so the model optimizes retention of the people being harmed. The EFF reiterates its position that all behavioral advertising should be banned, presenting DraftKings as the proof case of where the practice leads.",
+  "highlights": [
+    "NYT: DraftKings trains ML on betting records to find chronic losing gamblers",
+    "Those users get targeted promotions to lure them back for more losing bets",
+    "Losing gamblers are the customers DraftKings profits from most",
+    "EFF: this is behavioral advertising supercharged - and all of it should be banned"
+  ],
+  "quotes": [
+    "most likely to place losing bets"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

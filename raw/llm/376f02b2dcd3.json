@@ -1,0 +1,18 @@
+{
+  "id": "376f02b2dcd3",
+  "prose": "A 'State of Agent Skills' report tracks the first million-skill market: seven months after Vercel launched the skills.sh registry (three months after Anthropic introduced Agent Skills in October 2025), it hosts one million skills with nearly 280 million installs. The thesis: agents are capable but generic, and a skill - sometimes just a plain-language file - supplies the job-specific judgment: steps, what good looks like, and how to evaluate results. Because the agent and tools already carry the capability, skills only need to carry judgment, which makes them fast to write. The report uses registry aggregates to map what people teach agents, what gets installed, and where value is heading.",
+  "highlights": [
+    "skills.sh hit 1 million agent skills and ~280M installs in seven months",
+    "Anthropic introduced Agent Skills in Oct 2025; Vercel's registry followed three months later",
+    "A skill supplies job-specific judgment to a capable-but-generic agent",
+    "Good skills make steps, quality bars, and evaluation criteria explicit",
+    "Skills are cheap to write because capability already lives in the agent and tools",
+    "The report maps what people teach agents and where install value concentrates"
+  ],
+  "quotes": [
+    "one million agent skills"
+  ],
+  "authored_at": "2026-09-29T19:16:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

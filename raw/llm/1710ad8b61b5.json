@@ -1,0 +1,18 @@
+{
+  "id": "1710ad8b61b5",
+  "prose": "'Dead Money' argues the AI datacenter boom is colliding with physical reality. Morgan Stanley estimates more than half of the GPU servers sold between 2026 and 2028 may have nowhere to plug in; Jefferies calls the gap between planned capacity and physical execution 'the central issue', with power, labour, transformers, cooling, and backup generation all bottlenecked. The author adds a demand-quality critique: capacity bought broadly by many customers is a different picture from capacity handed mostly to OpenAI, Anthropic, or Meta, and notes UBS estimates 28% of all Google Cloud 2026 revenue comes from Anthropic and OpenAI alone - concentration that inflates the demand story. The author describes their own analysis as generous to the bulls.",
+  "highlights": [
+    "Morgan Stanley: over half of GPU servers sold 2026-2028 may have no power to plug into",
+    "Bottlenecks: power, labour, transformers, cooling, backup generation",
+    "Jefferies: the planned-vs-physical capacity gap is the central issue",
+    "Demand quality matters: broad customer bases vs concentration in OpenAI/Anthropic/Meta",
+    "UBS: 28% of Google Cloud 2026 revenue estimated from Anthropic and OpenAI",
+    "The author says the analysis is deliberately generous to the bullish case"
+  ],
+  "quotes": [
+    "The gap between planned capacity and physical execution"
+  ],
+  "authored_at": "2026-09-29T19:16:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

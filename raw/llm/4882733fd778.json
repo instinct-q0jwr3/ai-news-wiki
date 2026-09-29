@@ -1,0 +1,18 @@
+{
+  "id": "4882733fd778",
+  "prose": "General Intuition, Medal's sister company training spatial-reasoning agents on gameplay video, has raised another $220 million at a $6.2 billion valuation as it starts offering its models for training AI. CEO Pim de Witte calls them a new class of foundation models trained on billions of action-labeled videos, able to act in real time in never-before-seen environments; he claims leading robotics and world-model labs train on less than 1% of the action data Medal's upload pipeline makes available. Medal is on track for three billion uploaded gameplay videos per year, and de Witte notes the sim sees more accidents in a day than the entire USA - a data-density argument for game video as the substrate for embodied AI.",
+  "highlights": [
+    "General Intuition raised $220M more at a $6.2B valuation",
+    "Trains foundation models on billions of action-labeled gameplay videos",
+    "Models act in real time in never-before-seen environments",
+    "De Witte: robotics and world-model leaders train on <1% of Medal's available action data",
+    "Medal is on track for 3B uploaded videos per year",
+    "'On any given day, we see more accidents in sim than across the entire USA'"
+  ],
+  "quotes": [
+    "more accidents in sim than across the entire USA"
+  ],
+  "authored_at": "2026-09-29T19:16:48Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

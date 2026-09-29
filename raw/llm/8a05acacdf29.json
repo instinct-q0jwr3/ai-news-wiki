@@ -1,0 +1,17 @@
+{
+  "id": "8a05acacdf29",
+  "prose": "SpaceXAI launches Team Bots: Grok Bots that work and learn alongside a team, given access to the files, apps, and expertise they need and then shared so everyone works from the same context. Inside SpaceXAI they brief account teams each morning, coordinate engineering projects, and answer data questions. Customer vignettes do the heavy lifting: one team automated a three-platform customer-balance check with a Team Bot built in 24 hours, claiming $120,000 saved across hundreds of policies; another is building toward a Team Bot per marketing function for intel, AI-answer presence, launch reviews, and performance readouts.",
+  "highlights": [
+    "Team Bots: shared Grok Bots that learn from a team's files, apps, and expertise",
+    "Shared context: the whole team works from the same bot",
+    "In use at SpaceXAI for morning account briefings, engineering coordination, and data questions",
+    "Customer built one in 24 hours to automate balance checks, claiming $120K saved",
+    "Another customer is building toward a Team Bot for every marketing function"
+  ],
+  "quotes": [
+    "AI coworkers that learn from your team"
+  ],
+  "authored_at": "2026-09-29T19:17:09Z",
+  "model": "agent-pass",
+  "schema": "1"
+}
