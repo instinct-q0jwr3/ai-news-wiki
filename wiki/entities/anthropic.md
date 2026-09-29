@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-09-29** - L ([Claude Code’s Next Era — Thariq Shihipar, Anthropic](../summaries/7ac69580843a.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-29** - A ([IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers](../summaries/2fb8b670c5c1.md) · [Anthropic](../entities/anthropic.md))
 - **2026-09-29** - J ([Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](../summaries/0631f9392cb2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-29** - S ([Claude Sonnet 5.5](../summaries/d49d84c6b2c9.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))

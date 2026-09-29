@@ -1,0 +1,18 @@
+{
+  "id": "c85e3603cf90",
+  "prose": "Latent Space's AINews digest leads with AMD buying World Labs for $8.2B (the official post is coy, but AMD being public reveals the price) and highlights what AMD is actually getting: Atlas, World Labs' first-of-its-kind omni model that predicts a new camera view from 2D images - essentially solving sparse reconstruction by combining generative models with multiview geometry, outperforming even specialized state-of-the-art models. Fei-Fei Li's reflection post traces the buildout: leading image/video/spatial-reconstruction training teams since 2024, plus the SceniX acquisition for robotics simulation. Atlas's predicted uses span RL environments for robotics, scene generation for therapy and entertainment, and real-world reconstruction for real estate, design, and construction. The digest notes it checked 12 subreddits and 544 Twitter accounts for the period 9/26-9/28.",
+  "highlights": [
+    "AINews leads with AMD's $8.2B World Labs acquisition, price known because AMD is public",
+    "Atlas: an omni model that predicts new camera views from 2D images, effectively solving sparse reconstruction",
+    "Combines generative models with multiview geometry, beating specialized state of the art",
+    "World Labs also acquired SceniX for robotics simulation",
+    "Atlas interest spans robotics RL environments, therapy/entertainment scene generation, and real estate/construction reconstruction",
+    "Digest scope: 12 subreddits and 544 Twitter accounts, 9/26-9/28"
+  ],
+  "quotes": [
+    "new camera view prediction"
+  ],
+  "authored_at": "2026-09-29T07:14:56Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

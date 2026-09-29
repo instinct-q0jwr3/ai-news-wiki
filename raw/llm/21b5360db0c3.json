@@ -1,0 +1,19 @@
+{
+  "id": "21b5360db0c3",
+  "prose": "Bastardica is a browser tool that remixes existing fonts into new ones by substituting every Nth glyph from a different source font, delivered as a normal OpenType file. The swap rides on a liga contextual substitution registered for every script, so browsers and design tools enable it by default; everything runs locally via Pyodide and fontTools, and it can pull all Google Fonts into its dropdowns or use free sources like Velvetyne and Font Squirrel. Practical tips: use Y-offset and scale to align mixed glyphs, and pick prime-number strides so three or more mixed fonts collide rarely (every 5th and every 7th glyph intersect on the 35th, and the first font wins). Caveat: mixing two fonts creates a derivative work, so source licenses matter for commercial use; Bastardica itself adds no conditions.",
+  "highlights": [
+    "Browser tool that remixes fonts by substituting every Nth glyph from another font",
+    "Output is a normal OpenType file using a liga contextual substitution enabled by default",
+    "Runs fully locally with Pyodide and fontTools; can load all Google Fonts",
+    "Use Y-offset and scale effects to align mixed glyphs",
+    "Prime-number strides minimize collisions when mixing 3+ fonts (5th and 7th collide on the 35th)",
+    "Mixing fonts creates a derivative work - check source licenses for commercial use",
+    "Inspired by Times New Bastard and Easy Pete"
+  ],
+  "quotes": [
+    "make simple fonts feel a little, hmm, richer"
+  ],
+  "authored_at": "2026-09-29T07:14:56Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

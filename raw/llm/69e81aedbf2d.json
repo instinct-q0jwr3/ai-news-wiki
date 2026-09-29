@@ -1,13 +1,14 @@
 {
- "id": "69e81aedbf2d",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "Reuters reports that OpenAI CEO Sam Altman is set to brief the UN Security Council next week. (Brief based on the headline.)"
- ],
- "highlights": [
-  "Sam Altman to brief the UN Security Council next week, per Reuters.",
-  "Drew 43 points and 54 comments on Hacker News."
- ]
+  "id": "69e81aedbf2d",
+  "prose": "Reuters reports that OpenAI CEO Sam Altman is set to brief the UN Security Council next week, per the headline of this story - a notable escalation of AI governance onto the UN's top security stage, landing in the same weeks as congressional calls for lab investigations and state-level legal action. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the headline's claim; the briefing's topic, format, and expected date could not be verified.",
+  "highlights": [
+    "Reuters headline: Sam Altman to brief the UN Security Council next week",
+    "The source could not be fetched, so only the headline claim is summarized",
+    "Context: arrives amid US congressional scrutiny and state legal action over lab behavior",
+    "Honest-basis note: topic, format, and date of the briefing are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-29T07:15:51Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

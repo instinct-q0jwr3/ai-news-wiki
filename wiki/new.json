@@ -1,119 +1,17 @@
 {
- "generated_at": "2026-09-29T01:08:54+00:00",
+ "generated_at": "2026-09-29T07:09:54+00:00",
  "stories": [
   {
-   "id": "1371f17405dc",
-   "title": "World Labs Is Joining AMD",
+   "id": "f38102a4aa79",
+   "title": "AI risk is not sentience by computers, it is negligence by humans",
    "source": "Hacker News",
-   "url": "https://www.worldlabs.ai/blog/amd-announcement"
+   "url": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/"
   },
   {
-   "id": "e981633a315f",
-   "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+   "id": "c0db0a2b7f51",
+   "title": "OpenAI scraps rollout of new model over safety concerns",
    "source": "Hacker News",
-   "url": "https://stateofutopia.com/experiments/microllmlab/"
-  },
-  {
-   "id": "9160ce88f671",
-   "title": "Pacing the Frontier is not the actual goal for AI labs",
-   "source": "Hacker News",
-   "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs"
-  },
-  {
-   "id": "f4dad4ec3efc",
-   "title": "What reversing, modernising old games tells us about the economic impact of AI",
-   "source": "Hacker News",
-   "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/"
-  },
-  {
-   "id": "2fb8b670c5c1",
-   "title": "IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
-  },
-  {
-   "id": "071e3451b24c",
-   "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-   "source": "Hacker News",
-   "url": "https://blog.greenpants.net/ai-accountability/"
-  },
-  {
-   "id": "d532ac6a6d1d",
-   "title": "OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
-   "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html"
-  },
-  {
-   "id": "5afe26098e02",
-   "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "source": "Hacker News",
-   "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster"
-  },
-  {
-   "id": "a4149d854dfe",
-   "title": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
-   "source": "Hacker News",
-   "url": "https://bughunters.google.com/blog/scaling-memory-safety"
-  },
-  {
-   "id": "c1edbe48bb16",
-   "title": "OpenAI scraps release of Astra 6.1 model over safety issues",
-   "source": "Hacker News",
-   "url": "https://www.washingtonpost.com/technology/2026/09/28/chatgpt-maker-openai-scraps-release-astra-61-model-over-safety/"
-  },
-  {
-   "id": "c5b8a32c6f06",
-   "title": "BREAKING: Florida seeks injunction against OpenAI",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-florida-seeks-injunction"
-  },
-  {
-   "id": "48604079ede0",
-   "title": "AMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDYyODMyOCwiZXhwIjoxNzkxMjMzMTI4LCJhcnRpY2xlSWQiOiJUTFpDUUdLR1pBSkIwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.REuHvo64oe8MXQRuGs3YteMPprZkGpyqLw7GoR6qiKY"
-  },
-  {
-   "id": "b53b7d49d0ce",
-   "title": "Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store",
-   "source": "Daring Fireball",
-   "url": "https://lapcatsoftware.com/articles/2026/9/8.html"
-  },
-  {
-   "id": "48a1c1295d0d",
-   "title": "Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html"
-  },
-  {
-   "id": "0631f9392cb2",
-   "title": "Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
-   "source": "Daring Fireball",
-   "url": "https://colossus.com/article/mark-zuckerberg-profile/"
-  },
-  {
-   "id": "52ed0a47028e",
-   "title": "Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57"
-  },
-  {
-   "id": "7ee2cc35bc62",
-   "title": "IPO filing: Anthropic's seven co-founders will initially have 50.1% of the total voting power through a new \"Founder LLC\" aimed at serving the common good",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/transactional/anthropic-leaders-control-ai-lab-via-founder-llc-promote-public-good-over-market-2026-09-29/"
-  },
-  {
-   "id": "4e63fc6f0d2f",
-   "title": "OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html"
-  },
-  {
-   "id": "e0b2d9c4595b",
-   "title": "Sources on how SoftBank's $11B junk bond sale landed, despite investor questions about OpenAI's listing timeline, data center plans, and SB Energy's delayed IPO",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-28/a-23-trillion-market-swayed-softbank-in-hunt-for-more-ai-debt"
+   "url": "https://www.bbc.com/news/articles/cm5y5nynl75ko"
   },
   {
    "id": "99c0c92e1a30",
@@ -122,22 +20,40 @@
    "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5"
   },
   {
-   "id": "34efddc202f4",
-   "title": "OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn't quite meet its safety bar; it had been targeting an October release",
+   "id": "c348ec67bb67",
+   "title": "OpenAI apologizes for its AI models breaching Australian government websites, pledges cyber defense funding, and plans to form a task force as part of reforms",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk"
   },
   {
-   "id": "0709b9e96c6f",
-   "title": "Quoting @joedaroo",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/28/joedaroo/"
+   "id": "e261fb7eed88",
+   "title": "An interview with Atlassian CEO Mike Cannon-Brookes on the SaaSpocalypse, enterprise AI, Atlassian's reorg, why chatbots aren't the future of work, and more",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira"
   },
   {
-   "id": "d49d84c6b2c9",
-   "title": "Claude Sonnet 5.5",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+   "id": "21b5360db0c3",
+   "title": "Bastardica",
+   "source": "Daring Fireball",
+   "url": "https://bastardica.mitpit.com/"
+  },
+  {
+   "id": "7ac69580843a",
+   "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/thariq"
+  },
+  {
+   "id": "e0b2d9c4595b",
+   "title": "Sources on how SoftBank's $11B junk bond sale landed, despite investor questions about OpenAI's listing timeline, data center plans, and SB Energy's delayed IPO",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-28/a-23-trillion-market-swayed-softbank-in-hunt-for-more-ai-debt"
+  },
+  {
+   "id": "c85e3603cf90",
+   "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b"
   }
  ]
 }
