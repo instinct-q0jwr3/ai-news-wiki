@@ -1,13 +1,13 @@
 {
- "id": "75dc51a6e1e9",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "In a post on its hub blog, Perplexity writes about training AI from real-world tool use. TLDR AI featured the story in a recent issue. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Perplexity on training AI from real-world tool-use experience.",
-  "Published on perplexity.ai/hub; selected by TLDR AI."
- ]
+  "id": "75dc51a6e1e9",
+  "prose": "Perplexity writes on its hub blog about training AI from real-world tool use, per the link title. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the title's framing - presumably using recorded tool-use interactions as training signal; the approach, data, and results could not be verified.",
+  "highlights": [
+    "Perplexity blog post on training AI from real-world tool use",
+    "The source could not be fetched, so only the title's framing is summarized",
+    "Honest-basis note: approach and results are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-29T13:14:06Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

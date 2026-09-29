@@ -1,0 +1,18 @@
+{
+  "id": "fe391f987884",
+  "prose": "OpenAI is reopening sign-ups for its $200/month Pro tier while halving the API credits included per dollar. Employee Thibault Sottiaux argues subscribers should still get more done than a month ago because GPT-6 Sol and GPT-6 Luna shipped this week at half their predecessors' API price. The 5-hour usage cap is gone for good, replaced by a weekly allotment subscribers can spread however they want. Strategically, the change moves OpenAI away from subsidized subscriptions toward pay-per-use: Sottiaux expects API prices to fall until there is no significant gap between subscription and API value per dollar, letting labs tie revenue to actual usage. Microsoft already does this with Copilot in places.",
+  "highlights": [
+    "OpenAI reopens $200/month Pro sign-ups but halves API credits per dollar",
+    "Sottiaux: GPT-6 Sol and Luna at half price mean subscribers still get more done",
+    "The 5-hour usage cap is gone; weekly allotment can be spread freely",
+    "Signals a shift from subsidized subscriptions toward pay-per-use",
+    "Goal: API prices fall until subscription and API value per dollar converge",
+    "Microsoft already runs parts of Copilot this way"
+  ],
+  "quotes": [
+    "halving the API credit"
+  ],
+  "authored_at": "2026-09-29T13:13:06Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

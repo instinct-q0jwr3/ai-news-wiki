@@ -1,14 +1,13 @@
 {
- "id": "7914128328fe",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "A Reddit post claims that Meta took down a video critical of its AI Glasses after the video was filmed at Meta. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Reddit post claims Meta removed a critical video about Meta AI Glasses.",
-  "The video was reportedly filmed at Meta.",
-  "Drew 305 points and 141 comments on Hacker News."
- ]
+  "id": "7914128328fe",
+  "prose": "A Reddit post claims that Meta took down a video critical of its AI Glasses after the video was filmed at Meta, per the link title. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the title's claim; who filmed the video, what it showed, and Meta's stated reason for the takedown could not be verified.",
+  "highlights": [
+    "Reddit claim: Meta took down a video critical of its AI Glasses filmed at Meta",
+    "The source could not be fetched, so only the title's claim is summarized",
+    "Honest-basis note: the video's content and takedown rationale are unverified"
+  ],
+  "quotes": [],
+  "authored_at": "2026-09-29T13:14:06Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

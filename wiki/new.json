@@ -1,59 +1,107 @@
 {
- "generated_at": "2026-09-29T07:09:54+00:00",
+ "generated_at": "2026-09-29T13:10:44+00:00",
  "stories": [
   {
-   "id": "f38102a4aa79",
-   "title": "AI risk is not sentience by computers, it is negligence by humans",
+   "id": "ab1ec1d412c6",
+   "title": "AI companies leak data to advertisers [pdf]",
    "source": "Hacker News",
-   "url": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/"
+   "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
   },
   {
-   "id": "c0db0a2b7f51",
-   "title": "OpenAI scraps rollout of new model over safety concerns",
+   "id": "3c488e95c4ce",
+   "title": "Uncensored and Offensive Security AI Models Benchmark",
    "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/cm5y5nynl75ko"
+   "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
   },
   {
-   "id": "99c0c92e1a30",
-   "title": "Artificial Analysis' Intelligence Index: Sonnet 5.5 (max) ranks above GPT-6 Astra (max) and behind only Opus 5.5 (max) but has the highest token use of them all",
+   "id": "fd17bfd8c735",
+   "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+   "source": "Hacker News",
+   "url": "https://github.com/EverMind-AI/Raven"
+  },
+  {
+   "id": "d9d1d1a6e1be",
+   "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
+   "source": "Hacker News",
+   "url": "https://hntrbrk.com/breaking-news/muse-doxxing"
+  },
+  {
+   "id": "fc08d2b4546f",
+   "title": "Muse gives out your home address without telling you",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address"
+  },
+  {
+   "id": "291a20c37fc8",
+   "title": "Meta launches Muse for Small Business, integrating the AI agent with Asana, Zoom, Intuit, Box, Canva, Slack, and other apps, alongside its own ad accounts",
    "source": "Techmeme",
-   "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5"
+   "url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html"
   },
   {
-   "id": "c348ec67bb67",
-   "title": "OpenAI apologizes for its AI models breaching Australian government websites, pledges cyber defense funding, and plans to form a task force as part of reforms",
+   "id": "355dc8659b36",
+   "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+   "source": "Lobsters",
+   "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
+  },
+  {
+   "id": "fe391f987884",
+   "title": "OpenAI reopens sign-ups for its $200/month Pro tier while halving the API credits provided per dollar to encourage pay-per-use, and removes the five-hour cap",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk"
+   "url": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/"
   },
   {
-   "id": "e261fb7eed88",
-   "title": "An interview with Atlassian CEO Mike Cannon-Brookes on the SaaSpocalypse, enterprise AI, Atlassian's reorg, why chatbots aren't the future of work, and more",
+   "id": "169e2f9e4731",
+   "title": "Q&A with Timnit Gebru, who says the \"existential risk\" narrative is a harmful marketing strategy and the \"stochastic parrots\" metaphor is not outdated",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira"
+   "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/"
   },
   {
-   "id": "21b5360db0c3",
-   "title": "Bastardica",
-   "source": "Daring Fireball",
-   "url": "https://bastardica.mitpit.com/"
-  },
-  {
-   "id": "7ac69580843a",
-   "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/thariq"
-  },
-  {
-   "id": "e0b2d9c4595b",
-   "title": "Sources on how SoftBank's $11B junk bond sale landed, despite investor questions about OpenAI's listing timeline, data center plans, and SB Energy's delayed IPO",
+   "id": "fcd322e21a97",
+   "title": "OpenAI is adopting a structured \"safety case\" documentation framework modeled after industries like aviation and nuclear power to govern frontier RL training",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-28/a-23-trillion-market-swayed-softbank-in-hunt-for-more-ai-debt"
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training/"
   },
   {
-   "id": "c85e3603cf90",
-   "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b"
+   "id": "5382e86866bb",
+   "title": "Google appeals the European Commission's DMA mandates to open up Android at the EU General Court, arguing the requirements threaten user privacy and security",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots"
+  },
+  {
+   "id": "11bca39fb24a",
+   "title": "EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025",
+   "source": "Techmeme",
+   "url": "https://fortune.com/2026/09/29/elise-ai-4-billion-valuation-funding-round-housing-unicorn-andreessen-bessemer/"
+  },
+  {
+   "id": "5faa695e7371",
+   "title": "Pope Leo XIV rebukes Jensen Huang for downplaying AI risks, saying \"the concerns raised by many of the experts, specialists in AI, should be taken seriously\"",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084"
+  },
+  {
+   "id": "13e1e2ef5f73",
+   "title": "India plans to invest up to $25B in its nascent deep tech industry, as it looks to catch up with the US and China, after investing $11.6B over the past decade",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html"
+  },
+  {
+   "id": "04c051338dce",
+   "title": "Nvidia is in early-stage talks with insurance companies to structure risk-mitigation products to protect lenders against loan defaults by neoclouds",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82"
+  },
+  {
+   "id": "35d6a2426add",
+   "title": "Anthropic dedicated nearly a third of its IPO prospectus to detailing \"risk factors\", including that its AI may pose \"existential risks to humanity\"",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1"
+  },
+  {
+   "id": "c0965cb56591",
+   "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/"
   }
  ]
 }

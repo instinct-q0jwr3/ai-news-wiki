@@ -1,13 +1,15 @@
 {
- "id": "6f3d04de2ce0",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
- "model": "agent-pass",
- "schema": "1",
- "prose": [
-  "The Qwen team introduces Qwen3.8-LiveTranslate, a live translation model with the tagline 'Names the speaker. Carries the meaning.', in a post on the Qwen blog. TLDR AI featured the story in a recent issue. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Qwen3.8-LiveTranslate: live translation that names the speaker.",
-  "Announced on the Qwen blog; selected by TLDR AI."
- ]
+  "id": "6f3d04de2ce0",
+  "prose": "The Qwen team introduces Qwen3.8-LiveTranslate, a live translation model whose tagline is 'Names the speaker. Carries the meaning.' - the pitch being speaker-attributed translation that preserves intent rather than literal wording. The cached source contained only the word 'Qwen', so this summary reflects the announcement framing from the title and tagline; supported languages, latency, and benchmarks could not be verified.",
+  "highlights": [
+    "Qwen launches Qwen3.8-LiveTranslate, a live translation model",
+    "Tagline: 'Names the speaker. Carries the meaning.' - speaker attribution plus meaning preservation",
+    "The cached source was a single word; details are unverified"
+  ],
+  "quotes": [
+    "Names the speaker. Carries the meaning."
+  ],
+  "authored_at": "2026-09-29T13:14:06Z",
+  "model": "agent-pass",
+  "schema": "1"
 }

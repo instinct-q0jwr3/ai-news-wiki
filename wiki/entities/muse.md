@@ -10,6 +10,8 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-09-29** - T ([Muse gives out your home address without telling you](../summaries/fc08d2b4546f.md) · [Muse (Meta)](../entities/muse.md))
+- **2026-09-29** - M ([Meta launches Muse for Small Business, integrating the AI agent with Asana, Zoom, Intuit, Box, Canva, Slack, and other apps, alongside its own ad accounts](../summaries/291a20c37fc8.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-29** - T ([Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](../summaries/b53b7d49d0ce.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-09-28** - S ([Agent (Muse) Compute Demand](../summaries/35c66fe3e5e3.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-28** - A ([Why I'm Building Muse](../summaries/a20db707a955.md) · [Muse (Meta)](../entities/muse.md))

@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-09-29** - P ([Pope Leo XIV rebukes Jensen Huang for downplaying AI risks, saying "the concerns raised by many of the experts, specialists in AI, should be taken seriously"](../summaries/5faa695e7371.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-09-29** - N ([Nvidia is in early-stage talks with insurance companies to structure risk-mitigation products to protect lenders against loan defaults by neoclouds](../summaries/04c051338dce.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-29** - G ([BREAKING: Florida seeks injunction against OpenAI](../summaries/c5b8a32c6f06.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-29** - S ([Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June](../summaries/52ed0a47028e.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-29** - B ([OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks](../summaries/4e63fc6f0d2f.md) · [OpenAI](../entities/openai.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md))

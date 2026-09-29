@@ -1,0 +1,17 @@
+{
+  "id": "3c488e95c4ce",
+  "prose": "A curated September 2026 benchmark list of open-weight 'uncensored' and offensive-security models for authorized red-team work, penetration testing, and security research, with data sourced from HuggingFace model cards and official publications. The list links downloads for around twenty models, including WhiteRabbitNeo, BugTraceAI CORE Apex/Ultra, CYBER-FROST 3.8, CyberPal2.0-20B, several Cyber-* fine-tunes, RavenX-CyberAgent (a Qwen3.6-35B franken-merge), REDCELL-26B, VEXT-Pentest-7B, and Qwen3.8-27B-Uncensored from OrcaRouter. The cached text is mostly the download list itself, so benchmark scores and methodology are not captured here.",
+  "highlights": [
+    "Curated Sept 2026 list of open-weight offensive-security and uncensored models",
+    "Stated scope: authorized red team operations, pentesting, and security research",
+    "Data sourced from HuggingFace model cards and official publications",
+    "~20 models linked, including WhiteRabbitNeo, BugTraceAI CORE, CYBER-FROST, CyberPal2.0, REDCELL",
+    "The cached text is mostly download links; benchmark methodology and scores are not captured"
+  ],
+  "quotes": [
+    "authorized red team operations"
+  ],
+  "authored_at": "2026-09-29T13:13:06Z",
+  "model": "agent-pass",
+  "schema": "1"
+}

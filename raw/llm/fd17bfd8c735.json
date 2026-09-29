@@ -1,0 +1,18 @@
+{
+  "id": "fd17bfd8c735",
+  "prose": "Show HN for Raven, a pre-alpha 'harness of harnesses' built explicitly for recursive self-improvement. Raven acts as a Host Agent: you describe what you need once, it generates DAGs and orchestrates four built-in specialized agents (Research, Code, Design, Oncall) plus third-party ones, and its modular architecture lets it propose, evaluate, and adopt validated improvements to its own harness. Powered by EverOS, it carries memory and context across sessions. The showcase claim: working autonomously for about 4 days and 42 planning-development-verification rounds, Raven built a playable first-person shooter with an arena boss fight in Godot 4 from a one-sentence brief.",
+  "highlights": [
+    "Raven: a pre-alpha 'harness of harnesses' designed for recursive self-improvement",
+    "Generates DAGs and orchestrates built-in Raven-Research, -Code, -Design, and -Oncall agents",
+    "Can propose, evaluate, and adopt validated changes to its own harness",
+    "EverOS provides memory and context across sessions",
+    "Demo: ~4 days and 42 autonomous rounds to build a playable Godot 4 FPS with a boss fight",
+    "Pre-alpha warning: interfaces and configuration may change quickly"
+  ],
+  "quotes": [
+    "harness of harnesses, built for RSI"
+  ],
+  "authored_at": "2026-09-29T13:13:06Z",
+  "model": "agent-pass",
+  "schema": "1"
+}
