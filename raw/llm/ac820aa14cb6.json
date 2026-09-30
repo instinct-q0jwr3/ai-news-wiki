@@ -1,0 +1,12 @@
+{
+ "id": "ac820aa14cb6",
+ "prose": "TLDR AI notes that OpenAI introduced MentalHealthBench, apparently an evaluation focused on mental-health-related model behavior. Only the headline was retrievable this pass, so the benchmark's design and results are unavailable.",
+ "highlights": [
+  "OpenAI introduces MentalHealthBench",
+  "Appears to be an evaluation of model behavior on mental-health topics",
+  "Only the headline was retrievable; details unavailable"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:25:00+02:00"
+}

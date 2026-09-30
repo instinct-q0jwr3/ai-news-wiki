@@ -1,0 +1,13 @@
+{
+ "id": "a43510b68295",
+ "prose": "Max Woolf describes getting agents to write Rust code that beats state-of-the-art libraries by iteratively asking them to make the code faster. The cached feed excerpt is just the teaser line ('c'mon, try doing a breakthrough'), so benchmark details are unavailable this pass.",
+ "highlights": [
+  "Agent-written Rust outperforms state-of-the-art libraries",
+  "Method: iteratively prompting agents to optimize",
+  "Only the teaser line was retrievable; details unavailable",
+  "Summary based on the headline and feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:30:00+02:00"
+}

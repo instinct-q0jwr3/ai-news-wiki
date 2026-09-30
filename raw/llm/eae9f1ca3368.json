@@ -1,0 +1,14 @@
+{
+ "id": "eae9f1ca3368",
+ "prose": "Baseten announces a partnership with OpenAI as one of the first open-model inference providers in the OpenAI B2B Marketplace, including a native integration inside Codex. OpenAI enterprise customers can now apply their existing OpenAI spending commitments to open models served by Baseten within Codex or via the Responses API, which Baseten pitches as more intelligence per dollar and validation of the multi-model future in which routers pick the best model per task.",
+ "highlights": [
+  "Baseten joins OpenAI B2B Marketplace as an early open-model inference provider",
+  "OpenAI enterprise commitments now usable for Baseten-served open models",
+  "Native integration inside Codex and via the Responses API",
+  "Pitches multi-model routing across open and closed models as the emerging pattern",
+  "Frames agentic coding as the most widely adopted AI use case"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:20:00+02:00"
+}

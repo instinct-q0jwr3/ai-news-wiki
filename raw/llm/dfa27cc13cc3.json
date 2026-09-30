@@ -1,0 +1,12 @@
+{
+ "id": "dfa27cc13cc3",
+ "prose": "The Hacker News entry for OpenAI's MentalHealthBench. Only the title was retrievable this pass, so the benchmark's methodology and findings cannot be summarized; see the linked OpenAI material for details.",
+ "highlights": [
+  "OpenAI's MentalHealthBench discussion on HN",
+  "Only the title was retrievable; no content available",
+  "Summary based on the headline alone"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:25:00+02:00"
+}

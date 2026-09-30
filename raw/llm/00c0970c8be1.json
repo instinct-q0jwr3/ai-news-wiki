@@ -1,0 +1,12 @@
+{
+ "id": "00c0970c8be1",
+ "prose": "A minimal tracking page that asks whether open-weight AI has been banned yet and answers NO. The cached capture contains only the headline and the one-word answer, so there is no further substance to summarize; the page appears to be a running status check on open-weight model regulation rather than an article.",
+ "highlights": [
+  "Single-purpose tracker: 'Is open-weight AI banned yet?' - answer: NO",
+  "Cached content is only the headline and answer; no article text retrievable",
+  "Summary based on the cached page stub"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:20:00+02:00"
+}

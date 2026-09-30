@@ -1,0 +1,12 @@
+{
+ "id": "03ed461abfa9",
+ "prose": "A report that Claude Code only read AGENTS.md when telemetry was enabled - a bug coupling instruction-file loading to telemetry - and that it has now been fixed. Only the headline was retrievable this pass, so the timeline and explanation are unavailable.",
+ "highlights": [
+  "Claude Code read AGENTS.md only with telemetry on",
+  "Bug has been fixed, per the headline",
+  "Only the headline was retrievable; details unavailable"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:30:00+02:00"
+}

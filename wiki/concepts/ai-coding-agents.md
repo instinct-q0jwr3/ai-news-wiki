@@ -1,6 +1,6 @@
 # Concept: AI coding agents and the software pipeline
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-30 · confidence: medium_
 
 `concept` `ai-coding-agents`
 
@@ -18,7 +18,7 @@ Coding agents are reshaping how software is written, reviewed and shipped. This 
 
 ## Timeline
 
-- **2026-09-29** - GPT-6.1 Sol is pitched as near-Astra intelligence for a fifth of the price, per the headline. The original source could not be retrieved (the fetch returned an error), but sibling coverage confirms the essentials: with Astra shelved over safety concerns,… ([GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](../summaries/172bca586abe.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-30** - Baseten announces a partnership with OpenAI as one of the first open-model inference providers in the OpenAI B2B Marketplace, including a native integration inside Codex. OpenAI enterprise customers can now apply their existing OpenAI spending commitments… ([Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API](../summaries/eae9f1ca3368.md) · [OpenAI](../entities/openai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-29** - OpenAI announced a Codex upgrade at DevDay centered on reusable cloud development environments: instead of each cloud task being an isolated sandbox, environments are now persistent and configurable, accessible from any device - laptop, phone, or cloud.… ([OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more](../summaries/845ba2d144fd.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-29** - OpenAI unveiled a $500/month Pro plan at DevDay - its highest usage allowance, bundled with the new Ultrafast speed tier that pushes Codex and Work apps to up to 300 tokens per second (also available to API users). The $200 plan OpenAI pioneered at the end… ([OpenAI unveils a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast tier, with up to 8x faster token generation in Codex](../summaries/61f2a333f736.md) · [OpenAI](../entities/openai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-29** - Latent Space's AI Engineer podcast tees up Thariq Shihipar of Anthropic to discuss Claude Code's next era, with a recap of Anthropic's blistering 2026: the largest fundraise of all time in May at $47B ARR, then Claude Tag, Sonnet 5, Fable 5, Opus 5,… ([Claude Code’s Next Era — Thariq Shihipar, Anthropic](../summaries/7ac69580843a.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

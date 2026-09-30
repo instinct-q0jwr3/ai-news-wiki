@@ -1,251 +1,131 @@
 {
- "generated_at": "2026-09-29T19:11:16+00:00",
+ "generated_at": "2026-09-30T01:12:00+00:00",
  "stories": [
   {
-   "id": "172bca586abe",
-   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+   "id": "a6b0c693a7ba",
+   "title": "AI needs $6T in annual revenue to justify data centre boom",
    "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+   "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
   },
   {
-   "id": "ab1ec1d412c6",
-   "title": "AI companies leak data to advertisers [pdf]",
+   "id": "2415274ff349",
+   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
    "source": "Hacker News",
-   "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
   },
   {
-   "id": "3c6d2c64dc76",
-   "title": "Dots: Always-on agents",
+   "id": "ebf4a974fed7",
+   "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
    "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-dots/"
+   "url": "https://github.com/lostmsu/TurboGPT"
   },
   {
-   "id": "a6b87a4df2e4",
-   "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+   "id": "c777d97378c8",
+   "title": "McDonald's push to have AI price your Big Mac",
    "source": "Hacker News",
-   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
+   "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
   },
   {
-   "id": "c5e19fce30b6",
-   "title": "Claude partial outage",
+   "id": "b8bf4be3c52d",
+   "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
    "source": "Hacker News",
-   "url": "https://status.claude.com/incidents/4xvtc2gnq73l"
+   "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac"
   },
   {
-   "id": "dd49b233e21a",
-   "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+   "id": "59b00aadc6b1",
+   "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
    "source": "Hacker News",
-   "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
+   "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/"
   },
   {
-   "id": "cd380ba158a0",
-   "title": "ChatGPT Pro 500",
+   "id": "15145046c15f",
+   "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
    "source": "Hacker News",
-   "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
+   "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming"
   },
   {
-   "id": "4c288fab1a40",
-   "title": "DevDay 2026 Recap",
+   "id": "00c0970c8be1",
+   "title": "Is open-weight AI banned yet?",
    "source": "Hacker News",
-   "url": "https://openai.com/index/devday-2026-recap/"
+   "url": "https://isopenweightaibannedyet.com"
   },
   {
-   "id": "70f97797ab2a",
-   "title": "NAND-16: a computer built from 277,248 NAND gates",
-   "source": "Hacker News",
-   "url": "https://somethingbig.ai/computer"
-  },
-  {
-   "id": "b801037ee3f2",
-   "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html"
-  },
-  {
-   "id": "0df971bdfa66",
-   "title": "AI models keep posting screenshots showing sensitive data from inside companies",
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640"
-  },
-  {
-   "id": "d5e0b908c4fc",
-   "title": "Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School",
-   "source": "Hacker News",
-   "url": "https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/"
-  },
-  {
-   "id": "4731b61614de",
-   "title": "OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO",
+   "id": "93a590deaf4e",
+   "title": "President Trump signs an executive order requiring federal government agencies to refer to AI as \"Super Intelligence\" or \"SI\" in all official communications",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDcwMzYzNiwiZXhwIjoxNzkxMzA4NDM2LCJhcnRpY2xlSWQiOiJUTTRTTFpLSzNOWUEwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.7HTfC-MuSDvHseE_-WELh_56bNEsYQo0SCqnHZoE0BE"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand"
   },
   {
-   "id": "540aba4c7dde",
-   "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
-   "source": "TLDR AI",
-   "url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html?unlocked_article_code=1.E1E.XwFn.itY4m5r1HZiy&smid=url-share"
-  },
-  {
-   "id": "845ba2d144fd",
-   "title": "OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more",
+   "id": "794fe57bafb6",
+   "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+   "url": "https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/"
   },
   {
-   "id": "4882733fd778",
-   "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding",
+   "id": "923bca19cd1c",
+   "title": "A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training",
    "source": "Techmeme",
-   "url": "https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/"
+   "url": "https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/"
   },
   {
-   "id": "61f2a333f736",
-   "title": "OpenAI unveils a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast tier, with up to 8x faster token generation in Codex",
+   "id": "fe9056ddb087",
+   "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment",
    "source": "Techmeme",
-   "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/"
+   "url": "https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/"
   },
   {
-   "id": "fd4193143be1",
-   "title": "A recording of the OpenAI DevDay 2026 keynote",
+   "id": "6260de221b34",
+   "title": "Mark Zuckerberg says the voluntary \"accord\" on AI standards that tech executives agreed to includes internal risk reviews and external auditors",
    "source": "Techmeme",
-   "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
+   "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg"
   },
   {
-   "id": "bfe406b44382",
-   "title": "OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users",
+   "id": "68d1b506dd06",
+   "title": "Trump says the AI accord with tech leaders is \"morally binding\" and the administration is considering a 10-person committee to oversee the AI industry",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier"
+   "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html"
   },
   {
-   "id": "04be50bfa4e5",
-   "title": "OpenAI announces ChatGPT Space, a collaborative hub for shared pages and files, available on Pro, Business, and Enterprise plans; it replaces Library",
+   "id": "7677ad6f1954",
+   "title": "IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees",
    "source": "Techmeme",
-   "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
+   "url": "https://www.reuters.com/world/anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-2026-09-29/"
   },
   {
-   "id": "3de385ce6dc4",
-   "title": "Pluralistic: Lindsay Owens's \"Gouged\" (29 Sep 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/09/29/algorithmic-wage-theft/"
-  },
-  {
-   "id": "f0d491b89743",
-   "title": "Meta Launches an Enterprise AI Platform",
-   "source": "TLDR AI",
-   "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/"
-  },
-  {
-   "id": "376f02b2dcd3",
-   "title": "State of Agent Skills",
-   "source": "TLDR AI",
-   "url": "https://vercel.com/blog/state-of-agent-skills"
-  },
-  {
-   "id": "ba4a3d630c95",
-   "title": "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations",
+   "id": "c968463efde7",
+   "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\"",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-set-to-host-nvidia-anthropic-ceos-to-discuss-ai-risks"
   },
   {
-   "id": "fbf89145e88a",
-   "title": "NVIDIA Launched Open Agent Safety Platform",
-   "source": "TLDR AI",
-   "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform"
-  },
-  {
-   "id": "0349d5bd34ab",
-   "title": "The Facebook Fake-out",
-   "source": "Anil Dash",
-   "url": "https://anildash.com/2026/09/29/facebook-fake-out/"
-  },
-  {
-   "id": "b755e3c17094",
-   "title": "OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android",
+   "id": "eae9f1ca3368",
+   "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
+   "url": "https://www.baseten.co/blog/baseten-openai-partnership/"
   },
   {
-   "id": "cac994236fbe",
-   "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
-   "source": "TLDR AI",
-   "url": "https://www.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent"
-  },
-  {
-   "id": "6131334b44c6",
-   "title": "In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models",
+   "id": "e3fa408e8aa6",
+   "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range",
    "source": "Techmeme",
-   "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share"
   },
   {
-   "id": "dcc816f4f8b1",
-   "title": "OpenAI repeatedly dismissed internal warnings about inadequate monitoring of testing, prioritizing fast releases without additional security protocols",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.3BXo.2nnf06c4MQhQ&smid=bs-share"
-  },
-  {
-   "id": "9fb326d31b2e",
-   "title": "OpenAI DevDay 2026 live blog",
+   "id": "e8e247ab7030",
+   "title": "Quoting Anthropic Frontier Red Team",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+   "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
   },
   {
-   "id": "8a05acacdf29",
-   "title": "Team Bots: AI coworkers that learn from your team",
-   "source": "TLDR AI",
-   "url": "https://x.ai/news/team-bots"
+   "id": "0d7693b54017",
+   "title": "BREAKING: OpenAI was warned, months before the Hugging Face incident",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months"
   },
   {
-   "id": "1710ad8b61b5",
-   "title": "Dead Money",
-   "source": "Ed Zitron",
-   "url": "https://www.wheresyoured.at/dead-money/"
-  },
-  {
-   "id": "36aa98af2b48",
-   "title": "China's AI travel curbs now reach executives' spouses and children",
-   "source": "TLDR AI",
-   "url": "https://thenextweb.com/news/china-travel-curbs-families-ai-executives-bloomberg"
-  },
-  {
-   "id": "2b7a4321b91d",
-   "title": "OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT",
+   "id": "2da7fb3f000d",
+   "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude",
    "source": "Techmeme",
-   "url": "https://thenewstack.io/sign-in-with-chatgpt/"
-  },
-  {
-   "id": "15c441b6bbe0",
-   "title": "AMD to Acquire World Labs for $8.2 Billion",
-   "source": "TLDR AI",
-   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
-  },
-  {
-   "id": "c19c45fc21ea",
-   "title": "Automating eval design and hill-climbing with Claude",
-   "source": "TLDR AI",
-   "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/"
-  },
-  {
-   "id": "74f53037a561",
-   "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
-  },
-  {
-   "id": "6a20b99c1028",
-   "title": "Introducing Eleven v4, our most emotive model",
-   "source": "TLDR AI",
-   "url": "https://elevenlabs.io/blog/eleven-v4"
-  },
-  {
-   "id": "8292c3b873cb",
-   "title": "OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests",
-   "source": "Techmeme",
-   "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
-  },
-  {
-   "id": "2964d289f4bc",
-   "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details",
-   "source": "Techmeme",
-   "url": "https://thenewstack.io/openai-decision-api-luna/"
+   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share"
   }
  ]
 }

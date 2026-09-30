@@ -1,0 +1,14 @@
+{
+ "id": "e8e247ab7030",
+ "prose": "Simon Willison quotes Anthropic's Frontier Red Team evaluation of GLM-5.3: on 100 tasks from an internal Binary Exploitation benchmark, GLM-5.3 achieved full control-flow hijacks in 4% of trials versus 6% for Claude Mythos Preview. The significance, per the quote, is that a threshold has been crossed - earlier models such as Claude Opus 4.6 and GLM-5.2 succeeded in none of the trials.",
+ "highlights": [
+  "GLM-5.3: full control-flow hijacks in 4% of 100 binary-exploitation trials",
+  "Claude Mythos Preview: 6% on the same benchmark",
+  "Earlier models (Claude Opus 4.6, GLM-5.2): zero successes",
+  "Anthropic frames this as a meaningful threshold crossed in autonomous exploitation",
+  "Quotation collected by Simon Willison, 29 Sep 2026"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:20:00+02:00"
+}

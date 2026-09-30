@@ -190,6 +190,11 @@
   "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster"
  },
  {
+  "from": "a7c715dfa034",
+  "to": "2415274ff349",
+  "title": "Anthropic says GLM-5.3 can autonomously build end-to-end cyber exploits, like Claude Mythos Preview, but was released without robust safeguards against misuse"
+ },
+ {
   "from": "ac820aa14cb6",
   "to": "a4c0c2721de4",
   "title": "OpenAI introduced MentalHealthBench"

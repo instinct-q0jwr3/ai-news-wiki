@@ -1,0 +1,14 @@
+{
+ "id": "59b00aadc6b1",
+ "prose": "An NBC 5 investigation found that AI-powered cameras mounted on Dallas trash trucks have photographed and assigned 'blight scores' to more than 21,000 properties in four months, flagging possible code violations. A city council member and residents are now pushing back, questioning privacy implications and whether camera-driven enforcement could bring fines to lower-income neighbourhoods least able to pay.",
+ "highlights": [
+  "AI cameras on Dallas trash trucks scored 21,000+ properties in four months",
+  "System assigns 'blight scores' to detect possible code violations",
+  "City councilmember calls for deeper review of camera-driven enforcement",
+  "Residents raise privacy concerns and risk of fines in lower-income areas",
+  "NBC 5 obtained the city records through an investigation"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:20:00+02:00"
+}

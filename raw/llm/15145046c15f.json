@@ -1,0 +1,14 @@
+{
+ "id": "15145046c15f",
+ "prose": "The MLC community introduces TIRx Harness, an open compiler harness designed to let coding agents develop correct, fast GPU kernels: it combines a minimal stable compiler foundation, a knowledge base, tools and a benchmark server. The motivation is that agents working on kernels like Kimi Delta Attention spend much of their budget on peripheral uncertainty - predicting lowering behaviour, diagnosing flaky timing, finding relevant strategies - rather than on optimization itself.\n\nOn evaluated workloads, KDA kernels developed with the harness reach geometric-mean speedups of 2.94x over FlashKDA (forward) and 6.84x over Flash Linear Attention (backward).",
+ "highlights": [
+  "TIRx Harness: open compiler harness for agentic GPU kernel development",
+  "Bundles minimal stable compiler foundation, knowledge base, tools and benchmark server",
+  "KDA kernels: 2.94x geomean speedup over FlashKDA forward, 6.84x over FLA backward",
+  "Argues agents waste tokens resolving measurement/lowering uncertainty",
+  "From the MLC community, posted 29 Sep 2026"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:20:00+02:00"
+}

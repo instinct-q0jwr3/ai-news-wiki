@@ -1,6 +1,6 @@
 # Build plugins for Claude with the directory submission portal
 
-_type: news-summary · created: 2026-09-28 · updated: 2026-09-29 · confidence: high_
+_type: news-summary · created: 2026-09-28 · updated: 2026-09-30 · confidence: high_
 
 `tldr-ai` `anthropic`
 

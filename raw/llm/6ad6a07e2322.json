@@ -1,0 +1,13 @@
+{
+ "id": "6ad6a07e2322",
+ "prose": "Anthropic released Sonnet 5.5, saying it generates outputs more than 30% faster than Sonnet 5 and costs up to 30% less per task, positioning it as a faster, cheaper complement to Claude Opus 5.5; Haiku 5.5 is planned soon. (Summary based on the Techmeme headline and feed excerpt; the source page was not fetched this pass.)",
+ "highlights": [
+  "Sonnet 5.5: 30%+ faster outputs than Sonnet 5, up to 30% cheaper per task",
+  "Positioned as the fast/cheap complement to Opus 5.5",
+  "Haiku 5.5 promised soon",
+  "Source not fetched; summary based on headline and feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:25:00+02:00"
+}

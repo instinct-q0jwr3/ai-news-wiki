@@ -1,0 +1,14 @@
+{
+ "id": "2415274ff349",
+ "prose": "Anthropic's Frontier Red Team analyzes GLM-5.3, the latest model from Zhipu AI (Z.ai), and concludes the era of autonomous end-to-end cyber exploit construction is no longer confined to one lab. Anthropic says it anticipated this after Claude Mythos Preview demonstrated the capability five months earlier, which is why it released Mythos only through the limited Project Glasswing program that let trusted defenders find more than 10,000 vulnerabilities first.\n\nUnlike Mythos, Anthropic says GLM-5.3 was released without meaningful safeguards, and its testing found attackers can bypass the model's protections in a large share of attempts. The post frames the finding as evidence that proliferation of advanced cyber capability has arrived and argues for defensive head-starts and stronger misuse controls.",
+ "highlights": [
+  "Anthropic says GLM-5.3 can autonomously build end-to-end cyber exploits, like Claude Mythos Preview",
+  "Claims GLM-5.3 shipped without meaningful safeguards; bypassed in a large share of tests",
+  "Claude Mythos Preview released only via Project Glasswing, which found 10,000+ vulnerabilities",
+  "Anthropic says it expected the capability to proliferate within months",
+  "Argues for defensive head-starts as the key policy response"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:20:00+02:00"
+}

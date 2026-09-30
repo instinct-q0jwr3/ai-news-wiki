@@ -1,13 +1,12 @@
 {
  "id": "a8a9e43f7867",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "On its blog, OpenAI describes better prompt caching for GPT-6. TLDR AI featured the story in a recent issue. (Brief based on the link title.)"
- ],
+ "authored_at": "2026-09-30T03:35:00+02:00",
+ "prose": "OpenAI published a blog post describing improved prompt caching for GPT-6, selected by TLDR AI. The source page could not be retrieved (the fetch returned an error), so the caching details - discount levels, TTL changes or supported endpoints - cannot be summarized; this brief is based on the headline and feed selection note.",
  "highlights": [
-  "OpenAI details improved prompt caching for GPT-6.",
-  "Published on openai.com; selected by TLDR AI."
+  "OpenAI details improved prompt caching for GPT-6",
+  "Published on openai.com; selected by TLDR AI",
+  "Source unreachable at fetch time; summary based on the headline"
  ]
 }

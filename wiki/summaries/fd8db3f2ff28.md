@@ -1,6 +1,6 @@
 # Cancer Capital: VC didn’t use to work like this
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-09-29 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-09-30 · confidence: high_
 
 `anil-dash` `google` `microsoft` `meta` `apple` `amazon` `gemini` `compute-buildout` `labor-displacement`
 

@@ -1,0 +1,15 @@
+{
+ "id": "c777d97378c8",
+ "prose": "Reuters reports that McDonald's is increasingly using AI to guide menu prices across the US and some global markets, including an estimate of how much each store's patrons are willing to pay. Based on screenshots of the internal pricing engine and interviews with nine sources, the story says the system analyses millions of daily transactions across nearly 14,000 restaurants to generate an 'optimal price' per item per location - and has widened price differences for the same product between nearby restaurants.\n\nThe strategy aims to lift headquarters' profit but has created tension with franchisees and carries antitrust and customer-backlash risks that Reuters says have not been previously reported in detail.",
+ "highlights": [
+  "McDonald's uses machine learning to set per-location, per-item menu prices",
+  "Engine analyses millions of daily transactions across ~14,000 US restaurants",
+  "One pricing factor: an AI estimate of local customers' willingness to pay",
+  "Three franchisees say price gaps for the same item have widened nearby",
+  "Reuters reviewed pricing-engine screenshots and interviewed nine first-hand sources",
+  "Risks: franchisee tension, customer alienation, antitrust scrutiny"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:20:00+02:00"
+}

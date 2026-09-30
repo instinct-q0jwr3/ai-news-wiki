@@ -1,0 +1,13 @@
+{
+ "id": "a7c715dfa034",
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:31:00+02:00",
+ "prose": "Techmeme's carry of Anthropic's analysis: GLM-5.3, the latest model from Zhipu AI (Z.ai), can autonomously build working end-to-end cyber exploits - the same capability Anthropic demonstrated with Claude Mythos Preview five months ago - but, Anthropic says, was released without robust safeguards against misuse. See the sibling summary of Anthropic's full Frontier Red Team post for the evaluation details.",
+ "highlights": [
+  "Anthropic: GLM-5.3 builds working exploits end to end",
+  "Capability parity with Claude Mythos Preview, per Anthropic",
+  "Released without robust misuse safeguards, Anthropic says",
+  "Techmeme carry of Anthropic's post; sibling entry has the full analysis"
+ ]
+}

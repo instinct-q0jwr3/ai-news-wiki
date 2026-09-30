@@ -1,13 +1,13 @@
 {
  "id": "aee2993c8b3e",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "The link points to assbench.com, a site presenting 'LLM Ass Bench', a humorous take on LLM benchmarking. (Brief based on the link title.)"
- ],
+ "authored_at": "2026-09-30T03:35:00+02:00",
+ "prose": "assbench.com hosts 'LLM Ass Bench', a humorous benchmarking toy for language models - the cached page is an interactive pane-comparison UI with no substantive text, so there is little more to summarize than the joke itself. It drew modest attention on Hacker News (24 points, 7 comments).",
  "highlights": [
-  "'LLM Ass Bench' at assbench.com.",
-  "Drew 24 points and 7 comments on Hacker News."
+  "'LLM Ass Bench': a humorous LLM benchmarking site",
+  "Interactive comparison UI; cached page has no article text",
+  "Drew 24 points and 7 comments on Hacker News",
+  "Summary based on the thin cached page"
  ]
 }

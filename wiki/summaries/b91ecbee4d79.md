@@ -1,6 +1,6 @@
 # Why are the Artemis II photos on Flickr?
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-09-29 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-09-30 · confidence: high_
 
 `anil-dash` `muse` `small-specialist-models` `ai-safety-incidents` `compute-buildout` `ai-policy-regulation`
 

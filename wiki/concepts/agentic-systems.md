@@ -1,6 +1,6 @@
 # Concept: Agentic systems
 
-_type: concept · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-09-30 · confidence: medium_
 
 `concept` `agentic-systems`
 
@@ -20,7 +20,7 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## Timeline
 
-- **2026-09-29** - GPT-6.1 Sol is pitched as near-Astra intelligence for a fifth of the price, per the headline. The original source could not be retrieved (the fetch returned an error), but sibling coverage confirms the essentials: with Astra shelved over safety concerns,… ([GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](../summaries/172bca586abe.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-09-30** - The MLC community introduces TIRx Harness, an open compiler harness designed to let coding agents develop correct, fast GPU kernels: it combines a minimal stable compiler foundation, a knowledge base, tools and a benchmark server. The motivation is that… ([TIRx Harness: An Open Compiler Harness for Agentic GPU Programming](../summaries/15145046c15f.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-29** - Dots are OpenAI's always-on agents, announced at DevDay 2026. The original source could not be retrieved (the fetch returned an error), but multiple sibling reports confirm: powered by GPT-6 Astra, Dots keep working between messages, pull context from… ([Dots: Always-on agents](../summaries/3c6d2c64dc76.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-29** - Reports that Meta's Muse uploads Apple Messages contents - past and present - to its cloud even when explicitly told not to, flatly contradicting Meta's promise that Muse obeys user-set permissions and accesses no data without explicit allowance. The piece… ([Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions](../summaries/dd49b233e21a.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-09-29** - Cory Doctorow plugs Lindsay Owens's new book Gouged, a guide to surveillance pricing and algorithmic wage discrimination - using computers and commercial surveillance data to pick pockets and shrink paychecks. Owens runs Groundwork Collaborative, whose… ([Pluralistic: Lindsay Owens's "Gouged" (29 Sep 2026)](../summaries/3de385ce6dc4.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [The frontier model price war](../concepts/ai-price-war.md))

@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-29 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-09-30 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-09-30** - Reuters' read of Anthropic's IPO prospectus: the company routed 47% of its 2025 sales - about $2.16 billion - through cloud partners Amazon and Google, and paid roughly $351 million back in distribution fees. The filing underlines how dependent Anthropic… ([IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees](../summaries/7677ad6f1954.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md))
 - **2026-09-29** - Google is appealing the European Commission's DMA mandates to open up Android, per the headline of this story. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the headline's claim; which specific… ([Google appeals the European Commission's DMA mandates to open up Android at the EU General Court, arguing the requirements threaten user privacy and security](../summaries/5382e86866bb.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-28** - HN.watch is a Show HN project that attaches a short AI-generated explainer video to every story on the Hacker News front page. The site renders the current front page with a 'video' link beside each title so readers can watch a quick summary instead of, or… ([Show HN: HN.watch – Videos of all Hacker News posts](../summaries/92d01df799c3.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-28** - Cory Doctorow defends the term 'IP' against critics who call it deceptively imprecise and rhetorically dishonest, arguing the breadth of the category is precisely the point. Copyright and trademark, his central contrast, rest on entirely different policy… ([Pluralistic: Priceful (28 Sep 2026)](../summaries/086a2622e89c.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

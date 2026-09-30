@@ -1,0 +1,13 @@
+{
+ "id": "dec9e8e699df",
+ "prose": "Show HN from Sitefire (YC W26): the founders - with backgrounds in RL/optimization at Stanford and software engineering at TU Munich - trained a model that identifies AI-generated web content from page structure alone, without reading the text. Only the feed intro was retrievable, so accuracy figures and method details are unavailable this pass.",
+ "highlights": [
+  "Model detects AI web content from structure alone, not text",
+  "From Sitefire (YC W26), Stanford/TU Munich backgrounds",
+  "Show HN post; only the intro was retrievable",
+  "Summary based on the feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T03:30:00+02:00"
+}
