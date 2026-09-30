@@ -1,0 +1,14 @@
+{
+ "id": "24effb8794c4",
+ "prose": "A group of mathematicians issues recommendations for the responsible release of AI-generated mathematics, opening with a direct request: frontier labs should stop testing advanced mathematical problems on proprietary models inaccessible to the broader scientific community. The statement grounds its case in long-standing mathematical norms - authors should understand and verify their own arguments, take responsibility for content, and explain new results in seminars - arguing these norms exist to keep mathematics reliable and to deepen human understanding.\n\nThe recommendations are framed for the practical context in which some labs do use proprietary models, even though the authors say they do not endorse the practice.",
+ "highlights": [
+  "Open request: stop testing advanced math on inaccessible proprietary models",
+  "Authors do not endorse the practice but formulate recommendations within it",
+  "Core norm: authors must understand, verify and take responsibility for their arguments",
+  "Seminars and conference talks cited as part of the reliability machinery of mathematics",
+  "Goal stated: preserve the deepest possible human understanding of mathematics"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T09:20:00+02:00"
+}

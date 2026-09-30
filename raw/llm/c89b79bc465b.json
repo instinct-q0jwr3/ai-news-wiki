@@ -1,13 +1,13 @@
 {
  "id": "c89b79bc465b",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "prose": "Nori claims its LLM reaches over 1 million tokens per second - but the site itself undercuts the boast, describing Nori LLM 1.0 as 'confidently, blazingly wrong' and warning visitors not to check important information because 'there's no time'. Read together, the page is a speed-\u00fcber-alles art project or joke rather than a serious serving claim.",
+ "highlights": [
+  "Nori claims 1M+ tokens per second for its LLM",
+  "The page itself: 'confidently, blazingly wrong'",
+  "Self-aware speed demo/joke, not a serious model claim",
+  "11 points, 3 comments on Hacker News"
+ ],
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "The Nori team claims its LLM achieves over 1 million tokens per second. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Nori claims over 1M tokens per second for its LLM.",
-  "Shared on Hacker News; 11 points and 3 comments."
- ]
+ "authored_at": "2026-09-30T09:25:00+02:00"
 }

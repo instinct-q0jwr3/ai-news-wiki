@@ -1,14 +1,13 @@
 {
  "id": "b4d003ca42dd",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "prose": "A Medium author built AI agents that send data-deletion requests to companies on his behalf, and reports that most companies never answered - an experiment that doubles as a measure of how broken privacy-request workflows are for automation and humans alike. The full post could not be retrieved (the fetch returned an error), so response-rate details are unavailable; this summary is based on the headline and the author's own description.",
+ "highlights": [
+  "AI agents sent data-deletion requests to companies",
+  "Most companies never answered, the author reports",
+  "Experiment exposes how poorly privacy-request flows handle automation",
+  "Source unreachable at fetch time; summary based on the headline"
+ ],
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "Writing on Medium, the author describes building AI agents that ask companies to delete their personal data, and reports that most companies never answered. (Brief based on the headline.)"
- ],
- "highlights": [
-  "AI agents sent data-deletion requests to companies.",
-  "Most companies never answered, the author reports.",
-  "Published on Medium; 4 points on Hacker News."
- ]
+ "authored_at": "2026-09-30T09:25:00+02:00"
 }

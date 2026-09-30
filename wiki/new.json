@@ -1,131 +1,89 @@
 {
- "generated_at": "2026-09-30T01:12:00+00:00",
+ "generated_at": "2026-09-30T07:12:49+00:00",
  "stories": [
   {
-   "id": "a6b0c693a7ba",
-   "title": "AI needs $6T in annual revenue to justify data centre boom",
+   "id": "11a11d447425",
+   "title": "PSSA: A non-transformer language model written from scratch in Rust",
    "source": "Hacker News",
-   "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
+   "url": "https://github.com/Sparticle62ops/pssa"
   },
   {
-   "id": "2415274ff349",
-   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+   "id": "24effb8794c4",
+   "title": "Responsible Release of AI-Generated Mathematics",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+   "url": "https://agmai.org/general-sep29/"
   },
   {
-   "id": "ebf4a974fed7",
-   "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+   "id": "20961f3ab993",
+   "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
    "source": "Hacker News",
-   "url": "https://github.com/lostmsu/TurboGPT"
+   "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/"
   },
   {
-   "id": "c777d97378c8",
-   "title": "McDonald's push to have AI price your Big Mac",
+   "id": "bff0ac6ca84b",
+   "title": "Inspect: An open-source framework for large language model evaluations",
    "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html"
+   "url": "https://inspect.aisi.org.uk/"
   },
   {
-   "id": "b8bf4be3c52d",
-   "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
-   "source": "Hacker News",
-   "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac"
-  },
-  {
-   "id": "59b00aadc6b1",
-   "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
-   "source": "Hacker News",
-   "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/"
-  },
-  {
-   "id": "15145046c15f",
-   "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
-   "source": "Hacker News",
-   "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming"
-  },
-  {
-   "id": "00c0970c8be1",
-   "title": "Is open-weight AI banned yet?",
-   "source": "Hacker News",
-   "url": "https://isopenweightaibannedyet.com"
-  },
-  {
-   "id": "fe9056ddb087",
-   "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment",
+   "id": "f8ebc581cafc",
+   "title": "Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/"
+   "url": "https://www.ft.com/content/f1c7da54-a762-4c62-bb4c-0ce4fe536900?accessToken=zwAAAaDsJPUYkdPxx9pUp2JMYtO7TAzk_lNpAA.MEYCIQCFI2Qlos7cBfWuoQlfuoPQkZPcCN6FHkP4omSklgckmAIhAIJau-71Oodupbcl-5yA2LbsDQ8GmGTq7ULpAPOWReqs&sharetype=gift&token=39293558-5079-4a3a-8d21-66ffa7c7962a&syn-25a6b1a6=1"
   },
   {
-   "id": "6260de221b34",
-   "title": "Mark Zuckerberg says the voluntary \"accord\" on AI standards that tech executives agreed to includes internal risk reviews and external auditors",
+   "id": "83e9e770f8b4",
+   "title": "US Health Secretary RFK Jr. says AI can offer \"a second opinion that is much better informed than any doctor in the country\" and \"free us from medical tyranny\"",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg"
+   "url": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html?unlocked_article_code=1.FFE.fFTw.3NNOEp4UVzwd&smid=bs-share"
   },
   {
-   "id": "e3fa408e8aa6",
-   "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range",
+   "id": "538cf54f428a",
+   "title": "A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share"
+   "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/"
   },
   {
-   "id": "794fe57bafb6",
-   "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together",
+   "id": "6e9ab885cf56",
+   "title": "US-based PaleBlueDot AI is seeking $600M in private credit to buy chips for its South Korea site, to be used by Chinese social media app Xiaohongshu",
    "source": "Techmeme",
-   "url": "https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/"
+   "url": "https://www.bloomberg.com/"
   },
   {
-   "id": "e8e247ab7030",
-   "title": "Quoting Anthropic Frontier Red Team",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
-  },
-  {
-   "id": "93a590deaf4e",
-   "title": "President Trump signs an executive order requiring federal government agencies to refer to AI as \"Super Intelligence\" or \"SI\" in all official communications",
+   "id": "546c40c2bb81",
+   "title": "Hands-on with Dots, OpenAI's work-focused agentic product: highly capable and intuitive, with natural-feeling conversations represented as a chat inside ChatGPT",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand"
+   "url": "https://www.platformer.news/openai-dots-agents-devday-2026/"
   },
   {
-   "id": "2da7fb3f000d",
-   "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude",
+   "id": "c0bc9ef524ff",
+   "title": "A profile of Mariano-Florentino Cuéllar, Anthropic's first global affairs chief, who had helped shape California's first AI safety law in 2025",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share"
+   "url": "https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/"
   },
   {
-   "id": "0d7693b54017",
-   "title": "BREAKING: OpenAI was warned, months before the Hugging Face incident",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months"
-  },
-  {
-   "id": "68d1b506dd06",
-   "title": "Trump says the AI accord with tech leaders is \"morally binding\" and the administration is considering a 10-person committee to oversee the AI industry",
+   "id": "0d1c94392e9f",
+   "title": "DeepSeek says it has partnered with Huawei to develop programming tools for Huawei's Ascend chips, including TileLang, an open-source CUDA alternative",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html"
+   "url": "https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/"
   },
   {
-   "id": "7677ad6f1954",
-   "title": "IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees",
+   "id": "ff5f76b5c27a",
+   "title": "An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI's risks, the effects AI will have on jobs, and more",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-2026-09-29/"
+   "url": "https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html?unlocked_article_code=1.E1E._RE1.5q4j8Ds1se8H&smid=url-share"
   },
   {
-   "id": "923bca19cd1c",
-   "title": "A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/"
+   "id": "a153ba8231f2",
+   "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61"
   },
   {
-   "id": "c968463efde7",
-   "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\"",
+   "id": "33bd38a33517",
+   "title": "Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-set-to-host-nvidia-anthropic-ceos-to-discuss-ai-risks"
-  },
-  {
-   "id": "eae9f1ca3368",
-   "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API",
-   "source": "Techmeme",
-   "url": "https://www.baseten.co/blog/baseten-openai-partnership/"
+   "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/"
   }
  ]
 }

@@ -1,14 +1,14 @@
 {
  "id": "cb7bf963906c",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "prose": "IEEE Spectrum reports how OpenAI used its own LLMs to design its 'Jalapeno' chip - a compute die paired with six stacks of HBM4 and an I/O chiplet - with AI drastically shortening design time, a cycle the author notes will only get faster. Only the article's opening was retrievable from cache, so the engineering specifics are unavailable; this summary is based on the headline and the cached excerpt.",
+ "highlights": [
+  "OpenAI used its own LLMs in designing the Jalapeno chip",
+  "Jalapeno: compute die plus six HBM4 stacks and an I/O chiplet",
+  "IEEE Spectrum: AI drastically shortened design time and 'will only get faster'",
+  "Full article thin in cache; summary based on headline and excerpt",
+  "Drew 195 points and 129 comments on Hacker News"
+ ],
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "IEEE Spectrum tells how OpenAI used its own LLMs to design its 'Jalapeno' chip. (Brief based on the headline.)"
- ],
- "highlights": [
-  "OpenAI used its own LLMs in designing the 'Jalapeno' chip.",
-  "Reported by IEEE Spectrum.",
-  "Drew 195 points and 129 comments on Hacker News."
- ]
+ "authored_at": "2026-09-30T09:25:00+02:00"
 }

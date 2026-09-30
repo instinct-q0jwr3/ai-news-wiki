@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PSSA: A non-transformer language model written from scratch in Rust · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790752661"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../hubs/index.html">Hubs</a><a href="../concepts/index.html">Concepts</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>PSSA: A non-transformer language model written from scratch in Rust</h1>
+<p class="meta">type: news-summary · created: 2026-09-30 · updated: 2026-09-30 · confidence: high</p>
+<p><code>hacker-news</code></p>
+<h2 id="summary">Summary</h2>
+<p>PSSA is a small language model that is not a transformer: it reads text one token at a time through a recurrent state-space layer, keeps a bank of episodic memories it can look things up in, and rewrites part of its own weights while it runs. The author wrote it in Rust from scratch - no PyTorch, no TensorFlow, no ML framework - because the per-token weight updates and in-forward-pass memory writes meant fighting autograd at every step; writing the linear algebra directly made the plastic parts straightforward and gradients checkable against a reference to about 3e-8.</p>
+<p>At matched parameters on the same corpus, the author reports PSSA learns faster than a transformer and generates text about twelve times quicker on the same CPU. The post is explicit that the architecture is the claim, not the language, and a Python port is welcome.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Non-transformer LM: recurrent state-space layer plus episodic memory bank</li>
+<li>Rewrites part of its own weights during the forward pass</li>
+<li>Written from scratch in Rust, no ML framework, gradients verified to ~3e-8</li>
+<li>Claims faster learning than a transformer at matched parameters, ~12x generation speed on CPU</li>
+<li>Author: the architecture is the claim; a Python port is welcome</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/Sparticle62ops/pssa">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

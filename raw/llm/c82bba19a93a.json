@@ -1,14 +1,13 @@
 {
  "id": "c82bba19a93a",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "prose": "Base Browser, hosted on Codeberg, is a hard fork of Firefox advertised as shipping 'with no AI slop' - a reaction release for users who want a mainstream browser without built-in AI features. The project page could not be retrieved (the fetch returned an error), so versioning and divergence details are unavailable; this summary is based on the headline.",
+ "highlights": [
+  "Base Browser: Firefox hard fork with no AI features",
+  "Hosted on Codeberg",
+  "A reaction release against built-in browser AI",
+  "Source unreachable at fetch time; summary based on the headline"
+ ],
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "Base Browser, hosted on Codeberg, is presented as a hard fork of Firefox 'with no AI slop'. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Base Browser: a Firefox hard fork with no AI features.",
-  "Project hosted on Codeberg.",
-  "Drew 7 points on Hacker News."
- ]
+ "authored_at": "2026-09-30T09:25:00+02:00"
 }

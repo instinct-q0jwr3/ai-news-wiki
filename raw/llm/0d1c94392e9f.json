@@ -1,0 +1,13 @@
+{
+ "id": "0d1c94392e9f",
+ "prose": "Reuters reports that DeepSeek has partnered with Huawei to build programming tools for Huawei's Ascend chips, including TileLang, an open-source CUDA alternative - another step in China's push for a self-sufficient AI compute stack. (Summary based on the Techmeme headline and feed excerpt; the source page was not fetched this pass.)",
+ "highlights": [
+  "DeepSeek partners with Huawei on Ascend programming tools",
+  "Includes TileLang, an open-source CUDA alternative",
+  "Part of China's self-sufficient AI compute push",
+  "Source not fetched; summary based on headline and feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T09:20:00+02:00"
+}

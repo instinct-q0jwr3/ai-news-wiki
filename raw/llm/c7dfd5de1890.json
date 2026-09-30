@@ -1,14 +1,13 @@
 {
  "id": "c7dfd5de1890",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "prose": "A Norman Ponte essay argues that cloud agents are 'inevitable AI prisons' - that agents running inside a provider's cloud are structurally confined by the platform's incentives and controls. The cached page is thin (only the title and byline were retrievable), so the argument's mechanism and proposed alternatives are unavailable; this summary is based on the headline and cached stub.",
+ "highlights": [
+  "Thesis: cloud agents are 'inevitable AI prisons'",
+  "Platform confinement framed as structural, not incidental",
+  "Cached page thin; full argument unavailable",
+  "Drew 61 points and 138 comments on Hacker News"
+ ],
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "A blog post argues that cloud agents are 'inevitable AI prisons'. (Brief based on the link title.)"
- ],
- "highlights": [
-  "Argument: cloud agents are 'inevitable AI prisons'.",
-  "Published at normanponte.io.",
-  "Drew 61 points and 138 comments on Hacker News."
- ]
+ "authored_at": "2026-09-30T09:25:00+02:00"
 }
