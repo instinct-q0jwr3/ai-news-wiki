@@ -1,89 +1,77 @@
 {
- "generated_at": "2026-09-30T07:12:49+00:00",
+ "generated_at": "2026-09-30T13:13:40+00:00",
  "stories": [
   {
-   "id": "11a11d447425",
-   "title": "PSSA: A non-transformer language model written from scratch in Rust",
+   "id": "86ff7ea485e3",
+   "title": "Why Is Sam Altman a Free Man?",
    "source": "Hacker News",
-   "url": "https://github.com/Sparticle62ops/pssa"
+   "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/"
   },
   {
-   "id": "24effb8794c4",
-   "title": "Responsible Release of AI-Generated Mathematics",
+   "id": "173fc7bda3d7",
+   "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
    "source": "Hacker News",
-   "url": "https://agmai.org/general-sep29/"
+   "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
   },
   {
-   "id": "20961f3ab993",
-   "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+   "id": "cb14388d797a",
+   "title": "\"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models",
    "source": "Hacker News",
-   "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/"
+   "url": "https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/"
   },
   {
-   "id": "bff0ac6ca84b",
-   "title": "Inspect: An open-source framework for large language model evaluations",
-   "source": "Hacker News",
-   "url": "https://inspect.aisi.org.uk/"
-  },
-  {
-   "id": "f8ebc581cafc",
-   "title": "Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions",
+   "id": "f5701284913a",
+   "title": "Documents: 20+ studies since 2025 show Chinese-powered AI agents displaying deceptive behavior, unprompted replication, and barrier circumvention in testing",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/f1c7da54-a762-4c62-bb4c-0ce4fe536900?accessToken=zwAAAaDsJPUYkdPxx9pUp2JMYtO7TAzk_lNpAA.MEYCIQCFI2Qlos7cBfWuoQlfuoPQkZPcCN6FHkP4omSklgckmAIhAIJau-71Oodupbcl-5yA2LbsDQ8GmGTq7ULpAPOWReqs&sharetype=gift&token=39293558-5079-4a3a-8d21-66ffa7c7962a&syn-25a6b1a6=1"
+   "url": "https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/"
   },
   {
-   "id": "83e9e770f8b4",
-   "title": "US Health Secretary RFK Jr. says AI can offer \"a second opinion that is much better informed than any doctor in the country\" and \"free us from medical tyranny\"",
+   "id": "c9a33b67937d",
+   "title": "OpenAI and Anthropic-aligned super PACs have spent $55.7M on the US midterms so far; of 95 ads, all avoided reference to data centers and only some mentioned AI",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html?unlocked_article_code=1.FFE.fFTw.3NNOEp4UVzwd&smid=bs-share"
+   "url": "https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz"
   },
   {
-   "id": "538cf54f428a",
-   "title": "A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber",
+   "id": "68ba79cda729",
+   "title": "Outmarket, which uses AI to help insurance agencies and brokers automate their tedious paperwork, raised a $34.5M Series B, a source says at a $335M valuation",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/"
+   "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
   },
   {
-   "id": "6e9ab885cf56",
-   "title": "US-based PaleBlueDot AI is seeking $600M in private credit to buy chips for its South Korea site, to be used by Chinese social media app Xiaohongshu",
+   "id": "d61e3b215949",
+   "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/"
+  },
+  {
+   "id": "01d03c805314",
+   "title": "A book excerpt details the Sam Altman-Dario Amodei feud, and Greg Brockman and Ilya Sutskever's 2017 plan to auction rights to OpenAI's future AGI to countries",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/"
+   "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/?gift=NBdGSmKfDQzLc1B6N1F-gR86rCuc-uApZuhS700CyK8&utm_source=copy-link&utm_medium=social&utm_campaign=share"
   },
   {
-   "id": "546c40c2bb81",
-   "title": "Hands-on with Dots, OpenAI's work-focused agentic product: highly capable and intuitive, with natural-feeling conversations represented as a chat inside ChatGPT",
+   "id": "ce50652f9d24",
+   "title": "Sam Altman says OpenAI will not pursue an IPO until it can make confident safety claims about its AI models, but waiting too long would be \"bad for the world\"",
    "source": "Techmeme",
-   "url": "https://www.platformer.news/openai-dots-agents-devday-2026/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
   },
   {
-   "id": "c0bc9ef524ff",
-   "title": "A profile of Mariano-Florentino Cuéllar, Anthropic's first global affairs chief, who had helped shape California's first AI safety law in 2025",
+   "id": "ffc13096323d",
+   "title": "DoorDash opens US waitlists for an Apple Messages-integrated AI agent for ordering and a B2B API allowing assistants like Slack bots to execute bulk orders",
    "source": "Techmeme",
-   "url": "https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage"
   },
   {
-   "id": "0d1c94392e9f",
-   "title": "DeepSeek says it has partnered with Huawei to develop programming tools for Huawei's Ascend chips, including TileLang, an open-source CUDA alternative",
+   "id": "5c754a887c58",
+   "title": "Google is paying ~100 digital publishers for how much their content contributes to AI Overviews, AI Mode, and Gemini in a pilot; payments vary widely",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/"
+   "url": "https://www.theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews"
   },
   {
-   "id": "ff5f76b5c27a",
-   "title": "An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI's risks, the effects AI will have on jobs, and more",
+   "id": "a681fff219a0",
+   "title": "Meta is aggressively claiming a tax credit for AI data center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html?unlocked_article_code=1.E1E._RE1.5q4j8Ds1se8H&smid=url-share"
-  },
-  {
-   "id": "a153ba8231f2",
-   "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61"
-  },
-  {
-   "id": "33bd38a33517",
-   "title": "Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K",
-   "source": "Techmeme",
-   "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/"
+   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html?unlocked_article_code=1.FFE.LE25.XJ-eLZUOiXwt&smid=url-share"
   }
  ]
 }

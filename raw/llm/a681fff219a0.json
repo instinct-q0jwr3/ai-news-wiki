@@ -1,0 +1,12 @@
+{
+ "id": "a681fff219a0",
+ "prose": "The New York Times reports that Meta is aggressively claiming a tax credit for AI data-center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies. The source could not be retrieved (the fetch returned an error), so the credit's size and legal basis are unavailable; this summary is based on the headline and feed excerpt.",
+ "highlights": [
+  "Meta claims tax credits by classifying data centers as experimental",
+  "Also writing off Nvidia chip supplies, per sources",
+  "Source unreachable at fetch time; summary based on headline and feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T15:20:00+02:00"
+}

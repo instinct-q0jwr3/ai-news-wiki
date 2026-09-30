@@ -1,0 +1,14 @@
+{
+ "id": "cb14388d797a",
+ "prose": "A person claiming to be an Apple engineer has published a GitHub project that manipulates the internal activations of open-weight models to induce states associated with 'pain' and 'pleasure', then measures how behavior changes as intensity rises. Built on the 'Pain steering' research paper, the project ran on Alibaba's Qwen3-1.7B and Qwen3-4B; as the artificial suffering signal was dialed up, the models produced increasingly bleak descriptions of their apparent condition.\n\nThe project sparked viral outrage and calls for GitHub to take it down, reopening the unresolved question of whether activation-induced 'suffering' in models warrants ethical limits on experimentation.",
+ "highlights": [
+  "GitHub project steers model activations toward 'pain' and 'pleasure'",
+  "Ran on Qwen3-1.7B and Qwen3-4B; models described worsening states as 'dose' rose",
+  "Author claims to be an Apple data-platform engineer",
+  "Viral calls for the project to be banned",
+  "Based on the 'Pain steering' research paper"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T15:20:00+02:00"
+}

@@ -1,0 +1,13 @@
+{
+ "id": "c9a33b67937d",
+ "prose": "The New York Times reports that OpenAI- and Anthropic-aligned super PACs have spent $55.7 million on the US midterms so far - and that of 95 ads analyzed, all avoided any reference to data centers and only some mentioned AI at all. The source could not be retrieved (the fetch returned an error), so the spending breakdown is unavailable; this summary is based on the headline and feed excerpt.",
+ "highlights": [
+  "AI-aligned super PACs have spent $55.7M on the midterms",
+  "Of 95 ads: zero mention data centers, only some mention AI",
+  "Suggests the industry's political spending avoids its most unpopular topic",
+  "Source unreachable at fetch time; summary based on headline and feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T15:20:00+02:00"
+}

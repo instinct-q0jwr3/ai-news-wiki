@@ -1,0 +1,12 @@
+{
+ "id": "ffc13096323d",
+ "prose": "Bloomberg reports that DoorDash has opened US waitlists for an AI ordering agent integrated with Apple Messages, plus a B2B API that lets assistants like Slack bots execute bulk orders. The source could not be retrieved (the fetch returned an error), so launch timing and coverage details are unavailable; this summary is based on the headline and feed excerpt.",
+ "highlights": [
+  "DoorDash opens waitlists for an Apple Messages-integrated ordering agent",
+  "Also a B2B API for assistants (e.g., Slack bots) to place bulk orders",
+  "Source unreachable at fetch time; summary based on headline and feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T15:20:00+02:00"
+}

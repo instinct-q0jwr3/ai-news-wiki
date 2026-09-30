@@ -1,14 +1,13 @@
 {
  "id": "db8e779b5d9c",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
+ "authored_at": "2026-09-30T15:25:00+02:00",
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "Qualcomm announced that Linux support is coming to the Snapdragon X2 series, in a post tied to its Snapdragon Summit. (Brief based on the headline.)"
- ],
+ "prose": "Qualcomm used its Snapdragon Summit 2026 to announce that Linux support is coming to the Snapdragon X2 series - a notable opening for Windows-on-ARM hardware that has so far kept Linux users on workarounds. The cached coverage is thin (a summit roundup mentioning agentic AI PCs, 'Googlebooks' and Linux), so kernel-version and distribution details are unavailable; this summary is based on the headline and the cached stub.",
  "highlights": [
-  "Linux support is coming to Snapdragon X2 series chips.",
-  "Announced by Qualcomm around its Snapdragon Summit.",
-  "Drew 106 points and 53 comments on Hacker News."
+  "Linux support announced for Snapdragon X2 series",
+  "Announced at Snapdragon Summit 2026 alongside agentic-AI PC pushes",
+  "Cached coverage thin; kernel and distro details unavailable",
+  "Drew 106 points and 53 comments on Hacker News"
  ]
 }

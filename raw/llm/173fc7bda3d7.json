@@ -1,0 +1,14 @@
+{
+ "id": "173fc7bda3d7",
+ "prose": "Artificial Analysis reports that GPT-6.1 Sol replaces GPT-6 Sol just seven days after launch: it scores one point below GPT-6 Astra on the Intelligence Index at less than a quarter of Astra's cost per task. Pricing matches GPT-6 Sol at $2/$10 per million input/output tokens, but the cache-read discount rises from 90% to 95%, making the blended agentic-workload price slightly lower - an additional cut on top of Sol's original 50% discount from GPT-5.6 Sol.\n\nThe model gains 4 points on the Intelligence Index versus GPT-6 Sol, with notable jumps in agentic knowledge work (AA-Briefcase, GDPval-AA), a 12-point Terminal-Bench 4.0 jump, and a hallucination-rate fall from 60% to 54%.",
+ "highlights": [
+  "GPT-6.1 Sol replaces GPT-6 Sol after 7 days",
+  "1 point below Astra on the Intelligence Index at <25% of the cost per task",
+  "Same $2/$10 token pricing; cache-read discount up from 90% to 95%",
+  "12-point Terminal-Bench 4.0 jump; hallucination rate 60% to 54%",
+  "Second effective price cut after Sol's original 50% discount"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T15:20:00+02:00"
+}
