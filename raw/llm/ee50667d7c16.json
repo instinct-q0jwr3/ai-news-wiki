@@ -1,13 +1,12 @@
 {
  "id": "ee50667d7c16",
- "authored_at": "2026-09-24T17:01:45.339532+00:00",
  "model": "agent-pass",
  "schema": "1",
- "prose": [
-  "Politico Magazine examines how Anthropic complicated the president's push to 'unleash AI'. (Brief based on the headline.)"
- ],
+ "authored_at": "2026-09-30T21:25:00+02:00",
+ "prose": "Politico Magazine's account of how Anthropic complicated the president's push to 'unleash AI' - the 85-day standoff over the Mythos and Fable models. This HN submission of the story could not be retrieved (the fetch returned an error), but the same reporting is summarized in full in a sibling entry; see the wiki's summary of the Politico reconstruction for the complete narrative.",
  "highlights": [
-  "Politico on Anthropic's collision with the White House AI agenda.",
-  "Drew 9 points on Hacker News."
+  "Politico: Anthropic's collision with the White House AI agenda",
+  "Source unreachable at fetch time",
+  "Sibling entry carries the full summary of the same reporting"
  ]
 }

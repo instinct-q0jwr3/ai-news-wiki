@@ -1,0 +1,13 @@
+{
+ "id": "71024412492a",
+ "prose": "A HN poster reports that using Muse.ai to generate and 'improve' Facebook Marketplace ads got their Marketplace account suspended, quoting the suspension notice. A small but telling consumer-agent cautionary tale: platform abuse detectors do not distinguish assistance from spam.",
+ "highlights": [
+  "User: Muse.ai-generated Marketplace ads led to account suspension",
+  "Platform message cited in the post",
+  "Cautionary tale for consumer agent use on third-party platforms",
+  "Summary based on the feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T21:20:00+02:00"
+}

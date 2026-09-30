@@ -1,0 +1,12 @@
+{
+ "id": "1db0dcf11a82",
+ "prose": "Show HN: Strata is an expressive semantic layer that 'can say no to your LLM'. The author spent four years at Netflix on self-service for non-technical business users and claims a distinct approach to semantic-layer design. Only the intro was retrievable this pass.",
+ "highlights": [
+  "Strata: semantic layer designed to refuse bad LLM queries",
+  "Author spent 4 years on Netflix self-service analytics",
+  "Only the intro was retrievable; details unavailable"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T21:20:00+02:00"
+}

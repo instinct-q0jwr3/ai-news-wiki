@@ -1,77 +1,227 @@
 {
- "generated_at": "2026-09-30T13:13:40+00:00",
+ "generated_at": "2026-09-30T19:16:24+00:00",
  "stories": [
   {
-   "id": "86ff7ea485e3",
-   "title": "Why Is Sam Altman a Free Man?",
+   "id": "2def567596da",
+   "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
    "source": "Hacker News",
-   "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/"
+   "url": "https://github.com/magnitudedev/magnitude"
   },
   {
-   "id": "173fc7bda3d7",
-   "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+   "id": "cdab74a524c8",
+   "title": "Getting out of the way: my robotics crash course",
    "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
+   "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/"
   },
   {
-   "id": "cb14388d797a",
-   "title": "\"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models",
+   "id": "71024412492a",
+   "title": "Muse.ai gets me kicked off fb marketplace",
    "source": "Hacker News",
-   "url": "https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/"
+   "url": "https://news.ycombinator.com/item?id=49907601"
   },
   {
-   "id": "f5701284913a",
-   "title": "Documents: 20+ studies since 2025 show Chinese-powered AI agents displaying deceptive behavior, unprompted replication, and barrier circumvention in testing",
+   "id": "df4b7b8be3e8",
+   "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/"
+  },
+  {
+   "id": "12a5223addd7",
+   "title": "Show HN: Corral – Kill every command your agent starts",
+   "source": "Hacker News",
+   "url": "https://github.com/Cardinal44/corral"
+  },
+  {
+   "id": "28d1e0c8e18a",
+   "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+   "source": "Hacker News",
+   "url": "https://openparrot.app"
+  },
+  {
+   "id": "cd6400ce6e47",
+   "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+   "source": "Hacker News",
+   "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+  },
+  {
+   "id": "1db0dcf11a82",
+   "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+   "source": "Hacker News",
+   "url": "https://strata.do/"
+  },
+  {
+   "id": "506005268d39",
+   "title": "Shareholders Should Pay for AI Dangers",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/opinion/shareholders-should-pay-for-ai-dangers-fe78d542"
+  },
+  {
+   "id": "172bca586abe",
+   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
+  },
+  {
+   "id": "1fc8e4df1382",
+   "title": "Metaview, which uses AI agents to automate recruiting workflows, raised a $60M Series C led by Insight Partners, bringing its total funding to $110M",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/"
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/30/agentic-recruiting-metaview-60m"
   },
   {
-   "id": "c9a33b67937d",
-   "title": "OpenAI and Anthropic-aligned super PACs have spent $55.7M on the US midterms so far; of 95 ads, all avoided reference to data centers and only some mentioned AI",
+   "id": "279cd7509af7",
+   "title": "Announcing Cohere's Embed 5 Models",
+   "source": "TLDR AI",
+   "url": "https://docs.cohere.com/changelog/embed-v5"
+  },
+  {
+   "id": "f2bce9c7f748",
+   "title": "Sign in with ChatGPT",
+   "source": "TLDR AI",
+   "url": "https://help.openai.com/en/articles/20001410-sign-in-with-chatgpt"
+  },
+  {
+   "id": "4f8014904f30",
+   "title": "Alex Stamos is joining Cognition as its new chief security officer; he most recently oversaw security at AI security startup Corridor and SentinelOne",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz"
+   "url": "https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity"
   },
   {
-   "id": "68ba79cda729",
-   "title": "Outmarket, which uses AI to help insurance agencies and brokers automate their tedious paperwork, raised a $34.5M Series B, a source says at a $335M valuation",
+   "id": "e0cf2099819a",
+   "title": "Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-30/musk-s-spacexai-considers-overhaul-of-pricing-for-grok-x-users"
   },
   {
-   "id": "d61e3b215949",
-   "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/"
+   "id": "7cf3ff5d0a1b",
+   "title": "Adapting for a world of software factories",
+   "source": "TLDR AI",
+   "url": "https://x.com/zachlloydtweets/status/2104957956794057068"
   },
   {
-   "id": "01d03c805314",
-   "title": "A book excerpt details the Sam Altman-Dario Amodei feud, and Greg Brockman and Ilya Sutskever's 2017 plan to auction rights to OpenAI's future AGI to countries",
+   "id": "2c2e3c06d8f7",
+   "title": "Segmentation Drives Market Share Wins in AI",
+   "source": "TLDR AI",
+   "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/"
+  },
+  {
+   "id": "23cca441beae",
+   "title": "Astra, Opus 5.5, and other Frontier Models Demonstrate Jagged Performance Across SoTA Agentic Tasks from Web Browsing to Robotics",
+   "source": "TLDR AI",
+   "url": "https://www.fig.inc/blog/astra-opus-5-5-and-other-frontier-models-demonstrate-jagged-performance-across-sota-agentic-tasks-from-web-browsing-to-robotics/"
+  },
+  {
+   "id": "3c6d2c64dc76",
+   "title": "Dots: Always-on agents",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/introducing-dots/"
+  },
+  {
+   "id": "75fc4ce784a0",
+   "title": "An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more",
    "source": "Techmeme",
-   "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/?gift=NBdGSmKfDQzLc1B6N1F-gR86rCuc-uApZuhS700CyK8&utm_source=copy-link&utm_medium=social&utm_campaign=share"
+   "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
   },
   {
-   "id": "ce50652f9d24",
-   "title": "Sam Altman says OpenAI will not pursue an IPO until it can make confident safety claims about its AI models, but waiting too long would be \"bad for the world\"",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+   "id": "8261d8649327",
+   "title": "Can companies like OpenAI keep getting away with what they are doing? An interview with Fordham law professor Zephyr Teachout",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/can-companies-like-openai-keep-getting"
   },
   {
-   "id": "ffc13096323d",
-   "title": "DoorDash opens US waitlists for an Apple Messages-integrated AI agent for ordering and a B2B API allowing assistants like Slack bots to execute bulk orders",
+   "id": "f68711b00995",
+   "title": "Berlin-based Restate, which provides a durable execution engine to make software workflows resilient to crashes, raised a $20M Series A led by Singular",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage"
+   "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
   },
   {
-   "id": "5c754a887c58",
-   "title": "Google is paying ~100 digital publishers for how much their content contributes to AI Overviews, AI Mode, and Gemini in a pilot; payments vary widely",
+   "id": "958807b2843c",
+   "title": "The UK's MI5 issues a rare espionage alert urging UK universities to cut ties with the China General Technology Research Institute, which funded AI research",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews"
+   "url": "https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c"
   },
   {
-   "id": "a681fff219a0",
-   "title": "Meta is aggressively claiming a tax credit for AI data center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies",
+   "id": "6ade56849bb9",
+   "title": "How we engineer safer agents",
+   "source": "TLDR AI",
+   "url": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents"
+  },
+  {
+   "id": "95ae5a52c97d",
+   "title": "Instagram rolls out a conversational AI video editing assistant for Edits, its dedicated CapCut competitor, after an initial preview at a creator event in June",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html?unlocked_article_code=1.FFE.LE25.XJ-eLZUOiXwt&smid=url-share"
+   "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/"
+  },
+  {
+   "id": "5c87ac8bb53e",
+   "title": "CScale, which is developing optical interconnect for accelerators, emerges from stealth with a $145M Series C led by Atreides, Valor Equity, and Premji Invest",
+   "source": "Techmeme",
+   "url": "https://gamesbeat.com/cscale-comes-out-of-stealth-with-145m-to-build-interconnect-for-gigawatt-scale-ai/"
+  },
+  {
+   "id": "5accdf19e0ba",
+   "title": "Devin is now up to 40% more cost-efficient",
+   "source": "TLDR AI",
+   "url": "https://devin.ai/blog/more-efficient-devin"
+  },
+  {
+   "id": "7b7f5a2c6318",
+   "title": "the US FTC has opened a probe of Anthropic, OpenAI, and other frontier AI labs over potential consumer harms, and plans to compel executives to testify",
+   "source": "Techmeme",
+   "url": "https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/"
+  },
+  {
+   "id": "a68e378cdaab",
+   "title": "The world's best gradual disempowerment model organism: Frontier AI labs",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism"
+  },
+  {
+   "id": "c879a72b1282",
+   "title": "Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity",
+   "source": "Techmeme",
+   "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+  },
+  {
+   "id": "8e792f91ed8a",
+   "title": "Decisions API",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2105003318917697873.html"
+  },
+  {
+   "id": "eae9f1ca3368",
+   "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API",
+   "source": "Techmeme",
+   "url": "https://www.baseten.co/blog/baseten-openai-partnership/"
+  },
+  {
+   "id": "b3b17dea28d0",
+   "title": "The Future Is for Everyone: Muse for Small Business",
+   "source": "TLDR AI",
+   "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/"
+  },
+  {
+   "id": "be0fd8f5770f",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+  },
+  {
+   "id": "ee17560c8b77",
+   "title": "d1",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2105003472332693869.html"
+  },
+  {
+   "id": "f88951925bd4",
+   "title": "Amazon aims to have 5,000 drivers wearing its smart glasses in 2026, rising to 20,000+ in 2027; the glasses capture static images for its AI mapping platform",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-09-30/amazon-drivers-smart-glasses-are-going-to-be-an-image-problem?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc2ODU0NiwiZXhwIjoxNzkxMzczMzQ2LCJhcnRpY2xlSWQiOiJUTTY5NDRLSUpIOFYwMCIsImJjb25uZWN0SWQiOiI4Q0NEMDRGNjgxQTM0NUVGQTY2RjZGRUFDNTRCMjhCNiJ9.Qdbc5xSph7zK8PxxNfqqv5_es3N1SvHMGsVpEQGLrsI"
+  },
+  {
+   "id": "259661c5bc24",
+   "title": "MCP Events",
+   "source": "TLDR AI",
+   "url": "https://developers.openai.com/plugins/build/mcp-events"
   }
  ]
 }

@@ -1,0 +1,13 @@
+{
+ "id": "12a5223addd7",
+ "prose": "Show HN: Corral kills every command your agent starts. The author, an intern on an AI-agent backend, noticed agents leaving stray processes - tail -f, background jobs - running after exit, and built Corral to clean up the whole tree. A small tool addressing a real agent-ops annoyance.",
+ "highlights": [
+  "Corral: kills every command your agent starts",
+  "Motivation: agents leak stray background processes on exit",
+  "From an agent-backend intern's observation",
+  "Summary based on the feed excerpt"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T21:20:00+02:00"
+}

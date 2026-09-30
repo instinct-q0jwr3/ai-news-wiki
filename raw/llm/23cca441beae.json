@@ -1,0 +1,12 @@
+{
+ "id": "23cca441beae",
+ "prose": "TLDR AI highlights an evaluation finding that Astra, Opus 5.5 and other frontier models show jagged performance across state-of-the-art agentic tasks, from web browsing to robotics - strong in some, weak in others, with no uniform winner. Only the headline was retrievable this pass.",
+ "highlights": [
+  "Evaluation: frontier models are jagged across agentic tasks",
+  "Coverage spans web browsing to robotics",
+  "Selected by TLDR AI; only the headline was retrievable"
+ ],
+ "model": "agent-pass",
+ "schema": "1",
+ "authored_at": "2026-09-30T21:20:00+02:00"
+}
