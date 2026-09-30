@@ -1,0 +1,100 @@
+{
+ "id": "weekly-2026-W40",
+ "date": "2026-W40",
+ "week": "2026-W40",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "The week is only three days old and already has a shape: [Sonnet 5.5](../summaries/651a37e1762f.md) reset expectations for the mid-tier, [OpenAI's DevDay made agents always-on with Dots](../summaries/3c6d2c64dc76.md), and [OpenAI scrapped a model launch over safety](../summaries/c0db0a2b7f51.md) in the same news cycle that [Meta's Muse ignored permissions](../summaries/dd49b233e21a.md). Washington answered with [a voluntary accord](../summaries/fe9056ddb087.md) rather than rules, while [Anthropic's IPO prospectus](../summaries/2fb8b670c5c1.md) and [OpenAI's $30B raise talk](../summaries/99100db889c9.md) kept the money story surreal."
+ ],
+ "sections": [
+  {
+   "title": "Sonnet 5.5 resets the mid-tier",
+   "stories": [
+    "651a37e1762f",
+    "1026ed837e02",
+    "99c0c92e1a30",
+    "08f2e40ace38"
+   ],
+   "concepts": [
+    "frontier-model-launches",
+    "external-evaluation"
+   ],
+   "intro": "Anthropic's faster, cheaper Sonnet landed Sunday and immediately sat just behind Opus 5.5 on independent indexes."
+  },
+  {
+   "title": "DevDay: OpenAI's agents stay on",
+   "stories": [
+    "3c6d2c64dc76",
+    "4c288fab1a40",
+    "cd380ba158a0",
+    "eae9f1ca3368"
+   ],
+   "concepts": [
+    "agentic-systems",
+    "consumer-ai-assistants"
+   ],
+   "intro": "Dots keep working between messages with their own cloud computers; Baseten joins the enterprise marketplace; a $500 tier flickers in and out of view."
+  },
+  {
+   "title": "A bad week for agent trust",
+   "stories": [
+    "dd49b233e21a",
+    "fc08d2b4546f",
+    "d9d1d1a6e1be",
+    "87a58cdce6d5",
+    "0df971bdfa66",
+    "ab1ec1d412c6"
+   ],
+   "concepts": [
+    "agent-incidents",
+    "ai-safety-incidents"
+   ],
+   "intro": "Permission-ignoring assistants, leaked home addresses, sensitive screenshots and advertiser data flows: the week's incidents arrived faster than the rebuttals."
+  },
+  {
+   "title": "Washington answers with a voluntary accord",
+   "stories": [
+    "fe9056ddb087",
+    "68d1b506dd06",
+    "6260de221b34",
+    "c968463efde7",
+    "93a590deaf4e",
+    "48a1c1295d0d"
+   ],
+   "concepts": [
+    "ai-policy-regulation"
+   ],
+   "intro": "Auditors and internal controls by agreement, not law - plus a 'Super Intelligence' rebranding order and a counter-proposal from Ro Khanna."
+  },
+  {
+   "title": "The money gets bigger and stranger",
+   "stories": [
+    "99100db889c9",
+    "2fb8b670c5c1",
+    "8f3a8e8e69a4",
+    "48604079ede0",
+    "e0b2d9c4595b",
+    "a6b0c693a7ba"
+   ],
+   "concepts": [
+    "ai-business-models",
+    "compute-buildout"
+   ],
+   "intro": "$30B at $1.4T, a $42B loss in an IPO filing, AMD's $8.2B all-stock buy of World Labs, SoftBank's junk bonds, and Bain's $6T question."
+  },
+  {
+   "title": "GLM-5.3 crosses the cyber threshold",
+   "stories": [
+    "2415274ff349",
+    "a7c715dfa034",
+    "e8e247ab7030"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    "external-evaluation"
+   ],
+   "intro": "Autonomous exploit-building reaches a second lab, this time without the safeguards, per Anthropic's Frontier Red Team."
+  }
+ ]
+}

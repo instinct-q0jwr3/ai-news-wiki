@@ -10,7 +10,13 @@ Methods used by third parties, standards groups and labs to measure model capabi
 
 ## In the briefings
 
+- [Safety's outside observers](../daily/2026-09-19.md#safety-s-outside-observers) — 2026-09-19
+- [Enigma falls, and other capability notes](../daily/2026-09-22.md#enigma-falls-and-other-capability-notes) — 2026-09-22
 - [How worried should anyone be?](../daily/2026-09-26.md#how-worried-should-anyone-be) — 2026-09-26
+- [Benchmarks, harnesses and small hardware](../daily/2026-09-29.md#benchmarks-harnesses-and-small-hardware) — 2026-09-29
+- [GLM-5.3 and proliferating cyber capability](../daily/2026-09-30.md#glm-5-3-and-proliferating-cyber-capability) — 2026-09-30
+- [Sonnet 5.5 resets the mid-tier](../weekly/2026-W40.md#sonnet-5-5-resets-the-mid-tier) — Week 2026-W40
+- [GLM-5.3 crosses the cyber threshold](../weekly/2026-W40.md#glm-5-3-crosses-the-cyber-threshold) — Week 2026-W40
 
 ## Related entities
 

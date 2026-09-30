@@ -10,7 +10,11 @@ Claims and evidence about AI's effect on employment: layoffs attributed to AI, t
 
 ## In the briefings
 
-_Not yet referenced by any briefing section._
+- [The labor and ownership fight](../daily/2026-09-19.md#the-labor-and-ownership-fight) — 2026-09-19
+- [Society absorbs the shock](../daily/2026-09-20.md#society-absorbs-the-shock) — 2026-09-20
+- [Money and meritocracy doubts](../daily/2026-09-21.md#money-and-meritocracy-doubts) — 2026-09-21
+- [Society edges](../daily/2026-09-25.md#society-edges) — 2026-09-25
+- [Policy catches up unevenly](../daily/2026-09-28.md#policy-catches-up-unevenly) — 2026-09-28
 
 ## Related entities
 

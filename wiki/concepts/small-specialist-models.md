@@ -10,6 +10,12 @@ Narrow or compact models trade breadth for lower cost, latency, privacy or local
 
 ## In the briefings
 
+- [Small models, big claims](../daily/2026-09-20.md#small-models-big-claims) — 2026-09-20
+- [Weekend hardware and oddities](../daily/2026-09-21.md#weekend-hardware-and-oddities) — 2026-09-21
+- [Open models and their economics](../daily/2026-09-22.md#open-models-and-their-economics) — 2026-09-22
+- [Speed and hardware](../daily/2026-09-24.md#speed-and-hardware) — 2026-09-24
+- [Weekend model tinkering](../daily/2026-09-27.md#weekend-model-tinkering) — 2026-09-27
+- [Benchmarks, harnesses and small hardware](../daily/2026-09-29.md#benchmarks-harnesses-and-small-hardware) — 2026-09-29
 - [Small models, big claims](../weekly/2026-W38.md#small-models-big-claims) — Week 2026-W38
 
 ## Related entities

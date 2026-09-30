@@ -50,24 +50,6 @@
    "url": "https://isopenweightaibannedyet.com"
   },
   {
-   "id": "93a590deaf4e",
-   "title": "President Trump signs an executive order requiring federal government agencies to refer to AI as \"Super Intelligence\" or \"SI\" in all official communications",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand"
-  },
-  {
-   "id": "794fe57bafb6",
-   "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together",
-   "source": "Techmeme",
-   "url": "https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/"
-  },
-  {
-   "id": "923bca19cd1c",
-   "title": "A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/"
-  },
-  {
    "id": "fe9056ddb087",
    "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment",
    "source": "Techmeme",
@@ -78,6 +60,42 @@
    "title": "Mark Zuckerberg says the voluntary \"accord\" on AI standards that tech executives agreed to includes internal risk reviews and external auditors",
    "source": "Techmeme",
    "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg"
+  },
+  {
+   "id": "e3fa408e8aa6",
+   "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share"
+  },
+  {
+   "id": "794fe57bafb6",
+   "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together",
+   "source": "Techmeme",
+   "url": "https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/"
+  },
+  {
+   "id": "e8e247ab7030",
+   "title": "Quoting Anthropic Frontier Red Team",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
+  },
+  {
+   "id": "93a590deaf4e",
+   "title": "President Trump signs an executive order requiring federal government agencies to refer to AI as \"Super Intelligence\" or \"SI\" in all official communications",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand"
+  },
+  {
+   "id": "2da7fb3f000d",
+   "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share"
+  },
+  {
+   "id": "0d7693b54017",
+   "title": "BREAKING: OpenAI was warned, months before the Hugging Face incident",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months"
   },
   {
    "id": "68d1b506dd06",
@@ -92,6 +110,12 @@
    "url": "https://www.reuters.com/world/anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-2026-09-29/"
   },
   {
+   "id": "923bca19cd1c",
+   "title": "A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/"
+  },
+  {
    "id": "c968463efde7",
    "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\"",
    "source": "Techmeme",
@@ -102,30 +126,6 @@
    "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API",
    "source": "Techmeme",
    "url": "https://www.baseten.co/blog/baseten-openai-partnership/"
-  },
-  {
-   "id": "e3fa408e8aa6",
-   "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share"
-  },
-  {
-   "id": "e8e247ab7030",
-   "title": "Quoting Anthropic Frontier Red Team",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
-  },
-  {
-   "id": "0d7693b54017",
-   "title": "BREAKING: OpenAI was warned, months before the Hugging Face incident",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months"
-  },
-  {
-   "id": "2da7fb3f000d",
-   "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share"
   }
  ]
 }

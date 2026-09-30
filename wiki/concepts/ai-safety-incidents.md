@@ -10,9 +10,21 @@ A connected record of reported failures, attacks and control proposals. A report
 
 ## In the briefings
 
+- [Safety's outside observers](../daily/2026-09-19.md#safety-s-outside-observers) — 2026-09-19
+- [Security weekend](../daily/2026-09-20.md#security-weekend) — 2026-09-20
+- [The Iran school strike reckoning](../daily/2026-09-22.md#the-iran-school-strike-reckoning) — 2026-09-22
+- [Agents cross the line in Australia](../daily/2026-09-24.md#agents-cross-the-line-in-australia) — 2026-09-24
 - [The Hugging Face hack, reconstructed](../daily/2026-09-26.md#the-hugging-face-hack-reconstructed) — 2026-09-26
+- [OpenAI under the microscope](../daily/2026-09-27.md#openai-under-the-microscope) — 2026-09-27
+- [Investigate the labs?](../daily/2026-09-28.md#investigate-the-labs) — 2026-09-28
+- [A bad day for agent trust](../daily/2026-09-29.md#a-bad-day-for-agent-trust) — 2026-09-29
+- [OpenAI pulls a launch over safety](../daily/2026-09-29.md#openai-pulls-a-launch-over-safety) — 2026-09-29
+- [GLM-5.3 and proliferating cyber capability](../daily/2026-09-30.md#glm-5-3-and-proliferating-cyber-capability) — 2026-09-30
+- [OpenAI's ignored warnings](../daily/2026-09-30.md#openai-s-ignored-warnings) — 2026-09-30
 - [Security reality checks](../weekly/2026-W38.md#security-reality-checks) — Week 2026-W38
 - [Agents act on the world, and the world pushes back](../weekly/2026-W39.md#agents-act-on-the-world-and-the-world-pushes-back) — Week 2026-W39
+- [A bad week for agent trust](../weekly/2026-W40.md#a-bad-week-for-agent-trust) — Week 2026-W40
+- [GLM-5.3 crosses the cyber threshold](../weekly/2026-W40.md#glm-5-3-crosses-the-cyber-threshold) — Week 2026-W40
 
 ## Related entities
 

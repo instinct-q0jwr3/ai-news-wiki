@@ -10,6 +10,7 @@ Frontier labs keep cutting token prices while launching ever pricier top tiers. 
 
 ## In the briefings
 
+- [Opus 5.5 versus GPT-6: the same-day shootout](../daily/2026-09-22.md#opus-5-5-versus-gpt-6-the-same-day-shootout) — 2026-09-22
 - [The price war meets the money question](../daily/2026-09-26.md#the-price-war-meets-the-money-question) — 2026-09-26
 - [The business of AI, repriced](../weekly/2026-W39.md#the-business-of-ai-repriced) — Week 2026-W39
 

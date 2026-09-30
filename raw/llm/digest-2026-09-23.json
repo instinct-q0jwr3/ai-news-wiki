@@ -1,10 +1,92 @@
 {
-  "id": "digest-2026-09-23",
-  "date": "2026-09-23",
-  "schema": 2,
-  "model": "agent-pass",
-  "lead": [
-    "Wednesday evening belonged to the labs and the diplomats: [Sam Altman and Dario Amodei are set to address the UN Security Council](../summaries/6e036c5b4b74.md) on AI, hours after [OpenAI said it will give its Daybreak cyber-defense system and GPT 5.6 Sol to Ukraine](../summaries/30bb23e1b34d.md) for free. Anthropic said [Claude autonomously discovered a novel CRISPR-like enzyme system](../summaries/246da2e2481d.md) as it stands up a life-sciences lab, and Google answered with [Gemini 3.8 Flash TTS models](../summaries/13123bf3c886.md) that direct custom voices from scratch. The agent wave kept rolling into products: [YouTube's Custom Feeds](../summaries/032f46ace773.md) steer the homepage with natural language, [Amazon opened its seller tools to Claude and its own Quick assistant](../summaries/9532e3c0f713.md), and [Rabbit launched OS3](../summaries/4c7cb941cc78.md), an agentic OS for every screen. Funding followed, with [Basecamp Research raising $140M](../summaries/5bdf05959460.md) joined by Anthropic's own fund and [Ema taking $77M](../summaries/dfb5bccbad7d.md) for enterprise 'AI employees'."
-  ],
-  "authored_at": "2026-09-23T19:17:31.589078+00:00"
+ "id": "digest-2026-09-23",
+ "date": "2026-09-23",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Tuesday belonged to science and its discontents: [Claude discovered a novel enzyme system with CRISPR-like repeats](../summaries/246da2e2481d.md) - the strongest AI-for-discovery result yet - while [Jev in 25 lines of Python](../summaries/c1f415621917.md) charmed the builders and [Claude Code's AGENTS.md-telemetry bug got fixed](../summaries/03ed461abfa9.md). [Gemini 3.8 text-to-speech](../summaries/13123bf3c886.md) shipped, and the business wire produced an unusually dense funding day."
+ ],
+ "sections": [
+  {
+   "title": "Claude finds a novel enzyme system",
+   "stories": [
+    "246da2e2481d"
+   ],
+   "concepts": [
+    "ai-for-discovery"
+   ],
+   "intro": "A CRISPR-repeats discovery that put AI-for-science at the top of HN - the day's defining story."
+  },
+  {
+   "title": "Builder culture: Jev in 25 lines",
+   "stories": [
+    "c1f415621917",
+    "03ed461abfa9",
+    "ee6ebd402552",
+    "6afe326c3e24"
+   ],
+   "concepts": [
+    "ai-coding-agents",
+    "agentic-systems"
+   ],
+   "intro": "A tiny typed-decision-model demo, the AGENTS.md telemetry bug and its fix, and fatigue with 'Claudisms'."
+  },
+  {
+   "title": "Voice and interface releases",
+   "stories": [
+    "13123bf3c886",
+    "4c7cb941cc78",
+    "4d1ed990a381",
+    "df9af3c6bee6"
+   ],
+   "concepts": [
+    "consumer-ai-assistants",
+    "agentic-systems"
+   ],
+   "intro": "Gemini 3.8 TTS, Rabbit's OS3 cloud agent reaching local apps, Stripe's knowledge platform, and an AI video studio."
+  },
+  {
+   "title": "The funding cascade",
+   "stories": [
+    "4eaf196b01fe",
+    "f29ad7754038",
+    "aed66f1ed130",
+    "dfb5bccbad7d",
+    "c461e67eee9b"
+   ],
+   "concepts": [
+    "ai-business-models"
+   ],
+   "intro": "Cyera's $400M, Micro1 at $4B, Firecrawl's $75M, Ema's raise - an unusually dense day of AI financing."
+  },
+  {
+   "title": "Geopolitics and governance",
+   "stories": [
+    "8544a5fef648",
+    "fe927ad0a185",
+    "8b1c60ac1e2c",
+    "30bb23e1b34d",
+    "837be35e1b3b"
+   ],
+   "concepts": [
+    "ai-policy-regulation"
+   ],
+   "intro": "Anthropic disrupting a Beijing-aligned operation, China passing the US for elite AI talent, an 'Office of AI Supervision' proposal, a Dutch chip challenge, and Daybreak for Ukraine."
+  },
+  {
+   "title": "How we talk about AI",
+   "stories": [
+    "e2162bcb8746",
+    "e58c2f99e9b5",
+    "4d831221d2c2",
+    "6f154f0d0568",
+    "31fcd82d35b0"
+   ],
+   "concepts": [
+    "ai-risk-debate",
+    "ai-and-creative-labor"
+   ],
+   "intro": "Staff mental toll, AI as boring technology, an influencer army, avoiding anthropomorphization, and a condemned mural."
+  }
+ ]
 }

@@ -10,7 +10,14 @@ The race for compute links chip supply, energy, financing and geopolitics. This 
 
 ## In the briefings
 
-_Not yet referenced by any briefing section._
+- [Money and meritocracy doubts](../daily/2026-09-21.md#money-and-meritocracy-doubts) — 2026-09-21
+- [Speed and hardware](../daily/2026-09-24.md#speed-and-hardware) — 2026-09-24
+- [The state and the models](../daily/2026-09-25.md#the-state-and-the-models) — 2026-09-25
+- [Niche science and strange side-effects](../daily/2026-09-25.md#niche-science-and-strange-side-effects) — 2026-09-25
+- [Business and infrastructure notes](../daily/2026-09-27.md#business-and-infrastructure-notes) — 2026-09-27
+- [The money: AMD-World Labs, Anthropic's IPO, OpenAI's next raise](../daily/2026-09-29.md#the-money-amd-world-labs-anthropic-s-ipo-openai-s-next-raise) — 2026-09-29
+- [The arithmetic of the boom](../daily/2026-09-30.md#the-arithmetic-of-the-boom) — 2026-09-30
+- [The money gets bigger and stranger](../weekly/2026-W40.md#the-money-gets-bigger-and-stranger) — Week 2026-W40
 
 ## Related entities
 

@@ -10,7 +10,9 @@ AI agents that browse, decide and buy on a user's behalf force a negotiation bet
 
 ## In the briefings
 
-_Not yet referenced by any briefing section._
+- [Persuasion and perception](../daily/2026-09-20.md#persuasion-and-perception) — 2026-09-20
+- [Agents meet the marketplace](../daily/2026-09-21.md#agents-meet-the-marketplace) — 2026-09-21
+- [AI decides what you pay - and how your home scores](../daily/2026-09-30.md#ai-decides-what-you-pay-and-how-your-home-scores) — 2026-09-30
 
 ## Related entities
 

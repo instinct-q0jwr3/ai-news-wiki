@@ -10,6 +10,15 @@ Coding agents are reshaping how software is written, reviewed and shipped. This 
 
 ## In the briefings
 
+- [Agents get standards and watchmen](../daily/2026-09-19.md#agents-get-standards-and-watchmen) — 2026-09-19
+- [The tooling keeps compounding](../daily/2026-09-20.md#the-tooling-keeps-compounding) — 2026-09-20
+- [The case against careless AI coding](../daily/2026-09-21.md#the-case-against-careless-ai-coding) — 2026-09-21
+- [Builder culture: Jev in 25 lines](../daily/2026-09-23.md#builder-culture-jev-in-25-lines) — 2026-09-23
+- [How agents get built now](../daily/2026-09-24.md#how-agents-get-built-now) — 2026-09-24
+- [Agent tooling matures](../daily/2026-09-25.md#agent-tooling-matures) — 2026-09-25
+- [The craft of working with models](../daily/2026-09-28.md#the-craft-of-working-with-models) — 2026-09-28
+- [Weekend builds](../daily/2026-09-28.md#weekend-builds) — 2026-09-28
+- [Tools of the day](../daily/2026-09-30.md#tools-of-the-day) — 2026-09-30
 - [Builders adapt to agentic coding](../weekly/2026-W39.md#builders-adapt-to-agentic-coding) — Week 2026-W39
 
 ## Related entities

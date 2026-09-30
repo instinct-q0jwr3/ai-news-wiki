@@ -1,0 +1,91 @@
+{
+ "id": "digest-2026-09-30",
+ "date": "2026-09-30",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Tuesday's center of gravity was Washington: [Trump released a voluntary AI accord with tech leaders](../summaries/fe9056ddb087.md), calling it ['morally binding'](../summaries/68d1b506dd06.md) while [rejecting new federal rules](../summaries/c968463efde7.md) and [ordering agencies to say 'Super Intelligence'](../summaries/93a590deaf4e.md). [Anthropic warned that GLM-5.3 spreads autonomous cyber-exploit capability without safeguards](../summaries/2415274ff349.md), [Bain put a $6T revenue question under the data-center boom](../summaries/a6b0c693a7ba.md), and [Reuters revealed McDonald's AI-driven pricing engine](../summaries/c777d97378c8.md)."
+ ],
+ "sections": [
+  {
+   "title": "Trump's voluntary accord",
+   "stories": [
+    "fe9056ddb087",
+    "68d1b506dd06",
+    "6260de221b34",
+    "c968463efde7",
+    "93a590deaf4e"
+   ],
+   "concepts": [
+    "ai-policy-regulation"
+   ],
+   "intro": "External auditors and internal alignment controls, promised voluntarily: the White House accord, the 'Super Intelligence' executive order, and Trump's case against new federal rules."
+  },
+  {
+   "title": "GLM-5.3 and proliferating cyber capability",
+   "stories": [
+    "2415274ff349",
+    "a7c715dfa034",
+    "e8e247ab7030"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    "external-evaluation"
+   ],
+   "intro": "Anthropic's Frontier Red Team says autonomous exploit-building is no longer a one-lab capability - and that GLM-5.3 shipped without meaningful safeguards."
+  },
+  {
+   "title": "The arithmetic of the boom",
+   "stories": [
+    "a6b0c693a7ba",
+    "e3fa408e8aa6",
+    "7677ad6f1954"
+   ],
+   "concepts": [
+    "compute-buildout",
+    "ai-business-models"
+   ],
+   "intro": "Bain's $6T revenue requirement, a discounted AI-infrastructure IPO, and what Anthropic's filing reveals about routing half its sales through Amazon and Google."
+  },
+  {
+   "title": "AI decides what you pay - and how your home scores",
+   "stories": [
+    "c777d97378c8",
+    "b8bf4be3c52d",
+    "59b00aadc6b1"
+   ],
+   "concepts": [
+    "agentic-commerce",
+    "ai-policy-regulation"
+   ],
+   "intro": "McDonald's per-store 'optimal price' engine and Dallas's trash-truck 'blight scores': algorithmic judgment applied to wallets and neighborhoods."
+  },
+  {
+   "title": "OpenAI's ignored warnings",
+   "stories": [
+    "0d7693b54017",
+    "923bca19cd1c"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    "ai-policy-regulation"
+   ],
+   "intro": "The NYT reports OpenAI staff raised security alarms months before the Hugging Face incident; meanwhile the Thomson Reuters ruling against Ross Intelligence stands."
+  },
+  {
+   "title": "Tools of the day",
+   "stories": [
+    "ebf4a974fed7",
+    "15145046c15f",
+    "794fe57bafb6",
+    "eae9f1ca3368",
+    "2da7fb3f000d"
+   ],
+   "concepts": [
+    "ai-coding-agents",
+    "agentic-systems"
+   ],
+   "intro": "A 22KiB transformer trained in 13 seconds, a compiler harness for GPU agents, Amazon's ad-buying agent, Baseten inside Codex, and Christopher Olah on Claude and consciousness."
+  }
+ ]
+}

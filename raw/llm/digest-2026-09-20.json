@@ -1,9 +1,83 @@
 {
  "id": "digest-2026-09-20",
- "lead": [
-  "Saturday's heavyweight was [CNN's report that the US military nearly intercepted a Chinese ship](../summaries/d9044257d7d1.md) after an AI-assisted intelligence report falsely said the vessel carried nuclear-weapons components. Security ran through the day: [Hacktron chained two vulnerabilities into OpenAI's community forum and identity infrastructure](../summaries/4f60b8959b83.md), and [OpenAI introduced Astra for Law](../summaries/61203371aa12.md). On the model front, [Cactus Needle 3 packed automation models into 8-29MB binaries](../summaries/307dafbc9d60.md), [Artificial Analysis benchmarked StepFun's Step 5 Preview](../summaries/07a310a36693.md) among the leaders, and [NASA and IBM released an open Lunar Foundation Model](../summaries/fccd3a002555.md)."
- ],
- "authored_at": "2026-09-23T08:30:25.231795+00:00",
+ "date": "2026-09-20",
+ "schema": 3,
  "model": "agent-pass",
- "schema": 2
+ "lead": [
+  "Saturday's practical headline was small but real: [Claude Code now reads AGENTS.md when there is no CLAUDE.md](../summaries/7471c7d5ef4e.md). Around it, a security cluster - [a heap overflow and SSO misconfiguration compromising OpenAI internal repos](../summaries/4f60b8959b83.md) and [a US military close call over a hallucinated intelligence report](../summaries/d9044257d7d1.md) - plus a burst of small-model releases: [Qwen-Image-2.1](../summaries/168311a32c68.md), [Cactus Needle 3's 8-29MB automation models](../summaries/307dafbc9d60.md) and [Alibaba's cancer-detecting open model](../summaries/9f8b7cbac08b.md)."
+ ],
+ "sections": [
+  {
+   "title": "Small models, big claims",
+   "stories": [
+    "168311a32c68",
+    "307dafbc9d60",
+    "9f8b7cbac08b",
+    "07a310a36693"
+   ],
+   "concepts": [
+    "small-specialist-models",
+    "frontier-model-launches"
+   ],
+   "intro": "Compact image generation, megabyte-scale automation models matching much larger systems, and an open model screening for ~150 conditions."
+  },
+  {
+   "title": "Security weekend",
+   "stories": [
+    "4f60b8959b83",
+    "d9044257d7d1",
+    "661265968ece",
+    "2381cac469f6",
+    "d1f43a311766"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    "supply-chain-security"
+   ],
+   "intro": "Compromised internal repos, a hallucinated intelligence report nearly used by the military, a re-reading of the Hugging Face hack, and 'Pirate Face' rescuing deleted models."
+  },
+  {
+   "title": "Persuasion and perception",
+   "stories": [
+    "23d9ffc053d5",
+    "33d5e78d8242",
+    "a3be206af138",
+    "192a8e285617"
+   ],
+   "concepts": [
+    "ai-persuasion",
+    "agentic-commerce"
+   ],
+   "intro": "Chatbots that change minds, a test of whether you can spot AI images, the destruction of Creative Commons, and DraftKings targeting the gamblers likeliest to lose."
+  },
+  {
+   "title": "The tooling keeps compounding",
+   "stories": [
+    "7471c7d5ef4e",
+    "56af24d3aa19",
+    "271d0703617a",
+    "885025e27aa7",
+    "120d768e7457"
+   ],
+   "concepts": [
+    "ai-coding-agents",
+    "agentic-systems"
+   ],
+   "intro": "AGENTS.md support, a chief-of-staff pattern for orchestrating agents, Microsoft porting Copilot's runtime to Rust agentically for $120K, and weekend builds in Zig and search."
+  },
+  {
+   "title": "Society absorbs the shock",
+   "stories": [
+    "a1f207e7aefb",
+    "9713626aa1b9",
+    "3d2dfa680256",
+    "68538d387150"
+   ],
+   "concepts": [
+    "labor-displacement",
+    "ai-risk-debate"
+   ],
+   "intro": "AI in schools, interviewing devs post-AI, an antitrust suit over an alleged slowdown pact, and the web's 'doom loop'."
+  }
+ ]
 }

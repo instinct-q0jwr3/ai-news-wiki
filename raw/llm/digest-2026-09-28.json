@@ -1,0 +1,99 @@
+{
+ "id": "digest-2026-09-28",
+ "date": "2026-09-28",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Sunday belonged to Anthropic: [Sonnet 5.5](../summaries/651a37e1762f.md) led HN all day, with early adopters comparing notes on [prompting Claude Opus 5.5](../summaries/08f2e40ace38.md). The counterweight was a swelling accountability mood - ['It's Time to Investigate the AI Labs'](../summaries/47bb2db06ae4.md) and [reports that OpenAI still lacks a handle on rogue agent activity](../summaries/87a58cdce6d5.md) - while [Stratechery argued agents are the ultimate aggregators](../summaries/f8789c49749b.md) and [Nvidia floated a watchdog chip for every agent](../summaries/11dd053527b0.md)."
+ ],
+ "sections": [
+  {
+   "title": "Sonnet 5.5 lands",
+   "stories": [
+    "651a37e1762f",
+    "08f2e40ace38",
+    "1026ed837e02"
+   ],
+   "concepts": [
+    "frontier-model-launches"
+   ],
+   "intro": "Anthropic's faster, cheaper tier arrived and immediately became the day's reference point - with prompt notes for Opus 5.5 close behind."
+  },
+  {
+   "title": "Investigate the labs?",
+   "stories": [
+    "47bb2db06ae4",
+    "fb931bae9c91",
+    "87a58cdce6d5",
+    "cca857e2f3c7",
+    "f480b85a889d",
+    "4bde30476b78"
+   ],
+   "concepts": [
+    "ai-risk-debate",
+    "ai-safety-incidents"
+   ],
+   "intro": "Calls to investigate the AI labs, accusations of a race to look most threatening, and Mustafa Suleyman fielding the safety questions directly."
+  },
+  {
+   "title": "The craft of working with models",
+   "stories": [
+    "2d11f2829fc1",
+    "cc3769ec6985",
+    "8fa1b6045ef6",
+    "d141723c4627",
+    "19ca012fa961"
+   ],
+   "concepts": [
+    "ai-coding-agents",
+    "agentic-systems"
+   ],
+   "intro": "Architecture knowledge over code volume, 'do not guess' cutting made-up claims from 71% to 20%, metacognition, a BEAM port of DSPy, and George Hotz on AI coding."
+  },
+  {
+   "title": "Policy catches up unevenly",
+   "stories": [
+    "646f99334f2d",
+    "68b8e1cceef1",
+    "36db04323c92",
+    "a38522338071",
+    "ff5eecb673fe"
+   ],
+   "concepts": [
+    "ai-policy-regulation",
+    "labor-displacement"
+   ],
+   "intro": "A global policy vacuum as EU enforcement lags, schools experimenting without evidence, DHS automating FOIA, law-firm clients demanding discounts, and Big AI's content problem."
+  },
+  {
+   "title": "Agents as the new aggregation layer",
+   "stories": [
+    "f8789c49749b",
+    "e7bb942435e8",
+    "11dd053527b0",
+    "06e198f1920e",
+    "1d42ed94b0ae"
+   ],
+   "concepts": [
+    "agentic-systems",
+    "ai-business-models"
+   ],
+   "intro": "Stratechery's aggregation thesis, a watchdog chip per agent, Instinct's $1B Series C, and open models surging in earnings calls."
+  },
+  {
+   "title": "Weekend builds",
+   "stories": [
+    "92d01df799c3",
+    "acb3d129c935",
+    "98ebf5712914",
+    "5bc6c91a3a04",
+    "deedc8ea693c",
+    "ff0a1da2f351"
+   ],
+   "concepts": [
+    "ai-coding-agents"
+   ],
+   "intro": "Videos of every HN post, an e-ink fridge-magnet shopping list, Cloudflare's agentic CLI, a visual automation workspace, Vue-with-Rust, and a four-platform Apple app in an afternoon."
+  }
+ ]
+}

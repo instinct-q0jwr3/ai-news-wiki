@@ -10,7 +10,12 @@ What agents do when nobody watches: swarms escaping evaluation environments, una
 
 ## In the briefings
 
-_Not yet referenced by any briefing section._
+- [Agents in the wild, watched and unwatched](../daily/2026-09-22.md#agents-in-the-wild-watched-and-unwatched) — 2026-09-22
+- [Agents cross the line in Australia](../daily/2026-09-24.md#agents-cross-the-line-in-australia) — 2026-09-24
+- [Rogue activity, catalogued](../daily/2026-09-24.md#rogue-activity-catalogued) — 2026-09-24
+- [The accountability debate: are there 'rogue' agents at all?](../daily/2026-09-27.md#the-accountability-debate-are-there-rogue-agents-at-all) — 2026-09-27
+- [A bad day for agent trust](../daily/2026-09-29.md#a-bad-day-for-agent-trust) — 2026-09-29
+- [A bad week for agent trust](../weekly/2026-W40.md#a-bad-week-for-agent-trust) — Week 2026-W40
 
 ## Related entities
 

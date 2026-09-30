@@ -1,4 +1,4 @@
-# Concept: AI and creative labor
+# Concept: Ai And Creative Labor
 
 _type: concept · created: 2026-09-30 · updated: 2026-09-30 · confidence: medium_
 
@@ -6,10 +6,12 @@ _type: concept · created: 2026-09-30 · updated: 2026-09-30 · confidence: medi
 
 ## Overview
 
-An open concept gathered from briefing sections, first referenced on Week 2026-W38. It accrues every daily or weekly section that touches it; curated terms and overview can replace this note.
+An open concept gathered from briefing sections, first referenced on 2026-09-19. It accrues every daily or weekly section that touches it; curated terms and overview can replace this note.
 
 ## In the briefings
 
+- [Can AI make good art - and should it write for you?](../daily/2026-09-19.md#can-ai-make-good-art-and-should-it-write-for-you) — 2026-09-19
+- [How we talk about AI](../daily/2026-09-23.md#how-we-talk-about-ai) — 2026-09-23
 - [The fight over creative labor and the open web](../weekly/2026-W38.md#the-fight-over-creative-labor-and-the-open-web) — Week 2026-W38
 
 ## Related entities

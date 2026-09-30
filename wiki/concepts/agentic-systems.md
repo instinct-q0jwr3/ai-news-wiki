@@ -10,9 +10,24 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## In the briefings
 
+- [Agents get standards and watchmen](../daily/2026-09-19.md#agents-get-standards-and-watchmen) — 2026-09-19
+- [The tooling keeps compounding](../daily/2026-09-20.md#the-tooling-keeps-compounding) — 2026-09-20
+- [Release Sunday: Qwen, Grok and Google's orchestrator](../daily/2026-09-21.md#release-sunday-qwen-grok-and-google-s-orchestrator) — 2026-09-21
+- [Agents meet the marketplace](../daily/2026-09-21.md#agents-meet-the-marketplace) — 2026-09-21
+- [Agents in the wild, watched and unwatched](../daily/2026-09-22.md#agents-in-the-wild-watched-and-unwatched) — 2026-09-22
+- [Builder culture: Jev in 25 lines](../daily/2026-09-23.md#builder-culture-jev-in-25-lines) — 2026-09-23
+- [Voice and interface releases](../daily/2026-09-23.md#voice-and-interface-releases) — 2026-09-23
+- [How agents get built now](../daily/2026-09-24.md#how-agents-get-built-now) — 2026-09-24
+- [Agent tooling matures](../daily/2026-09-25.md#agent-tooling-matures) — 2026-09-25
 - [Learning to work with agents](../daily/2026-09-26.md#learning-to-work-with-agents) — 2026-09-26
+- [The accountability debate: are there 'rogue' agents at all?](../daily/2026-09-27.md#the-accountability-debate-are-there-rogue-agents-at-all) — 2026-09-27
+- [The craft of working with models](../daily/2026-09-28.md#the-craft-of-working-with-models) — 2026-09-28
+- [Agents as the new aggregation layer](../daily/2026-09-28.md#agents-as-the-new-aggregation-layer) — 2026-09-28
+- [DevDay: always-on agents and a $500 tier](../daily/2026-09-29.md#devday-always-on-agents-and-a-500-tier) — 2026-09-29
+- [Tools of the day](../daily/2026-09-30.md#tools-of-the-day) — 2026-09-30
 - [Agents got manners and methods](../weekly/2026-W38.md#agents-got-manners-and-methods) — Week 2026-W38
 - [Agents act on the world, and the world pushes back](../weekly/2026-W39.md#agents-act-on-the-world-and-the-world-pushes-back) — Week 2026-W39
+- [DevDay: OpenAI's agents stay on](../weekly/2026-W40.md#devday-openai-s-agents-stay-on) — Week 2026-W40
 
 ## Related entities
 

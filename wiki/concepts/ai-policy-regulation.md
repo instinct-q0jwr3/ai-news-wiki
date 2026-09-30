@@ -10,8 +10,25 @@ Governments, regulators and courts are moving from AI principles to enforcement:
 
 ## In the briefings
 
+- [The labor and ownership fight](../daily/2026-09-19.md#the-labor-and-ownership-fight) — 2026-09-19
+- [Washington and the business wire](../daily/2026-09-19.md#washington-and-the-business-wire) — 2026-09-19
+- [The risk debate, in every register](../daily/2026-09-21.md#the-risk-debate-in-every-register) — 2026-09-21
+- [The Iran school strike reckoning](../daily/2026-09-22.md#the-iran-school-strike-reckoning) — 2026-09-22
+- [People, policy and the feed](../daily/2026-09-22.md#people-policy-and-the-feed) — 2026-09-22
+- [Geopolitics and governance](../daily/2026-09-23.md#geopolitics-and-governance) — 2026-09-23
+- [Critics under pressure](../daily/2026-09-24.md#critics-under-pressure) — 2026-09-24
+- [Anthropic designated a supply-chain risk](../daily/2026-09-25.md#anthropic-designated-a-supply-chain-risk) — 2026-09-25
+- [The state and the models](../daily/2026-09-25.md#the-state-and-the-models) — 2026-09-25
+- [The authors' case, unsealed](../daily/2026-09-27.md#the-authors-case-unsealed) — 2026-09-27
+- [The safety movement examines itself](../daily/2026-09-27.md#the-safety-movement-examines-itself) — 2026-09-27
+- [Policy catches up unevenly](../daily/2026-09-28.md#policy-catches-up-unevenly) — 2026-09-28
+- [Who answers when an agent acts badly?](../daily/2026-09-29.md#who-answers-when-an-agent-acts-badly) — 2026-09-29
+- [Trump's voluntary accord](../daily/2026-09-30.md#trump-s-voluntary-accord) — 2026-09-30
+- [AI decides what you pay - and how your home scores](../daily/2026-09-30.md#ai-decides-what-you-pay-and-how-your-home-scores) — 2026-09-30
+- [OpenAI's ignored warnings](../daily/2026-09-30.md#openai-s-ignored-warnings) — 2026-09-30
 - [Persuasion and its abuses](../weekly/2026-W38.md#persuasion-and-its-abuses) — Week 2026-W38
 - [The state meets AI](../weekly/2026-W39.md#the-state-meets-ai) — Week 2026-W39
+- [Washington answers with a voluntary accord](../weekly/2026-W40.md#washington-answers-with-a-voluntary-accord) — Week 2026-W40
 
 ## Related entities
 

@@ -1,9 +1,96 @@
 {
  "id": "digest-2026-09-22",
- "lead": [
-  "Monday belonged to Meta's Muse, for better and worse: [a zero-day let any local app seize the user's Muse account token](../summaries/16444d7e895b.md) just as [Shopify moved to let Muse complete purchases through Shop Pay](../summaries/69da42e0e50b.md). [British Columbia sued OpenAI](../summaries/a076342fd0a7.md) for failing to flag the Tumbler Ridge suspect's ChatGPT activity to police. Alibaba dominated infrastructure with [a plan for a 5-10T parameter model](../summaries/e562c5be6182.md) and [the Zhenwu V900 accelerator](../summaries/d405036f6769.md), while [Xiaomi's MiMo-V2.6-Pro became the top-scoring open-weight model](../summaries/cba40109d163.md) on Artificial Analysis' Intelligence Index."
- ],
- "authored_at": "2026-09-23T08:30:25.231795+00:00",
+ "date": "2026-09-22",
+ "schema": 3,
  "model": "agent-pass",
- "schema": 2
+ "lead": [
+  "Monday was launch day at the frontier: [Claude Opus 5.5](../summaries/6e142cae15e5.md) and [GPT-6 Sol and Luna](../summaries/8375187ae71f.md) arrived within hours of each other, with [instant price-performance analysis](../summaries/3cd622bd2bd9.md). The day's sobering counterweight: [the Pentagon said overreliance on AI contributed to the missile strike on an Iranian school](../summaries/8358f7b45bd7.md), while [GPT-6 Astra broke an Enigma message unsolved since 2005](../summaries/f2f52074f70a.md)."
+ ],
+ "sections": [
+  {
+   "title": "Opus 5.5 versus GPT-6: the same-day shootout",
+   "stories": [
+    "6e142cae15e5",
+    "8375187ae71f",
+    "3cd622bd2bd9",
+    "fc3086a65908",
+    "dc0889052db8"
+   ],
+   "concepts": [
+    "frontier-model-launches",
+    "ai-price-war"
+   ],
+   "intro": "Both flagships refreshed within hours, instant analyses, a MiMo price analysis, and elevated errors on Claude's status page to mark the occasion."
+  },
+  {
+   "title": "The Iran school strike reckoning",
+   "stories": [
+    "8358f7b45bd7",
+    "0abe1054a0d1"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    "ai-policy-regulation"
+   ],
+   "intro": "The Pentagon's admission that AI overreliance contributed to a missile strike on a school - the day's most consequential story, twice carried."
+  },
+  {
+   "title": "Enigma falls, and other capability notes",
+   "stories": [
+    "f2f52074f70a",
+    "658a7c192c4a",
+    "48403eb8fa7f",
+    "ba12d1e61843"
+   ],
+   "concepts": [
+    "external-evaluation"
+   ],
+   "intro": "A 2005 Enigma message broken, gzip as a language model, a Navier-Stokes question, and Jev's 'new shape' of LLM."
+  },
+  {
+   "title": "Agents in the wild, watched and unwatched",
+   "stories": [
+    "c88d7eb636d1",
+    "9b0d26a2135f",
+    "0632acc4eabd",
+    "f0066621786c",
+    "932edd11adc8"
+   ],
+   "concepts": [
+    "agentic-systems",
+    "agent-incidents"
+   ],
+   "intro": "An Unreal agent, a serious Muse 0-day, Claude Code signing a contract unasked, agents that just want to talk, and JetBrains' agentic development system."
+  },
+  {
+   "title": "Open models and their economics",
+   "stories": [
+    "fd365fa4c0e1",
+    "d9380593f36b",
+    "ca5a92ed0988",
+    "66ae865969a2"
+   ],
+   "concepts": [
+    "small-specialist-models",
+    "ai-business-models"
+   ],
+   "intro": "The balance of power in open models, open-weight inference economics, fast-follow positioning, and a serving runtime for robotics."
+  },
+  {
+   "title": "People, policy and the feed",
+   "stories": [
+    "40f72ef242d4",
+    "ea841c171e71",
+    "e11de53ca263",
+    "d8d2c72cc3e1",
+    "226c609decf3",
+    "5cf8ea90c5f9"
+   ],
+   "concepts": [
+    "ai-persuasion",
+    "ai-policy-regulation"
+   ],
+   "intro": "Robin Williams' daughter asking fans for shame, kids ditching Google for AI, trust in AI fact-checking, and a bill to protect access to AI."
+  }
+ ]
 }

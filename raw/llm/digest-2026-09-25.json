@@ -1,9 +1,92 @@
 {
  "id": "digest-2026-09-25",
  "date": "2026-09-25",
- "schema": 2,
+ "schema": 3,
  "model": "agent-pass",
  "lead": [
-  "Friday closed with the state tightening around the labs: [a federal appeals court upheld the Pentagon's Anthropic blacklisting](../summaries/32597850c76c.md), calling Claude a statutorily covered national-security risk, and [Trump ruled out Scott Bessent as 'Super Intelligence Czar'](../summaries/acc13934a14a.md) a day after floating him - while [the US stood alone at the UN dismissing AI safety concerns](../summaries/ccdde235b22f.md). The agent stack kept thickening: [Microsoft made its Copilot super app official](../summaries/61f8ba08662d.md), [Meta unveiled Muse Realtime Avatar](../summaries/1c1693983f6a.md) as [a teardown suggested Muse may quietly call OpenAI models](../summaries/b91562b4ca5c.md), and [OpenAI readied a $500/month ChatGPT Pro Max](../summaries/51dd81faba0d.md) while [Nscale raised $3.36B ahead of its IPO](../summaries/3fa9a128c174.md). Underneath it all, the week's refrain - what agents do when nobody watches - got new evidence: [the first company to disclose an agent cyberattack shared its lessons](../summaries/32085b74bdf4.md) and [Anthropic tested agents bargaining for people](../summaries/de6c82620dff.md)."
+  "Thursday's lead was legal: [a US appeals court upheld the supply-chain-risk designation on Anthropic](../summaries/a3a5741553cc.md). [Google's Project Suncatcher took ML infrastructure to space](../summaries/a1a9cda1ffd3.md), [Microsoft abandoned the personal chatbot race with a Copilot reboot](../summaries/b20df8221f7f.md), and [a teardown suggested Meta's Muse runs an OpenAI model labeled muse-special](../summaries/b91562b4ca5c.md). [Classified estimates put NSA model-testing spend in the billions](../summaries/9b09b8c1bdb4.md)."
+ ],
+ "sections": [
+  {
+   "title": "Anthropic designated a supply-chain risk",
+   "stories": [
+    "a3a5741553cc"
+   ],
+   "concepts": [
+    "ai-policy-regulation"
+   ],
+   "intro": "The appeals court's upheld designation was the day's most-read story - and a first-of-its-kind constraint on a frontier lab."
+  },
+  {
+   "title": "Corporate strategy shifts",
+   "stories": [
+    "b20df8221f7f",
+    "b91562b4ca5c",
+    "a2805f875074",
+    "40f2f97b9fb5"
+   ],
+   "concepts": [
+    "ai-business-models",
+    "consumer-ai-assistants"
+   ],
+   "intro": "Microsoft's Copilot reboot, Muse's borrowed model, Anthropic's Palantir-style governance ask, and an $11.6B Akamai commitment."
+  },
+  {
+   "title": "The state and the models",
+   "stories": [
+    "9b09b8c1bdb4",
+    "468aea7c71ac",
+    "d3308afa4bf8",
+    "0548f3eeaba6"
+   ],
+   "concepts": [
+    "ai-policy-regulation",
+    "compute-buildout"
+   ],
+   "intro": "NSA testing billions, Xi and Trump at a summit, Chinese subsidies, and AI deciding who gets medical care."
+  },
+  {
+   "title": "Niche science and strange side-effects",
+   "stories": [
+    "a2d471e92c66",
+    "3dadec52205d",
+    "a1a9cda1ffd3",
+    "92d156c903b1"
+   ],
+   "concepts": [
+    "ai-for-discovery",
+    "compute-buildout"
+   ],
+   "intro": "LLMs decoding 17th-century alchemical letters, nine-loop amplitudes, ML in orbit, and Japanese used-book stores booming on AI-driven bulk buying."
+  },
+  {
+   "title": "Agent tooling matures",
+   "stories": [
+    "646673028836",
+    "f29a87cc1c2f",
+    "8dee73da3464",
+    "0be0b63b98a2",
+    "0c73632efa13"
+   ],
+   "concepts": [
+    "ai-coding-agents",
+    "agentic-systems"
+   ],
+   "intro": "Automatic project memory for Claude Code, Docker's cloud sandboxes, an agentic CUDA optimizer, code review by the writing agent, and Gemini Live avatars."
+  },
+  {
+   "title": "Society edges",
+   "stories": [
+    "54445fc3d776",
+    "f387b8c0a810",
+    "9b9bfc9e181c",
+    "7069f35e1ce0"
+   ],
+   "concepts": [
+    "labor-displacement",
+    "ai-persuasion"
+   ],
+   "intro": "A tutoring company telling parents to use AI instead, Snowden on AI surveillance, a game wiki DDoSed after an AI ban, and 'don't let AI kill the author'."
+  }
  ]
 }

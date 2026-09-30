@@ -1,9 +1,95 @@
 {
  "id": "digest-2026-09-21",
- "lead": [
-  "Sunday mixed policy and builders: [Politico reconstructed the 85-day collision between the Trump White House and Anthropic](../summaries/da42475dac42.md), while [Jensen Huang argued that AI leaders calling for regulation want relief from existing laws](../summaries/b59a7088b4fa.md), not new ones. [Alibaba's Qwen team open-sourced Qwen-Image-2.1](../summaries/1ba4b92c727b.md), unifying generation and editing in a 7B visual model, and [Mini-AGI showed dynamic continual learning trained on 8GB of VRAM](../summaries/458d8111da3b.md). The labor thread ran deep too: [young people in China launched 7M+ one-person startups in 2025](../summaries/bec13b8d3c1c.md), up ~42%, turning to AI to escape a bleak job market."
- ],
- "authored_at": "2026-09-23T08:30:25.231795+00:00",
+ "date": "2026-09-21",
+ "schema": 3,
  "model": "agent-pass",
- "schema": 2
+ "lead": [
+  "Sunday was a model-release day with an edge: [Qwen Image 2.1](../summaries/1ba4b92c727b.md) and [Grok 4.7](../summaries/e17843d4d54b.md) shared the front page with [Google's AX, an open agentic orchestrator](../summaries/07975f32cf7b.md) and a much-loved [visual explainer of transformers](../summaries/0e47888f345c.md). The week's money doubts surfaced early - [Wall Street grew skeptical of the data-center boom](../summaries/6564dd7e87a6.md) - and [Amazon blocked Meta's Muse agent from shopping on amazon.com](../summaries/41d477801352.md)."
+ ],
+ "sections": [
+  {
+   "title": "Release Sunday: Qwen, Grok and Google's orchestrator",
+   "stories": [
+    "1ba4b92c727b",
+    "e17843d4d54b",
+    "07975f32cf7b",
+    "90d894d096f2"
+   ],
+   "concepts": [
+    "frontier-model-launches",
+    "agentic-systems"
+   ],
+   "intro": "Image generation, a new Grok, and Google open-sourcing an agentic orchestrator - twice told."
+  },
+  {
+   "title": "The case against careless AI coding",
+   "stories": [
+    "e6f494b45603",
+    "a22f3962c05b",
+    "e0965855f36c",
+    "2768b12326af"
+   ],
+   "concepts": [
+    "ai-coding-agents"
+   ],
+   "intro": "CI reworked for agent throughput, a quality-management rebuttal, another 'don't write with AI' essay, and a Kool-Aid deconversion."
+  },
+  {
+   "title": "Agents meet the marketplace",
+   "stories": [
+    "41d477801352",
+    "b8c660d0347d",
+    "76c1ddbc8498",
+    "ff78d6ac0015"
+   ],
+   "concepts": [
+    "agentic-commerce",
+    "agentic-systems"
+   ],
+   "intro": "Amazon slamming the door on Meta's shopping agent, intent conflicts between parallel coding agents, and a personal memory that never summarizes."
+  },
+  {
+   "title": "Money and meritocracy doubts",
+   "stories": [
+    "6564dd7e87a6",
+    "f6258524fd9c",
+    "a9e2d774140a",
+    "fdffa22cafa5"
+   ],
+   "concepts": [
+    "compute-buildout",
+    "labor-displacement"
+   ],
+   "intro": "Skepticism about the data-center boom, AI and the end of upward mobility, college coming apart, and a 'drop dead' message to humanity."
+  },
+  {
+   "title": "The risk debate, in every register",
+   "stories": [
+    "6cae6ec2ba8a",
+    "2deba10cb916",
+    "de0f25c4f0ba",
+    "69e81aedbf2d",
+    "8404acc22305"
+   ],
+   "concepts": [
+    "ai-risk-debate",
+    "ai-policy-regulation"
+   ],
+   "intro": "Doctorow's Claude Delusion, Andrew Ng calling extinction fears science fiction, an antitrust suit over slowdown coordination, Altman at the UN, and chatbots failing financial queries."
+  },
+  {
+   "title": "Weekend hardware and oddities",
+   "stories": [
+    "8174511c11f9",
+    "5a45f990ed8f",
+    "b1672bf4eb76",
+    "9ac104eaa6fb",
+    "458d8111da3b"
+   ],
+   "concepts": [
+    "small-specialist-models"
+   ],
+   "intro": "An M5 Ultra Mac Studio review, frontier AI on your own hardware, escaping macOS 27's model downloads and Siri, and continual learning on 8GB of VRAM."
+  }
+ ]
 }
