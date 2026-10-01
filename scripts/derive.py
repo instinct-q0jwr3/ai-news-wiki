@@ -591,7 +591,7 @@ def render_daily(day,items,generated):
         secs=digest.get('sections') or []
         by_id={x.get('id'):x for x in items}
         used=set()
-        for sec in secs[:6]:
+        for sec in secs[:12]:
             fresh=[by_id[i] for i in sec.get('stories',[]) if i in by_id and i not in used]
             if not fresh: continue
             for x in fresh: used.add(x.get('id'))
