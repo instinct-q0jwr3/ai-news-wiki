@@ -1,6 +1,6 @@
 # Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever
 
-_type: news-summary · created: 2026-09-29 · updated: 2026-09-30 · confidence: high_
+_type: news-summary · created: 2026-09-29 · updated: 2026-10-01 · confidence: high_
 
 `tldr-ai` `nvidia`
 

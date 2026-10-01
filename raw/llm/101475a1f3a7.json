@@ -1,0 +1,14 @@
+{
+ "id": "101475a1f3a7",
+ "authored_at": "2026-10-01T01:19:46.556868+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "This is Google's announcement page for Gemini 4 Argon, shared on Hacker News. The page itself was not retrieved, so this summary rests on the feed item and related coverage in the same pass: Google has begun rolling out the model, first to a small group of trusted cyber-defense partners, and says it takes part in the US government's voluntary pre-release process.\n\nThe Hacker News thread points to Artificial Analysis' independent evaluation of the model as the companion discussion.",
+ "highlights": [
+  "Google's own announcement of Gemini 4 Argon",
+  "Rollout starts with trusted cyber defenders (per Axios coverage)",
+  "Google joins the US voluntary pre-release process",
+  "Linked to the Artificial Analysis evaluation thread",
+  "Basis: feed item only, page not retrieved"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "041745345ef4",
+ "authored_at": "2026-10-01T01:19:46.556868+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Bloomberg reports that some Google employees say Gemini 4 performs well on benchmarks but struggles with some real-world coding tasks, and that Google disputes this. The company has begun rolling out Gemini 4 Argon, its flagship model. Based on the Techmeme excerpt; this is the same story as the Hacker News link to the Bloomberg piece.",
+ "highlights": [
+  "Employees: strong benchmarks, weaker on some real coding",
+  "Google disputes the characterization",
+  "Gemini 4 Argon rollout has begun",
+  "Basis: Techmeme excerpt"
+ ]
+}

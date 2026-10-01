@@ -1,0 +1,14 @@
+{
+ "id": "af6793bf2ee3",
+ "authored_at": "2026-10-01T01:19:46.556868+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Perspica is a semantic diff tool for reviewing code, built after its author struggled to review large AI-written pull requests and found himself waving them through. It groups changes by what was done and why, and suggests an order to read them in. An LLM run gives the best groupings, but a more conservative tree-sitter analysis works without one.\n\nIf the change came from the author's own Claude Code or Codex session, the tool reads the prompts and marks which changes were requested and which the agent added on its own. It can be used on other people's PRs too. A demo video on public PRs is in the repo, and perforce-style side-by-side diffs are supported.",
+ "highlights": [
+  "Groups code changes by intent and gives a reading order",
+  "Built for reviewing large AI-generated PRs",
+  "Works with or without an LLM (tree-sitter mode is conservative)",
+  "Marks agent-initiated vs requested changes using Claude Code or Codex session prompts",
+  "Demo video in the repo"
+ ]
+}

@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-09-30 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-01 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-01** - The Wall Street Journal reports that at a White House event, Nvidia CEO Jensen Huang and other executives asked Anthropic's Dario Amodei why he is so extreme in public about AI risks. Amodei answered that it is important to be honest. Based on the Techmeme… ([Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it's important to be honest](../summaries/d1e8552618eb.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-09-30** - The New York Times reports that Meta is aggressively claiming a tax credit for AI data-center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies. The source could not be retrieved (the fetch returned an error), so the… ([Meta is aggressively claiming a tax credit for AI data center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies](../summaries/a681fff219a0.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-29** - 'Dead Money' argues the AI datacenter boom is colliding with physical reality. Morgan Stanley estimates more than half of the GPU servers sold between 2026 and 2028 may have nowhere to plug in; Jefferies calls the gap between planned capacity and physical… ([Dead Money](../summaries/1710ad8b61b5.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-09-29** - Nvidia has added $150 billion to its stock buyback program - the largest ever, per the headline. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the headline's claim; the new total authorization and… ([Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever](../summaries/540aba4c7dde.md) · [NVIDIA](../entities/nvidia.md))

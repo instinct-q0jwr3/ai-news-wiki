@@ -1,0 +1,16 @@
+{
+ "id": "59cd4cc5e17d",
+ "authored_at": "2026-10-01T01:19:46.556868+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Lathoa is a math app for kids aged roughly 10 to 14 in which a robot called Errol solves a problem step by step and one step may be wrong. The child has to spot the error and explain it; sometimes nothing is wrong, so always saying 'mistake' fails. Explanations earn extra XP and speed adds points. There is no chat with an LLM.\n\nThe creator says making a model wrong on purpose is hard: it often gives the right answer and calls it wrong. So every case is checked before a child sees it, by an exact arithmetic recheck where possible and by a second model that solves the problem blind. Any disagreement discards the case. The weak spots: the second model can repeat the first one's error, and the arithmetic check only works for English number formats so far. The author asks teachers whether finding others' mistakes teaches more than solving.",
+ "highlights": [
+  "Kids find the deliberate error in Errol's worked solution",
+  "Some cases contain no error",
+  "No direct chat with an LLM",
+  "Cases verified by arithmetic recheck plus a blind second model",
+  "Disagreement discards the case",
+  "Comma-decimal languages (German, Greek) not yet parsed",
+  "Open question: does error-finding teach more than solving?"
+ ]
+}

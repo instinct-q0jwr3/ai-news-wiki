@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-09-30 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-01 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-10-01** - Latent.Space opens its OpenAI DevDay coverage with leaders of OpenAI's computer-use (CUA) team and API platform. The episode title promises a rebuttal of Dwarkesh's take on computer use and an account of how OpenAI shipped a competitor to Jev in one week.… ([Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week](../summaries/ae04685c9097.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-29** - OpenAI announced a Decisions API at DevDay - its answer to the decision-model category TypeSafe's Jev made hot. The API returns predefined answers with confidence and is based on Luna, the smallest and cheapest model in OpenAI's lineup. The New Stack reads… ([OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details](../summaries/2964d289f4bc.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-09-27** - Privatemode shows how an off-the-shelf LLM can produce typed decisions - each option with a probability - in a single forward pass, effectively turning it into a Jev-like decision model. Instead of making the model write a whole JSON object (or think for… ([Turning GLM-5.3-Flash into a Jev-like decision model](../summaries/1215c27934dc.md) · [TypeSafe](../entities/typesafe.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-09-25** - Kyle Jeong explains Jev, TypeSafe's class of 'System One' AI models built for fast, structured decisions that software can consume directly: state in, typed answers with probabilities out. TypeSafe claims Jev is 20-200x faster and 40-400x cheaper than… ([Jev was built for agents, here's how we're using it in computer use instead](../summaries/09881d1fba42.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

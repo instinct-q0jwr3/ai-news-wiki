@@ -1,0 +1,70 @@
+{
+ "id": "digest-2026-10-01",
+ "date": "2026-10-01",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Gemini 4 Argon dominated Wednesday: [Google began rolling it out to trusted cyber defenders](../summaries/cbdadf4d036f.md), [Artificial Analysis says it matches GPT-6 Astra at lower cost](../summaries/27fd4f2ee0fc.md), and [employees told Bloomberg it lags on real coding](../summaries/041745345ef4.md). Elsewhere, [Anthropic's IPO prospectus drew skeptical commentary](../summaries/baa6806bccdb.md) and [Micron posted $54B quarterly revenue](../summaries/574749f79a67.md)."
+ ],
+ "sections": [
+  {
+   "title": "Gemini 4 Argon arrives",
+   "stories": [
+    "cbdadf4d036f",
+    "101475a1f3a7",
+    "f838e7976533",
+    "27fd4f2ee0fc",
+    "041745345ef4",
+    "ae96f6e71aac"
+   ],
+   "concepts": [
+    "frontier-model-launches",
+    "external-evaluation"
+   ],
+   "intro": "Google's rollout, an independent benchmark that ties it with GPT-6 Astra, and employee doubts about real-world coding."
+  },
+  {
+   "title": "Money and the AI build-out",
+   "stories": [
+    "baa6806bccdb",
+    "574749f79a67"
+   ],
+   "concepts": [
+    "compute-buildout",
+    "ai-business-models"
+   ],
+   "intro": "Anthropic's loss-heavy prospectus and Micron's record memory revenue."
+  },
+  {
+   "title": "Washington, super PACs and feuds",
+   "stories": [
+    "747abf222e8e",
+    "d1e8552618eb",
+    "fe30ac9fd34a",
+    "456415b05d5a",
+    "146c56347b6c",
+    "eb88ecd5bc8d"
+   ],
+   "concepts": [
+    "ai-policy-regulation"
+   ],
+   "intro": "How the White House accord was drafted, Amodei's public alarm, Brockman on the PAC, California's robo-boss law, and two industry disputes."
+  },
+  {
+   "title": "Builders and platforms",
+   "stories": [
+    "59cd4cc5e17d",
+    "af6793bf2ee3",
+    "ae04685c9097",
+    "26ccb948bbff",
+    "5913b04670a2",
+    "567adafc4b43"
+   ],
+   "concepts": [
+    "ai-coding-agents",
+    "agent-engineering-practices"
+   ],
+   "intro": "A math app with deliberate errors, a semantic diff for AI-written PRs, DevDay computer-use talk, Reddit closing RSS, and two links on education and careers."
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # OpenAI pauses training of its 'most capable models'
 
-_type: news-summary · created: 2026-09-27 · updated: 2026-09-30 · confidence: high_
+_type: news-summary · created: 2026-09-27 · updated: 2026-10-01 · confidence: high_
 
 `hacker-news` `openai`
 
