@@ -293,9 +293,10 @@ def main():
                 rows+=f'<li class="a-row"><span class="a-n">{k}</span><div><a class="a-t" href="../summaries/{p["id"]}.html">{html.escape(p["title"])}</a><div class="a-m">{html.escape(p["front"])} \u00b7 {html.escape(p["source"])} \u00b7 {p["minutes"]} min</div><p class="a-w">{html.escape(p["why"])}</p></div></li>'
             skipped=r['total']-r['ok']
             foot=f'<p class="meta" style="margin-top:26px">Skipped before ranking: {skipped} of {r["total"]} stories ({r["paywall"]} paywalled, {r["unreadable"]} unreadable, {r["thin"]} too short).</p>'
-            arch=''.join(f'<a href="{d2}.html" class="{"active" if d2==day else ""}">{d2}</a> ' for d2 in days)
+            arch=''.join(f'<a href="{d2}.html" class="{"active" if d2==day else ""}">{d2}{" (provisional)" if sd[d2].get("status")=="provisional" else ""}</a> ' for d2 in days)
             nav2=f'<p class="meta" style="margin-top:14px">Other days: {arch}</p>' if len(days)>1 else ''
-            body=f'<div class="page-title"><span class="eyebrow">Library</span><h1>{html.escape(SIGNAL_LABEL)}</h1><p>The 5 articles worth your time on {day}. Only fully readable sources.</p></div><ol class="a-list">{rows}</ol>{foot}{nav2}'
+            prov='<p class="meta" style="border:1px solid #b8860b;color:#e0b341;padding:6px 10px;border-radius:6px;display:inline-block">Provisional: the day is not over. Picks may change; final version publishes at about 03:15 Madrid.</p>' if r.get('status')=='provisional' else ''
+            body=f'<div class="page-title"><span class="eyebrow">Library</span><h1>{html.escape(SIGNAL_LABEL)}</h1><p>The 5 articles worth your time on {day}. Only fully readable sources.</p>{prov}</div><ol class="a-list">{rows}</ol>{foot}{nav2}'
             return shell(f'{SIGNAL_LABEL} {day}',body,'../',section='signal')
         for day in days: (OUT/'signal'/f'{day}.html').write_text(_spage(day))
         (OUT/'signal'/'index.html').write_text(_spage(days[0]))

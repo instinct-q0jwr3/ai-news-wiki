@@ -408,7 +408,7 @@ def build_signal(xs):
             except Exception: n=0
             mins=max(1,round(n/1100)) if n else 1
             picks.append({'id':i,'title':short_title(next((x for x in xs if x['id']==i),{'title':titles.get(i,i)})),'front':pk.get('front',''),'source':pk.get('source',''),'minutes':mins,'why':pk.get('why',''),'cat':SOURCE_CAT.get(i,'unknown')})
-        out[day]={'picks':picks,'reserve':s.get('reserve'),'total':len(ids),'ok':cats.get('ok',0),'paywall':cats.get('paywall',0),'unreadable':cats.get('unreadable',0)+cats.get('unknown',0),'thin':cats.get('thin',0)}
+        out[day]={'status':s.get('status','final'),'picks':picks,'reserve':s.get('reserve'),'total':len(ids),'ok':cats.get('ok',0),'paywall':cats.get('paywall',0),'unreadable':cats.get('unreadable',0)+cats.get('unknown',0),'thin':cats.get('thin',0)}
     (WIKI/'signal_data.json').write_text(json.dumps(out,ensure_ascii=False,indent=1,sort_keys=True))
 
 def build_summaries(xs,stamp):
