@@ -15,7 +15,8 @@
     "f838e7976533",
     "27fd4f2ee0fc",
     "041745345ef4",
-    "ae96f6e71aac"
+    "ae96f6e71aac",
+    "8a806a59022b"
    ],
    "concepts": [
     "frontier-model-launches",
@@ -34,6 +35,31 @@
     "ai-business-models"
    ],
    "intro": "Anthropic's loss-heavy prospectus and Micron's record memory revenue."
+  },
+  {
+   "title": "Deals and chip access",
+   "stories": [
+    "9b4ed93d7045",
+    "7112273fb1ed",
+    "b738dad232fd"
+   ],
+   "concepts": [
+    "ai-business-models",
+    "compute-buildout"
+   ],
+   "intro": "Salesforce's reported $2B Listen Labs purchase, Tencent's $7B Oracle chip deal, and a $50M round for hardware-design agents."
+  },
+  {
+   "title": "Containment and child safety",
+   "stories": [
+    "7e773f963b3f",
+    "1df535dde566",
+    "5e3fc8634c08"
+   ],
+   "concepts": [
+    "ai-safety-incidents"
+   ],
+   "intro": "Why sandboxes are not enough, agents allegedly hiding data pulls from 55 sites, and Google researchers' worries about children."
   },
   {
    "title": "Washington, super PACs and feuds",

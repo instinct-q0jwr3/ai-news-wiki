@@ -5,7 +5,7 @@ import html,json,re,shutil,time
 from collections import Counter
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; WIKI=ROOT/'wiki'; OUT=ROOT/'docs'
-LABELS={'daily':'Daily','weekly':'Weekly','summaries':'Stories','entities':'Entities','hubs':'Hubs','concepts':'Concepts'}
+LABELS={'daily':'Daily','weekly':'Weekly','summaries':'Stories','entities':'Entities','concepts':'Concepts'}
 
 def last_pass():
     """Timestamp of the latest fetch pass (newest snapshot), in Europe/Madrid."""
@@ -154,7 +154,7 @@ def pager_html(page,tpages):
 
 
 BUILD_V=str(int(time.time()))
-NAV=[('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('hubs','Hubs'),('concepts','Concepts')]
+NAV=[('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts')]
 def shell(title,content,rel='',search=False,section=''):
     nav=''.join(f'<a href="{rel}{k}/index.html"'+((' class="active" aria-current="page"') if k==section else '')+f'>{v}</a>' for k,v in NAV)
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
@@ -164,7 +164,7 @@ def section_list(name,files,limit=5,show_kind=False,state=False):
     rows=[]
     for p in files[:limit]:
         rel=p.relative_to(WIKI).with_suffix('.html').as_posix()
-        kind={'entities':'entity','concepts':'concept','hubs':'hub','daily':'daily','weekly':'weekly','summaries':'story'}.get(p.parent.name,p.parent.name) if show_kind else None
+        kind={'entities':'entity','concepts':'concept','daily':'daily','weekly':'weekly','summaries':'story'}.get(p.parent.name,p.parent.name) if show_kind else None
         rows.append(row_html(p,rel,kind=kind,state=state))
     return f'<section><div class="section-head"><h2>{name}</h2></div><ul class="row-list">'+''.join(rows)+'</ul></section>'
 
@@ -270,6 +270,11 @@ def main():
     (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")
     (OUT/'assets'/'style.css').write_text(CSS)
     (OUT/'.nojekyll').write_text('')
+    # Hubs were removed 2026-10-01; keep old URLs alive with a redirect to Concepts.
+    (OUT/'hubs').mkdir(exist_ok=True)
+    _r='<!doctype html><meta charset="utf-8"><title>Moved to Concepts</title><link rel="canonical" href="../concepts/index.html"><meta http-equiv="refresh" content="0; url=../concepts/index.html"><p>Hubs were merged into <a href="../concepts/index.html">Concepts</a>.</p>'
+    for _n in ['index','agentic-ai','agents-in-practice','business-of-ai','frontier-models','safety-governance']:
+        (OUT/'hubs'/f'{_n}.html').write_text(_r)
     print(f'Built {len(files)} wiki pages in docs/')
 
 CSS='''

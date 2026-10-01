@@ -515,21 +515,13 @@ def _write_weekly(slug,week,stamp):
     body=[f'# {title}','',metadata('synthesis',fmt_date(stamp),fmt_date(stamp),'medium',['synthesis',slug.lower()]),'',f'Synthesis of {len(week)} unique stories first observed in {slug}. Each inline story link opens a generated summary with its original source.','']+lead_lines+sections+['## Tensions and open debates','']+([f'- {x}' for x in tensions] or ['- The corpus is still too small to identify a grounded tension this week.'])+['','## Coverage appendix','']+[f'- {k}: {v}' for k,v in counts.most_common()]
     (WIKI/'weekly').mkdir(exist_ok=True); (WIKI/'weekly'/f'{slug}.md').write_text('\n'.join(body)+'\n')
 
-def build_hubs():
-    hubs={'agentic-ai':('Agentic AI','Entry point to systems that act, specialist models and observability.',['../concepts/agentic-systems.md','../concepts/small-specialist-models.md','../concepts/ai-coding-agents.md']), 'safety-governance':('Safety and governance','Evaluation, incidents and controls in one route.',['../concepts/external-evaluation.md','../concepts/ai-safety-incidents.md']), 'frontier-models':('Frontier models','Launches and the labs behind them.',['../entities/openai.md','../entities/anthropic.md','../entities/google.md'])}
-    for _slug,_d in _load_overlay('hubs.json').items():
-        if _slug not in hubs: hubs[_slug]=(_d['title'],_d['desc'],_d['links'])
-    out=WIKI/'hubs'; out.mkdir(exist_ok=True)
-    for slug,(title,desc,links) in hubs.items():
-        labels=[Path(u).stem.replace('-',' ').title() for u in links]
-        (out/f'{slug}.md').write_text(f'# Hub: {title}\n\n{desc}\n\n## Explore\n\n'+'\n'.join(f'- [{n}]({u})' for n,u in zip(labels,links))+'\n')
 
 def update_index(stamp,xs):
     days=sorted((WIKI/'daily').glob('*.md'),reverse=True)
     summaries=sorted((WIKI/'summaries').glob('*.md'))
     date=dt.date.fromisoformat(fmt_date(stamp)); iso=date.isocalendar(); week=f'{iso.year}-W{iso.week:02d}'
     summary_target=summaries[0].name if summaries else ''
-    lines=['# AI News Wiki','','A cumulative, cross-linked map of AI news. Every story has its own summary and original source.','',f'_Updated: `{stamp}` · {len(xs)} unique stories._','','## Explore','',f'- [Daily](daily/{days[0].name if days else "index.md"})',f'- [Weekly](weekly/{week}.md)',f'- [Stories](summaries/{summary_target})','- [Entities](entities/openai.md)','- [Hubs](hubs/agentic-ai.md)','- [Concepts](concepts/agentic-systems.md)','','## Daily briefings','']+[f'- [{p.stem}](daily/{p.name})' for p in days]
+    lines=['# AI News Wiki','','A cumulative, cross-linked map of AI news. Every story has its own summary and original source.','',f'_Updated: `{stamp}` · {len(xs)} unique stories._','','## Explore','',f'- [Daily](daily/{days[0].name if days else "index.md"})',f'- [Weekly](weekly/{week}.md)',f'- [Stories](summaries/{summary_target})','- [Entities](entities/openai.md)','- [Concepts](concepts/agentic-systems.md)','','## Daily briefings','']+[f'- [{p.stem}](daily/{p.name})' for p in days]
     (WIKI/'index.md').write_text('\n'.join(lines)+'\n')
 
 def strip_headline_repeat(desc,title):
@@ -674,6 +666,6 @@ def main():
     xs,stamp=load_stories(); compute_new()
     for x in xs:
         t=short_title(x); x['feed_title']=x.get('title',''); x['title']=t
-    enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_weekly(xs,stamp); build_hubs(); update_index(stamp,xs)
+    enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_weekly(xs,stamp); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()

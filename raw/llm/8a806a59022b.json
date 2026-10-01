@@ -1,0 +1,16 @@
+{
+ "id": "8a806a59022b",
+ "authored_at": "2026-10-01T05:49:15.802315+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "The Decoder reports that Gemini 4 Argon puts Google back among the top three labs without clearly leading. It is Google's first frontier model in over seven months, after the announced Gemini 3.5 was skipped. Access starts with trusted cyber defenders through Fairwind, who get the model without cyber guardrails, and Google joins the US voluntary pre-release program. Paying API customers and Google AI Ultra subscribers come next, with no date given.\n\nOutput limit jumps from 64K to 1M tokens, supported by a Long Decode Continuation feature that pauses and resumes long responses. Introductory pricing is $2 per million input and $10 per million output tokens, with a 95% cache discount. Artificial Analysis scores the High setting at 53 on its Intelligence Index, tied with GPT-6 Astra (max), behind Claude Opus 5.5 at 58. A task costs $1.99 at promo prices, rising to $3.98 later. Argon uses about 62,000 output tokens per task against 27,000 for Astra, so cheap tokens do not mean cheap tasks.",
+ "highlights": [
+  "First Google frontier model in 7+ months",
+  "Rollout: cyber defenders first, then paying API and Ultra users",
+  "Output limit raised from 64K to 1M tokens",
+  "$2 / $10 per million tokens at launch",
+  "53 on the Intelligence Index, tied with GPT-6 Astra (max)",
+  "Claude Opus 5.5 still leads at 58",
+  "Uses 62K output tokens per task vs 27K for Astra"
+ ]
+}
