@@ -63,6 +63,24 @@ for p in glob.glob(os.path.join(ROOT,'wiki/entities/*.md')):
     t=open(p).read(); nm=t.splitlines()[0][2:].strip().lower()
     if '\n- **' not in t: fails.append(f'R5 entity {os.path.basename(p)} has no timeline events')
     if nm in _feeds: fails.append(f'R5 entity {os.path.basename(p)} is a feed/source name')
+# R6: completeness - every authored section/story that belongs to a day must be rendered
+import re as _re
+def _created(i):
+    try: return _re.search(r'created: (\d{4}-\d{2}-\d{2})',open(os.path.join(ROOT,'wiki/summaries',i+'.md')).read()).group(1)
+    except Exception: return None
+for f in sorted(glob.glob(os.path.join(ROOT,'raw/llm/digest-*.json'))):
+    try: d=json.load(open(f))
+    except Exception: continue
+    if d.get('schema')!=3: continue
+    day=d.get('date') or os.path.basename(f)[7:-5]
+    pg=os.path.join(ROOT,'wiki/daily',day+'.md')
+    if not os.path.exists(pg): continue
+    md=open(pg).read(); linked=set(_re.findall(r'summaries/([0-9a-f]{12})\.md',md)); heads={h.strip() for h in _re.findall(r'^## (.+)$',md,flags=_re.M)}
+    for sec in d.get('sections') or []:
+        mine=[i for i in sec.get('stories',[]) if _created(i)==day]
+        if mine and sec.get('title','').strip() not in heads: fails.append(f'R6 daily/{day}.md is missing authored section "{sec.get("title")}"')
+        for i in mine:
+            if i not in linked: fails.append(f'R6 daily/{day}.md does not render authored story {i} (section "{sec.get("title")}")')
 if fails:
     print('VERIFY CONTENT FAILED:')
     for x in fails: print(' -',x)

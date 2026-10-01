@@ -475,6 +475,7 @@ def prose_links(items,limit=4):
         if len(t)>280: t=t[:280].rsplit(' ',1)[0].rstrip(' ,;:')+'\u2026'
         lock=mark(x.get('id'))
         parts.append(f"{t} ([read more](../summaries/{x['id']}.md){lock}).")
+    if len(parts)>6: return '\n\n'.join(' '.join(parts[k:k+3]) for k in range(0,len(parts),3))
     midpoint=max(1,(len(parts)+1)//2)
     return ' '.join(parts[:midpoint])+'\n\n'+' '.join(parts[midpoint:]) if len(parts)>1 else parts[0]
 
@@ -517,7 +518,7 @@ def _write_weekly(slug,week,stamp):
             cslugs=[c for c in cslugs if c in CONCEPTS]
             clinks=('Concepts: '+' · '.join(concept_link(c) for c in cslugs)) if cslugs else ''
             blurb=(sec.get('intro') or '').strip()
-            sections += [f"## {sec.get('title','Section')}",""] + ([clinks,""] if clinks else []) + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=6),'']
+            sections += [f"## {sec.get('title','Section')}",""] + ([clinks,""] if clinks else []) + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=len(fresh)),'']
     else:
       for _,concept_slug,label,hits in themes[:3]:
           fresh=[x for x in hits if x.get('id') not in used]
@@ -591,7 +592,7 @@ def render_daily(day,items,generated):
         secs=digest.get('sections') or []
         by_id={x.get('id'):x for x in items}
         used=set()
-        for sec in secs[:12]:
+        for sec in secs:
             fresh=[by_id[i] for i in sec.get('stories',[]) if i in by_id and i not in used]
             if not fresh: continue
             for x in fresh: used.add(x.get('id'))
@@ -599,7 +600,7 @@ def render_daily(day,items,generated):
             cslugs=[_concept_slug_name(c)[0] for c in (sec.get('concepts') or [])]
             cslugs=[c for c in cslugs if c in CONCEPTS]
             clinks=('Concepts: '+' · '.join(concept_link(c) for c in cslugs)) if cslugs else ''
-            block=[f"## {sec.get('title','Section')}",""] + ([clinks,""] if clinks else []) + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=6),'']
+            block=[f"## {sec.get('title','Section')}",""] + ([clinks,""] if clinks else []) + ([blurb,""] if blurb else []) + [prose_links(fresh,limit=len(fresh)),'']
             lines.extend(block)
             authored=True
     if not authored:
