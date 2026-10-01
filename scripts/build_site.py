@@ -146,6 +146,7 @@ document.querySelectorAll('.filter-bar').forEach(function(bar){
 
 VISIBLE_TAGS=6
 def filter_bar(tagcount):
+    return ''  # tag chips removed 2026-10-01 (user: tags are noise)
     if len(tagcount)<2: return ''
     items=tagcount.most_common()
     chips=''.join(f'<button class="chip{" chip-extra" if idx>=VISIBLE_TAGS else ""}" data-tag="{html.escape(t,quote=True)}">{html.escape(t)}<span>{c}</span></button>' for idx,(t,c) in enumerate(items))
