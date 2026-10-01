@@ -1,0 +1,13 @@
+{
+ "id": "2c6ef460012e",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "A Show HN for an open-source model router for coding agents that claims Astra-level performance. The authors started building it a few months ago, believing a router could outperform single models. Only the opening of the post was captured, so the method and benchmark details are not summarised.",
+ "highlights": [
+  "Open-source router for coding agents",
+  "Claims Astra-level performance",
+  "Built over a few months",
+  "Basis: opening of the post"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "576939cf6931",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "VentureBeat reports Strands Labs, AWS's experimental agent-development project, released Strands Decider 2B, a free open-source decision model fine-tuned from an Alibaba model and a competitor to TypeSafe's Jev. In the two weeks since Jev, developers have shipped a rush of decision models, many with downloadable weights. These models choose among predefined options instead of writing prose, part of making agents cheaper and faster.",
+ "highlights": [
+  "Strands Decider 2B: free, open-source decision model",
+  "Fine-tuned from an Alibaba model",
+  "Competes with TypeSafe's Jev",
+  "Decision models pick among predefined options",
+  "Many rivals released in two weeks"
+ ]
+}

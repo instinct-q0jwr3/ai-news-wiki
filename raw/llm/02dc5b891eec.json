@@ -1,0 +1,13 @@
+{
+ "id": "02dc5b891eec",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Ideogram 4.5 is pitched as the most precise edit model. The page says image models usually introduce pixel shifts, color changes and texture artifacts with each edit, and that 4.5 reduces this drift so details survive multi-turn edits. It covers color refinement, photo restoration and targeted changes, plus zoom editing for high-resolution work. Based on the page's opening.",
+ "highlights": [
+  "Ideogram 4.5 edit model",
+  "Reduces pixel, color and texture drift across edits",
+  "Handles restoration and targeted changes",
+  "Zoom editing for high-res images"
+ ]
+}

@@ -2,20 +2,26 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 318,
+  "stories": 326,
   "last": "2026-10-01"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 312,
+  "stories": 322,
   "last": "2026-10-01"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 121,
-  "last": "2026-09-30"
+  "stories": 135,
+  "last": "2026-10-01"
+ },
+ {
+  "name": "Pluralistic",
+  "url": "https://pluralistic.net/feed/",
+  "stories": 32,
+  "last": "2026-10-01"
  },
  {
   "name": "antirez",
@@ -30,21 +36,15 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Pluralistic",
-  "url": "https://pluralistic.net/feed/",
-  "stories": 31,
-  "last": "2026-09-29"
+  "name": "Lobsters",
+  "url": "https://lobste.rs/rss",
+  "stories": 27,
+  "last": "2026-10-01"
  },
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
   "stories": 27,
-  "last": "2026-10-01"
- },
- {
-  "name": "Lobsters",
-  "url": "https://lobste.rs/rss",
-  "stories": 26,
   "last": "2026-10-01"
  },
  {

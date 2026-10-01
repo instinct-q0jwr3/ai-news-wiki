@@ -21,6 +21,7 @@ An open concept gathered from briefing sections, first referenced on 2026-09-19.
 - [The arithmetic of the boom](../daily/2026-09-30.md#the-arithmetic-of-the-boom) — 2026-09-30
 - [Money and the AI build-out](../daily/2026-10-01.md#money-and-the-ai-build-out) — 2026-10-01
 - [Deals and chip access](../daily/2026-10-01.md#deals-and-chip-access) — 2026-10-01
+- [Anthropic's IPO and pricing power](../daily/2026-10-01.md#anthropic-s-ipo-and-pricing-power) — 2026-10-01
 - [The business of AI, repriced](../weekly/2026-W39.md#the-business-of-ai-repriced) — Week 2026-W39
 - [The money gets bigger and stranger](../weekly/2026-W40.md#the-money-gets-bigger-and-stranger) — Week 2026-W40
 

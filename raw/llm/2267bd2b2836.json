@@ -1,0 +1,12 @@
+{
+ "id": "2267bd2b2836",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Reuters reports San Francisco startup Volantis raised $88 million to use vertical-cavity surface-emitting lasers, like those in the iPhone's Face ID, to connect AI chips and memory chips. Based on the Techmeme excerpt.",
+ "highlights": [
+  "$88M raised by Volantis",
+  "Uses VCSEL lasers for chip-to-memory links",
+  "Targets AI hardware interconnect"
+ ]
+}

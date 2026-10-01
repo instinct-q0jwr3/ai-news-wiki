@@ -1,0 +1,14 @@
+{
+ "id": "19832d3b3f8f",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Clef announces open-source decision models and an RL fine-tuning platform, riding the buzz around TypeSafe AI's Jev System One. The post explains decision models as a different idea from classifiers: they produce bounded, structured outputs cheaply, quickly and consistently, can sit inside a workflow wherever a decision is needed, and handle new categories without retraining. It contrasts them with LLMs, which are largely non-deterministic. Based on the opening of the post.",
+ "highlights": [
+  "Clef releases open-source decision models",
+  "Adds an RL fine-tuning platform",
+  "Decision models give bounded, structured, consistent outputs",
+  "New categories need no retraining",
+  "Positioned against non-deterministic LLMs"
+ ]
+}

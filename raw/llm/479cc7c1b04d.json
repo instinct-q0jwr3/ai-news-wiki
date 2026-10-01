@@ -1,0 +1,13 @@
+{
+ "id": "479cc7c1b04d",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "E2B releases E2B Embed, which lets agent companies package E2B and run its sandboxes inside a customer's own environment. It brings the E2B Runtime and dashboard to a single machine the customer controls, alongside E2B Cloud and Bring Your Own Cloud. The motivation: some customers, often government organizations, require data to stay inside their environment.",
+ "highlights": [
+  "E2B Embed runs sandboxes in the customer's environment",
+  "Runtime and dashboard on one controlled machine",
+  "Sits next to E2B Cloud and BYOC",
+  "Aimed at data-residency needs such as government"
+ ]
+}

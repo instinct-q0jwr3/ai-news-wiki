@@ -1,0 +1,13 @@
+{
+ "id": "09de2e5d4933",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "NVIDIA's OpenShell is a safe, private runtime for fleets of autonomous AI agents. The page says agents are most useful when they can read files, install packages, call APIs and use credentials, and OpenShell gives them that without unrestricted access. Release 0.1.x adds a stable cadence, new isolation primitives, an expanded extension surface and new APIs. Based on the page's opening.",
+ "highlights": [
+  "OpenShell: private runtime for autonomous agents",
+  "Lets agents use files, packages, APIs and credentials with limits",
+  "0.1.x adds isolation primitives and APIs",
+  "Stable release cadence"
+ ]
+}

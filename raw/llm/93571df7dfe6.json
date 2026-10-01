@@ -1,0 +1,14 @@
+{
+ "id": "93571df7dfe6",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "A paper on generalization dynamics during LM pre-training challenges the idea that models steadily mature from pattern-matching parrots to generalizing intelligence. Using a toy eval suite, the authors show models frequently and suddenly hop between parrot-like and intelligence-like computations, which they call mode-hopping, latching onto memorized or in-context patterns. Based on the abstract.",
+ "highlights": [
+  "Pre-training is not a smooth path from parrot to intelligence",
+  "Models hop suddenly between modes",
+  "Called mode-hopping",
+  "Shown on a toy eval suite",
+  "Basis: abstract"
+ ]
+}

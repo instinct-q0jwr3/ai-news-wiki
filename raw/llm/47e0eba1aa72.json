@@ -1,0 +1,14 @@
+{
+ "id": "47e0eba1aa72",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "A paper introduces a transformer variant that passes its hidden state to the next token instead of recomputing it. Standard LMs are feed-forward: deep-layer representations never feed back to shallower layers, so the only channel across generation steps is the decoded token, forcing models to recompute intermediate results and drop alternative continuations. The authors remove this bottleneck during pretraining with an approach named LIFT. Based on the abstract.",
+ "highlights": [
+  "Standard LMs cannot feed deep states back to shallow layers",
+  "Only the decoded token carries information across steps",
+  "New design passes hidden state to the next token",
+  "Introduced during pretraining (LIFT)",
+  "Basis: abstract"
+ ]
+}

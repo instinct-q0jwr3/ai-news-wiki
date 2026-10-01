@@ -120,6 +120,11 @@
   "title": "Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages"
  },
  {
+  "from": "639406e4fb73",
+  "to": "d68c6cf058de",
+  "title": "Claude for Government is now generally available"
+ },
+ {
   "from": "6ad6a07e2322",
   "to": "651a37e1762f",
   "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon"
@@ -258,6 +263,11 @@
   "from": "d251fda8edd2",
   "to": "16444d7e895b",
   "title": "A researcher says a flaw in Meta's Muse Mac app lets any app or terminal command access users' Muse authentication tokens; Meta says it issued a hotfix"
+ },
+ {
+  "from": "d56baab84702",
+  "to": "0c327d84f995",
+  "title": "A US judge dismisses Chegg and Penske lawsuits alleging Google violated antitrust law by forcing them to allow content in AI Overviews, reducing web traffic"
  },
  {
   "from": "dce8d4eae67b",

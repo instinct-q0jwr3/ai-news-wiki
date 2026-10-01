@@ -1,0 +1,13 @@
+{
+ "id": "f9130264fd29",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Runway announces Praxis-1, its first open-weight world action model, which turns its large-scale video pretraining into control for real robots. An example instruction is 'pick up the tennis ball and put it in the box'. Runway says it is testing the model with early partners. Based on the announcement's opening.",
+ "highlights": [
+  "Praxis-1: open-weight world action model",
+  "Built on Runway's video pretraining",
+  "Targets control of real robots",
+  "Being tested with early partners"
+ ]
+}

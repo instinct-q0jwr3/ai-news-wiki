@@ -1,0 +1,13 @@
+{
+ "id": "e8876f8d9e4e",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Outis is a tool that fights unwanted email by generating a fake 'user unknown' bounce for a message you received, so the sender believes your address does not exist and removes it from their list. The author targets AI-generated automated emails where the sender expects a reply. The name is Greek for 'nobody', the alias Odysseus gave the Cyclops.",
+ "highlights": [
+  "Sends fake 'user unknown' bounces",
+  "Aimed at AI-generated automated email",
+  "Goal: get removed from sender lists",
+  "Named after Odysseus's 'nobody'"
+ ]
+}

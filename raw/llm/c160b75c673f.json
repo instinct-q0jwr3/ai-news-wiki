@@ -1,0 +1,14 @@
+{
+ "id": "c160b75c673f",
+ "authored_at": "2026-10-01T19:23:34.620960+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "A paper asks whether we can predict which jobs robots will do. Since many jobs are physical, AI's economic impact depends partly on robotics. The authors build a measure of job exposure to robots by using Claude to assess how well present-day robot capabilities match job tasks, arguing that listing current capabilities gives insight into the coming years. Based on the abstract.",
+ "highlights": [
+  "Measures job exposure to robots",
+  "Uses Claude to rate task-capability fit",
+  "Argues enumerating today's capabilities helps forecasting",
+  "Physical jobs matter for AI's economic impact",
+  "Basis: abstract"
+ ]
+}
