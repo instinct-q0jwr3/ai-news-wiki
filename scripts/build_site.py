@@ -168,7 +168,7 @@ def pager_html(page,tpages):
 
 
 BUILD_V=str(int(time.time()))
-NAV=[('daily','Daily'),('signal',SIGNAL_LABEL),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts'),('feeds','Feeds')]
+NAV=[('signal',SIGNAL_LABEL),('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts'),('feeds','Feeds')]
 def shell(title,content,rel='',search=False,section=''):
     nav=''.join(f'<a href="{rel}{k}/index.html"'+((' class="active" aria-current="page"') if k==section else '')+f'>{v}</a>' for k,v in NAV)
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
