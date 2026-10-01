@@ -81,6 +81,16 @@ for f in sorted(glob.glob(os.path.join(ROOT,'raw/llm/digest-*.json'))):
         if mine and sec.get('title','').strip() not in heads: fails.append(f'R6 daily/{day}.md is missing authored section "{sec.get("title")}"')
         for i in mine:
             if i not in linked: fails.append(f'R6 daily/{day}.md does not render authored story {i} (section "{sec.get("title")}")')
+# R7: Signal - 5 picks per day, none paywalled/thin/unreadable, ids resolve
+try: _sig=json.load(open(os.path.join(ROOT,'wiki/signal_data.json')))
+except Exception: _sig={}
+for day,r in _sig.items():
+    if len(r['picks'])!=5: fails.append(f'R7 signal/{day} has {len(r["picks"])} picks, need 5')
+    for p in r['picks']:
+        if p['cat']!='ok': fails.append(f'R7 signal/{day} pick {p["id"]} is {p["cat"]}, must be ok')
+        if not os.path.exists(os.path.join(ROOT,'wiki/summaries',p['id']+'.md')): fails.append(f'R7 signal/{day} pick {p["id"]} does not resolve')
+    if len({p['id'] for p in r['picks']})!=5: fails.append(f'R7 signal/{day} has duplicate picks')
+if _sig and not os.path.exists(os.path.join(ROOT,'docs/signal/index.html')): fails.append('R7 docs/signal/index.html missing')
 if fails:
     print('VERIFY CONTENT FAILED:')
     for x in fails: print(' -',x)

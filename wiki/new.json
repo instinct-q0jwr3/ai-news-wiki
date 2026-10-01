@@ -50,148 +50,10 @@
    "url": "https://reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01"
   },
   {
-   "id": "082c881ce11a",
-   "title": "How OpenAI Disrupted a Model-Distillation Campaign",
-   "source": "TLDR AI",
-   "url": "https://links.tldrnewsletter.com/VFHse4"
-  },
-  {
-   "id": "540702df338d",
-   "title": "SoftBank made the final $10B investment in its $30B pledge to OpenAI's last funding round; source: Nvidia also made its final $10B investment in the round",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
-  },
-  {
    "id": "576939cf6931",
    "title": "Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base",
    "source": "Techmeme",
    "url": "https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second"
-  },
-  {
-   "id": "b7a54dc232ac",
-   "title": "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more",
-   "source": "Techmeme",
-   "url": "https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/"
-  },
-  {
-   "id": "8786c792b557",
-   "title": "IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via a convertible note that could help finance Anthropic's $125.2B, five-year TPU lease commitment",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/"
-  },
-  {
-   "id": "23e60edf697c",
-   "title": "SynthID Bio: Watermarking methods for synthetic biology",
-   "source": "TLDR AI",
-   "url": "https://deepmind.google/blog/introducing-synthid-bio/"
-  },
-  {
-   "id": "9fc35215a3da",
-   "title": "OpenAI says it \"parted ways\" with three researchers for violating its \"handling sensitive\" info policies; sources: they shared it with an AI safety organization",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "ef1514ffc35a",
-   "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
-  },
-  {
-   "id": "f735c9cc576c",
-   "title": "Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking"
-  },
-  {
-   "id": "93571df7dfe6",
-   "title": "Generalization Dynamics of LM Pre-training",
-   "source": "TLDR AI",
-   "url": "https://www.alphaxiv.org/abs/2609.33150"
-  },
-  {
-   "id": "e8876f8d9e4e",
-   "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
-   "source": "Lobsters",
-   "url": "https://github.com/dtonon/outis"
-  },
-  {
-   "id": "47e0eba1aa72",
-   "title": "A new transformer passes its hidden state to the next token instead of recomputing it",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2609.38149"
-  },
-  {
-   "id": "82834b4b67a1",
-   "title": "The ugly economics of consumer AI",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
-  },
-  {
-   "id": "1eb45063a722",
-   "title": "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/01/data-centers/"
-  },
-  {
-   "id": "c160b75c673f",
-   "title": "Can we predict the jobs robots will do?",
-   "source": "TLDR AI",
-   "url": "https://www.anthropic.com/research/what-work-can-robots-do"
-  },
-  {
-   "id": "479cc7c1b04d",
-   "title": "Introducing E2B Embed",
-   "source": "TLDR AI",
-   "url": "https://e2b.dev/resources/introducing-e2b-embed"
-  },
-  {
-   "id": "f9130264fd29",
-   "title": "Praxis-1",
-   "source": "TLDR AI",
-   "url": "https://runway.com/research/introducing-praxis-1"
-  },
-  {
-   "id": "b874c01b9e15",
-   "title": "We can and must solve alignment",
-   "source": "TLDR AI",
-   "url": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment"
-  },
-  {
-   "id": "8df1727e6e8f",
-   "title": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
-  },
-  {
-   "id": "09de2e5d4933",
-   "title": "NVIDIA OpenShell Secures Autonomous AI Agents",
-   "source": "TLDR AI",
-   "url": "https://github.com/NVIDIA/OpenShell"
-  },
-  {
-   "id": "d68c6cf058de",
-   "title": "Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access",
-   "source": "Techmeme",
-   "url": "https://claude.com/blog/claude-for-government-is-now-generally-available"
-  },
-  {
-   "id": "5c381e864112",
-   "title": "Anthropic has taken the unusual step of ending customers' discounts, which typically reach ~15%, once they hit the usage limits, forcing renegotiations",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending"
-  },
-  {
-   "id": "02dc5b891eec",
-   "title": "Ideogram 4.5: The most precise edit model",
-   "source": "TLDR AI",
-   "url": "https://ideogram.ai/models/4.5"
-  },
-  {
-   "id": "d327cd67c0d0",
-   "title": "Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday"
   },
   {
    "id": "9ca5523e1c35",
@@ -200,16 +62,154 @@
    "url": "https://links.tldrnewsletter.com/VmBjCJ"
   },
   {
+   "id": "1eb45063a722",
+   "title": "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/01/data-centers/"
+  },
+  {
+   "id": "93571df7dfe6",
+   "title": "Generalization Dynamics of LM Pre-training",
+   "source": "TLDR AI",
+   "url": "https://www.alphaxiv.org/abs/2609.33150"
+  },
+  {
+   "id": "f735c9cc576c",
+   "title": "Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking"
+  },
+  {
+   "id": "f9130264fd29",
+   "title": "Praxis-1",
+   "source": "TLDR AI",
+   "url": "https://runway.com/research/introducing-praxis-1"
+  },
+  {
+   "id": "8786c792b557",
+   "title": "IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via a convertible note that could help finance Anthropic's $125.2B, five-year TPU lease commitment",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/"
+  },
+  {
+   "id": "9fc35215a3da",
+   "title": "OpenAI says it \"parted ways\" with three researchers for violating its \"handling sensitive\" info policies; sources: they shared it with an AI safety organization",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "479cc7c1b04d",
+   "title": "Introducing E2B Embed",
+   "source": "TLDR AI",
+   "url": "https://e2b.dev/resources/introducing-e2b-embed"
+  },
+  {
+   "id": "47e0eba1aa72",
+   "title": "A new transformer passes its hidden state to the next token instead of recomputing it",
+   "source": "TLDR AI",
+   "url": "https://arxiv.org/abs/2609.38149"
+  },
+  {
+   "id": "b874c01b9e15",
+   "title": "We can and must solve alignment",
+   "source": "TLDR AI",
+   "url": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment"
+  },
+  {
+   "id": "23e60edf697c",
+   "title": "SynthID Bio: Watermarking methods for synthetic biology",
+   "source": "TLDR AI",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+  },
+  {
    "id": "b42e9880b606",
    "title": "Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users",
    "source": "TLDR AI",
    "url": "https://links.tldrnewsletter.com/VezRJB"
   },
   {
+   "id": "540702df338d",
+   "title": "SoftBank made the final $10B investment in its $30B pledge to OpenAI's last funding round; source: Nvidia also made its final $10B investment in the round",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "82834b4b67a1",
+   "title": "The ugly economics of consumer AI",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
+  },
+  {
+   "id": "8df1727e6e8f",
+   "title": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
+  },
+  {
+   "id": "02dc5b891eec",
+   "title": "Ideogram 4.5: The most precise edit model",
+   "source": "TLDR AI",
+   "url": "https://ideogram.ai/models/4.5"
+  },
+  {
    "id": "2267bd2b2836",
    "title": "Volantis, which aims to use vertical-cavity surface-emitting lasers, like those used by the iPhone's Face ID, to connect AI chips and memory chips, raised $88M",
    "source": "Techmeme",
    "url": "https://www.reuters.com/business/volantis-raises-88-million-tech-connect-ai-memory-chips-2026-10-01/"
+  },
+  {
+   "id": "e8876f8d9e4e",
+   "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
+   "source": "Lobsters",
+   "url": "https://github.com/dtonon/outis"
+  },
+  {
+   "id": "d68c6cf058de",
+   "title": "Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access",
+   "source": "Techmeme",
+   "url": "https://claude.com/blog/claude-for-government-is-now-generally-available"
+  },
+  {
+   "id": "b7a54dc232ac",
+   "title": "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more",
+   "source": "Techmeme",
+   "url": "https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/"
+  },
+  {
+   "id": "ef1514ffc35a",
+   "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
+  },
+  {
+   "id": "09de2e5d4933",
+   "title": "NVIDIA OpenShell Secures Autonomous AI Agents",
+   "source": "TLDR AI",
+   "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+   "id": "d327cd67c0d0",
+   "title": "Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday"
+  },
+  {
+   "id": "082c881ce11a",
+   "title": "How OpenAI Disrupted a Model-Distillation Campaign",
+   "source": "TLDR AI",
+   "url": "https://links.tldrnewsletter.com/VFHse4"
+  },
+  {
+   "id": "5c381e864112",
+   "title": "Anthropic has taken the unusual step of ending customers' discounts, which typically reach ~15%, once they hit the usage limits, forcing renegotiations",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending"
+  },
+  {
+   "id": "c160b75c673f",
+   "title": "Can we predict the jobs robots will do?",
+   "source": "TLDR AI",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do"
   }
  ]
 }

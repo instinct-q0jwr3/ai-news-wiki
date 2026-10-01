@@ -386,6 +386,31 @@ def build_feeds(xs):
     rows.sort(key=lambda r:(-r['stories'],r['name'].lower()))
     (WIKI/'feeds.json').write_text(json.dumps(rows,ensure_ascii=False,indent=1))
 
+SIGNAL_START='2026-10-01'
+def build_signal(xs):
+    """Daily Signal: authored picks (raw/llm/signal-<day>.json) + computed read time and accessibility counts."""
+    out={}
+    created={}
+    for p in (WIKI/'summaries').glob('*.md'):
+        m=re.search(r'created: (\d{4}-\d{2}-\d{2})',p.read_text())
+        if m: created[p.stem]=m.group(1)
+    titles={x['id']:x['title'] for x in xs}
+    for f in sorted((ROOT/'raw'/'llm').glob('signal-*.json')):
+        try: s=json.loads(f.read_text())
+        except Exception: continue
+        day=s.get('date') or f.stem.replace('signal-','')
+        ids=[i for i,dd in created.items() if dd==day]
+        cats=Counter(SOURCE_CAT.get(i,'unknown') for i in ids)
+        picks=[]
+        for pk in s.get('picks',[]):
+            i=pk['id']
+            try: n=len(json.loads((ROOT/'raw'/'cache'/'sources'/f'{i}.json').read_text()).get('text',''))
+            except Exception: n=0
+            mins=max(1,round(n/1100)) if n else 1
+            picks.append({'id':i,'title':short_title(next((x for x in xs if x['id']==i),{'title':titles.get(i,i)})),'front':pk.get('front',''),'source':pk.get('source',''),'minutes':mins,'why':pk.get('why',''),'cat':SOURCE_CAT.get(i,'unknown')})
+        out[day]={'picks':picks,'reserve':s.get('reserve'),'total':len(ids),'ok':cats.get('ok',0),'paywall':cats.get('paywall',0),'unreadable':cats.get('unreadable',0)+cats.get('unknown',0),'thin':cats.get('thin',0)}
+    (WIKI/'signal_data.json').write_text(json.dumps(out,ensure_ascii=False,indent=1,sort_keys=True))
+
 def build_summaries(xs,stamp):
     PAYWALLED.clear(); SOURCE_CAT.clear()
     out=WIKI/'summaries'; out.mkdir(exist_ok=True)
@@ -693,6 +718,6 @@ def main():
     xs,stamp=load_stories(); compute_new()
     for x in xs:
         t=short_title(x); x['feed_title']=x.get('title',''); x['title']=t
-    enrich_sources(xs); build_summaries(xs,stamp); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_weekly(xs,stamp); update_index(stamp,xs)
+    enrich_sources(xs); build_summaries(xs,stamp); build_signal(xs); build_daily(); build_entities(xs,stamp); build_concepts(xs,stamp); build_weekly(xs,stamp); update_index(stamp,xs)
     print(f'Regenerated summaries and contextual pages from {len(xs)} unique stories')
 if __name__=='__main__': main()

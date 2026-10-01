@@ -5,6 +5,7 @@ import html,json,re,shutil,time
 from collections import Counter
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; WIKI=ROOT/'wiki'; OUT=ROOT/'docs'
+SIGNAL_LABEL='Signal'  # menu name, change here
 LABELS={'daily':'Daily','weekly':'Weekly','summaries':'Stories','entities':'Entities','concepts':'Concepts'}
 
 def last_pass():
@@ -167,7 +168,7 @@ def pager_html(page,tpages):
 
 
 BUILD_V=str(int(time.time()))
-NAV=[('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts'),('feeds','Feeds')]
+NAV=[('daily','Daily'),('signal',SIGNAL_LABEL),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts'),('feeds','Feeds')]
 def shell(title,content,rel='',search=False,section=''):
     nav=''.join(f'<a href="{rel}{k}/index.html"'+((' class="active" aria-current="page"') if k==section else '')+f'>{v}</a>' for k,v in NAV)
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
@@ -281,8 +282,23 @@ def main():
     (OUT/'index.html').write_text(shell('AI News Wiki',body,'',True))
     (OUT/'assets'/'search-index.json').write_text(json.dumps(docs,ensure_ascii=False))
     (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")
-    (OUT/'assets'/'style.css').write_text(CSS+'.src-mark{cursor:help}.row-title{flex:1 1 0}')
+    (OUT/'assets'/'style.css').write_text(CSS+'.a-list{list-style:none;padding:0;margin:0}.a-row{display:flex;gap:14px;padding:16px 0;border-bottom:1px solid #1c2126}.a-n{font:700 34px/1 ui-monospace,monospace;color:var(--cyan);width:30px;flex:0 0 30px}.a-t{font-size:16px;font-weight:650;line-height:1.35;display:block}.a-m{font:11px ui-monospace,monospace;color:var(--muted);margin:6px 0}.a-w{margin:0;color:#b7c0c9;font-size:14px;line-height:1.55}@media(max-width:760px){nav{gap:11px!important;overflow-x:visible!important}nav a{font-size:12.5px}}'+'.src-mark{cursor:help}.row-title{flex:1 1 0}')
     (OUT/'.nojekyll').write_text('')
+    sj=WIKI/'signal_data.json'
+    if sj.exists():
+        sd=json.loads(sj.read_text()); days=sorted(sd,reverse=True); (OUT/'signal').mkdir(exist_ok=True)
+        def _spage(day):
+            r=sd[day]; rows=''
+            for k,p in enumerate(r['picks'],1):
+                rows+=f'<li class="a-row"><span class="a-n">{k}</span><div><a class="a-t" href="../summaries/{p["id"]}.html">{html.escape(p["title"])}</a><div class="a-m">{html.escape(p["front"])} \u00b7 {html.escape(p["source"])} \u00b7 {p["minutes"]} min</div><p class="a-w">{html.escape(p["why"])}</p></div></li>'
+            skipped=r['total']-r['ok']
+            foot=f'<p class="meta" style="margin-top:26px">Skipped before ranking: {skipped} of {r["total"]} stories ({r["paywall"]} paywalled, {r["unreadable"]} unreadable, {r["thin"]} too short).</p>'
+            arch=''.join(f'<a href="{d2}.html" class="{"active" if d2==day else ""}">{d2}</a> ' for d2 in days)
+            nav2=f'<p class="meta" style="margin-top:14px">Other days: {arch}</p>' if len(days)>1 else ''
+            body=f'<div class="page-title"><span class="eyebrow">Library</span><h1>{html.escape(SIGNAL_LABEL)}</h1><p>The 5 articles worth your time on {day}. Only fully readable sources.</p></div><ol class="a-list">{rows}</ol>{foot}{nav2}'
+            return shell(f'{SIGNAL_LABEL} {day}',body,'../',section='signal')
+        for day in days: (OUT/'signal'/f'{day}.html').write_text(_spage(day))
+        (OUT/'signal'/'index.html').write_text(_spage(days[0]))
     fj=WIKI/'feeds.json'
     if fj.exists():
         fr=json.loads(fj.read_text()); (OUT/'feeds').mkdir(exist_ok=True)

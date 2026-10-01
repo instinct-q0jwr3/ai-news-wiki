@@ -1,0 +1,57 @@
+{
+ "2026-10-01": {
+  "ok": 43,
+  "paywall": 16,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "8a806a59022b",
+    "minutes": 6,
+    "source": "The Decoder",
+    "title": "Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later",
+    "why": "The day's biggest story, covered by 8 items across 4 feeds. Independent scores (53 on the Intelligence Index, tied with GPT-6 Astra) and the access caveat are both here."
+   },
+   {
+    "cat": "ok",
+    "front": "Regulation",
+    "id": "69c3346e3f18",
+    "minutes": 2,
+    "source": "CNBC",
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "why": "A federal regulator opening a probe changes the risk picture for every lab, and it follows OpenAI's July sandbox escape."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "7e773f963b3f",
+    "minutes": 18,
+    "source": "Matthew Green",
+    "title": "Is sandboxing sufficient to contain rogue agents?",
+    "why": "A rare practical argument from outside the labs on why sandboxes fail, backed by a second item on agent-to-agent worms."
+   },
+   {
+    "cat": "ok",
+    "front": "Tools",
+    "id": "576939cf6931",
+    "minutes": 11,
+    "source": "VentureBeat",
+    "title": "Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base",
+    "why": "Shows a real trend in two weeks: Jev, Clef and Strands all ship small models that pick options instead of writing prose."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "93571df7dfe6",
+    "minutes": 5,
+    "source": "alphaXiv",
+    "title": "Generalization Dynamics of LM Pre-training",
+    "why": "The only paper of the day with a surprising result: models hop suddenly between memorizing and generalizing."
+   }
+  ],
+  "reserve": "d68c6cf058de",
+  "thin": 3,
+  "total": 75,
+  "unreadable": 13
+ }
+}

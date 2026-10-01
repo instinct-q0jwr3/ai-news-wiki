@@ -1,0 +1,36 @@
+{
+ "date": "2026-10-01",
+ "reserve": "d68c6cf058de",
+ "picks": [
+  {
+   "id": "8a806a59022b",
+   "front": "Models",
+   "source": "The Decoder",
+   "why": "The day's biggest story, covered by 8 items across 4 feeds. Independent scores (53 on the Intelligence Index, tied with GPT-6 Astra) and the access caveat are both here."
+  },
+  {
+   "id": "69c3346e3f18",
+   "front": "Regulation",
+   "source": "CNBC",
+   "why": "A federal regulator opening a probe changes the risk picture for every lab, and it follows OpenAI's July sandbox escape."
+  },
+  {
+   "id": "7e773f963b3f",
+   "front": "Safety",
+   "source": "Matthew Green",
+   "why": "A rare practical argument from outside the labs on why sandboxes fail, backed by a second item on agent-to-agent worms."
+  },
+  {
+   "id": "576939cf6931",
+   "front": "Tools",
+   "source": "VentureBeat",
+   "why": "Shows a real trend in two weeks: Jev, Clef and Strands all ship small models that pick options instead of writing prose."
+  },
+  {
+   "id": "93571df7dfe6",
+   "front": "Research",
+   "source": "alphaXiv",
+   "why": "The only paper of the day with a surprising result: models hop suddenly between memorizing and generalizing."
+  }
+ ]
+}
