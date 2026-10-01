@@ -18,6 +18,8 @@ On that basis: the inference-infrastructure tier is re-rating violently as AI wo
 - A ~3x markup in four months shows how hot the inference tier is
 - Paywalled; round sizes and investors unknown
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.bloomberg.com/news/articles/2026-09-23/startups-modal-baseten-in-funding-talks-to-help-businesses-run-ai)

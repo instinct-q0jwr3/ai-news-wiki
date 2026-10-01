@@ -17,6 +17,8 @@ On that basis: another case of an unauthorized AI likeness used in advertising -
 - Her question - 'what do I do?' - is exactly what law hasn't settled
 - Post line only; brand and follow-up unknown
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s)

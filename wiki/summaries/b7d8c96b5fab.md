@@ -14,6 +14,8 @@ OpenAI is developing features to counter SpaceX's Grok Bot 'teammates' and has d
 - It has discussed a personal AI assistant to compete with Meta's Muse.
 - The reporting comes as agent-style assistants proliferate across rivals.
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse)

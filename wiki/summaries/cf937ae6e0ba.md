@@ -17,6 +17,8 @@ On that basis: in China's AI trade, the market is rewarding companies that sell 
 - The market prices international traction as proof of competitiveness
 - Paywalled; basket composition and methodology unknown
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions)

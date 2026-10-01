@@ -16,6 +16,8 @@ On that basis: Meta formally moving into enterprise software - selling its AI st
 - Meta moves into enterprise software built on its AI stack
 - Body not captured; components, pricing and targets unknown
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc?st=GGaGqm&reflink=desktopwebshare_permalink)

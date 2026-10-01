@@ -14,6 +14,8 @@ Before the Hugging Face incident, OpenAI was negotiating a legally binding deal 
 - The talks predated the Hugging Face incident.
 - OpenAI is rethinking safety strategies amid internal and external pressure.
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai)

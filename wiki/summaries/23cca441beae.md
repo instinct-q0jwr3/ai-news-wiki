@@ -14,6 +14,8 @@ TLDR AI highlights an evaluation finding that Astra, Opus 5.5 and other frontier
 - Coverage spans web browsing to robotics
 - Selected by TLDR AI; only the headline was retrievable
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://www.fig.inc/blog/astra-opus-5-5-and-other-frontier-models-demonstrate-jagged-performance-across-sota-agentic-tasks-from-web-browsing-to-robotics/) · [TLDR AI issue](https://tldr.tech/ai/2026-09-30)

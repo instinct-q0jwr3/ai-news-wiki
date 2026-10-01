@@ -15,6 +15,8 @@ Google is rolling out Gemini 4 Argon, its long-awaited next-generation model, fi
 - Google joins the voluntary US pre-release process
 - Basis: Techmeme excerpt of Axios
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://www.axios.com/2026/09/30/google-gemini-4)

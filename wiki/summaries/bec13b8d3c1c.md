@@ -14,6 +14,8 @@ Young people in China launched more than 7 million one-person startups in 2025, 
 - AI tools enable the solo-founder trend amid a bleak job market.
 - Founders face fierce competition despite the low barrier to entry.
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://www.techmeme.com/260920/p18#a260920p18)

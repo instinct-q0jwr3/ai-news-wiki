@@ -18,6 +18,8 @@ So he set a harder target: Redis must run even with the kernel's unaligned-acces
 - The fix: only word-sized unaligned accesses, which ARM handles transparently
 - A 10-year-old deep-dive from the Redis-on-embedded era
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](http://antirez.com/news/111)

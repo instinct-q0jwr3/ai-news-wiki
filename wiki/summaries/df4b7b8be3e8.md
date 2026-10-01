@@ -14,6 +14,8 @@ Reports that the FTC has opened a probe into AI giants including Anthropic and O
 - Only the headline was retrievable; details unavailable
 - Summary based on the headline alone
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/)

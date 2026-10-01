@@ -20,6 +20,8 @@ His method: a markdown file that instructs an agent to work as a QA engineer on 
 - Redis Arrays example: agent built and stress-ran a full production-like app for days
 - Agents can review UX-level sloppiness and undocumented surprises humans skip
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](http://antirez.com/news/168)

@@ -14,6 +14,8 @@ In a Show HN post, a developer shares a custom CHIP-8 assembler written in C++, 
 - Should cover all original CHIP-8 instructions; rough edges remain.
 - Author's first C++ project, written by hand without AI.
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://github.com/Tackx/c8-ass)

@@ -17,6 +17,8 @@ On that basis: another rapid re-rating in AI infrastructure - investors doubling
 - Developer tooling keeps repricing upward
 - Paywalled; product detail, investors and prior valuation unknown
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost)

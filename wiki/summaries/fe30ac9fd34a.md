@@ -15,6 +15,8 @@ The New York Times reports that OpenAI president Greg Brockman told staff in a S
 - Said internally on Slack
 - Basis: Techmeme excerpt of the NYT
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&smid=bs-share)

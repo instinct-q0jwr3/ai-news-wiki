@@ -17,6 +17,8 @@ On that basis: Fusor compiles a Vue-like single-file-component workflow to Rust 
 - Rust goes in double-brace bindings and directives like on:click
 - Fragment capture; rendering model and toolchain details unknown
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://fusor.build)

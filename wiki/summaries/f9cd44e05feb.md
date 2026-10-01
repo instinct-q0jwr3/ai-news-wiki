@@ -14,6 +14,8 @@ A piece on Architecture Intel argues that AI cannot save an enterprise that does
 - Published on architectureintel.com.
 - Drew 13 points and 5 comments on Hacker News.
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317)

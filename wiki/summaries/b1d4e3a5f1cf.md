@@ -14,6 +14,8 @@ Gwern's July 2020 newsletter: links on the Uighurs, authoritarianism, negative e
 - Includes one movie and two anime reviews
 - Historical entry surfaced via the OPML blog batch
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://gwern.substack.com/p/july-2020-gwernnet-newsletter)

@@ -15,6 +15,8 @@ OpenAI says people associated with Moonshot AI played a significant role in a co
 - Described as coordinated and wide-scale
 - Moonshot's side not covered in the excerpt
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.bloomberg.com/news/articles/2026-09-30/openai-blames-moonshot-for-mass-data-extraction-on-its-ai-models)

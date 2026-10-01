@@ -55,6 +55,14 @@ for f in sorted(glob.glob(os.path.join(ROOT,'raw/llm/digest-*.json')))+sorted(gl
     for sec in d.get('sections') or []:
         for sid in sec.get('stories',[]):
             if sid not in ids: fails.append(f'R4 {os.path.basename(f)} section "{sec.get("title")}" references unknown story id {sid}')
+# R5: entity pages need >=1 timeline event and must not be a feed/source name
+try:
+    _feeds={r['name'].lower() for r in json.load(open(os.path.join(ROOT,'wiki/feeds.json')))}
+except Exception: _feeds=set()
+for p in glob.glob(os.path.join(ROOT,'wiki/entities/*.md')):
+    t=open(p).read(); nm=t.splitlines()[0][2:].strip().lower()
+    if '\n- **' not in t: fails.append(f'R5 entity {os.path.basename(p)} has no timeline events')
+    if nm in _feeds: fails.append(f'R5 entity {os.path.basename(p)} is a feed/source name')
 if fails:
     print('VERIFY CONTENT FAILED:')
     for x in fails: print(' -',x)

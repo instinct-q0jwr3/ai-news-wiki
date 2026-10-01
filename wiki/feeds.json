@@ -1,0 +1,194 @@
+[
+ {
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 314,
+  "last": "2026-10-01"
+ },
+ {
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 307,
+  "last": "2026-10-01"
+ },
+ {
+  "name": "TLDR AI",
+  "url": "https://tldr.tech/ai",
+  "stories": 121,
+  "last": "2026-09-30"
+ },
+ {
+  "name": "antirez",
+  "url": "https://antirez.com/rss",
+  "stories": 31,
+  "last": "2026-09-26"
+ },
+ {
+  "name": "Bert Hubert",
+  "url": "https://berthub.eu/articles/index.xml",
+  "stories": 31,
+  "last": "2026-09-26"
+ },
+ {
+  "name": "Pluralistic",
+  "url": "https://pluralistic.net/feed/",
+  "stories": 31,
+  "last": "2026-09-29"
+ },
+ {
+  "name": "Simon Willison",
+  "url": "https://simonwillison.net/atom/everything/",
+  "stories": 26,
+  "last": "2026-09-30"
+ },
+ {
+  "name": "Lobsters",
+  "url": "https://lobste.rs/rss",
+  "stories": 23,
+  "last": "2026-09-29"
+ },
+ {
+  "name": "Daring Fireball",
+  "url": "https://daringfireball.net/feeds/main",
+  "stories": 21,
+  "last": "2026-09-29"
+ },
+ {
+  "name": "Works on My Machine",
+  "url": "https://worksonmymachine.substack.com/feed",
+  "stories": 20,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "Latent.Space",
+  "url": "https://www.latent.space/feed",
+  "stories": 18,
+  "last": "2026-10-01"
+ },
+ {
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
+  "stories": 14,
+  "last": "2026-09-30"
+ },
+ {
+  "name": "Ed Zitron",
+  "url": "https://www.wheresyoured.at/rss/",
+  "stories": 11,
+  "last": "2026-09-29"
+ },
+ {
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 11,
+  "last": "2026-09-30"
+ },
+ {
+  "name": "Anil Dash",
+  "url": "https://www.anildash.com/feed.xml",
+  "stories": 10,
+  "last": "2026-09-29"
+ },
+ {
+  "name": "Armin Ronacher",
+  "url": "https://lucumr.pocoo.org/feed.atom",
+  "stories": 10,
+  "last": "2026-09-26"
+ },
+ {
+  "name": "Dwarkesh Podcast",
+  "url": "https://www.dwarkesh.com/feed",
+  "stories": 10,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "Gwern",
+  "url": "https://gwern.substack.com/feed",
+  "stories": 10,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "seangoedecke",
+  "url": "https://www.seangoedecke.com/rss.xml",
+  "stories": 10,
+  "last": "2026-09-27"
+ },
+ {
+  "name": "Max Woolf",
+  "url": "https://minimaxir.com/index.xml",
+  "stories": 8,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "Geoffrey Litt",
+  "url": "https://www.geoffreylitt.com/feed.xml",
+  "stories": 7,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "geohot",
+  "url": "https://geohot.github.io/blog/feed.xml",
+  "stories": 6,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "lcamtuf",
+  "url": "https://lcamtuf.substack.com/feed",
+  "stories": 3,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "Krebs on Security",
+  "url": "https://krebsonsecurity.com/feed/",
+  "stories": 2,
+  "last": "2026-09-26"
+ },
+ {
+  "name": "Mitchell Hashimoto",
+  "url": "https://mitchellh.com/feed.xml",
+  "stories": 2,
+  "last": "2026-09-26"
+ },
+ {
+  "name": "Troy Hunt",
+  "url": "https://www.troyhunt.com/rss/",
+  "stories": 2,
+  "last": "2026-09-26"
+ },
+ {
+  "name": "Westenberg",
+  "url": "https://www.joanwestenberg.com/feed",
+  "stories": 1,
+  "last": "2026-09-25"
+ },
+ {
+  "name": "Xe Iaso",
+  "url": "https://xeiaso.net/blog.rss",
+  "stories": 1,
+  "last": "2026-09-26"
+ },
+ {
+  "name": "Experimental History",
+  "url": "https://www.experimental-history.com/feed",
+  "stories": 0,
+  "last": ""
+ },
+ {
+  "name": "matklad",
+  "url": "https://matklad.github.io/feed.xml",
+  "stories": 0,
+  "last": ""
+ },
+ {
+  "name": "Paul Graham",
+  "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+  "stories": 0,
+  "last": ""
+ },
+ {
+  "name": "Terence Eden",
+  "url": "https://shkspr.mobi/blog/feed/",
+  "stories": 0,
+  "last": ""
+ }
+]

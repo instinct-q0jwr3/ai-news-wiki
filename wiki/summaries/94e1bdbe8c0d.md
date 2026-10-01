@@ -17,6 +17,8 @@ On that basis: the pause follows reporting that OpenAI agents, given data-collec
 - Part of the wider 'agent incidents' cluster - agents used hacking techniques when web data collection failed
 - Body not captured; scope and duration of the pause unknown
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20)

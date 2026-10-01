@@ -366,13 +366,28 @@ def event_line(x,base='..'):
     ents,concepts=related(x); links=[story_link(x,base)]+[entity_link(s,base) for s in ents]+[concept_link(s,base) for s in concepts]
     summary=story_summary(x)
     if len(summary)>260: summary=summary[:257].rsplit(' ',1)[0]+'…'
-    lock=' 🔒' if x.get('id') in PAYWALLED else ''
+    lock=mark(x.get('id'))
     return f'- **{fmt_date(x.get("first_seen"))}** - {summary} ('+' · '.join(links)+')'+lock
 
 PAYWALLED=set()
+SOURCE_CAT={}
+def mark(i):
+    c=SOURCE_CAT.get(i)
+    return ' 🔒' if c=='paywall' else (' ⚠' if c in ('thin','unreadable','unknown') else '')
+
+def build_feeds(xs):
+    import sys; sys.path.insert(0,str(ROOT/'src'))
+    from update_feed import SOURCES as FEEDS
+    urls=dict(FEEDS); urls['Hacker News']='https://news.ycombinator.com/'; urls['TLDR AI']='https://tldr.tech/ai'
+    cnt=Counter(x.get('source','?') for x in xs); last={}
+    for x in xs: last[x.get('source','?')]=max(last.get(x.get('source','?'),''),x.get('first_seen','') or '')
+    names=list(urls)+[n for n in cnt if n not in urls]
+    rows=[{'name':n,'url':urls.get(n,''),'stories':cnt.get(n,0),'last':fmt_date(last[n]) if n in last and last[n] else ''} for n in names]
+    rows.sort(key=lambda r:(-r['stories'],r['name'].lower()))
+    (WIKI/'feeds.json').write_text(json.dumps(rows,ensure_ascii=False,indent=1))
 
 def build_summaries(xs,stamp):
-    PAYWALLED.clear()
+    PAYWALLED.clear(); SOURCE_CAT.clear()
     out=WIKI/'summaries'; out.mkdir(exist_ok=True)
     valid=set()
     for x in xs:
@@ -396,25 +411,36 @@ def build_summaries(xs,stamp):
             summary_sec=prose+hl
         else: summary_sec=story_summary(x)
         st=SOURCES.get(x['id'],{})
-        if not llm and st.get('status') in ('thin','error'):
-            dom=re.sub(r'^www\.','',urlsplit(st.get('url') or x.get('url') or '').netloc)
+        dom=re.sub(r'^www\.','',urlsplit(st.get('url') or x.get('url') or '').netloc)
+        sstat=st.get('status')
+        if sstat in ('thin','error'):
             if st.get('block')=='paywall' or dom in PAYWALL_DOMAINS:
-                summary_sec+='\n\n_The original source is behind a paywall._'
-                PAYWALLED.add(x['id'])
+                cat='paywall'; summary_sec+='\n\n_The original source is behind a paywall._'; PAYWALLED.add(x['id'])
+            elif sstat=='thin':
+                cat='thin'; summary_sec+='\n\n_Only a short excerpt of the source could be read._'
             else:
-                summary_sec+='\n\n_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._'
+                cat='unreadable'; summary_sec+='\n\n_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._'
+        elif sstat=='ok': cat='ok'
+        else: cat='unknown'
+        SOURCE_CAT[x['id']]=cat
         text=f'# {x["title"]}\n\n{meta}\n\n## Summary\n\n{summary_sec}\n\n## Source\n\n{source}\n\n## Related pages\n\n'+((' · '.join(related_links)) if related_links else '_No related entity or concept page yet._')+'\n'
         (out/f'{x["id"]}.md').write_text(text)
     for p in out.glob('*.md'):
         if p.name not in valid: p.unlink()
+    (WIKI/'source_status.json').write_text(json.dumps(SOURCE_CAT,sort_keys=True))
+    build_feeds(xs)
 
 def build_entities(xs,stamp):
     out=WIKI/'entities'; out.mkdir(exist_ok=True)
+    for _p in out.glob('*.md'):
+        if _p.stem not in ENTITY_DEFS: _p.unlink()
     for slug,(name,kind,terms,overview) in ENTITY_DEFS.items():
         hits=sorted(match(xs,terms),key=lambda x:(x.get('first_seen',''),x.get('score',0)),reverse=True)
         tags=['entity',slug]+sorted({c for x in hits for c in related(x)[1]})[:4]
         created=min((fmt_date(x.get('first_seen')) for x in hits),default=fmt_date(stamp))
-        lines='\n'.join(event_line(x) for x in hits) or '_No matching events in the current corpus._'
+        if not hits:
+            (out/f'{slug}.md').unlink(missing_ok=True); continue
+        lines='\n'.join(event_line(x) for x in hits)
         (out/f'{slug}.md').write_text(f'# {name}\n\n{metadata(kind,created,fmt_date(stamp),"medium",tags)}\n\n## Overview\n\n{overview}\n\n## Timeline\n\n{lines}\n')
 
 def build_concepts(xs,stamp):
@@ -447,7 +473,7 @@ def prose_links(items,limit=4):
     for x in chosen:
         t=story_summary(x)
         if len(t)>280: t=t[:280].rsplit(' ',1)[0].rstrip(' ,;:')+'\u2026'
-        lock=' 🔒' if x.get('id') in PAYWALLED else ''
+        lock=mark(x.get('id'))
         parts.append(f"{t} ([read more](../summaries/{x['id']}.md){lock}).")
     midpoint=max(1,(len(parts)+1)//2)
     return ' '.join(parts[:midpoint])+'\n\n'+' '.join(parts[midpoint:]) if len(parts)>1 else parts[0]

@@ -15,6 +15,8 @@ Reuters reports that OpenAI CEO Sam Altman is set to brief the UN Security Counc
 - Context: arrives amid US congressional scrutiny and state legal action over lab behavior
 - Honest-basis note: topic, format, and date of the briefing are unverified
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)

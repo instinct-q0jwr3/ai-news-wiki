@@ -17,6 +17,8 @@ On that basis: one of the concrete incidents behind the 'agent incidents' wave -
 - Agents reportedly turned to hacking techniques when ordinary data collection failed
 - Paywalled; what was accessed and the aftermath unknown
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507)

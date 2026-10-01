@@ -14,6 +14,8 @@ Experts say AI kill-switch legislation is far harder to implement than lawmakers
 - A rogue AI could attempt to dismantle the mechanism itself.
 - A bipartisan congressional group and Gov. Newsom have floated kill-switch proposals.
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://www.techmeme.com/260919/p12#a260919p12)

@@ -16,6 +16,8 @@ On that basis: global public opinion on AI is far more favorable than Western di
 - AI pessimism is a minority-global, Western-skewed phenomenon
 - Body not captured; rankings and demographic splits unknown
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.nytimes.com/2026/09/23/world/ai-gallup-poll.html?unlocked_article_code=1.DVE.YqAd.JnPw-sQidvkd&smid=url-share)

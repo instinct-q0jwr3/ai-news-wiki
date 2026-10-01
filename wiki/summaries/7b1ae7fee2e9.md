@@ -14,6 +14,8 @@ The Financial Times interviews Raspberry Pi CEO Eben Upton about the Raspberry P
 - Upton is skeptical of AI evangelists while noting AI is driving edge-device demand.
 - He calls coding the modern form of literacy.
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://www.techmeme.com/260920/p7#a260920p7)

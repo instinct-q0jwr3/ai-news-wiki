@@ -1,0 +1,16 @@
+{
+ "id": "d68c6cf058de",
+ "authored_at": "2026-10-01T06:15:12.701527+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Anthropic says Claude for Government is now generally available to federal and state agencies, after a public beta that began in July. It runs in a FedRAMP High authorized environment and gives agencies capabilities comparable to Anthropic's commercial customers, arriving on the commercial release cadence. Staff can use Claude on desktop files for memos, RFP reviews and casework, and teams can use Claude Code to build and modernize public-service software.\n\nGovernance is the selling point: administrators set configuration defaults and control spending across departments, security teams get audit logs and documentation for the ATO process, and procurement officers can contract directly with Anthropic. Pricing has no seat fees; agencies pay for usage in fixed increments with a hard not-to-exceed cap. The Claude Code CLI and Claude for Microsoft 365 are rolling out in early access in the same environment.",
+ "highlights": [
+  "Generally available to federal and state agencies after a July beta",
+  "FedRAMP High authorized environment",
+  "Capabilities comparable to commercial Claude, on the commercial cadence",
+  "Admin controls for spending and defaults, audit logs for ATO",
+  "Direct procurement from Anthropic",
+  "No seat fees; usage-based with a hard spend cap",
+  "Claude Code CLI and Claude for Microsoft 365 in early access"
+ ]
+}

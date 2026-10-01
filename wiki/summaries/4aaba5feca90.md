@@ -14,6 +14,8 @@ US startup Firebird is building a 300MW data center in Armenia set to host more 
 - Sources say Trump pledged Nvidia export approvals to Armenia.
 - Armenia was the Soviet Union's smallest republic and an electronics hub.
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.bloomberg.com/news/articles/2026-09-22/nvidia-chips-donald-trump-turn-armenia-into-ai-hotspot)

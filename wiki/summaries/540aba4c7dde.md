@@ -14,6 +14,8 @@ Nvidia has added $150 billion to its stock buyback program - the largest ever, p
 - The source could not be fetched, so only the headline claim is summarized
 - Honest-basis note: total authorization and timing are unverified
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html?unlocked_article_code=1.E1E.XwFn.itY4m5r1HZiy&smid=url-share) · [TLDR AI issue](https://tldr.tech/ai/2026-09-29)

@@ -14,6 +14,8 @@ Gwern's September 2020 newsletter: a link roundup covering deep reinforcement le
 - No reviews that month; a minimal monthly edition
 - Historical entry surfaced via the OPML blog batch
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://gwern.substack.com/p/september-2020-news)

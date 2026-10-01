@@ -18,6 +18,8 @@ Gruber notes Zuckerberg deftly sidestepped the camera-privacy backlash by leadin
 - Zuckerberg pitched price, battery and looks while dodging the camera-privacy debate
 - Gruber: the audio model is 'not that much less expensive' than pitched
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://www.youtube.com/watch?v=SdKFDIAGF24)

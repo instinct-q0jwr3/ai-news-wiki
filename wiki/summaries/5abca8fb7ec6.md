@@ -14,6 +14,8 @@ Meta's new personal AI agent, Muse, was tried by more than 500,000 people roughl
 - Daily active users exceeded 250,000.
 - More than 2M prompts were submitted in the first week.
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.theinformation.com/)

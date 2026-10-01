@@ -17,6 +17,8 @@ On that basis: the administration is framing AI-safety politics as capture by an
 - Same news cycle as the reported Trump-Amodei White House dinner
 - Body not captured; authorship and full claims unknown
 
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
+
 ## Source
 
 [Read the original story](https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei)

@@ -17,6 +17,8 @@ On that basis: the unreliability of detectors - flagging honest work as machine-
 - Accusations built on unreliable tools proved worse than the problem
 - Body not captured; which campuses and what replaces detection unknown
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](http://www.theatlantic.com/)

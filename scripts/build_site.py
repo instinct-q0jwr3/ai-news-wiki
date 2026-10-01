@@ -36,6 +36,7 @@ def render_md(text):
     for raw in text.splitlines():
         line=raw.strip()
         if line.startswith('<!--'): continue
+        if re.fullmatch(r'(`[^`]+`\s*)+',line): continue
         if line.startswith('#'):
             if in_list: out.append('</ul>'); in_list=False
             level=len(line)-len(line.lstrip('#')); htxt=line[level:].strip()
@@ -76,11 +77,22 @@ def meta_of(p):
         if m: meta['updated']=m.group(1)
     return meta
 
+def _cats():
+    f=WIKI/'source_status.json'
+    return json.loads(f.read_text()) if f.exists() else {}
+CATS=None
+def mark_html(i):
+    global CATS
+    if CATS is None: CATS=_cats()
+    c=CATS.get(i)
+    if c=='paywall': return ' <span class="src-mark" title="Behind a paywall - summary based on the feed excerpt">\U0001F512</span>'
+    if c in ('thin','unreadable','unknown'): return ' <span class="src-mark" title="Source could not be fully read - summary based on a short excerpt">\u26A0</span>'
+    return ''
+
 def row_html(p,link,is_new=False,kind=None,state=False):
     m=meta_of(p)
     tags=' '.join(m['tags'])
     show_tags=[t for t in m['tags'] if t!=kind]
-    chips=''.join(f'<code>{html.escape(t)}</code>' for t in show_tags)
     kindcell=f'<span class="row-kind">{html.escape(kind)}</span>' if kind else ''
     if state and m['updated']:
         if m['created'] and m['created']==m['updated']:
@@ -90,10 +102,10 @@ def row_html(p,link,is_new=False,kind=None,state=False):
     else:
         meta=f"upd {m['updated']}" if m['updated'] else ''
     badge=NEW_BADGE if is_new else ''
-    lock=' \U0001F512' if p.parent.name=='summaries' and 'behind a paywall' in p.read_text() else ''
+    lock=mark_html(p.stem) if p.parent.name=='summaries' else ''
     return (f'<li class="row" data-tags="{html.escape(tags,quote=True)}">'
             f'<a class="row-title" href="{link}">{html.escape(title_of(p))}</a>{badge}{kindcell}'
-            f'<span class="row-tags">{chips}</span><span class="row-meta">{meta}{lock}</span></li>')
+            f'<span class="row-meta">{meta}{lock}</span></li>')
 
 FILTER_JS='''<script>
 document.querySelectorAll('.filter-bar').forEach(function(bar){
@@ -154,7 +166,7 @@ def pager_html(page,tpages):
 
 
 BUILD_V=str(int(time.time()))
-NAV=[('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts')]
+NAV=[('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts'),('feeds','Feeds')]
 def shell(title,content,rel='',search=False,section=''):
     nav=''.join(f'<a href="{rel}{k}/index.html"'+((' class="active" aria-current="page"') if k==section else '')+f'>{v}</a>' for k,v in NAV)
     box='<div class="search-wrap"><input id="search" type="search" placeholder="Search the wiki…" autocomplete="off"><div id="results"></div></div>' if search else '<a class="search-link" href="'+rel+'index.html#search">Search</a>'
@@ -256,7 +268,7 @@ def main():
     if NEW_STORIES:
         def _nrow(x):
             sf=WIKI/'summaries'/f'{x["id"]}.md'
-            lock=' \U0001F512' if sf.exists() and 'behind a paywall' in sf.read_text() else ''
+            lock=mark_html(x["id"])
             return f'<li class="row"><a class="row-title" href="summaries/{html.escape(x["id"],quote=True)}.html">{html.escape(x.get("title",""))}</a>{NEW_BADGE}<span class="row-meta">{html.escape(x.get("source",""))}{lock}</span></li>'
         nrows=''.join(_nrow(x) for x in NEW_STORIES)
         newsec=f'<section><div class="section-head"><h2>New this update</h2><span>{note} \u00b7 {len(NEW_STORIES)} added</span></div><ul class="row-list">{nrows}</ul></section>'
@@ -268,8 +280,15 @@ def main():
     (OUT/'index.html').write_text(shell('AI News Wiki',body,'',True))
     (OUT/'assets'/'search-index.json').write_text(json.dumps(docs,ensure_ascii=False))
     (OUT/'assets'/'search.js').write_text("""const q=document.querySelector('#search'),r=document.querySelector('#results');let docs=[];fetch('assets/search-index.json').then(x=>x.json()).then(x=>docs=x);q?.addEventListener('input',()=>{let s=q.value.trim().toLowerCase();if(s.length<2){r.innerHTML='';return}let m=docs.filter(d=>(d.title+' '+d.text).toLowerCase().includes(s)).slice(0,8);r.innerHTML=m.map(d=>`<a href="${d.url}"><b>${d.title}</b><span>${d.type}</span></a>`).join('')||'<i>No results</i>'});""")
-    (OUT/'assets'/'style.css').write_text(CSS)
+    (OUT/'assets'/'style.css').write_text(CSS+'.src-mark{cursor:help}.row-title{flex:1 1 0}')
     (OUT/'.nojekyll').write_text('')
+    fj=WIKI/'feeds.json'
+    if fj.exists():
+        fr=json.loads(fj.read_text()); (OUT/'feeds').mkdir(exist_ok=True)
+        tot=sum(r['stories'] for r in fr)
+        trs=''.join(f'<li class="row"><span class="row-title">{html.escape(r["name"])}'+(f' <a href="{html.escape(r["url"],quote=True)}" rel="noopener">feed</a>' if r['url'] else '')+f'</span><span class="row-meta">{r["stories"]} stories'+(f' \u00b7 last {r["last"]}' if r['last'] else '')+'</span></li>' for r in fr)
+        body=f'<div class="page-title"><span class="eyebrow">Library</span><h1>Feeds</h1><p>{len(fr)} sources feed this wiki; {tot} stories have been linked or created from them.</p></div><ul class="row-list">{trs}</ul>'
+        (OUT/'feeds'/'index.html').write_text(shell('Feeds',body,'../',section='feeds'))
     # Hubs were removed 2026-10-01; keep old URLs alive with a redirect to Concepts.
     (OUT/'hubs').mkdir(exist_ok=True)
     _r='<!doctype html><meta charset="utf-8"><title>Moved to Concepts</title><link rel="canonical" href="../concepts/index.html"><meta http-equiv="refresh" content="0; url=../concepts/index.html"><p>Hubs were merged into <a href="../concepts/index.html">Concepts</a>.</p>'

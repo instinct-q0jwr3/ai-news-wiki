@@ -15,6 +15,8 @@ OpenAI has scrapped the release of its Astra 6.1 model over safety issues, per t
 - One of several concurrent reports that OpenAI is holding back its newest model on safety grounds
 - Honest-basis note: delay vs cancellation and the specific issues are unverified
 
+_The original source is behind a paywall._
+
 ## Source
 
 [Read the original story](https://www.washingtonpost.com/technology/2026/09/28/chatgpt-maker-openai-scraps-release-astra-61-model-over-safety/)

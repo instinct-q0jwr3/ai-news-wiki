@@ -14,6 +14,8 @@ TLDR AI highlights a piece on adapting for a world of software factories - presu
 - Selected by TLDR AI; only the headline was retrievable
 - Summary based on the headline alone
 
+_Only a short excerpt of the source could be read._
+
 ## Source
 
 [Read the original story](https://x.com/zachlloydtweets/status/2104957956794057068) · [TLDR AI issue](https://tldr.tech/ai/2026-09-30)
