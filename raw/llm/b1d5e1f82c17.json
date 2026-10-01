@@ -1,0 +1,14 @@
+{
+ "id": "b1d5e1f82c17",
+ "authored_at": "2026-10-01T07:19:14.664039+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "The Financial Times reports that SemiAnalysis estimates about 90% of Anthropic's business comes from agentic AI, and that sources say nearly 25% of Anthropic's 2025 revenue came from just two clients. Powerful AI tools burn through budgets, which is prompting a rethink of how the technology is priced before frontier-lab IPOs. Based on the Techmeme excerpt; the FT article was not retrieved.",
+ "highlights": [
+  "~90% of Anthropic's business is agentic AI (SemiAnalysis estimate)",
+  "Nearly 25% of 2025 revenue from two clients",
+  "Agent costs are forcing a pricing rethink",
+  "Context: ahead of frontier-lab IPOs",
+  "Basis: Techmeme excerpt of FT"
+ ]
+}

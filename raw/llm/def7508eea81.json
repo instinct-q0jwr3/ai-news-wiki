@@ -1,0 +1,13 @@
+{
+ "id": "def7508eea81",
+ "authored_at": "2026-10-01T07:19:14.664039+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Latent.Space's AINews issue covers Gemini 4 Argon, Google DeepMind's answer to GPT-6 Astra and Claude Fable, with a 1M-token output limit. The retrieved excerpt adds one caveat: you cannot try the model yet unless you are a government user or a trusted cyber defender in the Fairwind Program. The rest of the issue was not retrieved.",
+ "highlights": [
+  "Gemini 4 Argon framed as GDM's answer to Astra and Fable",
+  "1M-token output limit",
+  "Access limited to government users and Fairwind cyber defenders",
+  "Basis: headline and one-line excerpt"
+ ]
+}
