@@ -1,23 +1,29 @@
 {
- "generated_at": "2026-10-01T07:15:56+00:00",
+ "generated_at": "2026-10-01T13:16:42+00:00",
  "stories": [
   {
-   "id": "feb6aac2e387",
-   "title": "AI borrowers face tough sell in risky corners of US credit market",
+   "id": "04fda1b75a18",
+   "title": "Returning from vacation? The government can search your phone without a warrant",
    "source": "Hacker News",
-   "url": "https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30/"
+   "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
   },
   {
-   "id": "d31176528edc",
-   "title": "Quoting Matthew Green",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/1/matthew-green/"
+   "id": "a82c761fdd9a",
+   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+   "source": "Hacker News",
+   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
   },
   {
-   "id": "def7508eea81",
-   "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer"
+   "id": "69c3346e3f18",
+   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+  },
+  {
+   "id": "b5fe230975d3",
+   "title": "Deser: Rethinking Rust Serialization",
+   "source": "Armin Ronacher",
+   "url": "https://lucumr.pocoo.org/2026/9/29/deser/"
   },
   {
    "id": "43eb192d1f2d",
@@ -26,10 +32,40 @@
    "url": "https://fortune.com/2026/09/30/nikesh-arora-palo-alto-networks-ceo-ai-cybersecurity-defense/"
   },
   {
-   "id": "b1d5e1f82c17",
-   "title": "SemiAnalysis estimates ~90% of Anthropic's business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients",
+   "id": "3fc6384ee075",
+   "title": "Reducing the cognitive load of AI changes",
+   "source": "Lobsters",
+   "url": "https://amoffat.github.io/blog/cognitive-load.html"
+  },
+  {
+   "id": "ca88e5699882",
+   "title": "django-modern-rest@0.16.0 release",
+   "source": "Lobsters",
+   "url": "https://lobste.rs/s/fujfew/django_modern_rest_0_16_0_release"
+  },
+  {
+   "id": "64a261764327",
+   "title": "Armadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation",
    "source": "Techmeme",
-   "url": "https://www.ft.com/"
+   "url": "http://www.reuters.com/"
+  },
+  {
+   "id": "e6963b3377f0",
+   "title": "Dell, Jera, and UK-based Rhaelm partner to build a $15B, 400MW off-grid AI data center and gas power plant near Tokyo, set to begin operations around 2028",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309"
+  },
+  {
+   "id": "0e7720c97a42",
+   "title": "Google partners with talent agency Range Media to launch 100 Zeros, a rotating fund designed to shape positive onscreen depictions of tech and test AI tools",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html?unlocked_article_code=1.FFE.6cVi.x55cp16d-jbK&smid=url-share"
+  },
+  {
+   "id": "37584acb946f",
+   "title": "The AI Pascal’s Wager",
+   "source": "Lobsters",
+   "url": "https://ploum.net/2026-10-01-pascal_wager.html"
   }
  ]
 }

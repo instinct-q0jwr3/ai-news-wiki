@@ -1,0 +1,14 @@
+{
+ "id": "3fc6384ee075",
+ "authored_at": "2026-10-01T13:20:45.135042+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Andrew describes a trick for reviewing large AI-generated changes: the LLM's names for abstractions often differ from his own (what it calls MutationIntent he would call EditRequest), and each mismatch adds a mental lookup that accumulates. Before review, he prompts the model to list its unconventional terms with meanings, reasons and alternatives in a temporary markdown file.\n\nHe confirms or replaces each term, the AI applies find-and-replace everywhere including docs, and the result reads as if it came from his own head, making review much easier.",
+ "highlights": [
+  "LLM naming mismatches add cognitive load in review",
+  "Prompt extracts bespoke terms with meanings and alternatives",
+  "Author confirms or swaps each term",
+  "AI renames everywhere, docs included",
+  "Code becomes easier to review"
+ ]
+}

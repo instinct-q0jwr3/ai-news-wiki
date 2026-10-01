@@ -1,0 +1,15 @@
+{
+ "id": "b5fe230975d3",
+ "authored_at": "2026-10-01T13:20:45.135042+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Armin Ronacher argues Serde, Rust's dominant serialization library, has design-level limits that cannot be fixed without breaking its stability guarantees, and presents Deser as an alternative. He gives three corner cases: internally tagged enums fail when serde_json's arbitrary_precision feature is on (any crate in the dependency graph can enable it), flattened structs lose integer map keys because buffering turns them into strings, and deserialize_with functions cannot be applied inside Option, Vec or maps without writing a wrapper per container.\n\nDeser is an experiment he started in 2022, keeps Serde's user experience but sits on a different architecture inspired by miniserde. He shelved it for years, picked it back up and now thinks it is worth a look, even if only to inspire others.",
+ "highlights": [
+  "Serde's quirks come from its design, protected by stability promises",
+  "Tagged enums break with arbitrary_precision, enabled by feature unification",
+  "flatten buffers values, so integer map keys turn into strings",
+  "deserialize_with cannot wrap Option, Vec or maps",
+  "Deser: Serde-like UX on a miniserde-inspired architecture",
+  "Started 2022, revived and now presentable"
+ ]
+}

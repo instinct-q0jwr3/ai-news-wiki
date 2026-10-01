@@ -1,0 +1,15 @@
+{
+ "id": "a82c761fdd9a",
+ "authored_at": "2026-10-01T13:20:45.135042+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "Synopsys and OpenAI announced a multi-year strategic partnership to build GPT-Synopsys, a specialized model optimized to use Synopsys's EDA tools for semiconductor design. Today agentic AI connects general-purpose models to those tools; the goal is to make frontier models expert users that run the tools, interpret outputs and iterate on designs to improve power, performance and area.\n\nThe deal includes revenue sharing and joint go-to-market so customers worldwide can get the model. This is a press release dated Sept. 30, 2026, so the claims are the companies' own.",
+ "highlights": [
+  "Synopsys and OpenAI partner on GPT-Synopsys",
+  "Model specialized in running EDA tools for chip design",
+  "Aims to improve power, performance and area",
+  "Multi-year agreement with revenue sharing",
+  "Joint go-to-market worldwide",
+  "Source is a company press release"
+ ]
+}

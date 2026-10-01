@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 315,
+  "stories": 318,
   "last": "2026-10-01"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 309,
+  "stories": 312,
   "last": "2026-10-01"
  },
  {
@@ -44,8 +44,8 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 23,
-  "last": "2026-09-29"
+  "stories": 26,
+  "last": "2026-10-01"
  },
  {
   "name": "Daring Fireball",
@@ -72,6 +72,12 @@
   "last": "2026-09-30"
  },
  {
+  "name": "Armin Ronacher",
+  "url": "https://lucumr.pocoo.org/feed.atom",
+  "stories": 11,
+  "last": "2026-10-01"
+ },
+ {
   "name": "Ed Zitron",
   "url": "https://www.wheresyoured.at/rss/",
   "stories": 11,
@@ -88,12 +94,6 @@
   "url": "https://www.anildash.com/feed.xml",
   "stories": 10,
   "last": "2026-09-29"
- },
- {
-  "name": "Armin Ronacher",
-  "url": "https://lucumr.pocoo.org/feed.atom",
-  "stories": 10,
-  "last": "2026-09-26"
  },
  {
   "name": "Dwarkesh Podcast",

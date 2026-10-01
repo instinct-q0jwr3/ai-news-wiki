@@ -1,0 +1,15 @@
+{
+ "id": "ca88e5699882",
+ "authored_at": "2026-10-01T13:20:45.135042+00:00",
+ "model": "agent-pass",
+ "schema": "1",
+ "prose": "The release manager announces django-modern-rest 0.16.0, a fully typed, fast, async-ready framework for building REST APIs on Django. It supports Pydantic, msgspec, attrs and other model libraries. Listed features include built-in auth with sessions and JWT, request and response validation against the OpenAPI spec in debug mode, content negotiation, flexible error handling, SSE and JsonLines streaming, reusable typed abstractions, and OpenAPI coverage and property-based testing via schemathesis.",
+ "highlights": [
+  "django-modern-rest 0.16.0 released",
+  "Typed, async-ready REST framework for Django",
+  "Works with Pydantic, msgspec, attrs",
+  "Built-in sessions and JWT auth",
+  "OpenAPI spec is the source of truth in debug mode",
+  "SSE and JsonLines streaming"
+ ]
+}

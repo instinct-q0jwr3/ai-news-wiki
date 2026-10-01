@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Deser: Rethinking Rust Serialization · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790860857"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Deser: Rethinking Rust Serialization</h1>
+<p class="meta">type: news-summary · created: 2026-10-01 · updated: 2026-10-01 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Armin Ronacher argues Serde, Rust's dominant serialization library, has design-level limits that cannot be fixed without breaking its stability guarantees, and presents Deser as an alternative. He gives three corner cases: internally tagged enums fail when serde_json's arbitrary_precision feature is on (any crate in the dependency graph can enable it), flattened structs lose integer map keys because buffering turns them into strings, and deserialize_with functions cannot be applied inside Option, Vec or maps without writing a wrapper per container.</p>
+<p>Deser is an experiment he started in 2022, keeps Serde's user experience but sits on a different architecture inspired by miniserde. He shelved it for years, picked it back up and now thinks it is worth a look, even if only to inspire others.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Serde's quirks come from its design, protected by stability promises</li>
+<li>Tagged enums break with arbitrary_precision, enabled by feature unification</li>
+<li>flatten buffers values, so integer map keys turn into strings</li>
+<li>deserialize_with cannot wrap Option, Vec or maps</li>
+<li>Deser: Serde-like UX on a miniserde-inspired architecture</li>
+<li>Started 2022, revived and now presentable</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://lucumr.pocoo.org/2026/9/29/deser/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/meta.html">Meta</a> · <a href="../entities/apple.html">Apple</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a> · <a href="../concepts/ai-policy-regulation.html">AI policy, regulation and litigation</a> · <a href="../concepts/labor-displacement.html">AI, jobs and displacement</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>
