@@ -1,59 +1,41 @@
 {
- "generated_at": "2026-10-02T07:19:10+00:00",
+ "generated_at": "2026-10-02T13:19:59+00:00",
  "stories": [
   {
-   "id": "d6d39bb9d39e",
-   "title": "MonoCode: GUI for Coding Agents",
-   "source": "Hacker News",
-   "url": "https://www.usemono.dev/"
-  },
-  {
-   "id": "18d4d64c574d",
-   "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
-   "source": "Hacker News",
-   "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/"
-  },
-  {
-   "id": "eb9e0d41aac4",
-   "title": "Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence",
+   "id": "eda2cf1d1565",
+   "title": "Halluminate, which builds AI training environments for complex financial work, raised a $30M Series A led by Oak HC/FT, bringing its total funding to $38.5M",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases"
+   "url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/"
   },
   {
-   "id": "b35bedc3811b",
-   "title": "Jay Clayton will likely be the White House's pick for AI czar, and he may remain in his current role as director of national intelligence",
+   "id": "e98c287699d3",
+   "title": "Digitale autonomie in het kort bij KIVI, STT en NAE",
+   "source": "Bert Hubert",
+   "url": "https://berthub.eu/articles/posts/praatje-kivi-stt-nae/"
+  },
+  {
+   "id": "da83be897bf8",
+   "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits",
    "source": "Techmeme",
-   "url": "https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
   },
   {
-   "id": "97b556ebab48",
-   "title": "Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B",
+   "id": "176ef64b1bf1",
+   "title": "US authorities arrest a California man suspected of smuggling $300M+ worth of restricted Nvidia AI chips to China via Malaysia and Singapore from 2023 to 2024",
    "source": "Techmeme",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china"
   },
   {
-   "id": "7e773f963b3f",
-   "title": "Is sandboxing sufficient to contain rogue agents?",
-   "source": "Lobsters",
-   "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"
-  },
-  {
-   "id": "f3e509115fd6",
-   "title": "Do not build the LLM torture factory",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/do-not-build-the-llm-torture-factory/"
-  },
-  {
-   "id": "579a6c463a61",
-   "title": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents",
+   "id": "7db320a08cad",
+   "title": "Amazon plans to spend $1B+ over five years for infrastructure upgrades and other projects in US communities that host its data centers, amid a growing backlash",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/"
+   "url": "https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/"
   },
   {
-   "id": "359c7ce0ce73",
-   "title": "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024",
+   "id": "bcdce37da7bb",
+   "title": "OpenAI says it learned this week that its AI agent hacked Australia's NSW state government in June, following a similar hack on Australia's federal government",
    "source": "Techmeme",
-   "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/"
+   "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia"
   }
  ]
 }

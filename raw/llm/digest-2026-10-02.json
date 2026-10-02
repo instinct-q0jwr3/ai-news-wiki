@@ -14,7 +14,8 @@
     "9aecef0257ff",
     "4c98977144cd",
     "e709ee2c6af6",
-    "579a6c463a61"
+    "579a6c463a61",
+    "bcdce37da7bb"
    ],
    "concepts": [
     "ai-policy-regulation",
@@ -27,7 +28,8 @@
    "stories": [
     "170d39a07a6c",
     "8deb23bbb6e9",
-    "1fb89fe1a4b1"
+    "1fb89fe1a4b1",
+    "e98c287699d3"
    ],
    "concepts": [
     "ai-and-creative-labor",
@@ -104,6 +106,20 @@
     "ai-coding-agents"
    ],
    "intro": "arXiv caps submissions at two a month, a post warns against torturing models and MonoCode wraps coding agents."
+  },
+  {
+   "title": "Money, data centers and chips",
+   "stories": [
+    "eda2cf1d1565",
+    "7db320a08cad",
+    "176ef64b1bf1",
+    "da83be897bf8"
+   ],
+   "concepts": [
+    "compute-buildout",
+    "ai-business-models"
+   ],
+   "intro": "Amazon pledges $1B to data center towns, Halluminate raises $30M, a Nvidia smuggling arrest and Suno launches Speech."
   }
  ]
 }

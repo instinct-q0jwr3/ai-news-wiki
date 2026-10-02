@@ -8,7 +8,7 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 333,
+  "stories": 338,
   "last": "2026-10-02"
  },
  {
@@ -16,6 +16,12 @@
   "url": "https://tldr.tech/ai",
   "stories": 135,
   "last": "2026-10-01"
+ },
+ {
+  "name": "Bert Hubert",
+  "url": "https://berthub.eu/articles/index.xml",
+  "stories": 32,
+  "last": "2026-10-02"
  },
  {
   "name": "Pluralistic",
@@ -26,12 +32,6 @@
  {
   "name": "antirez",
   "url": "https://antirez.com/rss",
-  "stories": 31,
-  "last": "2026-09-26"
- },
- {
-  "name": "Bert Hubert",
-  "url": "https://berthub.eu/articles/index.xml",
   "stories": 31,
   "last": "2026-09-26"
  },

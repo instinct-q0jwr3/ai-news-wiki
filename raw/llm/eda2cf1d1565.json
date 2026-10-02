@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Halluminate, a nine-person San Francisco startup, raised a $30M Series A led by Oak HC/FT, for $38.5M total. It builds simulated training environments for AI in financial work and benchmarks models to find where they fall short. CEO Jerry Wu calls these 'verticalized data research labs' and expects training data to specialise by industry.",
+  "Its August benchmark gave seven frontier models 88 due-diligence tasks drawn from anonymised private-equity deals and reviewed by deal professionals. The best average score was 51%."
+ ],
+ "highlights": [
+  "$30M Series A led by Oak HC/FT; $38.5M total.",
+  "Builds finance-specific training environments for AI.",
+  "Benchmark: 88 due-diligence tasks, best of seven frontier models scored 51%.",
+  "Thesis: AI training data will specialise by industry."
+ ],
+ "id": "eda2cf1d1565",
+ "authored_at": "2026-10-02T13:23:58.274174+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
