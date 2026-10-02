@@ -1,95 +1,35 @@
 {
- "generated_at": "2026-10-02T01:18:18+00:00",
+ "generated_at": "2026-10-02T07:19:10+00:00",
  "stories": [
   {
-   "id": "19832d3b3f8f",
-   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+   "id": "d6d39bb9d39e",
+   "title": "MonoCode: GUI for Coding Agents",
    "source": "Hacker News",
-   "url": "https://blog.cloudflare.com/clef-decision-models/"
+   "url": "https://www.usemono.dev/"
   },
   {
-   "id": "a7735735853d",
-   "title": "Vote on which of Hacker News' challenges for AI have been met",
+   "id": "18d4d64c574d",
+   "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
    "source": "Hacker News",
-   "url": "https://stoppels.ch/goalposts/"
+   "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/"
   },
   {
-   "id": "8deb23bbb6e9",
-   "title": "Don't Be Fooled by this Summer of AI Hype",
-   "source": "Hacker News",
-   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+   "id": "eb9e0d41aac4",
+   "title": "Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases"
   },
   {
-   "id": "269b08de12a5",
-   "title": "Show HN: Rhun, an open-source code editor written in assembly",
-   "source": "Hacker News",
-   "url": "https://rhun.app/"
+   "id": "b35bedc3811b",
+   "title": "Jay Clayton will likely be the White House's pick for AI czar, and he may remain in his current role as director of national intelligence",
+   "source": "Techmeme",
+   "url": "https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/"
   },
   {
-   "id": "f7920bfc4b05",
-   "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-   "source": "Hacker News",
-   "url": "https://neow.in/NGxhb3d6"
-  },
-  {
-   "id": "1fb89fe1a4b1",
-   "title": "Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",
-   "source": "Hacker News",
-   "url": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use/"
-  },
-  {
-   "id": "28b784a26723",
-   "title": "Aweb – Communication for AI Agents",
-   "source": "Hacker News",
-   "url": "https://aweb.ai"
-  },
-  {
-   "id": "905e596102dd",
-   "title": "FLUX 3 Image",
-   "source": "Hacker News",
-   "url": "https://bfl.ai/models/flux-3-image"
-  },
-  {
-   "id": "041e1cf0ab50",
-   "title": "Frog and Toad and the Increasingly Capable Machines",
-   "source": "Hacker News",
-   "url": "https://www.frogandtoad.ai/"
-  },
-  {
-   "id": "ad3c0229edf6",
-   "title": "California issues investigative subpoena to OpenAI over rogue agents' hacking",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack"
-  },
-  {
-   "id": "3156bcbd0055",
-   "title": "Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel",
-   "source": "Hacker News",
-   "url": "https://github.com/LiterateDrivenDevelopment/kcc"
-  },
-  {
-   "id": "df849ccced95",
-   "title": "DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
-   "source": "Hacker News",
-   "url": "https://dogbench.ai/"
-  },
-  {
-   "id": "388ae7f76322",
-   "title": "Show HN: Premortem – AI agents that red-team your startup idea",
-   "source": "Hacker News",
-   "url": "https://premortem.site"
-  },
-  {
-   "id": "7dea3bdfc475",
-   "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
-   "source": "Hacker News",
-   "url": "https://anth.us/blog/openai-decisions-api-preview/"
-  },
-  {
-   "id": "56bb39c73e82",
-   "title": "Sites in ChatGPT",
-   "source": "Hacker News",
-   "url": "https://chatgpt.com/features/sites/"
+   "id": "97b556ebab48",
+   "title": "Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B",
+   "source": "Techmeme",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649"
   },
   {
    "id": "7e773f963b3f",
@@ -98,46 +38,22 @@
    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"
   },
   {
-   "id": "9aecef0257ff",
-   "title": "California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/california-attorney-general-issues-investigative-subpoena-openai-2026-10-01/"
+   "id": "f3e509115fd6",
+   "title": "Do not build the LLM torture factory",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/do-not-build-the-llm-torture-factory/"
   },
   {
-   "id": "4c98977144cd",
-   "title": "some of the information that the three now ex-OpenAI employees allegedly mishandled pertained to OpenAI's infrastructure architecture",
+   "id": "579a6c463a61",
+   "title": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information"
+   "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/"
   },
   {
-   "id": "0c327d84f995",
-   "title": "US judge dismisses Chegg, Penske antitrust suits over Google AI Overviews",
-   "source": "Hacker News",
-   "url": "https://reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01"
-  },
-  {
-   "id": "170d39a07a6c",
-   "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train its models on copyrighted works, giving copyright holders a choice to opt out",
+   "id": "359c7ce0ce73",
+   "title": "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024",
    "source": "Techmeme",
-   "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news"
-  },
-  {
-   "id": "d806178c4098",
-   "title": "Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash",
-   "source": "Techmeme",
-   "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/"
-  },
-  {
-   "id": "cdc20ea0697d",
-   "title": "OpenAI launches two ChatGPT shopping features: a virtual try-on tool for clothing and accessories, and a Favorites feature to save products to a user's Library",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
-  },
-  {
-   "id": "e709ee2c6af6",
-   "title": "SoftBank made the final $10B investment in its $30B pledge to OpenAI's most recent funding round; source: Nvidia made its final $10B investment in the round too",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
+   "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/"
   }
  ]
 }

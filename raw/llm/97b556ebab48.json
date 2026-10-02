@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Cloudflare released two open-weight decision models, Clef and Clef-flash, two weeks after TypeSafe's Jev took off. Like Jev they answer bounded questions: yes/no, multiple choice and rankings. They are built on frozen, post-trained Qwen3.8-27B and Qwen3.5-9B backbones, run a prefill-only pass and score options in parallel.",
+  "Cloudflare claims they beat Jev on speed and several benchmarks and handle images and video, at a higher price. Weights are on Hugging Face for local use. These are Cloudflare's own claims."
+ ],
+ "highlights": [
+  "Clef and Clef-flash: open-weight decision models, multimodal.",
+  "Backbones: Qwen3.8-27B and Qwen3.5-9B, frozen and post-trained.",
+  "Answer yes/no, multiple choice and ranking questions.",
+  "Claimed faster and smarter than Jev; costs more.",
+  "Benchmarks are from Cloudflare."
+ ],
+ "id": "97b556ebab48",
+ "authored_at": "2026-10-02T07:24:55.179104+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

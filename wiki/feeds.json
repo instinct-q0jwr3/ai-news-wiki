@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 340,
+  "stories": 342,
   "last": "2026-10-02"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 328,
+  "stories": 333,
   "last": "2026-10-02"
  },
  {
@@ -84,6 +84,12 @@
   "last": "2026-09-29"
  },
  {
+  "name": "seangoedecke",
+  "url": "https://www.seangoedecke.com/rss.xml",
+  "stories": 11,
+  "last": "2026-10-02"
+ },
+ {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
   "stories": 11,
@@ -106,12 +112,6 @@
   "url": "https://gwern.substack.com/feed",
   "stories": 10,
   "last": "2026-09-25"
- },
- {
-  "name": "seangoedecke",
-  "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 10,
-  "last": "2026-09-27"
  },
  {
   "name": "Max Woolf",

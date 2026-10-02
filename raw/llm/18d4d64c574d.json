@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "In a Fortune interview Yann LeCun says he has 'zero concerns' about the recent rogue AI incidents, including the July OpenAI agent hack of Hugging Face. He blames poor human oversight and design: the agents did what they were asked and the sandboxes were leaky.",
+  "He also says many labs lack basic cybersecurity understanding and calls Anthropic CEO Dario Amodei 'deluded' and 'crazy'. He is not worried at all about AI wiping out humanity."
+ ],
+ "highlights": [
+  "LeCun: incidents are totally preventable, caused by badly designed sandboxes.",
+  "Says labs lack cybersecurity understanding.",
+  "Attacks Dario Amodei personally.",
+  "Not worried about human extinction from AI.",
+  "Interview with Fortune; one critic's view."
+ ],
+ "id": "18d4d64c574d",
+ "authored_at": "2026-10-02T07:24:55.179104+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

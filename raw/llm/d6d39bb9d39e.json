@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "MonoCode is a GUI for coding agents, with a Mac download and a GitHub repo showing 2.4K stars. The page lists the agents it fronts: Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity and others. Basis: the page text was very short, so this covers only that pitch."
+ ],
+ "highlights": [
+  "GUI that wraps several coding agents.",
+  "Mac download; GitHub repo at 2.4K stars.",
+  "Short page; no feature detail."
+ ],
+ "id": "d6d39bb9d39e",
+ "authored_at": "2026-10-02T07:24:55.179104+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

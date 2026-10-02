@@ -20,6 +20,7 @@ An open concept gathered from briefing sections, first referenced on 2026-09-20.
 - [Investigate the labs?](../daily/2026-09-28.md#investigate-the-labs) — 2026-09-28
 - [Who answers when an agent acts badly?](../daily/2026-09-29.md#who-answers-when-an-agent-acts-badly) — 2026-09-29
 - [Research, opinion and the rest](../daily/2026-10-01.md#research-opinion-and-the-rest) — 2026-10-01
+- [Politics, export controls and rogue-agent rhetoric](../daily/2026-10-02.md#politics-export-controls-and-rogue-agent-rhetoric) — 2026-10-02
 
 ## Related entities
 

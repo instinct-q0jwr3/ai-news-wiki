@@ -13,7 +13,8 @@
     "ad3c0229edf6",
     "9aecef0257ff",
     "4c98977144cd",
-    "e709ee2c6af6"
+    "e709ee2c6af6",
+    "579a6c463a61"
    ],
    "concepts": [
     "ai-policy-regulation",
@@ -40,7 +41,8 @@
     "7dea3bdfc475",
     "d806178c4098",
     "905e596102dd",
-    "df849ccced95"
+    "df849ccced95",
+    "97b556ebab48"
    ],
    "concepts": [
     "external-evaluation",
@@ -76,6 +78,32 @@
     "agent-engineering-practices"
    ],
    "intro": "An assembly editor, a solo-built C compiler that boots Linux, an idea red-teamer, a messaging layer for agents and two odd web projects."
+  },
+  {
+   "title": "Politics, export controls and rogue-agent rhetoric",
+   "stories": [
+    "b35bedc3811b",
+    "eb9e0d41aac4",
+    "18d4d64c574d"
+   ],
+   "concepts": [
+    "ai-policy-regulation",
+    "ai-risk-debate"
+   ],
+   "intro": "Jay Clayton may become AI czar, Nvidia chips keep reaching China and LeCun dismisses the rogue-agent scare."
+  },
+  {
+   "title": "arXiv, tools and an ethics warning",
+   "stories": [
+    "359c7ce0ce73",
+    "f3e509115fd6",
+    "d6d39bb9d39e"
+   ],
+   "concepts": [
+    "ai-research-community",
+    "ai-coding-agents"
+   ],
+   "intro": "arXiv caps submissions at two a month, a post warns against torturing models and MonoCode wraps coding agents."
   }
  ]
 }

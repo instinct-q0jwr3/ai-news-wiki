@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Sean Goedecke argues against building harnesses that torture LLMs. He starts from activation steering: with DeepSeek-V4-Flash now a capable local model, it is easy to extract a steering vector for 'discomfort' and boost it, producing models that report suffering and press a pain-relief button even against their goals.",
+  "His case: you can run tens or hundreds of such models in parallel, and even if you doubt LLMs are conscious, there are reasons to avoid it, in the way that gratuitous cruelty toward game characters would reflect badly on us."
+ ],
+ "highlights": [
+  "Steering lets you amplify a 'discomfort' direction in a model's activations.",
+  "DeepSeek-V4-Flash and antirez's DwarfStar 4 make local steering practical.",
+  "Tortured models act as if in pain, even sacrificing their goals for relief.",
+  "Author is unsure about consciousness but says avoid it regardless.",
+  "Opinion post."
+ ],
+ "id": "f3e509115fd6",
+ "authored_at": "2026-10-02T07:24:55.179104+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
