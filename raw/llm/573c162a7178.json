@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A project page for a Google researcher's agent that manages ideas for automated research: it organises ideas into clusters, estimates which look promising from scores, evidence gaps and novelty, and ranks them. Basis: only a short or unreadable page was available, so this relies on the title."
+ ],
+ "highlights": [
+  "Agent that organises and ranks research ideas.",
+  "Ordinal ranks, not calibrated predictions.",
+  "Short page; limited detail."
+ ],
+ "id": "573c162a7178",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

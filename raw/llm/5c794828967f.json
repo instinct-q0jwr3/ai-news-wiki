@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Latent Space interviews Airbnb CTO Ahmad Al-Dahle, who joined in January from Meta where he led generative AI and the Llama launches. Airbnb is being turned into an 'AI-native company' through what they call inside-out AI: use AI internally first to speed up product development, then use the same capabilities to change the guest experience.",
+  "An example is an internal tool called Everest that accelerated the launch of a new external service. Al-Dahle says he left Meta because the next hard frontier is deploying models at scale, and he wants to push people to work differently."
+ ],
+ "highlights": [
+  "Inside-out AI: internal speed-up first, then customer-facing change.",
+  "Everest, an internal tool, sped a new external launch.",
+  "Al-Dahle moved from Meta frontier models to deploying at scale.",
+  "Goal is changing how staff work and shipping production value."
+ ],
+ "id": "5c794828967f",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

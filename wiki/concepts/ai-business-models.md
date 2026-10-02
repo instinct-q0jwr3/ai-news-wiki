@@ -23,6 +23,7 @@ An open concept gathered from briefing sections, first referenced on 2026-09-19.
 - [Deals and chip access](../daily/2026-10-01.md#deals-and-chip-access) — 2026-10-01
 - [Anthropic's IPO and pricing power](../daily/2026-10-01.md#anthropic-s-ipo-and-pricing-power) — 2026-10-01
 - [Money, data centers and chips](../daily/2026-10-02.md#money-data-centers-and-chips) — 2026-10-02
+- [Infrastructure, money and robots](../daily/2026-10-02.md#infrastructure-money-and-robots) — 2026-10-02
 - [The business of AI, repriced](../weekly/2026-W39.md#the-business-of-ai-repriced) — Week 2026-W39
 - [The money gets bigger and stranger](../weekly/2026-W40.md#the-money-gets-bigger-and-stranger) — Week 2026-W40
 

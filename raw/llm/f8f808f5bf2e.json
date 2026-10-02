@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Ai2 released Olmo-core 3, an upgrade to its LLM training framework with a redesigned open mixture-of-experts system. It is designed to scale MoE training to the trillion-parameter range while keeping compute efficiency, and underpins the next generation of Olmo. It continues Ai2's habit of opening its training tools, aiming to put large-model development within reach of academics."
+ ],
+ "highlights": [
+  "Olmo-core 3 with a redesigned open MoE training system.",
+  "Targets trillion-parameter scale with efficiency.",
+  "Part of next-generation Olmo.",
+  "Open tooling for academic researchers."
+ ],
+ "id": "f8f808f5bf2e",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

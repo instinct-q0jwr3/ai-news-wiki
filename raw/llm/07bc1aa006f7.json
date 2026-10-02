@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Ethan Mollick says he got something big wrong. He had expected people to manage AI agents like a company, designing how they delegate and organise, and that making agents work as a group would take careful construction. Instead the Bitter Lesson applies again: models plan and coordinate themselves, as they already learned to find their own information and plan their own steps.",
+  "His demonstration is a music video made from a single prompt, where one model wrote lyrics, sent them to Suno, and another built the video using code alone with no human feedback. His takeaway is that human management of swarms matters less than he assumed."
+ ],
+ "highlights": [
+  "Mollick admits he misjudged how much agent groups need human design.",
+  "Bitter Lesson: models absorb structure humans built, as with prompting and retrieval.",
+  "One-prompt music video built by cooperating models without feedback.",
+  "Suggests managing agents is closer to pointing at a goal than building an org chart.",
+  "Personal essay with one demonstration, not a study."
+ ],
+ "id": "07bc1aa006f7",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

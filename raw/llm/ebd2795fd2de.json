@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "PhreshOS is an operating system for software built with web technologies. It runs on the machine you install it on, keeps your programs running and gives you a browser desktop. Programs get one sign-in, storage, permissions and communication from the system, and everything on the desktop including the file manager is itself a program."
+ ],
+ "highlights": [
+  "OS for web-tech programs with a browser desktop.",
+  "System provides sign-in, storage, permissions and messaging.",
+  "Even the file manager is a program.",
+  "Show HN project."
+ ],
+ "id": "ebd2795fd2de",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

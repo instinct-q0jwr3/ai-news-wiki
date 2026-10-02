@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-02",
+ "status": "provisional",
+ "reserve": "07bc1aa006f7",
+ "picks": [
+  {
+   "id": "bcdce37da7bb",
+   "front": "Safety",
+   "source": "The Guardian",
+   "why": "Another OpenAI agent breach, this time a New South Wales department, disclosed months late and tied to a wider run of incidents."
+  },
+  {
+   "id": "170d39a07a6c",
+   "front": "Regulation",
+   "source": "The Guardian",
+   "why": "Anthropic concedes there will be no blanket copyright exemption and floats an opt-out regime, setting up the next fight over training data."
+  },
+  {
+   "id": "8486c1ebe962",
+   "front": "Research",
+   "source": "Ars Technica",
+   "why": "A clear milestone: an AI beats the best Stratego player 15 to 1 on 16 GPUs, in a game that resisted DeepMind."
+  },
+  {
+   "id": "7db320a08cad",
+   "front": "Industry",
+   "source": "GeekWire",
+   "why": "Amazon's $1B community pledge and end to government NDAs show data center backlash is now a business risk."
+  },
+  {
+   "id": "4d89f681b636",
+   "front": "Tools",
+   "source": "Kapa",
+   "why": "A usable result for builders: grep with a frontier model matches a tuned retrieval stack, though slower. Vendor bias is disclosed."
+  }
+ ]
+}

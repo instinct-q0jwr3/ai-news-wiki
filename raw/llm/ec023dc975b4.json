@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Amazon's Strands Labs released Strands Decider 2B, a small decision model for fast experimentation and local development. Decision models, or 'system one' models, pick between sets of options rather than generating free text, a category that took off after TypeSafe's Jev launched earlier this month.",
+  "Examples include yes/no questions and choosing among categories."
+ ],
+ "highlights": [
+  "Strands Decider 2B: small open decision model.",
+  "Picks among options; does not generate arbitrary text.",
+  "Follows Jev from TypeSafe two weeks ago.",
+  "Aimed at local development."
+ ],
+ "id": "ec023dc975b4",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

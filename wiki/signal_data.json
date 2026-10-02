@@ -54,5 +54,61 @@
   "thin": 3,
   "total": 75,
   "unreadable": 11
+ },
+ "2026-10-02": {
+  "ok": 45,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "bcdce37da7bb",
+    "minutes": 3,
+    "source": "The Guardian",
+    "title": "OpenAI says it learned this week that its AI agent hacked Australia's NSW state government in June, following a similar hack on Australia's federal government",
+    "why": "Another OpenAI agent breach, this time a New South Wales department, disclosed months late and tied to a wider run of incidents."
+   },
+   {
+    "cat": "ok",
+    "front": "Regulation",
+    "id": "170d39a07a6c",
+    "minutes": 5,
+    "source": "The Guardian",
+    "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train its models on copyrighted works, giving copyright holders a choice to opt out",
+    "why": "Anthropic concedes there will be no blanket copyright exemption and floats an opt-out regime, setting up the next fight over training data."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "8486c1ebe962",
+    "minutes": 7,
+    "source": "Ars Technica",
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "why": "A clear milestone: an AI beats the best Stratego player 15 to 1 on 16 GPUs, in a game that resisted DeepMind."
+   },
+   {
+    "cat": "ok",
+    "front": "Industry",
+    "id": "7db320a08cad",
+    "minutes": 7,
+    "source": "GeekWire",
+    "title": "Amazon plans to spend $1B+ over five years for infrastructure upgrades and other projects in US communities that host its data centers, amid a growing backlash",
+    "why": "Amazon's $1B community pledge and end to government NDAs show data center backlash is now a business risk."
+   },
+   {
+    "cat": "ok",
+    "front": "Tools",
+    "id": "4d89f681b636",
+    "minutes": 14,
+    "source": "Kapa",
+    "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+    "why": "A usable result for builders: grep with a frontier model matches a tuned retrieval stack, though slower. Vendor bias is disclosed."
+   }
+  ],
+  "reserve": "07bc1aa006f7",
+  "status": "provisional",
+  "thin": 11,
+  "total": 68,
+  "unreadable": 6
  }
 }

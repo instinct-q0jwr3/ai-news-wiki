@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Matthew Schwartz, a physicist, describes letting Claude pick 'Claude-shaped' problems, the ones today's models do well, instead of forcing his own. This led to BootLoops, a toolkit for exact calculations in quantitative science. Because similar calculations recur across fields, Claude found links to ecology, population genetics and others.",
+  "The links were often technically right but unremarkable until domain experts steered them toward questions those fields care about. His point is that Claude's claims outside your own field are easy to believe, so experts are needed to separate fine results from interesting ones."
+ ],
+ "highlights": [
+  "Let the model pick problems suited to it, then add expert steering.",
+  "Result: BootLoops, a toolkit for exact scientific calculations.",
+  "Found cross-field connections in ecology and population genetics.",
+  "Results were correct but dull until experts redirected them.",
+  "Warns against trusting AI claims outside your expertise."
+ ],
+ "id": "347baf61f001",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

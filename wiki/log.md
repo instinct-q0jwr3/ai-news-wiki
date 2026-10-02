@@ -134,3 +134,5 @@ Registro cronológico append-only de ingestas y mantenimiento.
 - Partial errors: Paul Graham: <urlopen error [Errno -2] Name or service not known>
 ## [2026-10-02] ingest | 322 AI stories | snapshot 20261002T131959Z
 - Partial errors: Paul Graham: <urlopen error [Errno -2] Name or service not known>
+## [2026-10-02] ingest | 329 AI stories | snapshot 20261002T192206Z
+- Partial errors: Paul Graham: <urlopen error [Errno -2] Name or service not known>

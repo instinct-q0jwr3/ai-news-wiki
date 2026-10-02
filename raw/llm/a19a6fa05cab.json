@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "Red Hat's developers site publishes a benchmark finding that decision models like Jev do not beat LLM-as-a-judge or traditional classifiers. Basis: the article could not be read, so this relies on the headline."
+ ],
+ "highlights": [
+  "Claims Jev-style models don't beat LLM judges or classifiers.",
+  "Unreadable source; headline-level summary."
+ ],
+ "id": "a19a6fa05cab",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Ars Technica reports that an AI called Ataraxos beat Pim Niemeijer, arguably the best Stratego player ever, 15 games to one with four draws. The researchers come from Carnegie Mellon, MIT, NYU and Stanford, and it took 16 GPUs and a few thousand dollars.",
+  "Stratego stayed out of reach because pieces' identities are hidden and the game unfolds over a long time, unlike poker's two hidden cards. DeepMind had not built a machine that reliably beat top humans."
+ ],
+ "highlights": [
+  "Ataraxos beat the best Stratego player 15-1 with 4 draws.",
+  "Trained on 16 GPUs for a few thousand dollars.",
+  "Hidden information over a long horizon made Stratego hard.",
+  "Authors from CMU, MIT, NYU and Stanford."
+ ],
+ "id": "8486c1ebe962",
+ "authored_at": "2026-10-02T19:30:11.765581+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

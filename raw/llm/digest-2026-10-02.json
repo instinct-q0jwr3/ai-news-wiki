@@ -120,6 +120,80 @@
     "ai-business-models"
    ],
    "intro": "Amazon pledges $1B to data center towns, Halluminate raises $30M, a Nvidia smuggling arrest and Suno launches Speech."
+  },
+  {
+   "title": "Opinion, essays and where agents are going",
+   "stories": [
+    "07bc1aa006f7",
+    "1965280dc72f",
+    "68823071506b",
+    "347baf61f001",
+    "b2b4c1b0a592",
+    "b621e3b8a46c",
+    "fcd6da146637",
+    "dadffdf4abf0",
+    "cd59962c3ee1"
+   ],
+   "concepts": [
+    "agent-engineering-practices",
+    "ai-risk-debate"
+   ],
+   "intro": "Mollick on agent swarms, four complaints about agentic coding, Zitron on the economy and more."
+  },
+  {
+   "title": "Tools, benchmarks and open releases",
+   "stories": [
+    "4d89f681b636",
+    "ec023dc975b4",
+    "f8f808f5bf2e",
+    "8486c1ebe962",
+    "6bb10378ffd6",
+    "233cdb4b1427",
+    "ebd2795fd2de",
+    "573c162a7178",
+    "a19a6fa05cab",
+    "8de2a48bcd3d",
+    "735c643c0aeb",
+    "709e064f25ef"
+   ],
+   "concepts": [
+    "external-evaluation",
+    "small-specialist-models"
+   ],
+   "intro": "A retrieval benchmark, Strands Decider, Olmo-core 3, an AI that beats Stratego and a batch of Show HN tools."
+  },
+  {
+   "title": "Infrastructure, money and robots",
+   "stories": [
+    "bc86c3644a2b",
+    "cbd63f88bc07",
+    "4b4987e0ad79",
+    "d42c45c99b16",
+    "98fa864685c0",
+    "f5f5e98e02b7",
+    "312dc5cef250",
+    "5c794828967f"
+   ],
+   "concepts": [
+    "compute-buildout",
+    "ai-business-models"
+   ],
+   "intro": "Oracle's power delay, $60B of chip financing, Google's satellite and Figure retires a robot."
+  },
+  {
+   "title": "Safety, Apple and a Slovenian domain rush",
+   "stories": [
+    "3322bae74c66",
+    "abace1507e31",
+    "af09c1b89029",
+    "992a27625cdc",
+    "c804c79f7856"
+   ],
+   "concepts": [
+    "ai-safety-incidents",
+    "supply-chain-security"
+   ],
+   "intro": "OpenAI cuts three safety researchers, Apple tightens Full Disk Access and .si registrations spike."
   }
  ]
 }

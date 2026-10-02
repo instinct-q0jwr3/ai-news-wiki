@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 342,
+  "stories": 356,
   "last": "2026-10-02"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 338,
+  "stories": 344,
   "last": "2026-10-02"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 135,
-  "last": "2026-10-01"
+  "stories": 145,
+  "last": "2026-10-02"
  },
  {
   "name": "Bert Hubert",
@@ -38,8 +38,8 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 27,
-  "last": "2026-10-01"
+  "stories": 28,
+  "last": "2026-10-02"
  },
  {
   "name": "Simon Willison",
@@ -54,16 +54,16 @@
   "last": "2026-09-29"
  },
  {
+  "name": "Latent.Space",
+  "url": "https://www.latent.space/feed",
+  "stories": 20,
+  "last": "2026-10-02"
+ },
+ {
   "name": "Works on My Machine",
   "url": "https://worksonmymachine.substack.com/feed",
   "stories": 20,
   "last": "2026-09-25"
- },
- {
-  "name": "Latent.Space",
-  "url": "https://www.latent.space/feed",
-  "stories": 19,
-  "last": "2026-10-01"
  },
  {
   "name": "Marcus on AI",
@@ -72,28 +72,28 @@
   "last": "2026-09-30"
  },
  {
+  "name": "Ed Zitron",
+  "url": "https://www.wheresyoured.at/rss/",
+  "stories": 12,
+  "last": "2026-10-02"
+ },
+ {
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 12,
+  "last": "2026-10-02"
+ },
+ {
   "name": "Armin Ronacher",
   "url": "https://lucumr.pocoo.org/feed.atom",
   "stories": 11,
   "last": "2026-10-01"
  },
  {
-  "name": "Ed Zitron",
-  "url": "https://www.wheresyoured.at/rss/",
-  "stories": 11,
-  "last": "2026-09-29"
- },
- {
   "name": "seangoedecke",
   "url": "https://www.seangoedecke.com/rss.xml",
   "stories": 11,
   "last": "2026-10-02"
- },
- {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
-  "stories": 11,
-  "last": "2026-09-30"
  },
  {
   "name": "Anil Dash",
