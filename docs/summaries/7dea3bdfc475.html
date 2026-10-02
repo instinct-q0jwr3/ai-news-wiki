@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>OpenAI has a LOT of work to do if they think Luna can compete with Jev · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1790904322"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>OpenAI has a LOT of work to do if they think Luna can compete with Jev</h1>
+<p class="meta">type: news-summary · created: 2026-10-02 · updated: 2026-10-02 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Anth.us tests OpenAI's new Decisions API, announced at DevDay on September 29 in limited preview. It picks one answer from a list you define so software can branch on it, and runs on a version of GPT-6 Luna at about 150 ms a decision. The authors could not test the API itself, so they ran Luna on their Hard-Decisions benchmark as a stand-in, next to Jev, Kev and Laya.</p>
+<p>The finding is about confidence. When Luna said it was 99% sure or more, it was right only 68% of the time, which breaks the common rule of letting an agent act alone above 99% and sending the rest to a person. OpenAI models' token probabilities look certain about almost everything, so the authors build and calibrate their own confidence score before routing on it.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Decisions API: limited preview since Sept 29, picks one option from a fixed list, ~150 ms per decision.</li>
+<li>At 99%+ stated confidence Luna was correct 68% of the time.</li>
+<li>Test used a Luna model on Hard-Decisions, not the API itself; no docs exist yet to test against.</li>
+<li>Log-probabilities from OpenAI models look near-certain, and newer reasoning models often hide them.</li>
+<li>Authors recommend extracting, checking and calibrating confidence before routing on it.</li>
+<li>Written by a vendor that sells confidence-based call review, so the framing has a stake.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://anth.us/blog/openai-decisions-api-preview/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/typesafe.html">TypeSafe</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

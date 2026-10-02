@@ -1,6 +1,6 @@
 # A new era for software testing
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-10-01 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-10-02 · confidence: high_
 
 `antirez` `agentic-systems` `ai-policy-regulation`
 

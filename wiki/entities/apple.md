@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-01 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-02** - Rhun is a small code editor written in assembly for Windows, Linux and macOS. It has tabs, syntax highlighting, fuzzy search, an optional Vim mode and 39 themes, and runs builds, shell commands and coding agents beside the code. ([Show HN: Rhun, an open-source code editor written in assembly](../summaries/269b08de12a5.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-01** - Cory Doctorow's Pluralistic post argues voting rights were not won by voting: from Magna Carta to the 19th Amendment they followed protests, riots, petitions, strikes and community organizing. The title compares voting to politics as shopping is to… ([Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)](../summaries/1eb45063a722.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-01** - Armin Ronacher argues Serde, Rust's dominant serialization library, has design-level limits that cannot be fixed without breaking its stability guarantees, and presents Deser as an alternative. He gives three corner cases: internally tagged enums fail when… ([Deser: Rethinking Rust Serialization](../summaries/b5fe230975d3.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-09-30** - A person claiming to be an Apple engineer has published a GitHub project that manipulates the internal activations of open-weight models to induce states associated with 'pain' and 'pleasure', then measures how behavior changes as intensity rises. Built on… (["Apple engineer" builds GitHub AI torture chamber to inflict "pain" on models](../summaries/cb14388d797a.md) · [Apple](../entities/apple.md))

@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "OpenAI launched two ChatGPT shopping features worldwide: a virtual try-on for clothes and accessories, and a Favorites list that saves products to a Library. Try On appears in shopping results; users upload a selfie or full-body photo, or a screenshot of an item, and see it on themselves. Both use the new ChatGPT Images 2.5 model.",
+  "TechCrunch places it in OpenAI's repeated shopping experiments: its earlier instant checkout did not perform well. It can also build outfits from a described style or find items from celebrity photos, which moves ChatGPT toward Pinterest and Google territory for fashion discovery."
+ ],
+ "highlights": [
+  "Try On and Favorites launched globally on Thursday.",
+  "Try-on takes a selfie, full-body photo or item screenshot.",
+  "Favorites saves products to a Library alongside try-on images.",
+  "Built on ChatGPT Images 2.5, which OpenAI says gives better lighting and lower latency.",
+  "OpenAI's earlier instant checkout feature underperformed."
+ ],
+ "id": "cdc20ea0697d",
+ "authored_at": "2026-10-02T01:24:36.526947+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

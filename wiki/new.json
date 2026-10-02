@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T19:17:32+00:00",
+ "generated_at": "2026-10-02T01:18:18+00:00",
  "stories": [
   {
    "id": "19832d3b3f8f",
@@ -8,40 +8,106 @@
    "url": "https://blog.cloudflare.com/clef-decision-models/"
   },
   {
-   "id": "64cdd9bf46f8",
-   "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+   "id": "a7735735853d",
+   "title": "Vote on which of Hacker News' challenges for AI have been met",
    "source": "Hacker News",
-   "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
+   "url": "https://stoppels.ch/goalposts/"
   },
   {
-   "id": "f32f37df756a",
-   "title": "Ask HN: Who is hiring?",
+   "id": "8deb23bbb6e9",
+   "title": "Don't Be Fooled by this Summer of AI Hype",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49922569"
+   "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
   },
   {
-   "id": "41e3e28f3760",
-   "title": "Identity Management for Agentic AI [pdf] (2025)",
+   "id": "269b08de12a5",
+   "title": "Show HN: Rhun, an open-source code editor written in assembly",
    "source": "Hacker News",
-   "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
+   "url": "https://rhun.app/"
   },
   {
-   "id": "3c090f05f3bd",
-   "title": "Ask HN: Who wants to be hired?",
+   "id": "f7920bfc4b05",
+   "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49922568"
+   "url": "https://neow.in/NGxhb3d6"
   },
   {
-   "id": "2c6ef460012e",
-   "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+   "id": "1fb89fe1a4b1",
+   "title": "Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49911500"
+   "url": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use/"
   },
   {
-   "id": "65fd388d9aa4",
-   "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome",
+   "id": "28b784a26723",
+   "title": "Aweb – Communication for AI Agents",
    "source": "Hacker News",
-   "url": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/"
+   "url": "https://aweb.ai"
+  },
+  {
+   "id": "905e596102dd",
+   "title": "FLUX 3 Image",
+   "source": "Hacker News",
+   "url": "https://bfl.ai/models/flux-3-image"
+  },
+  {
+   "id": "041e1cf0ab50",
+   "title": "Frog and Toad and the Increasingly Capable Machines",
+   "source": "Hacker News",
+   "url": "https://www.frogandtoad.ai/"
+  },
+  {
+   "id": "ad3c0229edf6",
+   "title": "California issues investigative subpoena to OpenAI over rogue agents' hacking",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack"
+  },
+  {
+   "id": "3156bcbd0055",
+   "title": "Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel",
+   "source": "Hacker News",
+   "url": "https://github.com/LiterateDrivenDevelopment/kcc"
+  },
+  {
+   "id": "df849ccced95",
+   "title": "DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
+   "source": "Hacker News",
+   "url": "https://dogbench.ai/"
+  },
+  {
+   "id": "388ae7f76322",
+   "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+   "source": "Hacker News",
+   "url": "https://premortem.site"
+  },
+  {
+   "id": "7dea3bdfc475",
+   "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
+   "source": "Hacker News",
+   "url": "https://anth.us/blog/openai-decisions-api-preview/"
+  },
+  {
+   "id": "56bb39c73e82",
+   "title": "Sites in ChatGPT",
+   "source": "Hacker News",
+   "url": "https://chatgpt.com/features/sites/"
+  },
+  {
+   "id": "7e773f963b3f",
+   "title": "Is sandboxing sufficient to contain rogue agents?",
+   "source": "Lobsters",
+   "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"
+  },
+  {
+   "id": "9aecef0257ff",
+   "title": "California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/litigation/california-attorney-general-issues-investigative-subpoena-openai-2026-10-01/"
+  },
+  {
+   "id": "4c98977144cd",
+   "title": "some of the information that the three now ex-OpenAI employees allegedly mishandled pertained to OpenAI's infrastructure architecture",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information"
   },
   {
    "id": "0c327d84f995",
@@ -50,166 +116,28 @@
    "url": "https://reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01"
   },
   {
-   "id": "b874c01b9e15",
-   "title": "We can and must solve alignment",
-   "source": "TLDR AI",
-   "url": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment"
-  },
-  {
-   "id": "f9130264fd29",
-   "title": "Praxis-1",
-   "source": "TLDR AI",
-   "url": "https://runway.com/research/introducing-praxis-1"
-  },
-  {
-   "id": "9ca5523e1c35",
-   "title": "The AI Safety community is unfortunately doing more harm than good",
-   "source": "TLDR AI",
-   "url": "https://links.tldrnewsletter.com/VmBjCJ"
-  },
-  {
-   "id": "93571df7dfe6",
-   "title": "Generalization Dynamics of LM Pre-training",
-   "source": "TLDR AI",
-   "url": "https://www.alphaxiv.org/abs/2609.33150"
-  },
-  {
-   "id": "c160b75c673f",
-   "title": "Can we predict the jobs robots will do?",
-   "source": "TLDR AI",
-   "url": "https://www.anthropic.com/research/what-work-can-robots-do"
-  },
-  {
-   "id": "2267bd2b2836",
-   "title": "Volantis, which aims to use vertical-cavity surface-emitting lasers, like those used by the iPhone's Face ID, to connect AI chips and memory chips, raised $88M",
+   "id": "170d39a07a6c",
+   "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train its models on copyrighted works, giving copyright holders a choice to opt out",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/volantis-raises-88-million-tech-connect-ai-memory-chips-2026-10-01/"
+   "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news"
   },
   {
-   "id": "9fc35215a3da",
-   "title": "OpenAI says it \"parted ways\" with three researchers for violating its \"handling sensitive\" info policies; sources: they shared it with an AI safety organization",
+   "id": "d806178c4098",
+   "title": "Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu&reflink=desktopwebshare_permalink"
+   "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/"
   },
   {
-   "id": "d68c6cf058de",
-   "title": "Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access",
+   "id": "cdc20ea0697d",
+   "title": "OpenAI launches two ChatGPT shopping features: a virtual try-on tool for clothing and accessories, and a Favorites feature to save products to a user's Library",
    "source": "Techmeme",
-   "url": "https://claude.com/blog/claude-for-government-is-now-generally-available"
+   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
   },
   {
-   "id": "b42e9880b606",
-   "title": "Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users",
-   "source": "TLDR AI",
-   "url": "https://links.tldrnewsletter.com/VezRJB"
-  },
-  {
-   "id": "ef1514ffc35a",
-   "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
-  },
-  {
-   "id": "82834b4b67a1",
-   "title": "The ugly economics of consumer AI",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
-  },
-  {
-   "id": "47e0eba1aa72",
-   "title": "A new transformer passes its hidden state to the next token instead of recomputing it",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2609.38149"
-  },
-  {
-   "id": "1eb45063a722",
-   "title": "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/01/data-centers/"
-  },
-  {
-   "id": "8786c792b557",
-   "title": "IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via a convertible note that could help finance Anthropic's $125.2B, five-year TPU lease commitment",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/"
-  },
-  {
-   "id": "479cc7c1b04d",
-   "title": "Introducing E2B Embed",
-   "source": "TLDR AI",
-   "url": "https://e2b.dev/resources/introducing-e2b-embed"
-  },
-  {
-   "id": "f735c9cc576c",
-   "title": "Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking"
-  },
-  {
-   "id": "8df1727e6e8f",
-   "title": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
-  },
-  {
-   "id": "d327cd67c0d0",
-   "title": "Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday"
-  },
-  {
-   "id": "23e60edf697c",
-   "title": "SynthID Bio: Watermarking methods for synthetic biology",
-   "source": "TLDR AI",
-   "url": "https://deepmind.google/blog/introducing-synthid-bio/"
-  },
-  {
-   "id": "576939cf6931",
-   "title": "Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base",
-   "source": "Techmeme",
-   "url": "https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second"
-  },
-  {
-   "id": "082c881ce11a",
-   "title": "How OpenAI Disrupted a Model-Distillation Campaign",
-   "source": "TLDR AI",
-   "url": "https://links.tldrnewsletter.com/VFHse4"
-  },
-  {
-   "id": "5c381e864112",
-   "title": "Anthropic has taken the unusual step of ending customers' discounts, which typically reach ~15%, once they hit the usage limits, forcing renegotiations",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending"
-  },
-  {
-   "id": "09de2e5d4933",
-   "title": "NVIDIA OpenShell Secures Autonomous AI Agents",
-   "source": "TLDR AI",
-   "url": "https://github.com/NVIDIA/OpenShell"
-  },
-  {
-   "id": "540702df338d",
-   "title": "SoftBank made the final $10B investment in its $30B pledge to OpenAI's last funding round; source: Nvidia also made its final $10B investment in the round",
+   "id": "e709ee2c6af6",
+   "title": "SoftBank made the final $10B investment in its $30B pledge to OpenAI's most recent funding round; source: Nvidia made its final $10B investment in the round too",
    "source": "Techmeme",
    "url": "https://www.theinformation.com/"
-  },
-  {
-   "id": "02dc5b891eec",
-   "title": "Ideogram 4.5: The most precise edit model",
-   "source": "TLDR AI",
-   "url": "https://ideogram.ai/models/4.5"
-  },
-  {
-   "id": "b7a54dc232ac",
-   "title": "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more",
-   "source": "Techmeme",
-   "url": "https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/"
-  },
-  {
-   "id": "e8876f8d9e4e",
-   "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
-   "source": "Lobsters",
-   "url": "https://github.com/dtonon/outis"
   }
  ]
 }

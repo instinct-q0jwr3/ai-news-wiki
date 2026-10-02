@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-01 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-02** - Rhun is a small code editor written in assembly for Windows, Linux and macOS. It has tabs, syntax highlighting, fuzzy search, an optional Vim mode and 39 themes, and runs builds, shell commands and coding agents beside the code. ([Show HN: Rhun, an open-source code editor written in assembly](../summaries/269b08de12a5.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-10-02** - Anthropic has told an Australian parliamentary inquiry that it no longer expects a blanket copyright exemption for AI training. It proposes instead a 'conditional approval' scheme: big tech could train on Australian copyrighted works under an opt-out… ([Anthropic urges Australia to consider "conditional approval" for Big Tech to train its models on copyrighted works, giving copyright holders a choice to opt out](../summaries/170d39a07a6c.md) · [Anthropic](../entities/anthropic.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-01** - A Show HN for an open-source model router for coding agents that claims Astra-level performance. The authors started building it a few months ago, believing a router could outperform single models. Only the opening of the post was captured, so the method… ([Show HN: Open-source model routing for coding agents at Astra-level performance](../summaries/2c6ef460012e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-01** - Reuters reports from Anthropic's IPO prospectus that Broadcom agreed to lend Anthropic up to $42 billion through a convertible note, which could help finance Anthropic's $125.2 billion, five-year TPU lease commitment. Broadcom stands out among the big-tech… ([IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via a convertible note that could help finance Anthropic's $125.2B, five-year TPU lease commitment](../summaries/8786c792b557.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-10-01** - Bloomberg reports, citing people familiar, that Anthropic could start formal IPO marketing as soon as the week of November 9, putting it in line to begin trading before Thanksgiving. Based on the Techmeme excerpt; the article was paywalled. ([Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving](../summaries/d327cd67c0d0.md) · [Anthropic](../entities/anthropic.md)) 🔒

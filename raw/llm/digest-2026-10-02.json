@@ -1,0 +1,81 @@
+{
+ "id": "digest-2026-10-02",
+ "date": "2026-10-02",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "California's attorney general opened the day with a [subpoena to OpenAI](../summaries/ad3c0229edf6.md) over its cybersecurity incidents, joining the FTC probe. [Anthropic urged Australia to adopt an opt-out copyright model](../summaries/170d39a07a6c.md), and a [test of OpenAI's Luna](../summaries/7dea3bdfc475.md) found its 99% confidence was right only 68% of the time. [OpenAI added virtual try-on to ChatGPT](../summaries/cdc20ea0697d.md)."
+ ],
+ "sections": [
+  {
+   "title": "California joins the OpenAI probe",
+   "stories": [
+    "ad3c0229edf6",
+    "9aecef0257ff",
+    "4c98977144cd",
+    "e709ee2c6af6"
+   ],
+   "concepts": [
+    "ai-policy-regulation",
+    "agent-incidents"
+   ],
+   "intro": "California's attorney general subpoenas OpenAI over the hacking incidents, three OpenAI staff leave over mishandled information, and SoftBank and Nvidia finish their $10B investments."
+  },
+  {
+   "title": "Copyright and the news business",
+   "stories": [
+    "170d39a07a6c",
+    "8deb23bbb6e9",
+    "1fb89fe1a4b1"
+   ],
+   "concepts": [
+    "ai-and-creative-labor",
+    "ai-policy-regulation"
+   ],
+   "intro": "Anthropic asks Australia for an opt-out regime while the ABC warns of cannibalisation, and two opinion pieces push back on AI hype and fatigue."
+  },
+  {
+   "title": "Models and a shaky confidence number",
+   "stories": [
+    "7dea3bdfc475",
+    "d806178c4098",
+    "905e596102dd",
+    "df849ccced95"
+   ],
+   "concepts": [
+    "external-evaluation",
+    "frontier-model-launches"
+   ],
+   "intro": "A test finds OpenAI's Luna is right only 68% of the time when 99% sure, Microsoft ships streaming transcription, FLUX 3 Image appears and DoGBench tops out under 50%."
+  },
+  {
+   "title": "Shopping, pricing and consumer ChatGPT",
+   "stories": [
+    "cdc20ea0697d",
+    "f7920bfc4b05",
+    "56bb39c73e82"
+   ],
+   "concepts": [
+    "agentic-commerce",
+    "consumer-ai-assistants"
+   ],
+   "intro": "ChatGPT gets try-on and Favorites, McDonald's pricing raises questions and Sites in ChatGPT shows up."
+  },
+  {
+   "title": "Small tools and side projects",
+   "stories": [
+    "269b08de12a5",
+    "388ae7f76322",
+    "3156bcbd0055",
+    "28b784a26723",
+    "a7735735853d",
+    "041e1cf0ab50"
+   ],
+   "concepts": [
+    "ai-coding-agents",
+    "agent-engineering-practices"
+   ],
+   "intro": "An assembly editor, a solo-built C compiler that boots Linux, an idea red-teamer, a messaging layer for agents and two odd web projects."
+  }
+ ]
+}

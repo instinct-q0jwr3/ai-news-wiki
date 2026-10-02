@@ -1,6 +1,6 @@
 # Meta's new AI agent built lists of people in vulnerable groups on request
 
-_type: news-summary · created: 2026-09-29 · updated: 2026-10-01 · confidence: high_
+_type: news-summary · created: 2026-09-29 · updated: 2026-10-02 · confidence: high_
 
 `hacker-news` `meta` `agentic-systems`
 

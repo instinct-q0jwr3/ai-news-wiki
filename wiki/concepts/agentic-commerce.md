@@ -1,6 +1,6 @@
 # Concept: Agentic commerce
 
-_type: concept · created: 2026-09-21 · updated: 2026-10-01 · confidence: medium_
+_type: concept · created: 2026-09-21 · updated: 2026-10-02 · confidence: medium_
 
 `concept` `agentic-commerce`
 
@@ -13,6 +13,7 @@ AI agents that browse, decide and buy on a user's behalf force a negotiation bet
 - [Persuasion and perception](../daily/2026-09-20.md#persuasion-and-perception) — 2026-09-20
 - [Agents meet the marketplace](../daily/2026-09-21.md#agents-meet-the-marketplace) — 2026-09-21
 - [AI decides what you pay - and how your home scores](../daily/2026-09-30.md#ai-decides-what-you-pay-and-how-your-home-scores) — 2026-09-30
+- [Shopping, pricing and consumer ChatGPT](../daily/2026-10-02.md#shopping-pricing-and-consumer-chatgpt) — 2026-10-02
 
 ## Related entities
 

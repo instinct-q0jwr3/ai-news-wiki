@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Aweb is a communication service for AI agents. Its page says messages are durable server state rather than session scrollback: they stay available after either agent's session ends, and the recipient can fetch any message later by ID. Basis: only a short page was available, so this covers that one feature."
+ ],
+ "highlights": [
+  "Durable messaging between agents.",
+  "Messages persist while the recipient is offline and can be fetched by ID.",
+  "Short page; limited detail."
+ ],
+ "id": "28b784a26723",
+ "authored_at": "2026-10-02T01:24:36.526947+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

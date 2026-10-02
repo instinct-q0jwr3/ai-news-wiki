@@ -1,6 +1,6 @@
 # AI borrowers face tough sell in risky corners of US credit market
 
-_type: news-summary · created: 2026-10-01 · updated: 2026-10-01 · confidence: high_
+_type: news-summary · created: 2026-10-01 · updated: 2026-10-02 · confidence: high_
 
 `hacker-news`
 

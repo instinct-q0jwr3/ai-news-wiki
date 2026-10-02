@@ -1,6 +1,6 @@
 # PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners
 
-_type: news-summary · created: 2026-09-27 · updated: 2026-10-01 · confidence: high_
+_type: news-summary · created: 2026-09-27 · updated: 2026-10-02 · confidence: high_
 
 `techmeme` `compute-buildout`
 

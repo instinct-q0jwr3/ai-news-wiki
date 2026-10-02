@@ -1,6 +1,6 @@
 # Concept: Consumer Ai Assistants
 
-_type: concept · created: 2026-10-01 · updated: 2026-10-01 · confidence: medium_
+_type: concept · created: 2026-10-02 · updated: 2026-10-02 · confidence: medium_
 
 `concept` `consumer-ai-assistants`
 
@@ -14,6 +14,7 @@ An open concept gathered from briefing sections, first referenced on 2026-09-23.
 - [Corporate strategy shifts](../daily/2026-09-25.md#corporate-strategy-shifts) — 2026-09-25
 - [The assistants get personal](../daily/2026-09-26.md#the-assistants-get-personal) — 2026-09-26
 - [DevDay: always-on agents and a $500 tier](../daily/2026-09-29.md#devday-always-on-agents-and-a-500-tier) — 2026-09-29
+- [Shopping, pricing and consumer ChatGPT](../daily/2026-10-02.md#shopping-pricing-and-consumer-chatgpt) — 2026-10-02
 - [DevDay: OpenAI's agents stay on](../weekly/2026-W40.md#devday-openai-s-agents-stay-on) — Week 2026-W40
 
 ## Related entities

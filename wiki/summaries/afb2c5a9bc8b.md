@@ -1,6 +1,6 @@
 # SpaceXAI releases Grok 4.7 at $2/1M input, $6/1M output tokens
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-10-01 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-10-02 · confidence: high_
 
 `techmeme` `xai` `small-specialist-models` `ai-price-war`
 

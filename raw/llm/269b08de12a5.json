@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Rhun is a small code editor written in assembly for Windows, Linux and macOS. It has tabs, syntax highlighting, fuzzy search, an optional Vim mode and 39 themes, and runs builds, shell commands and coding agents beside the code.",
+  "AI is optional but integrated: it can follow Claude Code and Codex sessions as they work, and draft commit messages with local open-weight models or those tools via existing subscriptions. The pitch is that the agent does the heavy lifting while the editor stays light."
+ ],
+ "highlights": [
+  "Open-source editor written in assembly; Windows, Linux, macOS.",
+  "Tabs, syntax highlighting, fuzzy search, optional Vim mode, 39 themes.",
+  "Runs builds, shell commands and coding agents next to the code.",
+  "Follows Claude Code and Codex sessions; AI features are optional.",
+  "Diff review, staging and commit built in."
+ ],
+ "id": "269b08de12a5",
+ "authored_at": "2026-10-02T01:24:36.526947+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

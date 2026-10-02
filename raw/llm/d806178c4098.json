@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Microsoft AI launched MAI-Transcribe-2-Streaming, a real-time speech-to-text model, plus two voice models, MAI-Voice-2.1 and a faster Flash variant. The transcriber supports 60 languages with continuous language detection and produces first partial hypotheses in just over 100 ms, then revises them and commits a stable transcript.",
+  "Microsoft says it ranks first for accuracy on Artificial Analysis and sits on the accuracy-versus-latency frontier, with words appearing about twice as fast as its closest competitor in internal tests. Streaming is priced at an introductory $0.54 per hour of audio through year end. MAI-Voice-2.1 covers 23 languages and 26 locales with one voice speaking each with a native accent."
+ ],
+ "highlights": [
+  "MAI-Transcribe-2-Streaming: 60 languages, partials in about 100 ms.",
+  "Claims first place for accuracy on Artificial Analysis; speed claims come from Microsoft's internal evaluations.",
+  "Introductory price $0.54 per hour of audio until the end of the year.",
+  "MAI-Voice-2.1 supports 23 languages and 26 locales with a single consistent voice.",
+  "MAI-Voice-2.1-Flash is the low-latency variant."
+ ],
+ "id": "d806178c4098",
+ "authored_at": "2026-10-02T01:24:36.526947+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

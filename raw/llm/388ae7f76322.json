@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Premortem is a web tool where you paste a startup idea and six AI agents try to tear it apart, covering market, tech, competition and unit economics, among other angles. A seventh agent writes the memo.",
+  "The page claims over 2,400 ideas red-teamed and about 90 seconds per memo. Basis: only the landing page was available, so those figures are the site's own claims and there is no evidence about quality."
+ ],
+ "highlights": [
+  "Six agents critique an idea; a seventh synthesizes a memo.",
+  "Claims 2,400+ ideas processed and under 90 seconds per memo.",
+  "Show HN launch; claims unverified."
+ ],
+ "id": "388ae7f76322",
+ "authored_at": "2026-10-02T01:24:36.526947+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

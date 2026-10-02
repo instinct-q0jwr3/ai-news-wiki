@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "FLUX 3 Image is the new image model page from Black Forest Labs. The captured text only shows one capability: laying out an image with bounding boxes so the user decides where each element goes.",
+  "Basis: the fetched page was mostly marketing copy and hidden characters, so this summary rests on the title and that one visible feature line, not on specs or pricing."
+ ],
+ "highlights": [
+  "New FLUX 3 Image model from Black Forest Labs.",
+  "Supports layout control through bounding boxes.",
+  "No benchmarks, pricing or availability visible in the captured text."
+ ],
+ "id": "905e596102dd",
+ "authored_at": "2026-10-02T01:24:36.526947+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

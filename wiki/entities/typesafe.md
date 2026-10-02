@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-01 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-10-02** - Anth.us tests OpenAI's new Decisions API, announced at DevDay on September 29 in limited preview. It picks one answer from a list you define so software can branch on it, and runs on a version of GPT-6 Luna at about 150 ms a decision. The authors could not… ([OpenAI has a LOT of work to do if they think Luna can compete with Jev](../summaries/7dea3bdfc475.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md))
 - **2026-10-01** - VentureBeat reports Strands Labs, AWS's experimental agent-development project, released Strands Decider 2B, a free open-source decision model fine-tuned from an Alibaba model and a competitor to TypeSafe's Jev. In the two weeks since Jev, developers have… ([Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base](../summaries/576939cf6931.md) · [Alibaba](../entities/alibaba.md) · [Amazon](../entities/amazon.md) · [TypeSafe](../entities/typesafe.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-01** - Latent.Space opens its OpenAI DevDay coverage with leaders of OpenAI's computer-use (CUA) team and API platform. The episode title promises a rebuttal of Dwarkesh's take on computer use and an account of how OpenAI shipped a competitor to Jev in one week.… ([Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week](../summaries/ae04685c9097.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-09-29** - OpenAI announced a Decisions API at DevDay - its answer to the decision-model category TypeSafe's Jev made hot. The API returns predefined answers with confidence and is based on Luna, the smallest and cheapest model in OpenAI's lineup. The New Stack reads… ([OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details](../summaries/2964d289f4bc.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [The frontier model price war](../concepts/ai-price-war.md))

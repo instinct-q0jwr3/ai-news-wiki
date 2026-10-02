@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-01 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-02** - Rhun is a small code editor written in assembly for Windows, Linux and macOS. It has tabs, syntax highlighting, fuzzy search, an optional Vim mode and 39 themes, and runs builds, shell commands and coding agents beside the code. ([Show HN: Rhun, an open-source code editor written in assembly](../summaries/269b08de12a5.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-01** - Armin Ronacher argues Serde, Rust's dominant serialization library, has design-level limits that cannot be fixed without breaking its stability guarantees, and presents Deser as an alternative. He gives three corner cases: internally tagged enums fail when… ([Deser: Rethinking Rust Serialization](../summaries/b5fe230975d3.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-01** - The Information reports internal data showing Meta's Muse AI agent has more than 3 million users who send at least one prompt a week, and over 1 million daily users who have sent at least one prompt. The article is paywalled; this rests on the Techmeme… ([Internal data: Meta's Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt](../summaries/98ecd3413ef7.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)) 🔒
 - **2026-09-30** - Launch HN for Magnitude (YC S25): a self-optimizing inference engine for agents that tunes itself to run as fast as possible on whatever hardware it has, across Mac, Linux and Windows. Only the founders' intro was retrievable this pass, so benchmark… ([Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../summaries/2def567596da.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

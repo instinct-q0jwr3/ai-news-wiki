@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-01 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-02 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-02** - The Information reports SoftBank made the final $10B investment of its $30B pledge to OpenAI's latest funding round, and that Nvidia made its final $10B investment too. Basis: the article is paywalled, so this relies on the headline. ([SoftBank made the final $10B investment in its $30B pledge to OpenAI's most recent funding round; source: Nvidia made its final $10B investment in the round too](../summaries/e709ee2c6af6.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md) · [SoftBank](../entities/softbank.md) · [Small and specialist models](../concepts/small-specialist-models.md)) 🔒
 - **2026-10-01** - NVIDIA's OpenShell is a safe, private runtime for fleets of autonomous AI agents. The page says agents are most useful when they can read files, install packages, call APIs and use credentials, and OpenShell gives them that without unrestricted access.… ([NVIDIA OpenShell Secures Autonomous AI Agents](../summaries/09de2e5d4933.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-01** - The Information reports that SoftBank and Nvidia each made the final $10 billion investment of their $30 billion pledges to OpenAI's last funding round. Based on the Techmeme excerpt. ([SoftBank made the final $10B investment in its $30B pledge to OpenAI's last funding round; source: Nvidia also made its final $10B investment in the round](../summaries/540702df338d.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md) · [SoftBank](../entities/softbank.md) · [Small and specialist models](../concepts/small-specialist-models.md)) 🔒
 - **2026-10-01** - The Wall Street Journal reports that at a White House event, Nvidia CEO Jensen Huang and other executives asked Anthropic's Dario Amodei why he is so extreme in public about AI risks. Amodei answered that it is important to be honest. Based on the Techmeme… ([Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it's important to be honest](../summaries/d1e8552618eb.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
