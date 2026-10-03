@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "John Gruber highlights Apple's statement that it will tighten Full Disk Access on macOS. Apple says the permission sidesteps normal data controls so backup apps work, but some developers use it in ways that expose files, mail, messages and browsing history without users' full understanding, compromising people they communicate with too.",
+  "Going forward, users who truly want to grant it will need very explicit action. Apple ties the change to AI agents becoming more capable and autonomous."
+ ],
+ "highlights": [
+  "Apple will add controls around Full Disk Access.",
+  "Reason: apps exposing mail, messages and history without clear user knowledge.",
+  "Explicit user action will be required.",
+  "Driven by increasingly autonomous AI agents."
+ ],
+ "id": "a4d7fd118037",
+ "authored_at": "2026-10-03T01:25:37.857094+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

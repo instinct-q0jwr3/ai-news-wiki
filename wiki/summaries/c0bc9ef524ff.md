@@ -1,6 +1,6 @@
 # A profile of Mariano-Florentino Cuéllar, Anthropic's first global affairs chief, who had helped shape California's first AI safety law in 2025
 
-_type: news-summary · created: 2026-09-30 · updated: 2026-10-02 · confidence: high_
+_type: news-summary · created: 2026-09-30 · updated: 2026-10-03 · confidence: high_
 
 `techmeme` `anthropic` `ai-safety-incidents`
 

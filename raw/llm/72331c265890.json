@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Meta announced Muse Gadgets, an open-source ESP32 firmware and Linux SDK so developers can bring its Muse agent to their own hardware. Meta also built Muse Home Link, a USB-C device that connects Muse to the home network to talk to TVs, speakers and other devices exposing https, and made a batch of 5,000.",
+  "Engadget notes Meta's tamagotchi-like Muse Charm device is still mostly unknown, and Home Link won't be the only dedicated hardware for Muse."
+ ],
+ "highlights": [
+  "Open-source ESP32 firmware and Linux SDK for Muse hardware.",
+  "Muse Home Link: USB-C smart-home bridge, 5,000 made.",
+  "Encourages third-party Muse-powered devices.",
+  "Muse Charm remains largely undisclosed."
+ ],
+ "id": "72331c265890",
+ "authored_at": "2026-10-03T01:25:37.857094+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

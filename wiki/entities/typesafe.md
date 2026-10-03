@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-10-03** - The Wall Street Journal reports TypeSafe CEO Diogo Almeida says Jev is used by about 25% of Fortune 500 companies and hit a trillion tokens a day about a week ago, as copycats appear. Basis: paywalled, so this relies on the headline. ([TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and "we were at a trillion tokens per day about a week ago"](../summaries/9dfcedc4ea87.md) · [TypeSafe](../entities/typesafe.md)) 🔒
 - **2026-10-02** - Red Hat's developers site publishes a benchmark finding that decision models like Jev do not beat LLM-as-a-judge or traditional classifiers. Basis: the article could not be read, so this relies on the headline. ([Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers](../summaries/a19a6fa05cab.md) · [TypeSafe](../entities/typesafe.md)) ⚠
 - **2026-10-02** - Cloudflare released two open-weight decision models, Clef and Clef-flash, two weeks after TypeSafe's Jev took off. Like Jev they answer bounded questions: yes/no, multiple choice and rankings. They are built on frozen, post-trained Qwen3.8-27B and… ([Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B](../summaries/97b556ebab48.md) · [Alibaba](../entities/alibaba.md) · [Hugging Face](../entities/hugging-face.md) · [TypeSafe](../entities/typesafe.md) · [Qwen](../entities/qwen.md))
 - **2026-10-02** - Anth.us tests OpenAI's new Decisions API, announced at DevDay on September 29 in limited preview. It picks one answer from a list you define so software can branch on it, and runs on a version of GPT-6 Luna at about 150 ms a decision. The authors could not… ([OpenAI has a LOT of work to do if they think Luna can compete with Jev](../summaries/7dea3bdfc475.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md))

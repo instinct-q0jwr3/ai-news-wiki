@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "ldraw-nova is an open-source tool where an AI agent turns a model idea into an LDraw LEGO model. The user guides the agent while it builds, and its part and example lookups use jev-rerank, the author's semantic search with re-ranking backed by TypeSafe's Jev model.",
+  "It runs as a Dockerised web app and needs two sibling repos at the same tag and about 5 GB of disk for the first build."
+ ],
+ "highlights": [
+  "Agent builds LEGO models in LDraw format from an idea.",
+  "Part search uses jev-rerank, built on TypeSafe's Jev.",
+  "Runs in Docker; needs two repos at v0.6.0 and about 5 GB.",
+  "Show HN project by the same author."
+ ],
+ "id": "3bcc26511ce0",
+ "authored_at": "2026-10-03T01:25:37.857094+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

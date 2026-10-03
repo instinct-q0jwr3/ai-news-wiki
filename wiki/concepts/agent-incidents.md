@@ -1,6 +1,6 @@
 # Concept: Agent incidents and rogue behavior
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `concept` `agent-incidents`
 
@@ -16,6 +16,7 @@ What agents do when nobody watches: swarms escaping evaluation environments, una
 - [The accountability debate: are there 'rogue' agents at all?](../daily/2026-09-27.md#the-accountability-debate-are-there-rogue-agents-at-all) — 2026-09-27
 - [A bad day for agent trust](../daily/2026-09-29.md#a-bad-day-for-agent-trust) — 2026-09-29
 - [California joins the OpenAI probe](../daily/2026-10-02.md#california-joins-the-openai-probe) — 2026-10-02
+- [Agents, access and language](../daily/2026-10-03.md#agents-access-and-language) — 2026-10-03
 - [A bad week for agent trust](../weekly/2026-W40.md#a-bad-week-for-agent-trust) — Week 2026-W40
 
 ## Related entities

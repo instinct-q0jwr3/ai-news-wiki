@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,8 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-03** - Meta announced Muse Gadgets, an open-source ESP32 firmware and Linux SDK so developers can bring its Muse agent to their own hardware. Meta also built Muse Home Link, a USB-C device that connects Muse to the home network to talk to TVs, speakers and other… ([Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5](../summaries/72331c265890.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
+- **2026-10-03** - Meta told Semafor it is letting go of employees it hired from AI safety startup Virtue AI, four months after they joined in June, citing clashing work styles. Spokesperson Andy Stone said Meta Superintelligence Labs remains focused on safety, alignment and… ([Meta says it is letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company, citing clashing work styles](../summaries/87ca89393b37.md) · [Meta](../entities/meta.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-02** - Breadcrumb is a Mac app that records your screen activity and serves it as context to your AI. History is encrypted with your own key and stays on the Mac. Transcription, speaker naming and day organisation use local models, and speakers are named from… ([Show HN: Breadcrumb, record everything on your mac + context manager for AI](../summaries/233cdb4b1427.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-02** - Latent Space interviews Airbnb CTO Ahmad Al-Dahle, who joined in January from Meta where he led generative AI and the Llama launches. Airbnb is being turned into an 'AI-native company' through what they call inside-out AI: use AI internally first to speed… ([Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience](../summaries/5c794828967f.md) · [Meta](../entities/meta.md))
 - **2026-10-02** - Stratechery's weekly Friday overview for week 40, 'Dots and Question Marks', listing favourites from the bundle, with this week's video on Frontier Overhangs. Only the intro was readable, so this is a pointer, not a summary. ([2026.40: Dots and Question Marks](../summaries/cd59962c3ee1.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md))

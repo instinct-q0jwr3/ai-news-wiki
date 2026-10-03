@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 

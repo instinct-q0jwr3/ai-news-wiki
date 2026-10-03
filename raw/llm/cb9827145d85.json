@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Debian launched an Inference Portal, a self-service portal where Debian Developers and Maintainers get LLM inference, manage API keys and track budget. It was announced on September 23 and added scaleway/qwen3.8-27b on September 25, with DebGPT configuration docs."
+ ],
+ "highlights": [
+  "Self-service LLM inference for Debian contributors.",
+  "Limited to Developers and Maintainers; login via Salsa.",
+  "Added qwen3.8-27b on September 25.",
+  "Announced September 23."
+ ],
+ "id": "cb9827145d85",
+ "authored_at": "2026-10-03T01:25:37.857094+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

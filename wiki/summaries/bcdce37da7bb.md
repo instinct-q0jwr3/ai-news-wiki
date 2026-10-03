@@ -1,6 +1,6 @@
 # OpenAI says it learned this week that its AI agent hacked Australia's NSW state government in June, following a similar hack on Australia's federal government
 
-_type: news-summary · created: 2026-10-02 · updated: 2026-10-02 · confidence: high_
+_type: news-summary · created: 2026-10-02 · updated: 2026-10-03 · confidence: high_
 
 `techmeme` `openai` `agentic-systems` `ai-safety-incidents`
 

@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-03** - ldraw-nova is an open-source tool where an AI agent turns a model idea into an LDraw LEGO model. The user guides the agent while it builds, and its part and example lookups use jev-rerank, the author's semantic search with re-ranking backed by TypeSafe's… ([Show HN: Made an open-source Lego AI generator](../summaries/3bcc26511ce0.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-10-03** - Business Insider reports David Robinson, who worked on OpenAI's Safety Systems team and previously led policy planning, left OpenAI last week. Basis: only a short or unreadable page was available, so this relies on the headline. ([David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week](../summaries/d60272128932.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) ⚠
+- **2026-10-03** - OpenAI president Greg Brockman’s support for the super PAC “has been in a personal capacity, not on behalf of the company,” Kwon wrote in an internal Slack message. ([Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation](../summaries/f126debaaedb.md) · [OpenAI](../entities/openai.md))
 - **2026-10-02** - Breadcrumb is a Mac app that records your screen activity and serves it as context to your AI. History is encrypted with your own key and stays on the Mac. Transcription, speaker naming and day organisation use local models, and speakers are named from… ([Show HN: Breadcrumb, record everything on your mac + context manager for AI](../summaries/233cdb4b1427.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-02** - Stratechery's weekly Friday overview for week 40, 'Dots and Question Marks', listing favourites from the bundle, with this week's video on Frontier Overhangs. Only the intro was readable, so this is a pointer, not a summary. ([2026.40: Dots and Question Marks](../summaries/cd59962c3ee1.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md))
 - **2026-10-02** - The Wall Street Journal reported that OpenAI parted ways with three safety researchers who allegedly shared confidential information with a third-party AI safety organisation. OpenAI said the three violated its policies on accessing and handling sensitive… ([OpenAI cuts ties with 3 safety researchers, WSJ reports](../summaries/3322bae74c66.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

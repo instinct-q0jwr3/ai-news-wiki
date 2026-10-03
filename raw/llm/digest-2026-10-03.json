@@ -1,0 +1,61 @@
+{
+ "id": "digest-2026-10-03",
+ "date": "2026-10-03",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "The day so far is quiet: [Meta opened Muse to third-party hardware](../summaries/72331c265890.md) and [dropped its ex-Virtue AI hires](../summaries/87ca89393b37.md), [Apple tightened Full Disk Access](../summaries/a4d7fd118037.md) because of AI agents, and [Supabase raised $150M](../summaries/af775e1a5f29.md)."
+ ],
+ "sections": [
+  {
+   "title": "Meta and Muse",
+   "stories": [
+    "72331c265890",
+    "8ab09310c96d",
+    "87ca89393b37"
+   ],
+   "concepts": [
+    "consumer-ai-assistants"
+   ],
+   "intro": "Muse gets open hardware and Meta parts with Virtue AI's team."
+  },
+  {
+   "title": "Agents, access and language",
+   "stories": [
+    "a4d7fd118037",
+    "9874f287ec6a",
+    "3bcc26511ce0"
+   ],
+   "concepts": [
+    "agent-incidents",
+    "supply-chain-security"
+   ],
+   "intro": "Apple restricts disk access, a study of uneven agents and a LEGO builder."
+  },
+  {
+   "title": "Money and hardware",
+   "stories": [
+    "af775e1a5f29",
+    "ed14604b24e3",
+    "9dfcedc4ea87"
+   ],
+   "concepts": [
+    "ai-business-models",
+    "compute-buildout"
+   ],
+   "intro": "Supabase buys Turso, DGX Spark costs more and Jev's adoption claim."
+  },
+  {
+   "title": "People and community",
+   "stories": [
+    "d60272128932",
+    "cb9827145d85",
+    "c2ab861695d3"
+   ],
+   "concepts": [
+    "ai-research-community"
+   ],
+   "intro": "An OpenAI safety departure, Debian's inference portal and a Scheme interview."
+  }
+ ]
+}

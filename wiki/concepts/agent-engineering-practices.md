@@ -1,6 +1,6 @@
 # Concept: Agent engineering practices
 
-_type: concept · created: 2026-10-02 · updated: 2026-10-02 · confidence: medium_
+_type: concept · created: 2026-10-03 · updated: 2026-10-03 · confidence: medium_
 
 `concept` `agent-engineering-practices`
 

@@ -1,8 +1,8 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
-`entity` `xai` `agentic-systems` `ai-coding-agents` `ai-price-war` `compute-buildout`
+`entity` `xai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
 ## Overview
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-10-03** - An interview with Peter Bex (sjamaan), CHICKEN Scheme maintainer and professional Clojure developer, about his work on the numerical tower, the irregex library and security fixes. He prefers saving and running the test suite from a terminal over… ([Lobsters Interview with Sjamaan](../summaries/c2ab861695d3.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-01** - Bloomberg reports, via a TLDR AI pointer, that Musk's SpaceXAI is considering an overhaul of pricing for Grok and X users. The article could not be retrieved, so this rests on the headline. ([Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users](../summaries/b42e9880b606.md) · [SpaceXAI (xAI)](../entities/xai.md) · [The frontier model price war](../concepts/ai-price-war.md)) ⚠
 - **2026-09-30** - Bloomberg reports on a document showing SpaceXAI planning a unified subscription for Grok and X with four tiers: a $100/month Ultra plan, an $8/month Lite plan and a free offering among them. (Summary based on the Techmeme headline and feed excerpt; the… ([Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering](../summaries/e0cf2099819a.md) · [SpaceXAI (xAI)](../entities/xai.md) · [The frontier model price war](../concepts/ai-price-war.md)) 🔒
 - **2026-09-28** - Elon Musk says SpaceXAI will bring another 660,000 Nvidia GPUs online this year, pushing the Colossus buildout past the million-GPU goal he announced nearly two years ago. Per his X post, 220,000 GB300s will be operational next week, another 220,000 in… ([Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year](../summaries/0f3d42b526f5.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

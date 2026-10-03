@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-03** - John Gruber highlights Apple's statement that it will tighten Full Disk Access on macOS. Apple says the permission sidesteps normal data controls so backup apps work, but some developers use it in ways that expose files, mail, messages and browsing history… ([★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](../summaries/a4d7fd118037.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-10-02** - Apple said it will add controls around Full Disk Access on macOS, because AI agents raise the risks of that level of access. The feature exists so backups work. The announcement came days after a journalist claimed Meta's Muse app on Mac read private… ([Apple says it is adding additional controls around "Full Disk Access" on macOS as AI agents have increased "the risks associated with this level of access"](../summaries/abace1507e31.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-02** - Rhun is a small code editor written in assembly for Windows, Linux and macOS. It has tabs, syntax highlighting, fuzzy search, an optional Vim mode and 39 themes, and runs builds, shell commands and coding agents beside the code. ([Show HN: Rhun, an open-source code editor written in assembly](../summaries/269b08de12a5.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-01** - Cory Doctorow's Pluralistic post argues voting rights were not won by voting: from Magna Carta to the 19th Amendment they followed protests, riots, petitions, strikes and community organizing. The title compares voting to politics as shopping is to… ([Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)](../summaries/1eb45063a722.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

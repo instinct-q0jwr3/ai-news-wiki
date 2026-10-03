@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-03** - ldraw-nova is an open-source tool where an AI agent turns a model idea into an LDraw LEGO model. The user guides the agent while it builds, and its part and example lookups use jev-rerank, the author's semantic search with re-ranking backed by TypeSafe's… ([Show HN: Made an open-source Lego AI generator](../summaries/3bcc26511ce0.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-02** - Breadcrumb is a Mac app that records your screen activity and serves it as context to your AI. History is encrypted with your own key and stays on the Mac. Transcription, speaker naming and day organisation use local models, and speakers are named from… ([Show HN: Breadcrumb, record everything on your mac + context manager for AI](../summaries/233cdb4b1427.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-02** - Matthew Schwartz, a physicist, describes letting Claude pick 'Claude-shaped' problems, the ones today's models do well, instead of forcing his own. This led to BootLoops, a toolkit for exact calculations in quantitative science. Because similar… ([Claude-shaped science](../summaries/347baf61f001.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-02** - Anthropic launched the Claude Frontier Academy with a $100M commitment to train 10,000 Frontier Deployed Engineers by 2028. It includes a residency built around a simulated enterprise deployment, testing judgment rather than isolated technical skills. ([Anthropic launches the Claude Frontier Academy with a $100M commitment to train 10K Frontier Deployed Engineers by 2028, starting with Accenture, Bain, others](../summaries/709e064f25ef.md) · [Anthropic](../entities/anthropic.md))

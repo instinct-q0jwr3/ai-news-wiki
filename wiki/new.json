@@ -1,251 +1,83 @@
 {
- "generated_at": "2026-10-02T19:22:06+00:00",
+ "generated_at": "2026-10-03T01:21:33+00:00",
  "stories": [
   {
-   "id": "8486c1ebe962",
-   "title": "With most information hidden, the game Stratego had stumped AI until now",
+   "id": "8ab09310c96d",
+   "title": "Muse Gadgets",
    "source": "Hacker News",
-   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+   "url": "https://gadgets.muse.ai"
   },
   {
-   "id": "bc86c3644a2b",
-   "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+   "id": "3bcc26511ce0",
+   "title": "Show HN: Made an open-source Lego AI generator",
    "source": "Hacker News",
-   "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
+   "url": "https://github.com/anteloc/ldraw-nova"
   },
   {
-   "id": "735c643c0aeb",
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "id": "9874f287ec6a",
+   "title": "Three AI agents, two countries, and one uneven world wide web",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
+   "url": "https://royapakzad.substack.com/p/multilingual-ai-agents"
   },
   {
-   "id": "233cdb4b1427",
-   "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+   "id": "cb9827145d85",
+   "title": "Debian Inference Portal",
    "source": "Hacker News",
-   "url": "https://innerloop.works/breadcrumb"
+   "url": "https://inference.debian.net/"
   },
   {
-   "id": "7dea3bdfc475",
-   "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
-   "source": "Hacker News",
-   "url": "https://anth.us/blog/openai-decisions-api-preview/"
-  },
-  {
-   "id": "4d89f681b636",
-   "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-   "source": "Hacker News",
-   "url": "https://www.kapa.ai/blog/company-knowledge-bench"
-  },
-  {
-   "id": "d42c45c99b16",
-   "title": "Our Project Suncatcher prototype satellite is in orbit",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/"
-  },
-  {
-   "id": "a19a6fa05cab",
-   "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-   "source": "Hacker News",
-   "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails"
-  },
-  {
-   "id": "f5f5e98e02b7",
-   "title": "F.02 Decommission",
-   "source": "Hacker News",
-   "url": "https://www.figure.ai/news/f-02-decommission"
-  },
-  {
-   "id": "6bb10378ffd6",
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "source": "Hacker News",
-   "url": "https://dwarfstar.sh/"
-  },
-  {
-   "id": "b621e3b8a46c",
-   "title": "AI as Normal Technology (2025)",
-   "source": "Hacker News",
-   "url": "https://knightcolumbia.org/content/ai-as-normal-technology"
-  },
-  {
-   "id": "ebd2795fd2de",
-   "title": "Show HN: PhreshOS – OS for Web Apps",
-   "source": "Hacker News",
-   "url": "https://github.com/PhreshOS/system"
-  },
-  {
-   "id": "8de2a48bcd3d",
-   "title": "Mystery Function",
-   "source": "Hacker News",
-   "url": "https://codeset.ai/function"
-  },
-  {
-   "id": "312dc5cef250",
-   "title": "Robot Hands for Modern AI and Real Work",
-   "source": "Hacker News",
-   "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/"
-  },
-  {
-   "id": "992a27625cdc",
-   "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-   "source": "Hacker News",
-   "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/"
-  },
-  {
-   "id": "07bc1aa006f7",
-   "title": "The Dot and the Swarm",
-   "source": "TLDR AI",
-   "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm"
-  },
-  {
-   "id": "ec023dc975b4",
-   "title": "Amazon Enters the Decision Model Race With Strands Decider 2B",
-   "source": "TLDR AI",
-   "url": "https://strandsagents.com/blog/introducing-strands-decider/"
-  },
-  {
-   "id": "5c794828967f",
-   "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/airbnb"
-  },
-  {
-   "id": "f8f808f5bf2e",
-   "title": "Olmo-core 3 for MoE Training",
-   "source": "TLDR AI",
-   "url": "https://allenai.org/blog/olmocore3"
-  },
-  {
-   "id": "b2b4c1b0a592",
-   "title": "Premium: How Has AI Changed The Economy?",
-   "source": "Ed Zitron",
-   "url": "https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/"
-  },
-  {
-   "id": "da83be897bf8",
-   "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits",
+   "id": "72331c265890",
+   "title": "Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+   "url": "https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/"
   },
   {
-   "id": "cd59962c3ee1",
-   "title": "2026.40: Dots and Question Marks",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/dots-and-question-marks/"
-  },
-  {
-   "id": "709e064f25ef",
-   "title": "Anthropic launches the Claude Frontier Academy with a $100M commitment to train 10K Frontier Deployed Engineers by 2028, starting with Accenture, Bain, others",
+   "id": "f126debaaedb",
+   "title": "Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/news/claude-frontier-academy"
+   "url": "https://www.semafor.com/article/10/02/2026/how-employees-forced-openais-president-to-back-down"
   },
   {
-   "id": "932edd11adc8",
-   "title": "JetBrains Air: an open system of products for agentic development",
-   "source": "Hacker News",
-   "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/"
+   "id": "a4d7fd118037",
+   "title": "★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok",
+   "source": "Daring Fireball",
+   "url": "https://daringfireball.net/2026/10/apple_full_disk_access"
   },
   {
-   "id": "1965280dc72f",
-   "title": "The Four Horsemen of Agentic Coding",
+   "id": "d60272128932",
+   "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week",
+   "source": "Techmeme",
+   "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10"
+  },
+  {
+   "id": "af775e1a5f29",
+   "title": "Supabase raised $150M led by Singapore's GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/"
+  },
+  {
+   "id": "ed14604b24e3",
+   "title": "Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch",
+   "source": "Techmeme",
+   "url": "https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999"
+  },
+  {
+   "id": "87ca89393b37",
+   "title": "Meta says it is letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company, citing clashing work styles",
+   "source": "Techmeme",
+   "url": "https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai"
+  },
+  {
+   "id": "c2ab861695d3",
+   "title": "Lobsters Interview with Sjamaan",
    "source": "Lobsters",
-   "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding"
+   "url": "https://alexalejandre.com/interviews/peter-bex/"
   },
   {
-   "id": "bcdce37da7bb",
-   "title": "OpenAI says it learned this week that its AI agent hacked Australia's NSW state government in June, following a similar hack on Australia's federal government",
+   "id": "9dfcedc4ea87",
+   "title": "TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and \"we were at a trillion tokens per day about a week ago\"",
    "source": "Techmeme",
-   "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia"
-  },
-  {
-   "id": "cbd63f88bc07",
-   "title": "Broadcom's Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic"
-  },
-  {
-   "id": "4b4987e0ad79",
-   "title": "SpaceX's AI unit held talks about leasing computing capacity to Microsoft, as it fully embraces the neocloud business despite Musk's initial reluctance",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm"
-  },
-  {
-   "id": "19832d3b3f8f",
-   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-   "source": "Hacker News",
-   "url": "https://blog.cloudflare.com/clef-decision-models/"
-  },
-  {
-   "id": "af09c1b89029",
-   "title": "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\"",
-   "source": "Techmeme",
-   "url": "https://www.bbc.com/news/articles/cqx2z23xj555o"
-  },
-  {
-   "id": "eda2cf1d1565",
-   "title": "Halluminate, which builds AI training environments for complex financial work, raised a $30M Series A led by Oak HC/FT, bringing its total funding to $38.5M",
-   "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/01/halluminate-raises-30-million-series-a-oakhc-ft/"
-  },
-  {
-   "id": "98fa864685c0",
-   "title": "FieldAI, which is developing a \"universal general-purpose brain\" for robots, is raising $700M at a $10B valuation, up from $2B in 2025",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10"
-  },
-  {
-   "id": "c804c79f7856",
-   "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/the-eternal-complement/"
-  },
-  {
-   "id": "68823071506b",
-   "title": "Personal Computing 2.0",
-   "source": "TLDR AI",
-   "url": "https://ideas.imbue.com/p/personal-computing-20"
-  },
-  {
-   "id": "d806178c4098",
-   "title": "Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash",
-   "source": "Techmeme",
-   "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/"
-  },
-  {
-   "id": "3322bae74c66",
-   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
-  },
-  {
-   "id": "abace1507e31",
-   "title": "Apple says it is adding additional controls around \"Full Disk Access\" on macOS as AI agents have increased \"the risks associated with this level of access\"",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-  },
-  {
-   "id": "347baf61f001",
-   "title": "Claude-shaped science",
-   "source": "TLDR AI",
-   "url": "https://www.anthropic.com/research/claude-shaped-science"
-  },
-  {
-   "id": "fcd6da146637",
-   "title": "The Waymo effect: how AI is quietly making research less collaborative",
-   "source": "TLDR AI",
-   "url": "https://www.researchagenda.news/articles/the-waymo-effect.html"
-  },
-  {
-   "id": "573c162a7178",
-   "title": "Google Researchers Built an Agent for Automated Research",
-   "source": "TLDR AI",
-   "url": "https://imhgchoi.github.io/agentic-idea-manager/"
-  },
-  {
-   "id": "dadffdf4abf0",
-   "title": "Why Muse May Never Need Ads",
-   "source": "TLDR AI",
-   "url": "https://www.mbi-deepdives.com/no-ads-muse/"
+   "url": "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d"
   }
  ]
 }

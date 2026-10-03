@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "An interview with Peter Bex (sjamaan), CHICKEN Scheme maintainer and professional Clojure developer, about his work on the numerical tower, the irregex library and security fixes. He prefers saving and running the test suite from a terminal over REPL-driven development. Not about AI, included because it appeared in the feeds."
+ ],
+ "highlights": [
+  "CHICKEN Scheme maintainer interview.",
+  "Works on numerical tower and irregex.",
+  "Prefers test-suite workflow over the REPL.",
+  "Little AI content."
+ ],
+ "id": "c2ab861695d3",
+ "authored_at": "2026-10-03T01:25:37.857094+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

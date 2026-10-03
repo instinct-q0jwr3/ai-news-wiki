@@ -1,6 +1,6 @@
 # What reversing, modernising old games tells us about the economic impact of AI
 
-_type: news-summary · created: 2026-09-29 · updated: 2026-10-02 · confidence: high_
+_type: news-summary · created: 2026-09-29 · updated: 2026-10-03 · confidence: high_
 
 `hacker-news`
 

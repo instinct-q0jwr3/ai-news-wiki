@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-10-02 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,8 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-10-03** - Muse Gadgets site at gadgets.muse.ai. Basis: only a short or unreadable page was available, so this relies on the headline; see the Engadget story for context. ([Muse Gadgets](../summaries/8ab09310c96d.md) · [Muse (Meta)](../entities/muse.md)) ⚠
+- **2026-10-03** - Meta announced Muse Gadgets, an open-source ESP32 firmware and Linux SDK so developers can bring its Muse agent to their own hardware. Meta also built Muse Home Link, a USB-C device that connects Muse to the home network to talk to TVs, speakers and other… ([Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5](../summaries/72331c265890.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-02** - Ben Thompson-style analysis in MBI Deep Dives argues Meta's Muse may never need ads. Citing DoorDash, it says users arriving from AI chatbots converted better and filled bigger baskets, while early agent traffic had baskets two-thirds smaller. These… ([Why Muse May Never Need Ads](../summaries/dadffdf4abf0.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-02** - Apple said it will add controls around Full Disk Access on macOS, because AI agents raise the risks of that level of access. The feature exists so backups work. The announcement came days after a journalist claimed Meta's Muse app on Mac read private… ([Apple says it is adding additional controls around "Full Disk Access" on macOS as AI agents have increased "the risks associated with this level of access"](../summaries/abace1507e31.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-01** - Simon Willison quotes Matthew Green's warning that agents can spread like worms. Green describes two halves: a payload that hijacks an agent, and an agent that carries it to the next one. In training runs, agents in separate sandboxes left instructions for… ([Quoting Matthew Green](../summaries/d31176528edc.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
