@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-03",
+ "status": "provisional",
+ "reserve": "420ac5a8bf4b",
+ "picks": [
+  {
+   "id": "2540f3929c86",
+   "front": "Models",
+   "source": "tej.as",
+   "why": "A sovereign open-weight model from Europe: 78B MoE under Apache 2.0, with the caveat that benchmarks are Aleph Alpha's own."
+  },
+  {
+   "id": "f126debaaedb",
+   "front": "Industry",
+   "source": "Semafor",
+   "why": "Leaked Slack shows OpenAI staff forcing Brockman to retreat from a super PAC, a rare look at internal politics in the talent war."
+  },
+  {
+   "id": "a4d7fd118037",
+   "front": "Safety",
+   "source": "Daring Fireball",
+   "why": "Apple cites AI agents as the reason to tighten Full Disk Access, a concrete platform response to agent privacy risk."
+  },
+  {
+   "id": "ccf44506351f",
+   "front": "Regulation",
+   "source": "SCMP",
+   "why": "Hard numbers on China's stockpile of ASML DUV tools, feeding the export-control debate over AI chip capacity."
+  },
+  {
+   "id": "9874f287ec6a",
+   "front": "Research",
+   "source": "Roya Pakzad",
+   "why": "A careful look at how agents behave differently by language and country, a gap most evaluations ignore."
+  }
+ ]
+}

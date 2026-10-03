@@ -1,29 +1,35 @@
 {
- "generated_at": "2026-10-03T13:23:00+00:00",
+ "generated_at": "2026-10-03T19:24:52+00:00",
  "stories": [
   {
-   "id": "2540f3929c86",
-   "title": "Show HN: Germany's new sovereign AI model Kolibri",
+   "id": "d482109a8977",
+   "title": "Pop!_OS bans AI-generated code from much of its codebase",
    "source": "Hacker News",
-   "url": "https://tej.as/blog/aleph-alpha-kolibri"
+   "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
   },
   {
-   "id": "8348182cf712",
-   "title": "Gemini ending free use of Flash and Pro models",
+   "id": "a4514a07ebd7",
+   "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
    "source": "Hacker News",
-   "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/"
+   "url": "https://pipod.dev/"
   },
   {
-   "id": "26b8412d7f89",
-   "title": "Show HN: Offrun – manage every coding agent from one workspace",
+   "id": "9d24bea0c8f1",
+   "title": "Changes to Gemini model access and limits",
    "source": "Hacker News",
-   "url": "https://offrun.dev/"
+   "url": "https://support.google.com/gemini/answer/17004136?hl=en"
   },
   {
-   "id": "be2179434521",
-   "title": "Class Action Alleges That Google Gemini Was Reading User Emails Without Consent",
+   "id": "404d07d17419",
+   "title": "AI 'godfather' LeCun has 'zero concerns' about human extinction",
    "source": "Hacker News",
-   "url": "https://openclassactions.com/lawsuits/google-gemini-gmail-privacy-class-action.php"
+   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
+  },
+  {
+   "id": "8a882434801b",
+   "title": "Florida AG seeks injunction to hamper OpenAI development",
+   "source": "Hacker News",
+   "url": "https://www.politico.com/news/2026/09/28/florida-injunction-openai-development-01095061"
   },
   {
    "id": "735c643c0aeb",
@@ -32,16 +38,22 @@
    "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
   },
   {
-   "id": "c8a45b766a10",
-   "title": "Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/03/full-employment/"
+   "id": "420ac5a8bf4b",
+   "title": "OpenAI's DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
   },
   {
-   "id": "ccf44506351f",
-   "title": "Center for Technology & Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM",
+   "id": "d60272128932",
+   "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week",
    "source": "Techmeme",
-   "url": "https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban"
+   "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10"
+  },
+  {
+   "id": "e000fea28261",
+   "title": "A look at a radio show co-hosted by an AI DJ and a human that is expanding in LA and other cities, as radio workers worry synthetic hosts may soon replace them",
+   "source": "Techmeme",
+   "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back"
   }
  ]
 }

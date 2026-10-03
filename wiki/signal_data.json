@@ -110,5 +110,61 @@
   "thin": 11,
   "total": 68,
   "unreadable": 6
+ },
+ "2026-10-03": {
+  "ok": 23,
+  "paywall": 2,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "2540f3929c86",
+    "minutes": 14,
+    "source": "tej.as",
+    "title": "Show HN: Germany's new sovereign AI model Kolibri",
+    "why": "A sovereign open-weight model from Europe: 78B MoE under Apache 2.0, with the caveat that benchmarks are Aleph Alpha's own."
+   },
+   {
+    "cat": "ok",
+    "front": "Industry",
+    "id": "f126debaaedb",
+    "minutes": 9,
+    "source": "Semafor",
+    "title": "Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation",
+    "why": "Leaked Slack shows OpenAI staff forcing Brockman to retreat from a super PAC, a rare look at internal politics in the talent war."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "a4d7fd118037",
+    "minutes": 5,
+    "source": "Daring Fireball",
+    "title": "★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok",
+    "why": "Apple cites AI agents as the reason to tighten Full Disk Access, a concrete platform response to agent privacy risk."
+   },
+   {
+    "cat": "ok",
+    "front": "Regulation",
+    "id": "ccf44506351f",
+    "minutes": 1,
+    "source": "SCMP",
+    "title": "Center for Technology & Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM",
+    "why": "Hard numbers on China's stockpile of ASML DUV tools, feeding the export-control debate over AI chip capacity."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "9874f287ec6a",
+    "minutes": 12,
+    "source": "Roya Pakzad",
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "why": "A careful look at how agents behave differently by language and country, a gap most evaluations ignore."
+   }
+  ],
+  "reserve": "420ac5a8bf4b",
+  "status": "provisional",
+  "thin": 3,
+  "total": 31,
+  "unreadable": 3
  }
 }
