@@ -1,83 +1,35 @@
 {
- "generated_at": "2026-10-03T01:21:33+00:00",
+ "generated_at": "2026-10-03T07:22:19+00:00",
  "stories": [
   {
-   "id": "8ab09310c96d",
-   "title": "Muse Gadgets",
+   "id": "c8cb9aab9a17",
+   "title": "Show HN: Timeline of the Far Future",
    "source": "Hacker News",
-   "url": "https://gadgets.muse.ai"
+   "url": "https://rivendell.dmitrybrant.com/farfuture/"
   },
   {
-   "id": "3bcc26511ce0",
-   "title": "Show HN: Made an open-source Lego AI generator",
-   "source": "Hacker News",
-   "url": "https://github.com/anteloc/ldraw-nova"
-  },
-  {
-   "id": "9874f287ec6a",
-   "title": "Three AI agents, two countries, and one uneven world wide web",
-   "source": "Hacker News",
-   "url": "https://royapakzad.substack.com/p/multilingual-ai-agents"
-  },
-  {
-   "id": "cb9827145d85",
-   "title": "Debian Inference Portal",
-   "source": "Hacker News",
-   "url": "https://inference.debian.net/"
-  },
-  {
-   "id": "72331c265890",
-   "title": "Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5",
+   "id": "8fd55e69d0eb",
+   "title": "A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents",
    "source": "Techmeme",
-   "url": "https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/"
+   "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "f126debaaedb",
-   "title": "Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation",
+   "id": "de96ed0c1748",
+   "title": "Relay, which develops cloud-hosted, AI-powered smart radio communicators for frontline workers, raised $36M to help businesses capture \"frontline intelligence\"",
    "source": "Techmeme",
-   "url": "https://www.semafor.com/article/10/02/2026/how-employees-forced-openais-president-to-back-down"
+   "url": "https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/"
   },
   {
-   "id": "a4d7fd118037",
-   "title": "★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok",
-   "source": "Daring Fireball",
-   "url": "https://daringfireball.net/2026/10/apple_full_disk_access"
-  },
-  {
-   "id": "d60272128932",
-   "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week",
+   "id": "d5091eba80ed",
+   "title": "Nasdaq-listed neocloud Nebius acquires Inferize, whose tech helps optimize GPU utilization and reduce AI request costs, sources say for $100M to $150M",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10"
+   "url": "https://www.calcalistech.com/ctechnews/article/byzggtiqgx"
   },
   {
-   "id": "af775e1a5f29",
-   "title": "Supabase raised $150M led by Singapore's GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum",
+   "id": "f73bb7846d9b",
+   "title": "Reco, whose tech helps enterprises secure and govern AI agents across SaaS environments, raised a $55M Series B extension, taking its total funding to $140M",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/"
-  },
-  {
-   "id": "ed14604b24e3",
-   "title": "Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch",
-   "source": "Techmeme",
-   "url": "https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999"
-  },
-  {
-   "id": "87ca89393b37",
-   "title": "Meta says it is letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company, citing clashing work styles",
-   "source": "Techmeme",
-   "url": "https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai"
-  },
-  {
-   "id": "c2ab861695d3",
-   "title": "Lobsters Interview with Sjamaan",
-   "source": "Lobsters",
-   "url": "https://alexalejandre.com/interviews/peter-bex/"
-  },
-  {
-   "id": "9dfcedc4ea87",
-   "title": "TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and \"we were at a trillion tokens per day about a week ago\"",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d"
+   "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
   }
  ]
 }

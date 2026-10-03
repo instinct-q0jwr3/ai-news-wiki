@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Reco raised a $55M Series B extension for tooling that secures and governs AI agents across SaaS. TechCrunch notes at least two dozen companies now sell agent security, with similar promises: knowledge graphs, monitoring, runtime security and MCP vetting.",
+  "Reco repositioned from mapping SaaS and AI platforms to a context graph linking agents to apps, people, accounts and permissions so teams can cut unneeded access. Its CEO says companies deploy agents faster than they can keep track."
+ ],
+ "highlights": [
+  "$55M Series B extension.",
+  "Crowded field: two dozen agent-security vendors.",
+  "Context graph shows what each agent can reach.",
+  "Driver: agents are deployed faster than they are inventoried."
+ ],
+ "id": "f73bb7846d9b",
+ "authored_at": "2026-10-03T07:27:21.801970+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

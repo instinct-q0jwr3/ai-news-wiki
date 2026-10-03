@@ -6,22 +6,17 @@ _type: news-summary · created: 2026-10-03 · updated: 2026-10-03 · confidence:
 
 ## Summary
 
-OpenAI president Greg Brockman’s support for the super PAC “has been in a personal capacity, not on behalf of the company,” Kwon wrote in an internal Slack message.
+Leaked Slack messages obtained by Semafor show OpenAI employees pushing back in June on president Greg Brockman's ties to the Leading the Future super PAC. After chief strategy officer Jason Kwon posted that Brockman's support was personal, one employee warned the political activity could drive researchers to Anthropic; the message drew 24 agree reactions.
 
-One OpenAI employee took to Slack to warn of a dangerous trade-off: The company’s aggressive political activity threatened to drive researchers to Anthropic, and hamstring OpenAI in the all-out race to recursively self-improving AI.
-
-The post earned 24 “agree” reactions and a solitary eyes emoji.
+Kwon later conceded the company was 'taking reputational hits'. Ten days after his post, Brockman backed out of the second half of his $50M commitment. The messages suggest many OpenAI researchers dislike being tied to the PAC's tactics.
 
 ## Highlights
 
-- Brockman’s message received 40 hearts, five checkmarks, and three thank-you emojis.
-- The episode, part of a set of Slack messages shared with Semafor, offers a window into the complex internal politics of the handful of companies shaping the global future of artificial intelligence.
-- Outsiders observing the tribal world of San Francisco frontier labs often see OpenAI as the “accelerationist” cousin to the safety-oriented Anthropic.
-- The rare glimpse inside the company’s Slack illustrates a more complex reality: Many of OpenAI’s developers, engineers, and researchers — whom the company is fighting to keep in intense talent wars whose bidders also include Meta,…
-- And they dislike being associated with the political group’s aggressive tactics.
-- The person said that Brockman had expected the PAC to focus more on supporting allied candidates.
-- Greg Casar that would pause frontier AI development and criminalize attempting to build superintelligence, OpenAI’s stated goal .
-- Kwon’s June 1 Slack message sought to defuse the controversy.
+- Employees objected to Brockman's super PAC ties in June.
+- Fear: it drives researchers to Anthropic and hurts the talent race.
+- Kwon acknowledged reputational damage.
+- Brockman withdrew the second half of a $50M pledge.
+- Semafor obtained the Slack messages; OpenAI declined to comment.
 
 ## Source
 
