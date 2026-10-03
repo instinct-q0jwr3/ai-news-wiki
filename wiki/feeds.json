@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 361,
+  "stories": 365,
   "last": "2026-10-03"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 355,
+  "stories": 356,
   "last": "2026-10-03"
  },
  {
@@ -18,16 +18,16 @@
   "last": "2026-10-02"
  },
  {
+  "name": "Pluralistic",
+  "url": "https://pluralistic.net/feed/",
+  "stories": 33,
+  "last": "2026-10-03"
+ },
+ {
   "name": "Bert Hubert",
   "url": "https://berthub.eu/articles/index.xml",
   "stories": 32,
   "last": "2026-10-02"
- },
- {
-  "name": "Pluralistic",
-  "url": "https://pluralistic.net/feed/",
-  "stories": 32,
-  "last": "2026-10-01"
  },
  {
   "name": "antirez",

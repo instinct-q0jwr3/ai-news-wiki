@@ -150,6 +150,11 @@
   "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform"
  },
  {
+  "from": "6a0e4b497b21",
+  "to": "735c643c0aeb",
+  "title": "Greg Kroah-Hartman - Security in the LLM Age"
+ },
+ {
   "from": "6ad6a07e2322",
   "to": "651a37e1762f",
   "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon"

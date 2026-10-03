@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Offrun is a workspace for managing several coding agents at once. Each agent in a project gets its own git worktree, so two agents on the same repo never touch the same files, and you can run a refactor and a bug fix together and merge when ready.",
+  "The landing page shows an example where an agent fixes a flaky upload test by waiting for the upload instead of a fixed timer, changing one file on its own branch."
+ ],
+ "highlights": [
+  "One git worktree per agent to avoid conflicts.",
+  "Run several tasks in parallel and merge later.",
+  "Demo: flaky test fixed on its own branch, 50 passes.",
+  "Show HN project."
+ ],
+ "id": "26b8412d7f89",
+ "authored_at": "2026-10-03T13:27:08.197804+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

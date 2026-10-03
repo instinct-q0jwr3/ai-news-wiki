@@ -1,35 +1,47 @@
 {
- "generated_at": "2026-10-03T07:22:19+00:00",
+ "generated_at": "2026-10-03T13:23:00+00:00",
  "stories": [
   {
-   "id": "c8cb9aab9a17",
-   "title": "Show HN: Timeline of the Far Future",
+   "id": "2540f3929c86",
+   "title": "Show HN: Germany's new sovereign AI model Kolibri",
    "source": "Hacker News",
-   "url": "https://rivendell.dmitrybrant.com/farfuture/"
+   "url": "https://tej.as/blog/aleph-alpha-kolibri"
   },
   {
-   "id": "8fd55e69d0eb",
-   "title": "A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&reflink=desktopwebshare_permalink"
+   "id": "8348182cf712",
+   "title": "Gemini ending free use of Flash and Pro models",
+   "source": "Hacker News",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/"
   },
   {
-   "id": "de96ed0c1748",
-   "title": "Relay, which develops cloud-hosted, AI-powered smart radio communicators for frontline workers, raised $36M to help businesses capture \"frontline intelligence\"",
-   "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/"
+   "id": "26b8412d7f89",
+   "title": "Show HN: Offrun – manage every coding agent from one workspace",
+   "source": "Hacker News",
+   "url": "https://offrun.dev/"
   },
   {
-   "id": "d5091eba80ed",
-   "title": "Nasdaq-listed neocloud Nebius acquires Inferize, whose tech helps optimize GPU utilization and reduce AI request costs, sources say for $100M to $150M",
-   "source": "Techmeme",
-   "url": "https://www.calcalistech.com/ctechnews/article/byzggtiqgx"
+   "id": "be2179434521",
+   "title": "Class Action Alleges That Google Gemini Was Reading User Emails Without Consent",
+   "source": "Hacker News",
+   "url": "https://openclassactions.com/lawsuits/google-gemini-gmail-privacy-class-action.php"
   },
   {
-   "id": "f73bb7846d9b",
-   "title": "Reco, whose tech helps enterprises secure and govern AI agents across SaaS environments, raised a $55M Series B extension, taking its total funding to $140M",
+   "id": "735c643c0aeb",
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
+  },
+  {
+   "id": "c8a45b766a10",
+   "title": "Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/03/full-employment/"
+  },
+  {
+   "id": "ccf44506351f",
+   "title": "Center for Technology & Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+   "url": "https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban"
   }
  ]
 }

@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Aleph Alpha released Kolibri on 3 October 2026, an open-weight Apache 2.0 model for German and English. It is a 78B-parameter mixture of experts that uses about 3.5B parameters per token, trained from scratch on infrastructure in Germany and Finland, with weights on Hugging Face.",
+  "The post, written by a Germany-based developer from Aleph Alpha's 189-page technical report, model card and launch post plus one tokenizer experiment, frames it as a sovereign model built with the EU AI Act in mind. Aleph Alpha's own evaluation puts it above every compared model of its size in both languages."
+ ],
+ "highlights": [
+  "78B-parameter MoE, about 3.5B active per token.",
+  "Apache 2.0; weights on Hugging Face; released Oct 3, 2026.",
+  "Trained from scratch in Germany and Finland.",
+  "Built with EU AI Act compliance in mind.",
+  "Benchmark claims come from Aleph Alpha's own evaluation."
+ ],
+ "id": "2540f3929c86",
+ "authored_at": "2026-10-03T13:27:08.197804+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
