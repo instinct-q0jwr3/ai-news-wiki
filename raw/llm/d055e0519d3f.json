@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "SCM is a local-first macOS app that searches every photo and video frame in a folder with AI, with no accounts, cloud or uploads. All inference runs on the Mac, on Apple Silicon with macOS 12 or later.",
+  "Typing first runs a fast filename keyword pass, then a vision model takes over, scoring results by cosine similarity against image embeddings. It installs through a Homebrew cask that clears the quarantine flag, or can be built with bun as an Electron app."
+ ],
+ "highlights": [
+  "Private, on-device search over photos and video frames.",
+  "Apple Silicon, macOS 12+, installs through Homebrew.",
+  "Keyword pre-pass, then vision-model embedding search.",
+  "Electron app built with bun."
+ ],
+ "id": "d055e0519d3f",
+ "authored_at": "2026-10-04T13:28:15.538992+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

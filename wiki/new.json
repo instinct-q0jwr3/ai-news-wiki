@@ -1,29 +1,11 @@
 {
- "generated_at": "2026-10-04T07:25:20+00:00",
+ "generated_at": "2026-10-04T13:26:08+00:00",
  "stories": [
   {
-   "id": "7998c195f900",
-   "title": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over",
-   "source": "Techmeme",
-   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&utm_source=copy-link&utm_medium=social&utm_campaign=share"
-  },
-  {
-   "id": "2da7fb3f000d",
-   "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share"
-  },
-  {
-   "id": "12069baadb67",
-   "title": "AI can clone your indie game, but not its soul",
+   "id": "d055e0519d3f",
+   "title": "Show HN: AI search for every photo and every frame of video on macOS",
    "source": "Hacker News",
-   "url": "https://twitter.com/robertvaradan/status/2106061989122334778"
-  },
-  {
-   "id": "312acbe0dd79",
-   "title": "How the bad science of AI doomerism is good for big business",
-   "source": "Hacker News",
-   "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/"
+   "url": "https://github.com/allenv0/SCM"
   },
   {
    "id": "bc96a44ddafe",
@@ -32,34 +14,22 @@
    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/"
   },
   {
-   "id": "89c4e3d4e1fe",
-   "title": "Q&A with Brian Chesky on Airbnb's plans for agent-to-agent interactions, why chatbots fail at travel e-commerce, the need for an AI-native OS, and more",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
+   "id": "a84cde408321",
+   "title": "How to scale intent, quality, and artistry with AI [video]",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
   },
   {
-   "id": "472b312c4710",
-   "title": "Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027",
+   "id": "d85a083cb23e",
+   "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more",
    "source": "Techmeme",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1"
+   "url": "https://morethanmoore.substack.com/p/interview-with-richard-ho-openai"
   },
   {
-   "id": "69a8b85b48b5",
-   "title": "Google says free Gemini users will be limited to the 3.5 Flash-Lite model from October 9, while Plus subscribers will be limited to 3.5 Flash-Lite and 3.6 Flash",
+   "id": "69374d2cf8ab",
+   "title": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse",
    "source": "Techmeme",
-   "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/"
-  },
-  {
-   "id": "f12ea9da79d8",
-   "title": "Valley National Bancorp agrees to acquire New Jersey-based Bluevine, which provides digital banking and payments services for 175K SMBs in the US, for $340M",
-   "source": "Techmeme",
-   "url": "https://www.calcalistech.com/ctechnews/article/sjh5ocv5me"
-  },
-  {
-   "id": "5c476c33bc39",
-   "title": "Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10%",
-   "source": "Techmeme",
-   "url": "https://asia.nikkei.com/business/electronics/toshiba-to-double-hard-disk-drive-supply-to-fill-ai-chip-memory-gap"
+   "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=ba2ZAz&reflink=desktopwebshare_permalink"
   }
  ]
 }
