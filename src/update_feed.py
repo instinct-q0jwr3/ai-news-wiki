@@ -54,7 +54,7 @@ SOURCES = {
     "antirez": "https://antirez.com/rss",
     "Mitchell Hashimoto": "https://mitchellh.com/feed.xml",
     "Anil Dash": "https://www.anildash.com/feed.xml",
-    "Paul Graham": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+    "Paul Graham": "https://raw.githubusercontent.com/olshansk/rss-feeds/main/feeds/feed_paulgraham.xml",
     "Armin Ronacher": "https://lucumr.pocoo.org/feed.atom",
     "Terence Eden": "https://shkspr.mobi/blog/feed/",
 }
