@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Google suspended product vulnerability submissions to its Open Source Software Vulnerability Reward Program from October 1, saying it was flooded with invalid AI-generated reports. It will give an update by the first quarter of 2027 while it reworks the program, and told participants to look at other reward programs.",
+  "Reports sent before October 1 are unaffected, supply chain reports still count, and some Google Cloud repository issues may still be accepted through the Cloud VRP. Tom's Hardware compares it to Linux dropping support for older network drivers because of false AI-generated bug reports."
+ ],
+ "highlights": [
+  "Suspension started October 1, caused by invalid AI reports.",
+  "Update promised by Q1 2027.",
+  "Earlier submissions and supply chain reports unaffected.",
+  "Similar problem seen with Linux network drivers."
+ ],
+ "id": "472b312c4710",
+ "authored_at": "2026-10-04T07:31:16.304937+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

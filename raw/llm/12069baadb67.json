@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Robert Varadan's post argues that building in public is not dead and that agentic AI can now handle every part of making a video game. He points to posts where models produced whole clones, such as a World of Warcraft or Minecraft look-alike, from a few reference images and a short text prompt. Many are slop, he says, but this is the worst these models will be and they could not do it six months ago.",
+  "He then turns to the backlash against one account that asks top models, including Opus 5.5 and GPT-6 Astra, to clone indie game demos and posts the videos as a benchmark. Detractors call it theft. Varadan avoids the ethics but says he understands why indie developers and gamers are upset. Only the first part of the post was read."
+ ],
+ "highlights": [
+  "Agents can now generate whole game clones from short prompts.",
+  "The quality is often poor but improving fast.",
+  "One account's clone-the-indie-demo benchmark draws theft accusations.",
+  "Basis: opening of a long post."
+ ],
+ "id": "12069baadb67",
+ "authored_at": "2026-10-04T07:31:16.304937+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
