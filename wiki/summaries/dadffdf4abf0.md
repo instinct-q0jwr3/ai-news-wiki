@@ -1,6 +1,6 @@
 # Why Muse May Never Need Ads
 
-_type: news-summary · created: 2026-10-02 · updated: 2026-10-03 · confidence: high_
+_type: news-summary · created: 2026-10-02 · updated: 2026-10-04 · confidence: high_
 
 `tldr-ai` `muse`
 

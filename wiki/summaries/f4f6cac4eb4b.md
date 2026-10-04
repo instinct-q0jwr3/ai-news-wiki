@@ -1,6 +1,6 @@
 # ING: India's software exports rise to ~5.2% of GDP as AI moves IT upmarket
 
-_type: news-summary · created: 2026-09-19 · updated: 2026-10-03 · confidence: high_
+_type: news-summary · created: 2026-09-19 · updated: 2026-10-04 · confidence: high_
 
 `techmeme`
 

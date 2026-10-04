@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "An essay arguing that agent memory plugins solve the wrong problem. They split conversations into snippets, store them in a vector database and attach the closest few to each prompt, which the author calls a lottery that leaves the agent without real understanding of the project.",
+  "His alternative is documentation: agents do not need memory, they need written material on where features are, why they were built and what was agreed. He lists recurring failure modes of memory tools and says fancier layers, such as overnight 'dreamers', compression and rerankers, only add cost on a flawed design."
+ ],
+ "highlights": [
+  "Memory plugins retrieve snippets by similarity and often miss.",
+  "Agents need project documentation, not recalled fragments.",
+  "Extra layers add tokens without fixing the design.",
+  "Opinion piece, no benchmarks."
+ ],
+ "id": "d3becf642e5a",
+ "authored_at": "2026-10-04T01:28:48.445431+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

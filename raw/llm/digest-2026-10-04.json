@@ -1,0 +1,29 @@
+{
+ "id": "digest-2026-10-04",
+ "date": "2026-10-04",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Few stories so far on October 4: how to run agents safely and efficiently, and fallout from an OpenAI safety lead's resignation.",
+ "sections": [
+  {
+   "title": "Agents and how we work with them",
+   "intro": "Practical views on running agents: spend limits, how to prompt a long-running Opus 5.5, and why documentation may beat memory plugins.",
+   "stories": [
+    "311257988c2f",
+    "c9a8c5a4dbc8",
+    "d3becf642e5a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Safety culture and government response",
+   "intro": "A safety lead leaves OpenAI warning about culture, while the White House sets up an AI task force.",
+   "stories": [
+    "7998c195f900",
+    "e5cd501dc4d9",
+    "8021cc83dd62"
+   ],
+   "concepts": []
+  }
+ ]
+}

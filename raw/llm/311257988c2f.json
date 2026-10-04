@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Simon Willison argues that pay-by-usage services and APIs should ship hard budget caps by default: a monthly limit after which the service is cut off and returns errors, not a warning email. Coding agents and personal agents make it easy to spin up code that spends money, and nobody wants to find at midnight that a rogue service ran up thousands of dollars.",
+  "He admits some businesses would not want their application to start failing when a cap is hit, but expects most people to prefer errors to a surprise bill of $10,000 or more. Anyone who wants to live dangerously should be able to opt out with a clear checkbox, such as the 'Remove the budget cap' wording he quotes from a hosting platform."
+ ],
+ "highlights": [
+  "Hard caps cut a service off; soft caps only warn.",
+  "Agents make accidental spending much more likely.",
+  "Caps should be on by default, with an explicit opt-out.",
+  "Counterargument: business apps erroring out when the cap hits."
+ ],
+ "id": "311257988c2f",
+ "authored_at": "2026-10-04T01:28:48.445431+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

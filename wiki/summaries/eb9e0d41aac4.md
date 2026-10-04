@@ -1,6 +1,6 @@
 # Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence
 
-_type: news-summary · created: 2026-10-02 · updated: 2026-10-03 · confidence: high_
+_type: news-summary · created: 2026-10-02 · updated: 2026-10-04 · confidence: high_
 
 `techmeme` `nvidia`
 

@@ -1,6 +1,6 @@
 # Alibaba open-sources AI model that can detect cancer and nearly 150 conditions
 
-_type: news-summary · created: 2026-09-19 · updated: 2026-10-03 · confidence: high_
+_type: news-summary · created: 2026-09-19 · updated: 2026-10-04 · confidence: high_
 
 `hacker-news` `alibaba`
 

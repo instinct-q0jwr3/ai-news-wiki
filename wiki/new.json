@@ -1,23 +1,17 @@
 {
- "generated_at": "2026-10-03T19:24:52+00:00",
+ "generated_at": "2026-10-04T01:24:34+00:00",
  "stories": [
   {
-   "id": "d482109a8977",
-   "title": "Pop!_OS bans AI-generated code from much of its codebase",
+   "id": "c9a8c5a4dbc8",
+   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
    "source": "Hacker News",
-   "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/"
+   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
   },
   {
-   "id": "a4514a07ebd7",
-   "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+   "id": "e5cd501dc4d9",
+   "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
    "source": "Hacker News",
-   "url": "https://pipod.dev/"
-  },
-  {
-   "id": "9d24bea0c8f1",
-   "title": "Changes to Gemini model access and limits",
-   "source": "Hacker News",
-   "url": "https://support.google.com/gemini/answer/17004136?hl=en"
+   "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
   },
   {
    "id": "404d07d17419",
@@ -26,34 +20,28 @@
    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
   },
   {
-   "id": "8a882434801b",
-   "title": "Florida AG seeks injunction to hamper OpenAI development",
+   "id": "d3becf642e5a",
+   "title": "Agents don't need memory, they need documentation",
    "source": "Hacker News",
-   "url": "https://www.politico.com/news/2026/09/28/florida-injunction-openai-development-01095061"
+   "url": "https://liao.gg/blog/agents-dont-need-memory"
   },
   {
-   "id": "735c643c0aeb",
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q"
+   "id": "311257988c2f",
+   "title": "We're going to need default hard budget caps on pretty much everything",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
   },
   {
-   "id": "420ac5a8bf4b",
-   "title": "OpenAI's DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model",
+   "id": "7998c195f900",
+   "title": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&utm_source=copy-link&utm_medium=social&utm_campaign=share"
   },
   {
-   "id": "d60272128932",
-   "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week",
+   "id": "8021cc83dd62",
+   "title": "AI czar Jay Clayton to chair the WH's AI task force, called \"Super Intelligence Force\", to pen a report on AI's risks and opportunities within 120 days",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10"
-  },
-  {
-   "id": "e000fea28261",
-   "title": "A look at a radio show co-hosted by an AI DJ and a human that is expanding in LA and other cities, as radio workers worry synthetic hosts may soon replace them",
-   "source": "Techmeme",
-   "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back"
+   "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8"
   }
  ]
 }

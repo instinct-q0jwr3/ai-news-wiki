@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-04 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-10-04** - Simon Willison argues that pay-by-usage services and APIs should ship hard budget caps by default: a monthly limit after which the service is cut off and returns errors, not a warning email. Coding agents and personal agents make it easy to spin up code… ([We're going to need default hard budget caps on pretty much everything](../summaries/311257988c2f.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-02** - Amazon's Strands Labs released Strands Decider 2B, a small decision model for fast experimentation and local development. Decision models, or 'system one' models, pick between sets of options rather than generating free text, a category that took off after… ([Amazon Enters the Decision Model Race With Strands Decider 2B](../summaries/ec023dc975b4.md) · [Amazon](../entities/amazon.md))
 - **2026-10-02** - Amazon will spend more than $1 billion over five years in US communities that host its data centers, under a program called 'Built Together'. It funds free community college, job training, home and school energy upgrades and local projects, on top of over… ([Amazon plans to spend $1B+ over five years for infrastructure upgrades and other projects in US communities that host its data centers, amid a growing backlash](../summaries/7db320a08cad.md) · [Amazon](../entities/amazon.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-02** - Suno has launched Speech in public beta on web and mobile. It generates spoken voices from scripts or prompts and can add AI background music in the same track. Suno calls it the first audio model that generates voice and music together. ([Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits](../summaries/da83be897bf8.md) · [Amazon](../entities/amazon.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

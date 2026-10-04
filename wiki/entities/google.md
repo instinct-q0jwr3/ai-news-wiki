@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-03 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-04 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-04** - Simon Willison argues that pay-by-usage services and APIs should ship hard budget caps by default: a monthly limit after which the service is cut off and returns errors, not a warning email. Coding agents and personal agents make it easy to spin up code… ([We're going to need default hard budget caps on pretty much everything](../summaries/311257988c2f.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-03** - Google's help page says Gemini Apps will change model availability for personal accounts in October 2026, starting October 9 for users without an AI subscription. AI Plus subscribers will get an email with their date. ([Changes to Gemini model access and limits](../summaries/9d24bea0c8f1.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-03** - A Reddit thread says Google is ending free use of its Gemini Flash and Pro models. Basis: the thread could not be read, so this relies on the title and is unconfirmed. ([Gemini ending free use of Flash and Pro models](../summaries/8348182cf712.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-10-03** - OpenClassActions lists a class action alleging Google Gemini read users' Gmail without consent. Basis: the captured page text was mostly site code, so this relies on the headline and gives no details of the claims or court. ([Class Action Alleges That Google Gemini Was Reading User Emails Without Consent](../summaries/be2179434521.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
