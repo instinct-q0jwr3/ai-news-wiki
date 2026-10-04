@@ -166,5 +166,61 @@
   "thin": 3,
   "total": 31,
   "unreadable": 3
+ },
+ "2026-10-04": {
+  "ok": 15,
+  "paywall": 3,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Hardware",
+    "id": "d85a083cb23e",
+    "minutes": 55,
+    "source": "More Than Moore",
+    "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more",
+    "why": "OpenAI's Jalapeño inference chip gets first measured numbers from working silicon, though the NVIDIA comparisons are OpenAI's own claims."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "472b312c4710",
+    "minutes": 3,
+    "source": "Tom's Hardware",
+    "title": "Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027",
+    "why": "Google pausing a bug bounty over AI-generated junk reports shows a concrete cost of AI slop on open-source security."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "311257988c2f",
+    "minutes": 3,
+    "source": "Simon Willison",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "why": "A short, practical case for hard spending caps by default as agents make runaway bills easy."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "bc96a44ddafe",
+    "minutes": 39,
+    "source": "Stephen Wolfram",
+    "title": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask",
+    "why": "A grounded argument that AI will not make human math research pointless, drawing on the Mathematica precedent."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "e5cd501dc4d9",
+    "minutes": 4,
+    "source": "The Guardian",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "why": "An OpenAI safety lead resigns saying culture, not just rules, is broken, tying it to the Hugging Face agent incident."
+   }
+  ],
+  "reserve": "bbceedd480af",
+  "status": "provisional",
+  "thin": 1,
+  "total": 22,
+  "unreadable": 3
  }
 }

@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "JetBrains starts a series on building Air Context, a RAG pipeline for semantic code search that gives LLM agents precise, citable evidence from real repositories instead of whatever grep happens to find. Part one covers parsing, chunking and vectorization, framed as lessons from getting it into production.",
+  "The argument is that as development becomes agent-driven, the question is less whether an agent can finish a task and more how much time, effort and steering it needs, and on large code bases much of that goes into searching. Only the opening was read."
+ ],
+ "highlights": [
+  "Air Context is JetBrains' semantic code search for agents.",
+  "Goal: citable evidence rather than grep results.",
+  "Part one: parsing, chunking, vectorization.",
+  "Basis: opening of the post."
+ ],
+ "id": "b9919a530cbb",
+ "authored_at": "2026-10-04T19:33:56.400793+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

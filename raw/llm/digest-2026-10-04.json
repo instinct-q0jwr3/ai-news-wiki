@@ -3,7 +3,7 @@
  "date": "2026-10-04",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Few stories so far on October 4: how to run agents safely and efficiently, and fallout from an OpenAI safety lead's resignation.",
+ "lead": "October 4 so far: agents and spend, an OpenAI safety lead's resignation, OpenAI's Jalapeño chip, and Gemini's tighter limits.",
  "sections": [
   {
    "title": "Agents and how we work with them",
@@ -22,6 +22,50 @@
     "7998c195f900",
     "e5cd501dc4d9",
     "8021cc83dd62"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips, products and deals",
+   "intro": "OpenAI's own chip, Gemini plan limits, Airbnb's view on chatbots and a bank buying a fintech.",
+   "stories": [
+    "d85a083cb23e",
+    "69a8b85b48b5",
+    "89c4e3d4e1fe",
+    "5c476c33bc39",
+    "f12ea9da79d8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Open-source strain and misuse",
+   "intro": "Google pauses a bug bounty over AI spam, Anthropic reports influence operations, and critics question doom narratives.",
+   "stories": [
+    "472b312c4710",
+    "bbceedd480af",
+    "312acbe0dd79"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Tools, essays and debates",
+   "intro": "Local photo search, code search for agents, game cloning and the future of pure math.",
+   "stories": [
+    "d055e0519d3f",
+    "b9919a530cbb",
+    "12069baadb67",
+    "bc96a44ddafe",
+    "a84cde408321"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Washington and Musk",
+   "intro": "Government AI force, Meta's AI chief and a SpaceX rename.",
+   "stories": [
+    "0073fda57959",
+    "69374d2cf8ab",
+    "2651a8fc0d43"
    ],
    "concepts": []
   }

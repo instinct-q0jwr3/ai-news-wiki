@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "DW reports on Anthropic's September 'Detecting and Countering Misuse of AI' report, which says Russian agents used Claude in Bangui, Central African Republic, to monitor opposition politicians and produce pro-Russian propaganda. The content was mainly broadcast by Radio Lengo Songo, which the collective All Eyes on Wagner says is funded by Russia.",
+  "The material praised the government and the Africa Corps mercenaries and criticised France and the opposition. Lou Osborn of All Eyes on Wagner, who helped the research, sees this as part of a wider method. Only the opening of the article was read."
+ ],
+ "highlights": [
+  "Anthropic reports Claude misuse for pro-Russian influence in CAR.",
+  "Used to write content for Radio Lengo Songo.",
+  "Targets: France and the opposition; favours the government and Africa Corps.",
+  "Basis: opening of the article."
+ ],
+ "id": "bbceedd480af",
+ "authored_at": "2026-10-04T19:33:56.400793+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

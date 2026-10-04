@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-04",
+ "status": "provisional",
+ "reserve": "bbceedd480af",
+ "picks": [
+  {
+   "id": "d85a083cb23e",
+   "front": "Hardware",
+   "source": "More Than Moore",
+   "why": "OpenAI's Jalapeño inference chip gets first measured numbers from working silicon, though the NVIDIA comparisons are OpenAI's own claims."
+  },
+  {
+   "id": "472b312c4710",
+   "front": "Security",
+   "source": "Tom's Hardware",
+   "why": "Google pausing a bug bounty over AI-generated junk reports shows a concrete cost of AI slop on open-source security."
+  },
+  {
+   "id": "311257988c2f",
+   "front": "Agents",
+   "source": "Simon Willison",
+   "why": "A short, practical case for hard spending caps by default as agents make runaway bills easy."
+  },
+  {
+   "id": "bc96a44ddafe",
+   "front": "Research",
+   "source": "Stephen Wolfram",
+   "why": "A grounded argument that AI will not make human math research pointless, drawing on the Mathematica precedent."
+  },
+  {
+   "id": "e5cd501dc4d9",
+   "front": "Safety",
+   "source": "The Guardian",
+   "why": "An OpenAI safety lead resigns saying culture, not just rules, is broken, tying it to the Hugging Face agent incident."
+  }
+ ]
+}
