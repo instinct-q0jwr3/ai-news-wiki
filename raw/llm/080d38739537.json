@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "An arXiv paper introduces UniEvo-VL, a framework where a single multimodal model acts as both teacher and student. The teacher sees the model's own critique of an answer as privileged information, while the student sees only the plain question, and training pulls the student toward the teacher's behaviour. Only the abstract's opening was read."
+ ],
+ "highlights": [
+  "One model plays teacher and student.",
+  "Self-critiques are the privileged information.",
+  "No separate larger teacher needed.",
+  "Basis: abstract opening."
+ ],
+ "id": "080d38739537",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

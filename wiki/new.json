@@ -1,23 +1,29 @@
 {
- "generated_at": "2026-10-05T07:28:38+00:00",
+ "generated_at": "2026-10-05T13:34:56+00:00",
  "stories": [
   {
-   "id": "6e2cf44e9bd0",
-   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "id": "2e4e380053ce",
+   "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
    "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
+   "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/"
   },
   {
-   "id": "c105203604ae",
-   "title": "several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models",
+   "id": "d3f0c7d28667",
+   "title": "An interview with CoreWeave Physical AI SVP Richard Ahlfeld on AI models failing real-world checks, the roles of synthetic data and physical tests, and more",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai"
+   "url": "https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai"
   },
   {
-   "id": "42b61fae630b",
-   "title": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators",
+   "id": "a72be3678986",
+   "title": "Toward provably private learning from federated data",
+   "source": "TLDR AI",
+   "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/"
+  },
+  {
+   "id": "b53fa46876b7",
+   "title": "Q&A with Sam Altman on his kids, his rivalries, pronatalism, \"prepping\" for the apocalypse, new products, the IPO delay, Luca Guadagnino's Artificial, and more",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/02/changeorg-ai-100-million"
+   "url": "https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-1"
   },
   {
    "id": "066db6f7a329",
@@ -26,22 +32,130 @@
    "url": "https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models"
   },
   {
-   "id": "d157acf4fe43",
-   "title": "Coming soon: New York City’s hearing on AI risks",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/coming-soon-new-york-citys-hearing"
-  },
-  {
-   "id": "e6288f5a4964",
-   "title": "Claude Says",
-   "source": "Lobsters",
-   "url": "https://ohhfishal.net/Posts/claude"
-  },
-  {
-   "id": "d7469b685650",
-   "title": "A look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels",
+   "id": "5c713ea26f5a",
+   "title": "A look at China's gray market of token resellers, who use accumulated identities and USDT-funded cards to obtain Claude accounts and route them through proxies",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/sean-parker-spreads-gospel-ai-music"
+   "url": "https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market"
+  },
+  {
+   "id": "7942ef848da8",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "source": "TLDR AI",
+   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+  },
+  {
+   "id": "64499ba4d45a",
+   "title": "Munich-based RobCo, which makes robotic arms and automation software, sells $40M of shares at a $1B valuation, up from ~$500M after raising $100M in January",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?st=yskaLT&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "12edc2f9e7d5",
+   "title": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+   "source": "TLDR AI",
+   "url": "https://www.primeintellect.ai/blog/prime-inference"
+  },
+  {
+   "id": "d686609a6922",
+   "title": "Apple and a Hacker’s Future",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/"
+  },
+  {
+   "id": "e96c2c7ef09b",
+   "title": "How many AI agents could run on the AI chips shipped through 2027?",
+   "source": "TLDR AI",
+   "url": "https://epoch.ai/publications/estimating-the-agent-population"
+  },
+  {
+   "id": "b07dd0560e0a",
+   "title": "OpenAI says it will begin testing a visual ad format in ChatGPT later in October in the US, displaying clearly labeled visual ads while users generate images",
+   "source": "Techmeme",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/"
+  },
+  {
+   "id": "b08e5284401f",
+   "title": "Human Intelligence is Surprising",
+   "source": "TLDR AI",
+   "url": "https://x.com/RayanKrishnan/status/2106053382448484796"
+  },
+  {
+   "id": "665adc15e008",
+   "title": "Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year"
+  },
+  {
+   "id": "7bf473efa3b8",
+   "title": "Whistle: Speech to Text in 16.9 MB",
+   "source": "TLDR AI",
+   "url": "https://cactuscompute.com/blog/whistle"
+  },
+  {
+   "id": "080d38739537",
+   "title": "Multimodal Models Learn From Their Own Critiques",
+   "source": "TLDR AI",
+   "url": "https://arxiv.org/abs/2609.38721"
+  },
+  {
+   "id": "67c1c3ff4ce4",
+   "title": "Muse, dots, Instinct, and the question every agent will be asked",
+   "source": "TLDR AI",
+   "url": "https://x.com/worldnetwork/status/2105989118287134752"
+  },
+  {
+   "id": "444023958a38",
+   "title": "Smaller models are the future of AI sovereignty",
+   "source": "TLDR AI",
+   "url": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/"
+  },
+  {
+   "id": "94ecdb8d5bb6",
+   "title": "Huawei agrees to a multiyear patent licensing deal with Qualcomm covering AI, 5G, computing, and networking tech, its first 5G licensing deal with Qualcomm",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/"
+  },
+  {
+   "id": "754de804328f",
+   "title": "AI21 uses Kueue to manage a 10,000-GPU fleet",
+   "source": "TLDR AI",
+   "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue"
+  },
+  {
+   "id": "811d838764d0",
+   "title": "Q&A with Sam Altman on President Trump, the midterms, AI extinction risk, Xi Jinping's state visit, self-policing vs. regulation, and Greg Brockman's donations",
+   "source": "Techmeme",
+   "url": "https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2"
+  },
+  {
+   "id": "db24eeb8c3a3",
+   "title": "Survey: only 11% of ~400 businesses could forecast AI spending; a study finds lower-priced models cost more than higher-priced models on 32% of 6,800+ tasks",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "3c2952ef05e5",
+   "title": "Solving Open Research Problems Together",
+   "source": "TLDR AI",
+   "url": "https://research.meta.ai/blog/solving-open-research-problems-together"
+  },
+  {
+   "id": "d81b27eb6ed5",
+   "title": "Aleph Alpha releases open-weight Kolibri with 1M context",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/"
+  },
+  {
+   "id": "e624f37885e3",
+   "title": "The IWF says it assessed 6,310 AI-generated images that met the legal definition of CSAM in H1 2026, 40% more than the 4,500+ images assessed in all of 2025",
+   "source": "Techmeme",
+   "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material"
+  },
+  {
+   "id": "c9ebe6590d96",
+   "title": "Anthropic to invest $100 million to train AI engineer talent",
+   "source": "TLDR AI",
+   "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html"
   }
  ]
 }

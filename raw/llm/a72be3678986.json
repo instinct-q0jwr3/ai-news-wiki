@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Google Research announces a federated learning system that gives externally verifiable privacy guarantees while moving more computation to the server, aiming for faster training, better accuracy and wider device coverage. It builds on federated learning, which Google introduced in 2017. Only the opening was read."
+ ],
+ "highlights": [
+  "Verifiable privacy guarantees for federated learning.",
+  "Shifts computation to the server.",
+  "Goals: speed, accuracy, device coverage.",
+  "Basis: opening of the post."
+ ],
+ "id": "a72be3678986",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

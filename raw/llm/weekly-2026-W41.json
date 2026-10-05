@@ -44,6 +44,66 @@
     "d7469b685650"
    ],
    "concepts": []
+  },
+  {
+   "title": "Models, research and open weights",
+   "intro": "Aleph Alpha's Kolibri, self-critiquing multimodal models, private federated learning, a tiny speech model and Prime's open-model serving.",
+   "stories": [
+    "d81b27eb6ed5",
+    "080d38739537",
+    "a72be3678986",
+    "7bf473efa3b8",
+    "12edc2f9e7d5",
+    "3c2952ef05e5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Sovereignty, identity and the gray market",
+   "intro": "Smaller models for national autonomy, World ID for agents, and a gray market for Claude access in China.",
+   "stories": [
+    "444023958a38",
+    "67c1c3ff4ce4",
+    "5c713ea26f5a",
+    "94ecdb8d5bb6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Ads, talent and money",
+   "intro": "ChatGPT visual ads, Anthropic's academy, spending forecasts, robotics funding and billionaire gains.",
+   "stories": [
+    "b07dd0560e0a",
+    "c9ebe6590d96",
+    "db24eeb8c3a3",
+    "2e4e380053ce",
+    "64499ba4d45a",
+    "665adc15e008"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Altman profiles and hardware reach",
+   "intro": "Vanity Fair's Altman interviews, how many agents the chips can run, GPU scheduling and Muse gadgets.",
+   "stories": [
+    "811d838764d0",
+    "b53fa46876b7",
+    "e96c2c7ef09b",
+    "754de804328f",
+    "7942ef848da8",
+    "d3f0c7d28667"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Safety, security and human skill",
+   "intro": "Illegal AI imagery, an actively exploited macOS flaw and an essay on human intelligence.",
+   "stories": [
+    "e624f37885e3",
+    "d686609a6922",
+    "b08e5284401f"
+   ],
+   "concepts": []
   }
  ]
 }

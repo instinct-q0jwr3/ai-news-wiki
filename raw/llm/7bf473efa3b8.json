@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Whistle is a speech recognition model released as one 16.9 MB file that runs on the CPU with no dependencies, aimed at phones, wearables, robots, smart home, cars and microcontrollers. It uses the same C++ engine, container and quantisation as the earlier Needle model, and everything runs on the device. Only the opening was read."
+ ],
+ "highlights": [
+  "16.9 MB on-device speech-to-text.",
+  "CPU only, no dependencies.",
+  "Shares an engine with Needle.",
+  "Basis: opening of the post."
+ ],
+ "id": "7bf473efa3b8",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

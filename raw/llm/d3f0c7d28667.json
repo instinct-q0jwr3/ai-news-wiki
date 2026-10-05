@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "An interview with CoreWeave's Richard Ahlfeld, SVP of Physical AI, on why robots fail on data they never saw and where synthetic data stops being credible. The newsletter says physical AI breaks on missing data far more often than on the model. Only the opening was read."
+ ],
+ "highlights": [
+  "Physical AI fails on missing data more than model quality.",
+  "Limits of synthetic data discussed.",
+  "Basis: opening of the issue."
+ ],
+ "id": "d3f0c7d28667",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

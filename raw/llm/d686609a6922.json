@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A post on Apple and security notes that Dutch officials warned a high-severity macOS vulnerability is under active exploitation, with the NCSC seeing abuse on multiple systems where port 5900 was reachable from the internet. Only the opening was read."
+ ],
+ "highlights": [
+  "Active exploitation of a high-severity macOS flaw.",
+  "Dutch NCSC saw abuse on systems exposing port 5900.",
+  "Basis: opening of the post."
+ ],
+ "id": "d686609a6922",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

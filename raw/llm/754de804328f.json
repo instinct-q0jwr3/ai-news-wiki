@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "AI21 describes how it uses Kueue on GKE to share a roughly 10,000-GPU fleet across teams, which Google Cloud credits with an 83% cut in time-to-start for high-priority workloads. The post is a technical case study from one shared cluster. Only the opening was read."
+ ],
+ "highlights": [
+  "Kueue schedules a shared GPU fleet on GKE.",
+  "83% reduction in time-to-start for high-priority jobs.",
+  "Basis: opening of the post."
+ ],
+ "id": "754de804328f",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

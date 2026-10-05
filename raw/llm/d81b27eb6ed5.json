@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Aleph Alpha released Kolibri, an open-weight model with 78B parameters, 3.46B active and up to 1M tokens of context, built in Europe and licensed Apache 2.0. The post collects reactions, including thanks for launching it on German Unity Day."
+ ],
+ "highlights": [
+  "78B total, 3.46B active parameters.",
+  "Up to 1M tokens of context, Apache 2.0.",
+  "Built in Europe; launched Oct 3."
+ ],
+ "id": "d81b27eb6ed5",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

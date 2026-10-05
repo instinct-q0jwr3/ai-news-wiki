@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Prime Intellect launches Prime Inference, serverless and reserved-capacity serving of open frontier models across several datacenters. It frames this as closing a loop: trained models serve real users, and production traces feed back into training. It began as the serving platform the company needed itself. Only the opening was read."
+ ],
+ "highlights": [
+  "Serverless endpoints and reserved capacity for open models.",
+  "Aims to feed production traces back into training.",
+  "Started as an internal platform.",
+  "Basis: opening of the post."
+ ],
+ "id": "12edc2f9e7d5",
+ "authored_at": "2026-10-05T13:39:45.203142+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

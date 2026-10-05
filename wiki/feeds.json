@@ -1,21 +1,21 @@
 [
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 385,
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 388,
   "last": "2026-10-05"
  },
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 378,
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 386,
   "last": "2026-10-05"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 145,
-  "last": "2026-10-02"
+  "stories": 158,
+  "last": "2026-10-05"
  },
  {
   "name": "Pluralistic",
@@ -72,14 +72,14 @@
   "last": "2026-10-05"
  },
  {
-  "name": "Ed Zitron",
-  "url": "https://www.wheresyoured.at/rss/",
-  "stories": 12,
-  "last": "2026-10-02"
- },
- {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
+  "stories": 13,
+  "last": "2026-10-05"
+ },
+ {
+  "name": "Ed Zitron",
+  "url": "https://www.wheresyoured.at/rss/",
   "stories": 12,
   "last": "2026-10-02"
  },
