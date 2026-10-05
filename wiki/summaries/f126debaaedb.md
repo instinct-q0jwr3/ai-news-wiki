@@ -1,6 +1,6 @@
 # Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation
 
-_type: news-summary · created: 2026-10-03 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-10-03 · updated: 2026-10-05 · confidence: high_
 
 `techmeme` `openai`
 

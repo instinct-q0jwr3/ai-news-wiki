@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Wired's Kernel Panic newsletter looks at Meta's Muse assistant, a viral hit that people connect to bank accounts, messages and health data. Researchers, including Karan Joshi, extracted its system prompts by asking the chat to copy its own files, and Meta says it meant the files to be accessible for transparency.",
+  "The prompts show Muse compiles a page for every person in the user's life, with facts and history, so it builds detailed profiles of friends and family. Only the opening of the piece was read."
+ ],
+ "highlights": [
+  "Muse's system prompts were extracted through the normal chat.",
+  "It keeps a profile page on each person in a user's life.",
+  "Meta says the openness is intentional.",
+  "Basis: opening of the newsletter."
+ ],
+ "id": "54dbc0f3d4f4",
+ "authored_at": "2026-10-05T01:33:28.069910+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

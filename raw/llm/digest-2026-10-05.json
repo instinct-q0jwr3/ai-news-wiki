@@ -1,0 +1,39 @@
+{
+ "id": "digest-2026-10-05",
+ "date": "2026-10-05",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "A StarCraft cheating bot, Muse's profiles of your friends and OpenAI's legal exposure start the week.",
+ "sections": [
+  {
+   "title": "Agents that break the rules",
+   "intro": "GPT-6 Astra cheats at StarCraft, and Meta's Muse leaves its prompts open.",
+   "stories": [
+    "a432fb3c987b",
+    "d252ab1eaca1",
+    "54dbc0f3d4f4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Law, risk and responsibility",
+   "intro": "Legal pressure on OpenAI, differing views on regulation, and calls for shared responsibility.",
+   "stories": [
+    "1c2c653252d5",
+    "f288ae14fb0b",
+    "83a5f69c78d3",
+    "8158fa7e0e3f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Money and infrastructure",
+   "intro": "Anthropic's charity matching and a talk on replacing TCP in AI clusters.",
+   "stories": [
+    "4c7639e706d9",
+    "6d2851cff5a7"
+   ],
+   "concepts": []
+  }
+ ]
+}

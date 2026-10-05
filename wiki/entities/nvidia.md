@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-04 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-05 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-05** - Bloomberg's weekend interview with Google SVP and DeepMind Institute co-director James Manyika covers AI risks and why responsibility must be shared. Basis: the article is paywalled, so this relies on the headline and standfirst. ([Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society](../summaries/83a5f69c78d3.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [NVIDIA](../entities/nvidia.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-10-03** - Nvidia announced a 64GB version of DGX Spark because of the memory shortage, launching October 23 from $4,999, which is $1,000 more than the 128GB model cost at launch a year ago. The mini PC runs AI models locally. ([Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch](../summaries/ed14604b24e3.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-02** - Bloomberg reports US authorities arrested a California man suspected of smuggling over $300M of restricted Nvidia AI chips to China through Malaysia and Singapore. Basis: the article is paywalled, so this relies on the headline. ([US authorities arrest a California man suspected of smuggling $300M+ worth of restricted Nvidia AI chips to China via Malaysia and Singapore from 2023 to 2024](../summaries/176ef64b1bf1.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-02** - Bloomberg reports on mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls, which experts say point to gaps in Nvidia's controls. Basis: the article is paywalled, so this relies on the headline. ([Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence](../summaries/eb9e0d41aac4.md) · [NVIDIA](../entities/nvidia.md)) 🔒

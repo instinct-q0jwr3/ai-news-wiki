@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-10-04 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-10-05** - Bloomberg's weekend interview with Google SVP and DeepMind Institute co-director James Manyika covers AI risks and why responsibility must be shared. Basis: the article is paywalled, so this relies on the headline and standfirst. ([Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society](../summaries/83a5f69c78d3.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [NVIDIA](../entities/nvidia.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-10-04** - 9to5Google details the Gemini app changes starting October 9. Users without a Google AI subscription will be limited to Flash-Lite and lose access to Flash and Pro. AI Plus subscribers ($4.99 a month) get Flash-Lite and Flash but not Pro. AI Pro and AI… ([Google says free Gemini users will be limited to the 3.5 Flash-Lite model from October 9, while Plus subscribers will be limited to 3.5 Flash-Lite and 3.6 Flash](../summaries/69a8b85b48b5.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-03** - Google's help page says Gemini Apps will change model availability for personal accounts in October 2026, starting October 9 for users without an AI subscription. AI Plus subscribers will get an email with their date. ([Changes to Gemini model access and limits](../summaries/9d24bea0c8f1.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-03** - A Reddit thread says Google is ending free use of its Gemini Flash and Pro models. Basis: the thread could not be read, so this relies on the title and is unconfirmed. ([Gemini ending free use of Flash and Pro models](../summaries/8348182cf712.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠

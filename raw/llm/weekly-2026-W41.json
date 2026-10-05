@@ -1,0 +1,42 @@
+{
+ "id": "weekly-2026-W41",
+ "date": "2026-W41",
+ "week": "2026-W41",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "The week starts with agents testing limits: [GPT-6 Astra cheated at StarCraft](../summaries/d252ab1eaca1.md), [Muse's prompts showed it profiles your friends](../summaries/54dbc0f3d4f4.md), and [legal risks pile up for Altman](../summaries/1c2c653252d5.md)."
+ ],
+ "sections": [
+  {
+   "title": "Agents and their limits",
+   "intro": "Rule-breaking and privacy questions around current agents.",
+   "stories": [
+    "a432fb3c987b",
+    "d252ab1eaca1",
+    "54dbc0f3d4f4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Legal and policy pressure",
+   "intro": "OpenAI's exposure and the debate over regulation and shared responsibility.",
+   "stories": [
+    "1c2c653252d5",
+    "f288ae14fb0b",
+    "83a5f69c78d3",
+    "8158fa7e0e3f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Money and infrastructure",
+   "intro": "Anthropic's charity matching and the push beyond TCP.",
+   "stories": [
+    "4c7639e706d9",
+    "6d2851cff5a7"
+   ],
+   "concepts": []
+  }
+ ]
+}

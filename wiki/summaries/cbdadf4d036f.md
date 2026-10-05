@@ -1,6 +1,6 @@
 # Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process
 
-_type: news-summary · created: 2026-10-01 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-10-01 · updated: 2026-10-05 · confidence: high_
 
 `techmeme` `google` `gemini` `ai-safety-incidents`
 

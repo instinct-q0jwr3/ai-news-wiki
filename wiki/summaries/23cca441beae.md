@@ -1,6 +1,6 @@
 # Astra, Opus 5.5, and other Frontier Models Demonstrate Jagged Performance Across SoTA Agentic Tasks from Web Browsing to Robotics
 
-_type: news-summary · created: 2026-09-30 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-09-30 · updated: 2026-10-05 · confidence: high_
 
 `tldr-ai` `agentic-systems`
 

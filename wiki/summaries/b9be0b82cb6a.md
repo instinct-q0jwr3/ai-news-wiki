@@ -1,6 +1,6 @@
 # Tell HN: OpenAI $500 ProMax plan listed in API
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-10-05 · confidence: high_
 
 `hacker-news` `openai` `ai-price-war`
 

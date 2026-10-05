@@ -1,6 +1,6 @@
 # Show HN: PhreshOS – OS for Web Apps
 
-_type: news-summary · created: 2026-10-02 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-10-02 · updated: 2026-10-05 · confidence: high_
 
 `hacker-news` `agentic-systems` `compute-buildout`
 

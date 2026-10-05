@@ -1,6 +1,6 @@
 # MCP was always a bad idea?
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-10-05 · confidence: high_
 
 `simon-willison` `openai` `anthropic` `meta` `muse` `agentic-systems` `ai-safety-incidents` `ai-coding-agents`
 

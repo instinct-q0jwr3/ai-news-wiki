@@ -1,6 +1,6 @@
 # Getting the most out of Opus 5.5 in Claude and Claude Code
 
-_type: news-summary · created: 2026-10-04 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-10-04 · updated: 2026-10-05 · confidence: high_
 
 `hacker-news` `anthropic` `agentic-systems` `ai-coding-agents`
 

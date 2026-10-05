@@ -2,14 +2,14 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 379,
-  "last": "2026-10-04"
+  "stories": 384,
+  "last": "2026-10-05"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 370,
-  "last": "2026-10-04"
+  "stories": 374,
+  "last": "2026-10-05"
  },
  {
   "name": "TLDR AI",
@@ -181,7 +181,7 @@
  },
  {
   "name": "Paul Graham",
-  "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+  "url": "https://raw.githubusercontent.com/olshansk/rss-feeds/main/feeds/feed_paulgraham.xml",
   "stories": 0,
   "last": ""
  },

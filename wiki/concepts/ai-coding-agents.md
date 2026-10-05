@@ -1,6 +1,6 @@
 # Concept: AI coding agents and the software pipeline
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-04 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
 
 `concept` `ai-coding-agents`
 

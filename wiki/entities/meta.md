@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-04 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,8 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-05** - Wired's Kernel Panic newsletter looks at Meta's Muse assistant, a viral hit that people connect to bank accounts, messages and health data. Researchers, including Karan Joshi, extracted its system prompts by asking the chat to copy its own files, and Meta… ([Extracted system prompts show Meta's Muse compiles "a page for every person in the user's life", with facts, history, tips to improve relationships, and more](../summaries/54dbc0f3d4f4.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-10-05** - Bloomberg's weekend interview with Google SVP and DeepMind Institute co-director James Manyika covers AI risks and why responsibility must be shared. Basis: the article is paywalled, so this relies on the headline and standfirst. ([Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society](../summaries/83a5f69c78d3.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [NVIDIA](../entities/nvidia.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-10-04** - The Wall Street Journal reports on Alexandr Wang and Meta's Muse. Basis: the article is paywalled, so this relies on the headline and URL only. ([A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse](../summaries/69374d2cf8ab.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md)) 🔒
 - **2026-10-03** - Meta announced Muse Gadgets, an open-source ESP32 firmware and Linux SDK so developers can bring its Muse agent to their own hardware. Meta also built Muse Home Link, a USB-C device that connects Muse to the home network to talk to TVs, speakers and other… ([Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5](../summaries/72331c265890.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-03** - Meta told Semafor it is letting go of employees it hired from AI safety startup Virtue AI, four months after they joined in June, citing clashing work styles. Spokesperson Andy Stone said Meta Superintelligence Labs remains focused on safety, alignment and… ([Meta says it is letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company, citing clashing work styles](../summaries/87ca89393b37.md) · [Meta](../entities/meta.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

@@ -1,6 +1,6 @@
 # Premium: The Hater's Guide To AI Debt
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-10-05 · confidence: high_
 
 `ed-zitron` `openai` `compute-buildout`
 

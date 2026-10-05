@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-10-04 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-10-05** - Wired's Kernel Panic newsletter looks at Meta's Muse assistant, a viral hit that people connect to bank accounts, messages and health data. Researchers, including Karan Joshi, extracted its system prompts by asking the chat to copy its own files, and Meta… ([Extracted system prompts show Meta's Muse compiles "a page for every person in the user's life", with facts, history, tips to improve relationships, and more](../summaries/54dbc0f3d4f4.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-04** - The Wall Street Journal reports on Alexandr Wang and Meta's Muse. Basis: the article is paywalled, so this relies on the headline and URL only. ([A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse](../summaries/69374d2cf8ab.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md)) 🔒
 - **2026-10-03** - Muse Gadgets site at gadgets.muse.ai. Basis: only a short or unreadable page was available, so this relies on the headline; see the Engadget story for context. ([Muse Gadgets](../summaries/8ab09310c96d.md) · [Muse (Meta)](../entities/muse.md)) ⚠
 - **2026-10-03** - Meta announced Muse Gadgets, an open-source ESP32 firmware and Linux SDK so developers can bring its Muse agent to their own hardware. Meta also built Muse Home Link, a USB-C device that connects Muse to the home network to talk to TVs, speakers and other… ([Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5](../summaries/72331c265890.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))

@@ -1,29 +1,59 @@
 {
- "generated_at": "2026-10-04T19:26:55+00:00",
+ "generated_at": "2026-10-05T01:27:42+00:00",
  "stories": [
   {
-   "id": "b9919a530cbb",
-   "title": "Building a RAG pipeline for semantic code search",
+   "id": "6d2851cff5a7",
+   "title": "Homa: The end of TCP for AI clusters [video]",
    "source": "Hacker News",
-   "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/"
+   "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
   },
   {
-   "id": "bbceedd480af",
-   "title": "Is Russia using AI for disinformation in CAR?",
+   "id": "8158fa7e0e3f",
+   "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
    "source": "Hacker News",
-   "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947"
+   "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/"
   },
   {
-   "id": "0073fda57959",
-   "title": "Trump announces a new Super Intelligence Force, to be led by DNI Jay Clayton, along with FTC's Andrew Ferguson, DOD's Emil Michael, and OPM's Scott Kupor",
-   "source": "Techmeme",
-   "url": "https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137"
+   "id": "a432fb3c987b",
+   "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+   "source": "Hacker News",
+   "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607"
   },
   {
-   "id": "2651a8fc0d43",
-   "title": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace \"artificial\" intelligence with \"super\"",
+   "id": "1c2c653252d5",
+   "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf"
+  },
+  {
+   "id": "d252ab1eaca1",
+   "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+  },
+  {
+   "id": "4c7639e706d9",
+   "title": "Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/"
+   "url": "https://www.theinformation.com/articles/anthropics-big-charity-bill-shareholders"
+  },
+  {
+   "id": "54dbc0f3d4f4",
+   "title": "Extracted system prompts show Meta's Muse compiles \"a page for every person in the user's life\", with facts, history, tips to improve relationships, and more",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
+  },
+  {
+   "id": "83a5f69c78d3",
+   "title": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/features/2026-james-manyika-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTA0MTMwOSwiZXhwIjoxNzkxNjQ2MTA5LCJhcnRpY2xlSWQiOiJUTTlLSzlSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.u-yRXj5OldEL8nTrVyxthWTvxQ8nek0go4FwVqRE75E"
+  },
+  {
+   "id": "f288ae14fb0b",
+   "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks",
+   "source": "Techmeme",
+   "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217"
   }
  ]
 }

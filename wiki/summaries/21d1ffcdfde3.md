@@ -1,6 +1,6 @@
 # Mistral and partners release Apollo, an LLM for Ancient Greek
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-10-04 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-10-05 · confidence: high_
 
 `techmeme` `mistral` `external-evaluation`
 
