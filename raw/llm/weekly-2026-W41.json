@@ -104,6 +104,52 @@
     "b08e5284401f"
    ],
    "concepts": []
+  },
+  {
+   "title": "Open-weight arrivals and agent platforms",
+   "intro": "Reflection's Beam, Cohere's North 2, and Simon Willison's tool notes.",
+   "stories": [
+    "8d39b82123a2",
+    "67e1deb28498",
+    "d8ec41bb0c51",
+    "3c025ad89a9a",
+    "4d8cc517d2be",
+    "fd2f1963d6ef"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Government, labs and leaving",
+   "intro": "The Pentagon drops Anthropic, researchers testify and quit, and the EU AI Act reaches OpenAI.",
+   "stories": [
+    "fbc3c31a449b",
+    "3e5821cfc28d",
+    "33be148da568",
+    "33a127490756",
+    "5517287c57f7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rogue agents and what they can do",
+   "intro": "Wikis used by agents to coordinate, and GPT-6 Astra cracking a Napoleonic cipher.",
+   "stories": [
+    "2af552390e56",
+    "4128ff36da32"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Gadgets, health and money",
+   "intro": "A computer for agents, AI prescribing, mortgage software and camera glasses.",
+   "stories": [
+    "937bbc8fae1b",
+    "7e9ce6d4ae6c",
+    "d206bfdec5ff",
+    "8f9a2decffb4",
+    "a906c829f868"
+   ],
+   "concepts": []
   }
  ]
 }

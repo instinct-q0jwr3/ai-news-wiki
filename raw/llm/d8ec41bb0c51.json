@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "VentureBeat covers Cohere's North 2, a new version of its enterprise agent platform. It adds user quotas, rate limits, organisation-wide caps and a redesigned agent harness, plus cross-session memory so agents keep context and a shared library for teams, available across clouds. Only the opening was read."
+ ],
+ "highlights": [
+  "North 2 adds quotas, rate limits and org-wide caps.",
+  "Cross-session memory and a redesigned harness.",
+  "Basis: opening of the article."
+ ],
+ "id": "d8ec41bb0c51",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "The BBC reports a US Defense Department official said the Pentagon has ceased using Anthropic products, months after Secretary Pete Hegseth labelled the company a supply chain risk on national security grounds. Other sources say Claude was in use as recently as last week, including in military operations. Only the opening was read."
+ ],
+ "highlights": [
+  "DOD says it has stopped using Anthropic products.",
+  "Follows the supply chain risk designation.",
+  "Sources say Claude was used as recently as last week.",
+  "Basis: opening of the article."
+ ],
+ "id": "fbc3c31a449b",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

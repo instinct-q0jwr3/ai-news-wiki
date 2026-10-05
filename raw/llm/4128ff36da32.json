@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A post says GPT-6 Astra broke an unsolved cipher addressed to one of Napoleon's generals, unread for 217 years. The writer says the impressive part was not the codebreaking itself but that Astra ran the whole multimodal workflow in about six hours from a single image and a goal. Only the opening was read."
+ ],
+ "highlights": [
+  "Astra decoded a 217-year-old Napoleonic cipher.",
+  "Took about six hours from one image and a goal.",
+  "The point is the end-to-end workflow.",
+  "Basis: opening of the article."
+ ],
+ "id": "4128ff36da32",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

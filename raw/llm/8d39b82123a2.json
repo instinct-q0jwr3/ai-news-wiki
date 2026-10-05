@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Reflection's own post introduces Beam, its first open-weight model: a sparse Mixture-of-Experts with 501 billion total and 23 billion active parameters, built for coding, reasoning and agentic work. It credits investment in pretraining on 23.8 trillion curated tokens and in reinforcement learning. Only the opening was read."
+ ],
+ "highlights": [
+  "501B total, 23B active parameters, sparse MoE.",
+  "Pretrained on 23.8T tokens plus RL.",
+  "Aimed at coding, reasoning and agents.",
+  "Basis: opening of the post."
+ ],
+ "id": "8d39b82123a2",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

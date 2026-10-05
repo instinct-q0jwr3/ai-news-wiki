@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Simon Willison notes a new release of pwasm, his vibe-coded pure Python WebAssembly engine from January, and the prompt he gave a coding agent: assess its state, consider what it would take to run the MicroPython and micro JavaScript experiments on it, and how to speed it up. Only the opening was read."
+ ],
+ "highlights": [
+  "pwasm is a vibe-coded pure Python WebAssembly engine.",
+  "Agent asked to assess it and plan speedups.",
+  "Basis: opening of the post."
+ ],
+ "id": "3c025ad89a9a",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

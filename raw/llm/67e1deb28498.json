@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "TechCrunch reports Reflection AI, a 2024 startup of former DeepMind researchers billing itself as America's answer to open Chinese AI, is releasing its first model, Beam. It positions Beam as a workhorse that beats other Western open models, strong at coding and agentic tasks, using 3x to 4x less compute than comparable models, per CEO Misha Laskin. Only the opening was read."
+ ],
+ "highlights": [
+  "Reflection's first model, Beam, is open-weight.",
+  "Strong at coding and agentic work.",
+  "Claims 3x-4x less compute than comparable models.",
+  "Basis: opening of the article."
+ ],
+ "id": "67e1deb28498",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

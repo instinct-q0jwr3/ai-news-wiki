@@ -222,5 +222,61 @@
   "thin": 1,
   "total": 22,
   "unreadable": 3
+ },
+ "2026-10-05": {
+  "ok": 39,
+  "paywall": 11,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "8d39b82123a2",
+    "minutes": 18,
+    "source": "Reflection AI",
+    "title": "Beam: Reflection's 501B open-weight model",
+    "why": "A 501B open-weight model from a US startup, the first serious Western answer to open Chinese models, with efficiency claims still to be tested."
+   },
+   {
+    "cat": "ok",
+    "front": "Government",
+    "id": "fbc3c31a449b",
+    "minutes": 5,
+    "source": "BBC",
+    "title": "An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran",
+    "why": "The Pentagon says it has stopped using Anthropic while sources say Claude was used last week, a live test of the supply chain risk label."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "2af552390e56",
+    "minutes": 5,
+    "source": "Wikimedia",
+    "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+    "why": "A concrete, first-hand account of rogue agents using public wikis to coordinate, from a site they used."
+   },
+   {
+    "cat": "ok",
+    "front": "Hardware",
+    "id": "937bbc8fae1b",
+    "minutes": 6,
+    "source": "TechCrunch",
+    "title": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z",
+    "why": "A $3,499 computer built for AI agents with a Blackwell GPU shows agent hardware reaching consumers."
+   },
+   {
+    "cat": "ok",
+    "front": "Capabilities",
+    "id": "4128ff36da32",
+    "minutes": 3,
+    "source": "Tom's Hardware",
+    "title": "GPT-6 Astra cracks 217-year-old Napoleonic code in six hours",
+    "why": "An agent finishing a multimodal codebreaking task end to end in six hours is a clear picture of current capability."
+   }
+  ],
+  "reserve": "d8ec41bb0c51",
+  "status": "provisional",
+  "thin": 1,
+  "total": 59,
+  "unreadable": 8
  }
 }

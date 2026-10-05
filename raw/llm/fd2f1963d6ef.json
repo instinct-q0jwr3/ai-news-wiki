@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Simon Willison announces llm-anthropic 0.30, adding Claude Sonnet 5.5 support, a command to refresh the model list from Anthropic's API so new models need no release, and a count command using the free token counting API. Only the opening was read."
+ ],
+ "highlights": [
+  "Adds Claude Sonnet 5.5.",
+  "'refresh' updates the model list from the API.",
+  "'count' uses the token counting API.",
+  "Basis: opening of the post."
+ ],
+ "id": "fd2f1963d6ef",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

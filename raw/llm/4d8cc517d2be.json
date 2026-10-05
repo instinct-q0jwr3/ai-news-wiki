@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Simon Willison revisits Colin Frasier's Bluesky post about an old experiment, GPT-4o asked to add increasingly large numbers and answer in words, which it often got wrong, and links it to a Qwen3.8 27B rerun. Only the opening was read."
+ ],
+ "highlights": [
+  "Old GPT-4o test: add large numbers, answer in words.",
+  "Qwen3.8 27B tried the same task.",
+  "Basis: opening of the post."
+ ],
+ "id": "4d8cc517d2be",
+ "authored_at": "2026-10-05T19:37:37.752474+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
