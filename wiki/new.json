@@ -1,59 +1,47 @@
 {
- "generated_at": "2026-10-05T01:27:42+00:00",
+ "generated_at": "2026-10-05T07:28:38+00:00",
  "stories": [
   {
-   "id": "6d2851cff5a7",
-   "title": "Homa: The end of TCP for AI clusters [video]",
+   "id": "6e2cf44e9bd0",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
+   "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
   },
   {
-   "id": "8158fa7e0e3f",
-   "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-   "source": "Hacker News",
-   "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/"
-  },
-  {
-   "id": "a432fb3c987b",
-   "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-   "source": "Hacker News",
-   "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607"
-  },
-  {
-   "id": "1c2c653252d5",
-   "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf"
-  },
-  {
-   "id": "d252ab1eaca1",
-   "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
-   "source": "Hacker News",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
-  },
-  {
-   "id": "4c7639e706d9",
-   "title": "Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders",
+   "id": "c105203604ae",
+   "title": "several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/anthropics-big-charity-bill-shareholders"
+   "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai"
   },
   {
-   "id": "54dbc0f3d4f4",
-   "title": "Extracted system prompts show Meta's Muse compiles \"a page for every person in the user's life\", with facts, history, tips to improve relationships, and more",
+   "id": "42b61fae630b",
+   "title": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
+   "url": "https://www.axios.com/2026/10/02/changeorg-ai-100-million"
   },
   {
-   "id": "83a5f69c78d3",
-   "title": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society",
+   "id": "066db6f7a329",
+   "title": "Sam Altman says he's \"very uncomfortable\" with attributing religious force to AI, calling it \"a real safety issue\", as Anthropic engages with religious leaders",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/features/2026-james-manyika-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTA0MTMwOSwiZXhwIjoxNzkxNjQ2MTA5LCJhcnRpY2xlSWQiOiJUTTlLSzlSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.u-yRXj5OldEL8nTrVyxthWTvxQ8nek0go4FwVqRE75E"
+   "url": "https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models"
   },
   {
-   "id": "f288ae14fb0b",
-   "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks",
+   "id": "d157acf4fe43",
+   "title": "Coming soon: New York City’s hearing on AI risks",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/coming-soon-new-york-citys-hearing"
+  },
+  {
+   "id": "e6288f5a4964",
+   "title": "Claude Says",
+   "source": "Lobsters",
+   "url": "https://ohhfishal.net/Posts/claude"
+  },
+  {
+   "id": "d7469b685650",
+   "title": "A look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels",
    "source": "Techmeme",
-   "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217"
+   "url": "https://www.theinformation.com/articles/sean-parker-spreads-gospel-ai-music"
   }
  ]
 }

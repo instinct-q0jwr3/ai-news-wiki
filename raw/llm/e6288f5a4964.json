@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A personal essay arguing that answering a colleague with 'Claude says...' signals you lack authority on the subject and makes it hard to trust that the concern was relayed well. The author says AI hype drives overengineered software, for example an AI suggesting forking and building every dependency instead of using an artifact repository's patch feature.",
+  "He ties this to vibe coding and non-experts acting on the first AI answer without scrutiny. Only the opening part was read."
+ ],
+ "highlights": [
+  "Deferring to an LLM signals missing expertise.",
+  "Example: AI chose to fork every dependency over a built-in patch feature.",
+  "Blames AI hype for overengineered stacks.",
+  "Basis: opening of the post."
+ ],
+ "id": "e6288f5a4964",
+ "authored_at": "2026-10-05T07:34:15.950995+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

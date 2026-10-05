@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "TechSpot reports that a Florida woman faces a felony charge after using Claude as a diary and writing on September 26 that she planned to shoot up the Sheriff's office. Claude's safety systems flagged the entry, a human reviewer judged it a credible threat and reported it to law enforcement.",
+  "Deputies identified her, visited her home and detained her without incident. Anthropic says it may share user information in limited emergencies when it believes disclosure is needed to prevent death or serious physical injury. The charge is making a written threat of violence under Florida law. Only part of the article was read."
+ ],
+ "highlights": [
+  "Claude flagged a diary entry, a human reviewer escalated it to police.",
+  "Anthropic's policy allows sharing in limited emergencies.",
+  "She faces a felony written-threat charge.",
+  "Basis: first part of the article."
+ ],
+ "id": "6e2cf44e9bd0",
+ "authored_at": "2026-10-05T07:34:15.950995+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

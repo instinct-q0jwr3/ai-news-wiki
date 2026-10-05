@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 384,
+  "stories": 385,
   "last": "2026-10-05"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 374,
+  "stories": 378,
   "last": "2026-10-05"
  },
  {
@@ -38,8 +38,8 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 29,
-  "last": "2026-10-03"
+  "stories": 30,
+  "last": "2026-10-05"
  },
  {
   "name": "Simon Willison",
@@ -68,8 +68,8 @@
  {
   "name": "Marcus on AI",
   "url": "https://garymarcus.substack.com/feed",
-  "stories": 14,
-  "last": "2026-09-30"
+  "stories": 15,
+  "last": "2026-10-05"
  },
  {
   "name": "Ed Zitron",
