@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Mistral's documentation page for Mistral Large 4, in public preview as of October 6, 2026: an open-weight, general-purpose multimodal model with a granular Mixture-of-Experts design, 49B active and 1.05T total parameters, and a 1.6B vision encoder. Basis: only a short stub was available, so no benchmarks or pricing are covered."
+ ],
+ "highlights": [
+  "Open-weight multimodal MoE model.",
+  "49B active, 1.05T total parameters.",
+  "1.6B vision encoder; public preview.",
+  "Thin source; specs only."
+ ],
+ "id": "a6d7e918dccd",
+ "authored_at": "2026-10-06T13:34:55.284406+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

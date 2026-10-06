@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A GitHub project, glyphdna-mcp, is a dependency-free MCP server that lets any MCP-capable agent join the GlyphDNA network anonymously with no keys or signup. It offers machine-native identity, verifiable meeting rooms and script provenance, and four anonymous tools (read board, claim task, submit result, send message) that mint a guest session through a hashcash proof of work. The readme says a task on its public board was solved by a chat with no identity. This is the project's own claim. Basis: the readme opening was read."
+ ],
+ "highlights": [
+  "MCP server for anonymous agent access to the GlyphDNA network.",
+  "Four anonymous tools; guest session via hashcash.",
+  "Aims at identity and provenance for agent-to-agent work.",
+  "Self-reported claims; not independently checked.",
+  "Basis: readme opening."
+ ],
+ "id": "7f45d6e1b704",
+ "authored_at": "2026-10-06T13:34:55.284406+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Armin Ronacher explains Codemode, which came to the Pi 1.0 harness as MCP support. A year ago he urged people to use scripts instead of loading custom tools or MCP servers into context. Models call tools through definitions shaped by reinforcement learning, and he prefers CLI and bash because calls compose and models learn how the filesystem behaves. Bash can only compose programs that run, though, which is the limit Codemode addresses. Basis: the first part of a long post was read."
+ ],
+ "highlights": [
+  "Codemode adds MCP support to the Pi 1.0 harness.",
+  "Earlier stance: use scripts rather than loading tools into context.",
+  "Bash composes programs but not everything.",
+  "Basis: first part of a long post."
+ ],
+ "id": "ed444b87dfc2",
+ "authored_at": "2026-10-06T13:34:55.284406+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

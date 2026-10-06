@@ -2,13 +2,13 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 404,
+  "stories": 412,
   "last": "2026-10-06"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 397,
+  "stories": 400,
   "last": "2026-10-06"
  },
  {
@@ -20,8 +20,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 34,
-  "last": "2026-10-05"
+  "stories": 35,
+  "last": "2026-10-06"
  },
  {
   "name": "Bert Hubert",
@@ -78,6 +78,12 @@
   "last": "2026-10-05"
  },
  {
+  "name": "Armin Ronacher",
+  "url": "https://lucumr.pocoo.org/feed.atom",
+  "stories": 12,
+  "last": "2026-10-06"
+ },
+ {
   "name": "Ed Zitron",
   "url": "https://www.wheresyoured.at/rss/",
   "stories": 12,
@@ -88,12 +94,6 @@
   "url": "https://www.anildash.com/feed.xml",
   "stories": 11,
   "last": "2026-10-06"
- },
- {
-  "name": "Armin Ronacher",
-  "url": "https://lucumr.pocoo.org/feed.atom",
-  "stories": 11,
-  "last": "2026-10-01"
  },
  {
   "name": "seangoedecke",

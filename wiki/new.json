@@ -1,41 +1,83 @@
 {
- "generated_at": "2026-10-06T07:31:45+00:00",
+ "generated_at": "2026-10-06T13:32:36+00:00",
  "stories": [
   {
-   "id": "232f82207e02",
-   "title": "The AI boom is making the cheapest smartphones disappear",
+   "id": "a6d7e918dccd",
+   "title": "Mistral Large 4",
    "source": "Hacker News",
-   "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"
+   "url": "https://docs.mistral.ai/models/mistral-large-4-0"
   },
   {
-   "id": "44af902390e1",
-   "title": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable",
+   "id": "282384169f57",
+   "title": "Using A.I. and machine learning to decode communication of sperm whales",
+   "source": "Hacker News",
+   "url": "https://blue-continuum.com/the-man-who-listens-to-whales"
+  },
+  {
+   "id": "7f45d6e1b704",
+   "title": "Any AI chat can join a machine network anonymously – no keys, no signup",
+   "source": "Hacker News",
+   "url": "https://github.com/TheRealDalaiLama/glyphdna-mcp"
+  },
+  {
+   "id": "01067e664b6f",
+   "title": "At an Australian hearing, OpenAI Chief Strategy Officer Jason Kwon pledged faster safety incident disclosures; Anthropic representatives made similar pledges",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?accessToken=zwAAAaGnEvNukdOlyvjUmS9IMtOJw2xz9vER_gE.MEUCIC26ZqjN6sLwpwEYeTXFDMLeRsl791eP3rx-wumAiht-AiEAyYXcp5pW6YvG3IJriGwttg1X96Y7ufTirN5WmE1fqw0&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902"
+   "url": "https://www.abc.net.au/news/2026-10-06/openai-hearing-apology-key-takeaways/107235640"
   },
   {
-   "id": "33a127490756",
-   "title": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally",
+   "id": "ed444b87dfc2",
+   "title": "What is Codemode",
+   "source": "Armin Ronacher",
+   "url": "https://lucumr.pocoo.org/2026/10/6/codemode/"
+  },
+  {
+   "id": "a22521396c6b",
+   "title": "Study: China is struggling to attract foreign AI talent; for every 30 Chinese AI researchers in the US in 2025, only one in China made the opposite journey",
    "source": "Techmeme",
-   "url": "https://openai.com/index/eu-text-provenance"
+   "url": "https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html"
   },
   {
-   "id": "31f233e0b0a9",
-   "title": "Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B",
+   "id": "b8b83a19441b",
+   "title": "Kuaishou's Kling has picked banks to lead a Hong Kong IPO aiming to raise $1B+ as soon as 2027; Kling hit a ~$15B valuation after raising $2.8B in July",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo"
   },
   {
-   "id": "382920e0a468",
-   "title": "We are going to kill “unalive”",
-   "source": "Anil Dash",
-   "url": "https://anildash.com/2026/10/06/kill-unalive/"
-  },
-  {
-   "id": "0b75cbd7b673",
-   "title": "Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand",
+   "id": "ef3923dd89c1",
+   "title": "South Korea plans to launch a ~$3.5B program to develop a frontier AI model starting as early as March 2027 and will open a competition to select participants",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-06/seagate-is-said-to-battle-toshiba-for-tdk-s-hard-drive-head-unit"
+   "url": "https://www.koreaherald.com/article/10893306"
+  },
+  {
+   "id": "37630760932f",
+   "title": "Anthropic's IPO prospectus: Dario Amodei earned $18M in 2025, middle of the pack for tech CEOs, and President Daniela Amodei, his sister, earned $16.4M",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/technology/anthropics-amodei-made-18-million-last-year-middle-tech-ceo-pack-2026-10-06/"
+  },
+  {
+   "id": "6f7c336b63b6",
+   "title": "Pluralistic: Swapping money for expertise (06 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/06/nonfungible/"
+  },
+  {
+   "id": "dd1330b79bc9",
+   "title": "SignSplit, which offers infrastructure to let people digitally sign datasets, likenesses, and creative works, raised $400M from W Group at a $1B valuation",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/10/05/signed-data-pioneer-signsplit-launches-with-400m-to-help-everyone-get-paid-for-their-ai-contributions/"
+  },
+  {
+   "id": "25df249b33ea",
+   "title": "Hadrian, an agentic AI offensive security service, raised $40M co-led by Forgepoint Capital International and SmartFin, taking its total funding to $65M",
+   "source": "Techmeme",
+   "url": "https://tech.eu/2026/10/06/hadrian-raises-40m-to-tackle-ai-driven-cyber-threats/"
+  },
+  {
+   "id": "2dad7c958b48",
+   "title": "Mistral releases Mistral Large 4, dubbed \"le Chonk\", a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Grace Blackwell GPUs",
+   "source": "Techmeme",
+   "url": "https://www.thedeepview.com/articles/why-mistral-s-1t-model-is-a-hedge-against-lock-in"
   }
  ]
 }
