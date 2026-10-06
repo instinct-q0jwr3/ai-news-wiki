@@ -1,89 +1,53 @@
 {
- "generated_at": "2026-10-05T19:30:21+00:00",
+ "generated_at": "2026-10-06T01:31:01+00:00",
  "stories": [
   {
-   "id": "2e4e380053ce",
-   "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+   "id": "a0f3ba6cfe46",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
    "source": "Hacker News",
-   "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/"
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"
   },
   {
-   "id": "2af552390e56",
-   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+   "id": "d0ff1d86664c",
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
    "source": "Hacker News",
-   "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
+   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
   },
   {
-   "id": "33a127490756",
-   "title": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/eu-text-provenance"
-  },
-  {
-   "id": "a906c829f868",
-   "title": "Questions for Believers in AI Consciousness",
+   "id": "6ae7f480e468",
+   "title": "A Series of Unfortunate Events for OpenAI Users",
    "source": "Hacker News",
-   "url": "https://endsdontjustifythemeans.com/p/6-questions-for-believers-in-ai-consciousness"
+   "url": "https://insufferable.dev/posts/a-series-of-unfortunate-events-for-openai-users/"
   },
   {
-   "id": "8d39b82123a2",
-   "title": "Beam: Reflection's 501B open-weight model",
+   "id": "804fae45e3bb",
+   "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
    "source": "Hacker News",
-   "url": "https://reflection.ai/blog/introducing-beam"
+   "url": "https://edworkingpapers.com/ai26-1551"
   },
   {
-   "id": "4128ff36da32",
-   "title": "GPT-6 Astra cracks 217-year-old Napoleonic code in six hours",
+   "id": "720efd428f14",
+   "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders"
+   "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html"
   },
   {
-   "id": "7e9ce6d4ae6c",
-   "title": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight",
+   "id": "fe3d0dd461db",
+   "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
+  },
+  {
+   "id": "aad8d370c1c3",
+   "title": "AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIxNjEzOSwiZXhwIjoxNzkxODIwOTM5LCJhcnRpY2xlSWQiOiJUTUZMODVLSVAzS00wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.crHEdlDbj7Dx78MJpxZ7nHnh7NmskJmIYVmdbeyomfE"
+   "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
   },
   {
-   "id": "4d8cc517d2be",
-   "title": "Qwen3.8 27B addition in words",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/"
-  },
-  {
-   "id": "8f9a2decffb4",
-   "title": "Pluralistic: Scrutinized (05 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/05/pervert-glasses/"
-  },
-  {
-   "id": "fd2f1963d6ef",
-   "title": "llm-anthropic 0.30",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Sep/28/llm-anthropic/"
-  },
-  {
-   "id": "33be148da568",
-   "title": "Q&A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI's dangers, planned IPOs, AI safety, oversight, and more",
+   "id": "30996f34a4c6",
+   "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol",
    "source": "Techmeme",
-   "url": "https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html"
-  },
-  {
-   "id": "fbc3c31a449b",
-   "title": "An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran",
-   "source": "Techmeme",
-   "url": "https://www.bbc.com/news/articles/c5j9x9pr0240o"
-  },
-  {
-   "id": "3e5821cfc28d",
-   "title": "Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing"
-  },
-  {
-   "id": "d206bfdec5ff",
-   "title": "Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation",
-   "source": "Techmeme",
-   "url": "http://www.forbes.com/sites/zoyahasan/2026/10/05/fintech-unicorn-valon-hit-a-2-billion-valuation-to-bring-ai-to-americas-13-trillion-mortgage-market/"
+   "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"
   },
   {
    "id": "67e1deb28498",
@@ -92,28 +56,16 @@
    "url": "https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs"
   },
   {
-   "id": "937bbc8fae1b",
-   "title": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z",
+   "id": "a09e0709cf2d",
+   "title": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
   },
   {
-   "id": "5517287c57f7",
-   "title": "Meta and Microsoft are working to cut their employees' use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude"
-  },
-  {
-   "id": "d8ec41bb0c51",
-   "title": "Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises",
-   "source": "Techmeme",
-   "url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory"
-  },
-  {
-   "id": "3c025ad89a9a",
-   "title": "pwasm 0.2a0",
+   "id": "244f0d39ed21",
+   "title": "Quoting Felix Rieseberg",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/1/pwasm/"
+   "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/"
   }
  ]
 }

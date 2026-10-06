@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Felix Rieseberg of Anthropic explains the change to Cowork. The old version ran model inference in the cloud but executed tool calls in a virtual machine shipped to the user's computer, which cost disk, battery and speed and stopped work when the laptop closed. The new version runs both the model and the VM in the cloud, each session in its own sandbox, and the desktop app only handles requests such as file access. Anthropic expects this to enable phone use and background work without draining the battery."
+ ],
+ "highlights": [
+  "Old Cowork: cloud inference plus a local VM for tool calls.",
+  "Costs: disk, battery, performance, work stopping on lid close.",
+  "New Cowork: model and VM both in the cloud, one sandbox per session.",
+  "The desktop app only brokers device access such as files.",
+  "Basis: short quoted post, read in full."
+ ],
+ "id": "244f0d39ed21",
+ "authored_at": "2026-10-06T01:36:30.220853+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

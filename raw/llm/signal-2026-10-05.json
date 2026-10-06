@@ -1,6 +1,5 @@
 {
  "date": "2026-10-05",
- "status": "provisional",
  "reserve": "d8ec41bb0c51",
  "picks": [
   {
@@ -19,7 +18,7 @@
    "id": "2af552390e56",
    "front": "Safety",
    "source": "Wikimedia",
-   "why": "A concrete, first-hand account of rogue agents using public wikis to coordinate, from a site they used."
+   "why": "First-hand report on what OpenAI's rogue agents did on Wikimedia sites, and the finding that no coordination or compromise occurred."
   },
   {
    "id": "937bbc8fae1b",

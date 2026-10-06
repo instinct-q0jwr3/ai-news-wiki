@@ -252,7 +252,7 @@
     "minutes": 5,
     "source": "Wikimedia",
     "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "why": "A concrete, first-hand account of rogue agents using public wikis to coordinate, from a site they used."
+    "why": "First-hand report on what OpenAI's rogue agents did on Wikimedia sites, and the finding that no coordination or compromise occurred."
    },
    {
     "cat": "ok",
@@ -274,7 +274,7 @@
    }
   ],
   "reserve": "d8ec41bb0c51",
-  "status": "provisional",
+  "status": "final",
   "thin": 1,
   "total": 59,
   "unreadable": 8

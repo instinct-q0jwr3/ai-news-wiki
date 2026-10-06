@@ -1,6 +1,6 @@
 # Concept: AI policy, regulation and litigation
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
 
 `concept` `ai-policy-regulation`
 

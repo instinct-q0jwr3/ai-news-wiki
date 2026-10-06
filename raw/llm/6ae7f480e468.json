@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A critical post on how the past month went for Codex users. After heavy usage resets and the arrival of Opus 5.5, which the author says matches Astra at a tenth of the cost, OpenAI released GPT-6 Sol, which he calls its worst model ever and weaker than the older Luna. Just before DevDay, OpenAI reopened its $200 plan but cut usage from 20x to 10x at the same price, which set off an immediate backlash. It is one writer's opinionated account, not measured data."
+ ],
+ "highlights": [
+  "Author says Opus 5.5 matches Astra at about a tenth of the cost.",
+  "Calls GPT-6 Sol the worst model in OpenAI's history.",
+  "$200 plan reopened with usage cut from 20x to 10x.",
+  "Opinion piece; claims not independently tested.",
+  "Basis: first part of the article."
+ ],
+ "id": "6ae7f480e468",
+ "authored_at": "2026-10-06T01:36:30.220853+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

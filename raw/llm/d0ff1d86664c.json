@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Vals AI describes using a team of AI agents to search for room-temperature magnetic semiconductors, materials between ordinary ferromagnets and antiferromagnets that could improve spintronic memory such as MRAM. The agents helped design one candidate and found another, first made in 1999, whose calculated properties match what they were after. The post explains spin and magnetism in a short primer first. The results are calculations, not lab confirmation."
+ ],
+ "highlights": [
+  "Goal: room-temperature magnetic semiconductors for spintronics.",
+  "One designed candidate and one 1999 material found.",
+  "Predictions come from calculation, not experiment.",
+  "Basis: first part of the post."
+ ],
+ "id": "d0ff1d86664c",
+ "authored_at": "2026-10-06T01:36:30.220853+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

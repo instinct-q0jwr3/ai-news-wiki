@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "SemiAnalysis argues that consumer subscription plans are heavily subsidised yet matter far more than their revenue share suggests. They are about 10% of Anthropic's revenue but can take over 40% of inference compute, cutting blended revenue per megawatt by roughly $36M. A monthly payment buys credits, and each model and token type burns credits at ratios that differ sharply from API prices, so the value of a plan depends on those limits. The piece frames resets and limit changes as marketing and customer-acquisition tools, citing OpenAI's generous resets and Codex growth, and says modelling lab finances requires understanding them."
+ ],
+ "highlights": [
+  "Subscriptions: about 10% of revenue, 40%+ of inference compute.",
+  "Roughly $36M lower blended revenue per MW.",
+  "Plans grant credits; credit ratios differ from API price ratios.",
+  "Resets work as customer-acquisition marketing.",
+  "Basis: first part of a long article."
+ ],
+ "id": "30996f34a4c6",
+ "authored_at": "2026-10-06T01:36:30.220853+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,6 +1,6 @@
 # Xiaomi
 
-_type: organization · created: 2026-09-22 · updated: 2026-10-05 · confidence: medium_
+_type: organization · created: 2026-09-22 · updated: 2026-10-06 · confidence: medium_
 
 `entity` `xiaomi` `agentic-systems` `ai-coding-agents` `ai-price-war` `compute-buildout`
 

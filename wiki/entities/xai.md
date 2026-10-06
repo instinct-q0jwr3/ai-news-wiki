@@ -1,6 +1,6 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
 
 `entity` `xai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-10-06** - SemiAnalysis argues that consumer subscription plans are heavily subsidised yet matter far more than their revenue share suggests. They are about 10% of Anthropic's revenue but can take over 40% of inference compute, cutting blended revenue per megawatt by… ([Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol](../summaries/30996f34a4c6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-05** - Bloomberg's weekend interview with Google SVP and DeepMind Institute co-director James Manyika covers AI risks and why responsibility must be shared. Basis: the article is paywalled, so this relies on the headline and standfirst. ([Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society](../summaries/83a5f69c78d3.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [NVIDIA](../entities/nvidia.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-10-04** - Reuters reports Elon Musk said in an X reply that SpaceX will rename its AI unit SpaceXAI to SpaceXSI. Basis: the article could not be read, so this relies on the headline. ([In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace "artificial" intelligence with "super"](../summaries/2651a8fc0d43.md) · [SpaceXAI (xAI)](../entities/xai.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) ⚠
 - **2026-10-03** - Offrun is a workspace for managing several coding agents at once. Each agent in a project gets its own git worktree, so two agents on the same repo never touch the same files, and you can run a refactor and a bug fix together and merge when ready. ([Show HN: Offrun – manage every coding agent from one workspace](../summaries/26b8412d7f89.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

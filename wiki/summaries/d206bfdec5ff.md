@@ -1,6 +1,6 @@
 # Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation
 
-_type: news-summary · created: 2026-10-05 · updated: 2026-10-05 · confidence: high_
+_type: news-summary · created: 2026-10-05 · updated: 2026-10-06 · confidence: high_
 
 `techmeme`
 

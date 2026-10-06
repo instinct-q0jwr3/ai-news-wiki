@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "TechSpot reports a viral anonymous post on X by an engineer called voxium, who says Claude Code has made his job soul-sucking. His employer has the AI write specifications, tests, tickets and reports, staff are pushed to ship fast with little time to review the output, and people work 12 to 13 hours a day just pressing enter. He says nobody is resolving bugs or thinking any more. It is one unverified account from an undisclosed company."
+ ],
+ "highlights": [
+  "Anonymous engineer says Claude Code drives specs, tests, tickets and reports.",
+  "Pressure to ship fast leaves little time to review.",
+  "Claims 12-13 hour days spent pressing enter.",
+  "Single unverified account.",
+  "Basis: full article text was read."
+ ],
+ "id": "720efd428f14",
+ "authored_at": "2026-10-06T01:36:30.220853+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

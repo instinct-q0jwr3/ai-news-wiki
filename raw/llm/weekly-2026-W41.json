@@ -132,7 +132,7 @@
   },
   {
    "title": "Rogue agents and what they can do",
-   "intro": "Wikis used by agents to coordinate, and GPT-6 Astra cracking a Napoleonic cipher.",
+   "intro": "What Wikimedia found from OpenAI's rogue agents, and GPT-6 Astra cracking a Napoleonic cipher.",
    "stories": [
     "2af552390e56",
     "4128ff36da32"
@@ -148,6 +148,44 @@
     "d206bfdec5ff",
     "8f9a2decffb4",
     "a906c829f868"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents in the workplace, and their limits",
+   "intro": "Cowork moves to the cloud, a developer describes life with Claude Code, and a trial shows an AI tutor mostly unused.",
+   "stories": [
+    "244f0d39ed21",
+    "720efd428f14",
+    "804fae45e3bb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "What a subscription really costs",
+   "intro": "SemiAnalysis on the economics of plans, and a user's account of Codex limits and models.",
+   "stories": [
+    "30996f34a4c6",
+    "6ae7f480e468"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rogue agents, fake signatures",
+   "intro": "What Wikimedia found, and ChatGPT putting a real artist's name on fake work.",
+   "stories": [
+    "fe3d0dd461db",
+    "a0f3ba6cfe46"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Shopping, chips and materials",
+   "intro": "TikTok adds an AI shopper, Etched draws big offers, and agents hunt for magnetic materials.",
+   "stories": [
+    "a09e0709cf2d",
+    "aad8d370c1c3",
+    "d0ff1d86664c"
    ],
    "concepts": []
   }

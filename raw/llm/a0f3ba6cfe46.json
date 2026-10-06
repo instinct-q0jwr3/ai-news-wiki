@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Nieman Lab reports that ChatGPT is imitating New Yorker-style cartoons and also adding real cartoonists' signatures to fake images. A viral cartoon of Dolly Parton and Tim Curry at heaven's gates carried the pen name BLOPER, Brendan Loper's signature, but he did not draw it. A Facebook fan had only asked ChatGPT for a New Yorker-style cartoon. Loper says people wrote asking if it was his. The piece looks at false attribution of AI images to real artists."
+ ],
+ "highlights": [
+  "ChatGPT put a real cartoonist's signature on a fake cartoon.",
+  "Brendan Loper never drew the viral Parton-Curry image.",
+  "The prompt only asked for 'a New Yorker-style cartoon'.",
+  "Basis: first part of the article."
+ ],
+ "id": "a0f3ba6cfe46",
+ "authored_at": "2026-10-06T01:36:30.220853+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

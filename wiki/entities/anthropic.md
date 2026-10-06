@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-06** - TechSpot reports a viral anonymous post on X by an engineer called voxium, who says Claude Code has made his job soul-sucking. His employer has the AI write specifications, tests, tickets and reports, staff are pushed to ship fast with little time to… ([Engineer says Claude Code has made his job "soul-sucking"](../summaries/720efd428f14.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-10-06** - Felix Rieseberg of Anthropic explains the change to Cowork. The old version ran model inference in the cloud but executed tool calls in a virtual machine shipped to the user's computer, which cost disk, battery and speed and stopped work when the laptop… ([Quoting Felix Rieseberg](../summaries/244f0d39ed21.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-10-06** - SemiAnalysis argues that consumer subscription plans are heavily subsidised yet matter far more than their revenue share suggests. They are about 10% of Anthropic's revenue but can take over 40% of inference compute, cutting blended revenue per megawatt by… ([Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol](../summaries/30996f34a4c6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-05** - Simon Willison announces llm-anthropic 0.30, adding Claude Sonnet 5.5 support, a command to refresh the model list from Anthropic's API so new models need no release, and a count command using the free token counting API. Only the opening was read. ([llm-anthropic 0.30](../summaries/fd2f1963d6ef.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-05** - Simon Willison notes a new release of pwasm, his vibe-coded pure Python WebAssembly engine from January, and the prompt he gave a coding agent: assess its state, consider what it would take to run the MicroPython and micro JavaScript experiments on it, and… ([pwasm 0.2a0](../summaries/3c025ad89a9a.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-10-05** - The BBC reports a US Defense Department official said the Pentagon has ceased using Anthropic products, months after Secretary Pete Hegseth labelled the company a supply chain risk on national security grounds. Other sources say Claude was in use as… ([An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran](../summaries/fbc3c31a449b.md) · [Anthropic](../entities/anthropic.md))

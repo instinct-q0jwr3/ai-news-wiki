@@ -2,14 +2,14 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 398,
-  "last": "2026-10-05"
+  "stories": 401,
+  "last": "2026-10-06"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 390,
-  "last": "2026-10-05"
+  "stories": 396,
+  "last": "2026-10-06"
  },
  {
   "name": "TLDR AI",
@@ -30,16 +30,16 @@
   "last": "2026-10-02"
  },
  {
+  "name": "Simon Willison",
+  "url": "https://simonwillison.net/atom/everything/",
+  "stories": 32,
+  "last": "2026-10-06"
+ },
+ {
   "name": "antirez",
   "url": "https://antirez.com/rss",
   "stories": 31,
   "last": "2026-09-26"
- },
- {
-  "name": "Simon Willison",
-  "url": "https://simonwillison.net/atom/everything/",
-  "stories": 31,
-  "last": "2026-10-05"
  },
  {
   "name": "Lobsters",

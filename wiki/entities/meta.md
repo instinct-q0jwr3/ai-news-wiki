@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-05 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-06** - SemiAnalysis argues that consumer subscription plans are heavily subsidised yet matter far more than their revenue share suggests. They are about 10% of Anthropic's revenue but can take over 40% of inference compute, cutting blended revenue per megawatt by… ([Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol](../summaries/30996f34a4c6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-05** - Cory Doctorow's Pluralistic issue 'Scrutinized' takes on the claim that the killer app for AI camera glasses such as Meta's is reminding you of people's names, and argues that constant recording and reporting changes behaviour. Only the opening was read. ([Pluralistic: Scrutinized (05 Oct 2026)](../summaries/8f9a2decffb4.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-05** - Former Anthropic researcher Jacob Coxon and representatives of Anthropic, Google, OpenAI and Meta testified at a New York City Council hearing on AI. Basis: the article is paywalled, so this relies on the headline. ([Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety](../summaries/3e5821cfc28d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
 - **2026-10-05** - Meta and Microsoft are working to cut employees' use of Claude; Meta employees using Claude Code have fallen to about 30K from about 60K earlier. Basis: the article is paywalled, so this relies on the headline. ([Meta and Microsoft are working to cut their employees' use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year](../summaries/5517287c57f7.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) 🔒
