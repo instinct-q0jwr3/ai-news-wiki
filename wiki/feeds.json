@@ -2,13 +2,13 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 401,
+  "stories": 404,
   "last": "2026-10-06"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 396,
+  "stories": 397,
   "last": "2026-10-06"
  },
  {
@@ -84,6 +84,12 @@
   "last": "2026-10-02"
  },
  {
+  "name": "Anil Dash",
+  "url": "https://www.anildash.com/feed.xml",
+  "stories": 11,
+  "last": "2026-10-06"
+ },
+ {
   "name": "Armin Ronacher",
   "url": "https://lucumr.pocoo.org/feed.atom",
   "stories": 11,
@@ -94,12 +100,6 @@
   "url": "https://www.seangoedecke.com/rss.xml",
   "stories": 11,
   "last": "2026-10-02"
- },
- {
-  "name": "Anil Dash",
-  "url": "https://www.anildash.com/feed.xml",
-  "stories": 10,
-  "last": "2026-09-29"
  },
  {
   "name": "Dwarkesh Podcast",

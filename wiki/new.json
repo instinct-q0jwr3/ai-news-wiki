@@ -1,71 +1,41 @@
 {
- "generated_at": "2026-10-06T01:31:01+00:00",
+ "generated_at": "2026-10-06T07:31:45+00:00",
  "stories": [
   {
-   "id": "a0f3ba6cfe46",
-   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "id": "232f82207e02",
+   "title": "The AI boom is making the cheapest smartphones disappear",
    "source": "Hacker News",
-   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"
+   "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"
   },
   {
-   "id": "d0ff1d86664c",
-   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "source": "Hacker News",
-   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
-  },
-  {
-   "id": "6ae7f480e468",
-   "title": "A Series of Unfortunate Events for OpenAI Users",
-   "source": "Hacker News",
-   "url": "https://insufferable.dev/posts/a-series-of-unfortunate-events-for-openai-users/"
-  },
-  {
-   "id": "804fae45e3bb",
-   "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-   "source": "Hacker News",
-   "url": "https://edworkingpapers.com/ai26-1551"
-  },
-  {
-   "id": "720efd428f14",
-   "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
-   "source": "Hacker News",
-   "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html"
-  },
-  {
-   "id": "fe3d0dd461db",
-   "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-   "source": "Hacker News",
-   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
-  },
-  {
-   "id": "aad8d370c1c3",
-   "title": "AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August",
+   "id": "44af902390e1",
+   "title": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
+   "url": "https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?accessToken=zwAAAaGnEvNukdOlyvjUmS9IMtOJw2xz9vER_gE.MEUCIC26ZqjN6sLwpwEYeTXFDMLeRsl791eP3rx-wumAiht-AiEAyYXcp5pW6YvG3IJriGwttg1X96Y7ufTirN5WmE1fqw0&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902"
   },
   {
-   "id": "30996f34a4c6",
-   "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol",
+   "id": "33a127490756",
+   "title": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally",
    "source": "Techmeme",
-   "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"
+   "url": "https://openai.com/index/eu-text-provenance"
   },
   {
-   "id": "67e1deb28498",
-   "title": "Reflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen 3.8-Max",
+   "id": "31f233e0b0a9",
+   "title": "Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B",
    "source": "Techmeme",
-   "url": "https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion"
   },
   {
-   "id": "a09e0709cf2d",
-   "title": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed",
+   "id": "382920e0a468",
+   "title": "We are going to kill “unalive”",
+   "source": "Anil Dash",
+   "url": "https://anildash.com/2026/10/06/kill-unalive/"
+  },
+  {
+   "id": "0b75cbd7b673",
+   "title": "Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
-  },
-  {
-   "id": "244f0d39ed21",
-   "title": "Quoting Felix Rieseberg",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/seagate-is-said-to-battle-toshiba-for-tdk-s-hard-drive-head-unit"
   }
  ]
 }

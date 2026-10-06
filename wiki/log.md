@@ -151,3 +151,4 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-10-05] ingest | 315 AI stories | snapshot 20261005T193021Z
 ## [2026-10-06] ingest | 300 AI stories | snapshot 20261006T013101Z
 - Partial errors: Daring Fireball: unclosed CDATA section: line 2260, column 308
+## [2026-10-06] ingest | 313 AI stories | snapshot 20261006T073145Z
