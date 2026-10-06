@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-10-06 · updated: 2026-10-06 · confidence: high_
 
-`hacker-news` `mistral`
+`hacker-news` `openai` `anthropic` `google` `mistral` `gemini` `external-evaluation` `ai-safety-incidents`
 
 ## Summary
 
@@ -23,4 +23,4 @@ _Only a short excerpt of the source could be read._
 
 ## Related pages
 
-[Mistral](../entities/mistral.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Mistral](../entities/mistral.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)

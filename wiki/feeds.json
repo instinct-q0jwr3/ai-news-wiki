@@ -2,20 +2,20 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 412,
+  "stories": 419,
   "last": "2026-10-06"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 400,
+  "stories": 404,
   "last": "2026-10-06"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 158,
-  "last": "2026-10-05"
+  "stories": 172,
+  "last": "2026-10-06"
  },
  {
   "name": "Pluralistic",
@@ -24,16 +24,16 @@
   "last": "2026-10-06"
  },
  {
+  "name": "Simon Willison",
+  "url": "https://simonwillison.net/atom/everything/",
+  "stories": 34,
+  "last": "2026-10-06"
+ },
+ {
   "name": "Bert Hubert",
   "url": "https://berthub.eu/articles/index.xml",
   "stories": 32,
   "last": "2026-10-02"
- },
- {
-  "name": "Simon Willison",
-  "url": "https://simonwillison.net/atom/everything/",
-  "stories": 32,
-  "last": "2026-10-06"
  },
  {
   "name": "antirez",
@@ -50,8 +50,8 @@
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 22,
-  "last": "2026-10-03"
+  "stories": 23,
+  "last": "2026-10-06"
  },
  {
   "name": "Latent.Space",
@@ -72,6 +72,12 @@
   "last": "2026-10-05"
  },
  {
+  "name": "Ed Zitron",
+  "url": "https://www.wheresyoured.at/rss/",
+  "stories": 13,
+  "last": "2026-10-06"
+ },
+ {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
   "stories": 13,
@@ -82,12 +88,6 @@
   "url": "https://lucumr.pocoo.org/feed.atom",
   "stories": 12,
   "last": "2026-10-06"
- },
- {
-  "name": "Ed Zitron",
-  "url": "https://www.wheresyoured.at/rss/",
-  "stories": 12,
-  "last": "2026-10-02"
  },
  {
   "name": "Anil Dash",

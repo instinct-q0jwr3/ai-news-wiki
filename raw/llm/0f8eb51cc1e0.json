@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "TechSpot reports Utah is letting a startup, Nolla Health, offer AI examinations and prescriptions without direct human oversight, a one-year pilot for mild-to-moderate acne. Patients scan their face in a $4.99-a-month app, fill in a medical history, and the AI scores acne severity and picks from eight approved treatments. The first 100 prescriptions are reviewed by doctors beforehand, the next 400 are sent by the AI and checked weekly by a physician afterwards, and the last phase has a doctor reviewing a sample. Basis: most of the article was read."
+ ],
+ "highlights": [
+  "First US state pilot of AI prescribing without direct doctor oversight.",
+  "Acne only, one year, $4.99 a month app.",
+  "Face scan gives a severity score; eight approved drugs.",
+  "Phases: 100 reviewed first, 400 reviewed after, then sampled.",
+  "Basis: most of the article."
+ ],
+ "id": "0f8eb51cc1e0",
+ "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

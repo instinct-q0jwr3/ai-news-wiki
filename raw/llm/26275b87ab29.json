@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "openTPU is an open-source AI accelerator designed largely by AI agents, asking how far agents can go at hardware design and whether they can build the chip that runs their own inference. The monorepo holds SystemVerilog, an instruction set, a bit-exact simulator, a kernel language, a compiler and host software. It runs ten modern models with real weights on an FPGA card (Kintex-7), matching the simulator token for token. The newest build decodes 8 to 10% faster at 91 to 94% of DRAM peak. These are the project's own measurements. Basis: the first part of the readme was read."
+ ],
+ "highlights": [
+  "Open-source accelerator designed largely by AI agents.",
+  "Full stack: hardware, ISA, simulator, compiler, host software.",
+  "Runs ten models on a Kintex-7 FPGA, bit-exact with the simulator.",
+  "Newest build 8-10% faster, 91-94% of DRAM peak.",
+  "Self-reported results."
+ ],
+ "id": "26275b87ab29",
+ "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "Google DeepMind launched EmbeddingGemma 2, a 740M-parameter model mapping code, images, video and audio into a shared embedding space, under an Apache 2.0 license. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title."
+ ],
+ "highlights": [
+  "Google DeepMind launched EmbeddingGemma 2",
+  "Headline-level summary."
+ ],
+ "id": "ca79599eedd4",
+ "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

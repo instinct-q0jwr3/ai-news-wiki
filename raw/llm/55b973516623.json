@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "A command-line tool called RemoveMacAI, by developer Om Lahore, switches off Apple Intelligence on macOS 27, which has no toggle for it. It uses a configuration profile you approve plus Apple's own asset service, so System Integrity Protection stays on, and a revert command brings the models back. The developer says the models take about 12GB, though The Verge reports over 30GB. It turns off Siri, Writing Tools, Genmoji, Image Playground, the ChatGPT extension and summaries, while dictation still works. Basis: the article text was read."
+ ],
+ "highlights": [
+  "RemoveMacAI disables Apple Intelligence on macOS 27 and deletes models.",
+  "Uses an approved profile; SIP stays on; reversible.",
+  "Frees 12GB by the developer's count; The Verge says over 30GB.",
+  "Dictation keeps working.",
+  "Basis: full short article."
+ ],
+ "id": "55b973516623",
+ "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
