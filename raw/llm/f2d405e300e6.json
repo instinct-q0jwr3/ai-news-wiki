@@ -1,0 +1,17 @@
+{
+ "id": "f2d405e300e6",
+ "authored_at": "2026-10-07T13:39:46.298825+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Verge adds launch details to Google's Playground announcement: the browser-based game builder is available in the US to adults, with free use and higher weekly token limits for Google One subscribers. Google says it combines Gemini, Nano Banana and Lyria with a game-focused harness.",
+  "Users can create games through prompts, share links or publish to a gallery, with multiplayer in selected genres. The article distinguishes Playground from Unity Spark, a more professional collaborative game-building experience with a closed beta planned later in the year. It places the launch alongside Meta and Roblox efforts, rather than treating prompt-generated games as a new category without competitors."
+ ],
+ "highlights": [
+  "Reported launch eligibility is US users aged 18+.",
+  "Free use has limits; paid plans raise weekly allowances.",
+  "Three Google model families power the stated system.",
+  "Multiplayer is limited to selected genres.",
+  "Unity Spark's closed beta is future, not today's general release."
+ ]
+}

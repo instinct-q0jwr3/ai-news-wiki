@@ -1,0 +1,17 @@
+{
+ "id": "58167da828b3",
+ "authored_at": "2026-10-07T13:39:46.297811+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google introduces Playground as an experimental browser platform for making games through conversation. Users can describe characters, rules, physics and environments, test a game immediately, and revise it through further prompts rather than writing code. Starting points include a blank canvas, starter prompts and guided support.",
+  "Finished games can remain private, be shared by link or appear in a community gallery. Some genres support multiplayer and leaderboards, and ratings and play activity help surface games. Google also points to forthcoming Unity Spark tools aimed at more professional game creation. This is the operator's announcement, not a test of the quality of generated games."
+ ],
+ "highlights": [
+  "Game creation and testing take place in the browser.",
+  "Prompts can change rules, physics and visual elements.",
+  "Private, link-shared and gallery publication are distinct choices.",
+  "Multiplayer support applies only to selected genres.",
+  "Unity Spark is a separate forthcoming experience."
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "c428c912fc91",
+ "authored_at": "2026-10-07T13:39:46.298134+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic combines Project Glasswing and its Cyber Verification Program into three access tiers for vetted security work. Defense Access covers defensive operations and eligible individual researchers; Red Team Access adds authorized penetration testing for organizations; Specialized Access is reserved for deeply reviewed organizations testing high-impact safety systems.",
+  "Each tier changes verification requirements and cyber safeguards rather than granting unrestricted use. Red-team access still blocks actions with physical-harm or mass-disruption potential. Anthropic describes required retention and a forthcoming Enterprise Frontier Safeguards option, with specified interim exceptions. Its vulnerability totals and effectiveness results are company-reported evidence, not independent validation in this summary."
+ ],
+ "highlights": [
+  "Three tiers replace separate trusted-access programs.",
+  "Defense Access can include qualified individuals.",
+  "Red Team Access is currently for organizations.",
+  "Specialized Access covers tightly reviewed high-impact systems.",
+  "Authorized scope remains a condition of testing.",
+  "Privacy and retention terms differ across arrangements."
+ ]
+}

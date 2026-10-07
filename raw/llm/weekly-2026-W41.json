@@ -404,6 +404,77 @@
     "ced23fc51eff"
    ],
    "concepts": []
+  },
+  {
+   "title": "Games become a conversation",
+   "intro": "Google opens Playground while announcing a future professional route with Unity Spark.",
+   "stories": [
+    "58167da828b3",
+    "f2d405e300e6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents enter files and business sessions",
+   "intro": "Claude adds Workspace editing, Hark ships software, and Sierra proposes a common way to connect personal agents with businesses.",
+   "stories": [
+    "f32b41f58ab4",
+    "d2ba966707be",
+    "10c1a0765d92",
+    "2ce10347dd4b",
+    "eb03db3f6a84"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cyber access and emergency response",
+   "intro": "Anthropic expands vetted cyber tiers, Project Zero examines emergency patch delivery, and console modders accelerate their work.",
+   "stories": [
+    "c428c912fc91",
+    "570322d2a63f",
+    "6f8ef809513a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Learning, trust and the teen-safety dispute",
+   "intro": "A junior engineer defends independent judgment, an essay examines manufactured consensus, and evaluators dispute whether teen safeguards work.",
+   "stories": [
+    "051ea61631fc",
+    "22cecf4da552",
+    "3f5582f85748"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Data, images and cluster recipes",
+   "intro": "Pantheon prioritizes diverse robot data, Google publishes an image model card, and NVIDIA pins tested cluster configurations.",
+   "stories": [
+    "517a41cfc106",
+    "8bdba7dc2825",
+    "f47d8199fc77"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "DeepSeek, recruiting and a new funding scale",
+   "intro": "Reported financing and benchmark gains sit alongside researcher recruitment challenges, a large venture-fund target and Stuut's enterprise automation raise.",
+   "stories": [
+    "1457bbcfcc33",
+    "e8e2e0848eb1",
+    "f58c1b30a58f",
+    "71c01e762bc3",
+    "e6eb4b41ab52"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A phone camera finds the stars",
+   "intro": "AstroHelm uses on-device star-pattern matching to guide telescopes and telephoto lenses without a motorized mount.",
+   "stories": [
+    "620caedaf414"
+   ],
+   "concepts": []
   }
  ]
 }

@@ -1,29 +1,101 @@
 {
- "generated_at": "2026-10-07T07:36:05+00:00",
+ "generated_at": "2026-10-07T13:35:52+00:00",
  "stories": [
   {
-   "id": "63d5b3ce61cb",
-   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+   "id": "620caedaf414",
+   "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49982498"
+   "url": "https://astrohelm.app/"
   },
   {
-   "id": "ced23fc51eff",
-   "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+   "id": "051ea61631fc",
+   "title": "Forever Junior: The Skills AI Can't Develop for You",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49985548"
+   "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
   },
   {
-   "id": "b52fedaef03e",
-   "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+   "id": "22cecf4da552",
+   "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
    "source": "Hacker News",
-   "url": "https://github.com/nano-muse/nanoMuse"
+   "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968"
   },
   {
-   "id": "4fc013c197b3",
-   "title": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts",
+   "id": "58167da828b3",
+   "title": "Google Playground: Create and play custom games",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+  },
+  {
+   "id": "e8e2e0848eb1",
+   "title": "US-China AI Gap Hits 3%, and DeepSeek V4.1 Flash Now Leads on Agentic Coding Benchmarks",
+   "source": "TLDR AI",
+   "url": "https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm"
+  },
+  {
+   "id": "eb03db3f6a84",
+   "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/"
+  },
+  {
+   "id": "2ce10347dd4b",
+   "title": "Decisions API is now available in Public Beta",
+   "source": "TLDR AI",
+   "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877"
+  },
+  {
+   "id": "d2ba966707be",
+   "title": "Hark debuts an AI agent a year before its first devices",
+   "source": "TLDR AI",
+   "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe"
+  },
+  {
+   "id": "8bdba7dc2825",
+   "title": "Nano Banana 2.1",
+   "source": "TLDR AI",
+   "url": "https://deepmind.google/models/model-cards/nano-banana-2-1/"
+  },
+  {
+   "id": "71c01e762bc3",
+   "title": "Dallas-based Disruptive is targeting up to $10B for a late-stage fund, and has secured $7.5B; founded in 2012, it has backed Groq and Reflection AI",
    "source": "Techmeme",
-   "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"
+   "url": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?st=MjELQf&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "e6eb4b41ab52",
+   "title": "Stuut, which uses AI agents to automate enterprise order-to-cash cycles and serves 150+ clients, raised a $52.5M Series B led by Insight, for $93M total funding",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/10/07/stuut-cashes-in-on-agentic-order-to-cash-automation-with-52-5m-in-funding/"
+  },
+  {
+   "id": "f58c1b30a58f",
+   "title": "In Race With US, China Struggles to Recruit Foreign AI Researchers",
+   "source": "TLDR AI",
+   "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html?unlocked_article_code=1.G1E.vzNX.LAgmpYtxdpWb&smid=url-share"
+  },
+  {
+   "id": "f47d8199fc77",
+   "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+   "source": "TLDR AI",
+   "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration"
+  },
+  {
+   "id": "c428c912fc91",
+   "title": "Anthropic Expands Verified Access to Cyber Capabilities",
+   "source": "TLDR AI",
+   "url": "https://www.anthropic.com/news/cyber-verification-program"
+  },
+  {
+   "id": "ac743e89b1e9",
+   "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models",
+   "source": "Techmeme",
+   "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken"
+  },
+  {
+   "id": "10c1a0765d92",
+   "title": "Introducing Personal Agent Protocol",
+   "source": "TLDR AI",
+   "url": "https://sierra.ai/blog/introducing-personal-agent-protocol"
   },
   {
    "id": "1d706dabee31",
@@ -32,40 +104,46 @@
    "url": "https://www.wsj.com/pro/venture-capital/this-startup-wants-to-double-the-worlds-computewithout-building-a-single-data-center-f0bf8140"
   },
   {
-   "id": "1278ea9995e6",
-   "title": "A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison",
+   "id": "f2d405e300e6",
+   "title": "Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria",
    "source": "Techmeme",
-   "url": "https://www.billboard.com/pro/ai-music-streaming-fraud-sentence-man-18-months-prison-scam/"
+   "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai"
   },
   {
-   "id": "7d4cf1e17c05",
-   "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai"
+   "id": "570322d2a63f",
+   "title": "Building Faster Emergency Patching Systems",
+   "source": "TLDR AI",
+   "url": "https://projectzero.google/2026/10/emergency-patching.html"
   },
   {
-   "id": "6c3ed9d5e944",
-   "title": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
+   "id": "3f5582f85748",
+   "title": "Common Sense Media calls ChatGPT for Teens an \"unacceptable risk\", saying its guardrails fall short of OpenAI's promises and it continues to do kids' homework",
    "source": "Techmeme",
-   "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
   },
   {
-   "id": "a22dccef8495",
-   "title": "OpenAI shares mathematics research catalogue",
-   "source": "Lobsters",
-   "url": "https://github.com/openai/math"
+   "id": "517a41cfc106",
+   "title": "Building the Most Diverse UMI Dataset in Robotics",
+   "source": "TLDR AI",
+   "url": "https://pantheon.inc/research/diverse-umi"
   },
   {
-   "id": "7444875fb422",
-   "title": "Reasons to dislike AI coding",
-   "source": "Lobsters",
-   "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
+   "id": "6f8ef809513a",
+   "title": "PS5 modders using AI tools have rapidly installed emulators, as jailbreaks spread across social media; recent games requiring newer firmware are inaccessible",
+   "source": "Techmeme",
+   "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating"
   },
   {
-   "id": "7ebc6c72cda2",
-   "title": "Quoting Jake Boggan",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
+   "id": "1457bbcfcc33",
+   "title": "A $12B DeepSeek Raise Is Reportedly Close, With Tencent And CATL Among Backers",
+   "source": "TLDR AI",
+   "url": "https://yellow.com/news/deepseek-12b-raise-close-tencent-catl"
+  },
+  {
+   "id": "f32b41f58ab4",
+   "title": "Claude now works with Google Docs, Sheets, and Slides",
+   "source": "TLDR AI",
+   "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides"
   }
  ]
 }

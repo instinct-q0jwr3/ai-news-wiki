@@ -1,0 +1,16 @@
+{
+ "id": "620caedaf414",
+ "authored_at": "2026-10-07T13:39:46.297337+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "AstroHelm uses a mounted phone's camera to recognize star patterns and continuously determine where a telescope or telephoto lens is pointing. It guides manual aiming toward selected targets instead of relying on a drifting compass or a motorized GoTo mount. The developer says plate solving runs on the device without internet, and the site offers target suggestions based on location, time and sky conditions. Its precision and difficult-sky performance are vendor claims, not measurements verified here."
+ ],
+ "highlights": [
+  "Camera-based plate solving replaces compass-only pointing.",
+  "A rigid connection between phone and optics is important.",
+  "The app guides movement rather than driving a motor.",
+  "The site describes offline processing and local images.",
+  "Accuracy claims have not been independently tested."
+ ]
+}

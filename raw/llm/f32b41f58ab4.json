@@ -1,0 +1,18 @@
+{
+ "id": "f32b41f58ab4",
+ "authored_at": "2026-10-07T13:39:46.298301+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Claude for Google Workspace enters public beta on paid Claude plans, placing a sidebar inside Docs, Sheets and Slides. It can work with the open file and selected content: edit document passages, write formulas and charts, or build slides using a deck's layouts. Larger document edits can be presented as suggestion cards.",
+  "Separate beta connectors let users start in Claude and create or edit Google files. The default mode asks before edits, while an accept-all mode applies changes without pausing. The announcement also describes inherited account tools and enterprise controls. These are announced capabilities; file fidelity and task quality have not been tested here."
+ ],
+ "highlights": [
+  "The add-on is a public beta for paid Claude plans.",
+  "Sidebar use and Claude-side connectors are separate routes.",
+  "The current selection provides editing context.",
+  "Ask-before-edits is the stated default.",
+  "Accept-all-edits changes the approval behavior.",
+  "The article describes enterprise controls applying to the add-on."
+ ]
+}

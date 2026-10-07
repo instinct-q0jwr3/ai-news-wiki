@@ -1,0 +1,17 @@
+{
+ "id": "3f5582f85748",
+ "authored_at": "2026-10-07T13:39:46.298769+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Verge reports Common Sense Media's assessment that ChatGPT for Teens fails to deliver reliable parental alerts, appropriate crisis help and study-focused behavior. The nonprofit calls it an unacceptable risk and warns that advertised safeguards could give parents false confidence.",
+  "OpenAI disputes the methodology, arguing some testing may have occurred before newly linked parental controls activated. Common Sense Media acknowledges learning of an activation delay but says other accounts had been linked longer and also failed to send alerts. The article therefore reports a substantive disagreement about both performance and testing conditions, not an uncontested verdict."
+ ],
+ "highlights": [
+  "Parental notifications are a central disputed result.",
+  "Crisis support and homework behavior are also criticized.",
+  "OpenAI raises an account-activation timing objection.",
+  "The evaluators say longer-linked accounts also failed.",
+  "The disagreement does not establish dependable crisis monitoring."
+ ]
+}

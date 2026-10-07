@@ -1,0 +1,17 @@
+{
+ "id": "22cecf4da552",
+ "authored_at": "2026-10-07T13:39:46.297705+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Eslam Elsewedy's essay argues that institutions shape public memory through framing, repetition, selective timelines and reassuring language. It connects historical propaganda and corporate marketing to a proposed AI-era risk: synthetic articles and retrieval optimization can make manufactured narratives appear well supported.",
+  "The author uses political and commercial examples to make an argument about power over information, then proposes checking omitted context, the chosen starting date, blame allocation and euphemisms. This is an opinion essay with cited references, not an experiment showing that all language models equate repetition with truth. Basis: the original page was recovered through a separate readable fetch after the ingestion fetch failed."
+ ],
+ "highlights": [
+  "The essay connects propaganda, marketing and AI retrieval.",
+  "Repeated synthetic material may distort apparent consensus.",
+  "Selective timelines are central to its argument.",
+  "Its proposed checks focus on framing and omitted context.",
+  "Broad causal claims are the author's argument, not independently verified findings."
+ ]
+}

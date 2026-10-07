@@ -1,0 +1,18 @@
+{
+ "id": "8bdba7dc2825",
+ "authored_at": "2026-10-07T13:39:46.298550+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google DeepMind's model card describes Nano Banana 2.1 as an image-and-text model based on Gemini 3.6 Flash, accepting text and images with up to a one-million-token input context. It reports improvements across image creation and editing evaluations, including multi-character consistency, product consistency and infographic design.",
+  "The same card lists limits: small or long text can render poorly, character identity and spatial directions can still fail, and factuality and advanced 3D reasoning remain imperfect. The results are Google's own evaluations rather than an independent comparison. Basis: the full model card recovered by a separate readable fetch after the ingestion cache returned only a short label."
+ ],
+ "highlights": [
+  "The stated base model is Gemini 3.6 Flash.",
+  "Inputs include text and images.",
+  "The card reports up to 1M input context.",
+  "Creation and editing are evaluated separately.",
+  "Text rendering, consistency and spatial reasoning still have limits.",
+  "Reported benchmark improvements are vendor-evaluated."
+ ]
+}

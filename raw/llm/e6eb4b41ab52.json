@@ -1,0 +1,18 @@
+{
+ "id": "e6eb4b41ab52",
+ "authored_at": "2026-10-07T13:39:46.298983+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "SiliconANGLE reports Stuut's $52.5 million Series B led by Insight Partners, bringing total funding to $93 million. The company applies AI agents to enterprise order-to-cash work, where missing purchase orders, bad invoice data and fragmented portals can delay collection and force manual investigation.",
+  "Stuut says it integrates with existing ERP, CRM and payment systems and builds memory of customer payment behavior and portal quirks. Its coverage extends from invoicing and credit through collections, cash application and disputes. The article's broad revenue-loss estimates and promised benefits are company claims rather than measured outcomes for every customer."
+ ],
+ "highlights": [
+  "The reported Series B is $52.5 million.",
+  "Total funding reaches $93 million.",
+  "Insight leads, with a16z and M12 participating.",
+  "The target is administrative friction across order-to-cash.",
+  "Integration avoids requiring a wholesale systems replacement.",
+  "Revenue-loss and benefit claims need customer-level evidence."
+ ]
+}

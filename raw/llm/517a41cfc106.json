@@ -1,0 +1,18 @@
+{
+ "id": "517a41cfc106",
+ "authored_at": "2026-10-07T13:39:46.298248+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Pantheon describes building a robotics-data operation around Universal Manipulation Interface hardware and a mix of freeform and scripted collection. It says it reached more than one million unique tasks in eight weeks at $10 per hour of data, using 90 operators and custom infrastructure, and releases a densely annotated 100-hour sample.",
+  "The central bet is that diverse tasks and environments, including mistakes and recovery, teach more useful world dynamics than repeated clean demonstrations of a few tasks. Automated annotation through Argus reduces the overhead of labeling freeform behavior; scripted collection fills gaps in dexterous tasks. The scale, cost and diversity rankings are the team's own reported results."
+ ],
+ "highlights": [
+  "The project prioritizes diversity over repeated narrow tasks.",
+  "UMI captures manipulation data without a complete robot setup.",
+  "Freeform and scripted collection address different coverage gaps.",
+  "Failures and recovery are retained as useful training material.",
+  "Argus supplies dense annotation and quality checks.",
+  "A 100-hour sample is released; reported economics are not independently audited."
+ ]
+}

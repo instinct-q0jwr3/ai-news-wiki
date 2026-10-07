@@ -1,0 +1,17 @@
+{
+ "id": "2ce10347dd4b",
+ "authored_at": "2026-10-07T13:39:46.298352+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI's developer-community announcement opens the Decisions API public beta for fast, typed judgments over text and images. Powered by GPT-6 Luna, it returns predicate probabilities, choices among fixed options, or scores within a numeric range, rather than ordinary freeform responses. The announcement claims decisions up to ten times faster than using Luna through the Responses API and lists input-only pricing of $0.10 per million tokens.",
+  "Early replies raise questions about calibration, choice ordering and comparisons with Jev. Those are informal user tests, not general benchmarks, but they show why low latency does not remove the need to test confidence scores on the intended task. Basis: a separate readable fetch recovered the announcement after the ingestion cache contained only page furniture."
+ ],
+ "highlights": [
+  "Three output types are predicates, choices and scores.",
+  "Inputs can include images as well as text.",
+  "The speed claim is the announcement's comparison.",
+  "Pricing is stated as input-only, without output charges.",
+  "Forum calibration reports are preliminary and task-specific."
+ ]
+}

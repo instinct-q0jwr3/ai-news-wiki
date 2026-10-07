@@ -1,0 +1,18 @@
+{
+ "id": "10c1a0765d92",
+ "authored_at": "2026-10-07T13:39:46.298500+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Sierra announces Personal Agent Protocol, an open standard being developed with Meta and industry partners to connect personal agents with businesses. It proposes website discovery followed by an OAuth-based session that can begin as a guest and gain user-authorized account access, carrying context across website, API and business-agent routes.",
+  "The design separates what customers permit from what businesses expose. Sierra plans a v0.1 specification later in the month and a reference implementation; more detailed action limits, push notifications and payment extensions are described as future possibilities. This is a proposed standard and development plan, not evidence of universal deployment or completed interoperability."
+ ],
+ "highlights": [
+  "The protocol is under development, not a finished universal standard.",
+  "Website discovery is the proposed starting point.",
+  "OAuth sessions carry authorized access across channels.",
+  "Customers control access; businesses define available routes.",
+  "A v0.1 specification is planned later in the month.",
+  "Notifications and payments extensions remain prospective."
+ ]
+}
