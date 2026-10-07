@@ -3,7 +3,7 @@
  "date": "2026-10-07",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Mistral Large 4 lands with weights promised for October 27, OpenAI posts 372 maths results from a single internal model, and the case against banning open models gets a data point.",
+ "lead": "OpenAI's mathematics catalogue dominates the day, with 722 manuscripts at different stages of verification. Mistral Large 4 arrives, AI-assisted software copying raises ownership questions, and a streaming-fraud case ends in prison.",
  "sections": [
   {
    "title": "Mistral Large 4 arrives",
@@ -63,6 +63,51 @@
    "intro": "An open letter to Steven Pinker.",
    "stories": [
     "0b01343dd667"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Mathematics meets scrutiny and personal stakes",
+   "intro": "OpenAI publishes its catalogue, a roundup records the claims and caveats, and a researcher describes what it feels like to see a longstanding problem apparently solved. Publication and proof verification are different steps.",
+   "stories": [
+    "a22dccef8495",
+    "7d4cf1e17c05",
+    "7ebc6c72cda2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Whose code, whose work?",
+   "intro": "Photopea faces unofficial AI-modified copies while an essay separates the technical, artistic and political objections to AI coding.",
+   "stories": [
+    "63d5b3ce61cb",
+    "7444875fb422"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Bots turn streams into stolen royalties",
+   "intro": "A prison sentence puts the distinction between synthetic songs and fraudulent listening in focus.",
+   "stories": [
+    "1278ea9995e6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Buying products and squeezing compute",
+   "intro": "Repeat acquirers drive AI deal counts higher; Turba Labs pitches data-center optimization, though only an excerpt of that funding report was accessible.",
+   "stories": [
+    "6c3ed9d5e944",
+    "1d706dabee31"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents across devices, servers that earn their keep",
+   "intro": "NanoMuse describes a device-and-relay architecture, while a community thread asks what makes an always-on personal server worth maintaining.",
+   "stories": [
+    "b52fedaef03e",
+    "ced23fc51eff"
    ],
    "concepts": []
   }

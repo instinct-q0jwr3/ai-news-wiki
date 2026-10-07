@@ -1,0 +1,18 @@
+{
+ "id": "7d4cf1e17c05",
+ "authored_at": "2026-10-07T07:42:58.006352+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Latent.Space's AINews issue puts OpenAI's mathematics release ahead of Mistral Large 4 as the day's central development. It reports 722 manuscripts in 372 related-result families, produced by an unreleased model evaluated on about 4,000 problems, and collects strong reactions to claimed advances including a quasi-Riemann result.",
+  "The issue also records the qualifications behind the excitement: individual mathematical claims need scrutiny, some outputs may fail review, and success in domains with checkable answers may not transfer to other work. Its wider roundup covers Mistral's preview, conflicting context-window and benchmark reports, and the surrounding model ecosystem. It is a news synthesis of announcements and commentary, not independent verification of hundreds of proofs."
+ ],
+ "highlights": [
+  "722 manuscripts do not mean 722 unrelated solved problems.",
+  "The catalogue groups papers into 372 result families.",
+  "The underlying OpenAI model remains unreleased.",
+  "The source explicitly labels notable claims as unverified.",
+  "Mistral's preview is a second major topic.",
+  "Benchmark and specification differences require source-by-source reading."
+ ]
+}

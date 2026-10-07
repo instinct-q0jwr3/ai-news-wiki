@@ -1,0 +1,17 @@
+{
+ "id": "7ebc6c72cda2",
+ "authored_at": "2026-10-07T07:42:58.006557+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison republishes a Hacker News comment from Jake Boggan about the personal impact of OpenAI's mathematics catalogue. Boggan describes spending thousands of hours over 24 years thinking about Barnette's Conjecture, then encountering an alleged proof in the new release.",
+  "His reaction mixes the satisfaction of seeing a difficult problem addressed with grief at losing a long-running intellectual companion. The quotation captures the emotional stakes of AI research for people invested in those problems; it does not establish that the purported proof is correct. Basis: Willison's short quotation page, not an examination of the proof."
+ ],
+ "highlights": [
+  "The page is a collected quotation, not a research article.",
+  "Boggan describes a 24-year attachment to the conjecture.",
+  "The alleged proof is identified as problem 180.",
+  "The reaction is emotional as well as technical.",
+  "No proof validation is supplied by this page."
+ ]
+}

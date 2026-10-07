@@ -1,113 +1,23 @@
 {
- "generated_at": "2026-10-07T01:34:26+00:00",
+ "generated_at": "2026-10-07T07:36:05+00:00",
  "stories": [
   {
-   "id": "01da48e98fa3",
-   "title": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
-  },
-  {
-   "id": "26275b87ab29",
-   "title": "AI is now capable of developing its own inference hardware",
+   "id": "63d5b3ce61cb",
+   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
    "source": "Hacker News",
-   "url": "https://github.com/FeSens/openTPU"
+   "url": "https://news.ycombinator.com/item?id=49982498"
   },
   {
-   "id": "ca79599eedd4",
-   "title": "Google DeepMind launches EmbeddingGemma 2, a 740M-parameter model to map code, images, video, and audio in a shared embedding space, under an Apache 2.0 license",
-   "source": "Techmeme",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
-  },
-  {
-   "id": "9c9d0557cfff",
-   "title": "Decisions API is in public beta",
+   "id": "ced23fc51eff",
+   "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
    "source": "Hacker News",
-   "url": "https://developers.openai.com/api/docs/guides/decisions"
+   "url": "https://news.ycombinator.com/item?id=49985548"
   },
   {
-   "id": "4be01bf5d571",
-   "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+   "id": "b52fedaef03e",
+   "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
    "source": "Hacker News",
-   "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature"
-  },
-  {
-   "id": "8f6acef3b57d",
-   "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-   "source": "Hacker News",
-   "url": "https://penguin-mail.com/"
-  },
-  {
-   "id": "ef1e1880eb0c",
-   "title": "Integer multiplication below n log n",
-   "source": "Hacker News",
-   "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026"
-  },
-  {
-   "id": "3cd875d146c3",
-   "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
-  },
-  {
-   "id": "403ddf294c5d",
-   "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
-   "source": "Hacker News",
-   "url": "https://jotbus.com/"
-  },
-  {
-   "id": "2957982eba66",
-   "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=49972125"
-  },
-  {
-   "id": "0b01343dd667",
-   "title": "An Open Letter to Steven Pinker on AI",
-   "source": "Hacker News",
-   "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on"
-  },
-  {
-   "id": "4361659f982e",
-   "title": "Show HN: AI Circuit Breaker – Reverse proxy to stop agent infinite loops",
-   "source": "Hacker News",
-   "url": "https://circuit-breaker-sage.vercel.app/"
-  },
-  {
-   "id": "3822b060597f",
-   "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
-   "source": "Hacker News",
-   "url": "https://agentability.org/"
-  },
-  {
-   "id": "d252755ca392",
-   "title": "Show HN: An MCP server that finds text your agent reads and you can't see",
-   "source": "Hacker News",
-   "url": "https://hiddencontent.ai/start/"
-  },
-  {
-   "id": "698a5cc01971",
-   "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
-   "source": "Lobsters",
-   "url": "https://tracel.ai/blog/release-0.22.0/"
-  },
-  {
-   "id": "ac743e89b1e9",
-   "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models",
-   "source": "Techmeme",
-   "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken"
-  },
-  {
-   "id": "3f5005bb7ae6",
-   "title": "Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/"
-  },
-  {
-   "id": "0f775271612a",
-   "title": "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27",
-   "source": "Techmeme",
-   "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release"
+   "url": "https://github.com/nano-muse/nanoMuse"
   },
   {
    "id": "4fc013c197b3",
@@ -116,58 +26,46 @@
    "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"
   },
   {
-   "id": "4fa49a2b3e7d",
-   "title": "EmbeddingGemma 2",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/"
-  },
-  {
-   "id": "63703eaad2e7",
-   "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed",
+   "id": "1d706dabee31",
+   "title": "Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with $52M seed and Series A",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+   "url": "https://www.wsj.com/pro/venture-capital/this-startup-wants-to-double-the-worlds-computewithout-building-a-single-data-center-f0bf8140"
   },
   {
-   "id": "0a156235c4bc",
-   "title": "llm-openai-decisions 0.1a0",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
-  },
-  {
-   "id": "d27abe89b860",
-   "title": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max)",
+   "id": "1278ea9995e6",
+   "title": "A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison",
    "source": "Techmeme",
-   "url": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai"
+   "url": "https://www.billboard.com/pro/ai-music-streaming-fraud-sentence-man-18-months-prison-scam/"
   },
   {
-   "id": "3c61de4a7701",
-   "title": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower vs. Nano Banana 2",
+   "id": "7d4cf1e17c05",
+   "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai"
+  },
+  {
+   "id": "6c3ed9d5e944",
+   "title": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
    "source": "Techmeme",
-   "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/"
+   "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/"
   },
   {
-   "id": "f82dccb6769b",
-   "title": "llm-mistral 0.16",
+   "id": "a22dccef8495",
+   "title": "OpenAI shares mathematics research catalogue",
+   "source": "Lobsters",
+   "url": "https://github.com/openai/math"
+  },
+  {
+   "id": "7444875fb422",
+   "title": "Reasons to dislike AI coding",
+   "source": "Lobsters",
+   "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
+  },
+  {
+   "id": "7ebc6c72cda2",
+   "title": "Quoting Jake Boggan",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
-  },
-  {
-   "id": "0b33179bbba0",
-   "title": "Introducing Mistral Large 4: Le chonk",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
-  },
-  {
-   "id": "43bf6cdbb653",
-   "title": "Quoting Victoria Kim",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/"
-  },
-  {
-   "id": "da015d94a67f",
-   "title": "SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51"
+   "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
   }
  ]
 }

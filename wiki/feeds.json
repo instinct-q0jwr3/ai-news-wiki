@@ -2,13 +2,13 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 428,
+  "stories": 431,
   "last": "2026-10-07"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 415,
+  "stories": 418,
   "last": "2026-10-07"
  },
  {
@@ -20,7 +20,7 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 39,
+  "stories": 40,
   "last": "2026-10-07"
  },
  {
@@ -28,6 +28,12 @@
   "url": "https://pluralistic.net/feed/",
   "stories": 35,
   "last": "2026-10-06"
+ },
+ {
+  "name": "Lobsters",
+  "url": "https://lobste.rs/rss",
+  "stories": 33,
+  "last": "2026-10-07"
  },
  {
   "name": "Bert Hubert",
@@ -42,12 +48,6 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Lobsters",
-  "url": "https://lobste.rs/rss",
-  "stories": 31,
-  "last": "2026-10-07"
- },
- {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
   "stories": 23,
@@ -56,8 +56,8 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 20,
-  "last": "2026-10-02"
+  "stories": 21,
+  "last": "2026-10-07"
  },
  {
   "name": "Works on My Machine",

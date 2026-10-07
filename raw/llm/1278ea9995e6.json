@@ -1,0 +1,18 @@
+{
+ "id": "1278ea9995e6",
+ "authored_at": "2026-10-07T07:42:58.006620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Billboard reports that a Manhattan federal judge sentenced Michael Smith to 18 months in prison and two years of supervised release for a music-streaming fraud scheme. Smith pleaded guilty in March to generating thousands of AI songs and using bots to play them billions of times, drawing more than $8 million in royalties.",
+  "The article explains why combining synthetic music with automated listening is different from merely using AI to make songs: artificial plays draw from royalty pools that would otherwise reward genuine listening. Defense lawyers sought no prison time on the grounds that harm to any individual artist was small, but the sentence treats the aggregate diversion as consequential. Billboard describes this as the first criminal conviction over streaming fraud."
+ ],
+ "highlights": [
+  "The sentence is 18 months plus two years of supervision.",
+  "Smith pleaded guilty before sentencing.",
+  "Bots supplied fake listening, not real audience demand.",
+  "The reported royalty proceeds exceed $8 million.",
+  "The harm concerns diverted royalty payments.",
+  "AI song creation alone is not the conduct described as fraud."
+ ]
+}

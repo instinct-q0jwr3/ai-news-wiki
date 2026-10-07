@@ -1,0 +1,17 @@
+{
+ "id": "63d5b3ce61cb",
+ "authored_at": "2026-10-07T07:42:58.005966+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Hacker News poster describing himself as Photopea's developer says people are using AI to modify the editor's browser-delivered JavaScript, strip advertising, and redistribute it on GitHub. His concern is both distribution control and reputation: he says users of unofficial copies have contacted him about problems as though they were using the original service.",
+  "The post reproduces a GitHub response declining to confirm an anti-circumvention violation under section 1201 after a month-long wait. The discussion distinguishes that question from ordinary copyright infringement and debates whether a different legal complaint would be more effective. This is a dispute reported by one participant, not a court finding or independently confirmed account of GitHub's conduct."
+ ],
+ "highlights": [
+  "The poster reports dozens of unofficial repositories.",
+  "AI-assisted code modification is the alleged copying mechanism.",
+  "Advertising removal threatens the original distribution model.",
+  "Users may confuse unofficial versions with the original.",
+  "Section 1201 and copyright infringement are different legal questions."
+ ]
+}

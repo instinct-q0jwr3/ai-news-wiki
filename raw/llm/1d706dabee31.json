@@ -1,0 +1,16 @@
+{
+ "id": "1d706dabee31",
+ "authored_at": "2026-10-07T07:42:58.006903+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Techmeme's excerpt of a Wall Street Journal report says Turba Labs has emerged from stealth with $52 million across seed and Series A financing. The startup develops digital twins of data centers to improve AI-infrastructure use, pitching optimization of existing capacity rather than relying entirely on new construction. Basis: the feed's headline and excerpt; the original article returned HTTP 401 and was not read. No efficiency result, customer evidence or funding breakdown was verified."
+ ],
+ "highlights": [
+  "The reported financing total is $52 million.",
+  "The total spans seed and Series A rounds.",
+  "Digital twins are the described optimization approach.",
+  "The pitch concerns better use of existing infrastructure.",
+  "Basis: Techmeme excerpt only; original article inaccessible."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "ced23fc51eff",
+ "authored_at": "2026-10-07T07:42:58.006187+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "This Ask HN thread asks when a cheap, always-on server earns its maintenance cost compared with running tasks on a laptop. The author starts from DHH's AI-shed idea but asks for practical uses that remain useful over years, rather than a list of things one could install.",
+  "Replies describe personal websites, VPNs, media and photo hosting, private Git services and remote access. The thread supplies individual experiences, not a benchmark or a demonstrated AI workload; its central tradeoff is persistent availability and control versus the continuing work of operating a server."
+ ],
+ "highlights": [
+  "The question concerns roughly $5-10 monthly servers.",
+  "An always-on machine remains available when a laptop is off.",
+  "VPN and remote-access services are recurring examples.",
+  "Personal hosting trades provider dependence for maintenance.",
+  "The AI connection is the motivation, not a tested application."
+ ]
+}
