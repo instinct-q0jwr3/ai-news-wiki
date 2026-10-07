@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-07** - A post on Claude Code's suggested-message feature argues that its real customer is the model. Basis: only the headline was available, so this is a short summary of the title. ([Claude Code’s suggested message feature: I think the real customer is the model](../summaries/4be01bf5d571.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠
+- **2026-10-07** - Reuters: Anthropic says it found 5,500 verified vulnerabilities from April to October, and Glasswing partners found more than 129K from April to July, of which over 33K were critical or high severity. Basis: only the headline was available, so this is a… ([Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity](../summaries/3f5005bb7ae6.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
+- **2026-10-07** - Nathan Lambert argues that GLM-5.3's open release has so far produced no major attacks despite Anthropic's warnings about its Mythos-level cyber risk, which undercuts calls to ban open models. He maps the debate: frontier labs and national-security voices… ([GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models](../summaries/ac743e89b1e9.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-06** - Ed Zitron's long piece argues that financing the AI data-centre build-out is getting expensive and selective. It cites CleanSpark, building a data centre for Meta, offering investors big concessions to raise money, and banks such as Societe Generale,… ([Credit Crunch](../summaries/2095563420ac.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-06** - Simon Willison asked Claude Opus 5.5 to design a simple text music format, build an artifact that plays it, and compose game music with the quality of the original Secret of Monkey Island. He says it leaned harder into the Monkey Island theme than intended… ([Scrimshaw Jukebox](../summaries/338f3526881d.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-06** - Andreessen Horowitz's Olivia Moore looks at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and agents gain traction. Basis: only the headline was available (the page was not… ([A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction](../summaries/c6f1f1f95a10.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠

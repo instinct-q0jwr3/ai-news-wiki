@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Penguin Mail is an open-source Rust email client for Linux with an AI assistant: press Ctrl+J and ask, for example, which sent mail is still waiting on a reply. The assistant reads mailboxes with the app's own tools and shows each one it ran. Basis: only a short fragment was available."
+ ],
+ "highlights": [
+  "Open-source Rust mail client for Linux.",
+  "Ctrl+J asks questions about your mail.",
+  "Shows each tool the assistant ran.",
+  "Thin source."
+ ],
+ "id": "8f6acef3b57d",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

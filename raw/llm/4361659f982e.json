@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A Show HN project, AI Circuit Breaker, is a reverse proxy meant to stop agent infinite loops by inspecting requests in volatile memory over HTTP/2 and SSE. Basis: only a short fragment of the page was available, so this relies on the title."
+ ],
+ "highlights": [
+  "Reverse proxy to stop agent infinite loops.",
+  "Inspects requests in volatile memory.",
+  "Thin source; title-level summary."
+ ],
+ "id": "4361659f982e",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

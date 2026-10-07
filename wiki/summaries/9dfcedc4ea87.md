@@ -1,6 +1,6 @@
 # TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and "we were at a trillion tokens per day about a week ago"
 
-_type: news-summary · created: 2026-10-03 · updated: 2026-10-06 · confidence: high_
+_type: news-summary · created: 2026-10-03 · updated: 2026-10-07 · confidence: high_
 
 `techmeme` `typesafe`
 

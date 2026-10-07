@@ -1,6 +1,6 @@
 # Huawei agrees to a multiyear patent licensing deal with Qualcomm covering AI, 5G, computing, and networking tech, its first 5G licensing deal with Qualcomm
 
-_type: news-summary · created: 2026-10-05 · updated: 2026-10-06 · confidence: high_
+_type: news-summary · created: 2026-10-05 · updated: 2026-10-07 · confidence: high_
 
 `techmeme`
 

@@ -1,6 +1,6 @@
 # Show HN: A Claude Code skill to analyze your chess games
 
-_type: news-summary · created: 2026-09-26 · updated: 2026-10-06 · confidence: high_
+_type: news-summary · created: 2026-09-26 · updated: 2026-10-07 · confidence: high_
 
 `hacker-news` `anthropic` `agentic-systems` `ai-coding-agents`
 

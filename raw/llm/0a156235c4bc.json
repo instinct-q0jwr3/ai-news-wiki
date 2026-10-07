@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Simon Willison released llm-openai-decisions 0.1a0, a plugin for OpenAI's new Decisions API, announced at DevDay. He had GPT-6 Astra read the docs and build it, modelled on his llm-typesafe plugin for a similar API. The new gpt-6-luna decision model accepts images as well as text, and costs 10 cents per million input tokens against 4.2 cents for the rival. Both offer yes/no, choice and score questions. His example asks whether an image contains mammals and returns a probability."
+ ],
+ "highlights": [
+  "Plugin for OpenAI's Decisions API, built by GPT-6 Astra.",
+  "gpt-6-luna accepts images; 10 cents per million input tokens.",
+  "Three question types: predicate, choice, score.",
+  "Basis: full short post."
+ ],
+ "id": "0a156235c4bc",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

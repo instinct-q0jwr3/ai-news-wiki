@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Artificial Analysis says Mistral Large 4 Preview scores 38 on its Intelligence Index, comparable to GPT-6 Luna (38) and DeepSeek V4.1 Flash (39), making it the most intelligent model from outside the US and China. It scores 50 on the Cyber Index, level with GLM-5.3-Flash and behind MiMo-V2.6-Pro (56). Weights, 1T total and 49B active, are due at the end of October, when it would rank among the top three open-weight models."
+ ],
+ "highlights": [
+  "Intelligence Index 38; best from outside US and China.",
+  "Cyber Index 50, level with GLM-5.3-Flash.",
+  "Weights due end of October.",
+  "Basis: the opening of the article was read."
+ ],
+ "id": "d27abe89b860",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

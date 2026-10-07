@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "An Ask HN post asking whether any commercial AI model can generate sounds from a text instruction plus a reference sound. The author notes that text and image inputs to image or text outputs are commoditised, but cannot find an audio plus text to audio solution. The thread had 10 comments when captured."
+ ],
+ "highlights": [
+  "Question: audio plus text input to audio output.",
+  "Author finds image-reference tools common but sound ones missing.",
+  "Discussion thread; answers not summarised.",
+  "Basis: the opening of the article was read."
+ ],
+ "id": "2957982eba66",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

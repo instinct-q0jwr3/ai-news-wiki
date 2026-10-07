@@ -1,6 +1,6 @@
 # Inspect: An open-source framework for large language model evaluations
 
-_type: news-summary · created: 2026-09-30 · updated: 2026-10-06 · confidence: high_
+_type: news-summary · created: 2026-09-30 · updated: 2026-10-07 · confidence: high_
 
 `hacker-news` `external-evaluation`
 

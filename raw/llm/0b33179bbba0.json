@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Simon Willison welcomes Mistral Large 4, a preview of a 1 trillion parameter, 49 billion active model trained on 3,800 Nvidia Grace Blackwell GPUs. It is available through the API now with open weights promised at the end of the month. It supports two reasoning levels, none and high. It scores 38 on Artificial Analysis, just behind DeepSeek 4.1 Flash, and far above last December's Mistral Large 3, which scored 9. He calls it perhaps six months behind the frontier."
+ ],
+ "highlights": [
+  "1T total, 49B active; 3,800 Grace Blackwell GPUs.",
+  "Open weights due end of the month.",
+  "Scores 38 on Artificial Analysis, up from 9 for Large 3.",
+  "His view: about six months behind the frontier.",
+  "Basis: full short post."
+ ],
+ "id": "0b33179bbba0",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

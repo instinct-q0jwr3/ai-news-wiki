@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Simon Willison welcomes EmbeddingGemma 2 being released under Apache 2.0. For embedding models, he argues, closed hosted-only models are a poor fit because applications store millions of vectors, and if the vendor retires the model you must pay to recompute them. He wants a hosted option with the fallback of running open weights himself or switching vendor."
+ ],
+ "highlights": [
+  "Apache 2.0 licence is the point for him.",
+  "Retired models force costly re-embedding.",
+  "Wants a hosted option with an open-weight fallback.",
+  "Basis: full short comment."
+ ],
+ "id": "4fa49a2b3e7d",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

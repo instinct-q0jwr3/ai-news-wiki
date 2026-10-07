@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Jotbus is a Show HN project: an encrypted 60-minute shared workspace where coding agents such as Claude Code and Codex on different machines can exchange notes and files, hand off work and review each other's changes. The page's demo has Claude ask Codex to review an auth change, and Codex reports a token-refresh race and revoked sessions lasting until cache expiry. It claims one laptop is enough to try. Self-reported."
+ ],
+ "highlights": [
+  "Shared encrypted scratchpad for coding agents.",
+  "Agents hand work off and review across machines.",
+  "Demo: Codex finds a token-refresh race.",
+  "Self-reported claims.",
+  "Basis: the opening of the article was read."
+ ],
+ "id": "403ddf294c5d",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Scientific American reports OpenAI released 372 new results from an internal model that has not been made public, each claimed to resolve or substantially advance an open problem in mathematics or theoretical computer science, a month after a major result the company says was one of the biggest open problems. Claims include the four-dimensional Kakeya conjecture, improvements to key algorithms and progress toward the Riemann hypothesis. Many are already verified in Lean, but mathematicians will need months to judge novelty. OpenAI says nearly all came from a single prompt to a single agent, and some may have needed several attempts."
+ ],
+ "highlights": [
+  "372 results from one internal model, posted on GitHub.",
+  "Claims include 4D Kakeya and Riemann hypothesis progress.",
+  "Many verified in Lean; novelty still to be judged.",
+  "Almost all from one prompt to one agent.",
+  "Basis: the opening of the article was read."
+ ],
+ "id": "4fc013c197b3",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

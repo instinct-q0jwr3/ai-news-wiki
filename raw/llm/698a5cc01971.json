@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Burn 0.22 is a release of the Rust deep-learning framework. It removes backend type parameters from user code via burn-dispatch, speeds rebuilds up to 15x in the team's tests, and improves CPU and GPU execution with adaptive memory, better autotuning and graph replay. It also adds a CubeCL Environment that reuses warmed caches, LoRA and QLoRA adaptation, ONNX export and wider remote compute support."
+ ],
+ "highlights": [
+  "No backend generics in user code; rebuilds up to 15x faster.",
+  "Adaptive memory, smarter autotuning, graph replay.",
+  "Adds LoRA/QLoRA, ONNX export, remote compute.",
+  "Basis: first part of the release post."
+ ],
+ "id": "698a5cc01971",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

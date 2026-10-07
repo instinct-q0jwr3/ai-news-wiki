@@ -1,0 +1,70 @@
+{
+ "id": "digest-2026-10-07",
+ "date": "2026-10-07",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Mistral Large 4 lands with weights promised for October 27, OpenAI posts 372 maths results from a single internal model, and the case against banning open models gets a data point.",
+ "sections": [
+  {
+   "title": "Mistral Large 4 arrives",
+   "intro": "A preview, independent scores, and what Mistral is promising for the weights.",
+   "stories": [
+    "0f775271612a",
+    "0b33179bbba0",
+    "d27abe89b860",
+    "f82dccb6769b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "OpenAI's maths flood and new API",
+   "intro": "372 results from an internal model, and the Decisions API with a plugin to match.",
+   "stories": [
+    "4fc013c197b3",
+    "01da48e98fa3",
+    "ef1e1880eb0c",
+    "9c9d0557cfff",
+    "0a156235c4bc",
+    "43bf6cdbb653"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cyber risk, open models and attacks",
+   "intro": "Banks in South Korea, vulnerability counts, and the case against banning open weights.",
+   "stories": [
+    "3cd875d146c3",
+    "3f5005bb7ae6",
+    "ac743e89b1e9",
+    "d252755ca392",
+    "4361659f982e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Tools, models and money",
+   "intro": "Image models, embeddings, agent tooling, and funding.",
+   "stories": [
+    "3c61de4a7701",
+    "4fa49a2b3e7d",
+    "698a5cc01971",
+    "403ddf294c5d",
+    "8f6acef3b57d",
+    "3822b060597f",
+    "2957982eba66",
+    "4be01bf5d571",
+    "63703eaad2e7",
+    "da015d94a67f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Arguments about intelligence",
+   "intro": "An open letter to Steven Pinker.",
+   "stories": [
+    "0b01343dd667"
+   ],
+   "concepts": []
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Concept: The frontier model price war
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
 
 `concept` `ai-price-war`
 
@@ -16,10 +16,11 @@ Frontier labs keep cutting token prices while launching ever pricier top tiers. 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Anthropic](../entities/anthropic.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [TypeSafe](../entities/typesafe.md)
+[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Amazon](../entities/amazon.md) · [Anthropic](../entities/anthropic.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [TypeSafe](../entities/typesafe.md)
 
 ## Timeline
 
+- **2026-10-07** - The Decoder reports Google released Nano Banana 2.1, an image generation and editing model based on Gemini 3.6 Flash that replaces Nano Banana 2 and that Google says improves on it across the board. Pricing roughly halves: a 1K image costs 3.36 cents (from… ([Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions "across the board"; pricing is ~50% lower vs. Nano Banana 2](../summaries/3c61de4a7701.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-01** - Bloomberg reports, via a TLDR AI pointer, that Musk's SpaceXAI is considering an overhaul of pricing for Grok and X users. The article could not be retrieved, so this rests on the headline. ([Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users](../summaries/b42e9880b606.md) · [SpaceXAI (xAI)](../entities/xai.md) · [The frontier model price war](../concepts/ai-price-war.md)) ⚠
 - **2026-09-30** - Bloomberg reports on a document showing SpaceXAI planning a unified subscription for Grok and X with four tiers: a $100/month Ultra plan, an $8/month Lite plan and a free offering among them. (Summary based on the Techmeme headline and feed excerpt; the… ([Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering](../summaries/e0cf2099819a.md) · [SpaceXAI (xAI)](../entities/xai.md) · [The frontier model price war](../concepts/ai-price-war.md)) 🔒
 - **2026-09-29** - Cory Doctorow plugs Lindsay Owens's new book Gouged, a guide to surveillance pricing and algorithmic wage discrimination - using computers and commercial surveillance data to pick pockets and shrink paychecks. Owens runs Groundwork Collaborative, whose… ([Pluralistic: Lindsay Owens's "Gouged" (29 Sep 2026)](../summaries/3de385ce6dc4.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [The frontier model price war](../concepts/ai-price-war.md))

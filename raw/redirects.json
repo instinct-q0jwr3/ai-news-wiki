@@ -1,5 +1,10 @@
 [
  {
+  "from": "03c0429afc5a",
+  "to": "ca79599eedd4",
+  "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model"
+ },
+ {
   "from": "03ed461abfa9",
   "to": "ee6ebd402552",
   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]"
@@ -48,6 +53,11 @@
   "from": "18f638e273bc",
   "to": "ffe9332a04f8",
   "title": "Building standards for the next phase of AI"
+ },
+ {
+  "from": "1abb9574ee49",
+  "to": "26275b87ab29",
+  "title": "OpenTPU – An open-source AI accelerator, developed by AI"
  },
  {
   "from": "1f6a2bb98e67",
@@ -268,6 +278,11 @@
   "from": "9d8125ecc2e6",
   "to": "53bcd30ae37f",
   "title": "Advisory Group on Mathematics and Artificial Intelligence"
+ },
+ {
+  "from": "9d8fcc993f39",
+  "to": "01da48e98fa3",
+  "title": "Sharing AI progress in mathematics"
  },
  {
   "from": "9ddfd94c6363",

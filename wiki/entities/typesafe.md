@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-10-07** - Simon Willison released llm-openai-decisions 0.1a0, a plugin for OpenAI's new Decisions API, announced at DevDay. He had GPT-6 Astra read the docs and build it, modelled on his llm-typesafe plugin for a similar API. The new gpt-6-luna decision model… ([llm-openai-decisions 0.1a0](../summaries/0a156235c4bc.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-10-06** - Armin Ronacher explains Codemode, which came to the Pi 1.0 harness as MCP support. A year ago he urged people to use scripts instead of loading custom tools or MCP servers into context. Models call tools through definitions shaped by reinforcement… ([What is Codemode](../summaries/ed444b87dfc2.md) · [Meta](../entities/meta.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-03** - The Wall Street Journal reports TypeSafe CEO Diogo Almeida says Jev is used by about 25% of Fortune 500 companies and hit a trillion tokens a day about a week ago, as copycats appear. Basis: paywalled, so this relies on the headline. ([TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and "we were at a trillion tokens per day about a week ago"](../summaries/9dfcedc4ea87.md) · [TypeSafe](../entities/typesafe.md)) 🔒
 - **2026-10-02** - Red Hat's developers site publishes a benchmark finding that decision models like Jev do not beat LLM-as-a-judge or traditional classifiers. Basis: the article could not be read, so this relies on the headline. ([Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers](../summaries/a19a6fa05cab.md) · [TypeSafe](../entities/typesafe.md)) ⚠

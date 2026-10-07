@@ -1,6 +1,6 @@
 # Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage
 
-_type: news-summary · created: 2026-10-06 · updated: 2026-10-06 · confidence: high_
+_type: news-summary · created: 2026-10-06 · updated: 2026-10-07 · confidence: high_
 
 `hacker-news` `openai`
 

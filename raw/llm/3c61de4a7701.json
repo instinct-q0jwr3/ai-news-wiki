@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "The Decoder reports Google released Nano Banana 2.1, an image generation and editing model based on Gemini 3.6 Flash that replaces Nano Banana 2 and that Google says improves on it across the board. Pricing roughly halves: a 1K image costs 3.36 cents (from 6.70) and a 4K image 7.56 cents (from 15.10). It improves text rendering, character consistency and infographics, handles up to 14 reference images, connects to Google Search and has three thinking levels. Nano Banana Pro likely remains the best image model."
+ ],
+ "highlights": [
+  "Based on Gemini 3.6 Flash; replaces Nano Banana 2.",
+  "Prices about halved: 3.36 cents per 1K image.",
+  "Up to 14 reference images; better text rendering.",
+  "Pro still likely Google's best image model.",
+  "Basis: the opening of the article was read."
+ ],
+ "id": "3c61de4a7701",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

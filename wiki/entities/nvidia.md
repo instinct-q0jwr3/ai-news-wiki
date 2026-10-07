@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-06 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-07 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-07** - Simon Willison welcomes Mistral Large 4, a preview of a 1 trillion parameter, 49 billion active model trained on 3,800 Nvidia Grace Blackwell GPUs. It is available through the API now with open weights promised at the end of the month. It supports two… ([Introducing Mistral Large 4: Le chonk](../summaries/0b33179bbba0.md) · [NVIDIA](../entities/nvidia.md) · [Mistral](../entities/mistral.md) · [DeepSeek](../entities/deepseek.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-10-07** - Financial Times, per sources: SpaceX is seeking to raise $40B, about $10B in bank loans and about $30B in investment-grade debt, to buy Nvidia chips in a deal led by Apollo. Basis: only the headline was available, so this is a short summary of the title. ([SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo](../summaries/da015d94a67f.md) · [NVIDIA](../entities/nvidia.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-06** - Ed Zitron's long piece argues that financing the AI data-centre build-out is getting expensive and selective. It cites CleanSpark, building a data centre for Meta, offering investors big concessions to raise money, and banks such as Societe Generale,… ([Credit Crunch](../summaries/2095563420ac.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-06** - A TLDR AI link says Nvidia's $20 billion Groq deal faces a lawsuit alleging the startup's stockholders were shortchanged. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title. ([Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged](../summaries/794792a71978.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-06** - Mistral says Mistral Large 4 was trained on 3,800 Nvidia Grace Blackwell GPUs in its own European data centres, with much multilingual training data. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title. ([Mistral says ML4 was trained using 3,800 Nvidia Grace Blackwell GPUs in its own data centers in Europe and much of its training data was multilingual](../summaries/ce3396f4581d.md) · [NVIDIA](../entities/nvidia.md) · [Mistral](../entities/mistral.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

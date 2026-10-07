@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "A Show HN project is an MCP server and API that finds text a coding agent reads but a human cannot see, such as hidden instructions in documents. Sign-up is via GitHub with 20 free pages, then a cent a page. The page presents the key as a production key with no sales call. Basis: the opening of a product page was read; claims are the vendor's own."
+ ],
+ "highlights": [
+  "Detects hidden text agents read but humans cannot see.",
+  "MCP server plus API; 20 free pages, then a cent a page.",
+  "Vendor claims, unverified.",
+  "Basis: the opening of the article was read."
+ ],
+ "id": "d252755ca392",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "OpenAI put its Decisions API into public beta, with general availability expected in weeks. It evaluates text, images or both and returns typed answers, a probability that a condition is true, a choice from a fixed set, or a score against a rubric, about 10x faster than the Responses API, through a dedicated POST /v1/decisions endpoint. It is aimed at classifying content, routing requests and prioritising work. Only gpt-6-luna is available now."
+ ],
+ "highlights": [
+  "Public beta; GA expected in coming weeks.",
+  "Returns probabilities, choices or scores, about 10x faster than Responses.",
+  "Dedicated /v1/decisions endpoint.",
+  "Only gpt-6-luna available.",
+  "Basis: the opening of the article was read."
+ ],
+ "id": "9c9d0557cfff",
+ "authored_at": "2026-10-07T01:39:43.399690+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

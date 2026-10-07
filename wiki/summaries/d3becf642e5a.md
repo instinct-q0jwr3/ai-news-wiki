@@ -1,6 +1,6 @@
 # Agents don't need memory, they need documentation
 
-_type: news-summary · created: 2026-10-04 · updated: 2026-10-06 · confidence: high_
+_type: news-summary · created: 2026-10-04 · updated: 2026-10-07 · confidence: high_
 
 `hacker-news` `agentic-systems`
 

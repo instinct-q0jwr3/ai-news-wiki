@@ -1,6 +1,6 @@
 # DeepSeek
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
 
 `entity` `deepseek` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-safety-incidents`
 
@@ -10,6 +10,8 @@ DeepSeek is the Chinese AI lab whose open-weight models set the pace for the ope
 
 ## Timeline
 
+- **2026-10-07** - Simon Willison welcomes Mistral Large 4, a preview of a 1 trillion parameter, 49 billion active model trained on 3,800 Nvidia Grace Blackwell GPUs. It is available through the API now with open weights promised at the end of the month. It supports two… ([Introducing Mistral Large 4: Le chonk](../summaries/0b33179bbba0.md) · [NVIDIA](../entities/nvidia.md) · [Mistral](../entities/mistral.md) · [DeepSeek](../entities/deepseek.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-10-07** - Artificial Analysis says Mistral Large 4 Preview scores 38 on its Intelligence Index, comparable to GPT-6 Luna (38) and DeepSeek V4.1 Flash (39), making it the most intelligent model from outside the US and China. It scores 50 on the Cyber Index, level… ([Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max)](../summaries/d27abe89b860.md) · [Mistral](../entities/mistral.md) · [DeepSeek](../entities/deepseek.md))
 - **2026-10-01** - A Show HN for an open-source model router for coding agents that claims Astra-level performance. The authors started building it a few months ago, believing a router could outperform single models. Only the opening of the post was captured, so the method… ([Show HN: Open-source model routing for coding agents at Astra-level performance](../summaries/2c6ef460012e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-09-30** - Reuters reports that DeepSeek has partnered with Huawei to build programming tools for Huawei's Ascend chips, including TileLang, an open-source CUDA alternative - another step in China's push for a self-sufficient AI compute stack. (Summary based on the… ([DeepSeek says it has partnered with Huawei to develop programming tools for Huawei's Ascend chips, including TileLang, an open-source CUDA alternative](../summaries/0d1c94392e9f.md) · [DeepSeek](../entities/deepseek.md)) ⚠
 - **2026-09-26** - Armin Ronacher demystifies 'reasoning' in LLMs: reasoning traces are not exotic internals, just text the model is trained to emit into a scratchpad before its final answer. GPT-OSS's Harmony format makes the mechanics visible - special channel tokens route… ([What Is Reasoning](../summaries/0e0d9001ea3d.md) · [OpenAI](../entities/openai.md) · [DeepSeek](../entities/deepseek.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
