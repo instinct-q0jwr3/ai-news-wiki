@@ -1,0 +1,18 @@
+{
+ "id": "edd40fea77b5",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Pinrail is a desktop app, in early development, where coding agents ask for a person's decision before acting. It works with any agent that can run a command, including Claude Code, Codex, Cursor and OpenCode, on macOS and Linux.",
+  "The agent submits a review request and Pinrail shows a view fitted to the content: a diff with the agent's findings for code review, or generated images where you draw a box on what to change. The decision comes back as structured Markdown or JSON listing what was accepted, rejected and any notes. The app serves its API on loopback only and keeps reviews and decisions on the user's machine. The repository is new, with a single stated contributor."
+ ],
+ "highlights": [
+  "Desktop inbox where agents wait for human review",
+  "Works with Claude Code, Codex, Cursor, OpenCode",
+  "Views tailored to content, such as diffs or images",
+  "Returns structured accept or reject decisions with notes",
+  "Local only: loopback API, data on your machine",
+  "Early development, expect rough edges"
+ ]
+}

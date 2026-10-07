@@ -475,6 +475,78 @@
     "620caedaf414"
    ],
    "concepts": []
+  },
+  {
+   "title": "Claude Haiku 5.5 and price moves",
+   "intro": "Anthropic's small model, its cache-price cut, and the companies trimming Claude use.",
+   "stories": [
+    "2adffa3ad247",
+    "1a7495917774",
+    "5ceeee933933",
+    "c04f567de3ff",
+    "70d817eda7f0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "GPT-6 for everyone, and who uses it",
+   "intro": "OpenAI's interactive answers, teen usage, and how much consumers really pay.",
+   "stories": [
+    "cb0114666452",
+    "cdaba066a6d3",
+    "1299766c3b32",
+    "844a94b14d5b",
+    "dcb9f08ce91c",
+    "ad825c878991"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proofs, measurement and doubts",
+   "intro": "A Lean-checked packing proof, a textbook on evaluation, and Marcus on OpenAI's maths drop.",
+   "stories": [
+    "5c33cbe98018",
+    "cec06a977cd4",
+    "37bfdb089f6b",
+    "c0cdf756601d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent tools and a security hole",
+   "intro": "Review inboxes, shorter replies, cloud harnesses, and a one-link account takeover.",
+   "stories": [
+    "edd40fea77b5",
+    "4be64248ac0c",
+    "e33fbdb1407f",
+    "2711a7f4189c",
+    "4791b2ef7395",
+    "98cad1163e8c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Detection, health, hardware and politics",
+   "intro": "SynthID Detector, child-safety tooling, a local dev box, data-center backlash and a new fund.",
+   "stories": [
+    "6b32c4fd56da",
+    "dfbee9620871",
+    "6359712e95f7",
+    "d72766887e3d",
+    "d6f280f77f1c",
+    "8f513c8789fd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Art tools, copyright and a fake HN",
+   "intro": "ArtCraft, the Wiley split in the Anthropic settlement, and an AI-comment HN clone.",
+   "stories": [
+    "72c4d90e2dc0",
+    "d8f1f03a652e",
+    "41be746a8d7e"
+   ],
+   "concepts": []
   }
  ]
 }

@@ -1,0 +1,18 @@
+{
+ "id": "72c4d90e2dc0",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "ArtCraft is an app for artists who want more control than text prompts give. The site pitches composing a shot yourself, with images, backdrops, props and 3D elements, and then letting a model render it.",
+  "Features listed include placing virtual actors in physical environments with consistent locations across shots, 3D and 2D compositing, image-to-3D mesh, character posing and background removal. It lists models such as Seedance 2.5 and Nano Banana 2, and a subscription is required. This summary comes from the product site, so the claims are marketing."
+ ],
+ "highlights": [
+  "Controllable AI tool aimed at artists and filmmakers",
+  "Compose scenes with layers, 3D meshes and posed characters",
+  "Image to Location keeps rooms consistent across shots",
+  "Lists Seedance 2.5 and Nano Banana 2 models",
+  "Subscription required",
+  "Based on the product page only"
+ ]
+}

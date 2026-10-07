@@ -1,0 +1,18 @@
+{
+ "id": "cb0114666452",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI announces a new GPT-6 model for the more than 1.2 billion people who use ChatGPT each week, following the first GPT-6 models it gave paid customers last month. The headline feature is Intelligent UI: instead of only text, ChatGPT can answer with interactive interfaces, and can build a small tool in the moment to solve a task.",
+  "The example on the page is a request to break down a 7-speed bicycle. ChatGPT responds with a page where the user selects the frame, wheels, drivetrain, brakes or cockpit and reads a short explanation of each, rather than one block of text. OpenAI frames this as making answers more visual and learning complex topics easier. The page is a product announcement, so claims about quality come from OpenAI itself."
+ ],
+ "highlights": [
+  "New GPT-6 model built for the broad ChatGPT user base",
+  "Follows paid-tier GPT-6 models introduced last month",
+  "Intelligent UI answers with interactive interfaces, not only text",
+  "Demo: an explorable breakdown of a 7-speed bicycle",
+  "Can create a small tool inside the chat to solve a task",
+  "Vendor announcement; no independent evaluation yet"
+ ]
+}

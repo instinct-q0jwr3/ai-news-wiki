@@ -1,0 +1,18 @@
+{
+ "id": "cec06a977cd4",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Stanford's AIMS lab publishes a textbook on measurement science for AI evaluation by Sang Truong and Sanmi Koyejo. Its premise is that evaluation is an inference problem: estimating latent properties like ability from observed responses, not just computing a metric on a dataset.",
+  "The book starts with validity and benchmark data structure, then covers item response theory, Bradley-Terry models and factor models, error decomposition and efficient test design. Later chapters deal with whether results generalize under distribution shift and how to evaluate systems that optimize against the benchmark, with causal inference and mechanism design. Each method comes with its assumptions and failure modes. Last updated 7 September 2026."
+ ],
+ "highlights": [
+  "Textbook on measurement science for AI evaluation",
+  "Frames evaluation as inference about latent abilities",
+  "Covers IRT, Bradley-Terry and factor models",
+  "Addresses generalization and benchmark gaming",
+  "Each method listed with assumptions and failure modes",
+  "By Sang Truong and Sanmi Koyejo, Stanford AIMS"
+ ]
+}

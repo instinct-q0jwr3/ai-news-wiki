@@ -1,0 +1,17 @@
+{
+ "id": "70d817eda7f0",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports Elon Musk said on Tuesday night that SpaceX's AI unit will now use models from competitors for Grok Bot, choosing the best back end model for each task, including Claude Opus 5.5, Midjourney and Suno.",
+  "The report presents this as a shift away from relying only on its own models. The article is behind a paywall, so the summary rests on the Techmeme excerpt."
+ ],
+ "highlights": [
+  "Grok Bot to route tasks to the best back end model",
+  "Named examples: Claude Opus 5.5, Midjourney, Suno",
+  "Announced by Musk on Tuesday night",
+  "Described as a shift from in-house-only models",
+  "Paywalled source, excerpt only"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "c04f567de3ff",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A report on rswebsols, relaying The Information, says Meta and Microsoft have started reducing employee use of Anthropic's Claude as they shift to their own coding tools. The change concerns internal spending and workflows, not customer access: Claude stays available through Microsoft's products.",
+  "At Microsoft, internal spending on Anthropic had been expected to exceed $1 billion a year, but the estimate fell by more than a third after managers told staff to use less Claude and more Microsoft tools, including GitHub Copilot and OpenAI models. In its cloud and AI group, monthly AI spending limits reportedly fell from $100,000 to about $10,000 per employee in most cases. These are ceilings rather than actual spending, but engineers who had wide latitude to try models are said to be unhappy."
+ ],
+ "highlights": [
+  "Meta and Microsoft cutting internal Claude use, per The Information",
+  "Microsoft expected over $1B a year in Anthropic spend; estimate down by over a third",
+  "Monthly per-employee AI ceilings reportedly cut from $100,000 to about $10,000",
+  "Staff pushed toward GitHub Copilot and OpenAI models",
+  "Customer access to Claude through Microsoft products is unchanged",
+  "Secondhand report, figures are ceilings not real spend"
+ ]
+}

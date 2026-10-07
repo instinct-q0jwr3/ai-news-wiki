@@ -1,0 +1,17 @@
+{
+ "id": "6b32c4fd56da",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google launched SynthID Detector, a website where anyone can check whether an image, video or audio file was made with AI, across dozens of common file formats, TechCrunch reports. It was announced on Tuesday.",
+  "The detector looks for Google's SynthID watermark, so it will best identify media from Google's own tools. The excerpt does not say how it handles content from other generators."
+ ],
+ "highlights": [
+  "Public website to detect AI-generated images, video and audio",
+  "Works across dozens of file formats",
+  "Launched Tuesday, reported by TechCrunch",
+  "Based on SynthID watermarking",
+  "Coverage of other generators unclear from the excerpt"
+ ]
+}

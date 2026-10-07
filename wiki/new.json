@@ -1,149 +1,185 @@
 {
- "generated_at": "2026-10-07T13:35:52+00:00",
+ "generated_at": "2026-10-07T19:36:39+00:00",
  "stories": [
   {
-   "id": "620caedaf414",
-   "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+   "id": "2adffa3ad247",
+   "title": "Claude Haiku 5.5",
    "source": "Hacker News",
-   "url": "https://astrohelm.app/"
+   "url": "https://www.anthropic.com/claude-haiku-5-5"
   },
   {
-   "id": "051ea61631fc",
-   "title": "Forever Junior: The Skills AI Can't Develop for You",
+   "id": "cb0114666452",
+   "title": "GPT‑6 and Intelligent UI for everyone",
    "source": "Hacker News",
-   "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
+   "url": "https://openai.com/index/gpt-6-for-everyone/"
   },
   {
-   "id": "22cecf4da552",
-   "title": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+   "id": "5c33cbe98018",
+   "title": "AI-assisted proof of optimal packing for 11 squares",
    "source": "Hacker News",
-   "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968"
+   "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
   },
   {
-   "id": "58167da828b3",
-   "title": "Google Playground: Create and play custom games",
+   "id": "dcb9f08ce91c",
+   "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth"
   },
   {
-   "id": "e8e2e0848eb1",
-   "title": "US-China AI Gap Hits 3%, and DeepSeek V4.1 Flash Now Leads on Agentic Coding Benchmarks",
-   "source": "TLDR AI",
-   "url": "https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm"
+   "id": "c04f567de3ff",
+   "title": "Meta and Microsoft Limit Employee Use of Claude AI Tools",
+   "source": "Hacker News",
+   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
   },
   {
-   "id": "eb03db3f6a84",
-   "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/"
+   "id": "4791b2ef7395",
+   "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
+   "source": "Hacker News",
+   "url": "https://github.com/TerseAI/durable-actors"
   },
   {
-   "id": "2ce10347dd4b",
-   "title": "Decisions API is now available in Public Beta",
-   "source": "TLDR AI",
-   "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877"
+   "id": "844a94b14d5b",
+   "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+   "source": "Hacker News",
+   "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/"
   },
   {
-   "id": "d2ba966707be",
-   "title": "Hark debuts an AI agent a year before its first devices",
-   "source": "TLDR AI",
-   "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe"
+   "id": "cdaba066a6d3",
+   "title": "OpenAI says teens use ChatGPT for under 15 minutes a day",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/"
   },
   {
-   "id": "8bdba7dc2825",
-   "title": "Nano Banana 2.1",
-   "source": "TLDR AI",
-   "url": "https://deepmind.google/models/model-cards/nano-banana-2-1/"
+   "id": "c0cdf756601d",
+   "title": "AI Model Groupthink",
+   "source": "Hacker News",
+   "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/"
   },
   {
-   "id": "71c01e762bc3",
-   "title": "Dallas-based Disruptive is targeting up to $10B for a late-stage fund, and has secured $7.5B; founded in 2012, it has backed Groq and Reflection AI",
+   "id": "98cad1163e8c",
+   "title": "You click a PostHog survey. An attacker gets your whole account",
+   "source": "Hacker News",
+   "url": "https://www.strix.ai/blog/posthog-survey-account-takeover"
+  },
+  {
+   "id": "e33fbdb1407f",
+   "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+   "source": "Hacker News",
+   "url": "https://agent.reviews/"
+  },
+  {
+   "id": "d6f280f77f1c",
+   "title": "America Turned on Data Centers",
+   "source": "Hacker News",
+   "url": "https://www.motherjones.com/politics/2026/10/stress-test-video-podcast-episode-2-data-centers-ai-backlash/"
+  },
+  {
+   "id": "1299766c3b32",
+   "title": "The Top 100 Gen AI Consumer Apps — 7th Edition",
+   "source": "Hacker News",
+   "url": "https://a16z.com/100-gen-ai-apps-7/"
+  },
+  {
+   "id": "4be64248ac0c",
+   "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
+   "source": "Hacker News",
+   "url": "https://github.com/lowenbjer/claude-terse"
+  },
+  {
+   "id": "cec06a977cd4",
+   "title": "AI Measurement Science",
+   "source": "Hacker News",
+   "url": "https://aimslab.stanford.edu/textbook/"
+  },
+  {
+   "id": "edd40fea77b5",
+   "title": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
+   "source": "Hacker News",
+   "url": "https://github.com/forgeplane/pinrail"
+  },
+  {
+   "id": "72c4d90e2dc0",
+   "title": "ArtCraft – Controllable AI for Artists",
+   "source": "Hacker News",
+   "url": "https://getartcraft.com/"
+  },
+  {
+   "id": "41be746a8d7e",
+   "title": "Show HN: Pointless but mostly-exact clone of Hacker News",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.lol"
+  },
+  {
+   "id": "d8f1f03a652e",
+   "title": "Wiley agrees to 50-50 split with Dummies authors in Anthropic settlement",
+   "source": "Hacker News",
+   "url": "https://bsky.app/profile/victoriastrauss.com/post/3mwwcap7os22x"
+  },
+  {
+   "id": "2711a7f4189c",
+   "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/stacklok"
+  },
+  {
+   "id": "dfbee9620871",
+   "title": "Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?st=MjELQf&reflink=desktopwebshare_permalink"
+   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
   },
   {
-   "id": "e6eb4b41ab52",
-   "title": "Stuut, which uses AI agents to automate enterprise order-to-cash cycles and serves 150+ clients, raised a $52.5M Series B led by Insight, for $93M total funding",
+   "id": "70d817eda7f0",
+   "title": "Elon Musk says Grok Bot will use the \"best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno\"",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/10/07/stuut-cashes-in-on-agentic-order-to-cash-automation-with-52-5m-in-funding/"
+   "url": "https://www.theinformation.com/"
   },
   {
-   "id": "f58c1b30a58f",
-   "title": "In Race With US, China Struggles to Recruit Foreign AI Researchers",
-   "source": "TLDR AI",
-   "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html?unlocked_article_code=1.G1E.vzNX.LAgmpYtxdpWb&smid=url-share"
+   "id": "ad825c878991",
+   "title": "Pluralistic: Disloyalty (07 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/07/gouged/"
   },
   {
-   "id": "f47d8199fc77",
-   "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
-   "source": "TLDR AI",
-   "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration"
-  },
-  {
-   "id": "c428c912fc91",
-   "title": "Anthropic Expands Verified Access to Cyber Capabilities",
-   "source": "TLDR AI",
-   "url": "https://www.anthropic.com/news/cyber-verification-program"
-  },
-  {
-   "id": "ac743e89b1e9",
-   "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models",
+   "id": "6b32c4fd56da",
+   "title": "Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats",
    "source": "Techmeme",
-   "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken"
+   "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
   },
   {
-   "id": "10c1a0765d92",
-   "title": "Introducing Personal Agent Protocol",
-   "source": "TLDR AI",
-   "url": "https://sierra.ai/blog/introducing-personal-agent-protocol"
+   "id": "37bfdb089f6b",
+   "title": "Complementary remarks from Gary Marcus and Terence Tao on OpenAI’s giant math drop",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus"
   },
   {
-   "id": "1d706dabee31",
-   "title": "Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with $52M seed and Series A",
+   "id": "8f513c8789fd",
+   "title": "former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI companies, prioritizing national security",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/pro/venture-capital/this-startup-wants-to-double-the-worlds-computewithout-building-a-single-data-center-f0bf8140"
+   "url": "https://www.theinformation.com/articles/ex-trump-ai-adviser-sriram-krishnan-targets-raising-500-million-venture-fund"
   },
   {
-   "id": "f2d405e300e6",
-   "title": "Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria",
+   "id": "5ceeee933933",
+   "title": "Anthropic cuts Sonnet 5.5 cache read price from $0.20 to $0.10 and adds monthly API credits: $100 for Max 5x, $200 for Max 20x, up to $500 shared by Team users",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai"
+   "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna"
   },
   {
-   "id": "570322d2a63f",
-   "title": "Building Faster Emergency Patching Systems",
-   "source": "TLDR AI",
-   "url": "https://projectzero.google/2026/10/emergency-patching.html"
-  },
-  {
-   "id": "3f5582f85748",
-   "title": "Common Sense Media calls ChatGPT for Teens an \"unacceptable risk\", saying its guardrails fall short of OpenAI's promises and it continues to do kids' homework",
+   "id": "1a7495917774",
+   "title": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+   "url": "https://thenewstack.io/anthropic-claude-haiku-5-5/"
   },
   {
-   "id": "517a41cfc106",
-   "title": "Building the Most Diverse UMI Dataset in Robotics",
-   "source": "TLDR AI",
-   "url": "https://pantheon.inc/research/diverse-umi"
-  },
-  {
-   "id": "6f8ef809513a",
-   "title": "PS5 modders using AI tools have rapidly installed emulators, as jailbreaks spread across social media; recent games requiring newer firmware are inaccessible",
+   "id": "d72766887e3d",
+   "title": "Microsoft opens preorders for the $5,999 Surface RTX Spark Dev Box, with 128GB of unified memory to run local models with 120B+ parameters, shipping in November",
    "source": "Techmeme",
-   "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating"
+   "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
   },
   {
-   "id": "1457bbcfcc33",
-   "title": "A $12B DeepSeek Raise Is Reportedly Close, With Tencent And CATL Among Backers",
-   "source": "TLDR AI",
-   "url": "https://yellow.com/news/deepseek-12b-raise-close-tencent-catl"
-  },
-  {
-   "id": "f32b41f58ab4",
-   "title": "Claude now works with Google Docs, Sheets, and Slides",
-   "source": "TLDR AI",
-   "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides"
+   "id": "6359712e95f7",
+   "title": "Healthleap, which makes AI screening software to identify patients at risk of undiagnosed illnesses, raised $38M across a $30M Series A and an $8M seed",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
   }
  ]
 }

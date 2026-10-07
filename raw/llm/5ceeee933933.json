@@ -1,0 +1,18 @@
+{
+ "id": "5ceeee933933",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "VentureBeat reports Anthropic is cutting Sonnet 5.5 cache read prices from $0.20 to $0.10 per million tokens and adding monthly API credits for subscribers: $100 for Max 5x, $200 for Max 20x, and up to $500 shared among Team users.",
+  "The credits are tied to the Haiku 5.5 launch, which starts at $0.10 per million input tokens and $0.50 per million output, matching OpenAI's GPT-6 Luna pricing according to the headline. This is a Techmeme excerpt; the full article was not read."
+ ],
+ "highlights": [
+  "Sonnet 5.5 cache reads halved to $0.10 per million",
+  "Monthly API credits: $100 for Max 5x, $200 for Max 20x",
+  "Team users share up to $500",
+  "Launched alongside Haiku 5.5",
+  "Haiku 5.5 priced to match GPT-6 Luna, per the headline",
+  "Based on the Techmeme excerpt"
+ ]
+}

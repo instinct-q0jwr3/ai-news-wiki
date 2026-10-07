@@ -1,0 +1,18 @@
+{
+ "id": "37bfdb089f6b",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Gary Marcus responds to OpenAI's release of a large body of mathematical results from an internal model. His main point is that the real news is what OpenAI left out, not the result itself.",
+  "He complains that the report is vague, with phrases like 'same procedure' and 'unreleased model', and says it would not pass peer review. He lists unknowns: the architecture, whether proofs came in one shot or through iteration, whether Lean was used for checking, the failure rate and the training. The post is an opinion written in haste, and a second part collects Terence Tao's remarks."
+ ],
+ "highlights": [
+  "Marcus says the key issue is missing disclosure",
+  "Calls OpenAI's report vague and unlike peer-reviewed science",
+  "Unknown: architecture, workflow, failure rate, training",
+  "Questions whether proofs were checked in Lean",
+  "Second section features Terence Tao's comments",
+  "Opinion piece, written quickly by the author's own note"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "98cad1163e8c",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Security startup Strix reports that one of its AI agents, reading PostHog's source code, found a flaw that let an attacker take over a PostHog account with a single survey link. PostHog had added an optional intro screen to surveys; its description was stored through the API and rendered as raw HTML by the browser SDK on the public hosted survey page.",
+  "Because only a report-only content security policy protected the page, an attacker could run JavaScript in a signed-in victim's session. In the test, opening the link was enough to mint a personal API key with maximum scope, and the survey still looked normal. PostHog fixed it quickly and audited all surveys, confirming no exploitation beyond Strix's own tests."
+ ],
+ "highlights": [
+  "Stored script in a survey intro description ran in the victim's session",
+  "Opening the link was enough to mint a full-scope API key",
+  "Page only had a report-only content security policy",
+  "Found by a Strix agent during a source review",
+  "PostHog fixed it fast and found no exploitation beyond the tests",
+  "Dated 28 September 2026, on Hacker News on 7 October"
+ ]
+}

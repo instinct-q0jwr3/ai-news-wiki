@@ -1,0 +1,16 @@
+{
+ "id": "41be746a8d7e",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Shawn Presser publishes news.ycombinator.lol, a near-exact clone of Hacker News where the comments are written by AI. The post says he had further plans but admits he probably will not pursue them, and shares the source code on GitHub as sharc.",
+  "The front page of the clone looks like Hacker News, with the same story rows, points and comment counts. Basis: the author's note and the site's front page, the project is presented as a playful experiment."
+ ],
+ "highlights": [
+  "Hacker News clone where comments are AI-generated",
+  "Source code released as sharc on GitHub",
+  "Author says he likely will not develop it further",
+  "Presented as an experiment, not a product"
+ ]
+}

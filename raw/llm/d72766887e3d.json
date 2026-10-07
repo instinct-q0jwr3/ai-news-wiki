@@ -1,0 +1,17 @@
+{
+ "id": "d72766887e3d",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Microsoft opened preorders for the Surface RTX Spark Dev Box at $5,999. It is an Nvidia-powered AI mini PC with 128GB of unified memory for running local models with 120 billion parameters or more, and ships in November, The Verge reports.",
+  "It targets developers who want to run large models locally rather than in the cloud. Other specs are not in the excerpt."
+ ],
+ "highlights": [
+  "Surface RTX Spark Dev Box, $5,999",
+  "128GB unified memory for 120B+ parameter local models",
+  "Nvidia-powered mini PC for developers",
+  "Preorders now, shipping in November",
+  "Reported by The Verge, excerpt only"
+ ]
+}

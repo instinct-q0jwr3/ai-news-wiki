@@ -1,0 +1,16 @@
+{
+ "id": "cdaba066a6d3",
+ "authored_at": "2026-10-07T19:41:02.455472+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reuters reports that OpenAI says teenagers use ChatGPT for under 15 minutes a day, as concern about risks to young users grows. The article is not accessible to this pipeline (Reuters returned an authorization error), so the summary relies on the headline.",
+  "Basis: headline. How OpenAI measured this, which age groups it covers and what safety measures accompany the figure are not available here."
+ ],
+ "highlights": [
+  "OpenAI says teens average under 15 minutes a day on ChatGPT",
+  "Reported amid growing worries over risks to teens",
+  "Reuters article not retrievable",
+  "Measurement method unknown to this summary"
+ ]
+}
