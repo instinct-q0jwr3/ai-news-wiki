@@ -1,0 +1,17 @@
+{
+ "id": "22d3972a6687",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Perplexity releases pplx-embed-v2-late, late-interaction embedding models that keep token-level vectors instead of compressing each input into one, so different parts of a query can match different parts of a document. They handle text and images, including searching rendered PDF pages without OCR.",
+  "Two sizes, 0.6B and 9B, share an embedding space, so the small model can query an index built with the large one. Perplexity says its 0.6B model matches models with five times as many active parameters on ViDoRe V3. Both are on Hugging Face. Results are Perplexity's own."
+ ],
+ "highlights": [
+  "Multi-vector late-interaction embeddings for text and images",
+  "Search PDF pages directly without OCR",
+  "0.6B and 9B models share one embedding space",
+  "0.6B matches models five times its size on ViDoRe V3, per Perplexity",
+  "Open on Hugging Face"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "afd98a2005ed",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "NVIDIA and Microsoft held a Windows and Surface event on agents for PCs. Jensen Huang and Satya Nadella spoke in a fireside chat, and Huang said that in the agent era the PC becomes a personal assistant.",
+  "Microsoft announced general availability of Microsoft Execution Containers, OS-level infrastructure meant to make Windows a secure platform for agents, alongside the RTX Spark hardware push. The page is NVIDIA's own event write-up; details beyond the excerpt were not reviewed."
+ ],
+ "highlights": [
+  "Windows event on agents with RTX Spark hardware",
+  "Huang and Nadella fireside chat",
+  "Microsoft Execution Containers now generally available",
+  "Aim: a secure platform for agents on Windows",
+  "NVIDIA's own account"
+ ]
+}

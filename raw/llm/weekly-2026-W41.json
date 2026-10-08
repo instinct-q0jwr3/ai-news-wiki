@@ -625,6 +625,67 @@
     "38cf7ab84ccc"
    ],
    "concepts": []
+  },
+  {
+   "title": "OpenAI's math follow-up",
+   "intro": "OpenAI withdraws three manuscripts and records fixes to others.",
+   "stories": [
+    "9f24c0b1f804"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents, code and software copying",
+   "intro": "A Rust port by LLM, Adobe-style clones, bug-hunting playbooks and Grok's new back ends.",
+   "stories": [
+    "5f1a66b747cb",
+    "4667482a38b5",
+    "55345917edb3",
+    "60a641f76aee",
+    "d9cb095fb17d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Models, embeddings and benchmarks",
+   "intro": "Microsoft's code model, Perplexity and Liquid releases, a document router and an intuition benchmark.",
+   "stories": [
+    "f606ee8d6265",
+    "22d3972a6687",
+    "96678b032a03",
+    "0f691693b02a",
+    "44dc7493fd62",
+    "afd98a2005ed"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Trust, risk and detection",
+   "intro": "SynthID Detector expands, Mumsnet's prompt, a risk overview, Anthropic's structure and a bank attack.",
+   "stories": [
+    "aa52ec3bad0f",
+    "13b72c5fe0a2",
+    "19630479c585",
+    "02e209ad5b8e",
+    "a7657eb6ac7c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Gadgets, data centers and the economy",
+   "intro": "Fadell on AI gadgets, Alexa Tablets, Texas, Finland, a Yandex attack, ICANN, jobs and the Fed.",
+   "stories": [
+    "9e25e17eed17",
+    "f3a05e137016",
+    "91388b89909f",
+    "bdf9a72a2d9d",
+    "82ca89876c6c",
+    "c3069b00500b",
+    "729e73a59143",
+    "261ff4db4d06",
+    "8ce6582218bd"
+   ],
+   "concepts": []
   }
  ]
 }

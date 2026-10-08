@@ -1,0 +1,17 @@
+{
+ "id": "a7657eb6ac7c",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "CrowdStrike Intelligence analyzes a campaign against South Korean financial organizations that led to data exfiltration. It says the attacker is likely Chinese-speaking and financially motivated, and used LLMs and ARTEX, an open-source Chinese agentic tool.",
+  "This is a vendor threat report, so attribution is an assessment. Only the Techmeme excerpt was reviewed."
+ ],
+ "highlights": [
+  "Campaign against South Korean financial firms",
+  "Actor likely Chinese-speaking and financially motivated",
+  "Used LLMs and the open-source agentic tool ARTEX",
+  "Attribution is CrowdStrike's assessment",
+  "Excerpt only"
+ ]
+}

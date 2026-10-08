@@ -1,0 +1,17 @@
+{
+ "id": "f606ee8d6265",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Microsoft AI releases MAI-Code-1.1-Flash, now in production in GitHub Copilot, at one quarter of the price of version 1.0. It reports a 22% improvement on Terminal-Bench 2.1 in Copilot CLI and 15% on .NET tasks, with code survival up 4% and return visits up 9%.",
+  "Tokens stream 25% faster and tasks use 25% fewer tokens. Microsoft credits training across hundreds of thousands of reinforcement-learning environments in Copilot. All figures are Microsoft's own."
+ ],
+ "highlights": [
+  "MAI-Code-1.1-Flash in GitHub Copilot at one quarter of 1.0's price",
+  "Terminal-Bench 2.1 up 22% in Copilot CLI, .NET tasks up 15%",
+  "Code survival up 4%, return visits up 9%",
+  "25% faster streaming, 25% fewer tokens",
+  "Vendor-reported results"
+ ]
+}

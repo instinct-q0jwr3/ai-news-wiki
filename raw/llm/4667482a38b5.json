@@ -1,0 +1,16 @@
+{
+ "id": "4667482a38b5",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Tom's Hardware covers Brandon Thomas's Artcraft project, which recreates Adobe's Creative Suite look and tools as free, open-source apps, written in Rust with Claude. The page could not be fully retrieved in this pipeline; the headline matches Ars Technica's coverage of the same release.",
+  "Basis: headline and the Ars Technica report, which says the seven apps mimic Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign and Acrobat, and are far from finished."
+ ],
+ "highlights": [
+  "Solo developer rebuilds Adobe-style apps in Rust using Claude",
+  "Released free and open source",
+  "Same release as the Ars Technica story",
+  "Details here come from the headline and that report"
+ ]
+}

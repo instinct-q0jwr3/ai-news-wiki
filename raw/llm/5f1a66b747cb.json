@@ -1,0 +1,18 @@
+{
+ "id": "5f1a66b747cb",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The ts-rust repository ports Microsoft's native TypeScript compiler, checker and language server from Go to Rust, written almost entirely by LLMs. The author says he never read the code and that it is an early release, while also claiming full compatibility on every real-world project he tested, a claim the README itself does not back with evidence.",
+  "The account of the process is the interesting part. OpenAI models spent over $400,000 of API-priced tokens and wrote 1.3 million lines of Rust over months without getting past about 84% compatibility. Claude Opus 5.5 then started from scratch, had a working version in 10 hours and went further in about a tenth of the time, at roughly $24,000 of API-priced spend over two weeks, which used 925% to 983% of his $200 plan's weekly limits. These figures are the author's own."
+ ],
+ "highlights": [
+  "LLM-written Rust port of the TypeScript compiler and language server",
+  "Author says he never read the code",
+  "OpenAI models: over $400K of tokens, 1.3M lines, stuck near 84% compatibility",
+  "Opus 5.5 restarted from scratch and got further in about a tenth of the time",
+  "About $24K of API spend over two weeks",
+  "Compatibility claim is the author's and unverified"
+ ]
+}

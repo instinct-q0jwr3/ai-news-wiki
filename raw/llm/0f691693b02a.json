@@ -1,0 +1,18 @@
+{
+ "id": "0f691693b02a",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "LlamaIndex launches OpenDocRouter, a platform and API that parses documents into markdown using many open-source and frontier models. Each model runs a versioned recipe of prompts, processing and settings, so users do not have to manage prompts, rate limits, deployments and benchmarks for each new OCR model.",
+  "The API accepts PDFs and images or URLs, in synchronous or asynchronous modes. The post compares it with LlamaParse, LlamaIndex's own product, and covers pricing and how new models get added. It is a vendor launch post."
+ ],
+ "highlights": [
+  "API to parse documents into markdown with many models",
+  "Versioned recipes per model",
+  "Accepts PDFs, PNG, JPEG or URLs",
+  "Sync and async modes",
+  "Compared with LlamaIndex's own LlamaParse",
+  "Vendor announcement"
+ ]
+}

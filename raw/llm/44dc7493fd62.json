@@ -1,0 +1,17 @@
+{
+ "id": "44dc7493fd62",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Scale AI's Humanity's Sixth Sense is a benchmark for intuitive visual reasoning: what people infer at a glance, such as whether a vehicle fits between two parked cars or who holds authority in a room. It uses images and video with human-written prompts about implicit temporal, spatial, social and abstract structure.",
+  "Participants reach 93.1% accuracy while the best model, GPT-6-astra, reaches 53.6% even at maximum reasoning effort. An agentic setup with dynamic visual manipulation narrows but does not close the gap. The authors argue that scaling on existing benchmarks has left this capability behind."
+ ],
+ "highlights": [
+  "Benchmark for intuitive visual reasoning",
+  "Humans 93.1%, best model GPT-6-astra 53.6%",
+  "Covers temporal, spatial, social and abstract inference",
+  "Agentic visual manipulation helps but does not close the gap",
+  "From Scale AI Labs, authors' own results"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "60a641f76aee",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Next Web reports Elon Musk said Grok Bot will no longer run only on SpaceX's own models and will use rivals including Claude Opus 5.5, Midjourney and Suno, choosing 'the best back end model for any given task'. Grok Bot is the agent app from SpaceXAI, launched in August, where each Bot works on its own computer and runs tasks in parallel.",
+  "Musk did not say which tasks go to which model. The change followed reports of users struggling to reach Grok, with no official cause given. Musk also said SpaceXAI will be renamed SpaceXSI. The piece places it in a crowded agent market with Meta's Muse and others, some of which users have deleted over privacy worries."
+ ],
+ "highlights": [
+  "Grok Bot to route work to Claude Opus 5.5, Midjourney, Suno",
+  "Musk: use the best back end model for any task",
+  "No details on which tasks go where",
+  "Came after reported access problems for Grok",
+  "SpaceXAI to be renamed SpaceXSI",
+  "Competes with agents like Muse"
+ ]
+}

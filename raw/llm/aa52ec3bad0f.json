@@ -1,0 +1,18 @@
+{
+ "id": "aa52ec3bad0f",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google expands SynthID Detector to everyone, globally in English starting 7 October. It checks whether an image, video or audio file was made with AI from Google or partners including OpenAI, NVIDIA, Kakao and soon Apple, using imperceptible watermarks.",
+  "Google says it has watermarked over 180 billion images and videos and 240,000 years of audio since 2023. The tool joins verification features in Search, the Gemini app and Chrome, which handle over a million requests daily. It only detects content carrying SynthID watermarks, so it cannot identify media from other generators."
+ ],
+ "highlights": [
+  "SynthID Detector open to all, in English, worldwide",
+  "Detects Google and partner content including OpenAI, NVIDIA, Kakao",
+  "Apple support coming",
+  "180 billion images and videos watermarked",
+  "In-product checks handle over 1M requests daily",
+  "Cannot detect unwatermarked media"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "9f24c0b1f804",
+ "authored_at": "2026-10-08T13:42:39.835950+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI's math repository history file records that it withdrew three manuscripts: on algebraicity of Weil classes on split abelian eightfolds, on algebraicity of Kuga-Satake correspondences for K3 surfaces, and on the rational Hodge conjecture for products of K3 surfaces. The withdrawn papers now carry notices explaining the gap and link to archived copies.",
+  "It also lists fixes to 14 other manuscripts, covering repaired arguments, corrected statements and clearer hypotheses, and updates to 13 more that cite revised companion papers. OpenAI added 6 formalizations, bringing top-line results formalized to 300 of 719, about 42%. This is OpenAI's own changelog, so it shows what the company admits, not an independent audit."
+ ],
+ "highlights": [
+  "Three manuscripts withdrawn after the 6 October release",
+  "Titles concern Weil classes, Kuga-Satake and the rational Hodge conjecture",
+  "14 other manuscripts revised with proof repairs",
+  "13 more updated to cite revised companions",
+  "300 of 719 top-line results now formalized, about 42%",
+  "Company-written changelog"
+ ]
+}
