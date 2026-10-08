@@ -1,0 +1,17 @@
+{
+ "id": "225b4fb0112e",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "CNBC reports that Nvidia, Oracle, CoreWeave and other AI stocks fell on Thursday after the market learned more about OpenAI's revenue. OpenAI told investors it reached about $50 billion in annualized revenue at the end of September, lower than the $68 billion figure widely reported late last month.",
+  "A source says the $68 billion figure included gross revenue from OpenAI's partners, which allows a more direct comparison with Anthropic. The Financial Times first reported the $50 billion figure."
+ ],
+ "highlights": [
+  "AI stocks fell on OpenAI revenue details",
+  "About $50B annualized at end of September, per investors",
+  "Earlier figure was $68B",
+  "$68B reportedly included partners' gross revenue",
+  "FT reported the lower figure first"
+ ]
+}

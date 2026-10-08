@@ -1,191 +1,113 @@
 {
- "generated_at": "2026-10-08T13:39:06+00:00",
+ "generated_at": "2026-10-08T19:39:55+00:00",
  "stories": [
   {
-   "id": "9f24c0b1f804",
-   "title": "OpenAI Withdraws 3 Math Papers",
+   "id": "225b4fb0112e",
+   "title": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+  },
+  {
+   "id": "8263ac03993f",
+   "title": "Sub-1-Bit LLM Compression via Latent Factorization",
    "source": "Hacker News",
-   "url": "https://github.com/openai/math/blob/main/history.md"
+   "url": "https://github.com/SamsungLabs/LittleBit"
   },
   {
-   "id": "5f1a66b747cb",
-   "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+   "id": "8ac495b8fa81",
+   "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
    "source": "Hacker News",
-   "url": "https://github.com/pingdotgg/ts-rust"
+   "url": "https://openrouter.ai/stepfun/step-5-preview"
   },
   {
-   "id": "19630479c585",
-   "title": "Will AI kill us all",
+   "id": "f49ce9cf23a2",
+   "title": "Frontier AI models outperform analysts on earnings prediction",
    "source": "Hacker News",
-   "url": "https://virev.ai/blog/will-ai-kill-us-all"
+   "url": "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction"
   },
   {
-   "id": "13b72c5fe0a2",
-   "title": "Mumsnet denies using AI for content after prompt appears on message board",
+   "id": "f183420d65d0",
+   "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt"
+   "url": "https://www.youtube.com/watch?v=3TNpOD6bov8"
   },
   {
-   "id": "4667482a38b5",
-   "title": "Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude",
+   "id": "656398de72ef",
+   "title": "Show HN: I Put an AI Agent on a Nokia 110",
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"
+   "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA"
   },
   {
-   "id": "0f691693b02a",
-   "title": "Introducing OpenDocRouter: every document model under one API",
-   "source": "TLDR AI",
-   "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter"
+   "id": "ac9548bb7718",
+   "title": "Developer uses AI to build free Adobe clones after frustration with cancellation",
+   "source": "Hacker News",
+   "url": "https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html"
   },
   {
-   "id": "0edd4888398e",
-   "title": "Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase",
+   "id": "5c9029074f3a",
+   "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?st=24irFj"
+   "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a"
   },
   {
-   "id": "8ce6582218bd",
-   "title": "AI retail trading agent startup Catalyst raised a $30M seed led by Sequoia and says a pilot generated hundreds of millions in trading volume over two weeks",
+   "id": "dcced9137069",
+   "title": "Apple Is Slow-Rolling iOS 27 Adoption, So Far",
+   "source": "Daring Fireball",
+   "url": "https://mastodon.social/@_Davidsmith/117355154519434137"
+  },
+  {
+   "id": "c60d285ba9c6",
+   "title": "Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/08/sequoia-backed-catalyst-raises-30-million-build-ai-trading-agents-everyday-investors/"
+   "url": "https://truthsocial.com/@realDonaldTrump"
   },
   {
-   "id": "c3069b00500b",
-   "title": "ICANN receives 1,615 TLD applications from 481 applicants; Meta, OpenAI, and eight others applied for .agent, seven companies applied for .agi, and six for .asi",
+   "id": "a3358ebc5891",
+   "title": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round"
   },
   {
-   "id": "2adffa3ad247",
-   "title": "Claude Haiku 5.5",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
-  },
-  {
-   "id": "d9cb095fb17d",
-   "title": "Google Cloud unveils the Gemini agent to handle multi-day enterprise workflows across Workspace, Microsoft 365, and Slack, with support for multiple AI models",
+   "id": "c24919f5b8f4",
+   "title": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism",
    "source": "Techmeme",
-   "url": "https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
   },
   {
-   "id": "60a641f76aee",
-   "title": "Grok Bot will use Claude Opus 5.5, Midjourney, and Suno, says Musk",
-   "source": "TLDR AI",
-   "url": "https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk"
-  },
-  {
-   "id": "ee96add79b54",
-   "title": "Manus' parent Butterfly Effect says it raised $500M+, led by Boyu Capital and IDG Capital, in its first funding since Meta was forced to unwind its Manus buyout",
+   "id": "93266c7595aa",
+   "title": "the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding"
   },
   {
-   "id": "729e73a59143",
-   "title": "India's Global Capability Centers, which employ 2.4M people across companies like JPMorgan, are automating entry-level tasks and hiring far fewer graduates",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-10-07/ai-crowds-out-fresh-grads-at-wall-street-tech-hubs-in-india"
-  },
-  {
-   "id": "22d3972a6687",
-   "title": "Multimodal embeddings beyond a single vector",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector"
-  },
-  {
-   "id": "bdac2bb5a75c",
-   "title": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\"",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=SSs38V&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "9e25e17eed17",
-   "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
-  },
-  {
-   "id": "55345917edb3",
-   "title": "Property Testing with Agent Swarms",
+   "id": "414955e0610c",
+   "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
    "source": "Lobsters",
-   "url": "https://recursion.wtf/posts/agents-and-property-tests/"
+   "url": "https://arxiv.org/abs/2610.08144"
   },
   {
-   "id": "96678b032a03",
-   "title": "Open d1: Edge decision models for text, vision, and audio",
-   "source": "TLDR AI",
-   "url": "https://www.liquid.ai/blog/d1-open"
-  },
-  {
-   "id": "82ca89876c6c",
-   "title": "Drones struck a data center owned by Russia's Yandex in the town of Sasovo, marking the first major attack on a Russian data hub since the Ukraine war began",
+   "id": "8ad2711d5669",
+   "title": "Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/"
+   "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity"
   },
   {
-   "id": "261ff4db4d06",
-   "title": "The US Federal Reserve's September meeting shows officials are increasingly citing surging AI investments, not tariffs, as the driver of rising goods inflation",
+   "id": "33363f1acb89",
+   "title": "Hone, founded by former OpenAI and Cognition staffers to create AI agents that can help run a business, raised a $60M seed at a $285M valuation",
    "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/business/2026/10/07/datacenter-boom-is-pushing-prices-higher-fed-officials-said/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business"
   },
   {
-   "id": "58167da828b3",
-   "title": "Google Playground: Create and play custom games",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
-  },
-  {
-   "id": "44dc7493fd62",
-   "title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
-   "source": "TLDR AI",
-   "url": "https://labs.scale.com/papers/humanitys-sixth-sense"
-  },
-  {
-   "id": "f3a05e137016",
-   "title": "Amazon retires the Fire brand for tablets after 15 years, replacing it with Alexa Tablets that run Android and ship on October 14, including the $499 12 Pro",
+   "id": "f6d977e7ee19",
+   "title": "Gallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs"
+   "url": "https://www.axios.com/2026/10/08/gallatin-seriesa-8vc-contested-logistics-army"
   },
   {
-   "id": "afd98a2005ed",
-   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
-   "source": "TLDR AI",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
-  },
-  {
-   "id": "aa52ec3bad0f",
-   "title": "Google Expands SynthID Detector Globally",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
-  },
-  {
-   "id": "02e209ad5b8e",
-   "title": "Anthropic's corporate structure",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/Hb5aCFtLuHc5uvAgX/anthropic-s-corporate-structure"
-  },
-  {
-   "id": "f606ee8d6265",
-   "title": "MAI-Code-1.1-Flash: Better, faster, at a quarter of the cost",
-   "source": "TLDR AI",
-   "url": "https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/"
-  },
-  {
-   "id": "bdf9a72a2d9d",
-   "title": "Analysis: planned and active data center investments in Finland surpass €67B, driven by AI demand, cool climate conditions, and renewable energy access",
+   "id": "4da4fb3033fc",
+   "title": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom"
-  },
-  {
-   "id": "a7657eb6ac7c",
-   "title": "Analysis: the hacker who targeted South Korean banks is likely Chinese-speaking, financially motivated, and used LLMs and open-source Chinese agentic tool ARTEX",
-   "source": "Techmeme",
-   "url": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/"
-  },
-  {
-   "id": "91388b89909f",
-   "title": "Why Texas Is Making Data Centers Wait",
-   "source": "TLDR AI",
-   "url": "https://a16z.com/why-texas-is-making-data-centers-wait/"
+   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
   }
  ]
 }

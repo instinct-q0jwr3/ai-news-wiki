@@ -1,0 +1,15 @@
+{
+ "id": "5c9029074f3a",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports OpenAI told investors its annualized revenue was nearing $50 billion at the end of September, well below the $70 billion media reported from investor documents. The article is paywalled, so this uses the excerpt; CNBC's coverage explains the gap."
+ ],
+ "highlights": [
+  "OpenAI annualized revenue near $50B at end of September",
+  "Media had reported about $70B",
+  "Told to investors, per the FT",
+  "Paywalled, excerpt only"
+ ]
+}

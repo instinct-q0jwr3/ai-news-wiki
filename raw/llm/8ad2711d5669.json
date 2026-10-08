@@ -1,0 +1,17 @@
+{
+ "id": "8ad2711d5669",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic launches the Critical Infrastructure Defense Program, giving its frontier models, on-site engineers and threat research to companies that secure critical infrastructure. Participants use them to find and fix vulnerabilities in customers' systems.",
+  "Founding partners include Accenture, Booz Allen Hamilton, CrowdStrike, Deloitte, Dragos, Hitachi, Palo Alto Networks, PwC and Rockwell Automation. Anthropic also launches OSS Scanner, a free service giving open-source projects periodic Claude scans and reports. Axios notes those reports are not human-reviewed, so some findings could be wrong."
+ ],
+ "highlights": [
+  "New program to put Claude to work defending critical infrastructure",
+  "Founding partners include CrowdStrike, Deloitte and Palo Alto Networks",
+  "Includes on-site engineers and threat research",
+  "OSS Scanner: free periodic scans of open-source projects",
+  "Scan reports are not human-reviewed and may be inaccurate"
+ ]
+}

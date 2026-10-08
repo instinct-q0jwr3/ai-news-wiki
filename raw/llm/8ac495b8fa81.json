@@ -1,0 +1,17 @@
+{
+ "id": "8ac495b8fa81",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "StepFun's Step 5 Preview, a mixture-of-experts model with a one million token context, appeared on OpenRouter on 8 October. It is priced at $1 per million input tokens and $2.70 per million output tokens, and is described as built for working with codebases and documents using tools over multiple steps.",
+  "It is a preview, so no independent evaluations were reviewed."
+ ],
+ "highlights": [
+  "Step 5 Preview from StepFun on OpenRouter",
+  "1M-token context, mixture of experts",
+  "$1 input and $2.70 output per million tokens",
+  "Aimed at multistep tool use on codebases and documents",
+  "Preview, no independent benchmarks seen"
+ ]
+}

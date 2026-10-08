@@ -1,0 +1,18 @@
+{
+ "id": "656398de72ef",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Show HN project runs an AI agent on a Nokia 110 feature phone with only 48MB of RAM. The author wanted to cut screen time, tried Android, failed, then reverse-engineered the firmware for days and got custom code running in RAM through the Calculator app.",
+  "The agent sends messages to the DeepSeek chat API and uses tool calls to answer over SIM data, check battery, toggle the torch, place a call and set an alarm. He used Codex to help. It is a prototype that must be reloaded from a computer after a restart."
+ ],
+ "highlights": [
+  "AI agent on a Nokia 110 with 48MB RAM",
+  "Custom code runs in RAM via the Calculator entry point",
+  "Chat goes to the DeepSeek API with tool calls",
+  "Can check battery, torch, calls and alarms",
+  "Must be reloaded after power-off",
+  "Working prototype"
+ ]
+}

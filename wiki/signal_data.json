@@ -390,5 +390,61 @@
   "thin": 6,
   "total": 88,
   "unreadable": 8
+ },
+ "2026-10-08": {
+  "ok": 44,
+  "paywall": 16,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "225b4fb0112e",
+    "minutes": 2,
+    "source": "CNBC",
+    "title": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported",
+    "why": "OpenAI's annualized revenue is about $50B, not $68B, and AI stocks fell on the correction."
+   },
+   {
+    "cat": "ok",
+    "front": "Trust",
+    "id": "aa52ec3bad0f",
+    "minutes": 1,
+    "source": "Google",
+    "title": "Google Expands SynthID Detector Globally",
+    "why": "SynthID Detector opens to everyone, checking images, video and audio from Google and partners, with 180 billion items watermarked."
+   },
+   {
+    "cat": "ok",
+    "front": "Science",
+    "id": "9f24c0b1f804",
+    "minutes": 1,
+    "source": "OpenAI",
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "why": "OpenAI withdrew three math manuscripts and revised 14 more, with 42% of top-line results formalized."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "c24919f5b8f4",
+    "minutes": 4,
+    "source": "The Verge",
+    "title": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism",
+    "why": "Anthropic's first usage policy update in a year bans needless cruelty toward Claude and adds new misuse rules."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "5f1a66b747cb",
+    "minutes": 6,
+    "source": "GitHub",
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "why": "An LLM-written Rust port of the TypeScript compiler, with token costs and claims the author did not verify by reading the code."
+   }
+  ],
+  "reserve": "44dc7493fd62",
+  "status": "provisional",
+  "thin": 7,
+  "total": 73,
+  "unreadable": 6
  }
 }

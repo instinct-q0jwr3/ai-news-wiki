@@ -1,0 +1,16 @@
+{
+ "id": "f49ce9cf23a2",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Samaya AI reports that frontier models running in its finance-specific harness predicted earnings surprises better than expert analysts, which it calls a critical inflection point. The harness gives models point-in-time financial information on par with human experts.",
+  "The post presents a chart where recent models have lower revenue prediction error than analysts. This is a vendor's own research, selling the harness, so independent replication is not shown."
+ ],
+ "highlights": [
+  "Frontier models beat expert analysts on earnings surprise prediction",
+  "Uses Samaya's finance harness with point-in-time data",
+  "Measured by revenue prediction error",
+  "Vendor research, not independently replicated"
+ ]
+}

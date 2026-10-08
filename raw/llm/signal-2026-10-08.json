@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-08",
+ "status": "provisional",
+ "reserve": "44dc7493fd62",
+ "picks": [
+  {
+   "id": "225b4fb0112e",
+   "front": "Business",
+   "source": "CNBC",
+   "why": "OpenAI's annualized revenue is about $50B, not $68B, and AI stocks fell on the correction."
+  },
+  {
+   "id": "aa52ec3bad0f",
+   "front": "Trust",
+   "source": "Google",
+   "why": "SynthID Detector opens to everyone, checking images, video and audio from Google and partners, with 180 billion items watermarked."
+  },
+  {
+   "id": "9f24c0b1f804",
+   "front": "Science",
+   "source": "OpenAI",
+   "why": "OpenAI withdrew three math manuscripts and revised 14 more, with 42% of top-line results formalized."
+  },
+  {
+   "id": "c24919f5b8f4",
+   "front": "Policy",
+   "source": "The Verge",
+   "why": "Anthropic's first usage policy update in a year bans needless cruelty toward Claude and adds new misuse rules."
+  },
+  {
+   "id": "5f1a66b747cb",
+   "front": "Agents",
+   "source": "GitHub",
+   "why": "An LLM-written Rust port of the TypeScript compiler, with token costs and claims the author did not verify by reading the code."
+  }
+ ]
+}

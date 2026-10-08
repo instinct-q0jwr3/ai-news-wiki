@@ -1,0 +1,18 @@
+{
+ "id": "8263ac03993f",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "LittleBit is a Samsung Labs codebase for compressing large language models below one bit per weight. It factorizes each dense weight matrix into low-rank latent factors, binarizes those factors and restores magnitude with small learned scales, supporting settings down to 0.1 bits per weight while keeping the model architecture unchanged at inference.",
+  "LittleBit-2 improves initialization by aligning the latent factors with the binary hypercube using rotation and Joint-ITQ before quantization-aware training, with an opt-in flag and no inference cost. It supports models such as Llama, Phi-4, Qwen and Gemma. The papers appeared at NeurIPS 2025 and ICML 2026; the README gives no quality numbers in the part reviewed."
+ ],
+ "highlights": [
+  "Sub-1-bit LLM compression via low-rank binarized factors",
+  "Works down to 0.1 bits per weight",
+  "LittleBit-2 adds rotation-based initialization at no inference cost",
+  "Supports Llama, Phi-4, Qwen, Gemma and others",
+  "NeurIPS 2025 and ICML 2026 papers",
+  "Quality figures not reviewed here"
+ ]
+}

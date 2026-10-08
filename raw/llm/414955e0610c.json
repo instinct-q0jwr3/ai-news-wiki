@@ -1,0 +1,17 @@
+{
+ "id": "414955e0610c",
+ "authored_at": "2026-10-08T19:43:20.968620+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An arXiv paper argues that Lean verification of AI autoformalisation may give no confidence in the original natural-language argument, using OpenAI's announced Navier-Stokes blow-up proof as the motivating example. Translating text into Lean requires resolving ambiguity, so a checked formal proof may not mean the same thing as the original claim.",
+  "The authors, from Cambridge, show that resolving such ambiguity sits arbitrarily high in the Solvability Complexity Index hierarchy, so a semantically faithful automatic translation is harder than any computable problem in that hierarchy. This is a theoretical argument: it says verification cannot be assumed faithful, not that a particular proof is wrong."
+ ],
+ "highlights": [
+  "Lean-checked autoformalisation may not guarantee the original argument",
+  "Motivated by OpenAI's Navier-Stokes blow-up claim",
+  "Ambiguity resolution is arbitrarily hard in the SCI hierarchy",
+  "Theoretical result, no particular proof shown wrong",
+  "Cambridge authors"
+ ]
+}
