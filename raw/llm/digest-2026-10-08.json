@@ -1,0 +1,49 @@
+{
+ "id": "digest-2026-10-08",
+ "date": "2026-10-08",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "A light overnight pass: GPT-6 plans split into Sol and Luna, Mozilla accuses Microsoft of steering users to Edge, and fired OpenAI researchers write to the board about AI monitoring.",
+ "sections": [
+  {
+   "title": "Detection, browsers and attitudes",
+   "intro": "SynthID Detector, Mozilla on Microsoft's Edge nudges, and an HN poll on AI sentiment.",
+   "stories": [
+    "388c267b9628",
+    "1b42aac49ea8",
+    "5a2829c806ad"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Adobe clones, medical models and proofs",
+   "intro": "Open-source Adobe look-alikes, MedGemma, and an essay on OpenAI's unread proofs.",
+   "stories": [
+    "6ec9edb24e15",
+    "f62976ef067c",
+    "a66a17cb969d",
+    "c358d7b41d6f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "GPT-6 tiers, chip debt and funding",
+   "intro": "Which GPT-6 each ChatGPT plan gets, financing for OpenAI's chip, and two funding rounds.",
+   "stories": [
+    "8562a5ddfc0a",
+    "0edd4888398e",
+    "f558954cd66f",
+    "dd9be008d4ff"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Fired researchers' warning",
+   "intro": "A letter to OpenAI's board about keeping AI monitorable.",
+   "stories": [
+    "bdac2bb5a75c"
+   ],
+   "concepts": []
+  }
+ ]
+}

@@ -1,31 +1,30 @@
 {
  "date": "2026-10-07",
- "status": "provisional",
- "reserve": "6b32c4fd56da",
+ "reserve": "0f775271612a",
  "picks": [
+  {
+   "id": "a22dccef8495",
+   "front": "Science",
+   "source": "OpenAI",
+   "why": "OpenAI published 722 manuscripts from an internal model, with mixed verification status, and it dominated the day's coverage."
+  },
   {
    "id": "2adffa3ad247",
    "front": "Models",
    "source": "Anthropic",
-   "why": "Haiku 5.5 cuts small-model prices by about 75% and adds big benchmark gains, plus cheaper Sonnet cache reads and monthly API credits."
+   "why": "Haiku 5.5 cuts the small-model price by about 75% and brings large benchmark gains, with cheaper Sonnet cache reads."
   },
   {
    "id": "98cad1163e8c",
    "front": "Security",
    "source": "Strix",
-   "why": "A single survey link could take over a PostHog account, found by an AI agent reading source code and fixed quickly."
+   "why": "A single survey link could take over a PostHog account, found by an AI agent reading source code and quickly fixed."
   },
   {
-   "id": "5c33cbe98018",
-   "front": "Science",
-   "source": "GitHub",
-   "why": "A Lean proof of optimal packing for 11 squares, with the trust caveat that native_decide is used for numerical certificates."
-  },
-  {
-   "id": "d6f280f77f1c",
-   "front": "Policy",
-   "source": "Mother Jones",
-   "why": "Data centers described as a top midterm issue, with bipartisan opposition changing politicians' positions."
+   "id": "3f5582f85748",
+   "front": "Safety",
+   "source": "The Verge",
+   "why": "Common Sense Media finds ChatGPT for Teens falls short on parental alerts, crisis help and study support."
   },
   {
    "id": "1299766c3b32",

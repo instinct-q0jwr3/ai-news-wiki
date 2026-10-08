@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 

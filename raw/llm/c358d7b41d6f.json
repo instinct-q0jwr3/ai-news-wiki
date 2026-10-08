@@ -1,0 +1,17 @@
+{
+ "id": "c358d7b41d6f",
+ "authored_at": "2026-10-08T01:41:07.509210+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison quotes Ben Affleck explaining his background with computers: he moved with film from analog to digital, and visual-effects workflows have long used machine learning. He says he can write rough Python scripts because convolutional neural networks work on tensors, a numeric form of an image.",
+  "Affleck describes using such a network to find patterns like edge detection, for example to locate a window ledge so a green-screen background can be replaced. The quote is a plain explanation of pre-transformer machine learning in film, with no new announcement."
+ ],
+ "highlights": [
+  "Ben Affleck on machine learning in film effects",
+  "Convolutional networks predate transformers in VFX",
+  "Works on tensors: batch, frame and color values per pixel",
+  "Example use: edge detection to replace green-screen backgrounds",
+  "A quoted explanation, not news"
+ ]
+}

@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-08** - Hacker News links to a SynthID Detector site, the public tool Google launched this week to check whether an image, video or audio file carries its SynthID watermark. The synthid.com page itself returned no readable content to this pipeline, so this entry… ([SynthID Detector](../summaries/388c267b9628.md) · [Google](../entities/google.md)) ⚠
+- **2026-10-08** - An Ask HN thread asks what share of people are actually for or against AI. The author says a web search gives no satisfying answer, and that it feels like skepticism is growing, though that may just reflect the people around him. ([What is the actual percentage of people For and Against AI?](../summaries/5a2829c806ad.md) · [Google](../entities/google.md))
 - **2026-10-07** - Cory Doctorow's Pluralistic post for 7 October is mainly about price discrimination. He says airlines were long the only regular business charging different customers different prices for the same seat, and that economists often defend this 'second-order'… ([Pluralistic: Disloyalty (07 Oct 2026)](../summaries/ad825c878991.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-07** - Google launched SynthID Detector, a website where anyone can check whether an image, video or audio file was made with AI, across dozens of common file formats, TechCrunch reports. It was announced on Tuesday. ([Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats](../summaries/6b32c4fd56da.md) · [Google](../entities/google.md))
 - **2026-10-07** - Google introduces Playground as an experimental browser platform for making games through conversation. Users can describe characters, rules, physics and environments, test a game immediately, and revise it through further prompts rather than writing code.… ([Google Playground: Create and play custom games](../summaries/58167da828b3.md) · [Google](../entities/google.md))

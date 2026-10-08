@@ -1,0 +1,17 @@
+{
+ "id": "1b42aac49ea8",
+ "authored_at": "2026-10-08T01:41:07.509210+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Mozilla marks 100 days since its Over The Edge 2.0 report, written by deceptive-design researchers Harry Brignull and Cennydd Bowles, which documents how Windows, Edge, Bing and Copilot steer people away from the browser they chose. Mozilla says it shared the report with Microsoft and expected no quick change.",
+  "Its conclusion is that nothing improved: Microsoft respects user choice only when the law forces it. Mozilla notes the company's standard is legal compliance, not its own published principles, technical feasibility, or even what it already does for users in Europe. It ties this to AI, since browsers are a distribution layer for AI services and decide which privacy protections people get. Mozilla is a competitor, so this is an interested party's account."
+ ],
+ "highlights": [
+  "100-day follow-up to Mozilla's Over The Edge 2.0 report",
+  "Report covers Windows, Edge, Bing and Copilot nudges",
+  "Mozilla says Microsoft changes only where the law compels",
+  "Browser choice matters for which AI services reach users",
+  "Mozilla is a browser rival, so the framing is not neutral"
+ ]
+}

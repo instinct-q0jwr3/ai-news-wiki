@@ -1,6 +1,6 @@
 # Shopify
 
-_type: organization · created: 2026-09-22 · updated: 2026-10-07 · confidence: medium_
+_type: organization · created: 2026-09-22 · updated: 2026-10-08 · confidence: medium_
 
 `entity` `shopify` `agentic-commerce` `agentic-systems`
 

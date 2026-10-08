@@ -1,6 +1,6 @@
 # Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra
 
-_type: news-summary · created: 2026-10-01 · updated: 2026-10-07 · confidence: high_
+_type: news-summary · created: 2026-10-01 · updated: 2026-10-08 · confidence: high_
 
 `techmeme` `openai` `google` `gemini` `ai-safety-incidents`
 

@@ -1,0 +1,17 @@
+{
+ "id": "6ec9edb24e15",
+ "authored_at": "2026-10-08T01:41:07.509210+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Ars Technica reports that developer Brandon Thomas turned his Artcraft project, originally a controllable AI tool for artists, into seven open-source apps that copy the interface and tools of Adobe's Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign and Acrobat Pro.",
+  "He says he used Anthropic's Claude Opus 5.5 to write 'clean-room replacements' in Rust, with WebAssembly versions that run in a browser. The article's subtitle sums up the status: ambitious, free, and nowhere near finished. It sits within the argument over whether AI reverse engineering can make software cheap to copy, and how far 'clean-room' claims hold when a model does the work."
+ ],
+ "highlights": [
+  "Artcraft pivots to seven open-source Adobe-style apps",
+  "Covers Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign and Acrobat",
+  "Built with Claude Opus 5.5 in Rust, plus WebAssembly builds",
+  "Ars calls them ambitious, free and far from finished",
+  "Raises questions about 'clean-room' claims with AI-assisted copying"
+ ]
+}

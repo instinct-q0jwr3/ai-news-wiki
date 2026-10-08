@@ -1,6 +1,6 @@
 # Concept: The frontier model price war
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
 
 `concept` `ai-price-war`
 
@@ -16,10 +16,11 @@ Frontier labs keep cutting token prices while launching ever pricier top tiers. 
 
 ## Related entities
 
-[Google](../entities/google.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Anthropic](../entities/anthropic.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [TypeSafe](../entities/typesafe.md)
+[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [TypeSafe](../entities/typesafe.md)
 
 ## Timeline
 
+- **2026-10-07** - Anthropic launches Claude Haiku 5.5, which it calls its cheapest, fastest and most capable small model. It is aimed at high-volume, cost-sensitive work such as summaries, compaction, database queries and classification, and at speed-sensitive uses like… ([Claude Haiku 5.5](../summaries/2adffa3ad247.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-07** - Shawn Presser publishes news.ycombinator.lol, a near-exact clone of Hacker News where the comments are written by AI. The post says he had further plans but admits he probably will not pursue them, and shares the source code on GitHub as sharc. ([Show HN: Pointless but mostly-exact clone of Hacker News](../summaries/41be746a8d7e.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-07** - Cory Doctorow's Pluralistic post for 7 October is mainly about price discrimination. He says airlines were long the only regular business charging different customers different prices for the same seat, and that economists often defend this 'second-order'… ([Pluralistic: Disloyalty (07 Oct 2026)](../summaries/ad825c878991.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-07** - The Decoder reports Google released Nano Banana 2.1, an image generation and editing model based on Gemini 3.6 Flash that replaces Nano Banana 2 and that Google says improves on it across the board. Pricing roughly halves: a 1K image costs 3.36 cents (from… ([Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions "across the board"; pricing is ~50% lower vs. Nano Banana 2](../summaries/3c61de4a7701.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [The frontier model price war](../concepts/ai-price-war.md))

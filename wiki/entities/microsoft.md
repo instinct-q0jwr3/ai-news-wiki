@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-08** - Mozilla marks 100 days since its Over The Edge 2.0 report, written by deceptive-design researchers Harry Brignull and Cennydd Bowles, which documents how Windows, Edge, Bing and Copilot steer people away from the browser they chose. Mozilla says it shared… ([100 days later: Microsoft still steers Windows and Copilot users to Edge](../summaries/1b42aac49ea8.md) · [Microsoft](../entities/microsoft.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-10-07** - A report on rswebsols, relaying The Information, says Meta and Microsoft have started reducing employee use of Anthropic's Claude as they shift to their own coding tools. The change concerns internal spending and workflows, not customer access: Claude… ([Meta and Microsoft Limit Employee Use of Claude AI Tools](../summaries/c04f567de3ff.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md)) ⚠
 - **2026-10-07** - Microsoft opened preorders for the Surface RTX Spark Dev Box at $5,999. It is an Nvidia-powered AI mini PC with 128GB of unified memory for running local models with 120 billion parameters or more, and ships in November, The Verge reports. ([Microsoft opens preorders for the $5,999 Surface RTX Spark Dev Box, with 128GB of unified memory to run local models with 120B+ parameters, shipping in November](../summaries/d72766887e3d.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-05** - Meta and Microsoft are working to cut employees' use of Claude; Meta employees using Claude Code have fallen to about 30K from about 60K earlier. Basis: the article is paywalled, so this relies on the headline. ([Meta and Microsoft are working to cut their employees' use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year](../summaries/5517287c57f7.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) 🔒

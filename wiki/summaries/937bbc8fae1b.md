@@ -1,6 +1,6 @@
 # Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z
 
-_type: news-summary · created: 2026-10-05 · updated: 2026-10-07 · confidence: high_
+_type: news-summary · created: 2026-10-05 · updated: 2026-10-08 · confidence: high_
 
 `techmeme` `agentic-systems` `compute-buildout`
 

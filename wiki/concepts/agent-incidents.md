@@ -1,6 +1,6 @@
 # Concept: Agent incidents and rogue behavior
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-07 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
 
 `concept` `agent-incidents`
 

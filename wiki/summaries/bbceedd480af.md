@@ -1,6 +1,6 @@
 # Is Russia using AI for disinformation in CAR?
 
-_type: news-summary · created: 2026-10-04 · updated: 2026-10-07 · confidence: high_
+_type: news-summary · created: 2026-10-04 · updated: 2026-10-08 · confidence: high_
 
 `hacker-news`
 

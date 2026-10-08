@@ -1,6 +1,6 @@
 # The Preference Cascade Is Only Getting Started
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-10-07 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-10-08 · confidence: high_
 
 `tldr-ai`
 

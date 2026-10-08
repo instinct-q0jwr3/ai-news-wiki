@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-07 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-08 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-08** - TechCrunch reports that Mecka, which collects human motion data to train humanoid and other robots, raised a $60 million Series B led by Sequoia, with Nvidia, M12 and others taking part. ([Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others](../summaries/dd9be008d4ff.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-07** - Microsoft opened preorders for the Surface RTX Spark Dev Box at $5,999. It is an Nvidia-powered AI mini PC with 128GB of unified memory for running local models with 120 billion parameters or more, and ships in November, The Verge reports. ([Microsoft opens preorders for the $5,999 Surface RTX Spark Dev Box, with 128GB of unified memory to run local models with 120B+ parameters, shipping in November](../summaries/d72766887e3d.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-07** - Simon Willison welcomes Mistral Large 4, a preview of a 1 trillion parameter, 49 billion active model trained on 3,800 Nvidia Grace Blackwell GPUs. It is available through the API now with open weights promised at the end of the month. It supports two… ([Introducing Mistral Large 4: Le chonk](../summaries/0b33179bbba0.md) · [NVIDIA](../entities/nvidia.md) · [Mistral](../entities/mistral.md) · [DeepSeek](../entities/deepseek.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-07** - Financial Times, per sources: SpaceX is seeking to raise $40B, about $10B in bank loans and about $30B in investment-grade debt, to buy Nvidia chips in a deal led by Apollo. Basis: only the headline was available, so this is a short summary of the title. ([SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo](../summaries/da015d94a67f.md) · [NVIDIA](../entities/nvidia.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒

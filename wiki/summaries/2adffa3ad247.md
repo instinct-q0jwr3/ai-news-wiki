@@ -1,8 +1,8 @@
 # Claude Haiku 5.5
 
-_type: news-summary · created: 2026-10-07 · updated: 2026-10-07 · confidence: high_
+_type: news-summary · created: 2026-10-07 · updated: 2026-10-08 · confidence: high_
 
-`hacker-news` `anthropic` `small-specialist-models`
+`hacker-news` `openai` `anthropic` `external-evaluation` `ai-coding-agents` `ai-price-war`
 
 ## Summary
 
@@ -25,4 +25,4 @@ The price drops sharply: Anthropic says Haiku 5.5 costs about 75% less to run th
 
 ## Related pages
 
-[Anthropic](../entities/anthropic.md) · [Small and specialist models](../concepts/small-specialist-models.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md)

@@ -1,6 +1,6 @@
 # Penguin Mail – open-source Rust email client for Linux with AI
 
-_type: news-summary · created: 2026-10-07 · updated: 2026-10-07 · confidence: high_
+_type: news-summary · created: 2026-10-07 · updated: 2026-10-08 · confidence: high_
 
 `hacker-news`
 

@@ -341,12 +341,21 @@
   "picks": [
    {
     "cat": "ok",
+    "front": "Science",
+    "id": "a22dccef8495",
+    "minutes": 2,
+    "source": "OpenAI",
+    "title": "OpenAI shares mathematics research catalogue",
+    "why": "OpenAI published 722 manuscripts from an internal model, with mixed verification status, and it dominated the day's coverage."
+   },
+   {
+    "cat": "ok",
     "front": "Models",
     "id": "2adffa3ad247",
     "minutes": 3,
     "source": "Anthropic",
     "title": "Claude Haiku 5.5",
-    "why": "Haiku 5.5 cuts small-model prices by about 75% and adds big benchmark gains, plus cheaper Sonnet cache reads and monthly API credits."
+    "why": "Haiku 5.5 cuts the small-model price by about 75% and brings large benchmark gains, with cheaper Sonnet cache reads."
    },
    {
     "cat": "ok",
@@ -355,25 +364,16 @@
     "minutes": 5,
     "source": "Strix",
     "title": "You click a PostHog survey. An attacker gets your whole account",
-    "why": "A single survey link could take over a PostHog account, found by an AI agent reading source code and fixed quickly."
+    "why": "A single survey link could take over a PostHog account, found by an AI agent reading source code and quickly fixed."
    },
    {
     "cat": "ok",
-    "front": "Science",
-    "id": "5c33cbe98018",
-    "minutes": 3,
-    "source": "GitHub",
-    "title": "AI-assisted proof of optimal packing for 11 squares",
-    "why": "A Lean proof of optimal packing for 11 squares, with the trust caveat that native_decide is used for numerical certificates."
-   },
-   {
-    "cat": "ok",
-    "front": "Policy",
-    "id": "d6f280f77f1c",
-    "minutes": 27,
-    "source": "Mother Jones",
-    "title": "America Turned on Data Centers",
-    "why": "Data centers described as a top midterm issue, with bipartisan opposition changing politicians' positions."
+    "front": "Safety",
+    "id": "3f5582f85748",
+    "minutes": 5,
+    "source": "The Verge",
+    "title": "Common Sense Media calls ChatGPT for Teens an \"unacceptable risk\", saying its guardrails fall short of OpenAI's promises and it continues to do kids' homework",
+    "why": "Common Sense Media finds ChatGPT for Teens falls short on parental alerts, crisis help and study support."
    },
    {
     "cat": "ok",
@@ -385,8 +385,8 @@
     "why": "Consumer AI use is wide but shallow: 4.5% pay for a top chatbot, and the top 10% of spenders drive about half of spending."
    }
   ],
-  "reserve": "6b32c4fd56da",
-  "status": "provisional",
+  "reserve": "0f775271612a",
+  "status": "final",
   "thin": 6,
   "total": 88,
   "unreadable": 8

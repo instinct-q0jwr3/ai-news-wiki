@@ -1,6 +1,6 @@
 # Survey: only 11% of ~400 businesses could forecast AI spending; a study finds lower-priced models cost more than higher-priced models on 32% of 6,800+ tasks
 
-_type: news-summary · created: 2026-10-05 · updated: 2026-10-07 · confidence: high_
+_type: news-summary · created: 2026-10-05 · updated: 2026-10-08 · confidence: high_
 
 `techmeme`
 
