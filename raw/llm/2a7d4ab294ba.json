@@ -1,0 +1,17 @@
+{
+ "id": "2a7d4ab294ba",
+ "authored_at": "2026-10-08T07:41:53.874802+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Scott Aaronson's blog relays, with permission, a message from Omer Reingold saying that AI labs have quietly started probing whether their models can break important cryptographic protocols. The headline claim rests on sources named by the blog.",
+  "The page also hosts a guest post by Pravesh Kothari, Raghu Meka and Prasad Raghavendra asking how theoretical computer science should adapt if AI theorem provers soon prove open problems in hours, and proposing a separate 'conceptual track' at conferences. The cryptography claim is secondhand, so read it as a report, not a confirmed result."
+ ],
+ "highlights": [
+  "Claim: AI labs are testing models on breaking cryptographic protocols",
+  "Relayed secondhand from Omer Reingold",
+  "Same page: guest post on TCS in the age of AI theorem provers",
+  "Proposes a conceptual track at STOC/FOCS/SODA",
+  "Cryptography claim unconfirmed"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "d9b58a15c884",
+ "authored_at": "2026-10-08T07:41:53.874802+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Claude Pacer is a macOS menu-bar app that shows whether your Claude subscription will last until its usage limits reset. Instead of showing only percent used, it projects where each limit window will land at reset at your current speed: 100 means you run out exactly at reset.",
+  "It compares the session, week and per-model windows, gives one sentence of advice such as using one model less or moving Opus work to Sonnet, and fits per-model weights from your own transcripts since Anthropic does not publish them. It also shows the API-equivalent cost and sends notifications when pace crosses 100. The project is small, with three contributions from one author."
+ ],
+ "highlights": [
+  "Menu-bar pace gauge for Claude subscription limits",
+  "Projects usage at reset, not just percent used",
+  "Fits model weights from your local transcripts",
+  "Gives one sentence of advice to stay within the limit",
+  "Shows API-equivalent cost",
+  "Early project by a single author"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "01ae88bb977e",
+ "authored_at": "2026-10-08T07:41:53.874802+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A post on X linked from Hacker News reports that OpenAI withdrew three of its mathematical results after the 6 October release. The post could not be fetched, so the reasons, which results were pulled and any OpenAI explanation are unknown to this summary.",
+  "Basis: headline only. It matters because OpenAI had said the catalogue mixed stages of verification and that corrections would be preserved as new versions."
+ ],
+ "highlights": [
+  "OpenAI withdraws three mathematical results, per the headline",
+  "Source post on X not retrievable",
+  "Reasons and which results are unknown here",
+  "Fits OpenAI's warning that verification status varies"
+ ]
+}
