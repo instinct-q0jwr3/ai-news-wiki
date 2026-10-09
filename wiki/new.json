@@ -1,155 +1,29 @@
 {
- "generated_at": "2026-10-09T01:40:41+00:00",
+ "generated_at": "2026-10-09T07:41:32+00:00",
  "stories": [
   {
-   "id": "1fe85feada29",
-   "title": "OpenAI, the Partition Principle, and Mathematics",
+   "id": "07de2f51f32c",
+   "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
    "source": "Hacker News",
-   "url": "https://karagila.org/2026/openai-pp/"
+   "url": "https://news.ycombinator.com/item?id=50016644"
   },
   {
-   "id": "7c16c4ba45bd",
-   "title": "AI-ready biological data: $1.8B global commitment",
-   "source": "Hacker News",
-   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/"
-  },
-  {
-   "id": "d75d8d0074cb",
-   "title": "Vitalik Buterin says \"we should take the risks to cryptography from AI-accelerated math seriously\", backing a \"bunker mode\" call for the blockchain industry",
+   "id": "7fa30fa51204",
+   "title": "SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech",
    "source": "Techmeme",
-   "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
+   "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd"
   },
   {
-   "id": "fbc205efdd32",
-   "title": "Show HN: Jevman – AI decision models play Pac-Man",
-   "source": "Hacker News",
-   "url": "https://opper.ai/jevman-benchmark/"
-  },
-  {
-   "id": "e381d5ba463f",
-   "title": ".md File is not a specification: Using formal analysis to find requirements gaps",
-   "source": "Hacker News",
-   "url": "https://blog.fizzbee.ai/formal-analysis-in-requirements-specification/"
-  },
-  {
-   "id": "a2415857624f",
-   "title": "OpenAI cannot make AI safe on its own [pdf]",
-   "source": "Hacker News",
-   "url": "https://mikitabalesni.com/letter/letter.pdf"
-  },
-  {
-   "id": "0a2ad2e7409f",
-   "title": "AI Crawler Index",
-   "source": "Hacker News",
-   "url": "https://mojodojo.io/ai-crawler-index"
-  },
-  {
-   "id": "19ffe2bad11e",
-   "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-   "source": "Hacker News",
-   "url": "https://github.com/edrisranjbar/lifeos"
-  },
-  {
-   "id": "f2aa33675951",
-   "title": "AI Coding Tools – Architecture diagrams, local models, and SWE-bench",
-   "source": "Hacker News",
-   "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools"
-  },
-  {
-   "id": "5d5b1723d212",
-   "title": "Model Collapse Isn't New, nor Is It Specific to AI",
-   "source": "Hacker News",
-   "url": "https://rulr.dev/blog/model-collapse-isnt-new/"
-  },
-  {
-   "id": "b52a4b3366cf",
-   "title": "Veda: The Agentic-Native Operating System Supports GCC and OpenGL",
-   "source": "Hacker News",
-   "url": "https://github.com/vahmoh25/Veda"
-  },
-  {
-   "id": "8ee7f97b7c6a",
-   "title": "Show HN: Aura – a self-hosted, multi-user AI agent with per-person graph memory",
-   "source": "Hacker News",
-   "url": "https://github.com/chetto1983/Aura"
-  },
-  {
-   "id": "433b35c411d8",
-   "title": "Can AI replace mathematicians? Vienna researchers weigh in",
-   "source": "Hacker News",
-   "url": "https://rudolphina.univie.ac.at/en/can-ai-replace-mathematicians-university-vienna"
-  },
-  {
-   "id": "b6a339fe9e5a",
-   "title": "I gave four coding agents $100 budget to build a PDF editor",
-   "source": "Hacker News",
-   "url": "https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/"
-  },
-  {
-   "id": "de74344957c5",
-   "title": "Agents in the Cloud",
-   "source": "Hacker News",
-   "url": "https://agentsinthecloud.com/"
-  },
-  {
-   "id": "66c4cb1f0f75",
-   "title": "Quoting Carson Gross",
+   "id": "270e9a67069b",
+   "title": "ttok 1.0",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/8/carson-gross/"
+   "url": "https://simonwillison.net/2026/Oct/9/ttok/"
   },
   {
-   "id": "4b447c5a505d",
-   "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds",
+   "id": "42e3808de056",
+   "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-08/union-square-ventures-doubles-fund-size-shrinks-team-for-ai-era"
-  },
-  {
-   "id": "e433fe4d6205",
-   "title": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders",
-   "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/politics/2026/10/08/trump-microsoft-nadella-musk-ai/2a7fcefa-c33f-11f1-8170-681419af1cc9_story.html"
-  },
-  {
-   "id": "b9d5b2b21d15",
-   "title": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\"",
-   "source": "Techmeme",
-   "url": "https://x.com/balesni/status/2108262814003687745"
-  },
-  {
-   "id": "544d02c6cfea",
-   "title": "ttok 0.4",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/8/ttok/"
-  },
-  {
-   "id": "8ad2711d5669",
-   "title": "Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity"
-  },
-  {
-   "id": "c24919f5b8f4",
-   "title": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
-  },
-  {
-   "id": "6e0ed67dce96",
-   "title": "Let’s Check In on Trump’s Blog",
-   "source": "Daring Fireball",
-   "url": "https://truthsocial.com/@realDonaldTrump/posts/117406176604364910"
-  },
-  {
-   "id": "a84465a36d2a",
-   "title": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review",
-   "source": "Techmeme",
-   "url": "https://www.anthropic.com/"
-  },
-  {
-   "id": "6e6a4493b7bc",
-   "title": "Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-2026-10-09/"
+   "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/"
   }
  ]
 }

@@ -1,0 +1,17 @@
+{
+ "id": "270e9a67069b",
+ "authored_at": "2026-10-09T07:44:29.958477+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison ships ttok 1.0, his token-counting command-line tool. After releasing 0.4 he noticed it defaulted to the GPT-4 tokenizer, when it should default to GPT-5 or GPT-6, and used the changed default as the reason to call it 1.0.",
+  "OpenAI has not confirmed that GPT-6 uses the same tokenizer as GPT-5, and there is an open complaint about it. A commit by William Liu tested seven GPT models and found identical counts of 44,794 tokens on 31 fixtures, which suggests no input-count change in GPT-6 on that corpus."
+ ],
+ "highlights": [
+  "ttok 1.0 released",
+  "Default tokenizer moves from GPT-4 to GPT-5/6",
+  "OpenAI hasn't confirmed GPT-6 tokenizer is unchanged",
+  "Test: seven GPT models match on 31 fixtures at 44,794 tokens",
+  "Evidence is an outside experiment"
+ ]
+}

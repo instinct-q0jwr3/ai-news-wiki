@@ -1,0 +1,17 @@
+{
+ "id": "07de2f51f32c",
+ "authored_at": "2026-10-09T07:44:29.958477+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An Ask HN thread asks whether people use a subscribed LLM or a locally deployed open-source model, and why. The two replies so far split: one developer runs a model locally to test a project without paying per token, after exhausting Hugging Face's free API limit in 5 to 7 hours, and another uses a subscription for software engineering.",
+  "It is a tiny thread of a few comments, so it shows two anecdotes and no trend."
+ ],
+ "highlights": [
+  "Ask HN poll: subscription versus local models",
+  "Local user avoids per-token costs while testing",
+  "Hugging Face free limit ran out in 5-7 hours",
+  "Subscriber uses it for software development",
+  "Two replies only, anecdotal"
+ ]
+}
