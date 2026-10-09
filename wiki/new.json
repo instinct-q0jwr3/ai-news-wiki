@@ -1,29 +1,167 @@
 {
- "generated_at": "2026-10-09T07:41:32+00:00",
+ "generated_at": "2026-10-09T13:42:36+00:00",
  "stories": [
   {
-   "id": "07de2f51f32c",
-   "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
+   "id": "67c58cd5a426",
+   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50016644"
+   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
   },
   {
-   "id": "7fa30fa51204",
-   "title": "SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd"
+   "id": "55a8482d26d0",
+   "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+   "source": "Hacker News",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
   },
   {
-   "id": "270e9a67069b",
-   "title": "ttok 1.0",
+   "id": "e993d9771494",
+   "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+   "source": "Hacker News",
+   "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/"
+  },
+  {
+   "id": "600fd6d3c63f",
+   "title": "Testing Thinking Mode",
+   "source": "TLDR AI",
+   "url": "https://updates.midjourney.com/testing-thinking-mode/"
+  },
+  {
+   "id": "b3171a6a01b3",
+   "title": "A new feature for my blog, built using my voice",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/9/ttok/"
+   "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
   },
   {
-   "id": "42e3808de056",
-   "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties",
+   "id": "33363f1acb89",
+   "title": "Hone, founded by former OpenAI and Cognition staffers to create AI agents that can help run a business, raised a $60M seed at a $285M valuation",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business"
+  },
+  {
+   "id": "b486792a1b4c",
+   "title": "The Chinese developer of ARTEX says it has converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/"
+  },
+  {
+   "id": "a61d1b1cde2f",
+   "title": "Reverse Engineer Anything",
+   "source": "Lobsters",
+   "url": "https://github.com/morluto/rea"
+  },
+  {
+   "id": "5a3b85847715",
+   "title": "Sources detail Mark Zuckerberg's decision to launch Muse despite safety concerns, after seeing that AI startup Instinct's similar agent product gained traction",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html"
+  },
+  {
+   "id": "fdc96d9738fd",
+   "title": "The Return of Wake-Sleep",
+   "source": "TLDR AI",
+   "url": "https://x.com/nikogrupen/status/2108226990792900876"
+  },
+  {
+   "id": "a2415857624f",
+   "title": "OpenAI cannot make AI safe on its own [pdf]",
+   "source": "Hacker News",
+   "url": "https://mikitabalesni.com/letter/letter.pdf"
+  },
+  {
+   "id": "4b0a776b602f",
+   "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+  },
+  {
+   "id": "2837d9a40189",
+   "title": "Gemini Agent",
+   "source": "TLDR AI",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+  },
+  {
+   "id": "de4ce9465f38",
+   "title": "Nvidia commits $1B over five years to build out the US' \"capacity for super intelligence R&D\" in fields like quantum computing, healthcare, and energy security",
+   "source": "Techmeme",
+   "url": "https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110"
+  },
+  {
+   "id": "470216b3a1c6",
+   "title": "Can AI automate Epoch?",
+   "source": "TLDR AI",
+   "url": "https://epoch.ai/publications/can-ai-automate-epoch"
+  },
+  {
+   "id": "469b9fce49a1",
+   "title": "Quicksand",
+   "source": "TLDR AI",
+   "url": "https://github.com/microsoft/quicksand"
+  },
+  {
+   "id": "7c4d2fcead07",
+   "title": "Why is Speculative Decoding Fast?",
+   "source": "TLDR AI",
+   "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/"
+  },
+  {
+   "id": "0fbd7c3be959",
+   "title": "Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2108262812489531498.html"
+  },
+  {
+   "id": "7a631d77f1e3",
+   "title": "A slew of cyberattacks hit Japanese companies in September, exposing the data of millions and prompting calls for security checks, as AI lowers hacking barriers",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews"
+  },
+  {
+   "id": "b21fd7551431",
+   "title": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value"
+  },
+  {
+   "id": "df7c4607136b",
+   "title": "The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry"
+  },
+  {
+   "id": "97a2455d7b97",
+   "title": "NVIDIA's Long-Video and World-Action Research",
+   "source": "TLDR AI",
+   "url": "https://github.com/NVlabs/LongLive"
+  },
+  {
+   "id": "f15b576d2b6f",
+   "title": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but for violating \"clear policies on handling sensitive information\"",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html"
+  },
+  {
+   "id": "ee33804d1038",
+   "title": "Anthropic Cyber Defense Initiative",
+   "source": "TLDR AI",
+   "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+  },
+  {
+   "id": "629f461da26b",
+   "title": "ICYMI we've cut the price of Sonnet 5.5 cache reads in half",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2108287358374482381.html"
+  },
+  {
+   "id": "f5999b708a63",
+   "title": "Security Swarm",
+   "source": "TLDR AI",
+   "url": "https://docs.devin.ai/work-with-devin/security-swarm"
+  },
+  {
+   "id": "4dc40a585c91",
+   "title": "ATLAS: Evaluating Agents on Search-Intensive Tasks",
+   "source": "TLDR AI",
+   "url": "https://exa.ai/blog/atlas-benchmark"
   }
  ]
 }

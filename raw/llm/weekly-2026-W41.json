@@ -793,6 +793,66 @@
     "07de2f51f32c"
    ],
    "concepts": []
+  },
+  {
+   "title": "Agents, sandboxes and tooling",
+   "intro": "Libraries and tools that let agents work on real machines and real code.",
+   "stories": [
+    "469b9fce49a1",
+    "67c58cd5a426",
+    "a61d1b1cde2f",
+    "f5999b708a63",
+    "97a2455d7b97"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Benchmarks, research and engineering notes",
+   "intro": "How models are tested and why they run fast.",
+   "stories": [
+    "470216b3a1c6",
+    "4dc40a585c91",
+    "7c4d2fcead07",
+    "fdc96d9738fd",
+    "b3171a6a01b3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Products and pricing",
+   "intro": "Gemini's work agent, Midjourney thinking mode, cheaper Sonnet cache reads and ultrafast GPT-6.1 Sol.",
+   "stories": [
+    "2837d9a40189",
+    "600fd6d3c63f",
+    "629f461da26b",
+    "0fbd7c3be959"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "OpenAI, money and the fired researchers",
+   "intro": "Revenue claims, funding and the safety-researcher dispute.",
+   "stories": [
+    "4b0a776b602f",
+    "55a8482d26d0",
+    "f15b576d2b6f",
+    "b21fd7551431",
+    "5a3b85847715",
+    "de4ce9465f38"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Security, policy and misuse",
+   "intro": "Cyber defense programs, attacks and influence campaigns.",
+   "stories": [
+    "ee33804d1038",
+    "7a631d77f1e3",
+    "b486792a1b4c",
+    "e993d9771494",
+    "df7c4607136b"
+   ],
+   "concepts": []
   }
  ]
 }

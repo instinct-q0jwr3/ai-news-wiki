@@ -1,0 +1,15 @@
+{
+ "id": "629f461da26b",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic's Claude developer account reminded users that cache reads for Sonnet 5.5 now cost half as much. The link goes to a thread-unroll page whose retrievable text has no body, only the post link and site boilerplate.",
+  "Basis: the post text was not readable, so only the headline claim is reported. Check Anthropic's pricing page for the exact new rate."
+ ],
+ "highlights": [
+  "Sonnet 5.5 cache reads cut in half",
+  "Announced by the Claude developer account",
+  "Exact price not in the retrievable text"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "5a3b85847715",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The headline, from Techmeme, says sources describe Mark Zuckerberg deciding to launch Meta's Muse agent despite safety concerns, after seeing that a similar agent product from the startup Instinct was gaining traction.",
+  "Basis: the underlying report was blocked (HTTP 403), so this relies on the headline only. The reporting outlet, the safety concerns and the timeline are not confirmed here."
+ ],
+ "highlights": [
+  "Zuckerberg reportedly launched Muse despite safety concerns",
+  "Triggered by a rival agent product gaining traction",
+  "Source blocked, headline only"
+ ]
+}

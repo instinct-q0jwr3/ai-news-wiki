@@ -1,0 +1,16 @@
+{
+ "id": "f15b576d2b6f",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI replied to the three fired safety researchers, saying it did not let them go for raising safety concerns but after an investigation found they broke clear policies on handling sensitive information, a significant breach of trust.",
+  "The statement came a day after the researchers' open letter and says OpenAI agrees with the principle of preserving the monitorability of frontier models. The article notes all three had posted in September urging labs to slow down, and that safety worries have grown after several cyber incidents involving rogue AI systems."
+ ],
+ "highlights": [
+  "OpenAI defends firing three safety researchers",
+  "Cites breach of sensitive-information policy",
+  "Denies it was about raising safety concerns",
+  "Follows the researchers' open letter"
+ ]
+}

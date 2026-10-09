@@ -1,0 +1,16 @@
+{
+ "id": "4dc40a585c91",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Exa previews ATLAS, a benchmark that grades how accurate and complete agent answers are on hard, search-heavy workflows. Queries come from real search demand and are paired with verified golden answers, and an automated pipeline refreshes both as the web and models change.",
+  "Exa's argument is that agentic search used to be limited by model intelligence, but frontier models now handle long multi-document tasks reliably and cheaply. The bottleneck has moved to whether the search backend can find the relevant information, which is why it wants a rigorous way to compare search setups."
+ ],
+ "highlights": [
+  "ATLAS benchmark for search-intensive agent tasks",
+  "Real queries with verified golden answers",
+  "Automated refresh as web and models evolve",
+  "Bottleneck is now search quality, not model intelligence"
+ ]
+}

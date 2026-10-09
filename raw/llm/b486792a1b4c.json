@@ -1,0 +1,16 @@
+{
+ "id": "b486792a1b4c",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The headline says the Chinese developer of the ARTEX AI agent turned it into a closed-source project after cybersecurity firms, including CrowdStrike, said it was used to hack South Korean banks.",
+  "Basis: the full article could not be retrieved (HTTP 401), so only the feed excerpt is available. The attack details and the developer's reasons are not confirmed here."
+ ],
+ "highlights": [
+  "ARTEX agent moved to closed source",
+  "Security firms linked it to attacks on South Korean banks",
+  "CrowdStrike cited in the headline",
+  "Source blocked, excerpt only"
+ ]
+}

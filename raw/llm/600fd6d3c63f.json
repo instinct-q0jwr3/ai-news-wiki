@@ -1,0 +1,16 @@
+{
+ "id": "600fd6d3c63f",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Midjourney is testing a Thinking Mode for image generation on its Alpha site. Users open a job's lightbox and press Rerun (Thinking) to have the model reason before drawing.",
+  "Early tests show better prompt accuracy, typography and coherence. The team asks testers for examples and feedback in its Discord ideas channel and may later offer it as a general thinking mode or as a way to add more thinking after a job."
+ ],
+ "highlights": [
+  "Thinking Mode in testing on Midjourney Alpha",
+  "Use Rerun (Thinking) from a job's lightbox",
+  "Improves prompt accuracy, typography, coherence",
+  "May become a general option later"
+ ]
+}

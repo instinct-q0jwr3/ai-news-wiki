@@ -1,0 +1,16 @@
+{
+ "id": "4b0a776b602f",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "TechCrunch, citing the Financial Times, reports that OpenAI told investors its annualized revenue is approaching $50 billion, about $20 billion less than the roughly $70 billion figure reported a week earlier.",
+  "The FT says the higher number came from investors trying to compare directly with Anthropic. The two companies count revenue differently, since Anthropic includes sales made by its cloud partners and OpenAI does not. The gap matters because OpenAI has raised huge sums, including $122 billion in one March round, and is heading toward an IPO."
+ ],
+ "highlights": [
+  "OpenAI annualized revenue near $50B, not $70B",
+  "$70B came from investor comparisons with Anthropic",
+  "Anthropic counts cloud-partner sales, OpenAI does not",
+  "Raised $122B in March; IPO ahead"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "fdc96d9738fd",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The post argues that wake-sleep, a classic learning scheme, is returning for agents. In the wake phase the system acts online; in the sleep phase it reviews its recorded work offline and turns it into memories or structured context for its next task.",
+  "With long-horizon agents running for hours and verifiers that separate good outcomes from bad, that record can be mined by LLMs or other agents. It places such hybrid online-offline protocols as part of the emerging agent stack."
+ ],
+ "highlights": [
+  "Wake-sleep revived for long-horizon agents",
+  "Act online, review offline",
+  "Verifiers show which actions led to good results",
+  "Offline review becomes memory for the next task"
+ ]
+}

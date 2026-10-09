@@ -1,0 +1,16 @@
+{
+ "id": "f5999b708a63",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Devin's Security Swarm docs describe how to set up an automated security scan: create a scan profile, run it interactively and review findings. The sample guidance assumes an internet attacker or a single-tenant user and focuses on public HTTP handlers, OAuth callbacks, API tokens, admin actions and tenant data.",
+  "The investigation rules tell Devin to trace untrusted input through middleware to the sensitive operation, cite exact files and lines, account for existing mitigations and not report theoretical issues a mitigation blocks. Triage guidance covers deduplicating and prioritizing findings."
+ ],
+ "highlights": [
+  "Devin Security Swarm scan setup",
+  "Focus: auth bypass, cross-tenant access, token leaks, injection, SSRF",
+  "Trace input from route to sensitive operation",
+  "Skip issues blocked by mitigations"
+ ]
+}

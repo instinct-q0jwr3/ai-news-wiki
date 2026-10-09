@@ -1,0 +1,17 @@
+{
+ "id": "469b9fce49a1",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Microsoft's Quicksand is an async Python library for launching, controlling and snapshotting QEMU virtual machines, aimed at sandboxing AI agents. It ships ready-made Ubuntu and Alpine images for x86_64 and ARM64 on macOS, Linux and Windows.",
+  "Sandboxes run without root or Docker. A short context-manager API lets code execute commands, take screenshots and type text in a desktop VM, which is what a computer-using agent needs."
+ ],
+ "highlights": [
+  "Async Python API for QEMU VMs",
+  "Built for sandboxing AI agents",
+  "Ubuntu and Alpine images, x86_64 and ARM64",
+  "No root or Docker needed",
+  "Desktop mode with screenshots and typing"
+ ]
+}

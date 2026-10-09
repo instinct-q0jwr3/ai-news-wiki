@@ -1,0 +1,17 @@
+{
+ "id": "7a631d77f1e3",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The headline reports a run of cyberattacks on Japanese companies in September that exposed data on millions of people. It says they prompted calls for security checks and attributes lower hacking barriers to AI.",
+  "Basis: the source article was blocked (HTTP 403), so the companies, counts and the evidence for the AI link are not available here."
+ ],
+ "highlights": [
+  "Wave of cyberattacks on Japanese firms in September",
+  "Data of millions exposed",
+  "Calls for security checks",
+  "AI blamed for lowering hacking barriers",
+  "Source blocked, headline only"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "7c4d2fcead07",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A post on why speculative decoding is fast corrects a common belief. It does not save work: the total floating point operations go up, since a big model verifies the draft model's proposed tokens.",
+  "The speed-up comes from the kind of work the GPU does. Normal decoding is limited by loading data from memory, one token at a time. Verifying many drafted tokens in one forward pass uses the tensor hardware that would otherwise sit idle, so an accurate draft model buys better hardware use rather than lower compute."
+ ],
+ "highlights": [
+  "Speculative decoding does more FLOPs, not fewer",
+  "Decoding one token at a time is memory-bound",
+  "Parallel verification uses idle compute",
+  "Gain comes from workload type, not less work"
+ ]
+}

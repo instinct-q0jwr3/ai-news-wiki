@@ -1,0 +1,17 @@
+{
+ "id": "2837d9a40189",
+ "authored_at": "2026-10-09T13:49:34.913407+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google Cloud used its Gemini at Work 2026 event to present Gemini as one universal agent for work. The same agent answers questions, does knowledge work, creates images and media, and writes and runs code, behind a single API.",
+  "Inside Workspace it works in Gmail, Drive, Docs, Slides, Sheets, Chat and Calendar, carrying the same memory, skills and controls everywhere. Google says the model underneath is a separate choice from the agent, and cites nearly 80% of Cloud customers and nearly 90% of the Fortune 100 using its AI products. New data and analytics skills let business users ask questions in plain language."
+ ],
+ "highlights": [
+  "Gemini agent: one universal work agent",
+  "Works inside Gmail, Docs, Sheets, Calendar and more",
+  "Agent and underlying model are chosen separately",
+  "Adoption claims: ~80% of Cloud customers",
+  "New plain-language data and analytics skills"
+ ]
+}
