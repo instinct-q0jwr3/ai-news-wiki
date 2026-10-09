@@ -1,0 +1,18 @@
+{
+ "id": "8ee7f97b7c6a",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Aura is an open-source, local-first personal AI agent platform written in Go. One binary on your own machine hosts the agent runtime, shell and file tools, web, documents, scheduling, skills, and access through CLI, Telegram and a web interface, with graph-backed memory in Postgres and ArcadeDB.",
+  "It uses a swappable model, DeepSeek-V4 through OpenRouter by default. The project says it is built as a product and could ship as a DGX Spark bundle for small businesses wanting a private assistant. The commit history shows one main author plus 130 commits credited to Claude."
+ ],
+ "highlights": [
+  "Local-first AI agent in one Go binary",
+  "Terminal, web, documents and scheduling tools",
+  "Memory in Postgres and ArcadeDB",
+  "Default model DeepSeek-V4 via OpenRouter",
+  "Access by CLI, Telegram and web",
+  "Mostly one author with Claude commits"
+ ]
+}

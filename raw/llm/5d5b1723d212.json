@@ -1,0 +1,18 @@
+{
+ "id": "5d5b1723d212",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A blog post argues that model collapse is not new and is not specific to AI. The author's concern is a human version: when you ask an AI to help build a product it suggests features, names and pricing, you pick from its menu and feel like the architect, while your goal is quietly replaced.",
+  "He cites a study of 1,506 people in which those who wrote with an opinionated AI assistant shifted their own opinions toward it, and notes that one oracle advising millions then trains on the output they publish. He ties this to the 2024 Nature paper showing training on AI-generated data causes irreversible defects. It is an opinion essay."
+ ],
+ "highlights": [
+  "Model collapse has a human analogue",
+  "AI suggestions can replace your original goal",
+  "Study of 1,506 people: opinions moved toward the AI's",
+  "One oracle, many users, outputs recycled into training data",
+  "Cites the 2024 Nature model-collapse paper",
+  "Opinion essay"
+ ]
+}

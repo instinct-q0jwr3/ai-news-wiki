@@ -1,0 +1,17 @@
+{
+ "id": "f2aa33675951",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Awesome AI Coding Tools is a curated GitHub list of AI coding assistants, terminal agents, autonomous software engineers, local code models and research papers. It organizes tools into five autonomy tiers, from autocomplete to autonomous agents, and includes a benchmark leaderboard, a feature matrix and a local offline developer recipe.",
+  "It is a community list by a few contributors, so completeness and accuracy of its comparisons are not verified."
+ ],
+ "highlights": [
+  "Curated list of AI coding tools and papers",
+  "Five autonomy tiers from autocomplete to autonomous agents",
+  "Includes SWE-bench and HumanEval leaderboard",
+  "Local offline setup recipe",
+  "Community list, not independently checked"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "b52a4b3366cf",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Veda is an operating system written from scratch in Rust where the AI agent is a first-class user of the system. You speak to it, for example asking it to change your wallpaper, and it does the work through the same operations as keyboard and mouse in any application, asking before anything hard to undo.",
+  "The repository contains a UEFI bootloader, capability-based microkernel, drivers, services, window system and apps, with a few existing crates for networking and cryptography. It runs on x86-64 PCs, QEMU and VirtualBox. The argument is that systems built for people at keyboards make assistants guess from screens, while Veda gives the agent system-level support."
+ ],
+ "highlights": [
+  "OS in Rust built around a resident AI agent",
+  "Agent works through normal input operations in any app",
+  "Asks before irreversible actions",
+  "Own bootloader, microkernel, drivers and window system",
+  "Runs on x86-64 PCs and in VMs",
+  "Early individual project"
+ ]
+}

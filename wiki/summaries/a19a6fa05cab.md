@@ -1,6 +1,6 @@
 # Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers
 
-_type: news-summary · created: 2026-10-02 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-10-02 · updated: 2026-10-09 · confidence: high_
 
 `hacker-news` `typesafe`
 

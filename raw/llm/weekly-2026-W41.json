@@ -732,6 +732,56 @@
     "c60d285ba9c6"
    ],
    "concepts": []
+  },
+  {
+   "title": "Fired OpenAI researchers speak",
+   "intro": "The researchers' letter and claim, and mathematicians' views on OpenAI's release.",
+   "stories": [
+    "a2415857624f",
+    "b9d5b2b21d15",
+    "1fe85feada29",
+    "433b35c411d8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents, operating systems and servers",
+   "intro": "Agent platforms, a Rust OS, cloud agents and what agents still get wrong.",
+   "stories": [
+    "b52a4b3366cf",
+    "8ee7f97b7c6a",
+    "de74344957c5",
+    "b6a339fe9e5a",
+    "e381d5ba463f",
+    "19ffe2bad11e",
+    "f2aa33675951"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Benchmarks, crawlers and collapse",
+   "intro": "A Pac-Man benchmark, crawler data, model collapse and programming.",
+   "stories": [
+    "fbc205efdd32",
+    "0a2ad2e7409f",
+    "5d5b1723d212",
+    "66c4cb1f0f75",
+    "544d02c6cfea"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Science money, security and politics",
+   "intro": "Biology data funding, OSS Scanner, Flock layoffs, USV and White House moments.",
+   "stories": [
+    "7c16c4ba45bd",
+    "a84465a36d2a",
+    "6e6a4493b7bc",
+    "4b447c5a505d",
+    "e433fe4d6205",
+    "6e0ed67dce96"
+   ],
+   "concepts": []
   }
  ]
 }

@@ -1,89 +1,125 @@
 {
- "generated_at": "2026-10-08T19:39:55+00:00",
+ "generated_at": "2026-10-09T01:40:41+00:00",
  "stories": [
   {
-   "id": "225b4fb0112e",
-   "title": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
-  },
-  {
-   "id": "8263ac03993f",
-   "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+   "id": "1fe85feada29",
+   "title": "OpenAI, the Partition Principle, and Mathematics",
    "source": "Hacker News",
-   "url": "https://github.com/SamsungLabs/LittleBit"
+   "url": "https://karagila.org/2026/openai-pp/"
   },
   {
-   "id": "8ac495b8fa81",
-   "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+   "id": "7c16c4ba45bd",
+   "title": "AI-ready biological data: $1.8B global commitment",
    "source": "Hacker News",
-   "url": "https://openrouter.ai/stepfun/step-5-preview"
+   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/"
   },
   {
-   "id": "f49ce9cf23a2",
-   "title": "Frontier AI models outperform analysts on earnings prediction",
+   "id": "d75d8d0074cb",
+   "title": "Vitalik Buterin says \"we should take the risks to cryptography from AI-accelerated math seriously\", backing a \"bunker mode\" call for the blockchain industry",
+   "source": "Techmeme",
+   "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
+  },
+  {
+   "id": "fbc205efdd32",
+   "title": "Show HN: Jevman – AI decision models play Pac-Man",
    "source": "Hacker News",
-   "url": "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction"
+   "url": "https://opper.ai/jevman-benchmark/"
   },
   {
-   "id": "f183420d65d0",
-   "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+   "id": "e381d5ba463f",
+   "title": ".md File is not a specification: Using formal analysis to find requirements gaps",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=3TNpOD6bov8"
+   "url": "https://blog.fizzbee.ai/formal-analysis-in-requirements-specification/"
   },
   {
-   "id": "656398de72ef",
-   "title": "Show HN: I Put an AI Agent on a Nokia 110",
+   "id": "a2415857624f",
+   "title": "OpenAI cannot make AI safe on its own [pdf]",
    "source": "Hacker News",
-   "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA"
+   "url": "https://mikitabalesni.com/letter/letter.pdf"
   },
   {
-   "id": "ac9548bb7718",
-   "title": "Developer uses AI to build free Adobe clones after frustration with cancellation",
+   "id": "0a2ad2e7409f",
+   "title": "AI Crawler Index",
    "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html"
+   "url": "https://mojodojo.io/ai-crawler-index"
   },
   {
-   "id": "5c9029074f3a",
-   "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs",
+   "id": "19ffe2bad11e",
+   "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+   "source": "Hacker News",
+   "url": "https://github.com/edrisranjbar/lifeos"
+  },
+  {
+   "id": "f2aa33675951",
+   "title": "AI Coding Tools – Architecture diagrams, local models, and SWE-bench",
+   "source": "Hacker News",
+   "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools"
+  },
+  {
+   "id": "5d5b1723d212",
+   "title": "Model Collapse Isn't New, nor Is It Specific to AI",
+   "source": "Hacker News",
+   "url": "https://rulr.dev/blog/model-collapse-isnt-new/"
+  },
+  {
+   "id": "b52a4b3366cf",
+   "title": "Veda: The Agentic-Native Operating System Supports GCC and OpenGL",
+   "source": "Hacker News",
+   "url": "https://github.com/vahmoh25/Veda"
+  },
+  {
+   "id": "8ee7f97b7c6a",
+   "title": "Show HN: Aura – a self-hosted, multi-user AI agent with per-person graph memory",
+   "source": "Hacker News",
+   "url": "https://github.com/chetto1983/Aura"
+  },
+  {
+   "id": "433b35c411d8",
+   "title": "Can AI replace mathematicians? Vienna researchers weigh in",
+   "source": "Hacker News",
+   "url": "https://rudolphina.univie.ac.at/en/can-ai-replace-mathematicians-university-vienna"
+  },
+  {
+   "id": "b6a339fe9e5a",
+   "title": "I gave four coding agents $100 budget to build a PDF editor",
+   "source": "Hacker News",
+   "url": "https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/"
+  },
+  {
+   "id": "de74344957c5",
+   "title": "Agents in the Cloud",
+   "source": "Hacker News",
+   "url": "https://agentsinthecloud.com/"
+  },
+  {
+   "id": "66c4cb1f0f75",
+   "title": "Quoting Carson Gross",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/8/carson-gross/"
+  },
+  {
+   "id": "4b447c5a505d",
+   "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-08/union-square-ventures-doubles-fund-size-shrinks-team-for-ai-era"
   },
   {
-   "id": "dcced9137069",
-   "title": "Apple Is Slow-Rolling iOS 27 Adoption, So Far",
-   "source": "Daring Fireball",
-   "url": "https://mastodon.social/@_Davidsmith/117355154519434137"
-  },
-  {
-   "id": "c60d285ba9c6",
-   "title": "Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence",
+   "id": "e433fe4d6205",
+   "title": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders",
    "source": "Techmeme",
-   "url": "https://truthsocial.com/@realDonaldTrump"
+   "url": "https://www.washingtonpost.com/politics/2026/10/08/trump-microsoft-nadella-musk-ai/2a7fcefa-c33f-11f1-8170-681419af1cc9_story.html"
   },
   {
-   "id": "a3358ebc5891",
-   "title": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index",
+   "id": "b9d5b2b21d15",
+   "title": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\"",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-model-evaluator-arena-valued-at-over-3-billion-in-round"
+   "url": "https://x.com/balesni/status/2108262814003687745"
   },
   {
-   "id": "c24919f5b8f4",
-   "title": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
-  },
-  {
-   "id": "93266c7595aa",
-   "title": "the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding"
-  },
-  {
-   "id": "414955e0610c",
-   "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
-   "source": "Lobsters",
-   "url": "https://arxiv.org/abs/2610.08144"
+   "id": "544d02c6cfea",
+   "title": "ttok 0.4",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/8/ttok/"
   },
   {
    "id": "8ad2711d5669",
@@ -92,22 +128,28 @@
    "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity"
   },
   {
-   "id": "33363f1acb89",
-   "title": "Hone, founded by former OpenAI and Cognition staffers to create AI agents that can help run a business, raised a $60M seed at a $285M valuation",
+   "id": "c24919f5b8f4",
+   "title": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
   },
   {
-   "id": "f6d977e7ee19",
-   "title": "Gallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/08/gallatin-seriesa-8vc-contested-logistics-army"
+   "id": "6e0ed67dce96",
+   "title": "Let’s Check In on Trump’s Blog",
+   "source": "Daring Fireball",
+   "url": "https://truthsocial.com/@realDonaldTrump/posts/117406176604364910"
   },
   {
-   "id": "4da4fb3033fc",
-   "title": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct",
+   "id": "a84465a36d2a",
+   "title": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+   "url": "https://www.anthropic.com/"
+  },
+  {
+   "id": "6e6a4493b7bc",
+   "title": "Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-2026-10-09/"
   }
  ]
 }

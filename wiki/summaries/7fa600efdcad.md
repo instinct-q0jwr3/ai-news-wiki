@@ -1,6 +1,6 @@
 # OpenAI's B2B Marketplace: The Hyperscaler Of AI Apps
 
-_type: news-summary · created: 2026-10-06 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-10-06 · updated: 2026-10-09 · confidence: high_
 
 `tldr-ai` `openai`
 

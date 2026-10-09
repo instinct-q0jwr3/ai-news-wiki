@@ -1,0 +1,15 @@
+{
+ "id": "544d02c6cfea",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison releases ttok 0.4, his command-line tool for counting tokens using OpenAI's tiktoken. It had not been updated in a couple of years; he fixed a Click warning, updated CI and added a --list-models command that lists the models tiktoken supports."
+ ],
+ "highlights": [
+  "ttok 0.4 released",
+  "Fixes a Click warning, updates CI",
+  "New --list-models command",
+  "Counts tokens with OpenAI's tiktoken"
+ ]
+}

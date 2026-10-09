@@ -1,6 +1,6 @@
 # The world's best gradual disempowerment model organism: Frontier AI labs
 
-_type: news-summary · created: 2026-09-30 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-09-30 · updated: 2026-10-09 · confidence: high_
 
 `tldr-ai`
 

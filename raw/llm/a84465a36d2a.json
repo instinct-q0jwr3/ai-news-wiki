@@ -1,0 +1,16 @@
+{
+ "id": "a84465a36d2a",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic launches OSS Scanner, a free opt-in security audit for open-source projects. It sends AI-generated vulnerability reports without human review, which means maintainers may receive findings that are wrong.",
+  "The tool belongs to Anthropic's wider critical-infrastructure security push announced the same day. Details of how projects join were not in the excerpt."
+ ],
+ "highlights": [
+  "Free opt-in vulnerability scans of open-source projects",
+  "Reports are AI-generated and not human-reviewed",
+  "Findings may be inaccurate",
+  "Part of a wider Anthropic security push"
+ ]
+}

@@ -1,6 +1,6 @@
 # Concept: Ai And Creative Labor
 
-_type: concept · created: 2026-10-08 · updated: 2026-10-08 · confidence: medium_
+_type: concept · created: 2026-10-09 · updated: 2026-10-09 · confidence: medium_
 
 `concept` `ai-and-creative-labor`
 

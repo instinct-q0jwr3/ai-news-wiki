@@ -1,6 +1,6 @@
 # Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions
 
-_type: news-summary · created: 2026-09-30 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-09-30 · updated: 2026-10-09 · confidence: high_
 
 `techmeme`
 

@@ -1,0 +1,17 @@
+{
+ "id": "0a2ad2e7409f",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Mojodojo's AI Crawler Index reports bot traffic on its own site. AI crawlers made 12,650 of 54,295 counted bot hits (23.3%), against 26.1% for search engines, so AI bots made 0.89 hits per search-engine hit.",
+  "Training crawlers account for 16.3% of hits, AI search 5.2% and live assistant fetches 996 pages. Of hits claiming to be a verified bot, 13.2% came from the wrong IP, and 396 spoofed hits were removed from the shares. This is one site's data, so it does not generalize."
+ ],
+ "highlights": [
+  "AI crawlers are 23.3% of bot hits on this site",
+  "Training bots 16.3%, AI search 5.2%",
+  "996 live fetches by assistants answering questions",
+  "13.2% of verifiable bot claims came from the wrong IP",
+  "Single-site data"
+ ]
+}

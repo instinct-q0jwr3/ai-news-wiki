@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-09 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-09** - Anthropic launches OSS Scanner, a free opt-in security audit for open-source projects. It sends AI-generated vulnerability reports without human review, which means maintainers may receive findings that are wrong. ([Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review](../summaries/a84465a36d2a.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-10-08** - A Hacker News link to a YouTube music video titled LGTM (Looks Good to Me), made with Claude Opus 5.5. The video page was not reviewed, so the content and how much Claude did are unknown. ([LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video](../summaries/f183420d65d0.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-10-08** - Natura unveils Interface, a $99 smart ring meant as an interface to AI agents. It tracks heart rate, HRV, sleep and activity like a health ring, and at launch connects to agents and apps including Meta's Muse, Instinct, Grokbot, Claude and ChatGPT. ([AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct](../summaries/4da4fb3033fc.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - Anthropic launches the Critical Infrastructure Defense Program, giving its frontier models, on-site engineers and threat research to companies that secure critical infrastructure. Participants use them to find and fix vulnerabilities in customers' systems. ([Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others](../summaries/8ad2711d5669.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠

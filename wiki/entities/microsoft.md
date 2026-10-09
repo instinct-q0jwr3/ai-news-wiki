@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-09 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-09** - The Washington Post, via AP, reports that Satya Nadella and Michael Dell received the National Medal of Technology and Innovation at a White House event where President Trump celebrated tech billionaires. The timing was awkward: hours earlier Vice… ([Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders](../summaries/e433fe4d6205.md) · [Microsoft](../entities/microsoft.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-10-08** - NVIDIA and Microsoft held a Windows and Surface event on agents for PCs. Jensen Huang and Satya Nadella spoke in a fireside chat, and Huang said that in the agent era the PC becomes a personal assistant. ([NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents](../summaries/afd98a2005ed.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - VentureBeat reports Google Cloud unveiled a Gemini agent for multi-day enterprise workflows across Workspace, Microsoft 365 and Slack, with support for multiple AI models. It can research, create documents and write code, and gets its own Gmail, Calendar… ([Google Cloud unveils the Gemini agent to handle multi-day enterprise workflows across Workspace, Microsoft 365, and Slack, with support for multiple AI models](../summaries/d9cb095fb17d.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - Mozilla marks 100 days since its Over The Edge 2.0 report, written by deceptive-design researchers Harry Brignull and Cennydd Bowles, which documents how Windows, Edge, Bing and Copilot steer people away from the browser they chose. Mozilla says it shared… ([100 days later: Microsoft still steers Windows and Copilot users to Edge](../summaries/1b42aac49ea8.md) · [Microsoft](../entities/microsoft.md) · [Small and specialist models](../concepts/small-specialist-models.md))

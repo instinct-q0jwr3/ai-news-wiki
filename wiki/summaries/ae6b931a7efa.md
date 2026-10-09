@@ -1,6 +1,6 @@
 # AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO
 
-_type: news-summary · created: 2026-10-06 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-10-06 · updated: 2026-10-09 · confidence: high_
 
 `techmeme`
 

@@ -1,0 +1,17 @@
+{
+ "id": "e381d5ba463f",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A FizzBee post argues that a markdown requirements file is not a specification. Using a booking example, it shows that requirements written in EARS notation can look well specified yet hide gaps: one requirement, that appointments fall within a stylist's schedule, is a property to hold across states, not an observable behavior one can test directly.",
+  "The author proposes formal analysis to find ambiguity, inconsistency and missing cases before giving requirements to an engineer or coding agent. The post is from a vendor of a formal-modeling tool."
+ ],
+ "highlights": [
+  "Markdown requirements are not a specification",
+  "EARS notation can still hide untestable properties",
+  "Example: appointments must lie inside stylist schedules",
+  "Formal analysis finds gaps before agents build",
+  "Vendor of a formal-modeling tool"
+ ]
+}

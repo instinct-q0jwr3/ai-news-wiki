@@ -1,6 +1,6 @@
 # In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight
 
-_type: news-summary · created: 2026-10-05 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-10-05 · updated: 2026-10-09 · confidence: high_
 
 `techmeme`
 

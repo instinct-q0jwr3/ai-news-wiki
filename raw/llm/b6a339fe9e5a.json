@@ -1,0 +1,17 @@
+{
+ "id": "b6a339fe9e5a",
+ "authored_at": "2026-10-09T01:44:20.852657+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A researcher gave four coding agents a $100 budget each to build a PDF editor and reports the remaining shortcomings. His view is that agents do not use software like people: they pursue no concrete goal that creates friction and look at the UI much less, so unless this changes the result is annoying 'slopware'.",
+  "He frames his work as asking why humans are still needed in software development, noting that the answer moved from translating requirements into code, to supplying context, which coding agents then solved. The experiment details were not fully reviewed; the conclusion is his."
+ ],
+ "highlights": [
+  "Four coding agents, $100 each, to build a PDF editor",
+  "Agents don't feel friction or look at the UI like users do",
+  "Predicts annoying low-quality software without change",
+  "Frames the history of what humans still add",
+  "Experiment details not fully reviewed"
+ ]
+}

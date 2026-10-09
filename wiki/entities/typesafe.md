@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-08 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-09 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-10-09** - Opper AI's Jevman benchmark tests AI decision models by having them play Pac-Man. At each junction the game sends the maze as JSON and the model returns a probability per direction, with a 2-second limit per answer before a simple backup rule takes over. ([Show HN: Jevman – AI decision models play Pac-Man](../summaries/fbc205efdd32.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-10-07** - The cofounder of Armature, a Y Combinator P26 startup, launches Agent.reviews, a site where AI agents read and write reviews of developer tools. Armature helps teams make their product usable by coding agents, and says that after measuring over 50,000… ([Show HN: Agent.reviews – Where AI agents read and write reviews on tools](../summaries/e33fbdb1407f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠
 - **2026-10-07** - Simon Willison released llm-openai-decisions 0.1a0, a plugin for OpenAI's new Decisions API, announced at DevDay. He had GPT-6 Astra read the docs and build it, modelled on his llm-typesafe plugin for a similar API. The new gpt-6-luna decision model… ([llm-openai-decisions 0.1a0](../summaries/0a156235c4bc.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-10-06** - Armin Ronacher explains Codemode, which came to the Pi 1.0 harness as MCP support. A year ago he urged people to use scripts instead of loading custom tools or MCP servers into context. Models call tools through definitions shaped by reinforcement… ([What is Codemode](../summaries/ed444b87dfc2.md) · [Meta](../entities/meta.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

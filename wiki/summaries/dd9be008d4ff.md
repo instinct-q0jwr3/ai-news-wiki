@@ -1,6 +1,6 @@
 # Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others
 
-_type: news-summary · created: 2026-10-08 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-10-08 · updated: 2026-10-09 · confidence: high_
 
 `techmeme` `nvidia`
 

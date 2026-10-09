@@ -1,6 +1,6 @@
 # Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are "chilling those who remain at OpenAI"
 
-_type: news-summary · created: 2026-10-08 · updated: 2026-10-08 · confidence: high_
+_type: news-summary · created: 2026-10-08 · updated: 2026-10-09 · confidence: high_
 
 `techmeme` `openai`
 
