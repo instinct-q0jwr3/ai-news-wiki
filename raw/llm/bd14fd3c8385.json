@@ -1,0 +1,15 @@
+{
+ "id": "bd14fd3c8385",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The New York Times reports on how mathematicians are reacting to OpenAI's new release, with words like breathtaking and devastating in the headline. This fits the wider story of OpenAI's manuscript release covered elsewhere today.",
+  "Basis: the article is behind a paywall and was not fetched, so the reactions themselves are not summarized here."
+ ],
+ "highlights": [
+  "Mathematicians react to OpenAI release",
+  "Reactions range from breathtaking to devastating",
+  "Paywalled, headline only"
+ ]
+}

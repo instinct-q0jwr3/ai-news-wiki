@@ -1,0 +1,16 @@
+{
+ "id": "cc922c1e5271",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A SemiAnalysis analysis of 857 releases from nine Chinese AI labs between 2021 and September 2026 finds only 3.6% included safety results from the developer and just 1.1% did so at launch. It frames this against the safety debate after Dario Amodei's September essay arguing frontier labs should slow down.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "857 releases from nine Chinese labs reviewed",
+  "3.6% had developer safety results",
+  "1.1% had them at launch",
+  "Set against the slowdown debate"
+ ]
+}

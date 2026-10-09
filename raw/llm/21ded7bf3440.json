@@ -1,0 +1,14 @@
+{
+ "id": "21ded7bf3440",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Michael Lynch's post asks why coding agents so often behave dumbly. The title is the only retrievable part here.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "Essay on why coding agents seem dumb",
+  "Source text not fetched"
+ ]
+}

@@ -446,5 +446,61 @@
   "thin": 7,
   "total": 73,
   "unreadable": 6
+ },
+ "2026-10-09": {
+  "ok": 51,
+  "paywall": 9,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "4b0a776b602f",
+    "minutes": 2,
+    "source": "TechCrunch",
+    "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
+    "why": "OpenAI told investors its annualized revenue is near $50B, not the $70B reported a week earlier."
+   },
+   {
+    "cat": "ok",
+    "front": "Trust",
+    "id": "55a8482d26d0",
+    "minutes": 7,
+    "source": "TechCrunch",
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "why": "Three fired OpenAI safety researchers published an open letter denying they mishandled information and warning of a chilling effect."
+   },
+   {
+    "cat": "ok",
+    "front": "Science",
+    "id": "470216b3a1c6",
+    "minutes": 19,
+    "source": "Epoch AI",
+    "title": "Can AI automate Epoch?",
+    "why": "Epoch tested six frontier models on its own real research tasks: reliable on defined work, weak on open-ended parts."
+   },
+   {
+    "cat": "ok",
+    "front": "Infrastructure",
+    "id": "de4ce9465f38",
+    "minutes": 4,
+    "source": "The Register",
+    "title": "Nvidia commits $1B over five years to build out the US' \"capacity for super intelligence R&D\" in fields like quantum computing, healthcare, and energy security",
+    "why": "Nvidia commits $1B over five years to US AI research in quantum, healthcare and energy security."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "2837d9a40189",
+    "minutes": 36,
+    "source": "Google",
+    "title": "Gemini Agent",
+    "why": "Google presents Gemini as one universal work agent across Workspace, with the model chosen separately."
+   }
+  ],
+  "reserve": "ee33804d1038",
+  "status": "provisional",
+  "thin": 2,
+  "total": 67,
+  "unreadable": 5
  }
 }

@@ -1,0 +1,15 @@
+{
+ "id": "3a7d420edc08",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A blog post describes pointing AI at 400 years of archives and finding a forgotten meteorite, lost rhinos and other items that human readers had missed.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "AI applied to 400 years of archives",
+  "Findings include a forgotten meteorite and lost rhinos",
+  "Source text not fetched"
+ ]
+}

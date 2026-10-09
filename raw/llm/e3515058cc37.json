@@ -1,0 +1,16 @@
+{
+ "id": "e3515058cc37",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Apogee is a Show HN project that rebuilds Mozilla's Orbit, an AI browser summarizer that ran on a GCP server, as a fully local and privacy-focused extension. The author says people who dug into Orbit found backend endpoints that sent data out, which motivated the rewrite.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "Local rebuild of Mozilla's Orbit summarizer",
+  "Privacy-focused, runs fully locally",
+  "Browser extension",
+  "Motivated by Orbit's backend endpoints"
+ ]
+}

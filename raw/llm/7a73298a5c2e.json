@@ -1,0 +1,15 @@
+{
+ "id": "7a73298a5c2e",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Linum AI's field notes describe training text-to-image models without a VAE, working directly in a different latent setup it calls pyramid JIT.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "Text-to-image training without a VAE",
+  "From Linum AI field notes",
+  "Source text not fetched"
+ ]
+}

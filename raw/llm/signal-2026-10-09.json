@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-09",
+ "status": "provisional",
+ "reserve": "ee33804d1038",
+ "picks": [
+  {
+   "id": "4b0a776b602f",
+   "front": "Business",
+   "source": "TechCrunch",
+   "why": "OpenAI told investors its annualized revenue is near $50B, not the $70B reported a week earlier."
+  },
+  {
+   "id": "55a8482d26d0",
+   "front": "Trust",
+   "source": "TechCrunch",
+   "why": "Three fired OpenAI safety researchers published an open letter denying they mishandled information and warning of a chilling effect."
+  },
+  {
+   "id": "470216b3a1c6",
+   "front": "Science",
+   "source": "Epoch AI",
+   "why": "Epoch tested six frontier models on its own real research tasks: reliable on defined work, weak on open-ended parts."
+  },
+  {
+   "id": "de4ce9465f38",
+   "front": "Infrastructure",
+   "source": "The Register",
+   "why": "Nvidia commits $1B over five years to US AI research in quantum, healthcare and energy security."
+  },
+  {
+   "id": "2837d9a40189",
+   "front": "Agents",
+   "source": "Google",
+   "why": "Google presents Gemini as one universal work agent across Workspace, with the model chosen separately."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "a3916863010f",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The BBC reports that Nikon ruled that a prize-winning image that caused backlash was AI-generated.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "Nikon rules a prize-winning image was AI-generated",
+  "Followed public backlash",
+  "Reported by the BBC"
+ ]
+}

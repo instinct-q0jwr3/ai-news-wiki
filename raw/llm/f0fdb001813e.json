@@ -1,0 +1,15 @@
+{
+ "id": "f0fdb001813e",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "CNBC reports that ChatGPT for Teens is not necessarily safer than the previous version, according to a safety review. Hacker News flagged it as an AI-relevant development.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "ChatGPT for Teens not clearly safer",
+  "Safety review cited by CNBC",
+  "Source text not fetched"
+ ]
+}

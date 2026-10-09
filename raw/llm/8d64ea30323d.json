@@ -1,0 +1,16 @@
+{
+ "id": "8d64ea30323d",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison passes on Michael Lynch's writing advice for software bloggers. Lynch warns against meandering intros, misjudging what readers already know, assuming they read earlier posts, and excessive formality.",
+  "Willison adds that with so many developers delegating writing to AI, software blogging is getting bland and samey. The feed excerpt also notes a warning against leaning on links instead of explaining terms."
+ ],
+ "highlights": [
+  "Anti-patterns in software blogging",
+  "Avoid meandering intros and excess formality",
+  "Do not assume readers read earlier posts",
+  "AI delegation makes blogs bland"
+ ]
+}

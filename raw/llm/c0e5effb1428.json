@@ -1,0 +1,15 @@
+{
+ "id": "c0e5effb1428",
+ "authored_at": "2026-10-09T19:52:34.252351+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A post on X, linked from Hacker News, says actor Ben Affleck is an AI nerd.",
+  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "Post claims Ben Affleck is an AI enthusiast",
+  "From X via Hacker News",
+  "Source text not fetched"
+ ]
+}
