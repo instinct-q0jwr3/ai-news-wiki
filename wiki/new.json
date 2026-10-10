@@ -1,71 +1,35 @@
 {
- "generated_at": "2026-10-10T07:44:46+00:00",
+ "generated_at": "2026-10-10T13:45:26+00:00",
  "stories": [
   {
-   "id": "63f2226a6b77",
-   "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+   "id": "84cda964d533",
+   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
    "source": "Hacker News",
-   "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
+   "url": "https://github.com/rociiu/talorys"
   },
   {
-   "id": "2dea59f1ef6d",
-   "title": "Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html?unlocked_article_code=1.HVE.8qqm.Wioro2BMBvfg&smid=nytcore-ios-share"
-  },
-  {
-   "id": "bfc2c30ebfef",
-   "title": "Put a price on breakthroughs",
+   "id": "77ca50234338",
+   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
    "source": "Hacker News",
-   "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/"
+   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo"
   },
   {
-   "id": "abee3ce70a7a",
-   "title": "If AI keeps evolving,would you worry about your next generation's survival",
+   "id": "f03824f32ecc",
+   "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50029896"
+   "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/"
   },
   {
-   "id": "094157683ad9",
-   "title": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market",
+   "id": "ad76c3b1b36f",
+   "title": "There's little that's \"inevitable\" about AI",
+   "source": "Lobsters",
+   "url": "https://deadsimpletech.com/blog/llms-arent-inevitable"
+  },
+  {
+   "id": "171c7d34883d",
+   "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more",
    "source": "Techmeme",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design"
-  },
-  {
-   "id": "2fa3143254c4",
-   "title": "Quoting The New York Times",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
-  },
-  {
-   "id": "3e2de3b1d0a1",
-   "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors"
-  },
-  {
-   "id": "497afce6f92e",
-   "title": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits",
-   "source": "Techmeme",
-   "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/"
-  },
-  {
-   "id": "a4f2c451a099",
-   "title": "We must recall open-ended AI agents with internet access from the market, now",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents"
-  },
-  {
-   "id": "e72c938bc86f",
-   "title": "Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?st=tzDj41"
-  },
-  {
-   "id": "acf391cfd57f",
-   "title": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+   "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
   }
  ]
 }
