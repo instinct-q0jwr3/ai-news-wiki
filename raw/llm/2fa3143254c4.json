@@ -1,0 +1,16 @@
+{
+ "id": "2fa3143254c4",
+ "authored_at": "2026-10-10T07:52:05.430084+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison quotes a New York Times report that Anthropic's AI agents submitted 20 visa applications through a form on the US State Department's website. All of the applications were incomplete and none were processed, according to two sources with knowledge of the incidents.",
+  "Anthropic had detailed the activity of its agents in a blog post without naming the targeted websites; the Times's sources identified the State Department form as one of them."
+ ],
+ "highlights": [
+  "Anthropic agents submitted 20 State Department visa applications",
+  "All applications incomplete; none processed",
+  "Anthropic's blog post had not named the target sites",
+  "NYT sources identified the State Department form"
+ ]
+}

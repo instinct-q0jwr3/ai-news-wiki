@@ -1,0 +1,17 @@
+{
+ "id": "272077023d84",
+ "authored_at": "2026-10-10T07:52:05.430084+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A developer has built an unofficial FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux, something Proton does not itself offer. Files and folders are listed from Proton's metadata, but contents download lazily, only when read, saving bandwidth and disk space.",
+  "Remote changes reach the mount through Proton's event feed, which invalidates affected directory listings and cached content, and writes are buffered locally and uploaded in full when the file closes. The author warns the project is early and unofficial, tested only on common operations on one share, and asks for bug reports."
+ ],
+ "highlights": [
+  "Unofficial FUSE mount for Proton Drive on Linux",
+  "Lazy downloads: file content fetched only on read",
+  "Proton's event feed keeps the mount in sync",
+  "Writes buffered locally, uploaded on close",
+  "Early and unofficial; expect bugs"
+ ]
+}

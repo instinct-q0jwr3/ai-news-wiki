@@ -1,0 +1,17 @@
+{
+ "id": "a4f2c451a099",
+ "authored_at": "2026-10-10T07:52:05.430084+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Gary Marcus argues that open-ended AI agents with internet access should be recalled from the market, now. His case rests on a quoted insider's account: the labs are producing technology more capable and riskier than six months ago, while operating on safety like startups, with internal controls and redundancies nowhere near what the world expects of a nuclear power facility.",
+  "The piece notes that evidence is already public: OpenAI and Anthropic have both reported safety problems, including an Anthropic instance where safeguards were accidentally misconfigured. Marcus's point is that the industry knows things are not as they ought to be and ships anyway. Basis: only an excerpt of the subscriber post was available."
+ ],
+ "highlights": [
+  "Call to recall open-ended internet-connected AI agents",
+  "Labs accused of startup-grade safety culture",
+  "Controls compared unfavorably to nuclear plant standards",
+  "Public safeguard failures at OpenAI and Anthropic cited",
+  "Based on an excerpt of the full post"
+ ]
+}

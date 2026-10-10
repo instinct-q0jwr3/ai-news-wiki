@@ -1,0 +1,16 @@
+{
+ "id": "e72c938bc86f",
+ "authored_at": "2026-10-10T07:52:05.430084+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Wall Street Journal reports that Anthropic's Dario Amodei spoke with Meta's Alexandr Wang earlier this year hoping to source more compute, and that Meta declined the request.",
+  "The episode illustrates how the scramble for computing resources is forcing bitter rivals into alliance talks and personal executive interventions. Basis: the Journal page is paywalled and was not fetched in this pass, so this rests on the headline and feed excerpt."
+ ],
+ "highlights": [
+  "Amodei asked Meta's Alexandr Wang for compute",
+  "Meta declined the request",
+  "Compute scarcity pushes rivals toward uneasy talks",
+  "Source text not fetched"
+ ]
+}

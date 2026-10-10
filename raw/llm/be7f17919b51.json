@@ -1,0 +1,17 @@
+{
+ "id": "be7f17919b51",
+ "authored_at": "2026-10-10T07:52:05.430084+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Latent.Space panel with Google DeepMind's Pushmeet Kohli and Biohub's Sal Candido argues AlphaFold's breakthrough was only the beginning, and that scaling compute and data alone will not solve biology. Protein structure prediction, they stress, is far from solved.",
+  "The discussion ranges over scaling laws in biological data, the tradeoff between scientific intuition and general-purpose architectures, and why modeling must move beyond individual proteins toward predictive models of cells and living systems. Candido suggests protein language models may already contain scientific knowledge nobody has unlocked, and frames Biohub's mission to cure all disease as requiring 10x breakthroughs rather than incremental gains."
+ ],
+ "highlights": [
+  "AlphaFold was a beginning, not the end of protein folding",
+  "Scaling compute and data alone will not solve biology",
+  "Protein language models may hold unlocked knowledge",
+  "Modeling must move from proteins to whole living systems",
+  "Biohub frames its mission in 10x breakthroughs"
+ ]
+}

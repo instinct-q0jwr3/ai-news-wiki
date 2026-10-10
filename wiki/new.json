@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T01:44:33+00:00",
+ "generated_at": "2026-10-10T07:44:46+00:00",
  "stories": [
   {
    "id": "63f2226a6b77",
@@ -8,124 +8,64 @@
    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
   },
   {
-   "id": "c6846657cf70",
-   "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-   "source": "Hacker News",
-   "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
-  },
-  {
-   "id": "272077023d84",
-   "title": "Show HN: Proton Drive for Linux",
-   "source": "Hacker News",
-   "url": "https://oss.lsantos.dev/proton-drive-linux-fs/"
-  },
-  {
-   "id": "827e3fdbd966",
-   "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-   "source": "Hacker News",
-   "url": "https://codeberg.org/ethical-foss/open-slopware"
-  },
-  {
-   "id": "a4ca82054448",
-   "title": "Rewriting Prime Agent in Rust",
-   "source": "Hacker News",
-   "url": "https://www.primeintellect.ai/blog/prime-agent-rust"
-  },
-  {
-   "id": "f6c6fd84a0dd",
-   "title": "An Anthropic AI model sent a false homicide tip to the police",
-   "source": "Hacker News",
-   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-  },
-  {
-   "id": "7b2959b7b05e",
-   "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "source": "Hacker News",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
-  },
-  {
-   "id": "0d4d9abbaaaf",
-   "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
-   "source": "Hacker News",
-   "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe"
-  },
-  {
-   "id": "cce6225dc4a1",
-   "title": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
-   "source": "Hacker News",
-   "url": "https://github.com/tlack/babytalk"
-  },
-  {
-   "id": "402d8c2c06a9",
-   "title": "AI system submits false homicide tip to Philadelphia police",
-   "source": "Hacker News",
-   "url": "https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/"
-  },
-  {
-   "id": "d81a92d2aa05",
-   "title": "Can AI automate AI R&D yet?",
-   "source": "Hacker News",
-   "url": "https://epoch.ai/publications/innovationeval"
-  },
-  {
-   "id": "be7f17919b51",
-   "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/biohub-deepmind"
-  },
-  {
-   "id": "520b5b644f38",
-   "title": "In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation",
+   "id": "2dea59f1ef6d",
+   "title": "Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed",
    "source": "Techmeme",
-   "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+   "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html?unlocked_article_code=1.HVE.8qqm.Wioro2BMBvfg&smid=nytcore-ios-share"
   },
   {
-   "id": "4a965db2346b",
-   "title": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty",
+   "id": "bfc2c30ebfef",
+   "title": "Put a price on breakthroughs",
+   "source": "Hacker News",
+   "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/"
+  },
+  {
+   "id": "abee3ce70a7a",
+   "title": "If AI keeps evolving,would you worry about your next generation's survival",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50029896"
+  },
+  {
+   "id": "094157683ad9",
+   "title": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers"
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design"
   },
   {
-   "id": "77bcb2c2c661",
-   "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M",
+   "id": "2fa3143254c4",
+   "title": "Quoting The New York Times",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+  },
+  {
+   "id": "3e2de3b1d0a1",
+   "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share",
    "source": "Techmeme",
-   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/09/compute-cloud-ai-oxide"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors"
   },
   {
-   "id": "813dd7e08469",
-   "title": "Pluralistic: Thwarted (09 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/09/impunitism/"
-  },
-  {
-   "id": "d1c8893e22bf",
-   "title": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
+   "id": "497afce6f92e",
+   "title": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits",
    "source": "Techmeme",
-   "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/"
+   "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/"
   },
   {
-   "id": "7ad30174e3ca",
-   "title": "as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\"",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10"
+   "id": "a4f2c451a099",
+   "title": "We must recall open-ended AI agents with internet access from the market, now",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents"
   },
   {
-   "id": "9ac77decc339",
-   "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams",
+   "id": "e72c938bc86f",
+   "title": "Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/iainmartin/2026/10/07/tiktok-quietly-gutted-its-advertising-rules-scams-have-exploded-ever-since/"
+   "url": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?st=tzDj41"
   },
   {
-   "id": "ea0be141fbe8",
-   "title": "top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event",
+   "id": "acf391cfd57f",
+   "title": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack"
-  },
-  {
-   "id": "4bd815477c21",
-   "title": "Trump admin says it's now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house"
+   "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
   }
  ]
 }

@@ -1,0 +1,17 @@
+{
+ "id": "c6846657cf70",
+ "authored_at": "2026-10-10T07:52:05.430084+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A guest post by Thomas Hales on Terence Tao's blog lays out what mathematicians should know about the Lean theorem prover, framing formalization as the answer to a question mathematicians keep circling: what they value about mathematics. Hales answers consistency and unparalleled reliability in support of science and civilization.",
+  "The piece explains that a formal proof is checked exhaustively at the level of foundations and logic, in practice by computer, and lists landmarks already formalized: the four-color theorem, Feit-Thompson, the Kepler conjecture, sphere eversion, sphere packing in 8 and 24 dimensions, Navier-Stokes forced blowup and Fermat's Last Theorem, the last three completed this year. That track record, he argues, is why formalization has brought widespread awareness of its potential just as AI enters mathematical practice."
+ ],
+ "highlights": [
+  "Guest post by Thomas Hales on Terence Tao's blog",
+  "Formal proofs checked exhaustively down to logical foundations",
+  "Fermat's Last Theorem and Navier-Stokes blowup formalized this year",
+  "Reliability framed as mathematics' core value",
+  "Formalization's rise coincides with AI entering math"
+ ]
+}

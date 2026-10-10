@@ -1,0 +1,17 @@
+{
+ "id": "d81a92d2aa05",
+ "authored_at": "2026-10-10T07:52:05.430084+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Epoch AI introduces InnovationEval, an evaluation of whether AI can independently discover novel machine learning techniques comparable to recent human-developed ones it has not seen, a gap the organization identifies on the path to an automated AI researcher.",
+  "Early results: recent frontier models make little progress on the task, even while running experiments on thousands of dollars' worth of GPU time. Epoch plans to expand and repeat the methodology over time, tracking how close AI gets to automating AI research itself, alongside related efforts like ResearchGym and RSI-Bench."
+ ],
+ "highlights": [
+  "InnovationEval tests independent discovery of ML innovations",
+  "Frontier models make little progress so far",
+  "Models spent thousands of dollars of GPU time per attempt",
+  "End-to-end research remains the obvious gap",
+  "Epoch will repeat the evaluation to track progress"
+ ]
+}
