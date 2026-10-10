@@ -1,6 +1,6 @@
 # Concept: The AI research community
 
-_type: concept · created: 2026-10-09 · updated: 2026-10-09 · confidence: medium_
+_type: concept · created: 2026-10-10 · updated: 2026-10-10 · confidence: medium_
 
 `concept` `ai-research-community`
 

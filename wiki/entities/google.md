@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-09 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-10 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-10** - From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology. ([Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](../summaries/be7f17919b51.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-10-10** - 6abc : Philadelphia police say Anthropic informed them on Oct. ([Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)](../summaries/d1c8893e22bf.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md))
+- **2026-10-10** - As Google prepares to roll out its new Gemini 4 ‘Argon’ model to the public, staff inside the company are testing better versions … ([as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it "feels like Opus 5.5"](../summaries/7ad30174e3ca.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-10-09** - Apogee is a Show HN project that rebuilds Mozilla's Orbit, an AI browser summarizer that ran on a GCP server, as a fully local and privacy-focused extension. The author says people who dug into Orbit found backend endpoints that sent data out, which… ([Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](../summaries/e3515058cc37.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-09** - Google Cloud used its Gemini at Work 2026 event to present Gemini as one universal agent for work. The same agent answers questions, does knowledge work, creates images and media, and writes and runs code, behind a single API. ([Gemini Agent](../summaries/2837d9a40189.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - Google expands SynthID Detector to everyone, globally in English starting 7 October. It checks whether an image, video or audio file was made with AI from Google or partners including OpenAI, NVIDIA, Kakao and soon Apple, using imperceptible watermarks. ([Google Expands SynthID Detector Globally](../summaries/aa52ec3bad0f.md) · [Google](../entities/google.md))

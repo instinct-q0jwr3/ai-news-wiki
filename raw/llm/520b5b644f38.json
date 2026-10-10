@@ -1,0 +1,18 @@
+{
+ "id": "520b5b644f38",
+ "authored_at": "2026-10-10T01:50:55.088848+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Brian Krebs reports that FBI agents arrested the co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation. The suspect was visiting Pennsylvania for a cyber insurance conference; the New York Times reported the arrest without naming him, and the FBI's only statement came from Director Kash Patel on X.",
+  "Krebs ties the arrest to Edward Dubrovsky, co-founder of Cypfer, the biggest sponsor of Philadelphia's Cyber Risk Summit, and now associated with CyberSteward. Court records show an 'Edward Dobrovsky', 54, arrested October 8 on cyber extortion and conspiracy charges, held in Philadelphia, with the case moved to the Eastern District of Texas, now the epicenter of the probe. ShinyHunters has extorted more than $70 million this year, and sources say charges against principals at other ransomware-negotiation firms may follow, as the FBI pores over devices seized in a related Dutch arrest."
+ ],
+ "highlights": [
+  "Arrest in Pennsylvania tied to the ShinyHunters extortion probe",
+  "Suspect linked to Cypfer and CyberSteward, ransomware-negotiation firms",
+  "Charged October 8 with cyber extortion and conspiracy",
+  "Case moved to the Eastern District of Texas, the probe's epicenter",
+  "ShinyHunters has extorted over $70 million from victims this year",
+  "More charges against negotiation-firm principals may follow"
+ ]
+}

@@ -1,6 +1,6 @@
 # Mark Zuckerberg unveils Meta Enterprise Platform, its "next major pillar of our business" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it
 
-_type: news-summary · created: 2026-09-28 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-09-28 · updated: 2026-10-10 · confidence: high_
 
 `techmeme` `meta`
 

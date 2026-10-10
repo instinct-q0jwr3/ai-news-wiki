@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-09 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-10 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-10** - Top executives at Anthropic, OpenAI, and other AI companies are privately rehearsing how to handle the public and political backlash after a catastrophic AI event, according to an Axios report published Friday. ([Anthropic and OpenAI wargaming public and political revolt after AI catastrophe](../summaries/0d4d9abbaaaf.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-10** - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further against the technology and its leaders … ([top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event](../summaries/ea0be141fbe8.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-10-09** - The New York Times reports on how mathematicians are reacting to OpenAI's new release, with words like breathtaking and devastating in the headline. This fits the wider story of OpenAI's manuscript release covered elsewhere today. (['Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release](../summaries/bd14fd3c8385.md) · [OpenAI](../entities/openai.md)) 🔒
 - **2026-10-09** - CNBC reports that ChatGPT for Teens is not necessarily safer than the previous version, according to a safety review. Hacker News flagged it as an AI-relevant development. ([ChatGPT for Teens is not necessarily 'safer than the previous version,'](../summaries/f0fdb001813e.md) · [OpenAI](../entities/openai.md))
 - **2026-10-09** - Jasmine Wang, Tomek Korbak and Mikita Balesni, three safety researchers OpenAI fired the week before, published an open letter denying that they mishandled sensitive information outside company procedures. OpenAI says they shared confidential material with… ([OpenAI fires three safety researchers for "mishandling research information"](../summaries/55a8482d26d0.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

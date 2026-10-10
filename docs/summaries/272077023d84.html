@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Proton Drive for Linux · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791597080"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Proton Drive for Linux</h1>
+<p class="meta">type: news-summary · created: 2026-10-10 · updated: 2026-10-10 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>It's born out of a necessity that I had, because Proton doesn't ship a Linux version of the drive yet (it's apparently coming out later this year but who knows?) and all the current solutions are hacky and wonky at best.</p>
+<p>But for the time being I really needed to mount my Proton drive on my Linux machine the way I mounted it on my Mac, so I (and my faithful AI slave) did this small utility that allows you to mount your Proton Drive in a FUSE FS like if…</p>
+<p>A FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>It's fully written in Go because Proton's drive SDK and API libs are all in Go, and there's a community project on top of the reverse engineered proton API there too.</li>
+<li>I am not a Go developer, I know the foundations, so of course I used AI quite a lot, I am not super proud of it, but I am using it daily and testing it myself for a few months before releasing here.</li>
+<li>Hope you like it, feedbacks are welcome, just please be mindful of the person on the other side :) A FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux.</li>
+<li>This package mounts your Proton Drive at a directory you choose.</li>
+<li>All the files and folders are listed from Proton's metadata directly.</li>
+<li>Writes are buffered to a local temp file and uploaded to Proton in full a set timeout when the file closes.</li>
+<li>Not affiliated with, endorsed by, or supported by Proton AG.</li>
+<li>I have tested the most common paths, like: read, write, create, delete, rename and move operations on one Proton Drive share.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://oss.lsantos.dev/proton-drive-linux-fs/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

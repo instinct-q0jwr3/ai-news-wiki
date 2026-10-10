@@ -1,6 +1,6 @@
 # AHM Statement on OpenAI's October 6 Release of Mathematical Documents
 
-_type: news-summary · created: 2026-10-08 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-08 · updated: 2026-10-10 · confidence: high_
 
 `hacker-news` `openai`
 

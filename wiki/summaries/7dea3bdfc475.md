@@ -1,6 +1,6 @@
 # OpenAI has a LOT of work to do if they think Luna can compete with Jev
 
-_type: news-summary · created: 2026-10-02 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-02 · updated: 2026-10-10 · confidence: high_
 
 `hacker-news` `openai` `typesafe`
 

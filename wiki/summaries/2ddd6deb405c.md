@@ -1,6 +1,6 @@
 # The Great Zipper of Capitalism
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-10-10 · confidence: high_
 
 `works-on-my-machine`
 

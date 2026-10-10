@@ -1,6 +1,6 @@
 # Claude Haiku 5.5
 
-_type: news-summary · created: 2026-10-07 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-07 · updated: 2026-10-10 · confidence: high_
 
 `hacker-news` `openai` `anthropic` `external-evaluation` `ai-coding-agents` `ai-price-war`
 

@@ -1,6 +1,6 @@
 # Analysis: planned and active data center investments in Finland surpass €67B, driven by AI demand, cool climate conditions, and renewable energy access
 
-_type: news-summary · created: 2026-10-08 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-08 · updated: 2026-10-10 · confidence: high_
 
 `techmeme` `compute-buildout` `ai-policy-regulation`
 

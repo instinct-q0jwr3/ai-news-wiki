@@ -1,6 +1,6 @@
 # Pluralistic: Scrutinized (05 Oct 2026)
 
-_type: news-summary · created: 2026-10-05 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-05 · updated: 2026-10-10 · confidence: high_
 
 `pluralistic` `google` `meta` `apple` `amazon` `agentic-systems` `small-specialist-models` `compute-buildout` `ai-policy-regulation`
 

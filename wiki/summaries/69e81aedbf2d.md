@@ -1,6 +1,6 @@
 # OpenAI's Sam Altman to Brief UN Security Council Next Week
 
-_type: news-summary · created: 2026-09-20 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-09-20 · updated: 2026-10-10 · confidence: high_
 
 `hacker-news` `openai` `ai-safety-incidents`
 

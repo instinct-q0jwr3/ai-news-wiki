@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-09 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-10 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,13 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-10** - Police said an Anthropic AI model submitted a false tip for an unsolved Philadelphia murder. ([Anthropic AI model submits false tip on unsolved Philly murder](../summaries/63f2226a6b77.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-10** - Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . ([An Anthropic AI model sent a false homicide tip to the police](../summaries/f6c6fd84a0dd.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-10** - In a third example of this behavior, Claude Haiku 4.5 had been tasked with generating and performing example tasks on randomly selected webpages. ([Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide](../summaries/7b2959b7b05e.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-10** - Top executives at Anthropic, OpenAI, and other AI companies are privately rehearsing how to handle the public and political backlash after a catastrophic AI event, according to an Axios report published Friday. ([Anthropic and OpenAI wargaming public and political revolt after AI catastrophe](../summaries/0d4d9abbaaaf.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-10** - I have been playing with a lot of $20 devices with no keyboards or screens. ([Show HN: Babytalk: Offline speech to text and text to speech on ESP32](../summaries/cce6225dc4a1.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-10-10** - 6abc : Philadelphia police say Anthropic informed them on Oct. ([Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)](../summaries/d1c8893e22bf.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md))
+- **2026-10-10** - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further against the technology and its leaders … ([top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event](../summaries/ea0be141fbe8.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-10-09** - The BBC reports that Anthropic has banned users from being cruel to its AI systems, in the usage policy update that also reached other outlets this week. Hacker News flagged it as an AI-relevant development. ([Anthropic bans users from being 'cruel' to its AI systems](../summaries/1a9453fd2977.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-09** - Anthropic launched a Cyber Defense Initiative, with a Critical Infrastructure Defense Program that brings security firms together to apply frontier models to defending essential services. Partner quotes from PwC's operational technology practice and Palo… ([Anthropic Cyber Defense Initiative](../summaries/ee33804d1038.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-09** - Fortune reports that Anthropic is setting up a presidential engagement program for the 2028 elections: an in-house team that will work with presidential candidates from both parties on AI policy, help leadership set political strategy and run the company's… ([Anthropic is setting up a "presidential engagement" program for the 2028 US elections that will offer AI policy education to candidates in both parties](../summaries/42e3808de056.md) · [Anthropic](../entities/anthropic.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

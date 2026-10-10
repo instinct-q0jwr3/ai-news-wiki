@@ -1,0 +1,18 @@
+{
+ "id": "a4ca82054448",
+ "authored_at": "2026-10-10T01:50:55.088848+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Prime Intellect has rewritten its Prime Agent coding harness from TypeScript to Rust, and did it largely with its own product: over two weeks, a swarm of more than 2,000 agents rewrote the system end to end across 10,000+ sandboxes, consuming over 200 billion tokens. The company frames the project as both a performance rewrite and a stress test of its multi-agent orchestration, sandbox and inference stack.",
+  "The workflow mattered as much as the result: a root agent wrote no product code and instead split work into a topological ordering of tasks, each moving through separate implementer, reviewer and verifier agents, because an agent that writes code is biased when evaluating it. Parity specifications gave objective checks so agents could catch regressions before merging, cutting human review. The payoff: a faster, leaner harness with Windows support, session crash isolation, a modularized codebase, and a Rust build now dogfooded recursively by the rewrite agents themselves."
+ ],
+ "highlights": [
+  "Prime Agent rewritten from TypeScript to Rust by a swarm of 2,000+ agents",
+  "10,000+ sandboxes and 200B+ tokens over two weeks",
+  "Root orchestrator wrote no code; tasks topologically ordered",
+  "Generation and verification kept in separate agents to avoid bias",
+  "Parity specs let agents self-check and cut human review",
+  "Gains: speed, Windows support, crash isolation, modular codebase"
+ ]
+}

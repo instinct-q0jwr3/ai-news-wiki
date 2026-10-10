@@ -1,0 +1,16 @@
+{
+ "id": "abaf23826797",
+ "authored_at": "2026-10-10T01:50:55.088848+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The FBI has arrested the co-founder of a Canadian cybersecurity firm that specialized in negotiating with ransomware groups, in connection with the ShinyHunters investigation. ShinyHunters recently stole sensitive data on thousands of FBI agents, and the arrest appears to extend the probe to the intermediaries who talk to extortionists for a living.",
+  "Basis: the original Krebs on Security page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+ ],
+ "highlights": [
+  "FBI arrests a ransomware-negotiation firm co-founder",
+  "Arrest tied to the ShinyHunters hacking investigation",
+  "ShinyHunters recently took data on thousands of FBI agents",
+  "Source text not fetched"
+ ]
+}

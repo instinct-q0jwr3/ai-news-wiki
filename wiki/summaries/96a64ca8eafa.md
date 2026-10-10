@@ -1,6 +1,6 @@
 # SemiAnalysis: China has 24 GW of operational compute capacity and another 50 GW planned or under construction, compared to 56 GW operational in the US
 
-_type: news-summary · created: 2026-10-08 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-08 · updated: 2026-10-10 · confidence: high_
 
 `techmeme` `compute-buildout`
 

@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Babytalk: Offline speech to text and text to speech on ESP32 · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791597080"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Babytalk: Offline speech to text and text to speech on ESP32</h1>
+<p class="meta">type: news-summary · created: 2026-10-10 · updated: 2026-10-10 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>I have been playing with a lot of $20 devices with no keyboards or screens.</p>
+<p>I wanted to use speech to interact with them, but without it having to run through a cloud service or use a fixed command vocabulary.</p>
+<p>Memory, bottom line: speech to text needs 6 MB of flash and 84.5 KB of internal RAM ; text to speech adds 1.9 MB of flash .</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>I worked with Claude to implement high performance 4bit int kernels for the ESP32S3 and P4 and quantize some larger STT and TTS models.</li>
+<li>Surprisingly, it's quite usable on these tiny boards.</li>
+<li>Also includes a finetuned model that can better cope with my diesel drones, hacking coughs, and mumbling.</li>
+<li>Works with Micropython (RAM scarcity issues) and AtomVM (better).</li>
+<li>MIT licensed; the speech models belong to their authors (see Credits and licenses ).</li>
+<li>Most "voice on ESP32" projects do one of two things: BabyTalk is different: a general-purpose English speech recognizer that runs entirely on the chip.</li>
+<li>A wake phrase is any phrase you type ("wake up, tomato face"), also with no training.</li>
+<li>The original research plan in docs/historical/ explored LoRA-style expert adapters for the speech model.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/tlack/babytalk">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a> · <a href="../concepts/ai-policy-regulation.html">AI policy, regulation and litigation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

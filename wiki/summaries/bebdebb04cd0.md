@@ -1,6 +1,6 @@
 # Experts: AI kill-switch legislation is far harder than lawmakers assume
 
-_type: news-summary · created: 2026-09-20 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-09-20 · updated: 2026-10-10 · confidence: high_
 
 `techmeme` `ai-safety-incidents` `ai-policy-regulation`
 

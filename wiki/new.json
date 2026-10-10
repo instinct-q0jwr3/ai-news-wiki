@@ -1,119 +1,131 @@
 {
- "generated_at": "2026-10-09T19:43:08+00:00",
+ "generated_at": "2026-10-10T01:44:33+00:00",
  "stories": [
   {
-   "id": "67c58cd5a426",
-   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+   "id": "63f2226a6b77",
+   "title": "Anthropic AI model submits false tip on unsolved Philly murder",
    "source": "Hacker News",
-   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+   "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
   },
   {
-   "id": "3df21177bc40",
-   "title": "Typesafe AI raises $870M at $7.5B",
+   "id": "c6846657cf70",
+   "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
    "source": "Hacker News",
-   "url": "https://typesafe.ai/blog/series-ai"
+   "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
   },
   {
-   "id": "3a7d420edc08",
-   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+   "id": "272077023d84",
+   "title": "Show HN: Proton Drive for Linux",
    "source": "Hacker News",
-   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
+   "url": "https://oss.lsantos.dev/proton-drive-linux-fs/"
   },
   {
-   "id": "e3515058cc37",
-   "title": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
+   "id": "827e3fdbd966",
+   "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
    "source": "Hacker News",
-   "url": "https://github.com/darshi1337/apogee"
+   "url": "https://codeberg.org/ethical-foss/open-slopware"
   },
   {
-   "id": "7a73298a5c2e",
-   "title": "Training Text-to-Image Models Without a VAE",
+   "id": "a4ca82054448",
+   "title": "Rewriting Prime Agent in Rust",
    "source": "Hacker News",
-   "url": "https://www.linum.ai/field-notes/pyramid-jit"
+   "url": "https://www.primeintellect.ai/blog/prime-agent-rust"
   },
   {
-   "id": "1a9453fd2977",
-   "title": "Anthropic bans users from being 'cruel' to its AI systems",
+   "id": "f6c6fd84a0dd",
+   "title": "An Anthropic AI model sent a false homicide tip to the police",
    "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo"
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
   },
   {
-   "id": "bd14fd3c8385",
-   "title": "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
+   "id": "7b2959b7b05e",
+   "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
    "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
   },
   {
-   "id": "a3916863010f",
-   "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+   "id": "0d4d9abbaaaf",
+   "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
    "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo"
+   "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe"
   },
   {
-   "id": "f0fdb001813e",
-   "title": "ChatGPT for Teens is not necessarily 'safer than the previous version,'",
+   "id": "cce6225dc4a1",
+   "title": "Show HN: Babytalk: Offline speech to text and text to speech on ESP32",
    "source": "Hacker News",
-   "url": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html"
+   "url": "https://github.com/tlack/babytalk"
   },
   {
-   "id": "c0e5effb1428",
-   "title": "Ben Affleck is an AI nerd",
+   "id": "402d8c2c06a9",
+   "title": "AI system submits false homicide tip to Philadelphia police",
    "source": "Hacker News",
-   "url": "https://twitter.com/rohanpaul_ai/status/2105786881111896126"
+   "url": "https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/"
   },
   {
-   "id": "b21fd7551431",
-   "title": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating",
+   "id": "d81a92d2aa05",
+   "title": "Can AI automate AI R&D yet?",
+   "source": "Hacker News",
+   "url": "https://epoch.ai/publications/innovationeval"
+  },
+  {
+   "id": "be7f17919b51",
+   "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/biohub-deepmind"
+  },
+  {
+   "id": "520b5b644f38",
+   "title": "In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value"
+   "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
   },
   {
-   "id": "8d64ea30323d",
-   "title": "Anti-Patterns in Software Blogging",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"
-  },
-  {
-   "id": "cc922c1e5271",
-   "title": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch",
+   "id": "4a965db2346b",
+   "title": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty",
    "source": "Techmeme",
-   "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers"
   },
   {
-   "id": "c96e12a9e968",
-   "title": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots",
+   "id": "77bcb2c2c661",
+   "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/"
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/09/compute-cloud-ai-oxide"
   },
   {
-   "id": "21ded7bf3440",
-   "title": "Why Are Coding Agents So Dumb?",
-   "source": "Lobsters",
-   "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/"
+   "id": "813dd7e08469",
+   "title": "Pluralistic: Thwarted (09 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/09/impunitism/"
   },
   {
-   "id": "93d633c21b0a",
-   "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M",
+   "id": "d1c8893e22bf",
+   "title": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/"
+   "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/"
   },
   {
-   "id": "3a5107b43180",
-   "title": "Two Futures for LLMs in Mathematics",
-   "source": "Lobsters",
-   "url": "https://wiredream.com/llm-two-futures/"
-  },
-  {
-   "id": "b486792a1b4c",
-   "title": "The Chinese developer of ARTEX says it has converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks",
+   "id": "7ad30174e3ca",
+   "title": "as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\"",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/"
+   "url": "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10"
   },
   {
-   "id": "e7a35b587913",
-   "title": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed",
+   "id": "9ac77decc339",
+   "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/"
+   "url": "https://www.forbes.com/sites/iainmartin/2026/10/07/tiktok-quietly-gutted-its-advertising-rules-scams-have-exploded-ever-since/"
+  },
+  {
+   "id": "ea0be141fbe8",
+   "title": "top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack"
+  },
+  {
+   "id": "4bd815477c21",
+   "title": "Trump admin says it's now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/10/09/anthropic-ai-security-white-house"
   }
  ]
 }

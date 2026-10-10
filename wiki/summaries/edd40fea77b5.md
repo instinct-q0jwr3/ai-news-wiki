@@ -1,6 +1,6 @@
 # Show HN: Pinrail – A desktop inbox where coding agents wait for your review
 
-_type: news-summary · created: 2026-10-07 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-07 · updated: 2026-10-10 · confidence: high_
 
 `hacker-news` `agentic-systems` `ai-coding-agents`
 

@@ -1,6 +1,6 @@
 # Schools are experimenting with AI with little evidence or policy to guide them
 
-_type: news-summary · created: 2026-09-28 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-09-28 · updated: 2026-10-10 · confidence: high_
 
 `hacker-news` `ai-policy-regulation`
 

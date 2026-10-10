@@ -890,6 +890,41 @@
     "c0e5effb1428"
    ],
    "concepts": []
+  },
+  {
+   "title": "The ShinyHunters probe reaches a negotiator",
+   "intro": "The FBI arrests a ransomware-negotiation firm co-founder in Pennsylvania, and the case moves to Texas.",
+   "stories": [
+    "abaf23826797",
+    "520b5b644f38"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rules, power and politics",
+   "intro": "The White House mandates AI incident disclosure, and Cory Doctorow argues against unthwarted billionaires.",
+   "stories": [
+    "4bd815477c21",
+    "813dd7e08469"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An agent rewrites itself in Rust",
+   "intro": "Prime Intellect's agent swarm ports its own harness from TypeScript to Rust.",
+   "stories": [
+    "a4ca82054448"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips and cloud capital",
+   "intro": "A guilty plea in the Super Micro smuggling case, and a $445M round for on-premise cloud.",
+   "stories": [
+    "4a965db2346b",
+    "77bcb2c2c661"
+   ],
+   "concepts": []
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a "distraction" at OpenAI
 
-_type: news-summary · created: 2026-10-01 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-01 · updated: 2026-10-10 · confidence: high_
 
 `techmeme` `openai`
 

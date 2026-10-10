@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-10-09 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-10 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-10-10** - From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology. ([Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](../summaries/be7f17919b51.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-10-10** - As Google prepares to roll out its new Gemini 4 ‘Argon’ model to the public, staff inside the company are testing better versions … ([as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it "feels like Opus 5.5"](../summaries/7ad30174e3ca.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-10-09** - Google Cloud used its Gemini at Work 2026 event to present Gemini as one universal agent for work. The same agent answers questions, does knowledge work, creates images and media, and writes and runs code, behind a single API. ([Gemini Agent](../summaries/2837d9a40189.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - VentureBeat reports Google Cloud unveiled a Gemini agent for multi-day enterprise workflows across Workspace, Microsoft 365 and Slack, with support for multiple AI models. It can research, create documents and write code, and gets its own Gmail, Calendar… ([Google Cloud unveils the Gemini agent to handle multi-day enterprise workflows across Workspace, Microsoft 365, and Slack, with support for multiple AI models](../summaries/d9cb095fb17d.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - Bloomberg reports that Isomorphic Labs, the AI drug-discovery company spun out of Google DeepMind, is in early talks to raise funds at a valuation of at least $40 billion. ([Isomorphic Labs, an AI drug discovery startup spun out of Google DeepMind, is in early talks to raise funds at a valuation of at least $40B](../summaries/4e92271df4dc.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) 🔒

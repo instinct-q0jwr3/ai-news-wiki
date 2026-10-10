@@ -1,6 +1,6 @@
 # OpenAI says individuals associated with Moonshot AI played a significant role in a coordinated model-distillation campaign that began in early July
 
-_type: news-summary · created: 2026-10-01 · updated: 2026-10-09 · confidence: high_
+_type: news-summary · created: 2026-10-01 · updated: 2026-10-10 · confidence: high_
 
 `techmeme` `openai`
 
