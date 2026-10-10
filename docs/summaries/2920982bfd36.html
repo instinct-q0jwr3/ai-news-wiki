@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Building AI for Reliable Execution: Lessons From Industrial Robotics · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791662174"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Building AI for Reliable Execution: Lessons From Industrial Robotics</h1>
+<p class="meta">type: news-summary · created: 2026-10-10 · updated: 2026-10-10 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Latent Space interviews Standard Bots, which calls itself America's largest AI-native industrial robot manufacturer and recently raised a $200 million Series C at a $1 billion valuation led by General Catalyst and RoboStrategy, with NASA, Amazon and Lockheed Martin among its customers. CEO Evan Beard and Head of AI Leif Jentoft explain an AI stack built for reliable execution rather than demos: a shared base model that customers adapt through demonstrations and fine-tuning, with the largest model only in the low billions of parameters, because, Jentoft says, data quality matters far more than raw volume and in-situ interventions can fix an edge case with a few dozen examples.</p>
+<p>The architecture is deliberately split: for machine tending, a zero-shot perception system trained on over a billion images locates and identifies parts while conventional programming handles motion and cell logic, and short-horizon tasks are chosen to meet production cycle-time and reliability requirements. Inference runs on-premise, with wrist cameras feeding edge GPUs over internal gigabit Ethernet that generate action chunks for low-level control, because factories often lack reliable internet and uptime drives acceptance. Controlling the full stack, from arm and end effector to control system and AI, lets them co-optimize models and control policies; Jentoft claims no model today is truly hardware-agnostic. Simulation covers only part of the work, since liquids, suction and flexible materials resist current simulators, so failure signals and human corrections from real deployments feed fleet learning, except for air-gapped defense customers. The company also offers StandardOS, APIs and SDKs so external developers can build on its stack, with NVIDIA Cosmos cited as an example, and plans to make data collection, training and deployment on its robots easier.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>$200M Series C at a $1B valuation; NASA, Amazon, Lockheed Martin customers</li>
+<li>Shared base model adapted by demonstration and fine-tuning</li>
+<li>Largest model only in the low billions of parameters</li>
+<li>Zero-shot perception on a backbone trained on 1B+ images</li>
+<li>Learned perception, conventional control for motion and cell logic</li>
+<li>On-prem inference on edge GPUs; action chunks to low-level control</li>
+<li>Full-stack ownership enables model-control co-optimization</li>
+<li>Fleet learning from failures; defense clients stay air-gapped</li>
+<li>StandardOS opens APIs and SDKs to outside developers</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://www.latent.space/p/standard-bots">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

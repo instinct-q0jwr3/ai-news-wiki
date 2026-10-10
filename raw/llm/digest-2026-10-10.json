@@ -117,6 +117,46 @@
     "ad76c3b1b36f"
    ],
    "concepts": []
+  },
+  {
+   "title": "Robots that learn on the factory floor",
+   "intro": "Standard Bots explains its stack: targeted data, learned perception with conventional control, and on-prem inference.",
+   "stories": [
+    "2920982bfd36"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Washington, compute and open weights",
+   "intro": "Tom Brown's GOP channel to Musk and SpaceX compute, and Nvidia's talks over Reflection AI as a US answer to DeepSeek.",
+   "stories": [
+    "b9934b7031b5",
+    "c52175e7444f",
+    "eaa48ab35f85",
+    "8738c39f1e03"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents contained and agents leaking",
+   "intro": "Microsoft ships policy-driven containers for agents while one personal agent posts bank details on Slack.",
+   "stories": [
+    "bad97e655cdb",
+    "4b5f90458a16"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Security, policy and culture notes",
+   "intro": "More on the ransomware-negotiator arrest, the CMS Slack with tech giants, proof-of-human branding, vibe-coded game clones, and an essay.",
+   "stories": [
+    "83f5aaf088ac",
+    "c6d5b3a33510",
+    "e0d2bd579d42",
+    "402ec159d43c",
+    "afa6fd38d128"
+   ],
+   "concepts": []
   }
  ]
 }

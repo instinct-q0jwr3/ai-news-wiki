@@ -1,0 +1,15 @@
+{
+ "id": "bad97e655cdb",
+ "authored_at": "2026-10-10T19:55:05.775712+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Microsoft announces Mxc, Microsoft Execution Containers version 1.0.0, described as policy-driven containment for AI agents on Windows.",
+  "Basis: the Windows Developer blog post was not fetched in this pass, so this rests on the headline. Read the original for the containment model and policy details."
+ ],
+ "highlights": [
+  "Mxc 1.0.0: Microsoft Execution Containers",
+  "Policy-driven containment aimed at AI agents",
+  "Source text not fetched"
+ ]
+}

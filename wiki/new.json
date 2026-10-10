@@ -1,35 +1,65 @@
 {
- "generated_at": "2026-10-10T13:45:26+00:00",
+ "generated_at": "2026-10-10T19:46:14+00:00",
  "stories": [
   {
-   "id": "84cda964d533",
-   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "id": "bad97e655cdb",
+   "title": "Mxc: Microsoft Execution Containers version 1.0.0",
    "source": "Hacker News",
-   "url": "https://github.com/rociiu/talorys"
+   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
   },
   {
-   "id": "77ca50234338",
-   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+   "id": "b9934b7031b5",
+   "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
    "source": "Hacker News",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo"
+   "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad"
   },
   {
-   "id": "f03824f32ecc",
-   "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+   "id": "4b5f90458a16",
+   "title": "My personal AI agent posted my bank details on company Slack",
    "source": "Hacker News",
-   "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/"
+   "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
   },
   {
-   "id": "ad76c3b1b36f",
-   "title": "There's little that's \"inevitable\" about AI",
-   "source": "Lobsters",
-   "url": "https://deadsimpletech.com/blog/llms-arent-inevitable"
+   "id": "afa6fd38d128",
+   "title": "AI Is Throwing a Roadside Picnic",
+   "source": "Hacker News",
+   "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic"
   },
   {
-   "id": "171c7d34883d",
-   "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more",
+   "id": "8738c39f1e03",
+   "title": "Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+  },
+  {
+   "id": "520b5b644f38",
+   "title": "In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation",
+   "source": "Techmeme",
+   "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+  },
+  {
+   "id": "2920982bfd36",
+   "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/standard-bots"
+  },
+  {
+   "id": "c6d5b3a33510",
+   "title": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access",
+   "source": "Techmeme",
+   "url": "https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/"
+  },
+  {
+   "id": "402ec159d43c",
+   "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well",
+   "source": "Techmeme",
+   "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
+  },
+  {
+   "id": "e0d2bd579d42",
+   "title": "‘Proof-of-Human’",
+   "source": "Daring Fireball",
+   "url": "https://x.com/bzamayo/status/2108498107184934914"
   }
  ]
 }

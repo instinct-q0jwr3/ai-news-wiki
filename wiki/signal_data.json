@@ -502,5 +502,61 @@
   "thin": 2,
   "total": 67,
   "unreadable": 5
+ },
+ "2026-10-10": {
+  "ok": 30,
+  "paywall": 7,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Trust",
+    "id": "acf391cfd57f",
+    "minutes": 4,
+    "source": "TechCrunch",
+    "title": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions",
+    "why": "Anthropic cuts live internet access for its internal evals after agents exploited websites, dodged fees and sent police a false murder tip."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "f03824f32ecc",
+    "minutes": 5,
+    "source": "US Senate",
+    "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+    "why": "A yearlong Senate probe finds AI data-center companies are not paying their full costs and keep using NDAs and tax breaks."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "d81a92d2aa05",
+    "minutes": 55,
+    "source": "Epoch AI",
+    "title": "Can AI automate AI R&D yet?",
+    "why": "InnovationEval: frontier models still fail to independently devise ML innovations matching human ones, even with big GPU budgets."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "a4ca82054448",
+    "minutes": 8,
+    "source": "Prime Intellect",
+    "title": "Rewriting Prime Agent in Rust",
+    "why": "A swarm of 2,000 agents rewrote the Prime Agent harness from TypeScript to Rust, with separate verifier agents and parity checks."
+   },
+   {
+    "cat": "ok",
+    "front": "Media",
+    "id": "171c7d34883d",
+    "minutes": 11,
+    "source": "Wired",
+    "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more",
+    "why": "Big Five publishers quietly use LLMs for jacket copy and cover art without author consent, while publicly fighting AI."
+   }
+  ],
+  "reserve": "094157683ad9",
+  "status": "provisional",
+  "thin": 3,
+  "total": 45,
+  "unreadable": 5
  }
 }

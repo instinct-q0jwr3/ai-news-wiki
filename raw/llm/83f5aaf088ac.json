@@ -1,0 +1,17 @@
+{
+ "id": "83f5aaf088ac",
+ "authored_at": "2026-10-10T19:55:05.775712+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Krebs on Security's report on the FBI arrest of an executive at a ransomware negotiation firm: agents arrested the co-founder of a Canadian cybersecurity firm connected to the ShinyHunters investigation, which recently stole sensitive data on thousands of FBI agents. The suspect, tied to Cypfer and CyberSteward, was arrested in Pennsylvania on October 8 on cyber extortion and conspiracy charges, and the case has moved to the Eastern District of Texas.",
+  "ShinyHunters has extorted more than $70 million from victims this year, and sources say charges against principals at other negotiation firms may follow. Basis: the page did not refetch in this pass; this summary draws on the article text captured earlier today and the feed excerpt."
+ ],
+ "highlights": [
+  "FBI arrests executive at a ransomware negotiation firm",
+  "Arrest tied to the ShinyHunters probe; case in E.D. Texas",
+  "Cyber extortion and conspiracy charges",
+  "ShinyHunters has extorted $70M+ this year",
+  "More negotiation-firm charges may follow"
+ ]
+}

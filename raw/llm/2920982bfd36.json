@@ -1,0 +1,21 @@
+{
+ "id": "2920982bfd36",
+ "authored_at": "2026-10-10T19:55:05.775712+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Latent Space interviews Standard Bots, which calls itself America's largest AI-native industrial robot manufacturer and recently raised a $200 million Series C at a $1 billion valuation led by General Catalyst and RoboStrategy, with NASA, Amazon and Lockheed Martin among its customers. CEO Evan Beard and Head of AI Leif Jentoft explain an AI stack built for reliable execution rather than demos: a shared base model that customers adapt through demonstrations and fine-tuning, with the largest model only in the low billions of parameters, because, Jentoft says, data quality matters far more than raw volume and in-situ interventions can fix an edge case with a few dozen examples.",
+  "The architecture is deliberately split: for machine tending, a zero-shot perception system trained on over a billion images locates and identifies parts while conventional programming handles motion and cell logic, and short-horizon tasks are chosen to meet production cycle-time and reliability requirements. Inference runs on-premise, with wrist cameras feeding edge GPUs over internal gigabit Ethernet that generate action chunks for low-level control, because factories often lack reliable internet and uptime drives acceptance. Controlling the full stack, from arm and end effector to control system and AI, lets them co-optimize models and control policies; Jentoft claims no model today is truly hardware-agnostic. Simulation covers only part of the work, since liquids, suction and flexible materials resist current simulators, so failure signals and human corrections from real deployments feed fleet learning, except for air-gapped defense customers. The company also offers StandardOS, APIs and SDKs so external developers can build on its stack, with NVIDIA Cosmos cited as an example, and plans to make data collection, training and deployment on its robots easier."
+ ],
+ "highlights": [
+  "$200M Series C at a $1B valuation; NASA, Amazon, Lockheed Martin customers",
+  "Shared base model adapted by demonstration and fine-tuning",
+  "Largest model only in the low billions of parameters",
+  "Zero-shot perception on a backbone trained on 1B+ images",
+  "Learned perception, conventional control for motion and cell logic",
+  "On-prem inference on edge GPUs; action chunks to low-level control",
+  "Full-stack ownership enables model-control co-optimization",
+  "Fleet learning from failures; defense clients stay air-gapped",
+  "StandardOS opens APIs and SDKs to outside developers"
+ ]
+}

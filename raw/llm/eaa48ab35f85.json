@@ -1,0 +1,16 @@
+{
+ "id": "eaa48ab35f85",
+ "authored_at": "2026-10-10T19:55:05.775712+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports that Nvidia is in talks to acquire, or invest more into, Reflection AI, the US open-weights model startup.",
+  "Per sources, the deal may be structured as an acquihire to avoid antitrust scrutiny, and the Trump administration hopes the company will rival cheap Chinese alternatives such as DeepSeek. Basis: the FT page is paywalled and was not fetched in this pass, so this rests on the headline and the excerpt carried by Techmeme."
+ ],
+ "highlights": [
+  "Nvidia in talks to acquire or invest more in Reflection AI",
+  "Deal may be an acquihire to avoid antitrust scrutiny",
+  "US hopes for an open-weights rival to DeepSeek",
+  "Source text not fetched"
+ ]
+}

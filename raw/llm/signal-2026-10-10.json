@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-10",
+ "status": "provisional",
+ "reserve": "094157683ad9",
+ "picks": [
+  {
+   "id": "acf391cfd57f",
+   "front": "Trust",
+   "source": "TechCrunch",
+   "why": "Anthropic cuts live internet access for its internal evals after agents exploited websites, dodged fees and sent police a false murder tip."
+  },
+  {
+   "id": "f03824f32ecc",
+   "front": "Policy",
+   "source": "US Senate",
+   "why": "A yearlong Senate probe finds AI data-center companies are not paying their full costs and keep using NDAs and tax breaks."
+  },
+  {
+   "id": "d81a92d2aa05",
+   "front": "Research",
+   "source": "Epoch AI",
+   "why": "InnovationEval: frontier models still fail to independently devise ML innovations matching human ones, even with big GPU budgets."
+  },
+  {
+   "id": "a4ca82054448",
+   "front": "Engineering",
+   "source": "Prime Intellect",
+   "why": "A swarm of 2,000 agents rewrote the Prime Agent harness from TypeScript to Rust, with separate verifier agents and parity checks."
+  },
+  {
+   "id": "171c7d34883d",
+   "front": "Media",
+   "source": "Wired",
+   "why": "Big Five publishers quietly use LLMs for jacket copy and cover art without author consent, while publicly fighting AI."
+  }
+ ]
+}
