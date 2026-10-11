@@ -1,11 +1,15 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Using Parseable with Datasette for OpenTelemetry traces · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791726934"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Using Parseable with Datasette for OpenTelemetry traces</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Using Parseable with Datasette for OpenTelemetry traces · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791749233"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Using Parseable with Datasette for OpenTelemetry traces</h1>
 <p class="meta">type: news-summary · created: 2026-10-06 · updated: 2026-10-11 · confidence: high</p>
 <h2 id="summary">Summary</h2>
-<p>Simon Willison's post is about using Parseable with Datasette for OpenTelemetry traces. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title.</p>
+<p>Simon Willison connects two pieces: Parseable, a new observability platform with an open-source (AGPL) Rust implementation shipping as a single ~180MB binary, and Datasette 1.0a41, which recently gained OpenTelemetry support thanks to Alex Garcia. He had Codex figure out how to run Parseable and pipe Datasette traces into it, then documented the working patterns in a human-written TIL.</p>
+<p>The result is Datasette traces viewable inside Parseable's localhost web UI - a fully self-hosted observability stack for a self-hosted data tool.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>Simon Willison's post is about using Parseable with Datasette for OpenTelemetry traces.</li>
-<li>Headline-level summary.</li>
+<li>Parseable is a new observability platform: AGPL Rust core, single ~180MB binary, plus enterprise and cloud options.</li>
+<li>Datasette 1.0a41 added OpenTelemetry tracing support (contributed by Alex Garcia).</li>
+<li>Willison used Codex to work out the Parseable + Datasette integration.</li>
+<li>Patterns that worked are documented in a TIL post.</li>
+<li>Screenshot shows a Datasette trace rendered in Parseable's web app.</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/">Read the original story</a></p>

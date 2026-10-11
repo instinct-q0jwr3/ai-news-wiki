@@ -1,14 +1,17 @@
 {
- "id": "21ded7bf3440",
- "authored_at": "2026-10-09T19:52:34.252351+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "Michael Lynch's post asks why coding agents so often behave dumbly. The title is the only retrievable part here.",
-  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+  "After an early-2025 honeymoon with coding agents, this author concluded the agents - not the models - stayed bad: they hang until restarted, declare tasks finished when work has barely begun, and manage tasks atrociously. His taxonomy: the model (GPT Astra, Claude Sonnet, GLM-5.3) is the brain that generates text; the agent (Claude Code, Codex) is the body that glues that text to commands and files.",
+  "His running example: adding passphrase-protected links to his open-source file-upload app, about 1.5k lines of new code. OpenCode broke the feature into 10 subtasks - then executed the embarrassingly parallel subtasks one at a time. Why, he asks, is a computer with many cores and millisecond context-switching serializing work a human would trivially parallelize? The essay is a catalog of how agent tooling lags the models it wraps."
  ],
  "highlights": [
-  "Essay on why coding agents seem dumb",
-  "Source text not fetched"
- ]
+  "Thesis: models improved dramatically while coding agents stayed bad - the agent is the bottleneck.",
+  "Model = brain (generates text); agent = body (glues text to commands and files).",
+  "Symptoms: hangs requiring restarts, premature 'done' declarations, primitive task management.",
+  "Example: OpenCode split a 1.5k-line feature into 10 parallel subtasks, then ran them serially.",
+  "Core frustration: computers are built for parallelism, yet agents work one task at a time."
+ ],
+ "id": "21ded7bf3440",
+ "authored_at": "2026-10-11T20:02:29.361924+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

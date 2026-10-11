@@ -1,17 +1,17 @@
 {
- "id": "7ebc6c72cda2",
- "authored_at": "2026-10-07T07:42:58.006557+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "Simon Willison republishes a Hacker News comment from Jake Boggan about the personal impact of OpenAI's mathematics catalogue. Boggan describes spending thousands of hours over 24 years thinking about Barnette's Conjecture, then encountering an alleged proof in the new release.",
-  "His reaction mixes the satisfaction of seeing a difficult problem addressed with grief at losing a long-running intellectual companion. The quotation captures the emotional stakes of AI research for people invested in those problems; it does not establish that the purported proof is correct. Basis: Willison's short quotation page, not an examination of the proof."
+  "Simon Willison quotes a Hacker News comment by Jake Boggan reacting to the news that Barnette's Conjecture - a graph theory problem he has worked on, off and on, for 24 years - appears to have been proven by an AI, listed as problem 180 on openai/math.",
+  "Boggan describes moving to Budapest to study graph theory 'among the greats', spending thousands of hours on the conjecture, and briefly believing last summer that he had solved it himself. Hearing that it is solved leaves him oddly sad, 'like hearing an ex-girlfriend died suddenly in a car crash' - a glimpse of the mixed emotions researchers may feel as AI systems close out problems that defined parts of their lives."
  ],
  "highlights": [
-  "The page is a collected quotation, not a research article.",
-  "Boggan describes a 24-year attachment to the conjecture.",
-  "The alleged proof is identified as problem 180.",
-  "The reaction is emotional as well as technical.",
-  "No proof validation is supplied by this page."
- ]
+  "Barnette's Conjecture, a decades-old graph theory problem, has supposedly been proven - listed as problem 180 on openai/math.",
+  "Jake Boggan worked on it on and off for 24 years after studying graph theory in Budapest.",
+  "He thought he had solved it himself for a few days last summer.",
+  "His reaction: a far-off sadness, compared to hearing an ex-girlfriend died suddenly.",
+  "Willison presents it as an example of the strange emotions surfacing as AI solves long-open problems."
+ ],
+ "id": "7ebc6c72cda2",
+ "authored_at": "2026-10-11T20:00:01.829035+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

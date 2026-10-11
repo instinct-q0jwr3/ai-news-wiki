@@ -1,13 +1,16 @@
 {
  "prose": [
-  "OpenClassActions lists a class action alleging Google Gemini read users' Gmail without consent. Basis: the captured page text was mostly site code, so this relies on the headline and gives no details of the claims or court."
+  "A 2026 class action complaint alleges Google Gemini read Gmail users' emails without consent, framing the claims under privacy and wiretap/CIPA theories. The tracking page is careful about status: these are unproven allegations, Google disputes them, there is no certified class, no settlement, and nothing to claim yet.",
+  "The page itself is a general-information explainer, not legal advice - one of thousands of settlement-tracking pages the site maintains. The case joins a growing docket of suits testing whether AI features layered onto existing communication products require fresh consent."
  ],
  "highlights": [
-  "Alleged: Gemini read Gmail content without consent.",
-  "Class action listing; details not captured."
+  "Class action alleges Google Gemini read user emails without consent.",
+  "Filed under privacy and wiretap/CIPA theories in 2026.",
+  "Status: allegations only - no certified class, no settlement, Google disputes the claims.",
+  "Part of a broader wave of consent litigation around AI features in communication products."
  ],
  "id": "be2179434521",
- "authored_at": "2026-10-03T13:27:08.197804+00:00",
+ "authored_at": "2026-10-11T20:03:23.635015+00:00",
  "model": "agent-pass",
  "schema": 1
 }

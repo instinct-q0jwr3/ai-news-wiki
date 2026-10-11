@@ -1,16 +1,17 @@
 {
  "prose": [
-  "TechSpot reports Utah is letting a startup, Nolla Health, offer AI examinations and prescriptions without direct human oversight, a one-year pilot for mild-to-moderate acne. Patients scan their face in a $4.99-a-month app, fill in a medical history, and the AI scores acne severity and picks from eight approved treatments. The first 100 prescriptions are reviewed by doctors beforehand, the next 400 are sent by the AI and checked weekly by a physician afterwards, and the last phase has a doctor reviewing a sample. Basis: most of the article was read."
+  "Utah is the first US state to let an AI examine patients and prescribe medication without direct human oversight, via a one-year pilot limited to mild-to-moderate acne. Patients use Nolla Health's $4.99/month app to scan their face and complete a medical history; the AI rates oiliness, generates an acne severity score, and recommends from a list of eight approved treatments.",
+  "The rollout is staged: doctors review the first 100 prescriptions before they reach pharmacies; the next 400 are submitted by the AI and reviewed retrospectively each week; the final phase has a physician reviewing at least 10% of prescriptions monthly. The report recalls the risks of AI medical advice - including last year's case of a man who developed bromism after ChatGPT advised replacing salt with sodium bromide."
  ],
  "highlights": [
-  "First US state pilot of AI prescribing without direct doctor oversight.",
-  "Acne only, one year, $4.99 a month app.",
-  "Face scan gives a severity score; eight approved drugs.",
-  "Phases: 100 reviewed first, 400 reviewed after, then sampled.",
-  "Basis: most of the article."
+  "Utah pilots AI examinations and prescriptions without direct human oversight - a US first.",
+  "Scope: one year, mild-to-moderate acne only, via Nolla Health's $4.99/month app.",
+  "AI scores acne severity and picks from eight approved treatments.",
+  "Staged rollout: 100 doctor-reviewed prescriptions, then retrospective weekly review, then 10% monthly sampling.",
+  "Cited cautionary case: bromism after following ChatGPT dietary advice."
  ],
  "id": "0f8eb51cc1e0",
- "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "authored_at": "2026-10-11T20:05:38.631922+00:00",
  "model": "agent-pass",
  "schema": 1
 }

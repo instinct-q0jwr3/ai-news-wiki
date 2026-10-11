@@ -1,13 +1,15 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What is Codemode · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791726934"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>What is Codemode</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What is Codemode · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791749233"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>What is Codemode</h1>
 <p class="meta">type: news-summary · created: 2026-10-06 · updated: 2026-10-11 · confidence: high</p>
 <h2 id="summary">Summary</h2>
-<p>Armin Ronacher explains Codemode, which came to the Pi 1.0 harness as MCP support. A year ago he urged people to use scripts instead of loading custom tools or MCP servers into context. Models call tools through definitions shaped by reinforcement learning, and he prefers CLI and bash because calls compose and models learn how the filesystem behaves. Bash can only compose programs that run, though, which is the limit Codemode addresses. Basis: the first part of a long post was read.</p>
+<p>Armin Ronacher explains Codemode, the MCP support added in Pi 1.0 - a seeming reversal of his earlier advice to skip MCP servers and just use scripts ('Code Is All You Need'). His reasoning: harness-provided tools become token structures the model is trained to call, and leaning on CLI/bash works well because composition is easy and the model already learned filesystem semantics - after 'echo foo &gt; /tmp/test.txt', the model knows that file now exists.</p>
+<p>But bash hits a wall: it can only compose runnable programs, and some capabilities must be native harness tools - read or view_image, because the image payload has to enter the model's protocol, and sub-agents, because spawning and orchestrating them through CLI shims and Unix sockets is crude. Codemode is his resolution: code-first where possible, native tools where the code physically cannot reach.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>Codemode adds MCP support to the Pi 1.0 harness.</li>
-<li>Earlier stance: use scripts rather than loading tools into context.</li>
-<li>Bash composes programs but not everything.</li>
-<li>Basis: first part of a long post.</li>
+<li>Pi 1.0 adds MCP support via Codemode, updating Ronacher's earlier 'just use scripts' stance.</li>
+<li>Bash composition works because models learned filesystem semantics in training.</li>
+<li>Bash's limit: it composes only programs, not native LLM capabilities.</li>
+<li>view_image and sub-agent orchestration must be harness tools - payloads live in the model protocol.</li>
+<li>Codemode = code-first composition plus native tools where code cannot reach.</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://lucumr.pocoo.org/2026/10/6/codemode/">Read the original story</a></p>

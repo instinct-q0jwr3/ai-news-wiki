@@ -1,15 +1,17 @@
 {
- "id": "7a73298a5c2e",
- "authored_at": "2026-10-09T19:52:34.252351+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "Linum AI's field notes describe training text-to-image models without a VAE, working directly in a different latent setup it calls pyramid JIT.",
-  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+  "The Linum team proposes Pyramid-JiT (P-JiT), a decoder-only pixel-space architecture for text-to-image that drops the VAE entirely and predicts the target image at several resolutions along the DiT trunk. It matches Linum v2's FD-DINOv2 with 11.3x fewer training samples and trains in 4.3x fewer GPU-hours at 4x the pixels; code and weights are out under Apache 2.0 as a research artifact en route to Linum v3.",
+  "The motivation is video economics: the best video models are expensive because attention runs on huge token sequences - a 5-second 720p Linum v2 clip costs 110K tokens, versus the 8K contexts LLMs train on. Cutting tokens cuts attention cost, so the team is using text-to-image as a testbed for context-condensing ideas, aiming to make animation tools affordable enough for anyone to bring a story to screen."
  ],
  "highlights": [
-  "Text-to-image training without a VAE",
-  "From Linum AI field notes",
-  "Source text not fetched"
- ]
+  "P-JiT: a decoder-only, VAE-free pixel-space text-to-image architecture.",
+  "Matches Linum v2's FD-DINOv2 with 11.3x fewer samples; 4.3x fewer GPU-hours at 4x pixels.",
+  "Apache 2.0 research release, positioned as a step toward Linum v3.",
+  "Motivation: video generation cost - a 5s 720p clip costs 110K tokens of attention.",
+  "Goal: order-of-magnitude cheaper video generation for affordable animation tools."
+ ],
+ "id": "7a73298a5c2e",
+ "authored_at": "2026-10-11T20:04:32.416476+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

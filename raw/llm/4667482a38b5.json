@@ -1,16 +1,19 @@
 {
- "id": "4667482a38b5",
- "authored_at": "2026-10-08T13:42:39.835950+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "Tom's Hardware covers Brandon Thomas's Artcraft project, which recreates Adobe's Creative Suite look and tools as free, open-source apps, written in Rust with Claude. The page could not be fully retrieved in this pipeline; the headline matches Ars Technica's coverage of the same release.",
-  "Basis: headline and the Ars Technica report, which says the seven apps mimic Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign and Acrobat, and are far from finished."
+  "A solo developer posting on Reddit as u/ai_art_is_art claims to have rebuilt the most-used Adobe Creative Suite products - PhotoCraft, LightCraft, ImageCraft, FilmCraft and more - as free, open-source Rust applications, generated with Claude and aiming for 100% parity with Adobe's layouts and workflows within a month. The tools are also 'agent-native', exposing menus and functions over a JSON control channel and an MCP server so AI can operate them directly.",
+  "Reactions are split. Supporters argue Adobe's business practices invite disruption, and the developer says the work is a clean-room reimplementation with no Adobe source code. Critics call it piracy in disguise, warn of lawsuits, and raise safety concerns about hundreds of thousands of lines of vibecoded software produced by one person with little verification. The original Reddit post was removed, though the GitHub links remain."
  ],
  "highlights": [
-  "Solo developer rebuilds Adobe-style apps in Rust using Claude",
-  "Released free and open source",
-  "Same release as the Ars Technica story",
-  "Details here come from the headline and that report"
- ]
+  "Solo developer rebuilt Adobe Creative Suite equivalents in Rust using Claude, released free.",
+  "Apps include PhotoCraft, LightCraft, ImageCraft and FilmCraft, targeting 100% layout and workflow parity.",
+  "Software is agent-native: AI can drive it via a JSON control channel and MCP server.",
+  "Developer claims clean-room reimplementation; no Adobe code copied.",
+  "Critics call it piracy and warn of legal action; supporters cite Adobe's business practices.",
+  "Safety concerns raised about quickly vibecoded, weakly verified code.",
+  "Original Reddit post removed; GitHub repositories still up."
+ ],
+ "id": "4667482a38b5",
+ "authored_at": "2026-10-11T20:00:01.829035+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

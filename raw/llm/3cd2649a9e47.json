@@ -1,13 +1,18 @@
 {
  "prose": [
-  "A TLDR AI link titled 'Asset Light Software'. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title."
+  "'Asset Light Software' argues that the classic SaaS playbook - raise big VC rounds to fund fixed costs like engineers and sales reps, then grow to raise again - is giving way to a variable-cost model. The authors, two founders who built companies in analytics for school districts and unstructured healthcare data, describe feeling identical pressures under the old paradigm, and quote Vista Equity's Robert Smith: 'all software companies taste like chicken'.",
+  "Their numbers: the median bootstrapped B2B SaaS company spends about 90% of ARR on costs - 25% go-to-market, 24% R&D, 15% admin, 13% hosting and implementation, 10% retention. Because every SaaS company solves the same problems, each cost category is now a mature ecosystem of off-the-shelf products and services that founders can rent instead of build. The result, they argue: software becomes commoditized as a category, businesses become asset-light, and founders gain leverage over how their companies are funded and run."
  ],
  "highlights": [
-  "A TLDR AI link titled 'Asset Light Software'.",
-  "Headline-level summary."
+  "Software businesses are shifting from fixed-cost to variable-cost structures.",
+  "The old model: raise VC to cover fixed costs, grow fast, raise again.",
+  "Median bootstrapped B2B SaaS spends ~90% of ARR on costs across five standard categories.",
+  "Each cost category is now a mature ecosystem you can rent rather than build.",
+  "Robert Smith's line: all software companies taste like chicken - 80% of what they do is the same.",
+  "The shift enables high-margin business models and more founder leverage."
  ],
  "id": "3cd2649a9e47",
- "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "authored_at": "2026-10-11T20:00:48.961206+00:00",
  "model": "agent-pass",
  "schema": 1
 }

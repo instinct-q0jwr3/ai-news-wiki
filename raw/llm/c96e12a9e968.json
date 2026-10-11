@@ -1,15 +1,17 @@
 {
- "id": "c96e12a9e968",
- "authored_at": "2026-10-09T19:52:34.252351+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "Fortune reports that warehouse robotics startup Ultra raised a $12 million seed and a $50 million Series A, and widened its deal with Physical Intelligence to supply AI software for its robots.",
-  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+  "Ultra, a Brooklyn startup leasing packing robots to warehouses under a monthly 'robots as a service' model, announced $62 million in funding - a $50 million Series A led by Framework Ventures with Y Combinator participating, on top of an earlier $12 million seed led by YC and Next View. It also deepened its partnership with Physical Intelligence, the 'robot brains' AI firm, which will supply AI software for Ultra's machines.",
+  "CEO Jon Miller Schwartz makes a contrarian point: humanoids get the attention, but non-humanoid robots do the real work - his machines have packed over half a million orders at third-party logistics sites across the country. With a mechanical-engineering background, Schwartz's team installs and maintains the hardware hands-on, part of a growing robot empire quietly taking over US warehouses while humanoids keep falling over."
  ],
  "highlights": [
-  "Ultra raised $12M seed and $50M Series A",
-  "Expands deal with Physical Intelligence",
-  "Warehouse robotics"
- ]
+  "Ultra raised $62M total: $50M Series A (Framework Ventures) plus a $12M seed (YC, Next View).",
+  "Expanded deal: Physical Intelligence supplies AI software for Ultra's warehouse robots.",
+  "Business model: robots-as-a-service monthly leasing for warehouses and 3PLs.",
+  "Its robots have packed 500,000+ orders for shipping.",
+  "Schwartz: humanoids grab headlines, but other robot forms deliver the real-world impact."
+ ],
+ "id": "c96e12a9e968",
+ "authored_at": "2026-10-11T20:03:23.635015+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

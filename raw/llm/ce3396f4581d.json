@@ -1,13 +1,19 @@
 {
  "prose": [
-  "Mistral says Mistral Large 4 was trained on 3,800 Nvidia Grace Blackwell GPUs in its own European data centres, with much multilingual training data. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title."
+  "Mistral launched a public preview of Mistral Large 4 - internally 'le Chonk' - a 1 trillion-parameter natively multimodal model with 49 billion active parameters, its largest model to date. Mistral claims performance competitive with the strongest open-source models globally and state-of-the-art among open models on enterprise workloads like cybersecurity, finance and law, with visual grounding it says surpasses even frontier closed models. Weights drop at the end of the month.",
+  "ML4 was trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European data centers, on heavily multilingual data, and the preview is served on the same infrastructure. Until the weight release, Mistral is red-teaming with cybersecurity leaders, vetted partners and state authorities, who get the model with reduced moderation and expanded cyber capabilities - reflecting Mistral's argument that provider-level refusals can block legitimate security work and that losing a capability mid-incident is itself a security risk."
  ],
  "highlights": [
-  "Mistral says Mistral Large 4 was trained on 3",
-  "Headline-level summary."
+  "Mistral Large 4: 1T parameters, 49B active, natively multimodal; preview API live on Mistral Studio.",
+  "Open weights release promised by end of the month.",
+  "Trained from scratch on 3,800 Grace Blackwell GPUs in Mistral's own European data centers.",
+  "Much of the training data was multilingual.",
+  "Claims SOTA among open models on cybersecurity, finance and law; visual grounding beyond closed frontier models.",
+  "Pre-release red-teaming with cybersecurity leaders and state authorities under reduced moderation.",
+  "Mistral argues provider refusals can themselves become a security risk during incidents."
  ],
  "id": "ce3396f4581d",
- "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "authored_at": "2026-10-11T20:00:48.961206+00:00",
  "model": "agent-pass",
  "schema": 1
 }

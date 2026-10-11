@@ -1,15 +1,17 @@
 {
- "id": "3a5107b43180",
- "authored_at": "2026-10-09T19:52:34.252351+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "An essay titled Two Futures for LLMs in Mathematics weighs two possible paths for how language models will affect mathematical work. It was picked up by Lobsters while mathematicians react to OpenAI's manuscript release.",
-  "Basis: the source page was not fetched in this pass, so this rests on the headline and feed excerpt. Read the original for details."
+  "This essay contrasts two recent visions for LLMs in mathematics and theoretical computer science. In one corner, Anthropic shared a result with Columbia's Josh Alman and MIT's Virginia Williams - the researchers known for shaving the matrix-multiplication exponent via careful operation counting in the laser method - pointing to LLMs as collaborators in elite algorithmic research.",
+  "The backdrop is how stubborn these problems are: 3SUM has seen only polylogarithmic improvements over the quadratic textbook algorithm in decades, and 55 years after Strassen, researchers are still nudging the matrix-multiplication exponent downward. The 'two futures' framing asks whether LLMs will be tools that accelerate this kind of human ingenuity or something that changes the research process itself."
  ],
  "highlights": [
-  "Essay on two possible futures for LLMs in mathematics",
-  "Lobsters pick",
-  "Source text not fetched"
- ]
+  "Two competing visions for how LLMs will matter in math and TCS research.",
+  "Anthropic engaged Josh Alman and Virginia Williams, known for improving matrix-multiplication bounds.",
+  "Their approach: careful counting of operations inside the existing laser method.",
+  "Context: 3SUM remains essentially quadratic after decades; omega is still being shaved 55 years after Strassen.",
+  "The open question: LLM as research assistant versus LLM changing the research process."
+ ],
+ "id": "3a5107b43180",
+ "authored_at": "2026-10-11T20:03:23.635015+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

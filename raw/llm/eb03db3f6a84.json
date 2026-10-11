@@ -1,15 +1,14 @@
 {
- "id": "eb03db3f6a84",
- "authored_at": "2026-10-07T13:39:46.297883+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "Stratechery's public preview says Apple is approaching the home through partner integration and previews a discussion of how Amazon should respond to agents. The accessible page is mostly subscription information, so it does not expose the full reasoning about Apple, LG or agent standards. Basis: the title and public teaser only; the subscriber analysis was not read."
+  "Ben Thompson's Stratechery update covers Apple's smarter-than-expected approach to the smart home - leaning into partner integration rather than owning everything - and turns to what Amazon should do about AI agents, in the context of emerging agent standards. Basis: the article is subscriber-only; only the free teaser and subscription pitch were retrievable, so this summary reflects the visible framing rather than the full analysis."
  ],
  "highlights": [
-  "The preview favors Apple's partner-integration approach.",
-  "Amazon's response to agents is another advertised topic.",
-  "The detailed argument is behind subscriber access.",
-  "No conclusions beyond the teaser are verified."
- ]
+  "Apple's home strategy: integration with partners over building everything itself.",
+  "Thompson turns to what Amazon should do about AI agents and agent standards.",
+  "Basis: paywalled Stratechery update - only the free teaser was retrievable."
+ ],
+ "id": "eb03db3f6a84",
+ "authored_at": "2026-10-11T20:05:38.631922+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

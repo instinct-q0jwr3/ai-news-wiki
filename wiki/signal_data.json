@@ -558,5 +558,61 @@
   "thin": 3,
   "total": 45,
   "unreadable": 5
+ },
+ "2026-10-11": {
+  "ok": 18,
+  "paywall": 2,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "a9ca056c9fd1",
+    "minutes": 23,
+    "source": "Cockroach Labs",
+    "title": "Five months treating bugs like patients and coding agents like a medical team",
+    "why": "Five months of running coding agents like a hospital medical team: triage, rounds and discharge for bugs, and what actually broke."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "cfc71f918a70",
+    "minutes": 51,
+    "source": "arXiv",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "why": "Byte Language Models ask whether LLMs need tokenizers at all, scaling tokenizer-free models and tracking their emergent abstractions."
+   },
+   {
+    "cat": "ok",
+    "front": "Trust",
+    "id": "6f7dd6fcc260",
+    "minutes": 4,
+    "source": "BleepingComputer",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+    "why": "Fake Claude installers spread through Google search ads that launder clicks through legitimate Bing redirects."
+   },
+   {
+    "cat": "ok",
+    "front": "Media",
+    "id": "e569e397a513",
+    "minutes": 3,
+    "source": "LA Times",
+    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+    "why": "Nicolas Cage refused an AI waiver on Spider-Noir and says he will not work with Amazon again."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "c1656a52fe8f",
+    "minutes": 9,
+    "source": "Fierce Healthcare",
+    "title": "General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, raised a $120M Series B led by a16z",
+    "why": "General Medicine, the PillPack founders' online storefront for medical care, raised a $120M Series B led by a16z."
+   }
+  ],
+  "reserve": "f0e5e6b1231e",
+  "status": "provisional",
+  "thin": 1,
+  "total": 22,
+  "unreadable": 1
  }
 }

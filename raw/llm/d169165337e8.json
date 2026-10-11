@@ -1,13 +1,17 @@
 {
  "prose": [
-  "CNBC reports Anthropic expanded its Claude Startups program, with up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title."
+  "Anthropic is expanding Claude Startups, the program it launched in May that it says thousands of companies already use. Members can now get up to $45,000 in discounts and credits through the Claude Startup Stack, a one-time $1,000 API credit, and a free year of Claude Team for up to five premium seats, plus virtual office hours with Anthropic's applied AI team and community events.",
+  "Eligibility extends to startups founded within the past five years or funded within the past two. The push is part of Anthropic's effort to lock in the next generation of businesses ahead of a widely expected blockbuster IPO, and to counter startup programs from OpenAI and Google - the vast majority of Anthropic's revenue comes from business customers."
  ],
  "highlights": [
-  "CNBC reports Anthropic expanded its Claude Startups program",
-  "Headline-level summary."
+  "Anthropic expands Claude Startups with up to $45K in discounts and credits.",
+  "Includes a one-time $1,000 API credit and a free year of Claude Team (up to 5 premium seats).",
+  "Open to startups founded in the past five years or funded in the past two.",
+  "Members get office hours with the applied AI team and community events.",
+  "Context: Anthropic competes with OpenAI and Google startup programs ahead of an expected IPO."
  ],
  "id": "d169165337e8",
- "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "authored_at": "2026-10-11T20:02:29.361924+00:00",
  "model": "agent-pass",
  "schema": 1
 }

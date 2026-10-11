@@ -1,16 +1,18 @@
 {
  "prose": [
-  "Richard Ng argues that OpenAI's new ChatGPT Space, a shared document space where people tag in ChatGPT or Codex, could become a context-centralisation flywheel giving one company dystopian power over how organisations learn and build IP. He sees real product and commercial promise, citing Microsoft 365's roughly $100bn revenue, but his essay is a polemic against any one firm owning everyone's context, followed by a two-minute open-source proof of concept as an alternative. Basis: the first part of a long essay was read."
+  "Richard Ng's essay argues that ChatGPT Space - OpenAI's new shared workspace where teams tag in ChatGPT, Codex or their 'dot' to build on shared context - is a context-centralization flywheel that could hand one company dystopian levels of power. With Microsoft 365 making around $100 billion a year, the commercial prize is obvious; the societal cost, Ng argues, is that organizations' collective knowledge, IP and expertise become absorbed and commoditized by a single provider.",
+  "He pairs the polemic with a quote from Sam Altman's Vanity Fair interview acknowledging how scary people find concentrated AI power, and offers a counterpoint: a 2-minute proof-of-concept for an open-source alternative that keeps the power of owned context without the centralization. The essay is split into two parts - the dystopia case and an upbeat companion piece on the radical potential of owning your own context."
  ],
  "highlights": [
-  "ChatGPT Space: shared living documents with ChatGPT and Codex.",
-  "Fear: one firm absorbing and commoditising organisations' expertise.",
-  "Offers an open-source proof of concept instead.",
-  "Opinion piece.",
-  "Basis: first part of the essay."
+  "ChatGPT Space creates shared living documents with ChatGPT, Codex and personal 'dots'.",
+  "Ng's warning: it centralizes organizational context inside one company's flywheel.",
+  "At stake: how organizations learn, build IP and differentiate as AI absorbs their expertise.",
+  "Microsoft 365's ~$100B annual revenue shows the commercial scale OpenAI is chasing.",
+  "Altman himself acknowledges public unease about concentrated AI power.",
+  "Ng demos an open-source alternative aimed at keeping context ownership with the user."
  ],
  "id": "0e0fe2f178f8",
- "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "authored_at": "2026-10-11T20:00:48.961206+00:00",
  "model": "agent-pass",
  "schema": 1
 }

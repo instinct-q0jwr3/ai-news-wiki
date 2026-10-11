@@ -1,13 +1,17 @@
 {
  "prose": [
-  "CNBC reports Meta, Walmart, Stripe and others have published the Personal Agent Protocol to standardise and secure interactions between AI bots and businesses. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title."
+  "A month after Meta's Muse personal agent became a viral hit topping the App Store, Meta, Walmart, Stripe, Sierra and others are publishing the Personal Agent Protocol - an open standard for how AI agents interact with businesses. Bret Taylor, Sierra co-founder and OpenAI chairman, is leading the effort: businesses need to know when they're dealing with a personal agent versus a person, and to block random bots not acting on anyone's behalf. 'It is kind of chaos until such a standard exists.'",
+  "Taylor compares the design to Login with Google or Facebook, which he worked on at Facebook: authentication plus visibility into what agents actually do. The backdrop includes Amazon blocking Meta's agents over scraping worries - and separately blocking and suing Perplexity for allegedly concealing its agents to keep scraping."
  ],
  "highlights": [
-  "CNBC reports Meta",
-  "Headline-level summary."
+  "Meta, Walmart, Stripe, Sierra and others publish the Personal Agent Protocol.",
+  "Goal: standardize and secure how AI agents interact with businesses.",
+  "Bret Taylor leads the initiative, citing login-with-Google as the model.",
+  "Businesses would know agent vs. person and see what agents do.",
+  "Context: Meta's Muse topped the App Store; Amazon blocks Meta's agents and sued Perplexity."
  ],
  "id": "2894a3198b22",
- "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "authored_at": "2026-10-11T20:04:32.416476+00:00",
  "model": "agent-pass",
  "schema": 1
 }

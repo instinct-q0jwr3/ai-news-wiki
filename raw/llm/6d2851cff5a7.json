@@ -1,14 +1,14 @@
 {
  "prose": [
-  "A video of John Ousterhout of Stanford talking about Homa, a datacenter transport protocol he presents as the end of TCP for AI clusters. Basis: only the title was readable; the page text was mostly YouTube page data."
+  "A Stanford talk by John Ousterhout titled 'Homa: The End of TCP for AI Clusters', arguing that TCP is the wrong transport for AI data-center networking and presenting Homa as its replacement. Basis: only the YouTube watch page was fetched - no transcript or description was available - so this summary reflects the talk's title and speaker rather than its content."
  ],
  "highlights": [
-  "Talk: Homa as a replacement for TCP in AI clusters.",
-  "Speaker: John Ousterhout, Stanford.",
-  "Title-only basis."
+  "John Ousterhout (Stanford) presents Homa as a successor to TCP for AI clusters.",
+  "Framing: TCP's design mismatches data-center AI workloads.",
+  "Video format; no transcript was retrievable, so details are not covered here."
  ],
  "id": "6d2851cff5a7",
- "authored_at": "2026-10-05T01:33:28.069910+00:00",
+ "authored_at": "2026-10-11T20:00:01.829035+00:00",
  "model": "agent-pass",
  "schema": 1
 }

@@ -1,13 +1,17 @@
 {
  "prose": [
-  "Google DeepMind launched EmbeddingGemma 2, a 740M-parameter model mapping code, images, video and audio into a shared embedding space, under an Apache 2.0 license. Basis: only the headline was available (the page was not fetched), so this is a short summary of the title."
+  "Google DeepMind launched EmbeddingGemma 2, a 740M-parameter model that natively maps text, code, images, video and audio into one shared embedding space - enabling queries like finding a video clip from a voice memo or searching hours of audio with text, all on-device. It builds on the Gemma 4 architecture, ships under Apache 2.0, and follows the original EmbeddingGemma, which passed 20 million downloads as a lightweight engine for on-device search and privacy-first RAG.",
+  "DeepMind claims EmbeddingGemma 2 matches its predecessor's multilingual text performance while jumping 9.92 points on MTEB Code (68.76 to 78.68), making it suitable for local codebase indexing and coding-agent retrieval. Across image, video, documents and audio it sets a new quality-per-parameter standard for sub-1B models, outperforming some specialist models twice its size."
  ],
  "highlights": [
-  "Google DeepMind launched EmbeddingGemma 2",
-  "Headline-level summary."
+  "EmbeddingGemma 2: 740M parameters mapping text, code, images, video and audio into one space.",
+  "Apache 2.0 license; built on the Gemma 4 architecture; designed for on-device inference.",
+  "Original EmbeddingGemma passed 20M downloads for on-device search and RAG.",
+  "MTEB Code score up 9.92 points to 78.68 - aimed at codebase indexing and agent retrieval.",
+  "Sets a quality-per-parameter standard for sub-1B multimodal embedding models."
  ],
  "id": "ca79599eedd4",
- "authored_at": "2026-10-06T19:41:43.911786+00:00",
+ "authored_at": "2026-10-11T20:03:23.635015+00:00",
  "model": "agent-pass",
  "schema": 1
 }

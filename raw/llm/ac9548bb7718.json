@@ -1,16 +1,17 @@
 {
- "id": "ac9548bb7718",
- "authored_at": "2026-10-08T19:43:20.968620+00:00",
- "model": "agent-pass",
- "schema": 1,
  "prose": [
-  "TechSpot reports on Brandon Thomas's free open-source Adobe look-alikes, built with AI after frustration with Adobe's cancellation process. The page itself was not retrieved; the headline matches Ars Technica and Tom's Hardware coverage of the Artcraft release.",
-  "Basis: headline plus related coverage describing seven apps modelled on Photoshop, Illustrator, Premiere and others, still unfinished."
+  "Brandon Thomas, a 15-year software veteran with a decade of Rust experience, used Claude Opus 5.5 to build Artcraft - free, open-source Rust clones of seven Adobe applications: Photocraft (Photoshop), Vectorcraft (Illustrator), Filmcraft (Premiere), Lightcraft (Lightroom), Effectcraft (After Effects), Designcraft (InDesign) and Printcraft (Acrobat Pro). The trigger was frustration with Adobe, a company once sued by the US government over its cancellation fees; Thomas declared 'software is over'.",
+  "He claims 100% parity within a month - tempered on Hacker News to 99% parity in months rather than years - and insists the project has team support and won't be abandoned. Early users report the apps look like Adobe's but struggle with basic functionality, so for now they are not replacements for the established tools."
  ],
  "highlights": [
-  "Developer builds free Adobe-style apps with AI",
-  "Motivated by frustration over cancelling Adobe",
-  "Same release as Ars Technica and Tom's Hardware stories",
-  "Article not reviewed directly"
- ]
+  "Artcraft: free open-source Rust clones of seven Adobe apps, built with Claude Opus 5.5.",
+  "Photocraft, Vectorcraft, Filmcraft, Lightcraft, Effectcraft, Designcraft and Printcraft.",
+  "Thomas: 15-year veteran, ~10 years in Rust; motivated by Adobe's cancellation practices.",
+  "Parity claims: 100% in a month, later tempered to 99% in months.",
+  "Early verdict: looks the part, but basic functionality problems persist."
+ ],
+ "id": "ac9548bb7718",
+ "authored_at": "2026-10-11T20:05:38.631922+00:00",
+ "model": "agent-pass",
+ "schema": 1
 }

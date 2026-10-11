@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-11",
+ "status": "provisional",
+ "reserve": "f0e5e6b1231e",
+ "picks": [
+  {
+   "id": "a9ca056c9fd1",
+   "front": "Agents",
+   "source": "Cockroach Labs",
+   "why": "Five months of running coding agents like a hospital medical team: triage, rounds and discharge for bugs, and what actually broke."
+  },
+  {
+   "id": "cfc71f918a70",
+   "front": "Research",
+   "source": "arXiv",
+   "why": "Byte Language Models ask whether LLMs need tokenizers at all, scaling tokenizer-free models and tracking their emergent abstractions."
+  },
+  {
+   "id": "6f7dd6fcc260",
+   "front": "Trust",
+   "source": "BleepingComputer",
+   "why": "Fake Claude installers spread through Google search ads that launder clicks through legitimate Bing redirects."
+  },
+  {
+   "id": "e569e397a513",
+   "front": "Media",
+   "source": "LA Times",
+   "why": "Nicolas Cage refused an AI waiver on Spider-Noir and says he will not work with Amazon again."
+  },
+  {
+   "id": "c1656a52fe8f",
+   "front": "Business",
+   "source": "Fierce Healthcare",
+   "why": "General Medicine, the PillPack founders' online storefront for medical care, raised a $120M Series B led by a16z."
+  }
+ ]
+}
