@@ -1,0 +1,16 @@
+{
+ "id": "43f56db67d76",
+ "authored_at": "2026-10-11T07:54:12.961188+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Kotaku's report, carried by Techmeme, that hundreds of old games were decompiled and ported to run in browsers in recent weeks, driven by Claude Opus 5.5, with titles like GTA: Vice City and Halo: Combat Evolved running well.",
+  "Basis: the page was not fetched in this pass, so this rests on the headline and Techmeme's excerpt. The same story is covered in depth elsewhere in today's digest."
+ ],
+ "highlights": [
+  "Hundreds of old games decompiled for the browser",
+  "Claude Opus 5.5 drives the wave",
+  "GTA: Vice City and Halo: CE run well",
+  "Source text not fetched"
+ ]
+}

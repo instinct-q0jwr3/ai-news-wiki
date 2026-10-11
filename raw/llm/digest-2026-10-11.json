@@ -29,6 +29,36 @@
     "6f7dd6fcc260"
    ],
    "concepts": []
+  },
+  {
+   "title": "Decompiling games, at industrial scale",
+   "intro": "A three-month, 500-billion-token FPS recreation, and the Kotaku wave of browser ports driven by Opus 5.5.",
+   "stories": [
+    "61a00b937df0",
+    "43f56db67d76"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent tooling and toys",
+   "intro": "A stand-up call for your Claude Code session, a Rust engine for agent-made 3D video, and Python 3.15 in Actions.",
+   "stories": [
+    "9cf90242dc46",
+    "c070f0bd9d35",
+    "28c3f83e2b05"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Research, models and money",
+   "intro": "Models fall short of a human algorithmic innovation, Microsoft ships a decision model, and two raises land.",
+   "stories": [
+    "683fa7f84ce8",
+    "38f8ee4ddd08",
+    "c1656a52fe8f",
+    "f3da71d65732"
+   ],
+   "concepts": []
   }
  ]
 }

@@ -1,0 +1,15 @@
+{
+ "id": "28c3f83e2b05",
+ "authored_at": "2026-10-11T07:54:12.961188+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison notes that Python 3.15.0 has been added to actions/python-versions, which means you can now add '3.15' to a GitHub Actions testing matrix and run tests against the new release.",
+  "He admits the link is niche and that he had been waiting days for it, to the point of telling ChatGPT to clone the repo and git pull once an hour until the stable 3.15 landed, a small, honest example of delegating a tedious watch task to an agent."
+ ],
+ "highlights": [
+  "Python 3.15.0 lands in actions/python-versions",
+  "Enables '3.15' in GitHub Actions test matrices",
+  "Willison had ChatGPT poll the repo hourly for it"
+ ]
+}

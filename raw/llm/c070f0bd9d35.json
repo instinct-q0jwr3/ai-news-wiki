@@ -1,0 +1,17 @@
+{
+ "id": "c070f0bd9d35",
+ "authored_at": "2026-10-11T07:54:12.961188+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "ManimGX reimplements Manim CE's API on a Rust and wgpu engine for making 3D videos in Python, aimed at the video-as-code workflow that took off with the Opus 5.5 release. On their benchmark, 36.2 seconds of video across five scenes rendered in 3.08 seconds at 1080p60 on an Apple M4 Pro: 90.6x faster than ManimCE, 11.5x faster than ManimGL and 18.7x faster than Blender Workbench.",
+  "It is built for agents: install with a prompt or pip, paste the llms.txt into Claude Code, Codex or Cursor, and run in the browser."
+ ],
+ "highlights": [
+  "Manim CE-compatible API on Rust/wgpu",
+  "90.6x faster than ManimCE on their benchmark",
+  "36.2s of video rendered in 3.08s at 1080p60",
+  "Built for agent-driven video-as-code",
+  "Install via prompt, pip, or in the browser"
+ ]
+}

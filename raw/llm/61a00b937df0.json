@@ -1,0 +1,17 @@
+{
+ "id": "61a00b937df0",
+ "authored_at": "2026-10-11T07:54:12.961188+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A developer spent three months and some 500 billion tokens decompiling a popular first-person shooter, aiming not for a proof of concept but an accurate, stable and feature-complete recreation of the game. The author stays coy about which game: two earlier posts naming it were removed after, in their words, corporate America was here to ruin their fun.",
+  "The post is less about the game or decompilation itself and more about AI orchestration: how to optimize infrastructure, setup and harness so agents produce optimal results on a long-horizon project. The work was done with RektInator, Future and st0rm."
+ ],
+ "highlights": [
+  "Three months and ~500B tokens decompiling an FPS",
+  "Goal: accurate, stable, feature-complete recreation",
+  "Earlier posts naming the game were taken down",
+  "Focus on orchestration, infrastructure and harness",
+  "Done with RektInator, Future and st0rm"
+ ]
+}

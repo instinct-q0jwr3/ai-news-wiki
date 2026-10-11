@@ -1,59 +1,47 @@
 {
- "generated_at": "2026-10-11T01:47:10+00:00",
+ "generated_at": "2026-10-11T07:47:59+00:00",
  "stories": [
   {
-   "id": "d81a92d2aa05",
-   "title": "Can AI automate AI R&D yet?",
+   "id": "61a00b937df0",
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
    "source": "Hacker News",
-   "url": "https://epoch.ai/publications/innovationeval"
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
   },
   {
-   "id": "a9ca056c9fd1",
-   "title": "Five months treating bugs like patients and coding agents like a medical team",
+   "id": "9cf90242dc46",
+   "title": "AI agents in a stand-up call",
    "source": "Hacker News",
-   "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/"
+   "url": "https://atoll92.github.io/agent-standup/"
   },
   {
-   "id": "6f7dd6fcc260",
-   "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+   "id": "c070f0bd9d35",
+   "title": "Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
    "source": "Hacker News",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
+   "url": "https://github.com/academa-labs/manimgx"
   },
   {
-   "id": "979ee58f0ca0",
-   "title": "A Stark Warning from a Former AI Doomer",
-   "source": "Hacker News",
-   "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983"
+   "id": "38f8ee4ddd08",
+   "title": "Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models",
+   "source": "Techmeme",
+   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"
   },
   {
-   "id": "766b2a333006",
-   "title": "Generative AI scandal has come to one of Nikon's competitions",
-   "source": "Hacker News",
-   "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/"
+   "id": "c1656a52fe8f",
+   "title": "General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, raised a $120M Series B led by a16z",
+   "source": "Techmeme",
+   "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health"
   },
   {
-   "id": "b52a4b3366cf",
-   "title": "Veda: The Agentic-Native Operating System Supports GCC and OpenGL",
-   "source": "Hacker News",
-   "url": "https://github.com/vahmoh25/Veda"
+   "id": "402ec159d43c",
+   "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well",
+   "source": "Techmeme",
+   "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
   },
   {
-   "id": "c2e871730ded",
-   "title": "Anthropic asks users to stop being mean to Claude",
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
-  },
-  {
-   "id": "28c3f83e2b05",
-   "title": "Python 3.15.0 added to actions/python-versions",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
-  },
-  {
-   "id": "cfc71f918a70",
-   "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
-   "source": "Lobsters",
-   "url": "https://arxiv.org/html/2610.05978v1"
+   "id": "f3da71d65732",
+   "title": "Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M",
+   "source": "Techmeme",
+   "url": "https://www.calcalistech.com/ctechnews/article/rkf52cnimg"
   }
  ]
 }

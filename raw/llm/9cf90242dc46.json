@@ -1,0 +1,17 @@
+{
+ "id": "9cf90242dc46",
+ "authored_at": "2026-10-11T07:54:12.961188+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Agent Standup turns a Claude Code session into a live team meeting: the lead agent gives orders, sub-agents join, share their screen and report back, so you can see who is waiting on whom and who is blocked, at zero token cost. Its makers call it a bit silly and weirdly useful.",
+  "It works by reading the session files Claude Code already writes, so nothing is sent anywhere and there is nothing to configure; it runs wherever Claude Code runs, from VS Code and Cursor to a plain terminal, and starts with a single npx command."
+ ],
+ "highlights": [
+  "Turns a Claude Code session into a live stand-up",
+  "See who is blocked and who waits on whom",
+  "Zero token cost; reads local session files",
+  "Works in VS Code, Cursor, terminal, desktop app",
+  "Starts with one npx command"
+ ]
+}

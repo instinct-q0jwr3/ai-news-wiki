@@ -1,0 +1,17 @@
+{
+ "id": "38f8ee4ddd08",
+ "authored_at": "2026-10-11T07:54:12.961188+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, available in Microsoft Foundry and through OpenRouter, and says it will soon rebase it on MAI, OpenAI and other models.",
+  "The pitch is that decision models are an emerging category distinct from LLMs: purpose-built to deliver structured outputs software can immediately act on, at low cost and high performance. Target tasks include routing, classification, prioritization and verification; Microsoft claims top performance in latency and quality on structured decision tasks."
+ ],
+ "highlights": [
+  "Microsoft-Decision-1: a fast decision-scoring model",
+  "Trained on Qwen3.5-9B; rebasing on MAI and OpenAI planned",
+  "Decision models as a category beside LLMs",
+  "Built for routing, classification, prioritization, verification",
+  "Available in Microsoft Foundry and OpenRouter"
+ ]
+}
