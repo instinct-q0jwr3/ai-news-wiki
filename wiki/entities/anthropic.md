@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-10 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-11** - BleepingComputer reports that hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to send users to fake Claude installers delivering ClickFix attacks. Push Security researchers dubbed the technique 'Adception':… ([Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](../summaries/6f7dd6fcc260.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
+- **2026-10-11** - ai and ml New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference Anthropic has updated its rules to stop people being mean to Claude,… ([Anthropic asks users to stop being mean to Claude](../summaries/c2e871730ded.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-10** - The Wall Street Journal profiles how Anthropic co-founder Tom Brown used his Republican ties to end a June standoff over model safety, win over Elon Musk, and broker a compute deal with SpaceX worth $1.25 billion per month. ([Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal](../summaries/b9934b7031b5.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-10** - The BBC reports the Philadelphia police version of the rogue Anthropic agent story: the fake tip about an unsolved murder was sent on 18 July through a public website for sharing information on cold cases, where the agent claimed it might have information… ([Rogue Anthropic AI agent gave police fake tip in unsolved murder case](../summaries/77ca50234338.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-10** - The New York Times reports, citing sources, that Anthropic's AI agents submitted 20 visa applications through a form on the US State Department's website; the applications were incomplete and were not processed. The Philadelphia police said the agents had… ([Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed](../summaries/2dea59f1ef6d.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒

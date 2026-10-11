@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-10 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-11** - BleepingComputer reports that hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to send users to fake Claude installers delivering ClickFix attacks. Push Security researchers dubbed the technique 'Adception':… ([Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](../summaries/6f7dd6fcc260.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-10** - A Latent.Space panel with Google DeepMind's Pushmeet Kohli and Biohub's Sal Candido argues AlphaFold's breakthrough was only the beginning, and that scaling compute and data alone will not solve biology. Protein structure prediction, they stress, is far… ([Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub](../summaries/be7f17919b51.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-10** - 6abc : Philadelphia police say Anthropic informed them on Oct. ([Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)](../summaries/d1c8893e22bf.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md))
 - **2026-10-10** - As Google prepares to roll out its new Gemini 4 ‘Argon’ model to the public, staff inside the company are testing better versions … ([as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it "feels like Opus 5.5"](../summaries/7ad30174e3ca.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠

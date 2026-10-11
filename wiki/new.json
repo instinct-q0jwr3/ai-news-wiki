@@ -1,65 +1,59 @@
 {
- "generated_at": "2026-10-10T19:46:14+00:00",
+ "generated_at": "2026-10-11T01:47:10+00:00",
  "stories": [
   {
-   "id": "bad97e655cdb",
-   "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+   "id": "d81a92d2aa05",
+   "title": "Can AI automate AI R&D yet?",
    "source": "Hacker News",
-   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
+   "url": "https://epoch.ai/publications/innovationeval"
   },
   {
-   "id": "b9934b7031b5",
-   "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
+   "id": "a9ca056c9fd1",
+   "title": "Five months treating bugs like patients and coding agents like a medical team",
    "source": "Hacker News",
-   "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad"
+   "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/"
   },
   {
-   "id": "4b5f90458a16",
-   "title": "My personal AI agent posted my bank details on company Slack",
+   "id": "6f7dd6fcc260",
+   "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
    "source": "Hacker News",
-   "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10"
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
   },
   {
-   "id": "afa6fd38d128",
-   "title": "AI Is Throwing a Roadside Picnic",
+   "id": "979ee58f0ca0",
+   "title": "A Stark Warning from a Former AI Doomer",
    "source": "Hacker News",
-   "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic"
+   "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983"
   },
   {
-   "id": "8738c39f1e03",
-   "title": "Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+   "id": "766b2a333006",
+   "title": "Generative AI scandal has come to one of Nikon's competitions",
+   "source": "Hacker News",
+   "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/"
   },
   {
-   "id": "520b5b644f38",
-   "title": "In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation",
-   "source": "Techmeme",
-   "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+   "id": "b52a4b3366cf",
+   "title": "Veda: The Agentic-Native Operating System Supports GCC and OpenGL",
+   "source": "Hacker News",
+   "url": "https://github.com/vahmoh25/Veda"
   },
   {
-   "id": "2920982bfd36",
-   "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/standard-bots"
+   "id": "c2e871730ded",
+   "title": "Anthropic asks users to stop being mean to Claude",
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
   },
   {
-   "id": "c6d5b3a33510",
-   "title": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access",
-   "source": "Techmeme",
-   "url": "https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/"
+   "id": "28c3f83e2b05",
+   "title": "Python 3.15.0 added to actions/python-versions",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
   },
   {
-   "id": "402ec159d43c",
-   "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well",
-   "source": "Techmeme",
-   "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
-  },
-  {
-   "id": "e0d2bd579d42",
-   "title": "‘Proof-of-Human’",
-   "source": "Daring Fireball",
-   "url": "https://x.com/bzamayo/status/2108498107184934914"
+   "id": "cfc71f918a70",
+   "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+   "source": "Lobsters",
+   "url": "https://arxiv.org/html/2610.05978v1"
   }
  ]
 }

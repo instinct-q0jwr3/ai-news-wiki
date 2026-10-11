@@ -1,0 +1,17 @@
+{
+ "id": "cfc71f918a70",
+ "authored_at": "2026-10-11T01:54:00.588248+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An arXiv paper asks whether language models really need explicit tokenizers. Tokenizer-free byte-level models remove the inductive bias of fixed tokenizers but pay for it with much longer sequences and no explicit text abstractions; the authors test whether standard flat Transformers can learn those abstractions themselves.",
+  "With token-superposition training and hash embeddings, they find byte Transformers consistently outperform subword Transformers as model size scales. They also show the byte models build local text abstractions the way external tokenizers do, using segmentation-like positions to collect local context representations."
+ ],
+ "highlights": [
+  "Do language models need tokenizers at all?",
+  "Flat byte Transformers tested without special architectures",
+  "Token-superposition training plus hash embeddings",
+  "Byte models outperform subword models as size scales",
+  "Models learn segmentation-like abstractions on their own"
+ ]
+}

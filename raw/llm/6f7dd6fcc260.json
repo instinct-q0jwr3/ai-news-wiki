@@ -1,0 +1,17 @@
+{
+ "id": "6f7dd6fcc260",
+ "authored_at": "2026-10-11T01:54:00.588248+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "BleepingComputer reports that hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to send users to fake Claude installers delivering ClickFix attacks. Push Security researchers dubbed the technique 'Adception': using Bing's trusted domain as the ad destination appears designed to slip past advertising security checks before victims are bounced through a compromised site to the malicious download page.",
+  "The campaign surfaced after researchers spotted a malicious Google ad targeting searches for 'claude mac'. The attack layers cloaking so security scanners and direct visitors never see the payload, a more evasive pattern than typical malvertising."
+ ],
+ "highlights": [
+  "Fake Claude installers pushed through Google ads",
+  "Bing redirects abused as trusted click URLs ('Adception')",
+  "Victims bounced through compromised sites to the payload",
+  "Campaign found via ads targeting 'claude mac' searches",
+  "Layered cloaking hides the payload from scanners"
+ ]
+}

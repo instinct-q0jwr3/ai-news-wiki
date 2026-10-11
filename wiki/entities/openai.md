@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-10 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,7 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
-- **2026-10-10** - CBS News looks at a 1,700-member Slack run by CMS, the Medicare agency, where Microsoft, OpenAI and other companies help shape policy on AI apps and medical records access. ([A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access](../summaries/c6d5b3a33510.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-10-11** - Tags: github , python , github-actions , chatgpt Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it 10th October 2026 - Link Blog Python 3.15.0 added to… ([Python 3.15.0 added to actions/python-versions](../summaries/28c3f83e2b05.md) · [OpenAI](../entities/openai.md))
+- **2026-10-10** - CBS News reports that a cadre of tech executives, financiers and high-level Trump administration officials has spent a year quietly charting a campaign to persuade Americans to use AI-powered apps to manage their healthcare and medical records. As the… ([A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access](../summaries/c6d5b3a33510.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-10** - Bloomberg examines why comparing Anthropic's and OpenAI's revenue confuses investors: the two book sales differently, with Anthropic recording gross sales through cloud partners while OpenAI records only its net share. ([A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share](../summaries/3e2de3b1d0a1.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-10-10** - Top executives at Anthropic, OpenAI, and other AI companies are privately rehearsing how to handle the public and political backlash after a catastrophic AI event, according to an Axios report published Friday. ([Anthropic and OpenAI wargaming public and political revolt after AI catastrophe](../summaries/0d4d9abbaaaf.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-10** - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further against the technology and its leaders … ([top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event](../summaries/ea0be141fbe8.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) ⚠
