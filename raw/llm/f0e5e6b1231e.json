@@ -1,0 +1,17 @@
+{
+ "id": "f0e5e6b1231e",
+ "authored_at": "2026-10-11T13:55:12.472370+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A UC Berkeley news piece describes a peer-reviewed study, presented at the Conference on Language Modeling, which found that about ten minutes of relying on an AI assistant makes people less able to persist at hard tasks. Co-author Brian Christian, of the Center for Human-Compatible AI, says the result matches a feeling many people already have.",
+  "The team ran randomized trials with 1,222 online participants. In the first, people solved fraction problems with or without ChatGPT. The AI group began more accurate, but once the tool was removed after twelve problems their accuracy fell and many gave up, while the unaided group kept going. A larger group and an SAT reading task showed the same pattern. The authors tie it to lost 'productive struggle' and a growing expectation of instant answers, and suggest AI should act more like a tutor. Christian worries the effect reaches research and expertise generally."
+ ],
+ "highlights": [
+  "1,222 participants across three randomized experiments (fractions twice, then SAT reading).",
+  "AI users did better with the tool, then did worse and persisted less once it was removed.",
+  "Authors point to lost 'productive struggle' and the habit of instant answers.",
+  "Proposed fix: assistants that default to instructive, tutor-style replies.",
+  "Team spans CMU, MIT, Oxford and UCLA; presented at CoLM."
+ ]
+}

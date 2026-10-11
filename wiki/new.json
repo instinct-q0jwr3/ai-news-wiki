@@ -1,47 +1,41 @@
 {
- "generated_at": "2026-10-11T07:47:59+00:00",
+ "generated_at": "2026-10-11T13:48:43+00:00",
  "stories": [
   {
-   "id": "61a00b937df0",
-   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "id": "66810b4608f4",
+   "title": "AI is creating a 'human premium' for art created by people",
    "source": "Hacker News",
-   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+   "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo"
   },
   {
-   "id": "9cf90242dc46",
-   "title": "AI agents in a stand-up call",
+   "id": "f0e5e6b1231e",
+   "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
    "source": "Hacker News",
-   "url": "https://atoll92.github.io/agent-standup/"
+   "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
   },
   {
-   "id": "c070f0bd9d35",
-   "title": "Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
+   "id": "d8abca6bfd34",
+   "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
    "source": "Hacker News",
-   "url": "https://github.com/academa-labs/manimgx"
+   "url": "https://copilot.travel/tolls/europe-2026"
   },
   {
-   "id": "38f8ee4ddd08",
-   "title": "Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models",
-   "source": "Techmeme",
-   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"
+   "id": "8e05b5e8c85a",
+   "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
+   "source": "Hacker News",
+   "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/"
   },
   {
-   "id": "c1656a52fe8f",
-   "title": "General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, raised a $120M Series B led by a16z",
-   "source": "Techmeme",
-   "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health"
+   "id": "e569e397a513",
+   "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+   "source": "Hacker News",
+   "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute"
   },
   {
-   "id": "402ec159d43c",
-   "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well",
+   "id": "7c816ab63f1e",
+   "title": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes",
    "source": "Techmeme",
-   "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
-  },
-  {
-   "id": "f3da71d65732",
-   "title": "Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M",
-   "source": "Techmeme",
-   "url": "https://www.calcalistech.com/ctechnews/article/rkf52cnimg"
+   "url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b"
   }
  ]
 }
