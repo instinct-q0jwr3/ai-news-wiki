@@ -1,0 +1,52 @@
+{
+ "id": "weekly-2026-W42",
+ "date": "2026-W42",
+ "week": "2026-W42",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "OpenAI fires three safety researchers who had urged labs to slow down, days before trimming its revenue story by $20B; Brad Smith says milk is more regulated than AI; and Karpathy maps a widening funnel between the 20 million who see what agents do and everyone else.",
+ "sections": [
+  {
+   "title": "OpenAI, safety and the revenue story",
+   "intro": "Three fired researchers, an outside auditor, and a $20B correction.",
+   "stories": [
+    "c92c9b1139d8",
+    "03797af032a2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rules, branding and who sets them",
+   "intro": "Regulation calls from Microsoft, a Palantir defense, and the super intelligence rebrand.",
+   "stories": [
+    "96064f4a5769",
+    "097a865fa4ff",
+    "ef46c2d35f7c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "How to think about the transition",
+   "intro": "Essays and tools for reasoning about where AI goes next.",
+   "stories": [
+    "5b2f35146f96",
+    "5f9906441bcb",
+    "629ecbe51b11",
+    "365cace6791d",
+    "f18640d29a57"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Deals and builds",
+   "intro": "An Amazon-Decart talk, hospital staffing money, a sandbox for agent code, and routers.",
+   "stories": [
+    "d84e2a1586a9",
+    "b977401e3203",
+    "1649c4513e61",
+    "7e65ec599cad"
+   ],
+   "concepts": []
+  }
+ ]
+}

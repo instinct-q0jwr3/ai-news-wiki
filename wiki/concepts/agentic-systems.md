@@ -1,6 +1,6 @@
 # Concept: Agentic systems
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
 
 `concept` `agentic-systems`
 
@@ -36,6 +36,7 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## Timeline
 
+- **2026-10-12** - Plimsoll is a self-hosted sandbox for running untrusted code - like code an AI agent wrote - where every result states how strong the isolation actually was. Named after the Plimsoll load line painted on a ship's hull, it reports an isolation tier on every… ([Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](../summaries/1649c4513e61.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-11** - A developer spent three months and some 500 billion tokens decompiling a popular first-person shooter, aiming not for a proof of concept but an accurate, stable and feature-complete recreation of the game. The author stays coy about which game: two earlier… ([500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](../summaries/61a00b937df0.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-11** - Agent Standup turns a Claude Code session into a live team meeting: the lead agent gives orders, sub-agents join, share their screen and report back, so you can see who is waiting on whom and who is blocked, at zero token cost. Its makers call it a bit… ([AI agents in a stand-up call](../summaries/9cf90242dc46.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-11** - ManimGX reimplements Manim CE's API on a Rust and wgpu engine for making 3D videos in Python, aimed at the video-as-code workflow that took off with the Opus 5.5 release. On their benchmark, 36.2 seconds of video across five scenes rendered in 3.08 seconds… ([Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python](../summaries/c070f0bd9d35.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
@@ -65,4 +66,3 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 - **2026-10-09** - Aura is an open-source, local-first personal AI agent platform written in Go. One binary on your own machine hosts the agent runtime, shell and file tools, web, documents, scheduling, skills, and access through CLI, Telegram and a web interface, with… ([Show HN: Aura – a self-hosted, multi-user AI agent with per-person graph memory](../summaries/8ee7f97b7c6a.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-09** - AgentsInTheCloud is a one-page guide for moving coding agents off a laptop: get a server, perhaps on Hetzner or DigitalOcean, install Tailscale on your dev machine, and run one installer script on both. The site tells readers to read the installer first… ([Agents in the Cloud](../summaries/de74344957c5.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - A Show HN project runs an AI agent on a Nokia 110 feature phone with only 48MB of RAM. The author wanted to cut screen time, tried Android, failed, then reverse-engineered the firmware for days and got custom code running in RAM through the Calculator app. ([Show HN: I Put an AI Agent on a Nokia 110](../summaries/656398de72ef.md) · [Agentic systems](../concepts/agentic-systems.md))
-- **2026-10-08** - Natura unveils Interface, a $99 smart ring meant as an interface to AI agents. It tracks heart rate, HRV, sleep and activity like a health ring, and at launch connects to agents and apps including Meta's Muse, Instinct, Grokbot, Claude and ChatGPT. ([AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct](../summaries/4da4fb3033fc.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))

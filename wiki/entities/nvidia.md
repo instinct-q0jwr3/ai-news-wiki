@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-11 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-12 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-12** - The Verge documents Silicon Valley falling in line with President Trump's rebrand of artificial intelligence as 'super intelligence'. Musk promised to rename SpaceXAI to SpaceXSI; hours after Trump declared that the White House considers anyone using… ([How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted "super intelligence", as Silicon Valley falls in line with Trump](../summaries/ef46c2d35f7c.md) · [SpaceXAI (xAI)](../entities/xai.md) · [NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-10-11** - Artificial intelligence (AI) data centre company Firmus has scrapped its plans for what would have been one of Australia's biggest-ever stock market listings. ([Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen](../summaries/851c64524dd5.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-10** - The Financial Times reports, via sources, that Nvidia is in talks to acquire or increase its investment in Reflection AI, a US open-weights AI startup, in a deal that may be structured as an acquihire to avoid antitrust scrutiny. ([Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny](../summaries/8738c39f1e03.md) · [NVIDIA](../entities/nvidia.md) · [DeepSeek](../entities/deepseek.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-10-09** - NVIDIA's NVlabs published a repository of long-video generation and world-action modeling research. Each project (Long-WAM, LongLive-Plug, LongLive 2.0, LongLive 1.0) has its own code, docs and weights and can be fetched alone with a sparse checkout. ([NVIDIA's Long-Video and World-Action Research](../summaries/97a2455d7b97.md) · [NVIDIA](../entities/nvidia.md))

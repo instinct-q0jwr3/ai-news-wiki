@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Amazon is in talks to buy Decart, the San Francisco AI startup whose software helps developers run models efficiently, in a deal that could value it around $7 billion, per WSJ sources; Anthropic had decided against acquiring Decart for roughly $6 billion in September. Basis: the WSJ article is paywalled and no body text was retrievable, so this summary reflects the reported headline and its context rather than the full article."
+ ],
+ "highlights": [
+  "Amazon in talks to acquire AI startup Decart at a ~$7B valuation (WSJ).",
+  "Anthropic passed on buying Decart for ~$6B in September.",
+  "Decart's software helps developers run AI models efficiently.",
+  "Basis: headline only - WSJ paywall blocked the article text."
+ ],
+ "id": "d84e2a1586a9",
+ "authored_at": "2026-10-12T01:58:02.303731+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

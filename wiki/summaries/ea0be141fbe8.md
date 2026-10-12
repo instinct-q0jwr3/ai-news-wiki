@@ -1,6 +1,6 @@
 # top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event
 
-_type: news-summary · created: 2026-10-10 · updated: 2026-10-11 · confidence: high_
+_type: news-summary · created: 2026-10-10 · updated: 2026-10-12 · confidence: high_
 
 `techmeme` `openai` `anthropic`
 

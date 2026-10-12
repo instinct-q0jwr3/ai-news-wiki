@@ -1,6 +1,6 @@
 # Concept: Ai Risk Debate
 
-_type: concept · created: 2026-10-11 · updated: 2026-10-11 · confidence: medium_
+_type: concept · created: 2026-10-12 · updated: 2026-10-12 · confidence: medium_
 
 `concept` `ai-risk-debate`
 

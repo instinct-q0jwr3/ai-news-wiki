@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Andrej Karpathy revisits an April tweet to argue that the gap in shared understanding of LLM capability is widening into a sharp funnel. Roughly 6 billion people (~75%) have barely touched LLMs; another 1-2 billion (~20%) are casual free-tier users who see derpy chatbots - a better Google search, a writing aid - and reasonably conclude they have little use for it, a tier that includes many professionals whose work is mostly talking to other people.",
+  "Then comes the thin neck: about 20 million people (0.2%) using frontier models for math and code see first-hand that projects that took weeks now finish from a prompt - building, copying, translating and decompiling apps. Karpathy notes how recent this is: less than a year ago he was still writing code by hand with tab-completion. The funnel explains why public discourse about AI keeps talking past itself."
+ ],
+ "highlights": [
+  "Karpathy: the LLM capability-understanding gap is widening into a sharp funnel.",
+  "~6B people (75%) have barely come in contact with LLMs.",
+  "~1-2B (20%) are casual free-tier users who see a better search box.",
+  "~20M (0.2%) use frontier models for math and code and see weeks of work done from a prompt.",
+  "He wrote code manually less than a year ago - the shift is that recent."
+ ],
+ "id": "5b2f35146f96",
+ "authored_at": "2026-10-12T01:57:53.102251+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

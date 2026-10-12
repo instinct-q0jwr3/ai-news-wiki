@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-12** - In a Face the Nation interview, Palantir CTO Shyam Sankar fields CBS polling showing 50% of Americans think AI will create more problems than it solves and 45% want government restrictions. His answer: the burden is on the tech industry to show real… ([Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more](../summaries/097a865fa4ff.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-12** - Amazon is in talks to buy Decart, the San Francisco AI startup whose software helps developers run models efficiently, in a deal that could value it around $7 billion, per WSJ sources; Anthropic had decided against acquiring Decart for roughly $6 billion… ([Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September](../summaries/d84e2a1586a9.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md)) 🔒
 - **2026-10-11** - Why is Anthropic driving its partners to speed up the $530 billion of data center leasing deals it has signed? ([A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN](../summaries/e710575e9e6e.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-11** - BleepingComputer reports that hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to send users to fake Claude installers delivering ClickFix attacks. Push Security researchers dubbed the technique 'Adception':… ([Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](../summaries/6f7dd6fcc260.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-11** - ai and ml New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference Anthropic has updated its rules to stop people being mean to Claude,… ([Anthropic asks users to stop being mean to Claude](../summaries/c2e871730ded.md) · [Anthropic](../entities/anthropic.md))

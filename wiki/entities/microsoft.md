@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-12** - Microsoft president Brad Smith told the BBC's Big Boss Interview that milk and washing machines face more safety rules than AI, calling for global regulation: a legal obligation to tell victims when a rogue AI agent breaches their system, independent… ([AI is less regulated than milk, says Microsoft president](../summaries/96064f4a5769.md) · [Microsoft](../entities/microsoft.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-11** - Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, available in Microsoft Foundry and through OpenRouter, and says it will soon rebase it on MAI, OpenAI and other models. ([Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models](../summaries/38f8ee4ddd08.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-10-10** - Microsoft announces that Microsoft Execution Containers (MXC) is now generally available, presenting it as the containment layer for AI agents on Windows. The problem it targets: agents work across files, networks and applications, and customers are left… ([Mxc: Microsoft Execution Containers version 1.0.0](../summaries/bad97e655cdb.md) · [Microsoft](../entities/microsoft.md))
 - **2026-10-10** - CBS News reports that a cadre of tech executives, financiers and high-level Trump administration officials has spent a year quietly charting a campaign to persuade Americans to use AI-powered apps to manage their healthcare and medical records. As the… ([A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access](../summaries/c6d5b3a33510.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

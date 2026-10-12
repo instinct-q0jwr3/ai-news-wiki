@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-10-12** - Amazon is in talks to buy Decart, the San Francisco AI startup whose software helps developers run models efficiently, in a deal that could value it around $7 billion, per WSJ sources; Anthropic had decided against acquiring Decart for roughly $6 billion… ([Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September](../summaries/d84e2a1586a9.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md)) 🔒
 - **2026-10-11** - The LA Times reports that Nicolas Cage said at New York Comic Con that he refused to sign an AI waiver for the Amazon-backed series Spider-Noir and does not expect to work with the studio again. He linked it to Amazon's reported 50 billion dollar… ([Nicolas Cage says he won't work with Amazon again over AI dispute](../summaries/e569e397a513.md) · [Amazon](../entities/amazon.md))
 - **2026-10-10** - The Wall Street Journal reports that Anthropic's Dario Amodei spoke with Meta's Alexandr Wang earlier this year hoping to source more compute, and that Meta declined the request. ([Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request](../summaries/e72c938bc86f.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-10** - Cory Doctorow's lead essay argues that every billionaire is a policy failure, and that the corrosive part is not wealth itself but the power to live 'unthwarted': unelected, unaccountable, and able to dictate how millions of others must live. Having… ([Pluralistic: Thwarted (09 Oct 2026)](../summaries/813dd7e08469.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

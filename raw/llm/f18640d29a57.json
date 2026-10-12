@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "MASS, from researchers at UC Berkeley and Sakana AI, tackles the supervision bottleneck at the frontier: once AI produces work even experts struggle to evaluate, the model being improved may also be the best available optimizer and evaluator. The method repeatedly optimizes multi-agent workflows, then distills the collective intelligence of multi-agent systems into a self-supervision signal for recursive self-improvement - homogeneous RSI, where the optimizee is its own optimizer and evaluator.",
+  "The motivation: at the frontier, verifying a discovery can demand scarcer expertise and costlier experiments than generating it, so production will outpace supervision. MASS reports improved score per output token over the base model on research benchmarks, and the authors frame it as a step toward AI's 'Odyssean moment' of continual self-learning."
+ ],
+ "highlights": [
+  "MASS: multi-agent workflow optimization plus distillation as a self-supervision signal.",
+  "Homogeneous RSI: the optimizee is also its own optimizer and evaluator.",
+  "Motivation: frontier output is getting cheaper to produce than to verify.",
+  "Reports better score per output token than the base model on research benchmarks.",
+  "Authors from UC Berkeley and Sakana AI, including Matei Zaharia."
+ ],
+ "id": "f18640d29a57",
+ "authored_at": "2026-10-12T01:57:53.102251+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

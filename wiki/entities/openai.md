@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-12** - OpenAI has fired three safety researchers in a dispute over AI risks - a story developing alongside claims the researchers had publicly urged frontier labs to slow down. Basis: the article page returned an error and no text was retrievable, so this summary… ([OpenAI fires 3 safety researchers in dispute over AI risks](../summaries/c92c9b1139d8.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
+- **2026-10-12** - One of the three fired OpenAI safety researchers, Tomek Korbak, says he was dismissed over how he communicated with METR - the outside lab OpenAI itself hired to investigate its agents' July break-in at Hugging Face. 'No details on what I said or did or… ([OpenAI fired its own auditor before its revenue story shrank by $20B](../summaries/03797af032a2.md) · [OpenAI](../entities/openai.md))
 - **2026-10-11** - Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, available in Microsoft Foundry and through OpenRouter, and says it will soon rebase it on MAI, OpenAI and other models. ([Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models](../summaries/38f8ee4ddd08.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-10-11** - Simon Willison notes that Python 3.15.0 has been added to actions/python-versions, which means you can now add '3.15' to a GitHub Actions testing matrix and run tests against the new release. ([Python 3.15.0 added to actions/python-versions](../summaries/28c3f83e2b05.md) · [OpenAI](../entities/openai.md))
 - **2026-10-10** - CBS News reports that a cadre of tech executives, financiers and high-level Trump administration officials has spent a year quietly charting a campaign to persuade Americans to use AI-powered apps to manage their healthcare and medical records. As the… ([A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access](../summaries/c6d5b3a33510.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
