@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Atticus is a free, open-source macOS voice assistant built by a 9th grader: hold Control-Option-Space, say what you need, release - it moves windows, finds files, reads your screen and gets tasks done, running on Claude without an API key. Hold-to-talk and press-to-toggle modes are both supported, with instant commands that skip the AI entirely.",
+  "The safety design is unusually careful for a side project: Apple's final transcript confirms each voice request before AI tools or learned shortcuts run; reasoning can start during a pause but tools wait for confirmation; toggle recordings hit a review screen after 60 seconds; closing the overlay stops the microphone, workers and voice; and the UI respects Reduce Motion and stays on display."
+ ],
+ "highlights": [
+  "Hold-to-talk macOS assistant that moves windows, finds files and reads your screen.",
+  "Free and open source; runs on Claude with no API key needed.",
+  "Built by a 9th-grade developer.",
+  "Voice requests are confirmed by Apple's final transcript before tools run.",
+  "Instant commands bypass the AI for supported built-ins.",
+  "Mic and workers stop when the overlay closes; 60s toggle cap with review screen."
+ ],
+ "id": "2150abb5a611",
+ "authored_at": "2026-10-12T07:58:14.676122+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "The US has restored the UK AI Safety Institute's access to the latest US models for safety testing, per Telegraph sources, reversing last month's order telling OpenAI and Anthropic to stop sharing models with the UK regulator. The block had cut UK regulators off from reviewing frontier models from Anthropic, OpenAI and Google DeepMind. Basis: the Telegraph article is paywalled and no body text was retrievable, so this summary reflects the reported headline rather than the full article."
+ ],
+ "highlights": [
+  "US restores UK AISI access to frontier US models for safety testing.",
+  "Reverses last month's order for OpenAI and Anthropic to stop sharing.",
+  "The block had covered Anthropic, OpenAI and Google DeepMind models.",
+  "Basis: Telegraph paywall - headline only."
+ ],
+ "id": "7322cb4fb258",
+ "authored_at": "2026-10-12T07:58:14.676122+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

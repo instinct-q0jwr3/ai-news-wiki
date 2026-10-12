@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "The Financial Times interviews David Silver - the AlphaGo architect who left DeepMind - about Ineffable, his startup building an AI 'super learner' through reinforcement learning as an alternative path to LLMs: machines that teach themselves. Basis: the FT article is paywalled and no body text was retrievable, so this summary reflects the interview's stated subject rather than its content."
+ ],
+ "highlights": [
+  "Ex-DeepMind AlphaGo architect David Silver's startup Ineffable builds an RL 'super learner'.",
+  "Framed as an alternative path to LLMs - machines that teach themselves.",
+  "Basis: FT paywall - only the interview's stated subject was retrievable."
+ ],
+ "id": "af7b6cf9cbfc",
+ "authored_at": "2026-10-12T07:58:14.676122+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

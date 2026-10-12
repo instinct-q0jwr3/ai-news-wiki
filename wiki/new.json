@@ -1,89 +1,59 @@
 {
- "generated_at": "2026-10-12T01:50:23+00:00",
+ "generated_at": "2026-10-12T07:51:10+00:00",
  "stories": [
   {
-   "id": "5b2f35146f96",
-   "title": "The gap in shared understanding of LLM capability is widening",
+   "id": "20137bec400a",
+   "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
    "source": "Hacker News",
-   "url": "https://twitter.com/karpathy/status/2109361546505966046"
+   "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html"
   },
   {
-   "id": "f18640d29a57",
-   "title": "Recursive self-improvement through collective intelligence",
+   "id": "2150abb5a611",
+   "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
    "source": "Hacker News",
-   "url": "https://pub.sakana.ai/mass/"
+   "url": "https://github.com/SaarthurR/atticus-mac"
   },
   {
-   "id": "7e65ec599cad",
-   "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+   "id": "c71e7b5582bc",
+   "title": "AI coding agents generate more code, but not more software",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50039291"
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
   },
   {
-   "id": "c92c9b1139d8",
-   "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+   "id": "fd0518702878",
+   "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
    "source": "Hacker News",
-   "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41"
+   "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/"
   },
   {
-   "id": "03797af032a2",
-   "title": "OpenAI fired its own auditor before its revenue story shrank by $20B",
-   "source": "Hacker News",
-   "url": "https://theinference.org/article/openai-fired-its-own-auditor-s-contact-days-before-its-revenue-story-shrank-by-20-billion"
-  },
-  {
-   "id": "5f9906441bcb",
-   "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
-   "source": "Hacker News",
-   "url": "https://thelastwave.substack.com/p/theres-no-going-back"
-  },
-  {
-   "id": "1649c4513e61",
-   "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-   "source": "Hacker News",
-   "url": "https://github.com/plimsollmark/plimsoll"
-  },
-  {
-   "id": "365cace6791d",
-   "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
-   "source": "Hacker News",
-   "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4"
-  },
-  {
-   "id": "96064f4a5769",
-   "title": "AI is less regulated than milk, says Microsoft president",
-   "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo"
-  },
-  {
-   "id": "ef46c2d35f7c",
-   "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump",
+   "id": "ff95d9583427",
+   "title": "Qualcomm CEO Cristiano Amon says AI companies are \"starting to do phones\" and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+   "url": "https://sources.news/p/qualcomm-ceo-ai-phone"
   },
   {
-   "id": "b977401e3203",
-   "title": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating",
+   "id": "58c474032a79",
+   "title": "A look at China's bid to turn excess wind and solar energy into an AI edge via a $3.9T grid buildout through 2049, as ~9% of renewable output was wasted in 2026",
    "source": "Techmeme",
-   "url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling"
+   "url": "https://www.bloomberg.com/graphics/2026-china-ai-energy-future/"
   },
   {
-   "id": "d84e2a1586a9",
-   "title": "Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September",
+   "id": "7322cb4fb258",
+   "title": "the US restores the UK AISI's access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?st=r73g4r"
+   "url": "https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/"
   },
   {
-   "id": "097a865fa4ff",
-   "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more",
-   "source": "Techmeme",
-   "url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/"
-  },
-  {
-   "id": "629ecbe51b11",
-   "title": "'AI' is Not a Tool",
+   "id": "3ebea1d9f50e",
+   "title": "When LLM Decompilers Recompile More and Preserve Less",
    "source": "Lobsters",
-   "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+   "url": "https://arxiv.org/abs/2609.05370"
+  },
+  {
+   "id": "af7b6cf9cbfc",
+   "title": "An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828"
   }
  ]
 }
