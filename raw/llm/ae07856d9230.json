@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "A first-principles derivation of speculative decoding. LLMs spend most decoding time waiting, not computing: every token requires reading all model weights from memory to multiply them by a single vector. The core trick - check several tokens for the price of one - is built up from scratch into a general framework covering every modern drafter architecture.",
+  "The walkthrough covers EAGLE-3 and multi-token prediction through block-diffusion drafters like DFlash and DSpark, then closes on training: why minimizing KL divergence is not quite what you want from a drafter."
+ ],
+ "highlights": [
+  "Speculative decoding derived from first principles.",
+  "Bottleneck: each token re-reads all weights to multiply by one vector.",
+  "Trick: verify several tokens for the price of one forward pass.",
+  "Covers EAGLE-3, multi-token prediction, and block-diffusion drafters (DFlash, DSpark).",
+  "Training insight: minimizing KL divergence is not quite the right objective."
+ ],
+ "id": "ae07856d9230",
+ "authored_at": "2026-10-12T13:57:33.884162+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

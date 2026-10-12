@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Cloudflare extends its Clef family of open-weight decision models: Clef-omni adds audio and video input alongside text and image, Clef itself is now faster, and Clef-flash got a price cut that makes it cheaper than Jev. The launch comes a week after the original Clef and Clef-flash release.",
+  "Cloudflare stresses the pace: the Clef story went from a Friday-evening decision to enter the decision-model space, to weekend training, to a Thursday launch - evidence, it says, that even as a newcomer to models it can ship performant open-weight releases quickly, with more to come."
+ ],
+ "highlights": [
+  "Clef-omni: Cloudflare's decision model now takes audio and video plus text and image.",
+  "Clef is faster; Clef-flash is cheaper than Jev after a price cut.",
+  "Follows last week's Clef and Clef-flash open-weight releases.",
+  "Origin story: decided Friday evening, trained over the weekend, launched Thursday."
+ ],
+ "id": "93ba3884cdbd",
+ "authored_at": "2026-10-12T13:57:04.065676+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

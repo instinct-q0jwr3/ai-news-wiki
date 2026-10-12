@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 536,
+  "stories": 539,
   "last": "2026-10-12"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 528,
+  "stories": 538,
   "last": "2026-10-12"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 208,
-  "last": "2026-10-09"
+  "stories": 221,
+  "last": "2026-10-12"
  },
  {
   "name": "Simon Willison",
@@ -26,14 +26,14 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 43,
+  "stories": 44,
   "last": "2026-10-12"
  },
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 37,
-  "last": "2026-10-10"
+  "stories": 38,
+  "last": "2026-10-12"
  },
  {
   "name": "Bert Hubert",
@@ -90,16 +90,16 @@
   "last": "2026-10-06"
  },
  {
+  "name": "seangoedecke",
+  "url": "https://www.seangoedecke.com/rss.xml",
+  "stories": 12,
+  "last": "2026-10-12"
+ },
+ {
   "name": "Anil Dash",
   "url": "https://www.anildash.com/feed.xml",
   "stories": 11,
   "last": "2026-10-06"
- },
- {
-  "name": "seangoedecke",
-  "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 11,
-  "last": "2026-10-02"
  },
  {
   "name": "Dwarkesh Podcast",

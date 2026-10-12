@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Does an AI benefit from 10x more tokens the way a human benefits from 10x more time? This piece probes the common analogy between extending an AI's sequential chain-of-thought or tool use and giving a worker more hours - an analogy we lean on when reasoning about current and future capabilities - and asks whether AI systems convert extra resources into performance as efficiently as humans do.",
+  "The stakes: if an AI needs a 20x or 100x token scale-up to match what a human gains from 10x more time, then 'just give it more tokens' is a much weaker capability lever than the discourse assumes - and forecasts built on the analogy are miscalibrated."
+ ],
+ "highlights": [
+  "Question: do models scale with tokens as well as humans scale with time?",
+  "The chain-of-thought-as-more-time analogy underpins many capability forecasts.",
+  "If AI needs 20-100x tokens to match a human 10x, the analogy misleads.",
+  "Training scale adds knowledge; inference scale adds 'time' - the two are conflated."
+ ],
+ "id": "93445f946812",
+ "authored_at": "2026-10-12T13:57:04.065676+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

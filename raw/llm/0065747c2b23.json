@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Independent AI evaluators - METR, Apollo Research, Transluce - have gone from a sleepy corner of the industry to being asked to rescue it. As Anthropic and OpenAI fight over whether they can safeguard their models and grow at the same time, both are leaning on these small, mostly nonprofit third parties to assess capabilities and risks and flag bad behavior. Dario Amodei pledged last month to embed independent evaluators inside Anthropic; Sam Altman quickly endorsed the idea, and Donald Trump supported it too.",
+  "The catch the piece probes: with no federal regulation push, these evaluators carry outsized importance while still finding their footing - small nonprofits operating in an industry where capital flows at historic levels and models ship faster than ever. So who funds them, and can their independence survive the reliance?"
+ ],
+ "highlights": [
+  "METR, Apollo Research and Transluce are now central to AI safety governance.",
+  "Amodei pledged to embed independent evaluators in Anthropic; Altman endorsed, Trump supported.",
+  "With no federal regulation, evaluators carry outsized weight.",
+  "Open question: who funds the evaluators, and does reliance compromise independence."
+ ],
+ "id": "0065747c2b23",
+ "authored_at": "2026-10-12T13:57:33.884162+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

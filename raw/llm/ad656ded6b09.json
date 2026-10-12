@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Satya Nadella says advanced AI systems need containment, independent controls and an 'emergency brake' that lets authorized people pause or shut a model down mid-task. 'We need to surround non-deterministic models with strong, deterministic system design, human controls, and reliable operating procedures,' he wrote on X, adding that treating frontier closed and open-weight models like insider risks is one way to build such a system.",
+  "His comments land amid executive-level warnings about AI moving too fast - from Bill Gates, Dario Amodei, Sam Altman and Elon Musk - and fresh turmoil: an AI researcher quit Anthropic last month accusing it and OpenAI of 'gambling with our lives', and an alignment lead departed the same day."
+ ],
+ "highlights": [
+  "Nadella: AI needs an emergency brake controlled by authorized humans.",
+  "Wrap non-deterministic models in deterministic design, human controls, operating procedures.",
+  "Suggests treating frontier models - closed and open-weight - like insider risks.",
+  "Context: safety warnings from Gates, Amodei, Altman and Musk, plus Anthropic departures."
+ ],
+ "id": "ad656ded6b09",
+ "authored_at": "2026-10-12T13:57:33.884162+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

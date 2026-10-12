@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Implementing kubernetes node bin packing · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791813550"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Implementing kubernetes node bin packing</h1>
+<p class="meta">type: news-summary · created: 2026-10-12 · updated: 2026-10-12 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>A visual walkthrough of Kubernetes node bin packing: nodes drawn as squares (CPU along the bottom, memory up the side), pods as rectangles stacked corner to corner along the diagonal - a node is valid exactly when the staircase stays inside the square. A flat staircase means wasted memory, a tall one wasted CPU.</p>
+<p>The piece builds the machinery behind real scheduling decisions: requests as thresholds drawn over signals that rarely stay still (a diurnal workload swings hundreds of millicores between day and night), the P95-over-target-utilization rule as percentile plus buffer with volatility class sizing the buffer, and George Box's caveat that all models are wrong but some are useful.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Interactive visual explanation of Kubernetes node bin packing.</li>
+<li>Node validity = the pod staircase staying inside the CPU/memory square.</li>
+<li>Requests are thresholds over unstable signals; day/night swings reach hundreds of millicores.</li>
+<li>Rule used: P95 over target utilization, buffer sized by volatility class.</li>
+<li>Framed by George Box: all models are wrong, but some are useful.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://blog.costgraph.ai/node-rightsizing/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

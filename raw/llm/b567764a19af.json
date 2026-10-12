@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Microsoft introduces Microsoft-Decision-1, a decision-scoring model for fast structured outputs - routing, classification, prioritization, verification and workflow control - available in Microsoft Foundry and through OpenRouter. Unlike LLMs, which generate text or reason through open-ended problems, decision models are purpose-built to deliver outputs software can immediately act on, at very low cost.",
+  "Microsoft claims Decision-1 delivers top latency and quality performance on structured decision tasks, outperforming both LLMs and other decision models, and pitches it as the missing primitive for embedding decision intelligence into applications, agents and workflows inside a secure, trusted environment."
+ ],
+ "highlights": [
+  "Microsoft-Decision-1: a fast decision-scoring model in Foundry and on OpenRouter.",
+  "Decision models vs LLMs: structured outputs software acts on immediately.",
+  "Use cases: routing, classification, prioritization, verification, workflow control.",
+  "Microsoft claims it beats LLMs and other decision models on latency and quality."
+ ],
+ "id": "b567764a19af",
+ "authored_at": "2026-10-12T13:57:04.065676+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

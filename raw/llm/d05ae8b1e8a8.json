@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "A visual walkthrough of Kubernetes node bin packing: nodes drawn as squares (CPU along the bottom, memory up the side), pods as rectangles stacked corner to corner along the diagonal - a node is valid exactly when the staircase stays inside the square. A flat staircase means wasted memory, a tall one wasted CPU.",
+  "The piece builds the machinery behind real scheduling decisions: requests as thresholds drawn over signals that rarely stay still (a diurnal workload swings hundreds of millicores between day and night), the P95-over-target-utilization rule as percentile plus buffer with volatility class sizing the buffer, and George Box's caveat that all models are wrong but some are useful."
+ ],
+ "highlights": [
+  "Interactive visual explanation of Kubernetes node bin packing.",
+  "Node validity = the pod staircase staying inside the CPU/memory square.",
+  "Requests are thresholds over unstable signals; day/night swings reach hundreds of millicores.",
+  "Rule used: P95 over target utilization, buffer sized by volatility class.",
+  "Framed by George Box: all models are wrong, but some are useful."
+ ],
+ "id": "d05ae8b1e8a8",
+ "authored_at": "2026-10-12T13:57:04.065676+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

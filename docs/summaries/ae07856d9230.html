@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What is Speculative Decoding? · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791813550"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>What is Speculative Decoding?</h1>
+<p class="meta">type: news-summary · created: 2026-10-12 · updated: 2026-10-12 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>A first-principles derivation of speculative decoding. LLMs spend most decoding time waiting, not computing: every token requires reading all model weights from memory to multiply them by a single vector. The core trick - check several tokens for the price of one - is built up from scratch into a general framework covering every modern drafter architecture.</p>
+<p>The walkthrough covers EAGLE-3 and multi-token prediction through block-diffusion drafters like DFlash and DSpark, then closes on training: why minimizing KL divergence is not quite what you want from a drafter.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Speculative decoding derived from first principles.</li>
+<li>Bottleneck: each token re-reads all weights to multiply by one vector.</li>
+<li>Trick: verify several tokens for the price of one forward pass.</li>
+<li>Covers EAGLE-3, multi-token prediction, and block-diffusion drafters (DFlash, DSpark).</li>
+<li>Training insight: minimizing KL divergence is not quite the right objective.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well/">Read the original story</a> · <a href="https://tldr.tech/ai/2026-10-12">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

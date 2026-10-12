@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Do Agent Teams Pay Off? A Case Study on Vibe Code Bench · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791813550"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Do Agent Teams Pay Off? A Case Study on Vibe Code Bench</h1>
+<p class="meta">type: news-summary · created: 2026-10-12 · updated: 2026-10-12 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Do agent teams pay off? Both OpenAI and Anthropic now ship native multi-agent support - a lead agent spawning subagents, handing each a part, and assembling the returns - and this case study measures what that buys, costs, and helps on Vibe Code Bench, a benchmark for building complete web apps from a product spec, deployed with Docker Compose and graded by browser agents clicking through real workflows.</p>
+<p>Setup: GPT 6 Sol and Claude Opus 5.5 each ran 50 apps as a single agent and as a team (lead plus up to five subagents, which cannot spawn their own), at medium and max reasoning effort. Both leads got the same instruction: split the work into independent parts, delegate, integrate and verify. Because the apps split naturally into database, API, interface and deployment, seam bugs show up directly in the score - a clean test of whether coordination overhead beats parallel throughput.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Case study: single agent vs agent team on 50 full web-app builds (Vibe Code Bench).</li>
+<li>Models: GPT 6 Sol and Claude Opus 5.5, medium and max reasoning effort.</li>
+<li>Teams: one lead, up to five subagents, no recursive spawning.</li>
+<li>Apps graded by browser agents clicking through deployed workflows.</li>
+<li>Natural split (DB, API, UI, deploy) exposes seam bugs in the score.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://www.vals.ai/blogs/multi-agent-vibe-code-bench">Read the original story</a> · <a href="https://tldr.tech/ai/2026-10-12">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

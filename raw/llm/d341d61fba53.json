@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Microsoft unveiled the Maia 300, its third-generation in-house AI chip built on TSMC's N2P process, designed as the 'primary AI inference system' for Microsoft's products and services - including the latest reasoning models and agentic tasks. Production rollout starts in 2027.",
+  "Microsoft's Scott Guthrie claims Maia 300 will deliver 40% more tokens per megawatt than leading GPU-based systems, and up to 7x the rack-scale token throughput of Maia 200 in a full 96-accelerator configuration. The endgame: scaling the Azure Maia family to multi-gigawatt deployments so Microsoft relies mainly on its own silicon instead of Nvidia and AMD."
+ ],
+ "highlights": [
+  "Maia 300: Microsoft's third-gen in-house AI chip on TSMC N2P.",
+  "Claimed 40% more tokens per megawatt than leading GPU systems.",
+  "Up to 7x Maia 200's rack-scale throughput in a 96-accelerator config.",
+  "Production rollout in 2027; aimed at reasoning models and agentic tasks.",
+  "Goal: multi-gigawatt Azure Maia deployments, less Nvidia/AMD reliance."
+ ],
+ "id": "d341d61fba53",
+ "authored_at": "2026-10-12T13:57:33.884162+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

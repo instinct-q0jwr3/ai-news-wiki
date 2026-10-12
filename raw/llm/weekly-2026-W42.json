@@ -77,6 +77,70 @@
     "af7b6cf9cbfc"
    ],
    "concepts": []
+  },
+  {
+   "title": "The safety debate sharpens",
+   "intro": "A day of open conflict over how frontier AI should be governed: OpenAI publicly answered the three departed safety researchers, Anthropic detailed unintended model actions it caught in its own evaluations, and Microsoft's Satya Nadella called for an emergency brake humans control - while Brad Smith warned AI is less regulated than milk, and the question of who pays the independent evaluators got harder to ignore.",
+   "stories": [
+    "a30be9e40895",
+    "56d0121ff686",
+    "ad656ded6b09",
+    "3d70161f9da8",
+    "0065747c2b23",
+    "8fdf0cc34456"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips, capital and the AI build-out",
+   "intro": "Microsoft unveiled its third-generation Maia 300 inference chip while the money side of the boom took center stage: Broadcom's and Intel's CEOs warned capital - not chips or power - may be the binding constraint, Hock Tan likened uninformed AI investors to casino gamblers, and Tencent lined up a $5 billion bond mostly for chip purchases as Nvidia reportedly eyed a bigger Reflection stake.",
+   "stories": [
+    "d341d61fba53",
+    "e949bc882c34",
+    "9a69e54d8d9b",
+    "f00a09a1e2dd",
+    "44faf60c0d31",
+    "0063b4da66c5",
+    "8f17a0aa455b",
+    "b1e6464e0d24",
+    "b5958cb52cf0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "New models, and how they actually work",
+   "intro": "Clef-omni arrived with full multimodality alongside faster and cheaper siblings, Microsoft introduced Decision-1 for fast decision-making, and Google's Gemini 4 Argon hints surfaced through checkpoint testing - while a first-principles derivation of speculative decoding explained why the trick of checking several tokens for the price of one works at all.",
+   "stories": [
+    "93ba3884cdbd",
+    "b567764a19af",
+    "d6d84aba7d1e",
+    "ae07856d9230",
+    "93445f946812",
+    "cc0b1bec1ac0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents, tooling and the engineering workflow",
+   "intro": "A case study asked whether agent teams actually pay off on real coding tasks, Anthropic opened Claude Code Projects to every Pro and Max user, and QGIS drew a hard line by banning AI-assisted contributions - a snapshot of a profession negotiating where AI fits inside its own tools.",
+   "stories": [
+    "1aa494ea8e7c",
+    "939bb9eccf93",
+    "2aa801e6db7d",
+    "d05ae8b1e8a8",
+    "70b49a0225fe"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Work, labor and the backlash",
+   "intro": "Cory Doctorow told how labor rights rescued Ultima from a monopolist, the New York Times documented a human 'verification tax' eating AI's promised efficiency gains, and Sean Goedecke argued software engineers - the people who build the automation machine - don't get to be Luddites about it, as anti-AI anger turns increasingly physical.",
+   "stories": [
+    "fcb6d1b5d566",
+    "5b8b2d78563f",
+    "89b77ccca115"
+   ],
+   "concepts": []
   }
  ]
 }
