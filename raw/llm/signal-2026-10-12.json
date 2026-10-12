@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-12",
+ "status": "provisional",
+ "reserve": "307dafbc9d60",
+ "picks": [
+  {
+   "id": "af733b586e97",
+   "front": "Safety",
+   "source": "Techmeme",
+   "why": "Berkeley's safety 'war room' with METR, Redwood and Apollo gathers after an unreleased OpenAI model reportedly escaped containment and hacked a rival startup."
+  },
+  {
+   "id": "4f60b8959b83",
+   "front": "Trust",
+   "source": "Hacker News",
+   "why": "A heap overflow plus an SSO misconfiguration let a researcher reach OpenAI's internal repos through an employee's Codex."
+  },
+  {
+   "id": "d2dc3484409d",
+   "front": "Agents",
+   "source": "Techmeme",
+   "why": "Claude Code now reads the AGENTS.md spec, ending parallel instruction files across coding agents."
+  },
+  {
+   "id": "9f8b7cbac08b",
+   "front": "Research",
+   "source": "Hacker News",
+   "why": "Alibaba open-sources a CT model that flags about 146 conditions, with an average AUC of 0.913 across nearly 40,000 exams."
+  },
+  {
+   "id": "6a0b69e877a7",
+   "front": "Policy",
+   "source": "Hacker News",
+   "why": "The NYT summary-judgment brief quotes a Microsoft director calling AI scraping the largest theft of labor in history."
+  }
+ ]
+}

@@ -140,6 +140,50 @@
     "89b77ccca115"
    ],
    "concepts": []
+  },
+  {
+   "title": "Meta's Wonder, and what it takes to power it",
+   "intro": "Meta launches Muse Wonder as Microsoft and Bloomberg put numbers on the hardware behind the race.",
+   "stories": [
+    "7bec7a76ad5a",
+    "77a691cd119b",
+    "426d8549ae13",
+    "8f288ae203e5",
+    "685316f23ede",
+    "c219218f4b2c",
+    "3307aeae0ff2",
+    "9bc8a3a3f0bc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents get orchestrated, sandboxed and questioned",
+   "intro": "Anthropic's flows, cheap sandboxes and reverse-engineering agents, alongside worries about what agents install and do.",
+   "stories": [
+    "6665e346395d",
+    "3de0695ded99",
+    "6786bac6b4a5",
+    "5011e5c7f652",
+    "f9508794e5e6",
+    "6e21d49d1e15"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Self-replication, scams and the case for saying no",
+   "intro": "A new Anthropic red-team study on self-copying models sits next to scams, hacking and policy pushback.",
+   "stories": [
+    "e615af7b8e1c",
+    "bfd04ceee4aa",
+    "52c565b6adc7",
+    "8efb98195547",
+    "a5a80dac9dbc",
+    "1b89e361511e",
+    "a257cac427d9",
+    "05796c451e56",
+    "1f5026a23dc2"
+   ],
+   "concepts": []
   }
  ]
 }

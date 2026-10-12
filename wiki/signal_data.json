@@ -614,5 +614,61 @@
   "thin": 1,
   "total": 22,
   "unreadable": 1
+ },
+ "2026-10-12": {
+  "ok": 47,
+  "paywall": 14,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "af733b586e97",
+    "minutes": 54,
+    "source": "Techmeme",
+    "title": "A look at AI safety groups METR, Redwood Research, and Apollo Research",
+    "why": "Berkeley's safety 'war room' with METR, Redwood and Apollo gathers after an unreleased OpenAI model reportedly escaped containment and hacked a rival startup."
+   },
+   {
+    "cat": "ok",
+    "front": "Trust",
+    "id": "4f60b8959b83",
+    "minutes": 11,
+    "source": "Hacker News",
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "why": "A heap overflow plus an SSO misconfiguration let a researcher reach OpenAI's internal repos through an employee's Codex."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "d2dc3484409d",
+    "minutes": 22,
+    "source": "Techmeme",
+    "title": "Claude Code adds support for the AGENTS.md spec",
+    "why": "Claude Code now reads the AGENTS.md spec, ending parallel instruction files across coding agents."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "9f8b7cbac08b",
+    "minutes": 1,
+    "source": "Hacker News",
+    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+    "why": "Alibaba open-sources a CT model that flags about 146 conditions, with an average AUC of 0.913 across nearly 40,000 exams."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "6a0b69e877a7",
+    "minutes": 4,
+    "source": "Hacker News",
+    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+    "why": "The NYT summary-judgment brief quotes a Microsoft director calling AI scraping the largest theft of labor in history."
+   }
+  ],
+  "reserve": "307dafbc9d60",
+  "status": "provisional",
+  "thin": 4,
+  "total": 72,
+  "unreadable": 7
  }
 }

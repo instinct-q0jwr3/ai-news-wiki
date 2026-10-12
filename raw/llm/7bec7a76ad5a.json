@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Meta introduces Muse Wonder and Muse Wonder Full, which it calls its most capable models and state of the art on personal and professional agentic tasks. They were trained at its gigawatt-scale Prometheus data center and follow Muse Spark on what Meta calls a predictable scaling ladder, with gains from both pretraining and reinforcement learning.",
+  "Two features carry the pitch: Active Memory, which carries context about the user across conversations and retrieves what matters, and Active Focus, which keeps working on a hard goal by trying alternatives, working past blockers and checking in before important actions. Meta reports results on benchmarks for agents, memory and coding, including Harvey's Legal Agent Benchmark, FocusBench and SWE-Marathon. Muse Wonder is available now through the Meta Model API and Muse Code; Wonder Full is for Muse Code subscribers; Muse will get Wonder first for subscribers."
+ ],
+ "highlights": [
+  "Two models: Muse Wonder and Muse Wonder Full.",
+  "Active Memory carries user context across conversations; Active Focus sustains work on long goals.",
+  "Benchmarks cited include Harvey LAB, FocusBench and SWE-Marathon (Meta's own evaluations).",
+  "Available via Meta Model API and Muse Code; Full only for Muse Code subscribers.",
+  "Muse assistant to be powered by Wonder, subscribers first."
+ ],
+ "id": "7bec7a76ad5a",
+ "authored_at": "2026-10-12T20:01:26.934610+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

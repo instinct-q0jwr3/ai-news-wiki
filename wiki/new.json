@@ -1,6 +1,12 @@
 {
- "generated_at": "2026-10-12T13:52:35+00:00",
+ "generated_at": "2026-10-12T19:52:46+00:00",
  "stories": [
+  {
+   "id": "77a691cd119b",
+   "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks",
+   "source": "Techmeme",
+   "url": "https://research.meta.ai/blog/muse-wonder"
+  },
   {
    "id": "2aa801e6db7d",
    "title": "QGIS bans AI assisted contributions",
@@ -8,184 +14,124 @@
    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
   },
   {
-   "id": "b5958cb52cf0",
-   "title": "Hetzner: The New GPU Server GEX63 for Professional AI Workloads",
+   "id": "52c565b6adc7",
+   "title": "Why aren't AI companies being charged for hacking?",
    "source": "Hacker News",
-   "url": "https://www.hetzner.com/_ray/pow"
+   "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
   },
   {
-   "id": "3d70161f9da8",
-   "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+   "id": "05796c451e56",
+   "title": "GLM-Legal",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
+   "url": "https://z.ai/blog/glm-legal"
   },
   {
-   "id": "ad656ded6b09",
-   "title": "Microsoft's Nadella says AI needs an ‘emergency brake' that humans control",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+   "id": "5011e5c7f652",
+   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+   "source": "Hacker News",
+   "url": "https://github.com/openai/codex/issues/48195"
   },
   {
-   "id": "5b8b2d78563f",
-   "title": "As economic and corporate research shows limited AI efficiency gains, surveys by Workday, Google, MIT, and others detail a human \"verification tax\" bottleneck",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html"
+   "id": "a5a80dac9dbc",
+   "title": "Just say no to OpenAI and Anthropic",
+   "source": "Hacker News",
+   "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/"
   },
   {
-   "id": "b1e6464e0d24",
-   "title": "A profile of Microsoft EVP of Copilot Charles Lamanna, a potential Satya Nadella successor; a source says Microsoft is on track to pay Anthropic $2B+ per year",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella"
+   "id": "a257cac427d9",
+   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+   "source": "Hacker News",
+   "url": "https://taylor.town/kk-ai-2026"
   },
   {
-   "id": "f00a09a1e2dd",
-   "title": "Tencent is planning a ~$5B bond offering, including $1.5B to $2B in dollar tranches, to fund AI expenditures, with the bulk going toward chip purchases",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-12/tencent-tells-investors-its-5-billion-bond-mainly-for-ai-capex"
+   "id": "3de0695ded99",
+   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50059096"
   },
   {
-   "id": "0063b4da66c5",
-   "title": "Digital infrastructure company SWI raised €800M to upgrade its data centers, including some from Genesis Digital, a bitcoin miner snarled in FTX's bankruptcy",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?st=2ucRuF&reflink=desktopwebshare_permalink"
+   "id": "1f5026a23dc2",
+   "title": "Introducing OpenFatigue",
+   "source": "Hacker News",
+   "url": "https://openfatigue.ai/"
   },
   {
-   "id": "9a69e54d8d9b",
-   "title": "Broadcom CEO Hock Tan criticizes speculative AI investing, comparing uninformed investors to casino gamblers and questioning the long-term economics of AI labs",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers"
-  },
-  {
-   "id": "a30be9e40895",
-   "title": "OpenAI Responds to Departed Safety Researchers",
-   "source": "TLDR AI",
-   "url": "https://x.com/OpenAINewsroom/status/2108441580806025712"
-  },
-  {
-   "id": "8fdf0cc34456",
-   "title": "Christian leaders are weighing in on AI earlier than they did with other tech, as AI leaders' talk of creating a new consciousness fuels religious concerns",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd?st=UvA9kM"
-  },
-  {
-   "id": "d341d61fba53",
-   "title": "Microsoft unveils its third-gen in-house AI chip, the Maia 300, built on TSMC's N2P process node and aimed at serving as its \"primary AI inference system\"",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
-  },
-  {
-   "id": "93445f946812",
-   "title": "AI Scaling vs Human Scaling",
-   "source": "TLDR AI",
-   "url": "https://www.tobyord.com/writing/ai-scaling-vs-human-scaling"
-  },
-  {
-   "id": "d84e2a1586a9",
-   "title": "Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?st=r73g4r"
-  },
-  {
-   "id": "d05ae8b1e8a8",
-   "title": "Implementing kubernetes node bin packing",
+   "id": "a61d1b1cde2f",
+   "title": "Reverse Engineer Anything",
    "source": "Lobsters",
-   "url": "https://blog.costgraph.ai/node-rightsizing/"
+   "url": "https://github.com/morluto/rea"
   },
   {
-   "id": "8f17a0aa455b",
-   "title": "DeepSeek agrees to lead robotic AI startup Winverse AI's seed funding round of tens of millions of dollars, valuing the startup at ~$400M post-money",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-12/deepseek-backs-ex-tencent-ai-scientist-s-400-million-robot-lab"
-  },
-  {
-   "id": "fcb6d1b5d566",
-   "title": "Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/12/termination-of-transfer/"
-  },
-  {
-   "id": "96064f4a5769",
-   "title": "AI is less regulated than milk, says Microsoft president",
+   "id": "1b89e361511e",
+   "title": "'AI' Is Not a Tool by Rich Hickey",
    "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo"
+   "url": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02"
   },
   {
-   "id": "d6d84aba7d1e",
-   "title": "Gemini 4 Argon hints emerge as Google tests Carbon checkpoint",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/"
+   "id": "e615af7b8e1c",
+   "title": "AI models may be capable of self-replicating without access to a datacenter",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/self-replicating-ai"
   },
   {
-   "id": "89b77ccca115",
-   "title": "Software engineers don't get to be Luddites about AI",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/"
+   "id": "6e21d49d1e15",
+   "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
   },
   {
-   "id": "b567764a19af",
-   "title": "Introducing Microsoft-Decision-1, our model for fast decision-making",
-   "source": "TLDR AI",
-   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"
-  },
-  {
-   "id": "56d0121ff686",
-   "title": "Investigating unintended model actions in our evaluations and internal use",
-   "source": "TLDR AI",
-   "url": "https://www.anthropic.com/research/investigating-unintended-model-actions"
-  },
-  {
-   "id": "93ba3884cdbd",
-   "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-   "source": "TLDR AI",
-   "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/"
-  },
-  {
-   "id": "939bb9eccf93",
-   "title": "Anthropic just let in every Pro and Max user from the Claude Code Projects waitlist",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2108621476538781878.html"
-  },
-  {
-   "id": "cc0b1bec1ac0",
-   "title": "Math 2.0",
-   "source": "TLDR AI",
-   "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
-  },
-  {
-   "id": "ae07856d9230",
-   "title": "What is Speculative Decoding?",
-   "source": "TLDR AI",
-   "url": "https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well/"
-  },
-  {
-   "id": "0065747c2b23",
-   "title": "Who funds the independent AI evaluators?",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html"
-  },
-  {
-   "id": "44faf60c0d31",
-   "title": "Nvidia Discusses Boosting Reflection Investment, Computing Deal",
-   "source": "TLDR AI",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTc3NTMxNiwiZXhwIjoxNzkyMzgwMTE2LCJhcnRpY2xlSWQiOiJUTVBFU0NLSzNOWUEwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.Lc8fWdv0BXFU2U7GqPZMjs5xI2JJpD3HHegbANLFVgo"
-  },
-  {
-   "id": "70b49a0225fe",
-   "title": "X has re-found its footing under Elon Musk, as it continues to host more interesting discussions on AI and other fun and smart topics than rival platforms",
+   "id": "8f288ae203e5",
+   "title": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods",
    "source": "Techmeme",
-   "url": "https://daringfireball.net/"
+   "url": "https://www.axios.com/"
   },
   {
-   "id": "e949bc882c34",
-   "title": "Speaking in Singapore, Broadcom CEO Hock Tan and Intel CEO Lip-Bu Tan warn that access to capital and rising borrowing costs could become AI's main bottleneck",
+   "id": "9bc8a3a3f0bc",
+   "title": "Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html"
+   "url": "https://www.bloomberg.com/features/2026-ai-data-center-build-costs/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyMTYzNywiZXhwIjoxNzkyNDI2NDM3LCJhcnRpY2xlSWQiOiJUTVNJSUVLSUpIQTgwMCIsImJjb25uZWN0SWQiOiIzQjk1QzU5QzVEM0M0RjcwQkNFQUQ2NDZDRUE1QkFCOSJ9.VxLn0QarUOI8aJCg9j_vuwwoYDDMJ4T9QNJhEPxnwmc"
   },
   {
-   "id": "1aa494ea8e7c",
-   "title": "Do Agent Teams Pay Off? A Case Study on Vibe Code Bench",
-   "source": "TLDR AI",
-   "url": "https://www.vals.ai/blogs/multi-agent-vibe-code-bench"
+   "id": "685316f23ede",
+   "title": "Muse Wonder is available through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+  },
+  {
+   "id": "c219218f4b2c",
+   "title": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb"
+  },
+  {
+   "id": "426d8549ae13",
+   "title": "Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse\"",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlYeFJUUFRITjEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDk0NzkvbWV0YS1tdXNlLXdvbmRlci1mdWxsLWFpLW1vZGVsIiwiZXhwIjoxNzkyMjU3MTkyLCJpYXQiOjE3OTE4MjUxOTJ9.bvN4rQYlDQBB8hM8pFlKvbFURYGZlHfVzjDoSc4THF4&utm_medium=gift-link"
+  },
+  {
+   "id": "f9508794e5e6",
+   "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+   "source": "Lobsters",
+   "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code"
+  },
+  {
+   "id": "3307aeae0ff2",
+   "title": "Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out \"multi-gigawatt deployments\" of the chip starting next year",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/"
+  },
+  {
+   "id": "6665e346395d",
+   "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/claude-dynamic-workflows"
+  },
+  {
+   "id": "bfd04ceee4aa",
+   "title": "How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it cheaper and easier to run fake investment schemes and other scams",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI"
   }
  ]
 }

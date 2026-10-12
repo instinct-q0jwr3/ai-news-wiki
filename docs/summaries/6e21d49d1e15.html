@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hello Python 3.15, goodbye 3.10, and now I can use 3.11 · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1791835351"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Hello Python 3.15, goodbye 3.10, and now I can use 3.11</h1>
+<p class="meta">type: news-summary · created: 2026-10-12 · updated: 2026-10-12 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Simon Willison walks through Python 3.15 and notes he can now drop Python 3.10 support and use 3.11 features in his open source libraries. His favourite change is explicit lazy imports (PEP 810), which defer a module's import until first use; that targets a real pain point in his LLM CLI, where plugins with heavy dependencies slowed every invocation by seconds.</p>
+<p>He also likes unpacking inside comprehensions (PEP 798) and the new built-in sampling profiler, Tachyon, which attaches to a running process and can output flame graphs and Firefox profiler data, replacing the need for tools like py-spy. On speed, 3.15 is mostly the same as 3.14, apart from the experimental JIT, which gave about a 1.2x boost in one test.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Explicit lazy imports (PEP 810) cut startup cost for plugin-heavy tools.</li>
+<li>Unpacking in comprehensions: [*sub for sub in lists].</li>
+<li>New sampling profiler Tachyon (profiling.sampling) ships in the standard library.</li>
+<li>Performance about equal to 3.14; JIT gives roughly 1.2x on one benchmark.</li>
+<li>3.10 reaches end of life, so 3.11 becomes the new floor for his projects.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://simonwillison.net/2026/Oct/12/python-3-15/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a> · <a href="../concepts/ai-policy-regulation.html">AI policy, regulation and litigation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>
