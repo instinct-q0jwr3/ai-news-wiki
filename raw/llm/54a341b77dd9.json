@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "404 Media reports that Raven, the police geolocation tool from Graylark Technologies (formerly GeoSpy), can now locate the interior of a home from a single photo. Graylark's CEO announced the ability to geolocate interior images across millions of short-term rental units. In a demo, a washer-dryer photo from social media was matched to a Charlotte Airbnb listing, and a bathroom photo to a Vrbo beach house in Montecito, with results quoting the listings' own text.",
+  "The tool apparently draws on listing data from sites like Zillow and Airbnb. The Los Angeles Police Department and Miami-Dade Sheriff's Office have previously bought access, and the report treats it as an example of AI power now available to local law enforcement."
+ ],
+ "highlights": [
+  "Raven can match a single interior photo to a specific short-term rental listing.",
+  "Demo results quoted real Airbnb and Vrbo listings in Charlotte and Montecito.",
+  "Graylark, formerly GeoSpy, apparently scrapes Zillow and Airbnb data.",
+  "LAPD and Miami-Dade Sheriff's Office previously bought access."
+ ],
+ "id": "54a341b77dd9",
+ "authored_at": "2026-10-13T08:00:57.125990+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

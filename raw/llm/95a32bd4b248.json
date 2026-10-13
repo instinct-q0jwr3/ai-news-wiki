@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Ben Recht's argmin post examines part of OpenAI's math repository that claims to compute faster Fourier transforms. He first refreshes the background: the FFT, devised by Cooley and Tukey in 1965, cuts the cost of a length-n transform from about n squared operations to n log n by recursively splitting the input in halves and recombining. The post is more technical than usual, with tutorial material on signal processing and computational complexity, before weighing OpenAI's claim against that baseline. Basis: the opening of the post; the later assessment was not read in full."
+ ],
+ "highlights": [
+  "Explains the FFT's divide-and-conquer trick and why it beats the naive n-squared approach.",
+  "Looks at an OpenAI math repository claiming faster Fourier transforms.",
+  "Written with tutorial sections for readers new to the topic."
+ ],
+ "id": "95a32bd4b248",
+ "authored_at": "2026-10-13T08:00:57.125990+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

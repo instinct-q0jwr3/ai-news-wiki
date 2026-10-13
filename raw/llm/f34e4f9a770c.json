@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "A paper argues that capability evaluations, which rely on being able to elicit hidden dangerous abilities, can be defeated. The authors embed an encrypted neural network inside a host model's weights using digital lockers, so it only decrypts and runs when it sees a secret trigger. Under standard cryptographic assumptions the hidden circuit stays hard to elicit or interpret even with full access to the weights, extending earlier work that hid fixed strings to hiding arbitrary computations.",
+  "They built proof-of-concept models in PyTorch and tested fine-tuning, weight noising, gradient-based trigger search and latent adversarial training on a small chemical-reaction prediction task, a stand-in for CBRN-relevant capability. None of those methods recovered the hidden capability. The conclusion is a limit on elicitation-based audits; the models are released to help build defenses."
+ ],
+ "highlights": [
+  "Backdoor hides an encrypted network inside model weights, unlocked by a secret trigger.",
+  "Provably hard to elicit under cryptographic assumptions, even with full weight access.",
+  "Resisted fine-tuning, weight noising, trigger search and latent adversarial training.",
+  "Tested on a small chemical-reaction task as a CBRN proxy.",
+  "Shows a limit of audits that depend on eliciting capabilities; models released for defense work."
+ ],
+ "id": "f34e4f9a770c",
+ "authored_at": "2026-10-13T08:00:57.125990+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
