@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Deslop is a set of opinionated Oxlint rules that reject low-signal, AI-generated TypeScript patterns: unsafe types, duplicate code and low-value tests. It vendors rules from dmmulroy/anti-slop under an MIT license and installs as an npm dev dependency working with Bun, Deno or Node."
+ ],
+ "highlights": [
+  "Oxlint rules aimed at AI-slop TypeScript.",
+  "Catches unsafe types, duplicate code and low-value tests.",
+  "Vendors MIT-licensed anti-slop rules; install via npm."
+ ],
+ "id": "125272a873dc",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

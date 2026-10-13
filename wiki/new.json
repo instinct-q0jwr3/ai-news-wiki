@@ -1,23 +1,11 @@
 {
- "generated_at": "2026-10-13T13:55:09+00:00",
+ "generated_at": "2026-10-13T19:56:00+00:00",
  "stories": [
   {
-   "id": "c74e6d35c291",
-   "title": "Character.ai Files for Bankruptcy",
-   "source": "Hacker News",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
-  },
-  {
-   "id": "f2524a67d91b",
-   "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-   "source": "Hacker News",
-   "url": "https://pdftomp3.com/connect-ai/"
-  },
-  {
-   "id": "0481b9033351",
-   "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
-   "source": "Hacker News",
-   "url": "https://github.com/composo-ai/DishwasherBench"
+   "id": "ea5d97dbc2d2",
+   "title": "Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+",
+   "source": "Techmeme",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control"
   },
   {
    "id": "87dc5b4bbb84",
@@ -26,184 +14,154 @@
    "url": "https://blog.character.ai/an-update-on-character-ai/"
   },
   {
-   "id": "9326ae9b44b7",
-   "title": "Document Review with Unsiloed and TypeSafe Jev",
+   "id": "34a9256167f9",
+   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
    "source": "Hacker News",
-   "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev"
+   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
   },
   {
-   "id": "8e4049b94b74",
-   "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'",
+   "id": "d5d325eacb51",
+   "title": "Gemini 4 Argon for Robotics",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt"
+   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
   },
   {
-   "id": "bb381efac0af",
-   "title": "Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/"
-  },
-  {
-   "id": "79e36f12d96c",
-   "title": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\"",
-   "source": "Techmeme",
-   "url": "https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/"
-  },
-  {
-   "id": "927d8bbb8e79",
-   "title": "Apple unveils the fourth-gen Apple TV 4K, with Siri AI, an A19 chip, 128GB of storage, far-field mics, Wi-Fi 7, and Bluetooth 6, shipping November 13 for $299",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced"
-  },
-  {
-   "id": "7751467086d7",
-   "title": "Apple HomeView demo: a square screen with a personalized, iPhone-like experience based on facial recognition, up to six users, Siri AI, and a closed ecosystem",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/personal-tech/my-first-impressions-of-apples-new-smart-home-display-615ac94c?st=GH8ig1&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "67347f6a1f3e",
-   "title": "The IMF lifts its 2026 global GDP growth forecast to 3.1%, up from 3% in July, citing an AI boom that offsets Middle East war disruptions and high energy costs",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
-  },
-  {
-   "id": "9b4f3bd3fba7",
-   "title": "Apple unveils the $149 HomePod mini 2, with an S10 chip, \"Sound Glow\" interactive lighting, and Siri AI via a future update, in five colors, shipping October 30",
-   "source": "Techmeme",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
-  },
-  {
-   "id": "05796c451e56",
-   "title": "GLM-Legal",
+   "id": "d500d57460ae",
+   "title": "How to engineer an AI harness for game development",
    "source": "Hacker News",
-   "url": "https://z.ai/blog/glm-legal"
+   "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
   },
   {
-   "id": "c33aa5c0858d",
-   "title": "Applying technology to understand and treat disease",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/"
-  },
-  {
-   "id": "4def953dfe1b",
-   "title": "Quoting Geoffrey Huntley",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
-  },
-  {
-   "id": "da1193ea3503",
-   "title": "Releasing AI-generated software",
-   "source": "TLDR AI",
-   "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/"
-  },
-  {
-   "id": "48d533c73131",
-   "title": "Accenture's market cap rebounded from $76B in June to ~$130B ahead of its investor day, where it seeks to reassure investors that AI won't threaten its business",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/15ae6a2e-6010-4d78-a752-2eeeca1e1c55"
-  },
-  {
-   "id": "7ad0eec28c2d",
-   "title": "Alibaba unveils its next-gen Qwen Glasses N1, starting at ~$450, with 50MP cameras, sensors, and eye-tracking on the ~$520 Pro model, and Qwen Clip AI earbuds",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets"
-  },
-  {
-   "id": "2067ff7c221e",
-   "title": "Can we change an AI model's architecture without retraining it from scratch?",
-   "source": "TLDR AI",
-   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch"
-  },
-  {
-   "id": "99ea8f5a8e2f",
-   "title": "Microsoft Introduced the Maia 300 AI Chip",
-   "source": "TLDR AI",
-   "url": "https://news.microsoft.com/maia-2026/"
-  },
-  {
-   "id": "22d5778f6fb8",
-   "title": "Make Your Coding Assistant a 10x AI Engineer",
-   "source": "TLDR AI",
-   "url": "https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x"
-  },
-  {
-   "id": "fe1d2e9e37b3",
-   "title": "Meta confirms Muse lets users \"engage in adult conversations, if they choose, using a private and secure VM\", saying it doesn't block \"legal adult behavior\"",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/"
-  },
-  {
-   "id": "4be5fc6345e1",
-   "title": "US banking regulators are questioning banks about their deployment of agentic AI, use of Chinese-developed AI models, and autonomous system safeguards",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13/"
-  },
-  {
-   "id": "8459d1447d10",
-   "title": "What I saw around the Curve, 2026",
-   "source": "TLDR AI",
-   "url": "https://secondthoughts.ai/p/what-i-saw-around-the-curve-2026"
-  },
-  {
-   "id": "fcbf10c02e0e",
-   "title": "When Do We Need On-Policy Distillation? Distilling on Offline Student Rollouts Is Often Better",
-   "source": "TLDR AI",
-   "url": "https://research.nvidia.com/publication/2026-12_when-do-we-need-policy-distillation-distilling-offline-student-rollouts-often"
-  },
-  {
-   "id": "94eca77a0f8a",
-   "title": "Decision Models Cut Agent LLM Calls by 29.6%",
-   "source": "TLDR AI",
-   "url": "https://discuss.huggingface.co/t/offloading-bounded-decisions-cut-agent-llm-calls-by-29-6-on-360-sop-bench-cases/190420"
-  },
-  {
-   "id": "82fb5e1eea72",
-   "title": "The Expensive-Loop Problem",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/2mStxuNDMdaWdyHu6/the-expensive-loop-problem"
-  },
-  {
-   "id": "92538405f0d2",
-   "title": "Weekly Update 525: AI Data Breach Hyperbole",
-   "source": "Troy Hunt",
-   "url": "https://www.troyhunt.com/weekly-update-525/"
-  },
-  {
-   "id": "ea9d873f3d2e",
-   "title": "Zhipu's GLM-5.3-Highspeed Appears in ZCode Gray Release, With Users Reporting About 490 Tokens/s",
-   "source": "TLDR AI",
-   "url": "https://pandaily.com/zhipu-glm-5-3-highspeed-zcode-gray-release-490-tokens-per-second-user-test"
-  },
-  {
-   "id": "e615af7b8e1c",
-   "title": "AI models may be capable of self-replicating without access to a datacenter",
+   "id": "b8fc1a87e8ae",
+   "title": "Scientists wonder: Is my AI stealing my ideas?",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/self-replicating-ai"
+   "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/"
   },
   {
-   "id": "745f255787f7",
-   "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder"
+   "id": "282b815f1ec0",
+   "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50073471"
   },
   {
-   "id": "437bf7f5fbb3",
-   "title": "Pluralistic: Bundestrojaner (13 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/13/petards-r-us/"
+   "id": "125272a873dc",
+   "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+   "source": "Hacker News",
+   "url": "https://github.com/maharshi365/deslop"
   },
   {
-   "id": "8b2328eab85e",
-   "title": "Meet Helix World: A Real-Time Audio-Visual World Model",
-   "source": "TLDR AI",
-   "url": "https://noiz.ai/lp/blog/meet-helix-world"
+   "id": "fc7654a6d1e7",
+   "title": "Jev handed our LLM the wrong page a tenth as often as our embeddings",
+   "source": "Hacker News",
+   "url": "https://sayora.ai/many-hands/jev-vs-embeddings/"
   },
   {
-   "id": "c494a1043dd9",
-   "title": "Anthropic tests its next model under Claude Opus 5.5",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/anthropic-tests-new-model-opus-5-5-routing-opus-5-6-fable-5-5/"
+   "id": "cfc5f40e4a6c",
+   "title": "How 94 internet-famous engineers use coding agents",
+   "source": "Hacker News",
+   "url": "https://www.prehistoriq.com/stacks/"
+  },
+  {
+   "id": "fd97403228ee",
+   "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+   "source": "Hacker News",
+   "url": "https://github.com/LargeModGames/spotatui"
+  },
+  {
+   "id": "663f80865c7c",
+   "title": "FrontierML: A challenging, end-to-end machine learning benchmark",
+   "source": "Hacker News",
+   "url": "https://www.frontierml.org/blog/"
+  },
+  {
+   "id": "d755080dedb4",
+   "title": "AI 3D Prints: Are Claude's Defaults Enough?",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg"
+  },
+  {
+   "id": "1f0665bbbda7",
+   "title": "Google DeepMind paper trains an agent to rewrite its own harness",
+   "source": "Hacker News",
+   "url": "https://runtimewire.com/article/google-deepmind-evo2-agent-harness-co-evolution"
+  },
+  {
+   "id": "fc434d6fa73a",
+   "title": "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months",
+   "source": "Techmeme",
+   "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
+  },
+  {
+   "id": "4cb78890354c",
+   "title": "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+  },
+  {
+   "id": "b89b367d94b4",
+   "title": "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network",
+   "source": "Techmeme",
+   "url": "https://daringfireball.net/"
+  },
+  {
+   "id": "f038991ae03b",
+   "title": "self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2"
+  },
+  {
+   "id": "ceedff75c2fc",
+   "title": "Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+  },
+  {
+   "id": "705552ee1cd1",
+   "title": "Annualized Enron Rate",
+   "source": "Ed Zitron",
+   "url": "https://www.wheresyoured.at/annualized-enron-rate/"
+  },
+  {
+   "id": "030e89e2c99e",
+   "title": "Apple HomeView",
+   "source": "Daring Fireball",
+   "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
+  },
+  {
+   "id": "0e9dc04a20b9",
+   "title": "Scuba, which is building a \"context engine\" designed to serve as a shared memory hub for human workers and AI agents, raised $34M across pre-seed and seed",
+   "source": "Techmeme",
+   "url": "https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba"
+  },
+  {
+   "id": "5e28d56aa520",
+   "title": "Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow",
+   "source": "Techmeme",
+   "url": "https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10"
+  },
+  {
+   "id": "fc5b4c9da6ea",
+   "title": "Running RAG with a (small) language model in the browser",
+   "source": "Lobsters",
+   "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/"
+  },
+  {
+   "id": "61a00b937df0",
+   "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+   "source": "Hacker News",
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+  },
+  {
+   "id": "50ea585312e9",
+   "title": "Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+  },
+  {
+   "id": "5adb584ec645",
+   "title": "Anthropic co-founder Jack Clark says \"I now think it's more likely we'll see full RSI become possible in 2027\", earlier than his previous prediction of 2028",
+   "source": "Techmeme",
+   "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi"
   }
  ]
 }

@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Google launches Gemini 4 Argon globally via the Gemini API and to Pro and Ultra subscribers in the Gemini app and Search AI mode, and says it competes with the best after months of trailing. It claims Argon beats GPT-6 Astra, Claude Fable 5.1 and Claude Opus 5.5 across coding, cybersecurity, science, finance and law, with less hedging and repetition.",
+  "Google says it uses Argon internally to find and patch vulnerabilities, halve the compute behind YouTube comments and debug Wing's drone physics simulator. Introductory pricing is $2 per million input tokens and $10 per million output tokens. It is unclear when free or Plus users will get it (The Verge)."
+ ],
+ "highlights": [
+  "Gemini 4 Argon rolls out via API and to Pro/Ultra subscribers.",
+  "Google claims wins over GPT-6 Astra, Fable 5.1 and Opus 5.5 on its benchmarks.",
+  "Internal uses: security patching, YouTube comments compute halved, Wing simulator debugging.",
+  "Intro price $2 input / $10 output per million tokens.",
+  "Free and Plus availability not announced."
+ ],
+ "id": "50ea585312e9",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

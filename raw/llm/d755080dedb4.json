@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "A Japanese YouTube video tests whether Claude's default settings are enough for AI-made 3D models by printing five variants and comparing them, with Opus 5.5 and Sonnet 5.5. Basis: title only; the page text was a YouTube shell."
+ ],
+ "highlights": [
+  "Prints five Claude-generated 3D model variants for comparison.",
+  "Compares Opus 5.5 and Sonnet 5.5 defaults."
+ ],
+ "id": "d755080dedb4",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

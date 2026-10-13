@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Google DeepMind researchers published Evo2, a framework that trains an agent to improve the software harness around its model while also training the policy that edits and evaluates the harness, using edits and evaluation traces as training data. The paper, posted to arXiv on October 9, reports gains on coding and memory benchmarks, including 48.3% resolved on SWE-bench Verified."
+ ],
+ "highlights": [
+  "Evo2 trains an agent to rewrite its own harness.",
+  "Edits and evaluation traces become training data.",
+  "Improves workflow without changing the task executor.",
+  "48.3% resolved on SWE-bench Verified."
+ ],
+ "id": "1f0665bbbda7",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

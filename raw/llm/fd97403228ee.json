@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Spotatui, a revived Spotify terminal and desktop client, now works without Spotify's web API rate limits and supports other sources: YouTube, Subsonic/Navidrome, internet radio, local files, Qobuz and Apple Music on macOS, with Spotify Premium needed only for the Spotify source. Prebuilt binaries include the extra sources."
+ ],
+ "highlights": [
+  "Revived spotify-tui, now Spotatui.",
+  "Works with YouTube, Subsonic, radio, local files, Qobuz, Apple Music.",
+  "Spotify Premium only needed for the Spotify source."
+ ],
+ "id": "fd97403228ee",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A team building an AI receptionist for a maintenance company describes retrieval failures: a caller asking about a leaking plumber's repair was handed the wrong web page by embedding search. They report that Jev, TypeSafe's judge, handed the model the wrong page about a tenth as often as embeddings did. Basis: the opening of the post."
+ ],
+ "highlights": [
+  "Embedding retrieval gave wrong pages for real caller questions.",
+  "Reports a roughly 10x lower wrong-page rate using Jev.",
+  "Use case: AI receptionist for a multi-trade company."
+ ],
+ "id": "fc7654a6d1e7",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

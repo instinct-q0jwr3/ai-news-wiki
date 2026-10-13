@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "Ed Zitron argues that AI revenue claims resemble Enron-style accounting. Anthropic books gross revenue on sales through cloud partners because it is the principal, and calculates run rate by annualizing the prior 28 days of consumption revenue plus monthly subscriptions, while OpenAI counts only its cut of arrangements such as Microsoft's, which it called a 'net' metric when the FT asked about a $70bn figure.",
+  "He recounts last month's dispute over two Anthropic ARR numbers, the standard trailing-28-days times 13 and a newer figure based on July 31 times 365, which he says was invented because the first implied slowing growth, and criticizes the metric. Basis: the opening and middle of a long premium newsletter excerpt."
+ ],
+ "highlights": [
+  "Anthropic recognises gross revenue on cloud-partner sales; OpenAI counts net.",
+  "Anthropic run rate: prior 28 days of usage plus subscriptions, annualized.",
+  "Two competing ARR figures caused a dispute last month.",
+  "Zitron calls ARR a venture-capital metric and questions the AI revenue story."
+ ],
+ "id": "705552ee1cd1",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

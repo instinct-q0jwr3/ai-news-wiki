@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A developer whose feed reader sprinklz.io hit Hacker News found his site suddenly crawling. Logging every endpoint showed most requests never fetched news articles or ran any JavaScript, meaning they were bots, and aggregate NGINX logs pointed to abusive scrapers. The post walks through diagnosing the AI-bot flood after a popular post. Basis: the first part of the article."
+ ],
+ "highlights": [
+  "After an HN post, bot traffic made the site painfully slow.",
+  "Most requests never ran the single-page app's JavaScript.",
+  "NGINX logs identified abusive scrapers as the cause."
+ ],
+ "id": "34a9256167f9",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

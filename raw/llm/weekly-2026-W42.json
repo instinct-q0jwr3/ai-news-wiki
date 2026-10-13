@@ -335,6 +335,69 @@
     "92538405f0d2"
    ],
    "concepts": []
+  },
+  {
+   "title": "Anthropic's engineering at scale, and a new RSI date",
+   "intro": "Anthropic swaps out git because Claude writes too much code for it, and Jack Clark pulls his recursive-self-improvement estimate forward.",
+   "stories": [
+    "ea5d97dbc2d2",
+    "f9d15bc9a06f",
+    "5adb584ec645",
+    "1f0665bbbda7",
+    "663f80865c7c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Google's Gemini 4 Argon",
+   "intro": "Google claims frontier parity for Argon, with a robotics variant and free personal Android apps.",
+   "stories": [
+    "50ea585312e9",
+    "d5d325eacb51",
+    "fc434d6fa73a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Apple's HomeView, Meta's feed controls and startup money",
+   "intro": "Hub hardware, feed tuning and funding rounds around AI products.",
+   "stories": [
+    "030e89e2c99e",
+    "b89b367d94b4",
+    "4cb78890354c",
+    "ceedff75c2fc",
+    "0e9dc04a20b9",
+    "5e28d56aa520",
+    "f038991ae03b",
+    "b3100e3e1ecd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Trust, revenue claims and bot floods",
+   "intro": "Scientists doubt AI firms with their ideas, Zitron questions revenue accounting, and scrapers swamp small sites.",
+   "stories": [
+    "b8fc1a87e8ae",
+    "705552ee1cd1",
+    "34a9256167f9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Builders' notes: harnesses, gateways and slop filters",
+   "intro": "Practical tools and experiments from developers working with agents.",
+   "stories": [
+    "d500d57460ae",
+    "282b815f1ec0",
+    "125272a873dc",
+    "fc7654a6d1e7",
+    "cfc5f40e4a6c",
+    "fd97403228ee",
+    "d755080dedb4",
+    "fc5b4c9da6ea",
+    "a84c58fd034f"
+   ],
+   "concepts": []
   }
  ]
 }

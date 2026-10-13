@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "FrontierML is a benchmark of whether AI agents can turn money into better models. Agents get full control of end-to-end machine learning tasks and a capital budget, and the test asks whether performance rises with budget through larger runs, better data or more algorithmic work, as it does for human labs. Stronger agents reliably improve their submissions as they are given more money."
+ ],
+ "highlights": [
+  "Benchmark: can agents turn capital into model performance?",
+  "Tasks cover the full model development process.",
+  "Budgets scale from small to large amounts.",
+  "Stronger agents improve reliably with more budget."
+ ],
+ "id": "663f80865c7c",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

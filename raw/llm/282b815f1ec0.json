@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "Launch HN: Consus (YC F24) is an LLM gateway that routes AI requests to infrastructure compliant with ITAR restrictions and controlled unclassified information rules, for companies handling sensitive data. Basis: the founder's opening post."
+ ],
+ "highlights": [
+  "LLM gateway for ITAR and CUI-regulated companies.",
+  "Routes all AI requests to compliant infrastructure."
+ ],
+ "id": "282b815f1ec0",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

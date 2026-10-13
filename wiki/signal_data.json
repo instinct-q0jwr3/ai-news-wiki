@@ -670,5 +670,61 @@
   "thin": 4,
   "total": 72,
   "unreadable": 7
+ },
+ "2026-10-13": {
+  "ok": 62,
+  "paywall": 8,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "ea5d97dbc2d2",
+    "minutes": 20,
+    "source": "Techmeme",
+    "title": "Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+",
+    "why": "Claude writes so much code that Anthropic replaced git with its own version control, Scion, built in five months."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "5adb584ec645",
+    "minutes": 17,
+    "source": "Techmeme",
+    "title": "Anthropic co-founder Jack Clark says \"I now think it's more likely we'll see full RSI become possible in 2027\", earlier than his previous prediction of 2028",
+    "why": "Jack Clark now thinks full recursive self-improvement is more likely in 2027 than 2028."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "50ea585312e9",
+    "minutes": 3,
+    "source": "Techmeme",
+    "title": "Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users",
+    "why": "Google launches Gemini 4 Argon and claims it beats GPT-6 Astra and Claude Fable 5.1 at $2/$10 per million tokens."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "c74e6d35c291",
+    "minutes": 3,
+    "source": "Hacker News",
+    "title": "Character.ai Files for Bankruptcy",
+    "why": "Character.AI files for Chapter 11 and sells assets to Disney for $20M after years of safety lawsuits."
+   },
+   {
+    "cat": "ok",
+    "front": "Trust",
+    "id": "b8fc1a87e8ae",
+    "minutes": 6,
+    "source": "Hacker News",
+    "title": "Scientists wonder: Is my AI stealing my ideas?",
+    "why": "Scientists worry AI firms may present users' ideas as model output, after disputes with OpenAI and Anthropic."
+   }
+  ],
+  "reserve": "663f80865c7c",
+  "status": "provisional",
+  "thin": 6,
+  "total": 83,
+  "unreadable": 7
  }
 }

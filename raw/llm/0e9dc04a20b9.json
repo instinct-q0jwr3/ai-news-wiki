@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Scuba, founded by two former Slack leaders, is building a 'context engine' that acts as a shared memory hub for human workers and AI agents. Their argument: assistants and coding agents make individuals faster but teams still lack shared context and taste (Upstarts Media). Basis: the opening of the article."
+ ],
+ "highlights": [
+  "Scuba is a shared-memory 'context engine' for people and agents.",
+  "Founders Noah Desai Weiss and Dolapo Falola came from Slack.",
+  "Bet: team context is the missing layer for AI tools."
+ ],
+ "id": "0e9dc04a20b9",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

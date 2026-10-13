@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "Gruber notes Apple says HomeView's facial recognition works only if users have a registered personal device with Apple Intelligence, per Apple's announcement, tying the hub's personalization to people's own iPhones. Basis: the Techmeme excerpt and the opening of Apple's press release."
+ ],
+ "highlights": [
+  "HomeView face recognition requires a registered personal device.",
+  "Personalization depends on users' existing Apple devices."
+ ],
+ "id": "b89b367d94b4",
+ "authored_at": "2026-10-13T20:05:58.074109+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

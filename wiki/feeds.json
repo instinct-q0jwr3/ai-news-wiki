@@ -1,14 +1,14 @@
 [
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 568,
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 579,
   "last": "2026-10-13"
  },
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 567,
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 578,
   "last": "2026-10-13"
  },
  {
@@ -26,8 +26,8 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 45,
-  "last": "2026-10-12"
+  "stories": 46,
+  "last": "2026-10-13"
  },
  {
   "name": "Pluralistic",
@@ -50,8 +50,8 @@
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 27,
-  "last": "2026-10-11"
+  "stories": 28,
+  "last": "2026-10-13"
  },
  {
   "name": "Latent.Space",
@@ -72,16 +72,16 @@
   "last": "2026-10-10"
  },
  {
+  "name": "Ed Zitron",
+  "url": "https://www.wheresyoured.at/rss/",
+  "stories": 14,
+  "last": "2026-10-13"
+ },
+ {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
   "stories": 14,
   "last": "2026-10-07"
- },
- {
-  "name": "Ed Zitron",
-  "url": "https://www.wheresyoured.at/rss/",
-  "stories": 13,
-  "last": "2026-10-06"
  },
  {
   "name": "Armin Ronacher",

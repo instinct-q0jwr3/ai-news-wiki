@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-13",
+ "status": "provisional",
+ "reserve": "663f80865c7c",
+ "picks": [
+  {
+   "id": "ea5d97dbc2d2",
+   "front": "Agents",
+   "source": "Techmeme",
+   "why": "Claude writes so much code that Anthropic replaced git with its own version control, Scion, built in five months."
+  },
+  {
+   "id": "5adb584ec645",
+   "front": "Safety",
+   "source": "Techmeme",
+   "why": "Jack Clark now thinks full recursive self-improvement is more likely in 2027 than 2028."
+  },
+  {
+   "id": "50ea585312e9",
+   "front": "Models",
+   "source": "Techmeme",
+   "why": "Google launches Gemini 4 Argon and claims it beats GPT-6 Astra and Claude Fable 5.1 at $2/$10 per million tokens."
+  },
+  {
+   "id": "c74e6d35c291",
+   "front": "Business",
+   "source": "Hacker News",
+   "why": "Character.AI files for Chapter 11 and sells assets to Disney for $20M after years of safety lawsuits."
+  },
+  {
+   "id": "b8fc1a87e8ae",
+   "front": "Trust",
+   "source": "Hacker News",
+   "why": "Scientists worry AI firms may present users' ideas as model output, after disputes with OpenAI and Anthropic."
+  }
+ ]
+}
