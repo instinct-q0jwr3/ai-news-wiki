@@ -1,26 +1,26 @@
 [
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 561,
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 568,
   "last": "2026-10-13"
  },
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 558,
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 567,
   "last": "2026-10-13"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 221,
-  "last": "2026-10-12"
+  "stories": 233,
+  "last": "2026-10-13"
  },
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 50,
+  "stories": 51,
   "last": "2026-10-13"
  },
  {
@@ -32,8 +32,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 38,
-  "last": "2026-10-12"
+  "stories": 39,
+  "last": "2026-10-13"
  },
  {
   "name": "Bert Hubert",
@@ -56,8 +56,8 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 26,
-  "last": "2026-10-12"
+  "stories": 27,
+  "last": "2026-10-13"
  },
  {
   "name": "Works on My Machine",
@@ -138,6 +138,12 @@
   "last": "2026-09-25"
  },
  {
+  "name": "Troy Hunt",
+  "url": "https://www.troyhunt.com/rss/",
+  "stories": 3,
+  "last": "2026-10-13"
+ },
+ {
   "name": "Krebs on Security",
   "url": "https://krebsonsecurity.com/feed/",
   "stories": 2,
@@ -146,12 +152,6 @@
  {
   "name": "Mitchell Hashimoto",
   "url": "https://mitchellh.com/feed.xml",
-  "stories": 2,
-  "last": "2026-09-26"
- },
- {
-  "name": "Troy Hunt",
-  "url": "https://www.troyhunt.com/rss/",
   "stories": 2,
   "last": "2026-09-26"
  },

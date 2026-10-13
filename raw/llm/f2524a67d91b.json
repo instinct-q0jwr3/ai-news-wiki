@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A Show HN project, PDF TO MP3, turns PDFs into audiobooks through an MCP server you connect to your AI client such as Codex. Document processing uses your existing OpenAI subscription, while speech generation is billed separately by Google or OpenAI through an API key. Basis: the landing page text only."
+ ],
+ "highlights": [
+  "MCP server that converts PDFs to audiobooks from inside your AI chat.",
+  "Uses your subscription for document processing.",
+  "Speech generation billed by Google or OpenAI via your own API key."
+ ],
+ "id": "f2524a67d91b",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

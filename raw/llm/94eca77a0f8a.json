@@ -1,0 +1,12 @@
+{
+ "prose": [
+  "A Hugging Face forum post reports that offloading bounded decisions cut agent LLM calls by 29.6% on 360 SOP-Bench cases. Basis: the headline and feed excerpt only; the source page could not be read."
+ ],
+ "highlights": [
+  "A Hugging Face forum post reports that offloading bounded decisions cut agent LLM calls by 29.6% on 360 SOP-Bench cases."
+ ],
+ "id": "94eca77a0f8a",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

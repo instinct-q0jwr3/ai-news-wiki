@@ -1,0 +1,16 @@
+{
+ "prose": [
+  "AINews covers the launch of Meta's Muse Wonder and Wonder Full, which completes Meta Superintelligence Labs' 14-month climb to a frontier lab and gives Meta a model family alongside OpenAI's Sol, Terra and Luna and Anthropic's Opus, Sonnet and Haiku. Wonder Full beats Fable and Astra on some benchmarks, but with differing post-training it is unclear whether Wonder is truly in that class.",
+  "The issue then rounds up reactions and independent benchmark numbers from Artificial Analysis and others across Reddit and Twitter. Basis: the opening and lead item of a long newsletter."
+ ],
+ "highlights": [
+  "Meta now has a named model ladder: Spark, Glimmer, Wonder, Wonder Full.",
+  "Wonder Full beats Fable and Astra on some benchmarks.",
+  "Unclear whether Wonder is truly Fable/Astra class given different post-training.",
+  "Issue collects community and Artificial Analysis reactions."
+ ],
+ "id": "745f255787f7",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

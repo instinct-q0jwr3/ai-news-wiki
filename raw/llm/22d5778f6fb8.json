@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Sarthak Rastogi presents agent-engineer, a free open-source plugin for Claude Code, Codex CLI, Cursor, OpenCode and Gemini CLI with 11 skills, 4 subagents and 5 hooks covering tools, prompting, context, RAG, evals, tracing, guardrails and production. In a blinded A/B test on 6 agent tasks, Claude Code with Opus 5.5 met 53% of requirements with the plugin against 34% without. The post also shows an example where the plugin refuses to claim improvement without running real evaluations."
+ ],
+ "highlights": [
+  "Open-source plugin with 11 skills, 4 subagents and 5 hooks.",
+  "Works across five coding agents.",
+  "Blinded test: 53% of requirements met with it, 34% without (6 tasks, author's own test).",
+  "Warns when changes are unevaluated instead of claiming improvement."
+ ],
+ "id": "22d5778f6fb8",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

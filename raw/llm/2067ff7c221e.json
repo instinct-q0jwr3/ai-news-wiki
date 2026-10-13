@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "An AWS paper introduces 'priming', a way to build hybrid architectures, which mix attention with state space or linear layers, without pretraining from scratch by reusing pretrained Transformer weights. It claims over 99% lower pretraining cost, saving trillions of tokens and hundreds of thousands of GPU-hours. The motivation is that Transformers pay a memory cost growing with tokens, which hurts long agent sessions.",
+  "A 32B hybrid using Gated KalmaNet matches its source Transformer on reasoning benchmarks while decoding up to twice as fast at 128K context. State space layers beat sliding-window attention even when the latter gets double the memory, and a variable-iteration mechanism gives about 10% faster decoding for roughly 1% accuracy loss."
+ ],
+ "highlights": [
+  "Priming converts a pretrained Transformer into a hybrid for under 1% of the pretraining cost.",
+  "32B Gated KalmaNet hybrid matches the source model on reasoning benchmarks.",
+  "Up to 2x faster decoding at 128K context.",
+  "State space layers beat sliding-window attention even with half the memory.",
+  "Adaptive iterations trade about 1% accuracy for 10% faster decoding."
+ ],
+ "id": "2067ff7c221e",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "TLDR AI points to social posts showing an apparent next Anthropic model, 'Claude Next', being tested under Opus 5.5 in Claude Code. One user says it built a 3D model from a one-sentence prompt over two hours with Blender MCP; another claims it makes image and video generation look obsolete. A third tester doubts the difference, saying Opus 5.5 seems to route to a newer model but results aren't dramatically better. All are anecdotal posts, not an Anthropic announcement."
+ ],
+ "highlights": [
+  "Posts claim an unreleased Anthropic model is being tested in Claude Code.",
+  "One demo: a Blender scene from a one-sentence prompt after two hours.",
+  "Another tester sees only modest differences; Opus 5.5 may route to a newer model.",
+  "Evidence is anecdotal and unconfirmed by Anthropic."
+ ],
+ "id": "c494a1043dd9",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

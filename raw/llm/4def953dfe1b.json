@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Geoffrey Huntley, quoted by Simon Willison, says that instead of updating AGENTS.md when an agent ignores his diagnostics library, he writes a pre-commit hook that fails the commit on direct calls to observability modules and injects a prompt telling the agent to use the library. After that, compliance goes to ten out of ten."
+ ],
+ "highlights": [
+  "Instructions in AGENTS.md drift; a pre-commit hook enforces the rule.",
+  "Hook inspects the git diff for calls that bypass the diagnostics module.",
+  "Failed commit injects a corrective prompt, giving 10/10 compliance."
+ ],
+ "id": "4def953dfe1b",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

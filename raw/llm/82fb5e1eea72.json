@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A post on the 'expensive-loop problem' in AI research agents: an agent picks experiments without weighing expected information gain against compute cost, treating a 15-hour multi-GPU run as no more consequential than a 30-minute ablation. The diagnosed root cause is that the agent has no model of information gain relative to cost and no prior on how severe a proposed change is. The piece also quotes a Borges-style parable of a map the size of the empire. Basis: the opening of the post."
+ ],
+ "highlights": [
+  "Agents treat a 15-hour run like a 30-minute ablation.",
+  "Root cause: no model of information gain versus compute cost.",
+  "No prior over consequence severity for proposed changes."
+ ],
+ "id": "82fb5e1eea72",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Noiz AI and HKUST introduce Helix World, a real-time audio-visual world model. From a single image you move with WASD and look with arrow keys, and it generates the next video and matching stereo sound together at 24 fps on a single NVIDIA H800. The sound field turns when the camera turns. It scores 79.9 on the WBench navigation split, close to the best silent world models, at a real-time factor of 0.77, and the team releases an audio-visual benchmark, HelixBench."
+ ],
+ "highlights": [
+  "Generates explorable video and spatial stereo audio together from one image.",
+  "24 fps on a single H800, faster than real time (RTF 0.77).",
+  "WBench navigation score 79.9, near top silent world models.",
+  "Releases HelixBench for audio-visual evaluation."
+ ],
+ "id": "8b2328eab85e",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

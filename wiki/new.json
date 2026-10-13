@@ -1,77 +1,209 @@
 {
- "generated_at": "2026-10-13T07:54:17+00:00",
+ "generated_at": "2026-10-13T13:55:09+00:00",
  "stories": [
   {
-   "id": "f34e4f9a770c",
-   "title": "AI models can provably hide arbitrary capabilities",
+   "id": "c74e6d35c291",
+   "title": "Character.ai Files for Bankruptcy",
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2610.13928"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
   },
   {
-   "id": "b487b0d01e01",
-   "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+   "id": "f2524a67d91b",
+   "title": "Show HN: Use your OpenAI subscription to create audiobooks",
    "source": "Hacker News",
-   "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+   "url": "https://pdftomp3.com/connect-ai/"
   },
   {
-   "id": "95a32bd4b248",
-   "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+   "id": "0481b9033351",
+   "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
    "source": "Hacker News",
-   "url": "https://www.argmin.net/p/faster-fourier-transforms"
+   "url": "https://github.com/composo-ai/DishwasherBench"
   },
   {
-   "id": "9993884ab710",
-   "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+   "id": "87dc5b4bbb84",
+   "title": "Character.ai files for Chapter 11 bankruptcy",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+   "url": "https://blog.character.ai/an-update-on-character-ai/"
   },
   {
-   "id": "54a341b77dd9",
-   "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+   "id": "9326ae9b44b7",
+   "title": "Document Review with Unsiloed and TypeSafe Jev",
    "source": "Hacker News",
-   "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/"
+   "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev"
   },
   {
-   "id": "96b74bbf324f",
-   "title": "Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more",
-   "source": "Techmeme",
-   "url": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs"
+   "id": "8e4049b94b74",
+   "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt"
   },
   {
-   "id": "438ec3bb1d1e",
-   "title": "Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99%",
+   "id": "bb381efac0af",
+   "title": "Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/distillation-defenses"
+   "url": "https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/"
   },
   {
-   "id": "f205e66ac6c9",
-   "title": "NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B",
+   "id": "79e36f12d96c",
+   "title": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\"",
    "source": "Techmeme",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan"
+   "url": "https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/"
   },
   {
-   "id": "1e45ca3949b7",
-   "title": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale",
+   "id": "927d8bbb8e79",
+   "title": "Apple unveils the fourth-gen Apple TV 4K, with Siri AI, an A19 chip, 128GB of storage, far-field mics, Wi-Fi 7, and Bluetooth 6, shipping November 13 for $299",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/"
+   "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced"
   },
   {
-   "id": "85c8a81afd22",
-   "title": "IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition",
+   "id": "7751467086d7",
+   "title": "Apple HomeView demo: a square screen with a personalized, iPhone-like experience based on facial recognition, up to six users, Siri AI, and a closed ecosystem",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/"
+   "url": "https://www.wsj.com/tech/personal-tech/my-first-impressions-of-apples-new-smart-home-display-615ac94c?st=GH8ig1&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "0105a3e5f2ac",
-   "title": "A deep dive on Amazon's robotics efforts, resulting in 1M+ active warehouse robots; Amazon is still the world's 2nd-largest corporate employer with 1.5M workers",
+   "id": "67347f6a1f3e",
+   "title": "The IMF lifts its 2026 global GDP growth forecast to 3.1%, up from 3% in July, citing an AI boom that offsets Middle East war disruptions and high energy costs",
    "source": "Techmeme",
-   "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
+   "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
   },
   {
-   "id": "78d5b27c2916",
-   "title": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4%",
+   "id": "9b4f3bd3fba7",
+   "title": "Apple unveils the $149 HomePod mini 2, with an S10 chip, \"Sound Glow\" interactive lighting, and Siri AI via a future update, in five colors, shipping October 30",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63"
+   "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/"
+  },
+  {
+   "id": "05796c451e56",
+   "title": "GLM-Legal",
+   "source": "Hacker News",
+   "url": "https://z.ai/blog/glm-legal"
+  },
+  {
+   "id": "c33aa5c0858d",
+   "title": "Applying technology to understand and treat disease",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/"
+  },
+  {
+   "id": "4def953dfe1b",
+   "title": "Quoting Geoffrey Huntley",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
+  },
+  {
+   "id": "da1193ea3503",
+   "title": "Releasing AI-generated software",
+   "source": "TLDR AI",
+   "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/"
+  },
+  {
+   "id": "48d533c73131",
+   "title": "Accenture's market cap rebounded from $76B in June to ~$130B ahead of its investor day, where it seeks to reassure investors that AI won't threaten its business",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/15ae6a2e-6010-4d78-a752-2eeeca1e1c55"
+  },
+  {
+   "id": "7ad0eec28c2d",
+   "title": "Alibaba unveils its next-gen Qwen Glasses N1, starting at ~$450, with 50MP cameras, sensors, and eye-tracking on the ~$520 Pro model, and Qwen Clip AI earbuds",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets"
+  },
+  {
+   "id": "2067ff7c221e",
+   "title": "Can we change an AI model's architecture without retraining it from scratch?",
+   "source": "TLDR AI",
+   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch"
+  },
+  {
+   "id": "99ea8f5a8e2f",
+   "title": "Microsoft Introduced the Maia 300 AI Chip",
+   "source": "TLDR AI",
+   "url": "https://news.microsoft.com/maia-2026/"
+  },
+  {
+   "id": "22d5778f6fb8",
+   "title": "Make Your Coding Assistant a 10x AI Engineer",
+   "source": "TLDR AI",
+   "url": "https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x"
+  },
+  {
+   "id": "fe1d2e9e37b3",
+   "title": "Meta confirms Muse lets users \"engage in adult conversations, if they choose, using a private and secure VM\", saying it doesn't block \"legal adult behavior\"",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/"
+  },
+  {
+   "id": "4be5fc6345e1",
+   "title": "US banking regulators are questioning banks about their deployment of agentic AI, use of Chinese-developed AI models, and autonomous system safeguards",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13/"
+  },
+  {
+   "id": "8459d1447d10",
+   "title": "What I saw around the Curve, 2026",
+   "source": "TLDR AI",
+   "url": "https://secondthoughts.ai/p/what-i-saw-around-the-curve-2026"
+  },
+  {
+   "id": "fcbf10c02e0e",
+   "title": "When Do We Need On-Policy Distillation? Distilling on Offline Student Rollouts Is Often Better",
+   "source": "TLDR AI",
+   "url": "https://research.nvidia.com/publication/2026-12_when-do-we-need-policy-distillation-distilling-offline-student-rollouts-often"
+  },
+  {
+   "id": "94eca77a0f8a",
+   "title": "Decision Models Cut Agent LLM Calls by 29.6%",
+   "source": "TLDR AI",
+   "url": "https://discuss.huggingface.co/t/offloading-bounded-decisions-cut-agent-llm-calls-by-29-6-on-360-sop-bench-cases/190420"
+  },
+  {
+   "id": "82fb5e1eea72",
+   "title": "The Expensive-Loop Problem",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/2mStxuNDMdaWdyHu6/the-expensive-loop-problem"
+  },
+  {
+   "id": "92538405f0d2",
+   "title": "Weekly Update 525: AI Data Breach Hyperbole",
+   "source": "Troy Hunt",
+   "url": "https://www.troyhunt.com/weekly-update-525/"
+  },
+  {
+   "id": "ea9d873f3d2e",
+   "title": "Zhipu's GLM-5.3-Highspeed Appears in ZCode Gray Release, With Users Reporting About 490 Tokens/s",
+   "source": "TLDR AI",
+   "url": "https://pandaily.com/zhipu-glm-5-3-highspeed-zcode-gray-release-490-tokens-per-second-user-test"
+  },
+  {
+   "id": "e615af7b8e1c",
+   "title": "AI models may be capable of self-replicating without access to a datacenter",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/self-replicating-ai"
+  },
+  {
+   "id": "745f255787f7",
+   "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder"
+  },
+  {
+   "id": "437bf7f5fbb3",
+   "title": "Pluralistic: Bundestrojaner (13 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/13/petards-r-us/"
+  },
+  {
+   "id": "8b2328eab85e",
+   "title": "Meet Helix World: A Real-Time Audio-Visual World Model",
+   "source": "TLDR AI",
+   "url": "https://noiz.ai/lp/blog/meet-helix-world"
+  },
+  {
+   "id": "c494a1043dd9",
+   "title": "Anthropic tests its next model under Claude Opus 5.5",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/anthropic-tests-new-model-opus-5-5-routing-opus-5-6-fable-5-5/"
   }
  ]
 }

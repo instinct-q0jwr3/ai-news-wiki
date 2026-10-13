@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A piece on software engineering, epistemology and liability when code is written by LLMs, prompted by Robert C. Martin's tweet that he no longer reads his agents' code and instead surrounds them with extreme constraints: unit and Gherkin tests, QA procedures, quality metrics, mutation testing and coverage. The question is whether passing that gauntlet is enough confidence to release code nobody read, and who is responsible when it fails. Basis: the opening of the essay."
+ ],
+ "highlights": [
+  "Martin's strategy: don't read agent code, constrain it with tests and metrics.",
+  "Raises the question of what justifies confidence in unread code.",
+  "Also asks who is liable for generated software."
+ ],
+ "id": "da1193ea3503",
+ "authored_at": "2026-10-13T13:59:51.174084+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
