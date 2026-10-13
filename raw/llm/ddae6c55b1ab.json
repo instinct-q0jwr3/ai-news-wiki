@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Simon Willison releases web-edit 0.1a0, a Python web app with a UI for viewing and editing files in a folder. He built it, with Codex and GPT-6 Astra Extra High, after wanting to edit a credentials file from his phone via Codex Remote without passing the credentials through the model. Basis: the feed excerpt of the release note."
+ ],
+ "highlights": [
+  "web-edit 0.1a0: a web UI to view and edit files in a folder.",
+  "Motivation: edit secrets without round-tripping them through an LLM.",
+  "Built with Codex and GPT-6 Astra Extra High."
+ ],
+ "id": "ddae6c55b1ab",
+ "authored_at": "2026-10-13T02:00:36.320851+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

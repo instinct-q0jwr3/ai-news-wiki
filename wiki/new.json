@@ -1,12 +1,6 @@
 {
- "generated_at": "2026-10-12T19:52:46+00:00",
+ "generated_at": "2026-10-13T01:53:33+00:00",
  "stories": [
-  {
-   "id": "77a691cd119b",
-   "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks",
-   "source": "Techmeme",
-   "url": "https://research.meta.ai/blog/muse-wonder"
-  },
   {
    "id": "2aa801e6db7d",
    "title": "QGIS bans AI assisted contributions",
@@ -14,58 +8,88 @@
    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
   },
   {
-   "id": "52c565b6adc7",
-   "title": "Why aren't AI companies being charged for hacking?",
+   "id": "cc20c655f6d2",
+   "title": "AI is a tool and using it well takes skill",
    "source": "Hacker News",
-   "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/"
+   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
   },
   {
-   "id": "05796c451e56",
-   "title": "GLM-Legal",
-   "source": "Hacker News",
-   "url": "https://z.ai/blog/glm-legal"
-  },
-  {
-   "id": "5011e5c7f652",
-   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-   "source": "Hacker News",
-   "url": "https://github.com/openai/codex/issues/48195"
-  },
-  {
-   "id": "a5a80dac9dbc",
-   "title": "Just say no to OpenAI and Anthropic",
-   "source": "Hacker News",
-   "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/"
-  },
-  {
-   "id": "a257cac427d9",
-   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-   "source": "Hacker News",
-   "url": "https://taylor.town/kk-ai-2026"
-  },
-  {
-   "id": "3de0695ded99",
-   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50059096"
-  },
-  {
-   "id": "1f5026a23dc2",
-   "title": "Introducing OpenFatigue",
+   "id": "dbecf2c28b76",
+   "title": "OpenFatigue™ – Open is the new closed",
    "source": "Hacker News",
    "url": "https://openfatigue.ai/"
   },
   {
-   "id": "a61d1b1cde2f",
-   "title": "Reverse Engineer Anything",
-   "source": "Lobsters",
-   "url": "https://github.com/morluto/rea"
+   "id": "b487b0d01e01",
+   "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+   "source": "Hacker News",
+   "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
   },
   {
-   "id": "1b89e361511e",
-   "title": "'AI' Is Not a Tool by Rich Hickey",
+   "id": "0d509601c474",
+   "title": "Epic Games tells employees to use AI to get Disney game done",
    "source": "Hacker News",
-   "url": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02"
+   "url": "https://www.avclub.com/epic-games-disney-ai-delay"
+  },
+  {
+   "id": "1cee4d84af54",
+   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+   "source": "Hacker News",
+   "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+  },
+  {
+   "id": "914a15c188af",
+   "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+   "source": "Hacker News",
+   "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/"
+  },
+  {
+   "id": "549abd952f56",
+   "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+   "source": "Hacker News",
+   "url": "https://x.ai/pricing"
+  },
+  {
+   "id": "ff71effdc875",
+   "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+   "source": "Hacker News",
+   "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/"
+  },
+  {
+   "id": "bf9d17e0e8ae",
+   "title": "OpenKylin: The AI Agent Linux Desktop",
+   "source": "Hacker News",
+   "url": "https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/"
+  },
+  {
+   "id": "54371421e709",
+   "title": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/transactional/japans-omron-buy-us-industrial-pc-firm-onlogic-675-million-physical-ai-push-2026-10-13/"
+  },
+  {
+   "id": "e92ccc718e4f",
+   "title": "Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\"",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyOTQ5NCwiZXhwIjoxNzkyNDM0Mjk0LCJhcnRpY2xlSWQiOiJUTVQ0SDVSS1YyVEQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.rC824FbXuutjticK4TKijZtWW-ewDWvg6AIoVnPo5IA"
+  },
+  {
+   "id": "d7f4cf36b53c",
+   "title": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math",
+   "source": "Techmeme",
+   "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research"
+  },
+  {
+   "id": "284e5862c049",
+   "title": "Suki, an AI ambient scribe for healthcare providers, raised a $90M Series E led by Healthier Capital; a source says it projects $60M-$80M in revenue this year",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/pro/health-tech-deals/2026/10/12/suki-series-e-90m-healthier-capital"
+  },
+  {
+   "id": "9aeaefd7d8dd",
+   "title": "JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale"
   },
   {
    "id": "e615af7b8e1c",
@@ -74,64 +98,10 @@
    "url": "https://www.anthropic.com/research/self-replicating-ai"
   },
   {
-   "id": "6e21d49d1e15",
-   "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+   "id": "ddae6c55b1ab",
+   "title": "web-edit 0.1a0",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
-  },
-  {
-   "id": "8f288ae203e5",
-   "title": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/"
-  },
-  {
-   "id": "9bc8a3a3f0bc",
-   "title": "Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/features/2026-ai-data-center-build-costs/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyMTYzNywiZXhwIjoxNzkyNDI2NDM3LCJhcnRpY2xlSWQiOiJUTVNJSUVLSUpIQTgwMCIsImJjb25uZWN0SWQiOiIzQjk1QzU5QzVEM0M0RjcwQkNFQUQ2NDZDRUE1QkFCOSJ9.VxLn0QarUOI8aJCg9j_vuwwoYDDMJ4T9QNJhEPxnwmc"
-  },
-  {
-   "id": "685316f23ede",
-   "title": "Muse Wonder is available through the Meta Model API and Muse Code, while Muse Wonder Full is available to Muse Code subscribers",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
-  },
-  {
-   "id": "c219218f4b2c",
-   "title": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb"
-  },
-  {
-   "id": "426d8549ae13",
-   "title": "Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse\"",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlYeFJUUFRITjEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDk0NzkvbWV0YS1tdXNlLXdvbmRlci1mdWxsLWFpLW1vZGVsIiwiZXhwIjoxNzkyMjU3MTkyLCJpYXQiOjE3OTE4MjUxOTJ9.bvN4rQYlDQBB8hM8pFlKvbFURYGZlHfVzjDoSc4THF4&utm_medium=gift-link"
-  },
-  {
-   "id": "f9508794e5e6",
-   "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-   "source": "Lobsters",
-   "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code"
-  },
-  {
-   "id": "3307aeae0ff2",
-   "title": "Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out \"multi-gigawatt deployments\" of the chip starting next year",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/"
-  },
-  {
-   "id": "6665e346395d",
-   "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/claude-dynamic-workflows"
-  },
-  {
-   "id": "bfd04ceee4aa",
-   "title": "How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it cheaper and easier to run fake investment schemes and other scams",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI"
+   "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
   }
  ]
 }

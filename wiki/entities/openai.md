@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-13** - A blogger describes using GPT-6 Astra to jailbreak a Kindle and turn it into an AI photo frame. Basis: the headline and feed excerpt only; the source page was not readable in this pass. ([GPT-6 Astra Helped Me Jailbreak My Kindle](../summaries/b487b0d01e01.md) · [OpenAI](../entities/openai.md))
+- **2026-10-13** - Simon Willison releases web-edit 0.1a0, a Python web app with a UI for viewing and editing files in a folder. He built it, with Codex and GPT-6 Astra Extra High, after wanting to edit a credentials file from his phone via Codex Remote without passing the… ([web-edit 0.1a0](../summaries/ddae6c55b1ab.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-12** - A GitHub issue on openai/codex reports that Codex CLI installs a persistent, self-updating background daemon by default, raising consent and security concerns. Basis: the headline and feed excerpt only; the source page could not be read in this pass. ([Codex CLI installs a persistent, self-updating background daemon by default](../summaries/5011e5c7f652.md) · [OpenAI](../entities/openai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-12** - Micah Lee argues for refusing to use OpenAI and Anthropic products. Basis: the headline and feed excerpt only; the source page could not be read in this pass. ([Just say no to OpenAI and Anthropic](../summaries/a5a80dac9dbc.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-12** - OpenAI's research leaders responded publicly to the three departed safety researchers - Jasmine, Mikita and Tomek - saying a thorough investigation found they 'violated clear policies on handling sensitive information' and uncovered 'a significant breach… ([OpenAI Responds to Departed Safety Researchers](../summaries/a30be9e40895.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

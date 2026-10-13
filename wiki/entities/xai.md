@@ -1,6 +1,6 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
 
 `entity` `xai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-10-13** - xAI's pricing page shows unified SpaceXSI plans across Grok, Cursor and X Premium. Basis: the headline and feed excerpt only; the source page was not readable in this pass. ([SpaceXSI: Unified plans across Grok, Cursor, and X Premium](../summaries/549abd952f56.md) · [SpaceXAI (xAI)](../entities/xai.md))
 - **2026-10-12** - The Verge documents Silicon Valley falling in line with President Trump's rebrand of artificial intelligence as 'super intelligence'. Musk promised to rename SpaceXAI to SpaceXSI; hours after Trump declared that the White House considers anyone using… ([How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted "super intelligence", as Silicon Valley falls in line with Trump](../summaries/ef46c2d35f7c.md) · [SpaceXAI (xAI)](../entities/xai.md) · [NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-10-08** - Natura unveils Interface, a $99 smart ring meant as an interface to AI agents. It tracks heart rate, HRV, sleep and activity like a health ring, and at launch connects to agents and apps including Meta's Muse, Instinct, Grokbot, Claude and ChatGPT. ([AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct](../summaries/4da4fb3033fc.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-08** - The Next Web reports Elon Musk said Grok Bot will no longer run only on SpaceX's own models and will use rivals including Claude Opus 5.5, Midjourney and Suno, choosing 'the best back end model for any given task'. Grok Bot is the agent app from SpaceXAI,… ([Grok Bot will use Claude Opus 5.5, Midjourney, and Suno, says Musk](../summaries/60a641f76aee.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md))

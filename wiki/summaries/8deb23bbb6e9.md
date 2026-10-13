@@ -1,6 +1,6 @@
 # Don't Be Fooled by this Summer of AI Hype
 
-_type: news-summary · created: 2026-10-02 · updated: 2026-10-12 · confidence: high_
+_type: news-summary · created: 2026-10-02 · updated: 2026-10-13 · confidence: high_
 
 `hacker-news`
 

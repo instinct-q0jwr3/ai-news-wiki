@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-12 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,7 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
-- **2026-10-11** - Joe Rossignol, on Thursday: Starting today, iPhone users still running iOS 26 will see iOS 27.0.1 as the prominent software update in the Settings app under General → Software Update, with iOS 26.7.1 now relegated to a smaller “Also… ([Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](../summaries/d4f3a9cebed8.md) · [Apple](../entities/apple.md))
+- **2026-10-11** - John Gruber points to MacRumors' report that Apple began promoting iOS 27.0.1 as the main update for iPhones still on iOS 26 only on Thursday, three days before this post. Until then, iOS 27 (released September 14) sat in the smaller 'Also Available'… ([Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](../summaries/d4f3a9cebed8.md) · [Apple](../entities/apple.md))
 - **2026-10-10** - Daring Fireball quotes Benjamin Mayo on X, commenting on Apple promoting behind-the-scenes footage showing that the cross-stitch 'Welcome Home' logo for its October 13 event was stitched by hand: there needs to be a name for the phenomenon where every… ([‘Proof-of-Human’](../summaries/e0d2bd579d42.md) · [Apple](../entities/apple.md)) ⚠
 - **2026-10-08** - Daring Fireball links to developer David Smith's observation that iOS 27 adoption is on a different path from past years. It is still growing steadily, at the rate of the usual steady phase, but without the big surge at the start. ([Apple Is Slow-Rolling iOS 27 Adoption, So Far](../summaries/dcced9137069.md) · [Apple](../entities/apple.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-10-07** - Ben Thompson's Stratechery update covers Apple's smarter-than-expected approach to the smart home - leaning into partner integration rather than owning everything - and turns to what Amazon should do about AI agents, in the context of emerging agent… ([Apple and LG, The House For Everyone Else, Agent Standards and Amazon](../summaries/eb03db3f6a84.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md))

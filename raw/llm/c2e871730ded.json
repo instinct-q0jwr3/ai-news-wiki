@@ -1,0 +1,18 @@
+{
+ "prose": [
+  "Anthropic updated its usage policy to prohibit 'sustained and needless abusive or cruel behavior' toward its models, effective November 12. It says the rule targets extreme cases only and not frustration, pushback, dark creative themes or testing. Enforcement mostly relies on Claude's existing ability to end abusive conversations, tied to Anthropic's model-welfare research. The Register is sceptical, noting there is no established evidence Claude experiences distress and that it is unclear how abuse will be told apart from frustration.",
+  "The same overhaul covers heavier matters: tighter limits on deceptive influence campaigns, dropping the blanket ban on personalized political targeting, a weapons ban that explicitly covers software and components (including drone guidance), no recommending whom police should investigate or charge, no non-consensual tracking, and a requirement that physical equipment connected to Claude can be stopped by a qualified human and stays safe if the connection drops. Anthropic also launched a security initiative with free scanning for eligible open source projects, expecting attackers to hold the advantage for about two years."
+ ],
+ "highlights": [
+  "New rule against sustained, needless cruelty to Claude, effective November 12.",
+  "Meant only for extreme cases; Claude ending abusive chats stays the main enforcement tool.",
+  "Influence-campaign rules tightened; blanket ban on political targeting dropped.",
+  "Weapons ban now explicitly covers software and components, such as drone guidance.",
+  "Hardware connected to Claude needs a human able to stop it and a safe state on disconnect.",
+  "Anthropic launches free security scanning for eligible open source projects."
+ ],
+ "id": "c2e871730ded",
+ "authored_at": "2026-10-13T02:00:36.320851+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

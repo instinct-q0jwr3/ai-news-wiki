@@ -1,6 +1,6 @@
 # Concept: Ai For Discovery
 
-_type: concept · created: 2026-10-12 · updated: 2026-10-12 · confidence: medium_
+_type: concept · created: 2026-10-13 · updated: 2026-10-13 · confidence: medium_
 
 `concept` `ai-for-discovery`
 
