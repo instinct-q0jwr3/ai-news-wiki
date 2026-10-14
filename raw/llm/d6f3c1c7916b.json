@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "LWN reports that Linus Torvalds, who said at the Maintainers Summit he had used an LLM on a long-standing problem, posted his first LLM-assisted series: ten patches that speed up folio lookups by delaying release of hot folios until after an RCU period so data can be read under RCU without taking refcounts. It gives an order-of-magnitude speedup on a read-heavy benchmark, though review already found a race condition so more work is needed."
+ ],
+ "highlights": [
+  "Torvalds' first LLM-assisted patch series, ten patches.",
+  "Reads folio data under RCU with no refcounts on the fast path.",
+  "Order-of-magnitude speedup on a read()-heavy benchmark.",
+  "A race condition was already found in review."
+ ],
+ "id": "d6f3c1c7916b",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

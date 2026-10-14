@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A post argues AI that can decompile games and software means anyone can reuse any program, so companies can steal from competitors and paid apps can be open-sourced against the owner's will, while it is also a big win for preservation since old games can be ported and enhanced. It follows an indie developer using AI to decompile a game. Basis: the excerpt."
+ ],
+ "highlights": [
+  "AI decompilation works on any software, not just old games.",
+  "Risks: copying competitors, open-sourcing paid software.",
+  "Benefit: preservation and porting of old games."
+ ],
+ "id": "85a3978d8e48",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

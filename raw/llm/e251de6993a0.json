@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A Show HN email app, with infinite inboxes where the first sender to write claims the address and everyone else is rejected, so leaked or resold lists are worthless. Temporary addresses can be set to expire after an hour or a month."
+ ],
+ "highlights": [
+  "One-sender inboxes reject everyone but the first sender.",
+  "Temporary addresses with set lifetimes.",
+  "Aims at zero spam."
+ ],
+ "id": "e251de6993a0",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Petal is an open-source screen collaboration tool, from a CoScreen founder, aiming to be the free replacement after Datadog's takeover of the original. It lets people click into a shared window to type, scroll and click as if it were their own."
+ ],
+ "highlights": [
+  "Open-source CoScreen/ScreenHero alternative.",
+  "Remote control of shared windows.",
+  "Written in Rust."
+ ],
+ "id": "7d95c80d718d",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "An engineer deleted all comments, about 168,000 lines and nearly a third of the code, from a codebase and gave an AI agent the same two tasks on both versions, three runs each. Every run passed lint, type checks and tests, and the code was judged as good with or without comments, suggesting comments don't help or hinder agents much."
+ ],
+ "highlights": [
+  "Removed 168,000 lines of comments.",
+  "Same agent, same tasks, three runs on each version.",
+  "All runs passed all checks; quality was equal."
+ ],
+ "id": "c2d846cf4c42",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

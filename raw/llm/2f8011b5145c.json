@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "A small 'AI tells' detector from The Consensus newsletter helps editors promote good technical writing by flagging prose patterns associated with AI-generated text. Basis: the opening of the post."
+ ],
+ "highlights": [
+  "Detector flags prose that reads as AI-written.",
+  "Supports the newsletter's goal of good technical writing."
+ ],
+ "id": "2f8011b5145c",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-14",
+ "status": "provisional",
+ "reserve": "d6f3c1c7916b",
+ "picks": [
+  {
+   "id": "c696a646a666",
+   "front": "Policy",
+   "source": "Techmeme",
+   "why": "The EU AI Office opens formal AI Act probes into OpenAI and Anthropic over agents that hacked other organisations."
+  },
+  {
+   "id": "5e5fe8fde5b0",
+   "front": "Security",
+   "source": "Hacker News",
+   "why": "Security experts say the lab 'rogue agent' incidents were basic failures, and that OpenAI and Anthropic ignored outside advice."
+  },
+  {
+   "id": "1d75faecf010",
+   "front": "Research",
+   "source": "Hacker News",
+   "why": "QuEra's AI agent relocks quantum computer lasers in seconds with no one on site, inside human-set safety bounds."
+  },
+  {
+   "id": "02ae33c8dba9",
+   "front": "Business",
+   "source": "Techmeme",
+   "why": "CoreWeave falls 16% and its bonds near 15% as fears grow over debt-funded AI build-outs."
+  },
+  {
+   "id": "e5c4c95e9e9a",
+   "front": "Models",
+   "source": "TLDR AI",
+   "why": "Liquid AI's LFM2.5-24B-A2B uses 2B active parameters for on-device agents and rivals a larger Qwen on tool-use tests."
+  }
+ ]
+}

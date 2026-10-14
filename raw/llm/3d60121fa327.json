@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Graphicle is a Rust port of Graphify that maps a repository into a code graph and remembers docs, decisions and past agent sessions, giving coding agents cited excerpts from both. It runs locally with no API key, account or telemetry and works with Claude Code, Cursor, Codex and MCP clients."
+ ],
+ "highlights": [
+  "Code graph plus project memory for coding agents.",
+  "Runs fully locally; no telemetry.",
+  "Works through MCP clients."
+ ],
+ "id": "3d60121fa327",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

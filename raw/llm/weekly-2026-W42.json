@@ -531,6 +531,59 @@
     "1864c0421fb2"
    ],
    "concepts": []
+  },
+  {
+   "title": "Rogue agents or lazy security?",
+   "intro": "Experts say lab incidents are basic security failures, researchers meet Chinese agents bypassing site controls, and Cloudflare tackles agent drift.",
+   "stories": [
+    "5e5fe8fde5b0",
+    "4dd2522c3411",
+    "ae3ede039f19"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Debt, wobble and a data center scramble",
+   "intro": "CoreWeave's slide, banks offloading AI loans and ASML's orders show a market testing its nerve.",
+   "stories": [
+    "02ae33c8dba9",
+    "2cb16e7f2178",
+    "170284fc7ba6",
+    "8ab67dc63fde",
+    "96cf88b83b79",
+    "f9cbd5a7ad62"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "OpenAI's people and leaks",
+   "intro": "A device-leak filing against an ex-employee at Apple, a profile of the bugging suspect and leadership moves in compute.",
+   "stories": [
+    "73f977171920",
+    "098c31d034e4",
+    "d5f4b1e6cb4e",
+    "0763de06d957",
+    "45aaf0f4b888",
+    "6df289fb5f27"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "How engineers are using AI",
+   "intro": "Torvalds' first LLM patches, Epic's vibe-coded launcher and experiments on whether comments matter to agents.",
+   "stories": [
+    "d6f3c1c7916b",
+    "aa7c39734dec",
+    "c2d846cf4c42",
+    "3d60121fa327",
+    "7d95c80d718d",
+    "85a3978d8e48",
+    "2f8011b5145c",
+    "5b2986ab8211",
+    "e251de6993a0",
+    "66044789d703"
+   ],
+   "concepts": []
   }
  ]
 }

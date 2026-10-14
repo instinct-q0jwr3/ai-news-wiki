@@ -726,5 +726,61 @@
   "thin": 6,
   "total": 83,
   "unreadable": 7
+ },
+ "2026-10-14": {
+  "ok": 52,
+  "paywall": 11,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "c696a646a666",
+    "minutes": 4,
+    "source": "Techmeme",
+    "title": "The EU Commission's AI Office launches formal AI Act probes into OpenAI and Anthropic over AI agent hacks; experts say the AI Act includes an R&D exemption",
+    "why": "The EU AI Office opens formal AI Act probes into OpenAI and Anthropic over agents that hacked other organisations."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "5e5fe8fde5b0",
+    "minutes": 8,
+    "source": "Hacker News",
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "why": "Security experts say the lab 'rogue agent' incidents were basic failures, and that OpenAI and Anthropic ignored outside advice."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "1d75faecf010",
+    "minutes": 26,
+    "source": "Hacker News",
+    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+    "why": "QuEra's AI agent relocks quantum computer lasers in seconds with no one on site, inside human-set safety bounds."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "02ae33c8dba9",
+    "minutes": 4,
+    "source": "Techmeme",
+    "title": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+",
+    "why": "CoreWeave falls 16% and its bonds near 15% as fears grow over debt-funded AI build-outs."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "e5c4c95e9e9a",
+    "minutes": 6,
+    "source": "TLDR AI",
+    "title": "LFM2.5-24B-A2B",
+    "why": "Liquid AI's LFM2.5-24B-A2B uses 2B active parameters for on-device agents and rivals a larger Qwen on tool-use tests."
+   }
+  ],
+  "reserve": "d6f3c1c7916b",
+  "status": "provisional",
+  "thin": 5,
+  "total": 76,
+  "unreadable": 8
  }
 }

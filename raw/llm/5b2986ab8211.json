@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "A post asks why all LLMs draw pelicans on bicycles alike, using Simon Willison's pelican SVG tests, and calls it an LLM diversity collapse problem, saying models also fall short of human designers in diversity, which its authors benchmarked in UI design."
+ ],
+ "highlights": [
+  "Pelican SVGs from different models look nearly identical.",
+  "Framed as diversity collapse in LLM creativity."
+ ],
+ "id": "5b2986ab8211",
+ "authored_at": "2026-10-14T20:09:18.715020+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
