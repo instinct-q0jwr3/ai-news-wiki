@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Jevcrawl is an open-source web crawler for AI agents in which a small decision model, not the agent's LLM, picks every link and passage, so the agent reads only what answers its question at a few cents per crawl. It avoids both reading everything a crawler fetches and letting the LLM choose each link, and installs as an MCP server with a Jev API key."
+ ],
+ "highlights": [
+  "Small decision model chooses links and passages; no LLM in the crawl loop.",
+  "Aims to cut tokens and cost to a few cents per crawl.",
+  "Installs as an MCP server for Claude Code, Desktop and Cursor."
+ ],
+ "id": "8f8da3faa202",
+ "authored_at": "2026-10-14T08:04:07.053257+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

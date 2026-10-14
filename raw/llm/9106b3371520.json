@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "The AINews issue for October 12-13 says Gemini 4 Argon went GA and most benchmarks, such as CursorBench, independently confirm Google's claims. About 20,000 joined AI Engineer NYC for keynotes on AI in finance, including Anthropic's financial services stack and Vals AI on benchmarking models like Argon. The roundup covers frontier launches Gemini 4 Argon, available via the paid API, Pro and Ultra in the Gemini app and Search, and Ultra in Antigravity, and Meta's Muse Wonder. Basis: the opening of a long, partly paid issue."
+ ],
+ "highlights": [
+  "Gemini 4 Argon is generally available and early benchmarks mostly confirm Google's claims.",
+  "AIE NYC drew about 20,000 with an AI-and-finance focus.",
+  "Rollout: API, Pro and Ultra in the Gemini app, Ultra in Antigravity."
+ ],
+ "id": "9106b3371520",
+ "authored_at": "2026-10-14T08:04:07.053257+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

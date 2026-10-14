@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A Show HN site, Blumify, tracks interviews and podcasts of AI leaders day by day, counting appearances this week and in total for people such as Musk, Amodei, Altman, Karp, Wang, LeCun, Andreessen and Nadella, with votes on who should get pages next. Basis: the site's landing page."
+ ],
+ "highlights": [
+  "Tracks what AI leaders say and how their views change.",
+  "Shows weekly and total appearance counts per person.",
+  "Visitors vote on who to add."
+ ],
+ "id": "3cc30a24c4ee",
+ "authored_at": "2026-10-14T08:04:07.053257+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

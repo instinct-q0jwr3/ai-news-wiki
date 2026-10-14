@@ -1,125 +1,65 @@
 {
- "generated_at": "2026-10-14T01:56:49+00:00",
+ "generated_at": "2026-10-14T07:57:37+00:00",
  "stories": [
   {
-   "id": "4f169295c7b5",
-   "title": "Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30",
-   "source": "Techmeme",
-   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
-  },
-  {
-   "id": "303096837f63",
-   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "id": "3cc30a24c4ee",
+   "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
    "source": "Hacker News",
-   "url": "https://pulseos.finance"
+   "url": "https://blumify.io/people"
   },
   {
-   "id": "f1e9f91f4ae5",
-   "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+   "id": "3f2175ec02d0",
+   "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
    "source": "Hacker News",
-   "url": "https://parsimony.lasu.dev/"
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
   },
   {
-   "id": "438ec3bb1d1e",
-   "title": "Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99%",
-   "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/distillation-defenses"
-  },
-  {
-   "id": "beb8dc04d2e8",
-   "title": "OpenAI employee arrested by FBI over hidden listening device, company says",
+   "id": "8f8da3faa202",
+   "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
    "source": "Hacker News",
-   "url": "https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/"
+   "url": "https://github.com/RayenMlayeh/jevcrawl"
   },
   {
-   "id": "ff310c972ca8",
-   "title": "Show HN: RSI-Anything – JEPA world models for self-improving agents",
+   "id": "692a15d75d28",
+   "title": "NetBSD may have found a new role: The AI-free FOSS OS",
    "source": "Hacker News",
-   "url": "https://github.com/Gen-Verse/RSI-Anything"
+   "url": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818"
   },
   {
-   "id": "d3ce07ba81c3",
-   "title": "web-edit 0.1a1",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/13/web-edit/"
+   "id": "d000980eb214",
+   "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+   "source": "Hacker News",
+   "url": "https://wonderhop.io/en/"
   },
   {
-   "id": "3b41429822bb",
-   "title": "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools",
+   "id": "50b286774234",
+   "title": "Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting",
    "source": "Techmeme",
-   "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology"
+   "url": "https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/"
   },
   {
-   "id": "713f3e4364c1",
-   "title": "llm-gemini 0.35",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
-  },
-  {
-   "id": "e950065fd227",
-   "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model"
-  },
-  {
-   "id": "30f458cdf7d2",
-   "title": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents",
-   "source": "Techmeme",
-   "url": "https://news.bloomberglaw.com/tech-and-telecom-law/apple-wins-early-access-to-openai-files-in-trade-secrets-suit"
-  },
-  {
-   "id": "a1e480eb6ab9",
-   "title": "OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits"
-  },
-  {
-   "id": "d0eec511fe48",
-   "title": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
-  },
-  {
-   "id": "2a2027741dc9",
-   "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+   "id": "9106b3371520",
+   "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
    "source": "Latent.Space",
-   "url": "https://www.latent.space/p/dyna"
+   "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon"
   },
   {
-   "id": "bdc00d2b5319",
-   "title": "Claude, don’t touch my lump",
-   "source": "Experimental History",
-   "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump"
-  },
-  {
-   "id": "0ed9c24c510d",
-   "title": "It remains “very difficult [to find] actual, materially measurable financial impacts” from spending on AI, per new study",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/it-remains-very-difficult-to-find"
-  },
-  {
-   "id": "a4719069fc5f",
-   "title": "llm-meta-ai 0.2",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
-  },
-  {
-   "id": "8ed8c8a63bfd",
-   "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains",
+   "id": "55c68eea024c",
+   "title": "ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing \"strong interest\" in orders for 2029 and 2030",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race"
+   "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
   },
   {
-   "id": "23dfd696285d",
-   "title": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)",
+   "id": "ae0a4d2d71e9",
+   "title": "Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed",
    "source": "Techmeme",
-   "url": "https://x.com/openainewsroom/status/2110095403198849132"
+   "url": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/"
   },
   {
-   "id": "3da5a62da182",
-   "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation",
+   "id": "e4215af79028",
+   "title": "ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€45B to €44B-€45B",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/the-prompt/2026/10/13/30-of-scientific-experiments-are-wasteful-this-startup-wants-to-use-ai-to-change-that/"
+   "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
   }
  ]
 }

@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "The Register reports NetBSD is thriving as an explicitly AI-free project: it got a record 120 donations last month totaling $120,282 against a $50,000 target. The piece ties the interest to the Linux world embracing AI, citing Torvalds saying Linux isn't an anti-AI project, Debian permitting AI-generated contributions, an AI-heavy Ubuntu Summit and a Red Hat memo on an agentic development lifecycle."
+ ],
+ "highlights": [
+  "NetBSD raised $120,282 last month against a $50,000 goal, a record 120 donations.",
+  "Interest rises among people who avoid AI-written code.",
+  "Context: Debian allowed AI contributions; Torvalds called Linux not anti-AI."
+ ],
+ "id": "692a15d75d28",
+ "authored_at": "2026-10-14T08:04:07.053257+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

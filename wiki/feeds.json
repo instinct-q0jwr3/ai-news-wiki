@@ -2,13 +2,13 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 587,
+  "stories": 591,
   "last": "2026-10-14"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 583,
+  "stories": 588,
   "last": "2026-10-14"
  },
  {
@@ -48,16 +48,16 @@
   "last": "2026-09-26"
  },
  {
+  "name": "Latent.Space",
+  "url": "https://www.latent.space/feed",
+  "stories": 29,
+  "last": "2026-10-14"
+ },
+ {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
   "stories": 28,
   "last": "2026-10-13"
- },
- {
-  "name": "Latent.Space",
-  "url": "https://www.latent.space/feed",
-  "stories": 28,
-  "last": "2026-10-14"
  },
  {
   "name": "Works on My Machine",

@@ -447,6 +447,37 @@
     "3b41429822bb"
    ],
    "concepts": []
+  },
+  {
+   "title": "ASML's order book and Argon goes GA",
+   "intro": "Chip tool demand stretches to 2030 while Google's new model reaches general availability.",
+   "stories": [
+    "e4215af79028",
+    "55c68eea024c",
+    "9106b3371520",
+    "ae0a4d2d71e9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Doubts and opt-outs",
+   "intro": "A call for international oversight, a skeptical read of Anthropic's replication warning and an AI-free OS gaining donors.",
+   "stories": [
+    "50b286774234",
+    "3f2175ec02d0",
+    "692a15d75d28",
+    "3cc30a24c4ee"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent plumbing and a small game",
+   "intro": "A crawler without an LLM in the loop and a daily guessing game.",
+   "stories": [
+    "8f8da3faa202",
+    "d000980eb214"
+   ],
+   "concepts": []
   }
  ]
 }
