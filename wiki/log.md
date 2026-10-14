@@ -184,3 +184,4 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-10-13] ingest | 335 AI stories | snapshot 20261013T195600Z
 ## [2026-10-14] ingest | 336 AI stories | snapshot 20261014T015649Z
 ## [2026-10-14] ingest | 325 AI stories | snapshot 20261014T075737Z
+## [2026-10-14] ingest | 321 AI stories | snapshot 20261014T135826Z

@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "Liquid AI releases LFM2.5-24B-A2B, a 24B reasoning model with 2B active parameters for fast, private on-device agents and the last model in the LFM2.5 family, which spans 230M to 24B. It is competitive with Qwen3.6-35B-A3B on five of eight agentic and tool-use benchmarks despite about half the size."
+ ],
+ "highlights": [
+  "24B total, 2B active parameters, aimed at on-device agents.",
+  "Final model of the LFM2.5 family.",
+  "Matches Qwen3.6-35B-A3B on five of eight agentic benchmarks."
+ ],
+ "id": "e5c4c95e9e9a",
+ "authored_at": "2026-10-14T14:02:55.989702+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

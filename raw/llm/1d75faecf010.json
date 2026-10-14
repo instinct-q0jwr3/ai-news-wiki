@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "QuEra describes using an AI agent to relock its quantum computers' lasers. When a lock breaks the machine stops, and recovery used to need one expert, sometimes at night in the lab. Under the Model Hardware Standard, which began as an Anthropic and HHMI Janelia collaboration, an agent controlling about $0.7M of hardware inside human-set safety bounds brings the lock back in seconds with no one in the building, then tuned the lock itself to a provable quality and carried the ability to a second wavelength."
+ ],
+ "highlights": [
+  "AI agent relocks lasers in seconds, with no human on site.",
+  "Runs inside human-set safety bounds on about $0.7M of hardware.",
+  "Uses the Model Hardware Standard (Anthropic and HHMI Janelia).",
+  "Aquila already exceeds 99% uptime; the goal is scalability."
+ ],
+ "id": "1d75faecf010",
+ "authored_at": "2026-10-14T14:02:55.989702+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

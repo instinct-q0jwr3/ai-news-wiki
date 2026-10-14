@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A Rust language designer writes up a talk on what agents mean for Rust and vice versa, reflecting on conferences and research such as reachability types and information borrowing. He quotes Meta engineers writing as much first-party Rust this year as the previous nine combined and Greg Brockman calling Rust perfect for agents because if it compiles it's roughly correct, while admitting existential dread about LLMs after a career in language design. Basis: the first part of a long post."
+ ],
+ "highlights": [
+  "Meta wrote twice as much first-party Rust this year as in the previous 9 years combined.",
+  "Type systems show absence of bugs, not correctness, he argues.",
+  "Author weighs agents against a career in language design."
+ ],
+ "id": "d5e8665f8c6c",
+ "authored_at": "2026-10-14T14:02:55.989702+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -2,20 +2,20 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 591,
+  "stories": 598,
   "last": "2026-10-14"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 588,
+  "stories": 592,
   "last": "2026-10-14"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 233,
-  "last": "2026-10-13"
+  "stories": 245,
+  "last": "2026-10-14"
  },
  {
   "name": "Simon Willison",
@@ -72,16 +72,16 @@
   "last": "2026-10-14"
  },
  {
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 15,
+  "last": "2026-10-14"
+ },
+ {
   "name": "Ed Zitron",
   "url": "https://www.wheresyoured.at/rss/",
   "stories": 14,
   "last": "2026-10-13"
- },
- {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
-  "stories": 14,
-  "last": "2026-10-07"
  },
  {
   "name": "Armin Ronacher",

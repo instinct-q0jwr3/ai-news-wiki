@@ -1,65 +1,155 @@
 {
- "generated_at": "2026-10-14T07:57:37+00:00",
+ "generated_at": "2026-10-14T13:58:26+00:00",
  "stories": [
   {
-   "id": "3cc30a24c4ee",
-   "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+   "id": "d5e8665f8c6c",
+   "title": "What agents mean for Rust (and vice versa)",
    "source": "Hacker News",
-   "url": "https://blumify.io/people"
+   "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/"
   },
   {
-   "id": "3f2175ec02d0",
-   "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+   "id": "7f95fbe7014e",
+   "title": "TV4 postpones show after AI agent erases edited material",
    "source": "Hacker News",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
+   "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
   },
   {
-   "id": "8f8da3faa202",
-   "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+   "id": "b170fddea70c",
+   "title": "Show HN: Building an LLM from Scratch in TypeScript",
    "source": "Hacker News",
-   "url": "https://github.com/RayenMlayeh/jevcrawl"
+   "url": "https://book.humanexperiences.io/"
   },
   {
-   "id": "692a15d75d28",
-   "title": "NetBSD may have found a new role: The AI-free FOSS OS",
+   "id": "1d75faecf010",
+   "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
    "source": "Hacker News",
-   "url": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818"
+   "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers"
   },
   {
-   "id": "d000980eb214",
-   "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-   "source": "Hacker News",
-   "url": "https://wonderhop.io/en/"
+   "id": "ef24a8b0c8d9",
+   "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+   "source": "TLDR AI",
+   "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform"
   },
   {
-   "id": "50b286774234",
-   "title": "Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting",
+   "id": "049b02c3da92",
+   "title": "Gemini 4 Argon Lands on Google Cloud",
+   "source": "TLDR AI",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud"
+  },
+  {
+   "id": "c696a646a666",
+   "title": "The EU Commission's AI Office launches formal AI Act probes into OpenAI and Anthropic over AI agent hacks; experts say the AI Act includes an R&D exemption",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/"
+   "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents"
   },
   {
-   "id": "9106b3371520",
-   "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon"
-  },
-  {
-   "id": "55c68eea024c",
-   "title": "ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing \"strong interest\" in orders for 2029 and 2030",
+   "id": "3446134ad495",
+   "title": "Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
+   "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
   },
   {
-   "id": "ae0a4d2d71e9",
-   "title": "Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed",
-   "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/"
+   "id": "089cfddba5ff",
+   "title": "OpenAI Employee Arrested Over Hidden Recording Device",
+   "source": "TLDR AI",
+   "url": "https://x.com/OpenAINewsroom/status/2110095403198849132"
   },
   {
-   "id": "e4215af79028",
-   "title": "ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€45B to €44B-€45B",
+   "id": "4dc210e73df4",
+   "title": "Introducing CLiF: Continual Learning from Full-Stack Trajectories",
+   "source": "TLDR AI",
+   "url": "https://www.copilotkit.ai/blog/introducing-clif"
+  },
+  {
+   "id": "e5c4c95e9e9a",
+   "title": "LFM2.5-24B-A2B",
+   "source": "TLDR AI",
+   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
+  },
+  {
+   "id": "ee43a0612574",
+   "title": "OpenCode 2.0",
+   "source": "TLDR AI",
+   "url": "https://anoma.ly/notes/opencode-2-0/"
+  },
+  {
+   "id": "b8338adfe1c9",
+   "title": "Ramp Glass",
+   "source": "TLDR AI",
+   "url": "https://x.com/eglyman/status/2110007713396613568"
+  },
+  {
+   "id": "87dc5b4bbb84",
+   "title": "Character.ai files for Chapter 11 bankruptcy",
+   "source": "Hacker News",
+   "url": "https://blog.character.ai/an-update-on-character-ai/"
+  },
+  {
+   "id": "2782472c71d3",
+   "title": "Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
+   "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/"
+  },
+  {
+   "id": "6989e8e0fa52",
+   "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+  },
+  {
+   "id": "56ac746d9f3a",
+   "title": "Analysis: AI safety groups and individual donors have spent $48M in the midterm election cycle across bipartisan races to back candidates favoring AI regulation",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million"
+  },
+  {
+   "id": "4cbe6f0e64a4",
+   "title": "US law enforcement and intel agency docs: since 2021, the FBI, DHS, and NYPD have viewed AI as both a facilitator of violent extremism and a target for attacks",
+   "source": "Techmeme",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism"
+  },
+  {
+   "id": "b80b3ee630d9",
+   "title": "Frontier Models for Every Robot",
+   "source": "TLDR AI",
+   "url": "https://www.pi.website/blog/api-beta"
+  },
+  {
+   "id": "c5bab2873e2a",
+   "title": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident",
+   "source": "TLDR AI",
+   "url": "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/"
+  },
+  {
+   "id": "6e56087de4e4",
+   "title": "Moondream is joining Prime Intellect",
+   "source": "TLDR AI",
+   "url": "https://www.primeintellect.ai/blog/moondream"
+  },
+  {
+   "id": "a7db58bba037",
+   "title": "Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week"
+  },
+  {
+   "id": "e626ec6a5595",
+   "title": "Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/10/14/harmonic-security-raises-50m-to-govern-how-employees-use-ai-tools/"
+  },
+  {
+   "id": "d9c5e7c2346b",
+   "title": "PSA: Starting today, GPT 6.1 Sol has a default context window of 500k",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2109543080609165508.html"
+  },
+  {
+   "id": "75b4938056ab",
+   "title": "Apple HomeView, The New Apple TV, The App Story",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/"
   }
  ]
 }

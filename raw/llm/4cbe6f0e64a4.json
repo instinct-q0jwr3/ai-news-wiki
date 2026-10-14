@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "The Guardian reports on previously unreported US law enforcement and intelligence documents showing that since 2021 the FBI, DHS and NYPD have treated AI as both a tool and a target of would-be terrorists. One example is the May 2025 Palm Springs fertility clinic car bombing, where the suspect used a generative AI tool that failed to catch his request for bomb-making instructions. The documents also warn about anti-AI extremist threats. Basis: the opening of the article."
+ ],
+ "highlights": [
+  "Documents show agencies see AI as a facilitator of violent extremism and a target of it.",
+  "Palm Springs 2025 bombing involved an AI tool that missed a bomb-making request.",
+  "Warnings include anti-tech extremist threats."
+ ],
+ "id": "4cbe6f0e64a4",
+ "authored_at": "2026-10-14T14:02:55.989702+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
