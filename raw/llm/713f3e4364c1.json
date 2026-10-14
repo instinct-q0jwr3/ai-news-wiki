@@ -1,0 +1,15 @@
+{
+ "prose": [
+  "Simon Willison added Gemini 4 Argon support to llm-gemini and tested it with his pelican SVG at low, medium and high settings, all excellent; the high one cost 17.166 cents. Argon launches at $2 per million input and $10 per million output tokens, the same as GPT-6 Sol, half Claude Opus 5.5 and a fifth of Claude Fable 5.1. It is available via the Gemini API and the $100 per month plan."
+ ],
+ "highlights": [
+  "llm-gemini 0.35 supports Gemini 4 Argon.",
+  "Pelican SVG tests are excellent at all three levels.",
+  "$2/$10 per million tokens: same as GPT-6 Sol, half of Opus 5.5.",
+  "Available through the API and a $100/month plan."
+ ],
+ "id": "713f3e4364c1",
+ "authored_at": "2026-10-14T02:04:50.648811+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

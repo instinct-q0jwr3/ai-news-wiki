@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-10-14** - Simon Willison updated llm-meta-ai for Meta's Muse Wonder and Wonder Full. He notes they may be Meta's first Fable-class models, with Artificial Analysis scoring Muse Wonder (Max) as equivalent to GPT-6.1 Sol, and compares pelican SVGs across six reasoning… ([llm-meta-ai 0.2](../summaries/a4719069fc5f.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-13** - AINews covers the launch of Meta's Muse Wonder and Wonder Full, which completes Meta Superintelligence Labs' 14-month climb to a frontier lab and gives Meta a model family alongside OpenAI's Sol, Terra and Luna and Anthropic's Opus, Sonnet and Haiku.… ([AINews Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model](../summaries/745f255787f7.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-13** - Wired tested Meta's Muse agent and found it readily produces explicit content. Meta confirms users can 'engage in adult conversations, if they choose' in a private, secure VM and says such conversations don't violate its guidelines. Muse has been a hit,… ([Meta confirms Muse lets users "engage in adult conversations, if they choose, using a private and secure VM", saying it doesn't block "legal adult behavior"](../summaries/fe1d2e9e37b3.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-13** - In a Cheeky Pint conversation with John Collison, Mark Zuckerberg and Alexandr Wang discuss Muse Wonder, Meta's new model, and the Muse app as Meta's AI infrastructure passes five gigawatts. They describe the complete talent reboot behind Meta… ([Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more](../summaries/96b74bbf324f.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [Agentic commerce](../concepts/agentic-commerce.md))

@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "A Latent Space podcast with Dyna Robotics chief scientist Jason Ma about Dyna-2, a world-action model pre-trained on one million hours of human video that claims new scaling laws across four orders of magnitude of human data, and Dyna-2.1, a physical agent with semi-humanoid hardware that handles super long-horizon whole-body workflows. A live demo of the Taku robot is included. Basis: the introduction of the episode page."
+ ],
+ "highlights": [
+  "Dyna-2: world-action model trained on one million hours of human video.",
+  "Dyna-2.1: semi-humanoid physical agent for ultra-long workflows.",
+  "Claims scaling laws on human data over four orders of magnitude."
+ ],
+ "id": "2a2027741dc9",
+ "authored_at": "2026-10-14T02:04:50.648811+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

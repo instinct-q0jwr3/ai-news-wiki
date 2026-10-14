@@ -1,0 +1,13 @@
+{
+ "prose": [
+  "Anthropic's post 'Strengthening our defenses against distillation attacks' is discussed on Hacker News; it reports that new measures such as preserved thinking cut data harvested by distillers by about 90 to 99 percent. See the earlier summary of the same announcement. Basis: the HN headline."
+ ],
+ "highlights": [
+  "Anthropic reports new defenses against distillation attacks.",
+  "Early evidence: 90-99% less harvested data."
+ ],
+ "id": "d46295ac1ac4",
+ "authored_at": "2026-10-14T02:04:50.648811+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

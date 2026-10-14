@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-14** - The Information looks at OpenAI's safety concerns over loop transformers ahead of shipping its next major model. Basis: the Techmeme headline and excerpt; the article was not readable. ([A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique](../summaries/e950065fd227.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
 - **2026-10-13** - Launch HN: Consus (YC F24) is an LLM gateway that routes AI requests to infrastructure compliant with ITAR restrictions and controlled unclassified information rules, for companies handling sensitive data. Basis: the founder's opening post. ([Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](../summaries/282b815f1ec0.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-13** - Microsoft introduced the Maia 300 AI chip; see the Reuters report on racks of 96 chips and multi-gigawatt deployments. Basis: the TLDR AI headline; the page text was not readable. ([Microsoft Introduced the Maia 300 AI Chip](../summaries/99ea8f5a8e2f.md) · [Microsoft](../entities/microsoft.md)) ⚠
 - **2026-10-12** - A Bloomberg analysis estimates a 1GW AI data center in Abilene, Texas could cost about $30B, including $17B on chips, $3B on power and $2.4B on construction, against roughly $750B of hyperscaler spending. The article is paywalled. Basis: the Techmeme… ([Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction](../summaries/9bc8a3a3f0bc.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒

@@ -1,0 +1,12 @@
+{
+ "prose": [
+  "Parsimony is an open-source benchmark that measures how much extra code AI models add, penalizing excess code that solve-rate benchmarks ignore. Basis: only the Show HN note and a code snippet."
+ ],
+ "highlights": [
+  "Parsimony is an open-source benchmark that measures how much extra code AI models add, penalizing excess code that solve-rate benchmarks ignore."
+ ],
+ "id": "f1e9f91f4ae5",
+ "authored_at": "2026-10-14T02:04:50.648811+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

@@ -1,167 +1,125 @@
 {
- "generated_at": "2026-10-13T19:56:00+00:00",
+ "generated_at": "2026-10-14T01:56:49+00:00",
  "stories": [
   {
-   "id": "ea5d97dbc2d2",
-   "title": "Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+",
+   "id": "4f169295c7b5",
+   "title": "Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
   },
   {
-   "id": "87dc5b4bbb84",
-   "title": "Character.ai files for Chapter 11 bankruptcy",
+   "id": "303096837f63",
+   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
    "source": "Hacker News",
-   "url": "https://blog.character.ai/an-update-on-character-ai/"
+   "url": "https://pulseos.finance"
   },
   {
-   "id": "34a9256167f9",
-   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "id": "f1e9f91f4ae5",
+   "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
    "source": "Hacker News",
-   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+   "url": "https://parsimony.lasu.dev/"
   },
   {
-   "id": "d5d325eacb51",
-   "title": "Gemini 4 Argon for Robotics",
-   "source": "Hacker News",
-   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
-  },
-  {
-   "id": "d500d57460ae",
-   "title": "How to engineer an AI harness for game development",
-   "source": "Hacker News",
-   "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
-  },
-  {
-   "id": "b8fc1a87e8ae",
-   "title": "Scientists wonder: Is my AI stealing my ideas?",
-   "source": "Hacker News",
-   "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/"
-  },
-  {
-   "id": "282b815f1ec0",
-   "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50073471"
-  },
-  {
-   "id": "125272a873dc",
-   "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
-   "source": "Hacker News",
-   "url": "https://github.com/maharshi365/deslop"
-  },
-  {
-   "id": "fc7654a6d1e7",
-   "title": "Jev handed our LLM the wrong page a tenth as often as our embeddings",
-   "source": "Hacker News",
-   "url": "https://sayora.ai/many-hands/jev-vs-embeddings/"
-  },
-  {
-   "id": "cfc5f40e4a6c",
-   "title": "How 94 internet-famous engineers use coding agents",
-   "source": "Hacker News",
-   "url": "https://www.prehistoriq.com/stacks/"
-  },
-  {
-   "id": "fd97403228ee",
-   "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-   "source": "Hacker News",
-   "url": "https://github.com/LargeModGames/spotatui"
-  },
-  {
-   "id": "663f80865c7c",
-   "title": "FrontierML: A challenging, end-to-end machine learning benchmark",
-   "source": "Hacker News",
-   "url": "https://www.frontierml.org/blog/"
-  },
-  {
-   "id": "d755080dedb4",
-   "title": "AI 3D Prints: Are Claude's Defaults Enough?",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg"
-  },
-  {
-   "id": "1f0665bbbda7",
-   "title": "Google DeepMind paper trains an agent to rewrite its own harness",
-   "source": "Hacker News",
-   "url": "https://runtimewire.com/article/google-deepmind-evo2-agent-harness-co-evolution"
-  },
-  {
-   "id": "fc434d6fa73a",
-   "title": "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months",
+   "id": "438ec3bb1d1e",
+   "title": "Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99%",
    "source": "Techmeme",
-   "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
+   "url": "https://www.anthropic.com/research/distillation-defenses"
   },
   {
-   "id": "4cb78890354c",
-   "title": "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
-  },
-  {
-   "id": "b89b367d94b4",
-   "title": "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network",
-   "source": "Techmeme",
-   "url": "https://daringfireball.net/"
-  },
-  {
-   "id": "f038991ae03b",
-   "title": "self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2"
-  },
-  {
-   "id": "ceedff75c2fc",
-   "title": "Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
-  },
-  {
-   "id": "705552ee1cd1",
-   "title": "Annualized Enron Rate",
-   "source": "Ed Zitron",
-   "url": "https://www.wheresyoured.at/annualized-enron-rate/"
-  },
-  {
-   "id": "030e89e2c99e",
-   "title": "Apple HomeView",
-   "source": "Daring Fireball",
-   "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
-  },
-  {
-   "id": "0e9dc04a20b9",
-   "title": "Scuba, which is building a \"context engine\" designed to serve as a shared memory hub for human workers and AI agents, raised $34M across pre-seed and seed",
-   "source": "Techmeme",
-   "url": "https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba"
-  },
-  {
-   "id": "5e28d56aa520",
-   "title": "Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10"
-  },
-  {
-   "id": "fc5b4c9da6ea",
-   "title": "Running RAG with a (small) language model in the browser",
-   "source": "Lobsters",
-   "url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/"
-  },
-  {
-   "id": "61a00b937df0",
-   "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+   "id": "beb8dc04d2e8",
+   "title": "OpenAI employee arrested by FBI over hidden listening device, company says",
    "source": "Hacker News",
-   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+   "url": "https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/"
   },
   {
-   "id": "50ea585312e9",
-   "title": "Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+   "id": "ff310c972ca8",
+   "title": "Show HN: RSI-Anything – JEPA world models for self-improving agents",
+   "source": "Hacker News",
+   "url": "https://github.com/Gen-Verse/RSI-Anything"
   },
   {
-   "id": "5adb584ec645",
-   "title": "Anthropic co-founder Jack Clark says \"I now think it's more likely we'll see full RSI become possible in 2027\", earlier than his previous prediction of 2028",
+   "id": "d3ce07ba81c3",
+   "title": "web-edit 0.1a1",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/13/web-edit/"
+  },
+  {
+   "id": "3b41429822bb",
+   "title": "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools",
    "source": "Techmeme",
-   "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi"
+   "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology"
+  },
+  {
+   "id": "713f3e4364c1",
+   "title": "llm-gemini 0.35",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
+  },
+  {
+   "id": "e950065fd227",
+   "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model"
+  },
+  {
+   "id": "30f458cdf7d2",
+   "title": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents",
+   "source": "Techmeme",
+   "url": "https://news.bloomberglaw.com/tech-and-telecom-law/apple-wins-early-access-to-openai-files-in-trade-secrets-suit"
+  },
+  {
+   "id": "a1e480eb6ab9",
+   "title": "OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits"
+  },
+  {
+   "id": "d0eec511fe48",
+   "title": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
+  },
+  {
+   "id": "2a2027741dc9",
+   "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/dyna"
+  },
+  {
+   "id": "bdc00d2b5319",
+   "title": "Claude, don’t touch my lump",
+   "source": "Experimental History",
+   "url": "https://www.experimental-history.com/p/claude-dont-touch-my-lump"
+  },
+  {
+   "id": "0ed9c24c510d",
+   "title": "It remains “very difficult [to find] actual, materially measurable financial impacts” from spending on AI, per new study",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/it-remains-very-difficult-to-find"
+  },
+  {
+   "id": "a4719069fc5f",
+   "title": "llm-meta-ai 0.2",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
+  },
+  {
+   "id": "8ed8c8a63bfd",
+   "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race"
+  },
+  {
+   "id": "23dfd696285d",
+   "title": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)",
+   "source": "Techmeme",
+   "url": "https://x.com/openainewsroom/status/2110095403198849132"
+  },
+  {
+   "id": "3da5a62da182",
+   "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation",
+   "source": "Techmeme",
+   "url": "https://www.forbes.com/sites/the-prompt/2026/10/13/30-of-scientific-experiments-are-wasteful-this-startup-wants-to-use-ai-to-change-that/"
   }
  ]
 }

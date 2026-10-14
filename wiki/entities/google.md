@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-14** - Simon Willison added Gemini 4 Argon support to llm-gemini and tested it with his pelican SVG at low, medium and high settings, all excellent; the high one cost 17.166 cents. Argon launches at $2 per million input and $10 per million output tokens, the same… ([llm-gemini 0.35](../summaries/713f3e4364c1.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-13** - Google DeepMind's page for Gemini 4 Argon for robotics says the model is a step change in physical understanding, code generation and visual-semantic reasoning. On the ERQA embodied-reasoning benchmark it scores 87% with pure reasoning, which Google says… ([Gemini 4 Argon for Robotics](../summaries/d5d325eacb51.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-13** - Launch HN: Consus (YC F24) is an LLM gateway that routes AI requests to infrastructure compliant with ITAR restrictions and controlled unclassified information rules, for companies handling sensitive data. Basis: the founder's opening post. ([Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](../summaries/282b815f1ec0.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-13** - Google DeepMind researchers published Evo2, a framework that trains an agent to improve the software harness around its model while also training the policy that edits and evaluates the harness, using edits and evaluation traces as training data. The… ([Google DeepMind paper trains an agent to rewrite its own harness](../summaries/1f0665bbbda7.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))

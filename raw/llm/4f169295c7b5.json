@@ -1,0 +1,17 @@
+{
+ "prose": [
+  "Federal prosecutors say an OpenAI engineer, Abdulrahman Alfozan, a 35-year-old Saudi national employed since July 2025, hid an audio recorder in an executive conference room at the San Francisco headquarters. He was arrested Friday, charged with using or attempting to use a device to intercept oral communications, and remains in custody. A device plugged into the back of a television was found on September 30, and an unattended bag held his wallet, ID and a second recorder (San Francisco Standard).",
+  "OpenAI's own statement says it found the device, used its models to analyze it and trace it to an employee who planted it days earlier, referred it to the FBI and fired him. It says there is no indication of access to model weights, source code or customer data, and presents the case as an example of AI helping with security."
+ ],
+ "highlights": [
+  "OpenAI engineer charged with bugging an executive conference room.",
+  "Device found September 30 plugged into a TV; a bag held a second recorder and his ID.",
+  "Arrested Friday; charged with intercepting oral communications.",
+  "OpenAI says it used its models to trace the device and saw no sign of model weights or data being accessed.",
+  "Employee terminated; FBI investigation continues."
+ ],
+ "id": "4f169295c7b5",
+ "authored_at": "2026-10-14T02:04:50.648811+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

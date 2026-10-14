@@ -1,0 +1,1 @@
+{"url": "https://parsimony.lasu.dev/", "fetched_at": "2026-10-14T02:03:01.658908+00:00", "status": "thin", "note": "extracted text under 400 chars", "text": "def has_negative(values): found = False for value in values: if value < 0: found = True return found"}

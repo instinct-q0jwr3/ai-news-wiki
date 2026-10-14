@@ -1,6 +1,6 @@
 # Concept: The frontier model price war
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
 
 `concept` `ai-price-war`
 
@@ -16,10 +16,11 @@ Frontier labs keep cutting token prices while launching ever pricier top tiers. 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [TypeSafe](../entities/typesafe.md)
+[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md) · [Google Gemini](../entities/gemini.md)
 
 ## Timeline
 
+- **2026-10-14** - Simon Willison added Gemini 4 Argon support to llm-gemini and tested it with his pelican SVG at low, medium and high settings, all excellent; the high one cost 17.166 cents. Argon launches at $2 per million input and $10 per million output tokens, the same… ([llm-gemini 0.35](../summaries/713f3e4364c1.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-08** - Anthropic shipped Claude Haiku 5.5, its first Haiku update in about a year, priced to match OpenAI's GPT-6 Luna - and cut prices on Sonnet 5.5 and its subscription plans the same day. Anthropic calls it the cheapest, fastest and most capable small model it… ([AINews Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing](../summaries/78ea8a82d97d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-07** - Anthropic launches Claude Haiku 5.5, which it calls its cheapest, fastest and most capable small model. It is aimed at high-volume, cost-sensitive work such as summaries, compaction, database queries and classification, and at speed-sensitive uses like… ([Claude Haiku 5.5](../summaries/2adffa3ad247.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-07** - HN Simulator is a pointless but mostly-exact clone of the Hacker News front page, down to the 'new | past | comments | lists | submit' chrome - except every story, points count, username and comment tally is invented. The simulated front page riffs on the… ([Show HN: Pointless but mostly-exact clone of Hacker News](../summaries/41be746a8d7e.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [The frontier model price war](../concepts/ai-price-war.md))

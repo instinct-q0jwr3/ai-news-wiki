@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-10-14** - Simon Willison added Gemini 4 Argon support to llm-gemini and tested it with his pelican SVG at low, medium and high settings, all excellent; the high one cost 17.166 cents. Argon launches at $2 per million input and $10 per million output tokens, the same… ([llm-gemini 0.35](../summaries/713f3e4364c1.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-13** - Google DeepMind's page for Gemini 4 Argon for robotics says the model is a step change in physical understanding, code generation and visual-semantic reasoning. On the ERQA embodied-reasoning benchmark it scores 87% with pure reasoning, which Google says… ([Gemini 4 Argon for Robotics](../summaries/d5d325eacb51.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-13** - Google DeepMind researchers published Evo2, a framework that trains an agent to improve the software harness around its model while also training the policy that edits and evaluates the harness, using edits and evaluation traces as training data. The… ([Google DeepMind paper trains an agent to rewrite its own harness](../summaries/1f0665bbbda7.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-13** - Google launches Gemini 4 Argon globally via the Gemini API and to Pro and Ultra subscribers in the Gemini app and Search AI mode, and says it competes with the best after months of trailing. It claims Argon beats GPT-6 Astra, Claude Fable 5.1 and Claude… ([Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users](../summaries/50ea585312e9.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

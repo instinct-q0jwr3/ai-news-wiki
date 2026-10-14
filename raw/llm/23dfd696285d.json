@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "OpenAI's newsroom post says it discovered a sophisticated recording device hidden in one of its offices, used its models to understand it and identify the employee who planted it, referred the matter to the FBI and fired the employee. It says it has no indication of access to model weights, source code or customer data."
+ ],
+ "highlights": [
+  "OpenAI found a hidden recording device and traced it with its models.",
+  "Employee terminated; FBI arrested him.",
+  "No indication of weights, source code or customer data accessed."
+ ],
+ "id": "23dfd696285d",
+ "authored_at": "2026-10-14T02:04:50.648811+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}

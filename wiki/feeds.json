@@ -1,15 +1,15 @@
 [
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 579,
-  "last": "2026-10-13"
- },
- {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 578,
-  "last": "2026-10-13"
+  "stories": 587,
+  "last": "2026-10-14"
+ },
+ {
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 583,
+  "last": "2026-10-14"
  },
  {
   "name": "TLDR AI",
@@ -20,8 +20,8 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 51,
-  "last": "2026-10-13"
+  "stories": 54,
+  "last": "2026-10-14"
  },
  {
   "name": "Lobsters",
@@ -56,8 +56,8 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 27,
-  "last": "2026-10-13"
+  "stories": 28,
+  "last": "2026-10-14"
  },
  {
   "name": "Works on My Machine",
@@ -68,8 +68,8 @@
  {
   "name": "Marcus on AI",
   "url": "https://garymarcus.substack.com/feed",
-  "stories": 17,
-  "last": "2026-10-10"
+  "stories": 18,
+  "last": "2026-10-14"
  },
  {
   "name": "Ed Zitron",
@@ -156,6 +156,12 @@
   "last": "2026-09-26"
  },
  {
+  "name": "Experimental History",
+  "url": "https://www.experimental-history.com/feed",
+  "stories": 1,
+  "last": "2026-10-14"
+ },
+ {
   "name": "Westenberg",
   "url": "https://www.joanwestenberg.com/feed",
   "stories": 1,
@@ -166,12 +172,6 @@
   "url": "https://xeiaso.net/blog.rss",
   "stories": 1,
   "last": "2026-09-26"
- },
- {
-  "name": "Experimental History",
-  "url": "https://www.experimental-history.com/feed",
-  "stories": 0,
-  "last": ""
  },
  {
   "name": "matklad",

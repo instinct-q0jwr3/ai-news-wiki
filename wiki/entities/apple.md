@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-13 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-14** - Pulse Local is a Mac budgeting app in beta for Apple Silicon whose chat answers from your own figures using AI models that run entirely on your machine, so neither the ledger nor your questions leave the device. It contrasts with apps that send questions… ([Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../summaries/303096837f63.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Hugging Face](../entities/hugging-face.md) · [Qwen](../entities/qwen.md) · [Small and specialist models](../concepts/small-specialist-models.md))
+- **2026-10-14** - In Apple v. OpenAI, a US judge partly granted Apple's motion for expedited discovery over alleged trade-secret theft tied to OpenAI's consumer hardware. Judge Edward Davila cited a risk that forensic evidence on poached engineers' devices could be… ([Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents](../summaries/30f458cdf7d2.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md))
 - **2026-10-13** - Spotatui, a revived Spotify terminal and desktop client, now works without Spotify's web API rate limits and supports other sources: YouTube, Subsonic/Navidrome, internet radio, local files, Qobuz and Apple Music on macOS, with Spotify Premium needed only… ([Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](../summaries/fd97403228ee.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-13** - Apple introduced HomeView, a smart home hub with a 7-inch Liquid Retina display powered by Apple Intelligence and Siri AI. It brings music, FaceTime, home monitoring and hands-free automation together, and recognizes users by their face so each person can… ([Apple HomeView](../summaries/030e89e2c99e.md) · [Apple](../entities/apple.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-13** - Gruber notes Apple says HomeView's facial recognition works only if users have a registered personal device with Apple Intelligence, per Apple's announcement, tying the hub's personalization to people's own iPhones. Basis: the Techmeme excerpt and the… ([Apple says HomeView's facial recognition works only if users have a "registered personal device" with Apple Intelligence and Siri AI on the same Wi-Fi network](../summaries/b89b367d94b4.md) · [Apple](../entities/apple.md))

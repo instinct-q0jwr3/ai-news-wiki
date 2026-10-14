@@ -1,0 +1,14 @@
+{
+ "prose": [
+  "RSI-Anything is an open-source framework that uses JEPA world models for recursive self-improvement: candidates are generated, the world model predicts consequences to guide selection, an external evaluator scores the chosen action, and the system learns from the result. The paper applies the same cycle to code repair, GUI interaction, lab planning, reaction optimization and immune science."
+ ],
+ "highlights": [
+  "Domain-general loop: propose, predict, evaluate, learn.",
+  "Built on JEPA-Anything world models.",
+  "Applied to code repair, GUI use, lab planning, reaction optimization and immune science."
+ ],
+ "id": "ff310c972ca8",
+ "authored_at": "2026-10-14T02:04:50.648811+00:00",
+ "model": "agent-pass",
+ "schema": 1
+}
