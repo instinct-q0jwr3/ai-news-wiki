@@ -1,0 +1,14 @@
+{
+ "id": "25007256682f",
+ "authored_at": "2026-10-15T02:11:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A solo developer describes a week of running a small team of agent bots on a Linux server and handing them jobs. He has a support bot that answers customer email through Gmail, an engineer bot that writes code, and a security bot that watches Cloudflare and server logs for anything odd.",
+  "What won him over was the bots working with each other: in one case they fixed a customer's bug without him stepping in. He sees this as most useful for a solo founder, where small tasks pile up. It is a personal account of one setup, not an evaluation."
+ ],
+ "highlights": [
+  "Solo founder runs support, engineering and security bots on one server.",
+  "The bots coordinated to fix a customer bug without him."
+ ]
+}

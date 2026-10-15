@@ -1,0 +1,14 @@
+{
+ "id": "520adb616cc4",
+ "authored_at": "2026-10-15T02:11:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An engineer who helped build Meta's Mononoke source control server argues that Anthropic's new version-control system Scion copies the 'derived data' idea Mononoke used to speed up operations such as blame. He compares Anthropic's description with his own 2022 write-up.",
+  "His complaint is about credit: Anthropic mentioned Sapling's lessons but not Mononoke, and the post reads as if Claude designed it all. He says it borders on plagiarism. This is one engineer's view."
+ ],
+ "highlights": [
+  "Ex-Meta engineer says Scion's derived-data design mirrors Mononoke.",
+  "He says Anthropic's credit is inadequate."
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "8725334291b6",
+ "authored_at": "2026-10-15T02:11:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison asked Claude Opus 5.5 in the phone app to build a three.js game called Tree Appreciator, in which you compare two procedurally generated trees. After about three hours of work it returned a cozy spot-the-difference game with music, animation and achievements.",
+  "His takeaway is a little embarrassing to him: telling the model to make sure it is fun works better than it should."
+ ],
+ "highlights": [
+  "Claude built a tree-comparison browser game in about three hours.",
+  "Asking for 'fun' worked surprisingly well."
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "caf976f8ea55",
+ "authored_at": "2026-10-15T02:11:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bank of America's CEO Brian Moynihan told CNBC that the bank put 1,000 contractors on patching work in the second quarter, after frontier models such as Anthropic's Mythos made software flaws easier to find. They remain on the job, on top of about 3,000 people already in that area.",
+  "He called the risk real and said the bank spent a couple hundred million dollars or more on remediation, a figure that also covers regulatory work on anti-money-laundering. So the number is not the cost of Mythos-related patching alone."
+ ],
+ "highlights": [
+  "1,000 contractors added in Q2 to patch AI-exposed software flaws, still in place.",
+  "Spending figure is mixed with anti-money-laundering work."
+ ]
+}

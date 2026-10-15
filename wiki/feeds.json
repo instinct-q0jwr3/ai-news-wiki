@@ -1,15 +1,15 @@
 [
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 608,
-  "last": "2026-10-14"
- },
- {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 604,
-  "last": "2026-10-14"
+  "stories": 615,
+  "last": "2026-10-15"
+ },
+ {
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 614,
+  "last": "2026-10-15"
  },
  {
   "name": "TLDR AI",
@@ -20,14 +20,14 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 55,
-  "last": "2026-10-14"
+  "stories": 56,
+  "last": "2026-10-15"
  },
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 46,
-  "last": "2026-10-13"
+  "stories": 47,
+  "last": "2026-10-15"
  },
  {
   "name": "Pluralistic",
@@ -50,14 +50,14 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 29,
-  "last": "2026-10-14"
+  "stories": 31,
+  "last": "2026-10-15"
  },
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 28,
-  "last": "2026-10-13"
+  "stories": 29,
+  "last": "2026-10-15"
  },
  {
   "name": "Works on My Machine",
@@ -68,8 +68,8 @@
  {
   "name": "Marcus on AI",
   "url": "https://garymarcus.substack.com/feed",
-  "stories": 18,
-  "last": "2026-10-14"
+  "stories": 19,
+  "last": "2026-10-15"
  },
  {
   "name": "Stratechery",

@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-15 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,10 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-15** - Basis: headline only, the source could not be fetched. Techmeme reports Apple closed above a $5T market cap for the first time, the second company after Nvidia to do so. ([Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously](../summaries/73a2e8205861.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md)) 🔒
+- **2026-10-15** - Basis: headline only, the source could not be fetched. The headline says OpenAI agrees not to use trade secrets Apple claims were stolen while their lawsuit proceeds. ([OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices](../summaries/c66afb513e3c.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
+- **2026-10-15** - Basis: headline only, the source could not be fetched. Sources say Apple plans to launch Apple Intelligence in China in December via iOS 27.3. The rest of the headline was cut off and is unread. ([Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI](../summaries/7a7c62482e24.md) · [Apple](../entities/apple.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
+- **2026-10-15** - YouTube Music is rolling out labels for songs made with generative AI, shown on the player page and extending to the main YouTube app. Tapping the label explains the role AI played in the track. ([YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add "Made With AI" labels later this year](../summaries/d652edda770e.md) · [Apple](../entities/apple.md))
 - **2026-10-14** - OpenAI claims a former employee who left for Apple sent secret information about an unreleased device. Basis: the HN headline; see the Reuters filing item. ([OpenAI claims employee sent secret device information to Apple](../summaries/098c31d034e4.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md)) 🔒
 - **2026-10-14** - A filing says OpenAI alleges a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product (Reuters). Basis: the Techmeme headline and excerpt. ([Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership](../summaries/73f977171920.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md)) ⚠
 - **2026-10-14** - Stratechery's piece on the official Apple HomeView and new Apple TV asks how big the market is for expensive devices built on subpar AI. Most of it is behind the Stratechery Plus paywall. Basis: the free summary line. ([Apple HomeView, The New Apple TV, The App Story](../summaries/75b4938056ab.md) · [Apple](../entities/apple.md))

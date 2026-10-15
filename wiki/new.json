@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T19:59:18+00:00",
+ "generated_at": "2026-10-15T02:00:07+00:00",
  "stories": [
   {
    "id": "5e5fe8fde5b0",
@@ -8,142 +8,148 @@
    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
   },
   {
-   "id": "55c68eea024c",
-   "title": "ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing \"strong interest\" in orders for 2029 and 2030",
+   "id": "7187d63570cf",
+   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+   "source": "Hacker News",
+   "url": "https://typesafe.ai/blog/jev-1-14"
+  },
+  {
+   "id": "e5c4c95e9e9a",
+   "title": "LFM2.5-24B-A2B",
+   "source": "TLDR AI",
+   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
+  },
+  {
+   "id": "25007256682f",
+   "title": "I let an AI run my startup for a week",
+   "source": "Hacker News",
+   "url": "https://daily.tinyprojects.dev/221"
+  },
+  {
+   "id": "8fdba7690118",
+   "title": "Ask HN: CAD for wood working with LLM support?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50067325"
+  },
+  {
+   "id": "caf976f8ea55",
+   "title": "Bank of America hired 1000 contractors to patch software flaws exposed by Mythos",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
+  },
+  {
+   "id": "250ca1bd04c3",
+   "title": "Anthropic revenue jumps to $16.8B in third quarter",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b"
+  },
+  {
+   "id": "a214db48dc99",
+   "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+   "source": "Hacker News",
+   "url": "https://timurschess.com"
+  },
+  {
+   "id": "396df82f898f",
+   "title": "ICE Wants to Use AI to Monitor Detainee Calls and Movements",
+   "source": "Hacker News",
+   "url": "https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees"
+  },
+  {
+   "id": "dcd38eb2144d",
+   "title": "Chaos ensues when AI interviewer meets AI interviewee",
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"
+  },
+  {
+   "id": "a991d1d72cac",
+   "title": "How I manage persistent Claude Code loops: Spool",
+   "source": "Hacker News",
+   "url": "https://github.com/enes-alatas/spool"
+  },
+  {
+   "id": "7293dabafc3e",
+   "title": "Bank of America added 1k contractors to patch AI-exposed software flaws",
+   "source": "Hacker News",
+   "url": "https://runtimewire.com/article/bank-of-america-mythos-contractors-software-patching"
+  },
+  {
+   "id": "745db82938e7",
+   "title": "Nvidia reportedly halts GeForce RTX 5090 production",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship"
+  },
+  {
+   "id": "ecdd1b367f87",
+   "title": "The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room",
+   "source": "Daring Fireball",
+   "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
+  },
+  {
+   "id": "6d1f56065874",
+   "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed"
+  },
+  {
+   "id": "73a2e8205861",
+   "title": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
+   "url": "https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056?st=QWCZ5d"
   },
   {
-   "id": "5b2986ab8211",
-   "title": "Why do LLM pelicans look like this?",
-   "source": "Hacker News",
-   "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
-  },
-  {
-   "id": "d6f3c1c7916b",
-   "title": "Linus Torvalds's first LLM-assisted patch series",
-   "source": "Hacker News",
-   "url": "https://lwn.net/Articles/1100449/"
-  },
-  {
-   "id": "2cb16e7f2178",
-   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-   "source": "Hacker News",
-   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
-  },
-  {
-   "id": "2f8011b5145c",
-   "title": "Has AI Tells",
-   "source": "Hacker News",
-   "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
-  },
-  {
-   "id": "e251de6993a0",
-   "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-   "source": "Hacker News",
-   "url": "https://clova.email/"
-  },
-  {
-   "id": "c2d846cf4c42",
-   "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
-   "source": "Hacker News",
-   "url": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/"
-  },
-  {
-   "id": "7d95c80d718d",
-   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-   "source": "Hacker News",
-   "url": "https://petal.live/"
-  },
-  {
-   "id": "3d60121fa327",
-   "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-   "source": "Hacker News",
-   "url": "https://github.com/graphicle-ai/graphicle"
-  },
-  {
-   "id": "098c31d034e4",
-   "title": "OpenAI claims employee sent secret device information to Apple",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a"
-  },
-  {
-   "id": "73f977171920",
-   "title": "Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/"
-  },
-  {
-   "id": "f9cbd5a7ad62",
-   "title": "More Money Than They Ever Imagined–and No Clue How to Spend It",
-   "source": "Hacker News",
-   "url": "https://www.wsj.com/tech/ai/ai-tech-anthropic-openai-ipo-0a9da59e"
-  },
-  {
-   "id": "ae3ede039f19",
-   "title": "AI agent behavior drift analysis with Cloudflare Clef",
-   "source": "Hacker News",
-   "url": "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef"
-  },
-  {
-   "id": "aa7c39734dec",
-   "title": "Epic unveils a refresh of its Epic Games Launcher for PC in preview, saying that the new version is \"vibe coded\" and \"way faster\", and now supports Linux",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux"
-  },
-  {
-   "id": "96cf88b83b79",
-   "title": "Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital",
-   "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/10/14/salience-labs-raises-125m-in-funding-after-showcasing-worlds-most-advanced-fully-optical-circuit-switching-tech/"
-  },
-  {
-   "id": "66044789d703",
-   "title": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min",
-   "source": "Techmeme",
-   "url": "https://x.ai/news/grok-voice-3"
-  },
-  {
-   "id": "8ab67dc63fde",
-   "title": "AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/14/modal-accel-ai-infrastructure"
-  },
-  {
-   "id": "45aaf0f4b888",
-   "title": "OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/openai-names-uday-ruddarraju-to-lead-data-center-computing-unit?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTk5Mzc2MSwiZXhwIjoxNzkyNTk4NTYxLCJhcnRpY2xlSWQiOiJUTDI0M0FUOU5KTFQwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.MmfGP9LhJKtB-EmXmu3P2DnLjoL8PaO9e0xH4xMvKeQg"
-  },
-  {
-   "id": "4dd2522c3411",
-   "title": "Researchers say they discovered and communicated with Chinese AI agents that were trying to bypass security controls on websites and were traced to Tencent",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html?unlocked_article_code=1.IlE.MmMT.-dqDF5SZcwZA&smid=url-share"
-  },
-  {
-   "id": "02ae33c8dba9",
-   "title": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"
-  },
-  {
-   "id": "85a3978d8e48",
-   "title": "AI is mass decompiling games. That's both awesome and scary.",
+   "id": "8725334291b6",
+   "title": "Tree Appreciator",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
+   "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
   },
   {
-   "id": "0763de06d957",
-   "title": "Profile of Abdulrahman Alfozan, a Saudi national the FBI arrested after OpenAI found a recording device; he has deep ties to Saudi officials and tech investors",
+   "id": "24b663d50dac",
+   "title": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8"
+   "url": "https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits"
   },
   {
-   "id": "6df289fb5f27",
-   "title": "OpenAI's head of computing capacity Sachin Katti is leaving the company next month after about a year and is expected to stay on as an adviser",
+   "id": "f5dc177b1d3e",
+   "title": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/openai-computing-chief-to-depart-6ffb7d7e?st=4xyNgM&reflink=desktopwebshare_permalink"
+   "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+  },
+  {
+   "id": "520adb616cc4",
+   "title": "Anthropic's Scion is heavily inspired by Mononoke",
+   "source": "Lobsters",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke/"
+  },
+  {
+   "id": "86a6d165b166",
+   "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/crossing-the-threshold"
+  },
+  {
+   "id": "397113c87a9e",
+   "title": "Generative AI in disarray",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/generative-ai-in-disarray"
+  },
+  {
+   "id": "7a7c62482e24",
+   "title": "Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI"
+  },
+  {
+   "id": "d652edda770e",
+   "title": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+  },
+  {
+   "id": "c66afb513e3c",
+   "title": "OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"
   }
  ]
 }

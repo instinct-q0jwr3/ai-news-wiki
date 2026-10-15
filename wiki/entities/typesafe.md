@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-14 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-15 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-10-15** - A model vendor released an improved Jev 1.14.0 and paired it with experimental features for what it calls dreamers: image input, a new type, and longer context. These ship behind 'danger zone' flags in API headers instead of as normal defaults. ([We’re releasing Jev 1.14.0 along with experimental features for dreamers](../summaries/7187d63570cf.md) · [TypeSafe](../entities/typesafe.md))
 - **2026-10-14** - Jevcrawl is an open-source web crawler for AI agents in which a small decision model, not the agent's LLM, picks every link and passage, so the agent reads only what answers its question at a few cents per crawl. It avoids both reading everything a crawler… ([Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](../summaries/8f8da3faa202.md) · [TypeSafe](../entities/typesafe.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-13** - A team building an AI receptionist for a maintenance company describes retrieval failures: a caller asking about a leaking plumber's repair was handed the wrong web page by embedding search. They report that Jev, TypeSafe's judge, handed the model the… ([Jev handed our LLM the wrong page a tenth as often as our embeddings](../summaries/fc7654a6d1e7.md) · [TypeSafe](../entities/typesafe.md))
 - **2026-10-13** - A tutorial on catching bad data in document extraction: a pipeline can read a value correctly and still pass on a wrong one, such as a clearly printed extra zero. The authors combine Unsiloed, which extracts structured fields and locates them on the page,… ([Document Review with Unsiloed and TypeSafe Jev](../summaries/9326ae9b44b7.md) · [TypeSafe](../entities/typesafe.md))

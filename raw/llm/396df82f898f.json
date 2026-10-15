@@ -1,0 +1,14 @@
+{
+ "id": "396df82f898f",
+ "authored_at": "2026-10-15T02:11:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "ICE has posted a federal contracting notice for AI software to monitor detainees' phone and video calls and their movements. The system, called the 'Suite' in the document, would run around the clock, transcribe calls, use voice recognition to track who detainees talk to, and keep a profile on each caller.",
+  "It would also pull in camera data and combine it with information ICE already collects to generate leads on safety concerns and possible crime. The notice is a request for software, so nothing has been bought or deployed yet."
+ ],
+ "highlights": [
+  "ICE seeks AI to transcribe and voice-profile detainee calls.",
+  "Notice also covers camera data and lead generation."
+ ]
+}

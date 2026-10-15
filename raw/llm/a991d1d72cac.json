@@ -1,0 +1,14 @@
+{
+ "id": "a991d1d72cac",
+ "authored_at": "2026-10-15T02:11:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Spool is a pre-1.0 open-source tool for creating and managing persistent Claude Code loops that can coordinate with each other while the operator talks to them through chat. The aim is less switching between sessions and carrying messages between them.",
+  "The project is built by its own loops: four loops in its issues and PRs work on Spool, commits credit the model, and every change goes through CI and a human reviewer before the operator merges. Setup needs Docker, Go, Node, git and a Claude subscription."
+ ],
+ "highlights": [
+  "Tool for running several persistent Claude Code loops that talk to each other.",
+  "Built by its own loops, with CI and a human merging every PR."
+ ]
+}

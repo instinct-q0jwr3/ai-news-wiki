@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-14 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-15 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-15** - A leak says Nvidia has stopped supplying GB202 chips to board partners for consumer GeForce RTX 5090 cards, including the 'D' versions for China. It comes from a notice attributed to an unknown factory and a leaker with a record on the card market, and a… ([Nvidia reportedly halts GeForce RTX 5090 production](../summaries/745db82938e7.md) · [NVIDIA](../entities/nvidia.md))
+- **2026-10-15** - Basis: headline only, the source could not be fetched. Techmeme reports Apple closed above a $5T market cap for the first time, the second company after Nvidia to do so. ([Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously](../summaries/73a2e8205861.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-14** - NVIDIA open-sources the full Run:ai platform for AI workload and GPU orchestration as part of its DSX AI Factory platform, so customers and partners can build on it. ([NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform](../summaries/ef24a8b0c8d9.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-14** - Jensen Huang announces $2B in new European Nvidia investments, including French startups Doctolib and Genesis AI, adding to $8B (Bloomberg). Basis: the Techmeme headline and excerpt. ([Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year](../summaries/a7db58bba037.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-13** - IDC says Nvidia's AI chip shipments in China fell 44% year on year to 678K in H1 2026, with market share down to 34% amid US export curbs and rising domestic competition (Reuters). Basis: the Techmeme headline and excerpt; the Reuters article was not readable. ([IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition](../summaries/85c8a81afd22.md) · [NVIDIA](../entities/nvidia.md)) ⚠

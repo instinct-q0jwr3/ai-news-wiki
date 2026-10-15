@@ -1,0 +1,14 @@
+{
+ "id": "86a6d165b166",
+ "authored_at": "2026-10-15T02:11:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Coverage of the AI Engineer New York conference centers on how to balance agent autonomy with safety. Presentations from a frontier lab and from financial firms reached a similar conclusion: safe autonomy depends on where controls and human judgment are placed, not on how many restrictions are piled on.",
+  "OpenAI's Joseph Kim talked about a threshold effect, and the article compares how OpenAI and Anthropic approach autonomy in finance settings."
+ ],
+ "highlights": [
+  "Safe agent autonomy depends on where controls sit, not how many there are.",
+  "OpenAI and Anthropic approaches compared for financial use."
+ ]
+}
