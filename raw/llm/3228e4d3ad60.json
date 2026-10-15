@@ -1,0 +1,14 @@
+{
+ "id": "3228e4d3ad60",
+ "authored_at": "2026-10-15T08:08:23Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "At its first Config event in India, Figma announced features to define how AI agents work in its tools. The main one, Figma Specs, is a Markdown editor where teams write down their design language as a reference for people and agents.",
+  "Specs can be a standalone file or live inside a design, and Figma also announced a Payload CMS integration."
+ ],
+ "highlights": [
+  "Figma Specs lets teams document design rules for agents in Markdown.",
+  "Adds a Payload headless CMS integration."
+ ]
+}

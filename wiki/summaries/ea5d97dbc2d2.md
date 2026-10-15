@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-10-13 · updated: 2026-10-15 · confidence: high_
 
-`techmeme` `anthropic` `labor-displacement`
+`techmeme` `anthropic` `google` `meta` `amazon` `agentic-systems` `ai-safety-incidents` `ai-coding-agents` `labor-displacement`
 
 ## Summary
 
@@ -24,4 +24,4 @@ Git's decentralized design, where every clone holds full history, no longer fits
 
 ## Related pages
 
-[Anthropic](../entities/anthropic.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)
+[Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)

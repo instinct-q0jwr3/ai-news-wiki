@@ -1,0 +1,14 @@
+{
+ "id": "eb42faee2e79",
+ "authored_at": "2026-10-15T08:08:23Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Chainalysis report says agentic commerce is growing fast, with crypto as the payment layer. On Coinbase's Base chain, cumulative x402 protocol transactions went from about 1,500 in mid-2025 to over 138 million by Q3 2026.",
+  "The pattern is developers funding an agent's wallet with stablecoins, mostly USDC, so it can buy compute, web data and code tools on its own."
+ ],
+ "highlights": [
+  "x402 transactions on Base passed 138 million.",
+  "Agents get stablecoin allowances to pay for services."
+ ]
+}

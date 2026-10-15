@@ -1,155 +1,83 @@
 {
- "generated_at": "2026-10-15T02:00:07+00:00",
+ "generated_at": "2026-10-15T08:00:53+00:00",
  "stories": [
   {
-   "id": "5e5fe8fde5b0",
-   "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-   "source": "Hacker News",
-   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
-  },
-  {
-   "id": "7187d63570cf",
-   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-   "source": "Hacker News",
-   "url": "https://typesafe.ai/blog/jev-1-14"
-  },
-  {
-   "id": "e5c4c95e9e9a",
-   "title": "LFM2.5-24B-A2B",
-   "source": "TLDR AI",
-   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
-  },
-  {
-   "id": "25007256682f",
-   "title": "I let an AI run my startup for a week",
-   "source": "Hacker News",
-   "url": "https://daily.tinyprojects.dev/221"
-  },
-  {
-   "id": "8fdba7690118",
-   "title": "Ask HN: CAD for wood working with LLM support?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50067325"
-  },
-  {
-   "id": "caf976f8ea55",
-   "title": "Bank of America hired 1000 contractors to patch software flaws exposed by Mythos",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
-  },
-  {
-   "id": "250ca1bd04c3",
-   "title": "Anthropic revenue jumps to $16.8B in third quarter",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b"
-  },
-  {
-   "id": "a214db48dc99",
-   "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
-   "source": "Hacker News",
-   "url": "https://timurschess.com"
-  },
-  {
-   "id": "396df82f898f",
-   "title": "ICE Wants to Use AI to Monitor Detainee Calls and Movements",
-   "source": "Hacker News",
-   "url": "https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees"
-  },
-  {
-   "id": "dcd38eb2144d",
-   "title": "Chaos ensues when AI interviewer meets AI interviewee",
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"
-  },
-  {
-   "id": "a991d1d72cac",
-   "title": "How I manage persistent Claude Code loops: Spool",
-   "source": "Hacker News",
-   "url": "https://github.com/enes-alatas/spool"
-  },
-  {
-   "id": "7293dabafc3e",
-   "title": "Bank of America added 1k contractors to patch AI-exposed software flaws",
-   "source": "Hacker News",
-   "url": "https://runtimewire.com/article/bank-of-america-mythos-contractors-software-patching"
-  },
-  {
-   "id": "745db82938e7",
-   "title": "Nvidia reportedly halts GeForce RTX 5090 production",
-   "source": "Hacker News",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship"
-  },
-  {
-   "id": "ecdd1b367f87",
-   "title": "The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room",
-   "source": "Daring Fireball",
-   "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
-  },
-  {
-   "id": "6d1f56065874",
-   "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed"
-  },
-  {
-   "id": "73a2e8205861",
-   "title": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously",
+   "id": "a1558043a43c",
+   "title": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10%",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056?st=QWCZ5d"
+   "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
   },
   {
-   "id": "8725334291b6",
-   "title": "Tree Appreciator",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
+   "id": "1d923ccd0e22",
+   "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
+   "source": "Hacker News",
+   "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml"
   },
   {
-   "id": "24b663d50dac",
-   "title": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users",
+   "id": "bf3592a2893b",
+   "title": "Teachers Using AI Say It Frees Up Time for What Matters Most",
+   "source": "Hacker News",
+   "url": "https://news.gallup.com/poll/715364/teachers-using-say-frees-time-matters-mostost.aspx"
+  },
+  {
+   "id": "677545835950",
+   "title": "Hinton: We're creating alien beings. I'm willing to be selfish and choose humans",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"
+  },
+  {
+   "id": "eb42faee2e79",
+   "title": "Chainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents",
    "source": "Techmeme",
-   "url": "https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits"
+   "url": "https://fortune.com/2026/10/14/ai-agents-shopping-spree-payments-base-blockchain-138-million-chainalysis/"
   },
   {
-   "id": "f5dc177b1d3e",
-   "title": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others",
+   "id": "1fcfdf49cc7a",
+   "title": "Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+   "url": "https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation"
   },
   {
-   "id": "520adb616cc4",
-   "title": "Anthropic's Scion is heavily inspired by Mononoke",
-   "source": "Lobsters",
-   "url": "https://sunshowers.io/posts/anthropic-mononoke/"
-  },
-  {
-   "id": "86a6d165b166",
-   "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/crossing-the-threshold"
-  },
-  {
-   "id": "397113c87a9e",
-   "title": "Generative AI in disarray",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/generative-ai-in-disarray"
-  },
-  {
-   "id": "7a7c62482e24",
-   "title": "Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI",
+   "id": "5969430f2a75",
+   "title": "TSMC reports Q3 revenue up 50.9% YoY to $46.36B, net income up 68.7% to $23.7B, both above est., marking a sixth straight quarterly profit record on AI demand",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI"
+   "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
   },
   {
-   "id": "d652edda770e",
-   "title": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year",
+   "id": "700c4fd95fdb",
+   "title": "A look at L-Acoustics, whose audio platform uses machine learning to help artists like Céline Dion isolate their voices and cut through noise at live concerts",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-14/celine-dion-harry-styles-use-l-acoustics-ai-powered-tech-for-better-live-sound"
   },
   {
-   "id": "c66afb513e3c",
-   "title": "OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices",
+   "id": "3228e4d3ad60",
+   "title": "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"
+   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+  },
+  {
+   "id": "e962d142874b",
+   "title": "Q&A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html?unlocked_article_code=1.IlE.QZXk.Pjomlkjt7c6k&smid=nytcore-ios-share"
+  },
+  {
+   "id": "0b7573310432",
+   "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "d688d7c7c0b7",
+   "title": "ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers"
+  },
+  {
+   "id": "ae63eff5c900",
+   "title": "Letter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building \"experimental\" AI data centers",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html?unlocked_article_code=1.IlE.Gkw-.0m7Ysg2gq-KZ&smid=url-share"
   }
  ]
 }
