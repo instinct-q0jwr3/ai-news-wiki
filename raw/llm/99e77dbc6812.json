@@ -1,0 +1,14 @@
+{
+ "id": "99e77dbc6812",
+ "authored_at": "2026-10-15T20:13:28Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Microsoft AI says it finished pre-training MAI-Base-2, a mixture-of-experts foundation model with 80B active and 2.8T total parameters, after June's MAI-Thinking-1 built on MAI-Base-1. It claims the model beats every open-weight model it tested on held-out evaluations.",
+  "The post is a company report on its pre-training effort, so the claims are unverified."
+ ],
+ "highlights": [
+  "MAI-Base-2: MoE with 80B active, 2.8T total parameters.",
+  "Claims to beat all tested open-weight models; self-reported."
+ ]
+}

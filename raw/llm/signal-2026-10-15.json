@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-15",
+ "status": "provisional",
+ "reserve": "74c3c8118696",
+ "picks": [
+  {
+   "id": "ee4e89b4ebd4",
+   "front": "Safety",
+   "source": "Techmeme",
+   "why": "Anthropic gives METR employee-like access, putting its pledge for independent evaluation into practice."
+  },
+  {
+   "id": "dc4fbde45a6d",
+   "front": "Business",
+   "source": "Techmeme",
+   "why": "Accenture caps Claude at $29 per person a month, down from up to $1,000 for heavy users."
+  },
+  {
+   "id": "f52062f4667e",
+   "front": "Security",
+   "source": "Techmeme",
+   "why": "Perplexity open-sources SPACE, its sandbox for containing rogue agents, with CoreWeave, Akamai and Crusoe as partners."
+  },
+  {
+   "id": "99e77dbc6812",
+   "front": "Models",
+   "source": "Hacker News",
+   "why": "Microsoft AI reports MAI-Base-2, an 80B-active, 2.8T-total MoE it says beats tested open-weight models."
+  },
+  {
+   "id": "d90786cf6c4f",
+   "front": "Research",
+   "source": "TLDR AI",
+   "why": "Ai2's HiRO-ACEv2 makes global 3 km climate data at about 1/300th the cost of a physics model."
+  }
+ ]
+}

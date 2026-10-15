@@ -782,5 +782,61 @@
   "thin": 5,
   "total": 76,
   "unreadable": 8
+ },
+ "2026-10-15": {
+  "ok": 62,
+  "paywall": 13,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "ee4e89b4ebd4",
+    "minutes": 5,
+    "source": "Techmeme",
+    "title": "Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices",
+    "why": "Anthropic gives METR employee-like access, putting its pledge for independent evaluation into practice."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "dc4fbde45a6d",
+    "minutes": 3,
+    "source": "Techmeme",
+    "title": "Memo: Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude",
+    "why": "Accenture caps Claude at $29 per person a month, down from up to $1,000 for heavy users."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "f52062f4667e",
+    "minutes": 2,
+    "source": "Techmeme",
+    "title": "Perplexity open sources SPACE, its AI agent sandbox, and says partners including CoreWeave, Akamai, and Crusoe agreed to offer SPACE to customers",
+    "why": "Perplexity open-sources SPACE, its sandbox for containing rogue agents, with CoreWeave, Akamai and Crusoe as partners."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "99e77dbc6812",
+    "minutes": 16,
+    "source": "Hacker News",
+    "title": "Frontier Pre-Training at Microsoft AI",
+    "why": "Microsoft AI reports MAI-Base-2, an 80B-active, 2.8T-total MoE it says beats tested open-weight models."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "d90786cf6c4f",
+    "minutes": 4,
+    "source": "TLDR AI",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "why": "Ai2's HiRO-ACEv2 makes global 3 km climate data at about 1/300th the cost of a physics model."
+   }
+  ],
+  "reserve": "74c3c8118696",
+  "status": "provisional",
+  "thin": 2,
+  "total": 81,
+  "unreadable": 4
  }
 }

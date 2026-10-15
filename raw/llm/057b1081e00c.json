@@ -1,0 +1,13 @@
+{
+ "id": "057b1081e00c",
+ "authored_at": "2026-10-15T20:13:28Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison asked Claude for a two-player pong-like game where two phones close together pass game state through audio picked up by the web microphone API, with graphical and gameplay twists. It is another experiment testing whether this is feasible."
+ ],
+ "highlights": [
+  "Two-phone pong using audio as the data channel.",
+  "Another AI-built browser game experiment."
+ ]
+}
