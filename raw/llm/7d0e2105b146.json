@@ -1,0 +1,13 @@
+{
+ "id": "7d0e2105b146",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An essay applies Brooks's Law to agents: adding workers to a late project makes it later, so twenty agents may reach the throughput of two or three, waiting on each other. It argues self-correcting mechanisms matter more as the network grows stronger."
+ ],
+ "highlights": [
+  "Brooks's Law applied to agent swarms.",
+  "Coordination cost limits gains from more agents."
+ ]
+}

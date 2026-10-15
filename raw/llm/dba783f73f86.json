@@ -1,0 +1,14 @@
+{
+ "id": "dba783f73f86",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Noma Labs describes an exploit chain in Claude Code Desktop's preview pane that gives arbitrary file read through unrestricted JavaScript. The attacker poisons an HTML file in a public repo, disguised as a coverage report, which escapes the preview sandbox and runs with no Content Security Policy.",
+  "The delivery route is notable: a victim only has to clone the repo and preview the file."
+ ],
+ "highlights": [
+  "Preview-pane flaw allows file read via poisoned HTML.",
+  "Victim only needs to clone a repo and preview it."
+ ]
+}

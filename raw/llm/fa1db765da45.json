@@ -1,0 +1,14 @@
+{
+ "id": "fa1db765da45",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "BlastLoop is a coding method for AI agents by Ross Shaw. Three levels of agent, Blast, Mid and Inner, write code at different altitudes, then three test passes run in order: structural, bug and ops, and adversarial.",
+  "The pitch is that agents speed teams up but also make engineering failures arrive faster, so structure comes first."
+ ],
+ "highlights": [
+  "Three code-writing levels followed by three test tiers.",
+  "Aimed at catching failures that AI speed amplifies."
+ ]
+}

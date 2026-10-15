@@ -1,0 +1,13 @@
+{
+ "id": "e4af575970bb",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google Research is making Deep Review public after use on 16,000+ submissions at STOC, ICML, NeurIPS and ICLR. It extends from math and science peer review to grounded checks of knowledge documents more broadly."
+ ],
+ "highlights": [
+  "Deep Review opens publicly after conference deployments.",
+  "Expands from peer review to general documents."
+ ]
+}

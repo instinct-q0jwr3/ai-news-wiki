@@ -1,0 +1,13 @@
+{
+ "id": "d90786cf6c4f",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Ai2's HiRO-ACEv2 emulates extreme weather at 3 km resolution. It reproduces rare rain, wind and pressure events with high accuracy, and the full system makes global 3 km climate data at about 1/300th the cost of the X-SHiELD physics model."
+ ],
+ "highlights": [
+  "Global 3 km climate data at ~1/300th the cost.",
+  "Reproduces rare extreme events accurately."
+ ]
+}

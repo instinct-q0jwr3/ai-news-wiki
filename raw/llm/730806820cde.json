@@ -1,0 +1,14 @@
+{
+ "id": "730806820cde",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison quotes the Financial Times: Anthropic told investors quarterly revenue rose nearly 50% to $16.8bn ahead of an IPO. It also said 'distillation' accounted for 5% to 7% of revenue and that it had cut it back materially.",
+  "Distillation means rivals training on outputs of stronger models, which creates heavy usage and spending."
+ ],
+ "highlights": [
+  "Q3 revenue $16.8bn, up nearly 50%.",
+  "Distillation 5-7% of revenue, reduced materially."
+ ]
+}

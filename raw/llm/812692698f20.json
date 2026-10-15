@@ -1,0 +1,14 @@
+{
+ "id": "812692698f20",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "404 Media reports that OpenAI lets advertisers target ChatGPT users by email address, phone number or a unique phone identifier, based on its own tests of the ad system. Such targeting is standard in advertising.",
+  "The concern is that with about a billion monthly users, many may not realize their contact details can be used to place ads in their sessions."
+ ],
+ "highlights": [
+  "ChatGPT ads can target by email, phone number or device ID.",
+  "Standard ad practice, but users may not expect it."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "03238bad7516",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A vLLM post on push-based KV transfer for prefill-decode disaggregation, where prefill and decode run on separate engines. Moving the KV cache by push is meant to improve time to first token and time per output token."
+ ],
+ "highlights": [
+  "Push-based KV transfer for disaggregated inference.",
+  "Targets TTFT and TPOT."
+ ]
+}

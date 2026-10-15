@@ -1,0 +1,13 @@
+{
+ "id": "f169e153a8ce",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Nvidia launched Nemotron 3.5 Super VL, a 120B-parameter open model for enterprise agents, part of a three-model family combining language and vision for tasks like reading tables and charts in documents."
+ ],
+ "highlights": [
+  "120B open vision-language model for enterprise agents.",
+  "Part of a three-model Nemotron release."
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "74c3c8118696",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Meta released the weights of Muse Spark Open, calling it the most capable US open-weight model so far. It is natively multimodal, with 816B total parameters (42B active) and a 1M-token context, built for coding and agentic work.",
+  "Meta highlights running it locally on Apple M5 Ultra Mac Studios."
+ ],
+ "highlights": [
+  "816B total (42B active) open-weight multimodal model.",
+  "1M context; runs locally on M5 Ultra Mac Studio."
+ ]
+}

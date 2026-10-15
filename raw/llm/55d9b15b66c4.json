@@ -1,0 +1,13 @@
+{
+ "id": "55d9b15b66c4",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Vals argues routers are a new AI primitive: since few can pay frontier prices on every request, a router decides which model handles each task and when frontier performance justifies its cost."
+ ],
+ "highlights": [
+  "Routers choose models per task by cost and quality.",
+  "Evaluation data guides when frontier models are worth it."
+ ]
+}

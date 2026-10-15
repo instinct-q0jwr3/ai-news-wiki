@@ -1,0 +1,14 @@
+{
+ "id": "3378b14a899f",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A writer wanted to scan his late mother's film negatives with a Plustek 8200i, only to find the scanner's newer chipset no longer worked on Linux. He had partial success with configuration changes first.",
+  "The post describes using AI to help reverse engineer the hardware and get Linux support back."
+ ],
+ "highlights": [
+  "Newer chipset broke Linux support for a film scanner.",
+  "AI assisted reverse engineering of the hardware."
+ ]
+}

@@ -652,6 +652,65 @@
     "700c4fd95fdb"
    ],
    "concepts": []
+  },
+  {
+   "title": "Open weights, ads and security flaws",
+   "intro": "Meta releases Muse Spark Open with Apple's help, ChatGPT ad targeting draws scrutiny, and a Claude Code Desktop flaw is disclosed.",
+   "stories": [
+    "74c3c8118696",
+    "768cd4a5d232",
+    "a355f6f8aa57",
+    "f169e153a8ce",
+    "d83ef3873bf9",
+    "812692698f20",
+    "6e7e2003f22d",
+    "dba783f73f86",
+    "1c63d09b8fdb",
+    "86771392f9f5",
+    "a6386b949c38"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's revenue and the Scion dispute",
+   "intro": "Anthropic's $16.8bn quarter and its distillation share, a sharper follow-up on Scion and Mononoke, and a $15M math-and-AI fund.",
+   "stories": [
+    "730806820cde",
+    "1c8d5de0bb81",
+    "f37619007b65",
+    "604de2f2db79",
+    "6052657033d3",
+    "05a58efaec50",
+    "a430b8865c53",
+    "7ccc23dcf63c",
+    "0d57207fbcfc",
+    "351e5fe8d223",
+    "5a304539defe",
+    "52978f19a55f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent tooling and research",
+   "intro": "Modal's decacorn round, observability, harnesses, routers and inference engineering for agents.",
+   "stories": [
+    "d304073ed83b",
+    "fa1db765da45",
+    "51079ef3cff8",
+    "426ece2cddae",
+    "7d0e2105b146",
+    "55d9b15b66c4",
+    "03238bad7516",
+    "e4af575970bb",
+    "d90786cf6c4f",
+    "1380ade47fd3",
+    "ccf9622ed5e0",
+    "7d7c600c0f36",
+    "a381d10531ea",
+    "3378b14a899f",
+    "62e29a96fdb1"
+   ],
+   "concepts": []
   }
  ]
 }

@@ -1,0 +1,13 @@
+{
+ "id": "51079ef3cff8",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Claude Platform now exports OpenTelemetry data, so teams can analyze agent interactions in tools like PostHog beside product usage. Customers quoted include Foxglove and Ramp."
+ ],
+ "highlights": [
+  "Native OpenTelemetry export from the Claude Platform.",
+  "Lets teams analyze agent behavior next to product data."
+ ]
+}

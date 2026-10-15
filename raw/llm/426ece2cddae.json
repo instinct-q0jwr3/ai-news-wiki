@@ -1,0 +1,13 @@
+{
+ "id": "426ece2cddae",
+ "authored_at": "2026-10-15T17:32:08Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Harness-squared is a framework for recursive agent harnessing: the harness is the prompts, tools, memory and orchestration around a model, and it is optimized in two linked levels of recursion with model weights fixed, aimed at tasks unseen during design."
+ ],
+ "highlights": [
+  "Optimizes the agent harness recursively, weights fixed.",
+  "Targets unseen tasks."
+ ]
+}

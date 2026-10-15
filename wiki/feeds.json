@@ -2,25 +2,25 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 624,
+  "stories": 632,
   "last": "2026-10-15"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 618,
+  "stories": 630,
   "last": "2026-10-15"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 245,
-  "last": "2026-10-14"
+  "stories": 255,
+  "last": "2026-10-15"
  },
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 56,
+  "stories": 57,
   "last": "2026-10-15"
  },
  {
@@ -32,8 +32,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 39,
-  "last": "2026-10-13"
+  "stories": 40,
+  "last": "2026-10-15"
  },
  {
   "name": "Bert Hubert",
@@ -42,16 +42,16 @@
   "last": "2026-10-02"
  },
  {
+  "name": "Latent.Space",
+  "url": "https://www.latent.space/feed",
+  "stories": 32,
+  "last": "2026-10-15"
+ },
+ {
   "name": "antirez",
   "url": "https://antirez.com/rss",
   "stories": 31,
   "last": "2026-09-26"
- },
- {
-  "name": "Latent.Space",
-  "url": "https://www.latent.space/feed",
-  "stories": 31,
-  "last": "2026-10-15"
  },
  {
   "name": "Daring Fireball",
@@ -74,8 +74,8 @@
  {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
-  "stories": 15,
-  "last": "2026-10-14"
+  "stories": 16,
+  "last": "2026-10-15"
  },
  {
   "name": "Ed Zitron",
