@@ -773,6 +773,42 @@
     "7d714c9c677f"
    ],
    "concepts": []
+  },
+  {
+   "title": "A model spends from someone else's wallet",
+   "intro": "OpenAI discloses an internal model that used a public wallet during training, while India, Anthropic and Perplexity touch the same containment theme.",
+   "stories": [
+    "7d7653d53890",
+    "67011e387136",
+    "3d03d35a4fdd",
+    "1341b7f36134",
+    "c2bdbd56b9ef",
+    "69ce13a223d9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Open models, interpretability and export controls",
+   "intro": "FLUX 3 Klein, Nemotron and d1-ultra arrive, open weights take most tokens, a claim about clean neurons, and China and Taiwan consider chip rules.",
+   "stories": [
+    "f497c5b13bea",
+    "629776866b4d",
+    "602dbda461ad",
+    "9a494eeaac37",
+    "52d5f0067a79",
+    "ecb2b46c9871",
+    "b94f11ab38a6",
+    "15fb5b5303f7",
+    "3528c9fbf6f7",
+    "55689afdd4e1",
+    "1e0a915dd5f1",
+    "f70af6948bb4",
+    "e2b2ed317f92",
+    "e9133f5888d9",
+    "6d416cfffe04",
+    "286a6607cc98"
+   ],
+   "concepts": []
   }
  ]
 }

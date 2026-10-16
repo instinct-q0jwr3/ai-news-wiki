@@ -1,0 +1,13 @@
+{
+ "id": "e2b2ed317f92",
+ "authored_at": "2026-10-16T14:07:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A beta toolchain for AI-assisted PCB design in KiCad 10, with an MCP server. The project adds a web-research MCP server called Nimrod, offering scored Google search and clean page extraction for realtime research. It says the core is tested but needs real-world use and review."
+ ],
+ "highlights": [
+  "Beta AI toolchain for KiCad 10 PCB design.",
+  "Adds a web-research MCP server, Nimrod."
+ ]
+}

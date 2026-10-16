@@ -1,0 +1,13 @@
+{
+ "id": "ecb2b46c9871",
+ "authored_at": "2026-10-16T14:07:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Part one of a three-part series on why post-training is sparse. It argues that reweighting what a model already samples explains why updates are small, using the score, the Fisher information and a bound that holds for any reward."
+ ],
+ "highlights": [
+  "Post-training updates are small because they reweight existing samples.",
+  "Part 1 of 3."
+ ]
+}

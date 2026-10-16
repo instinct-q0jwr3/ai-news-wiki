@@ -1,89 +1,137 @@
 {
- "generated_at": "2026-10-16T08:04:13+00:00",
+ "generated_at": "2026-10-16T14:05:05+00:00",
  "stories": [
   {
-   "id": "c9113ba74509",
-   "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+   "id": "e2b2ed317f92",
+   "title": "AI-assisted PCB design for KiCad 10",
    "source": "Hacker News",
-   "url": "https://github.com/awslabs/aidlc-workflows"
+   "url": "https://github.com/mixelpixx/Konnect"
   },
   {
-   "id": "b5916562224e",
-   "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+   "id": "677545835950",
+   "title": "Hinton: We're creating alien beings. I'm willing to be selfish and choose humans",
    "source": "Hacker News",
-   "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10"
+   "url": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"
   },
   {
-   "id": "70421cc9166d",
-   "title": "MuscleMemory: Open-source procedural memory for AI agents",
-   "source": "Hacker News",
-   "url": "https://github.com/TheWariend/MuscleMemory"
+   "id": "286a6607cc98",
+   "title": "Introducing Handwired: JavaScript as Neural Networks",
+   "source": "TLDR AI",
+   "url": "https://x.com/_chenglou/status/2110557373651931267"
   },
   {
-   "id": "0d622de71a4a",
-   "title": "No AI. Build your own tree directory viewer in C by hand",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=tiMHtc6l7xM"
-  },
-  {
-   "id": "d39d46b019fb",
-   "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-   "source": "Hacker News",
-   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
-  },
-  {
-   "id": "c168a7200e96",
-   "title": "Sources detail Nscale's setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance",
+   "id": "1e0a915dd5f1",
+   "title": "A look at China's AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays"
+   "url": "https://nymag.com/intelligencer/article/china-ai-learning-craze.html?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkU4Qno1bWo4ak4iLCJwIjoiL2ludGVsbGlnZW5jZXIvYXJ0aWNsZS9jaGluYS1haS1sZWFybmluZy1jcmF6ZS5odG1sIiwiZXhwIjoxNzkzMjg5NTEzLCJpYXQiOjE3OTIwNzk5MTN9.SFA3VJwFu9qaw6weW4gmFNCCdv35kSzG45gTYcsveXU&utm_medium=gift_link"
   },
   {
-   "id": "d2e95c418c08",
-   "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity"
-  },
-  {
-   "id": "826e791d2b89",
-   "title": "Linus Torvalds on AI-assisted kernel contributions",
-   "source": "Lobsters",
-   "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
-  },
-  {
-   "id": "bf6850ea5729",
-   "title": "Pluralistic: Load-bearing (16 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/15/sovereign-it/"
-  },
-  {
-   "id": "7d714c9c677f",
-   "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn",
+   "id": "ee4e89b4ebd4",
+   "title": "Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners"
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
   },
   {
-   "id": "2fb81efdd4aa",
-   "title": "Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI",
+   "id": "7d7653d53890",
+   "title": "OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/"
+   "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own"
   },
   {
-   "id": "ea8a2ffcd125",
-   "title": "AI is driving a boom in modestly successful software projects",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/"
-  },
-  {
-   "id": "fe826a37ed9c",
-   "title": "Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/agentic-enterprise-rapidcanvas-vertex"
+   "id": "629776866b4d",
+   "title": "Nvidia released Nemotron 3.5 Super VL",
+   "source": "TLDR AI",
+   "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/"
   },
   {
    "id": "99e77dbc6812",
    "title": "Frontier Pre-Training at Microsoft AI",
    "source": "Hacker News",
    "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"
+  },
+  {
+   "id": "15fb5b5303f7",
+   "title": "China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents"
+  },
+  {
+   "id": "9a494eeaac37",
+   "title": "Open weight takes 71.5% of tokens and 23% of spend",
+   "source": "TLDR AI",
+   "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026"
+  },
+  {
+   "id": "f497c5b13bea",
+   "title": "FLUX 3 Image Klein",
+   "source": "TLDR AI",
+   "url": "https://bfl.ai/blog/flux-3-image-klein"
+  },
+  {
+   "id": "3528c9fbf6f7",
+   "title": "Taiwan plans to curb AI server and chip exports to China as part of a US trade deal and make shipping restricted AI hardware to China a criminal offense",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal"
+  },
+  {
+   "id": "ecb2b46c9871",
+   "title": "The Gradient Is a Covariance",
+   "source": "TLDR AI",
+   "url": "https://richardli.xyz/post/gradient-is-covariance/"
+  },
+  {
+   "id": "3d03d35a4fdd",
+   "title": "Perplexity Open-Sourced Its Agent Sandbox",
+   "source": "TLDR AI",
+   "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space"
+  },
+  {
+   "id": "e9133f5888d9",
+   "title": "GPT-Live-1.1",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2110797830361436604.html"
+  },
+  {
+   "id": "6d416cfffe04",
+   "title": "How Codex Happened",
+   "source": "TLDR AI",
+   "url": "https://every.to/p/how-codex-happened"
+  },
+  {
+   "id": "f70af6948bb4",
+   "title": "Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn't take advantage of RTX Spark",
+   "source": "Techmeme",
+   "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review"
+  },
+  {
+   "id": "602dbda461ad",
+   "title": "d1-ultra: Introducing the World's Best Decision Model",
+   "source": "TLDR AI",
+   "url": "https://www.liquid.ai/blog/d1-ultra"
+  },
+  {
+   "id": "67011e387136",
+   "title": "India's cyber agency says AI agents broke into Indian organizations' systems and read confidential files undetected; AI model providers flagged the incidents",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/"
+  },
+  {
+   "id": "69ce13a223d9",
+   "title": "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html"
+  },
+  {
+   "id": "b94f11ab38a6",
+   "title": "Mo' turns, mo' problems",
+   "source": "TLDR AI",
+   "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/"
+  },
+  {
+   "id": "52d5f0067a79",
+   "title": "Neural Networks Are Already Clean",
+   "source": "TLDR AI",
+   "url": "https://already-clean.goodfire.com/"
   }
  ]
 }

@@ -1,0 +1,13 @@
+{
+ "id": "f497c5b13bea",
+ "authored_at": "2026-10-16T14:07:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B-parameter open-weights model for text-to-image generation, editing and multi-reference work with up to 10 reference images. It keeps native 4K generation, precise editing and bounding boxes that place or confine edits."
+ ],
+ "highlights": [
+  "5.6B open-weights image model.",
+  "Up to 10 reference images, native 4K."
+ ]
+}

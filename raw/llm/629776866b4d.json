@@ -1,0 +1,13 @@
+{
+ "id": "629776866b4d",
+ "authored_at": "2026-10-16T14:07:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Nvidia's Nemotron 3.5 Super VL is an open, customizable multimodal model for always-on enterprise agents that read documents, check sources, follow policy and call tools. It is a 120B-parameter mixture-of-experts model."
+ ],
+ "highlights": [
+  "120B MoE open multimodal model for enterprise agents.",
+  "Targets long document-and-tool workflows."
+ ]
+}
