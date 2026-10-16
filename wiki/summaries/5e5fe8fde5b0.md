@@ -1,6 +1,6 @@
 # AI agents aren't 'going rogue.' Frontier labs are skipping security basics
 
-_type: news-summary · created: 2026-10-14 · updated: 2026-10-15 · confidence: high_
+_type: news-summary · created: 2026-10-14 · updated: 2026-10-16 · confidence: high_
 
 `hacker-news` `agentic-systems` `ai-safety-incidents`
 

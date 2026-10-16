@@ -1,77 +1,53 @@
 {
- "generated_at": "2026-10-15T20:02:35+00:00",
+ "generated_at": "2026-10-16T02:03:28+00:00",
  "stories": [
   {
-   "id": "74c3c8118696",
-   "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+   "id": "9061eb076d39",
+   "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
    "source": "Hacker News",
-   "url": "https://research.meta.ai/blog/muse-spark-open"
+   "url": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930"
   },
   {
-   "id": "a546dd10d0bb",
-   "title": "Krea 3 – An image model built for editing at scale",
+   "id": "ea8b58b6d976",
+   "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
    "source": "Hacker News",
-   "url": "https://www.krea.ai/krea-3"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
   },
   {
-   "id": "ad96723699a9",
-   "title": "Why We're Banning AI",
+   "id": "a30e04614022",
+   "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
    "source": "Hacker News",
-   "url": "https://www.currentaffairs.org/news/why-were-banning-ai"
+   "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga"
   },
   {
-   "id": "99e77dbc6812",
-   "title": "Frontier Pre-Training at Microsoft AI",
-   "source": "Hacker News",
-   "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"
-  },
-  {
-   "id": "58983a98ebc6",
-   "title": "Companies rushed in on AI. Now some are pulling back",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout"
-  },
-  {
-   "id": "c40c657def95",
-   "title": "AI Safety Is Not a Corporate Plot",
-   "source": "Hacker News",
-   "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot"
-  },
-  {
-   "id": "f73a3c71a9a7",
-   "title": "Google says it has 400+ publications in its News AI pilot, which tests features like overviews; participants include Financial Times, CNN, and The Texas Tribune",
+   "id": "f8a1303a5ad1",
+   "title": "some Anthropic investors discussed a ~$1.5T valuation for its IPO, down from ~$2T they had expected, after disclosures showed slowing Q3 revenue growth",
    "source": "Techmeme",
-   "url": "https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/"
+   "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/"
   },
   {
-   "id": "ee4e89b4ebd4",
-   "title": "Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices",
+   "id": "7e40c1f22f13",
+   "title": "Bluesky expands Attie, its AI tool for building custom feeds, with a \"social vibe coding\" feature to create sites, games, quizzes, and more on the AT Protocol",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+   "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
   },
   {
-   "id": "057b1081e00c",
-   "title": "Chirp Pong",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/"
-  },
-  {
-   "id": "f52062f4667e",
-   "title": "Perplexity open sources SPACE, its AI agent sandbox, and says partners including CoreWeave, Akamai, and Crusoe agreed to offer SPACE to customers",
+   "id": "cf05bdf2fd14",
+   "title": "The White House's AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more",
    "source": "Techmeme",
-   "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software"
+   "url": "https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work"
   },
   {
-   "id": "c8dbc58442e4",
-   "title": "Alexandr Wang says ex-Apple exec Daniel Gross, now at Meta, helped bring Meta and Apple together: \"we're excited for mommy and daddy to be playing nice again\"",
+   "id": "2241f1ecf095",
+   "title": "OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai"
+   "url": "https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices"
   },
   {
-   "id": "dc4fbde45a6d",
-   "title": "Memo: Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude",
+   "id": "11be2c16b9be",
+   "title": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital",
    "source": "Techmeme",
-   "url": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/"
+   "url": "https://www.businessinsider.com/opsin-expands-21-m-to-tackle-ai-agents-in-businesses-2026-10"
   }
  ]
 }

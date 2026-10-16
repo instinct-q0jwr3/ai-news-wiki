@@ -1,6 +1,6 @@
 # Show HN: NanoMuse – An open-source AI agent for your phone and computer
 
-_type: news-summary · created: 2026-10-07 · updated: 2026-10-15 · confidence: high_
+_type: news-summary · created: 2026-10-07 · updated: 2026-10-16 · confidence: high_
 
 `hacker-news` `muse` `agentic-systems` `compute-buildout`
 

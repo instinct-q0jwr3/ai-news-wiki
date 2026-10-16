@@ -1,6 +1,6 @@
 # Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains
 
-_type: news-summary · created: 2026-10-14 · updated: 2026-10-15 · confidence: high_
+_type: news-summary · created: 2026-10-14 · updated: 2026-10-16 · confidence: high_
 
 `techmeme`
 

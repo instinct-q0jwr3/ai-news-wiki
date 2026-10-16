@@ -1,0 +1,31 @@
+{
+ "id": "digest-2026-10-16",
+ "date": "2026-10-16",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Google reports a quantum computing milestone, the White House AI task force begins its 120-day review, and Anthropic IPO valuation talk reportedly drops to about $1.5T.",
+ "sections": [
+  {
+   "title": "Anthropic IPO talk, White House task force and ad pushes",
+   "intro": "Investors reportedly discuss a lower Anthropic IPO valuation, the White House AI task force starts its 120-day clock, and OpenAI chases smaller advertisers.",
+   "stories": [
+    "f8a1303a5ad1",
+    "cf05bdf2fd14",
+    "2241f1ecf095",
+    "9061eb076d39",
+    "a30e04614022"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Quantum milestone and agent tools",
+   "intro": "Google shows magic state cultivation on Willow, Bluesky adds vibe coding to Attie, and Opsin tracks agent data access.",
+   "stories": [
+    "ea8b58b6d976",
+    "7e40c1f22f13",
+    "11be2c16b9be"
+   ],
+   "concepts": []
+  }
+ ]
+}

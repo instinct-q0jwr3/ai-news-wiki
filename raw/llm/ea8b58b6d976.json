@@ -1,0 +1,14 @@
+{
+ "id": "ea8b58b6d976",
+ "authored_at": "2026-10-16T02:11:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google Quantum AI says it has shown 'magic state cultivation' working on its Willow processor. Magic states are a key resource for fault-tolerant quantum computing, and the post presents the result as opening a major bottleneck.",
+  "The report is Google's own, from researchers Emma Rosenfeld and Craig Gidney."
+ ],
+ "highlights": [
+  "Magic state cultivation demonstrated on Willow hardware.",
+  "Google's own report of a bottleneck being opened."
+ ]
+}

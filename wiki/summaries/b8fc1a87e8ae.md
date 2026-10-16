@@ -1,6 +1,6 @@
 # Scientists wonder: Is my AI stealing my ideas?
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-15 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-16 · confidence: high_
 
 `hacker-news`
 

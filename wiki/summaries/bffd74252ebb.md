@@ -1,6 +1,6 @@
 # The Business of Building God
 
-_type: news-summary · created: 2026-09-22 · updated: 2026-10-15 · confidence: high_
+_type: news-summary · created: 2026-09-22 · updated: 2026-10-16 · confidence: high_
 
 `tldr-ai`
 

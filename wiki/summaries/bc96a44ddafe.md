@@ -1,6 +1,6 @@
 # As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask
 
-_type: news-summary · created: 2026-10-04 · updated: 2026-10-15 · confidence: high_
+_type: news-summary · created: 2026-10-04 · updated: 2026-10-16 · confidence: high_
 
 `techmeme`
 
