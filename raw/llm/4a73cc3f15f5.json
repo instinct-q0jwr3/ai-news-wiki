@@ -1,0 +1,13 @@
+{
+ "id": "4a73cc3f15f5",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic gave Claude plain-language specs for eight quantum circuits from chemistry, optimization, physics simulation and number theory, with an automated evaluator that scores designs. Working largely alone, Claude found designs that improve on the best published ones."
+ ],
+ "highlights": [
+  "Claude improved published designs on quantum circuits.",
+  "Eight circuits scored by an automated evaluator."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "7a28c5b78580",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A post in which Claude is used to dig into the origins of the ECDSA curve constants. It leans on recollections of a seed message and a counter from long ago, with the original author unable to recall details and no archives found."
+ ],
+ "highlights": [
+  "Claude used to probe where ECDSA curve seeds came from.",
+  "Original details remain unrecoverable."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "cbd2987e75fd",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Weatherdeck is a read-only status board for machines and the work on them, shown on a TV or phone page fed by small pushers. It is not a weather app or an alerting system, and the demo uses invented sources."
+ ],
+ "highlights": [
+  "Read-only status board for AI coding agent lanes.",
+  "Demo uses made-up sources."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "1443b62572d5",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "MeshXFS is a shared-LUN clustered filesystem on XFS whose clustering, locking, fencing and on-disk code were written by AI. Claude Opus ran as an autonomous coding agent and consulted other models on the hardest problems."
+ ],
+ "highlights": [
+  "Clustered XFS filesystem written entirely by AI.",
+  "Claude Opus agent did much of the work."
+ ]
+}

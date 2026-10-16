@@ -1,0 +1,13 @@
+{
+ "id": "965de5eb647d",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A benchmark map compiled to show how well existing AI benchmarks cover American jobs. It lays out the 923 O*NET occupations as tiles and finds that about 90% of US working hours go to tasks the benchmarks cover poorly. It is a first step toward a continuously updated resource on AI capabilities across the economy."
+ ],
+ "highlights": [
+  "About 90% of US working hours poorly covered by benchmarks.",
+  "Maps benchmarks onto 923 O*NET occupations."
+ ]
+}

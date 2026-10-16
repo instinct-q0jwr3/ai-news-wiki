@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-16",
+ "status": "provisional",
+ "reserve": "4a73cc3f15f5",
+ "picks": [
+  {
+   "id": "c8b971296b4e",
+   "front": "Engineering",
+   "source": "Hacker News",
+   "why": "PostgreSQL 19 slips to November as AI reviewers find more bugs than people can fix, with up to ten features reverted."
+  },
+  {
+   "id": "053664f3c558",
+   "front": "Agents",
+   "source": "Hacker News",
+   "why": "The Claude Code team explains how it reviews code when Claude writes about 90% of it."
+  },
+  {
+   "id": "7aee6329035f",
+   "front": "Models",
+   "source": "Techmeme",
+   "why": "Reflection AI releases Apache 2.0 weights for Beam, a 501B open model it says uses fewer tokens per task."
+  },
+  {
+   "id": "965de5eb647d",
+   "front": "Research",
+   "source": "Hacker News",
+   "why": "About 90% of US working hours fall in tasks that current AI benchmarks cover poorly."
+  },
+  {
+   "id": "610a238d1645",
+   "front": "Business",
+   "source": "Hacker News",
+   "why": "Yum! Brands says Taco Bell's drive-thru AI improved employee retention."
+  }
+ ]
+}

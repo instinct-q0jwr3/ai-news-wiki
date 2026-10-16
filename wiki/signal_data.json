@@ -838,5 +838,61 @@
   "thin": 2,
   "total": 81,
   "unreadable": 4
+ },
+ "2026-10-16": {
+  "ok": 39,
+  "paywall": 10,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "c8b971296b4e",
+    "minutes": 3,
+    "source": "Hacker News",
+    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "why": "PostgreSQL 19 slips to November as AI reviewers find more bugs than people can fix, with up to ten features reverted."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "053664f3c558",
+    "minutes": 12,
+    "source": "Hacker News",
+    "title": "How the Claude Code team does code review",
+    "why": "The Claude Code team explains how it reviews code when Claude writes about 90% of it."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "7aee6329035f",
+    "minutes": 18,
+    "source": "Techmeme",
+    "title": "Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens",
+    "why": "Reflection AI releases Apache 2.0 weights for Beam, a 501B open model it says uses fewer tokens per task."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "965de5eb647d",
+    "minutes": 11,
+    "source": "Hacker News",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "why": "About 90% of US working hours fall in tasks that current AI benchmarks cover poorly."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "610a238d1645",
+    "minutes": 3,
+    "source": "Hacker News",
+    "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
+    "why": "Yum! Brands says Taco Bell's drive-thru AI improved employee retention."
+   }
+  ],
+  "reserve": "4a73cc3f15f5",
+  "status": "provisional",
+  "thin": 5,
+  "total": 61,
+  "unreadable": 7
  }
 }

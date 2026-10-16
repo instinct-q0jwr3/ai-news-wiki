@@ -83,6 +83,44 @@
     "286a6607cc98"
    ],
    "concepts": []
+  },
+  {
+   "title": "Postgres slips as AI reviewers flood the queue",
+   "intro": "AI-driven review delays PostgreSQL 19, Claude Code explains its own review practice, and a developer reports an Anthropic billing bug.",
+   "stories": [
+    "c8b971296b4e",
+    "d4c84f4a9194",
+    "053664f3c558",
+    "c371cc02a5ef",
+    "a087e53e8dbe",
+    "1443b62572d5",
+    "39ac48f889f2",
+    "9e7dda675dce"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Beam weights, benchmarks and agent research",
+   "intro": "Reflection releases a 501B open model, benchmarks map AI coverage of jobs, and Claude improves quantum circuit designs.",
+   "stories": [
+    "7aee6329035f",
+    "965de5eb647d",
+    "cdc78e8cb8be",
+    "4a73cc3f15f5",
+    "a47f0d50e4a2",
+    "4a42fa794bbd",
+    "cbd2987e75fd",
+    "7a28c5b78580",
+    "b95477059a55",
+    "e84fcfa1bb8d",
+    "fe7baaeb4c9b",
+    "610a238d1645",
+    "6d84a33db994",
+    "7458be6a11b8",
+    "e0f5ac9c4bcc",
+    "cb44f07243f3"
+   ],
+   "concepts": []
   }
  ]
 }

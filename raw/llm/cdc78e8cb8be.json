@@ -1,0 +1,13 @@
+{
+ "id": "cdc78e8cb8be",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "StarSkirmish Bench measures how strong a StarCraft bot each LLM can write in one hour of wall-clock time. Version 0.2 adds flagship models from OpenAI, Anthropic, Google and Meta, each run in its own lab's CLI harness, scored by win rate against human-written and demo bots."
+ ],
+ "highlights": [
+  "Benchmark: LLMs write StarCraft bots in one hour.",
+  "Scored by win rate against competitive bots."
+ ]
+}

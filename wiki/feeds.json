@@ -1,14 +1,14 @@
 [
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 653,
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 661,
   "last": "2026-10-16"
  },
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 644,
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 656,
   "last": "2026-10-16"
  },
  {
@@ -26,7 +26,7 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 48,
+  "stories": 49,
   "last": "2026-10-16"
  },
  {

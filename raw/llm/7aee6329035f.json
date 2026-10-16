@@ -1,0 +1,13 @@
+{
+ "id": "7aee6329035f",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reflection AI released Apache 2.0 weights for Beam, its first open model at 501B parameters trained with reinforcement learning. It pitches Beam against Chinese open models, claiming it finishes tasks in fewer tokens and so lowers cost per task."
+ ],
+ "highlights": [
+  "501B open model, Apache 2.0.",
+  "Claims fewer tokens per finished task."
+ ]
+}

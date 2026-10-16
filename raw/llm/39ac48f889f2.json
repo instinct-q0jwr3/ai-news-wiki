@@ -1,0 +1,13 @@
+{
+ "id": "39ac48f889f2",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An essay argues that AI-generated slop drowns signal in noise. It says early agent code can be 'good enough' to replace humans for many coding tasks, but that when a measure becomes a target it stops being a good measure, so RL environments chasing metrics risk the wrong skills."
+ ],
+ "highlights": [
+  "AI slop risks drowning signal in noise.",
+  "Optimizing measures degrades them."
+ ]
+}

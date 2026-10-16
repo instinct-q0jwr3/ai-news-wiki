@@ -1,0 +1,13 @@
+{
+ "id": "c8b971296b4e",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The PostgreSQL project delayed Postgres 19 to November and reverted up to ten features. The reported cause is that AI code reviewers found more bugs than humans could fix in time. Core developers blame better tooling, not vibe coding."
+ ],
+ "highlights": [
+  "Postgres 19 slips to November, up to 10 features reverted.",
+  "AI reviewers found more bugs than people could fix."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "053664f3c558",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Claude Code team explains how it reviews code at agent volume. With Claude writing about 90% of its own code, it optimizes for the least human review time that does not raise reverts or incidents, after building high test coverage and deep automated reviews."
+ ],
+ "highlights": [
+  "Claude writes ~90% of Claude Code's own code.",
+  "Goal: minimum human review that keeps reverts low."
+ ]
+}

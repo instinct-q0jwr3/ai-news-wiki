@@ -1,0 +1,13 @@
+{
+ "id": "4a42fa794bbd",
+ "authored_at": "2026-10-16T20:19:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An interactive essay shows how attention layers can be seen as memory stores. An outer-product store recalls exactly up to a capacity near the key dimension and interference grows beyond it, which the post uses to motivate the transformer design."
+ ],
+ "highlights": [
+  "Transformer layers framed as memory stores.",
+  "Capacity limit tied to key dimension."
+ ]
+}
