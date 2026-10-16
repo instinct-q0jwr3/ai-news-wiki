@@ -1,53 +1,89 @@
 {
- "generated_at": "2026-10-16T02:03:28+00:00",
+ "generated_at": "2026-10-16T08:04:13+00:00",
  "stories": [
   {
-   "id": "9061eb076d39",
-   "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
+   "id": "c9113ba74509",
+   "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
    "source": "Hacker News",
-   "url": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930"
+   "url": "https://github.com/awslabs/aidlc-workflows"
   },
   {
-   "id": "ea8b58b6d976",
-   "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+   "id": "b5916562224e",
+   "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
+   "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10"
   },
   {
-   "id": "a30e04614022",
-   "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+   "id": "70421cc9166d",
+   "title": "MuscleMemory: Open-source procedural memory for AI agents",
    "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga"
+   "url": "https://github.com/TheWariend/MuscleMemory"
   },
   {
-   "id": "f8a1303a5ad1",
-   "title": "some Anthropic investors discussed a ~$1.5T valuation for its IPO, down from ~$2T they had expected, after disclosures showed slowing Q3 revenue growth",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/"
+   "id": "0d622de71a4a",
+   "title": "No AI. Build your own tree directory viewer in C by hand",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=tiMHtc6l7xM"
   },
   {
-   "id": "7e40c1f22f13",
-   "title": "Bluesky expands Attie, its AI tool for building custom feeds, with a \"social vibe coding\" feature to create sites, games, quizzes, and more on the AT Protocol",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+   "id": "d39d46b019fb",
+   "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+   "source": "Hacker News",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
   },
   {
-   "id": "cf05bdf2fd14",
-   "title": "The White House's AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more",
+   "id": "c168a7200e96",
+   "title": "Sources detail Nscale's setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance",
    "source": "Techmeme",
-   "url": "https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work"
+   "url": "https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays"
   },
   {
-   "id": "2241f1ecf095",
-   "title": "OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices"
+   "id": "d2e95c418c08",
+   "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity"
   },
   {
-   "id": "11be2c16b9be",
-   "title": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital",
+   "id": "826e791d2b89",
+   "title": "Linus Torvalds on AI-assisted kernel contributions",
+   "source": "Lobsters",
+   "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/"
+  },
+  {
+   "id": "bf6850ea5729",
+   "title": "Pluralistic: Load-bearing (16 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/15/sovereign-it/"
+  },
+  {
+   "id": "7d714c9c677f",
+   "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/opsin-expands-21-m-to-tackle-ai-agents-in-businesses-2026-10"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners"
+  },
+  {
+   "id": "2fb81efdd4aa",
+   "title": "Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/"
+  },
+  {
+   "id": "ea8a2ffcd125",
+   "title": "AI is driving a boom in modestly successful software projects",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/"
+  },
+  {
+   "id": "fe826a37ed9c",
+   "title": "Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/agentic-enterprise-rapidcanvas-vertex"
+  },
+  {
+   "id": "99e77dbc6812",
+   "title": "Frontier Pre-Training at Microsoft AI",
+   "source": "Hacker News",
+   "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"
   }
  ]
 }

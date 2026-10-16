@@ -1,0 +1,14 @@
+{
+ "id": "70421cc9166d",
+ "authored_at": "2026-10-16T08:12:39Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "MuscleMemory is an Apache-2.0 open-source tool that gives coding agents procedural memory. Agents relearn the same things each session: which files to open, how tests run, what broke before. It watches the agent work, and when a task truly succeeds (tests pass after the last change) it records how the task was done.",
+  "It is local by default and also learns from failures."
+ ],
+ "highlights": [
+  "Learns from successful and failed agent runs.",
+  "Local by default, Apache-2.0."
+ ]
+}

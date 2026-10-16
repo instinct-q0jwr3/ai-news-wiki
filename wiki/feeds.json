@@ -2,13 +2,13 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 642,
+  "stories": 646,
   "last": "2026-10-16"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 638,
+  "stories": 643,
   "last": "2026-10-16"
  },
  {
@@ -26,26 +26,26 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 47,
-  "last": "2026-10-15"
+  "stories": 48,
+  "last": "2026-10-16"
  },
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 40,
-  "last": "2026-10-15"
+  "stories": 41,
+  "last": "2026-10-16"
+ },
+ {
+  "name": "Latent.Space",
+  "url": "https://www.latent.space/feed",
+  "stories": 33,
+  "last": "2026-10-16"
  },
  {
   "name": "Bert Hubert",
   "url": "https://berthub.eu/articles/index.xml",
   "stories": 32,
   "last": "2026-10-02"
- },
- {
-  "name": "Latent.Space",
-  "url": "https://www.latent.space/feed",
-  "stories": 32,
-  "last": "2026-10-15"
  },
  {
   "name": "antirez",
@@ -84,16 +84,16 @@
   "last": "2026-10-13"
  },
  {
+  "name": "seangoedecke",
+  "url": "https://www.seangoedecke.com/rss.xml",
+  "stories": 13,
+  "last": "2026-10-16"
+ },
+ {
   "name": "Armin Ronacher",
   "url": "https://lucumr.pocoo.org/feed.atom",
   "stories": 12,
   "last": "2026-10-06"
- },
- {
-  "name": "seangoedecke",
-  "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 12,
-  "last": "2026-10-12"
  },
  {
   "name": "Anil Dash",

@@ -1,0 +1,13 @@
+{
+ "id": "c9113ba74509",
+ "authored_at": "2026-10-16T08:12:39Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "AI-DLC is an open workflow harness that turns AI coding assistants into structured, verifiable software-delivery processes. One tool-neutral core runs natively in Claude Code, Kiro, Codex CLI, Cursor, opencode and GitHub Copilot, installed through a quick-start script."
+ ],
+ "highlights": [
+  "Adaptive workflow rules for coding agents.",
+  "Works across Claude Code, Kiro, Codex, Cursor and Copilot."
+ ]
+}

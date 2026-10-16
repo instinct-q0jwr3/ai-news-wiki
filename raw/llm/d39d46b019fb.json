@@ -1,0 +1,13 @@
+{
+ "id": "d39d46b019fb",
+ "authored_at": "2026-10-16T08:12:39Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A guide to running large LLMs locally and across several Mac Studios with MLX, Apple's open-source array framework, using RDMA to link the machines. It builds on unified memory on Apple silicon for private local experimentation with inference and fine-tuning."
+ ],
+ "highlights": [
+  "MLX plus RDMA to distribute large model inference across Macs.",
+  "Private local inference on Apple silicon."
+ ]
+}

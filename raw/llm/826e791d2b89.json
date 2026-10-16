@@ -1,0 +1,12 @@
+{
+ "id": "826e791d2b89",
+ "authored_at": "2026-10-16T08:12:39Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the page returned only an Anubis anti-scraper challenge, so the article was not read. The headline says Linus Torvalds commented on AI-assisted kernel contributions."
+ ],
+ "highlights": [
+  "Basis: headline only; blocked by anti-bot page."
+ ]
+}
