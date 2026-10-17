@@ -1,0 +1,19 @@
+{
+ "id": "50af39952d3d",
+ "authored_at": "2026-10-17T08:16:26.258244+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Lithos-metal is a fully open-source inference engine that generates Metal megakernels for Apple silicon, targeting low-latency local LLM serving on a Mac for coding agents and similar workloads. On a 40-core M5 Max with 48GB of unified memory it runs Qwen3.8-27B at a reported 168 tokens per second.",
+  "The design combines layer-wise mixer megakernels, GPU-resident generation control and DSpark speculative decoding, where a draft head proposes seven tokens that the target model verifies together with one anchor token. It installs via a Homebrew tap, serves an OpenAI-compatible endpoint on port 8000 with a 32K default context, and ships launchers for clients like opencode, Claude, Codex and Hermes."
+ ],
+ "highlights": [
+  "Open-source inference engine generating Metal megakernels for Apple silicon",
+  "Qwen3.8-27B at 168 tok/s on a 40-core M5 Max with 48GB unified memory",
+  "DSpark speculative decoding: draft proposes 7 tokens, target verifies with 1 anchor",
+  "Install via Homebrew tap; one command serves a model with cached weight packs",
+  "OpenAI-compatible endpoint at 127.0.0.1:8000, 32K default context",
+  "Launchers for opencode, Claude, Codex, Hermes and other OpenAI-compatible clients",
+  "Requires macOS 26+ and a registered chip backend"
+ ]
+}

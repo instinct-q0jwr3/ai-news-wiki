@@ -877,6 +877,28 @@
     "eadf4f76bbed"
    ],
    "concepts": []
+  },
+  {
+   "title": "Local LLM speed, measured and estimated",
+   "intro": "Two Show HN projects and one open-source engine sharpen the picture of running models on your own hardware: Llmspeed estimates per-device speed before you buy, Lithos-metal reports 168 tok/s for Qwen3.8-27B on an M5 Max, and Fakeipedia shows the creative end of local-scale generation.",
+   "stories": [
+    "a3f984e8cbe3",
+    "50af39952d3d",
+    "c265e891ba55"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI funding and enterprise consolidation",
+   "intro": "A cluster of deals: Scarlet raised $50M to speed up AI medical device certification, Mistlabs took $26M for its ambient assistant Ambi, Reach Security passed $50M for AI-driven exposure management, and Workday agreed to buy identity startup C1.ai. Meanwhile an FT profile floats Alexandr Wang as a potential Zuckerberg successor.",
+   "stories": [
+    "36fdeb556b3c",
+    "f8f6d8732b9a",
+    "2d423511055f",
+    "b4cd324bc758",
+    "9b1524b72cc6"
+   ],
+   "concepts": []
   }
  ]
 }

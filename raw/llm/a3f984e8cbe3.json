@@ -1,0 +1,18 @@
+{
+ "id": "a3f984e8cbe3",
+ "authored_at": "2026-10-17T08:16:26.258244+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Llmspeed is a browsing tool for estimating how fast a given local LLM will feel on specific hardware before buying it. The site pairs a catalogue of GPUs, Macs and CPU-only setups (from an RTX 3060 to cloud H200s) with a list of current open models and shows expected generation speed for each combination, aiming to make the hardware decision concrete rather than speculative.",
+  "The numbers are openly approximate: measured figures come from community benchmarks such as r/LocalLLaMA and localscore.ai, and the rest are derived from similar setups or projected from specs. The project is open source on GitHub."
+ ],
+ "highlights": [
+  "Estimates local LLM tokens/sec per hardware-plus-model combination",
+  "Covers ~29 setups from RTX 3060 and M2 Pro up to DGX Spark and cloud H100/H200",
+  "Model list includes Qwen 3.6/3.8 27B, GLM-5.3 Flash, GPT-OSS 20B/120B, Gemma 4, DeepSeek V4 Flash",
+  "Measured data sourced from community benchmarks like r/LocalLLaMA and localscore.ai",
+  "Unmeasured combinations are derived from similar setups or projected from specs",
+  "Open source on GitHub"
+ ]
+}

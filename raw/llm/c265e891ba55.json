@@ -1,0 +1,17 @@
+{
+ "id": "c265e891ba55",
+ "authored_at": "2026-10-17T08:16:26.258244+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the project's own Show HN post; the live page returned almost no readable text. Fakeipedia is an automatic world-building platform: give it an imagined world and it generates a whole fictional wiki you can explore endlessly by following red links, in the style of Wikipedia for places that don't exist.",
+  "The creator says the idea came from experimenting with worldbuilding in Gemini, but release waited until a model judged creative enough - Argon - could write articles worth reading. Generating an article carries a nominal charge of $0.90."
+ ],
+ "highlights": [
+  "Generates an entire explorable fictional wiki from an imagined world premise",
+  "Navigation mimics Wikipedia, including red links to not-yet-written articles",
+  "Built on a model the author calls Argon, chosen for creative writing quality",
+  "Article generation costs a nominal $0.90",
+  "Basis: Show HN description; site text unreadable"
+ ]
+}

@@ -1,101 +1,53 @@
 {
- "generated_at": "2026-10-17T02:06:44+00:00",
+ "generated_at": "2026-10-17T08:08:10+00:00",
  "stories": [
   {
-   "id": "eadf4f76bbed",
-   "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
+   "id": "a3f984e8cbe3",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
    "source": "Hacker News",
-   "url": "https://www.kapwing.com/ai/prompt-generator/camera"
+   "url": "https://llmspeed.dev/"
   },
   {
-   "id": "fe481b606985",
-   "title": "Android gets AI defenses against messaging scams, fake calls",
+   "id": "c265e891ba55",
+   "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
    "source": "Hacker News",
-   "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/"
+   "url": "https://fakeipedia.org"
   },
   {
-   "id": "c53e6a741fb9",
-   "title": "Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html"
-  },
-  {
-   "id": "29e28674a742",
-   "title": "Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release",
-   "source": "Techmeme",
-   "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"
-  },
-  {
-   "id": "6357cb925616",
-   "title": "Do you let LLMs write both your tests and your code?",
-   "source": "Lobsters",
-   "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your"
-  },
-  {
-   "id": "f91727f14b91",
-   "title": "LaTeX renderer",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/15/latex/"
-  },
-  {
-   "id": "ad3e0d93e9fd",
-   "title": "Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more",
-   "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/ai-expectations-gap"
-  },
-  {
-   "id": "929f58ab0c22",
-   "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/16/code-review/"
-  },
-  {
-   "id": "38179bf21097",
-   "title": "Strange Times Make for Strange Bedfellows",
-   "source": "Daring Fireball",
-   "url": "https://x.com/finkd/status/2110778025629347999"
-  },
-  {
-   "id": "687226829d97",
-   "title": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
-  },
-  {
-   "id": "74f7546de620",
-   "title": "Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review",
-   "source": "Techmeme",
-   "url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/"
-  },
-  {
-   "id": "78888162613a",
-   "title": "Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more",
-   "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/employment-at-anthropic"
-  },
-  {
-   "id": "81eecb482e03",
-   "title": "Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic's $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89"
-  },
-  {
-   "id": "7a28c5b78580",
-   "title": "Claude reveals ECDSA curve origins",
+   "id": "50af39952d3d",
+   "title": "Lithos-metal: Qwen3.8-27B on 40-core M5 Max at 168 tokens/s",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+   "url": "https://github.com/lithos-ai/lithos-metal"
   },
   {
-   "id": "6ed8a57fce7b",
-   "title": "Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’",
-   "source": "Daring Fireball",
-   "url": "https://developer.apple.com/news/?id=vvzx6cul"
+   "id": "9b1524b72cc6",
+   "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?accessToken=zwAAAaFIyQ5dkc90d-RiyJlIQdOlz8AXBuI5gg.MEYCIQDunNb-ag1EE-tWY6MfhtnPpdpr1Yz6xf7d6aGMp351LgIhAMFU5tO6ZQsn6S5v-SjOZgS5Igb0J-QlFM0-o22bRyVU&sharetype=gift&token=1e1595e8-347b-4fb7-9ca6-635fe0e44468"
   },
   {
-   "id": "6665e346395d",
-   "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/claude-dynamic-workflows"
+   "id": "f8f6d8732b9a",
+   "title": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/"
+  },
+  {
+   "id": "b4cd324bc758",
+   "title": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M",
+   "source": "Techmeme",
+   "url": "https://www.bizjournals.com/portland/news/2026/10/13/c1-workday-acquisition.html?page=all"
+  },
+  {
+   "id": "36fdeb556b3c",
+   "title": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion",
+   "source": "Techmeme",
+   "url": "https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/"
+  },
+  {
+   "id": "2d423511055f",
+   "title": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners",
+   "source": "Techmeme",
+   "url": "https://fintech.global/2026/10/15/reach-securitys-50m-bet-on-machine-speed-cyber-defence/"
   }
  ]
 }
