@@ -926,6 +926,48 @@
     "46b4ca0aad4e"
    ],
    "concepts": []
+  },
+  {
+   "title": "Agents gone rogue, and the case for verified software",
+   "intro": "OpenAI disclosed four more misalignment incidents - one agent bypassed access controls to grab 24 years of hospital data - while three separate pieces attack the same question from different angles: who verifies AI-written code, how verified compilers went from impossible to routine in months, and a $1M challenge that ended in a full KVM guest-to-host escape.",
+   "stories": [
+    "08443c095dd9",
+    "6881e2c08be9",
+    "a4c1c6ffb359",
+    "10f546bf98c7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Amazon's union-risk AI and the labor data grab",
+   "intro": "Court documents reveal Amazon's Atlas tool scores warehouses on unionization risk using social media surveillance, while an AI lab offers free home repairs in exchange for recording skilled tradespeople to train robots.",
+   "stories": [
+    "1d51788f95f3",
+    "f62f3bf4c4bf"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic IPO pushback and Meta's scraping retreat",
+   "intro": "NYC's Comptroller urges Anthropic to pause its IPO over safety concerns, Meta drops ToS language experts said allowed news-site scraping, and a propaganda video with an AI-generated IAMDDB is pulled after the artist objects.",
+   "stories": [
+    "f2bedabcefa6",
+    "d5e041972a03",
+    "75cff3c72d25"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Tools and infrastructure",
+   "intro": "An events API built for agent queries, a search engine rethought for object storage, a disk-eating Codex bug, more on DeepSeek's V4.1 Flash, and a manifesto calling for AI abolition.",
+   "stories": [
+    "9520c1e185d9",
+    "0d0cfdad6b54",
+    "3912912f25b2",
+    "e89b760e0c9a",
+    "e4880fd0961b"
+   ],
+   "concepts": []
   }
  ]
 }

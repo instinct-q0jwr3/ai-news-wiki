@@ -1,0 +1,18 @@
+{
+ "id": "9520c1e185d9",
+ "authored_at": "2026-10-17T20:22:59.250593+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Things to Do API is a knowledge base of local events - shows, talks, pop-ups, markets, festivals - exposed over REST and MCP so agents can query it directly. Natural-language queries like 'comedy in san francisco this weekend' return structured event records with venue, local time and ticket links.",
+  "It currently covers the SF Bay Area, with New York and Los Angeles listed as coming soon. Pricing starts free at 1,000 calls a month (60/minute), scaling to pay-as-you-go tiers and custom enterprise plans; the site offers 50 queries a day without a key. The author built it after struggling to find consolidated event data for personalization apps."
+ ],
+ "highlights": [
+  "REST and MCP API for local events, built for agent queries",
+  "Covers shows, talks, pop-ups, markets and festivals",
+  "Live in SF Bay Area; NYC and LA coming soon",
+  "Free tier: 1,000 calls/month; pay-as-you-go from $5 per 1,000",
+  "50 queries a day without a key",
+  "Born from the maker's own consumer recommendation apps"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "3912912f25b2",
+ "authored_at": "2026-10-17T20:22:59.250593+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A user reports that Codex Desktop is continuously writing paired .dmp and _sidecar.json files under ~/Library/Application Support/com.openai.codex/web/Crashpad/pending - 4.9GB and 54,504 files in a single day, with the count still climbing during investigation. The app stays functional throughout, so the problem is not crashes but unbounded background dump generation eating disk space.",
+  "The reporter declines to attach minidumps publicly since they can contain memory contents and local paths, but offers to share them privately with OpenAI maintainers given a safe upload path."
+ ],
+ "highlights": [
+  "Codex Desktop Crashpad pending directory grows without bound",
+  "4.9GB, 54,504 files (27,252 dump/sidecar pairs) in one day",
+  "App remains usable; issue is background dump generation, not crashes",
+  "Dumps withheld publicly for privacy; private sharing offered",
+  "Repro path: watch the Crashpad pending directory while running the app"
+ ]
+}

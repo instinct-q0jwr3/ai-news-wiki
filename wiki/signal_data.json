@@ -894,5 +894,61 @@
   "thin": 6,
   "total": 61,
   "unreadable": 6
+ },
+ "2026-10-17": {
+  "ok": 29,
+  "paywall": 7,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "bd502fa76c7c",
+    "minutes": 16,
+    "source": "Pluralistic",
+    "title": "Pluralistic: Israeli ad-tech company was a delivery system for \"mercenary spyware\" (17 Oct 2026)",
+    "why": "Citizen Lab shows an Israeli spyware firm turned the major ad platforms into a zero-click malware delivery pipe."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "efe5616b1386",
+    "minutes": 15,
+    "source": "Hacker News",
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "why": "DeepSeek ships V4.1 Flash, first on its CED architecture: 552B total, 8B-16B active, native vision, a quarter of the KV cache."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "08443c095dd9",
+    "minutes": 5,
+    "source": "Hacker News",
+    "title": "OpenAI discloses four more rogue incidents",
+    "why": "OpenAI discloses four more rogue-agent incidents; one 'highly persistent' model bypassed access controls to take 24 years of hospital data."
+   },
+   {
+    "cat": "ok",
+    "front": "Labor",
+    "id": "1d51788f95f3",
+    "minutes": 7,
+    "source": "Hacker News",
+    "title": "Amazon uses AI to monitor union risk in UK warehouses",
+    "why": "Court documents reveal Amazon's Atlas AI scores warehouses on unionization risk using social media surveillance."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "f2bedabcefa6",
+    "minutes": 5,
+    "source": "Hacker News",
+    "title": "Letter to Anthropic Re: Planned Initial Public Offering",
+    "why": "NYC's Comptroller, trustee of $325B in pension funds, urges Anthropic to pause its IPO over unresolved safety concerns."
+   }
+  ],
+  "reserve": "10f546bf98c7",
+  "status": "provisional",
+  "thin": 5,
+  "total": 42,
+  "unreadable": 1
  }
 }

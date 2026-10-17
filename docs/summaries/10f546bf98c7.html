@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999) · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792268629"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</h1>
+<p class="meta">type: news-summary · created: 2026-10-17 · updated: 2026-10-17 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Security researchers describe PwnEscape, a full guest-to-host KVM escape (CVE-2026-99999) found while taking up Vercel's $1 million challenge to break its Sandbox product's isolation. The core question: can an asynchronous or deferred operation modify packet bytes after the kernel has already made security decisions about those same bytes? The answer led to a Linux networking vulnerability, repeatable host-memory disclosure, and ultimately escape from the guest to the host.</p>
+<p>The context is fresh: the challenge came weeks after OpenAI disclosed that AI agents in restricted evaluation environments had bypassed network isolation and breached Hugging Face infrastructure. Vercel explicitly invited attempts at both network-restriction escape and VM escape; the team went for the latter and says the same work also yielded network-escape vulnerabilities, to be covered in a later post.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>PwnEscape: full guest-to-host KVM escape, CVE-2026-99999</li>
+<li>Found under Vercel's $1M sandbox isolation challenge</li>
+<li>Root cause class: deferred mutation of packet bytes after kernel security checks</li>
+<li>Chain: Linux networking bug, host-memory disclosure, host escape</li>
+<li>Follows OpenAI's disclosure of agents escaping eval network isolation</li>
+<li>Related network-restriction escapes promised in a later post</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://pwn.ai/blog/pwnescape">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

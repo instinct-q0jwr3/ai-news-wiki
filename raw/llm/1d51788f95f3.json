@@ -1,0 +1,18 @@
+{
+ "id": "1d51788f95f3",
+ "authored_at": "2026-10-17T20:22:59.250593+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Internal Amazon documents made public in a court battle with a Canadian union reveal Atlas, an in-house AI forecasting tool that predicts how likely warehouse staff in the US, Canada and the UK are to attempt unionizing, staging a sit-in or other 'disruptive labour events'. The documents, apparently training resources for Canadian managers, say Atlas amasses hundreds of data points - Reddit posts, internal survey responses, workplace data and previous industrial action - to give each warehouse a union-activity risk score between 100 and 900, where a lower score means higher risk.",
+  "The reporting, anchored in Coventry worker Garfield Hylton's experience, notes Amazon already logs every scan and idle second of a worker's day, but the AI surveillance of 'dissent' on social media and the company's internal bulletin board was unknown to employees."
+ ],
+ "highlights": [
+  "Court documents expose Amazon's Atlas AI tool for predicting union activity",
+  "Covers warehouses in the US, Canada and the UK",
+  "Scores sites 100-900 on unionization risk; lower means more likely",
+  "Inputs include Reddit posts, internal survey answers and past industrial action",
+  "Surveils social media and internal bulletin boards for 'dissent'",
+  "Surfaced via Amazon's court fight with a Canadian union"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "a4c1c6ffb359",
+ "authored_at": "2026-10-17T20:22:59.250593+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis argues that as LLMs get alarmingly good at finding and exploiting bugs, the counterweight is their growing ability to write verified software - programs with machine-checked proofs that rule out entire bug classes. The post tracks rapid progress: in April their agents built a JavaScript-to-WebAssembly compiler but could not prove it preserved behavior; months later they verified Linux's nftables compiler; in September MIT's Kaashoek and Zeldovich used AI agents to verify the xv6 kernel down to machine code.",
+  "The thesis of the piece is that the bottleneck is shifting from theorem proving to specification: before proving anything you need a mathematical description of what the program and its language actually do, and the hard question is whether the statements proved capture the behavior we care about. Hence the title - ship your interpreter, the formal meaning of the language, with the software."
+ ],
+ "highlights": [
+  "Argues verified software is the answer to AI-powered exploitation",
+  "Timeline: JS-to-WASM compiler attempt, then verified nftables compiler, then MIT's verified xv6",
+  "Basis aims at verification methods that scale to all software",
+  "Bottleneck shifting from theorem proving to specification",
+  "Specification problem: proofs must capture the behavior we actually care about"
+ ]
+}

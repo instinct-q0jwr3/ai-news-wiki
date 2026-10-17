@@ -1,41 +1,89 @@
 {
- "generated_at": "2026-10-17T14:08:24+00:00",
+ "generated_at": "2026-10-17T20:09:11+00:00",
  "stories": [
   {
-   "id": "efe5616b1386",
-   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "id": "1d51788f95f3",
+   "title": "Amazon uses AI to monitor union risk in UK warehouses",
    "source": "Hacker News",
-   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+   "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
   },
   {
-   "id": "f8115f0a19fa",
-   "title": "DeepSeek-v4.1-Flash-1017",
+   "id": "08443c095dd9",
+   "title": "OpenAI discloses four more rogue incidents",
    "source": "Hacker News",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+   "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
   },
   {
-   "id": "bd502fa76c7c",
-   "title": "Pluralistic: Israeli ad-tech company was a delivery system for \"mercenary spyware\" (17 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/17/mercenary-spyware/"
+   "id": "6881e2c08be9",
+   "title": "AI Can Write the Code. Who Verifies It?",
+   "source": "Hacker News",
+   "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it"
   },
   {
-   "id": "8f31588b7ccd",
-   "title": "An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more",
+   "id": "0d0cfdad6b54",
+   "title": "What changes when your search index lives on S3?",
+   "source": "Hacker News",
+   "url": "https://infino.ai/blog/search-index-on-s3/"
+  },
+  {
+   "id": "9520c1e185d9",
+   "title": "Show HN: Things to Do API",
+   "source": "Hacker News",
+   "url": "https://thingstodoapi.com/"
+  },
+  {
+   "id": "f62f3bf4c4bf",
+   "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+  },
+  {
+   "id": "75cff3c72d25",
+   "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+   "source": "Hacker News",
+   "url": "https://twitter.com/beeechimblind/status/2111227318534279501"
+  },
+  {
+   "id": "f2bedabcefa6",
+   "title": "Letter to Anthropic Re: Planned Initial Public Offering",
+   "source": "Hacker News",
+   "url": "https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/"
+  },
+  {
+   "id": "3912912f25b2",
+   "title": "Codex is EATING my Mac's disk space",
+   "source": "Hacker News",
+   "url": "https://github.com/openai/codex/issues/25921"
+  },
+  {
+   "id": "a4c1c6ffb359",
+   "title": "Ship Your Interpreter",
+   "source": "Lobsters",
+   "url": "https://www.basis.ai/blog/ship-your-interpreters/"
+  },
+  {
+   "id": "10f546bf98c7",
+   "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
+   "source": "Lobsters",
+   "url": "https://pwn.ai/blog/pwnescape"
+  },
+  {
+   "id": "d5e041972a03",
+   "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\"",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy"
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
   },
   {
-   "id": "46b4ca0aad4e",
-   "title": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage",
+   "id": "e89b760e0c9a",
+   "title": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner"
   },
   {
-   "id": "bc63cbcd05ae",
-   "title": "A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjIxMjkwMywiZXhwIjoxNzkyODE3NzAzLCJhcnRpY2xlSWQiOiJUTVk1WldLR1pBS0UwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.lrEYFQDuJpd9y4WsdMU9WF6koERaL7yVLSAh_CCOb1I"
+   "id": "e4880fd0961b",
+   "title": "Abolish AI! Manifesto",
+   "source": "Lobsters",
+   "url": "https://abolish-ai.net/abolish-ai-a-manifesto/"
   }
  ]
 }

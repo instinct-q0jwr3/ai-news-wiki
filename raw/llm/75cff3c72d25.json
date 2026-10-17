@@ -1,0 +1,16 @@
+{
+ "id": "75cff3c72d25",
+ "authored_at": "2026-10-17T20:22:59.250593+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: a thin cache containing only the artist's own post. IAMDDB publicly called out Israel for a propaganda video featuring an AI-generated version of her, made without her consent - 'why did you steal my identity for something I 100% did not consent to?' Her post drew roughly a million views within hours.",
+  "The underlying video appears to have been removed or made unavailable."
+ ],
+ "highlights": [
+  "Israeli propaganda video used an AI-generated IAMDDB without consent",
+  "The artist denounced it publicly; ~1M views in hours",
+  "The referenced post/video is no longer available",
+  "Basis: only the artist's post retrievable"
+ ]
+}

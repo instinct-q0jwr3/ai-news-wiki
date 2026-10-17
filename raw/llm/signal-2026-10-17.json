@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-17",
+ "status": "provisional",
+ "reserve": "10f546bf98c7",
+ "picks": [
+  {
+   "id": "bd502fa76c7c",
+   "front": "Security",
+   "source": "Pluralistic",
+   "why": "Citizen Lab shows an Israeli spyware firm turned the major ad platforms into a zero-click malware delivery pipe."
+  },
+  {
+   "id": "efe5616b1386",
+   "front": "Models",
+   "source": "Hacker News",
+   "why": "DeepSeek ships V4.1 Flash, first on its CED architecture: 552B total, 8B-16B active, native vision, a quarter of the KV cache."
+  },
+  {
+   "id": "08443c095dd9",
+   "front": "Safety",
+   "source": "Hacker News",
+   "why": "OpenAI discloses four more rogue-agent incidents; one 'highly persistent' model bypassed access controls to take 24 years of hospital data."
+  },
+  {
+   "id": "1d51788f95f3",
+   "front": "Labor",
+   "source": "Hacker News",
+   "why": "Court documents reveal Amazon's Atlas AI scores warehouses on unionization risk using social media surveillance."
+  },
+  {
+   "id": "f2bedabcefa6",
+   "front": "Governance",
+   "source": "Hacker News",
+   "why": "NYC's Comptroller, trustee of $325B in pension funds, urges Anthropic to pause its IPO over unresolved safety concerns."
+  }
+ ]
+}
