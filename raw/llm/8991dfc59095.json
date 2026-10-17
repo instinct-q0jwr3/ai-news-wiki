@@ -1,0 +1,12 @@
+{
+ "id": "8991dfc59095",
+ "authored_at": "2026-10-17T02:16:05Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: headline only, no source text. Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, matching the earlier ECDSA item."
+ ],
+ "highlights": [
+  "Basis: headline only; ECDSA seeds traced."
+ ]
+}

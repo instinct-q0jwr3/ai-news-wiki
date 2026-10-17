@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-10-16 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-17 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-10-17** - Basis: thin page. Daring Fireball post titled Strange Times Make for Strange Bedfellows; content not read. ([Strange Times Make for Strange Bedfellows](../summaries/38179bf21097.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠
 - **2026-10-16** - StarSkirmish Bench measures how strong a StarCraft bot each LLM can write in one hour of wall-clock time. Version 0.2 adds flagship models from OpenAI, Anthropic, Google and Meta, each run in its own lab's CLI harness, scored by win rate against… ([Show HN: Gemini 4 Argon plays StarCraft](../summaries/cdc78e8cb8be.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-10-15** - Meta released the weights of Muse Spark Open, calling it the most capable US open-weight model so far. It is natively multimodal, with 816B total parameters (42B active) and a 1M-token context, built for coding and agentic work. ([Muse Spark Open, the Most Capable US Open‑Weight Model to Date](../summaries/74c3c8118696.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-15** - Meta and Apple announced a collaboration so developers can run Muse Spark Open locally on Apple's top Mac Studios with M5 Ultra. The article frames it as a thaw between Tim Cook's and Mark Zuckerberg's companies now that John Ternus leads Apple, with AI as… ([Meta says it worked with Apple to make Muse Spark Open run locally on M5 Ultra Mac Studios, letting users pair two to four Studios to code or do agentic work](../summaries/a355f6f8aa57.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))

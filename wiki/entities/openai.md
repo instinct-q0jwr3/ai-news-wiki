@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-17 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-17** - Replit CEO Amjad Masad said the company no longer works with Anthropic, citing cost and saying a rival chatbot is better value. Replit is a popular AI coding platform among founders. ([CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying "ChatGPT is better now"; source: the partnership is still in place](../summaries/687226829d97.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-16** - StarSkirmish Bench measures how strong a StarCraft bot each LLM can write in one hour of wall-clock time. Version 0.2 adds flagship models from OpenAI, Anthropic, Google and Meta, each run in its own lab's CLI harness, scored by win rate against… ([Show HN: Gemini 4 Argon plays StarCraft](../summaries/cdc78e8cb8be.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-10-16** - Basis: only an unroll-site shell was readable, so the content of the OpenAI GPT-Live-1.1 announcement thread was not read. The title says GPT-Live-1.1. ([GPT-Live-1.1](../summaries/e9133f5888d9.md) · [OpenAI](../entities/openai.md))
 - **2026-10-16** - Basis: only the start of the page was read. It opens with a mock 'thinking' loop about a lost lead and choosing between terminal, editor or cloud, as a lead-in to how Codex came about. ([How Codex Happened](../summaries/6d416cfffe04.md) · [OpenAI](../entities/openai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

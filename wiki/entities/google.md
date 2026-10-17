@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-17 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-17** - Basis: headline only, the source could not be fetched. Sources say Anthropic offers Blackstone a yield above 10% to help finance a $60B debt package. ([Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic's $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt](../summaries/81eecb482e03.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md)) 🔒
 - **2026-10-16** - StarSkirmish Bench measures how strong a StarCraft bot each LLM can write in one hour of wall-clock time. Version 0.2 adds flagship models from OpenAI, Anthropic, Google and Meta, each run in its own lab's CLI harness, scored by win rate against… ([Show HN: Gemini 4 Argon plays StarCraft](../summaries/cdc78e8cb8be.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-10-16** - Basis: thin page. Headline says Sergey Brin claims Google's AI models are reaching recursive self-improvement; no detail was read. ([Sergey Brin says Google's AI models are reaching recursive self-improvement](../summaries/b5916562224e.md) · [Google](../entities/google.md)) ⚠
 - **2026-10-16** - Cory Doctorow's post begins with a story of strange things found inside the walls of his 1949 house, such as a junction box of live bare wires packed with newspaper, as a way into a point about load-bearing things. Only the opening was read. ([Pluralistic: Load-bearing (16 Oct 2026)](../summaries/bf6850ea5729.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

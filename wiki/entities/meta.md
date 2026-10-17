@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-17 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,8 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-17** - Basis: thin page. Daring Fireball post titled Strange Times Make for Strange Bedfellows; content not read. ([Strange Times Make for Strange Bedfellows](../summaries/38179bf21097.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠
+- **2026-10-17** - Basis: headline only, the source could not be fetched. Filings show Meta cut its $65M midterms budget by $25M through refunds, mainly from a super PAC. ([Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills](../summaries/c53e6a741fb9.md) · [Meta](../entities/meta.md)) 🔒
 - **2026-10-16** - Cory Doctorow's post begins with a story of strange things found inside the walls of his 1949 house, such as a junction box of live bare wires packed with newspaper, as a way into a point about load-bearing things. Only the opening was read. ([Pluralistic: Load-bearing (16 Oct 2026)](../summaries/bf6850ea5729.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-16** - Basis: headline only, the source could not be fetched. Techmeme says OpenAI keeps growing its ChatGPT ad business, cutting ad rates and chasing small and midsize advertisers. ([OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta](../summaries/2241f1ecf095.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md)) 🔒
 - **2026-10-15** - Basis: headline only, the source could not be fetched. Alexandr Wang says ex-Apple executive Daniel Gross, now at Meta, helped bring Meta and Apple together on the Muse Spark Open collaboration. ([Alexandr Wang says ex-Apple exec Daniel Gross, now at Meta, helped bring Meta and Apple together: "we're excited for mommy and daddy to be playing nice again"](../summaries/c8dbc58442e4.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md)) ⚠

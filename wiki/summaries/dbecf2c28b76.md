@@ -1,6 +1,6 @@
 # OpenFatigue™ – Open is the new closed
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-16 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-17 · confidence: high_
 
 `hacker-news`
 

@@ -1,6 +1,6 @@
 # An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI "super learner" using RL as an alternative path to LLMs, and more
 
-_type: news-summary · created: 2026-10-12 · updated: 2026-10-16 · confidence: high_
+_type: news-summary · created: 2026-10-12 · updated: 2026-10-17 · confidence: high_
 
 `techmeme` `google` `gemini`
 

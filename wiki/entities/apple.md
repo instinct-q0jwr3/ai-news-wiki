@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-17 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-17** - Apple updated its App Review Guidelines to tighten rules on nonconsensual intimate imagery and on bait-and-switch apps. Pornographic material was already banned, and the update adds explicit action against apps that generate such content and against apps… ([Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’](../summaries/6ed8a57fce7b.md) · [Apple](../entities/apple.md))
+- **2026-10-17** - Basis: thin page. Daring Fireball post titled Strange Times Make for Strange Bedfellows; content not read. ([Strange Times Make for Strange Bedfellows](../summaries/38179bf21097.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠
+- **2026-10-17** - Apple's new App Review Guidelines crack down on AI 'nudify' apps and on apps that reveal undocumented features. Apps that let users create or share content face particular scrutiny over IP, nonconsensual intimate imagery and bullying, and hidden or dormant… ([Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review](../summaries/74f7546de620.md) · [Apple](../entities/apple.md))
 - **2026-10-16** - Cory Doctorow's post begins with a story of strange things found inside the walls of his 1949 house, such as a junction box of live bare wires packed with newspaper, as a way into a point about load-bearing things. Only the opening was read. ([Pluralistic: Load-bearing (16 Oct 2026)](../summaries/bf6850ea5729.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-16** - Basis: headline only, the source could not be fetched. Chinese state media says Tim Cook said in an interview that China approved Apple Intelligence. ([Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI](../summaries/2fb81efdd4aa.md) · [Apple](../entities/apple.md)) ⚠
 - **2026-10-15** - Basis: headline only, the source could not be fetched. Alexandr Wang says ex-Apple executive Daniel Gross, now at Meta, helped bring Meta and Apple together on the Muse Spark Open collaboration. ([Alexandr Wang says ex-Apple exec Daniel Gross, now at Meta, helped bring Meta and Apple together: "we're excited for mommy and daddy to be playing nice again"](../summaries/c8dbc58442e4.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md)) ⚠

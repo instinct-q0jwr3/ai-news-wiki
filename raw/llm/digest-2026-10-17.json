@@ -1,0 +1,39 @@
+{
+ "id": "digest-2026-10-17",
+ "date": "2026-10-17",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Replit stops working with Anthropic over cost, Apple cracks down on AI nudify apps, and Anthropic reports on AI's effect on its own hiring.",
+ "sections": [
+  {
+   "title": "Anthropic finance, safety bill and Replit exit",
+   "intro": "Anthropic's debt talks and lobbying surface alongside Replit dropping it over cost, plus its studies of AI and work.",
+   "stories": [
+    "687226829d97",
+    "81eecb482e03",
+    "29e28674a742",
+    "78888162613a",
+    "ad3e0d93e9fd",
+    "8991dfc59095",
+    "c53e6a741fb9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "App Store rules, scam defenses and review practice",
+   "intro": "Apple and Google tighten defenses against abuse, and developers rethink code review for AI-written code.",
+   "stories": [
+    "74f7546de620",
+    "6ed8a57fce7b",
+    "fe481b606985",
+    "929f58ab0c22",
+    "6357cb925616",
+    "06b86062b24a",
+    "f91727f14b91",
+    "38179bf21097",
+    "eadf4f76bbed"
+   ],
+   "concepts": []
+  }
+ ]
+}

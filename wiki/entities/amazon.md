@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-17 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-10-17** - Basis: thin page. Daring Fireball post titled Strange Times Make for Strange Bedfellows; content not read. ([Strange Times Make for Strange Bedfellows](../summaries/38179bf21097.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠
 - **2026-10-16** - Cory Doctorow's post begins with a story of strange things found inside the walls of his 1949 house, such as a junction box of live bare wires packed with newspaper, as a way into a point about load-bearing things. Only the opening was read. ([Pluralistic: Load-bearing (16 Oct 2026)](../summaries/bf6850ea5729.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-15** - Basis: headline only, the source could not be fetched. Alexandr Wang says ex-Apple executive Daniel Gross, now at Meta, helped bring Meta and Apple together on the Muse Spark Open collaboration. ([Alexandr Wang says ex-Apple exec Daniel Gross, now at Meta, helped bring Meta and Apple together: "we're excited for mommy and daddy to be playing nice again"](../summaries/c8dbc58442e4.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md)) ⚠
 - **2026-10-15** - Cory Doctorow argues Expedia has done to hotel rooms what Amazon did to retail: lock in suppliers and rules so prices rise everywhere, even outside the platform. He uses Amazon's pricing practices as the template. ([Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)](../summaries/52978f19a55f.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

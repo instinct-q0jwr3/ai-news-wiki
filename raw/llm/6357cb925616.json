@@ -1,0 +1,13 @@
+{
+ "id": "6357cb925616",
+ "authored_at": "2026-10-17T02:16:05Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Lobsters thread asks whether people let LLMs write both tests and code. The poster is considering a team rule that the LLM may only generate significant amounts of one of them, and asks what others have experienced."
+ ],
+ "highlights": [
+  "Question: should LLMs write both tests and code?",
+  "Poster weighs a rule limiting it to one."
+ ]
+}
