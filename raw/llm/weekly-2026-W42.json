@@ -899,6 +899,33 @@
     "9b1524b72cc6"
    ],
    "concepts": []
+  },
+  {
+   "title": "DeepSeek V4.1 Flash arrives",
+   "intro": "DeepSeek shipped V4.1 Flash 1017, the first model on its Causal Encoder-Decoder architecture: 552B total parameters, 8B active on input and 16B on output, native image understanding, and KV cache compressed to a quarter of the previous Flash generation.",
+   "stories": [
+    "efe5616b1386",
+    "f8115f0a19fa"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Surveillance, from ad-tech spyware to license plate readers",
+   "intro": "Two accountability stories: Citizen Lab shows an Israeli spyware firm used the major ad platforms as a zero-click malware delivery pipe, and Benn Jordan explains to The Verge how the anti-Flock backlash went from YouTube investigations to a Senate hearing and cancelled contracts.",
+   "stories": [
+    "bd502fa76c7c",
+    "8f31588b7ccd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The money around AI",
+   "intro": "Bloomberg profiles Blackstone's Jon Gray and his $200B AI data center bet, while the WSJ reports insurers worry AI liability claims could outpace coverage limits.",
+   "stories": [
+    "bc63cbcd05ae",
+    "46b4ca0aad4e"
+   ],
+   "concepts": []
   }
  ]
 }

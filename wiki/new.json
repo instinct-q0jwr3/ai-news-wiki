@@ -1,53 +1,41 @@
 {
- "generated_at": "2026-10-17T08:08:10+00:00",
+ "generated_at": "2026-10-17T14:08:24+00:00",
  "stories": [
   {
-   "id": "a3f984e8cbe3",
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "id": "efe5616b1386",
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
    "source": "Hacker News",
-   "url": "https://llmspeed.dev/"
+   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
   },
   {
-   "id": "c265e891ba55",
-   "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+   "id": "f8115f0a19fa",
+   "title": "DeepSeek-v4.1-Flash-1017",
    "source": "Hacker News",
-   "url": "https://fakeipedia.org"
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
   },
   {
-   "id": "50af39952d3d",
-   "title": "Lithos-metal: Qwen3.8-27B on 40-core M5 Max at 168 tokens/s",
-   "source": "Hacker News",
-   "url": "https://github.com/lithos-ai/lithos-metal"
+   "id": "bd502fa76c7c",
+   "title": "Pluralistic: Israeli ad-tech company was a delivery system for \"mercenary spyware\" (17 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/17/mercenary-spyware/"
   },
   {
-   "id": "9b1524b72cc6",
-   "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor",
+   "id": "8f31588b7ccd",
+   "title": "An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?accessToken=zwAAAaFIyQ5dkc90d-RiyJlIQdOlz8AXBuI5gg.MEYCIQDunNb-ag1EE-tWY6MfhtnPpdpr1Yz6xf7d6aGMp351LgIhAMFU5tO6ZQsn6S5v-SjOZgS5Igb0J-QlFM0-o22bRyVU&sharetype=gift&token=1e1595e8-347b-4fb7-9ca6-635fe0e44468"
+   "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy"
   },
   {
-   "id": "f8f6d8732b9a",
-   "title": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A",
+   "id": "46b4ca0aad4e",
+   "title": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/"
+   "url": "https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts"
   },
   {
-   "id": "b4cd324bc758",
-   "title": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M",
+   "id": "bc63cbcd05ae",
+   "title": "A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google",
    "source": "Techmeme",
-   "url": "https://www.bizjournals.com/portland/news/2026/10/13/c1-workday-acquisition.html?page=all"
-  },
-  {
-   "id": "36fdeb556b3c",
-   "title": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion",
-   "source": "Techmeme",
-   "url": "https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/"
-  },
-  {
-   "id": "2d423511055f",
-   "title": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners",
-   "source": "Techmeme",
-   "url": "https://fintech.global/2026/10/15/reach-securitys-50m-bet-on-machine-speed-cyber-defence/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjIxMjkwMywiZXhwIjoxNzkyODE3NzAzLCJhcnRpY2xlSWQiOiJUTVk1WldLR1pBS0UwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.lrEYFQDuJpd9y4WsdMU9WF6koERaL7yVLSAh_CCOb1I"
   }
  ]
 }

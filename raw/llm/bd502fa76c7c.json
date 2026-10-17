@@ -1,0 +1,18 @@
+{
+ "id": "bd502fa76c7c",
+ "authored_at": "2026-10-17T14:10:51.305740+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Cory Doctorow writes up Citizen Lab's 'Exposing AdFection' report, which shows that the largest ad-tech platforms - Google and Facebook among them - were hijacked by an Israeli company, Discover-Tech, that masqueraded as an ad-tech firm while acting as a delivery system for mercenary spyware. The ad system let it locate targeted individuals and serve zero-click malware that compromised devices with no action from the victim.",
+  "The mechanism is structural, not a one-off bug: ad platforms hold detailed surveillance dossiers with persistent per-user identifiers, and they let anyone posing as an advertiser serve code - which is all an ad is - to people selected by those identifiers. Doctorow's conclusion: blocking every programmatic ad is now basic self-defense, and Doc Searls's 'largest consumer boycott in history' framing of ad-blocking looks, if anything, understated."
+ ],
+ "highlights": [
+  "Citizen Lab report 'Exposing AdFection' exposes spyware delivery via ad networks",
+  "Israeli firm Discover-Tech posed as ad-tech while selling to governments and corporations",
+  "Targeted individuals located through ad identifiers, then served zero-click malware",
+  "Google, Facebook and other major platforms were used as the delivery pipe",
+  "Structural flaw: ads are code, targetable by persistent surveillance identifiers",
+  "Doctorow: blocking all programmatic ads is now basic self-defense"
+ ]
+}

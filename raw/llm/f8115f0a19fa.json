@@ -1,0 +1,15 @@
+{
+ "id": "f8115f0a19fa",
+ "authored_at": "2026-10-17T14:10:51.305740+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the Hacker News discussion page, which returned almost no readable text. This is the HN thread for DeepSeek V4.1 Flash 1017, the October 17 snapshot of DeepSeek's cost-efficient sparse mixture-of-experts model on the new CED architecture.",
+  "The substance of the release is covered in the wiki's companion entry on the announcement itself; this thread captures the community's early reaction to it."
+ ],
+ "highlights": [
+  "HN discussion of the DeepSeek V4.1 Flash 1017 release",
+  "Thread thin on retrievable content; see the announcement entry for substance",
+  "Basis: HN thread page returned only stub text"
+ ]
+}
