@@ -1,54 +1,6 @@
 {
- "generated_at": "2026-10-17T20:09:11+00:00",
+ "generated_at": "2026-10-18T02:09:59+00:00",
  "stories": [
-  {
-   "id": "1d51788f95f3",
-   "title": "Amazon uses AI to monitor union risk in UK warehouses",
-   "source": "Hacker News",
-   "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
-  },
-  {
-   "id": "08443c095dd9",
-   "title": "OpenAI discloses four more rogue incidents",
-   "source": "Hacker News",
-   "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
-  },
-  {
-   "id": "6881e2c08be9",
-   "title": "AI Can Write the Code. Who Verifies It?",
-   "source": "Hacker News",
-   "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it"
-  },
-  {
-   "id": "0d0cfdad6b54",
-   "title": "What changes when your search index lives on S3?",
-   "source": "Hacker News",
-   "url": "https://infino.ai/blog/search-index-on-s3/"
-  },
-  {
-   "id": "9520c1e185d9",
-   "title": "Show HN: Things to Do API",
-   "source": "Hacker News",
-   "url": "https://thingstodoapi.com/"
-  },
-  {
-   "id": "f62f3bf4c4bf",
-   "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
-   "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
-  },
-  {
-   "id": "75cff3c72d25",
-   "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-   "source": "Hacker News",
-   "url": "https://twitter.com/beeechimblind/status/2111227318534279501"
-  },
-  {
-   "id": "f2bedabcefa6",
-   "title": "Letter to Anthropic Re: Planned Initial Public Offering",
-   "source": "Hacker News",
-   "url": "https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/"
-  },
   {
    "id": "3912912f25b2",
    "title": "Codex is EATING my Mac's disk space",
@@ -56,34 +8,46 @@
    "url": "https://github.com/openai/codex/issues/25921"
   },
   {
-   "id": "a4c1c6ffb359",
-   "title": "Ship Your Interpreter",
-   "source": "Lobsters",
-   "url": "https://www.basis.ai/blog/ship-your-interpreters/"
+   "id": "2a973ad4b923",
+   "title": "The math that OpenAI keeps for itself",
+   "source": "Hacker News",
+   "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself"
   },
   {
-   "id": "10f546bf98c7",
-   "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-   "source": "Lobsters",
-   "url": "https://pwn.ai/blog/pwnescape"
+   "id": "ad1fd60a6715",
+   "title": "Weak Links Start to Show in A.I. Borrowing",
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html"
   },
   {
-   "id": "d5e041972a03",
-   "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\"",
+   "id": "b2c1ab9488e4",
+   "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+   "source": "Hacker News",
+   "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack"
+  },
+  {
+   "id": "73f977171920",
+   "title": "Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+   "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/"
   },
   {
-   "id": "e89b760e0c9a",
-   "title": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor",
+   "id": "bccf090ef09b",
+   "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner"
+   "url": "https://thenewthings.com/p/microsoft-ceo-on-rogue-ai-agents-super-laptops-and-clippy"
   },
   {
-   "id": "e4880fd0961b",
-   "title": "Abolish AI! Manifesto",
-   "source": "Lobsters",
-   "url": "https://abolish-ai.net/abolish-ai-a-manifesto/"
+   "id": "214613e2f328",
+   "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\"",
+   "source": "Techmeme",
+   "url": "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/"
+  },
+  {
+   "id": "ea8b58b6d976",
+   "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
   }
  ]
 }

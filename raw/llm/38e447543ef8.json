@@ -1,0 +1,16 @@
+{
+ "id": "38e447543ef8",
+ "authored_at": "2026-10-18T02:18:40.598543+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the Daring Fireball link post quoting Reuters; the Reuters article itself was not fetched. Reuters reports that an OpenAI employee who left for Apple sent more than 100 files about an unreleased product to a personal account, and later presented the unreleased product to senior Apple leadership, according to a new filing in the OpenAI-Apple lawsuit.",
+  "The filing, in US federal court in San Jose, alleges the presentation happened months ago and that Apple is now making a product based on what it learned. The Daring Fireball headline frames Apple's denial as a schoolyard retort."
+ ],
+ "highlights": [
+  "OpenAI filing: ex-employee took 100+ files on an unreleased product to Apple",
+  "Employee allegedly presented the product to senior Apple leadership",
+  "Case in US federal court, San Jose",
+  "Basis: Daring Fireball's quote of Reuters; original not fetched"
+ ]
+}

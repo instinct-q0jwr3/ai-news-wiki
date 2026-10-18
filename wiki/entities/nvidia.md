@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-17 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-18 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-18** - Joanna Stern interviews Microsoft CEO Satya Nadella about the new Surface Laptop Ultra - powered by an Nvidia RTX Spark chip - and Microsoft's plan to make Windows a safer operating system for running AI agents. The framing: with a billion-plus Windows… ([An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more](../summaries/bccf090ef09b.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-16** - Nvidia's Nemotron 3.5 Super VL is an open, customizable multimodal model for always-on enterprise agents that read documents, check sources, follow policy and call tools. It is a 120B-parameter mixture-of-experts model. ([Nvidia released Nemotron 3.5 Super VL](../summaries/629776866b4d.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-16** - Basis: headline only, the source could not be fetched. Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex of up to $4B. ([Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn](../summaries/7d714c9c677f.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-15** - Nvidia launched Nemotron 3.5 Super VL, a 120B-parameter open model for enterprise agents, part of a three-model family combining language and vision for tasks like reading tables and charts in documents. ([Nvidia launches Nemotron 3.5 Super VL, a 120B-parameter open model for enterprise agents, and says it outperforms frontier models on specialized benchmarks](../summaries/f169e153a8ce.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md))

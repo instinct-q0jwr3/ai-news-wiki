@@ -1,0 +1,16 @@
+{
+ "id": "00c708f02df3",
+ "authored_at": "2026-10-18T02:18:40.598543+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the Techmeme summary of Google's announcement; the blog post itself was not fetched. Google says 'magic state cultivation' works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x.",
+  "Magic states are the resource fault-tolerant quantum computers need for non-Clifford operations; producing them at lower error rates on real hardware has been a central obstacle, which is why Google is presenting the result as a milestone."
+ ],
+ "highlights": [
+  "Google: magic state cultivation demonstrated on Willow hardware",
+  "Claimed ~40x error reduction",
+  "Presented as a breakthrough by Google Quantum AI",
+  "Basis: Techmeme summary; Google blog not fetched"
+ ]
+}

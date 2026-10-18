@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-17 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-18 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-18** - Joanna Stern interviews Microsoft CEO Satya Nadella about the new Surface Laptop Ultra - powered by an Nvidia RTX Spark chip - and Microsoft's plan to make Windows a safer operating system for running AI agents. The framing: with a billion-plus Windows… ([An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more](../summaries/bccf090ef09b.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-17** - Cory Doctorow writes up Citizen Lab's 'Exposing AdFection' report, which shows that the largest ad-tech platforms - Google and Facebook among them - were hijacked by an Israeli company, Discover-Tech, that masqueraded as an ad-tech firm while acting as a… ([Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)](../summaries/bd502fa76c7c.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-16** - Stoke Money is a personal finance app built on a cash-flow forecast. It finds recurring transactions, projects each account forward day by day, and shows what you can spend without a budget. ([Show HN: Stoke Money – Personal finance app built around a cash flow forecast](../summaries/6d84a33db994.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-16** - A review of the Microsoft Surface Laptop Ultra calls it powerful with a useful Magnetic Connect port and bright screen, but heavy. Most of the page was behind a signup wall. ([Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn't take advantage of RTX Spark](../summaries/f70af6948bb4.md) · [Microsoft](../entities/microsoft.md))

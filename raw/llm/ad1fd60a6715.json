@@ -1,0 +1,16 @@
+{
+ "id": "ad1fd60a6715",
+ "authored_at": "2026-10-18T02:18:40.598543+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the headline and URL only; the New York Times article could not be fetched. The piece examines weak links beginning to show in AI-related borrowing, naming CoreWeave, Oracle and SoftBank.",
+  "The framing fits the growing scrutiny of debt-financed AI infrastructure: data center buildouts funded by borrowing look fragile if AI revenue growth disappoints."
+ ],
+ "highlights": [
+  "NYT: weak links emerging in AI borrowing",
+  "Names CoreWeave, Oracle and SoftBank",
+  "Theme: debt-financed AI infrastructure under scrutiny",
+  "Basis: headline and URL; article not retrievable"
+ ]
+}

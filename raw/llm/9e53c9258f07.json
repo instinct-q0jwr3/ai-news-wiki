@@ -1,0 +1,15 @@
+{
+ "id": "9e53c9258f07",
+ "authored_at": "2026-10-18T02:18:40.598543+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the GitHub issue was not retrievable. This is the upstream tracker entry (openai/codex#25921) for the Codex Desktop problem in which the app's Crashpad pending directory fills with paired .dmp and _sidecar.json files continuously - multiple gigabytes and tens of thousands of files per day while the app stays usable.",
+  "Yesterday's wiki entry covered a user report of the same behavior: 4.9GB and over 54,000 files in a day, with dumps withheld publicly for privacy."
+ ],
+ "highlights": [
+  "GitHub issue for Codex Desktop's unbounded Crashpad dump generation",
+  "Same symptom as user reports: gigabytes of dump/sidecar pairs daily",
+  "Basis: issue page not retrievable; context from related coverage"
+ ]
+}

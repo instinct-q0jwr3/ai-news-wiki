@@ -1,0 +1,45 @@
+{
+ "id": "digest-2026-10-18",
+ "date": "2026-10-18",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Overnight into Sunday: what OpenAI's math results leave out, a breach exposing coding-agent API keys, Nadella on Windows as agent territory, and a mixed bag of lawsuits, AI debt, crawler paywalls and quantum error reduction.",
+ "sections": [
+  {
+   "title": "OpenAI's math bounty, and what it skipped",
+   "intro": "A field-by-field analysis of OpenAI's 700+ published math results finds cryptography and other areas conspicuously absent - and asks whether the gaps reflect the model's limits or the lab's choices.",
+   "stories": [
+    "2a973ad4b923"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The OpenCode breach and agent credentials",
+   "intro": "A 'large scale distillation attack' on the company behind OpenCode exposed stored OpenAI, Anthropic and Google API keys for ~1.4% of Console users - exactly the credentials a terminal coding agent runs with.",
+   "stories": [
+    "214613e2f328"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Nadella on Windows as agent territory",
+   "intro": "Microsoft's CEO pairs the Nvidia RTX Spark-powered Surface Laptop Ultra with a plan to make Windows a safer OS for AI agents, whose billion-machine footprint makes it both target and host.",
+   "stories": [
+    "bccf090ef09b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Money, files and crawlers",
+   "intro": "OpenAI alleges a departing employee took 100+ files on an unreleased product to Apple; the NYT spots weak links in AI borrowing at CoreWeave, Oracle and SoftBank; Pay-per-Crawl ships an HTTP 402 paywall for AI crawlers on ten stacks; Google claims a 40x error reduction from magic state cultivation on Willow; and Codex Desktop's crash-dump bug gets a tracking issue.",
+   "stories": [
+    "38e447543ef8",
+    "ad1fd60a6715",
+    "b2c1ab9488e4",
+    "00c708f02df3",
+    "9e53c9258f07"
+   ],
+   "concepts": []
+  }
+ ]
+}

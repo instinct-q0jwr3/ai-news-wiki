@@ -1,6 +1,6 @@
 # Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’
 
-_type: news-summary · created: 2026-10-17 · updated: 2026-10-17 · confidence: high_
+_type: news-summary · created: 2026-10-17 · updated: 2026-10-18 · confidence: high_
 
 `daring-fireball` `apple`
 

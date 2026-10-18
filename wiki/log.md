@@ -198,3 +198,5 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-10-17] ingest | 325 AI stories | snapshot 20261017T080810Z
 ## [2026-10-17] ingest | 325 AI stories | snapshot 20261017T140824Z
 ## [2026-10-17] ingest | 329 AI stories | snapshot 20261017T200911Z
+## [2026-10-18] ingest | 323 AI stories | snapshot 20261018T020959Z
+- Partial errors: Lobsters: HTTP Error 500: Internal Server Error

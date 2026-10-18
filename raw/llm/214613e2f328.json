@@ -1,0 +1,18 @@
+{
+ "id": "214613e2f328",
+ "authored_at": "2026-10-18T02:18:40.598543+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anomaly Innovations, the company behind the open-source coding agent OpenCode, confirmed a breach it describes as 'related to a large scale distillation attack' that hit roughly 1.4% of OpenCode Console users. Exposed: stored OpenAI, Anthropic and Google API keys for a subset of developer workspaces, prompting urgent key rotations across the community.",
+  "The company says it emailed every affected account the same morning, that only users who had linked external providers were affected, and that it is working with Anthropic, OpenAI and Google on remediation. The exposure is acute because OpenCode is a terminal agent that runs with the developer's own credentials - those keys are what let it read files, call APIs and execute commands."
+ ],
+ "highlights": [
+  "Breach at Anomaly Innovations (OpenCode) hit ~1.4% of Console users",
+  "Stored OpenAI, Anthropic and Google API keys exposed",
+  "Company calls it a large-scale distillation attack",
+  "Affected users emailed same morning; only linked-provider accounts hit",
+  "Urgent community key rotation under way",
+  "Keys are high-value: OpenCode acts with the developer's own credentials"
+ ]
+}

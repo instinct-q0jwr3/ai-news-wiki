@@ -1,5 +1,10 @@
 [
  {
+  "from": "00c708f02df3",
+  "to": "ea8b58b6d976",
+  "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x"
+ },
+ {
   "from": "03c0429afc5a",
   "to": "ca79599eedd4",
   "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model"
@@ -173,6 +178,11 @@
   "from": "35f6da00f809",
   "to": "74c3c8118696",
   "title": "Muse Spark Open"
+ },
+ {
+  "from": "38e447543ef8",
+  "to": "73f977171920",
+  "title": "Whatever You Say Bounces Off Me and Sticks to You"
  },
  {
   "from": "3914cacde78a",
@@ -503,6 +513,11 @@
   "from": "9ddfd94c6363",
   "to": "932edd11adc8",
   "title": "JetBrains Air: Building a System of Products for Agentic Software Development"
+ },
+ {
+  "from": "9e53c9258f07",
+  "to": "3912912f25b2",
+  "title": "Codex Desktop continuously generates Crashpad pending dumps"
  },
  {
   "from": "9fbd5de88285",

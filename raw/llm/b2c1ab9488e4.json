@@ -1,0 +1,18 @@
+{
+ "id": "b2c1ab9488e4",
+ "authored_at": "2026-10-18T02:18:40.598543+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Pay-per-Crawl went from a WordPress plugin to ten stacks in a day: the same gate now runs on WordPress, Drupal, Laravel, Next.js, Node, Cloudflare, nginx, Caddy, Traefik and Python, published on npm, PyPI, Packagist and drupal.org. Behavior is identical everywhere: humans and reverse-DNS-verified search engines read free, while AI crawlers and scripts get an HTTP 402 with an x402 v2 header and must pay USDC on Base before the page is served.",
+  "The owner keeps 100% of payments, direct to their wallet - no custody, no ForgeMesh account, no API key. Every edition ships the same 85-agent crawler catalog and serves discovery files (/.well-known/x402.json, llms.txt, agents.txt), and each was validated with real $0.01 settlements on Base mainnet before release."
+ ],
+ "highlights": [
+  "Pay-per-Crawl now runs on 10 stacks from WordPress to nginx",
+  "AI crawlers get HTTP 402 with x402 v2; humans and verified search engines free",
+  "Payment in USDC on Base before the page is served",
+  "Site owner keeps 100%, direct to wallet, no custody or API key",
+  "Shared 85-agent crawler catalog plus x402.json, llms.txt, agents.txt",
+  "Each edition validated with real $0.01 mainnet settlements"
+ ]
+}
