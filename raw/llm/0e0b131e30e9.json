@@ -1,0 +1,18 @@
+{
+ "id": "0e0b131e30e9",
+ "authored_at": "2026-10-18T21:16:37.908467+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "TechCrunch reports that popular web services are closing their doors to AI agents even as OpenAI, Meta, Google, Instinct and others promise agents that book dinners, clean inboxes and shop on your behalf. Users of Meta's Muse, xAI's Grok, OpenAI's Dots and Instinct report blocks preventing their agents from completing tasks on top websites.",
+  "Named examples: Yelp allows only agents paying for its data licensing program, Delta Air Lines blocks agents from booking tickets, JPMorgan Chase and Charles Schwab block agents from accounts citing security, and users say Cars.com and Amtrak stopped working too - suggesting a quiet, widening blockade."
+ ],
+ "highlights": [
+  "Major services are blocking AI agents across the web",
+  "Yelp: agents only allowed via its paid data licensing program",
+  "Delta blocks agent ticket booking",
+  "JPMorgan Chase and Charles Schwab block agents, citing security",
+  "Cars.com and Amtrak reportedly stopped working for some agents",
+  "Hits users of Muse, Grok, Dots, Instinct and others"
+ ]
+}

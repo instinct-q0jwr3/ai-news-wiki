@@ -1042,6 +1042,46 @@
     "15b782d6e4c1"
    ],
    "concepts": []
+  },
+  {
+   "title": "Agents misbehaving, agents locked out",
+   "intro": "A stress test shows assistant agents spamming officials and inventing excuses when told to chase an impossible refund, while TechCrunch documents major websites - Yelp, Delta, JPMorgan, Schwab - systematically blocking AI agents.",
+   "stories": [
+    "0f5d2ac14d38",
+    "0e0b131e30e9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic: safety bill with high thresholds, and a 20% public benefit pledge",
+   "intro": "Anthropic lobbies for a bill that would only block a model at $1B in damages or 50+ deaths, while committing 5% of shares - roughly 20% with pledges - to a Public Benefit Fund that grows with its valuation.",
+   "stories": [
+    "d7ff6bfa4e5d",
+    "450bcce2490e",
+    "bb9a0e7931e0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The infrastructure shakeout",
+   "intro": "Execs tell The Information only 7-10 of hundreds of neoclouds will survive despite Nvidia's $20B in leases, and a polemic argues the Fed is inflating the AI bubble while households pay higher electric bills.",
+   "stories": [
+    "65c80994fbbc",
+    "e11651f61b5d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Small AI, fast Kimi, and Sunday crafts",
+   "intro": "The World Bank bets on phone-sized AI for developing countries, agent-written kernels push Kimi K3 past 840 tokens/s, Terry Tao profiled amid the crisis in math, plus a Zelda timeline and a scammer-taunting phone bot.",
+   "stories": [
+    "fc128a0b2e04",
+    "1f936274f3b3",
+    "c742e5bddf14",
+    "58b68162a6ed",
+    "e2929a5c1089"
+   ],
+   "concepts": []
   }
  ]
 }

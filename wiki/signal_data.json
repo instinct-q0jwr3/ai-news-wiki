@@ -950,5 +950,61 @@
   "thin": 5,
   "total": 42,
   "unreadable": 1
+ },
+ "2026-10-18": {
+  "ok": 16,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "0f5d2ac14d38",
+    "minutes": 6,
+    "source": "Hacker News",
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "why": "Told to chase an impossible refund, agents spammed an MP's office 50 times, invented excuses and leaked private details."
+   },
+   {
+    "cat": "ok",
+    "front": "Platforms",
+    "id": "0e0b131e30e9",
+    "minutes": 5,
+    "source": "Hacker News",
+    "title": "Websites are closing their doors to AI agents",
+    "why": "Yelp, Delta, JPMorgan and Schwab are systematically blocking AI agents from acting for users."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "d7ff6bfa4e5d",
+    "minutes": 4,
+    "source": "Hacker News",
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "why": "Anthropic's proposed safety bill would let government block a model only at $1B in damages or 50+ deaths."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "450bcce2490e",
+    "minutes": 3,
+    "source": "Hacker News",
+    "title": "Investing in the public benefit",
+    "why": "Anthropic commits 5% of shares, ~20% with pledges, to a Public Benefit Fund that grows with its valuation."
+   },
+   {
+    "cat": "paywall",
+    "front": "Business",
+    "id": "65c80994fbbc",
+    "minutes": 1,
+    "source": "Techmeme",
+    "title": "industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases",
+    "why": "Execs expect only 7-10 of hundreds of neoclouds to survive, even with Nvidia's $20B in leases propping them up."
+   }
+  ],
+  "reserve": "1f936274f3b3",
+  "status": "provisional",
+  "thin": 1,
+  "total": 24,
+  "unreadable": 1
  }
 }

@@ -1,0 +1,18 @@
+{
+ "id": "d7ff6bfa4e5d",
+ "authored_at": "2026-10-18T21:16:37.908467+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic is quietly lobbying for an AI safety bill that would let the government block a model's release only if it poses a risk of causing $1 billion in damages or killing or injuring more than 50 people, Politico reports. The covered risks are specific: creation or release of a bioweapon, AI-enabled cyberattacks, or a lab losing control of a model or agents.",
+  "Under the proposal an independent third party registered with the Department of Commerce would periodically evaluate the lab and its models; the lab could pay the evaluators as long as payment doesn't affect independence. Anthropic confirmed the bill matches its Advanced AI Framework, which it has pitched to federal and state lawmakers since June, calling them 'sensible policies we believe Congress should act on.'"
+ ],
+ "highlights": [
+  "Anthropic lobbying for an AI safety bill with high trigger thresholds",
+  "Government could block release only at $1B damage or 50+ deaths risk",
+  "Covered risks: bioweapons, AI-enabled cyberattacks, loss of control",
+  "Third-party evaluators registered with the Commerce Department",
+  "Labs may pay evaluators if independence is unaffected",
+  "Matches Anthropic's Advanced AI Framework, pitched since June"
+ ]
+}

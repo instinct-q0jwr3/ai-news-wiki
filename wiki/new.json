@@ -1,23 +1,71 @@
 {
- "generated_at": "2026-10-18T14:11:41+00:00",
+ "generated_at": "2026-10-18T20:12:26+00:00",
  "stories": [
   {
-   "id": "d22be0ff2078",
-   "title": "America's $10T AI infrastructure boom is starting to fray",
+   "id": "d7ff6bfa4e5d",
+   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
    "source": "Hacker News",
-   "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c"
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
   },
   {
-   "id": "15b782d6e4c1",
-   "title": "It's enough - vibecoding tag crossed from useless to harmful",
-   "source": "Lobsters",
-   "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from"
+   "id": "0e0b131e30e9",
+   "title": "Websites are closing their doors to AI agents",
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
   },
   {
-   "id": "70fadbe55daa",
-   "title": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK",
+   "id": "58b68162a6ed",
+   "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+   "source": "Hacker News",
+   "url": "https://legendofhyrule.com/"
+  },
+  {
+   "id": "0f5d2ac14d38",
+   "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+   "source": "Hacker News",
+   "url": "https://www.vals.ai/blogs/impossible-refund"
+  },
+  {
+   "id": "450bcce2490e",
+   "title": "Investing in the public benefit",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/news/public-benefit-fund"
+  },
+  {
+   "id": "e11651f61b5d",
+   "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+   "source": "Hacker News",
+   "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly"
+  },
+  {
+   "id": "fc128a0b2e04",
+   "title": "World Bank says 'small AI' could transform developing countries",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies"
+  },
+  {
+   "id": "1f936274f3b3",
+   "title": "Hyper Optimizing Kimi K3 in vLLM",
+   "source": "Hacker News",
+   "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel"
+  },
+  {
+   "id": "c742e5bddf14",
+   "title": "'I'm on a War Footing': Terry Tao and the Crisis in Math",
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html"
+  },
+  {
+   "id": "e2929a5c1089",
+   "title": "Show HN: CallSitter – bot that answers my calls and wastes scammers' time",
+   "source": "Hacker News",
+   "url": "https://github.com/szerintedmi/callsitter"
+  },
+  {
+   "id": "65c80994fbbc",
+   "title": "industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases",
    "source": "Techmeme",
-   "url": "https://www.telegraph.co.uk/business/2026/10/18/microsoft-axes-ai-deal-setback-uk-data-centre-pioneer/"
+   "url": "https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose"
   }
  ]
 }
