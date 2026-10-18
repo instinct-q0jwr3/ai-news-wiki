@@ -1,17 +1,35 @@
 {
- "generated_at": "2026-10-18T02:09:59+00:00",
+ "generated_at": "2026-10-18T08:10:44+00:00",
  "stories": [
   {
-   "id": "3912912f25b2",
-   "title": "Codex is EATING my Mac's disk space",
+   "id": "42081bcd101a",
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "source": "Hacker News",
-   "url": "https://github.com/openai/codex/issues/25921"
+   "url": "https://sphinx-six-theta.vercel.app/"
   },
   {
-   "id": "2a973ad4b923",
-   "title": "The math that OpenAI keeps for itself",
+   "id": "5b4caca0db4b",
+   "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
    "source": "Hacker News",
-   "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself"
+   "url": "https://tkgally.github.io/500-clocks/"
+  },
+  {
+   "id": "70fadbe55daa",
+   "title": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK",
+   "source": "Techmeme",
+   "url": "https://www.telegraph.co.uk/business/2026/10/18/microsoft-axes-ai-deal-setback-uk-data-centre-pioneer/"
+  },
+  {
+   "id": "6a79f29e4422",
+   "title": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-17/disney-offers-soft-landing-to-staff-at-troubled-character-ai"
+  },
+  {
+   "id": "9b1bd9eedbd3",
+   "title": "Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9"
   },
   {
    "id": "ad1fd60a6715",
@@ -20,34 +38,10 @@
    "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html"
   },
   {
-   "id": "b2c1ab9488e4",
-   "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
-   "source": "Hacker News",
-   "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack"
-  },
-  {
-   "id": "73f977171920",
-   "title": "Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership",
+   "id": "0900cd6cea5e",
+   "title": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/"
-  },
-  {
-   "id": "bccf090ef09b",
-   "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more",
-   "source": "Techmeme",
-   "url": "https://thenewthings.com/p/microsoft-ceo-on-rogue-ai-agents-super-laptops-and-clippy"
-  },
-  {
-   "id": "214613e2f328",
-   "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\"",
-   "source": "Techmeme",
-   "url": "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/"
-  },
-  {
-   "id": "ea8b58b6d976",
-   "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
+   "url": "https://fortune.com/2026/10/15/holyvolt-funding-45-million-battery-startup-ai-sweden-michigan-prast-ingvarsson/"
   }
  ]
 }

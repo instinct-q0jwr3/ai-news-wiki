@@ -1,0 +1,17 @@
+{
+ "id": "9b1bd9eedbd3",
+ "authored_at": "2026-10-18T08:18:43.670309+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the Techmeme summary of the report; the Financial Times article could not be fetched. The FT reports that Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents designed to negotiate on humans' behalf and interact with AI counterparts.",
+  "The story frames a wider question for tech companies: what rules apply when machines negotiate for people."
+ ],
+ "highlights": [
+  "FT: Anthropic consulting law firms on AI negotiation tactics",
+  "Anthropic is building agents to negotiate on humans' behalf",
+  "Agents would also interact with other parties' AI counterparts",
+  "Raises the open rules-of-negotiation question for machine actors",
+  "Basis: Techmeme summary; FT original not retrievable"
+ ]
+}

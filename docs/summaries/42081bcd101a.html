@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Sphinx – A hook that quizzes you on your AI&#x27;s code before shipping · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792311554"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</h1>
+<p class="meta">type: news-summary · created: 2026-10-18 · updated: 2026-10-18 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Sphinx is a Git hook for agent-assisted development with a simple demand: before your agent's code ships, prove you understand it. On protected branches the push pauses and you get a question generated from your diff about what the change actually does when things go wrong - answer wrong and you learn why, then face a new scenario; answer right and the push continues.</p>
+<p>The example quiz walks through a Stripe webhook handler that saves an event ID before calling charge(): what happens on a retry after a timeout, and what happens if charge() fails after the ID was saved. Sphinx runs from your existing coding agent, OpenRouter or any OpenAI-compatible endpoint, works with Codex, Claude Code, Cursor, OpenCode and Pi or plain Git, is designed for minimal tokens, and promises your answers never reach the coding agent and .env files are never opened. Free and open source.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Git hook that quizzes you on agent-written code before it ships</li>
+<li>Questions generated from your actual diff, focused on failure behavior</li>
+<li>Wrong answer: explanation plus a new scenario; right answer: push continues</li>
+<li>Works with Codex, Claude Code, Cursor, OpenCode, Pi or plain Git</li>
+<li>Runs from your existing agent, OpenRouter or any OpenAI-compatible endpoint</li>
+<li>Answers never reach the coding agent; .env and keys never opened</li>
+<li>Tagline: 'Outsource your thinking, not your understanding'</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://sphinx-six-theta.vercel.app/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -1,0 +1,19 @@
+{
+ "id": "42081bcd101a",
+ "authored_at": "2026-10-18T08:18:43.670309+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Sphinx is a Git hook for agent-assisted development with a simple demand: before your agent's code ships, prove you understand it. On protected branches the push pauses and you get a question generated from your diff about what the change actually does when things go wrong - answer wrong and you learn why, then face a new scenario; answer right and the push continues.",
+  "The example quiz walks through a Stripe webhook handler that saves an event ID before calling charge(): what happens on a retry after a timeout, and what happens if charge() fails after the ID was saved. Sphinx runs from your existing coding agent, OpenRouter or any OpenAI-compatible endpoint, works with Codex, Claude Code, Cursor, OpenCode and Pi or plain Git, is designed for minimal tokens, and promises your answers never reach the coding agent and .env files are never opened. Free and open source."
+ ],
+ "highlights": [
+  "Git hook that quizzes you on agent-written code before it ships",
+  "Questions generated from your actual diff, focused on failure behavior",
+  "Wrong answer: explanation plus a new scenario; right answer: push continues",
+  "Works with Codex, Claude Code, Cursor, OpenCode, Pi or plain Git",
+  "Runs from your existing agent, OpenRouter or any OpenAI-compatible endpoint",
+  "Answers never reach the coding agent; .env and keys never opened",
+  "Tagline: 'Outsource your thinking, not your understanding'"
+ ]
+}

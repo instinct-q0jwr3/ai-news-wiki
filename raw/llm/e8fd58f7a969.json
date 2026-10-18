@@ -1,0 +1,17 @@
+{
+ "id": "e8fd58f7a969",
+ "authored_at": "2026-10-18T08:18:43.670309+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Basis: the Techmeme summary of the report; the New York Times article was not fetched. The NYT reports mounting worries over AI-linked debt: CoreWeave's bond yield has topped 15%, insuring SoftBank debt is getting pricier, and some Oracle debt trades near 80 to 90 cents on the dollar.",
+  "The piece asks whether trouble at these three names points to broader problems with the data center build-out - the same weak-links theme the paper raised earlier in the week."
+ ],
+ "highlights": [
+  "CoreWeave bond yield above 15%",
+  "SoftBank debt insurance costs rising",
+  "Some Oracle debt trades near 80-90 cents on the dollar",
+  "Question: broader problems with the data center build-out?",
+  "Basis: Techmeme summary; NYT original not retrievable"
+ ]
+}
