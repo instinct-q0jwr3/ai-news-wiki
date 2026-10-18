@@ -17,8 +17,6 @@ The growth rate of the AI industry is the core problem for underwriters: exposur
 - Safety incidents are driving the exposure
 - Basis: Techmeme summary; WSJ original not retrievable
 
-_The original source is behind a paywall._
-
 ## Source
 
 [Read the original story](https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts)

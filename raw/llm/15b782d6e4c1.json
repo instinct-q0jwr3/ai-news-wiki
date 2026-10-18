@@ -1,0 +1,18 @@
+{
+ "id": "15b782d6e4c1",
+ "authored_at": "2026-10-18T14:14:02.318984+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Lobsters meta post argues the 'vibecoding' tag has crossed from useless to harmful. The trajectory: it lost its original meaning as LLM-assisted engineering culture matured, then got silly as general LLM posts picked it up, then useless as anything mentioning an LLM-built project got tagged - and now, the author says, it's actively harmful because tagging valuable members' posts with it drives them away.",
+  "The quoted debate shows the split: half the site wants a filterable tag for AI-content fatigue, while others point at real harm - projects embracing LLM-written code becoming impossible to read or backport, with Debian reportedly giving up and shipping a feature update of rsync because nobody understood the generated patches well enough to backport fixes."
+ ],
+ "highlights": [
+  "Meta post: vibecoding tag went from useless to harmful on Lobsters",
+  "Tag creep: from its original meaning to any post mentioning LLM-built projects",
+  "Claim: tagging valuable members' posts pushes them away",
+  "Counterpoint in thread: AI-content fatigue makes a filter useful",
+  "Concrete harm cited: rsync's LLM patches unbackportable, Debian shipped a feature update",
+  "Debate over whether tags should follow content or provenance"
+ ]
+}
