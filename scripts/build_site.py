@@ -177,7 +177,7 @@ def daynav(items,current,unit):
     prev=btn(f'{items[i-1]}.html' if i>0 else None,f'&larr; Previous {unit}')
     nxt=btn(f'{items[i+1]}.html' if i<last else None,f'Next {unit} &rarr;')
     lat=btn(f'{items[last]}.html' if i<last else None,f'Latest {unit}')
-    return f'<nav class="daynav" aria-label="{unit} navigation">{prev}{nxt}<span class="spacer"></span>{lat}</nav>'
+    return f'<nav class="daynav" aria-label="{unit} navigation">{lat}{nxt}<span class="spacer"></span>{prev}</nav>'
 
 BUILD_V=str(int(time.time()))
 NAV=[('signal',SIGNAL_LABEL),('daily','Daily'),('weekly','Weekly'),('summaries','Stories'),('entities','Entities'),('concepts','Concepts'),('feeds','Feeds')]
