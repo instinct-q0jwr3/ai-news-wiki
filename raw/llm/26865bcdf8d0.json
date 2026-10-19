@@ -1,0 +1,15 @@
+{
+  "id": "26865bcdf8d0",
+  "authored_at": "2026-10-19T08:22:22Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Financial Times article; the FT source fetch failed. The FT reports that AI weather forecasting faces a major real-world test in the coming months as a historic El Nino develops, with some scientists questioning the technology's accuracy. AI models are now being used to anticipate everything from forest fires to futures contracts, and some fear that reliance is a mistake before the models have proven themselves against rare, high-impact extremes - exactly the events a strong El Nino produces.",
+  "highlights": [
+    "FT: AI extreme-weather forecasting faces a major test amid a historic El Nino",
+    "Some scientists question the models' accuracy on rare, high-impact events",
+    "AI forecasts already inform decisions from forest fires to futures contracts",
+    "Critics fear that reliance ahead of validation is a mistake",
+    "Assessment limited to Techmeme's summary; FT source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Financial Times article; the FT source fetch failed."
+}

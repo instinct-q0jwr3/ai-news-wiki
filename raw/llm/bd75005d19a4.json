@@ -1,0 +1,15 @@
+{
+  "id": "bd75005d19a4",
+  "authored_at": "2026-10-19T08:22:22Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a The Block article; the source fetch failed. Sam Altman's World (the identity project he co-founded) has launched a World ID verification suite aimed at banks, bundling tools to verify both human and agent identities - its first industry-specific product. The Block reports Bain Capital and VanEck Funds are named among its design partners. The move positions World ID's proof-of-personhood infrastructure for financial-services KYC at a moment when banks increasingly need to distinguish both real humans and authorized AI agents from fraud.",
+  "highlights": [
+    "World launches a World ID verification suite for banks, its first industry-specific offering",
+    "Bundles tools to verify both human and AI agent identities",
+    "Bain Capital and VanEck Funds named as design partners",
+    "Extends proof-of-personhood infrastructure toward financial KYC and agent authorization",
+    "Assessment limited to Techmeme's summary; source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a The Block article; the source fetch failed."
+}

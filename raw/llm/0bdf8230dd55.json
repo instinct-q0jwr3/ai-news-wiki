@@ -1,0 +1,13 @@
+{
+  "id": "0bdf8230dd55",
+  "authored_at": "2026-10-19T08:22:22Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: title and Show HN listing only - the yila.ai fetch returned no usable text. Yila is a Show HN project describing itself as 'a Codex for scientific research' - presumably applying the coding-agent pattern (an AI that works through tasks in a structured environment) to research workflows. Without the page content, its specific scope - literature work, experiments, data analysis - cannot be confirmed.",
+  "highlights": [
+    "Show HN: Yila bills itself as 'a Codex for scientific research'",
+    "Positioning suggests an agent-style AI tool for research workflows",
+    "Source page returned no usable text; details unverified"
+  ],
+  "basis": "Basis: title and Show HN listing only - the yila.ai fetch returned no usable text (thin cache)."
+}

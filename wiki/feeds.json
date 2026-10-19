@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 698,
+  "stories": 701,
   "last": "2026-10-19"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 682,
+  "stories": 690,
   "last": "2026-10-19"
  },
  {
@@ -32,8 +32,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 42,
-  "last": "2026-10-17"
+  "stories": 43,
+  "last": "2026-10-19"
  },
  {
   "name": "Daring Fireball",
@@ -132,16 +132,16 @@
   "last": "2026-09-25"
  },
  {
+  "name": "Troy Hunt",
+  "url": "https://www.troyhunt.com/rss/",
+  "stories": 4,
+  "last": "2026-10-19"
+ },
+ {
   "name": "lcamtuf",
   "url": "https://lcamtuf.substack.com/feed",
   "stories": 3,
   "last": "2026-09-25"
- },
- {
-  "name": "Troy Hunt",
-  "url": "https://www.troyhunt.com/rss/",
-  "stories": 3,
-  "last": "2026-10-13"
  },
  {
   "name": "Krebs on Security",

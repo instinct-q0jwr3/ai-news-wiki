@@ -1,0 +1,14 @@
+{
+  "id": "0773a0e92f21",
+  "authored_at": "2026-10-19T08:22:22Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "SecurityWeek covers CyberSN's Cybersecurity Jobs Report showing US cybersecurity job postings fell 26.4% year-on-year to a four-year low: 235,786 postings from January to September 2026, down from 320,210 in the same period of 2025. The report deduplicates JobSpikr data and maps titles onto CyberSN's taxonomy of 45 functional roles in ten categories, measuring demand by skills rather than recruiter job titles. Inside the overall decline, AI-adjacent roles are booming: AI Security Engineer demand grew 268.3% and Cyber Data Scientist demand also surged, suggesting the market is not shrinking so much as rotating toward AI-era skills while generalist postings contract.",
+  "highlights": [
+    "US cybersecurity job postings fell 26.4% YoY to a four-year low (~236K, Jan-Sep 2026)",
+    "AI Security Engineer demand grew 268.3% over the same period",
+    "Cyber Data Scientist demand also saw dramatic growth",
+    "Report deduplicates JobSpikr data into a 45-role skills taxonomy across 10 categories",
+    "Pattern: the market is rotating toward AI-security skills, not uniformly shrinking"
+  ]
+}

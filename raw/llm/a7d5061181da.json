@@ -1,0 +1,15 @@
+{
+  "id": "a7d5061181da",
+  "authored_at": "2026-10-19T08:22:22Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "TechRadar reports Intel's unveiling of the GPU D-series for data centers at the Open Compute Project Global Summit: an AI inference accelerator with up to 480GB of memory, the largest capacity on any data center GPU, dethroning Nvidia's Blackwell Ultra B300 (288GB HBM3e). The D-series, previously codenamed Crescent Island, reaches that capacity by using LPDDR5X - the power-efficient memory found in laptops - rather than GDDR7 or HBM, a trade that favors capacity and power efficiency over raw bandwidth. Intel says the card supports inference on models up to 300 billion parameters, targeting the deployment side of the AI market where fitting large models on fewer cards matters more than training throughput.",
+  "highlights": [
+    "Intel GPU D-series: up to 480GB of memory, a data-center GPU record",
+    "Takes the capacity crown from Nvidia's Blackwell Ultra B300 (288GB HBM3e)",
+    "Uses LPDDR5X (laptop-class, power-efficient) instead of GDDR7 or HBM",
+    "Previously codenamed Crescent Island; unveiled at OCP Global Summit",
+    "Aimed at inference workloads, supporting models up to 300B parameters",
+    "Trade-off: capacity and efficiency over raw memory bandwidth"
+  ]
+}

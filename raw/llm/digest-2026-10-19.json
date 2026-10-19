@@ -66,6 +66,68 @@
         "58aaa62645dc"
       ],
       "concepts": []
+    },
+    {
+      "title": "Model frontier: DeepSeek's fast, verbose open weight",
+      "intro": "DeepSeek V4.1 Flash 1017 lands near the top of the Artificial Analysis index at a moderate price - if you can afford its verbosity.",
+      "stories": [
+        "9c0372a7ba1f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents start spending: Stripe's first real numbers",
+      "intro": "Stripe Link data shows agent-driven transactions up 38x in September, while Sam Altman's World pitches banks on verifying both humans and agents.",
+      "stories": [
+        "6cd69ad0f41a",
+        "bd75005d19a4"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "AI's macro footprint: exports, jobs and the G20",
+      "intro": "AI-driven exports lift China's Q3 GDP, US cybersecurity hiring rotates toward AI roles, and economists expect the gains to spread - unevenly.",
+      "stories": [
+        "58248ce3cd25",
+        "0773a0e92f21",
+        "de61d2e6ddea"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Compute for inference: Intel's 480GB bet",
+      "intro": "Intel's D-series trades bandwidth for capacity with LPDDR5X, aiming at running huge models rather than training them.",
+      "stories": [
+        "a7d5061181da"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Forecasting and trust under stress",
+      "intro": "A historic El Nino will test whether AI weather models deserve the decisions already riding on them.",
+      "stories": [
+        "26865bcdf8d0"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Applied AI: caregivers and research assistants",
+      "intro": "Abby Care raises $82M to make family members certified paid caregivers, and a Show HN tries the Codex pattern for science.",
+      "stories": [
+        "286f029e0428",
+        "0bdf8230dd55"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Workflows and culture",
+      "intro": "tmux becomes the agent operations layer, Troy Hunt builds HIBP AI-first as 'vibe coding' goes mainstream, and Doctorow argues surveillance - not advertising - is the internet's original sin.",
+      "stories": [
+        "f560dde54681",
+        "613e8201a5d3",
+        "aea04555fac6"
+      ],
+      "concepts": []
     }
   ]
 }

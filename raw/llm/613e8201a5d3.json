@@ -1,0 +1,14 @@
+{
+  "id": "613e8201a5d3",
+  "authored_at": "2026-10-19T08:22:22Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: the post's opening excerpt from the feed; the full page fetch returned no usable text. Troy Hunt's Weekly Update 526 covers building Have I Been Pwned 'AI/SI first'. His opening observation: 'vibe coding' seems to have stopped being a derogatory term - he has no empirical evidence, just a sense that those who weaponized the phrase have accepted its inevitability and got with the program. The update documents his ongoing work rebuilding HIBP with an AI-first (and SI, security-intelligence) development approach.",
+  "highlights": [
+    "Troy Hunt's weekly update covers building HIBP 'AI/SI first'",
+    "Hunt senses 'vibe coding' has lost its derogatory edge",
+    "His read: former critics have accepted the approach's inevitability",
+    "Full page fetch failed; summary based on the feed excerpt only"
+  ],
+  "basis": "Basis: the post's opening excerpt from the feed; the full page fetch returned no usable text (thin cache)."
+}

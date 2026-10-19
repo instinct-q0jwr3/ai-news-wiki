@@ -1,0 +1,15 @@
+{
+  "id": "f560dde54681",
+  "authored_at": "2026-10-19T08:22:22Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A practical guide to using tmux as the operating layer for AI coding agents. The fit is natural: agents are long-running terminal processes, and tmux sessions survive closed windows and dropped SSH links, hold many named agents in one window, and - crucially - are scriptable from outside via send-keys and capture-pane, so any shell script can type into a running agent or read its screen without building IPC. The guide first points at the built-in path: recent Claude Code versions can create a git worktree plus a tmux session in one step (claude --worktree --tmux), covering the single-agent-on-a-branch case. It then walks through what that integration doesn't reach - multi-agent layouts, scripting patterns - and ends at the ceiling where tmux itself stops being enough for agent orchestration.",
+  "highlights": [
+    "tmux suits AI coding agents because they are long-running terminal processes",
+    "Sessions survive disconnects: the tmux server owns the pty, so agents keep working",
+    "send-keys and capture-pane make agents scriptable from any shell, no IPC needed",
+    "Claude Code now has a built-in path: claude --worktree --tmux creates worktree + session",
+    "The built-in covers the single-agent-on-a-branch case only",
+    "The guide covers multi-agent setups and where tmux's orchestration ceiling lies"
+  ]
+}
