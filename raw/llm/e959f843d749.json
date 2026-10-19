@@ -1,0 +1,15 @@
+{
+  "id": "e959f843d749",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A Manifold prediction market on whether AI surrogates will reach the top of US politics: it resolves YES if, before November 7, 2028, a Democratic or Republican presidential nominee deploys or authorizes an AI-powered digital replica of themselves that can hold real-time, unscripted conversations with the public. The resolution criteria are strict: the system must use the candidate's likeness or voice, generate substantive dynamic answers to voter questions, be publicly accessible (not internal testing), be explicitly authorized by the candidate or campaign, and be independently verifiable. Explicitly excluded are AI-generated ads, prerecorded speeches, ordinary chatbots that don't impersonate the candidate, unauthorized deepfakes, and AI used only for internal research or fundraising. The market captures a concrete, checkable threshold for when synthetic candidates move from novelty to campaign infrastructure.",
+  "highlights": [
+    "Market question: will a 2028 major-party US presidential nominee deploy an AI clone that talks to voters?",
+    "Resolves YES only for real-time, unscripted conversational AI using the candidate's likeness or voice",
+    "Must be publicly accessible and explicitly authorized by the candidate or campaign",
+    "AI ads, prerecorded speeches and ordinary chatbots do not count",
+    "Unauthorized deepfakes and internal-only AI tools are excluded",
+    "Deadline: 11:59pm ET on November 6, 2028; resolves YES immediately on verified deployment"
+  ]
+}

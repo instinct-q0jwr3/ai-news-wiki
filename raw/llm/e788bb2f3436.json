@@ -1,0 +1,16 @@
+{
+  "id": "e788bb2f3436",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A Show HN project that lets an AI agent read your WhatsApp messages through the Model Context Protocol, running entirely inside your own Cloudflare account. You deploy a small Workers server, link your phone once the way you would link WhatsApp Web, and any MCP client (Claude Code, Claude Desktop, others) can then search and read your chats. The design is deliberately privacy-conscious: the server is a linked device that only connects intermittently (on demand and once a day), pulls whatever WhatsApp queued for it, stores it in a SQLite database inside a Cloudflare Durable Object in your account, and disconnects. Your phone stays the source of truth and keeps working normally; the agent can read and search but cannot send. Setup requires a Cloudflare Workers Paid plan, Node 20+, a KV namespace for sign-in tokens and an owner password for the linking page.",
+  "highlights": [
+    "Open-source MCP server giving AI agents read-only access to your WhatsApp chats",
+    "Runs in your own Cloudflare account; messages live in a Durable Object SQLite database",
+    "Phone links as a device, exactly like WhatsApp Web, via QR or phone-number code",
+    "Read/search only - the agent cannot send messages",
+    "Connects on demand and once daily, then hangs up; the phone stays source of truth",
+    "First link imports chat history with visible progress",
+    "Requires Cloudflare Workers Paid plan and Node 20 or later"
+  ]
+}

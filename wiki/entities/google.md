@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-18 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-19 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-19** - A Show HN project that lets an AI agent read your WhatsApp messages through the Model Context Protocol, running entirely inside your own Cloudflare account. You deploy a small Workers server, link your phone once the way you would link WhatsApp Web, and… ([Show HN: WhatsApp MCP running free on Cloudflare](../summaries/e788bb2f3436.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-17** - Cory Doctorow writes up Citizen Lab's 'Exposing AdFection' report, which shows that the largest ad-tech platforms - Google and Facebook among them - were hijacked by an Israeli company, Discover-Tech, that masqueraded as an ad-tech firm while acting as a… ([Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)](../summaries/bd502fa76c7c.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-17** - Basis: the Techmeme summary of the piece; the Bloomberg profile itself could not be fetched. Bloomberg profiles Blackstone president Jon Gray, who has made AI the firm's biggest bet - building a $200B data center empire and launching a cloud venture with… ([A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google](../summaries/bc63cbcd05ae.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-17** - Basis: the project's own Show HN post; the live page returned almost no readable text. Fakeipedia is an automatic world-building platform: give it an imagined world and it generates a whole fictional wiki you can explore endlessly by following red links,… ([Show HN: Fakeipedia – Wikipedia for worlds that don't exist](../summaries/c265e891ba55.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠

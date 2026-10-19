@@ -1,6 +1,6 @@
 # Are you ready for superintelligence
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-10-18 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-10-19 · confidence: high_
 
 `tldr-ai`
 

@@ -1,0 +1,13 @@
+{
+  "id": "02f163bc0d46",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A short maintenance note from Simon Willison: llm-tools-datasette 0.1.1 fixes a breakage caused by the LLM 0.33 release. When LLM switched its HTTP layer to httpx2, plugins that had been implicitly relying on the old httpx dependency broke; llm-tools-datasette was one of them and is now fixed. A reminder that transitive-dependency upgrades in a plugin ecosystem can silently break downstream packages that never declared the dependency themselves.",
+  "highlights": [
+    "llm-tools-datasette 0.1.1 fixes breakage from the LLM 0.33 upgrade",
+    "LLM 0.33 moved to httpx2, breaking plugins that implicitly used plain httpx",
+    "Affected plugins never declared httpx as a direct dependency, so the breakage was silent",
+    "A small example of transitive-dependency fragility in plugin ecosystems"
+  ]
+}

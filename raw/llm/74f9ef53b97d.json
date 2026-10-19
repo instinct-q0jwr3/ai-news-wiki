@@ -1,0 +1,14 @@
+{
+  "id": "74f9ef53b97d",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: feed metadata only - the Daring Fireball post links a paywalled The Information article and the source fetch failed. John Gruber's 'Claim Chowder' revisits a January report by The Information's Wayne Ma and Qianer Liu claiming Apple's HomeView home hub would have a 'robotic swiveling base'. Gruber labels the report wrong, pointing instead to MacRumors' summary of Apple's AI product pipeline (an AI wearable pin, sensor-equipped AirPods, a security camera and smart glasses). The item is Gruber holding a specific hardware prediction to account rather than new product news.",
+  "highlights": [
+    "Gruber calls The Information's January claim of a HomeView 'robotic swiveling base' wrong",
+    "Claim Chowder is Gruber's format for revisiting bold predictions after the facts are in",
+    "The underlying report described a broad Apple AI hardware pipeline: pin, AirPods with sensors, camera, glasses",
+    "Full assessment limited to feed metadata because the source is paywalled/failed to fetch"
+  ],
+  "basis": "Basis: feed metadata only - the Daring Fireball post links a paywalled The Information article and the source fetch failed."
+}

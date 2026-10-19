@@ -1,0 +1,72 @@
+{
+  "id": "weekly-2026-W43",
+  "date": "2026-W43",
+  "week": "2026-W43",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "Apple's HomeView hardware sits boxed in warehouses waiting on its assistant; HybridAgents think in latent space but act in text; Schwab's CEO doubts sleep-trading agents; and Europe's industrials cash in on the build-out on diverging bets.",
+  "sections": [
+    {
+      "title": "Apple's HomeView: boxed hardware, missing software",
+      "intro": "Gurman says finished HomeView units have sat in warehouses for the better part of a year while the assistant software lagged - and Gruber revisits a bad prediction about its design.",
+      "stories": [
+        "7d1bf134e596",
+        "74f9ef53b97d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents that reason beyond text",
+      "intro": "A new architecture mixes latent-space thinking with text-based tool use, claiming better performance at a fraction of the tokens.",
+      "stories": [
+        "60fb8c999970"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents meet real money and real voters",
+      "intro": "Charles Schwab's CEO doubts autonomous stock-trading agents, while a prediction market sets a concrete bar for an AI-clone presidential candidate in 2028.",
+      "stories": [
+        "80244d002641",
+        "e959f843d749"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "AI infrastructure's valuation test",
+      "intro": "Europe's industrial giants split on software vs. equipment as AI demand lifts both, and Nscale's ~$30B IPO target meets investor resistance.",
+      "stories": [
+        "53306c372891",
+        "518cb82497b7"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Community norms and developer tooling",
+      "intro": "Lobsters bans bare repo links after a wave of AI-era low-effort posts, an engineer makes the case for running your own LLM proxy, and small releases polish the LLM plugin ecosystem.",
+      "stories": [
+        "36dbf6d43661",
+        "fa7353d5c8f7",
+        "ac270a036da0",
+        "02f163bc0d46"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents reach personal messaging",
+      "intro": "A self-hosted MCP server gives AI agents read-only access to your WhatsApp chats, with the phone staying the source of truth.",
+      "stories": [
+        "e788bb2f3436"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Etcetera",
+      "intro": "A subscription drive for an independent comic strip, funded directly by readers.",
+      "stories": [
+        "58aaa62645dc"
+      ],
+      "concepts": []
+    }
+  ]
+}

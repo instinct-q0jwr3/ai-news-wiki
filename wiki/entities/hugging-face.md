@@ -1,6 +1,6 @@
 # Hugging Face
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-18 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-19 · confidence: medium_
 
 `entity` `hugging-face` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Hugging Face operates a major platform for models, datasets and open AI tooling.
 
 ## Timeline
 
+- **2026-10-19** - An arXiv paper proposing HybridAgents, an agent architecture that lets an LLM reason internally in latent (continuous) space while still acting through ordinary text. Pure text-based agents are transparent and tool-friendly but expensive; latent reasoning… ([Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](../summaries/60fb8c999970.md) · [Hugging Face](../entities/hugging-face.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-15** - Basis: headline only, the source could not be fetched. A Q&A with Dwarkesh Patel on his podcast, history, AGI and the mood in San Francisco. ([Q&A with Dwarkesh Patel on his podcast, lessons from history, AGI, the mood in San Francisco, the Hugging Face hack, Chinese AI, pacing the frontier, and more](../summaries/0d57207fbcfc.md) · [Hugging Face](../entities/hugging-face.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
 - **2026-10-14** - Pulse Local is a Mac budgeting app in beta for Apple Silicon whose chat answers from your own figures using AI models that run entirely on your machine, so neither the ledger nor your questions leave the device. It contrasts with apps that send questions… ([Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../summaries/303096837f63.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Hugging Face](../entities/hugging-face.md) · [Qwen](../entities/qwen.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-10-02** - Cloudflare released two open-weight decision models, Clef and Clef-flash, two weeks after TypeSafe's Jev took off. Like Jev they answer bounded questions: yes/no, multiple choice and rankings. They are built on frozen, post-trained Qwen3.8-27B and… ([Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B](../summaries/97b556ebab48.md) · [Alibaba](../entities/alibaba.md) · [Hugging Face](../entities/hugging-face.md) · [TypeSafe](../entities/typesafe.md) · [Qwen](../entities/qwen.md))

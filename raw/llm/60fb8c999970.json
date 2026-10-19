@@ -1,0 +1,17 @@
+{
+  "id": "60fb8c999970",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "An arXiv paper proposing HybridAgents, an agent architecture that lets an LLM reason internally in latent (continuous) space while still acting through ordinary text. Pure text-based agents are transparent and tool-friendly but expensive; latent reasoning is efficient but opaque and cannot call tools. HybridAgents bridge the two with a lightweight 'HybridLink' module that switches between text and latent modes inside one generation process, plus a continuous working memory that keeps the hybrid context lossless across turns. Training comes in two stages: HybridSFT teaches the backbone model to coordinate with HybridLink, then HybridRL learns when to think latently and when to act in text. Across 11 benchmarks (math, science, medicine, search, agentic reasoning) at three model scales, the authors report a consistent 10.4% performance gain over frontier text-based and latent baselines, with 35-55% fewer tokens, 1.8-2.6x faster inference and 2.7-3.7x lower cost. Code and data are released.",
+  "highlights": [
+    "HybridAgents mix latent-space reasoning with text-based tool use in a single generation process",
+    "A 'HybridLink' module handles transitions between text and latent modes",
+    "Continuous working memory keeps hybrid context lossless across multiple turns",
+    "Two-stage post-training: HybridSFT stabilizes hybrid generation, HybridRL learns when to think latently vs. act in text",
+    "Reported +10.4% average performance across 11 benchmarks at 3 model scales",
+    "35.5-54.7% token reduction, 1.8-2.6x faster inference, 2.7-3.7x cost savings vs. baselines",
+    "Latent thoughts remain inspectable, addressing the transparency objection to latent reasoning",
+    "Code and data are publicly available"
+  ]
+}

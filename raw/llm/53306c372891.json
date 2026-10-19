@@ -1,0 +1,15 @@
+{
+  "id": "53306c372891",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Financial Times article; the FT source fetch failed. The FT reports that Europe's three biggest industrial companies are cashing in on the AI boom, but with diverging strategies: Schneider Electric and Siemens are expanding further into software, while ABB is betting on physical equipment. The AI data-center build-out is lifting demand for all three - electrification, automation and power management - but the strategic split between software-led and hardware-led growth is becoming the defining contrast among Europe's industrial giants.",
+  "highlights": [
+    "FT: Europe's three biggest industrials are profiting from the AI boom",
+    "Schneider Electric and Siemens are expanding further into software",
+    "ABB is focusing on physical equipment instead",
+    "AI data-center demand is driving electrification and automation orders",
+    "Assessment limited to Techmeme's summary; FT source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Financial Times article; the FT source fetch failed."
+}

@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-18 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-19 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-19** - Basis: feed metadata only - the Daring Fireball post links a paywalled The Information article and the source fetch failed. John Gruber's 'Claim Chowder' revisits a January report by The Information's Wayne Ma and Qianer Liu claiming Apple's HomeView home… ([Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’](../summaries/74f9ef53b97d.md) · [Apple](../entities/apple.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
+- **2026-10-19** - Basis: feed metadata only - Daring Fireball quoting Mark Gurman's Bloomberg Power On column; the Bloomberg source fetch failed. Gurman reports that finished units of Apple's HomeView home hub have been sitting boxed in warehouses 'for the better part of a… ([Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’](../summaries/7d1bf134e596.md) · [Apple](../entities/apple.md)) 🔒
 - **2026-10-17** - Mistlabs has taken its Ambi ambient AI system out of beta on iPhone, Apple Watch and Mac, backed by a $26M pre-Series A. Ambi's pitch is software that acts without being asked: CEO Peter Mo argues most AI platforms complete tasks, while Ambi tries to… ([Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A](../summaries/f8f6d8732b9a.md) · [Apple](../entities/apple.md))
 - **2026-10-17** - Apple updated its App Review Guidelines to tighten rules on nonconsensual intimate imagery and on bait-and-switch apps. Pornographic material was already banned, and the update adds explicit action against apps that generate such content and against apps… ([Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’](../summaries/6ed8a57fce7b.md) · [Apple](../entities/apple.md))
 - **2026-10-17** - Basis: thin page. Daring Fireball post titled Strange Times Make for Strange Bedfellows; content not read. ([Strange Times Make for Strange Bedfellows](../summaries/38179bf21097.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠

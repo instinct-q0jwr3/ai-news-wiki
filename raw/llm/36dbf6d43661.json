@@ -1,0 +1,16 @@
+{
+  "id": "36dbf6d43661",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Lobsters' moderators announce two policy changes prompted by a rising volume of moderation work around the vibecoding tag and AI/LLM content, aiming to keep submissions respectful of readers' time and intelligence. First, the about page is being rewritten for clarity on topicality and self-promotion: the site restates its narrow computing focus, its tests for what makes a good submission (will it improve the reader's next program or still matter in five years), and its limits on self-promotional posting. Second, and more substantively, the site will no longer allow submissions that are bare code repositories: the mods found repo links made up the bulk of low-effort, self-promotional submissions, and being dropped into an unfamiliar codebase rarely starts a good discussion because readers lack the context to engage. The framing emphasizes good-faith community norms over an anti-AI stance.",
+  "highlights": [
+    "Lobsters will stop accepting submissions that are just links to code repositories",
+    "Rationale: bare repo links are the bulk of low-effort self-promotion and rarely seed discussion",
+    "Changes were prompted by growing moderation load around the vibecoding tag and AI/LLM content",
+    "The about page is being rewritten to clarify topicality and self-promotion rules",
+    "Site restates its tests for good stories: improves your next program, deepens understanding, stays interesting for years",
+    "Self-promotion stays capped at roughly a quarter of a user's activity; new users (first 70 days) cannot self-promote",
+    "Framed as refocusing on reader-respecting content, not as an anti-AI policy"
+  ]
+}

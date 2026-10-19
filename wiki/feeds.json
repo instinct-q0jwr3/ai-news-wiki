@@ -2,14 +2,14 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 693,
-  "last": "2026-10-18"
+  "stories": 698,
+  "last": "2026-10-19"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 680,
-  "last": "2026-10-18"
+  "stories": 682,
+  "last": "2026-10-19"
  },
  {
   "name": "TLDR AI",
@@ -20,20 +20,26 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 60,
-  "last": "2026-10-17"
+  "stories": 62,
+  "last": "2026-10-19"
  },
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 54,
-  "last": "2026-10-18"
+  "stories": 55,
+  "last": "2026-10-19"
  },
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
   "stories": 42,
   "last": "2026-10-17"
+ },
+ {
+  "name": "Daring Fireball",
+  "url": "https://daringfireball.net/feeds/main",
+  "stories": 34,
+  "last": "2026-10-19"
  },
  {
   "name": "Latent.Space",
@@ -52,12 +58,6 @@
   "url": "https://antirez.com/rss",
   "stories": 31,
   "last": "2026-09-26"
- },
- {
-  "name": "Daring Fireball",
-  "url": "https://daringfireball.net/feeds/main",
-  "stories": 31,
-  "last": "2026-10-17"
  },
  {
   "name": "Works on My Machine",

@@ -1,6 +1,6 @@
 # Alibaba unveils its next-gen Qwen Glasses N1, starting at ~$450, with 50MP cameras, sensors, and eye-tracking on the ~$520 Pro model, and Qwen Clip AI earbuds
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-18 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-19 · confidence: high_
 
 `techmeme` `alibaba` `qwen`
 

@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-18 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-19 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-19** - Basis: Techmeme's feed summary of a Bloomberg article; the Bloomberg source fetch failed. Bloomberg reports that Nscale, the AI cloud/data-center firm, is facing investor pushback against the roughly $30 billion valuation it is targeting for its IPO, with… ([Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal](../summaries/518cb82497b7.md) · [Microsoft](../entities/microsoft.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-18** - Basis: the Techmeme summary of the report; the Telegraph article could not be fetched. Microsoft has cancelled its deal to be the anchor tenant of Nscale's planned data center in Essex, UK, where it was to rent 23,000 Nvidia AI chips. ([Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK](../summaries/70fadbe55daa.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-10-18** - Joanna Stern interviews Microsoft CEO Satya Nadella about the new Surface Laptop Ultra - powered by an Nvidia RTX Spark chip - and Microsoft's plan to make Windows a safer operating system for running AI agents. The framing: with a billion-plus Windows… ([An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more](../summaries/bccf090ef09b.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-17** - Cory Doctorow writes up Citizen Lab's 'Exposing AdFection' report, which shows that the largest ad-tech platforms - Google and Facebook among them - were hijacked by an Israeli company, Discover-Tech, that masqueraded as an ad-tech firm while acting as a… ([Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)](../summaries/bd502fa76c7c.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

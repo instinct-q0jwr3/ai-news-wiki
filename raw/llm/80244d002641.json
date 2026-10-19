@@ -1,0 +1,14 @@
+{
+  "id": "80244d002641",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: title and feed context only - the Wall Street Journal article is paywalled and the source fetch failed. The WSJ reports that Charles Schwab's CEO is skeptical about AI agents trading stocks autonomously on behalf of retail clients - the idea of agents 'trading while you sleep'. The piece sits in the growing debate over whether agentic AI is ready to act with real money under fiduciary and regulatory constraints, with a major retail brokerage signaling caution rather than racing to ship autonomous trading.",
+  "highlights": [
+    "WSJ: Charles Schwab's CEO is skeptical of AI agents trading stocks autonomously",
+    "The scenario in question: agents executing trades for clients 'while you sleep'",
+    "Signals incumbent brokerage caution on agentic AI handling real money",
+    "Full article paywalled; assessment limited to the title and feed context"
+  ],
+  "basis": "Basis: title and feed context only - the Wall Street Journal article is paywalled and the source fetch failed."
+}

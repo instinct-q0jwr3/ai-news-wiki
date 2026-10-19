@@ -1,71 +1,83 @@
 {
- "generated_at": "2026-10-18T20:12:26+00:00",
+ "generated_at": "2026-10-19T02:13:09+00:00",
  "stories": [
   {
-   "id": "d7ff6bfa4e5d",
-   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+   "id": "60fb8c999970",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+   "url": "https://arxiv.org/abs/2610.18861"
   },
   {
-   "id": "0e0b131e30e9",
-   "title": "Websites are closing their doors to AI agents",
+   "id": "e788bb2f3436",
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
    "source": "Hacker News",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+   "url": "https://github.com/finereli/whatsapp-mcp"
   },
   {
-   "id": "58b68162a6ed",
-   "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+   "id": "fa7353d5c8f7",
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
    "source": "Hacker News",
-   "url": "https://legendofhyrule.com/"
+   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
   },
   {
-   "id": "0f5d2ac14d38",
-   "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+   "id": "80244d002641",
+   "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
    "source": "Hacker News",
-   "url": "https://www.vals.ai/blogs/impossible-refund"
+   "url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3"
   },
   {
-   "id": "450bcce2490e",
-   "title": "Investing in the public benefit",
+   "id": "e959f843d749",
+   "title": "Will major-party U.S. presidential candidate deploy AI clone to talk to voters?",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/public-benefit-fund"
+   "url": "https://manifold.markets/BrunoClawfeld/will-a-majorparty-us-presidential-c"
   },
   {
-   "id": "e11651f61b5d",
-   "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
-   "source": "Hacker News",
-   "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly"
+   "id": "74f9ef53b97d",
+   "title": "Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’",
+   "source": "Daring Fireball",
+   "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin"
   },
   {
-   "id": "1f936274f3b3",
-   "title": "Hyper Optimizing Kimi K3 in vLLM",
-   "source": "Hacker News",
-   "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel"
+   "id": "58aaa62645dc",
+   "title": "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction",
+   "source": "Daring Fireball",
+   "url": "https://tomthedancingbug.com/the-inner-hive/"
   },
   {
-   "id": "fc128a0b2e04",
-   "title": "World Bank says 'small AI' could transform developing countries",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies"
+   "id": "ac270a036da0",
+   "title": "llm-echo 0.5",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
   },
   {
-   "id": "c742e5bddf14",
-   "title": "'I'm on a War Footing': Terry Tao and the Crisis in Math",
-   "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html"
+   "id": "02f163bc0d46",
+   "title": "llm-tools-datasette 0.1.1",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
   },
   {
-   "id": "e2929a5c1089",
-   "title": "Show HN: CallSitter – bot that answers my calls and wastes scammers' time",
-   "source": "Hacker News",
-   "url": "https://github.com/szerintedmi/callsitter"
-  },
-  {
-   "id": "65c80994fbbc",
-   "title": "industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases",
+   "id": "518cb82497b7",
+   "title": "Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation"
+  },
+  {
+   "id": "53306c372891",
+   "title": "Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/"
+  },
+  {
+   "id": "7d1bf134e596",
+   "title": "Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’",
+   "source": "Daring Fireball",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&leadSource=article-gifting"
+  },
+  {
+   "id": "36dbf6d43661",
+   "title": "Updates to site guidelines and AI/LLM tags",
+   "source": "Lobsters",
+   "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # When Do We Need On-Policy Distillation? Distilling on Offline Student Rollouts Is Often Better
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-18 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-19 · confidence: high_
 
 `tldr-ai` `ai-policy-regulation`
 

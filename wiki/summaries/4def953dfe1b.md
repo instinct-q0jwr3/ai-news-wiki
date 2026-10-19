@@ -1,6 +1,6 @@
 # Quoting Geoffrey Huntley
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-18 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-19 · confidence: high_
 
 `simon-willison` `agentic-systems`
 

@@ -1,0 +1,14 @@
+{
+  "id": "ac270a036da0",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Simon Willison ships llm-echo 0.5, an update to his debug plugin for the LLM command-line tool. llm-echo registers a fake 'model' that calls no LLM at all - it simply echoes back the exact prompt it was given, which makes it useful for testing plugins and integrations. The 0.5 release improves its simulated token-usage reporting so the numbers now account for tool calls, system prompts and reasoning tokens, making tests that assert on usage counts more realistic. Willison revisited the plugin while testing pull requests ahead of a new LLM release.",
+  "highlights": [
+    "llm-echo 0.5 released: a debug 'model' for the LLM CLI that just echoes prompts back",
+    "No real model call is made - it repeats the prompt, system prompt, attachments and history it received",
+    "New: simulated token usage now counts tool calls, system prompts and reasoning tokens",
+    "Useful for testing LLM plugins and PRs without spending tokens",
+    "Revisited as part of testing ahead of an upcoming LLM release"
+  ]
+}

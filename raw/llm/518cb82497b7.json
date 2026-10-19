@@ -1,0 +1,15 @@
+{
+  "id": "518cb82497b7",
+  "authored_at": "2026-10-19T02:23:05Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Bloomberg article; the Bloomberg source fetch failed. Bloomberg reports that Nscale, the AI cloud/data-center firm, is facing investor pushback against the roughly $30 billion valuation it is targeting for its IPO, with some investors urging a lower $16-19 billion range. Adding pressure, Microsoft has exited a UK data center deal involving the company. The pushback is an early sign of public-market discipline meeting the AI infrastructure valuation surge - neocloud economics are being stress-tested before the first big listings.",
+  "highlights": [
+    "Bloomberg: investors are pushing back on Nscale's ~$30B IPO valuation target",
+    "Some investors are urging a lower $16-19B valuation",
+    "Microsoft has exited a UK data center deal tied to Nscale",
+    "An early test of public-market appetite for AI infrastructure ('neocloud') valuations",
+    "Assessment limited to Techmeme's summary; Bloomberg source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Bloomberg article; the Bloomberg source fetch failed."
+}
