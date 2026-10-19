@@ -1,0 +1,15 @@
+{
+  "id": "a533830b9724",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Wall Street Journal article; the WSJ source is paywalled and the fetch failed. The WSJ examines Anthropic's opaque, five-member Long-Term Benefit Trust: its members own no Anthropic equity but hold enormous sway because they appoint most of the company's board, giving them power to shape the board and block major moves. Anthropic has shared few details about the dynamics of the five-person trust - a governance structure now carrying real weight as the company moves toward a possible IPO.",
+  "highlights": [
+    "WSJ profiles Anthropic's five-member Long-Term Benefit Trust",
+    "Trust members own no Anthropic equity but appoint most of the board",
+    "The trust can shape the board and block major moves",
+    "Anthropic has disclosed few details about how the trust operates",
+    "Assessment limited to Techmeme's summary; WSJ article is paywalled"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Wall Street Journal article; the WSJ source is paywalled and the fetch failed."
+}

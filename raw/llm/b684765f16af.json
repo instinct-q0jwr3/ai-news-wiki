@@ -1,0 +1,15 @@
+{
+  "id": "b684765f16af",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Harness Engineering 101 is a free 16-chapter online book that builds AI agents from first principles, growing a roughly 300-line toy agent in plain Python. Its organizing claim: an LLM API is stateless - every turn you resend the whole conversation as a JSON array and get text back - so the 'harness', the program that builds, maintains and protects that array, is where agency actually lives. Everything the field calls agents is a set of patches to that one loop, and each patch exists because something concrete broke. Every chapter follows the same shape: the failure, the minimal patch, what the patch costs. The patterns are developed in full in One Code, an open-source coding agent, and the book is meant to be read in order or as standalone chapters when needed.",
+  "highlights": [
+    "Free 16-chapter book on building AI agents from first principles",
+    "Core claim: the LLM is the brain, the harness (the loop around the stateless API) is the body",
+    "An LLM API is stateless; the harness builds, maintains and protects the conversation array",
+    "Everything called 'agents' is a set of patches to that one loop",
+    "Each chapter: the failure, the minimal patch, what the patch costs",
+    "Grows a ~300-line toy agent in plain Python; patterns from the One Code open-source agent"
+  ]
+}

@@ -128,6 +128,83 @@
         "aea04555fac6"
       ],
       "concepts": []
+    },
+    {
+      "title": "Trusting the code agents write",
+      "intro": "A Meta engineer's black-box discomfort, a practitioner's pyramid for trusting agents, and a fine-tune that scrubs AI writing tics.",
+      "stories": [
+        "f0f44ae42b57",
+        "1f2b98f8f415",
+        "61bf662132cd"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The harness is the body",
+      "intro": "A free book builds agents from first principles around the loop that owns the context.",
+      "stories": [
+        "b684765f16af"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents as insider threats",
+      "intro": "Microsoft ships agent risk monitoring in 365 E7 as a $5,000 token budget fuels a 1,200-site hacking campaign.",
+      "stories": [
+        "dfb5670ee5af",
+        "c0e9ce0d2edc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Model moves: Aurora leaks, Replit defects, DeepSeek adds web tools",
+      "intro": "Three mystery image models hit the arena, Replit drops Anthropic for OpenAI, and DeepSeek gives agents Search and Fetch APIs.",
+      "stories": [
+        "d2f75d143620",
+        "e6a181dfa1d8",
+        "3d7b03c788c4"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Silicon for the agent era",
+      "intro": "Nvidia's Vera team says agents reverse CPU design priorities, Qualcomm hears labs want 100B models on phones by 2028, and Tenstorrent banks $1.5B.",
+      "stories": [
+        "cc2dcd5015a1",
+        "5504b6d06e67",
+        "9ff4ff2ced69",
+        "88f3d1c490bf"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Playing and governing",
+      "intro": "Four Gemini agents beat Minecraft on their own, while Democrats eye committee power over the industry and Pew maps a closing gender gap.",
+      "stories": [
+        "9d5ead671d5a",
+        "488548561dd8",
+        "ab45dc5de348"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Deals and their structures",
+      "intro": "Character.AI's bankruptcy as a Disney deal mechanism, Anthropic's opaque trust, Musk's $10.5B pledge, and an agent Q&A plugin that tripled signups.",
+      "stories": [
+        "4f658a008993",
+        "a533830b9724",
+        "2c26c02d2fd9",
+        "7c852ccc0407"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Thompson's question: do you trust Apple?",
+      "intro": "Stratechery contrasts the 1999 AirPort keynote with the HomeView saga and asks what Cook's Apple optimized away.",
+      "stories": [
+        "4fa660010008"
+      ],
+      "concepts": []
     }
   ]
 }

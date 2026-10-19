@@ -1,0 +1,15 @@
+{
+  "id": "e6a181dfa1d8",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "TechCrunch reports that Replit is no longer working with Anthropic: CEO Amjad Masad said onstage at TechCrunch Disrupt that the AI coding platform has switched its default provider to OpenAI, citing cost, partnership terms and performance. Replit announced its OpenAI partnership in August without disclosing that the Anthropic relationship was ending. Masad says the decision rests on Replit's internal benchmarks plus a public one: 'I think ChatGPT is better now', with OpenAI's Sol and Astra models consistently scoring better at building vibe-coded applications from scratch. He left the door open to Anthropic - 'a better partner for now' - but the switch is a notable defection in the coding-tools model wars, where Anthropic has been the default choice.",
+  "highlights": [
+    "Replit drops Anthropic; default AI provider is now OpenAI",
+    "CEO Masad: decision based on cost, partnership and performance",
+    "Replit's benchmarks show OpenAI's Sol and Astra better at building apps from scratch",
+    "Masad: 'I think ChatGPT is better now'",
+    "OpenAI partnership dates to August; the Anthropic split was only disclosed at Disrupt",
+    "A notable defection, since Anthropic has been the default in coding tools"
+  ]
+}

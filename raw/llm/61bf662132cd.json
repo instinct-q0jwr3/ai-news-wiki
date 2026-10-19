@@ -1,0 +1,15 @@
+{
+  "id": "61bf662132cd",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: the project's blog post excerpt in the cache - only part of the page came through. This Show HN releases a fine-tune of Qwen3-4B with the characteristic AI writing tics trained out of it. The post evaluates the released model against the original on 40 held-out prompts spanning ten topics in four genres, with no system prompt, showing one sampled answer per prompt from each model. A 'slop detector' counts the tics, and the underlined passages in the examples are what it flags. The cache did not include the training recipe or download details.",
+  "highlights": [
+    "Show HN: a Qwen3-4B fine-tune with AI writing tics trained out",
+    "Evaluated on 40 held-out prompts across ten topics and four genres, no system prompt",
+    "Side-by-side samples from the original and released models",
+    "A 'slop detector' counts flagged tics; underlined passages show what it catches",
+    "Cache was thin; training method and release details unverified"
+  ],
+  "basis": "Basis: the project's blog post excerpt in the cache (thin: only the evaluation description came through)."
+}

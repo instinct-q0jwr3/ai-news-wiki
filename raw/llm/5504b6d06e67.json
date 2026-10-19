@@ -1,0 +1,14 @@
+{
+  "id": "5504b6d06e67",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "The Next Web reports from Qualcomm's Snapdragon Summit in Maui, where CEO Cristiano Amon told Alex Heath's Sources podcast that frontier AI companies are asking Qualcomm for phones capable of running at least a 100-billion-parameter model by 2028 - running 'kind of all the time'. Amon would not name the companies, but framed the shift plainly: 'AI companies are starting to do phones', and 'humans are not going to travel to a data center' to get their AI. The remarks position on-device inference as the next platform battleground and explain why phone silicon roadmaps are suddenly being pulled by frontier lab requirements rather than handset features.",
+  "highlights": [
+    "Qualcomm CEO Amon: AI labs want 100B-parameter models running on phones by 2028",
+    "The model would run 'kind of all the time'; Amon declined to name the companies",
+    "Amon: 'AI companies are starting to do phones'",
+    "Framing: users won't go to a data center for their AI - it must live on the device",
+    "Signal that frontier-lab requirements are now driving phone silicon roadmaps"
+  ]
+}

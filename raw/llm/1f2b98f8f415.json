@@ -1,0 +1,15 @@
+{
+  "id": "1f2b98f8f415",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A practitioner's framework, posted by Lauren (@poteto) on X and formatted to be handed directly to your own agent, for trusting coding agents more. It is an inverse pyramid of leverage. At the top, codebase improvements: better architecture, stronger types and invariants, and clear boundaries, because agents copy what exists and take the shortest path - so make the easy thing the right thing and categorically eliminate problem classes. Next, static analysis: lint rules, tests, CI and formal verification like TLA+, which catch issues early and are very token-efficient. Then prose - comments, rules files, AGENTS.md, skills - for whatever can't be enforced and needs judgment; use it minimally. At the bottom, human review: the hardest to scale, since nobody can thoroughly review every PR at the rate agents land code, so spend that scarce effort designing an environment where agents do the right thing by default.",
+  "highlights": [
+    "Framework: an inverse pyramid for trusting coding agents, most effort at the top",
+    "1. Codebase improvements: make the easy thing the right thing; agents copy what exists",
+    "2. Static analysis: lint, tests, CI, TLA+ - token-efficient early detection",
+    "3. Prose (AGENTS.md, skills, comments): minimal, only for what needs judgment",
+    "4. Human review: doesn't scale; spend it on environment design instead",
+    "Designed to be pasted directly to your own bot or agent as instructions"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "c0e9ce0d2edc",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Reuters article; the source fetch failed. Reuters reports that a cybersecurity researcher watched over a couple of weeks as a Chinese-speaking hacker used AI agents to target more than 1,200 websites and breach over 100 entities - named victims include Deere and SharkNinja - while spending only about $5,000 in model tokens. The case is an early concrete measurement of how agentic AI collapses the cost and skill floor of mass intrusion campaigns.",
+  "highlights": [
+    "Reuters: a hacker used AI agents to target 1,200+ websites and breach 100+ entities",
+    "Named victims include Deere and SharkNinja",
+    "Token spend for the campaign: roughly $5,000",
+    "A researcher observed the campaign unfold over a couple of weeks",
+    "Concrete data point on agentic AI collapsing the cost of mass intrusions",
+    "Assessment limited to Techmeme's summary; source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Reuters article; the source fetch failed."
+}

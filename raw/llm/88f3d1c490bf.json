@@ -1,0 +1,14 @@
+{
+  "id": "88f3d1c490bf",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Wall Street Journal article; the WSJ source is paywalled and the fetch failed. Tel Aviv-based doubleAI is releasing its debut 'code execution' model, which it pitches as a new AI category for optimizing GPU and CPU performance and lowering companies' computing costs. The startup has raised $220 million and acquired 1,000 Nvidia B300 chips - a notable hardware war chest for a debut model launch.",
+  "highlights": [
+    "doubleAI (Tel Aviv) debuts a 'code execution' model to optimize GPU/CPU performance",
+    "Pitched as a new AI category for lowering computing costs",
+    "Company raised $220M and acquired 1,000 Nvidia B300 chips",
+    "Assessment limited to Techmeme's summary; WSJ article is paywalled"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Wall Street Journal article; the WSJ source is paywalled and the fetch failed."
+}

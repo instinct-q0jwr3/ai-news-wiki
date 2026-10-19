@@ -1,11 +1,107 @@
 {
- "generated_at": "2026-10-19T08:14:04+00:00",
+ "generated_at": "2026-10-19T14:14:46+00:00",
  "stories": [
   {
-   "id": "9c0372a7ba1f",
-   "title": "DeepSeek V4.1 Flash 1017",
+   "id": "3417d7144cd2",
+   "title": "Timestral: Mistral's time-series foundation models",
+   "source": "Lobsters",
+   "url": "https://mistral.ai/news/timestral/"
+  },
+  {
+   "id": "b684765f16af",
+   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
    "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017"
+   "url": "https://github.com/IsuruMaduranga/harness-engineering-101"
+  },
+  {
+   "id": "61bf662132cd",
+   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "source": "Hacker News",
+   "url": "https://100toolkit.com/blog/deslop-model/"
+  },
+  {
+   "id": "f0f44ae42b57",
+   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50151036"
+  },
+  {
+   "id": "965de5eb647d",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "source": "Hacker News",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+  },
+  {
+   "id": "2c26c02d2fd9",
+   "title": "Elon Musk says \"I will give one of my SpaceX shares to every kid in America\" in 2027, a gift worth ~$10.5B, after Anthropic committed 5% of its shares to APBF",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html"
+  },
+  {
+   "id": "cc2dcd5015a1",
+   "title": "Q&A with Nvidia's Vera team on agentic AI driving CPU demands and forcing CPU design priority back to single-threaded performance over core counts, and more",
+   "source": "Techmeme",
+   "url": "https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/"
+  },
+  {
+   "id": "ab45dc5de348",
+   "title": "Survey: the chatbot gender adoption gap among US adults has closed since 2024, though men are more likely to use them daily; ChatGPT has identical use rates",
+   "source": "Techmeme",
+   "url": "https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/"
+  },
+  {
+   "id": "5504b6d06e67",
+   "title": "Qualcomm says AI labs want 100B-parameter models running on phones by 2028",
+   "source": "TLDR AI",
+   "url": "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028"
+  },
+  {
+   "id": "1f2b98f8f415",
+   "title": "How to Trust Your Coding Agents More",
+   "source": "TLDR AI",
+   "url": "https://x.com/poteto/status/2111133080526495985"
+  },
+  {
+   "id": "3d7b03c788c4",
+   "title": "Search & Fetch",
+   "source": "TLDR AI",
+   "url": "https://api-docs.deepseek.com/guides/search/"
+  },
+  {
+   "id": "a533830b9724",
+   "title": "A look at Anthropic's opaque, five-member Long-Term Benefit Trust, where members own no Anthropic equity but hold enormous sway by appointing most of its board",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "4fa660010008",
+   "title": "Do You Trust Apple?",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/do-you-trust-apple/"
+  },
+  {
+   "id": "450bcce2490e",
+   "title": "Investing in the public benefit",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/news/public-benefit-fund"
+  },
+  {
+   "id": "c0e9ce0d2edc",
+   "title": "Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/"
+  },
+  {
+   "id": "9ff4ff2ced69",
+   "title": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value"
+  },
+  {
+   "id": "488548561dd8",
+   "title": "How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
   },
   {
    "id": "78888162613a",
@@ -14,76 +110,46 @@
    "url": "https://www.anthropic.com/research/employment-at-anthropic"
   },
   {
-   "id": "f560dde54681",
-   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-   "source": "Hacker News",
-   "url": "https://crystl.dev/guides/tmux-for-ai-agents/"
+   "id": "e6a181dfa1d8",
+   "title": "Replit Switches Its Default AI Provider to OpenAI",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
   },
   {
-   "id": "0bdf8230dd55",
-   "title": "Show HN: Yila – A Codex for Scientific Research",
-   "source": "Hacker News",
-   "url": "https://yila.ai"
+   "id": "7c852ccc0407",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
   },
   {
-   "id": "6cd69ad0f41a",
-   "title": "Stripe Link data shows agentic transactions increased by 38x and volume of payments by 20x in September, with retail leading in both, and a ~$100 average spend",
+   "id": "dfb5670ee5af",
+   "title": "Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments",
    "source": "Techmeme",
-   "url": "https://www.upstartsmedia.com/p/data-stripe-link-how-ai-assistants-spend"
+   "url": "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/"
   },
   {
-   "id": "aea04555fac6",
-   "title": "Pluralistic: The technopolitics of ad-tech (19 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/19/spying-v-context/"
-  },
-  {
-   "id": "58248ce3cd25",
-   "title": "China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending",
+   "id": "9d5ead671d5a",
+   "title": "Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon's planned 2027 price",
    "source": "Techmeme",
-   "url": "https://www.bbc.com/news/articles/cm5yn098xz8lo"
+   "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/"
   },
   {
-   "id": "26865bcdf8d0",
-   "title": "AI's ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the technology's accuracy",
+   "id": "d2f75d143620",
+   "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/"
+  },
+  {
+   "id": "88f3d1c490bf",
+   "title": "Tel Aviv-based doubleAI releases its debut code execution model to optimize GPU and CPU performance; doubleAI raised $220M and acquired 1,000 Nvidia B300 chips",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?accessToken=zwAAAaFPPIA3kc9gv_vj96pIE9O2V6MQh-exFg.MEUCIQC302L7LYN0b4H7cc56Qhao045gUhnaQ5lY3hVqofsapwIgMamrT5GOqYwTANyeaAe4bKrPLm98_aPRWRc0jHYm4pk&sharetype=gift&token=47f0afa3-f0b0-49cc-8bef-ffb2288a135f"
+   "url": "https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "0773a0e92f21",
-   "title": "CyberSN: US cybersecurity job postings fell 26.4% YoY to a four-year low of ~236K roles from January to September; AI security engineer demand soared by 200%+",
+   "id": "4f658a008993",
+   "title": "Character.AI's Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech while insulating Disney from mounting legal liabilities",
    "source": "Techmeme",
-   "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/"
-  },
-  {
-   "id": "bd75005d19a4",
-   "title": "Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering",
-   "source": "Techmeme",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869"
-  },
-  {
-   "id": "a7d5061181da",
-   "title": "Intel unveils its GPU D-series for data centers, featuring up to 480GB of LPDDR5X memory, an unusually large capacity to support demanding inference workloads",
-   "source": "Techmeme",
-   "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7"
-  },
-  {
-   "id": "613e8201a5d3",
-   "title": "Weekly Update 526: Building HIBP AI/SI First",
-   "source": "Troy Hunt",
-   "url": "https://www.troyhunt.com/weekly-update-526/"
-  },
-  {
-   "id": "de61d2e6ddea",
-   "title": "Survey of 94 economists: 54% expect AI's gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a"
-  },
-  {
-   "id": "286f029e0428",
-   "title": "Abby Care, which runs a clinically led, AI-powered platform to train and certify family caregivers, raised an $82M Series C led by Transformation Capital",
-   "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/"
+   "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/"
   }
  ]
 }

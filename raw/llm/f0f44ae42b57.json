@@ -1,0 +1,15 @@
+{
+  "id": "f0f44ae42b57",
+  "authored_at": "2026-10-19T14:19:50Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "An Ask HN thread sparked by a LinkedIn post from a Meta engineer who says he has never felt so uncomfortable doing his job: AI now writes the code, and it all feels like a black box. Checking every line would take forever at the speed teams are expected to ship, so engineers end up owning systems they understand at a high level but not in detail - and he suspects this is becoming the new standard, which cuts against every instinct of the profession. The question to HN is how others deal with shipping AI-written code they don't fully understand: where reviewers draw the line, what practices (tests, staged rollouts, ownership norms) keep the risk acceptable, and whether the discomfort is a signal or just the cost of the new workflow.",
+  "highlights": [
+    "Ask HN: how to handle shipping AI-written code you don't understand",
+    "Sparked by a Meta engineer's post: code now 'feels like a black box'",
+    "His dilemma: line-by-line review is impossible at the expected shipping speed",
+    "Result: engineers own systems they understand at a high level, not in detail",
+    "He suspects black-box shipping is becoming the new standard",
+    "Thread asks where others draw review lines and what practices keep the risk acceptable"
+  ]
+}
