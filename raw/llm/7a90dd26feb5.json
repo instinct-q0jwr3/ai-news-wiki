@@ -1,0 +1,14 @@
+{
+  "id": "7a90dd26feb5",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a The Information article; the source is paywalled and the fetch failed. The Information reports that DeepSeek and Huawei are collaborating on future AI chip designs, and that DeepSeek plans to start using Huawei's Ascend 950DT for pre-training as soon as the end of 2026 - a deepening of the domestic Chinese AI stack that pairs the country's leading open lab with its leading chip designer.",
+  "highlights": [
+    "The Information: DeepSeek and Huawei collaborating on future AI chip designs",
+    "DeepSeek plans to use Ascend 950DT for pre-training as soon as end of 2026",
+    "Deepens China's domestic AI stack: leading open lab + leading chip designer",
+    "Assessment limited to Techmeme's summary; source is paywalled"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a The Information article; the source is paywalled and the fetch failed."
+}

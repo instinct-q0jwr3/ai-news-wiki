@@ -1,0 +1,14 @@
+{
+  "id": "fcdee7681348",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Wall Street Journal article; the source is paywalled and the fetch failed. The US Department of Homeland Security has ordered all federal civilian agencies to remove DeepSeek's technology from their IT systems and prohibited future procurement of its products and services - extending the government's AI supply-chain restrictions from hardware into models and software.",
+  "highlights": [
+    "WSJ: DHS orders federal civilian agencies to remove DeepSeek tech from IT systems",
+    "Future procurement of DeepSeek products and services prohibited",
+    "Extends AI supply-chain restrictions from chips to models and software",
+    "Assessment limited to Techmeme's summary; source is paywalled"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Wall Street Journal article; the source is paywalled and the fetch failed."
+}

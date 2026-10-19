@@ -1,0 +1,15 @@
+{
+  "id": "aeaad8805a8b",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: the author's Show HN post text from the feed; the repo was not separately fetched. An open-source early-reading app built by a parent for their 6-year-old: she had moved through basic phonics with Teach Your Monster to Read but found it repetitive, and needed stories to read while still getting help sounding words out. The app gives her real reading material with phonics support on tap - the experience of sitting and reading a book, with backup when a word won't yield.",
+  "highlights": [
+    "Show HN: open-source early-reading app with phonics help",
+    "Built by a parent for their 6-year-old moving past basic phonics apps",
+    "Provides real stories with on-demand help sounding words out",
+    "Motivation: existing apps got repetitive; books were still too hard alone",
+    "Details limited to the Show HN excerpt"
+  ],
+  "basis": "Basis: the author's Show HN post text from the feed; the repo was not separately fetched."
+}

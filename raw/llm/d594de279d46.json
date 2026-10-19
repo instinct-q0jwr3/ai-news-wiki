@@ -1,0 +1,14 @@
+{
+  "id": "d594de279d46",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: title and feed metadata only - the linked YouTube video cannot be fetched as text. RuneScape Bench proposes using MMOs - specifically RuneScape, via the open-source Lost City server - as a benchmark environment for AI agents: long-horizon goals, an economy, other players and open-ended tasks. The video is the primary content.",
+  "highlights": [
+    "RuneScape Bench: using an MMO as an agent benchmark",
+    "Built on the open-source Lost City RScape server (github.com/LostCityRS/Server)",
+    "MMOs offer long-horizon goals, economies and open-ended tasks for agents",
+    "Content is a YouTube video; details not retrievable as text"
+  ],
+  "basis": "Basis: title and feed metadata only - the linked YouTube video cannot be fetched as text."
+}

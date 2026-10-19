@@ -1,0 +1,15 @@
+{
+  "id": "c3102fcc099d",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a GeekWire article; the source fetch failed. Amazon has launched TorchNeuron in public beta: an open-source framework that lets developers run PyTorch code on Amazon's Trainium chips with no rewriting needed. The pitch is a direct attack on Nvidia's software moat - making the switch from CUDA to Amazon's own AI chips as simple as changing a backend.",
+  "highlights": [
+    "GeekWire: Amazon launches TorchNeuron in public beta",
+    "Runs PyTorch code on Trainium chips with no rewriting",
+    "Open-source framework aimed squarely at Nvidia's CUDA lock-in",
+    "Goal: make switching from Nvidia to Trainium a backend change",
+    "Assessment limited to Techmeme's summary; source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a GeekWire article; the source fetch failed."
+}

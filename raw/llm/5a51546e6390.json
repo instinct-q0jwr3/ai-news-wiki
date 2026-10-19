@@ -1,0 +1,15 @@
+{
+  "id": "5a51546e6390",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a TechCrunch article; the source fetch failed. TechCrunch reports on a growing hobbyist trend: developers and vibe coders pointing AI tools like Claude Code at their smart TVs to strip out sponsored ads, disable tracking features and generally 'dumb down' the sets - reversing the ad-tech creep in television hardware by treating the TV's software as just another codebase to refactor.",
+  "highlights": [
+    "TechCrunch: people use AI tools like Claude Code to de-bloat smart TVs",
+    "Goals: remove sponsored ads, disable tracking features",
+    "Framed as 'dumbing down' smart TVs to get rid of the bloat",
+    "A novel consumer use case for coding agents",
+    "Assessment limited to Techmeme's summary; source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a TechCrunch article; the source fetch failed."
+}

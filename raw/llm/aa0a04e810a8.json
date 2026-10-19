@@ -1,0 +1,16 @@
+{
+  "id": "aa0a04e810a8",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: the Show HN post text from the feed; the product page was not separately fetched. Maxwell is doubleAI's debut 'Code Execution Model', pitched as a new kind of frontier model that sits between code and hardware: it makes programs run faster as they run, without changing a single line, and with no humans in the loop. The model 'sees programs from the inside' - observing execution rather than source text. doubleAI raised $220M and acquired 1,000 Nvidia B300 chips (reported separately by the WSJ).",
+  "highlights": [
+    "Show HN: Maxwell, doubleAI's 'Code Execution Model'",
+    "Sits between code and hardware; optimizes programs as they run",
+    "Claims: no code changes, no humans in the loop",
+    "Model observes execution from the inside rather than source text",
+    "doubleAI separately reported to have raised $220M and bought 1,000 B300s",
+    "Details limited to the Show HN excerpt"
+  ],
+  "basis": "Basis: the Show HN post text from the feed; the product page was not separately fetched."
+}

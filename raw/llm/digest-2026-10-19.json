@@ -205,6 +205,84 @@
         "4fa660010008"
       ],
       "concepts": []
+    },
+    {
+      "title": "China's stack closes ranks; Washington pushes back",
+      "intro": "DeepSeek and Huawei co-design chips and plan Ascend pre-training, while DHS orders DeepSeek out of federal systems.",
+      "stories": [
+        "7a90dd26feb5",
+        "fcdee7681348"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The build-out's next contracts",
+      "intro": "Nscale talks a ~$45B Anthropic deal days after its IPO valuation wobbled, and Nvidia's Vera CPU wins Modal for agent hosting.",
+      "stories": [
+        "a71e31b3c3a0",
+        "44319f0b597b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "New models: MiniMax's leap and a diffusion bet",
+      "intro": "MiniMax M3.1 Flash claims a generational jump with weights due Thursday, and Inception Labs takes diffusion to scale.",
+      "stories": [
+        "301741a7dc29",
+        "98f628f53c1c",
+        "5501a16275a1"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "CUDA's challengers get practical",
+      "intro": "Amazon's TorchNeuron runs PyTorch on Trainium with no rewrites, while doubleAI's Maxwell optimizes code as it executes.",
+      "stories": [
+        "c3102fcc099d",
+        "aa0a04e810a8"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "AI proves a theorem, and a field wobbles",
+      "intro": "An AI proves the quasi-Riemann hypothesis; Berkeley's math community faces the crossroads.",
+      "stories": [
+        "ea450d2b4c97",
+        "e36997cb07a0"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Consumer AI, two ways",
+      "intro": "Tolan raises $30M serving non-technical users (70% women), while tinkerers aim Claude Code at their smart TVs.",
+      "stories": [
+        "0c8cb2a5b9d8",
+        "5a51546e6390"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Money and tooling around agents",
+      "intro": "Town hits a $1B valuation, CERN partners with Mistral, Laminar watches agent traces, and the ecosystem fills in with benches, databases and small apps.",
+      "stories": [
+        "2b8c3bacb854",
+        "71735ae1a37a",
+        "36dcfbf9bafa",
+        "d594de279d46",
+        "cc704b8e62b3",
+        "bef95b2f2f74",
+        "8403597d8108"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Built for someone specific",
+      "intro": "A phonics reader for a six-year-old and a task app built to end drudgery.",
+      "stories": [
+        "aeaad8805a8b",
+        "a54e582c7e54"
+      ],
+      "concepts": []
     }
   ]
 }

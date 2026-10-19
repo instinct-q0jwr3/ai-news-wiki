@@ -1,71 +1,17 @@
 {
- "generated_at": "2026-10-19T14:14:46+00:00",
+ "generated_at": "2026-10-19T20:15:42+00:00",
  "stories": [
   {
-   "id": "3417d7144cd2",
-   "title": "Timestral: Mistral's time-series foundation models",
-   "source": "Lobsters",
-   "url": "https://mistral.ai/news/timestral/"
-  },
-  {
-   "id": "b684765f16af",
-   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+   "id": "71735ae1a37a",
+   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
    "source": "Hacker News",
-   "url": "https://github.com/IsuruMaduranga/harness-engineering-101"
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
   },
   {
-   "id": "61bf662132cd",
-   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "id": "5501a16275a1",
+   "title": "Mercury 3: Diffusion at scale",
    "source": "Hacker News",
-   "url": "https://100toolkit.com/blog/deslop-model/"
-  },
-  {
-   "id": "f0f44ae42b57",
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50151036"
-  },
-  {
-   "id": "965de5eb647d",
-   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-   "source": "Hacker News",
-   "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
-  },
-  {
-   "id": "2c26c02d2fd9",
-   "title": "Elon Musk says \"I will give one of my SpaceX shares to every kid in America\" in 2027, a gift worth ~$10.5B, after Anthropic committed 5% of its shares to APBF",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html"
-  },
-  {
-   "id": "cc2dcd5015a1",
-   "title": "Q&A with Nvidia's Vera team on agentic AI driving CPU demands and forcing CPU design priority back to single-threaded performance over core counts, and more",
-   "source": "Techmeme",
-   "url": "https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/"
-  },
-  {
-   "id": "ab45dc5de348",
-   "title": "Survey: the chatbot gender adoption gap among US adults has closed since 2024, though men are more likely to use them daily; ChatGPT has identical use rates",
-   "source": "Techmeme",
-   "url": "https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/"
-  },
-  {
-   "id": "5504b6d06e67",
-   "title": "Qualcomm says AI labs want 100B-parameter models running on phones by 2028",
-   "source": "TLDR AI",
-   "url": "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028"
-  },
-  {
-   "id": "1f2b98f8f415",
-   "title": "How to Trust Your Coding Agents More",
-   "source": "TLDR AI",
-   "url": "https://x.com/poteto/status/2111133080526495985"
-  },
-  {
-   "id": "3d7b03c788c4",
-   "title": "Search & Fetch",
-   "source": "TLDR AI",
-   "url": "https://api-docs.deepseek.com/guides/search/"
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
   },
   {
    "id": "a533830b9724",
@@ -74,82 +20,130 @@
    "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "4fa660010008",
-   "title": "Do You Trust Apple?",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/do-you-trust-apple/"
-  },
-  {
-   "id": "450bcce2490e",
-   "title": "Investing in the public benefit",
+   "id": "d594de279d46",
+   "title": "RuneScape Bench: MMOs for Agents [video]",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/public-benefit-fund"
+   "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0"
   },
   {
-   "id": "c0e9ce0d2edc",
-   "title": "Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens",
+   "id": "cc704b8e62b3",
+   "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+   "source": "Hacker News",
+   "url": "https://github.com/kividbio/kividb"
+  },
+  {
+   "id": "a54e582c7e54",
+   "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+   "source": "Hacker News",
+   "url": "https://3anddoneapp.com/try"
+  },
+  {
+   "id": "aa0a04e810a8",
+   "title": "Maxwell: A new kind of model that sits between code and hardware",
+   "source": "Hacker News",
+   "url": "https://heymaxwell.ai/"
+  },
+  {
+   "id": "36dcfbf9bafa",
+   "title": "Launch HN: Laminar (YC S24) – Open-source observability for AI agents",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50154029"
+  },
+  {
+   "id": "8403597d8108",
+   "title": "Cairn: Open windows into AI-driven cyber operations",
+   "source": "Hacker News",
+   "url": "https://norforge.com/blog/inside_cairn"
+  },
+  {
+   "id": "aeaad8805a8b",
+   "title": "Show HN: Open-source early-reading reader with phonics help",
+   "source": "Hacker News",
+   "url": "https://github.com/finereli/yarareads"
+  },
+  {
+   "id": "bef95b2f2f74",
+   "title": "We fine-tuned a 235B model on 4 GPUs. Then we didn't need it",
+   "source": "Hacker News",
+   "url": "https://blog.vertexcover.io/fine-tuning-235b-moe-four-gpus"
+  },
+  {
+   "id": "98f628f53c1c",
+   "title": "MiniMax-M3.1-Flash Artificial Analysis Performance and Price Analysis",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/minimax-m3-1-flash"
+  },
+  {
+   "id": "e36997cb07a0",
+   "title": "UC Berkeley math community left at crossroads",
+   "source": "Hacker News",
+   "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html"
+  },
+  {
+   "id": "ea450d2b4c97",
+   "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+   "source": "Hacker News",
+   "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/"
+  },
+  {
+   "id": "44319f0b597b",
+   "title": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/"
+   "url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/"
   },
   {
-   "id": "9ff4ff2ced69",
-   "title": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024",
+   "id": "86771392f9f5",
+   "title": "John Ternus discusses the iPhone Duo, memory shortages, AI, and more; he says \"all options should be on the table\" after reports that Apple tested Chinese chips",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value"
+   "url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/"
   },
   {
-   "id": "488548561dd8",
-   "title": "How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry",
+   "id": "7a90dd26feb5",
+   "title": "DeepSeek and Huawei are collaborating on future AI chip designs; DeepSeek plans to start using Ascend 950DT for pre-training as soon as 2026's end",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
+   "url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia"
   },
   {
-   "id": "78888162613a",
-   "title": "Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more",
+   "id": "a71e31b3c3a0",
+   "title": "Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/employment-at-anthropic"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal"
   },
   {
-   "id": "e6a181dfa1d8",
-   "title": "Replit Switches Its Default AI Provider to OpenAI",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-  },
-  {
-   "id": "7c852ccc0407",
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-  },
-  {
-   "id": "dfb5670ee5af",
-   "title": "Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments",
+   "id": "5a51546e6390",
+   "title": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more",
    "source": "Techmeme",
-   "url": "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/"
+   "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
   },
   {
-   "id": "9d5ead671d5a",
-   "title": "Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon's planned 2027 price",
+   "id": "301741a7dc29",
+   "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23",
    "source": "Techmeme",
-   "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/"
+   "url": "https://www.minimax.io/blog/minimax-m31f"
   },
   {
-   "id": "d2f75d143620",
-   "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/"
-  },
-  {
-   "id": "88f3d1c490bf",
-   "title": "Tel Aviv-based doubleAI releases its debut code execution model to optimize GPU and CPU performance; doubleAI raised $220M and acquired 1,000 Nvidia B300 chips",
+   "id": "2b8c3bacb854",
+   "title": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&reflink=desktopwebshare_permalink"
+   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/"
   },
   {
-   "id": "4f658a008993",
-   "title": "Character.AI's Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech while insulating Disney from mounting legal liabilities",
+   "id": "0c8cb2a5b9d8",
+   "title": "Tolan, an AI assistant focused on users that are not tech-savvy, raised $30M from USV, Khosla Ventures, and Homebrew, and says 70% of its users are women",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/"
+   "url": "https://www.upstartsmedia.com/p/tolan-raises-30m-for-ai-companion-you-trust"
+  },
+  {
+   "id": "fcdee7681348",
+   "title": "The US DHS orders all federal civilian agencies to remove DeepSeek's tech from their IT systems and prohibits future procurement of its products and services",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "c3102fcc099d",
+   "title": "Amazon launches TorchNeuron, an open-source framework that lets developers run PyTorch code on Amazon's Trainium chips with no rewriting needed, in public beta",
+   "source": "Techmeme",
+   "url": "https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/"
   }
  ]
 }

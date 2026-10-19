@@ -1,0 +1,15 @@
+{
+  "id": "44319f0b597b",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: Techmeme's feed summary of a Reuters article; the source fetch failed. AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips. Reuters frames it as Nvidia winning CPU business with another fast-growing AI startup - evidence that Nvidia's Arm-based Vera is becoming a default pairing with its GPUs in agent-hosting infrastructure.",
+  "highlights": [
+    "Reuters: Modal will use Nvidia Vera CPUs for hosting agents, a first for the startup",
+    "Modal currently runs Intel and AMD chips",
+    "Nvidia wins CPU business with another fast-growing AI startup",
+    "Evidence of Vera becoming the default CPU pairing in agent infrastructure",
+    "Assessment limited to Techmeme's summary; source fetch failed"
+  ],
+  "basis": "Basis: Techmeme's feed summary of a Reuters article; the source fetch failed."
+}

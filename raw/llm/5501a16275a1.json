@@ -1,0 +1,14 @@
+{
+  "id": "5501a16275a1",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: title only - the Inception Labs blog post failed to fetch. Inception Labs announces Mercury 3, the next version of its diffusion-based language model, billed as 'diffusion at scale'. Diffusion LLMs generate text by refining whole drafts rather than token-by-token, promising speed and parallelism advantages; the post's benchmarks and release details were not retrievable.",
+  "highlights": [
+    "Inception Labs announces Mercury 3, a diffusion language model",
+    "Framed as 'diffusion at scale'",
+    "Diffusion LLMs refine whole drafts instead of generating token-by-token",
+    "Blog post failed to fetch; benchmarks and availability unverified"
+  ],
+  "basis": "Basis: title only - the Inception Labs blog post failed to fetch."
+}

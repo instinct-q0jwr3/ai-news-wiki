@@ -1,0 +1,14 @@
+{
+  "id": "bef95b2f2f74",
+  "authored_at": "2026-10-19T20:29:15Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Basis: title only - the blog post failed to fetch. A team reports fine-tuning a 235B-parameter (presumably mixture-of-experts) model on just 4 GPUs - and then discovering they didn't need the fine-tune after all. The post presumably covers both the memory engineering that made it possible and the lesson about when fine-tuning is overkill.",
+  "highlights": [
+    "Post: fine-tuning a 235B model on only 4 GPUs - then not needing it",
+    "Likely covers the memory engineering behind ultra-large-model fine-tuning on small rigs",
+    "And the meta-lesson: the fine-tune turned out unnecessary",
+    "Blog post failed to fetch; method and findings unverified"
+  ],
+  "basis": "Basis: title only - the blog post failed to fetch."
+}

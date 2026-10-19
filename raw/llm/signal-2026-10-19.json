@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-19",
+  "status": "provisional",
+  "reserve": "dfb5670ee5af",
+  "picks": [
+    {
+      "id": "9c0372a7ba1f",
+      "front": "Models",
+      "source": "Hacker News",
+      "why": "DeepSeek V4.1 Flash scores 45 on the Artificial Analysis index - fast and cheap, if you can afford its verbosity."
+    },
+    {
+      "id": "9d5ead671d5a",
+      "front": "Agents",
+      "source": "Techmeme",
+      "why": "Four Gemini 4 Argon agents beat Minecraft unaided: 2,783 programs, 229 messages, 605 deaths, $1,620."
+    },
+    {
+      "id": "a7d5061181da",
+      "front": "Compute",
+      "source": "Techmeme",
+      "why": "Intel's 480GB LPDDR5X GPU bets capacity over bandwidth for inference - a different shape for the build-out."
+    },
+    {
+      "id": "6cd69ad0f41a",
+      "front": "Business",
+      "source": "Techmeme",
+      "why": "Stripe Link data: agentic transactions up 38x in a month, ~$100 average spend - agentic commerce gets real numbers."
+    },
+    {
+      "id": "488548561dd8",
+      "front": "Policy",
+      "source": "Techmeme",
+      "why": "If Democrats flip a chamber, AI CEOs face subpoenas and hearings; data-center tax credits are first in line."
+    }
+  ]
+}

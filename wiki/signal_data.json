@@ -1006,5 +1006,61 @@
   "thin": 1,
   "total": 24,
   "unreadable": 1
+ },
+ "2026-10-19": {
+  "ok": 50,
+  "paywall": 13,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "9c0372a7ba1f",
+    "minutes": 10,
+    "source": "Hacker News",
+    "title": "DeepSeek V4.1 Flash 1017",
+    "why": "DeepSeek V4.1 Flash scores 45 on the Artificial Analysis index - fast and cheap, if you can afford its verbosity."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "9d5ead671d5a",
+    "minutes": 1,
+    "source": "Techmeme",
+    "title": "Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon's planned 2027 price",
+    "why": "Four Gemini 4 Argon agents beat Minecraft unaided: 2,783 programs, 229 messages, 605 deaths, $1,620."
+   },
+   {
+    "cat": "ok",
+    "front": "Compute",
+    "id": "a7d5061181da",
+    "minutes": 4,
+    "source": "Techmeme",
+    "title": "Intel unveils its GPU D-series for data centers, featuring up to 480GB of LPDDR5X memory, an unusually large capacity to support demanding inference workloads",
+    "why": "Intel's 480GB LPDDR5X GPU bets capacity over bandwidth for inference - a different shape for the build-out."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "6cd69ad0f41a",
+    "minutes": 2,
+    "source": "Techmeme",
+    "title": "Stripe Link data shows agentic transactions increased by 38x and volume of payments by 20x in September, with retail leading in both, and a ~$100 average spend",
+    "why": "Stripe Link data: agentic transactions up 38x in a month, ~$100 average spend - agentic commerce gets real numbers."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "488548561dd8",
+    "minutes": 6,
+    "source": "Techmeme",
+    "title": "How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry",
+    "why": "If Democrats flip a chamber, AI CEOs face subpoenas and hearings; data-center tax credits are first in line."
+   }
+  ],
+  "reserve": "dfb5670ee5af",
+  "status": "provisional",
+  "thin": 3,
+  "total": 70,
+  "unreadable": 4
  }
 }
