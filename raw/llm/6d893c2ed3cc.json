@@ -1,0 +1,16 @@
+{
+  "id": "6d893c2ed3cc",
+  "authored_at": "2026-10-20T20:33:30Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Ars Technica reports that Magistrate Judge Thomas Hixon has ordered Meta to clearly identify the executives who authorized pirating books from shadow libraries like Anna's Archive and LibGen for AI training, in discovery for the Kadrey/Silverman class action and an Entrepreneur Media suit. Meta had argued an 'informal approach' in which nobody with authority made any decision, while blaming staffers who 'technically' downloaded the torrents. The record undercuts that: staff messaged that 'torrenting from a corporate laptop doesn't feel right', one testified downloads required director- or VP-level approval, and leadership at one point halted then resumed the downloading. Authors argue Meta's 80.6 TB from LibGen and 35.7 TB via Anna's Archive implied seeding, which Meta claims mitigations prevented.",
+  "highlights": [
+    "Judge orders Meta to name execs who approved torrenting for AI training",
+    "Covers the Kadrey/Silverman class action and Entrepreneur Media suit",
+    "Meta's defense: an 'informal approach' where nobody with authority decided",
+    "Staff pushback in evidence: 'torrenting from a corporate laptop doesn't feel right'",
+    "Testimony: downloads required director- or VP-level approval",
+    "80.6 TB from LibGen and 35.7 TB via Anna's Archive; seeding disputed",
+    "TorrentFreak first reported the order"
+  ]
+}

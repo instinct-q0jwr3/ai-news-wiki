@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T14:18:15+00:00",
+ "generated_at": "2026-10-20T20:18:55+00:00",
  "stories": [
   {
    "id": "1ca338aa1d9c",
@@ -8,130 +8,28 @@
    "url": "https://github.com/deepseek-ai/DeepInfer"
   },
   {
-   "id": "91a979afd596",
-   "title": "Publish fake stats, get cited in LLMs",
+   "id": "fd9da335c1ff",
+   "title": "Voxtral 3",
    "source": "Hacker News",
-   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+   "url": "https://mistral.ai/news/voxtral-3/"
   },
   {
-   "id": "218693ccd4b0",
-   "title": "I'm with Linus",
+   "id": "06e6b544111e",
+   "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
    "source": "Hacker News",
-   "url": "https://isene.org/2026/10/Linus-On-AI.html"
+   "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
   },
   {
-   "id": "d2b738b8c763",
-   "title": "Four Z.ai founders participated in a 2018 to 2021 research project co-funded by CGTRI, which the UK's MI5 said had \"very strong ties\" to China's main spy agency",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ1MTMzNCwiZXhwIjoxNzkzMDU2MTM0LCJhcnRpY2xlSWQiOiJUTUxFQ0RLSkg2VjgwMCIsImJjb25uZWN0SWQiOiIzNzFCRTgwQ0Q5RkE0NDU0OTdFQkU2NzI0NURDMDg4QSJ9.dXDvRdK8ysRYiIyeESwFQdgvip-fNHBbT61lJBZyzNc"
-  },
-  {
-   "id": "128052681ce4",
-   "title": "Introducing Clairic, a new System One class of extraction models",
-   "source": "TLDR AI",
-   "url": "https://blog.cloudflare.com/clairic-extraction-model"
-  },
-  {
-   "id": "5501a16275a1",
-   "title": "Mercury 3: Diffusion at scale",
+   "id": "49504eff2dec",
+   "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
    "source": "Hacker News",
-   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+   "url": "https://github.com/KatrielMoses/voidaccess"
   },
   {
-   "id": "2c898b6aa130",
-   "title": "Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-  },
-  {
-   "id": "5ec32dd612b9",
-   "title": "Inside Meta's Gigawatt-Scale AI Supercluster",
-   "source": "TLDR AI",
-   "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
-  },
-  {
-   "id": "301741a7dc29",
-   "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23",
-   "source": "Techmeme",
-   "url": "https://www.minimax.io/blog/minimax-m31f"
-  },
-  {
-   "id": "c0eb7eceefd9",
-   "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-   "source": "TLDR AI",
-   "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/"
-  },
-  {
-   "id": "036809cc73b9",
-   "title": "Office Intelligence for Long-Running AI Work",
-   "source": "TLDR AI",
-   "url": "https://officeintelligence.github.io/"
-  },
-  {
-   "id": "55c7363860fe",
-   "title": "OpenAI has retreated from advocating for strict US chip export controls to China ahead of the lame-duck session, aligning closer with President Trump",
-   "source": "Techmeme",
-   "url": "https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385"
-  },
-  {
-   "id": "76da64c31779",
-   "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
-   "source": "TLDR AI",
-   "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the"
-  },
-  {
-   "id": "89ff207e8634",
-   "title": "AI Benchmarks: Climbing the Wrong Hills",
-   "source": "TLDR AI",
-   "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills"
-  },
-  {
-   "id": "763b62e38be2",
-   "title": "Alibaba, Tencent, and Huawei are pouring billions into data centers in Shaoguan, a hinterland region with cheap power and a cool climate, angering some locals",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e"
-  },
-  {
-   "id": "c01f9cf1cc9a",
-   "title": "Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
-  },
-  {
-   "id": "60abf80b0642",
-   "title": "Eka Robotics, which is developing a \"vision-force-action\" architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
-  },
-  {
-   "id": "c07669417c32",
-   "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-   "source": "TLDR AI",
-   "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
-  },
-  {
-   "id": "e620453de7fb",
-   "title": "DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs"
-  },
-  {
-   "id": "573498c5c398",
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-  },
-  {
-   "id": "bff6c32e0f79",
-   "title": "Anthropic's leaked federal AI bill draws widespread criticism from AI safety advocates for being significantly weaker than the bipartisan FRONTIER Act",
-   "source": "Techmeme",
-   "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach"
-  },
-  {
-   "id": "ed0d3dfc42b3",
-   "title": "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/salesforce-to-buy-marketing-platform-braze-for-5-7-billion"
+   "id": "5d5a56eef5ef",
+   "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+   "source": "Hacker News",
+   "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md"
   },
   {
    "id": "6e9c483af377",
@@ -140,28 +38,148 @@
    "url": "https://openai.com/index/low-resource-programming-languages/"
   },
   {
-   "id": "962b8c3dec86",
-   "title": "How to shape your slides and videos with Gemini Notebook",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
-  },
-  {
-   "id": "ca4fdbf13bef",
-   "title": "Introducing Exa 3.0",
-   "source": "TLDR AI",
-   "url": "https://exa.ai/blog/exa-3"
-  },
-  {
-   "id": "f62f3bf4c4bf",
-   "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+   "id": "9fe34378880b",
+   "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+   "url": "https://github.com/AbdullahAlhariri/penmentor"
   },
   {
-   "id": "63008669027f",
-   "title": "CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE",
+   "id": "e9a8895b216b",
+   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50167583"
+  },
+  {
+   "id": "6065646d55ca",
+   "title": "Claude designed protein binders against scorpion neurotoxins",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+  },
+  {
+   "id": "e7b37e5aa8ad",
+   "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
+   "source": "Hacker News",
+   "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/"
+  },
+  {
+   "id": "10b5e1ee56cd",
+   "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
+   "source": "Hacker News",
+   "url": "https://www.thestack.technology/these-f-clowns/"
+  },
+  {
+   "id": "cd04433e94c0",
+   "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+   "source": "Hacker News",
+   "url": "https://rouler.io/"
+  },
+  {
+   "id": "2a4be691981f",
+   "title": "Anthropic logged net loss of over $80B in first half of 2026",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/"
+  },
+  {
+   "id": "a4725935dd5b",
+   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+   "source": "Hacker News",
+   "url": "https://research.poh.org/bot-benchmarking-2026/"
+  },
+  {
+   "id": "ec3b4ab32d52",
+   "title": "On AI writing",
+   "source": "Hacker News",
+   "url": "https://www.bolkunov.com/p/on-ai-writing"
+  },
+  {
+   "id": "6d893c2ed3cc",
+   "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/"
+  },
+  {
+   "id": "74598585d32b",
+   "title": "Gemini 4 Argon is now available for everyone",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+  },
+  {
+   "id": "094505ddf1ab",
+   "title": "A practical guide to AI image generation, from diffusion to agents",
+   "source": "Hacker News",
+   "url": "https://danielball.com/notes/ai_image_generation.html"
+  },
+  {
+   "id": "2bf40dcf6e1b",
+   "title": "Anthropic redesigned source-control for AI agents",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/redesigning-source-control"
+  },
+  {
+   "id": "2f51d10814bc",
+   "title": "AI Had Better Work Out",
+   "source": "Ed Zitron",
+   "url": "https://www.wheresyoured.at/ai-had-better-work-out/"
+  },
+  {
+   "id": "ba6f522fe53e",
+   "title": "OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development"
+  },
+  {
+   "id": "5ea92a9da885",
+   "title": "Google launches TorchTPU, an open-source version of PyTorch to let AI apps run on TPUs and Google Cloud via simple configuration changes without rewriting code",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+  },
+  {
+   "id": "4f611bef8865",
+   "title": "Pluralistic: The death of history's most successful publisher (20 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/20/main-character-syndrome/"
+  },
+  {
+   "id": "726236ba1bcd",
+   "title": "A US judge dismisses a civil sexual abuse lawsuit brought against Sam Altman by his sister, after she refused to appear for an independent medical examination",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-2026-10-20/"
+  },
+  {
+   "id": "cc35254bf68e",
+   "title": "Sensor Tower: Muse had 10.9M downloads since its September debut, 10.2M of those in the US, becoming the 12th app to hit 10M US downloads in its first 40 days",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+  },
+  {
+   "id": "e2d9a5912c2d",
+   "title": "ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-20/asi-hits-3-billion-valuation-in-325-million-round-led-by-spark"
+  },
+  {
+   "id": "3ddb55abcdf1",
+   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
+  },
+  {
+   "id": "bc9a7d70c9f3",
+   "title": "Sam Altman told OpenAI staff of three AI endgames: an IAEA-style regulator, a CERN-like lab merger, or one lab using RSI to \"melt everyone else's GPUs\"",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus"
+  },
+  {
+   "id": "f4227090b360",
+   "title": "Sign language to text",
    "source": "Lobsters",
-   "url": "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/"
+   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+  },
+  {
+   "id": "6ca723abab1a",
+   "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r"
   }
  ]
 }

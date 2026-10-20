@@ -1,0 +1,15 @@
+{
+  "id": "6065646d55ca",
+  "authored_at": "2026-10-20T20:33:30Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic reports that an internal research model designed protein minibinders against scorpion neurotoxins, extending August's single-prompt binder work into a test of whether motivated nonexperts, working with Citrini Research, could tackle a real health problem agentically. Claude worked from one prompt and four follow-ups to design candidates against five toxins in parallel in days; Adaptyv Bio and Twist Bioscience experimentally tested 211 designs, of which 17 met the binding criteria. All 211 designs and their data are being released as a resource for the field. Anthropic's framing: binding is no longer the bottleneck, and the real impact for neglected problems like envenoming, long starved of innovation by low commercial incentives, will come from pushing these tools into the parts of the therapeutic pipeline beyond binding.",
+  "highlights": [
+    "Claude designed minibinders against five scorpion neurotoxins in parallel, in days",
+    "One prompt plus four follow-ups, developed with Citrini Research",
+    "211 designs experimentally tested by Adaptyv Bio and Twist Bioscience; 17 met criteria",
+    "All 211 designs and data released openly",
+    "Framing: binding is solved enough; the pipeline beyond binding is the bottleneck",
+    "Envenoming highlighted as a neglected disease with low commercial incentive"
+  ]
+}

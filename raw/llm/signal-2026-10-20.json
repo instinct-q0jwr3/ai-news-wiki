@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-20",
+  "status": "provisional",
+  "reserve": "89ff207e8634",
+  "picks": [
+    {
+      "id": "128052681ce4",
+      "front": "Models",
+      "source": "TLDR AI",
+      "why": "Cloudflare's Clairic answers structured extraction in a single token-free pass - a new model class, not another LLM."
+    },
+    {
+      "id": "c07669417c32",
+      "front": "Agents",
+      "source": "TLDR AI",
+      "why": "Meta's thin orchestrator: a 1,300-line router plus 14 specialists beat the all-knowing agent - less context, more reliability."
+    },
+    {
+      "id": "5ec32dd612b9",
+      "front": "Compute",
+      "source": "TLDR AI",
+      "why": "Meta tours Prometheus: 85-90% goodput today, a million GPUs in lockstep at full scale - the build-out's reference design."
+    },
+    {
+      "id": "573498c5c398",
+      "front": "Business",
+      "source": "TLDR AI",
+      "why": "A second $45B Anthropic-Nscale compute deal within a month, with both companies chasing IPOs."
+    },
+    {
+      "id": "bff6c32e0f79",
+      "front": "Policy",
+      "source": "Techmeme",
+      "why": "Anthropic's leaked federal bill would let evaluators self-certify and bar states from suspending models - advocates say it closes the policy window."
+    }
+  ]
+}

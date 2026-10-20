@@ -1,0 +1,13 @@
+{
+  "id": "f4227090b360",
+  "authored_at": "2026-10-20T20:29:09Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Google DeepMind writes about putting sign-language AI into users' hands, converting sign language to text. The blog post could not be fetched, so this summary is limited to the headline.",
+  "highlights": [
+    "DeepMind: sign language to text, in users' hands",
+    "Accessibility-focused AI release",
+    "Source: deepmind.google via Lobsters"
+  ],
+  "basis": "Basis: Lobsters title only; the DeepMind blog fetch failed during a mass outage."
+}

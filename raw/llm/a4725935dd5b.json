@@ -1,0 +1,15 @@
+{
+  "id": "a4725935dd5b",
+  "authored_at": "2026-10-20T20:33:30Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Researchers revisit their bot-detection benchmark with modern adversaries: conventional scripted browsers, stealth browsers that hide automation signals, and AI agents that navigate pages autonomously. A year ago the five leading systems detected 33-87% of automated browsers; now, across Proof of Human, Google reCAPTCHA v3, hCaptcha, Cloudflare Turnstile, and Cloudflare Bot Management, detection ranges from 9% to 99%. The test used a five-question survey mixing multiple-choice and open responses, with each of five adversaries attempting it 20 times per system, yielding 89-100 evaluable sessions each. Proof of Human led at 99% aggregated detection; behavioral signals alongside device signals again outperformed device-only approaches.",
+  "highlights": [
+    "Bot detection vs modern AI agents: detection rates from 9% to 99%",
+    "Systems tested: Proof of Human, reCAPTCHA v3, hCaptcha, Turnstile, Cloudflare Bot Management",
+    "Proof of Human led at 99% aggregate detection",
+    "Adversaries: scripted browsers, stealth browsers, autonomous AI agents",
+    "Method: five-question survey, 20 attempts per adversary, ~100 sessions per system",
+    "Year-ago baseline was 33-87%; behavioral plus device signals still win"
+  ]
+}

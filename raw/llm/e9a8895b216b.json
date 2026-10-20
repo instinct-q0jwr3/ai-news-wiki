@@ -1,0 +1,15 @@
+{
+  "id": "e9a8895b216b",
+  "authored_at": "2026-10-20T20:33:16Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Respan (YC W24) launches an open-source AI gateway in Rust where everything is a plugin: providers (OpenAI, Anthropic, Gemini), protocols (chat, realtime voice, MCP), modalities, and gateway features like fallbacks, PII redaction, and smart routing. The origin story is LiteLLM fatigue: after building a gateway on LiteLLM since 2024 that serves thousands of orgs, their wrapper code exceeded 100,000 lines, and a routine upgrade in January caused intermittent connection errors they never diagnosed, leaving them backporting fixes by hand. Inspired by Nginx, the redesign keeps a tiny core that only dispatches events, so teams assemble their own AI infrastructure without forking the gateway.",
+  "highlights": [
+    "Open-source Rust AI gateway, YC W24",
+    "Everything is a plugin: providers, protocols, modalities, features",
+    "Small Nginx-inspired core that only dispatches events",
+    "Features as plugins: fallbacks, PII redaction, smart routing",
+    "Motivation: a 100k+ line LiteLLM wrapper and an undiagnosed upgrade regression",
+    "Gateway serves thousands of orgs today"
+  ]
+}

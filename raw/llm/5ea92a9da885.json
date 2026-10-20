@@ -1,0 +1,16 @@
+{
+  "id": "5ea92a9da885",
+  "authored_at": "2026-10-20T20:33:44Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "TechCrunch reports Google has open-sourced TorchTPU, its long-awaited version of PyTorch that lets AI apps run on TPUs, and by extension Google Cloud, with a simple configuration change and no rewrites, a day after Amazon's TorchNeuron did the same for Trainium. PyTorch, by some accounts used by 85% of AI apps, was built around NVIDIA GPUs, so both cloud giants are attacking NVIDIA's default status; Amazon is additionally submitting code to mainline PyTorch to decouple features from NVIDIA hardware. Google says it worked directly with Meta, Hugging Face, Inferact (vLLM), and RadixArk (SGLang) to keep TorchTPU compatible with the wider toolchain, and launched a TPU agent suite to help developers migrate.",
+  "highlights": [
+    "Google open-sources TorchTPU: PyTorch apps on TPUs via config change",
+    "Follows Amazon's TorchNeuron for Trainium by one day",
+    "PyTorch powers ~85% of AI apps and was built GPU-first",
+    "Amazon is upstreaming NVIDIA-decoupling changes to mainline PyTorch",
+    "Google worked with Meta, Hugging Face, vLLM and SGLang teams for compatibility",
+    "New TPU agent suite helps developers migrate",
+    "Source: Julie Bort, TechCrunch"
+  ]
+}

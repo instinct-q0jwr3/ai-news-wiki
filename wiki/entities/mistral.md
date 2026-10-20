@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-19 · updated: 2026-10-20 · confidence: medium_
 
-`entity` `mistral` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
+`entity` `mistral` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
 ## Overview
 
@@ -10,6 +10,7 @@ Mistral is Europe's flagship foundation-model lab, pairing frontier model releas
 
 ## Timeline
 
+- **2026-10-20** - Respan (YC W24) launches an open-source AI gateway in Rust where everything is a plugin: providers (OpenAI, Anthropic, Gemini), protocols (chat, realtime voice, MCP), modalities, and gateway features like fallbacks, PII redaction, and smart routing. The… ([Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](../summaries/e9a8895b216b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Mistral](../entities/mistral.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-19** - CERN and Mistral have signed a statement of intent to establish a long-term strategic partnership focused on developing foundation models for scientific discovery. The partnership combines CERN's expertise in fundamental physics, scientific data and… ([CERN and Mistral sign a statement of intent to establish a strategic partnership](../summaries/71735ae1a37a.md) · [Mistral](../entities/mistral.md))
 - **2026-10-19** - Comments Research October 15, 2026 By Mistral Back to Blog 7 min read Thinking Summary Timestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M… ([Timestral: Mistral's time-series foundation models](../summaries/3417d7144cd2.md) · [Mistral](../entities/mistral.md))
 - **2026-10-08** - Politico reports that Ecosia, the Berlin search engine used by government services including Germany's environment ministry and the UK's NHS, is dropping Mistral for open-source models, including Chinese ones. Founder Christian Kroll says Mistral's models… ([German search engine Ecosia, used by government services, ditches Mistral for open-source models, including Chinese ones, citing Mistral's disappointing quality](../summaries/7c44fc0e849b.md) · [Mistral](../entities/mistral.md))

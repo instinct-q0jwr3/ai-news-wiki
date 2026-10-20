@@ -1,0 +1,15 @@
+{
+  "id": "06e6b544111e",
+  "authored_at": "2026-10-20T20:33:16Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "IGN reports that Steam's latest Next Fest is drowning in low-effort AI-generated games, and users are begging Valve for a filter. The flashpoint is a subreddit post asking for the ability to exclude games with disclosed AI-generated content from the Discovery Queue, since Steam already requires that disclosure. Commenters describe scrolling through 'AI slop' and hoping engagement metrics drop enough to force stricter submission guidelines, with some blaming the recent wave of decompilation and mashup mods around Claude Opus 5.5. Valve has historically relied on the algorithm rather than curation, and cut user-defined tags back in May, so the filter would require adding 'AI' as a tag.",
+  "highlights": [
+    "Steam users petition Valve for a 'no AI' filter in Discovery Queue",
+    "Next Fest seen as flooded with AI-generated games and art",
+    "Steam already requires AI-content disclosure, so a filter is a small step",
+    "Valve cut user-defined tags in May; 'AI' would need to become a tag",
+    "Some users blame the Claude Opus 5.5 decompilation/mashup mod wave",
+    "Valve's laissez-faire curation relies on the algorithm to bury slop"
+  ]
+}

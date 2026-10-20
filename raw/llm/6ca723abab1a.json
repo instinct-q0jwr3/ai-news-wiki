@@ -1,0 +1,14 @@
+{
+  "id": "6ca723abab1a",
+  "authored_at": "2026-10-20T20:29:09Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Wall Street Journal reports Anthropic's IPO prospectus shows H1 2026 revenue of $16.3 billion, about 20% of it from two customers, against $1.1 billion in H1 2025, alongside an $80.7 billion net loss driven by accounting charges. The article is paywalled and could not be fetched, so this summary is limited to the headline figures.",
+  "highlights": [
+    "H1 2026 revenue $16.3B vs $1.1B in H1 2025",
+    "~20% of revenue concentrated in two customers",
+    "$80.7B net loss driven by accounting charges",
+    "Source: Anissa Gardizy, WSJ, via Techmeme"
+  ],
+  "basis": "Basis: Techmeme headline only; the WSJ article is paywalled and the fetch failed during a mass outage."
+}

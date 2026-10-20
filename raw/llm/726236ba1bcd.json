@@ -1,0 +1,13 @@
+{
+  "id": "726236ba1bcd",
+  "authored_at": "2026-10-20T20:29:09Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Reuters reports a US judge has dismissed the civil sexual-abuse lawsuit brought against Sam Altman by his sister after she refused to appear for an independent medical examination. The article could not be fetched, so this summary is limited to the headline.",
+  "highlights": [
+    "Judge dismisses lawsuit against Sam Altman by his sister",
+    "Dismissal followed her refusal of an independent medical exam",
+    "Source: Luc Cohen, Reuters, via Techmeme"
+  ],
+  "basis": "Basis: Techmeme headline only; the Reuters article fetch failed during a mass outage."
+}

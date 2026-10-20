@@ -1,0 +1,16 @@
+{
+  "id": "49504eff2dec",
+  "authored_at": "2026-10-20T20:33:16Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "VoidAccess is a self-hostable, open-source OSINT pipeline that turns dark-web research queries into structured threat intelligence: collection, enrichment, relationship mapping, and export in one workflow, aimed at security researchers, threat-intel teams, and authorized investigators. It installs from pip, runs investigations from the CLI, maintains persistent actor profiles with timelines and analyst notes, and exports to STIX, MISP, Sigma, YARA, Snort, Suricata, CSV, Markdown, or JSON. LLM analysis is pluggable across OpenRouter, Groq, OpenAI, Anthropic, Gemini, and local Ollama models, and the tool degrades gracefully: sources without API keys skip cleanly, and without PyTorch it falls back to a deterministic SHA-256 encoder instead of vector embeddings.",
+  "highlights": [
+    "Self-hostable dark-web OSINT: query to relationship graph",
+    "CLI-driven: investigate, list, actors, status, export commands",
+    "Exports to STIX, MISP, Sigma, YARA, Snort, Suricata, CSV, Markdown, JSON",
+    "Persistent actor profiles with timelines and analyst notes",
+    "Pluggable LLMs: OpenRouter, Groq, OpenAI, Anthropic, Gemini, Ollama",
+    "Graceful degradation: keyless sources skip, SHA-256 fallback without PyTorch",
+    "Built by a security researcher as next-gen AI-era tooling"
+  ]
+}

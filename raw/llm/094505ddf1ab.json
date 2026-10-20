@@ -1,0 +1,16 @@
+{
+  "id": "094505ddf1ab",
+  "authored_at": "2026-10-20T20:33:44Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Daniel Ball's practical guide to AI image generation covers how the models work at a high level, the major types, a short history, what ChatGPT actually gives you, and how to wire image generation into your own code and agents, all illustrated with his own experiments (pixel-art sprites, photorealistic card-table backgrounds, restaurant posters). The historical anecdotes carry the explanatory weight: fingers went wrong because models learned hands as texture, and Midjourney v5 in March 2023 marked the turning point; text went wrong because tokenizers hide spelling from the model, a flaw a 2022 character-aware paper and Ideogram's 2023 push largely fixed by the time multimodal models made readable text normal in 2025. The glitches leaked into the real world in between, from the Willy's Chocolate Experience posters promising 'a pasadise of sweet teats' to Nano Banana Pro turning 'Lived experience' into 'Liver experience' as late as December 2025.",
+  "highlights": [
+    "Guide spans diffusion basics to calling image models from agents",
+    "Fingers failed because models learned hands as texture, not anatomy",
+    "Text failed because tokenizers hide spelling; character-aware models fixed it",
+    "Midjourney v5 (March 2023) was the hands turning point",
+    "Real-world leaks: Glasgow's 'pasadise of sweet teats', Nano Banana's 'Liver experience'",
+    "All examples from the author's own Python experiments with image providers",
+    "Long text is still not completely solved"
+  ]
+}

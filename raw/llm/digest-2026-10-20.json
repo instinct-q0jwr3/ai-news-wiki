@@ -237,6 +237,104 @@
         "6e9c483af377"
       ],
       "concepts": []
+    },
+    {
+      "title": "Anthropic's numbers and its endgames",
+      "intro": "IPO filings show huge growth and a huge loss, while Altman sketches three ways the race ends.",
+      "stories": [
+        "6ca723abab1a",
+        "2a4be691981f",
+        "bc9a7d70c9f3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Evening model releases",
+      "intro": "Gemini 4 Argon opens to everyone, Mistral ships Voxtral 3, and DeepMind puts sign-language AI in users' hands.",
+      "stories": [
+        "74598585d32b",
+        "fd9da335c1ff",
+        "f4227090b360"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The silicon challenge widens",
+      "intro": "Google answers Amazon's TorchNeuron with TorchTPU: PyTorch on TPUs with config changes only.",
+      "stories": [
+        "5ea92a9da885"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Science and life-sciences moves",
+      "intro": "Claude designs antitoxin binders and OpenAI buys a drug-development agent startup.",
+      "stories": [
+        "6065646d55ca",
+        "ba6f522fe53e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Contracts and distribution",
+      "intro": "ASI raises big after its FAA win, and Meta's Muse posts rare download velocity.",
+      "stories": [
+        "e2d9a5912c2d",
+        "cc35254bf68e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Courts and accountability",
+      "intro": "A judge dismisses the lawsuit against Sam Altman; Meta must name who approved the torrenting.",
+      "stories": [
+        "726236ba1bcd",
+        "6d893c2ed3cc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Measuring models and the bots they fight",
+      "intro": "New SlopCodeBench rankings and a look at how bot detection holds up against modern agents.",
+      "stories": [
+        "5d5a56eef5ef",
+        "a4725935dd5b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Community tooling for agents",
+      "intro": "Anthropic reimagines source control, plus Show HN launches: an OSINT grapher, a Rust gateway, a math grader, a traffic router.",
+      "stories": [
+        "2bf40dcf6e1b",
+        "49504eff2dec",
+        "e9a8895b216b",
+        "9fe34378880b",
+        "cd04433e94c0"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Backlash and think pieces",
+      "intro": "Steam users ask for a no-AI filter, smart-oven replication raises eyebrows, and the essayists weigh in.",
+      "stories": [
+        "06e6b544111e",
+        "10b5e1ee56cd",
+        "e7b37e5aa8ad",
+        "2f51d10814bc",
+        "ec3b4ab32d52",
+        "4f611bef8865"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Weekend builds and guides",
+      "intro": "A vibe-coded RTS that is actually fun, and a practical tour of image generation.",
+      "stories": [
+        "3ddb55abcdf1",
+        "094505ddf1ab"
+      ],
+      "concepts": []
     }
   ]
 }

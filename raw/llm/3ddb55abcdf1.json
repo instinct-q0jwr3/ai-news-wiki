@@ -1,0 +1,16 @@
+{
+  "id": "3ddb55abcdf1",
+  "authored_at": "2026-10-20T20:33:44Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Simon Willison documents Battle Drones, his most ambitious vibe-coded game yet: a mobile-friendly Command & Conquer-style RTS where drone armies fight over territory and resources, built through a sequence of escalating prompts and a dynamic workflow script orchestrating many subagents at once. He iterated on fun systematically: openers (Blitz, Industry, Air Wing), call-down powers (Barrage, EMP, Drop Pod, Sky Hammer), objectives and salvage, combat juice, adaptive music, an 8-mission Ops campaign, Last Stand survival, heroes, mutators, and a Daily Op. The balance claims are data-backed: across 1,200 AI-vs-AI test matches on Normal, games undecided after 25 minutes fell from 14% to 0.9%, and comeback wins from 800+ scrap behind rose from 24% to 46%. Later prompts ported it to three.js with 3D models and designed maps with air-only island uplinks to force combined-arms play.",
+  "highlights": [
+    "Vibe-coded RTS built through iterative prompts and a subagent-orchestrating workflow script",
+    "Mobile-friendly Command & Conquer style with flying and ground drones",
+    "Openers, call-down powers, salvage, heroes, mutators, Daily Op, 8-mission campaign",
+    "Balance tuned via 1,200 AI-vs-AI matches: stalemates 14% to 0.9%, comebacks 24% to 46%",
+    "Later ported to three.js with 3D models",
+    "Map design exploits Condor-only island uplinks to force combined arms",
+    "Willison: unlike his earlier experiments, this one is actually fun"
+  ]
+}

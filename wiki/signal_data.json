@@ -1,7 +1,7 @@
 {
  "2026-10-01": {
-  "ok": 46,
-  "paywall": 15,
+  "ok": 47,
+  "paywall": 14,
   "picks": [
    {
     "cat": "ok",
@@ -1062,5 +1062,61 @@
   "thin": 3,
   "total": 70,
   "unreadable": 4
+ },
+ "2026-10-20": {
+  "ok": 51,
+  "paywall": 8,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "128052681ce4",
+    "minutes": 20,
+    "source": "TLDR AI",
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "why": "Cloudflare's Clairic answers structured extraction in a single token-free pass - a new model class, not another LLM."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "c07669417c32",
+    "minutes": 6,
+    "source": "TLDR AI",
+    "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+    "why": "Meta's thin orchestrator: a 1,300-line router plus 14 specialists beat the all-knowing agent - less context, more reliability."
+   },
+   {
+    "cat": "ok",
+    "front": "Compute",
+    "id": "5ec32dd612b9",
+    "minutes": 18,
+    "source": "TLDR AI",
+    "title": "Inside Meta's Gigawatt-Scale AI Supercluster",
+    "why": "Meta tours Prometheus: 85-90% goodput today, a million GPUs in lockstep at full scale - the build-out's reference design."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "573498c5c398",
+    "minutes": 1,
+    "source": "TLDR AI",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "why": "A second $45B Anthropic-Nscale compute deal within a month, with both companies chasing IPOs."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "bff6c32e0f79",
+    "minutes": 5,
+    "source": "Techmeme",
+    "title": "Anthropic's leaked federal AI bill draws widespread criticism from AI safety advocates for being significantly weaker than the bipartisan FRONTIER Act",
+    "why": "Anthropic's leaked federal bill would let evaluators self-certify and bar states from suspending models - advocates say it closes the policy window."
+   }
+  ],
+  "reserve": "89ff207e8634",
+  "status": "provisional",
+  "thin": 2,
+  "total": 70,
+  "unreadable": 9
  }
 }
