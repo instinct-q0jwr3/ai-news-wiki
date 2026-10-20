@@ -110,6 +110,39 @@
         "aa0a04e810a8"
       ],
       "concepts": []
+    },
+    {
+      "title": "Agents as weapons",
+      "intro": "Leaked documents show Army Cyber Command's ECHOTRIBBLE: agents built to spread through networks and neutralize targets.",
+      "stories": [
+        "5eca8fb52238"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "DeepSeek's federal ban, confirmed",
+      "intro": "Reuters and the Federal Register put the DHS order on the record.",
+      "stories": [
+        "502126f8a345"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Running agents well",
+      "intro": "A factory boilerplate that cut token spend 80%, and the intelligence-versus-tools trade-off users keep hitting.",
+      "stories": [
+        "8bdcf88472da",
+        "4a94ed30dae2"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The solo operator's contingency plan",
+      "intro": "A self-hosted dead man's switch that tells the right people in the right order.",
+      "stories": [
+        "c934a5b6b40d"
+      ],
+      "concepts": []
     }
   ]
 }

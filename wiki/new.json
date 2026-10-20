@@ -1,71 +1,29 @@
 {
- "generated_at": "2026-10-20T02:16:46+00:00",
+ "generated_at": "2026-10-20T08:17:15+00:00",
  "stories": [
   {
-   "id": "09656ee5bba3",
-   "title": "Agentic Monitoring",
+   "id": "502126f8a345",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
    "source": "Hacker News",
-   "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/"
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
   },
   {
-   "id": "733daa82e352",
-   "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+   "id": "c934a5b6b40d",
+   "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50154029"
+   "url": "https://deathplanswitch.com/"
   },
   {
-   "id": "74072c47891d",
-   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "id": "8bdcf88472da",
+   "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
    "source": "Hacker News",
-   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+   "url": "https://github.com/gojko/lights-on-software-factory"
   },
   {
-   "id": "5a51546e6390",
-   "title": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
-  },
-  {
-   "id": "e70886ba6429",
-   "title": "Ask HN: Dark mode for HN please? (2026)",
+   "id": "4a94ed30dae2",
+   "title": "Ask HN: How to get the most intelligence out of your agents?",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50160116"
-  },
-  {
-   "id": "f8a1303a5ad1",
-   "title": "some Anthropic investors discussed a ~$1.5T valuation for its IPO, down from ~$2T they had expected, after disclosures showed slowing Q3 revenue growth",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/"
-  },
-  {
-   "id": "bc710e30fd48",
-   "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
-   "source": "Hacker News",
-   "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/"
-  },
-  {
-   "id": "ad5066c73f90",
-   "title": "Vortex Code: one prompt, an AI software team that ships",
-   "source": "Hacker News",
-   "url": "https://spinozalabs.ai/news/introducing-vortex-code"
-  },
-  {
-   "id": "a4271ef62ef2",
-   "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
-   "source": "Hacker News",
-   "url": "https://skymizer.ai/products/htx301/"
-  },
-  {
-   "id": "e702626c5c17",
-   "title": "Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall"
-  },
-  {
-   "id": "6b765090b570",
-   "title": "Inception launches Mercury 3, a diffusion-based LLM it claims is \"comparable to Luna and Haiku models\" but 4x to 8x faster, generating ~1,000 tokens per second",
-   "source": "Techmeme",
-   "url": "https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics"
+   "url": "https://news.ycombinator.com/item?id=50161627"
   },
   {
    "id": "bb5ab083c763",
@@ -74,22 +32,16 @@
    "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/"
   },
   {
-   "id": "86cc71474f93",
-   "title": "Why Normal People Still Laugh at AI",
-   "source": "Westenberg",
-   "url": "https://www.joanwestenberg.com/p/why-normal-people-still-laugh-at"
-  },
-  {
-   "id": "01145ae1075f",
-   "title": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures",
+   "id": "6b765090b570",
+   "title": "Inception launches Mercury 3, a diffusion-based LLM it claims is \"comparable to Luna and Haiku models\" but 4x to 8x faster, generating ~1,000 tokens per second",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/johnkoetsier/2026/10/19/robot-brains-for-75-centshour-former-nvidia-researchers-raise-90-million/"
+   "url": "https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics"
   },
   {
-   "id": "f4a9b0fc287d",
-   "title": "My obituary for programming",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+   "id": "5eca8fb52238",
+   "title": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets",
+   "source": "Techmeme",
+   "url": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/"
   }
  ]
 }

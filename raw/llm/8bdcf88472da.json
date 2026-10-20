@@ -1,0 +1,14 @@
+{
+  "id": "8bdcf88472da",
+  "authored_at": "2026-10-20T08:25:28Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Gojko Adzic publishes the boilerplate behind his 'lights-on software factory' for Claude Code, developed for the Votito project, where the orchestrator cut token spend by around 80% versus bare-bones Claude workflow execution. The repo is both a starting point for new projects and an educational demonstration of software-factory concepts, with documentation split by concern: the lint hook and custom rules, a Bash-command regulator, the orchestrator internals, the user workflow from idea to finished run, and the Alpine-based container. A trivial example project and GETTING-STARTED guide walk through the first change.",
+  "highlights": [
+    "Open-source boilerplate for a 'lights-on software factory' with Claude Code",
+    "From the Votito project: orchestrator cut token spend ~80% vs bare-bones workflows",
+    "Docs per concern: linter hook, Bash regulator, orchestrator, workflow, container",
+    "Includes a trivial example project and a GETTING-STARTED first-change guide",
+    "By Gojko Adzic; overview slides linked from the README"
+  ]
+}

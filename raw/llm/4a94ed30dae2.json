@@ -1,0 +1,14 @@
+{
+  "id": "4a94ed30dae2",
+  "authored_at": "2026-10-20T08:25:28Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "An Ask HN on a gap many agent users feel: the poster finds chatgpt.com's top-tier model consistently more insightful than Codex's agent models, but with far weaker tool calling - so they shuttle context between the two by hand and want that intelligence living in their local agent instead. The early answers sketch the community's workarounds: build specialised subagents that tease out more thinking from reasoning-budget-limited models (one commenter details the approach while flagging it as unproven), effectively using orchestration to buy back the intelligence the agent harness leaves on the table.",
+  "highlights": [
+    "Ask HN: how to get the most intelligence out of your agents",
+    "Poster: chatgpt.com's top tier outsmarts Codex agents but can't call tools",
+    "Current workaround: manually copying context between the two",
+    "Community suggestion: specialised subagents to extract more reasoning from budget-limited models",
+    "The intelligence-vs-tool-use trade-off between chat and agent surfaces remains unsolved"
+  ]
+}

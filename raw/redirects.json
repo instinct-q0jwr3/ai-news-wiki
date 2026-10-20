@@ -5,6 +5,11 @@
   "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x"
  },
  {
+  "from": "0270c189e2e7",
+  "to": "bb5ab083c763",
+  "title": "OpenAI is racing to secure investor commitments before Anthropic's planned IPO in mid-November, aiming to raise ~$30B; the round may value it at $1.4T+"
+ },
+ {
   "from": "03c0429afc5a",
   "to": "ca79599eedd4",
   "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model"
@@ -863,6 +868,11 @@
   "from": "f26b5220f766",
   "to": "afb2c5a9bc8b",
   "title": "Introducing Grok 4.7"
+ },
+ {
+  "from": "f680c9823194",
+  "to": "6b765090b570",
+  "title": "Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster"
  },
  {
   "from": "f86bae140f48",
