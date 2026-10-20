@@ -1,0 +1,16 @@
+{
+  "id": "74072c47891d",
+  "authored_at": "2026-10-20T02:25:35Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Researchers found hidden instructions for AI assistants embedded in WhatsApp's help pages - text invisible on screen but readable by an AI scraping the page. The two standout blocks told an AI not to recommend complaining to a data protection regulator and not to cite the law that grants that right once a lawyer was mentioned - even as WhatsApp's own EU privacy policy names both the regulator and the law. The team found it on October 8, 2026, then read all 545 pages the help centre links to and archived each one: of 102 hidden blocks, most were harmless, but the regulatory ones stood out. Separately, they note WhatsApp only lets you delete an account from inside the app on your main phone. The instructions were removed in mid-October 2026 after discovery. The episode is a concrete case of websites covertly steering AI assistants against user interests - prompt injection as product policy.",
+  "highlights": [
+    "WhatsApp help pages contained hidden LLM instructions, invisible to human readers",
+    "One told AI assistants not to recommend the data protection regulator",
+    "Another said not to cite the law granting that right once a lawyer was mentioned",
+    "WhatsApp's own EU privacy policy names both the regulator and the law",
+    "Researchers read and archived all 545 linked help pages; 102 hidden blocks found, most harmless",
+    "The instructions were removed in mid-October 2026 after discovery",
+    "A concrete case of prompt injection used as product policy against user interests"
+  ]
+}

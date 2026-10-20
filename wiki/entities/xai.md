@@ -1,6 +1,6 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-19 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-20 · confidence: medium_
 
 `entity` `xai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,7 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
-- **2026-10-19** - Basis: the author's Show HN post text from the feed; the repo was not separately fetched. An open-source early-reading app built by a parent for their 6-year-old: she had moved through basic phonics with Teach Your Monster to Read but found it repetitive,… ([Show HN: Open-source early-reading reader with phonics help](../summaries/aeaad8805a8b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md))
+- **2026-10-19** - Yara Reads is a free, account-free reading app for kids who have just learned their phonics sounds and need something real to read. Every word in every story can be sounded out with the sounds the child already knows, and when they get stuck they tap the… ([Show HN: Open-source early-reading reader with phonics help](../summaries/aeaad8805a8b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md))
 - **2026-10-14** - OpenAI names Uday Ruddarraju, CTO for compute since July, to lead its infrastructure (Bloomberg). Basis: the Techmeme headline and excerpt. ([OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses](../summaries/45aaf0f4b888.md) · [OpenAI](../entities/openai.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-14** - SpaceXSI launches Grok Voice 3.0, claiming it ranks first on Artificial Analysis' Speech-to-Speech Index with 86.9, scores 97% on Full Duplex Bench, responds in under a second and sets a new frontier on ServiceNow's EVA-Bench. It is available in the API at… ([SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min](../summaries/66044789d703.md) · [SpaceXAI (xAI)](../entities/xai.md))
 - **2026-10-14** - SpaceX Super Intelligence, as the company is now called, bundles X Premium, Grok and Cursor into a single plan, 'The X Subscription', to attract more subscribers (TechCrunch). ([SpaceXSI bundles X Premium, Grok, and Cursor into one subscription](../summaries/6989e8e0fa52.md) · [SpaceXAI (xAI)](../entities/xai.md))

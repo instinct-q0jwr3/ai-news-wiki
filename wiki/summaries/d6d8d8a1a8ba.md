@@ -1,6 +1,6 @@
 # Can modern LLMs actually count the number of b's in "blueberry"?
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-10-19 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-10-20 · confidence: high_
 
 `max-woolf`
 

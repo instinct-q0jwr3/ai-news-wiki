@@ -1,6 +1,6 @@
 # SoftBank
 
-_type: organization · created: 2026-09-21 · updated: 2026-10-19 · confidence: medium_
+_type: organization · created: 2026-09-21 · updated: 2026-10-20 · confidence: medium_
 
 `entity` `softbank` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,7 +10,7 @@ SoftBank is one of the largest outside financiers of the AI build-out, anchored 
 
 ## Timeline
 
-- **2026-10-18** - Basis: the headline and URL only; the New York Times article could not be fetched. The piece examines weak links beginning to show in AI-related borrowing, naming CoreWeave, Oracle and SoftBank. ([Weak Links Start to Show in A.I. Borrowing](../summaries/ad1fd60a6715.md) · [SoftBank](../entities/softbank.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
+- **2026-10-18** - Basis: the headline and URL only; the New York Times article could not be fetched. The piece examines weak links beginning to show in AI-related borrowing, naming CoreWeave, Oracle and SoftBank. ([Weak Links Start to Show in A.I. Borrowing](../summaries/ad1fd60a6715.md) · [SoftBank](../entities/softbank.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-16** - Basis: headline only, the source could not be fetched. Sources say SoftBank weighs buying security-services giant Allied Universal at about an $18B equity valuation. ([SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots](../summaries/fe7baaeb4c9b.md) · [SoftBank](../entities/softbank.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
 - **2026-10-09** - The Financial Times reports, citing sources, that SoftBank is seeking up to $100 billion from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced technology. Masayoshi Son has held talks with senior figures.… ([SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech](../summaries/7fa30fa51204.md) · [SoftBank](../entities/softbank.md)) 🔒
 - **2026-10-02** - The Information reports SoftBank made the final $10B investment of its $30B pledge to OpenAI's latest funding round, and that Nvidia made its final $10B investment too. Basis: the article is paywalled, so this relies on the headline. ([SoftBank made the final $10B investment in its $30B pledge to OpenAI's most recent funding round; source: Nvidia made its final $10B investment in the round too](../summaries/e709ee2c6af6.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md) · [SoftBank](../entities/softbank.md) · [Small and specialist models](../concepts/small-specialist-models.md)) 🔒

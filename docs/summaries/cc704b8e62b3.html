@@ -1,14 +1,16 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: KiviDB, a faster Redis-compatible memory database and vector cache · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792441861"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: KiviDB, a faster Redis-compatible memory database and vector cache</h1>
-<p class="meta">type: news-summary · created: 2026-10-19 · updated: 2026-10-19 · confidence: high</p>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: KiviDB, a faster Redis-compatible memory database and vector cache · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792463178"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: KiviDB, a faster Redis-compatible memory database and vector cache</h1>
+<p class="meta">type: news-summary · created: 2026-10-19 · updated: 2026-10-20 · confidence: high</p>
 <h2 id="summary">Summary</h2>
-<p>Basis: the author's Show HN post text from the feed; the GitHub README was not separately fetched. KiviDB is a Redis-compatible in-memory database and vector cache written in Rust, in development since February 2026. The author's motivation was practical: avoiding GC pauses, memory blow-ups after snapshots and OOM kills on running pods - problems they hit with Dragonfly. The project aims to be a drop-in faster alternative with vector caching built in.</p>
+<p>KiviDB is a multi-threaded, Rust-written alternative to Redis and Valkey that speaks the Redis protocol (RESP2 and RESP3), so existing clients, redis-cli and libraries work unchanged - with full-text and vector search built in. It runs every core on a sharded in-memory design and persists via snapshots plus an optional append-only file. The headline benchmark: on the same 32 cores, KiviDB serves 21 million pipelined GETs per second, about 9x Redis 8 and 2.3x Dragonfly, at under half of Dragonfly's p99 latency. It listens on port 6380 by default so it can run side by side with an existing Redis.</p>
 <h2 id="highlights">Highlights</h2>
 <ul>
-<li>Show HN: KiviDB, a Redis-compatible in-memory database and vector cache in Rust</li>
-<li>Built since February 2026 to avoid GC pauses and post-snapshot memory blow-ups</li>
-<li>Author hit OOM kills on pods with Dragonfly and wanted a safer design</li>
-<li>Aims at drop-in Redis compatibility plus vector caching</li>
-<li>Details limited to the author's Show HN description</li>
+<li>KiviDB: Rust, multi-threaded Redis/Valkey alternative</li>
+<li>Speaks RESP2/RESP3 - existing Redis clients work unchanged</li>
+<li>Full-text and vector search built in</li>
+<li>Claims 21M pipelined GETs/sec on 32 cores: ~9x Redis 8, 2.3x Dragonfly</li>
+<li>Under half of Dragonfly's p99 latency</li>
+<li>Sharded in-memory design with snapshots and optional AOF persistence</li>
+<li>Default port 6380 lets it run beside an existing Redis</li>
 </ul>
 <h2 id="source">Source</h2>
 <p><a href="https://github.com/kividbio/kividb">Read the original story</a></p>

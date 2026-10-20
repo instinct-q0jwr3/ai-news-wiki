@@ -1,113 +1,23 @@
 {
- "generated_at": "2026-10-19T20:15:42+00:00",
+ "generated_at": "2026-10-20T02:16:46+00:00",
  "stories": [
   {
-   "id": "71735ae1a37a",
-   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+   "id": "09656ee5bba3",
+   "title": "Agentic Monitoring",
    "source": "Hacker News",
-   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
+   "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/"
   },
   {
-   "id": "5501a16275a1",
-   "title": "Mercury 3: Diffusion at scale",
-   "source": "Hacker News",
-   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
-  },
-  {
-   "id": "a533830b9724",
-   "title": "A look at Anthropic's opaque, five-member Long-Term Benefit Trust, where members own no Anthropic equity but hold enormous sway by appointing most of its board",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "d594de279d46",
-   "title": "RuneScape Bench: MMOs for Agents [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0"
-  },
-  {
-   "id": "cc704b8e62b3",
-   "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-   "source": "Hacker News",
-   "url": "https://github.com/kividbio/kividb"
-  },
-  {
-   "id": "a54e582c7e54",
-   "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-   "source": "Hacker News",
-   "url": "https://3anddoneapp.com/try"
-  },
-  {
-   "id": "aa0a04e810a8",
-   "title": "Maxwell: A new kind of model that sits between code and hardware",
-   "source": "Hacker News",
-   "url": "https://heymaxwell.ai/"
-  },
-  {
-   "id": "36dcfbf9bafa",
-   "title": "Launch HN: Laminar (YC S24) – Open-source observability for AI agents",
+   "id": "733daa82e352",
+   "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50154029"
   },
   {
-   "id": "8403597d8108",
-   "title": "Cairn: Open windows into AI-driven cyber operations",
+   "id": "74072c47891d",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
    "source": "Hacker News",
-   "url": "https://norforge.com/blog/inside_cairn"
-  },
-  {
-   "id": "aeaad8805a8b",
-   "title": "Show HN: Open-source early-reading reader with phonics help",
-   "source": "Hacker News",
-   "url": "https://github.com/finereli/yarareads"
-  },
-  {
-   "id": "bef95b2f2f74",
-   "title": "We fine-tuned a 235B model on 4 GPUs. Then we didn't need it",
-   "source": "Hacker News",
-   "url": "https://blog.vertexcover.io/fine-tuning-235b-moe-four-gpus"
-  },
-  {
-   "id": "98f628f53c1c",
-   "title": "MiniMax-M3.1-Flash Artificial Analysis Performance and Price Analysis",
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/models/minimax-m3-1-flash"
-  },
-  {
-   "id": "e36997cb07a0",
-   "title": "UC Berkeley math community left at crossroads",
-   "source": "Hacker News",
-   "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html"
-  },
-  {
-   "id": "ea450d2b4c97",
-   "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-   "source": "Hacker News",
-   "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/"
-  },
-  {
-   "id": "44319f0b597b",
-   "title": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/"
-  },
-  {
-   "id": "86771392f9f5",
-   "title": "John Ternus discusses the iPhone Duo, memory shortages, AI, and more; he says \"all options should be on the table\" after reports that Apple tested Chinese chips",
-   "source": "Techmeme",
-   "url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/"
-  },
-  {
-   "id": "7a90dd26feb5",
-   "title": "DeepSeek and Huawei are collaborating on future AI chip designs; DeepSeek plans to start using Ascend 950DT for pre-training as soon as 2026's end",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia"
-  },
-  {
-   "id": "a71e31b3c3a0",
-   "title": "Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal"
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
   },
   {
    "id": "5a51546e6390",
@@ -116,34 +26,70 @@
    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
   },
   {
-   "id": "301741a7dc29",
-   "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23",
-   "source": "Techmeme",
-   "url": "https://www.minimax.io/blog/minimax-m31f"
+   "id": "e70886ba6429",
+   "title": "Ask HN: Dark mode for HN please? (2026)",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50160116"
   },
   {
-   "id": "2b8c3bacb854",
-   "title": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June",
+   "id": "f8a1303a5ad1",
+   "title": "some Anthropic investors discussed a ~$1.5T valuation for its IPO, down from ~$2T they had expected, after disclosures showed slowing Q3 revenue growth",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/"
+   "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/"
   },
   {
-   "id": "0c8cb2a5b9d8",
-   "title": "Tolan, an AI assistant focused on users that are not tech-savvy, raised $30M from USV, Khosla Ventures, and Homebrew, and says 70% of its users are women",
-   "source": "Techmeme",
-   "url": "https://www.upstartsmedia.com/p/tolan-raises-30m-for-ai-companion-you-trust"
+   "id": "bc710e30fd48",
+   "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
+   "source": "Hacker News",
+   "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/"
   },
   {
-   "id": "fcdee7681348",
-   "title": "The US DHS orders all federal civilian agencies to remove DeepSeek's tech from their IT systems and prohibits future procurement of its products and services",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&reflink=desktopwebshare_permalink"
+   "id": "ad5066c73f90",
+   "title": "Vortex Code: one prompt, an AI software team that ships",
+   "source": "Hacker News",
+   "url": "https://spinozalabs.ai/news/introducing-vortex-code"
   },
   {
-   "id": "c3102fcc099d",
-   "title": "Amazon launches TorchNeuron, an open-source framework that lets developers run PyTorch code on Amazon's Trainium chips with no rewriting needed, in public beta",
+   "id": "a4271ef62ef2",
+   "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
+   "source": "Hacker News",
+   "url": "https://skymizer.ai/products/htx301/"
+  },
+  {
+   "id": "e702626c5c17",
+   "title": "Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO",
    "source": "Techmeme",
-   "url": "https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall"
+  },
+  {
+   "id": "6b765090b570",
+   "title": "Inception launches Mercury 3, a diffusion-based LLM it claims is \"comparable to Luna and Haiku models\" but 4x to 8x faster, generating ~1,000 tokens per second",
+   "source": "Techmeme",
+   "url": "https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics"
+  },
+  {
+   "id": "bb5ab083c763",
+   "title": "OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/"
+  },
+  {
+   "id": "86cc71474f93",
+   "title": "Why Normal People Still Laugh at AI",
+   "source": "Westenberg",
+   "url": "https://www.joanwestenberg.com/p/why-normal-people-still-laugh-at"
+  },
+  {
+   "id": "01145ae1075f",
+   "title": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures",
+   "source": "Techmeme",
+   "url": "https://www.forbes.com/sites/johnkoetsier/2026/10/19/robot-brains-for-75-centshour-former-nvidia-researchers-raise-90-million/"
+  },
+  {
+   "id": "f4a9b0fc287d",
+   "title": "My obituary for programming",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
   }
  ]
 }

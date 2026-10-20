@@ -1,14 +1,15 @@
 {
   "id": "bef95b2f2f74",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: title only - the blog post failed to fetch. A team reports fine-tuning a 235B-parameter (presumably mixture-of-experts) model on just 4 GPUs - and then discovering they didn't need the fine-tune after all. The post presumably covers both the memory engineering that made it possible and the lesson about when fine-tuning is overkill.",
+  "prose": "A team fine-tuned a 235B-parameter open model on four H100s to classify entities in customer documents - and one epoch on about 3,600 examples beat their fine-tuned OpenAI and Gemini API models by 7.6 F1 points on average, at about a third of the per-token cost, in a 26-hour run. They never shipped it. The first half of the post is the engineering: five training setups, four of which failed before a single step, for a reason they say applies to anyone fine-tuning a model this size on one machine. The second half is the more interesting question - why a cheaper, more accurate self-hosted model still wasn't worth deploying, once the operational reality of serving and maintaining it was priced in.",
   "highlights": [
-    "Post: fine-tuning a 235B model on only 4 GPUs - then not needing it",
-    "Likely covers the memory engineering behind ultra-large-model fine-tuning on small rigs",
-    "And the meta-lesson: the fine-tune turned out unnecessary",
-    "Blog post failed to fetch; method and findings unverified"
-  ],
-  "basis": "Basis: title only - the blog post failed to fetch."
+    "Fine-tuned a 235B model on 4 H100s; one epoch on ~3,600 examples",
+    "Beat fine-tuned OpenAI/Gemini APIs by 7.6 F1 points on average",
+    "About a third of the per-token API cost; 26-hour training run",
+    "Four of five training setups failed before the first step",
+    "They never shipped it - the post's second half explains why",
+    "Lesson: beating the API on quality and cost doesn't settle the operating-cost question"
+  ]
 }

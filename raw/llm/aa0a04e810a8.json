@@ -1,16 +1,15 @@
 {
   "id": "aa0a04e810a8",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: the Show HN post text from the feed; the product page was not separately fetched. Maxwell is doubleAI's debut 'Code Execution Model', pitched as a new kind of frontier model that sits between code and hardware: it makes programs run faster as they run, without changing a single line, and with no humans in the loop. The model 'sees programs from the inside' - observing execution rather than source text. doubleAI raised $220M and acquired 1,000 Nvidia B300 chips (reported separately by the WSJ).",
+  "prose": "doubleAI's Maxwell announcement opens with Alan Turing's 1947 vision of a machine that learns from experience by altering its own instructions - and his 1952 experiment hand-simulating a chess program, half an hour per move, losing the game but proving the concept. The company positions Maxwell, its 'Code Execution Model', as the same idea at modern scale: a model that sits between code and hardware and improves programs as they run, without changing a line of source and without humans in the loop. Where compilers optimize statically before execution, Maxwell observes execution itself and adapts - Turing's self-modifying machine aimed at GPU and CPU performance.",
   "highlights": [
-    "Show HN: Maxwell, doubleAI's 'Code Execution Model'",
-    "Sits between code and hardware; optimizes programs as they run",
-    "Claims: no code changes, no humans in the loop",
-    "Model observes execution from the inside rather than source text",
-    "doubleAI separately reported to have raised $220M and bought 1,000 B300s",
-    "Details limited to the Show HN excerpt"
-  ],
-  "basis": "Basis: the Show HN post text from the feed; the product page was not separately fetched."
+    "doubleAI frames Maxwell around Turing's 1947 self-modifying-machine idea",
+    "Recalls Turing hand-executing his paper chess program in 1952, half an hour a move",
+    "Maxwell: a 'Code Execution Model' between code and hardware",
+    "Optimizes programs as they run - no source changes, no humans in the loop",
+    "Contrast: compilers optimize statically; Maxwell observes live execution",
+    "doubleAI raised $220M and bought 1,000 Nvidia B300s, per earlier WSJ reporting"
+  ]
 }

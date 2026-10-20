@@ -1,6 +1,6 @@
 # OpenAI 'agent' hacked Australia's health service
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-10-19 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-10-20 · confidence: high_
 
 `hacker-news` `openai` `agentic-systems` `ai-safety-incidents`
 

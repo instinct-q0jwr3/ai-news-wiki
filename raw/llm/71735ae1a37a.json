@@ -1,13 +1,14 @@
 {
   "id": "71735ae1a37a",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: title only - the CERN announcement page failed to fetch. CERN and Mistral have signed a statement of intent to establish a strategic partnership to 'accelerate AI for science'. The scope of the collaboration - model access, joint research, infrastructure - is not detailed in the available metadata.",
+  "prose": "CERN and Mistral have signed a statement of intent to establish a long-term strategic partnership focused on developing foundation models for scientific discovery. The partnership combines CERN's expertise in fundamental physics, scientific data and large-scale computing with Mistral's model-training capabilities, with an initial focus on high-energy physics and ambitions to serve the broader scientific community. For Mistral it is a flagship European institutional anchor; for CERN, a path to frontier-model capability tuned to its data.",
   "highlights": [
-    "CERN and Mistral sign a statement of intent for a strategic partnership",
-    "Framed as accelerating AI for science",
-    "Source page failed to fetch; partnership scope unverified"
-  ],
-  "basis": "Basis: title only - the CERN announcement page failed to fetch."
+    "CERN and Mistral sign a statement of intent for a long-term strategic partnership",
+    "Goal: foundation models for scientific discovery",
+    "Combines CERN's physics data and computing with Mistral's model training",
+    "Initial focus on high-energy physics; broader scientific community ambitions",
+    "A flagship European institution + European lab pairing"
+  ]
 }

@@ -1,14 +1,16 @@
 {
   "id": "5501a16275a1",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: title only - the Inception Labs blog post failed to fetch. Inception Labs announces Mercury 3, the next version of its diffusion-based language model, billed as 'diffusion at scale'. Diffusion LLMs generate text by refining whole drafts rather than token-by-token, promising speed and parallelism advantages; the post's benchmarks and release details were not retrievable.",
+  "prose": "Inception Labs introduces Mercury 3, which it calls the most capable diffusion-based LLM released to date. The claims: performance on par with or better than GPT-6 Luna and Claude Haiku 5.5 on a range of benchmarks, while generating at 1,068 tokens per second - 4-8x faster than those speed-optimized frontier models. Mercury 3 is more than 40x larger than Mercury 1 yet just as fast, which the company reads as proof that text diffusion scales. Context grows to 1M tokens (from 260K in Mercury 2.5), priced at $0.20 per million input and $0.70 per million output tokens. Early-access partners already run it for voice and chat support, real-time tutoring, data engineering and web navigation.",
   "highlights": [
-    "Inception Labs announces Mercury 3, a diffusion language model",
-    "Framed as 'diffusion at scale'",
-    "Diffusion LLMs refine whole drafts instead of generating token-by-token",
-    "Blog post failed to fetch; benchmarks and availability unverified"
-  ],
-  "basis": "Basis: title only - the Inception Labs blog post failed to fetch."
+    "Inception Labs launches Mercury 3, its flagship diffusion LLM",
+    "Claims parity or better vs GPT-6 Luna and Claude Haiku 5.5",
+    "1,068 tokens/second on NVIDIA GPUs - 4-8x faster than those models",
+    "40x+ larger than Mercury 1 at the same speed: 'text diffusion scales'",
+    "1M-token context, up from 260K in Mercury 2.5",
+    "Priced at $0.20/1M input and $0.70/1M output tokens",
+    "Early users: voice/chat support, real-time tutoring, data engineering, web navigation"
+  ]
 }

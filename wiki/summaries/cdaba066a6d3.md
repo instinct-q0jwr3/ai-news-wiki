@@ -1,6 +1,6 @@
 # OpenAI says teens use ChatGPT for under 15 minutes a day
 
-_type: news-summary · created: 2026-10-07 · updated: 2026-10-19 · confidence: high_
+_type: news-summary · created: 2026-10-07 · updated: 2026-10-20 · confidence: high_
 
 `hacker-news` `openai`
 

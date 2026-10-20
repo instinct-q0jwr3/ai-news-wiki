@@ -1,0 +1,14 @@
+{
+  "id": "6b765090b570",
+  "authored_at": "2026-10-20T02:25:35Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "The Deep View covers Inception's Mercury 3 launch with an eye on the contrarian bet: while the industry scaled autoregressive LLMs and their data centers, Inception's diffusion LLM generates text much faster at lower cost and now matches low- and mid-tier Anthropic and OpenAI models on quality. Inception also reports running swarms of Mercury 3 agents for recursive self-improvement, which sped the model up by a further 16% on top of the team's own upgrades. Mercury 3 is described as the most capable diffusion LLM to date, claimed comparable to Luna and Haiku models while generating around 1,000 tokens per second - 4x to 8x faster.",
+  "highlights": [
+    "Mercury 3 covered as the contrarian diffusion bet against autoregressive scaling",
+    "Claimed comparable to Luna/Haiku-tier models at ~1,000 tokens/sec (4-8x faster)",
+    "Inception used swarms of Mercury 3 agents for recursive self-improvement",
+    "The agent swarm added 16% speed on top of the team's own upgrades",
+    "Diffusion LLMs generate text faster at lower cost than traditional LLMs"
+  ]
+}

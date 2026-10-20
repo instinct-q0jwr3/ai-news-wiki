@@ -1,6 +1,6 @@
 # Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI
 
-_type: news-summary · created: 2026-10-09 · updated: 2026-10-19 · confidence: high_
+_type: news-summary · created: 2026-10-09 · updated: 2026-10-20 · confidence: high_
 
 `hacker-news`
 

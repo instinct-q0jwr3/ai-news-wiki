@@ -1,14 +1,14 @@
 {
   "id": "ea450d2b4c97",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: title only - the Quanta article failed to fetch. Quanta reports that an AI system has proved the quasi-Riemann hypothesis, a milestone in automated mathematics, and asks what follows for the field - how mathematicians verify and absorb machine proofs, and what this means for problems like the full Riemann hypothesis.",
+  "prose": "Quanta covers the standout result among the 377 OpenAI announced on October 6, 2026: a proof of the quasi-Riemann hypothesis, a weaker form of the 160-year-old Riemann hypothesis about the distribution of prime numbers. Stanford's Jared Duker Lichtman calls it the most significant AI-for-math achievement so far by quite a margin, and describes the implications of even this limited form as staggering. The piece examines what happens now: how mathematicians go about verifying a machine proof of this scale, what the quasi-RH result unlocks in number theory, and whether the full Riemann hypothesis is meaningfully closer.",
   "highlights": [
-    "Quanta: AI has proved the quasi-Riemann hypothesis",
-    "Billed as a milestone for automated theorem proving",
-    "Raises verification and what-next questions for mathematics",
-    "Article failed to fetch; details unverified"
-  ],
-  "basis": "Basis: title only - the Quanta article failed to fetch."
+    "OpenAI's Oct 6 batch of 377 results included a proof of the quasi-Riemann hypothesis",
+    "Quasi-RH is a weaker form of the 160-year-old Riemann hypothesis on prime distribution",
+    "Lichtman (Stanford): 'most significant AI-for-math achievement so far, by quite a margin'",
+    "Implications of even the limited result described as staggering",
+    "Open questions: verification of machine proofs at this scale, and how much closer full RH now is"
+  ]
 }

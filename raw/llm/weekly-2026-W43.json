@@ -284,6 +284,112 @@
         "a54e582c7e54"
       ],
       "concepts": []
+    },
+    {
+      "title": "Mercury 3 makes the diffusion case",
+      "intro": "Inception's new diffusion LLM claims Luna/Haiku quality at 1,000 tokens a second - and it used agent swarms to speed itself up another 16%.",
+      "stories": [
+        "5501a16275a1",
+        "6b765090b570"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "AI for science and for math",
+      "intro": "CERN partners with Mistral on foundation models for discovery, while Berkeley mathematicians reckon with the quasi-Riemann proof.",
+      "stories": [
+        "71735ae1a37a",
+        "e36997cb07a0"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Inside an AI-run intrusion campaign",
+      "intro": "Cairn publishes the actual tasking documents of agent-driven cyber operations - target lists, objectives, payloads and all.",
+      "stories": [
+        "8403597d8108"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The cap-table carousel",
+      "intro": "Eric Schmidt holds ~1% of Anthropic, OpenAI races to lock commitments before Anthropic's IPO, and Town's assistants hit unicorn status.",
+      "stories": [
+        "e702626c5c17",
+        "bb5ab083c763",
+        "2b8c3bacb854"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The labor question, in two registers",
+      "intro": "An obituary for programming's puzzle-solving joy, and the team that beat the APIs with a 235B fine-tune and shipped nothing.",
+      "stories": [
+        "f4a9b0fc287d",
+        "bef95b2f2f74"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Tools people actually reach for",
+      "intro": "A phonics reader built for one six-year-old, a three-task app, KiviDB's 21M GETs a second, and Tolan's companion for non-tech users.",
+      "stories": [
+        "aeaad8805a8b",
+        "a54e582c7e54",
+        "cc704b8e62b3",
+        "0c8cb2a5b9d8"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Chips without clusters",
+      "intro": "Skymizer claims 700B inference on one 240W card while Amazon's TorchNeuron erases the PyTorch-to-Trainium rewrite.",
+      "stories": [
+        "a4271ef62ef2",
+        "c3102fcc099d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Culture and community friction",
+      "intro": "A decompilation site closes over AI contributions, HN asks again for dark mode, and Westenberg on why normal people still laugh.",
+      "stories": [
+        "bc710e30fd48",
+        "e70886ba6429",
+        "86cc71474f93"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Watching the agents",
+      "intro": "'Superfan' Claudes each guarding one component, and Laminar's RL model that finds errors in every trace.",
+      "stories": [
+        "09656ee5bba3",
+        "36dcfbf9bafa",
+        "733daa82e352"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Sites fight back against assistants",
+      "intro": "WhatsApp's hidden help-page instructions told AI not to point users to the regulator - prompt injection as product policy.",
+      "stories": [
+        "74072c47891d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robots and new launchpads",
+      "intro": "Dream Labs APIs its robot foundation model, Vortex Code ships teams from a prompt, MiniMax details M3.1 Flash, and TVs get de-bloated by agents.",
+      "stories": [
+        "01145ae1075f",
+        "ad5066c73f90",
+        "301741a7dc29",
+        "98f628f53c1c",
+        "5a51546e6390",
+        "aa0a04e810a8"
+      ],
+      "concepts": []
     }
   ]
 }

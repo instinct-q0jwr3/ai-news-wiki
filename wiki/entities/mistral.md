@@ -1,6 +1,6 @@
 # Mistral
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-19 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-20 · confidence: medium_
 
 `entity` `mistral` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,7 +10,7 @@ Mistral is Europe's flagship foundation-model lab, pairing frontier model releas
 
 ## Timeline
 
-- **2026-10-19** - Basis: title only - the CERN announcement page failed to fetch. CERN and Mistral have signed a statement of intent to establish a strategic partnership to 'accelerate AI for science'. The scope of the collaboration - model access, joint research,… ([CERN and Mistral sign a statement of intent to establish a strategic partnership](../summaries/71735ae1a37a.md) · [Mistral](../entities/mistral.md))
+- **2026-10-19** - CERN and Mistral have signed a statement of intent to establish a long-term strategic partnership focused on developing foundation models for scientific discovery. The partnership combines CERN's expertise in fundamental physics, scientific data and… ([CERN and Mistral sign a statement of intent to establish a strategic partnership](../summaries/71735ae1a37a.md) · [Mistral](../entities/mistral.md))
 - **2026-10-19** - Comments Research October 15, 2026 By Mistral Back to Blog 7 min read Thinking Summary Timestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M… ([Timestral: Mistral's time-series foundation models](../summaries/3417d7144cd2.md) · [Mistral](../entities/mistral.md))
 - **2026-10-08** - Politico reports that Ecosia, the Berlin search engine used by government services including Germany's environment ministry and the UK's NHS, is dropping Mistral for open-source models, including Chinese ones. Founder Christian Kroll says Mistral's models… ([German search engine Ecosia, used by government services, ditches Mistral for open-source models, including Chinese ones, citing Mistral's disappointing quality](../summaries/7c44fc0e849b.md) · [Mistral](../entities/mistral.md))
 - **2026-10-07** - Simon Willison welcomes Mistral Large 4, a preview of a 1 trillion parameter, 49 billion active model trained on 3,800 Nvidia Grace Blackwell GPUs. It is available through the API now with open weights promised at the end of the month. It supports two… ([Introducing Mistral Large 4: Le chonk](../summaries/0b33179bbba0.md) · [NVIDIA](../entities/nvidia.md) · [Mistral](../entities/mistral.md) · [DeepSeek](../entities/deepseek.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

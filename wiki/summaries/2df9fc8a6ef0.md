@@ -1,6 +1,6 @@
 # Chinese economists warn AI focus crowds out a broader economic crisis
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-10-19 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-10-20 · confidence: high_
 
 `techmeme`
 

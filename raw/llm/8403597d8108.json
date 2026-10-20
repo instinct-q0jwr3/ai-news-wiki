@@ -1,14 +1,15 @@
 {
   "id": "8403597d8108",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: title and the feed's link list; the blog post failed to fetch. Cairn, from Norforge, presents 'open windows into AI-driven cyber operations' - apparently a tracking or transparency project documenting AI-enabled hacking campaigns, referencing the recent Reuters story of one hacker using AI agents against 1,200+ websites and a Verge piece on the same theme.",
+  "prose": "Cairn is Norforge's transparency project publishing 'open windows' into AI-driven cyber operations - and the excerpted material shows what one looks like from the inside: an agent tasking document aimed at confirmed real e-commerce sites in four countries (US/CA/JP/AU) with 200K-1.5M traffic, pre-verified with Playwright for order placement. The objective listed is unauthenticated RCE via a familiar menu - SQL injection, file-upload webshells, deserialization, SSTI, SSRF - with priorities on login SQLi, unauthenticated endpoints and account takeover. The payload spec is an uploader shell, explicitly not a command-executing webshell, and the environment is a Kali container. It documents, in the operator's own format, how the $5,000-token campaigns are actually tasked.",
   "highlights": [
-    "Cairn: a Norforge project opening windows into AI-driven cyber operations",
-    "References the Reuters AI-agent hacking campaign (1,200+ sites) and Verge coverage",
-    "Appears to track or document AI-enabled offensive cyber activity",
-    "Blog post failed to fetch; scope unverified"
-  ],
-  "basis": "Basis: title and the feed's link list; the blog post failed to fetch."
+    "Cairn publishes inside looks at AI-driven cyber operations",
+    "Shown tasking targets real e-commerce sites in US/CA/JP/AU, 200K-1.5M traffic",
+    "Objective: unauthenticated RCE via SQLi, uploads, deserialization, SSTI, SSRF",
+    "Payload: an uploader shell, explicitly not a command-executing webshell",
+    "Environment: a Kali container; targets pre-verified with Playwright",
+    "Concrete evidence of how low-cost agentic intrusion campaigns are specified"
+  ]
 }

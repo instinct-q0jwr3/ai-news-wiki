@@ -1,0 +1,13 @@
+{
+  "id": "e70886ba6429",
+  "authored_at": "2026-10-20T02:25:35Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A 2026 Ask HN revives the perennial request: a native dark mode for Hacker News. The poster points to the 2020 thread as proof of how much bikeshedding the question generates - a hundred solutions, Parkinson's Law of Triviality in action, and a detour into alligator metabolism - while arguing the usual defenses (workarounds, third-party apps) are janky: one iOS app flashes the page white between loads. The underlying complaint is that a site that should look like top still ships only a blinding default two decades into dark-mode ubiquity.",
+  "highlights": [
+    "Ask HN: native dark mode for Hacker News, requested again in 2026",
+    "The 2020 thread had ~100 solutions - a bikeshedding case study",
+    "Existing workarounds dismissed as janky (one app flashes white between pages)",
+    "Complaint: a site that 'should look like top' ships only a light default"
+  ]
+}

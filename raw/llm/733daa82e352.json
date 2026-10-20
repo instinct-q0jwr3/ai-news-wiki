@@ -1,0 +1,14 @@
+{
+  "id": "733daa82e352",
+  "authored_at": "2026-10-20T02:25:35Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Laminar (YC S24) launches on HN with open-source observability for AI agents and its headline model, flow-1, trained with RL to find errors in agent traces. The claim: flow-1 matches GPT-6-sol in detection quality on Laminar's benchmark while being 23x cheaper, making it affordable to analyze every production agent trace rather than sampling a fraction. The thread (48 points, 23 comments in the first hours) is the community's second look after the earlier Launch HN - same product, sharper framing around the error-detection model.",
+  "highlights": [
+    "Launch HN: Laminar's open-source agent observability + flow-1 error-detection model",
+    "flow-1: RL-trained to find errors in agent traces",
+    "Claimed GPT-6-sol-level detection at 23x lower cost",
+    "Cheap enough to analyze every production trace, no sampling",
+    "Second HN thread for the launch, framed around the model"
+  ]
+}

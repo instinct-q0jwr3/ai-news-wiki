@@ -1,15 +1,14 @@
 {
   "id": "a54e582c7e54",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: the author's Show HN post text from the feed. '3 & Done' is a personal task system built by an east-coast software engineer to handle life's drudgery. It accepts voice input for rapid capture - storing the audio locally - as well as text, positioning itself as the single trusted place for everything you need to do. The pitch is deliberate simplicity: capture fast, focus on the tasks that matter.",
+  "prose": "3 & Done is a minimalist task app built on one constraint: it surfaces only three things at a time. You empty your head one line at a time - messy is fine - and the app chooses three tasks and says why. If you stop at one item, the email brings you your one thing; stop at two and it brings you both; stop at three or more and it picks three of them. Privacy is part of the pitch: what you type stays on the device unless you sign up, leaving only to be ranked, and voice input never leaves the browser. The design bets that a ruthless constraint beats an ever-growing list for people drowning in drudgery.",
   "highlights": [
-    "Show HN: '3 & Done', a personal task system focused on rapid capture",
-    "Voice input with locally stored audio, plus text entry",
-    "Built by a software engineer to handle everyday drudgery",
-    "Positions itself as the one trusted place for all your tasks",
-    "Details limited to the Show HN excerpt"
-  ],
-  "basis": "Basis: the author's Show HN post text from the feed."
+    "3 & Done: a task app that shows only three things at a time",
+    "Brain-dump freely; the app picks three and explains why",
+    "Email nudges scale with how much you entered (one thing, both, or three)",
+    "Typed items stay local unless you sign up; voice never leaves the browser",
+    "Bet: constraint beats list growth for everyday task management"
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "id": "09656ee5bba3",
+  "authored_at": "2026-10-20T02:25:35Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "An engineering team describes 'agentic monitoring': they run dedicated Claude instances - 'superfans' - each obsessively focused on the health of a single system component (a scion-daemon superfan, a scion-cache superfan, a merge-queue superfan), each in its own Slack channel with access to telemetry and logs. A superfan acts like an experienced engineer with nothing better to do than refresh charts and look for anything strange. Traditional alerts still exist for everything, but the superfans catch subtle and novel issues that make threshold alerts look one-dimensional - the post includes a recent example of one catching a problem the alerting stack missed.",
+  "highlights": [
+    "Pattern: one Claude 'superfan' per system component, each in its own Slack channel",
+    "Superfans have telemetry and log access and watch continuously",
+    "Mental model: an experienced engineer who does nothing but refresh charts",
+    "Traditional alerts remain, but superfans catch subtle and novel issues",
+    "Author claims real catches that threshold-based alerts missed"
+  ]
+}

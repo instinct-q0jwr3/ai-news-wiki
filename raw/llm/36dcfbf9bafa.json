@@ -1,15 +1,14 @@
 {
   "id": "36dcfbf9bafa",
-  "authored_at": "2026-10-19T20:29:15Z",
+  "authored_at": "2026-10-20T02:25:18Z",
   "model": "agent-pass",
   "schema": 1,
-  "prose": "Basis: the Launch HN post text from the feed. Laminar (YC S24) has been building open-source observability for AI agents since 2024. Alongside the launch they released flow-1, a model trained with reinforcement learning to find errors in agent traces; on Laminar's own benchmark it reportedly matches GPT-6-sol at the task. The pitch: as agents run longer and more autonomously, tracing and automatically detecting where runs go wrong becomes the bottleneck, and a dedicated small model makes review scalable.",
+  "prose": "Laminar (YC S24) launches its open-source observability platform for AI agents, built since 2024, and headlines flow-1: a model trained with reinforcement learning to find errors in agent traces. On Laminar's benchmark, flow-1 matches GPT-6-sol in detection quality while being 23x cheaper - cheap enough, the founders argue, to analyze every production agent trace instead of sampling. The launch post walks through example traces and analyses, positioning trace review by a dedicated small model as the scalable answer to agent monitoring.",
   "highlights": [
-    "Launch HN: Laminar (YC S24), open-source observability for AI agents",
-    "Released flow-1, an RL-trained model that finds errors in agent traces",
-    "Claims flow-1 matches GPT-6-sol on Laminar's own benchmark",
-    "Observability positioning: tracing where long agent runs go wrong",
-    "Details from the Launch HN post; full text beyond the excerpt not fetched"
-  ],
-  "basis": "Basis: the Launch HN post text from the feed."
+    "Laminar (YC S24): open-source observability for AI agents, built since 2024",
+    "flow-1: RL-trained model that finds errors in agent traces",
+    "Claims GPT-6-sol-level detection quality at 23x lower cost",
+    "Cheap enough to analyze every production trace, no sampling",
+    "Launch includes a walkthrough video and example trace analyses"
+  ]
 }
