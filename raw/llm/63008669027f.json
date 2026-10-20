@@ -1,0 +1,15 @@
+{
+  "id": "63008669027f",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Horizon3 dissects CVE-2026-106173, a critical FortiSIEM vulnerability Fortinet disclosed on 13 October 2026 that allows unauthenticated arbitrary file write leading to remote code execution. The bug lives in a gRPC service the team had not examined before, phQueryMaster on tcp/27918, which binds every interface and does not request client certificates, so any remote client can connect unauthenticated. Its SendQueryResult RPC builds a file path by concatenating attacker-controlled query-id and src-ip values without validation: a query-id like ../../../../../tmp/x traverses outside the query directory, and the streamed bytes become the file's contents, giving arbitrary directory and partial filename control.",
+  "highlights": [
+    "Critical FortiSIEM flaw: arbitrary file write leading to RCE",
+    "New attack surface: gRPC service phQueryMaster listening on tcp/27918",
+    "Service binds all interfaces and skips client-certificate checks, so access is unauthenticated",
+    "query-id is string-concatenated into a file path with no validation, enabling ../ traversal",
+    "Streamed message bytes become file contents; filename partially attacker-controlled via src-ip",
+    "Same team's prior FortiSIEM disclosures all targeted the phMonitor service on tcp/7900"
+  ]
+}

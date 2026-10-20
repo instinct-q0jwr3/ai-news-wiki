@@ -1,0 +1,15 @@
+{
+  "id": "962b8c3dec86",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Google is adding co-creation controls to Gemini Notebook for Slide Decks and Video Overviews. Instead of going from an initial prompt straight to a rendered artifact, Notebook now suggests topics grounded in the user's sources, lets them steer content, visual style, and format, and offers a Review toggle that exposes outline notes for slides and producer notes for video before anything renders. Users can request changes such as adding an executive summary or reordering scenes, then hit Proceed; anyone in a hurry can still skip review for the old one-shot flow. The capabilities roll out globally to all Gemini Notebook users over the coming week.",
+  "highlights": [
+    "Interactive creation flow replaces one-shot generation for slides and video overviews",
+    "Notebook suggests topics derived from the user's own sources",
+    "Review toggle exposes outline notes (slides) and producer notes (video) pre-render",
+    "Feedback like adding an executive summary or swapping scene order is supported",
+    "Quick path remains: skip review and generate as before",
+    "Global rollout to all Gemini Notebook users over the coming week"
+  ]
+}

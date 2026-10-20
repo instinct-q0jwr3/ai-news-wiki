@@ -1,0 +1,16 @@
+{
+  "id": "c07669417c32",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Meta engineers describe the thin orchestrator pattern that emerged from automating data-column onboarding across three repositories, three languages, and up to six pipeline stages. Their first single agent, loaded with every schema, rule, and pattern, worked in demos but hallucinated in production, cross-contaminating concepts between subsystems. The fix was architectural: a 1,300-line orchestrator that routes 20+ workflows to 14 specialized subagents and does zero domain work itself, running a fixed seven-step protocol in which only one step involves LLM reasoning, isolated inside a subagent with only its domain knowledge. Deterministic workflow templates sequence the phases, so new use cases need new templates rather than new agents. They cite a Mount Sinai preprint in which orchestrated multiagent systems held 65.3% accuracy on 80-task batches where single agents fell to 16.6%, with up to 65-fold token reduction; their own hand-prompted single-agent alternative hit 70-80% only with per-task prompt engineering and collapsed to 10-20% without it.",
+  "highlights": [
+    "1,300-line orchestrator routes 20+ workflows to 14 specialized agents",
+    "Past a context threshold, more domain knowledge degraded the single agent",
+    "Fix was architectural, not better prompts or a bigger context window",
+    "Only one of seven protocol steps uses LLM reasoning, in an isolated subagent",
+    "Deterministic workflow templates constrain the LLM's decision space",
+    "Cited preprint: 65.3% vs 16.6% accuracy at 80-task batches, up to 65x token savings",
+    "New use cases are new templates, not new agents"
+  ]
+}

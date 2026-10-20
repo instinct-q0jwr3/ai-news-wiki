@@ -1,0 +1,16 @@
+{
+  "id": "60abf80b0642",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "TechCrunch profiles Eka Robotics, founded by MIT professor Pulkit Agrawal and former Google DeepMind researcher Tuomas Haarnoja, which has closed a $150 million Series A at a $1.45 billion post-money valuation led by a16z and F-Prime. The draw is a vision-force-action manipulation architecture, a force-sensitive gripper paired with a deep-learning model trained on the relationship between language, force, and action rather than the usual vision-language-action schema. The numbers and the demo reactions stand out: the arm picks about 1,500 objects of up to 1 kg per hour against a human baseline of roughly 600, with over 95% reliability, adapts to a large range of objects without retraining, and retries failed picks with what one professor called a creepy humanness. a16z's Raghu Raguram predicts superhuman performance across many dexterous manipulation tasks within months; one frontier-lab roboticist compared the emotional impact to when robots first achieved reliable legged locomotion.",
+  "highlights": [
+    "$150M Series A at a $1.45B post-money valuation, led by a16z and F-Prime",
+    "Founders: MIT's Pulkit Agrawal and ex-DeepMind's Tuomas Haarnoja",
+    "Vision-force-action model replaces the standard vision-language-action schema",
+    "~1,500 picks per hour vs ~600 human baseline, >95% reliability, objects up to 1 kg",
+    "Generalizes across many objects without retraining; retries failures persistently",
+    "Arm moves fast enough to damage itself, implying deep trust in the control algorithm",
+    "Veteran roboticists compare the demo to the arrival of legged locomotion"
+  ]
+}

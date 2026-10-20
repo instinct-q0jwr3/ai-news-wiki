@@ -1,47 +1,167 @@
 {
- "generated_at": "2026-10-20T08:17:15+00:00",
+ "generated_at": "2026-10-20T14:18:15+00:00",
  "stories": [
   {
-   "id": "502126f8a345",
-   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "id": "1ca338aa1d9c",
+   "title": "DeepSeek just open-sourced its inference engine",
    "source": "Hacker News",
-   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+   "url": "https://github.com/deepseek-ai/DeepInfer"
   },
   {
-   "id": "c934a5b6b40d",
-   "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+   "id": "91a979afd596",
+   "title": "Publish fake stats, get cited in LLMs",
    "source": "Hacker News",
-   "url": "https://deathplanswitch.com/"
+   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
   },
   {
-   "id": "8bdcf88472da",
-   "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
+   "id": "218693ccd4b0",
+   "title": "I'm with Linus",
    "source": "Hacker News",
-   "url": "https://github.com/gojko/lights-on-software-factory"
+   "url": "https://isene.org/2026/10/Linus-On-AI.html"
   },
   {
-   "id": "4a94ed30dae2",
-   "title": "Ask HN: How to get the most intelligence out of your agents?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50161627"
-  },
-  {
-   "id": "bb5ab083c763",
-   "title": "OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+",
+   "id": "d2b738b8c763",
+   "title": "Four Z.ai founders participated in a 2018 to 2021 research project co-funded by CGTRI, which the UK's MI5 said had \"very strong ties\" to China's main spy agency",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ1MTMzNCwiZXhwIjoxNzkzMDU2MTM0LCJhcnRpY2xlSWQiOiJUTUxFQ0RLSkg2VjgwMCIsImJjb25uZWN0SWQiOiIzNzFCRTgwQ0Q5RkE0NDU0OTdFQkU2NzI0NURDMDg4QSJ9.dXDvRdK8ysRYiIyeESwFQdgvip-fNHBbT61lJBZyzNc"
   },
   {
-   "id": "6b765090b570",
-   "title": "Inception launches Mercury 3, a diffusion-based LLM it claims is \"comparable to Luna and Haiku models\" but 4x to 8x faster, generating ~1,000 tokens per second",
-   "source": "Techmeme",
-   "url": "https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics"
+   "id": "128052681ce4",
+   "title": "Introducing Clairic, a new System One class of extraction models",
+   "source": "TLDR AI",
+   "url": "https://blog.cloudflare.com/clairic-extraction-model"
   },
   {
-   "id": "5eca8fb52238",
-   "title": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets",
+   "id": "5501a16275a1",
+   "title": "Mercury 3: Diffusion at scale",
+   "source": "Hacker News",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+  },
+  {
+   "id": "2c898b6aa130",
+   "title": "Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round",
    "source": "Techmeme",
-   "url": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/"
+   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+  },
+  {
+   "id": "5ec32dd612b9",
+   "title": "Inside Meta's Gigawatt-Scale AI Supercluster",
+   "source": "TLDR AI",
+   "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+  },
+  {
+   "id": "301741a7dc29",
+   "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23",
+   "source": "Techmeme",
+   "url": "https://www.minimax.io/blog/minimax-m31f"
+  },
+  {
+   "id": "c0eb7eceefd9",
+   "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+   "source": "TLDR AI",
+   "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/"
+  },
+  {
+   "id": "036809cc73b9",
+   "title": "Office Intelligence for Long-Running AI Work",
+   "source": "TLDR AI",
+   "url": "https://officeintelligence.github.io/"
+  },
+  {
+   "id": "55c7363860fe",
+   "title": "OpenAI has retreated from advocating for strict US chip export controls to China ahead of the lame-duck session, aligning closer with President Trump",
+   "source": "Techmeme",
+   "url": "https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385"
+  },
+  {
+   "id": "76da64c31779",
+   "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+   "source": "TLDR AI",
+   "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the"
+  },
+  {
+   "id": "89ff207e8634",
+   "title": "AI Benchmarks: Climbing the Wrong Hills",
+   "source": "TLDR AI",
+   "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills"
+  },
+  {
+   "id": "763b62e38be2",
+   "title": "Alibaba, Tencent, and Huawei are pouring billions into data centers in Shaoguan, a hinterland region with cheap power and a cool climate, angering some locals",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e"
+  },
+  {
+   "id": "c01f9cf1cc9a",
+   "title": "Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
+  },
+  {
+   "id": "60abf80b0642",
+   "title": "Eka Robotics, which is developing a \"vision-force-action\" architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+  },
+  {
+   "id": "c07669417c32",
+   "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+   "source": "TLDR AI",
+   "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
+  },
+  {
+   "id": "e620453de7fb",
+   "title": "DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs"
+  },
+  {
+   "id": "573498c5c398",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+  },
+  {
+   "id": "bff6c32e0f79",
+   "title": "Anthropic's leaked federal AI bill draws widespread criticism from AI safety advocates for being significantly weaker than the bipartisan FRONTIER Act",
+   "source": "Techmeme",
+   "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach"
+  },
+  {
+   "id": "ed0d3dfc42b3",
+   "title": "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-20/salesforce-to-buy-marketing-platform-braze-for-5-7-billion"
+  },
+  {
+   "id": "6e9c483af377",
+   "title": "Improving AI Coding in Older Programming Languages",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/low-resource-programming-languages/"
+  },
+  {
+   "id": "962b8c3dec86",
+   "title": "How to shape your slides and videos with Gemini Notebook",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
+  },
+  {
+   "id": "ca4fdbf13bef",
+   "title": "Introducing Exa 3.0",
+   "source": "TLDR AI",
+   "url": "https://exa.ai/blog/exa-3"
+  },
+  {
+   "id": "f62f3bf4c4bf",
+   "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+  },
+  {
+   "id": "63008669027f",
+   "title": "CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE",
+   "source": "Lobsters",
+   "url": "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/"
   }
  ]
 }

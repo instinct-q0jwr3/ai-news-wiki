@@ -1,0 +1,16 @@
+{
+  "id": "bff6c32e0f79",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Shakeel Hashim at Transformer reports on a leaked discussion draft of a federal AI bill that Anthropic has been circulating to lawmakers, arguing it makes the company's safety-first pitch ring hollow. Evaluators of catastrophic risk would face no standards or licensing and could self-certify, which LawAI's Charlie Bullock says sets auditors competing to offer the least bothersome audits at the lowest price. If the Commerce Department wanted to block a dangerous model, it would have to petition a federal court with its own detailed case, decided without deference, and the court must consider the harm a blocking order would cause the developer, users, and the public, while, as Encode's Nathan Calvin notes, it is not told to weigh the harm of failing to block. On preemption, frontier-AI state laws like California's SB 53, New York's RAISE, and Illinois' SB 315 would be preempted with carve-outs for child safety, and unlike the bipartisan FRONTIER Act, states would also be barred from suspending a model on catastrophic-risk grounds. Safety advocates, some quoted as viscerally angry, warn the bill could slam shut the current policy window even as Anthropic itself says risks are growing.",
+  "highlights": [
+    "Leaked Anthropic-drafted federal AI bill, published by Politico, circulated to lawmakers",
+    "Criticized as far weaker than the bipartisan Obernolte/Trahan FRONTIER Act",
+    "Third-party evaluators could self-certify: no standards, no licensing",
+    "Blocking a model would require Commerce to win a de novo federal court case",
+    "Court must weigh harm to the developer, not the harm of failing to block",
+    "Preempts SB 53, RAISE, SB 315 and bars states from suspending models on catastrophic-risk grounds",
+    "Advocates fear it forecloses stronger regulation just as the policy window opens"
+  ]
+}

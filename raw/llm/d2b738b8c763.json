@@ -1,0 +1,14 @@
+{
+  "id": "d2b738b8c763",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Bloomberg reports that four founders of Z.ai participated between 2018 and 2021 in a research project co-funded by CGTRI, an organization the UK's MI5 described as having very strong ties to China's main spy agency. The article could not be fetched, so this summary is limited to the headline reporting.",
+  "highlights": [
+    "Four Z.ai founders took part in a 2018-2021 research project",
+    "Project was co-funded by CGTRI",
+    "MI5 assessed CGTRI as having very strong ties to China's main spy agency",
+    "Source: Bloomberg via Techmeme"
+  ],
+  "basis": "Basis: Techmeme headline only; the Bloomberg article fetch returned an error."
+}

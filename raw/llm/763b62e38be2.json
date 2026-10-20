@@ -1,0 +1,14 @@
+{
+  "id": "763b62e38be2",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Financial Times reports that Alibaba, Tencent, and Huawei are pouring billions of dollars into data centers in Shaoguan, a hinterland region of China with cheap power and a cool climate, angering some local residents. The article is paywalled and could not be fetched, so this summary is limited to the headline reporting.",
+  "highlights": [
+    "Alibaba, Tencent, and Huawei investing billions in Shaoguan data centers",
+    "Draw: cheap power and a cool climate in a hinterland region",
+    "Some locals are angered by the build-out",
+    "Source: Financial Times via Techmeme"
+  ],
+  "basis": "Basis: Techmeme headline only; the FT article is paywalled and the fetch returned an error."
+}

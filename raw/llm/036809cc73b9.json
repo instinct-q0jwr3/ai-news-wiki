@@ -1,0 +1,14 @@
+{
+  "id": "036809cc73b9",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Office Intelligence is a research project page describing a workspace for long-running AI work: files, terminal, documents, spreadsheets, chat, notices, mail, calendar, meetings, and git, tied together with source-based summaries and an assurance layer for evidence and data lineage. The fetched page returned only interface labels, so this summary is limited to what the demo surface exposes.",
+  "highlights": [
+    "Project page for long-running AI office work",
+    "Workspace spans files, terminal, docs, spreadsheets, chat, mail, calendar, meetings, git",
+    "Emphasis on source-based summaries and evidence/data-lineage assurance",
+    "Page is a UI demo; little descriptive text available"
+  ],
+  "basis": "Basis: fetched page contained only 267 characters of interface labels; no article text."
+}

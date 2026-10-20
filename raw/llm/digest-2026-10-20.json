@@ -143,6 +143,100 @@
         "c934a5b6b40d"
       ],
       "concepts": []
+    },
+    {
+      "title": "Inference stacks open up",
+      "intro": "DeepSeek releases the engine that runs its own production traffic, and PyTorch lands on Amazon's chips natively.",
+      "stories": [
+        "1ca338aa1d9c",
+        "c0eb7eceefd9",
+        "e620453de7fb"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Nine-figure rounds keep coming",
+      "intro": "Manufacturing, robotics, meeting notes, and compute contracts all close big checks in one day.",
+      "stories": [
+        "c01f9cf1cc9a",
+        "60abf80b0642",
+        "2c898b6aa130",
+        "573498c5c398",
+        "ed0d3dfc42b3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Gigawatt campuses and their footprint",
+      "intro": "Meta tours its million-GPU project in Ohio while China's giants pour billions into a hinterland build-out.",
+      "stories": [
+        "5ec32dd612b9",
+        "763b62e38be2"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Washington's AI fight widens",
+      "intro": "A leaked Anthropic bill draws fire from safety advocates, OpenAI softens on chip controls, and Z.ai's founders face questions.",
+      "stories": [
+        "bff6c32e0f79",
+        "55c7363860fe",
+        "d2b738b8c763"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "What benchmarks and citations are worth",
+      "intro": "Goodhart's Law comes for the leaderboards, and 50,000 fake statistics come for the chatbots.",
+      "stories": [
+        "89ff207e8634",
+        "91a979afd596"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Beyond the LLM shape",
+      "intro": "Cloudflare ships a token-free extraction model and Exa retools search for agents.",
+      "stories": [
+        "128052681ce4",
+        "ca4fdbf13bef"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents learn to do less",
+      "intro": "Meta's thin-orchestrator pattern, a long-running-work workspace, and Gemini Notebook's co-creation flow.",
+      "stories": [
+        "c07669417c32",
+        "036809cc73b9",
+        "962b8c3dec86"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A critical enterprise security flaw dissected",
+      "intro": "Horizon3 walks through an unauthenticated path-traversal RCE in FortiSIEM's gRPC service.",
+      "stories": [
+        "63008669027f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The cultural argument continues",
+      "intro": "A short defense of Torvalds' pragmatism and Jack Clark's singularity lecture to the IMF.",
+      "stories": [
+        "218693ccd4b0",
+        "76da64c31779"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Coding help for forgotten languages",
+      "intro": "OpenAI targets the long tail of programming languages with little training data.",
+      "stories": [
+        "6e9c483af377"
+      ],
+      "concepts": []
     }
   ]
 }

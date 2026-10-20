@@ -1,0 +1,14 @@
+{
+  "id": "e620453de7fb",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Bloomberg reports that DeepSeek has open-sourced DeepInfer, its internal production inference stack, designed to accelerate inference, optimize chip performance, and reduce energy and compute costs. The article could not be fetched, so this summary is limited to the headline; the project's own README is covered in a sibling story from the same pass.",
+  "highlights": [
+    "DeepSeek open-sources DeepInfer, its internal production inference stack",
+    "Goals: faster inference, better chip utilization, lower energy and compute costs",
+    "Source: Bloomberg via Techmeme",
+    "Sibling coverage of the GitHub release exists in today's digest"
+  ],
+  "basis": "Basis: Techmeme headline only; the Bloomberg article fetch returned an error."
+}

@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Introducing Clairic, a new System One class of extraction models · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792506254"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Introducing Clairic, a new System One class of extraction models</h1>
+<p class="meta">type: news-summary · created: 2026-10-20 · updated: 2026-10-20 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Cloudflare announces a preview of Clairic, billed as the first System One extraction model, hosted on Workers AI as @cf/cloudflare/clairic with open weights promised soon. Where the decision models that defined the System One category (TypeSafe's Jev, Cloudflare's Clef) return probabilities over a listed set of options, Clairic extracts, computes, estimates, and forecasts typed values directly: numbers with an 80% range, plus names, dates, and lists. Because it answers in a single pass without generating tokens, it cannot mistype an answer or hallucinate in the LLM sense, returns null when the input contains no answer, and attaches confidence scores; Cloudflare claims higher accuracy, faster latency, and lower cost than routing the same structured-extraction calls through frontier LLMs.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>New model class: System One extraction models, complementing decision models</li>
+<li>Single-pass, token-free answers, typically under a second</li>
+<li>Returns typed values: numbers with 80% ranges, dates, names, lists, or null</li>
+<li>Confidence scores ship with outputs for trust gating</li>
+<li>Available now on Workers AI; open-weights release planned</li>
+<li>Pitched at repetitive structured calls like invoice totals, delivery dates, cost estimates</li>
+<li>Framing traces to TypeSafe's Jev and Kahneman's System One concept</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://blog.cloudflare.com/clairic-extraction-model">Read the original story</a> · <a href="https://tldr.tech/ai/2026-10-20">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/small-specialist-models.html">Small and specialist models</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

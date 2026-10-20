@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792506254"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE</h1>
+<p class="meta">type: news-summary · created: 2026-10-20 · updated: 2026-10-20 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Horizon3 dissects CVE-2026-106173, a critical FortiSIEM vulnerability Fortinet disclosed on 13 October 2026 that allows unauthenticated arbitrary file write leading to remote code execution. The bug lives in a gRPC service the team had not examined before, phQueryMaster on tcp/27918, which binds every interface and does not request client certificates, so any remote client can connect unauthenticated. Its SendQueryResult RPC builds a file path by concatenating attacker-controlled query-id and src-ip values without validation: a query-id like ../../../../../tmp/x traverses outside the query directory, and the streamed bytes become the file's contents, giving arbitrary directory and partial filename control.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Critical FortiSIEM flaw: arbitrary file write leading to RCE</li>
+<li>New attack surface: gRPC service phQueryMaster listening on tcp/27918</li>
+<li>Service binds all interfaces and skips client-certificate checks, so access is unauthenticated</li>
+<li>query-id is string-concatenated into a file path with no validation, enabling ../ traversal</li>
+<li>Streamed message bytes become file contents; filename partially attacker-controlled via src-ip</li>
+<li>Same team's prior FortiSIEM disclosures all targeted the phMonitor service on tcp/7900</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

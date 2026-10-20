@@ -1,0 +1,16 @@
+{
+  "id": "5ec32dd612b9",
+  "authored_at": "2026-10-20T14:23:27Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Meta engineering details Prometheus, its gigawatt-scale AI supercluster in New Albany, Ohio, built by reworking a conventional data center site into phased frontier-training capacity. The completed first phase trained the Muse foundational models, including the Muse Wonder frontier models, and reliability work lifted goodput above 85% for pre-training and 90% for reinforcement learning runs, with wall-clock mean time between interruptions improved from roughly 47k to over 54k GPU hours after firmware fixes. Prometheus today spans hundreds of thousands of GPUs across traditional, AI-optimized, and rapid-deployment buildings linked by miles of fiber into a single machine; at full scale it targets roughly one million GPUs in lockstep. The current platforms include Catalina, an Ariel-variant GB200 NVL72 two-rack configuration pairing each Blackwell GPU with a Grace CPU and 800G of I/O on Open Rack V3 high-power racks, with a Vera Rubin NVL72-based platform arriving soon.",
+  "highlights": [
+    "Prometheus is Meta's most ambitious AI infrastructure project, sited in New Albany, Ohio",
+    "Phase one already trained the Muse and Muse Wonder frontier models",
+    ">85% pre-training goodput and >90% RL goodput achieved through reliability engineering",
+    "MTBI improved from ~47k to 54k+ GPU hours after fleet-wide firmware fixes",
+    "Full-scale target: roughly 1 million GPUs functioning as a single machine",
+    "Catalina platform: GB200 NVL72 Ariel variant, Grace CPU per Blackwell GPU, 800G I/O per GPU",
+    "NVIDIA Vera Rubin NVL72 platform arriving soon as a third generational leap"
+  ]
+}
