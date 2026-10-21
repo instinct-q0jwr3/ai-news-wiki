@@ -1,0 +1,13 @@
+{
+  "id": "75374caa5f35",
+  "authored_at": "2026-10-21T08:28:12Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Show HN for Jev Cards, a quiz game built around TypeSafe's new Jev vision model: Jev looks at a picture and a question and picks an answer, or taps a place, in about a quarter of a second, and the game challenges you to beat it. The page returned almost no text to the fetcher, so this summary relies on the author's description.",
+  "highlights": [
+    "Quiz game: beat TypeSafe's Jev vision model at picture questions",
+    "Jev answers or taps a location in ~0.25 seconds",
+    "Show HN by the game's builder"
+  ],
+  "basis": "Basis: author's Show HN description only; the page returned 9 characters."
+}

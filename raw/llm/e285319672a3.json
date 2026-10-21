@@ -1,0 +1,16 @@
+{
+  "id": "e285319672a3",
+  "authored_at": "2026-10-21T08:28:12Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Latent Space's podcast has Tenex's Alex Lieberman and CJ Hess back to explain scaling their pay-for-outcomes model into a 75-person engineering organization serving Fortune 2000 and mid-market customers. Story points still drive compensation, and the feared failure modes, inflated estimates and rushed code, have not been the big problem, because Tenex's AI strategists own retention and push back on work that does not serve the client. The harder question is rewarding work that fits no ticket: understanding the customer's problem, designing architecture, deciding what to build; CJ describes spending less time coding and more time getting customer context into model-usable form. The technical backbone is MetaHarness: shared skills, project documents, and a CLI with plans and decisions checked into Git alongside code, so an agent returning to a task can read not just what was built but why, a project record with views into Linear, GitHub, and client updates. The column ties this to its own Kill My SaaS experiment replacing a $43,000-a-year conference tool, and the shared question: when building gets cheaper, what is good work worth?",
+  "highlights": [
+    "Tenex pays for outcomes (story points), not hours, now at 75 people",
+    "Feared failure modes (estimate inflation, rushed code) haven't materialized",
+    "Hard problem: rewarding unticketed work like problem-framing and architecture",
+    "Engineers shift from coding to packaging customer context for models",
+    "MetaHarness: plans and decisions in Git alongside code for agents to read",
+    "AI-native SDLC as a project record with Linear, GitHub, client-update views",
+    "Companion thread: Kill My SaaS replaced a $43k/year conference tool"
+  ]
+}

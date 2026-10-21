@@ -1,0 +1,15 @@
+{
+  "id": "a57699b7ee29",
+  "authored_at": "2026-10-21T08:28:12Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Nexus-CLI is a pure-Go command-line tool and local API proxy that connects any app or coding agent to DeepSeek V3 and R1 through a free chat.deepseek.com web account, no paid API key required, rewritten from scratch with zero runtime dependencies after analyzing earlier Node.js and Python bridges. It offers three account-linking paths (manual token, an automated Chrome login capture, or a .env file), an interactive REPL that streams R1's reasoning, one-shot prompts, Unix-pipe code analysis, and a local server on port 9655 that speaks both the OpenAI chat-completions format and the Ollama API, so Cursor, Claude Code, Open WebUI, Dify, and LlamaIndex can point at DeepSeek as if it were local.",
+  "highlights": [
+    "Free DeepSeek V3/R1 access through a web account, no paid API key",
+    "Pure Go rewrite with zero runtime dependencies",
+    "Three auth paths: token paste, Chrome capture, .env",
+    "Local proxy speaks OpenAI and Ollama API formats on port 9655",
+    "Works with Cursor, Claude Code, Open WebUI, Dify, LlamaIndex",
+    "REPL streams R1's thinking in real time"
+  ]
+}

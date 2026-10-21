@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 754,
+  "stories": 757,
   "last": "2026-10-21"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 739,
+  "stories": 743,
   "last": "2026-10-21"
  },
  {
@@ -36,16 +36,16 @@
   "last": "2026-10-20"
  },
  {
+  "name": "Latent.Space",
+  "url": "https://www.latent.space/feed",
+  "stories": 35,
+  "last": "2026-10-21"
+ },
+ {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
   "stories": 34,
   "last": "2026-10-19"
- },
- {
-  "name": "Latent.Space",
-  "url": "https://www.latent.space/feed",
-  "stories": 33,
-  "last": "2026-10-16"
  },
  {
   "name": "Bert Hubert",

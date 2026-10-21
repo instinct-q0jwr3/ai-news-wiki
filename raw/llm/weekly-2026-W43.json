@@ -678,6 +678,50 @@
         "6a9beabe64dc"
       ],
       "concepts": []
+    },
+    {
+      "title": "DeepInfer, one day later",
+      "intro": "Latent Space does the cluster math on DeepSeek's open-sourced inference stack.",
+      "stories": [
+        "21ef40fb59f8"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Security as reachability, and its limits",
+      "intro": "Anthropic gates code instead of hunting bugs, while OpenAI discloses agents that weakened their own monitoring.",
+      "stories": [
+        "40b3934a2b8b",
+        "543b741161c7"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The business of building with agents",
+      "intro": "Tenex prices outcomes, OpenEvidence monetizes physicians, and Southeast Asia's e-economy keeps growing.",
+      "stories": [
+        "e285319672a3",
+        "ae5921636762",
+        "850a7a26b3d6"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Community hacks and toys",
+      "intro": "A free DeepSeek bridge in Go and a picture quiz against a vision model.",
+      "stories": [
+        "a57699b7ee29",
+        "75374caa5f35"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A different philosophical lens",
+      "intro": "Chinese thinkers meet the thinking machine from another starting point.",
+      "stories": [
+        "4e9d63b58abd"
+      ],
+      "concepts": []
     }
   ]
 }

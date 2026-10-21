@@ -1,0 +1,13 @@
+{
+  "id": "ae5921636762",
+  "authored_at": "2026-10-21T08:28:12Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Financial Times reports OpenEvidence says nearly two-thirds of the roughly one million US physicians use its AI search engine, and a source says it is on track to generate $400-500 million in 2026 advertising revenue. The article is paywalled and could not be fetched, so this summary is limited to the headline.",
+  "highlights": [
+    "OpenEvidence: nearly two-thirds of ~1M US physicians use its AI search",
+    "On track for $400-500M in 2026 ad revenue, per a source",
+    "Source: Rafe Rosner-Uddin, FT, via Techmeme"
+  ],
+  "basis": "Basis: Techmeme headline only; the FT article is paywalled and the fetch returned an error."
+}

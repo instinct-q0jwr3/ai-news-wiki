@@ -1,89 +1,59 @@
 {
- "generated_at": "2026-10-21T02:19:45+00:00",
+ "generated_at": "2026-10-21T08:20:41+00:00",
  "stories": [
   {
-   "id": "8228070cbdbc",
-   "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+   "id": "75374caa5f35",
+   "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
    "source": "Hacker News",
-   "url": "https://twitter.com/Polymarket/status/2112634886070919426"
+   "url": "https://jevcards.com"
   },
   {
-   "id": "e899529200d3",
-   "title": "Gradium open-sourced its on-device TTS",
+   "id": "40b3934a2b8b",
+   "title": "Using Claude to reduce the attack surface of code",
    "source": "Hacker News",
-   "url": "https://gradium.ai/phonon"
+   "url": "https://www.anthropic.com/research/attack-surface-reduction"
   },
   {
-   "id": "ad05336e0cfe",
-   "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+   "id": "a57699b7ee29",
+   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
    "source": "Hacker News",
-   "url": "https://dovepass.com"
+   "url": "https://github.com/xamrayev/nexus-cli"
   },
   {
-   "id": "980b520c8022",
-   "title": "SpaceX revenue soars 161% as AI business grows",
-   "source": "Hacker News",
-   "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509"
+   "id": "e285319672a3",
+   "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/tenex"
   },
   {
-   "id": "77aeddf63207",
-   "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
-   "source": "Hacker News",
-   "url": "https://gamowlabs.com/lab-robot-bench-v0-1"
-  },
-  {
-   "id": "882e0331cfcb",
-   "title": "Secret trigger words could make AI-powered robots dangerous",
-   "source": "Hacker News",
-   "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense"
-  },
-  {
-   "id": "8132d4353f4e",
-   "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation",
+   "id": "850a7a26b3d6",
+   "title": "Google, Temasek, and Bain: online spending in SE Asia to rise ~17% YoY to $368B in 2026 despite economic headwinds, as businesses harness AI to spur spending",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-backed-pigment-nabs-250-million-to-challenge-microsoft"
+   "url": "https://www.bloomberg.com/"
   },
   {
-   "id": "6a9beabe64dc",
-   "title": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\"",
+   "id": "543b741161c7",
+   "title": "OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImVpQ050VURacjAiLCJwIjoiL3RlY2gvMTAxNDI1Mi9wZXRlci10aGllbC1hbnRpY2hyaXN0LWxlY3R1cmVzLWFuYWx5c2lzIiwiZXhwIjoxNzkyOTQzNDQ3LCJpYXQiOjE3OTI1MTE0NDd9.GALmzbZcvGMsArj-gXyABv6mY7_mCgg2pmjMyAbJnCY&utm_medium=gift-link"
+   "url": "https://openai.com/"
   },
   {
-   "id": "947fa4ccaed6",
-   "title": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B",
+   "id": "ae5921636762",
+   "title": "OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=eQFqUL&reflink=desktopwebshare_permalink"
+   "url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc"
   },
   {
-   "id": "3a9f0a3af379",
-   "title": "Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo"
+   "id": "21ef40fb59f8",
+   "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
   },
   {
-   "id": "df902f4dc340",
-   "title": "Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+",
+   "id": "4e9d63b58abd",
+   "title": "A look at Chinese philosophical views on AI; one says aligning AI to human values may be a \"suicidal mistake\" and another fears the \"machinization of humans\"",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
-  },
-  {
-   "id": "9644e30752d5",
-   "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature",
-   "source": "Techmeme",
-   "url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/"
-  },
-  {
-   "id": "b3485a3df280",
-   "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back",
-   "source": "Techmeme",
-   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
-  },
-  {
-   "id": "0ba98e03faf0",
-   "title": "Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says"
+   "url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas"
   }
  ]
 }

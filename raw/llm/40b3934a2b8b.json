@@ -1,0 +1,15 @@
+{
+  "id": "40b3934a2b8b",
+  "authored_at": "2026-10-21T08:28:12Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic's Chris Rohlf summarizes initial research into automated attack surface analysis and reduction with Claude: instead of hunting individual vulnerabilities, which scales poorly because each fix says nothing about what remains, use the model to map which code is reachable in a given deployment and remove or gate everything it does not need to expose. Reducing reachability lowers the severity of unknown vulnerabilities, including ones under active exploitation, without ever finding them. Running Claude over 25 open-source projects in a variety of languages produced 493 issues, and Anthropic says the data shows the approach can meaningfully and economically improve software security, with guidance for developers to apply the same techniques to their own code.",
+  "highlights": [
+    "Attack surface reduction as an alternative to vulnerability-by-vulnerability fixing",
+    "Claude maps reachable code; unneeded code gets removed or gated",
+    "Unknown bugs stay but become harder to reach, reducing severity",
+    "25 open-source projects analyzed, 493 issues found",
+    "Typical move: shifting code from pre-auth to post-auth",
+    "Framed as near-term, economically viable defense"
+  ]
+}
