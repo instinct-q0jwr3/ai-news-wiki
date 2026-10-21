@@ -1,0 +1,14 @@
+{
+  "id": "1923854577c3",
+  "authored_at": "2026-10-21T20:37:55Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Cory Doctorow's Pluralistic for 21 October argues adversarial interoperability is a team sport. Digital technology should be hard to enshittify because every computer is a Turing-complete universal machine: when a boss removes a valued feature (Sonos bricking speaker functionality) or adds a hated one (Chamberlain forcing seven ads before your garage door opens), a programmer can write an interoperable program that restores the good or blocks the bad, distribute it costlessly, and get paid for disenshittification. In a state of nature, that threat alone disciplines companies. His point in this edition: vibe-coded individual jailbreaks are fun but do not solve the structural problem; the counterpower has to be organized.",
+  "highlights": [
+    "Adversarial interoperability is a team sport, not a solo jailbreak",
+    "Universal computers make enshittification technically reversible",
+    "Examples: Sonos feature removal, Chamberlain's seven garage-door ads",
+    "Disenshittification tools can be distributed costlessly and sold",
+    "Vibe-coded jailbreaks: fun, but structurally insufficient"
+  ]
+}

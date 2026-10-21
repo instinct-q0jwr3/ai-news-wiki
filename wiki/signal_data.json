@@ -952,8 +952,8 @@
   "unreadable": 1
  },
  "2026-10-18": {
-  "ok": 17,
-  "paywall": 5,
+  "ok": 18,
+  "paywall": 4,
   "picks": [
    {
     "cat": "ok",
@@ -1064,7 +1064,7 @@
   "unreadable": 4
  },
  "2026-10-20": {
-  "ok": 51,
+  "ok": 52,
   "paywall": 8,
   "picks": [
    {
@@ -1117,6 +1117,62 @@
   "status": "final",
   "thin": 2,
   "total": 70,
-  "unreadable": 9
+  "unreadable": 8
+ },
+ "2026-10-21": {
+  "ok": 40,
+  "paywall": 13,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "4e94fd2b5898",
+    "minutes": 15,
+    "source": "Hacker News",
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "why": "Gemini 4 Argon helped Wiz turn a decade-old PHP flaw into an unauthenticated RCE affecting 70% of the web - and patch it."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "b3485a3df280",
+    "minutes": 10,
+    "source": "Techmeme",
+    "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back",
+    "why": "Goodfire's Cammarata claims LLMs may be far easier to understand than believed; the field is split between celebration and 'a hunch'."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "0783c0ce0503",
+    "minutes": 11,
+    "source": "Latent.Space",
+    "title": "Claude Mods: Flipping the Harness Inside Out",
+    "why": "Claude Mods flip the harness toward the human: middleware for an 'Attention Interface' you co-design with the agent."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "55a7e6f715e1",
+    "minutes": 2,
+    "source": "Techmeme",
+    "title": "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April",
+    "why": "OpenAI lands on Google Cloud, completing all three hyperscalers months after the Microsoft exclusivity ended."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "f1be53d7da3c",
+    "minutes": 47,
+    "source": "TLDR AI",
+    "title": "Coxon Day",
+    "why": "A 22-year-old's Constellation essay marks the day AI safety went mainstream - and asks for shared bars and international coordination."
+   }
+  ],
+  "reserve": "882e0331cfcb",
+  "status": "provisional",
+  "thin": 7,
+  "total": 66,
+  "unreadable": 6
  }
 }

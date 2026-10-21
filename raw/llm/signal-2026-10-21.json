@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-21",
+  "status": "provisional",
+  "reserve": "882e0331cfcb",
+  "picks": [
+    {
+      "id": "4e94fd2b5898",
+      "front": "Security",
+      "source": "Hacker News",
+      "why": "Gemini 4 Argon helped Wiz turn a decade-old PHP flaw into an unauthenticated RCE affecting 70% of the web - and patch it."
+    },
+    {
+      "id": "b3485a3df280",
+      "front": "Models",
+      "source": "Techmeme",
+      "why": "Goodfire's Cammarata claims LLMs may be far easier to understand than believed; the field is split between celebration and 'a hunch'."
+    },
+    {
+      "id": "0783c0ce0503",
+      "front": "Agents",
+      "source": "Latent.Space",
+      "why": "Claude Mods flip the harness toward the human: middleware for an 'Attention Interface' you co-design with the agent."
+    },
+    {
+      "id": "55a7e6f715e1",
+      "front": "Business",
+      "source": "Techmeme",
+      "why": "OpenAI lands on Google Cloud, completing all three hyperscalers months after the Microsoft exclusivity ended."
+    },
+    {
+      "id": "f1be53d7da3c",
+      "front": "Governance",
+      "source": "TLDR AI",
+      "why": "A 22-year-old's Constellation essay marks the day AI safety went mainstream - and asks for shared bars and international coordination."
+    }
+  ]
+}

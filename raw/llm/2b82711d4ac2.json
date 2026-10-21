@@ -1,0 +1,12 @@
+{
+  "id": "2b82711d4ac2",
+  "authored_at": "2026-10-21T20:33:58Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "OpenAI's own announcement that its models are coming to Google Cloud, the corporate move reported by CNBC earlier today (model garden and Antigravity, in the coming weeks). The post could not be fetched, so this summary is limited to the title.",
+  "highlights": [
+    "OpenAI's own post: models coming to Google Cloud",
+    "Companion to the CNBC story in today's digest"
+  ],
+  "basis": "Basis: Hacker News title only; the source fetch failed during a mass outage."
+}

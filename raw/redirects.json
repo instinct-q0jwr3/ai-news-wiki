@@ -110,6 +110,11 @@
   "title": "OpenTPU – An open-source AI accelerator, developed by AI"
  },
  {
+  "from": "1b2f4efbeac3",
+  "to": "c9bf9f0bb65b",
+  "title": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\""
+ },
+ {
   "from": "1f6a2bb98e67",
   "to": "43eb192d1f2d",
   "title": "A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY 2018 to $11.48B in FY 2026, as AI reshapes cybersecurity"
@@ -338,6 +343,11 @@
   "from": "6736d46da7ef",
   "to": "99e77dbc6812",
   "title": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base"
+ },
+ {
+  "from": "675380da79a8",
+  "to": "c9bf9f0bb65b",
+  "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities"
  },
  {
   "from": "6786bac6b4a5",
@@ -768,6 +778,16 @@
   "from": "cd37cb3d4dc5",
   "to": "2dea59f1ef6d",
   "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website"
+ },
+ {
+  "from": "ce23dab5e2ba",
+  "to": "f2f71bd9e30f",
+  "title": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months"
+ },
+ {
+  "from": "cfa7c01253e4",
+  "to": "f2f71bd9e30f",
+  "title": "Using thousands of AI agents to uncover new leads in biological data"
  },
  {
   "from": "d251fda8edd2",

@@ -1,0 +1,14 @@
+{
+  "id": "e1a0599b10a5",
+  "authored_at": "2026-10-21T20:37:55Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Simon Willison runs an experiment in Claude Code for web's 'Ultracode' mode, where dynamic workflows generate JavaScript coordinating networks of subagents. A single phone-typed prompt with an accidental typo, 'hit the delete rows directly' instead of 'hit the rows directly', asked for a SQLite extension in Rust implanting SPARQL, and Claude Code churned for over 12 hours producing a full SPARQL 1.1 implementation in Rust inside SQLite. A follow-up prompt added READMEs per crate, a tutorial teaching SPARQL with the extension, and a script populating realistic example data. His verdict: next-level vibe coding, the code is not remotely feasible to review, and he is unsure what a full SPARQL-in-SQLite implementation is worth if nobody can vouch for it.",
+  "highlights": [
+    "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+    "Built by Claude Code 'Ultracode' dynamic workflows over 12+ hours",
+    "Started from a typo'd phone prompt; one follow-up added docs and tutorials",
+    "Willison: next-level vibe coding, infeasible to review the output",
+    "Open question: value of code nobody can realistically vouch for"
+  ]
+}

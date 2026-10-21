@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-10-21 · updated: 2026-10-21 · confidence: high_
 
-`hacker-news` `openai`
+`hacker-news` `openai` `amazon`
 
 ## Summary
 
@@ -22,4 +22,4 @@ _The full source text could not be retrieved (blocked or unreadable page); this 
 
 ## Related pages
 
-[OpenAI](../entities/openai.md)
+[OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md)

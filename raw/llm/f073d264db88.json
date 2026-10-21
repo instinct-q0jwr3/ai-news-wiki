@@ -1,0 +1,15 @@
+{
+  "id": "f073d264db88",
+  "authored_at": "2026-10-21T20:37:55Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Alter (YC S25) launches access control for agents acting on behalf of multiple users. The problem it names: credentials pasted into prompts, configs, and .env files, every agent borrowing the same over-scoped credential, and nobody able to say which agent did what on whose behalf. With Alter, credentials are stored once and injected per request so proxied calls keep them out of code, each agent gets its own identity and scopes with an optional human gate for sensitive calls, and every action lands in a tamper-evident audit trail attributable to a real person. One SDK call handles storage, refresh, policy, and audit across 140 providers, with first-class LangChain, MCP, and AWS integrations and SIEM streaming; its trust center publishes monitored controls and a recent independent penetration test.",
+  "highlights": [
+    "Access control for multi-user agents, YC S25",
+    "Credentials stored once, injected per request, never seen by the agent",
+    "Per-agent identities and scopes, deny by default",
+    "Human gate for sensitive calls; everything else flows",
+    "Tamper-evident audit trail attributable to a named person, SIEM-streamable",
+    "One SDK: storage, refresh, policy, audit for 140 providers; LangChain, MCP, AWS integrations"
+  ]
+}

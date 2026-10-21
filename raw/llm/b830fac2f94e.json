@@ -1,0 +1,14 @@
+{
+  "id": "b830fac2f94e",
+  "authored_at": "2026-10-21T20:37:55Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Rust off Rails pitches an opinionated web stack for the AI era whose founding rule is that all code is written by AI: every line of Rust, SQL, HTML, CSS, TypeScript, and every Dockerfile comes from an agent, while humans write intent, specs in a product/ directory, answers in interviews, feedback in conversation, never code. The fetched page returned only its opening sections, so this summary is limited to them.",
+  "highlights": [
+    "Opinionated Rust web stack for the AI era",
+    "Founding rule: all code is written by AI; humans write intent",
+    "Specs in product/ stay the source of truth",
+    "Boilerplate is free; agents enforce conventions"
+  ],
+  "basis": "Basis: the fetched page returned only ~380 characters of opening sections."
+}

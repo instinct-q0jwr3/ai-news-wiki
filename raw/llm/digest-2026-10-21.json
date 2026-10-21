@@ -200,6 +200,65 @@
         "97c8d742313e"
       ],
       "concepts": []
+    },
+    {
+      "title": "The day after the AI bug hunt",
+      "intro": "Official posts, a security release to apply now, and the first apocalypse essays.",
+      "stories": [
+        "3175cadddea4",
+        "ab68b830acc4",
+        "2b82711d4ac2"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A self-building model and a $1B efficiency bet",
+      "intro": "Recursive's Flint was mostly developed by its own AI; Flapping Airplanes raises big for leaner training.",
+      "stories": [
+        "359ee0d3a01c",
+        "ff3a4d06c361"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Fresh capital across the map",
+      "intro": "Meta prints nonvoting stock for AI, Whop hits $5.1B, and smaller rounds for CAD and military logistics.",
+      "stories": [
+        "5a24b00f0a08",
+        "6a1a6c927a72",
+        "ad5033cec647",
+        "8c0bbf1c47f9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Trust questions pile up",
+      "intro": "Google staff quit over military contracts, Anthropic posts its charter, and one developer asks what else the agent changed.",
+      "stories": [
+        "a4f73a7892fa",
+        "5506fbd3614f",
+        "b52d0e29036b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Build your own stack",
+      "intro": "Access control for multi-user agents, an opinionated Rust web stack, SPARQL in SQLite, and Doctorow on adversarial interop.",
+      "stories": [
+        "f073d264db88",
+        "b830fac2f94e",
+        "e1a0599b10a5",
+        "1923854577c3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "Something called Claude Duet.",
+      "stories": [
+        "6a002767cd29"
+      ],
+      "concepts": []
     }
   ]
 }

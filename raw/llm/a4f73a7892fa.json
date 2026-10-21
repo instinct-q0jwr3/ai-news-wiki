@@ -1,0 +1,15 @@
+{
+  "id": "a4f73a7892fa",
+  "authored_at": "2026-10-21T20:37:55Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The BBC reports a backlash inside Google over military AI: several DeepMind staff have resigned or are leaving, including London research engineer Sofia Liguori, who quit this week and spoke exclusively to the BBC despite her contract restricting her from doing so, saying the company's push into military AI systems makes her ashamed to work there. Google signed contracts earlier this year to deploy AI across classified US military environments, with Defense Secretary Pete Hegseth promising an 'AI-first warfighting force'; critics question whether the technology is reliable enough for warfare without more testing, guardrails, and human oversight. Google points to its review processes, acceptable-use policies, AI principles, and channels for raising concerns without retaliation. Liguori cites work with the US and Israeli militaries and a loss of faith in the company's stated ethical values.",
+  "highlights": [
+    "DeepMind staff resigning over Google's military AI contracts",
+    "Sofia Liguori quit and spoke to the BBC despite contractual restrictions",
+    "Google signed deals to deploy AI in classified US military environments",
+    "Hegseth: an 'AI-first warfighting force'",
+    "Google cites acceptable-use policies, AI principles, anti-retaliation channels",
+    "Critics: reliability, guardrails, and human oversight unproven for warfare"
+  ]
+}

@@ -1,29 +1,23 @@
 {
- "generated_at": "2026-10-21T14:21:25+00:00",
+ "generated_at": "2026-10-21T20:22:27+00:00",
  "stories": [
-  {
-   "id": "4e94fd2b5898",
-   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-   "source": "Hacker News",
-   "url": "https://www.wiz.io/blog/php2shell-php-rce"
-  },
-  {
-   "id": "92b16e078b73",
-   "title": "LayerFS: The filesystem for AI coding agents",
-   "source": "Hacker News",
-   "url": "https://layerfs.ai/"
-  },
-  {
-   "id": "97c8d742313e",
-   "title": "The Lucrative World of Literary Scams",
-   "source": "Hacker News",
-   "url": "https://www.thedial.world/articles/news/ai-book-scams"
-  },
   {
    "id": "c9bf9f0bb65b",
    "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
    "source": "Hacker News",
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+  },
+  {
+   "id": "2b82711d4ac2",
+   "title": "OpenAI models are coming to Google Cloud",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/openai-models-google-cloud/"
+  },
+  {
+   "id": "6a002767cd29",
+   "title": "Claude Duet",
+   "source": "Hacker News",
+   "url": "https://claude.com/product/claude-duet"
   },
   {
    "id": "f2f71bd9e30f",
@@ -32,148 +26,94 @@
    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
   },
   {
-   "id": "fd9da335c1ff",
-   "title": "Voxtral 3",
+   "id": "b830fac2f94e",
+   "title": "Rust off Rails: The opinionated web stack for the AI era",
    "source": "Hacker News",
-   "url": "https://mistral.ai/news/voxtral-3/"
+   "url": "https://rustoffrails.org/"
   },
   {
-   "id": "231f0a05b931",
-   "title": "Google and Meta Bring Native PyTorch Support to TPUs",
-   "source": "TLDR AI",
-   "url": "https://pytorch.org/blog/introducing-torchtpu/"
-  },
-  {
-   "id": "40b3934a2b8b",
-   "title": "Using Claude to reduce the attack surface of code",
+   "id": "5506fbd3614f",
+   "title": "Anthropic's Public Benefit Charter",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction"
+   "url": "https://www.anthropic.com/public-benefit-charter"
   },
   {
-   "id": "0c4dca9cbafd",
-   "title": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell",
+   "id": "b52d0e29036b",
+   "title": "AI agent fixed the bug, but what else did it change?",
+   "source": "Hacker News",
+   "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
+  },
+  {
+   "id": "a4f73a7892fa",
+   "title": "Google staff resign in backlash over its AI contracts with military",
+   "source": "Hacker News",
+   "url": "https://www.bbc.com/news/articles/cmreyvepnv0po"
+  },
+  {
+   "id": "f073d264db88",
+   "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+   "source": "Hacker News",
+   "url": "https://alterauth.com/"
+  },
+  {
+   "id": "ab68b830acc4",
+   "title": "The AI-Hacking Apocalypse Began Last Night",
+   "source": "Hacker News",
+   "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/"
+  },
+  {
+   "id": "359ee0d3a01c",
+   "title": "Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development",
    "source": "Techmeme",
-   "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/"
+   "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/"
   },
   {
-   "id": "6faa50672106",
-   "title": "Beyond g-mean²: Complementary Metrics for Monitorability",
-   "source": "TLDR AI",
-   "url": "https://alignment.openai.com/beyond-gmean-squared/"
+   "id": "3175cadddea4",
+   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
   },
   {
-   "id": "f1be53d7da3c",
-   "title": "Coxon Day",
-   "source": "TLDR AI",
-   "url": "https://www.thenewcritic.com/p/coxon-day"
-  },
-  {
-   "id": "9a3fbfe3a978",
-   "title": "GTC Berlin: Jensen Huang pushes Europe on AI adoption, saying \"for Europe to benefit from AI ... you need all the end markets, the end industries to adopt AI\"",
+   "id": "5a24b00f0a08",
+   "title": "Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai"
+   "url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?st=Uj26V6&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "0783c0ce0503",
-   "title": "Claude Mods: Flipping the Harness Inside Out",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/claude-mods"
-  },
-  {
-   "id": "32438243126c",
-   "title": "PHP discloses a critical memory-management vulnerability, dubbed \"PHP2Shell\", that affects up to 70% of websites, discovered using GPT-5.6 Sol in August",
+   "id": "ff3a4d06c361",
+   "title": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?st=tBLRBh&reflink=desktopwebshare_permalink"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjEzMywiZXhwIjoxNzkzMjA2OTMzLCJhcnRpY2xlSWQiOiJUTjlPSzFLSVVQU1UwMCIsImJjb25uZWN0SWQiOiIyMjNDRDM2NDg0QzY0OTc3QjY5ODE0Rjc1MTYxNDRGNyJ9.2ECQs48uRgaUOE9dkbaIGZ556qBFOPomk4VxMDMXvHE"
   },
   {
-   "id": "5b1b2e86b0eb",
-   "title": "Spark-X2.6-4B: Stronger On-Device AI Agents",
-   "source": "TLDR AI",
-   "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+   "id": "1923854577c3",
+   "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/21/brittle-individualism/"
   },
   {
-   "id": "d64afb770767",
-   "title": "Cloudflare says it deployed default WAF mitigations for all free and paid tier customers to combat two PHP flaws, roughly nine hours ahead of public disclosure",
+   "id": "ad5033cec647",
+   "title": "Mach9, which pivoted from robotics hardware to AI-powered CAD software for civil engineering, raised a $34M Series A co-led by First Round and Bessemer",
    "source": "Techmeme",
-   "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
+   "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/"
   },
   {
-   "id": "376f3f86f942",
-   "title": "Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation, up from $5.55B after raising a $550M Series D in March",
+   "id": "e1a0599b10a5",
+   "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
+  },
+  {
+   "id": "8c0bbf1c47f9",
+   "title": "Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed",
    "source": "Techmeme",
-   "url": "https://www.cityam.com/legora-raises-550-in-funding-to-lead-global-expansion/"
+   "url": "https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics"
   },
   {
-   "id": "0c8827d3d655",
-   "title": "Making every harness durable",
-   "source": "TLDR AI",
-   "url": "https://vercel.com/blog/making-every-harness-durable"
-  },
-  {
-   "id": "767fc9d22314",
-   "title": "Sundar Pichai on Google's AI Strategy and Compute Tradeoffs",
-   "source": "TLDR AI",
-   "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative"
-  },
-  {
-   "id": "8b9bc3629684",
-   "title": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August",
+   "id": "6a1a6c927a72",
+   "title": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
-  },
-  {
-   "id": "55a7e6f715e1",
-   "title": "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html"
-  },
-  {
-   "id": "62f20d9e8b9a",
-   "title": "MemCurrent: Designing Persistent Memory for Production Agents",
-   "source": "TLDR AI",
-   "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents"
-  },
-  {
-   "id": "1cc2340f1a32",
-   "title": "Nvidia launches its OpenShell Reference Architecture, a framework to secure, monitor, and govern AI agents, and partners with Canonical, AWS, BBVA, and others",
-   "source": "Techmeme",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319"
-  },
-  {
-   "id": "cbf240a6620d",
-   "title": "ChatGPT now lets you lock your chats",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
-  },
-  {
-   "id": "75136f1d29ba",
-   "title": "Building Laminar: Ramp's Managed Agents Platform",
-   "source": "TLDR AI",
-   "url": "https://builders.ramp.com/post/building-laminar"
-  },
-  {
-   "id": "a20c8a3b10fd",
-   "title": "Superhuman Hardware Design Is The Easy Part",
-   "source": "TLDR AI",
-   "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the"
-  },
-  {
-   "id": "85237c997d20",
-   "title": "OpenAI Acquires Orchestra Bio to Accelerate Drug Development",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/"
-  },
-  {
-   "id": "cc35254bf68e",
-   "title": "Sensor Tower: Muse had 10.9M downloads since its September debut, 10.2M of those in the US, becoming the 12th app to hit 10M US downloads in its first 40 days",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
-  },
-  {
-   "id": "d913da699d2b",
-   "title": "DeepSeek V4.1 Flash: Large-Scale Inference Deployment",
-   "source": "TLDR AI",
-   "url": "https://zhuanlan.zhihu.com/p/2095560295930508953"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-21/whop-s-sequoia-led-funding-pushes-its-value-to-5-1-billion"
   }
  ]
 }

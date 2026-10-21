@@ -1,0 +1,15 @@
+{
+  "id": "359ee0d3a01c",
+  "authored_at": "2026-10-21T20:37:55Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Wired's Will Knight tests Flint, an open-weight 40B-parameter coding model from Recursive, Richard Socher's new company, and calls it evidence that recursive self-improvement is getting closer. Socher says the Eureka Machine automated most of the model pipeline, devising a new way to train the base model, new architectures, and silicon-specific optimized code, letting a handful of researchers build a world-class model in months; shared benchmarks show Flint beating similar-sized models on coding tasks. Knight frames the stakes: AI already helps build AI, a full loop could theoretically improve indefinitely, and that prospect is exactly what worries the doomsayers about control.",
+  "highlights": [
+    "Flint: open-weight 40B coding model from Recursive",
+    "Eureka Machine automated most of development: training method, architectures, silicon-optimized code",
+    "A handful of researchers built a world-class model in months",
+    "Benchmarks show it beating similar-size models on coding",
+    "Framed as recursive self-improvement getting closer",
+    "CEO Richard Socher; tested by Wired's Will Knight"
+  ]
+}

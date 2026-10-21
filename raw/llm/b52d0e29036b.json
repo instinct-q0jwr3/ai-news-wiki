@@ -1,0 +1,15 @@
+{
+  "id": "b52d0e29036b",
+  "authored_at": "2026-10-21T20:37:55Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Trail of Bits publishes two Claude Code plugins, patching-bugs and regression-hunt, built through Patch the Planet, its joint initiative with OpenAI that has co-authored hundreds of security patches for widely used open-source projects. patching-bugs reproduces reported bugs, develops fixes, and tests them; regression-hunt checks whether changes break previously working behavior, producing 25% fewer false positives than a baseline Codex agent asked to review the PR for regressions. The candid part: after September's report that some Patch the Planet patches introduced regressions, the firm reviewed every merged patch its engineers authored and confirmed 21 regressions across 130+ merged PRs, 16 functional, one performance, four build/test, none breaking a security protection. Maintainers can supply their own security assumptions so the agents work within project rules.",
+  "highlights": [
+    "Two plugins: patching-bugs (reproduce, fix, test) and regression-hunt (breakage checks)",
+    "Born from Patch the Planet, the Trail of Bits x OpenAI patching initiative",
+    "regression-hunt: 25% fewer false positives than a baseline Codex reviewer",
+    "Self-audit: 21 regressions confirmed across 130+ merged PRs, none breaking security protections",
+    "Agents confirm each regression with before/after proof-of-concept runs",
+    "Maintainers can inject their own security assumptions and requirements"
+  ]
+}
