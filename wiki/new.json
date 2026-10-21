@@ -1,11 +1,47 @@
 {
- "generated_at": "2026-10-21T08:20:41+00:00",
+ "generated_at": "2026-10-21T14:21:25+00:00",
  "stories": [
   {
-   "id": "75374caa5f35",
-   "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+   "id": "4e94fd2b5898",
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
    "source": "Hacker News",
-   "url": "https://jevcards.com"
+   "url": "https://www.wiz.io/blog/php2shell-php-rce"
+  },
+  {
+   "id": "92b16e078b73",
+   "title": "LayerFS: The filesystem for AI coding agents",
+   "source": "Hacker News",
+   "url": "https://layerfs.ai/"
+  },
+  {
+   "id": "97c8d742313e",
+   "title": "The Lucrative World of Literary Scams",
+   "source": "Hacker News",
+   "url": "https://www.thedial.world/articles/news/ai-book-scams"
+  },
+  {
+   "id": "c9bf9f0bb65b",
+   "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+  },
+  {
+   "id": "f2f71bd9e30f",
+   "title": "OpenAI: Using AI agents to uncover new leads in biological data",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
+  },
+  {
+   "id": "fd9da335c1ff",
+   "title": "Voxtral 3",
+   "source": "Hacker News",
+   "url": "https://mistral.ai/news/voxtral-3/"
+  },
+  {
+   "id": "231f0a05b931",
+   "title": "Google and Meta Bring Native PyTorch Support to TPUs",
+   "source": "TLDR AI",
+   "url": "https://pytorch.org/blog/introducing-torchtpu/"
   },
   {
    "id": "40b3934a2b8b",
@@ -14,46 +50,130 @@
    "url": "https://www.anthropic.com/research/attack-surface-reduction"
   },
   {
-   "id": "a57699b7ee29",
-   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-   "source": "Hacker News",
-   "url": "https://github.com/xamrayev/nexus-cli"
+   "id": "0c4dca9cbafd",
+   "title": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell",
+   "source": "Techmeme",
+   "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/"
   },
   {
-   "id": "e285319672a3",
-   "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+   "id": "6faa50672106",
+   "title": "Beyond g-mean²: Complementary Metrics for Monitorability",
+   "source": "TLDR AI",
+   "url": "https://alignment.openai.com/beyond-gmean-squared/"
+  },
+  {
+   "id": "f1be53d7da3c",
+   "title": "Coxon Day",
+   "source": "TLDR AI",
+   "url": "https://www.thenewcritic.com/p/coxon-day"
+  },
+  {
+   "id": "9a3fbfe3a978",
+   "title": "GTC Berlin: Jensen Huang pushes Europe on AI adoption, saying \"for Europe to benefit from AI ... you need all the end markets, the end industries to adopt AI\"",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai"
+  },
+  {
+   "id": "0783c0ce0503",
+   "title": "Claude Mods: Flipping the Harness Inside Out",
    "source": "Latent.Space",
-   "url": "https://www.latent.space/p/tenex"
+   "url": "https://www.latent.space/p/claude-mods"
   },
   {
-   "id": "850a7a26b3d6",
-   "title": "Google, Temasek, and Bain: online spending in SE Asia to rise ~17% YoY to $368B in 2026 despite economic headwinds, as businesses harness AI to spur spending",
+   "id": "32438243126c",
+   "title": "PHP discloses a critical memory-management vulnerability, dubbed \"PHP2Shell\", that affects up to 70% of websites, discovered using GPT-5.6 Sol in August",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/"
+   "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?st=tBLRBh&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "543b741161c7",
-   "title": "OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks",
+   "id": "5b1b2e86b0eb",
+   "title": "Spark-X2.6-4B: Stronger On-Device AI Agents",
+   "source": "TLDR AI",
+   "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+  },
+  {
+   "id": "d64afb770767",
+   "title": "Cloudflare says it deployed default WAF mitigations for all free and paid tier customers to combat two PHP flaws, roughly nine hours ahead of public disclosure",
    "source": "Techmeme",
-   "url": "https://openai.com/"
+   "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
   },
   {
-   "id": "ae5921636762",
-   "title": "OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue",
+   "id": "376f3f86f942",
+   "title": "Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation, up from $5.55B after raising a $550M Series D in March",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc"
+   "url": "https://www.cityam.com/legora-raises-550-in-funding-to-lead-global-expansion/"
   },
   {
-   "id": "21ef40fb59f8",
-   "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
+   "id": "0c8827d3d655",
+   "title": "Making every harness durable",
+   "source": "TLDR AI",
+   "url": "https://vercel.com/blog/making-every-harness-durable"
   },
   {
-   "id": "4e9d63b58abd",
-   "title": "A look at Chinese philosophical views on AI; one says aligning AI to human values may be a \"suicidal mistake\" and another fears the \"machinization of humans\"",
+   "id": "767fc9d22314",
+   "title": "Sundar Pichai on Google's AI Strategy and Compute Tradeoffs",
+   "source": "TLDR AI",
+   "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative"
+  },
+  {
+   "id": "8b9bc3629684",
+   "title": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August",
    "source": "Techmeme",
-   "url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas"
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "55a7e6f715e1",
+   "title": "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html"
+  },
+  {
+   "id": "62f20d9e8b9a",
+   "title": "MemCurrent: Designing Persistent Memory for Production Agents",
+   "source": "TLDR AI",
+   "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents"
+  },
+  {
+   "id": "1cc2340f1a32",
+   "title": "Nvidia launches its OpenShell Reference Architecture, a framework to secure, monitor, and govern AI agents, and partners with Canonical, AWS, BBVA, and others",
+   "source": "Techmeme",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319"
+  },
+  {
+   "id": "cbf240a6620d",
+   "title": "ChatGPT now lets you lock your chats",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+  },
+  {
+   "id": "75136f1d29ba",
+   "title": "Building Laminar: Ramp's Managed Agents Platform",
+   "source": "TLDR AI",
+   "url": "https://builders.ramp.com/post/building-laminar"
+  },
+  {
+   "id": "a20c8a3b10fd",
+   "title": "Superhuman Hardware Design Is The Easy Part",
+   "source": "TLDR AI",
+   "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the"
+  },
+  {
+   "id": "85237c997d20",
+   "title": "OpenAI Acquires Orchestra Bio to Accelerate Drug Development",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/"
+  },
+  {
+   "id": "cc35254bf68e",
+   "title": "Sensor Tower: Muse had 10.9M downloads since its September debut, 10.2M of those in the US, becoming the 12th app to hit 10M US downloads in its first 40 days",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+  },
+  {
+   "id": "d913da699d2b",
+   "title": "DeepSeek V4.1 Flash: Large-Scale Inference Deployment",
+   "source": "TLDR AI",
+   "url": "https://zhuanlan.zhihu.com/p/2095560295930508953"
   }
  ]
 }

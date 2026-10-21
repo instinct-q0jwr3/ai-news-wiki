@@ -1,0 +1,14 @@
+{
+  "id": "92b16e078b73",
+  "authored_at": "2026-10-21T14:24:49Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "LayerFS pitches itself as the filesystem for AI coding agents, built on ephemeral computing: compute exists only while a command runs, each file tool call is one atomic store operation, and each Bash call mounts an ephemeral workspace that is committed afterwards, reflecting that agents spend roughly 80% of their time thinking and 10% in Bash. The fetched page returned only these fragments, so this summary is limited to them.",
+  "highlights": [
+    "Filesystem designed for AI coding agents",
+    "Ephemeral model: compute exists only while a command runs",
+    "Atomic file ops; each Bash call mounts and commits an ephemeral workspace",
+    "Observation: agents spend ~80% thinking, ~10% in Bash"
+  ],
+  "basis": "Basis: the fetched page returned only ~240 characters of fragments."
+}

@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-10-20 · updated: 2026-10-21 · confidence: high_
 
-`hacker-news`
+`hacker-news` `agentic-systems`
 
 ## Summary
 
@@ -23,4 +23,4 @@ Mistral launches Voxtral 3, a family of state-of-the-art speech-to-text and text
 
 ## Related pages
 
-_No related entity or concept page yet._
+[Agentic systems](../concepts/agentic-systems.md)

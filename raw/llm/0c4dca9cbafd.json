@@ -1,0 +1,15 @@
+{
+  "id": "0c4dca9cbafd",
+  "authored_at": "2026-10-21T14:24:49Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "ZDNet reports ServiceNow and Nvidia have made Arc generally available: a personal, long-running enterprise AI agent for everyday work across email and Microsoft Teams, first teased in May. Arc is governed by ServiceNow's Super Intelligence Control Tower, which monitors agents, vets access, checks for prompt injection, and measures performance, and enforced by Nvidia's open-source OpenShell runtime, addressing the security concerns that followed a summer of agent-led breaches. It runs locally on Mac (Windows coming), is designed for Nvidia's RTX Spark devices, builds memory and skills over time, and hands complex tasks to frontier models only when necessary.",
+  "highlights": [
+    "Arc: personal long-running enterprise agent, GA 21 October",
+    "Works across email and Microsoft Teams; Mac first, Windows later",
+    "Governed by ServiceNow Control Tower, enforced by Nvidia OpenShell",
+    "Control Tower vets access, watches for prompt injection, measures performance",
+    "Designed for RTX Spark devices; builds memory and skills over time",
+    "Escalates to frontier models only when needed"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "75136f1d29ba",
+  "authored_at": "2026-10-21T14:24:49Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Ramp's engineering blog describes building Laminar, its managed agents platform. The page returned only its title to the fetcher, so this summary is limited to the headline.",
+  "highlights": [
+    "Ramp engineering post: Building Laminar, a managed agents platform",
+    "Full text unavailable to the fetcher"
+  ],
+  "basis": "Basis: TLDR AI listing and page title only; the page returned ~70 characters."
+}

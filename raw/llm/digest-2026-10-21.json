@@ -111,6 +111,95 @@
         "4e9d63b58abd"
       ],
       "concepts": []
+    },
+    {
+      "title": "AI finds the bug of the decade in PHP",
+      "intro": "A frontier model cracks a decade-old critical flaw in the language that runs 70% of the web, and Cloudflare shields customers hours before disclosure.",
+      "stories": [
+        "4e94fd2b5898",
+        "d64afb770767",
+        "32438243126c",
+        "c9bf9f0bb65b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Rails for the agents",
+      "intro": "Nvidia's OpenShell blueprint and ServiceNow's Arc put governance around long-running agents, as monitorability metrics get sharper.",
+      "stories": [
+        "1cc2340f1a32",
+        "0c4dca9cbafd",
+        "6faa50672106"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "OpenAI's enterprise push",
+      "intro": "Models land on Google Cloud, ads reach 83 countries, and chats get a lock.",
+      "stories": [
+        "55a7e6f715e1",
+        "8b9bc3629684",
+        "cbf240a6620d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The raises continue",
+      "intro": "Legora nearly doubles its valuation in seven months; Huang lectures Europe.",
+      "stories": [
+        "376f3f86f942",
+        "9a3fbfe3a978"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agent plumbing matures",
+      "intro": "Persistent memory that pays for itself, durable harnesses, agent filesystems, and mods that flip the harness toward the human.",
+      "stories": [
+        "62f20d9e8b9a",
+        "0c8827d3d655",
+        "92b16e078b73",
+        "75136f1d29ba",
+        "0783c0ce0503"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Frontier talk",
+      "intro": "Pichai calls frontier research ground zero, an essayist marks the day safety went mainstream, and deployment notes pile up.",
+      "stories": [
+        "767fc9d22314",
+        "f1be53d7da3c",
+        "5b1b2e86b0eb",
+        "d913da699d2b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "PyTorch becomes portable",
+      "intro": "Google and Meta detail TorchTPU, a principled native backend with eager execution first.",
+      "stories": [
+        "231f0a05b931"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Wetware and hardware",
+      "intro": "Agents dig through biological data, OpenAI's Orchestra buy gets a founder's-eye post, and the case that superhuman hardware design is the easy part.",
+      "stories": [
+        "f2f71bd9e30f",
+        "85237c997d20",
+        "a20c8a3b10fd"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The scam economy follows authors",
+      "intro": "A writer traces the fake book clubs charging authors a 'contribution fee'.",
+      "stories": [
+        "97c8d742313e"
+      ],
+      "concepts": []
     }
   ]
 }

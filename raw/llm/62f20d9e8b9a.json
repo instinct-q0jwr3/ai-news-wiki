@@ -1,0 +1,15 @@
+{
+  "id": "62f20d9e8b9a",
+  "authored_at": "2026-10-21T14:24:49Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Databricks introduces MemCurrent, a persistent memory architecture for production agents that now powers Agent Bricks Memory and Genie. The design problem: memory can raise quality and efficiency at once by carrying user preferences, prior corrections, and successful workflows across tasks, but dumping every past interaction is costly and imports stale or conflicting context, so the core challenge is deciding what to retain, how to maintain it, and how to measure usefulness. Agents read and write memory as they work, while an offline 'dreaming' pipeline consolidates memory to keep it consistent and fresh. On an internal benchmark of realistic enterprise tasks, MemCurrent triples the no-memory pass rate while using 31% fewer tokens and running 26% faster, landing on the Pareto frontier ahead of Mem0, PropMem, and OpenClaw memory.",
+  "highlights": [
+    "MemCurrent: persistent memory for production agents, powers Agent Bricks Memory and Genie",
+    "Agents read/write memory live; an offline 'dreaming' pipeline consolidates it",
+    "Triples pass rate vs no memory on an internal enterprise benchmark",
+    "Uses 31% fewer tokens and runs 26% faster at the same time",
+    "Outperforms Mem0, PropMem, OpenClaw memory on the pass-rate/token Pareto frontier",
+    "Core design question: what to retain, how to maintain it, how to measure usefulness"
+  ]
+}

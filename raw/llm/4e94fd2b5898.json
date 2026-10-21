@@ -1,0 +1,15 @@
+{
+  "id": "4e94fd2b5898",
+  "authored_at": "2026-10-21T14:24:49Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Wiz Research, working with Gemini 4 Argon, uncovered multiple critical vulnerabilities in core PHP, the language powering about 70% of websites, including WordPress, Joomla, Drupal, and MediaWiki. The flaws, memory disclosure and unauthenticated remote code execution in PHP itself, independent of the application layer, affect every PHP version released in the last decade, back to 5.4, and PHP released patches on 21 October 2026. Wiz calls them among the most severe vulnerabilities ever found in PHP and arguably in software history: the underlying architectural flaws existed for decades, but demonstrating exploitability required a chain of steps at the edge of what human researchers could achieve, and frontier AI substantially lowered that barrier. Google's Raluca Ada Popa frames it as frontier AI bridging the gap for defenders.",
+  "highlights": [
+    "Critical unauthenticated RCE and memory disclosure in core PHP",
+    "Every PHP version since 5.4 affected; ~70% of websites run PHP",
+    "Patched by PHP on 21 October 2026; immediate patching advised",
+    "Flaws present for decades; exploitation chain was beyond practical human reach",
+    "Found by Wiz Research using Gemini 4 Argon",
+    "Google DeepMind: frontier AI as a game-changer for cyber defense"
+  ]
+}

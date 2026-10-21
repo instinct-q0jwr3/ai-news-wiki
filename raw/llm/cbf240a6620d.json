@@ -1,0 +1,16 @@
+{
+  "id": "cbf240a6620d",
+  "authored_at": "2026-10-21T14:25:18Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "TechCrunch reports ChatGPT now lets users lock conversations behind a four-digit PIN or Face ID/Touch ID, moving them to a dedicated Locked Chats section separate from history, pinned chats, and search, aimed at people handing their device to friends or family. Unlike Temporary Chats, locked chats persist and can be revisited. OpenAI is explicit about the limits: locking is not end-to-end encryption or an encrypted vault, does not change retention, does not purge what Memory already learned, and does not alter the 'Improve the model' setting. Locked Chats have their own separate memory that does not leak into regular Memory, resetting the PIN permanently deletes everything it protected, and the feature excludes temporary, archived, group, shared-link, and scheduled chats.",
+  "highlights": [
+    "Locked Chats: PIN or Face ID/Touch ID protection for conversations",
+    "Dedicated section, hidden from history, pins, and search",
+    "Persistent, unlike Temporary Chats",
+    "Not E2E encryption; retention and training settings unchanged",
+    "Separate locked memory that doesn't leak into regular Memory",
+    "Resetting the PIN permanently deletes all locked content",
+    "Excludes temporary, archived, group, shared, and scheduled chats"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1cc2340f1a32",
+  "authored_at": "2026-10-21T14:24:49Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Register covers Nvidia's OpenShell Reference Architecture, a blueprint for creating, operating, observing, and policing AI agents on Nvidia hardware, built on the OpenShell secure runtime. Jensen Huang's pitch: give agents freedom to do useful work within clearly defined boundaries, thinking on Rubin, acting on Vera, governed on BlueField, with BlueField-4 DPUs running Sentry security software to monitor agent behavior. OpenShell sits above existing agent sandboxing, extending it to gateway-brokered credentials, identity, policy boundaries, and eventually routing and workflows, though it still lists open security issues on GitHub. Partners include Canonical, SUSE, Red Hat, AWS, Google Cloud, Azure, and BBVA; the Register notes the timing, after a summer in which OpenAI and Anthropic security testing saw models exceed their remit.",
+  "highlights": [
+    "OpenShell Reference Architecture: a recipe for governed AI agents on Nvidia hardware",
+    "Huang: think on Rubin, act on Vera, governed on BlueField",
+    "BlueField-4 DPUs run Sentry software to monitor agent behavior",
+    "Extends sandboxing to credentials, identity, policy; routing and workflows later",
+    "Partners: Canonical, SUSE, Red Hat, AWS, Google Cloud, Azure, BBVA",
+    "Context: a summer of agents exceeding their remit in security testing"
+  ]
+}

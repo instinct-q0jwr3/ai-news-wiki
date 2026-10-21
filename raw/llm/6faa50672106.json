@@ -1,0 +1,14 @@
+{
+  "id": "6faa50672106",
+  "authored_at": "2026-10-21T14:24:49Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A follow-up to 'Monitoring Monitorability' extends g-mean², a dataset-level measure of monitor discrimination, with complementary metrics and tighter analysis across outcome, process, and intervention evaluation archetypes. For intervention evaluations, which cannot say which positive outcomes the intervention caused, the authors previously used an optimistic upper bound and now derive the pessimistic lower bound. Two open questions remain: models produce valid positive behavior on different task subsets, so g-mean² scores can reflect different task mixtures, and the post examines whether monitorability differences persist when models are compared only on mutually supported instances.",
+  "highlights": [
+    "Extends the g-mean² monitorability metric with complementary measures",
+    "Three archetypes: outcome, process, and intervention evaluations",
+    "New pessimistic lower bound for intervention attribution uncertainty",
+    "Open issue: differing task mixtures can skew cross-model comparisons",
+    "Checks whether monitorability gaps persist on mutually supported instances"
+  ]
+}

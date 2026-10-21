@@ -1,0 +1,15 @@
+{
+  "id": "231f0a05b931",
+  "authored_at": "2026-10-21T14:25:18Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Google and Meta's PyTorch team detail TorchTPU, an open-source native PyTorch backend for Google TPUs, started at Google in mid-2025. Unlike PyTorch/XLA (2020, Lazy Tensors) and TorchAX, which shoehorned PyTorch into JAX's model and suffered intrusive code changes, slow compiles, no eager mode, and lagging distributed primitives, TorchTPU was built as a principled backend: eager execution is a top priority, existing workloads run out of the box, and performance comes from eager optimizations, torch.compile integration, and native hardware acceleration on the XLA stack. The pitch is seamless TPU migration with industry-competitive inference and training performance, giving PyTorch's huge user base a second serious hardware target.",
+  "highlights": [
+    "TorchTPU: native, principled PyTorch backend for Google TPUs",
+    "Open-source collaboration between Google and Meta's PyTorch team, started mid-2025",
+    "Eager execution is a top priority; existing workloads run unmodified",
+    "PyTorch/XLA and TorchAX criticized for intrusive changes and slow compiles",
+    "Performance via eager optimizations, torch.compile, and XLA hardware acceleration",
+    "Pairs with Amazon's TorchNeuron as the second cloud PyTorch backend this week"
+  ]
+}
