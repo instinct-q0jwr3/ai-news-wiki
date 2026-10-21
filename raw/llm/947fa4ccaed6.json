@@ -1,0 +1,14 @@
+{
+  "id": "947fa4ccaed6",
+  "authored_at": "2026-10-21T02:27:50Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Wall Street Journal reports SpaceX's Q3 capital expenditure reached $19.6 billion, up from $6.9 billion a year earlier, with connectivity revenue (including Starlink) up 69% year over year to $5.2 billion and AI revenue surging around 830%. The article could not be fetched, so this summary is limited to the headline figures.",
+  "highlights": [
+    "Q3 capex: $19.6B, up from $6.9B a year earlier",
+    "Connectivity revenue (incl. Starlink) up 69% YoY to $5.2B",
+    "AI revenue reported up around 830%",
+    "Source: Becky Peterson, WSJ, via Techmeme"
+  ],
+  "basis": "Basis: Techmeme headline only; the WSJ article fetch returned an error."
+}

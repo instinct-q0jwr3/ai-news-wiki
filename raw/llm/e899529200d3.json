@@ -1,0 +1,12 @@
+{
+  "id": "e899529200d3",
+  "authored_at": "2026-10-21T02:27:50Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Gradium has open-sourced Phonon, its on-device text-to-speech model. The project page returned almost no text to the fetcher, so this summary is limited to the headline.",
+  "highlights": [
+    "Gradium open-sources its on-device TTS (Phonon)",
+    "Details unavailable: page yielded only ~100 characters"
+  ],
+  "basis": "Basis: Hacker News title and gradium.ai/phonon only; the page returned almost no text."
+}

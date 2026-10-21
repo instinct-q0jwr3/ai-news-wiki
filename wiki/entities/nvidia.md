@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-20 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-21 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-21** - The Information reports Nvidia is in talks to invest hundreds of millions of dollars in Firmus, the Australian GPU cloud provider that pulled its IPO earlier this month citing market volatility. The article is paywalled and could not be fetched, so this… ([Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility](../summaries/3a9f0a3af379.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-20** - Politico reports that OpenAI has retreated from advocating strict US chip export controls on China ahead of the lame-duck session, aligning more closely with President Trump's position. The article could not be fetched, so this summary is limited to the… ([OpenAI has retreated from advocating for strict US chip export controls to China ahead of the lame-duck session, aligning closer with President Trump](../summaries/55c7363860fe.md) · [OpenAI](../entities/openai.md) · [NVIDIA](../entities/nvidia.md)) ⚠
 - **2026-10-19** - Basis: Techmeme's feed summary of a Reuters article; the source fetch failed. AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips. Reuters frames… ([AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips](../summaries/44319f0b597b.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-10-19** - GeekWire reports Amazon's public beta of TorchNeuron, software that runs PyTorch code on Amazon's Trainium chips with no modification - previously, developers had to rework code to call Annapurna-specific interfaces, said Colin Brace, Amazon's VP of… ([Amazon launches TorchNeuron, an open-source framework that lets developers run PyTorch code on Amazon's Trainium chips with no rewriting needed, in public beta](../summaries/c3102fcc099d.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md))

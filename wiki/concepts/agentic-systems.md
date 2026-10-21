@@ -1,6 +1,6 @@
 # Concept: Agentic systems
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-20 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-21 · confidence: medium_
 
 `concept` `agentic-systems`
 

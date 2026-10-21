@@ -1,0 +1,15 @@
+{
+  "id": "b3485a3df280",
+  "authored_at": "2026-10-21T02:27:50Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "MIT Technology Review interviews Goodfire researcher Nick Cammarata, whose 26,000-word blog post claiming LLMs may be far easier to understand, monitor, and control than believed has convulsed the field, landing just as a summer of agent containment failures left the industry desperate for interpretability. Some researchers called it the most important AI paper of the year and a five-year leap in understanding; Stanford's Chris Potts counters that it is little more than a hunch and changes nothing about the difficulty. Cammarata, who helped pioneer neuron-probing interpretability tools at OpenAI, says he was surprised by how much people updated, and frames the post as a hopeful story from someone who simply likes looking at neural networks.",
+  "highlights": [
+    "Cammarata's 26,000-word post: LLMs may be far easier to understand than thought",
+    "Timing: arrived after a summer of agent containment failures at top labs",
+    "Fans call it a five-year leap and the year's most important paper",
+    "Stanford's Chris Potts: little more than a hunch; nothing got easier",
+    "Cammarata pioneered neuron-probing interpretability work at OpenAI",
+    "He says the reaction overshot his intent: 'a hopeful story'"
+  ]
+}

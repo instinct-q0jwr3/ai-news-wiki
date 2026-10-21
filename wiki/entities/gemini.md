@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-10-20 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-21 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-10-21** - 9to5Google reports Personal Intelligence for Gemini is rolling out to Android Auto now and to cars with Google built-in over the coming months. It taps Gmail, Calendar, Photos, Maps, Search, and YouTube so drivers can ask context-heavy questions without… ([Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature](../summaries/9644e30752d5.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-20** - Respan (YC W24) launches an open-source AI gateway in Rust where everything is a plugin: providers (OpenAI, Anthropic, Gemini), protocols (chat, realtime voice, MCP), modalities, and gateway features like fallbacks, PII redaction, and smart routing. The… ([Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](../summaries/e9a8895b216b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Mistral](../entities/mistral.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-20** - Google makes Gemini 4 Argon generally available: via the API in AI Studio and the Gemini platform for developers and enterprises, in Antigravity for AI Ultra subscribers, and in the Gemini app and AI Mode in Search for Ultra and Pro subscribers. Google… ([Gemini 4 Argon is now available for everyone](../summaries/74598585d32b.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-20** - Cory Doctorow's Pluralistic entry eulogizes 'history's most successful publisher', which, by his definition of publishing as the act of making something public, identifying a work and an audience and connecting them, is Google. He draws on a lifetime in… ([Pluralistic: The death of history's most successful publisher (20 Oct 2026)](../summaries/4f611bef8865.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

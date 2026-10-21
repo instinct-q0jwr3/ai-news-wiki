@@ -1,185 +1,89 @@
 {
- "generated_at": "2026-10-20T20:18:55+00:00",
+ "generated_at": "2026-10-21T02:19:45+00:00",
  "stories": [
   {
-   "id": "1ca338aa1d9c",
-   "title": "DeepSeek just open-sourced its inference engine",
+   "id": "8228070cbdbc",
+   "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
    "source": "Hacker News",
-   "url": "https://github.com/deepseek-ai/DeepInfer"
+   "url": "https://twitter.com/Polymarket/status/2112634886070919426"
   },
   {
-   "id": "fd9da335c1ff",
-   "title": "Voxtral 3",
+   "id": "e899529200d3",
+   "title": "Gradium open-sourced its on-device TTS",
    "source": "Hacker News",
-   "url": "https://mistral.ai/news/voxtral-3/"
+   "url": "https://gradium.ai/phonon"
   },
   {
-   "id": "06e6b544111e",
-   "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+   "id": "ad05336e0cfe",
+   "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
    "source": "Hacker News",
-   "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
+   "url": "https://dovepass.com"
   },
   {
-   "id": "49504eff2dec",
-   "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+   "id": "980b520c8022",
+   "title": "SpaceX revenue soars 161% as AI business grows",
    "source": "Hacker News",
-   "url": "https://github.com/KatrielMoses/voidaccess"
+   "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509"
   },
   {
-   "id": "5d5a56eef5ef",
-   "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+   "id": "77aeddf63207",
+   "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
    "source": "Hacker News",
-   "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md"
+   "url": "https://gamowlabs.com/lab-robot-bench-v0-1"
   },
   {
-   "id": "6e9c483af377",
-   "title": "Improving AI Coding in Older Programming Languages",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/low-resource-programming-languages/"
-  },
-  {
-   "id": "9fe34378880b",
-   "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+   "id": "882e0331cfcb",
+   "title": "Secret trigger words could make AI-powered robots dangerous",
    "source": "Hacker News",
-   "url": "https://github.com/AbdullahAlhariri/penmentor"
+   "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense"
   },
   {
-   "id": "e9a8895b216b",
-   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50167583"
-  },
-  {
-   "id": "6065646d55ca",
-   "title": "Claude designed protein binders against scorpion neurotoxins",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
-  },
-  {
-   "id": "e7b37e5aa8ad",
-   "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
-   "source": "Hacker News",
-   "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/"
-  },
-  {
-   "id": "10b5e1ee56cd",
-   "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
-   "source": "Hacker News",
-   "url": "https://www.thestack.technology/these-f-clowns/"
-  },
-  {
-   "id": "cd04433e94c0",
-   "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
-   "source": "Hacker News",
-   "url": "https://rouler.io/"
-  },
-  {
-   "id": "2a4be691981f",
-   "title": "Anthropic logged net loss of over $80B in first half of 2026",
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/"
-  },
-  {
-   "id": "a4725935dd5b",
-   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-   "source": "Hacker News",
-   "url": "https://research.poh.org/bot-benchmarking-2026/"
-  },
-  {
-   "id": "ec3b4ab32d52",
-   "title": "On AI writing",
-   "source": "Hacker News",
-   "url": "https://www.bolkunov.com/p/on-ai-writing"
-  },
-  {
-   "id": "6d893c2ed3cc",
-   "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/"
-  },
-  {
-   "id": "74598585d32b",
-   "title": "Gemini 4 Argon is now available for everyone",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
-  },
-  {
-   "id": "094505ddf1ab",
-   "title": "A practical guide to AI image generation, from diffusion to agents",
-   "source": "Hacker News",
-   "url": "https://danielball.com/notes/ai_image_generation.html"
-  },
-  {
-   "id": "2bf40dcf6e1b",
-   "title": "Anthropic redesigned source-control for AI agents",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/redesigning-source-control"
-  },
-  {
-   "id": "2f51d10814bc",
-   "title": "AI Had Better Work Out",
-   "source": "Ed Zitron",
-   "url": "https://www.wheresyoured.at/ai-had-better-work-out/"
-  },
-  {
-   "id": "ba6f522fe53e",
-   "title": "OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind",
+   "id": "8132d4353f4e",
+   "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-backed-pigment-nabs-250-million-to-challenge-microsoft"
   },
   {
-   "id": "5ea92a9da885",
-   "title": "Google launches TorchTPU, an open-source version of PyTorch to let AI apps run on TPUs and Google Cloud via simple configuration changes without rewriting code",
+   "id": "6a9beabe64dc",
+   "title": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\"",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+   "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImVpQ050VURacjAiLCJwIjoiL3RlY2gvMTAxNDI1Mi9wZXRlci10aGllbC1hbnRpY2hyaXN0LWxlY3R1cmVzLWFuYWx5c2lzIiwiZXhwIjoxNzkyOTQzNDQ3LCJpYXQiOjE3OTI1MTE0NDd9.GALmzbZcvGMsArj-gXyABv6mY7_mCgg2pmjMyAbJnCY&utm_medium=gift-link"
   },
   {
-   "id": "4f611bef8865",
-   "title": "Pluralistic: The death of history's most successful publisher (20 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/20/main-character-syndrome/"
-  },
-  {
-   "id": "726236ba1bcd",
-   "title": "A US judge dismisses a civil sexual abuse lawsuit brought against Sam Altman by his sister, after she refused to appear for an independent medical examination",
+   "id": "947fa4ccaed6",
+   "title": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-2026-10-20/"
+   "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?st=eQFqUL&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "cc35254bf68e",
-   "title": "Sensor Tower: Muse had 10.9M downloads since its September debut, 10.2M of those in the US, becoming the 12th app to hit 10M US downloads in its first 40 days",
+   "id": "3a9f0a3af379",
+   "title": "Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+   "url": "https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo"
   },
   {
-   "id": "e2d9a5912c2d",
-   "title": "ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June",
+   "id": "df902f4dc340",
+   "title": "Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/asi-hits-3-billion-valuation-in-325-million-round-led-by-spark"
+   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
   },
   {
-   "id": "3ddb55abcdf1",
-   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
-  },
-  {
-   "id": "bc9a7d70c9f3",
-   "title": "Sam Altman told OpenAI staff of three AI endgames: an IAEA-style regulator, a CERN-like lab merger, or one lab using RSI to \"melt everyone else's GPUs\"",
+   "id": "9644e30752d5",
+   "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus"
+   "url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/"
   },
   {
-   "id": "f4227090b360",
-   "title": "Sign language to text",
-   "source": "Lobsters",
-   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
-  },
-  {
-   "id": "6ca723abab1a",
-   "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges",
+   "id": "b3485a3df280",
+   "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r"
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+  },
+  {
+   "id": "0ba98e03faf0",
+   "title": "Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-21 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-21** - Bloomberg reports Pigment, a French startup whose AI-powered software helps businesses forecast finances, spin up slide decks, and more, has raised $250 million at a $2.3 billion valuation. The article could not be fetched, so this summary is limited to… ([Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation](../summaries/8132d4353f4e.md) · [Microsoft](../entities/microsoft.md)) 🔒
 - **2026-10-19** - KiviDB is a multi-threaded, Rust-written alternative to Redis and Valkey that speaks the Redis protocol (RESP2 and RESP3), so existing clients, redis-cli and libraries work unchanged - with full-text and vector search built in. It runs every core on a… ([Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](../summaries/cc704b8e62b3.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-19** - GeekWire reports Microsoft's new security tools that treat AI agents as potential insider threats: the system continuously assesses each agent's risk and restricts its access when something changes. The features ship in Microsoft 365 E7, the new top-tier… ([Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments](../summaries/dfb5670ee5af.md) · [Microsoft](../entities/microsoft.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-19** - Cory Doctorow argues that the internet's original sin is not advertising but surveillance. Working from Langdon Winner's 'Do Artifacts Have Politics?', he distinguishes politics designed into artifacts (Robert Moses's bus-blocking bridges), politics that… ([Pluralistic: The technopolitics of ad-tech (19 Oct 2026)](../summaries/aea04555fac6.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

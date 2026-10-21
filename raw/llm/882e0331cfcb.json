@@ -1,0 +1,15 @@
+{
+  "id": "882e0331cfcb",
+  "authored_at": "2026-10-21T02:27:50Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Binghamton University researchers demonstrate that hidden trigger words embedded in an LLM can hijack the robot it plans for: their MuTRAP backdoor activates when an innocuous word appears in the robot's instructions, sending it off-script into dangerous actions. Tested on a Segway-based mobile robot mimicking a cutting task, the work, from Adnan Siraj Rakin, Shiqi Zhang, and PhD students, was presented as two papers at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems, alongside a defense. The team stresses the attacks are published to build defenses, arguing that LLM-generated task plans cannot be blindly trusted when they reach the physical world, from factory arms to Mars rovers.",
+  "highlights": [
+    "MuTRAP: a backdoor attack on LLM-generated robot task plans",
+    "An innocuous trigger word in instructions activates the Trojan behavior",
+    "Demonstrated on a Segway-based mobile robot performing a mock cutting task",
+    "Two papers at IROS 2026, including a defense",
+    "Authors: Rakin, Zhang, and students at Binghamton's Watson College",
+    "Message: don't blindly trust LLMs when plans reach the physical world"
+  ]
+}
