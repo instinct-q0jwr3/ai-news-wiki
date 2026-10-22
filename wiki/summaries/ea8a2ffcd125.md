@@ -1,6 +1,6 @@
 # AI is driving a boom in modestly successful software projects
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-21 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-22 · confidence: high_
 
 `seangoedecke`
 

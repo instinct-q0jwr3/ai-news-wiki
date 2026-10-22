@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-10-21 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-22 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-10-22** - Meta CEO Mark Zuckerberg said on the company's Q3 2026 earnings call that Muse, Meta's AI agent app, has attracted more than 10 million users since launch, and that over a quarter of them are making purchases through the app with an average purchase size… ([Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+](../summaries/280071895c52.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-10-20** - TechCrunch, citing Sensor Tower, reports Meta's AI companion Muse reached 10.9 million downloads in its first 40 days, 10.2 million of them in the US, making it only the 12th app ever to hit 10 million US downloads that fast, a club otherwise limited to… ([Sensor Tower: Muse had 10.9M downloads since its September debut, 10.2M of those in the US, becoming the 12th app to hit 10M US downloads in its first 40 days](../summaries/cc35254bf68e.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-17** - Basis: thin page. Daring Fireball post titled Strange Times Make for Strange Bedfellows; content not read. ([Strange Times Make for Strange Bedfellows](../summaries/38179bf21097.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠
 - **2026-10-16** - StarSkirmish Bench measures how strong a StarCraft bot each LLM can write in one hour of wall-clock time. Version 0.2 adds flagship models from OpenAI, Anthropic, Google and Meta, each run in its own lab's CLI harness, scored by win rate against… ([Show HN: Gemini 4 Argon plays StarCraft](../summaries/cdc78e8cb8be.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md))

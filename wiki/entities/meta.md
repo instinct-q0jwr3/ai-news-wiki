@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-21 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-22 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,8 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-22** - Meta CEO Mark Zuckerberg said on the company's Q3 2026 earnings call that Muse, Meta's AI agent app, has attracted more than 10 million users since launch, and that over a quarter of them are making purchases through the app with an average purchase size… ([Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+](../summaries/280071895c52.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
+- **2026-10-22** - Meta raised its 2026 capital-expenditure outlook to $135-145 billion, up from $130-145 billion, as it deepens its AI infrastructure build-out, and forecast Q4 revenue of $73-76 billion against a $73.6 billion analyst consensus. Shares rose more than 3… ([Meta expects its 2026 capex to be $135B-$145B, vs. $130B-$145B previously, and forecasts Q4 revenue of $73B-$76B, vs. $73.6B est.; META jumps 3%+ after hours](../summaries/32213f1894b3.md) · [Meta](../entities/meta.md)) 🔒
 - **2026-10-21** - The Wall Street Journal reports Meta will create a new class of nonvoting stock to raise the capital it needs for AI model development, effective January 2027. The article could not be fetched, so this summary is limited to the headline. ([Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027](../summaries/5a24b00f0a08.md) · [Meta](../entities/meta.md)) 🔒
 - **2026-10-21** - Google and Meta's PyTorch team detail TorchTPU, an open-source native PyTorch backend for Google TPUs, started at Google in mid-2025. Unlike PyTorch/XLA (2020, Lazy Tensors) and TorchAX, which shoehorned PyTorch into JAX's model and suffered intrusive code… ([Google and Meta Bring Native PyTorch Support to TPUs](../summaries/231f0a05b931.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md))
 - **2026-10-21** - Nexus-CLI is a pure-Go command-line tool and local API proxy that connects any app or coding agent to DeepSeek V3 and R1 through a free chat.deepseek.com web account, no paid API key required, rewritten from scratch with zero runtime dependencies after… ([Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support](../summaries/a57699b7ee29.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

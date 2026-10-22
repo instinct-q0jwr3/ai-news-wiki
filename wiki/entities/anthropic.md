@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-21 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-22 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-22** - Omnara is an open-source, self-hostable platform for running durable AI agents, positioned as an alternative to Anthropic's Claude Managed Agents and OpenAI's Agents API. Instead of tying the agent loop to a vendor cloud, Omnara exposes an API where a call… ([Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](../summaries/9e63ff54b15a.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
+- **2026-10-22** - Anthropic has opened a research preview of Claude Duet, a standalone app where Claude acts as a proactive agent rather than a reactive chatbot. Available on iOS, Android, and claude.ai, Duet surfaces what needs attention, completes requested tasks, keeps… ([Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users](../summaries/881479ef4f17.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-21** - Anthropic previews Claude Duet, a proactive agent built for judgment: it understands what needs your attention, takes on tasks of all sizes, keeps working while you're away, and waits for your ok when it matters. Powered by Opus 5.5 and available in Pro… ([Claude Duet](../summaries/6a002767cd29.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-21** - Anthropic publishes its Public Benefit Charter page, restating its status as a Public Benefit Corporation required to balance shareholder financial interests with benefit to the broader public, and framing safe, trustworthy, accountable AI as a necessary… ([Anthropic's Public Benefit Charter](../summaries/5506fbd3614f.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-21** - Simon Willison runs an experiment in Claude Code for web's 'Ultracode' mode, where dynamic workflows generate JavaScript coordinating networks of subagents. A single phone-typed prompt with an accidental typo, 'hit the delete rows directly' instead of 'hit… ([sparqlite: SPARQL 1.1 inside SQLite, written in Rust](../summaries/e1a0599b10a5.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

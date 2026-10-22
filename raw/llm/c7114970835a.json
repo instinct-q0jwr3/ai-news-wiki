@@ -1,0 +1,15 @@
+{
+  "id": "c7114970835a",
+  "authored_at": "2026-10-22T02:32:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "This guide shows how to embed the EYG scripting language inside an Erlang application, giving the host program a controlled scripting environment where access to capabilities is tightly governed. The walkthrough builds a minimal Erlang module, my_counters_script, that parses EYG source with eyg@parser:all_from_string and executes it with the interpreter, returning results to the Erlang shell.\n\nFrom that starting point the guide layers on the affordances a real embedding needs: pretty-printing of parser errors and runtime values so failures are presentable to users, and composable EYG packages installed as the toolkit. The appeal for Erlang and BEAM hosts is that EYG scripts run under explicit control of what they can reach, making the pattern suitable for exposing safe user scripting on top of a long-running system. All code is available in a linked example repository.",
+  "highlights": [
+    "EYG can be embedded in Erlang to give applications a tightly controlled scripting environment",
+    "A minimal module parses EYG source with eyg@parser:all_from_string and executes it via the interpreter",
+    "Pure, self-contained EYG programs run with no additional setup",
+    "The guide adds pretty-printing for parser errors and runtime values for user-facing output",
+    "EYG's toolkit is composable: packages are installed per need",
+    "The pattern suits BEAM hosts that want safe user scripting on long-running systems"
+  ]
+}

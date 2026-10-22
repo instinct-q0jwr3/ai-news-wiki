@@ -1,6 +1,6 @@
 # SoftBank
 
-_type: organization · created: 2026-09-21 · updated: 2026-10-21 · confidence: medium_
+_type: organization · created: 2026-09-21 · updated: 2026-10-22 · confidence: medium_
 
 `entity` `softbank` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 

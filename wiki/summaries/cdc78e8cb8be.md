@@ -1,6 +1,6 @@
 # Show HN: Gemini 4 Argon plays StarCraft
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-21 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-22 · confidence: high_
 
 `hacker-news` `openai` `anthropic` `google` `muse` `gemini` `external-evaluation`
 

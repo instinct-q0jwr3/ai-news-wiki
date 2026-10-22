@@ -1,0 +1,15 @@
+{
+  "id": "881479ef4f17",
+  "authored_at": "2026-10-22T02:32:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic has opened a research preview of Claude Duet, a standalone app where Claude acts as a proactive agent rather than a reactive chatbot. Available on iOS, Android, and claude.ai, Duet surfaces what needs attention, completes requested tasks, keeps working when the user steps away, and checks in before acting on their behalf. Access is waitlist-based, starting with US Pro and Max subscribers under the same usage limits as the rest of Claude.\n\nAnthropic is targeting professionals and small-business owners, and its launch anecdotes emphasize proactivity: Duet caught a property showing entered on the wrong calendar day, prepared a client-call brief unprompted and noticed the call collided with a flight, and consolidated invoicing across a 110-employee restaurant business. The pitch is a trusted partner that monitors calendars, documents, and workflows in the background and brings things to the user instead of waiting to be asked, moving Claude from a tool you query toward an agent that watches and initiates.",
+  "highlights": [
+    "Claude Duet is a proactive-agent app on iOS, Android, and the web, in research preview for US Pro and Max users",
+    "Duet initiates: it flags what needs attention, works in the background, and checks before acting",
+    "Early-user stories: catching a wrong-day calendar entry, pre-briefing a call that conflicted with a flight",
+    "Small-business angle: one owner uses it for accounting, support, and marketing across 110 employees",
+    "Included in Pro and Max plans with existing usage limits; access is via waitlist",
+    "Marks Anthropic's push from reactive chat toward an agent that monitors and initiates"
+  ]
+}

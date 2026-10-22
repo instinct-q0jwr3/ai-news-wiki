@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-21 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-22 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-22** - Omnara is an open-source, self-hostable platform for running durable AI agents, positioned as an alternative to Anthropic's Claude Managed Agents and OpenAI's Agents API. Instead of tying the agent loop to a vendor cloud, Omnara exposes an API where a call… ([Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](../summaries/9e63ff54b15a.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-21** - OpenAI's own announcement that its models are coming to Google Cloud, the corporate move reported by CNBC earlier today (model garden and Antigravity, in the coming weeks). The post could not be fetched, so this summary is limited to the title. ([OpenAI models are coming to Google Cloud](../summaries/2b82711d4ac2.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md)) ⚠
 - **2026-10-21** - Simon Willison's linkblog relays the PHP Foundation's post-mortem of the botched coordinated disclosure behind today's security release. The CVE IDs began circulating 20 October around 15:00 UTC with a wrong release time and a wrong CVSS of 10.0 (actually… ([Today's PHP Security Release, and How We're Strengthening PHP Security](../summaries/3175cadddea4.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-21** - OpenAI's 'Patch the Planet' post frames the PHP vulnerability work as a global response coordination effort, with AI uncovering the PHP flaws and defenders mobilizing ahead of disclosure. The post could not be fetched, so this summary is limited to the title. ([OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](../summaries/c9bf9f0bb65b.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md)) ⚠

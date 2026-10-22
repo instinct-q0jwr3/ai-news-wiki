@@ -1,0 +1,16 @@
+{
+  "id": "9e63ff54b15a",
+  "authored_at": "2026-10-22T02:32:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Omnara is an open-source, self-hostable platform for running durable AI agents, positioned as an alternative to Anthropic's Claude Managed Agents and OpenAI's Agents API. Instead of tying the agent loop to a vendor cloud, Omnara exposes an API where a call creates an agent, and the platform handles the loop, sandboxes for command execution, secrets, permissions, RBAC, and streaming. Because each agent's state lives in Postgres, agents survive restarts and cost nothing while idle, and users can message them and stream their events over the API.\n\nThe project ships under Apache 2.0 and can also be used via Omnara Cloud, whose starter project comes preconfigured with an OpenRouter model provider and a pool of managed sandboxes, so a minimal agent.yaml runs out of the box. The launch post walks through the CLI flow (npx omnara agents launch with a declarative YAML config), terminal chat and a web dashboard for watching tool calls, and a TypeScript SDK for embedding agents in applications. The team previously built a remote-control phone app for Claude Code and Codex before rebuilding Omnara as a full managed-agent API.",
+  "highlights": [
+    "Omnara is an open-source (Apache 2.0) managed-agent platform, self-hostable or available as Omnara Cloud",
+    "An API call creates an agent; the platform runs the loop, sandboxes, secrets, permissions and RBAC",
+    "Agent state is stored in Postgres, so agents survive restarts and cost nothing while idle",
+    "Agents are configured declaratively in agent.yaml and launched with the npx omnara CLI",
+    "A dashboard and SDK let users watch tool calls, chat with agents, and stream events programmatically",
+    "Positions itself as an open alternative to Claude Managed Agents and OpenAI's Agents API",
+    "The team previously built a remote-control phone app for Claude Code and Codex"
+  ]
+}

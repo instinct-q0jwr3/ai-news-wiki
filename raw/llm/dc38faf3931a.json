@@ -1,0 +1,15 @@
+{
+  "id": "dc38faf3931a",
+  "authored_at": "2026-10-22T02:32:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Oliver Grabner built a multi-agent testbed on Pokemon Showdown's 2v2 doubles format to measure how well LLM agents coordinate, communicate, and negotiate actions as teammates. Most multi-agent research evaluates pipelines where agents hand tasks down a workflow; this environment instead places two LLM agents on the same side of a game-theoretic battle with hidden information and random damage, forcing them to read the opposing team, split targets, and plan around each other in natural-language team chat.\n\nThe setup differs from the PokeAgent Challenge, where a single agent plays each side and specialist RL agents still outplay general LLMs, because it specifically tests coordination between teammates rather than individual play. Grabner's goal is a controlled environment for measuring collaborative behavior that could later serve as an RL training ground for encouraging it. Transcripts show agents correcting each other's type-matchup reasoning and agreeing on concrete turn plans, suggesting general LLMs already exhibit useful negotiation patterns, while the codebase is public on GitHub for others to extend.",
+  "highlights": [
+    "A 2v2 Pokemon Showdown environment tests LLM agents as cooperating teammates, not just solo players",
+    "Doubles battles add hidden information and random damage, requiring real strategy and communication",
+    "Agents negotiate in team chat, correcting type-matchup reasoning and agreeing on turn plans",
+    "Unlike the PokeAgent Challenge, the benchmark isolates coordination rather than individual skill",
+    "Specialist RL agents still outplay general LLMs at solo Pokemon battling",
+    "The environment is published on GitHub and intended for future RL training of collaborative behaviors"
+  ]
+}

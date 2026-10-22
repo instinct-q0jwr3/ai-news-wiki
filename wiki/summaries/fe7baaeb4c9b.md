@@ -1,6 +1,6 @@
 # SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-21 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-22 · confidence: high_
 
 `techmeme` `softbank` `ai-safety-incidents`
 

@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Embedding EYG in Erlang programs · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792636494"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Embedding EYG in Erlang programs</h1>
+<p class="meta">type: news-summary · created: 2026-10-22 · updated: 2026-10-22 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>This guide shows how to embed the EYG scripting language inside an Erlang application, giving the host program a controlled scripting environment where access to capabilities is tightly governed. The walkthrough builds a minimal Erlang module, my_counters_script, that parses EYG source with eyg@parser:all_from_string and executes it with the interpreter, returning results to the Erlang shell.</p>
+<p>From that starting point the guide layers on the affordances a real embedding needs: pretty-printing of parser errors and runtime values so failures are presentable to users, and composable EYG packages installed as the toolkit. The appeal for Erlang and BEAM hosts is that EYG scripts run under explicit control of what they can reach, making the pattern suitable for exposing safe user scripting on top of a long-running system. All code is available in a linked example repository.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>EYG can be embedded in Erlang to give applications a tightly controlled scripting environment</li>
+<li>A minimal module parses EYG source with eyg@parser:all_from_string and executes it via the interpreter</li>
+<li>Pure, self-contained EYG programs run with no additional setup</li>
+<li>The guide adds pretty-printing for parser errors and runtime values for user-facing output</li>
+<li>EYG's toolkit is composable: packages are installed per need</li>
+<li>The pattern suits BEAM hosts that want safe user scripting on long-running systems</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://eyg.run/guides/embedding-eyg-in-erlang-programs">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

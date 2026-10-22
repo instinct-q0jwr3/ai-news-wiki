@@ -1,0 +1,60 @@
+{
+  "id": "digest-2026-10-22",
+  "date": "2026-10-22",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "Claude Duet goes proactive, Meta raises its capex ceiling again, and open tooling for running and coordinating agents has a busy day.",
+  "sections": [
+    {
+      "title": "Proactive agents move into products",
+      "intro": "Anthropic, GM and Meta all pushed agents that initiate rather than wait: Claude Duet opened a research preview as a background agent app, GM announced a voice-first OnStar assistant for the 2027 Lyriq, and Zuckerberg put early commerce numbers on Meta's Muse.",
+      "stories": [
+        "881479ef4f17",
+        "2e2dd92a0554",
+        "280071895c52"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Meta's AI bill keeps growing",
+      "intro": "Meta raised its 2026 capex outlook to as much as $145B and still beat on guidance, sending the stock up after hours.",
+      "stories": [
+        "32213f1894b3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Open rails for running agents",
+      "intro": "Omnara launched an open-source, self-hostable alternative to the hosted agent APIs, while AuxoAI raised $20.7M to productize forward-deployed agent engineering for enterprises.",
+      "stories": [
+        "9e63ff54b15a",
+        "52a91786bc99"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Teaching agents to cooperate",
+      "intro": "A 2v2 Pokemon Showdown testbed measures how LLM teammates negotiate, correct each other and plan turns together.",
+      "stories": [
+        "dc38faf3931a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The grid under the build-out",
+      "intro": "A HARC report warns planned Texas data centers could erase decades of air-quality gains within five years if the load lands on gas.",
+      "stories": [
+        "6e2fab07315e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "EYG embeds as a tightly controlled scripting layer inside Erlang applications.",
+      "stories": [
+        "c7114970835a"
+      ],
+      "concepts": []
+    }
+  ]
+}

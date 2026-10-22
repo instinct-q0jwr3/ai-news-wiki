@@ -1,6 +1,6 @@
 # OpenAI employee arrested by FBI over hidden listening device, company says
 
-_type: news-summary · created: 2026-10-14 · updated: 2026-10-21 · confidence: high_
+_type: news-summary · created: 2026-10-14 · updated: 2026-10-22 · confidence: high_
 
 `hacker-news` `openai`
 

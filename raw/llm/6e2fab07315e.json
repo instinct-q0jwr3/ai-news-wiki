@@ -1,0 +1,15 @@
+{
+  "id": "6e2fab07315e",
+  "authored_at": "2026-10-22T02:32:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A report from the Houston Advanced Research Center (HARC) warns that the data-center build-out in Texas could reverse decades of air-quality progress in as little as five years. Texas has become ground zero for the physical infrastructure behind generative AI, and new and proposed data centers are demanding enormous amounts of electricity. If all planned projects connect to the grid and draw power from the anticipated generation mix, pollution from the power sector would skyrocket.\n\nIn that scenario, fine-particle soot would more than triple to its highest level since 2006, smog-forming NOx emissions would rise 136 percent toward 2004 levels, and carbon dioxide pollution would climb about 90 percent. The outcome hinges on how developers and utilities meet the demand: on-site gas turbines lock in the dirty path, while renewable generation would blunt much of the damage. Tech companies are already building their own power sources, and the report's authors caution that without cleaner choices, children and grandchildren could breathe dirtier air than today's adults.",
+  "highlights": [
+    "HARC report: planned Texas data centers could erase decades of air-quality gains within five years",
+    "If all projects draw from the anticipated grid mix, power-sector soot would more than triple to levels last seen in 2006",
+    "Smog-forming NOx emissions would rise 136 percent, approaching 2004 levels",
+    "CO2 pollution would climb roughly 90 percent under the same scenario",
+    "Whether gas turbines or renewables serve the load determines how dirty the air gets",
+    "Texas is the epicenter of data-center construction for generative AI infrastructure"
+  ]
+}
