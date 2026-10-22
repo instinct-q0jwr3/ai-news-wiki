@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>OpenAI CLI · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792658026"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>OpenAI CLI</h1>
+<p class="meta">type: news-summary · created: 2026-10-22 · updated: 2026-10-22 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>OpenAI has published an official command-line interface for its REST API, installable via Homebrew (brew install openai/tools/openai) or Go 1.26+ (go install github.com/openai/openai-cli/cmd/openai@latest). The CLI wraps the API surface in terminal-friendly commands, including image generation with an interactive image picker whose Tab shortcuts install quietly into Bash, zsh, and fish sessions after the first eligible interactive run.</p>
+<p>The tool is designed to be well-behaved in scripts and terminals: a bare interactive run checks for newer stable releases at most once every seven days and prints a plain-text notice with an update command when it can verify the install method, while explicit help, completion, CI, and redirected streams skip the check entirely. Update paths differ by install method (verified Homebrew installs use brew upgrade --cask, Go installs require a verified binary), reflecting a general push to make the CLI safe for both interactive and automated use.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>OpenAI released an official CLI for its REST API, via Homebrew or Go install</li>
+<li>Includes image generation with an interactive picker and shell Tab shortcuts</li>
+<li>Shortcuts install into Bash, zsh, and fish after the first interactive run; PowerShell keeps normal completion</li>
+<li>Update check runs at most weekly, only in interactive sessions, and never in CI or redirected streams</li>
+<li>Update commands adapt to the verified install method (Homebrew cask vs Go binary)</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/openai/openai-cli">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

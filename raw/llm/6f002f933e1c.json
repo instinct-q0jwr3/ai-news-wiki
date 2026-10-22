@@ -1,0 +1,14 @@
+{
+  "id": "6f002f933e1c",
+  "authored_at": "2026-10-22T08:31:51Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "OpenAI has published an official command-line interface for its REST API, installable via Homebrew (brew install openai/tools/openai) or Go 1.26+ (go install github.com/openai/openai-cli/cmd/openai@latest). The CLI wraps the API surface in terminal-friendly commands, including image generation with an interactive image picker whose Tab shortcuts install quietly into Bash, zsh, and fish sessions after the first eligible interactive run.\n\nThe tool is designed to be well-behaved in scripts and terminals: a bare interactive run checks for newer stable releases at most once every seven days and prints a plain-text notice with an update command when it can verify the install method, while explicit help, completion, CI, and redirected streams skip the check entirely. Update paths differ by install method (verified Homebrew installs use brew upgrade --cask, Go installs require a verified binary), reflecting a general push to make the CLI safe for both interactive and automated use.",
+  "highlights": [
+    "OpenAI released an official CLI for its REST API, via Homebrew or Go install",
+    "Includes image generation with an interactive picker and shell Tab shortcuts",
+    "Shortcuts install into Bash, zsh, and fish after the first interactive run; PowerShell keeps normal completion",
+    "Update check runs at most weekly, only in interactive sessions, and never in CI or redirected streams",
+    "Update commands adapt to the verified install method (Homebrew cask vs Go binary)"
+  ]
+}

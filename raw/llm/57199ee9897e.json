@@ -1,0 +1,13 @@
+{
+  "id": "57199ee9897e",
+  "authored_at": "2026-10-22T08:31:51Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Microsoft says a China-linked, state-aligned hacking group used an AI-driven penetration testing tool called ARTEX to compromise IT services firm ConnectWise, as part of a broader campaign targeting hundreds of organizations, per Reuters reporting. The case is a prominent instance of state actors operationalizing AI offensive-security tooling at scale.",
+  "highlights": [
+    "Microsoft attributes a ConnectWise compromise to China-linked hackers using an AI pen-testing tool, ARTEX",
+    "The campaign reportedly targeted hundreds of organizations",
+    "Reuters: a notable case of state-aligned actors using AI offensive tooling at scale",
+    "Basis: source fetch failed (Reuters); summary built from the Techmeme feed blurb."
+  ]
+}

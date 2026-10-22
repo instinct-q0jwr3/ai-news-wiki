@@ -1,0 +1,14 @@
+{
+  "id": "b61b0bfeb195",
+  "authored_at": "2026-10-22T08:31:51Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Latent Space's AINews column digs into the PHP2Shell disclosure, noting that the critical PHP vulnerabilities were found independently by two parties leaning on frontier models: Calif researcher Ryan Austin, working under OpenAI's Patch the Planet project with GPT-5.6 Sol, and Wiz (now part of Google Cloud), using Gemini 4 Argon and GPT-5.6 Sol alongside its own Wiz Atlas tooling. The column frames this as the first visible payoff of OpenAI's $1B Daybreak subsidy for frontline defenders, announced barely two months earlier.\n\nThe coverage is measured about the hype: all high-profile cyber disclosures carry some marketing, and whether PHP2Shell ranks with log4shell or Heartbleed is debatable. Still, the episode marks a shift - AI-assisted vulnerability discovery is now producing results independently at multiple organizations, and the labs are racing to fund and publicize defensive use of their models.",
+  "highlights": [
+    "PHP2Shell was found independently by two parties using frontier models: Calif (GPT-5.6 Sol via Patch the Planet) and Wiz (Gemini 4 Argon + GPT-5.6 Sol + Wiz Atlas)",
+    "First visible result of OpenAI's $1B Daybreak subsidy for frontline defenders, announced two months prior",
+    "AINews cautions that major disclosures double as marketing; log4shell comparisons are debatable",
+    "AI-assisted vulnerability discovery is now producing independent results at multiple organizations",
+    "Labs are competing to fund and publicize defensive security uses of their models"
+  ]
+}

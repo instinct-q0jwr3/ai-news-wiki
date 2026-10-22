@@ -921,6 +921,52 @@
         "c7114970835a"
       ],
       "concepts": []
+    },
+    {
+      "title": "Agents get wallets and gates",
+      "intro": "Walmart opened an MCP gateway and profiles so AI agents can shop its stores directly, a pointed contrast to Amazon's agent blockade, while Garmin reopened its developer API with a process reshaped by the AI app flood.",
+      "stories": [
+        "e9425599501f",
+        "c392625d39b9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Money keeps rewriting the AI map",
+      "intro": "DeepSeek's reported ~$15B raise with CATL and Tencent aboard, plus Bloomberg's account of VC process bending under AI deal pressure, show capital concentrating around the frontier.",
+      "stories": [
+        "991866623076",
+        "ab8101608cf1"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Two AI empires",
+      "intro": "Ferguson, Klaassen and Schmidt argue in Foreign Affairs that the US and China are building rival empires over knowledge itself, and that cost - not challengers - is what historically kills empires.",
+      "stories": [
+        "6db3b0fc31c9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Machines that find bugs, humans who doubt scores",
+      "intro": "Latent Space reconstructs how two independent AI-assisted teams found PHP2Shell, Microsoft ties ARTEX-wielding hackers to hundreds of targets, and a widely shared essay argues LLM self-reported confidence is noise.",
+      "stories": [
+        "b61b0bfeb195",
+        "57199ee9897e",
+        "375cf6a0df72"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "OpenAI ships an official API CLI, a curated shelf for AI-built browser games opens, and Claude Code's installer briefly fell over.",
+      "stories": [
+        "6f002f933e1c",
+        "a56c98e99739",
+        "90ab40d2d486"
+      ],
+      "concepts": []
     }
   ]
 }

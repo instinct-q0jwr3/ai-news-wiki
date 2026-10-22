@@ -1,0 +1,11 @@
+{
+  "id": "90ab40d2d486",
+  "authored_at": "2026-10-22T08:31:51Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Hacker News discussion noting that the Claude Code install script was down, briefly blocking new installs of Anthropic's CLI. No further detail was available from the source at pass time.",
+  "highlights": [
+    "Claude Code's install script was reported down on Hacker News"
+  ],
+  "basis": "Basis: source fetch failed and the feed carried no summary; note built from the Hacker News item title alone."
+}

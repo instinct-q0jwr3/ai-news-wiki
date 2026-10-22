@@ -1,0 +1,15 @@
+{
+  "id": "375cf6a0df72",
+  "authored_at": "2026-10-22T08:31:51Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Amrut Joshi argues that asking an LLM for a confidence score is a category error: the number it returns has no good reason to be trusted. Real confidence, like a weather forecaster's 70 percent chance of rain, is grounded in information - current observations and base rates from years of records - and calibrated systems are right about as often as their stated confidence. An LLM's self-reported score is not derived from any such evidence; it is another piece of generated text, shaped by how such statements usually read in training data.\n\nThe post walks through why the failure is structural rather than a prompting problem: the model has no access to the accuracy distribution of its own answers, so the score cannot track correctness, and agent designers who gate actions on it are building on noise. The practical takeaway for agent builders is to derive confidence from things outside the model's narration - verification checks, retrieval agreement, tool results, or measured task outcomes - rather than from the model's own stated certainty.",
+  "highlights": [
+    "Asking an LLM for a confidence score yields untrustworthy numbers - the score is generated text, not evidence",
+    "Real confidence is grounded in information: current observations plus historical base rates",
+    "Calibrated forecasters are right about as often as their stated confidence; LLM self-reports have no such anchor",
+    "The failure is structural: models have no access to their own accuracy distribution",
+    "Agent designers should gate actions on external verification, not model-stated certainty",
+    "Prompting better does not fix it; confidence must come from checks outside the model's narration"
+  ]
+}

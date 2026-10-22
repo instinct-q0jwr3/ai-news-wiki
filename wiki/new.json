@@ -1,59 +1,71 @@
 {
- "generated_at": "2026-10-22T02:23:01+00:00",
+ "generated_at": "2026-10-22T08:23:56+00:00",
  "stories": [
   {
-   "id": "9e63ff54b15a",
-   "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
+   "id": "6f002f933e1c",
+   "title": "OpenAI CLI",
    "source": "Hacker News",
-   "url": "https://github.com/omnara-ai/omnara"
+   "url": "https://github.com/openai/openai-cli"
   },
   {
-   "id": "6e2fab07315e",
-   "title": "Data centers could erase decades of air quality gains",
+   "id": "375cf6a0df72",
+   "title": "Using LLM for confidence scoring is a bad idea",
    "source": "Hacker News",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
   },
   {
-   "id": "dc38faf3931a",
-   "title": "LLM Agents Play Pokemon Showdown",
+   "id": "a56c98e99739",
+   "title": "Show HN: AI-built browser games, collected in one place",
    "source": "Hacker News",
-   "url": "https://olivergrabner.com/research/pokemon/"
+   "url": "https://playgroundarcade.com/"
   },
   {
-   "id": "280071895c52",
-   "title": "Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+",
+   "id": "90ab40d2d486",
+   "title": "Claude Code install script is down",
+   "source": "Hacker News",
+   "url": "https://downloads.claude.ai/claude-code-releases/bootstrap.sh"
+  },
+  {
+   "id": "e9425599501f",
+   "title": "Walmart unveils Agent Gateway, an MCP server for AI agents to shop its site, and Agent Profiles to authorize agents and track their purchases separately",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10"
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
   },
   {
-   "id": "52a91786bc99",
-   "title": "AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale",
+   "id": "57199ee9897e",
+   "title": "Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/"
+   "url": "https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/"
   },
   {
-   "id": "2e2dd92a0554",
-   "title": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq",
+   "id": "6db3b0fc31c9",
+   "title": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/"
+   "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt"
   },
   {
-   "id": "c7114970835a",
-   "title": "Embedding EYG in Erlang programs",
+   "id": "c392625d39b9",
+   "title": "Garmin Revamps and Opens Up Connect Developer API Program",
    "source": "Lobsters",
-   "url": "https://eyg.run/guides/embedding-eyg-in-erlang-programs"
+   "url": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html"
   },
   {
-   "id": "881479ef4f17",
-   "title": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users",
+   "id": "991866623076",
+   "title": "DeepSeek raised ~$15B in its latest fundraising round, one of China's largest ever, with CATL and Tencent among the biggest contributors",
    "source": "Techmeme",
-   "url": "https://claude.com/resources/articles/claude-duet"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs"
   },
   {
-   "id": "32213f1894b3",
-   "title": "Meta expects its 2026 capex to be $135B-$145B, vs. $130B-$145B previously, and forecasts Q4 revenue of $73B-$76B, vs. $73.6B est.; META jumps 3%+ after hours",
+   "id": "ab8101608cf1",
+   "title": "Pressure to back promising AI startups is upending the VC investment process, with investors willing to buy into the same round at rapidly escalating valuations",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYxNDI3NiwiZXhwIjoxNzkzMjE5MDc2LCJhcnRpY2xlSWQiOiJUTjZESlZUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.q9Qa14j48qtAHKu_qndGn-NfmTTT6GH40NNt8Ryh-C4"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/venture-capitalists-push-up-ai-startup-valuations-with-tranched-two-step-rounds"
+  },
+  {
+   "id": "b61b0bfeb195",
+   "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program"
   }
  ]
 }
