@@ -1,0 +1,14 @@
+{
+  "id": "e6283763e542",
+  "authored_at": "2026-10-22T20:40:34Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A study combining Biograph's high-resolution coronary CT angiography and cardiometabolic profiling with Caristo's AI-enabled CaRi-Heart and CaRi-Plaque technology found coronary inflammation in 42.9% of asymptomatic, traditionally low-risk adults - frequently without any plaque buildup or blockage. The work evaluated whether AI analysis of coronary inflammation in cardiac CT scans can surface early cardiovascular risk before symptoms or obstructive plaque appear.\n\nThe finding matters because standard screening would classify these patients as low risk: inflammation without obstruction is invisible to the usual workup, yet it is a known driver of events. The study was made available to clinically eligible Biograph Black tier members, and it points toward AI-read CCTA inflammation scores becoming a screening layer for people who look healthy on every conventional measure.",
+  "highlights": [
+    "AI analysis found coronary inflammation in 42.9% of asymptomatic, low-risk adults",
+    "Inflammation frequently occurred with no plaque buildup or blockage",
+    "Combined Biograph's CCTA imaging and cardiometabolic profiling with Caristo's CaRi-Heart/CaRi-Plaque AI",
+    "Goal: detect early cardiovascular risk before symptoms or obstructive plaque",
+    "Conventional screening would have classified these patients as low risk"
+  ]
+}

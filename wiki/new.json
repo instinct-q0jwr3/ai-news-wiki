@@ -1,6 +1,12 @@
 {
- "generated_at": "2026-10-22T14:24:39+00:00",
+ "generated_at": "2026-10-22T20:25:29+00:00",
  "stories": [
+  {
+   "id": "09de2e5d4933",
+   "title": "NVIDIA OpenShell Secures Autonomous AI Agents",
+   "source": "TLDR AI",
+   "url": "https://github.com/NVIDIA/OpenShell"
+  },
   {
    "id": "576d6847c6d0",
    "title": "The Robot I Didn't Expect to Build",
@@ -8,118 +14,148 @@
    "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign"
   },
   {
-   "id": "a79339c75022",
-   "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
+   "id": "9b022633f7bb",
+   "title": "Every AI model has the same \"controversial\" take on humans",
    "source": "Hacker News",
-   "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153"
+   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
   },
   {
-   "id": "4833211f1bf8",
-   "title": "OpenClaw creator says he spent $10 million in tokens last month",
-   "source": "TLDR AI",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573"
+   "id": "41512777ec7e",
+   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+   "source": "Hacker News",
+   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai"
   },
   {
-   "id": "1a9edec222c5",
-   "title": "A response from Dario Amodei",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2112732230124818891.html"
+   "id": "e6283763e542",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "source": "Hacker News",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
   },
   {
-   "id": "6a3e208a82ad",
-   "title": "Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group",
+   "id": "c0aafc765f33",
+   "title": "Show HN: UI micro interactions prompts for AI",
+   "source": "Hacker News",
+   "url": "https://www.typeui.sh/micro-interactions"
+  },
+  {
+   "id": "481b04739c90",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2610.27251"
+  },
+  {
+   "id": "f88b16476384",
+   "title": "Award-Winning AI Literature",
+   "source": "Hacker News",
+   "url": "https://jamesyu.org/award-winning-ai-literature/"
+  },
+  {
+   "id": "10083f75c056",
+   "title": "Important updates to AI use on Etsy",
+   "source": "Hacker News",
+   "url": "https://www.etsy.com/seller-handbook/article/1522733284810"
+  },
+  {
+   "id": "5e3fc8634c08",
+   "title": "Docs and sources: Google researchers worried about AI risks to children, including potential cognitive and emotional harm, as the company pushed AI into schools",
    "source": "Techmeme",
-   "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/"
+   "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a?st=iw7cXj&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "9d50b083ec90",
-   "title": "Introducing Flint",
-   "source": "TLDR AI",
-   "url": "https://recursive.com/updates/introducing-recursive-flint"
+   "id": "e564aae612d2",
+   "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+   "source": "Hacker News",
+   "url": "https://github.com/rbartoli/agent-usage-guard"
   },
   {
-   "id": "70b47e3c3741",
-   "title": "How does Fable 5.1 hide messages in images?",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images"
+   "id": "f2441cedea0b",
+   "title": "How to spot AI science slop",
+   "source": "Hacker News",
+   "url": "https://labmuffin.com/how-to-spot-ai-science-slop/"
   },
   {
-   "id": "048c22c1c432",
-   "title": "Claude API version 2026-10-21 is now available",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2113013247209021918.html"
+   "id": "9c4712dbd7f2",
+   "title": "Amazon rebrands its Kindle Unlimited subscription as Kindle+ and expands access to audiobooks, including titles narrated by AI",
+   "source": "Techmeme",
+   "url": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/"
   },
   {
-   "id": "30ee4abcf9af",
-   "title": "The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi",
+   "id": "f4772dd29f5c",
+   "title": "SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo"
+  },
+  {
+   "id": "ea47ac5e698b",
+   "title": "Atlanta-based Tractian, which uses AI and sensors to predict machine failures and recommend maintenance plans, raised a $130M Series D at a $1.4B valuation",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "ad6d1e050a9f",
+   "title": "METR says a pilot test of OpenAI's monitoring system found vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/"
+  },
+  {
+   "id": "6810a368b2cc",
+   "title": "Chicago-based Formic, which provides robots-as-a-service automation to manufacturers, raised $50M, including a $40M Series B and $10M in asset-backed financing",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments"
+  },
+  {
+   "id": "3b1220cd89c4",
+   "title": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
+  },
+  {
+   "id": "f08a6fb0c86f",
+   "title": "You are the Team — Anekha Sokhal, Moshi",
    "source": "Latent.Space",
-   "url": "https://www.latent.space/p/the-recommendation-engine-for-commodity"
+   "url": "https://www.latent.space/p/moshi"
   },
   {
-   "id": "1e9a32eeee07",
-   "title": "Computer use on the phone itself: a 2B model that operates Android apps",
-   "source": "TLDR AI",
-   "url": "https://getopposable.com/blog/computer-use-on-the-phone"
+   "id": "f7a42e28a39f",
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
   },
   {
-   "id": "e3efd53fee4a",
-   "title": "Breaking news: U.S. banks are taking hits from AI agents",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-news-us-banks-are-taking"
+   "id": "21b9803782c4",
+   "title": "Quoting Armin Ronacher",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
   },
   {
-   "id": "17cc88681de4",
-   "title": "How the AI boom is boosting paint maker PPG's sales: its specialized gray coatings serve critical functional needs and total $3M to $8M per data center, per JLL",
+   "id": "b57458489d98",
+   "title": "DE STAAT - FREEDOM",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
+  },
+  {
+   "id": "a7c2c8a62acc",
+   "title": "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html"
+   "url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down"
   },
   {
-   "id": "53a844aa27f7",
-   "title": "If Intelligence Is Getting Cheap, What Remains Expensive?",
-   "source": "TLDR AI",
-   "url": "https://x.com/prathiknaidu/status/2112928049935118493"
-  },
-  {
-   "id": "3f2d35667384",
-   "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
-   "source": "TLDR AI",
-   "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
-  },
-  {
-   "id": "12f2a2fb650a",
-   "title": "Announcing Humming: Fast, Flexible Kernels for Quantized Inference",
-   "source": "TLDR AI",
-   "url": "https://vllm.ai/blog/2026-10-21-humming"
-  },
-  {
-   "id": "c9bf9f0bb65b",
-   "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
-  },
-  {
-   "id": "ac68bb605493",
-   "title": "Enact, which develops full-stack tech for general-purpose robots, emerges from stealth with a $30M pre-seed from Mistral CEO Arthur Mensch, Yann LeCun, and more",
+   "id": "e7621d603472",
+   "title": "OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO",
    "source": "Techmeme",
-   "url": "https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round/"
+   "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
   },
   {
-   "id": "2066d90c92b6",
-   "title": "Monaco Launches Agent Matrix for Revenue Growth",
-   "source": "TLDR AI",
-   "url": "https://x.com/samdblond/status/2112936538711683315"
-  },
-  {
-   "id": "91d9666b0eb3",
-   "title": "1Password passes $500M in ARR, up from $400M in November 2025, driven by enterprise AI coding assistants and agents, and announces 1Password for Agents",
+   "id": "e3af9cda1c3a",
+   "title": "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/1password-surpasses-500-million-in-revenue-as-ai-agents-drive-growth-903ccd4b?st=acBBcU&reflink=desktopwebshare_permalink"
+   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
   },
   {
-   "id": "656735d9bcdb",
-   "title": "Mammoth-1 and Elephant-1: frontier decision models",
-   "source": "TLDR AI",
-   "url": "https://labs.baseten.co/articles/mammoth-1-and-elephant-1-frontier-decision-models"
+   "id": "abba8694304c",
+   "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+   "source": "Latent.Space",
+   "url": "https://www.latent.space/p/modal-d"
   }
  ]
 }

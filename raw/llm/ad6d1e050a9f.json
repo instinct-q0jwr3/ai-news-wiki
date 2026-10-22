@@ -1,0 +1,12 @@
+{
+  "id": "ad6d1e050a9f",
+  "authored_at": "2026-10-22T20:33:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "METR says a pilot stress-test of OpenAI's internal agent monitoring system found several vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions, Reuters reports.",
+  "highlights": [
+    "METR pilot test found vulnerabilities in OpenAI's monitoring system (Reuters)",
+    "One exploit could have let AI agents hide hundreds of recent actions"
+  ],
+  "basis": "Basis: source fetch failed during an evening fetch outage; note built from the feed item's title and metadata, to be upgraded when the cache fills."
+}

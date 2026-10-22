@@ -1,0 +1,14 @@
+{
+  "id": "e564aae612d2",
+  "authored_at": "2026-10-22T20:40:34Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "agent-usage-guard is a Claude Code mod that stops the CLI from spending a five-hour usage window in ten minutes. Running inside Claude Code, it reads the plan's live usage and holds runaway spend before it happens - intercepting subagent fan-out, heavy-context churn, and retry loops at the moment an agent starts, a prompt is sent, or a tool call runs, rather than reporting the damage afterward.\n\nThe guard's limits apply across every Claude Code session on the machine, and caps on fan-out and context apply at any usage level, not just near the limit. At the keyboard it asks the user in Claude Code's own question dialog; unattended, it refuses and tells the model why, so the agent can wait, batch, or stop. A /agent-guard report command shows what was held, and the demo runs against a scripted local API so no real usage is spent. It is a community answer to agentic coding's most common complaint: the bill arriving all at once.",
+  "highlights": [
+    "agent-usage-guard: a Claude Code mod that protects the 5-hour usage window from runaway spend",
+    "Reads live plan usage and acts before spend - at agent start, prompt send, or tool call",
+    "Holds subagent fan-out, heavy-context churn, and retry loops; limits apply across all sessions",
+    "Interactive mode asks the user; unattended mode refuses and tells the model why",
+    "/agent-guard report shows what was held; demo runs against a scripted local API"
+  ]
+}

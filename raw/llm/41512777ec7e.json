@@ -1,0 +1,14 @@
+{
+  "id": "41512777ec7e",
+  "authored_at": "2026-10-22T20:40:34Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Project Hedra is an open-world, low-poly RPG whose author started it in high school at around 15 to learn OpenGL - and scope creep turned it into a full 3D game plus its own engine, roughly 100k lines of code with first-class Linux and Windows support. Players choose a class, explore endless procedurally generated worlds, unlock skills, and complete procedurally generated quests.\n\nThe technical write-ups are the draw: the world renders in as few as three draw calls (water, terrain, instanced) using glMultiDrawElements; the block system has a dedicated procedural-meshing blog post; a custom native-array primitive backs performance; and mods are written in Python via IronPython against the C# API, with a Fishing.py example shown. It is a hobbyist engine project that grew into a genuinely engineered game.",
+  "highlights": [
+    "Hedra: open-world low-poly RPG started by a 15-year-old to learn OpenGL, now ~100k LOC with its own engine",
+    "Procedurally generated worlds and quests, class and skill systems",
+    "World renders in ~3 draw calls (water, terrain, instanced) via glMultiDrawElements",
+    "Mods written in Python through IronPython against the C# API",
+    "First-class Linux and Windows support"
+  ]
+}

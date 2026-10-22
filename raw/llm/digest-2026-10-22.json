@@ -162,6 +162,71 @@
         "a79339c75022"
       ],
       "concepts": []
+    },
+    {
+      "title": "A trillion-dollar bridge",
+      "intro": "OpenAI is reportedly closing an up to $30B round at a $1.25T pre-money valuation ahead of an IPO, while SoftBank's SB Energy times its own listing to Anthropic's - and Nvidia, Anthropic and OpenAI all set lobbying-spending records.",
+      "stories": [
+        "e7621d603472",
+        "f4772dd29f5c",
+        "e3af9cda1c3a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Physical AI draws real checks",
+      "intro": "Tractian raised $130M to predict machine failures and Formic raised $50M for robots-as-a-service, as industrial automation keeps pulling capital.",
+      "stories": [
+        "ea47ac5e698b",
+        "6810a368b2cc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Watching the watchers",
+      "intro": "METR's pilot stress-test found holes in OpenAI's agent monitoring, including an exploit that could have hidden hundreds of actions - oversight tooling failing its first public exam.",
+      "stories": [
+        "ad6d1e050a9f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Machines at the bedside",
+      "intro": "Microsoft claims its GPT-5 Diagnostic Orchestrator diagnoses up to 4x more accurately than doctors, and a separate study found coronary inflammation in 42.9% of CT-scan patients via AI analysis.",
+      "stories": [
+        "3b1220cd89c4",
+        "e6283763e542"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Open standards and closed products",
+      "intro": "Anthropic donated Agent Skills to the Linux Foundation's Agentic AI Foundation while The Browser Company set Arc's shutdown date and Amazon folded AI narration into Kindle+.",
+      "stories": [
+        "f7a42e28a39f",
+        "a7c2c8a62acc",
+        "9c4712dbd7f2"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "A high-schooler's open-world game, UI micro-interaction prompts, a Claude Code usage guard, spotting AI science slop, the enclosure of the scientific commons, Etsy's AI policy update, Modal's CEO on compute geometry, and a Ronacher quip on 30 years of bad software.",
+      "stories": [
+        "41512777ec7e",
+        "c0aafc765f33",
+        "e564aae612d2",
+        "f2441cedea0b",
+        "481b04739c90",
+        "10083f75c056",
+        "abba8694304c",
+        "f08a6fb0c86f",
+        "9b022633f7bb",
+        "f88b16476384",
+        "21b9803782c4",
+        "b57458489d98"
+      ],
+      "concepts": []
     }
   ]
 }

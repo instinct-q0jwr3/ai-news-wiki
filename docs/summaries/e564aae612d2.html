@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: agent-usage-guard – a Claude Code mod to protect your usage window · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792701756"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: agent-usage-guard – a Claude Code mod to protect your usage window</h1>
+<p class="meta">type: news-summary · created: 2026-10-22 · updated: 2026-10-22 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>agent-usage-guard is a Claude Code mod that stops the CLI from spending a five-hour usage window in ten minutes. Running inside Claude Code, it reads the plan's live usage and holds runaway spend before it happens - intercepting subagent fan-out, heavy-context churn, and retry loops at the moment an agent starts, a prompt is sent, or a tool call runs, rather than reporting the damage afterward.</p>
+<p>The guard's limits apply across every Claude Code session on the machine, and caps on fan-out and context apply at any usage level, not just near the limit. At the keyboard it asks the user in Claude Code's own question dialog; unattended, it refuses and tells the model why, so the agent can wait, batch, or stop. A /agent-guard report command shows what was held, and the demo runs against a scripted local API so no real usage is spent. It is a community answer to agentic coding's most common complaint: the bill arriving all at once.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>agent-usage-guard: a Claude Code mod that protects the 5-hour usage window from runaway spend</li>
+<li>Reads live plan usage and acts before spend - at agent start, prompt send, or tool call</li>
+<li>Holds subagent fan-out, heavy-context churn, and retry loops; limits apply across all sessions</li>
+<li>Interactive mode asks the user; unattended mode refuses and tells the model why</li>
+<li>/agent-guard report shows what was held; demo runs against a scripted local API</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/rbartoli/agent-usage-guard">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-22",
+  "status": "provisional",
+  "reserve": "656735d9bcdb",
+  "picks": [
+    {
+      "id": "9d50b083ec90",
+      "front": "Models",
+      "source": "Recursive",
+      "why": "Flint packs competitive agentic coding into a 40B/2.5B-active MoE built from scratch in four months - a serious local-first model release."
+    },
+    {
+      "id": "881479ef4f17",
+      "front": "Agents",
+      "source": "Anthropic",
+      "why": "Claude Duet is Anthropic's biggest product move of the day: a proactive background agent app, shipped as a research preview on mobile and web."
+    },
+    {
+      "id": "e9425599501f",
+      "front": "Business",
+      "source": "Walmart",
+      "why": "Walmart's Agent Gateway is a first-party MCP rail for agentic shopping, a direct counter-position to Amazon's agent blockade."
+    },
+    {
+      "id": "3f2d35667384",
+      "front": "Security",
+      "source": "LiteLLM",
+      "why": "A compromised LiteLLM release shipped credential-stealing malware to PyPI and Docker - the day's starkest supply-chain incident in AI tooling."
+    },
+    {
+      "id": "6e2fab07315e",
+      "front": "Compute",
+      "source": "HARC via The Verge",
+      "why": "Planned Texas data centers could erase decades of air-quality gains in five years if the load lands on gas - the build-out's physical costs made concrete."
+    }
+  ]
+}

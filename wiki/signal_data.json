@@ -1174,5 +1174,61 @@
   "thin": 7,
   "total": 66,
   "unreadable": 6
+ },
+ "2026-10-22": {
+  "ok": 44,
+  "paywall": 8,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "9d50b083ec90",
+    "minutes": 8,
+    "source": "Recursive",
+    "title": "Introducing Flint",
+    "why": "Flint packs competitive agentic coding into a 40B/2.5B-active MoE built from scratch in four months - a serious local-first model release."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "881479ef4f17",
+    "minutes": 8,
+    "source": "Anthropic",
+    "title": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users",
+    "why": "Claude Duet is Anthropic's biggest product move of the day: a proactive background agent app, shipped as a research preview on mobile and web."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "e9425599501f",
+    "minutes": 4,
+    "source": "Walmart",
+    "title": "Walmart unveils Agent Gateway, an MCP server for AI agents to shop its site, and Agent Profiles to authorize agents and track their purchases separately",
+    "why": "Walmart's Agent Gateway is a first-party MCP rail for agentic shopping, a direct counter-position to Amazon's agent blockade."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "3f2d35667384",
+    "minutes": 4,
+    "source": "LiteLLM",
+    "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
+    "why": "A compromised LiteLLM release shipped credential-stealing malware to PyPI and Docker - the day's starkest supply-chain incident in AI tooling."
+   },
+   {
+    "cat": "ok",
+    "front": "Compute",
+    "id": "6e2fab07315e",
+    "minutes": 3,
+    "source": "HARC via The Verge",
+    "title": "Data centers could erase decades of air quality gains",
+    "why": "Planned Texas data centers could erase decades of air-quality gains in five years if the load lands on gas - the build-out's physical costs made concrete."
+   }
+  ],
+  "reserve": "656735d9bcdb",
+  "status": "provisional",
+  "thin": 4,
+  "total": 62,
+  "unreadable": 6
  }
 }

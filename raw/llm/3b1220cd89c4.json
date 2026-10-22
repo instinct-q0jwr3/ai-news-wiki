@@ -1,0 +1,14 @@
+{
+  "id": "3b1220cd89c4",
+  "authored_at": "2026-10-22T20:40:34Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Microsoft claims its GPT-5-powered Diagnostic Orchestrator diagnoses conditions up to four times more accurately than human doctors, in findings published in Science. The system is designed to function like a panel of medical experts - agents mimicking specialist consultation - and was tested against physicians on scenarios drawn from medical case reports and emergency department data, compiled into Microsoft's own SDBench benchmark, which it plans to open-source.\n\nMicrosoft AI CEO Mustafa Suleyman tells The Verge that healthcare AI 'is finally here' and predicts something 'indistinguishable from human performance... in the next couple of years.' The claims are strong and the venue is prestigious, but the evaluation is on Microsoft's own benchmark - the open-sourcing of SDBench will determine how the 4x figure survives independent scrutiny.",
+  "highlights": [
+    "Microsoft: GPT-5 Diagnostic Orchestrator diagnoses up to 4x more accurately than doctors, published in Science",
+    "Agents mimic a panel of medical experts working a case",
+    "Evaluated on Microsoft's SDBench, built from case reports and ED data; to be open-sourced",
+    "Suleyman: healthcare AI 'is finally here'; human-indistinguishable performance within a couple of years",
+    "Caveat: headline figure comes from Microsoft's own benchmark"
+  ]
+}

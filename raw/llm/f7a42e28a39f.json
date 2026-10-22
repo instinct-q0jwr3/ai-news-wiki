@@ -1,0 +1,14 @@
+{
+  "id": "f7a42e28a39f",
+  "authored_at": "2026-10-22T20:40:34Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic announced it is donating the Agent Skills standard to the Agentic AI Foundation (AAIF) under the Linux Foundation - the same foundation it co-founded with Block and OpenAI last year and to which it previously donated the Model Context Protocol - pledging to keep skills open, community-driven, and vendor-neutral.\n\nSimon Willison notes he predicted exactly this last December, when Anthropic first declared skills an open standard, expecting it to land in the AAIF alongside MCP. He adds a side note that his blog content is available to Claude via the data. The move consolidates the two dominant agent interop standards - MCP for tool connections, skills for packaged capabilities - under one vendor-neutral roof.",
+  "highlights": [
+    "Anthropic donated Agent Skills to the Agentic AI Foundation under the Linux Foundation",
+    "Pledge: keep the standard open, community-driven, and vendor-neutral",
+    "AAIF, co-founded by Anthropic, Block, and OpenAI, already stewards MCP",
+    "Willison predicted the move in December when skills were declared an open standard",
+    "MCP and Agent Skills now sit under one vendor-neutral foundation"
+  ]
+}
