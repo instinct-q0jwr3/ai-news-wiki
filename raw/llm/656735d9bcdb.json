@@ -1,0 +1,15 @@
+{
+  "id": "656735d9bcdb",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "TypeSafe released the technical report behind what it calls the world's best decision models: mammoth-1 (27B) and elephant-1 (9B). The decision-model format, which the company introduced in September 2026 with Jev and the System One API - named for Kahneman's fast, intuitive mode of thinking - targets quick, single-shot judgments rather than long chains of reasoning, and the report's refrain is that training a frontier decision model is about data, data, data.\n\nOn the two community benchmarks, mammoth-1 ranks first of 208 models on the Jev Decision Index (37 public benchmarks plus private tests) and both models place at the top of the Artificial Analysis Decision Index covering knowledge, reasoning, tool calling, and safety. The release continues the industry's split between deliberative reasoning models and fast decision models optimized for latency and cost in agent loops.",
+  "highlights": [
+    "TypeSafe released mammoth-1 (27B) and elephant-1 (9B), claiming the top two decision models",
+    "Decision models follow the System One API format TypeSafe introduced with Jev in September 2026",
+    "mammoth-1 ranks #1 of 208 models on the Jev Decision Index",
+    "Both lead the Artificial Analysis Decision Index (knowledge, reasoning, tool calling, safety)",
+    "The report credits data curation as the decisive training factor",
+    "Decision models target fast single-shot judgments, complementing slow reasoning models in agents"
+  ]
+}

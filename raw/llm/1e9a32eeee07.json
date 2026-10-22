@@ -1,0 +1,15 @@
+{
+  "id": "1e9a32eeee07",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Erik is an Android app that brings computer-use agents onto the phone itself: it reads the screen through the accessibility service and can tap and type in any other app. Claude, ChatGPT, or Codex can drive it from a computer, but when none is connected, a 2-billion-parameter model - GUI-Owl 1.5 2B in 4-bit quantization on llama.cpp - runs the same loop entirely on-device with no server involved.\n\nThe engineering notes are striking: on a Mac M2 CPU with 4 threads, one agent step takes 7.3 seconds (down from 10.6), half of it the vision encoder; on a Galaxy S25's NPU that encoder runs in 236 ms versus 3.9 s on the M2. GUI-Owl 1.5, from Alibaba's Mobile-Agent team, is a Qwen3-VL fine-tune that maps a screenshot to a single action. It runs in the app via llama.cpp at 4 bits - 1.05 GB for the language model and 445 MB for the vision encoder, both kept resident between steps - with accuracy holding on a 36-screen test set.",
+  "highlights": [
+    "Erik is an Android app that operates other apps via the accessibility service - taps, types, reads screens",
+    "Desktop Claude, ChatGPT, or Codex can drive it; on-device, a 2B model runs the same loop with no server",
+    "GUI-Owl 1.5 2B (Alibaba Mobile-Agent, Qwen3-VL fine-tune) runs 4-bit on llama.cpp",
+    "Footprint: 1.05 GB language model + 445 MB vision encoder, kept resident between steps",
+    "Galaxy S25 NPU runs the vision encoder in 236 ms vs 3.9 s on an M2 CPU",
+    "One agent step takes 7.3 s on an M2 with 4 threads at unchanged test accuracy"
+  ]
+}

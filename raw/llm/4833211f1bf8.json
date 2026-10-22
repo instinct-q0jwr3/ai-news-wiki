@@ -1,0 +1,14 @@
+{
+  "id": "4833211f1bf8",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Peter Steinberger, OpenClaw creator and member of technical staff at OpenAI, told Cloudflare CTO Dane Knecht on stage at Cloudflare Connect 2026 that he spent around $10 million in tokens running AI workloads last month - on investors' money, as he freely admitted. Knecht had previously noted Steinberger's 'virtually unlimited token budget,' and Steinberger's follow-up - 'not all of that is useful' - drew more murmurs than reassurance from the audience.\n\nThe anecdote lands amid reports that OpenAI is trying to accelerate funding ahead of Anthropic's expected IPO, and it crystallizes a live debate about the economics of agentic coding: token spend at that scale is either R&D that compounds or burn that doesn't, and even the person spending it isn't sure how much was useful.",
+  "highlights": [
+    "OpenClaw creator Peter Steinberger says he spent ~$10M in tokens last month",
+    "He framed it as investor money and conceded 'not all of that is useful'",
+    "Revealed on stage with Cloudflare CTO Dane Knecht at Cloudflare Connect 2026",
+    "Lands as OpenAI reportedly accelerates funding ahead of Anthropic's expected IPO",
+    "Sharpens the debate over the real unit economics of agentic coding workloads"
+  ]
+}

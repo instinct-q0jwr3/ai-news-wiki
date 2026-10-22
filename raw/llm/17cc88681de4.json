@@ -1,0 +1,14 @@
+{
+  "id": "17cc88681de4",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The New York Times reports that the AI data-center boom is lifting paint maker PPG: its specialized gray coatings resist fire, rust, and static electricity on data-center exteriors, and JLL estimates the coatings run $3-8 million per data center. Tech companies are painting facilities gray over gray concrete and steel, turning an unlikely supplier into an AI-boom beneficiary.",
+  "highlights": [
+    "The AI build-out is boosting PPG's sales of specialized gray data-center coatings (NYT)",
+    "The coatings serve fire, rust, and static-electricity resistance needs",
+    "JLL estimates $3-8M of coatings per data center",
+    "Data centers are painted gray over gray concrete and steel",
+    "Basis: source fetch failed (NYT paywall); summary built from the Techmeme feed blurb."
+  ]
+}

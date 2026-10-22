@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 777,
+  "stories": 779,
   "last": "2026-10-22"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 767,
+  "stories": 771,
   "last": "2026-10-22"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 295,
-  "last": "2026-10-21"
+  "stories": 306,
+  "last": "2026-10-22"
  },
  {
   "name": "Simon Willison",
@@ -38,7 +38,7 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 37,
+  "stories": 38,
   "last": "2026-10-22"
  },
  {
@@ -60,16 +60,16 @@
   "last": "2026-09-26"
  },
  {
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
+  "stories": 20,
+  "last": "2026-10-22"
+ },
+ {
   "name": "Works on My Machine",
   "url": "https://worksonmymachine.substack.com/feed",
   "stories": 20,
   "last": "2026-09-25"
- },
- {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 19,
-  "last": "2026-10-15"
  },
  {
   "name": "Stratechery",

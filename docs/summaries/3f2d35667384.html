@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792679504"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised</h1>
+<p class="meta">type: news-summary · created: 2026-10-22 · updated: 2026-10-22 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>LiteLLM's release pipeline was compromised in the early morning of October 21, pushing version 1.107.0 to the Docker registry and PyPI with compiled malware that steals credentials and loads remote-code execution tools. All previous versions are safe, the impacted release has been pulled, and enterprise customers on the private release were not affected. The maintainers label the incident contained, with the investigation ongoing.</p>
+<p>In a 20:30 UTC update, the team said they believe they have identified the attack chain: the attacker had to compromise multiple independent security controls to succeed. The incident is a sharp supply-chain warning for the AI tooling ecosystem - LiteLLM sits in the inference path of countless applications, so a poisoned release would have harvested credentials downstream at scale.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>LiteLLM v1.107.0 shipped malware via a compromised release pipeline on Oct 21</li>
+<li>The malicious build steals credentials and loads remote-code execution tools</li>
+<li>Pushed to Docker registry and PyPI; all other versions safe, release pulled</li>
+<li>Enterprise (private release) customers were not impacted</li>
+<li>Maintainers: incident contained; attacker defeated multiple independent security controls</li>
+<li>Supply-chain risk is amplified because LiteLLM proxies model traffic for many apps</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://docs.litellm.ai/blog/security-incident-oct-21-2026">Read the original story</a> · <a href="https://tldr.tech/ai/2026-10-22">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

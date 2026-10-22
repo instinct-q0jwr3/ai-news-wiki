@@ -1,0 +1,11 @@
+{
+  "id": "048c22c1c432",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic announced a new dated Claude API version, 2026-10-21, selected by TLDR AI for its latest issue. The cached copy captured only the social-post wrapper rather than the announcement text, so the version's specific changes are not available from this pass's source.",
+  "highlights": [
+    "Anthropic released Claude API version 2026-10-21"
+  ],
+  "basis": "Basis: cached source is a threadreader wrapper without the announcement content; note built from the TLDR AI item title."
+}

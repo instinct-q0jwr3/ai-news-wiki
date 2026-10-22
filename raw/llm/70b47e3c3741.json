@@ -1,0 +1,15 @@
+{
+  "id": "70b47e3c3741",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "An experiment in machine steganography: since frontier LLMs like Claude Fable 5.1 generate images by writing SVG, researchers asked how such a model would hide a message inside an image it draws - and whether a fresh instance of the same model could decode that message from the rendered image alone, with no SVG source and no pre-agreed scheme.\n\nThe results show Fable 5.1 inventing working encodings on its own - in one example, a row of stars whose heights spell out a message alphabetically ('The monster acts on the moonshine module'), readable left to right - and successfully decoding its own hidden messages from pixels. A brief comparison with GPT-6 Astra on the same task is included. Beyond the charm, the work probes a real capability question: models that can create and read covert channels in their outputs matter for steganography, watermarking, and hidden-instruction risk.",
+  "highlights": [
+    "Fable 5.1 can invent schemes to hide messages inside the SVG images it generates",
+    "A separate instance of the model can decode the message from the rendered image alone",
+    "Example: star heights encode letters, spelling 'The monster acts on the moonshine module'",
+    "No pre-agreed scheme - encoding and decoding emerge from the model's own reasoning",
+    "Brief comparison run against GPT-6 Astra on the same task",
+    "Implications touch steganography, watermarking, and hidden-instruction risk in model outputs"
+  ]
+}

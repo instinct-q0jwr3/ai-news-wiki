@@ -967,6 +967,67 @@
         "90ab40d2d486"
       ],
       "concepts": []
+    },
+    {
+      "title": "Models shrink toward the device",
+      "intro": "Recursive's Flint packs agentic coding into a 2.5B-active MoE for laptops, a 2B model now drives Android apps on the phone's own NPU, and Ant Group and vLLM open-sourced Humming to make quantized serving fast across GPUs.",
+      "stories": [
+        "9d50b083ec90",
+        "1e9a32eeee07",
+        "12f2a2fb650a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Supply chain under attack",
+      "intro": "LiteLLM's poisoned v1.107.0 release put credential-stealing malware on PyPI and Docker Hub, and Gary Marcus warns banks are already taking hits from AI-enabled attacks while defenses shrink.",
+      "stories": [
+        "3f2d35667384",
+        "e3efd53fee4a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "New shapes of model behavior",
+      "intro": "Fable 5.1 invents and reads its own steganographic codes in images, TypeSafe's mammoth-1 and elephant-1 top the decision-model rankings, and OpenClaw's creator admits to $10M of token spend in a month.",
+      "stories": [
+        "70b47e3c3741",
+        "656735d9bcdb",
+        "4833211f1bf8"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robots get practical",
+      "intro": "Agility's Digit 5 trades elegance for a warehouse-ready appliance, and Enact left stealth with $30M and a force-and-touch approach to manipulation.",
+      "stories": [
+        "576d6847c6d0",
+        "ac68bb605493"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Money and infrastructure",
+      "intro": "1Password crossed $500M ARR on enterprise agent demand, PPG's gray coatings became an AI-boom business, Slingshot raised $27M for embedded insurance, and Monaco launched an agent fleet for revenue teams.",
+      "stories": [
+        "91d9666b0eb3",
+        "17cc88681de4",
+        "6a3e208a82ad",
+        "2066d90c92b6"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "A recommendation engine for commodity traders from Moshi's CEO, a response thread from Dario Amodei, a dated Claude API release, and an essay on what stays expensive as intelligence gets cheap.",
+      "stories": [
+        "30ee4abcf9af",
+        "1a9edec222c5",
+        "048c22c1c432",
+        "53a844aa27f7",
+        "a79339c75022"
+      ],
+      "concepts": []
     }
   ]
 }

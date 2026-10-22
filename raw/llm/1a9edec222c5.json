@@ -1,0 +1,11 @@
+{
+  "id": "1a9edec222c5",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic CEO Dario Amodei posted a public response thread on X, selected by TLDR AI for its latest issue. The cached copy captured only the thread-reader wrapper rather than the thread text, so the substance of the response is not available from this pass's source.",
+  "highlights": [
+    "TLDR AI featured a response thread from Dario Amodei"
+  ],
+  "basis": "Basis: cached source is threadreader boilerplate without the thread content; note built from the TLDR AI item title."
+}

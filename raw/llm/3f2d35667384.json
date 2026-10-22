@@ -1,0 +1,15 @@
+{
+  "id": "3f2d35667384",
+  "authored_at": "2026-10-22T14:29:38Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "LiteLLM's release pipeline was compromised in the early morning of October 21, pushing version 1.107.0 to the Docker registry and PyPI with compiled malware that steals credentials and loads remote-code execution tools. All previous versions are safe, the impacted release has been pulled, and enterprise customers on the private release were not affected. The maintainers label the incident contained, with the investigation ongoing.\n\nIn a 20:30 UTC update, the team said they believe they have identified the attack chain: the attacker had to compromise multiple independent security controls to succeed. The incident is a sharp supply-chain warning for the AI tooling ecosystem - LiteLLM sits in the inference path of countless applications, so a poisoned release would have harvested credentials downstream at scale.",
+  "highlights": [
+    "LiteLLM v1.107.0 shipped malware via a compromised release pipeline on Oct 21",
+    "The malicious build steals credentials and loads remote-code execution tools",
+    "Pushed to Docker registry and PyPI; all other versions safe, release pulled",
+    "Enterprise (private release) customers were not impacted",
+    "Maintainers: incident contained; attacker defeated multiple independent security controls",
+    "Supply-chain risk is amplified because LiteLLM proxies model traffic for many apps"
+  ]
+}
