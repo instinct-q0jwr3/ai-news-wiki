@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-10-22 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-10-23** - CATT (Consumer Agent Testing Tool) is an open-source harness for testing how an AI assistant uses your service: run a scripted or model-driven agent against an MCP server, an MCP app, a website, or an HTTP API, then check what the service did, inspect the… ([Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](../summaries/1025a6496e3c.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-22** - Meta CEO Mark Zuckerberg said on the company's Q3 2026 earnings call that Muse, Meta's AI agent app, has attracted more than 10 million users since launch, and that over a quarter of them are making purchases through the app with an average purchase size… ([Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+](../summaries/280071895c52.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-10-20** - TechCrunch, citing Sensor Tower, reports Meta's AI companion Muse reached 10.9 million downloads in its first 40 days, 10.2 million of them in the US, making it only the 12th app ever to hit 10 million US downloads that fast, a club otherwise limited to… ([Sensor Tower: Muse had 10.9M downloads since its September debut, 10.2M of those in the US, becoming the 12th app to hit 10M US downloads in its first 40 days](../summaries/cc35254bf68e.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-17** - Basis: thin page. Daring Fireball post titled Strange Times Make for Strange Bedfellows; content not read. ([Strange Times Make for Strange Bedfellows](../summaries/38179bf21097.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠

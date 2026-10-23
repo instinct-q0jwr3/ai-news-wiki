@@ -1,6 +1,6 @@
 # Apple unveils the $149 HomePod mini 2, with an S10 chip, "Sound Glow" interactive lighting, and Siri AI via a future update, in five colors, shipping October 30
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-22 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-23 · confidence: high_
 
 `techmeme` `apple`
 

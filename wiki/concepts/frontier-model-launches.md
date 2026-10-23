@@ -1,6 +1,6 @@
 # Concept: Frontier Model Launches
 
-_type: concept · created: 2026-10-22 · updated: 2026-10-22 · confidence: medium_
+_type: concept · created: 2026-10-23 · updated: 2026-10-23 · confidence: medium_
 
 `concept` `frontier-model-launches`
 

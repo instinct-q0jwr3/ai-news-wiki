@@ -1,6 +1,6 @@
 # OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns
 
-_type: news-summary · created: 2026-10-21 · updated: 2026-10-22 · confidence: high_
+_type: news-summary · created: 2026-10-21 · updated: 2026-10-23 · confidence: high_
 
 `hacker-news` `openai` `amazon`
 

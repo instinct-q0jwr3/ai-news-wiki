@@ -1,0 +1,13 @@
+{
+  "id": "e0abb9e8c3a6",
+  "authored_at": "2026-10-23T02:36:01Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic announced the donation of the Agent Skills open standard to the Agentic AI Foundation under the Linux Foundation, saying 70+ platforms have adopted it - the formal announcement of the move Simon Willison reported yesterday. Anthropic's own page frames it alongside its public-benefit mission and the Haiku 5.5 launch.",
+  "highlights": [
+    "Anthropic donates Agent Skills to the Agentic AI Foundation (Linux Foundation)",
+    "Anthropic says 70+ platforms have adopted the standard",
+    "Formal announcement of the donation Willison flagged a day earlier"
+  ],
+  "basis": "Basis: source cache captured Anthropic's homepage rather than the announcement text; note built from the Techmeme feed title and the adjacent Willison report."
+}

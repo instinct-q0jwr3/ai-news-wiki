@@ -1,6 +1,6 @@
 # Why is Speculative Decoding Fast?
 
-_type: news-summary · created: 2026-10-09 · updated: 2026-10-22 · confidence: high_
+_type: news-summary · created: 2026-10-09 · updated: 2026-10-23 · confidence: high_
 
 `tldr-ai`
 

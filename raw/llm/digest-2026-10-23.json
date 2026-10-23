@@ -1,0 +1,56 @@
+{
+  "id": "digest-2026-10-23",
+  "date": "2026-10-23",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "Formal verification scales up, the public turns skeptical, and OpenAI's trillion-dollar ambitions meet investor resistance.",
+  "sections": [
+    {
+      "title": "Proof at production scale",
+      "intro": "A Theorem collaboration used Claude to formally verify security properties across 100+ open-source libraries at RISC-V assembly level, and CATT 0.2.1 brings assistant-emulation testing into CI - verification is becoming ordinary engineering.",
+      "stories": [
+        "13e71514dde4",
+        "1025a6496e3c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The public turns skeptical",
+      "intro": "A 57% majority of Americans now says AI is bad for society and two-thirds oppose new data centers, while Wall Street bristles at Meta's capital hunt and OpenAI trims its valuation target to $1.25T on investor resistance.",
+      "stories": [
+        "12a48dd670a2",
+        "777edfcd0182",
+        "6c82809e156c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Governance tightens its grip",
+      "intro": "The US Treasury proposed curbs on AI and supercomputing investment in countries of concern, a US appeals court ejected a judge over AI errors, and Anthropic formalized its Agent Skills donation with 70+ platforms aboard.",
+      "stories": [
+        "1d53592e2fec",
+        "16f1c0807fa6",
+        "e0abb9e8c3a6"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Power follows compute",
+      "intro": "PreussenElektra and Nvidia are assessing Germany's idle nuclear plants as data-center sites, and an essay argues compute needs a real market like oil.",
+      "stories": [
+        "9909e31df2e1",
+        "e3ecbbf80bef"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "a16z Crypto becomes a16z Frontier as the label chases AI, and JA Westenberg argues agency - not agents - is the scarce resource.",
+      "stories": [
+        "777da8f5f120",
+        "ca47240d3db9"
+      ],
+      "concepts": []
+    }
+  ]
+}

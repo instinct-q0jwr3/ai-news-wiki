@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-22 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-23** - Anthropic announced the donation of the Agent Skills open standard to the Agentic AI Foundation under the Linux Foundation, saying 70+ platforms have adopted it - the formal announcement of the move Simon Willison reported yesterday. Anthropic's own page… ([Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025](../summaries/e0abb9e8c3a6.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-10-22** - agent-usage-guard is a Claude Code mod that stops the CLI from spending a five-hour usage window in ten minutes. Running inside Claude Code, it reads the plan's live usage and holds runaway spend before it happens - intercepting subagent fan-out,… ([Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](../summaries/e564aae612d2.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-22** - Anthropic announced it is donating the Agent Skills standard to the Agentic AI Foundation (AAIF) under the Linux Foundation - the same foundation it co-founded with Block and OpenAI last year and to which it previously donated the Model Context Protocol -… ([Donating Agent Skills to the Agentic AI Foundation](../summaries/f7a42e28a39f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-22** - Federal disclosures show Nvidia, Anthropic, and OpenAI each had their highest-spending lobbying quarter between July and September: Nvidia $2.2 million, Anthropic $2.1 million, OpenAI $1.5 million - nearly $6 million combined, around cybersecurity, child… ([Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively](../summaries/e3af9cda1c3a.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

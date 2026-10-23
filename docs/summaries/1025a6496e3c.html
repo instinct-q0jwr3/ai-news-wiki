@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792723086"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI</h1>
+<p class="meta">type: news-summary · created: 2026-10-23 · updated: 2026-10-23 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>CATT (Consumer Agent Testing Tool) is an open-source harness for testing how an AI assistant uses your service: run a scripted or model-driven agent against an MCP server, an MCP app, a website, or an HTTP API, then check what the service did, inspect the evidence, and compare results across builds - designed to fit CI pipelines. Version 0.2.1 adds Instinct as a surrogate emulation target alongside the default Muse, both using a shared connector testing contract covering routing, memory, payments, browser/HTTP tasks, and scheduling.</p>
+<p>The project is careful about its limits: CATT is a surrogate that approximates an assistant's host, not its private implementation, so a passing test does not certify compatibility with Muse or any hosted assistant. Each Muse-specific behavior carries a recorded basis - documented, unofficial, assumed, or unknown - and the project disclaims any affiliation with Meta, Instinct, OpenAI, or Anthropic. The model driving a trial is separate from the assistant being emulated. MIT licensed.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>CATT tests how an assistant uses your service: MCP servers/apps, websites, HTTP APIs</li>
+<li>Run scripted or model-driven agents; check service behavior and evidence; compare across builds in CI</li>
+<li>v0.2.1 supports Muse and Instinct surrogate targets via a shared connector testing contract</li>
+<li>Contract covers routing, memory, payments, browser/HTTP tasks, and scheduling</li>
+<li>Caveat: surrogate approximates the host; passing does not certify real Muse compatibility</li>
+<li>Each emulated behavior carries a basis: documented, unofficial, assumed, or unknown; MIT license</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/Coverage-Cat/consumer-agent-testing-tool">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/muse.html">Muse (Meta)</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

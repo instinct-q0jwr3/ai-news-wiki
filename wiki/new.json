@@ -1,161 +1,77 @@
 {
- "generated_at": "2026-10-22T20:25:29+00:00",
+ "generated_at": "2026-10-23T02:26:18+00:00",
  "stories": [
   {
-   "id": "09de2e5d4933",
-   "title": "NVIDIA OpenShell Secures Autonomous AI Agents",
-   "source": "TLDR AI",
-   "url": "https://github.com/NVIDIA/OpenShell"
-  },
-  {
-   "id": "576d6847c6d0",
-   "title": "The Robot I Didn't Expect to Build",
+   "id": "13e71514dde4",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign"
+   "url": "https://www.anthropic.com/research/formal-verification"
   },
   {
-   "id": "9b022633f7bb",
-   "title": "Every AI model has the same \"controversial\" take on humans",
+   "id": "12a48dd670a2",
+   "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
    "source": "Hacker News",
-   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
+   "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085"
   },
   {
-   "id": "41512777ec7e",
-   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+   "id": "e3ecbbf80bef",
+   "title": "AI compute is the new oil–and needs a new market",
    "source": "Hacker News",
-   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai"
+   "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
   },
   {
-   "id": "e6283763e542",
-   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "id": "16f1c0807fa6",
+   "title": "US appeals court ejects judge from case over AI errors",
    "source": "Hacker News",
-   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
+   "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/"
   },
   {
-   "id": "c0aafc765f33",
-   "title": "Show HN: UI micro interactions prompts for AI",
+   "id": "1025a6496e3c",
+   "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
    "source": "Hacker News",
-   "url": "https://www.typeui.sh/micro-interactions"
+   "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool"
   },
   {
-   "id": "481b04739c90",
-   "title": "AI and the Enclosure of the Scientific Commons",
+   "id": "777edfcd0182",
+   "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2610.27251"
+   "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601"
   },
   {
-   "id": "f88b16476384",
-   "title": "Award-Winning AI Literature",
-   "source": "Hacker News",
-   "url": "https://jamesyu.org/award-winning-ai-literature/"
-  },
-  {
-   "id": "10083f75c056",
-   "title": "Important updates to AI use on Etsy",
-   "source": "Hacker News",
-   "url": "https://www.etsy.com/seller-handbook/article/1522733284810"
-  },
-  {
-   "id": "5e3fc8634c08",
-   "title": "Docs and sources: Google researchers worried about AI risks to children, including potential cognitive and emotional harm, as the company pushed AI into schools",
+   "id": "777da8f5f120",
+   "title": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a?st=iw7cXj&reflink=desktopwebshare_permalink"
+   "url": "https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/"
   },
   {
-   "id": "e564aae612d2",
-   "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-   "source": "Hacker News",
-   "url": "https://github.com/rbartoli/agent-usage-guard"
-  },
-  {
-   "id": "f2441cedea0b",
-   "title": "How to spot AI science slop",
-   "source": "Hacker News",
-   "url": "https://labmuffin.com/how-to-spot-ai-science-slop/"
-  },
-  {
-   "id": "9c4712dbd7f2",
-   "title": "Amazon rebrands its Kindle Unlimited subscription as Kindle+ and expands access to audiobooks, including titles narrated by AI",
+   "id": "9909e31df2e1",
+   "title": "German energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers",
    "source": "Techmeme",
-   "url": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers"
   },
   {
-   "id": "f4772dd29f5c",
-   "title": "SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November",
+   "id": "e0abb9e8c3a6",
+   "title": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo"
+   "url": "https://www.anthropic.com/"
   },
   {
-   "id": "ea47ac5e698b",
-   "title": "Atlanta-based Tractian, which uses AI and sensors to predict machine failures and recommend maintenance plans, raised a $130M Series D at a $1.4B valuation",
+   "id": "1d53592e2fec",
+   "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\"",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
+   "url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9"
   },
   {
-   "id": "ad6d1e050a9f",
-   "title": "METR says a pilot test of OpenAI's monitoring system found vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions",
+   "id": "ca47240d3db9",
+   "title": "Agents Are Cheap. Agency Is Everything.",
+   "source": "Westenberg",
+   "url": "https://www.joanwestenberg.com/p/agents-are-cheap-agency-is-everything"
+  },
+  {
+   "id": "6c82809e156c",
+   "title": "OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/"
-  },
-  {
-   "id": "6810a368b2cc",
-   "title": "Chicago-based Formic, which provides robots-as-a-service automation to manufacturers, raised $50M, including a $40M Series B and $10M in asset-backed financing",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments"
-  },
-  {
-   "id": "3b1220cd89c4",
-   "title": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
-  },
-  {
-   "id": "f08a6fb0c86f",
-   "title": "You are the Team — Anekha Sokhal, Moshi",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/moshi"
-  },
-  {
-   "id": "f7a42e28a39f",
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
-  },
-  {
-   "id": "21b9803782c4",
-   "title": "Quoting Armin Ronacher",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
-  },
-  {
-   "id": "b57458489d98",
-   "title": "DE STAAT - FREEDOM",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
-  },
-  {
-   "id": "a7c2c8a62acc",
-   "title": "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down"
-  },
-  {
-   "id": "e7621d603472",
-   "title": "OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
-  },
-  {
-   "id": "e3af9cda1c3a",
-   "title": "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
-  },
-  {
-   "id": "abba8694304c",
-   "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-   "source": "Latent.Space",
-   "url": "https://www.latent.space/p/modal-d"
+   "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc"
   }
  ]
 }

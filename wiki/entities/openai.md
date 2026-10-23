@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-22 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-23** - OpenAI has cut its valuation target to $1.25 trillion, down from the $1.4 trillion it pitched earlier this month, after resistance from some investors, the Financial Times reports - context for the up-to-$30B bridge round reported yesterday. ([OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors](../summaries/6c82809e156c.md) · [OpenAI](../entities/openai.md)) 🔒
 - **2026-10-22** - Anthropic announced it is donating the Agent Skills standard to the Agentic AI Foundation (AAIF) under the Linux Foundation - the same foundation it co-founded with Block and OpenAI last year and to which it previously donated the Model Context Protocol -… ([Donating Agent Skills to the Agentic AI Foundation](../summaries/f7a42e28a39f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-22** - Federal disclosures show Nvidia, Anthropic, and OpenAI each had their highest-spending lobbying quarter between July and September: Nvidia $2.2 million, Anthropic $2.1 million, OpenAI $1.5 million - nearly $6 million combined, around cybersecurity, child… ([Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively](../summaries/e3af9cda1c3a.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-22** - METR says a pilot stress-test of OpenAI's internal agent monitoring system found several vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions, Reuters reports. ([METR says a pilot test of OpenAI's monitoring system found vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions](../summaries/ad6d1e050a9f.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠

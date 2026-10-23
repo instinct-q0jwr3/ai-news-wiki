@@ -1,6 +1,6 @@
 # Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments
 
-_type: news-summary · created: 2026-10-19 · updated: 2026-10-22 · confidence: high_
+_type: news-summary · created: 2026-10-19 · updated: 2026-10-23 · confidence: high_
 
 `techmeme` `microsoft` `agentic-systems` `ai-safety-incidents`
 

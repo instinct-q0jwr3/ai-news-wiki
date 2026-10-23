@@ -1,6 +1,6 @@
 # Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation
 
-_type: news-summary · created: 2026-10-15 · updated: 2026-10-22 · confidence: high_
+_type: news-summary · created: 2026-10-15 · updated: 2026-10-23 · confidence: high_
 
 `techmeme` `anthropic`
 

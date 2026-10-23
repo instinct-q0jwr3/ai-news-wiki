@@ -1,0 +1,15 @@
+{
+  "id": "13e71514dde4",
+  "authored_at": "2026-10-23T02:36:01Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A collaboration with Theorem shows that LLMs have made formal software verification feasible at production scale: using Claude, the team proved security properties at the assembly-code level (RISC-V) across more than 100 real-world open-source libraries - to their knowledge the first large-scale application of AI-driven formal verification to production software. The motivation is blunt: most software is riddled with bugs that AI can now find and exploit, so standard defenses no longer suffice; the only durable answer is proving code free of bug classes.\n\nFormal verification historically demanded years of expert effort per project, confining it to aerospace and crypto kernels. The work shows LLMs collapsing that cost, enabling development workflows where proven security guarantees ride along with ordinary code. The author list spans Anthropic and academic researchers (including Nicholas Carlini and Nickolai Zeldovich), signaling the labs see verified software as part of the answer to the offensive-capability problem they are themselves creating.",
+  "highlights": [
+    "Claude proved security properties at assembly level (RISC-V) across 100+ real open-source libraries",
+    "Claimed first large-scale AI-driven formal verification of production software at assembly level",
+    "Motivation: AI finds and exploits bugs at scale, so patch-and-pray defense is insufficient",
+    "Formal verification previously cost years of expert effort per project",
+    "Collaboration between Anthropic-linked researchers and Theorem; authors include Carlini and Zeldovich",
+    "Points to workflows where proven guarantees ship with ordinary software"
+  ]
+}

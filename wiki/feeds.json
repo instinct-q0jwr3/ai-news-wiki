@@ -2,14 +2,14 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 788,
-  "last": "2026-10-22"
+  "stories": 794,
+  "last": "2026-10-23"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 780,
-  "last": "2026-10-22"
+  "stories": 785,
+  "last": "2026-10-23"
  },
  {
   "name": "TLDR AI",
@@ -144,6 +144,12 @@
   "last": "2026-09-25"
  },
  {
+  "name": "Westenberg",
+  "url": "https://www.joanwestenberg.com/feed",
+  "stories": 3,
+  "last": "2026-10-23"
+ },
+ {
   "name": "Krebs on Security",
   "url": "https://krebsonsecurity.com/feed/",
   "stories": 2,
@@ -154,12 +160,6 @@
   "url": "https://mitchellh.com/feed.xml",
   "stories": 2,
   "last": "2026-09-26"
- },
- {
-  "name": "Westenberg",
-  "url": "https://www.joanwestenberg.com/feed",
-  "stories": 2,
-  "last": "2026-10-20"
  },
  {
   "name": "Experimental History",
