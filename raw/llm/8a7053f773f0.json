@@ -1,0 +1,14 @@
+{
+  "id": "8a7053f773f0",
+  "authored_at": "2026-10-23T08:35:03Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "An Ask HN poses the uncomfortable question: if frontier models are as good as the labs claim, why do OpenAI and Anthropic sell tokens instead of launching a hundred companies built on their own models? With prices declining and models commoditizing, shouldn't the real money be on the application side rather than the utility side?\n\nThe discussion's sharpest answers are strategic: competing head-on with customers would scare enterprises away from sharing knowledge bases and data with the labs - the flow that feeds training and lock-in - and would invite regulatory attention. One commenter notes at least one lab reportedly keeps an internal benchmark cloning 20+ popular products, suggesting the capability is measured even if unused. The consensus: while data collection and customer trust are the moat, selling shovels beats mining; the calculation changes if that moat stops growing.",
+  "highlights": [
+    "Ask HN: if models are so good, why do labs sell tokens instead of launching their own companies?",
+    "Top answer: competing with customers would scare away the data-sharing that feeds the moat, and invite regulators",
+    "Claim: at least one lab internally benchmarks cloning 20+ popular products",
+    "Commoditization argument: declining prices suggest more money on the application side",
+    "Consensus: selling shovels wins while trust and data flow; the calculus shifts if the moat stalls"
+  ]
+}

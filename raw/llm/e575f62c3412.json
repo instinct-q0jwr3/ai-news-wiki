@@ -1,0 +1,14 @@
+{
+  "id": "e575f62c3412",
+  "authored_at": "2026-10-23T08:35:03Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "OpenAI suspected three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats, the Wall Street Journal reports. The company fired the three safety researchers for mishandling sensitive information; they had been fighting to keep the information flowing to outside safety scrutiny.",
+  "highlights": [
+    "OpenAI fired three safety researchers for mishandling sensitive information (WSJ)",
+    "The company suspected leaks of internal model designs to safety researcher Ryan Greenblatt",
+    "Disappearing Signal chats were among the alleged channels",
+    "The researchers had been pushing for outside safety scrutiny"
+  ],
+  "basis": "Basis: source fetch failed (WSJ paywall); summary built from the Techmeme feed blurb."
+}

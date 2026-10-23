@@ -1,0 +1,14 @@
+{
+  "id": "72246f43a49f",
+  "authored_at": "2026-10-23T08:35:03Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Swedish AI provider Berget AI, with the Stockholm Environment Institute and non-profits WattTime and Klimatkollen, released an open-source method for calculating the carbon emissions of each individual AI request. Its headline comparison: an identical request to the open Kimi K3 model emits about 0.4 grams of CO2 in Sweden, 1.6 in Ireland, 2.5 in Germany, and 3.2 in Texas - 8.5 times more in Texas than Sweden - purely from the grid's emissions intensity on identical hardware.\n\nThe actual number also depends on the model, the time of day, and how much of the prompt is processed. Berget exposes per-request emissions in its customer console and wants more providers to report the same way, arguing buyers would choose lower-carbon options if they could see real figures instead of marketing. It is a push to make inference emissions a comparable, shoppable metric.",
+  "highlights": [
+    "Berget AI + SEI, WattTime, Klimatkollen: open-source method for per-request AI carbon emissions",
+    "Same Kimi K3 request: 0.4 g CO2 in Sweden vs 3.2 g in Texas - 8.5x difference on identical hardware",
+    "Ireland 1.6 g, Germany 2.5 g; grid emissions intensity drives the gap",
+    "Emissions also vary by model, time of day, and prompt size",
+    "Goal: make providers report per-request emissions so buyers can compare on data, not marketing"
+  ]
+}

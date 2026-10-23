@@ -1,77 +1,41 @@
 {
- "generated_at": "2026-10-23T02:26:18+00:00",
+ "generated_at": "2026-10-23T08:27:12+00:00",
  "stories": [
   {
-   "id": "13e71514dde4",
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "id": "8a7053f773f0",
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/formal-verification"
+   "url": "https://news.ycombinator.com/item?id=50200997"
   },
   {
-   "id": "12a48dd670a2",
-   "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+   "id": "72246f43a49f",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
    "source": "Hacker News",
-   "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085"
+   "url": "https://berget.ai/en/blog/per-request-co2-press-release"
   },
   {
-   "id": "e3ecbbf80bef",
-   "title": "AI compute is the new oil–and needs a new market",
+   "id": "702fe688ccf4",
+   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
    "source": "Hacker News",
-   "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
+   "url": "https://github.com/dsmurrell/onkey"
   },
   {
-   "id": "16f1c0807fa6",
-   "title": "US appeals court ejects judge from case over AI errors",
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/"
-  },
-  {
-   "id": "1025a6496e3c",
-   "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-   "source": "Hacker News",
-   "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool"
-  },
-  {
-   "id": "777edfcd0182",
-   "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-   "source": "Hacker News",
-   "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601"
-  },
-  {
-   "id": "777da8f5f120",
-   "title": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies",
+   "id": "b52d6f6193b6",
+   "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout"
   },
   {
-   "id": "9909e31df2e1",
-   "title": "German energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers",
+   "id": "e575f62c3412",
+   "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers"
+   "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853"
   },
   {
-   "id": "e0abb9e8c3a6",
-   "title": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025",
+   "id": "9b396d14f191",
+   "title": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/"
-  },
-  {
-   "id": "1d53592e2fec",
-   "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\"",
-   "source": "Techmeme",
-   "url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9"
-  },
-  {
-   "id": "ca47240d3db9",
-   "title": "Agents Are Cheap. Agency Is Everything.",
-   "source": "Westenberg",
-   "url": "https://www.joanwestenberg.com/p/agents-are-cheap-agency-is-everything"
-  },
-  {
-   "id": "6c82809e156c",
-   "title": "OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says"
   }
  ]
 }
