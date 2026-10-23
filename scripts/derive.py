@@ -146,7 +146,9 @@ def cache_entry(x):
             if c.get('status') in ('ok','thin'): return c,True
             try: age=(dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(c.get('fetched_at',''))).total_seconds()
             except Exception: age=1e9
-            if c.get('status')=='error' and age<86400: return c,True
+            if c.get('status')=='error':
+                ttl=604800 if c.get('block') in ('bot-block','paywall') else 3600
+                if age<ttl: return c,True
     return None,False
 
 def save_entry(x,status,text,note='',kind=None):
@@ -154,14 +156,21 @@ def save_entry(x,status,text,note='',kind=None):
     if kind: d['block']=kind
     (CACHE/f"{x['id']}.json").write_text(json.dumps(d,ensure_ascii=False))
 
+def _dom_of(url):
+    try: return url.split('/')[2].lower()
+    except Exception: return ''
+
 def enrich_sources(xs):
-    stats={'cache_hit':0,'fetched_ok':0,'fetched_thin':0,'fetch_error':0,'budget_skipped':0}
-    start=time.monotonic(); fetches=0
+    stats={'cache_hit':0,'fetched_ok':0,'fetched_thin':0,'fetch_error':0,'budget_skipped':0,'circuit_skipped':0}
+    start=time.monotonic(); fetches=0; domfails=Counter(); circuit=set()
     for x in xs:
         url=x.get('url','')
         if not url.startswith('http'): SOURCES[x['id']]={}; stats['fetch_error']+=1; continue
         c,cached=cache_entry(x)
         if cached: SOURCES[x['id']]=c; stats['cache_hit']+=1; continue
+        dom=_dom_of(url)
+        if dom in circuit:
+            SOURCES[x['id']]={'status':'error','block':'bot-block','note':'skipped: circuit open for this domain this pass'}; stats['circuit_skipped']+=1; continue
         if fetches>=MAX_FETCHES or time.monotonic()-start>FETCH_BUDGET_S:
             SOURCES[x['id']]={}; stats['budget_skipped']+=1; continue
         fetches+=1; time.sleep(FETCH_DELAY_S)
@@ -172,7 +181,11 @@ def enrich_sources(xs):
             if body: break
             time.sleep(FETCH_DELAY_S)
         if not body:
-            save_entry(x,'error','',err or 'fetch failed',kind); SOURCES[x['id']]={'status':'error','block':kind}; stats['fetch_error']+=1; continue
+            save_entry(x,'error','',err or 'fetch failed',kind); SOURCES[x['id']]={'status':'error','block':kind}; stats['fetch_error']+=1
+            if kind in ('bot-block','paywall'):
+                domfails[dom]+=1
+                if domfails[dom]>=4: circuit.add(dom)
+            continue
         text=html_to_text(body)
         if text:
             probe=text[:2000]; bad=sum(1 for ch in probe if (ord(ch)<32 and ch not in '\n\t') or ord(ch)==0xfffd)
