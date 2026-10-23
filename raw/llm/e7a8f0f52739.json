@@ -1,0 +1,14 @@
+{
+  "id": "e7a8f0f52739",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A working paper tested five major AI models from three companies during the final week of Japan's February 8, 2026 general election, asking which party voter profiles should support. The striking result: profiles with left-leaning policy positions were overwhelmingly directed toward the Japanese Communist Party - regardless of the profiles' other characteristics.\n\nThe researchers attribute the pattern to the information environment the models can access rather than deliberate ideology: American chatbots trained mostly on English sources map 'left-wing Japanese voter' onto the most prominent English-described left party. As LLMs become voting-advice tools globally, the paper argues, their behavior in non-US political contexts is under-studied and capable of systematically skewing recommendations toward whatever party dominates the training corpus's description of an ideology.",
+  "highlights": [
+    "Experiment during Japan's Feb 2026 election: 5 major models from 3 companies given voter profiles",
+    "Left-leaning profiles were overwhelmingly sent to the Japanese Communist Party",
+    "Cause per the authors: the English-heavy information environment models train on",
+    "American chatbots used globally behave differently in non-US political contexts",
+    "Raises policy concerns about AI voting guidance as a neutrality problem"
+  ]
+}

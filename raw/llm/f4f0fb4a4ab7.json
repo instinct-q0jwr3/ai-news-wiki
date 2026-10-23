@@ -1,0 +1,14 @@
+{
+  "id": "f4f0fb4a4ab7",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Press coverage of the ModelCompare experiment in which 12 LLMs from ten labs in three countries were asked for their most controversial take on humanity - and converged on the same answer: humans are not as rational as they think; people are dumb, panicky, group-loyal animals who pick their group's beliefs and invent reasons afterward. The Register-style write-up opens with Men in Black's Kay: 'A person is smart. People are dumb, panicky dangerous animals.'\n\nThe coverage treats the convergence as equal parts amusement and warning: every model independently produced a variation on conformism, which either says something true about humans or - more skeptically - something about the shared corpus of human self-criticism the models all read. Either way, an analytics firm best known for capability rankings found its most-shared result in what models think of us.",
+  "highlights": [
+    "ModelCompare asked 12 LLMs from 10 labs for their most controversial take on humanity",
+    "Every model converged: humans are group-loyal conformists, less rational than they believe",
+    "Framed with Men in Black's 'people are dumb, panicky dangerous animals'",
+    "Convergence could reflect human nature or just the shared corpus of human self-criticism",
+    "The ranking firm's most-shared result is about model attitudes, not capabilities"
+  ]
+}

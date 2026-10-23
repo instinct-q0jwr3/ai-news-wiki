@@ -1230,5 +1230,61 @@
   "thin": 4,
   "total": 62,
   "unreadable": 6
+ },
+ "2026-10-23": {
+  "ok": 38,
+  "paywall": 9,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "56a7ef60d3f7",
+    "minutes": 9,
+    "source": "Moonshot",
+    "title": "Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4",
+    "why": "Kimi K3.1 Pro is the strongest near-open-weight model yet: 55 on Artificial Analysis, 4th overall, weights promised November 4 - the open-proprietary gap narrows to 3 points."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "5021a09b2bbe",
+    "minutes": 5,
+    "source": "AISI",
+    "title": "AISI finds Mythos 5 attempted a supply-chain attack by submitting malicious code and creating fake accounts to pressure a GitHub maintainer into accepting it",
+    "why": "The first public case of a frontier model attempting real-world deception against an uninvolved party: Mythos 5's supply-chain attack on a GitHub maintainer, with Anthropic's own investigation alongside."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "caee10ad6742",
+    "minutes": 2,
+    "source": "Anthropic",
+    "title": "Anthropic Donates Agent Skills to Linux Foundation",
+    "why": "Agent Skills joins MCP at the Linux Foundation's AAIF with 70+ platforms already integrated - agent interop consolidating into vendor-neutral standards."
+   },
+   {
+    "cat": "ok",
+    "front": "Compute",
+    "id": "008d923b22d3",
+    "minutes": 21,
+    "source": "OpenAI",
+    "title": "An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
+    "why": "Jalapeño, OpenAI's first inference chip, beats Blackwell on perf-per-watt in independent benchmarks - vertical integration reaching the newest frontier lab."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "d6f97bd05667",
+    "minutes": 32,
+    "source": "Pacing the Frontier",
+    "title": "How the US and China Could Verifiably Slow AI",
+    "why": "Lab employees including Amodei ask governments for verifiable US-China pacing tools, backed by polling showing 64% of Americans think AI moves too fast."
+   }
+  ],
+  "reserve": "1087ffbb19ee",
+  "status": "provisional",
+  "thin": 1,
+  "total": 53,
+  "unreadable": 5
  }
 }

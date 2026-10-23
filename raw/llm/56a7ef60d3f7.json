@@ -1,0 +1,14 @@
+{
+  "id": "56a7ef60d3f7",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Moonshot's announcement of Kimi K3.1 Pro, the first model in the K3.1 series and its most capable 3T-class open-weight model, with a 1-million-token context window. It delivers substantial improvements across coding, 3D creation, financial research, and other agentic capabilities, and ships alongside K3.1 Pro Highspeed (2-3x faster). Both are available today on Kimi.ai, Kimi Work, Kimi Code, and the Kimi API, with full weights by November 4.\n\nThe technical story is post-training at scale: K3.1 Pro is a post-trained version of K3 with substantially larger post-training compute, and Moonshot says enabling large-scale joint RL across hundreds of downstream domains required optimizing every layer of the stack - the RL framework, long-context inference, training efficiency, sandbox infrastructure, and rollout scheduling. The K3.1 series is Moonshot's bid to stay at the open-weight frontier against the proprietary leaders.",
+  "highlights": [
+    "Kimi K3.1 Pro: Moonshot's most capable 3T-class open-weight model, 1M-token context",
+    "Gains across coding, 3D creation, financial research, and agentic tasks; Highspeed variant is 2-3x faster",
+    "Available on Kimi.ai, Kimi Work, Kimi Code, and the API; full weights by November 4",
+    "Post-trained on K3 with substantially larger post-training compute",
+    "Required optimizing the full RL stack across hundreds of downstream domains"
+  ]
+}

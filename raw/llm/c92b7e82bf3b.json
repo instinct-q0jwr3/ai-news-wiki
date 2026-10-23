@@ -1,0 +1,14 @@
+{
+  "id": "c92b7e82bf3b",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Decoder's launch coverage: Kimi K3.1 Pro, a post-trained version of Kimi K3 with significantly more post-training compute, lands at number four on the Artificial Analysis Intelligence Index with 55 points - an 11-point jump over K3 - behind only Claude Opus 5.5 (58), Claude Sonnet 5.5 (56), and Muse Wonder Full (56). If Moonshot releases the weights as planned by November 4, K3.1 Pro becomes the highest-scoring open-weights model, shrinking the open-proprietary gap from 12 to 3 points.\n\nNotably, Moonshot says it removed cyber-related data from training phases 'to reduce potential misuse risk while preserving general usefulness' - a training-time safety intervention that will be watched as a test of whether capability and cyber-safety can be unbundled. A Highspeed variant ships alongside.",
+  "highlights": [
+    "Kimi K3.1 Pro: 55 on Artificial Analysis, 4th overall, an 11-point jump over K3",
+    "Only Opus 5.5 (58), Sonnet 5.5 (56), and Muse Wonder Full (56) rank higher",
+    "Weights by November 4 would make it the highest-scoring open-weights model (gap: 12 -> 3 points)",
+    "Moonshot removed cyber-related training data to reduce misuse risk while preserving usefulness",
+    "Post-trained version of K3 with substantially more post-training compute"
+  ]
+}

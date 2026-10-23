@@ -1,0 +1,14 @@
+{
+  "id": "86fd0cb2262c",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A Show HN gave an AI 45,047 Enron emails and let it write a 214-page 'company brain': wiki pages about the companies, regulators, and banks Enron dealt with, where every fact is a sentence carrying a date and a citation back to the email it came from. When later mail shows a fact stopped being true, the page expires it on that date - so each page has a slider that replays what was known at any point in time.\n\nNo human edited a page or a fact; accuracy figures come from a held-out audit by a second AI, documented in the methodology. The design thesis is that facts-as-sentences-with-dates-and-sources capture what CRM-style fields cannot: knowledge that changes too often or doesn't fit a schema. It is one of the cleaner public demonstrations of cited, time-aware document synthesis over a large real corpus.",
+  "highlights": [
+    "AI wrote a 214-page wiki from 45,047 Enron emails; every fact cites its source email",
+    "Facts carry dates and expire when later emails contradict them",
+    "Each page has a time slider replaying what was known on a given date",
+    "No human edited any page or fact; a second AI ran a held-out audit",
+    "Thesis: sentence-facts with dates and sources capture what CRM fields cannot"
+  ]
+}

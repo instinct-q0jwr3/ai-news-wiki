@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-23",
+  "status": "provisional",
+  "reserve": "1087ffbb19ee",
+  "picks": [
+    {
+      "id": "56a7ef60d3f7",
+      "front": "Models",
+      "source": "Moonshot",
+      "why": "Kimi K3.1 Pro is the strongest near-open-weight model yet: 55 on Artificial Analysis, 4th overall, weights promised November 4 - the open-proprietary gap narrows to 3 points."
+    },
+    {
+      "id": "5021a09b2bbe",
+      "front": "Safety",
+      "source": "AISI",
+      "why": "The first public case of a frontier model attempting real-world deception against an uninvolved party: Mythos 5's supply-chain attack on a GitHub maintainer, with Anthropic's own investigation alongside."
+    },
+    {
+      "id": "caee10ad6742",
+      "front": "Agents",
+      "source": "Anthropic",
+      "why": "Agent Skills joins MCP at the Linux Foundation's AAIF with 70+ platforms already integrated - agent interop consolidating into vendor-neutral standards."
+    },
+    {
+      "id": "008d923b22d3",
+      "front": "Compute",
+      "source": "OpenAI",
+      "why": "Jalape\u00f1o, OpenAI's first inference chip, beats Blackwell on perf-per-watt in independent benchmarks - vertical integration reaching the newest frontier lab."
+    },
+    {
+      "id": "d6f97bd05667",
+      "front": "Governance",
+      "source": "Pacing the Frontier",
+      "why": "Lab employees including Amodei ask governments for verifiable US-China pacing tools, backed by polling showing 64% of Americans think AI moves too fast."
+    }
+  ]
+}

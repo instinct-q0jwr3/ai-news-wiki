@@ -1,0 +1,14 @@
+{
+  "id": "3af86931150d",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "An incident-review veteran building Greenflagged, a security-focused package registry, notices something uncanny about the mistakes AI agents make on his codebase: they are exactly the mistakes human engineers make. His long-standing rule from production incidents is that the most common cause of failure is 'we didn't (or couldn't) follow our process' - and agents fail the same way: skipping steps, poking at problems instead of understanding them, taking the plausible path over the verified one.\n\nThe conclusion is operational: if agents fail like engineers, review them like engineers. That means the same code review discipline, the same process gates, the same post-incident curiosity applied to agent work as to a junior hire - not blind trust because the author is a machine, and not dismissal either, since the failure modes are familiar and manageable.",
+  "highlights": [
+    "Agents make recognizably human mistakes: skipped steps, poking instead of understanding, plausible over verified",
+    "Author's incident-review background: most failures come from not following process",
+    "Greenflagged (a security-focused package registry) supplies the case material",
+    "Conclusion: review agent work with the same discipline as a human engineer's",
+    "Familiar failure modes mean manageable ones - neither blind trust nor dismissal"
+  ]
+}

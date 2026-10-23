@@ -1,0 +1,14 @@
+{
+  "id": "9f08b6157c52",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Latent Space maps the sudden mathematical turn: in May an internal OpenAI model found a counterexample to Erdos's unit distance conjecture, open since 1946; a month later OpenAI published a proof of the Cycle Double Cover problem, then ten more open problems by July and a Navier-Stokes proof in September. Anthropic published a formalization of Fermat's Last Theorem and advanced bounds on the Riemann hypothesis. The models are suddenly good at math, and the essay asks the predictive question: what makes a problem tractable for an LLM, and what do these solutions have in common?\n\nThe emerging pattern: models excel where problems admit large search spaces with cheap verification - counterexamples and formal proofs are self-checking - and struggle where 'guiding intuition' through long analytic regimes is required, as one mathematician's quote about a hard problem illustrates. If AI solves problems differently from humans, the tractability map may forecast which domains fall next - and which stay human-led.",
+  "highlights": [
+    "Timeline: Erdos unit-distance counterexample (May), Cycle Double Cover proof (June), 10 more opens (July), Navier-Stokes (September)",
+    "Anthropic formalized Fermat's Last Theorem and advanced Riemann-hypothesis bounds",
+    "Thesis: models win where search is large but verification is cheap - counterexamples, formal proofs",
+    "They struggle where long analytic intuition is required",
+    "If AI solves problems differently, the tractability pattern predicts the next domains to fall"
+  ]
+}

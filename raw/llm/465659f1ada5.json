@@ -1,0 +1,14 @@
+{
+  "id": "465659f1ada5",
+  "authored_at": "2026-10-23T20:45:05Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Artificial Analysis' model card for Kimi K3.1 Pro: a score of 55 on its Intelligence Index - well above the 27 median for comparable models - with text and image input, a 1M-token context window, and pricing of $2.00 per million input and $10.00 per million output tokens, both at the median. The evaluation notes the model is verbose (150M tokens generated across the Intelligence Index versus an 87M median) and slightly slower than average at 77 tokens per second.\n\nThe card lands K3.1 Pro on the Pareto line of intelligence for its price band: frontier-adjacent intelligence at moderate cost, with verbosity the main efficiency caveat - an important footnote for agentic workloads where output tokens dominate spend.",
+  "highlights": [
+    "Kimi K3.1 Pro: 55 on the Artificial Analysis Intelligence Index (median for comparables: 27)",
+    "$2.00/M input, $10.00/M output - moderate pricing; ~$2.11 per Index task",
+    "Verbose: 150M tokens generated during evaluation vs 87M median",
+    "77 tokens/second, slightly below the 81 median",
+    "1M-token context, text+image input; sits on the Pareto line for its price"
+  ]
+}

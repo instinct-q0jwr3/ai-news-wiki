@@ -1,143 +1,95 @@
 {
- "generated_at": "2026-10-23T14:27:57+00:00",
+ "generated_at": "2026-10-23T20:28:49+00:00",
  "stories": [
   {
-   "id": "b2946111af22",
-   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "id": "56a7ef60d3f7",
+   "title": "Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4",
+   "source": "Techmeme",
+   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+  },
+  {
+   "id": "465659f1ada5",
+   "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
    "source": "Hacker News",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"
+   "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
   },
   {
-   "id": "e6a5b1a64bc5",
-   "title": "The Rise and Fall of Jev",
+   "id": "86fd0cb2262c",
+   "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
    "source": "Hacker News",
-   "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm"
+   "url": "https://www.thisandthat.chat/enron/"
   },
   {
-   "id": "46fc777cdb4d",
-   "title": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025",
+   "id": "2c0e60b3f8ba",
+   "title": "Anthropic attributes Mythos 5's deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so",
    "source": "Techmeme",
-   "url": "https://www.axios.com/pro/biotech-deals/2026/10/23/pathos-ai-raises-237m-3b-valuation"
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
   },
   {
-   "id": "2ee3c80982c6",
-   "title": "How we deploy Trillion-parameter frontier models on Cerebras",
-   "source": "TLDR AI",
-   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-  },
-  {
-   "id": "bb298f2e891c",
-   "title": "Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4"
-  },
-  {
-   "id": "e7621d603472",
-   "title": "OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html"
-  },
-  {
-   "id": "5296aa0ae6fa",
-   "title": "NVIDIA's Video Generation with Matching 3D Motion",
-   "source": "TLDR AI",
-   "url": "https://research.nvidia.com/labs/par/projects/jca/"
-  },
-  {
-   "id": "addb4ff9d25b",
-   "title": "Does Flapping Airplanes Mean Short Timelines and Hard Treaty Enforcement?",
-   "source": "TLDR AI",
-   "url": "https://x.com/imjmcinnis/status/2113337229288620403"
-  },
-  {
-   "id": "acf5dc822523",
-   "title": "What happened to the missing Gemini 3.5 Pro model that never shipped?",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2113398193614655594.html"
-  },
-  {
-   "id": "08d722d4f9e0",
-   "title": "Claude's Text Output Now Carries an Invisible Watermark",
-   "source": "TLDR AI",
-   "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you"
-  },
-  {
-   "id": "1087ffbb19ee",
-   "title": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-  },
-  {
-   "id": "600744698f35",
-   "title": "The full Claude Platform, available on Google Cloud",
-   "source": "TLDR AI",
-   "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed"
-  },
-  {
-   "id": "13e71514dde4",
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "id": "e7a8f0f52739",
+   "title": "Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/formal-verification"
+   "url": "https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks"
   },
   {
-   "id": "4c0e53cd3c0b",
-   "title": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more",
+   "id": "3b81e682f5ac",
+   "title": "Show HN: Searching for optimal strategies in a puzzle game with chance",
+   "source": "Hacker News",
+   "url": "https://drop7.dev"
+  },
+  {
+   "id": "3af86931150d",
+   "title": "Agents fail like engineers, so I review them like engineers",
+   "source": "Hacker News",
+   "url": "https://blog.greenflagged.dev/posts/agents-fail-like-engineers/"
+  },
+  {
+   "id": "dbc600a0cbc8",
+   "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+   "source": "Hacker News",
+   "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
+  },
+  {
+   "id": "f4f0fb4a4ab7",
+   "title": "AI models think humans are a bunch of amoral sheep",
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123"
+  },
+  {
+   "id": "5021a09b2bbe",
+   "title": "AISI finds Mythos 5 attempted a supply-chain attack by submitting malicious code and creating fake accounts to pressure a GitHub maintainer into accepting it",
    "source": "Techmeme",
-   "url": "https://www.dwarkesh.com/p/intel-tour"
+   "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident"
   },
   {
-   "id": "d6f97bd05667",
-   "title": "How the US and China Could Verifiably Slow AI",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai"
+   "id": "9f08b6157c52",
+   "title": "AI Is Getting Good at Math. Here’s Why.",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ai-is-getting-good-at-math/"
   },
   {
-   "id": "7ec0cba5885a",
-   "title": "How Researchers Tested OpenAI's Internal Agent Monitoring",
-   "source": "TLDR AI",
-   "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/"
-  },
-  {
-   "id": "85057b31cb1b",
-   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-   "source": "TLDR AI",
-   "url": "https://simedw.com/2026/10/21/world-model-terminal/"
-  },
-  {
-   "id": "008d923b22d3",
-   "title": "An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
-   "source": "TLDR AI",
-   "url": "https://taekim.substack.com/p/an-interview-with-openais-richard"
-  },
-  {
-   "id": "caee10ad6742",
-   "title": "Anthropic Donates Agent Skills to Linux Foundation",
-   "source": "TLDR AI",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-  },
-  {
-   "id": "e74a6aedb81d",
-   "title": "Introducing 1Password for Agents",
-   "source": "TLDR AI",
-   "url": "https://1password.com/blog/1password-for-ai-agents"
-  },
-  {
-   "id": "87c1aab7aaf7",
-   "title": "A Novel Self-Distillation Method",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are"
-  },
-  {
-   "id": "e1c602ce707a",
-   "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-   "source": "TLDR AI",
-   "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/"
-  },
-  {
-   "id": "1d53592e2fec",
-   "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\"",
+   "id": "a1d9287fafbb",
+   "title": "OpenAI says it is cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions",
    "source": "Techmeme",
-   "url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents"
+  },
+  {
+   "id": "f8ee876a76a7",
+   "title": "Introducing Kimi K3.1 Pro",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+  },
+  {
+   "id": "c92b7e82bf3b",
+   "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\"",
+   "source": "Techmeme",
+   "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/"
+  },
+  {
+   "id": "13dee2f683ac",
+   "title": "Artificial Analysis says Kimi K3.1 Pro lands 4th on its Intelligence Index, behind only Opus 5.5 (max), Sonnet 5.5 (max), and Muse Wonder Full (max) (@artificialanlys)",
+   "source": "Techmeme",
+   "url": "https://x.com/artificialanlys"
   }
  ]
 }

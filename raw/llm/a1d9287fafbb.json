@@ -1,0 +1,12 @@
+{
+  "id": "a1d9287fafbb",
+  "authored_at": "2026-10-23T20:38:28Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "OpenAI says it has begun cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions, Bloomberg reports - a containment measure as training-time agents get more capable.",
+  "highlights": [
+    "OpenAI is cutting internet access for its most capable models during training (Bloomberg)",
+    "The cutoff holds until safeguards mitigate online actions"
+  ],
+  "basis": "Basis: source fetch failed during an evening fetch outage; note built from the feed item's title/metadata, to be upgraded when the cache fills."
+}
