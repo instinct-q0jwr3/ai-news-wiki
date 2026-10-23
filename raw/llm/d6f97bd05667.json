@@ -1,0 +1,14 @@
+{
+  "id": "d6f97bd05667",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A new AP-NORC poll finds 64% of Americans think AI is developing 'too fast' (27% 'about right,' 8% 'too slow'), released alongside Pacing the Frontier, an initiative whose signatories - including Anthropic CEO Dario Amodei and employees of Meta, OpenAI, and Alphabet - ask the US government to support an international effort to develop the technical and governance tools needed to deliberately pace frontier AI development, with backing from nonprofits Guidelight AI Standards and Encode AI.\n\nThe piece pairs the public-opinion finding with the concrete policy problem: how the US and China could verifiably slow AI. Any pacing regime needs verification methods that survive distrust between rivals - monitoring compute, detecting undeclared training runs, and making compliance observable without revealing proprietary details - which is exactly the tooling the initiative wants governments to fund.",
+  "highlights": [
+    "AP-NORC poll: 64% of Americans say AI is developing too fast; only 8% say too slow",
+    "'Pacing the Frontier' initiative: employees of Meta, Anthropic, OpenAI, Alphabet call for deliberate pacing",
+    "Signatories include Anthropic CEO Dario Amodei; backed by Guidelight AI Standards and Encode AI",
+    "Asks the US government to support international technical and governance tools for pacing",
+    "Core problem: verifying a US-China slowdown without trusting the other side"
+  ]
+}

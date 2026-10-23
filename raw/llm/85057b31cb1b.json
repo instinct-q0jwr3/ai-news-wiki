@@ -1,0 +1,14 @@
+{
+  "id": "85057b31cb1b",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "WorldTUI: a 360M-parameter language model fine-tuned to pretend to be a terminal - no shell or filesystem behind it, just keypresses in and screen updates out. It can create files, run vim and tmux, play snake, and usually remembers what you wrote a few commands later. The biggest training wins were teaching it to repair its own mistakes and decoding screen rows in parallel. A 208 MB in-browser WebGPU demo runs on desktop Chrome or Edge; typing 'pythoon' reveals it's not a real shell.\n\nThe project, inspired by Genie-style world models, is a neat lower bound for learned simulators: a terminal is a fully observable, text-rendered environment, so a small model can capture much of its dynamics. The gaps - forgetting state, drifting consistency - are exactly the challenges world models face at larger scales, making this a legible testbed for simulation fidelity.",
+  "highlights": [
+    "WorldTUI: a 360M model that simulates a terminal - keypresses in, screen updates out, no real shell",
+    "Can create files, run vim and tmux, play snake; usually recalls earlier commands",
+    "Key techniques: self-repair training and parallel screen-row decoding",
+    "208 MB WebGPU browser demo (desktop Chrome/Edge recommended)",
+    "A legible small-scale testbed for world-model consistency problems"
+  ]
+}

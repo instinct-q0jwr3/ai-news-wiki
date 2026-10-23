@@ -1,0 +1,14 @@
+{
+  "id": "e1c602ce707a",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Microsoft launched Microsoft-Decision-1 on October 9: a model that refuses to write you a paragraph. It doesn't chat, summarize, or draft - it scores a fixed list of answer options in a single forward pass, returns a probability for each, and gets out of the way. Built on Alibaba's Qwen3.5-9B, it shipped through Microsoft Foundry immediately and OpenRouter shortly after, with internal uses cited from incident response to scientific discovery.\n\nThe launch is narrow by design, and the piece argues that is what makes it interesting: while the industry races toward bigger, chattier assistants, Microsoft shipped a System One-style decision model - the category TypeSafe's Jev created - signaling that fast classification over fixed option sets is becoming standard infrastructure, available from big clouds and not just neolabs.",
+  "highlights": [
+    "Microsoft-Decision-1: a 9B model that scores fixed options in one forward pass, no chat",
+    "Built on Alibaba's Qwen3.5-9B; available via Microsoft Foundry and OpenRouter",
+    "Internal uses range from incident response to scientific discovery",
+    "Microsoft's entry into the decision-model category TypeSafe created with Jev",
+    "Narrow by design: probabilities over options, not generated prose"
+  ]
+}

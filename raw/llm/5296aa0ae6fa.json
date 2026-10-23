@@ -1,0 +1,14 @@
+{
+  "id": "5296aa0ae6fa",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "NVIDIA Research presents Joints, Camera, Action! (JCA), which jointly generates video and synchronized 3D motion for rigs of any topology from a text prompt. An input image grounds the motion in its surroundings so it can be registered within the 3D scene, and a few chosen keyframes give control over the motion trajectory. JCA also converts in both directions: rig motion to video and video to rig motion.\n\nThe motivation is that video-generation models now depict remarkably realistic motion, but that motion is trapped in pixels - unusable for animating a specific 3D asset or replaying animation inside a scene. JCA extracts the underlying articulated motion alongside the video, turning generative video into a source of actual animation data for games, film, and simulation.",
+  "highlights": [
+    "JCA jointly generates video and synchronized 3D motion for rigs of any topology from text",
+    "Input image grounds motion in surroundings; keyframes control trajectory",
+    "Bidirectional: rig motion to video and video to rig motion",
+    "Solves the 'motion trapped in pixels' problem of video generators",
+    "Turns generative video into usable animation data for 3D assets"
+  ]
+}

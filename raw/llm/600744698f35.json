@@ -1,0 +1,14 @@
+{
+  "id": "600744698f35",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The full Claude Platform is now available on Google Cloud through Anthropic's managed offering: customers get the native Claude API with Google Cloud as the access layer, keeping existing IAM setups and counting usage toward Google Cloud commitments. Customer quotes emphasize day-one access to new Claude features and keeping capabilities like prompt caching while moving billing and access onto Google Cloud.\n\nStrategically, this completes Claude's availability across the major clouds' managed layers, letting enterprises standardize procurement, identity, and billing on Google Cloud without giving up the native Anthropic API surface - a distribution play that meets enterprise buyers inside their existing cloud commitments.",
+  "highlights": [
+    "The full Claude Platform is available on Google Cloud via Anthropic's managed offering",
+    "Native Claude API with Google Cloud as the access layer; existing IAM carries over",
+    "Usage counts toward Google Cloud commitments; prompt caching and billing intact",
+    "Customers cite day-one access to new Claude features as the draw",
+    "Extends Claude's distribution across major cloud procurement channels"
+  ]
+}

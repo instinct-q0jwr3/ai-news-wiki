@@ -1167,6 +1167,61 @@
         "702fe688ccf4"
       ],
       "concepts": []
+    },
+    {
+      "title": "System One becomes contested ground",
+      "intro": "OpenAI's Decisions API went GA with voice and visual modes, days after Microsoft's Decision-1 - while TypeSafe's Jev launch post resurfaces as the category's origin story and a skeptical look at Flapping Airplanes questions what efficiency neolabs are really worth.",
+      "stories": [
+        "1087ffbb19ee",
+        "e1c602ce707a",
+        "e6a5b1a64bc5",
+        "addb4ff9d25b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Skills for everyone, watermarks for Europe",
+      "intro": "Anthropic's Agent Skills donation formalizes a standard 70+ platforms already use, Claude and ChatGPT text gets invisible watermarks under the EU AI Act, 1Password ships credential management for agents, and Claude's full platform lands on Google Cloud.",
+      "stories": [
+        "caee10ad6742",
+        "08d722d4f9e0",
+        "e74a6aedb81d",
+        "600744698f35"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Chips all the way down",
+      "intro": "OpenAI's Jalape\u00f1o inference silicon draws praise from Richard Ho's own telling, Cerebras explains trillion-parameter serving on wafers, and Dwarkesh Patel tours Intel's leading-edge fab where supply, not demand, is the constraint.",
+      "stories": [
+        "008d923b22d3",
+        "2ee3c80982c6",
+        "4c0e53cd3c0b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Oversight gets tested",
+      "intro": "METR's own account of red-teaming OpenAI's agent monitoring pairs with a US-China verifiable-pacing proposal backed by 64% public support for slowing down, Sweden's government offices move to ban ChatGPT and Claude, and Anthropic plots a consultancy with Hg.",
+      "stories": [
+        "7ec0cba5885a",
+        "d6f97bd05667",
+        "b2946111af22",
+        "bb298f2e891c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "NVIDIA turns video generation into usable 3D motion, a 360M model pretends to be a terminal, Pathos raises $237M for AI oncology, and a new self-distillation method makes the TLDR cut.",
+      "stories": [
+        "5296aa0ae6fa",
+        "85057b31cb1b",
+        "46fc777cdb4d",
+        "87c1aab7aaf7",
+        "acf5dc822523"
+      ],
+      "concepts": []
     }
   ]
 }

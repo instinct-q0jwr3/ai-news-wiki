@@ -1,0 +1,11 @@
+{
+  "id": "acf5dc822523",
+  "authored_at": "2026-10-23T14:33:42Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Alex Heath digs into what happened to the Gemini 3.5 Pro model that never shipped, per a TLDR AI selection. The cached copy captured only the social-post wrapper rather than the reporting, so the substance is unavailable from this pass's source.",
+  "highlights": [
+    "TLDR AI featured reporting on the missing Gemini 3.5 Pro model that never shipped"
+  ],
+  "basis": "Cached source is a threadreader wrapper without the content; note built from the TLDR AI item title."
+}

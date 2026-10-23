@@ -1,0 +1,14 @@
+{
+  "id": "caee10ad6742",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic's own announcement that it is donating Agent Skills - the open standard giving AI agents specialized knowledge and workflows - to the Agentic AI Foundation under the Linux Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated the standard since its December 2025 publication.\n\nThe post explains what a skill is: a folder containing a SKILL.md file that teaches an agent a specific task or domain, plus any scripts or reference material it needs. Anthropic developed skills while building Claude Code, which handled general knowledge work well but often lacked the procedural knowledge real business tasks demand; within weeks of the October 2025 launch, developers published thousands of skills. The AAIF donation - following MCP - formalizes skills as neutral infrastructure no single vendor controls.",
+  "highlights": [
+    "Anthropic donates Agent Skills to the Agentic AI Foundation (Linux Foundation)",
+    "70+ platforms integrated the standard since December 2025: ChatGPT, Cursor, GitHub Copilot, VS Code",
+    "A skill is a folder with a SKILL.md teaching a task or domain, plus scripts and references",
+    "Born from Claude Code's gap: general knowledge strong, procedural business knowledge weak",
+    "Second major standard Anthropic has given the AAIF after MCP"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1087ffbb19ee",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "OpenAI made its Decisions API generally available with new voice and visual modes, entering the market for fast, cheap intelligence that made TypeSafe - the startup founded by an ex-OpenAI researcher - a $7.6 billion company. TypeSafe's Jev created the category: decision or System One models that act as super classifiers, taking a set of options and returning a choice with a confidence rating instead of generating prose.\n\nSoftware developers quickly found these models could replace LLM calls in latency- and cost-sensitive paths, and OpenAI's GA - with Microsoft having shipped its own Decision-1 days earlier - confirms the category is now contested infrastructure rather than one startup's moat. The voice and visual modes extend decision models beyond text classification into multimodal routing, suggesting the labs see System One APIs as a complement to reasoning models across the agent stack.",
+  "highlights": [
+    "OpenAI's Decisions API is generally available with new voice and visual modes",
+    "Competes with TypeSafe's Jev, which created the System One decision-model category",
+    "Decision models classify over fixed options with confidence, replacing LLM calls in latency-sensitive paths",
+    "Microsoft shipped its own Decision-1 days earlier; the category is now contested",
+    "Voice and visual modes extend decisions beyond text into multimodal routing"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2ee3c80982c6",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Cerebras explains how it deploys trillion-parameter frontier models on wafer-scale hardware: a single WSE-3T wafer carries 44 GB of on-chip memory while trillion-parameter models need terabytes for weights alone, so the models are split across multiple wafers. Using the open-source Kimi K3 (~3 trillion parameters, 69 linear-attention layers and 24 dense layers, 88.3% on Terminal-Bench) as the worked example, the post walks through the partitioning that yields 1000-2000+ tokens per second on multi-trillion-parameter models.\n\nThe write-up is both engineering documentation and positioning: wafer-scale's pitch is that fast single-user inference on the largest open models is a different product than datacenter GPUs slicing the same work, and publishing the partitioning strategy invites the open-model community to treat Cerebras as the default fast path for trillion-parameter serving.",
+  "highlights": [
+    "Cerebras details splitting trillion-parameter models across multiple WSE-3T wafers (44 GB on-chip each)",
+    "Worked example: open-source Kimi K3, ~3T params, 69 linear-attention + 24 dense layers",
+    "Achieves 1000-2000+ tokens/second on multi-trillion-parameter models",
+    "Kimi K3 scores 88.3% on Terminal-Bench",
+    "Positions wafer-scale as the fast single-user inference path for the largest open models"
+  ]
+}

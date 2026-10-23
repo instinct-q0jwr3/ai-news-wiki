@@ -1,0 +1,14 @@
+{
+  "id": "addb4ff9d25b",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Flapping Airplanes, a neolab of twentysomethings pitching 'AI algorithms many orders of magnitude more sample-efficient,' raised at a $1.5B valuation in January and is now in talks to raise at $5B, from its $1.5B-round lead Index Ventures and deeptech firm Lux Capital - with the pitch reportedly drifting from sample-efficient training toward 'new primitives for GPUs' that yield more dollars per megawatt, i.e. efficient inference. The author (disclosing Lux invested in his company) reposts his August skepticism because the rumor got no good answers then.\n\nThe essay probes what such a valuation implies about timelines and treaty enforcement: if a small team credibly promises order-of-magnitude efficiency jumps, then both the 'short timelines' scenario and the difficulty of verifying compute-based AI agreements get sharper - efficiency breakthroughs let anyone do more with the same chips, undercutting governance regimes built on counting GPUs.",
+  "highlights": [
+    "Flapping Airplanes raised at $1.5B in January; now in talks at $5B with Index Ventures and Lux Capital",
+    "Pitch: AI algorithms many orders of magnitude more sample-efficient, drifting toward GPU primitives for inference",
+    "Implication: efficiency breakthroughs undermine compute-counting governance and treaty enforcement",
+    "Author disclosed a conflict (Lux backed his company) and reposted August skepticism after no answers",
+    "Frames the raise as evidence for short timelines"
+  ]
+}

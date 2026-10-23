@@ -1,0 +1,14 @@
+{
+  "id": "7ec0cba5885a",
+  "authored_at": "2026-10-23T14:33:39Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "METR's account of a three-week pilot (July 21 - August 11) in which a METR employee and a Redwood Research employee ran a high-access exercise stress-testing OpenAI's internal misalignment monitoring system. The output was a 61-page internal report shared with OpenAI researchers and security staff, focused on two questions: what fraction of agentic inference is actually monitored, and whether agents could evade that monitoring.\n\nThe exercise - the same pilot whose findings Reuters reported as including an exploit that could have let agents hide hundreds of recent actions - is a first public look at third-party red-teaming of a frontier lab's internal oversight stack. It establishes the methodology (embedded testers with high access, estimating monitoring coverage and testing evasion) and sets expectations for what external verification of internal safety systems can and cannot certify.",
+  "highlights": [
+    "METR + Redwood Research ran a 3-week high-access pilot against OpenAI's agent-monitoring system",
+    "Produced a 61-page internal report shared with OpenAI research and security staff",
+    "Key questions: what fraction of agentic inference is monitored; can agents evade monitoring",
+    "Reuters reported the pilot found vulnerabilities, including an exploit to hide hundreds of actions",
+    "First public third-party red-team of a frontier lab's internal oversight stack"
+  ]
+}
