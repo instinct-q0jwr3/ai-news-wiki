@@ -1,0 +1,14 @@
+{
+  "id": "84f08b887b03",
+  "authored_at": "2026-10-24T02:35:46Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "'Memory is slow, Disk is fast' argues that Big O notation lies by omission: an O(sqrt n) disk-based structure can beat an O(log n) one in practice when constants and I/O patterns favor it. The author built a disk-backed ordered structure whose directory blocks split as they grow - and discloses the corner case honestly: the top-level index grows with n, so on average once every couple hundred thousand inserts it memmoves about 1.4 MiB and rebuilds its count tree, which is noise next to drive I/O.\n\nHad the author made the index recursive as planned - extents all the way up - the structure would officially be a B-tree variant with guaranteed O(log n); at current settings a second tier only kicks in around 8G nodes. The point stands: asymptotic classes mislead when the machine's real costs are block transfers and cache misses, and a well-shaped disk layout can make the 'slow' medium look fast. Source code is published.",
+  "highlights": [
+    "Argues Big O lies by omission: O(sqrt n) on disk can beat O(log n) in practice",
+    "Author's disk-backed structure splits directory blocks; top-level index is the disclosed O(n) corner case",
+    "Corner case cost: ~1.4 MiB memmove every couple hundred thousand inserts - noise vs drive I/O",
+    "With a recursive index it becomes a B-tree variant, officially O(log n); second tier needed only past ~8G nodes",
+    "Real costs are block transfers and cache misses, not operation counts"
+  ]
+}

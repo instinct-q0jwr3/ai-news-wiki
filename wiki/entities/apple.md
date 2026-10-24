@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-24 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-24** - Cory Doctorow's Pluralistic links post for October 23 leads with 'Critique and writing': the argument that the most important part of a writing workshop is fixing other people's stories, not receiving notes on your own. Peer workshops work for… ([Pluralistic: Critique and writing (23 Oct 2026)](../summaries/846557cfe3d1.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-23** - OnKey is a free, open-source singing trainer for Apple Silicon Macs, built by a self-described bad singer after his previous app flooded its catalog with AI-generated songs. Play a song in Spotify, Apple Music, or YouTube in the browser and sing along: the… ([Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](../summaries/702fe688ccf4.md) · [Anthropic](../entities/anthropic.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-21** - Cory Doctorow's Pluralistic for 21 October argues adversarial interoperability is a team sport. Digital technology should be hard to enshittify because every computer is a Turing-complete universal machine: when a boss removes a valued feature (Sonos… ([Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)](../summaries/1923854577c3.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-19** - Stratechery's Ben Thompson asks 'Do You Trust Apple?' by contrasting two keynotes a generation apart. In 1999 Steve Jobs introduced AirPort - built hand-in-hand with Lucent over 18 months - as an example of an Apple eager to race ahead and plant seeds for… ([Do You Trust Apple?](../summaries/4fa660010008.md) · [Apple](../entities/apple.md))

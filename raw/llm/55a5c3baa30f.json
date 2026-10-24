@@ -1,0 +1,13 @@
+{
+  "id": "55a5c3baa30f",
+  "authored_at": "2026-10-24T02:35:46Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Simon Willison's Quick Study: a Claude Opus 5.5 High artifact that opens a photo and repaints it in seconds on a canvas element with simulated brushstrokes - built from a single prompt. The technique uses Sobel edge detection with no external libraries beyond Google Fonts, following his earlier experiment getting Claude Fable to simulate a watercolor illustration in P5.js.\n\nThe beat is a small, legible example of artifact-style prompting: a self-contained creative tool where the model chooses both the algorithm (edge detection guiding stroke placement) and the implementation, producing a painterly rendering pipeline in one shot.",
+  "highlights": [
+    "Quick Study: Claude Opus 5.5 artifact that repaints a photo with simulated brushstrokes",
+    "Built from one prompt; renders in seconds on a canvas element",
+    "Technique: Sobel edge detection, no external libraries beyond Google Fonts",
+    "Follows Willison's earlier Claude Fable watercolor simulation in P5.js"
+  ]
+}

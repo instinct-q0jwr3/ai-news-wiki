@@ -1,0 +1,41 @@
+{
+  "id": "digest-2026-10-24",
+  "date": "2026-10-24",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "AI's enterprise bill reaches a fifth of IT budgets, the UK stands up a biosecurity lab, and the tooling keeps getting stranger.",
+  "sections": [
+    {
+      "title": "The bill comes due",
+      "intro": "Forrester counts AI at 20% of IT budgets by 2027 with most executives missing ROI targets, while UX practitioners describe mandate-driven adoption they don't believe in and universities confront a credential crisis the machines only made visible.",
+      "stories": [
+        "11c5abac7239",
+        "233d79f955f0",
+        "0cb2aab43234"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Defending the frontier",
+      "intro": "The UK funds a \u00a3100M AI Biosecurity Lab with all three frontier labs attached, OpenAI explains how it locks down training, and Mave raises $28M to automate security investigations.",
+      "stories": [
+        "28f88f9421a1",
+        "273db08ff029",
+        "0fea87ba75af"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Odd drops",
+      "intro": "An agent multiplexer for your terminal, a B-tree heresy about disk speed, Doctorow on why fixing others' stories teaches writing, a one-prompt photo painter, and a $1B AI film studio.",
+      "stories": [
+        "9c6143140693",
+        "84f08b887b03",
+        "846557cfe3d1",
+        "55a5c3baa30f",
+        "31982aa92390"
+      ],
+      "concepts": []
+    }
+  ]
+}

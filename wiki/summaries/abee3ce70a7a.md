@@ -1,6 +1,6 @@
 # If AI keeps evolving,would you worry about your next generation's survival
 
-_type: news-summary · created: 2026-10-10 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-10 · updated: 2026-10-24 · confidence: high_
 
 `hacker-news`
 

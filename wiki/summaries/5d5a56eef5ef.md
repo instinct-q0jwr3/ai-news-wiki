@@ -1,6 +1,6 @@
 # SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful
 
-_type: news-summary · created: 2026-10-20 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-20 · updated: 2026-10-24 · confidence: high_
 
 `hacker-news` `external-evaluation`
 

@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-24 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-24** - Simon Willison's Quick Study: a Claude Opus 5.5 High artifact that opens a photo and repaints it in seconds on a canvas element with simulated brushstrokes - built from a single prompt. The technique uses Sobel edge detection with no external libraries… ([Quick Study](../summaries/55a5c3baa30f.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Small and specialist models](../concepts/small-specialist-models.md))
+- **2026-10-24** - The UK will invest £100 million to create the AI Biosecurity Lab (AIBL), a 'world first' national institute to strengthen defenses against emerging biological threats, announced as part of Wednesday's Budget with support from OpenAI, Anthropic, and Google… ([The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind](../summaries/28f88f9421a1.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-23** - Simon Willison's link post on Kimi K3.1 Pro's launch: live on the Kimi API today, not yet open weights but with full weights promised by November 4, 2026, plus a Highspeed variant 2-3x faster at twice the price (input cache hits priced the same). US… ([Introducing Kimi K3.1 Pro](../summaries/f8ee876a76a7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-23** - The full Claude Platform is now available on Google Cloud through Anthropic's managed offering: customers get the native Claude API with Google Cloud as the access layer, keeping existing IAM setups and counting usage toward Google Cloud commitments.… ([The full Claude Platform, available on Google Cloud](../summaries/600744698f35.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md))
 - **2026-10-23** - Alex Heath digs into what happened to the Gemini 3.5 Pro model that never shipped, per a TLDR AI selection. The cached copy captured only the social-post wrapper rather than the reporting, so the substance is unavailable from this pass's source. ([What happened to the missing Gemini 3.5 Pro model that never shipped?](../summaries/acf5dc822523.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

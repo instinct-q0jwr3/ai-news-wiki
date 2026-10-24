@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-24 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-10-24** - Cory Doctorow's Pluralistic links post for October 23 leads with 'Critique and writing': the argument that the most important part of a writing workshop is fixing other people's stories, not receiving notes on your own. Peer workshops work for… ([Pluralistic: Critique and writing (23 Oct 2026)](../summaries/846557cfe3d1.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-22** - Amazon rebranded Kindle Unlimited as Kindle+: still $12 a month, separate from Prime, with up to 20 titles borrowed at once - but the audiobook category now expands substantially, including titles narrated by AI through Amazon's Virtual Voice technology… ([Amazon rebrands its Kindle Unlimited subscription as Kindle+ and expands access to audiobooks, including titles narrated by AI](../summaries/9c4712dbd7f2.md) · [Amazon](../entities/amazon.md))
 - **2026-10-21** - OpenAI's 'Patch the Planet' post frames the PHP vulnerability work as a global response coordination effort, with AI uncovering the PHP flaws and defenders mobilizing ahead of disclosure. The post could not be fetched, so this summary is limited to the title. ([OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](../summaries/c9bf9f0bb65b.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md)) ⚠
 - **2026-10-21** - Cloudflare describes its role in the coordinated php2shell disclosure (CVE-2026-109618 and CVE-2026-109619, by Calif.io, Wiz, OpenAI, and Quarkslab): it developed WAF protections in early October and deployed them about nine hours ahead of the 21 October… ([Cloudflare says it deployed default WAF mitigations for all free and paid tier customers to combat two PHP flaws, roughly nine hours ahead of public disclosure](../summaries/d64afb770767.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md))

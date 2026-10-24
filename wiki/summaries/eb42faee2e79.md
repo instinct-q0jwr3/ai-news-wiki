@@ -1,6 +1,6 @@
 # Chainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents
 
-_type: news-summary · created: 2026-10-15 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-15 · updated: 2026-10-24 · confidence: high_
 
 `techmeme` `agentic-systems` `agentic-commerce`
 

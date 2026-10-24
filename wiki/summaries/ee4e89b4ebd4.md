@@ -1,6 +1,6 @@
 # Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices
 
-_type: news-summary · created: 2026-10-15 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-15 · updated: 2026-10-24 · confidence: high_
 
 `techmeme` `anthropic` `external-evaluation` `small-specialist-models` `ai-safety-incidents`
 

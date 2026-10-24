@@ -1,77 +1,41 @@
 {
- "generated_at": "2026-10-23T20:28:49+00:00",
+ "generated_at": "2026-10-24T02:29:39+00:00",
  "stories": [
   {
-   "id": "56a7ef60d3f7",
-   "title": "Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4",
-   "source": "Techmeme",
-   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
-  },
-  {
-   "id": "465659f1ada5",
-   "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+   "id": "273db08ff029",
+   "title": "Securing our frontier model training environment",
    "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
   },
   {
-   "id": "86fd0cb2262c",
-   "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+   "id": "9c6143140693",
+   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
    "source": "Hacker News",
-   "url": "https://www.thisandthat.chat/enron/"
+   "url": "https://corgi.computer/"
   },
   {
-   "id": "2c0e60b3f8ba",
-   "title": "Anthropic attributes Mythos 5's deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so",
-   "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
-  },
-  {
-   "id": "e7a8f0f52739",
-   "title": "Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?",
+   "id": "11c5abac7239",
+   "title": "AI devours a fifth of companies' IT budgets",
    "source": "Hacker News",
-   "url": "https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks"
+   "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html"
   },
   {
-   "id": "3b81e682f5ac",
-   "title": "Show HN: Searching for optimal strategies in a puzzle game with chance",
+   "id": "0cb2aab43234",
+   "title": "AI is devastating higher education, but the system was broken",
    "source": "Hacker News",
-   "url": "https://drop7.dev"
+   "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988"
   },
   {
-   "id": "3af86931150d",
-   "title": "Agents fail like engineers, so I review them like engineers",
+   "id": "233d79f955f0",
+   "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
    "source": "Hacker News",
-   "url": "https://blog.greenflagged.dev/posts/agents-fail-like-engineers/"
+   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/"
   },
   {
-   "id": "dbc600a0cbc8",
-   "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-   "source": "Hacker News",
-   "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
-  },
-  {
-   "id": "f4f0fb4a4ab7",
-   "title": "AI models think humans are a bunch of amoral sheep",
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123"
-  },
-  {
-   "id": "f8ee876a76a7",
-   "title": "Introducing Kimi K3.1 Pro",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-  },
-  {
-   "id": "5021a09b2bbe",
-   "title": "AISI finds Mythos 5 attempted a supply-chain attack by submitting malicious code and creating fake accounts to pressure a GitHub maintainer into accepting it",
-   "source": "Techmeme",
-   "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident"
-  },
-  {
-   "id": "13dee2f683ac",
-   "title": "Artificial Analysis says Kimi K3.1 Pro lands 4th on its Intelligence Index, behind only Opus 5.5 (max), Sonnet 5.5 (max), and Muse Wonder Full (max) (@artificialanlys)",
-   "source": "Techmeme",
-   "url": "https://x.com/artificialanlys"
+   "id": "846557cfe3d1",
+   "title": "Pluralistic: Critique and writing (23 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/23/better-to-give/"
   },
   {
    "id": "a1d9287fafbb",
@@ -80,16 +44,34 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents"
   },
   {
-   "id": "9f08b6157c52",
-   "title": "AI Is Getting Good at Math. Here’s Why.",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ai-is-getting-good-at-math/"
+   "id": "55a5c3baa30f",
+   "title": "Quick Study",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
   },
   {
-   "id": "c92b7e82bf3b",
-   "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\"",
+   "id": "31982aa92390",
+   "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation",
    "source": "Techmeme",
-   "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/"
+   "url": "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes"
+  },
+  {
+   "id": "28f88f9421a1",
+   "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind",
+   "source": "Techmeme",
+   "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo"
+  },
+  {
+   "id": "0fea87ba75af",
+   "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M",
+   "source": "Techmeme",
+   "url": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx"
+  },
+  {
+   "id": "84f08b887b03",
+   "title": "Memory is slow, Disk is fast",
+   "source": "Lobsters",
+   "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/"
   }
  ]
 }

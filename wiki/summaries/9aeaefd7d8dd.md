@@ -1,6 +1,6 @@
 # JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-24 · confidence: high_
 
 `techmeme`
 

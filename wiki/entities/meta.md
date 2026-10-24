@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-24 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-24** - Utopai, an AI film studio claiming more than 20 projects in the works, raised $60 million at a $1 billion valuation, The Information reports - one of the largest bets yet on AI-native filmmaking while much of the industry fixates on assistants and agents. ([Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation](../summaries/31982aa92390.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md)) 🔒
 - **2026-10-23** - A look at how Meta's aggressive hunt for AI capital - debt, data-center financing, and spending commitments - is making Wall Street nervous, striking a raw nerve among investors. ([Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street](../summaries/777edfcd0182.md) · [Meta](../entities/meta.md)) 🔒
 - **2026-10-22** - Meta CEO Mark Zuckerberg said on the company's Q3 2026 earnings call that Muse, Meta's AI agent app, has attracted more than 10 million users since launch, and that over a quarter of them are making purchases through the app with an average purchase size… ([Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+](../summaries/280071895c52.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-10-22** - Meta raised its 2026 capital-expenditure outlook to $135-145 billion, up from $130-145 billion, as it deepens its AI infrastructure build-out, and forecast Q4 revenue of $73-76 billion against a $73.6 billion analyst consensus. Shares rose more than 3… ([Meta expects its 2026 capex to be $135B-$145B, vs. $130B-$145B previously, and forecasts Q4 revenue of $73B-$76B, vs. $73.6B est.; META jumps 3%+ after hours](../summaries/32213f1894b3.md) · [Meta](../entities/meta.md)) 🔒

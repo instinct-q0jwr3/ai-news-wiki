@@ -1,6 +1,6 @@
 # Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation
 
-_type: news-summary · created: 2026-10-20 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-20 · updated: 2026-10-24 · confidence: high_
 
 `techmeme` `openai` `agentic-systems`
 

@@ -1,6 +1,6 @@
 # Anthropic and OpenAI wargaming public and political revolt after AI catastrophe
 
-_type: news-summary · created: 2026-10-10 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-10 · updated: 2026-10-24 · confidence: high_
 
 `hacker-news` `openai` `anthropic`
 

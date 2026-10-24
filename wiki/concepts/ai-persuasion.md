@@ -1,6 +1,6 @@
 # Concept: Ai Persuasion
 
-_type: concept · created: 2026-10-23 · updated: 2026-10-23 · confidence: medium_
+_type: concept · created: 2026-10-24 · updated: 2026-10-24 · confidence: medium_
 
 `concept` `ai-persuasion`
 

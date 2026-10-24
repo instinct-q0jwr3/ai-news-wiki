@@ -1,6 +1,6 @@
 # Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens
 
-_type: news-summary · created: 2026-10-19 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-19 · updated: 2026-10-24 · confidence: high_
 
 `techmeme` `agentic-systems` `ai-safety-incidents`
 

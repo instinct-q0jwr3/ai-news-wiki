@@ -1,6 +1,6 @@
 # ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell
 
-_type: news-summary · created: 2026-10-21 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-21 · updated: 2026-10-24 · confidence: high_
 
 `techmeme` `nvidia` `agentic-systems` `ai-safety-incidents`
 

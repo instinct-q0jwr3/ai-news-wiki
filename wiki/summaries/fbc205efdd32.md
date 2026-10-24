@@ -1,6 +1,6 @@
 # Show HN: Jevman – AI decision models play Pac-Man
 
-_type: news-summary · created: 2026-10-09 · updated: 2026-10-23 · confidence: high_
+_type: news-summary · created: 2026-10-09 · updated: 2026-10-24 · confidence: high_
 
 `hacker-news` `openai` `typesafe` `external-evaluation`
 

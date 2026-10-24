@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-10-23 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-24 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-10-24** - The UK will invest £100 million to create the AI Biosecurity Lab (AIBL), a 'world first' national institute to strengthen defenses against emerging biological threats, announced as part of Wednesday's Budget with support from OpenAI, Anthropic, and Google… ([The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind](../summaries/28f88f9421a1.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-23** - Simon Willison's link post on Kimi K3.1 Pro's launch: live on the Kimi API today, not yet open weights but with full weights promised by November 4, 2026, plus a Highspeed variant 2-3x faster at twice the price (input cache hits priced the same). US… ([Introducing Kimi K3.1 Pro](../summaries/f8ee876a76a7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-23** - Alex Heath digs into what happened to the Gemini 3.5 Pro model that never shipped, per a TLDR AI selection. The cached copy captured only the social-post wrapper rather than the reporting, so the substance is unavailable from this pass's source. ([What happened to the missing Gemini 3.5 Pro model that never shipped?](../summaries/acf5dc822523.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-21** - Simon Willison's linkblog relays the PHP Foundation's post-mortem of the botched coordinated disclosure behind today's security release. The CVE IDs began circulating 20 October around 15:00 UTC with a wrong release time and a wrong CVSS of 10.0 (actually… ([Today's PHP Security Release, and How We're Strengthening PHP Security](../summaries/3175cadddea4.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

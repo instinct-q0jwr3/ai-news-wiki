@@ -1,0 +1,11 @@
+{
+  "id": "273db08ff029",
+  "authored_at": "2026-10-24T02:35:46Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "OpenAI published 'Securing our frontier model training environment,' a post on how it protects the infrastructure where its most capable models are trained. The source page is bot-blocked from this fetcher, so details are unavailable from this pass; the topic follows this week's report that OpenAI is cutting internet access for its strongest models during training.",
+  "highlights": [
+    "OpenAI published 'Securing our frontier model training environment'"
+  ],
+  "basis": "Basis: source bot-blocked (openai.com); note built from the feed item title."
+}

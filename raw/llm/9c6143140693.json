@@ -1,0 +1,14 @@
+{
+  "id": "9c6143140693",
+  "authored_at": "2026-10-24T02:35:46Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Corgi is an agent and terminal multiplexer - a tmux-style daily driver for running many AI agents at once, inspired by Herdr and built around ergonomics. It shows every agent, what it's doing, and who needs you: F1 to catch up, Ctrl-T to jump into work new or old, and hover to see what an agent did and where the tokens went. Agents and processes keep running in the background, tmux-style.\n\nThe details target agent-workflow pain points: every file an agent touched in one scroll, automatic workspace organization with per-workspace live status, image paste that works even over SSH (with Ghostty Nightly), undo tab close, and copyable links. Corgi uses your existing accounts - 'all of them' - and a corgi --skill command teaches your agents to drive Corgi itself from any terminal.",
+  "highlights": [
+    "Corgi: a terminal multiplexer purpose-built for running many AI agents",
+    "Dashboard of every agent, its current work, and which ones need attention",
+    "File-touch history per agent in one scroll; token-use visibility on hover",
+    "Image paste over SSH, undo tab close, copyable links (Ghostty Nightly for some features)",
+    "corgi --skill teaches agents to drive Corgi; works with existing accounts"
+  ]
+}
