@@ -1,0 +1,13 @@
+{
+  "id": "4d827294918c",
+  "authored_at": "2026-10-24T08:36:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Forbes reports on OpenAI's Project Daybreak, a program that gives vetted partners access to OpenAI's top hacking models to find and fix vulnerabilities, which reportedly helped uncover PHP2Shell remote-code-execution bugs. The full reporting is behind Forbes' bot protection, so specifics of the program's scope and findings are not available here.",
+  "highlights": [
+    "OpenAI's Project Daybreak lets vetted partners use its top hacking models to find and fix vulnerabilities (Forbes).",
+    "The program reportedly helped uncover PHP2Shell remote-code-execution bugs.",
+    "Details beyond the summary are unverifiable because the Forbes article was bot-blocked."
+  ],
+  "basis": "Basis: feed title and Techmeme summary only; the Forbes source was bot-blocked, so no article text was available."
+}

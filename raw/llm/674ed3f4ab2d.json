@@ -1,0 +1,13 @@
+{
+  "id": "674ed3f4ab2d",
+  "authored_at": "2026-10-24T08:36:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A Hacker News discussion links to a Reddit post claiming a hacker reverse-engineered a Samsung TV and found its on-board AI listening features tied to an OpenAI account that was subsequently suspended. Details beyond the headline are not verifiable from the available source.",
+  "highlights": [
+    "A Reddit post (via Hacker News) claims a reverse-engineered Samsung TV exposed on-board AI listening tied to an OpenAI account.",
+    "The OpenAI account involved was reportedly suspended.",
+    "Technical specifics cannot be confirmed from the blocked source."
+  ],
+  "basis": "Basis: feed title only; the Reddit source was bot-blocked, so no article text was available."
+}

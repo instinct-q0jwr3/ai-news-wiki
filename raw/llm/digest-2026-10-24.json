@@ -17,7 +17,7 @@
     },
     {
       "title": "Defending the frontier",
-      "intro": "The UK funds a \u00a3100M AI Biosecurity Lab with all three frontier labs attached, OpenAI explains how it locks down training, and Mave raises $28M to automate security investigations.",
+      "intro": "The UK funds a £100M AI Biosecurity Lab with all three frontier labs attached, OpenAI explains how it locks down training, and Mave raises $28M to automate security investigations.",
       "stories": [
         "28f88f9421a1",
         "273db08ff029",
@@ -34,6 +34,26 @@
         "846557cfe3d1",
         "55a5c3baa30f",
         "31982aa92390"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Meta shifts AI risk onto its customers",
+      "intro": "Meta's new Commercial Terms, effective October 30, make enterprise customers solely liable for mistakes made by AI features - including ones Meta enables by default - while its AI is already rewriting advertisers' creative without consent. Advertisers are starting to pull the features.",
+      "stories": [
+        "2a771cf8d47b",
+        "4c2a30bf4aed"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Open weights press the frontier",
+      "intro": "Moonshot's Kimi K3.1 Pro posts near-frontier independent scores with weights promised for November 4, which would cut the open-versus-closed gap to about a month. Around it: open agent harnesses multiply, OpenAI opens its top hacking models to vetted defenders, and a TV teardown raises fresh questions about always-on AI.",
+      "stories": [
+        "f3268d13bd3f",
+        "2e2e066e4cdf",
+        "4d827294918c",
+        "674ed3f4ab2d"
       ],
       "concepts": []
     }

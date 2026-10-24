@@ -1,0 +1,17 @@
+{
+  "id": "2e2e066e4cdf",
+  "authored_at": "2026-10-24T08:36:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "CowAgent is an open-source 'super AI assistant' and agent harness that plans tasks, runs tools and skills, and maintains persistent memory and knowledge. It decomposes complex tasks into steps and loops over tools until the goal is reached, with a three-tier memory architecture (context, daily, core) that uses automatic 'Deep Dream' distillation and hybrid keyword-plus-vector retrieval.\n\nThe project auto-curates structured knowledge into a Markdown wiki with cross-references, installs skills from a Skill Hub, GitHub or ClawHub (or creates them from natural language), and ships with file I/O, terminal, browser, scheduler, web search and native MCP integration. It is multi-model (Claude, GPT, Gemini, DeepSeek, Qwen, GLM, Kimi, MiniMax, Doubao and more), multi-channel (Web, WeChat, Feishu, DingTalk, WeCom, QQ, Official Accounts) and multi-agent, letting users compose teams of role-specific agents with group-chat collaboration and delegation. Installation is a one-line script or docker compose, aimed at always-on deployment on a laptop or server.",
+  "highlights": [
+    "CowAgent is an open-source agent harness: task decomposition plus tool/skill loops until the goal is reached.",
+    "Three-tier memory (context, daily, core) with 'Deep Dream' distillation and hybrid keyword + vector retrieval.",
+    "Auto-curates knowledge into a Markdown wiki, building an evolving cross-referenced knowledge graph.",
+    "Skills install from Skill Hub, GitHub or ClawHub, or are created via natural-language conversation.",
+    "Built-in tools include file I/O, terminal, browser, scheduler, memory retrieval, web search and native MCP integration.",
+    "Multi-model support covers Claude, GPT, Gemini, DeepSeek, Qwen, GLM, Kimi, MiniMax and Doubao, swappable in one click.",
+    "Multi-channel across Web and Chinese platforms (WeChat, Feishu, DingTalk, QQ); multi-agent teams with delegation and group chat.",
+    "One-line install via curl or PowerShell, or docker compose; designed to run 24/7 on a laptop or server."
+  ]
+}

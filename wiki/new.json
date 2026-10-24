@@ -1,77 +1,41 @@
 {
- "generated_at": "2026-10-24T02:29:39+00:00",
+ "generated_at": "2026-10-24T08:30:30+00:00",
  "stories": [
   {
-   "id": "273db08ff029",
-   "title": "Securing our frontier model training environment",
+   "id": "674ed3f4ab2d",
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
    "source": "Hacker News",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
+   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/"
   },
   {
-   "id": "9c6143140693",
-   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+   "id": "2a771cf8d47b",
+   "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
    "source": "Hacker News",
-   "url": "https://corgi.computer/"
+   "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html"
   },
   {
-   "id": "11c5abac7239",
-   "title": "AI devours a fifth of companies' IT budgets",
+   "id": "4c2a30bf4aed",
+   "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups",
    "source": "Hacker News",
-   "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html"
+   "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/"
   },
   {
-   "id": "0cb2aab43234",
-   "title": "AI is devastating higher education, but the system was broken",
+   "id": "2e2e066e4cdf",
+   "title": "CowAgent – Open-Source Super AI Assistant",
    "source": "Hacker News",
-   "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988"
+   "url": "https://cowagent.ai/en/"
   },
   {
-   "id": "233d79f955f0",
-   "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
-   "source": "Hacker News",
-   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/"
-  },
-  {
-   "id": "846557cfe3d1",
-   "title": "Pluralistic: Critique and writing (23 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/23/better-to-give/"
-  },
-  {
-   "id": "a1d9287fafbb",
-   "title": "OpenAI says it is cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions",
+   "id": "4d827294918c",
+   "title": "A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents"
+   "url": "https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/"
   },
   {
-   "id": "55a5c3baa30f",
-   "title": "Quick Study",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
-  },
-  {
-   "id": "31982aa92390",
-   "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes"
-  },
-  {
-   "id": "28f88f9421a1",
-   "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind",
-   "source": "Techmeme",
-   "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo"
-  },
-  {
-   "id": "0fea87ba75af",
-   "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M",
-   "source": "Techmeme",
-   "url": "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx"
-  },
-  {
-   "id": "84f08b887b03",
-   "title": "Memory is slow, Disk is fast",
-   "source": "Lobsters",
-   "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/"
+   "id": "f3268d13bd3f",
+   "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-kimi-31/"
   }
  ]
 }

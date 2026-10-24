@@ -1,0 +1,18 @@
+{
+  "id": "f3268d13bd3f",
+  "authored_at": "2026-10-24T08:36:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Moonshot launched Kimi K3.1 Pro, a post-trained version of K3 with substantially larger post-training compute, as a multimodal '3T-class' mixture-of-experts model: 2.8 trillion total parameters, 104 billion active, and a 1-million-token context window. Artificial Analysis placed it fourth on its Intelligence Index with a score of 55, behind Opus 5.5 (58) and ahead of most closed rivals; it also took the highest publicly accessible score on AA's Cyber Index (64%) despite reduced cyber training, and jumped nine places to #8 in Code Arena: WebDev. Standard and Highspeed API versions are live (Highspeed claims 2-3x faster output at twice the price), alongside Kimi Hosted Agents, a managed 24/7 execution harness. Weights are promised for November 4, 2026; if they arrive, AA says the open-versus-proprietary gap on its Intelligence Index would narrow from 12 points to three, with the model beating Fable 5.1 and Astra 6 - effectively an open-weights frontier model about a month behind the closed lead.\n\nThe reaction split into distinct threads. Enthusiasm about a prospective open-weight frontier contender (Simon Willison called it the first open-weight release to compete at this level) collided with concerns about inference economics - 2.8T parameters imply roughly 5.6 TB at 16-bit or 1.4 TB at 4-bit before overhead, so 'local' means serious accelerator infrastructure, not consumer devices - plus weaker results on some interactive tasks, benchmark-presentation complaints, and allegations of undisclosed paid promotion, which Latent Space treats as separate from capability questions. No Flash/smaller variant was announced, and the eventual license, checkpoint precision and redistribution terms remain unknown until the November 4 weights release. The issue also notes the launch-atmosphere confusion: premature leak-based 'release today' claims, rollout differences between kimi.com and kimi.ai, and speculation about a symbolic launch time.",
+  "highlights": [
+    "Kimi K3.1 Pro: 2.8T-parameter MoE, 104B active, 1M-token context; a post-training-heavy bump over K3.",
+    "Artificial Analysis ranks it 4th on its Intelligence Index (55), behind Opus 5.5 (58), Sonnet 5.5 and Muse Wonder Full (56).",
+    "Top public score on AA's Cyber Index (64%) despite deliberately reduced cyber training; #8 in Code Arena: WebDev, up nine places.",
+    "Highspeed API tier claims 2-3x faster generation at 2x price; Kimi Hosted Agents offers a managed 24/7 multi-agent harness.",
+    "Weights promised November 4, 2026; 'soon-to-be open-weight' is more accurate than 'open source' - license and terms still unknown.",
+    "AA estimates the open-vs-proprietary Intelligence Index gap would shrink from 12 points to 3 once weights ship.",
+    "AA-Omniscience: accuracy up 48% to 51%, hallucination rate down 53% to 44% versus K3.",
+    "Inference-economics pushback: 2.8T params implies ~5.6TB at 16-bit, so 'local' means datacenter-grade hardware, not laptops.",
+    "Reactions also flagged weaker interactive-task results, benchmark presentation, and alleged undisclosed paid promotion."
+  ]
+}
