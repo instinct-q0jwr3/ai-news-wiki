@@ -1,0 +1,13 @@
+{
+  "id": "849d8601b33f",
+  "authored_at": "2026-10-24T20:38:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Wall Street Journal interviews Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, about navigating the AI infrastructure boom. Smith says demand for Ciena's optical networking chips is outpacing supply as AI data-center build-out accelerates. The full interview is behind the Journal's bot protection.",
+  "highlights": [
+    "Ciena CEO Gary Smith tells the WSJ that AI-driven demand for optical networking chips is outpacing supply.",
+    "Smith previously led Ciena through the 2001 telecoms crash, framing his caution and perspective on the AI boom.",
+    "Interview details beyond the summary are unavailable here."
+  ],
+  "basis": "Basis: feed title and Techmeme summary only; the Wall Street Journal article was bot-blocked, so no article text was available."
+}

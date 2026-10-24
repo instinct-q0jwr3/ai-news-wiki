@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-10-24",
+  "date": "2026-10-24",
+  "status": "provisional",
+  "reserve": "16d77033b58f",
+  "picks": [
+    {
+      "id": "d16672f6c3d1",
+      "front": "Agents",
+      "source": "Dream Labs",
+      "why": "Dream-1 claims zero-shot control of unseen bimanual robots out of the box, backed by $90M and a public API - a concrete shot at robotics' data cold-start problem."
+    },
+    {
+      "id": "2a771cf8d47b",
+      "front": "Governance",
+      "source": "CIO.com",
+      "why": "Meta's October 30 terms make enterprises solely liable for its AI's mistakes, including features Meta enables itself - a liability inversion every AI customer will now have to price."
+    },
+    {
+      "id": "f5408cf6177d",
+      "front": "Economics",
+      "source": "Apollo",
+      "why": "Apollo's chief economist shows flat revenue-per-worker and margins across the S&P 493: the strongest data-driven case yet that the AI payoff is confined to tech."
+    },
+    {
+      "id": "57ab17d12ae5",
+      "front": "Safety",
+      "source": "New Yorker",
+      "why": "Inside Meta's decade-old team that uses AI plus human review to catch school-shooting threats - 800 law-enforcement referrals last year - with all the tension that implies."
+    },
+    {
+      "id": "7ba7e7804e6c",
+      "front": "Evaluation",
+      "source": "Google DeepMind",
+      "why": "DetectorScope turns black-box AI text detectors into auditable sums of named, located features - interpretability you can read, at almost no accuracy cost."
+    }
+  ]
+}

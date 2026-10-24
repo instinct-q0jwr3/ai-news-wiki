@@ -1,0 +1,17 @@
+{
+  "id": "16d77033b58f",
+  "authored_at": "2026-10-24T20:38:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Skyvern rewrote its open-source browser-automation agent, replacing its RAG-style architecture with progressive disclosure inspired by Pi, and made it 2.3x faster while scoring 90.5% on the Odysseys benchmark. The original design loaded each website, screenshotted and annotated it, condensed it into a list of elements and handed that to the LLM. That worked only if element identification was perfect, and the web is messy: Shadow DOMs, iframes, select2 dropdowns, Kendo widgets and canvas elements turned the utility into an endless DOM-interpreter project. Worse, agent performance stopped improving with better LLMs because it was bottlenecked by the parsing layer.\n\nThe new architecture starts the agent with minimal context and gives it tools to pull more when needed - viable now because instruction following has been reliable since the Opus 4.5 generation of models. The team expected a trade: better accuracy in exchange for more calls, cost and latency. Instead, a production A/B test over roughly 100,000 runs showed the new design was faster and cheaper as well as more accurate; cached tokens carrying a 70% discount explain the net cost reduction despite higher token usage. Skyvern 3.0 topped the Odysseys benchmark with a 90.5% perfect rubric success rate at 65.4 average steps. The team still sees headroom in all three dimensions and is exploring fast 'system one' models like Jev, though current versions are limited by 64K context and no image processing.",
+  "highlights": [
+    "Skyvern rebuilt its browser agent around progressive disclosure, gaining 2.3x speed and 90.5% on the Odysseys benchmark.",
+    "The old RAG design pre-parsed every page into an element list; it failed whenever element identification failed.",
+    "Maintaining that parser meant fighting Shadow DOMs, iframes, select2, Kendo widgets and canvas - an endless DOM-interpreter project.",
+    "Agent accuracy was bottlenecked by parsing, not by the LLM, so better models stopped helping.",
+    "The new agent starts with minimal context and pulls more via tools - feasible because instruction following is reliable since Opus 4.5-era models.",
+    "Expected a cost/latency trade-off; a ~100k-run production A/B showed the new design faster, cheaper and more accurate.",
+    "Cached tokens at a 70% discount turned higher token usage into net cost reduction.",
+    "Next: 'system one' models like Jev for browser agents, currently limited by 64K context and no image input."
+  ]
+}

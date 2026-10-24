@@ -1,0 +1,17 @@
+{
+  "id": "d16672f6c3d1",
+  "authored_at": "2026-10-24T20:38:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Dream Labs came out of stealth with $90M in seed funding and launched Dream-1, a World Action Model for bimanual robots available through a public API. The claim: connect a new two-armed robot with parallel grippers and it performs tasks out of the box - no fine-tuning, no demonstrations from that robot, no ML expertise required. The company frames this as early zero-shot embodiment generalization, and the first crack in robotics' chicken-and-egg problem: a robot needs to be useful to sell, but usefulness required data from that exact robot, which only exists once enough units are in the field.\n\nThe argument rests on two curves crossing. Hardware is collapsing in price: a capable bimanual arm setup now costs around $2,000, seven semi-humanoid robots sell for under $15,000, and Hugging Face's $399 Microduck sold 10,000+ units in four days - evidence that consumers, unlike spreadsheet-driven enterprises, will buy robots that are merely delightful. On the model side, Dream Labs' February DreamZero paper introduced World Action Models, and the team found that 30 minutes of data from a given robot was enough to transfer general-purpose task knowledge to it. Dream-1 extends that to zero-shot control of unseen robots on unseen tasks in unseen environments, with demo rollouts of sorting, stacking and folding. The bet: cheap hardware puts robots in homes, generalizable models make them useful immediately, and useful robots generate the data that makes the next model better.",
+  "highlights": [
+    "Dream Labs exits stealth with $90M seed funding and a public API for Dream-1, its first World Action Model.",
+    "Claim: a new bimanual robot with parallel grippers works out of the box - zero fine-tuning, demonstrations, or ML expertise.",
+    "The target problem: robotics' chicken-and-egg loop - usefulness needs robot-specific data that only exists after adoption.",
+    "Hardware price collapse: ~$2k bimanual arm setups, seven semi-humanoids under $15k, Hugging Face's $399 Microduck sold 10k+ in 4 days.",
+    "Consumer buyers, unlike enterprises, will pay for robots that are delightful before they are economically useful.",
+    "DreamZero (Feb 2026) showed 30 minutes of robot-specific data could transfer general task knowledge to a new embodiment.",
+    "Dream-1 claims early zero-shot embodiment generalization: unseen robots, tasks and environments, with sorting/stacking/folding demos.",
+    "The flywheel bet: cheap robots + generalizable models -> adoption -> data -> better models."
+  ]
+}

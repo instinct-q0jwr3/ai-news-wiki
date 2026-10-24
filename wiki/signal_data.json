@@ -1286,5 +1286,61 @@
   "thin": 1,
   "total": 53,
   "unreadable": 5
+ },
+ "2026-10-24": {
+  "ok": 27,
+  "paywall": 4,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "d16672f6c3d1",
+    "minutes": 14,
+    "source": "Dream Labs",
+    "title": "Dream-1",
+    "why": "Dream-1 claims zero-shot control of unseen bimanual robots out of the box, backed by $90M and a public API - a concrete shot at robotics' data cold-start problem."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "2a771cf8d47b",
+    "minutes": 7,
+    "source": "CIO.com",
+    "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+    "why": "Meta's October 30 terms make enterprises solely liable for its AI's mistakes, including features Meta enables itself - a liability inversion every AI customer will now have to price."
+   },
+   {
+    "cat": "ok",
+    "front": "Economics",
+    "id": "f5408cf6177d",
+    "minutes": 5,
+    "source": "Apollo",
+    "title": "No Signs of AI Payoff Outside the Tech Sector",
+    "why": "Apollo's chief economist shows flat revenue-per-worker and margins across the S&P 493: the strongest data-driven case yet that the AI payoff is confined to tech."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "57ab17d12ae5",
+    "minutes": 13,
+    "source": "New Yorker",
+    "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings",
+    "why": "Inside Meta's decade-old team that uses AI plus human review to catch school-shooting threats - 800 law-enforcement referrals last year - with all the tension that implies."
+   },
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "7ba7e7804e6c",
+    "minutes": 8,
+    "source": "Google DeepMind",
+    "title": "DetectorScope: AI text detectors that show their work",
+    "why": "DetectorScope turns black-box AI text detectors into auditable sums of named, located features - interpretability you can read, at almost no accuracy cost."
+   }
+  ],
+  "reserve": "16d77033b58f",
+  "status": "provisional",
+  "thin": 1,
+  "total": 35,
+  "unreadable": 3
  }
 }

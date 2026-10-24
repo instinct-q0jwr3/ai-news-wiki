@@ -1,0 +1,14 @@
+{
+  "id": "908ebbd88ca6",
+  "authored_at": "2026-10-24T20:38:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The Information reports that Replit recently shifted most of its AI spending from Anthropic to OpenAI after Anthropic discontinued its discount. OpenAI reportedly offered more than 30% off in a deal worth over $100 million per year, part of a broader push to win AI workloads on price.",
+  "highlights": [
+    "Replit moved most of its AI spend from Anthropic to OpenAI, per The Information.",
+    "OpenAI offered 30%+ discounts in a deal reportedly worth $100M+ per year.",
+    "The switch followed Anthropic discontinuing its own discount to Replit.",
+    "The story illustrates price becoming a competitive lever between frontier model providers."
+  ],
+  "basis": "Basis: feed title and Techmeme summary only; The Information article was bot-blocked, so no article text was available."
+}

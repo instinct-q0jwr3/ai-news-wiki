@@ -1,0 +1,13 @@
+{
+  "id": "021cd1bf3d78",
+  "authored_at": "2026-10-24T20:38:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The New York Times examines Alpha School, a network of private schools claiming its AI-driven model teaches children twice as fast as traditional schools. According to the Times' analysis of the network's own data, roughly half of K-8 students missed that two-times goal in math. The full reporting, including parent perspectives, is behind the Times' bot protection.",
+  "highlights": [
+    "Alpha School claims AI-driven teaching lets kids learn 2x as fast as traditional schools.",
+    "New York Times analysis: about 50% of K-8 students missed that 2x goal in math.",
+    "The piece draws on the network's own data and parent accounts; full text unavailable here."
+  ],
+  "basis": "Basis: feed title and Techmeme summary only; the New York Times article was bot-blocked, so no article text was available."
+}

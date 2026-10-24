@@ -1,23 +1,59 @@
 {
- "generated_at": "2026-10-24T14:31:11+00:00",
+ "generated_at": "2026-10-24T20:32:01+00:00",
  "stories": [
   {
-   "id": "4ef49270653d",
-   "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+   "id": "f5408cf6177d",
+   "title": "No Signs of AI Payoff Outside the Tech Sector",
    "source": "Hacker News",
-   "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
+   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
   },
   {
-   "id": "720b2c595e8e",
-   "title": "That AI Temptation",
+   "id": "d16672f6c3d1",
+   "title": "Dream-1",
    "source": "Hacker News",
-   "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation"
+   "url": "https://dreamlabs.ai/research/dream-1/"
   },
   {
-   "id": "ee748a74153d",
-   "title": "Claude Code slyly adding users' emails to outbound HTTP",
+   "id": "2bbc33b065e2",
+   "title": "Why is AI generated language so hard to understand?",
    "source": "Hacker News",
-   "url": "https://twitter.com/chrislakin/status/2113358733548081528"
+   "url": "https://arxiv.org/abs/2610.29162"
+  },
+  {
+   "id": "e3e6a4000ffd",
+   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+   "source": "Hacker News",
+   "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/"
+  },
+  {
+   "id": "16d77033b58f",
+   "title": "Progressive disclosure in agents to make them 2.3x faster",
+   "source": "Hacker News",
+   "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/"
+  },
+  {
+   "id": "7ba7e7804e6c",
+   "title": "DetectorScope: AI text detectors that show their work",
+   "source": "Hacker News",
+   "url": "https://github.com/google-deepmind/detectorscope"
+  },
+  {
+   "id": "021cd1bf3d78",
+   "title": "A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&smid=url-share"
+  },
+  {
+   "id": "849d8601b33f",
+   "title": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63?st=YJm3H4&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "1b71d40e617b",
+   "title": "Will Generative AI do more harm than good?",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/will-generative-ai-do-more-harm-than"
   },
   {
    "id": "8083a84f22d9",
@@ -26,22 +62,16 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
   },
   {
-   "id": "57ab17d12ae5",
-   "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings",
+   "id": "b8bdebe2223d",
+   "title": "Chan Karunamuni on the Duo’s Open/Close Translucent Transition",
+   "source": "Daring Fireball",
+   "url": "https://x.com/chan_k/status/2113622379050246243"
+  },
+  {
+   "id": "908ebbd88ca6",
+   "title": "Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount",
    "source": "Techmeme",
-   "url": "https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings"
-  },
-  {
-   "id": "e42318cbcb34",
-   "title": "What's wrong with AI?",
-   "source": "Lobsters",
-   "url": "https://homepage.farm/ai.html"
-  },
-  {
-   "id": "27e51dabc7ce",
-   "title": "battledrones v14: Compass Rose, a four player map",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
+   "url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity"
   }
  ]
 }

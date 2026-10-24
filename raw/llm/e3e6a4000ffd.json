@@ -1,0 +1,15 @@
+{
+  "id": "e3e6a4000ffd",
+  "authored_at": "2026-10-24T20:38:21Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "On Terence Tao's blog, four mathematicians (Abhinav Nellore, Johannes Schmitt, Soledad Villar and Rachel Ward) announce oai-math-revised, a community hub that aims to improve OpenAI's math write-ups, which they describe as difficult to understand and carrying incomplete citations. The GitHub repository invites the broader math community - students, postdocs, professors, enthusiasts - to contribute revisions, and asks for volunteers to serve as admins and reviewers for the categories in OpenAI's overview document.\n\nThe comment section immediately pushes back. Several commenters question why unpaid academics should polish the output of a trillion-dollar for-profit company, arguing the project validates OpenAI's approach, pigeonholes mathematicians into interpreting the machine's gifts, and will simply feed better training data back to the lab without acknowledgment. One suggests OpenAI should pay for the service; another notes that several organizers work in AI-for-math, so the effort is not a neutral community body.",
+  "highlights": [
+    "oai-math-revised is a community repository for revising OpenAI's math write-ups, announced on Terence Tao's blog.",
+    "Organizers: Abhinav Nellore, Johannes Schmitt, Soledad Villar and Rachel Ward; OpenAI's write-ups are called hard to read with incomplete citations.",
+    "The project invites community contributions and volunteer admins/reviewers per category.",
+    "Commenters object: unpaid volunteers would be polishing a wealthy for-profit company's output.",
+    "Critics argue the effort validates OpenAI's approach and that improved write-ups will be absorbed as training data without credit.",
+    "One commenter suggests producing independent review articles instead; another that OpenAI should pay for such work."
+  ]
+}

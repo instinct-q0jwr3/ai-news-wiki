@@ -77,6 +77,45 @@
         "57ab17d12ae5"
       ],
       "concepts": []
+    },
+    {
+      "title": "The payoff question gets harder",
+      "intro": "Apollo's Torsten Slok finds zero AI payoff outside tech - flat revenue per worker and margins across the S&P 493 - while Gary Marcus totes up the harm ledger and the New York Times finds Alpha School's 2x-learning claim missing for half its K-8 students in math.",
+      "stories": [
+        "f5408cf6177d",
+        "1b71d40e617b",
+        "021cd1bf3d78"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Reading the machine's output",
+      "intro": "A study pins down why AI prose is getting harder to parse, DeepMind's DetectorScope makes AI text detectors show their evidence, and mathematicians organize - controversially - to revise OpenAI's opaque math write-ups.",
+      "stories": [
+        "2bbc33b065e2",
+        "7ba7e7804e6c",
+        "e3e6a4000ffd"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robots and agents learn new tricks",
+      "intro": "Dream Labs exits stealth with $90M and a robot model that works on unseen hardware out of the box, Skyvern makes its browser agent 2.3x faster by deleting its RAG layer, and Apple's iPhone Duo gets a focal-plane-bending open transition.",
+      "stories": [
+        "d16672f6c3d1",
+        "16d77033b58f",
+        "b8bdebe2223d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The price war spreads",
+      "intro": "Replit moves a $100M-plus annual AI spend from Anthropic to OpenAI for a 30% discount, and Ciena's CEO says AI demand for optical networking is outpacing supply.",
+      "stories": [
+        "908ebbd88ca6",
+        "849d8601b33f"
+      ],
+      "concepts": []
     }
   ]
 }
