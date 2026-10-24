@@ -1,0 +1,16 @@
+{
+  "id": "e42318cbcb34",
+  "authored_at": "2026-10-24T14:37:18Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A veteran programmer - 8-bit home computers, two Masters degrees, a PhD in computational molecular biology, now building tools at a famous music software company - publishes a long, deliberately unapologetic rant listing 42 things wrong with AI, grouped in five broad categories. Written for 'doubters and sceptics' rather than to persuade enthusiasts, it aims to give shape and reassurance to unease that many people feel but struggle to articulate.\n\nThe charges span mechanism and culture. On the technical side: AI inherits systematic errors, biases and repeated lies from its training data, which is, he notes, a fair description of the internet. On the power side: the same people who built Facebook, Uber and Amazon are applying the same amorality; training data was taken without permission or payment; AI is designed to project unwarranted confidence; its servile flattery is addictive and has contributed to delusional mania and suicides; free tiers are a subsidy trap - he points to a $750/month mid-tier Claude subscription as a preview of post-hookup pricing - with hundreds of billions in investor subsidy to be recouped. He also attacks the industry's alignment with Trump-era politics, its extreme gender imbalance at the founder and executive level, and its habit of breaking laws. One section on law-breaking is admittedly unfinished, which he says with a wink.",
+  "highlights": [
+    "A self-described rant listing 42 problems with AI in five categories, aimed at doubters and sceptics, not at converting fans.",
+    "The author stresses his credentials: 1980s 8-bit coding, bioinformatics PhD, decades in the industry he now criticises.",
+    "Core technical objection: models inherit the biases, misconceptions and repeated lies of their training data - the internet.",
+    "Economic critique: free AI is a subsidy trap; he cites a $750/month mid-tier Claude plan as the shape of future pricing, with hundreds of billions in investor subsidy to recoup.",
+    "He argues AI is built to project confidence without equivocation, and that its flattery is addictive and has real psychological casualties.",
+    "Data was taken without permission or payment, and he expects the thieving to continue given the industry's track record.",
+    "He attacks the industry's politics, founder-level gender imbalance (Anthropic 7 men/1 woman founders; OpenAI 2/11 women), and law-breaking."
+  ]
+}

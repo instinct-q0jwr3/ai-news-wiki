@@ -1,0 +1,16 @@
+{
+  "id": "720b2c595e8e",
+  "authored_at": "2026-10-24T14:37:18Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Tim Bray confesses to an internal tug-of-war: while doing low-intensity work on Quamina, his fast event-matching library, a voice keeps suggesting the task would be a great job for Claude. His essay weighs that temptation honestly. He concedes that Claude would probably produce acceptable code for the CBOR flattener he is writing, complete with fuzz tests, and that this might even be defensible engineering. But he resists, partly because he enjoys the work and it benefits his mental health, and partly on principle.\n\nThe principles come first in the essay: Bray's objections to generative AI are ethical and economic rather than technical. He describes a technology pushed by rich people to get richer, deployed to cut payrolls, accelerating climate damage and devaluing creative work, inside a bubble whose post-crash costs nobody knows. The technical part explains why the task tempts him: Quamina's flattening step eats more time than matching, a CBOR flattener needs a tokenizer-style parser rather than a whole-blob deserializer, and the simple approach (deserialize with Faye Amacker's polished Go library, then walk the tree) is exactly the kind of well-bounded problem LLMs handle well. A previous attempt by someone else to have Claude build a Protobuf flattener partly worked but was buggy and hard to read.",
+  "highlights": [
+    "Tim Bray keeps hearing 'this would be a great job for Claude' while working on Quamina, and is so far ignoring it.",
+    "His core objections are ethical and economic, not about what the technology can do: who sells it, who deploys it, and why.",
+    "He flags the AI bubble: nobody knows what GenAI will really cost after the bubble decompresses.",
+    "Quamina's flattening (turning nested data into sorted Field structures) costs more than matching; a CBOR flattener is his current task.",
+    "The tempting shortcut: deserialize with the standard Go CBOR library and walk the tree - well-bounded, LLM-friendly work.",
+    "A community attempt to have Claude build a Protobuf flattener partly worked but was buggy and hard to read.",
+    "Bray admits Claude would probably deliver OK code with fuzz tests, and that using it could be defensible engineering - he still prefers to write it himself."
+  ]
+}

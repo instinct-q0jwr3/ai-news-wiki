@@ -56,6 +56,27 @@
         "674ed3f4ab2d"
       ],
       "concepts": []
+    },
+    {
+      "title": "The sceptics get organized",
+      "intro": "Tim Bray admits the temptation to hand his hobby code to Claude and explains why he still refuses, a veteran programmer catalogues 42 objections to the whole project, and a peer-reviewed paper on Z-Library turns out to cite articles that were never written - AI's fingerprints included.",
+      "stories": [
+        "720b2c595e8e",
+        "e42318cbcb34",
+        "4ef49270653d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Machines that listen and watch",
+      "intro": "Block's Dessa learns to talk from nothing but human conversation and runs on a laptop, Claude Code is caught attaching users' emails to outbound requests, Simon Willison's Claude-built game goes four-player, and the New Yorker goes inside the Meta team using AI to catch school shooters before they act.",
+      "stories": [
+        "8083a84f22d9",
+        "ee748a74153d",
+        "27e51dabc7ce",
+        "57ab17d12ae5"
+      ],
+      "concepts": []
     }
   ]
 }

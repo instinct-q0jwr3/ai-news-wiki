@@ -1,41 +1,47 @@
 {
- "generated_at": "2026-10-24T08:30:30+00:00",
+ "generated_at": "2026-10-24T14:31:11+00:00",
  "stories": [
   {
-   "id": "674ed3f4ab2d",
-   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "id": "4ef49270653d",
+   "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
    "source": "Hacker News",
-   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/"
+   "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
   },
   {
-   "id": "2a771cf8d47b",
-   "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+   "id": "720b2c595e8e",
+   "title": "That AI Temptation",
    "source": "Hacker News",
-   "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html"
+   "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation"
   },
   {
-   "id": "4c2a30bf4aed",
-   "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups",
+   "id": "ee748a74153d",
+   "title": "Claude Code slyly adding users' emails to outbound HTTP",
    "source": "Hacker News",
-   "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/"
+   "url": "https://twitter.com/chrislakin/status/2113358733548081528"
   },
   {
-   "id": "2e2e066e4cdf",
-   "title": "CowAgent – Open-Source Super AI Assistant",
-   "source": "Hacker News",
-   "url": "https://cowagent.ai/en/"
-  },
-  {
-   "id": "4d827294918c",
-   "title": "A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs",
+   "id": "8083a84f22d9",
+   "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
   },
   {
-   "id": "f3268d13bd3f",
-   "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-kimi-31/"
+   "id": "57ab17d12ae5",
+   "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings",
+   "source": "Techmeme",
+   "url": "https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings"
+  },
+  {
+   "id": "e42318cbcb34",
+   "title": "What's wrong with AI?",
+   "source": "Lobsters",
+   "url": "https://homepage.farm/ai.html"
+  },
+  {
+   "id": "27e51dabc7ce",
+   "title": "battledrones v14: Compass Rose, a four player map",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
   }
  ]
 }

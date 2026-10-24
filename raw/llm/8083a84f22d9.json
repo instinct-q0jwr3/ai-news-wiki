@@ -1,0 +1,16 @@
+{
+  "id": "8083a84f22d9",
+  "authored_at": "2026-10-24T14:37:18Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Jack Dorsey's Block unveiled Dessa, an AI model it describes as a true speech-to-speech system trained from scratch on nothing but human conversation - an attempt to see whether a model can learn to talk the way babies do, without text. The team frames it as a safety project as much as a curiosity: today's voice AI flattens speech into text, loses human timing, and stays deaf to emotion, so a user in serious pain could be met with a model that just keeps going. Dessa is meant to be a step toward fixing that.\n\nBlock published demo conversations that are by turns natural and uncanny: a guessing game over voice, a tangent about Bryan Singer's Superman films during a Christopher Nolan chat, a tearful-sounding response to a surprise trip to Paris, and a head-to-head with OpenAI's GPT-Live-1 where Dessa comes across as the more natural speaker. The company says the model can run locally on a MacBook Pro M4 Max or better, and that a small group of AI safety researchers will get early access.",
+  "highlights": [
+    "Block's Dessa is billed as a true speech-to-speech model trained from scratch only on human conversation - no text.",
+    "The premise: babies learn to talk without reading; the team wanted to see if a model could too.",
+    "Motivation is framed as safety: current voice AI flattens speech to text and is deaf to emotion and human timing.",
+    "Demo conversations range from natural back-and-forth to uncanny tangents and teary-sounding gratitude.",
+    "In a posted exchange with OpenAI's GPT-Live-1, Dessa comes across as the more natural speaker.",
+    "Dessa reportedly runs locally on a MacBook Pro M4 Max or better.",
+    "A small group of AI safety researchers will get early access to the model."
+  ]
+}
