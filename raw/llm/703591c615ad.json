@@ -1,0 +1,17 @@
+{
+  "id": "703591c615ad",
+  "authored_at": "2026-10-25T14:40:33Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "TechCrunch opens a running 'AI graveyard' list of projects and startups that shut down, pivoted or badly missed expectations, framing it as a record of what failed bets can teach the industry rather than a scorecard of flops. Anchor stat: S&P Global Market Intelligence says about 42% of corporate AI initiatives are ultimately abandoned. Recent startup deaths include Relay, an AI workflow-automation tool squeezed out when OpenAI and Google built automation into their own platforms; Character.ai, which filed for bankruptcy five years after launch (despite Google's $2.7B licensing deal); Huxe, the NotebookLM-alumni audio app; Yupp, an 800-model comparison playground that never found product-market fit; and Figgs AI, a role-play character platform too expensive to keep free.\n\nBig-tech entries are equally instructive. OpenAI's super-app redesign of ChatGPT (Chat/Codex/Work modes, 'ChatGPT Classic') was rolled back after user backlash; its Atlas browser lasted less than a year; Operator was folded into ChatGPT; Sora shut down in March 2026 over costs and retention. Apple's improved Siri slipped for years, contributed to a $250M marketing settlement, and only reached the iOS 27 beta this July. Microsoft's Recall survived a privacy backlash and a year-long delay but still faces researcher demonstrations of data extraction. Hardware fills the rest: Humane's $230M AI Pin died and sold to HP for $116M, while Rabbit's R1 endures as a cautionary tale now pivoting to 'Project Cyberdeck.' Notion Mail closes September 22 after noticing users preferred their own AI agents.",
+  "highlights": [
+    "S&P Global: about 42% of corporate AI initiatives are ultimately abandoned - the backdrop for TechCrunch's running graveyard list.",
+    "Relay shut down after OpenAI and Google built workflow automation directly into their platforms.",
+    "Character.ai filed for bankruptcy five years after launch, despite Google's $2.7B licensing deal.",
+    "OpenAI's casualties: the super-app redesign (rolled back), Atlas browser (under a year), Operator (folded in), Sora (closed March 2026).",
+    "Apple's Siri AI slipped for years, contributed to a $250M settlement, and reached iOS 27 beta only in July.",
+    "Microsoft's Recall survived a privacy backlash and a redesign, but researchers still demonstrate data extraction.",
+    "Hardware flops: Humane AI Pin ($230M raised, sold to HP for $116M); Rabbit R1 pivots to 'Project Cyberdeck.'",
+    "Notion Mail shuts September 22 - users preferred their own AI agents over its AI inbox."
+  ]
+}
