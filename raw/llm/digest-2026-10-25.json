@@ -62,6 +62,26 @@
         "03252cbb35cd"
       ],
       "concepts": []
+    },
+    {
+      "title": "The specialists strike back",
+      "intro": "A decade-old CNN fine-tuned in twenty minutes beats two frontier LLMs at skin-cancer diagnosis, an open-source TTS model serves the accents Big Tech flattens, and a hobbyist coaxes SIMD computer vision out of a $2 microcontroller.",
+      "stories": [
+        "ddeaf56014f1",
+        "594eb857b895",
+        "9859a3c4ad19"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Homework, data plumbing and the iPhone",
+      "intro": "A Fields medalist at Berkeley stops grading homework because AI has made it meaningless, Sunnny pitches a cleaned customer-data layer built for AI consumption, and Gruber and Stern talk iPhone on The Talk Show.",
+      "stories": [
+        "09eba99e63b7",
+        "f0a739ba0091",
+        "a0d852ef0bc1"
+      ],
+      "concepts": []
     }
   ]
 }

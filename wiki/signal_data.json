@@ -1342,5 +1342,61 @@
   "thin": 1,
   "total": 35,
   "unreadable": 3
+ },
+ "2026-10-25": {
+  "ok": 12,
+  "paywall": 1,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "ddeaf56014f1",
+    "minutes": 5,
+    "source": "Hacker News",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "why": "A fine-tuned 2015 CNN beat GPT-6 Astra and Claude Fable 5.1 on 200 biopsy-proven skin lesions, 62% to ~42%, and both LLMs would have discharged a melanoma."
+   },
+   {
+    "cat": "ok",
+    "front": "Labor and education",
+    "id": "09eba99e63b7",
+    "minutes": 3,
+    "source": "Hacker News",
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "why": "Fields medalist Richard Borcherds has stopped grading Berkeley homework for correctness, saying AI has made the exercise pointless and mathematics' future uncertain."
+   },
+   {
+    "cat": "ok",
+    "front": "Economics",
+    "id": "eea793d24e61",
+    "minutes": 13,
+    "source": "Hacker News",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "why": "Apricitas counts 200,000 US creative-industry jobs lost in four years without a recession and asks how much of the loss belongs to AI."
+   },
+   {
+    "cat": "ok",
+    "front": "Industry",
+    "id": "0724adf26ea7",
+    "minutes": 2,
+    "source": "Techmeme",
+    "title": "Baba, which develops AI tools to help Medicare and Medicaid patients connect to care teams and handle advocacy tasks, raised a $40M Series A led by FirstMark",
+    "why": "Baba raised $40M to put AI care teams in front of Medicare and Medicaid patients, with a long-horizon patient-advocacy benchmark attached."
+   },
+   {
+    "cat": "ok",
+    "front": "Open models",
+    "id": "594eb857b895",
+    "minutes": 12,
+    "source": "Hacker News",
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "why": "Hurston-1 is an open TTS model for Southern American and African accents with a phone-line mode emitting 8 kHz G.711 audio for real call systems."
+   }
+  ],
+  "reserve": "493da15dc34e",
+  "status": "provisional",
+  "thin": 1,
+  "total": 15,
+  "unreadable": 1
  }
 }

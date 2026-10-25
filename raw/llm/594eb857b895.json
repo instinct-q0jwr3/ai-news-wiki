@@ -1,0 +1,16 @@
+{
+  "id": "594eb857b895",
+  "authored_at": "2026-10-25T20:42:20Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Destined AI has released Hurston-1, an open-source text-to-speech model built for the accents most TTS systems flatten into generic American English: Southern American, Nigerian, West African, East African and Southern African, alongside broader American English. It is a fine-tune of the Apache-2.0 Maya1 model and the first release in the company's ClarityVoice family, steered not by fixed voice presets but by plain-language descriptions of the voice wanted.\n\nThe headline feature is NB-TTS, narrowband text-to-speech for the phone line, where most customer service still happens, including calls answered by AI agents. Phone mode emits 8 kHz G.711 audio ready for Twilio and other telephony systems, trained in part on real calls between the company's paid, consented contributors and AI voice agents; full 24 kHz output remains the default. The Atlanta team, recording contributors across the American South and Africa since 2021, says it built the model without outside funding and named it for Zora Neale Hurston, the anthropologist who documented how Black Southerners actually spoke.",
+  "highlights": [
+    "Hurston-1 is an open-source TTS fine-tune of Maya1 (Apache-2.0) targeting accents mainstream systems handle poorly",
+    "Accents covered: Southern American, Nigerian, West African, East African, Southern African, and broad American English",
+    "NB-TTS phone mode outputs 8 kHz G.711 audio ready for Twilio-style telephony, matching what callers actually hear",
+    "Trained partly on real phone calls between paid, consented contributors and AI voice agents",
+    "Voices are steered by plain-language descriptions (gender, age, accent) rather than fixed presets, with a Whisper-based check that retries unintelligible takes",
+    "First release in Destined AI's ClarityVoice family; the self-funded Atlanta team has recorded contributors since 2021",
+    "Named for Zora Neale Hurston, who documented Black Southern speech as an anthropologist"
+  ]
+}

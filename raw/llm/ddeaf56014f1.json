@@ -1,0 +1,16 @@
+{
+  "id": "ddeaf56014f1",
+  "authored_at": "2026-10-25T20:42:20Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A clinician's head-to-head test has a humbling result for frontier AI: a fine-tuned copy of Inception v3, a convolutional network Google published in 2015, beat both GPT-6 Astra and Claude Fable 5.1 at diagnosing skin cancer from images. On 200 biopsy-proven lesions from the public MILK10k dataset, the CNN named the correct diagnosis among six options for 125 cases (62%), against 84 and 85 (about 42%) for the two flagship LLMs - despite being fine-tuned for only about twenty minutes on a single H100.\n\nThe test was designed to be clinically honest. Every lesion was biopsied, including the benign ones, so the set skews toward cases that worried a real clinician; each lesion came with both a clinical photo and a dermoscopic image. The LLMs were prompted as a clinician might use them - most likely diagnosis, confidence, second choice, and whether the patient could be safely discharged - and both would have discharged at least one melanoma as a harmless seborrhoeic keratosis. The CNN was deliberately not state of the art: pretrained on everyday photographs, fine-tuned on 68,011 ISIC Archive images with all test lesions and same-patient photos excluded. The author's conclusion is that for narrow, high-stakes visual classification, a cheap specialist model still outperforms general-purpose giants that cost orders of magnitude more.",
+  "highlights": [
+    "Fine-tuned Inception v3 (2015) diagnosed 125 of 200 biopsy-proven skin lesions correctly (62%); GPT-6 Astra and Claude Fable 5.1 managed 84 and 85 (~42%)",
+    "The CNN was fine-tuned for about twenty minutes on one H100 using 68,011 public ISIC images",
+    "Test set: 200 randomly drawn MILK10k lesions, all confirmed by histopathology, each with clinical and dermoscopic views",
+    "Both LLMs misread a melanoma as a harmless seborrhoeic keratosis and would have discharged the patient",
+    "LLMs were prompted for diagnosis, confidence, second choice and discharge decision, at default settings, with no refusals",
+    "Test lesions and same-patient photos were removed from the CNN's training and validation data",
+    "Takeaway: narrow specialist models still beat frontier generalists on focused visual diagnostic tasks"
+  ]
+}

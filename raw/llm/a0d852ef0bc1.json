@@ -1,0 +1,13 @@
+{
+  "id": "a0d852ef0bc1",
+  "authored_at": "2026-10-25T20:42:20Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the source page is a podcast episode whose extractable text is only its metadata, so this summary rests on the feed description alone. John Gruber's The Talk Show welcomes special guest Joanna Stern for an episode whose billed topic is 'The iPhone Duo.' The episode was edited by Caleb Sexton and ships with sponsor spots and unofficial but reportedly good transcripts. Without the audio or a full write-up, the substance of the conversation cannot be summarized further here.",
+  "highlights": [
+    "The Talk Show episode with special guest Joanna Stern, billed around 'The iPhone Duo'",
+    "Podcast audio page offered little extractable text, so this note is based on feed metadata only",
+    "Unofficial transcripts are available and described as surprisingly good"
+  ],
+  "basis": "Podcast page yielded only metadata (guest, topic, sponsor, editor); summary written from the feed description without the episode's content."
+}

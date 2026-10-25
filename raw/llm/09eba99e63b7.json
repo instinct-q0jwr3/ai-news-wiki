@@ -1,0 +1,16 @@
+{
+  "id": "09eba99e63b7",
+  "authored_at": "2026-10-25T20:42:20Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Richard Borcherds, a UC Berkeley mathematics professor and Fields medalist, has stopped grading his students' homework for correctness. With AI tools reliably producing top-scoring answers, he told the student newspaper there was no point paying readers to grade work that AI now completes by default; he marks for completion instead, a system he calls not very good but the only one available.\n\nThe interview lands days after OpenAI said its agents had apparently solved the Navier-Stokes existence and smoothness problem, one of mathematics' most famous open questions. Borcherds says that if AI keeps improving at its present rate, within a few years there will be nothing human mathematicians can do that AI cannot do better - a reversal from five years ago, when mathematics looked like one of the careers safest from automation. He no longer knows whether to advise students to enter the field, describes deep institutional inertia in academia, comparing journals to print publications that outlived their usefulness, and frames the moment as mathematics' first encounter with the kind of displacement that looms brought to weaving.",
+  "highlights": [
+    "Fields medalist Richard Borcherds no longer grades Berkeley homework for correctness because AI use makes the exercise meaningless",
+    "He now grades on completion, which he admits is 'not a very good system' but sees no current alternative",
+    "The interview followed OpenAI's announcement that AI agents apparently solved the Navier-Stokes existence and smoothness problem",
+    "Borcherds predicts that within a few years AI could exceed human mathematicians at everything they do",
+    "Five years ago he considered mathematics one of the professions safest from AI; he no longer knows what to advise students considering it",
+    "He expects academic inertia to keep the math department looking unchanged for years, comparing it to paper journals that persist despite being pointless",
+    "Berkeley asks faculty to state AI coursework expectations in syllabi, but policies vary widely across courses"
+  ]
+}

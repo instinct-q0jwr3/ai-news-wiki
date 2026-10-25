@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-10-25",
+  "date": "2026-10-25",
+  "status": "provisional",
+  "reserve": "493da15dc34e",
+  "picks": [
+    {
+      "id": "ddeaf56014f1",
+      "front": "Evaluation",
+      "source": "Hacker News",
+      "why": "A fine-tuned 2015 CNN beat GPT-6 Astra and Claude Fable 5.1 on 200 biopsy-proven skin lesions, 62% to ~42%, and both LLMs would have discharged a melanoma."
+    },
+    {
+      "id": "09eba99e63b7",
+      "front": "Labor and education",
+      "source": "Hacker News",
+      "why": "Fields medalist Richard Borcherds has stopped grading Berkeley homework for correctness, saying AI has made the exercise pointless and mathematics' future uncertain."
+    },
+    {
+      "id": "eea793d24e61",
+      "front": "Economics",
+      "source": "Hacker News",
+      "why": "Apricitas counts 200,000 US creative-industry jobs lost in four years without a recession and asks how much of the loss belongs to AI."
+    },
+    {
+      "id": "0724adf26ea7",
+      "front": "Industry",
+      "source": "Techmeme",
+      "why": "Baba raised $40M to put AI care teams in front of Medicare and Medicaid patients, with a long-horizon patient-advocacy benchmark attached."
+    },
+    {
+      "id": "594eb857b895",
+      "front": "Open models",
+      "source": "Hacker News",
+      "why": "Hurston-1 is an open TTS model for Southern American and African accents with a phone-line mode emitting 8 kHz G.711 audio for real call systems."
+    }
+  ]
+}

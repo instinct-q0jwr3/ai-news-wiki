@@ -1,29 +1,41 @@
 {
- "generated_at": "2026-10-25T14:34:32+00:00",
+ "generated_at": "2026-10-25T20:35:14+00:00",
  "stories": [
   {
-   "id": "a59f0b8b0414",
-   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+   "id": "ddeaf56014f1",
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
+   "url": "https://lynchlab.net/llm-skin-cancer"
   },
   {
-   "id": "703591c615ad",
-   "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+   "id": "09eba99e63b7",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
    "source": "Hacker News",
-   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
   },
   {
-   "id": "e0b90fba0f0e",
-   "title": "Imagine an AI future where being banned means you are now economically useless",
+   "id": "594eb857b895",
+   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
    "source": "Hacker News",
-   "url": "https://twitter.com/boneGPT/status/2114035719853265264"
+   "url": "https://huggingface.co/destined/hurston-1"
   },
   {
-   "id": "03252cbb35cd",
-   "title": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability"
+   "id": "f0a739ba0091",
+   "title": "Sunnny",
+   "source": "Daring Fireball",
+   "url": "https://sunnny.com/"
+  },
+  {
+   "id": "a0d852ef0bc1",
+   "title": "The Talk Show: ‘Lubricate the Inside of the Hinge’",
+   "source": "Daring Fireball",
+   "url": "https://daringfireball.net/thetalkshow/2026/10/25/ep-456"
+  },
+  {
+   "id": "9859a3c4ad19",
+   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+   "source": "Lobsters",
+   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/"
   }
  ]
 }
