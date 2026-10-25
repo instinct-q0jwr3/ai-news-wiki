@@ -1,6 +1,6 @@
 # Devin is now up to 40% more cost-efficient
 
-_type: news-summary · created: 2026-09-30 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-09-30 · updated: 2026-10-25 · confidence: high_
 
 `tldr-ai`
 

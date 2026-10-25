@@ -1,77 +1,23 @@
 {
- "generated_at": "2026-10-24T20:32:01+00:00",
+ "generated_at": "2026-10-25T02:32:54+00:00",
  "stories": [
   {
+   "id": "eea793d24e61",
+   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+   "source": "Hacker News",
+   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+  },
+  {
+   "id": "9a7953874347",
+   "title": "Making My Blog Readable by AI Agents",
+   "source": "Hacker News",
+   "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents"
+  },
+  {
    "id": "f5408cf6177d",
-   "title": "No Signs of AI Payoff Outside the Tech Sector",
+   "title": "No signs of AI payoff outside the tech sector",
    "source": "Hacker News",
    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
-  },
-  {
-   "id": "d16672f6c3d1",
-   "title": "Dream-1",
-   "source": "Hacker News",
-   "url": "https://dreamlabs.ai/research/dream-1/"
-  },
-  {
-   "id": "2bbc33b065e2",
-   "title": "Why is AI generated language so hard to understand?",
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2610.29162"
-  },
-  {
-   "id": "e3e6a4000ffd",
-   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-   "source": "Hacker News",
-   "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/"
-  },
-  {
-   "id": "16d77033b58f",
-   "title": "Progressive disclosure in agents to make them 2.3x faster",
-   "source": "Hacker News",
-   "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/"
-  },
-  {
-   "id": "7ba7e7804e6c",
-   "title": "DetectorScope: AI text detectors that show their work",
-   "source": "Hacker News",
-   "url": "https://github.com/google-deepmind/detectorscope"
-  },
-  {
-   "id": "021cd1bf3d78",
-   "title": "A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&smid=url-share"
-  },
-  {
-   "id": "849d8601b33f",
-   "title": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63?st=YJm3H4&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "1b71d40e617b",
-   "title": "Will Generative AI do more harm than good?",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/will-generative-ai-do-more-harm-than"
-  },
-  {
-   "id": "8083a84f22d9",
-   "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
-  },
-  {
-   "id": "b8bdebe2223d",
-   "title": "Chan Karunamuni on the Duo’s Open/Close Translucent Transition",
-   "source": "Daring Fireball",
-   "url": "https://x.com/chan_k/status/2113622379050246243"
-  },
-  {
-   "id": "908ebbd88ca6",
-   "title": "Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity"
   }
  ]
 }

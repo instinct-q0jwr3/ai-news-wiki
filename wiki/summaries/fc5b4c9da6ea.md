@@ -1,6 +1,6 @@
 # Running RAG with a (small) language model in the browser
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-25 · confidence: high_
 
 `lobsters`
 

@@ -1,6 +1,6 @@
 # SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B
 
-_type: news-summary · created: 2026-10-21 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-21 · updated: 2026-10-25 · confidence: high_
 
 `techmeme` `compute-buildout`
 

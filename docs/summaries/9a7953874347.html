@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Making My Blog Readable by AI Agents · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1792896019"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Making My Blog Readable by AI Agents</h1>
+<p class="meta">type: news-summary · created: 2026-10-25 · updated: 2026-10-25 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>The author of the Deallocated Objects blog spent an evening making the site readable for AI agents (Claude, ChatGPT, Perplexity and friends), and the write-up is a practical recipe for any static site. Every post now also exists as plain markdown via an .md suffix, with YAML frontmatter carrying title, canonical URL, author, dates and description. The neater trick is content negotiation: an nginx map rewrites to the .md file when the Accept header asks for text/markdown, with Vary: Accept so caches never mix the two, and Link canonical plus X-Robots-Tag: noindex on the markdown so search engines don't see duplicates.</p>
+<p>The site also publishes /llms.txt (a markdown index explaining what the site is, how to get markdown, citation preferences and a one-line summary of every post), /llms-full.txt (all posts in one 225 KB file) and /index.md, with a Link header on every response pointing at llms.txt. robots.txt explicitly allows the major AI crawlers and adds a Content-Signal line (search=yes, ai-input=yes, ai-train=yes) - the author wants to be cited, while noting a product site might choose differently. Feeds got markdown alternates too (Atom summary links and a JSON Feed _markdown_url). The pass also fixed inherited issues: rebuilt descriptions from rendered text, removed maximum-scale=1 so phones can pinch-zoom, and added og:image.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Every post now has a markdown version at the same URL plus .md, with YAML frontmatter.</li>
+<li>nginx content negotiation serves markdown when Accept: text/markdown, with Vary: Accept to keep caches honest.</li>
+<li>Markdown responses send Link canonical and X-Robots-Tag: noindex to avoid duplicate-content penalties.</li>
+<li>/llms.txt describes the site, citation preferences and every post; /llms-full.txt bundles all posts (~225 KB).</li>
+<li>robots.txt explicitly allows AI crawlers and adds Content-Signal: search=yes, ai-input=yes, ai-train=yes - the author wants citations.</li>
+<li>Atom and JSON Feeds now link markdown alternates per item (_markdown_url custom key).</li>
+<li>Side fixes: descriptions rebuilt from rendered text, maximum-scale=1 removed for pinch-zoom, og:image added.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -1,6 +1,6 @@
 # Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M
 
-_type: news-summary · created: 2026-10-24 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-24 · updated: 2026-10-25 · confidence: high_
 
 `techmeme` `ai-safety-incidents`
 

@@ -1,6 +1,6 @@
 # Thiel's leaked Rome lectures cast EA and AI "safetyism" as Antichrist forerunners, Bill Gates as "Mr. Hyde", and Eliezer Yudkowsky as "more Luddite than Greta"
 
-_type: news-summary · created: 2026-10-21 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-21 · updated: 2026-10-25 · confidence: high_
 
 `techmeme` `ai-safety-incidents`
 

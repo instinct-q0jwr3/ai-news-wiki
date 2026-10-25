@@ -1,6 +1,6 @@
 # Breaking news: U.S. banks are taking hits from AI agents
 
-_type: news-summary · created: 2026-10-22 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-22 · updated: 2026-10-25 · confidence: high_
 
 `marcus-on-ai` `agentic-systems` `compute-buildout`
 

@@ -1,6 +1,6 @@
 # An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more
 
-_type: news-summary · created: 2026-10-18 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-18 · updated: 2026-10-25 · confidence: high_
 
 `techmeme` `microsoft` `nvidia` `agentic-systems`
 

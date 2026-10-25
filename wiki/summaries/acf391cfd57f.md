@@ -1,6 +1,6 @@
 # Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions
 
-_type: news-summary · created: 2026-10-10 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-10 · updated: 2026-10-25 · confidence: high_
 
 `techmeme` `anthropic` `agentic-systems`
 

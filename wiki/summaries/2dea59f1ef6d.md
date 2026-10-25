@@ -1,6 +1,6 @@
 # Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed
 
-_type: news-summary · created: 2026-10-10 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-10 · updated: 2026-10-25 · confidence: high_
 
 `techmeme` `anthropic` `agentic-systems` `ai-policy-regulation`
 

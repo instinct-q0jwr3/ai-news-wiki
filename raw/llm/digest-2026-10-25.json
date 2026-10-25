@@ -1,0 +1,25 @@
+{
+  "id": "digest-2026-10-25",
+  "date": "2026-10-25",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "America's creative industries have lost 200,000 jobs in four years with no recession to blame, and a blogger writes the field guide for sites that want AI agents as readers.",
+  "sections": [
+    {
+      "title": "Creative work under the machine",
+      "intro": "Apricitas counts 200,000 US creative-industry jobs lost in four years - recession-grade losses with no recession - and asks how much of it is AI.",
+      "stories": [
+        "eea793d24e61"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Websites learn to talk to agents",
+      "intro": "A static-blog author ships a full recipe for agent-readable publishing: markdown mirrors, content negotiation, llms.txt and explicit crawler signals.",
+      "stories": [
+        "9a7953874347"
+      ],
+      "concepts": []
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages
 
-_type: news-summary · created: 2026-10-18 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-18 · updated: 2026-10-25 · confidence: high_
 
 `hacker-news` `anthropic` `ai-safety-incidents`
 

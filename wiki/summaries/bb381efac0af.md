@@ -1,6 +1,6 @@
 # Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-24 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-25 · confidence: high_
 
 `techmeme` `openai` `anthropic` `external-evaluation`
 
