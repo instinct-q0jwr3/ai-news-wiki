@@ -1,0 +1,14 @@
+{
+  "id": "6f4ead3b9527",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the source is a short X announcement with a video, so this note rests on the post itself. Cursor can now control your computer: its agents can drive desktop applications - the demo shows the iOS Simulator - to test the features they build. The move takes coding agents beyond the editor and into operating the software they produce, closing the loop between writing code and verifying it runs.",
+  "highlights": [
+    "Cursor agents can now control the computer and drive desktop apps",
+    "Demo: driving the iOS Simulator to test features the agent built",
+    "Extends coding agents from writing code to operating the resulting software",
+    "Source is a brief X post with video; detail beyond the announcement is unavailable"
+  ],
+  "basis": "Source is a short X post (thin extraction); summary based on the announcement text only."
+}

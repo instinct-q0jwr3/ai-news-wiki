@@ -1,0 +1,14 @@
+{
+  "id": "d554fe07d8f2",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Julien Simon investigates the language model Apple put on every Mac with macOS 27: Core Advanced, the larger of Apple's two on-device models, 20 billion parameters of which 1 to 4 billion are active at a time, built 'in collaboration with Google', and callable from any script with a terminal command. Apple's public description fits in three sentences, so Simon measures the thing from the outside instead.\n\nBecause Apple's license bars decompiling and reverse engineering, he opens no model files and attaches no debugger; he watches file-read traces, system logs, memory and power counters, and the symbols Apple's frameworks export. The result is a careful black-box profile of how the model is packaged and served - and a small act of methodological transparency about what can and cannot be known without breaking the rules.",
+  "highlights": [
+    "macOS 27 puts a 20B-parameter on-device model, Core Advanced, on every Apple Intelligence-capable Mac",
+    "Only 1-4B parameters are active at a time; Apple says it was custom-built with Google",
+    "It powers Siri's new voices and dictation and is callable from any script via the fm command",
+    "The license bars reverse engineering, so the author profiles it black-box: file traces, logs, memory and power counters",
+    "A model of how to investigate a closed system without breaking its terms"
+  ]
+}

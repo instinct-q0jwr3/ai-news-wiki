@@ -1,0 +1,15 @@
+{
+  "id": "18e98387fefb",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Washington Post page returned an error, so this note rests on Techmeme's account. Cathedral, a months-old cybersecurity startup founded by former DOGE staffers, says it breached Anthropic's internal systems in under 12 hours using AI agents. According to a report reviewed by the Post, the startup told the Claude maker that its researchers quickly penetrated sensitive systems - a claim that, if borne out, is an awkward look for the AI lab most identified with safety, in the very week of its IPO filing.",
+  "highlights": [
+    "Cathedral, a months-old startup founded by ex-DOGE staffers, claims it breached Anthropic in under 12 hours",
+    "The breach was reportedly carried out using AI agents",
+    "Cathedral told Anthropic it penetrated sensitive internal systems",
+    "The claim surfaces in the week of Anthropic's IPO filing",
+    "Washington Post page failed to load; note based on Techmeme's summary"
+  ],
+  "basis": "Washington Post page returned an error; summary written from Techmeme's feed description without the article text."
+}

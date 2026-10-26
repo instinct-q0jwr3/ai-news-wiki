@@ -1,0 +1,14 @@
+{
+  "id": "00ebc6538e4a",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Financial Times blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Meta is planning to raise $95 billion to finance its AI infrastructure, including $35 billion in public equity offerings, with chipmakers Nvidia, AMD and Broadcom acting as cornerstone investors. The structure is striking: the companies selling Meta the chips are also underwriting the raise that pays for them.",
+  "highlights": [
+    "Meta plans a $95B raise to finance AI infrastructure",
+    "$35B would come via public equity offerings",
+    "Nvidia, AMD and Broadcom act as cornerstone investors - chip suppliers underwriting the buyer",
+    "FT blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Financial Times returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

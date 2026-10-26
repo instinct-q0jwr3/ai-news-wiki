@@ -1,0 +1,13 @@
+{
+  "id": "e2ad8a5d5e7e",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Gemini 4 Carbon has entered early access, with partners testing it and checkpoints appearing on LMArena ahead of an imminent release. Testers posting outputs describe it as noticeably better than Gemini 4 Argon at 3D generation, while frontend and UI work remains weak; it is also slower but 'less lazy'. Comparisons circulating on X show updated-checkpoint outputs, including a voxel pagoda benchmark, stacked against other frontier models.\n\nThe signal is that Google is concentrating on the 3D domain before turning to frontend polish, and that Carbon is close enough to release that public comparisons are already possible.",
+  "highlights": [
+    "Gemini 4 Carbon early access has started with partners; release is described as very close",
+    "Testers report noticeably better 3D generation than Gemini 4 Argon",
+    "Frontend/UI output still lags; the model is slower but less lazy",
+    "Updated checkpoints are already being benchmarked publicly on LMArena and X"
+  ]
+}

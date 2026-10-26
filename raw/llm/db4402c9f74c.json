@@ -1,0 +1,15 @@
+{
+  "id": "db4402c9f74c",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Anthropic's S-1 discloses an $80.7 billion net loss on revenue of $16.3 billion for the first half of 2026, against a $13 billion net loss on $1.2 billion of revenue in the same period of 2025. Revenue grew more than thirteen-fold year over year, and net revenue retention is reported at 900%. The filing warns the technology carries existential risks even as the company moves closer to the market.",
+  "highlights": [
+    "Anthropic's H1 2026: an $80.7B net loss on $16.3B of revenue",
+    "H1 2025 comparison: a $13B net loss on $1.2B of revenue",
+    "Revenue grew more than 13x year over year; net revenue retention cited at 900%",
+    "The S-1 warns of existential risks from the technology it sells",
+    "Bloomberg blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

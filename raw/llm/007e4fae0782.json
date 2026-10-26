@@ -1,0 +1,14 @@
+{
+  "id": "007e4fae0782",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Anthropic has unified Claude's chat and Cowork capabilities for enterprise customers, ending the split experience that forced users and administrators to pick a tool per task. Customers quoted in the announcement describe the merge as seamless - connectors, skills and MCPs carried over - and say it resolves the constant 'which Claude should I use' question.\n\nOne government customer describes Claude working through stacks of county, state and federal budgets and public meeting documents, mapping how funding streams connect, and producing a report that would have taken the team weeks - from under ten minutes of prompting. The strategic point: Anthropic is collapsing its product surface into one agentic Claude that adapts to how and where people work.",
+  "highlights": [
+    "Claude chat and Cowork are now unified for enterprise customers",
+    "Connectors, skills and MCPs carried over without breaking, per customer testimony",
+    "A public-sector user reports a multi-week funding-stream analysis done from under ten minutes of prompting",
+    "The merge answers the persistent 'which Claude do I use' question",
+    "Anthropic is converging on a single agentic product surface"
+  ]
+}

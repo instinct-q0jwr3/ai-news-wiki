@@ -1,0 +1,14 @@
+{
+  "id": "a967ec2b78b9",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Wall Street Journal blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Nearly a quarter of Anthropic's S-1 - 94 pages - is dedicated to risk factors. Among them: a warning that the scale of harm from a catastrophic AI incident might leave the company unable to obtain insurance. It is an unusually blunt disclosure for a document whose purpose is to attract capital, and it sets the prospectus apart from the standard boilerplate of tech listings.",
+  "highlights": [
+    "94 pages of Anthropic's S-1 are risk factors - nearly a quarter of the document",
+    "The filing warns a catastrophic AI incident could make insurance unobtainable",
+    "Unusually candid risk language for a listing prospectus",
+    "WSJ blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Wall Street Journal returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2acf849a0316",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "After GPT-6 Astra, the author argues, classic computer-use tasks on well-known interfaces are essentially solved: the model has read every popular product's documentation a thousand times, so operating Word or Google Workspace is increasingly retrieval, not skill. The interesting frontier moved elsewhere.\n\nA line from Hanchung Lee frames it: an agent that knows how to do a task does not necessarily know how to achieve a goal. It can send the email asking for headcount; it has no idea how to actually get headcount - find budget, make the case to its owner, win agreement. That knowledge is undocumented and lives in organizations, not manuals. If training and grading only cover software operation, the essay warns, we will keep measuring the part that is already finished.",
+  "highlights": [
+    "Computer-use tasks on well-known interfaces are increasingly solved - operation is becoming retrieval",
+    "Key distinction: knowing how to do a task is not knowing how to achieve a goal",
+    "An agent can send the headcount email but cannot navigate budget, politics and persuasion to get it",
+    "The remaining difficulty lives in undocumented organizational knowledge",
+    "Training and grading focused on software operation measure the part that is already done"
+  ]
+}

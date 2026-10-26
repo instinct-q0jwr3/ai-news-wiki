@@ -1,0 +1,14 @@
+{
+  "id": "452af818c681",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Financial Times blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Within Anthropic's $80.7 billion first-half net loss, nearly $9 billion came directly from computing power and infrastructure. Looking forward, the 240,000-word prospectus discloses nearly $800 billion in commitments over ten years - a figure that lays out, in one number, how much of the AI boom's cost structure is locked in before the revenue to cover it exists. The FT describes explosive growth alongside steep losses and daunting risk factors.",
+  "highlights": [
+    "Nearly $9B of Anthropic's $80.7B H1 loss came from compute and infrastructure",
+    "The S-1 discloses nearly $800B in commitments over ten years",
+    "The prospectus runs to 240,000 words of growth, losses and risk factors",
+    "FT blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Financial Times returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

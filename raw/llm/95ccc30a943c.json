@@ -1,0 +1,14 @@
+{
+  "id": "95ccc30a943c",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. SpaceX has agreed to a roughly $40 billion equipment-finance lease with Apollo Global Management to fund purchases of Nvidia GPUs for its AI initiatives, with the deal set to close before the end of 2026. It is one of the largest chip-financing arrangements yet and a sign of how far private credit is reaching into the AI build-out.",
+  "highlights": [
+    "SpaceX signs a ~$40B equipment-finance lease with Apollo for Nvidia GPUs",
+    "The deal funds chips for SpaceX's AI initiatives and is set to close before the end of 2026",
+    "Among the largest GPU financing arrangements to date",
+    "Bloomberg blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

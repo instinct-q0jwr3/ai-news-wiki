@@ -1,0 +1,14 @@
+{
+  "id": "ada9704d2c7e",
+  "authored_at": "2026-10-26T14:47:04Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Bert Hubert returns to a favorite subject - the Dutch government's IT incapacity - with a concrete case study drawn from parliamentary questions. A government job-vacancy mailing list stopped working in mid-January 2026 after a change to the vacancy system. Eight months later it still has not been restored.\n\nThe official answer is a small masterpiece of the genre: there is no repair, the ministry says, and no repair timeline, because the old system was phased out as planned and the mailing functionality is being newly developed 'to current standards and (security) requirements'. Hubert's questions - did anyone notice the outage, why is it taking eight months, what happened to applications and visitor numbers - are the ones a functioning IT organization would have asked itself in week one. The piece continues his longer project, including an earlier parable and a follow-up with suggestions for fixing the underlying culture.",
+  "highlights": [
+    "Hubert documents the Dutch government's IT incapacity through a concrete case",
+    "A government vacancy mailing broke in mid-January 2026 and was still unrestored eight months later",
+    "The ministry says there is no 'repair': the old system was phased out and the feature is being rebuilt to current standards",
+    "Parliamentary answers reveal nobody tracked the impact on visitors or applications",
+    "Part of Hubert's longer series on why the Dutch state struggles with software"
+  ]
+}
