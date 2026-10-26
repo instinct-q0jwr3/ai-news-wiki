@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-25 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-26 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-26** - Max Woolf walks through a few months of LLM pricing moves at OpenAI and Anthropic and asks why both labs are cutting so aggressively. OpenAI launched GPT-5.6 Sol at $5/$30 per million tokens (input/output) and the smaller Luna at $1/$6, then cut Luna by… ([OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](../summaries/dabbd6469d7d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-24** - On Terence Tao's blog, four mathematicians (Abhinav Nellore, Johannes Schmitt, Soledad Villar and Rachel Ward) announce oai-math-revised, a community hub that aims to improve OpenAI's math write-ups, which they describe as difficult to understand and… ([Oai-math-revised: a community hub for revising OpenAI's math write-ups](../summaries/e3e6a4000ffd.md) · [OpenAI](../entities/openai.md))
 - **2026-10-24** - The Information reports that Replit recently shifted most of its AI spending from Anthropic to OpenAI after Anthropic discontinued its discount. OpenAI reportedly offered more than 30% off in a deal worth over $100 million per year, part of a broader push… ([Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount](../summaries/908ebbd88ca6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-10-24** - A Hacker News discussion links to a Reddit post claiming a hacker reverse-engineered a Samsung TV and found its on-board AI listening features tied to an OpenAI account that was subsequently suspended. Details beyond the headline are not verifiable from… ([Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](../summaries/674ed3f4ab2d.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠

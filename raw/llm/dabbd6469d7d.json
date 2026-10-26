@@ -1,0 +1,15 @@
+{
+  "id": "dabbd6469d7d",
+  "authored_at": "2026-10-26T02:42:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Max Woolf walks through a few months of LLM pricing moves at OpenAI and Anthropic and asks why both labs are cutting so aggressively. OpenAI launched GPT-5.6 Sol at $5/$30 per million tokens (input/output) and the smaller Luna at $1/$6, then cut Luna by 80% to $0.20/$1.20 and trimmed Sol by about 20% for three months. Anthropic priced Claude Sonnet 5 at $2/$10, made its 'temporary' launch pricing permanent, and released Fable 5.1 at $10/$50 with cache reads cut 75% - a change that matters because cache reads are 96-99% of the bill in agentic coding workloads.\n\nHis explanation is competitive pressure, not generosity. Without the Luna cut, OpenAI's small model would have lost on quality-per-cost to DeepSeek V4 Pro; the open-weights labs are setting the price floor and the frontier labs are being dragged toward it. The result is a market where headline model prices fall by up to 80% within months of launch, and where the remaining margin lives in cache pricing and enterprise commitments rather than list prices.",
+  "highlights": [
+    "OpenAI cut GPT-5.6 Luna's price by 80%, from $1/$6 to $0.20/$1.20 per million tokens, months after launch",
+    "Without that cut, Luna would have lost the quality-per-cost comparison to DeepSeek V4 Pro",
+    "Anthropic made Sonnet 5's 'temporary' $2/$10 launch pricing permanent and cut cache reads 75% on Fable 5.1",
+    "Cache reads account for 96-99% of total cost in agentic coding workloads, making cache pricing the real battleground",
+    "OpenAI also trimmed GPT-5.6 Sol by about 20% ($4/$20) for a three-month window",
+    "The pattern: open-weights competitors set the floor and frontier labs follow, compressing list prices across the board"
+  ]
+}

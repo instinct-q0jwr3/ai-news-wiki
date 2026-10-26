@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-25 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-26 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-26** - ADRs for AI adapts the architecture decision record - the software-world habit of writing down why a decision was made - to human-AI collaboration. The author's premise is that the most valuable output of working with an AI is not the code or the draft but… ([Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](../summaries/dab1e7610c7a.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-26** - Max Woolf walks through a few months of LLM pricing moves at OpenAI and Anthropic and asks why both labs are cutting so aggressively. OpenAI launched GPT-5.6 Sol at $5/$30 per million tokens (input/output) and the smaller Luna at $1/$6, then cut Luna by… ([OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](../summaries/dabbd6469d7d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-24** - The Information reports that Replit recently shifted most of its AI spending from Anthropic to OpenAI after Anthropic discontinued its discount. OpenAI reportedly offered more than 30% off in a deal worth over $100 million per year, part of a broader push… ([Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount](../summaries/908ebbd88ca6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-10-24** - A viral exchange started by Chris Lakin highlights a data-leakage concern in Claude Code: users report the agent attached their email address to outbound HTTP requests. Steven Liss describes finding his Claude Code exposing personal data in HTTP headers… ([Claude Code slyly adding users' emails to outbound HTTP](../summaries/ee748a74153d.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-24** - Simon Willison shipped battledrones v14, adding a four-player map called Compass Rose to his LLM-built browser game. Previous maps supported only two players; the new one has four-way rotational symmetry and works with the WebSocket multiplayer mode, so up… ([battledrones v14: Compass Rose, a four player map](../summaries/27e51dabc7ce.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md))

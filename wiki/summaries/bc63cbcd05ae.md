@@ -1,6 +1,6 @@
 # A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google
 
-_type: news-summary · created: 2026-10-17 · updated: 2026-10-25 · confidence: high_
+_type: news-summary · created: 2026-10-17 · updated: 2026-10-26 · confidence: high_
 
 `techmeme` `google` `compute-buildout`
 

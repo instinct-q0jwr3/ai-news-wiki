@@ -1,0 +1,15 @@
+{
+  "id": "a9801abe06df",
+  "authored_at": "2026-10-26T02:42:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "The moderators of r/opensource have banned an enormous category of submissions, declaring that any project that uses AI, is made by AI, or is intended for AI is not welcome, on the grounds that AI as it exists today is incongruent with the open source community. The Saturday-evening announcement set off a revolt in the comments and spawned a rival subreddit, r/trueopensource.\n\nThe moderation team has tried to carve out nuance - accessibility features like automatic captioning get selective enforcement - but members keep finding edge cases that expose the rule's breadth: the Linux kernel now contains AI-generated code, which would taint huge swaths of the ecosystem under a literal reading. The AI ban arrived alongside other restrictions that drew less attention but may exclude more people: projects must be at least a year old, actively maintained and multi-contributor, maintainer-wanted posts are no longer fielded, and non-English speakers are effectively told to find another community because moderators cannot distinguish AI-written text from AI-translated text.",
+  "highlights": [
+    "r/opensource banned submissions of any project that uses, is made by, or is intended for AI",
+    "The announcement sparked a community revolt and the creation of rival subreddit r/trueopensource",
+    "Moderators allow narrow exceptions such as AI-powered accessibility features like automatic captioning",
+    "Critics note the Linux kernel itself now contains AI-generated code, making the ban's scope unworkable",
+    "New rules also require projects to be one year old, actively maintained, and multi-contributor",
+    "Non-English speakers are effectively excluded because mods say they cannot tell AI writing from AI translation"
+  ]
+}

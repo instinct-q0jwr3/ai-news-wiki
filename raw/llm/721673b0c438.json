@@ -1,0 +1,13 @@
+{
+  "id": "721673b0c438",
+  "authored_at": "2026-10-26T02:42:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Business Insider page yielded no article text (only a tagline), so this note rests on the headline and feed context. Apollo, the asset manager, says AI has delivered 'zero financial payoff' outside the technology industry - a claim that lands in the middle of the debate over whether the AI build-out's revenue projections can ever be met by the wider economy that is supposed to justify them. The substance of Apollo's argument and its data cannot be summarized without access to the article itself.",
+  "highlights": [
+    "Apollo says AI has produced 'zero financial payoff' outside the tech industry",
+    "The claim challenges the revenue assumptions behind the AI infrastructure build-out",
+    "Business Insider page provided no readable text, so this note is based on the headline and feed metadata only"
+  ],
+  "basis": "Business Insider article page returned only a site tagline (thin extraction); summary written from the Hacker News title and feed context without the article text."
+}

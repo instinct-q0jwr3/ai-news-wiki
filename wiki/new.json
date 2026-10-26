@@ -1,41 +1,65 @@
 {
- "generated_at": "2026-10-25T20:35:14+00:00",
+ "generated_at": "2026-10-26T02:36:15+00:00",
  "stories": [
   {
-   "id": "ddeaf56014f1",
-   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "id": "993a3fe9f5bc",
+   "title": "A mathematician reads the AI future",
    "source": "Hacker News",
-   "url": "https://lynchlab.net/llm-skin-cancer"
+   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
   },
   {
-   "id": "09eba99e63b7",
-   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "id": "721673b0c438",
+   "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
    "source": "Hacker News",
-   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
+   "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
   },
   {
-   "id": "594eb857b895",
-   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+   "id": "3aae43b668f9",
+   "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
    "source": "Hacker News",
-   "url": "https://huggingface.co/destined/hurston-1"
+   "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
   },
   {
-   "id": "f0a739ba0091",
-   "title": "Sunnny",
-   "source": "Daring Fireball",
-   "url": "https://sunnny.com/"
+   "id": "fe3333327a2f",
+   "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+   "source": "Hacker News",
+   "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even"
   },
   {
-   "id": "a0d852ef0bc1",
-   "title": "The Talk Show: ‘Lubricate the Inside of the Hinge’",
-   "source": "Daring Fireball",
-   "url": "https://daringfireball.net/thetalkshow/2026/10/25/ep-456"
+   "id": "ef5e788f8c30",
+   "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+   "source": "Hacker News",
+   "url": "https://github.com/SRN0129/Agenttrust"
   },
   {
-   "id": "9859a3c4ad19",
-   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+   "id": "dab1e7610c7a",
+   "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+   "source": "Hacker News",
+   "url": "https://adrs.systems"
+  },
+  {
+   "id": "dabbd6469d7d",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "source": "Max Woolf",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/"
+  },
+  {
+   "id": "a2f358caf832",
+   "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\"",
+   "source": "Techmeme",
+   "url": "https://x.com/elonmusk"
+  },
+  {
+   "id": "a9801abe06df",
+   "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+  },
+  {
+   "id": "a478a0729e66",
+   "title": "“AI Skills” are worthless in 2026",
    "source": "Lobsters",
-   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/"
+   "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills"
   }
  ]
 }

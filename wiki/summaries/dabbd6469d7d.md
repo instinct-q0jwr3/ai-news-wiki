@@ -1,0 +1,28 @@
+# OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
+
+_type: news-summary · created: 2026-10-26 · updated: 2026-10-26 · confidence: high_
+
+`max-woolf` `openai` `anthropic`
+
+## Summary
+
+Max Woolf walks through a few months of LLM pricing moves at OpenAI and Anthropic and asks why both labs are cutting so aggressively. OpenAI launched GPT-5.6 Sol at $5/$30 per million tokens (input/output) and the smaller Luna at $1/$6, then cut Luna by 80% to $0.20/$1.20 and trimmed Sol by about 20% for three months. Anthropic priced Claude Sonnet 5 at $2/$10, made its 'temporary' launch pricing permanent, and released Fable 5.1 at $10/$50 with cache reads cut 75% - a change that matters because cache reads are 96-99% of the bill in agentic coding workloads.
+
+His explanation is competitive pressure, not generosity. Without the Luna cut, OpenAI's small model would have lost on quality-per-cost to DeepSeek V4 Pro; the open-weights labs are setting the price floor and the frontier labs are being dragged toward it. The result is a market where headline model prices fall by up to 80% within months of launch, and where the remaining margin lives in cache pricing and enterprise commitments rather than list prices.
+
+## Highlights
+
+- OpenAI cut GPT-5.6 Luna's price by 80%, from $1/$6 to $0.20/$1.20 per million tokens, months after launch
+- Without that cut, Luna would have lost the quality-per-cost comparison to DeepSeek V4 Pro
+- Anthropic made Sonnet 5's 'temporary' $2/$10 launch pricing permanent and cut cache reads 75% on Fable 5.1
+- Cache reads account for 96-99% of total cost in agentic coding workloads, making cache pricing the real battleground
+- OpenAI also trimmed GPT-5.6 Sol by about 20% ($4/$20) for a three-month window
+- The pattern: open-weights competitors set the floor and frontier labs follow, compressing list prices across the board
+
+## Source
+
+[Read the original story](https://minimaxir.com/2026/10/cheap-llms/)
+
+## Related pages
+
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)

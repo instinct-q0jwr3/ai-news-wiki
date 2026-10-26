@@ -1,0 +1,54 @@
+{
+  "id": "digest-2026-10-26",
+  "date": "2026-10-26",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "OpenAI and Anthropic cut prices by up to 80% under open-weights pressure while the debt under the data centers starts to creak, and the jobs data says the recovery is real but only for seniors.",
+  "sections": [
+    {
+      "title": "The price war reaches the frontier",
+      "intro": "Max Woolf tallies months of cuts at OpenAI and Anthropic - an 80% slash on GPT-5.6 Luna, permanent launch pricing on Sonnet 5, cache reads down 75% - and credits open-weights pressure, not generosity.",
+      "stories": [
+        "dabbd6469d7d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Debt, doubt and the build-out",
+      "intro": "Musk says SpaceX closed $40B in GPU debt just as credit shuts for neoclouds, a short-seller lays out the case that lab revenue cannot service half a trillion in borrowing, and Apollo calls AI's payoff outside tech zero.",
+      "stories": [
+        "a2f358caf832",
+        "fe3333327a2f",
+        "721673b0c438"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A recovery that skips the juniors",
+      "intro": "A long data essay acquits AI of causing the tech jobs bust but blames it for a recovery that only rehires seniors, Charles Miller declares 'AI skills' the new folklore optimization, and The Atlantic sends a mathematician to read the future.",
+      "stories": [
+        "3aae43b668f9",
+        "a478a0729e66",
+        "993a3fe9f5bc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Open source draws a line",
+      "intro": "r/opensource bans any project that uses, is made by, or is intended for AI - and the revolt, complete with a rival subreddit, arrives immediately.",
+      "stories": [
+        "a9801abe06df"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Working with agents, on the record",
+      "intro": "ADRs for AI versions human-AI deliberation in Git so the thinking stops evaporating, and AgentTrust wraps agent runtimes in zero-trust approvals and a hash-chained audit ledger.",
+      "stories": [
+        "dab1e7610c7a",
+        "ef5e788f8c30"
+      ],
+      "concepts": []
+    }
+  ]
+}

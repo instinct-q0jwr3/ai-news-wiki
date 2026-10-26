@@ -1,0 +1,14 @@
+{
+  "id": "a478a0729e66",
+  "authored_at": "2026-10-26T02:42:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Charles Miller argues that 'AI skills' - the tricks and prompt patterns people are racing to learn - are the i++ versus ++i of this era: folklore optimizations that the product absorbs within months. His analogy comes from learning C in the 1990s, when common knowledge held that pre-increment was faster because post-increment stashed a copy; even then, optimizing compilers already discarded the difference. Scratch an old programmer, he says, and you find a dozen ingrained habits that modern CPUs make irrelevant or counterproductive.\n\nPrompt engineering is going the same way: whatever works today gets folded back into the product, packaged, and shipped as the default experience a few months later. He predicts old heads will still be adding 'you are an experienced software developer, make no mistakes' to their custom instructions in five years. Keeping up with the state of the art still matters for doing today's job well, but a skill that takes weeks to learn and months to obsolete has no durable value - and the CEOs insisting everyone must board the AI train right now sound like every previous platform panic he has sat through.",
+  "highlights": [
+    "Miller's claim: 'AI skills' are the new i++ vs ++i - folklore that tools absorb and nullify",
+    "Useful prompt tricks get folded into products as defaults within months of being discovered",
+    "He predicts people will still write 'you are an experienced software developer, make no mistakes' in custom instructions five years from now",
+    "Keeping current still matters for doing today's job, but weeks-to-learn, months-to-obsolete skills have no lasting value",
+    "The essay recalls a CEO's get-on-the-AI-train speech and files it with earlier platform panics like the iPod and Facebook eras"
+  ]
+}

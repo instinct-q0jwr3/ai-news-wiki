@@ -1,6 +1,6 @@
 # Show HN: Building an LLM from Scratch in TypeScript
 
-_type: news-summary · created: 2026-10-14 · updated: 2026-10-25 · confidence: high_
+_type: news-summary · created: 2026-10-14 · updated: 2026-10-26 · confidence: high_
 
 `hacker-news` `openai`
 

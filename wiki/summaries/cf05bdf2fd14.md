@@ -1,6 +1,6 @@
 # The White House's AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-25 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-26 · confidence: high_
 
 `techmeme` `external-evaluation` `ai-policy-regulation`
 

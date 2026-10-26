@@ -1,0 +1,15 @@
+{
+  "id": "fe3333327a2f",
+  "authored_at": "2026-10-26T02:42:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Paul Baumgart lays out a short thesis on the AI infrastructure build-out while staying long on computers themselves: LLMs are a genuine breakthrough, but the financing behind the data centers has detached from economic reality. His four premises: interest rates are rising, partly on capital competition and partly on the Iran War; the build-out is funded increasingly by debt, with AI-related issuance up more than fourfold to nearly $500 billion in 2026; US AI labs are the primary buyers whose projections justify the scale; and those labs' revenue is plateauing while cheap open-weights rivals like DeepSeek, Z.ai and Moonshot compete their margins away.\n\nThe numbers have moved fast. Alphabet, Amazon, Meta and Oracle issued more than $228 billion in bonds by mid-October 2026, over double their entire 2025 total, and JPMorgan expects the big cloud companies to spend $800 billion this year and over $1 trillion a year by 2027, mostly debt-financed. Put together, Baumgart argues, companies borrowing half a trillion dollars at rising rates are relying on customers who will not be able to pay the tab - which is why he is short the build-out even while believing in the technology.",
+  "highlights": [
+    "Thesis: LLMs are a real breakthrough, but the AI data-center build-out is financed beyond economic reality",
+    "AI-related debt issuance grew more than 4x to nearly $500 billion in 2026",
+    "Alphabet, Amazon, Meta and Oracle issued $228+ billion in bonds by mid-October, more than double their full 2025 total",
+    "JPMorgan expects big cloud capex of $800 billion this year and over $1 trillion a year by 2027, mostly on debt",
+    "US AI labs anchor demand for the new infrastructure, but their revenue is plateauing as open-weights rivals compress margins",
+    "Rising rates - from capital competition and the Iran War - raise the cost of the debt underneath the whole structure"
+  ]
+}
