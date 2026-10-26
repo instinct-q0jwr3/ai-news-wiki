@@ -1,0 +1,14 @@
+{
+  "id": "b8bb6b970303",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Show HN page yielded only fragmentary text, so this note rests on that fragment and the pitch it contains. RainbowSay is a language-learning tool built around the shows you already watch: every sentence of tonight's episode becomes a small lesson with vocabulary and grammar pre-looked-up, spoken practice with one gentle correction at a time, and a streak-and-heatmap view of the hours accumulating. The full feature set and implementation details are not recoverable from the extractable page text.",
+  "highlights": [
+    "RainbowSay turns TV shows into language lessons with vocabulary and grammar pre-looked-up",
+    "Spoken practice with one gentle correction per attempt",
+    "Streak and heatmap tracking of accumulated practice hours",
+    "Show HN page gave little extractable text; note based on the fragment available"
+  ],
+  "basis": "Show HN page extraction was thin; summary written from the partial text and the project's own pitch lines."
+}

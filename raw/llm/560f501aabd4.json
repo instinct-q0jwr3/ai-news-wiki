@@ -1,0 +1,14 @@
+{
+  "id": "560f501aabd4",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Freehire is a free, open-source job search engine built to be used from inside an AI agent. It indexes more than three million tech jobs directly from company career boards, deduplicates them, and tags them by stack, seniority and location, and it exposes the search over MCP with no account required. A single self-contained binary installs with a curl one-liner and ships agent skills so Claude Code or any MCP host can run searches, read the facets and move an application along.\n\nThe second half of the product is a job-application agent that lives in Chrome's side panel, next to whatever posting you are reading, on any site rather than only the ones Freehire tracks. The pitch is that job hunting should happen where the applicant already is - in the agent and the browser - without accounts, paywalls, or scraped-together job-board middlemen.",
+  "highlights": [
+    "Freehire indexes 3M+ tech jobs from company career boards, deduplicated and tagged by stack, seniority and location",
+    "Search is free with no account, exposed over MCP so AI agents can query it directly",
+    "Ships as a single binary with agent skills for Claude Code and other MCP hosts",
+    "A companion agent in Chrome's side panel assists applications next to any posting on any site",
+    "Open source with no walls, positioning itself against account-gated job boards"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "52608ba3cde3",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Alphabet, Amazon and Microsoft report earnings this week and are expected to post double-digit revenue gains - but the story around the numbers is investor impatience. After quarters of record AI capital expenditure, the market wants to see returns, not just bigger build-outs, and these three reports are the next test of whether AI spending is earning its multiple.",
+  "highlights": [
+    "Alphabet, Amazon and Microsoft report this week with double-digit revenue growth expected",
+    "Investor patience with massive AI capex is wearing thin; returns are the demand now",
+    "The earnings are framed as a referendum on whether AI spending is paying back",
+    "Bloomberg blocks fetching (HTTP 403); note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

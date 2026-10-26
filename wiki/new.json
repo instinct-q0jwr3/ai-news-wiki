@@ -1,47 +1,41 @@
 {
- "generated_at": "2026-10-26T02:36:15+00:00",
+ "generated_at": "2026-10-26T08:36:50+00:00",
  "stories": [
   {
-   "id": "993a3fe9f5bc",
-   "title": "A mathematician reads the AI future",
+   "id": "8a828b5b6c95",
+   "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
    "source": "Hacker News",
-   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/"
+   "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
   },
   {
-   "id": "721673b0c438",
-   "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+   "id": "415a2baf6e5a",
+   "title": "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
    "source": "Hacker News",
-   "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
+   "url": "https://news.ycombinator.com/item?id=50237680"
   },
   {
-   "id": "3aae43b668f9",
-   "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+   "id": "560f501aabd4",
+   "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
    "source": "Hacker News",
-   "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
+   "url": "https://freehire.me/"
   },
   {
-   "id": "fe3333327a2f",
-   "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+   "id": "b8bb6b970303",
+   "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
    "source": "Hacker News",
-   "url": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even"
+   "url": "https://rainbowsay.ai/"
   },
   {
-   "id": "ef5e788f8c30",
-   "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+   "id": "e3f9b67a19f4",
+   "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
    "source": "Hacker News",
-   "url": "https://github.com/SRN0129/Agenttrust"
+   "url": "https://www.sazabi.com/blog/introducing-cve-now"
   },
   {
-   "id": "dab1e7610c7a",
-   "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-   "source": "Hacker News",
-   "url": "https://adrs.systems"
-  },
-  {
-   "id": "dabbd6469d7d",
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "source": "Max Woolf",
-   "url": "https://minimaxir.com/2026/10/cheap-llms/"
+   "id": "f188557000cb",
+   "title": "High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY"
   },
   {
    "id": "a2f358caf832",
@@ -50,16 +44,34 @@
    "url": "https://x.com/elonmusk"
   },
   {
-   "id": "a9801abe06df",
-   "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more",
+   "id": "606041e668e5",
+   "title": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+   "url": "https://spyglass.org/amazon-bee/"
   },
   {
-   "id": "a478a0729e66",
-   "title": "“AI Skills” are worthless in 2026",
-   "source": "Lobsters",
-   "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills"
+   "id": "52608ba3cde3",
+   "title": "Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings"
+  },
+  {
+   "id": "9afa82e73795",
+   "title": "DongA Ilbo: SK Hynix gained ~$15B on its Kioxia stake earlier in 2026, and plans to return ~$12B to shareholders via a special dividend",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report"
+  },
+  {
+   "id": "dcf5f1beaec8",
+   "title": "A look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3"
+  },
+  {
+   "id": "8b5ad3d710b1",
+   "title": "A profile of former Google VP and Yahoo CEO Marissa Mayer, whose startup Dazzle is building an AI assistant to help non-tech enthusiasts with mundane tasks",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.LVE.bUTq.yuaOciiPS1zl&smid=url-share"
   }
  ]
 }

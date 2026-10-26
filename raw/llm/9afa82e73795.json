@@ -1,0 +1,14 @@
+{
+  "id": "9afa82e73795",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account of a DongA Ilbo report. SK Hynix gained about $15 billion on its Kioxia stake earlier in 2026 and plans to return roughly $12 billion of it to shareholders through a special dividend. The prospect alone was enough for the memory maker's shares to buck a broad selloff in AI-related stocks - a reminder of how much of the AI boom's value is sitting in memory silicon.",
+  "highlights": [
+    "SK Hynix gained ~$15B on its Kioxia stake earlier in 2026, per DongA Ilbo",
+    "It plans a ~$12B special dividend to shareholders",
+    "The news lifted its shares against a broad AI-stock selloff",
+    "Bloomberg blocks fetching (HTTP 403); note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

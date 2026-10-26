@@ -1,0 +1,14 @@
+{
+  "id": "f188557000cb",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. High-frequency trading firms, Jane Street among them, are moving from trading into ownership: investing in AI and chip startups and neoclouds, and even building their own data centers, as they compete for an edge in the AI era. The flow of trading-firm capital into compute is another sign that the line between financiers and infrastructure operators is blurring.",
+  "highlights": [
+    "HFT firms including Jane Street are investing in AI and chip startups and neoclouds",
+    "Some are building their own data centers for an edge in the AI era",
+    "Trading-firm capital is becoming a meaningful source of AI infrastructure funding",
+    "Bloomberg blocks fetching (HTTP 403); note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

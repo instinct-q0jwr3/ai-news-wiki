@@ -1,0 +1,14 @@
+{
+  "id": "415a2baf6e5a",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "An Ask HN thread has become a catalog of everything that can go wrong enrolling in Apple's Developer Program. The poster has spent over a month trying to enroll a Delaware LLC: the Developer app rejects a Canadian passport for identity verification, the account region cannot be switched to Canada without a Canadian bank card, and when website enrollment gets approved, every payment fails - around seven US debit and credit cards, all with matching billing addresses, all declined even though the banks insist they never saw a decline from Apple.\n\nThe poster tried with and without VPNs, across MacBook, iPhone, Safari, Chrome and incognito, and found phone support perpetually unavailable, Apple Store support unable to touch developer issues, and Developer support answering emails about five days late with canned suggestions like trying incognito mode. Nine support emails and three enrollment attempts in, the thread is collecting similar stories - a quiet reminder that a gatekeeping process this brittle shapes who gets to ship apps at all.",
+  "highlights": [
+    "A developer reports a month-long failure to enroll a Delaware LLC in Apple's Developer Program",
+    "The Developer app rejects a Canadian passport; the account region cannot change without a Canadian bank card",
+    "About seven US cards were declined at payment despite banks denying they blocked anything",
+    "Support loop: phone support unavailable, retail support cannot help, email support replies in ~5 days with canned tips",
+    "The thread drew similar reports, suggesting the enrollment pipeline fails for a whole class of legitimate applicants"
+  ]
+}

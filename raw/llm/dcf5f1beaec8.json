@@ -1,0 +1,14 @@
+{
+  "id": "dcf5f1beaec8",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Financial Times blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Toyota is expanding in robotics: a spinoff called Walden and a plan of about $6.4 billion a year to deploy roughly 400,000 factory robots, commercializing two decades of research as it positions against Tesla and Chinese manufacturers. The piece looks at how the Japanese group intends to turn long-running lab work into production-scale intelligent machines.",
+  "highlights": [
+    "Toyota plans about $6.4B per year to deploy roughly 400,000 factory robots",
+    "The push includes a robotics spinoff called Walden",
+    "Framed as commercializing 20 years of research amid competition with Tesla and China",
+    "FT blocks fetching (HTTP 403); note based on Techmeme's summary"
+  ],
+  "basis": "Financial Times returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8b5ad3d710b1",
+  "authored_at": "2026-10-26T08:42:54Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the New York Times blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Alexandra Alter profiles Marissa Mayer - former Google VP, former Yahoo CEO - who has reinvented herself as a startup founder. Her company Dazzle, a team of about ten engineers, is building an AI assistant aimed at helping non-tech enthusiasts with mundane tasks, a fraction of the armies of programmers she once commanded and a deliberate bet on the consumer-AI mainstream.",
+  "highlights": [
+    "NYT profiles Marissa Mayer's reinvention as founder of AI startup Dazzle",
+    "Dazzle is building an AI assistant for everyday tasks, aimed at non-technical users",
+    "The team is about ten engineers - a fraction of the organizations she once led",
+    "NYT blocks fetching (HTTP 403); note based on Techmeme's summary"
+  ],
+  "basis": "New York Times returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}
