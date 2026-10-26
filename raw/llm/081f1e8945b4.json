@@ -1,0 +1,14 @@
+{
+  "id": "081f1e8945b4",
+  "authored_at": "2026-10-26T20:45:40Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "An analysis argues Nvidia's roughly $2,000-per-GPU annual enterprise software fee deserves more attention than it gets. Enterprises deploying AI agents need security, governance, and someone accountable for keeping the stack running - and the bet here is that OpenShell becomes the standard security layer for enterprise AI, pulling adoption of Nvidia's paid software and support behind it.\n\nThe math is simple and large: 10 million eligible enterprise GPUs shipped in a year, a 50% paid-software attach rate, and $2,000 per GPU per year is $10 billion of potential annual recurring revenue. Hold those subscriptions for five years and one year's GPU shipments alone yields $50 billion - and each new year of hardware sales stacks another software annuity on top.",
+  "highlights": [
+    "Nvidia charges roughly $2,000 per GPU per year for enterprise software - an underappreciated revenue line",
+    "The bet: OpenShell becomes the standard security layer for enterprise AI agents",
+    "Model: 10M eligible GPUs x 50% attach x $2,000 = $10B potential ARR",
+    "Five years of subscriptions from one year's shipments could total $50B",
+    "Each new year of GPU sales adds another software annuity stream"
+  ]
+}

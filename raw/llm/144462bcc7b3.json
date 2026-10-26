@@ -1,0 +1,14 @@
+{
+  "id": "144462bcc7b3",
+  "authored_at": "2026-10-26T20:45:40Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Hob is a free, open-source, on-device alternative to Claude Cowork and ChatGPT, made by Frigade under an MIT license. It runs on Apple silicon Macs, Windows and Linux machines with 8GB of memory or more, works offline, and keeps data private by construction - nothing leaves the computer.\n\nThe hook is zero setup: Hob picks the best frontier open-weight model that fits your hardware and configures everything itself. Out of the box it handles practical desktop work like filling out PDFs and working through documents, aiming at users who want agentic help without subscriptions, accounts, or their documents leaving the machine.",
+  "highlights": [
+    "Hob is a free, open-source, on-device alternative to Claude Cowork and ChatGPT",
+    "Runs on Apple silicon Macs, Windows and Linux with 8GB+ memory, fully offline",
+    "Automatically selects and sets up the best frontier open-weight model for the hardware",
+    "Handles tasks like filling PDFs and working through documents, privately",
+    "MIT licensed, made by Frigade"
+  ]
+}

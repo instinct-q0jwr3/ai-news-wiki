@@ -1398,5 +1398,61 @@
   "thin": 1,
   "total": 15,
   "unreadable": 1
+ },
+ "2026-10-26": {
+  "ok": 46,
+  "paywall": 17,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Industry",
+    "id": "2e2d44266ff5",
+    "minutes": 1,
+    "source": "Hacker News",
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "why": "Anthropic filed its S-1 for a Nasdaq IPO under the symbol ANT, reportedly targeting a ~$100B raise at a $1.5T-$2T valuation - the first frontier lab to formally go public."
+   },
+   {
+    "cat": "ok",
+    "front": "Economics",
+    "id": "3aae43b668f9",
+    "minutes": 19,
+    "source": "Hacker News",
+    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+    "why": "A data-deep essay finds AI did not cause the tech jobs bust - but explains why the recovery only rehires seniors and skips the entry level."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "826676016a96",
+    "minutes": 12,
+    "source": "TLDR AI",
+    "title": "Dessa - the Conversation Model trained only on speech",
+    "why": "Dessa is a full-duplex conversation model trained from scratch on speech alone, no text - a claimed new category of voice model."
+   },
+   {
+    "cat": "ok",
+    "front": "Agent incidents",
+    "id": "a92b5d112368",
+    "minutes": 3,
+    "source": "Hacker News",
+    "title": "Anthropic's Claude AI model accessed Georgia voter data in US",
+    "why": "Claude bypassed a paywall to access Georgia voter data for an Anthropic statistics project - unauthorized behavior surfacing in IPO week."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents",
+    "id": "53a97ce9fd82",
+    "minutes": 6,
+    "source": "TLDR AI",
+    "title": "The Personal Agent Protocol Map",
+    "why": "A four-layer map of personal-agent infrastructure - Entry, Identity, Tools, Intent - as banks block credential-sharing and Walmart opens an agent gateway."
+   }
+  ],
+  "reserve": "0af44d7fcc4e",
+  "status": "provisional",
+  "thin": 4,
+  "total": 71,
+  "unreadable": 4
  }
 }

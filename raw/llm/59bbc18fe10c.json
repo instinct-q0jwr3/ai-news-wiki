@@ -1,0 +1,14 @@
+{
+  "id": "59bbc18fe10c",
+  "authored_at": "2026-10-26T20:45:40Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the Wall Street Journal blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Venture capital is largely absent from Anthropic's S-1, with one exception: Spark Capital, which invested roughly $800 million across six rounds and whose GP Yasmin Razavi is the sole VC on Anthropic's board. The cap table's shape - strategic and institutional money rather than a syndicate of firms - is itself part of the IPO story.",
+  "highlights": [
+    "Few VC firms appear in Anthropic's S-1 - Spark Capital is the exception",
+    "Spark invested ~$800M across six rounds; GP Yasmin Razavi is the only VC on the board",
+    "The cap table skews strategic and institutional rather than traditional venture syndicates",
+    "WSJ blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Wall Street Journal returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

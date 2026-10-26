@@ -1,0 +1,14 @@
+{
+  "id": "e25b2b667d23",
+  "authored_at": "2026-10-26T20:45:40Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A hobbyist with a 6GB gaming laptop set out to do what every guide said was impossible: pretrain a language model from scratch - not fine-tune, not rent - on consumer hardware. Every forum said you need an A100, a cluster, or at least 24GB. Instead, the author opened Claude and started asking whether that was actually true, or just unchallenged assumption.\n\nWeeks later, it is not a joke anymore: a working pipeline that pretrains a 1.1 billion parameter model in 6GB of VRAM, with real steps, checkpoints, and kill-and-resume, documented with a 30-minute run video, code on GitLab, and a DOI on Zenodo. The piece is both a how-to and an argument that the hardware floor for serious ML experimentation is much lower than consensus claims.",
+  "highlights": [
+    "A 1.1B parameter LLM pretrained from scratch on a 6GB gaming laptop GPU",
+    "The author challenged the universal 'you need a real GPU' advice, working through it with Claude over weeks",
+    "The pipeline does real training steps, checkpointing, and kill-and-resume",
+    "Fully documented: 30-minute run video, GitLab code, Zenodo DOI",
+    "An existence proof that the hardware floor for pretraining is far below consensus"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b7fd1164b4fd",
+  "authored_at": "2026-10-26T20:45:40Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Microsoft will offer buyouts to about 60,000 workers at VP level and below across teams in the US, Canada, India and the UK - a headcount-reduction program affecting more than a quarter of the 223,000 employees it reported at the end of June, as the company trims costs and retools its workforce for AI.",
+  "highlights": [
+    "Microsoft offers buyouts to ~60,000 workers at VP level and below",
+    "The program spans the US, Canada, India and the UK",
+    "Headcount was 223,000 at the end of June, so the offer touches over a quarter of staff",
+    "Framed as cost-trimming and retooling the workforce for AI",
+    "Bloomberg blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

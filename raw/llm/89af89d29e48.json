@@ -1,0 +1,14 @@
+{
+  "id": "89af89d29e48",
+  "authored_at": "2026-10-26T20:45:40Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Matt Levine takes his Money Stuff lens to Anthropic's S-1 and finds a governance structure built for a 'fun quirky little mission-driven worker cooperative' that happens to be raising billions as a public company - share classes, founder control, and what he calls fake polls included. His affectionate skepticism is the day's required reading on the gap between Anthropic's structure and its scale.",
+  "highlights": [
+    "Matt Levine reads Anthropic's governance as built for a 'mission-driven worker cooperative'",
+    "The joke: that structure now has to raise billions from public markets",
+    "Share classes, founder control and 'fake polls' all get the Money Stuff treatment",
+    "Bloomberg blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

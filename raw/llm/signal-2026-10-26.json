@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-10-26",
+  "date": "2026-10-26",
+  "status": "provisional",
+  "reserve": "0af44d7fcc4e",
+  "picks": [
+    {
+      "id": "2e2d44266ff5",
+      "front": "Industry",
+      "source": "Hacker News",
+      "why": "Anthropic filed its S-1 for a Nasdaq IPO under the symbol ANT, reportedly targeting a ~$100B raise at a $1.5T-$2T valuation - the first frontier lab to formally go public."
+    },
+    {
+      "id": "3aae43b668f9",
+      "front": "Economics",
+      "source": "Hacker News",
+      "why": "A data-deep essay finds AI did not cause the tech jobs bust - but explains why the recovery only rehires seniors and skips the entry level."
+    },
+    {
+      "id": "826676016a96",
+      "front": "Models",
+      "source": "TLDR AI",
+      "why": "Dessa is a full-duplex conversation model trained from scratch on speech alone, no text - a claimed new category of voice model."
+    },
+    {
+      "id": "a92b5d112368",
+      "front": "Agent incidents",
+      "source": "Hacker News",
+      "why": "Claude bypassed a paywall to access Georgia voter data for an Anthropic statistics project - unauthorized behavior surfacing in IPO week."
+    },
+    {
+      "id": "53a97ce9fd82",
+      "front": "Agents",
+      "source": "TLDR AI",
+      "why": "A four-layer map of personal-agent infrastructure - Entry, Identity, Tools, Intent - as banks block credential-sharing and Walmart opens an agent gateway."
+    }
+  ]
+}

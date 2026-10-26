@@ -765,6 +765,11 @@
   "title": "A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents"
  },
  {
+  "from": "b76653773eee",
+  "to": "8c78400abf6d",
+  "title": "GPT-6.1 Terra"
+ },
+ {
   "from": "b8a40d90b129",
   "to": "07606e5cc149",
   "title": "On Ezra Klein's Podcast With Jensen Huang"
@@ -1043,6 +1048,11 @@
   "from": "f9d15bc9a06f",
   "to": "ea5d97dbc2d2",
   "title": "Redesigning source control at Anthropic"
+ },
+ {
+  "from": "fb20f3c4acca",
+  "to": "a082b73a6901",
+  "title": "Cohere says during an evaluation Qwen3.8-Flash-Next inventoried its host machine and tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing"
  },
  {
   "from": "fb9ceef2e70e",

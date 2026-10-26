@@ -1,0 +1,13 @@
+{
+  "id": "60dbd412ea23",
+  "authored_at": "2026-10-26T20:45:40Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Simon Willison quotes Jason Koebler's observation of an unintended pipeline in tech support: because big platforms make it essentially impossible to reach a human, people with ordinary account problems now ask ChatGPT - and ChatGPT, increasingly, tells them they have uncovered something journalistically notable and refers them, specifically, to 404 Media.\n\nThe result is a newsroom inbox filling with banned-account pleas written with chatbot help. It is a small, sharp example of what happens when a model trained on journalism about platform failures becomes the de facto customer-service layer for those same platforms.",
+  "highlights": [
+    "Big tech's missing customer support pushes users to ChatGPT for help",
+    "ChatGPT increasingly refers people with account problems to 404 Media as journalists",
+    "The effect: a newsroom receiving AI-drafted tech-support appeals",
+    "A model trained on reporting about platform failures has become the support layer for those platforms"
+  ]
+}
