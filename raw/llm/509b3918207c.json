@@ -1,0 +1,16 @@
+{
+ "id": "509b3918207c",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Latent.space runs a guide to fully offline coding-agent work, written by a principal engineer at Thomson Reuters living in the Himalayan foothills where network and power outages are routine. The stack: OpenCode as the agent, Ollama serving an open-weight Qwen model locally on the laptop.",
+  "The workflow handles project-local tasks offline - explaining unfamiliar functions, investigating failing tests, small refactors, finishing features - as long as the model, dependencies and test tools are already downloaded. Fetching new packages or searching the web still needs a connection. Aider is noted as an alternative for a more guided editing workflow."
+ ],
+ "highlights": [
+  "Offline coding agent stack: OpenCode + Ollama + local Qwen weights",
+  "Covers explanation, test investigation, refactors and feature work offline",
+  "Package downloads and web lookups still require connectivity",
+  "Written from the Himalayan foothills, where outages shape the workflow"
+ ]
+}

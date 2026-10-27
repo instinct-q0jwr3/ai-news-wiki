@@ -1,0 +1,16 @@
+{
+ "id": "390d7d9d493f",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Zvi walks through Google's Gemini 4 Argon model and safety cards. Google reports a significant step up in frontier safety domains versus previous Gemini models and says it cannot rule out the unmitigated model approaching several critical capability thresholds: Cyber Uplift Level 1, CBRN (biological) Uplift Level 1, and the Stealth and Situational Awareness tracked level.",
+  "The card describes a comprehensive agent monitoring and response platform, expanded reporting on chain-of-thought transparency and ML R&D automation risks, and a stated policy of not training directly against monitors in order to preserve reasoning transparency - with an explicit call for the rest of the industry to keep chain-of-thought monitoring viable. Argon significantly outperforms Gemini 3.8 Flash on all tests."
+ ],
+ "highlights": [
+  "Unmitigated Argon may approach cyber, bio and stealth capability thresholds",
+  "Google built an agent monitoring and response platform for deployment",
+  "Policy: no training against monitors, to preserve CoT transparency",
+  "Expanded public reporting on ML R&D automation and loss-of-control risks"
+ ]
+}

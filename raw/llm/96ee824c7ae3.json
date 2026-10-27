@@ -1,0 +1,16 @@
+{
+ "id": "96ee824c7ae3",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Business Insider reports Machenta, an 11-person London startup, raised a $40 million seed round for an AI model that can teach robots new physical tasks after seeing them performed just once - a bet against rivals chasing mountains of real-world training data."
+ ],
+ "highlights": [
+  "Machenta: one-shot learning of physical robot tasks",
+  "$40M seed for an 11-person London team",
+  "Contrarian data-efficiency bet versus real-world data collection",
+  "Basis: Techmeme summary; cache held unrelated boilerplate"
+ ],
+ "basis": "The extracted cache was unrelated boilerplate under 400 characters, so this entry is based on the Techmeme feed summary."
+}

@@ -1,0 +1,16 @@
+{
+ "id": "f50676beb3ec",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Hyphenate, which builds reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45 million Series A led by Nexus Venture Partners, bringing its total funding to $54 million."
+ ],
+ "highlights": [
+  "Hyphenate: RL-driven agents for corporate finance automation",
+  "$45M Series A led by Nexus Venture Partners; $54M total",
+  "Founded by Microsoft alumni, per the headline",
+  "Basis: Techmeme summary; Bloomberg article paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

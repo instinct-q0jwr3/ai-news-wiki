@@ -1,0 +1,16 @@
+{
+ "id": "654edb122a04",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Mirendil introduced Fern, its first model, pretrained from scratch with a context window of up to 10M tokens. The first version, Fern 0.1, received a short round of post-training, and the company says new versions will ship frequently. It positions Fern as its most efficient model, built for focused, high-volume agentic tasks."
+ ],
+ "highlights": [
+  "Fern is Mirendil's first model, pretrained from scratch",
+  "Context window up to 10M tokens",
+  "Positioned for high-volume agentic tasks; frequent new versions promised",
+  "Basis: short announcement text only"
+ ],
+ "basis": "The extracted cache held under 400 characters, so this entry is based on that short announcement."
+}

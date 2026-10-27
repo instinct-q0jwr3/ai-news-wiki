@@ -1,0 +1,16 @@
+{
+ "id": "1f11981cb3dd",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports that 22one, a stealth UK AI startup building law enforcement tools, reached a valuation of nearly $400 million after raising funds from Sequoia, Lux and others. The company is founded by Steven Richardson and provides tools for police forces."
+ ],
+ "highlights": [
+  "Stealth UK startup 22one builds AI tools for law enforcement",
+  "Valuation near $400M; investors include Sequoia and Lux",
+  "Founded by Steven Richardson",
+  "Basis: Techmeme summary; FT article paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (FT paywall), so this entry is based on the Techmeme feed summary and headline."
+}

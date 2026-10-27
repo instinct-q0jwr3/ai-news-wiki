@@ -1,0 +1,16 @@
+{
+ "id": "931d409ac963",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Apple announced the 14-inch MacBook Pro with the M6 chip: a 12-core CPU with what it calls the world's fastest CPU core, a 12-core GPU delivering up to 30% faster graphics and 25% faster AI workloads than M5, up to 32GB of unified memory, Wi-Fi 7 and Bluetooth 6, and up to 24 hours of battery life.",
+  "Apple claims up to 11x faster graphics and 13x faster AI performance versus M1, leaning on Neural Accelerators in the GPU and a dual 16-core Neural Engine for running LLMs locally. Pre-orders open October 28 at $1,999, with availability November 6, in space black and silver."
+ ],
+ "highlights": [
+  "M6: 12-core CPU, 12-core GPU, up to 32GB unified memory",
+  "Up to 30% faster graphics and 25% faster AI workloads vs M5",
+  "Wi-Fi 7, 24-hour battery life, Liquid Retina XDR display",
+  "From $1,999; pre-order Oct 28, available Nov 6"
+ ]
+}

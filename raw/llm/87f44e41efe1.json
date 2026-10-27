@@ -1,0 +1,16 @@
+{
+ "id": "87f44e41efe1",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Rest of World covers a Coalition for Language Equity in AI Research study finding that AI models consume far more tokens in some languages than others: among the 20 most popular internet languages, the most expensive use 1.5 to 5 times more tokens than the cheapest, and across 200 languages the gap grew to 17x in one model. The researchers call it a hidden 'tokenizer tax'.",
+  "Beyond price, higher token counts mean higher latency and a smaller effective context window, which degrades service quality - a tutor that forgets earlier mistakes sooner. The study notes rarity is not the only factor; script plays a big role. Interviewees point to open-data efforts like RESPIN, which collected text from native speakers of 38 Indian dialects, as part of the fix."
+ ],
+ "highlights": [
+  "'Tokenizer tax': costliest popular languages use 1.5-5x more tokens than the cheapest",
+  "Gap reaches 17x across a 200-language set in one model",
+  "Higher token counts also cut effective context and raise latency",
+  "Script, not just language rarity, drives token inflation"
+ ]
+}

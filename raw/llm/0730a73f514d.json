@@ -1,0 +1,16 @@
+{
+ "id": "0730a73f514d",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Google arXiv paper reformulates on-policy self-distillation as a self-training framework that needs no external teacher, ground-truth answers or human-curated problem sets. Guided only by coarse, high-level topic descriptions, the model synthesizes its own curriculum of queries and privileged reasoning traces.",
+  "The authors report consistent self-improvement across text and multimodal domains, including standard language benchmarks and Visual Question Answering, while retaining capabilities in domains the model was not self-trained on - evidence, they argue, that foundation models hold rich latent capabilities that can be amplified without external supervision."
+ ],
+ "highlights": [
+  "Self-distillation driven entirely by self-generated QA pairs and reasoning traces",
+  "Only coarse topic descriptions guide curriculum synthesis",
+  "Gains on language benchmarks and VQA without forgetting other domains",
+  "Framed as evidence of amplifiable latent capabilities in foundation models"
+ ]
+}

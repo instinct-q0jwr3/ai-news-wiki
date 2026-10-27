@@ -1,0 +1,16 @@
+{
+ "id": "cb5c1ed5b16d",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Apple updated the 24-inch iMac with the M6 chip: up to a 12-core CPU and 12-core GPU with Neural Accelerators per core, plus a dual 16-core Neural Engine delivering up to 5x faster on-device AI performance than the M4 model. Apple claims up to 18x faster performance than the most popular Intel-based iMac.",
+  "The update adds Wi-Fi 7, Bluetooth 6, optional 2.5 Gigabit Ethernet, up to 2x faster storage, the 4.5K Retina display, up to four Thunderbolt 4 ports and seven colors. From $1,499, pre-orders October 28, available November 6, running macOS 27 with Siri AI and Apple Intelligence."
+ ],
+ "highlights": [
+  "24-inch iMac gets M6 with per-core Neural Accelerators",
+  "Up to 5x faster on-device AI than M4 iMac",
+  "Wi-Fi 7, optional 2.5Gb Ethernet, seven colors",
+  "From $1,499; pre-order Oct 28, available Nov 6"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "01bc9a7e0ef3",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Cloudflare's @cloudflare/computer v0.7.0 lets agent code resume after a deploy or crash and pause for external approval. Setting onInterrupt: 'replay' on the WorkerJavaScriptBackend re-runs the JavaScript from the start while reusing recorded results for completed calls.",
+  "Calls without a recorded result may repeat, so the API provides unsafeToRepeat() for operations that must not run twice. A function can call ctx.interrupt() to suspend a run until the application supplies an approval decision - the example shows a GitHub postComment module gated on human approval, with idempotency keys tied to call IDs. Recovery can also be triggered proactively from a Durable Object alarm."
+ ],
+ "highlights": [
+  "Cloudflare Computer agents resume after deploys or crashes via replay",
+  "Recorded results are reused; unrecorded calls may repeat",
+  "ctx.interrupt() pauses agent runs for human approval",
+  "unsafeToRepeat() guards operations that must not run twice"
+ ]
+}

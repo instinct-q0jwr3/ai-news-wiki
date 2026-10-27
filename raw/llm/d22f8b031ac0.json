@@ -1,0 +1,16 @@
+{
+ "id": "d22f8b031ac0",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic's privacy documentation for commercial products (Claude for Work, the API, Claude Gov) states that customer inputs and outputs are not used for model training by default, with one notable exception: clicking the thumbs up/down feedback button counts as explicitly reporting feedback, which lets Anthropic use the chat or coding session for training.",
+  "Feedback submissions store the entire related conversation, including custom styles, preferences and model settings, for up to five years. Anthropic says feedback is de-linked from user and customer IDs before use, is not combined with other conversations, and excludes raw connector content such as Google Drive unless copied directly into the chat. Team and Enterprise owners can disable member feedback via the Rate chats setting."
+ ],
+ "highlights": [
+  "Commercial inputs are not used for training by default",
+  "Thumbs up/down feedback opts the whole conversation into training use",
+  "Feedback conversations retained up to 5 years, de-linked from user IDs",
+  "Organization owners can disable member feedback submission"
+ ]
+}

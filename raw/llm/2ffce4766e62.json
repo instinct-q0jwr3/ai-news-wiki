@@ -1,0 +1,16 @@
+{
+ "id": "2ffce4766e62",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "TechCrunch profiles General Compute, a neocloud that raised a $100 million Series A led by Blackbird and Abstract at an $800 million post-money valuation - up from $60 million after its May seed - against a brutal week for the sector, with CoreWeave at a 12-month low and Musk predicting mass neocloud consolidation.",
+  "The company zigs where others zag: it builds on specialized inference chips from Nvidia rivals (a $400 million SambaNova chip purchase described as the first debt financing of inference chips, plus Positron and Cerebras), rents space in others' data centers and converts former bitcoin-mining sites. A $100 million ARR customer deal paved the way for the raise. CEO Finn Puklowski expects 75 megawatts deployed in 2027 with access to 200 megawatts of power, and says Anthropic's bullish S-1 is 'settling fears' about AI demand."
+ ],
+ "highlights": [
+  "$100M Series A at $800M post-money, led by Blackbird and Abstract",
+  "Inference-chip strategy: SambaNova ($400M deal), Positron, Cerebras",
+  "Uses colocation and converted bitcoin-mining sites instead of building data centers",
+  "Anchored by a $100M ARR customer; 75MW deployment target for 2027"
+ ]
+}

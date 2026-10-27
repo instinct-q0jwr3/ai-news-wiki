@@ -1,0 +1,16 @@
+{
+ "id": "a77483810546",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Dallas-based Disruptive raised $10 billion to invest in AI, defense and software, doubling its assets under management and pivoting from single-deal SPVs to a discretionary fund structure. The 15-year-old firm plans to back about 10 later-stage companies with $1 billion each."
+ ],
+ "highlights": [
+  "Disruptive raised $10B, doubling AUM",
+  "Pivot from single-deal SPVs to a discretionary fund",
+  "Plans roughly 10 later-stage bets of $1B each",
+  "Basis: Techmeme summary; Bloomberg article paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

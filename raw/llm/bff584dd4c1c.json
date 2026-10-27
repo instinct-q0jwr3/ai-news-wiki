@@ -1,0 +1,16 @@
+{
+ "id": "bff584dd4c1c",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A LessWrong evaluation tested nine frontier multimodal models across fifteen configurations on controlling a real bimanual I2RT YAM robot, using proprioceptive feedback plus wrist and overhead cameras on six RoboDojo benchmark tasks, 20 trials per configuration. The headline finding: the ability of frontier models to control robot arms is doubling roughly every 54 days.",
+  "The author argues manipulation matters more than locomotion for biological and chemical research - a pair of arms and cameras can operate a wet lab - and flags the misuse implications: once vision-language models steer robots reliably, synthesizing pathogens stops requiring skilled wet-work. Models reportedly mastered sensing in 2024-2025 and remain relatively poor at locomotion."
+ ],
+ "highlights": [
+  "Robot-arm control capability doubling about every 54 days",
+  "Nine frontier models, fifteen configurations, six RoboDojo tasks, 20 trials each",
+  "Manipulation, not locomotion, is the key capability for wet-lab work",
+  "Misuse framing: VLM-controlled arms lower the bar for biological misuse"
+ ]
+}

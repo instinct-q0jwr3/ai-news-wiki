@@ -1,0 +1,15 @@
+{
+ "id": "d8a32e0aff17",
+ "authored_at": "2026-10-27T14:49:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "IEEE Spectrum covers WikiProject AI Cleanup, the volunteer effort keeping Wikipedia human-written as AI-generated text gets harder to spot. The piece features project cofounder Ellia Lebleu."
+ ],
+ "highlights": [
+  "WikiProject AI Cleanup hunts AI-generated text on Wikipedia",
+  "Detection gets harder as models improve, but volunteers persist",
+  "Basis: short extract from IEEE Spectrum; full article not read"
+ ],
+ "basis": "The extracted cache held under 400 characters (byline and summary only), so this entry is based on that extract and the headline."
+}
