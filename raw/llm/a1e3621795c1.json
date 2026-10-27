@@ -1,0 +1,15 @@
+{
+ "id": "a1e3621795c1",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "DietPi v10.8 was released, announced on Hacker News. The lightweight Debian-based distribution adds a WireGuard management tool, name-based software installation, an optimized HAProxy package, CD/DVD/Blu-ray drive support on Quartz64, ARM and UEFI support for UTM virtual machines, and fixes across its drive manager, cloudshell, and several self-hosted apps including Immich's machine learning component."
+ ],
+ "highlights": [
+  "DietPi v10.8: new WireGuard server/client management tool",
+  "Software installed by name instead of numeric IDs",
+  "UTM VMs gain ARM and UEFI support",
+  "Marginal AI relevance; surfaced via the HN feed"
+ ]
+}

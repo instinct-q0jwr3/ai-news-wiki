@@ -1,0 +1,16 @@
+{
+ "id": "96eb0d905822",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The article version of Latent Space's interview with Anthropic's Katelyn Lesse (Engineering) and Angela Jiang (Product), covering the Claude Platform: launching Opus 5.5, separating the model's 'brain' from the agent's 'hands', scaling the API, and building reliable managed agents. A new introduction ties the conversation to Anthropic's S-1 and its improvement and investment loops.",
+  "The detailed show notes sketch the terrain: training incidents versus production safeguards, model access and safety decisions, the Messages API rebuilt in Rust under CPU constraints, credential and sandbox protection, memory and 'dreaming' in agent harnesses, safety classifiers and model routing, and fighting AI slop."
+ ],
+ "highlights": [
+  "Long-form version of the Latent Space Anthropic interview",
+  "Topics span S-1 economics, Opus 5.5, managed agents and containment",
+  "Messages API rebuilt in Rust; CPU use is now strategic",
+  "Covers credential isolation, classifiers, routing and anti-slop work"
+ ]
+}

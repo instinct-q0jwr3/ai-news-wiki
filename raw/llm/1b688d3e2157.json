@@ -1,0 +1,16 @@
+{
+ "id": "1b688d3e2157",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The ACLU warns that US police are pulling people over because AI deems their driving 'suspicious', opening with Grace Knowles' first-person account: on a September 2025 road trip she was stopped by an officer who cited left-lane driving, then identified himself as an FBI special agent working trafficking and said her plate scan showed suspicious travel patterns.",
+  "The officer showed her the software in his car - a heat map of the US with circles marking where she had been, each clickable to a photo of her license plate, collected by cameras 'everywhere', including on the backs of highway signs. The ACLU frames this as a growing pattern of AI-driven suspicion without a specific crime, with more fraught encounters ahead for many drivers."
+ ],
+ "highlights": [
+  "First-person ACLU account of an AI-flagged 'suspicious travel' stop",
+  "Officer showed a heat map of the driver's movements from plate scans",
+  "Cameras sit on highway sign backs, out of sight",
+  "Framed as suspicionless surveillance turning into traffic stops"
+ ]
+}

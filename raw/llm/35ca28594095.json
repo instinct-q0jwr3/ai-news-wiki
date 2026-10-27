@@ -1,0 +1,16 @@
+{
+ "id": "35ca28594095",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Gizmodo reports on the ACLU's warning that US law enforcement is using AI-powered license plate reader networks to flag 'suspicious' driving patterns and pull over drivers suspected of no specific crime. The story opens with Grace Knowles, a Virginia woman stopped on a road trip by an officer who identified himself as an FBI special agent and showed her a heat map of her travels built from plate scans.",
+  "The ACLU's Jay Stanley warns such encounters will become more common and more dangerous for many people. Vendors like Flock Safety and Axon sell the ALPR systems, which record plates, times and locations that police can search during investigations - and now, increasingly, for proactive suspicion scoring."
+ ],
+ "highlights": [
+  "ALPR networks plus AI flag 'suspicious' travel patterns for traffic stops",
+  "ACLU case study: a driver stopped by a self-described FBI agent over her road trip",
+  "Officer showed her a heat map of her own movements from plate scans",
+  "Flock Safety and Axon are the major ALPR vendors"
+ ]
+}

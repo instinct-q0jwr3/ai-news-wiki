@@ -1,0 +1,16 @@
+{
+ "id": "a9858e7fc3f4",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Meta's upsized $25 billion share sale was oversubscribed about five times as the company seeks $98 billion for AI spending, with the 15 largest investors in the sale accounting for roughly 70% of the shares."
+ ],
+ "highlights": [
+  "Meta's $25B share sale drew ~5x oversubscription",
+  "15 largest investors took ~70% of the shares",
+  "Part of a $98B AI spending raise",
+  "Basis: Techmeme summary; Bloomberg article paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

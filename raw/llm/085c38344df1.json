@@ -1,0 +1,16 @@
+{
+ "id": "085c38344df1",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Sponsored item: WorkOS pitches auth.md, a machine-readable file that lets AI agents register users for an app without a browser signup flow. Enrolled through the WorkOS dashboard, agents read the file, register, and receive scoped, short-lived credentials."
+ ],
+ "highlights": [
+  "Sponsored placement, not editorial news",
+  "WorkOS auth.md: agents self-register without browser signups",
+  "Credentials are scoped and short-lived",
+  "Basis: short sponsored copy only"
+ ],
+ "basis": "Sponsored placement in the Daring Fireball feed; the extracted cache held only the short ad copy."
+}

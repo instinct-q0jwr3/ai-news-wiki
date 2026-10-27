@@ -1,0 +1,16 @@
+{
+ "id": "506170b46351",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Show HN presents a specification-first agentic development plugin and its companion tool Prove. The author reports implementing an 'agent smith' workflow since the start of 2026 with over 1,000 specifications producing about 500,000 lines of code, and says the spec-first procedure works well.",
+  "The visible example spec shows the shape: a goal (ticket providers so pipelines can pull work from GitHub and Jira), facts read from the code with file and line references, an explicit decision, a 'done when' criterion, and a verification requirement, marked reviewed and built."
+ ],
+ "highlights": [
+  "Spec-first agentic development: 1,000+ specs, ~500k lines of code since early 2026",
+  "Specs carry goals, code-derived facts with line refs, decisions, done-when criteria",
+  "Companion tool Prove handles verification",
+  "Show HN; author reports the workflow works well"
+ ]
+}

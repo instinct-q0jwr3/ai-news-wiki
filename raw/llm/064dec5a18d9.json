@@ -1,0 +1,16 @@
+{
+ "id": "064dec5a18d9",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "CNBC reports Oracle is adding ChatGPT and Codex to its application stack, announced at Oracle AI World in Las Vegas where Sam Altman joined co-CEO Clay Magouyrk on stage - one day after Anthropic's S-1 filing. Oracle's cloud president Mahesh Thiagarajan said his team watched OpenAI's GPT-6 Astra model train at Oracle's Stargate campus in Abilene, Texas.",
+  "Oracle Cloud Infrastructure is also expanding its hardware lineup: Google's TPUs will run on another hyperscaler's cloud for the first time, alongside OpenAI's Jalapeño chip and Cerebras hardware. Thiagarajan said this is no pivot away from Nvidia - its chips remain 'the best, most fungible' - but chip scarcity makes accelerator choice valuable."
+ ],
+ "highlights": [
+  "ChatGPT and Codex embedded in Oracle's app stack",
+  "Google TPUs run on a rival hyperscaler's cloud for the first time",
+  "OCI also adds OpenAI's Jalapeño chip and Cerebras",
+  "GPT-6 Astra trained at Oracle's Abilene Stargate campus"
+ ]
+}

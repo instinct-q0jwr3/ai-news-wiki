@@ -1,0 +1,15 @@
+{
+ "id": "2317beaa0978",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison reports from GitHub Universe that the conference badge is a full color-screen computer, and that Steve Francia - working with Gemini - got a NES emulator running on it, then went further and deployed Game Boy and Game Boy Color emulators. With the right ROM, the badge plays The Legend of Zelda: Link's Awakening, and flipping the badge upside down puts its touch buttons in game-controller position."
+ ],
+ "highlights": [
+  "GitHub Universe badge runs Game Boy Color emulation",
+  "Steve Francia built NES then GB/GBC emulators with Gemini's help",
+  "Badge flips upside down for controller-style touch buttons",
+  "Light link-post; AI angle is Gemini-assisted emulation hacking"
+ ]
+}

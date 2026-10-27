@@ -154,6 +154,100 @@
     "d8a32e0aff17"
    ],
    "concepts": []
+  },
+  {
+   "title": "Amazon narrows its AI ambitions",
+   "intro": "Amazon put most of its Nova models on ice and pivoted to a single frontier effort under Pieter Abbeel, even as an internal memo told engineers that token counts are a 'deeply flawed' way to measure AI adoption.",
+   "stories": [
+    "67b7b98a7b86",
+    "1454fa3c70bc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Genie 4 and the small-model push",
+   "intro": "Google launched the Genie 4 world model with audio and live prompt editing, Liquid AI's LFM3 claimed a sub-2B model is ready for real agent work on a Mac, and an offline survival assistant showed how far local models now stretch.",
+   "stories": [
+    "2d2db8bbf469",
+    "44ad84220c6e",
+    "ead6adb71ac3",
+    "a44a9fde6395"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Machines that prove things",
+   "intro": "The Classification of Finite Simple Groups formalization produced new mathematics - counterexamples to a published assertion and a repaired proof - while a Show HN made the case for specification-first agentic development at 500,000 lines of generated code.",
+   "stories": [
+    "0e9ecce568c3",
+    "506170b46351"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The market keeps saying yes",
+   "intro": "Anthropic's S-1 shows an 85% gross margin on inference, Meta's $25 billion share sale was five times oversubscribed, and Physical Intelligence is reportedly raising above $1 billion at a $20 billion valuation.",
+   "stories": [
+    "ec0b93ffdaff",
+    "a9858e7fc3f4",
+    "da40ab892e6f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI on the beat",
+   "intro": "The ACLU and Gizmodo documented police using AI-scored license plate reader networks to flag 'suspicious' travel patterns and pull over drivers accused of no specific crime.",
+   "stories": [
+    "1b688d3e2157",
+    "35ca28594095"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The training-data bill",
+   "intro": "The Stanford Daily traced how Anthropic trained Claude on pirated books by more than ten Stanford professors, and why two of them opted out of the $1.5 billion Bartz settlement to sue for statutory damages.",
+   "stories": [
+    "9e8e48581433"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Enterprise plumbing gets agent-ready",
+   "intro": "Oracle wired ChatGPT and Codex into its app stack and put Google TPUs on its cloud for the first time, Formal gave cloud agents production access via OIDC instead of secrets, and Avante raised $30 million for benefits-administration agents.",
+   "stories": [
+    "064dec5a18d9",
+    "85c2cd5037e2",
+    "1eee820f8e1c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Inside the Claude factory",
+   "intro": "Latent Space's interview with Anthropic's engineering and product heads explained how the lab ships Claude with Claude: the brain-hands split, cheaper Opus 5.5 inference, anti-distillation thinking blocks and the economics behind the S-1.",
+   "stories": [
+    "6cc34db55d96",
+    "96eb0d905822"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Fuzzers meet LLMs",
+   "intro": "Project Zero's head-to-head found BigSleep's LLM agent out-finding the Fuzzilli fuzzer on V8 - 45 bugs to 37 in six months - with limited overlap, so Google recommends running both.",
+   "stories": [
+    "6a268df9aee2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odds and ends",
+   "intro": "GM is defecting from the NYSE to the Nasdaq as it leans on AI to speed development, a GitHub Universe badge ended up running Game Boy Color emulation with Gemini's help, tiny emulated computers came to the iPhone Duo, and DietPi shipped v10.8.",
+   "stories": [
+    "c83f50e8fcda",
+    "2317beaa0978",
+    "2234596bc90b",
+    "a1e3621795c1"
+   ],
+   "concepts": []
   }
  ]
 }

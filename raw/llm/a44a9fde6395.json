@@ -1,0 +1,16 @@
+{
+ "id": "a44a9fde6395",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Survival LLM is a free, open-source AI assistant and emergency library that runs entirely on a user's own computer, answering questions like blackout food safety, burn treatment and water purification from trusted offline sources - FEMA and CDC guidance, medical references, survival manuals, iFixit and about 930,000 Wikipedia articles.",
+  "Every answer lists the articles it read with the exact passage highlighted, an explicit hedge against small-model mistakes. The app checks available memory and downloads the largest model that fits; the full library is a 9 GB download (19 GB installed), or 1.3 GB without Wikipedia and iFixit. It runs on Apple Silicon Macs and 64-bit Windows, needs no account, and works with the internet off after setup. Users can add their own PDFs and documents to the searchable library."
+ ],
+ "highlights": [
+  "Fully offline AI assistant plus emergency reference library",
+  "Sources: FEMA, CDC, medical references, iFixit, ~930k Wikipedia articles",
+  "Every answer shows its sources with highlighted passages",
+  "Model size adapts to available memory; no account, no tracking"
+ ]
+}

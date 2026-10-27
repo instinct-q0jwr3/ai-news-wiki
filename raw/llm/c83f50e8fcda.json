@@ -1,0 +1,16 @@
+{
+ "id": "c83f50e8fcda",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports GM plans to move its listing from the NYSE to the Nasdaq on November 17, part of a push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle. The defection is another blow for the Big Board as its tech-focused rival attracts some of the world's most valuable companies."
+ ],
+ "highlights": [
+  "GM switches from NYSE to Nasdaq on November 17",
+  "Framed as part of an AI-driven development-cycle push under Sterling Anderson",
+  "Another high-profile defection from the Big Board",
+  "Basis: Techmeme summary; FT article paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (FT paywall), so this entry is based on the Techmeme feed summary and headline."
+}

@@ -1,17 +1,23 @@
 {
- "generated_at": "2026-10-27T14:41:58+00:00",
+ "generated_at": "2026-10-27T20:41:48+00:00",
  "stories": [
   {
-   "id": "d83f540b417a",
-   "title": "AI promised less work. I've never worked more",
+   "id": "44ad84220c6e",
+   "title": "Genie 4",
    "source": "Hacker News",
-   "url": "https://oioannou.com/blog/ai-promised-less-work/"
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
   },
   {
-   "id": "d8a32e0aff17",
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "id": "9e8e48581433",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+  },
+  {
+   "id": "35ca28594095",
+   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "source": "Hacker News",
+   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
   },
   {
    "id": "d22f8b031ac0",
@@ -20,130 +26,76 @@
    "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training"
   },
   {
-   "id": "4a5d10122440",
-   "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+   "id": "67b7b98a7b86",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
    "source": "Hacker News",
-   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
   },
   {
-   "id": "a4ae69bb20fb",
-   "title": "Anthropic's Disproof of the ETH",
+   "id": "0e9ecce568c3",
+   "title": "Classification of Finite Simple Groups Formalized in Lean",
    "source": "Hacker News",
-   "url": "https://hexagonmath.org/2610.00577v1"
+   "url": "https://cfsg.axiommath.ai/"
   },
   {
-   "id": "2e2e754aa9f5",
-   "title": "Analysis: AI political groups have spent $78.5M on US federal candidates during the 2026 cycle; AI accelerationists spent $34M and safeguard-focused groups $39M",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html"
-  },
-  {
-   "id": "b722a90a837f",
-   "title": "Three new discoveries in mathematics, computer science, and physics",
+   "id": "ead6adb71ac3",
+   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
    "source": "Hacker News",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+   "url": "https://www.liquid.ai/blog/lfm3"
   },
   {
-   "id": "01bc9a7e0ef3",
-   "title": "Cloudflare Computer now helps agents recover from interruptions and wait for approval",
-   "source": "TLDR AI",
-   "url": "https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript/"
+   "id": "a44a9fde6395",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "source": "Hacker News",
+   "url": "https://www.brangus.io/survival-llm"
   },
   {
-   "id": "79d4257232cf",
-   "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html"
+   "id": "506170b46351",
+   "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+   "source": "Hacker News",
+   "url": "https://spec-first.dev/"
   },
   {
-   "id": "2569357e74fd",
-   "title": "Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers",
+   "id": "1b688d3e2157",
+   "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+   "source": "Hacker News",
+   "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops"
+  },
+  {
+   "id": "85c2cd5037e2",
+   "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+   "source": "Hacker News",
+   "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/"
+  },
+  {
+   "id": "a1e3621795c1",
+   "title": "DietPi v10.8 has been released",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50260146"
+  },
+  {
+   "id": "085c38344df1",
+   "title": "[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser",
+   "source": "Daring Fireball",
+   "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
+  },
+  {
+   "id": "c83f50e8fcda",
+   "title": "GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+   "url": "https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270"
   },
   {
-   "id": "170896e2c34f",
-   "title": "The Git Forge for Agent-Human Collaboration",
-   "source": "TLDR AI",
-   "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration"
-  },
-  {
-   "id": "a77483810546",
-   "title": "Dallas-based Disruptive raised $10B to invest in AI, defense, and software, doubling its AUM, and pivots from single-deal SPVs to a discretionary fund structure",
+   "id": "2d2db8bbf469",
+   "title": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups"
+   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
   },
   {
-   "id": "bff584dd4c1c",
-   "title": "Frontier models' ability to control robot arms is doubling every 54 days",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
-  },
-  {
-   "id": "9562fa0a4ce1",
-   "title": "Pluralistic: History is something you do (27 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/27/tied-to-the-tracks/"
-  },
-  {
-   "id": "f50676beb3ec",
-   "title": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M",
+   "id": "da40ab892e6f",
+   "title": "AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance"
-  },
-  {
-   "id": "390d7d9d493f",
-   "title": "Gemini 4 Argon: The Model and Safety Cards",
-   "source": "TLDR AI",
-   "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/"
-  },
-  {
-   "id": "93f6db3ace25",
-   "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/"
-  },
-  {
-   "id": "0730a73f514d",
-   "title": "Google's Self-Improvements in LLMs",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2610.32770"
-  },
-  {
-   "id": "cb5c1ed5b16d",
-   "title": "Apple updates the 24-inch iMac with an M6 chip, with up to a 12-core CPU, up to a 12-core GPU, and a dual 16-core Neural Engine, from $1,499 on November 6",
-   "source": "Techmeme",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
-  },
-  {
-   "id": "654edb122a04",
-   "title": "Fern",
-   "source": "TLDR AI",
-   "url": "https://mirendil.com/news/introducing-fern/"
-  },
-  {
-   "id": "509b3918207c",
-   "title": "Coding From the Himalayas With an Offline AI Agent",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/offline-coding/"
-  },
-  {
-   "id": "eca467aa5ce4",
-   "title": "Anthropic's S-1 excludes Labs co-lead Ben Mann from its \"Continuing Founders\" and Founder LLC; Anthropic says \"it's still fair to refer to him as a co-founder\"",
-   "source": "Techmeme",
-   "url": "https://sfstandard.com/2026/10/26/anthropic-cofounder-mystery-ben-mann/"
-  },
-  {
-   "id": "2ffce4766e62",
-   "title": "Neocloud General Compute, which specializes in bare-metal infrastructure, raised a $100M Series A led by Blackbird and Abstract at an $800M post-money valuation",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
-  },
-  {
-   "id": "96ee824c7ae3",
-   "title": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation"
   },
   {
    "id": "931d409ac963",
@@ -152,28 +104,76 @@
    "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
   },
   {
-   "id": "1f11981cb3dd",
-   "title": "UK stealth AI startup 22one, which is building law enforcement tools, hit a nearly $400M valuation after raising funds from Sequoia, Lux, and others",
+   "id": "064dec5a18d9",
+   "title": "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/65a113b4-2a45-49cf-9e68-93f42151166e"
+   "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html"
   },
   {
-   "id": "b2090deda327",
-   "title": "Meta announces $95 billion stock offering to fund AI expansion",
-   "source": "TLDR AI",
-   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+   "id": "2317beaa0978",
+   "title": "Game Boy Color on My Conference Badge",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
   },
   {
-   "id": "2e2d44266ff5",
-   "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/s1-sec"
-  },
-  {
-   "id": "87f44e41efe1",
-   "title": "Study: non-English languages can consume far more AI tokens, with the most expensive using 1.5x-5x more than the cheapest, resulting in a \"tokenizer tax\"",
+   "id": "2569357e74fd",
+   "title": "Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers",
    "source": "Techmeme",
-   "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/"
+   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+  },
+  {
+   "id": "1eee820f8e1c",
+   "title": "Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024",
+   "source": "Techmeme",
+   "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/"
+  },
+  {
+   "id": "2234596bc90b",
+   "title": "Tiny Computers for iPhone Duo",
+   "source": "Daring Fireball",
+   "url": "https://www.fountaininteractive.com/TinyComputers/"
+  },
+  {
+   "id": "6a268df9aee2",
+   "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+   "source": "Lobsters",
+   "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html"
+  },
+  {
+   "id": "ec0b93ffdaff",
+   "title": "Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/anthropics-85-margin-reality-check-skeptics"
+  },
+  {
+   "id": "6cc34db55d96",
+   "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/opus55/"
+  },
+  {
+   "id": "a9858e7fc3f4",
+   "title": "Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/meta-s-25-billion-stock-sale-ended-five-times-oversubscribed"
+  },
+  {
+   "id": "1454fa3c70bc",
+   "title": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html"
+  },
+  {
+   "id": "cb5c1ed5b16d",
+   "title": "Apple updates the 24-inch iMac with an M6 chip, with up to a 12-core CPU, up to a 12-core GPU, and a dual 16-core Neural Engine, from $1,499 on November 6",
+   "source": "Techmeme",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+  },
+  {
+   "id": "96eb0d905822",
+   "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/"
   }
  ]
 }

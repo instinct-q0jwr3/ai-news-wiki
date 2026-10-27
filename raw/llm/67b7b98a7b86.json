@@ -1,0 +1,16 @@
+{
+ "id": "67b7b98a7b86",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Futurism reports that Amazon is gutting its in-house AI division after sustained failure: per Bloomberg, most Nova models - text, image and video - are on ice in a 'keep the lights on' state with minimal resources, as the company narrows to 'highest priority' goals.",
+  "Labor and compute are being redirected to a single frontier-model effort led by Pieter Abbeel, the Berkeley Robot Learning Lab director whose robotics company Covariant Amazon absorbed in 2024. The shift follows the closure of an 80-person San Francisco AGI research office, and lands as investors question whether LLM spending can produce returns."
+ ],
+ "highlights": [
+  "Most Nova models frozen in 'keep the lights on' mode",
+  "Resources pivot to one frontier-model effort under Pieter Abbeel",
+  "Follows closure of an 80-person SF AGI research office",
+  "Amazon's flagship models never became household names"
+ ]
+}

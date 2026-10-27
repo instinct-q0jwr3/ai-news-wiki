@@ -1,0 +1,16 @@
+{
+ "id": "da40ab892e6f",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports AI robotics startup Physical Intelligence is in talks to raise more than $1 billion led by Avenir and Lux Capital at a valuation of about $20 billion, up from $11.5 billion earlier in 2026. The startup develops AI software to power robots for real-world tasks."
+ ],
+ "highlights": [
+  "Physical Intelligence in talks for $1B+ at ~$20B valuation",
+  "Led by Avenir and Lux Capital; up from $11.5B earlier this year",
+  "Builds foundation software for real-world robots",
+  "Basis: Techmeme summary; Bloomberg article paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

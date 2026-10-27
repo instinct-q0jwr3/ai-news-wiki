@@ -1,0 +1,16 @@
+{
+ "id": "9e8e48581433",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Stanford Daily reports that Anthropic trained Claude on pirated books by more than ten Stanford professors, including Tobias Wolff, Abraham Verghese and Chang-Rae Lee, according to the Bartz v. Anthropic litigation. Judge Alsup's May 2026 ruling barred Anthropic from pirating books for a permanent central library while calling legally acquired training books fair use; the $1.5 billion settlement covers authors and publishers of nearly 500,000 registered works.",
+  "Wolff and 27 other authors say the settlement is not enough - roughly $3,000 per work - and Wolff and Lee opted out to file Cruz v. Anthropic in May 2026, seeking a jury trial and statutory damages up to $150,000 per infringed work. Wolff, a National Medal of Arts winner, called the uncompensated use of his work 'a form of slave labor'."
+ ],
+ "highlights": [
+  "10+ Stanford professors' books pirated for Claude training, per Bartz v. Anthropic",
+  "Alsup: piracy barred, legal acquisition ruled fair use",
+  "$1.5B settlement covers ~500,000 works; Wolff and 27 others call it insufficient",
+  "Cruz v. Anthropic seeks up to $150,000 per work before a jury"
+ ]
+}

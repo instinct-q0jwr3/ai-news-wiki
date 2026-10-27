@@ -1,0 +1,16 @@
+{
+ "id": "2d2db8bbf469",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Verge covers Google's launch of Genie 4, a world model that generates interactive AI simulations. Four main updates: more realistic worlds, real-time updates via natural language prompts, generated audio, and Gemini 3.8 Flash under the hood. Simulations now run about two minutes, double Genie 3's one minute.",
+  "Google pitches pre-visualization for filmmakers, game prototyping and robot training scenarios, but warns that details and object permanence drift as simulations lengthen. Genie 4 launches as a research preview for trusted testers, with Google AI Ultra subscribers next and a waitlist open for Project Genie."
+ ],
+ "highlights": [
+  "Genie 4 world model: interactive simulations with generated audio",
+  "Powered by Gemini 3.8 Flash; ~2-minute simulations, up from 1",
+  "Real-time world edits via natural language",
+  "Trusted-tester preview first; Google AI Ultra access 'coming soon'"
+ ]
+}

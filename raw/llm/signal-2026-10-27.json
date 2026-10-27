@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-10-27",
+ "date": "2026-10-27",
+ "status": "provisional",
+ "reserve": "9e8e48581433",
+ "picks": [
+  {
+   "id": "67b7b98a7b86",
+   "front": "Industry",
+   "source": "Futurism",
+   "why": "Amazon is gutting its in-house AI division after sustained failure: most Nova models frozen, one frontier effort left under Pieter Abbeel. The clearest sign yet that a hyperscaler is conceding the general-model race."
+  },
+  {
+   "id": "2d2db8bbf469",
+   "front": "Models",
+   "source": "The Verge",
+   "why": "Google's Genie 4 world model generates two-minute interactive simulations with audio and live natural-language edits - a concrete step from video generation toward usable simulated worlds."
+  },
+  {
+   "id": "1b688d3e2157",
+   "front": "Policy",
+   "source": "ACLU",
+   "why": "First-person documentation of police pulling drivers over because AI scored their travel patterns as suspicious - suspicionless surveillance becoming traffic stops."
+  },
+  {
+   "id": "6a268df9aee2",
+   "front": "Security",
+   "source": "Google Project Zero",
+   "why": "The first rigorous head-to-head of LLM bug-finding versus classic fuzzing on V8: BigSleep found more bugs than Fuzzilli, with limited overlap, so both are now standard practice."
+  },
+  {
+   "id": "a4ae69bb20fb",
+   "front": "Research",
+   "source": "Hexagon",
+   "why": "A preprint claiming a 2^{o(n)} 3-SAT algorithm that would refute the Exponential Time Hypothesis - with the core algorithm attributed to an internal Claude research model and formalized in Lean 4."
+  }
+ ]
+}

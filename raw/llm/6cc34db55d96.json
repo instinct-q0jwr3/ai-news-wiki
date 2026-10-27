@@ -1,0 +1,16 @@
+{
+ "id": "6cc34db55d96",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Latent Space interviews Anthropic's heads of Engineering and Product, Katelyn Lesse and Angela Jiang, on how Anthropic ships Claude with Claude. Against the backdrop of the S-1's revealed economics - a swing from -126% losses to 19% GAAP profit in a year - they discuss the Opus 5.5 launch: lower cost than its predecessor, less verbosity, and stronger intelligence per dollar.",
+  "The episode's central mental model separates an agent's 'brain' from its 'hands': the model's reasoning versus the harness and sandbox that act. They cover protecting thinking blocks against distillation extraction (and the breaking changes that can impose on customer harnesses), what early-access customers actually contribute, and why good evals remain golden."
+ ],
+ "highlights": [
+  "Anthropic eng/product leads on shipping Claude with Claude",
+  "Opus 5.5: cheaper to run, less verbose, more intelligence per dollar",
+  "'Brain vs hands': separating model reasoning from harness and sandbox",
+  "Preserved thinking blocks fight distillation but can break customer harnesses"
+ ]
+}

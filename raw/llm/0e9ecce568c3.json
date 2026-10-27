@@ -1,0 +1,16 @@
+{
+ "id": "0e9ecce568c3",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Classification of Finite Simple Groups - one of mathematics' largest proofs - is being formalized in Lean, and the project has already produced new mathematics: while formalizing the first-generation proof, the team found counterexamples to a closure assertion used in a published route to the Unbalanced Group Theorem.",
+  "The 35-page paper explains the obstruction and gives an alternative argument for the simple-group case, built on Solomon's 1976 theory of maximal 2-components, with the preservation of simple tops as the key step."
+ ],
+ "highlights": [
+  "Classification of Finite Simple Groups being formalized in Lean",
+  "Formalization found counterexamples to a published closure assertion",
+  "Alternative proof for the simple-group case via Solomon's 1976 theory",
+  "35-page paper reports the new group theory result"
+ ]
+}

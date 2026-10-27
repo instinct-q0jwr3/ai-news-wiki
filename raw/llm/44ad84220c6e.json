@@ -1,0 +1,16 @@
+{
+ "id": "44ad84220c6e",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google DeepMind announced Genie 4, a new generation of its world-simulation model. Per The Verge's coverage, Genie 4 is powered by Gemini 3.8 Flash, generates interactive simulations of about two minutes (up from one), adds generated audio, allows real-time edits via natural language, and launches first as a research preview for trusted testers."
+ ],
+ "highlights": [
+  "Genie 4: DeepMind's new world-simulation model",
+  "Powered by Gemini 3.8 Flash; adds audio and live prompt edits",
+  "Simulations up to ~2 minutes; trusted-tester preview first",
+  "Basis: headline plus The Verge; DeepMind blog body unreadable"
+ ],
+ "basis": "The DeepMind blog fetch returned a non-text or compressed body, so this entry is based on the headline and the parallel Verge report."
+}

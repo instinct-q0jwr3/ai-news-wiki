@@ -1,0 +1,16 @@
+{
+ "id": "2234596bc90b",
+ "authored_at": "2026-10-27T20:49:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Fountain Interactive built Tiny Computers for the iPhone Duo: tiny emulated machines, including a working Commodore 64 command line, running on the dual-screen device. John Gruber links it as a must-try for Duo owners, while noting Cabel Sasser's observation that the ahistorical details betray a young, Claude-aided developer who never used the real machines."
+ ],
+ "highlights": [
+  "Tiny emulated computers (Commodore 64 and more) for iPhone Duo",
+  "Command lines actually function",
+  "Sasser: fun but ahistorical - clearly Claude-aided work",
+  "Basis: short extract plus Daring Fireball note"
+ ],
+ "basis": "The extracted cache held under 400 characters, so this entry is based on that extract and the Daring Fireball link note."
+}

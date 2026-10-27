@@ -1454,5 +1454,61 @@
   "thin": 4,
   "total": 71,
   "unreadable": 4
+ },
+ "2026-10-27": {
+  "ok": 53,
+  "paywall": 8,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Industry",
+    "id": "67b7b98a7b86",
+    "minutes": 2,
+    "source": "Futurism",
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+    "why": "Amazon is gutting its in-house AI division after sustained failure: most Nova models frozen, one frontier effort left under Pieter Abbeel. The clearest sign yet that a hyperscaler is conceding the general-model race."
+   },
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "2d2db8bbf469",
+    "minutes": 1,
+    "source": "The Verge",
+    "title": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers",
+    "why": "Google's Genie 4 world model generates two-minute interactive simulations with audio and live natural-language edits - a concrete step from video generation toward usable simulated worlds."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "1b688d3e2157",
+    "minutes": 6,
+    "source": "ACLU",
+    "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+    "why": "First-person documentation of police pulling drivers over because AI scored their travel patterns as suspicious - suspicionless surveillance becoming traffic stops."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "6a268df9aee2",
+    "minutes": 32,
+    "source": "Google Project Zero",
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "why": "The first rigorous head-to-head of LLM bug-finding versus classic fuzzing on V8: BigSleep found more bugs than Fuzzilli, with limited overlap, so both are now standard practice."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "a4ae69bb20fb",
+    "minutes": 16,
+    "source": "Hexagon",
+    "title": "Anthropic's Disproof of the ETH",
+    "why": "A preprint claiming a 2^{o(n)} 3-SAT algorithm that would refute the Exponential Time Hypothesis - with the core algorithm attributed to an internal Claude research model and formalized in Lean 4."
+   }
+  ],
+  "reserve": "9e8e48581433",
+  "status": "provisional",
+  "thin": 6,
+  "total": 71,
+  "unreadable": 4
  }
 }
