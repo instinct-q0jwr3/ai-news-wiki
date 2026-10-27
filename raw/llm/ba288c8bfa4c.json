@@ -1,0 +1,14 @@
+{
+  "id": "ba288c8bfa4c",
+  "authored_at": "2026-10-27T08:45:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the source is a PDF the fetcher cannot process, so this note rests on the title and the week's context. 'Anthropic Is the Most Ridiculous IPO of 2026' is a bear-case document on the Anthropic listing - the counterpoint to a week of S-1 admiration, arguing presumably that a company losing $80.7 billion in six months on $16.3 billion of revenue, with nearly $800 billion in compute commitments, should not command a trillion-dollar-plus valuation. The argument's specifics cannot be summarized without the document text.",
+  "highlights": [
+    "A PDF bear case: 'Anthropic Is the Most Ridiculous IPO of 2026'",
+    "Lands against a week of S-1 analysis of Anthropic's growth and losses",
+    "The counter-thesis targets the gap between trillion-dollar pricing and $80.7B half-year losses",
+    "The fetcher cannot process the PDF; specifics are unavailable"
+  ],
+  "basis": "Source is a PDF the fetcher cannot process (unsupported content-type); summary based on the title and filing-week context."
+}

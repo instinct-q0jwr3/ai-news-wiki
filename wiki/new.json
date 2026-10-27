@@ -1,101 +1,47 @@
 {
- "generated_at": "2026-10-27T02:39:25+00:00",
+ "generated_at": "2026-10-27T08:40:06+00:00",
  "stories": [
   {
-   "id": "b722a90a837f",
-   "title": "Three new discoveries in mathematics, computer science, and physics",
+   "id": "171f675e7c67",
+   "title": "The Mythical Man-Month in the Age of AI",
    "source": "Hacker News",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
   },
   {
-   "id": "932a87df8720",
-   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "id": "6718f50e7181",
+   "title": "There are now 5 inference providers for abliterated DeepSeek",
    "source": "Hacker News",
-   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+   "url": "https://allmodels.io/llm/abliterated"
   },
   {
-   "id": "78eb3dc7f5b9",
-   "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
+   "id": "a9ca1d6140bb",
+   "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
    "source": "Hacker News",
-   "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/"
+   "url": "https://codingplans.dev/briefs/us-model-labs-part-1/"
   },
   {
-   "id": "23e4ebc97dd1",
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "id": "ba288c8bfa4c",
+   "title": "Anthropic Is the Most Ridiculous IPO of 2026 [pdf]",
    "source": "Hacker News",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+   "url": "https://www.newconstructs.com/wp-content/uploads/2026/10/Anthropic-Is-The-Most-Ridiculous-IPO-of-2026.pdf"
   },
   {
-   "id": "e5c4d55309dc",
-   "title": "Magic state cultivation on a superconducting quantum processor",
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2512.13908"
-  },
-  {
-   "id": "73b00ac5dee8",
-   "title": "What to do if you discover AI models trained using your copywrighted book?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50253561"
-  },
-  {
-   "id": "c9cbf813dc0b",
-   "title": "Meaning After an AI Eucatastrophe",
-   "source": "Hacker News",
-   "url": "https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe"
-  },
-  {
-   "id": "827609a55947",
-   "title": "webframe: evaluated as a scraper and a sandbox",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
-  },
-  {
-   "id": "8c17e03b0a43",
-   "title": "Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to ten successors per founder, subject to approval from five cofounders",
+   "id": "2166a8e81b35",
+   "title": "Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/annatong/2026/10/26/anthropic-founders-can-name-secret-successors/"
+   "url": "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?st=4eEQYV&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "fa07061218a2",
-   "title": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests",
+   "id": "f77c14a50f30",
+   "title": "Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods",
    "source": "Techmeme",
-   "url": "https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/"
+   "url": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733"
   },
   {
-   "id": "8df258a7b694",
-   "title": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips"
-  },
-  {
-   "id": "8b5ad3d710b1",
-   "title": "A profile of former Google VP and Yahoo CEO Marissa Mayer, whose startup Dazzle is building an AI assistant to help non-tech enthusiasts with mundane tasks",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.LVE.bUTq.yuaOciiPS1zl&smid=url-share"
-  },
-  {
-   "id": "de040ac6c2d7",
-   "title": "Apple releases iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five new languages, more",
-   "source": "Techmeme",
-   "url": "https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/"
-  },
-  {
-   "id": "89af89d29e48",
-   "title": "Anthropic's S-1 shows a governance structure that suits a \"fun quirky little mission-driven worker cooperative\" seeking to raise billions as a public company",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns"
-  },
-  {
-   "id": "2aac6d873cc5",
-   "title": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/"
-  },
-  {
-   "id": "abb63497e284",
-   "title": "The Exponential Time Hypothesis Is False [pdf]",
-   "source": "Lobsters",
-   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+   "id": "96776959cc9a",
+   "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-anthropic-s1/"
   }
  ]
 }

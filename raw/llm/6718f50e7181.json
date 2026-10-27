@@ -1,0 +1,14 @@
+{
+  "id": "6718f50e7181",
+  "authored_at": "2026-10-27T08:45:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: the page is a live routing dashboard that yields little static text, so this note rests on its visible description. There are now five inference providers serving the abliterated - refusal-trained-out - variant of DeepSeek, a fast reasoning model. The tracking page, AllModels, routes text requests across a fallback pool of providers and sends image requests only to providers that can actually handle them. The spread of abliterated hosting across five independent providers marks how quickly uncensored fine-tunes of frontier open models achieve mainstream inference distribution.",
+  "highlights": [
+    "Five inference providers now serve the abliterated DeepSeek variant",
+    "Abliteration removes refusal behavior from the base model",
+    "The AllModels dashboard load-balances text routes and restricts image requests to capable providers",
+    "Uncensored fine-tunes of frontier open models now get mainstream inference distribution"
+  ],
+  "basis": "The source is a live provider-routing dashboard with minimal static text; summary based on its visible description."
+}

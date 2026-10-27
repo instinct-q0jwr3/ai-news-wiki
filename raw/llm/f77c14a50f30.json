@@ -1,0 +1,14 @@
+{
+  "id": "f77c14a50f30",
+  "authored_at": "2026-10-27T08:45:48Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "NBC News reports that organized criminal groups have stolen more than $100 million worth of US data-center freight since June, targeting the physical supply chain of the AI build-out. In one early-June case, a trailer carrying some $13 million of server equipment was headed toward Fayetteville, Georgia, home to one of the country's largest data-center developments.\n\nThe thefts use deceptive techniques against a cargo that is both enormously valuable and easy to fence into a market starving for hardware. The story is a physical-world corollary to the week's financial headlines: when single servers cost as much as luxury cars and the industry is spending half a trillion dollars a year, the trucks moving GPUs have become targets worth hijacking.",
+  "highlights": [
+    "Over $100M in US data-center freight stolen since June, per experts cited by NBC",
+    "One heist: a trailer with ~$13M in server equipment bound for Fayetteville, Georgia",
+    "Organized groups use deceptive techniques against the AI supply chain",
+    "Two successful heists are detailed in the report",
+    "GPU scarcity makes stolen data-center hardware easy to monetize"
+  ]
+}
