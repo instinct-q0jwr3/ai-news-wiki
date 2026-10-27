@@ -1,6 +1,6 @@
 # Introducing TorchNeuron: Native PyTorch backend for AWS Trainium
 
-_type: news-summary · created: 2026-10-20 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-20 · updated: 2026-10-27 · confidence: high_
 
 `tldr-ai` `amazon`
 

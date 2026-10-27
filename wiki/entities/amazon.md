@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-26 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-10-27** - OpenAI is tightening ChatGPT's image rules ahead of the November 3 US midterms: ask it for an image 'depicting election interference or that may discourage voting' and it will comply - but only in an illustrated or cartoon style. Requests to make such… ([Ahead of US midterms, ChatGPT draws images "depicting election interference or that may discourage voting" in a cartoon style, ignoring photorealism requests](../summaries/fa07061218a2.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md))
 - **2026-10-26** - Cory Doctorow's column skewers the clickwrap economy by flipping its logic: if companies can bind you to anything by your mere presence, why can't he bind them back? The piece includes his own mock counter-notice - a 'BOGUS AGREEMENTS' release asserting… ([Pluralistic: Sovereign citizens, but for news (26 Oct 2026)](../summaries/1784d43b63ce.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-26** - Anthropic's S-1 shows a customer base that is large, concentrated, and expanding fast: as of September 30, the company counts more than 11,900 customers spending at least $100,000 annually, more than 1,900 spending $1 million or more, and about 250… ([S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+](../summaries/4bc50709c119.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md))
 - **2026-10-26** - Basis: the New York Times blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Alexandra Alter profiles Marissa Mayer - former Google VP, former Yahoo CEO - who has reinvented herself as a startup founder. Her company Dazzle, a… ([A profile of former Google VP and Yahoo CEO Marissa Mayer, whose startup Dazzle is building an AI assistant to help non-tech enthusiasts with mundane tasks](../summaries/8b5ad3d710b1.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md)) 🔒

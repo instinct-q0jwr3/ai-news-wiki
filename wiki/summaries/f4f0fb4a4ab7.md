@@ -1,6 +1,6 @@
 # AI models think humans are a bunch of amoral sheep
 
-_type: news-summary · created: 2026-10-23 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-23 · updated: 2026-10-27 · confidence: high_
 
 `hacker-news`
 

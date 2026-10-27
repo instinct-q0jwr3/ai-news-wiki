@@ -1,6 +1,6 @@
 # Does Flapping Airplanes Mean Short Timelines and Hard Treaty Enforcement?
 
-_type: news-summary · created: 2026-10-23 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-23 · updated: 2026-10-27 · confidence: high_
 
 `tldr-ai`
 

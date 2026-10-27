@@ -1,0 +1,14 @@
+{
+  "id": "2aac6d873cc5",
+  "authored_at": "2026-10-27T02:45:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Reuters blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. China's Star 50 index of AI and chip leaders is down 40% in under four months, erasing roughly $480 billion in market value; chipmaker CXMT alone is down about 25% in the past month. While global tech stocks teeter on AI-bubble worries, Reuters frames China's version as a crash already in progress, with lofty valuations collapsing under doubts about AI demand.",
+  "highlights": [
+    "China's Star 50 AI-and-chip index is down 40% in under four months",
+    "About $480B in market value erased; CXMT is down ~25% in a month",
+    "Reuters frames it as the AI bubble already bursting in China while global stocks merely teeter",
+    "Reuters blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Reuters returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

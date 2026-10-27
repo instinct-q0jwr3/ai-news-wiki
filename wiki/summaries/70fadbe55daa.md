@@ -1,6 +1,6 @@
 # Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK
 
-_type: news-summary · created: 2026-10-18 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-18 · updated: 2026-10-27 · confidence: high_
 
 `techmeme` `microsoft` `nvidia` `compute-buildout`
 

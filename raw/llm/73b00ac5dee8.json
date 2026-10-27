@@ -1,0 +1,14 @@
+{
+  "id": "73b00ac5dee8",
+  "authored_at": "2026-10-27T02:45:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "An Ask HN thread poses a question more authors are facing: what can you actually do when you discover AI models were trained on your copyrighted book? The early answers sketch the legal landscape as commenters understand it - the issue is working through federal courts and has not reached the Supreme Court, with most judges so far siding with AI companies on training as permissible use, while the separate question of copying and storing the data remains contested.\n\nCommenters also bat around adjacent doctrines, including the monkey-selfie lineage of cases holding that AI-generated content cannot itself be copyrighted. The thread is notable less for legal authority than as a snapshot of where practitioner understanding sits: authors have few clean remedies, and everyone is watching the same appeals.",
+  "highlights": [
+    "An author asks HN what remedies exist when AI models train on your copyrighted book",
+    "Commenters note the issue is in federal courts, unresolved, with most rulings favoring AI companies so far",
+    "A distinction is drawn between training on data and copying or storing it",
+    "The monkey-selfie line of cases is invoked for AI output's uncopyrightability",
+    "The thread shows how few clean remedies authors currently have"
+  ]
+}

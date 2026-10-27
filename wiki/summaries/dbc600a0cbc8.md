@@ -1,6 +1,6 @@
 # New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors
 
-_type: news-summary · created: 2026-10-23 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-23 · updated: 2026-10-27 · confidence: high_
 
 `hacker-news`
 

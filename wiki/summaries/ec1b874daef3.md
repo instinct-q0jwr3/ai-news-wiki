@@ -1,6 +1,6 @@
 # North 2: Enterprise AI Without Compromises
 
-_type: news-summary · created: 2026-10-06 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-06 · updated: 2026-10-27 · confidence: high_
 
 `tldr-ai`
 

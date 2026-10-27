@@ -1,0 +1,14 @@
+{
+  "id": "8df258a7b694",
+  "authored_at": "2026-10-27T02:45:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Broadcom has arranged a $63 billion financing deal with Bank of America, Blackstone, Citi and Morgan Stanley to fund the purchase of chips for Anthropic, routed through a new special purpose vehicle. It is the second nine-figure chip-financing structure tied to Anthropic's demand this week, and another sign that the AI build-out increasingly runs through Wall Street's structured-finance machinery.",
+  "highlights": [
+    "Broadcom arranged a $63B deal with BofA, Blackstone, Citi and Morgan Stanley",
+    "The financing buys chips for Anthropic via a new special purpose vehicle",
+    "Another structured-finance mega-deal feeding the AI build-out",
+    "Bloomberg blocks fetching; note based on Techmeme's summary"
+  ],
+  "basis": "Bloomberg returned HTTP 403 (bot-block); summary written from Techmeme's feed description without the article text."
+}

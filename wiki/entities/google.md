@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-26 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-27** - A superconducting-processor experiment has put magic state cultivation - a proposed shortcut around the huge resource cost of non-Clifford gates in fault-tolerant quantum computers - through its first real test. The team implemented cultivation including… ([Magic state cultivation on a superconducting quantum processor](../summaries/e5c4d55309dc.md) · [Google](../entities/google.md))
 - **2026-10-26** - Gemini 4 Carbon has entered early access, with partners testing it and checkpoints appearing on LMArena ahead of an imminent release. Testers posting outputs describe it as noticeably better than Gemini 4 Argon at 3D generation, while frontend and UI work… ([Gemini 4 Carbon early test results are in ahead of release](../summaries/e2ad8a5d5e7e.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-26** - When Hurricane Isaias formed in early October, conventional forecast models initially sent it toward southeastern Louisiana. Google DeepMind's AI model called the actual landfall - the western Florida Panhandle near Destin, where it arrived as a Category 2… ([Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida](../summaries/0af44d7fcc4e.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-26** - Basis: the New York Times blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Alexandra Alter profiles Marissa Mayer - former Google VP, former Yahoo CEO - who has reinvented herself as a startup founder. Her company Dazzle, a… ([A profile of former Google VP and Yahoo CEO Marissa Mayer, whose startup Dazzle is building an AI assistant to help non-tech enthusiasts with mundane tasks](../summaries/8b5ad3d710b1.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md)) 🔒

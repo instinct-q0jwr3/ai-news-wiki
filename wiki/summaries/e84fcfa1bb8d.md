@@ -1,6 +1,6 @@
 # In its first meeting, Trump's Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-27 · confidence: high_
 
 `techmeme` `ai-safety-incidents`
 

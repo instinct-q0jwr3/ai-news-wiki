@@ -1,0 +1,14 @@
+{
+  "id": "e5c4d55309dc",
+  "authored_at": "2026-10-27T02:45:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "A superconducting-processor experiment has put magic state cultivation - a proposed shortcut around the huge resource cost of non-Clifford gates in fault-tolerant quantum computers - through its first real test. The team implemented cultivation including code-switching into a surface code, and developed a fault-tolerant measurement protocol to bound the fidelity of the resulting magic state.\n\nThe results are strong: cultivation reduced error by a factor of 40, reaching a state fidelity of 0.9999(1) while retaining 8% of attempts. The authors say this experimentally establishes cultivation as a viable route to one of quantum computing's most significant resource problems - the overhead that has made universal fault-tolerant machines so expensive to build.",
+  "highlights": [
+    "First experimental study of magic state cultivation on a superconducting quantum processor",
+    "Cultivation cut error by a factor of 40, reaching 0.9999(1) state fidelity while keeping 8% of attempts",
+    "The work includes code-switching into a surface code and a fault-tolerant measurement protocol",
+    "Non-Clifford gates are the resource bottleneck for most quantum error correction architectures",
+    "The result establishes cultivation as a viable alternative to costly distillation protocols"
+  ]
+}

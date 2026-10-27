@@ -1,0 +1,14 @@
+{
+  "id": "fa07061218a2",
+  "authored_at": "2026-10-27T02:45:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "OpenAI is tightening ChatGPT's image rules ahead of the November 3 US midterms: ask it for an image 'depicting election interference or that may discourage voting' and it will comply - but only in an illustrated or cartoon style. Requests to make such images photorealistic are to be ignored, per OpenAI's October 20 update.\n\nThe policy targets the moment when AI deepfakes became practically indistinguishable from real photos, just as voters hunt for reliable information on candidates and polling sites. CNET's tests show the line in practice: the chatbot will produce the content, but strips the realism that would make it a weapon. Tech issues, including AI and data-center concerns, are central in many midterm races.",
+  "highlights": [
+    "ChatGPT will now render election-interference or vote-discouraging images only in illustrated or cartoon style",
+    "Photorealistic rendering requests for such content are to be ignored, per the October 20 update",
+    "The safeguard lands one week before the November 3 US midterms",
+    "The premise: AI deepfakes are now practically indistinguishable from real photos",
+    "AI and data-center concerns are themselves campaign issues in many races"
+  ]
+}

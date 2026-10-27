@@ -1,6 +1,6 @@
 # AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024
 
-_type: news-summary · created: 2026-10-19 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-19 · updated: 2026-10-27 · confidence: high_
 
 `techmeme`
 

@@ -1,6 +1,6 @@
 # Survey of 94 economists: 54% expect AI's gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind
 
-_type: news-summary · created: 2026-10-19 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-19 · updated: 2026-10-27 · confidence: high_
 
 `techmeme`
 

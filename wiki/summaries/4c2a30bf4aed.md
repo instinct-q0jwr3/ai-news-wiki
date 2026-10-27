@@ -1,6 +1,6 @@
 # Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups
 
-_type: news-summary · created: 2026-10-24 · updated: 2026-10-26 · confidence: high_
+_type: news-summary · created: 2026-10-24 · updated: 2026-10-27 · confidence: high_
 
 `hacker-news` `meta`
 

@@ -1,0 +1,14 @@
+{
+  "id": "932a87df8720",
+  "authored_at": "2026-10-27T02:45:25Z",
+  "model": "agent-pass",
+  "schema": "1",
+  "prose": "Cloudflare has disclosed a tenant-isolation failure in its Workers AI GLM-5.3 model: between August 27 and September 9, a small number of customers received responses containing data from other customers' requests made to the same model shortly before. In total 155 responses were affected, all to prompts longer than 681,280 tokens.\n\nA security researcher, Gadi Evron from Knostic, reported the issue on September 8; Cloudflare remediated and restored the model the next day, and confirmed no other Workers AI model was affected. Excluding its own and the researcher's testing, the affected requests match ordinary long-context use in timing and volume, with no evidence of deliberate exploitation. The disclosure is coordinated with SGLang, the open-source inference engine underneath, which published its own post - a rare public look at a cross-tenant KV cache leak in a production LLM service.",
+  "highlights": [
+    "Cloudflare's GLM-5.3 Workers AI model leaked data across tenants via KV cache exposure",
+    "155 responses were affected between August 27 and September 9, all to 681,280+ token prompts",
+    "Reported by Knostic's Gadi Evron on September 8; fixed and restored September 9",
+    "No other Workers AI model was affected; no evidence of deliberate exploitation",
+    "Coordinated disclosure with the SGLang inference engine - a rare public KV-cache incident report"
+  ]
+}

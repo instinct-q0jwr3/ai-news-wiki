@@ -1,6 +1,6 @@
 # Mistral
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-26 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
 
 `entity` `mistral` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 

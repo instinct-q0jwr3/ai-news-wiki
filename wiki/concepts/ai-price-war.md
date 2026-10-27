@@ -1,6 +1,6 @@
 # Concept: The frontier model price war
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-26 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
 
 `concept` `ai-price-war`
 
@@ -16,10 +16,11 @@ Frontier labs keep cutting token prices while launching ever pricier top tiers. 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [Google Gemini](../entities/gemini.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md)
 
 ## Timeline
 
+- **2026-10-26** - GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. ([OpenAI releases GPT-6.1 Terra, touting "fast and capable computer use at scale" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens](../summaries/8c78400abf6d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [The frontier model price war](../concepts/ai-price-war.md)) ⚠
 - **2026-10-23** - Simon Willison's link post on Kimi K3.1 Pro's launch: live on the Kimi API today, not yet open weights but with full weights promised by November 4, 2026, plus a Highspeed variant 2-3x faster at twice the price (input cache hits priced the same). US… ([Introducing Kimi K3.1 Pro](../summaries/f8ee876a76a7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-21** - Alter (YC S25) launches access control for agents acting on behalf of multiple users. The problem it names: credentials pasted into prompts, configs, and .env files, every agent borrowing the same over-scoped credential, and nobody able to say which agent… ([Launch HN: Alter (YC S25) – Access control for multi-user agents](../summaries/f073d264db88.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-20** - Respan (YC W24) launches an open-source AI gateway in Rust where everything is a plugin: providers (OpenAI, Anthropic, Gemini), protocols (chat, realtime voice, MCP), modalities, and gateway features like fallbacks, PII redaction, and smart routing. The… ([Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](../summaries/e9a8895b216b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Mistral](../entities/mistral.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [The frontier model price war](../concepts/ai-price-war.md))
