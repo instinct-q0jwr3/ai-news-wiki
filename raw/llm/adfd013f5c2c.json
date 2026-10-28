@@ -1,0 +1,16 @@
+{
+ "id": "adfd013f5c2c",
+ "authored_at": "2026-10-28T08:48:59Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Wall Street Journal calculates that Anthropic's S-1 implies an annual total addressable market above $40 trillion, based on the economic value of knowledge work in 2025 - topping even SpaceX's $28.5 trillion estimate from earlier this year - though the filing never names the figure as TAM."
+ ],
+ "highlights": [
+  "S-1 implies a $40T+ annual market, per WSJ's math",
+  "Tops SpaceX's $28.5T estimate from earlier this year",
+  "Figure is tied to the economic value of knowledge work",
+  "Basis: Techmeme summary; WSJ paywalled (HTTP 401)"
+ ],
+ "basis": "The fetch failed with HTTP 401 (WSJ paywall), so this entry is based on the Techmeme feed summary and headline."
+}

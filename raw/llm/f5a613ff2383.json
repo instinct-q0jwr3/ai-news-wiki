@@ -1,0 +1,16 @@
+{
+ "id": "f5a613ff2383",
+ "authored_at": "2026-10-28T08:48:59Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reuters reports China's CXMT plans to start HBM3E production despite yields of just 20% to 30%, with performance closer to SK Hynix's previous-generation HBM3 than to current HBM3E. The move would give China's AI chip efforts a domestic high-bandwidth memory supply, however imperfect."
+ ],
+ "highlights": [
+  "CXMT to start HBM3E production at 20-30% yields",
+  "Performance closer to last-gen HBM3 than current HBM3E",
+  "A domestic HBM source for China's AI chip program",
+  "Basis: Techmeme summary; Reuters returned HTTP 401"
+ ],
+ "basis": "The fetch failed with HTTP 401 (Reuters), so this entry is based on the Techmeme feed summary and headline."
+}

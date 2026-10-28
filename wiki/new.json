@@ -1,83 +1,41 @@
 {
- "generated_at": "2026-10-28T02:42:45+00:00",
+ "generated_at": "2026-10-28T08:43:31+00:00",
  "stories": [
   {
-   "id": "6374573b77cb",
-   "title": "Anthropic details early drug development work with six partners and says it has acquired Mithril, a one-person company working on muscular dystrophy",
+   "id": "eaa79fb649be",
+   "title": "Artificial Analysis Intelligence Index v5",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
+  },
+  {
+   "id": "41a28c4fdd5c",
+   "title": "Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/early-progress-drug-development"
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades"
   },
   {
-   "id": "ceb726589cad",
-   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-   "source": "Hacker News",
-   "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners"
-  },
-  {
-   "id": "8ea14019b64c",
-   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
-  },
-  {
-   "id": "4be864963df6",
-   "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
-   "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html"
-  },
-  {
-   "id": "b4b6f6f27f42",
-   "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
-   "source": "Hacker News",
-   "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment"
-  },
-  {
-   "id": "f57acc4dace8",
-   "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude"
-  },
-  {
-   "id": "f718fe6bba77",
-   "title": "Amazon defines the role of the developer in the age of AI",
-   "source": "Hacker News",
-   "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai"
-  },
-  {
-   "id": "92d646a400c2",
-   "title": "An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that \"hunger beats tenure\"",
+   "id": "adfd013f5c2c",
+   "title": "Anthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM",
    "source": "Techmeme",
-   "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"
+   "url": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0?st=QmxiSy"
   },
   {
-   "id": "3710255ec943",
-   "title": "AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent",
+   "id": "f209dbd1df28",
+   "title": "HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
+   "url": "https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes"
   },
   {
-   "id": "9b878643cb23",
-   "title": "Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote",
-   "source": "Daring Fireball",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
-  },
-  {
-   "id": "61ab9b9c3791",
-   "title": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation",
+   "id": "f5a613ff2383",
+   "title": "CXMT plans to start HBM3E production despite yields of just 20% to 30%; its HBM3E performance is closer to that of SK Hynix's previous-gen HBM3 chips",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/rashishrivastava/2026/10/27/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/"
+   "url": "https://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/"
   },
   {
-   "id": "57e5537eb52d",
-   "title": "Siri AI Expands to More Languages in OS 27.2",
-   "source": "Daring Fireball",
-   "url": "https://nr.apple.com/Du9G9W8Nq1"
-  },
-  {
-   "id": "762869b92ad7",
-   "title": "OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs",
+   "id": "e5a79e6a8559",
+   "title": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips"
+   "url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain"
   }
  ]
 }
