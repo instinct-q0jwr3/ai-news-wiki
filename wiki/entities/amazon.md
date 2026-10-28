@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-10-28** - Amazon published a piece defining the software developer's role in the age of AI, framed around Bezos' observation that what will not change matters more than what will, and that good builders deeply understand their customers through anecdotes rather than… ([Amazon defines the role of the developer in the age of AI](../summaries/f718fe6bba77.md) · [Amazon](../entities/amazon.md))
 - **2026-10-27** - Futurism reports that Amazon is gutting its in-house AI division after sustained failure: per Bloomberg, most Nova models - text, image and video - are on ice in a 'keep the lights on' state with minimal resources, as the company narrows to 'highest… ([Amazon Is Gutting Its AI Division After Sustained Failure](../summaries/67b7b98a7b86.md) · [Amazon](../entities/amazon.md))
 - **2026-10-27** - CNBC reports on an Amazon memo to software engineers that calls measuring AI adoption by token usage or code generation 'deeply flawed', and discourages 'tokenmaxxing' - using AI as much as possible regardless of output. The memo, circulated internally in… ([Memo: Amazon says measuring AI adoption solely by token usage or code generation is "deeply flawed," as it discourages staff from tokenmaxxing](../summaries/1454fa3c70bc.md) · [Amazon](../entities/amazon.md))
 - **2026-10-27** - Cory Doctorow argues that science fiction's real job is puncturing 'inevitabilism' - the claim by tech bosses and policymakers that the future is fixed and must be accommodated rather than shaped. A predictable future, he writes, runs on rails and makes… ([Pluralistic: History is something you do (27 Oct 2026)](../summaries/9562fa0a4ce1.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

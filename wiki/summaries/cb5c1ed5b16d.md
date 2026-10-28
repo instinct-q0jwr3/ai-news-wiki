@@ -1,6 +1,6 @@
 # Apple updates the 24-inch iMac with an M6 chip, with up to a 12-core CPU, up to a 12-core GPU, and a dual 16-core Neural Engine, from $1,499 on November 6
 
-_type: news-summary · created: 2026-10-27 · updated: 2026-10-27 · confidence: high_
+_type: news-summary · created: 2026-10-27 · updated: 2026-10-28 · confidence: high_
 
 `techmeme` `apple` `compute-buildout`
 

@@ -1,0 +1,16 @@
+{
+ "id": "ceb726589cad",
+ "authored_at": "2026-10-28T02:48:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A data analysis compared what professional reviewers and actual owners talk about across 14 product categories, mining 6,900 opinions from YouTube reviews and 3,567 from Reddit threads. Reliability came up in 7.8% of reviewer opinions versus 17.0% of owner opinions - owners raised it more in 13 of 14 categories.",
+  "The two groups mention apps, software and connectivity at similar rates but disagree sharply on quality: 21% of reviewer app opinions are negative versus 71% of owner opinions, and owners are more negative in all eight categories with enough data. The analysis comes from BettaScore, which ranks products on public-review sentiment including reliability."
+ ],
+ "highlights": [
+  "Owners discuss reliability twice as often as reviewers (17% vs 7.8%)",
+  "Gap holds in 13 of 14 product categories",
+  "Owner opinions on apps are 71% negative vs 21% for reviewers",
+  "Method: ~10,500 opinions mined from YouTube and Reddit"
+ ]
+}

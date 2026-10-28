@@ -1,6 +1,6 @@
 # DogWood: Monitoring Policies using First Order Temporal Logic
 
-_type: news-summary · created: 2026-09-28 · updated: 2026-10-27 · confidence: high_
+_type: news-summary · created: 2026-09-28 · updated: 2026-10-28 · confidence: high_
 
 `lobsters`
 

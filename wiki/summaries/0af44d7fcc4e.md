@@ -1,6 +1,6 @@
 # Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida
 
-_type: news-summary · created: 2026-10-26 · updated: 2026-10-27 · confidence: high_
+_type: news-summary · created: 2026-10-26 · updated: 2026-10-28 · confidence: high_
 
 `techmeme` `google` `gemini`
 

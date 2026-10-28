@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-27 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-28 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-28** - Nvidia and AMD committed a combined $4 billion to Meta's equity offering: $3 billion from Nvidia and $1 billion from AMD, following Meta's announcement of a $95 billion raise for AI infrastructure. AMD added that its first Helios rackscale systems are… ([AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent](../summaries/3710255ec943.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-10-28** - The Information reports OpenAI plans to buy Google's TPUs despite being a major Nvidia customer, with a job listing seeking an engineer to 'lead the optimization' of its models on TPUs. The move would boost Google's rising challenge to Nvidia, an OpenAI… ([OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to "lead the optimization" of its models on TPUs](../summaries/762869b92ad7.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-27** - Nvidia and Meta are expanding their partnership around Muse, Meta's AI assistant, in a deal both companies frame as evidence of demand for 'useful' AI agents. As part of the deepened collaboration, Meta intends to deploy more Nvidia infrastructure -… ([Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise](../summaries/2166a8e81b35.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-26** - An analysis argues Nvidia's roughly $2,000-per-GPU annual enterprise software fee deserves more attention than it gets. Enterprises deploying AI agents need security, governance, and someone accountable for keeping the stack running - and the bet here is… ([Nvidia discusses $2k-per-GPU annual fee for software](../summaries/081f1e8945b4.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-26** - Basis: the Financial Times blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Meta is planning to raise $95 billion to finance its AI infrastructure, including $35 billion in public equity offerings, with chipmakers Nvidia, AMD… ([Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom](../summaries/00ebc6538e4a.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒

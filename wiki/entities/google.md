@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-28** - The Information reports OpenAI plans to buy Google's TPUs despite being a major Nvidia customer, with a job listing seeking an engineer to 'lead the optimization' of its models on TPUs. The move would boost Google's rising challenge to Nvidia, an OpenAI… ([OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to "lead the optimization" of its models on TPUs](../summaries/762869b92ad7.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-27** - Simon Willison reports from GitHub Universe that the conference badge is a full color-screen computer, and that Steve Francia - working with Gemini - got a NES emulator running on it, then went further and deployed Game Boy and Game Boy Color emulators.… ([Game Boy Color on My Conference Badge](../summaries/2317beaa0978.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-27** - The Verge covers Google's launch of Genie 4, a world model that generates interactive AI simulations. Four main updates: more realistic worlds, real-time updates via natural language prompts, generated audio, and Gemini 3.8 Flash under the hood.… ([Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers](../summaries/2d2db8bbf469.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-27** - CNBC reports Oracle is adding ChatGPT and Codex to its application stack, announced at Oracle AI World in Las Vegas where Sam Altman joined co-CEO Clay Magouyrk on stage - one day after Anthropic's S-1 filing. Oracle's cloud president Mahesh Thiagarajan… ([Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware](../summaries/064dec5a18d9.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

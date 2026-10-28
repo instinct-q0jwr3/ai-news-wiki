@@ -477,6 +477,68 @@
     "a1e3621795c1"
    ],
    "concepts": []
+  },
+  {
+   "title": "Claude finds the holes",
+   "intro": "Anthropic's unreleased research model built multi-step exploit chains against Chrome and Safari - 62 CVEs, sandbox escapes, a full same-origin bypass - all under coordinated disclosure as a bellwether for model cyber capability.",
+   "stories": [
+    "f57acc4dace8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Claude goes to the lab",
+   "intro": "Six drug development partnerships, an in-house discovery effort and the acquisition of one-person muscular dystrophy startup Mithril mark Anthropic's most concrete move into medicine.",
+   "stories": [
+    "6374573b77cb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cupertino's AI week",
+   "intro": "Creator Studio got its biggest update since launch - MotionVFX in Final Cut Pro, assistants across Logic Pro and the iWork apps, MCP support and an open Keynote format - while Siri AI added five languages, still skipping the EU.",
+   "stories": [
+    "9b878643cb23",
+    "57e5537eb52d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The state and the clinic",
+   "intro": "Anthropic cut Claude prices 40% for US governments as adoption surges, while the EFF's latest records show Medicare's AI prior-authorization rollout was rushed and opaque, and another report puts chatbot medical advice under the microscope.",
+   "stories": [
+    "8ea14019b64c",
+    "b4b6f6f27f42",
+    "4be864963df6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips and equity",
+   "intro": "Nvidia and AMD put $4 billion into Meta's raise with Helios racks already installed, while The Information reports OpenAI plans to buy Google TPUs - a crack in the Nvidia-only era.",
+   "stories": [
+    "3710255ec943",
+    "762869b92ad7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The developer's new job description",
+   "intro": "An Anthropic hiring manager retired coding interviews because Claude aces them - 'hunger beats tenure' - and Amazon published its own definition of the developer's durable role in the AI age.",
+   "stories": [
+    "92d646a400c2",
+    "f718fe6bba77"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odds and ends",
+   "intro": "A data study found owners worry about reliability twice as much as reviewers do, and Infisical raised $40 million to keep agent credentials out of agent hands.",
+   "stories": [
+    "ceb726589cad",
+    "61ab9b9c3791"
+   ],
+   "concepts": []
   }
  ]
 }

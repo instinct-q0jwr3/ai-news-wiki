@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-10-28** - Apple's 'Pro and Tell' week continues with a sweeping Creator Studio update: Final Cut Pro gains built-in MotionVFX effects, templates and transitions plus a video-stocked Content Hub; Logic Pro gets an intelligent assistant in beta, a Stem Splitter that… ([Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](../summaries/9b878643cb23.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-10-28** - With the 27.2 software updates, Apple's rebuilt Siri AI expanded to French, Japanese, Korean, Portuguese and Spanish. The new Siri draws on personal context across messages, email and photos, handles systemwide app actions like drafting emails or editing… ([Siri AI Expands to More Languages in OS 27.2](../summaries/57e5537eb52d.md) · [Apple](../entities/apple.md))
 - **2026-10-27** - Apple is adding a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers and Logic Pro. It drafts and restructures text in Pages, organizes data and suggests charts in Numbers, and designs and refines slides in Keynote; Logic Pro's… ([Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers](../summaries/2569357e74fd.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md))
 - **2026-10-27** - Apple announced the 14-inch MacBook Pro with the M6 chip: a 12-core CPU with what it calls the world's fastest CPU core, a 12-core GPU delivering up to 30% faster graphics and 25% faster AI workloads than M5, up to 32GB of unified memory, Wi-Fi 7 and… ([Apple unveils the 14-inch MacBook Pro with M6, with a 12-core CPU and a 12-core GPU, up to 32GB of unified memory, and Wi-Fi 7, from $1,999 on November 6](../summaries/931d409ac963.md) · [Apple](../entities/apple.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-27** - Apple updated the 24-inch iMac with the M6 chip: up to a 12-core CPU and 12-core GPU with Neural Accelerators per core, plus a dual 16-core Neural Engine delivering up to 5x faster on-device AI performance than the M4 model. Apple claims up to 18x faster… ([Apple updates the 24-inch iMac with an M6 chip, with up to a 12-core CPU, up to a 12-core GPU, and a dual 16-core Neural Engine, from $1,499 on November 6](../summaries/cb5c1ed5b16d.md) · [Apple](../entities/apple.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

@@ -1,6 +1,6 @@
 # A look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China
 
-_type: news-summary · created: 2026-10-26 · updated: 2026-10-27 · confidence: high_
+_type: news-summary · created: 2026-10-26 · updated: 2026-10-28 · confidence: high_
 
 `techmeme`
 

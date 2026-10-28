@@ -1,0 +1,16 @@
+{
+ "id": "b4b6f6f27f42",
+ "authored_at": "2026-10-28T02:48:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The EFF published over 800 new pages of records from its lawsuit over Medicare's WISeR program, which uses AI to evaluate prior authorization requests. The documents show the rollout was rushed - launched just six months after announcement, over provider objections - and rocky from the start, building on earlier evidence of delays, denials of care, operational chaos and reported patient harm.",
+  "The records leave open whether clinician review provides meaningful oversight of the AI and whether appropriate data drives the denials. The EFF argues automated decision-making has no place in consequential government benefits decisions without transparency, testing and legal limits, and calls on Congress to restrict its use in Medicare."
+ ],
+ "highlights": [
+  "800+ new pages on Medicare's AI prior-authorization program (WISeR)",
+  "Rollout launched six months after announcement despite provider objections",
+  "Open question: whether clinician review meaningfully oversees AI denials",
+  "EFF urges Congressional limits on automated benefits decisions"
+ ]
+}

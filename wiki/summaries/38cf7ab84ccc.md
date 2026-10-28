@@ -1,6 +1,6 @@
 # A look at Emeryville, CA-based Atomic Machines, which is training AI on materials and designs to revamp how microelectromechanical systems (MEMS) are built
 
-_type: news-summary · created: 2026-10-08 · updated: 2026-10-27 · confidence: high_
+_type: news-summary · created: 2026-10-08 · updated: 2026-10-28 · confidence: high_
 
 `techmeme`
 

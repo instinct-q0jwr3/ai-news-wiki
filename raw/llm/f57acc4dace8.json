@@ -1,0 +1,16 @@
+{
+ "id": "f57acc4dace8",
+ "authored_at": "2026-10-28T02:48:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic used an unreleased internal research model to find and exploit critical vulnerabilities in some of the world's most widely used software, detailing five attack chains with remote code execution and little or no user interaction. One chain pops Calculator from a stock Chrome on macOS seconds after a page loads - a full sandbox escape; another lets any website's JavaScript bypass Safari's same-origin policy to read history, cookies and authenticated responses like email or bank sessions.",
+  "The Chrome work produced 62 CVEs, all critical or high, patched as of Chrome 156, including 13 sandbox escapes and 21 renderer-compromise bugs. Everything was reported under coordinated disclosure - 90 days to patch, 45 more before detail discussion - and Anthropic frames browsers and operating systems as the bellwether for measuring model cyber capabilities, since flaws there affect billions."
+ ],
+ "highlights": [
+  "Internal Claude research model built multi-step exploit chains for real-world software",
+  "Chrome: 62 CVEs patched in 156, including 13 sandbox escapes",
+  "Safari: full same-origin-policy bypass from any website's JavaScript",
+  "Coordinated disclosure: 90 days to patch, 45 more before public detail"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "61ab9b9c3791",
+ "authored_at": "2026-10-28T02:48:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Forbes reports Infisical, which lets companies deploy AI agents without handing over private credentials, raised a $40 million Series B led by Elad Gil at a $600 million valuation. Customers include Airbus and Volkswagen."
+ ],
+ "highlights": [
+  "Infisical: secrets management for the agent era",
+  "$40M Series B led by Elad Gil at a $600M valuation",
+  "Customers include Airbus and Volkswagen",
+  "Basis: Techmeme summary; Forbes returned HTTP 403"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Forbes), so this entry is based on the Techmeme feed summary and headline."
+}

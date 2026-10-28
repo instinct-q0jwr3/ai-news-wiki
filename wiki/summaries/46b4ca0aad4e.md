@@ -1,6 +1,6 @@
 # As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage
 
-_type: news-summary · created: 2026-10-17 · updated: 2026-10-27 · confidence: high_
+_type: news-summary · created: 2026-10-17 · updated: 2026-10-28 · confidence: high_
 
 `techmeme` `ai-safety-incidents`
 

@@ -1,0 +1,16 @@
+{
+ "id": "92d646a400c2",
+ "authored_at": "2026-10-28T02:48:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Felix Rieseberg, a hiring manager at Anthropic, writes that he has stopped giving traditional coding interviews because Claude now solves them better than candidates - small coding challenges, once a weak but useful predictor of team success, no longer measure anything meaningful. Their most impactful builders succeed regardless of test performance.",
+  "His advice to junior engineers is that 'hunger beats tenure': impact is less bounded by accumulated framework knowledge, and he sees newer engineers with AI flying past better coders with more experience. He leans on the newcomer's advantage - fresh eyes spotting friction veterans stopped noticing, citing Patrick Collison at Stripe and Orson Welles on ignorance as confidence."
+ ],
+ "highlights": [
+  "Anthropic hiring manager retired coding interviews: Claude outperforms candidates",
+  "Coding challenges no longer predict team success",
+  "'Hunger beats tenure': juniors with AI outpace more experienced coders",
+  "Newcomer naivety framed as an organizational asset"
+ ]
+}

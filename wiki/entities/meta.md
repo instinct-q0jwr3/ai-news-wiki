@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-28** - Nvidia and AMD committed a combined $4 billion to Meta's equity offering: $3 billion from Nvidia and $1 billion from AMD, following Meta's announcement of a $95 billion raise for AI infrastructure. AMD added that its first Helios rackscale systems are… ([AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent](../summaries/3710255ec943.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-27** - Bloomberg reports Meta's upsized $25 billion share sale was oversubscribed about five times as the company seeks $98 billion for AI spending, with the 15 largest investors in the sale accounting for roughly 70% of the shares. ([Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares](../summaries/a9858e7fc3f4.md) · [Meta](../entities/meta.md)) 🔒
 - **2026-10-27** - Latent.space runs a guide to fully offline coding-agent work, written by a principal engineer at Thomson Reuters living in the Himalayan foothills where network and power outages are routine. The stack: OpenCode as the agent, Ollama serving an open-weight… ([Coding From the Himalayas With an Offline AI Agent](../summaries/509b3918207c.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-27** - Meta announced plans to raise $95 billion to fund AI infrastructure and its superintelligence push: $35 billion through underwritten public equity offerings plus $60 billion via an at-the-market program. Nvidia, AMD and Broadcom expressed interest in… ([Meta announces $95 billion stock offering to fund AI expansion](../summaries/b2090deda327.md) · [Meta](../entities/meta.md))

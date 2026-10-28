@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-28** - A woman worried about reducing her medication dose was encouraged by ChatGPT to push on, according to this reported account. The story adds to the growing file of cases where chatbot advice intersects with medical decisions that belong with clinicians. ([She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On](../summaries/4be864963df6.md) · [OpenAI](../entities/openai.md)) 🔒
+- **2026-10-28** - The Information reports OpenAI plans to buy Google's TPUs despite being a major Nvidia customer, with a job listing seeking an engineer to 'lead the optimization' of its models on TPUs. The move would boost Google's rising challenge to Nvidia, an OpenAI… ([OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to "lead the optimization" of its models on TPUs](../summaries/762869b92ad7.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-27** - CNBC reports Oracle is adding ChatGPT and Codex to its application stack, announced at Oracle AI World in Las Vegas where Sam Altman joined co-CEO Clay Magouyrk on stage - one day after Anthropic's S-1 filing. Oracle's cloud president Mahesh Thiagarajan… ([Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware](../summaries/064dec5a18d9.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-27** - Apple is adding a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers and Logic Pro. It drafts and restructures text in Pages, organizes data and suggests charts in Numbers, and designs and refines slides in Keynote; Logic Pro's… ([Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers](../summaries/2569357e74fd.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md))
 - **2026-10-27** - OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false — We are announcing three new discoveries in mathematics, computer science, and physics about… ([Three new discoveries in mathematics, computer science, and physics](../summaries/b722a90a837f.md) · [OpenAI](../entities/openai.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠

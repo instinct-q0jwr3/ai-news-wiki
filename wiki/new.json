@@ -1,179 +1,83 @@
 {
- "generated_at": "2026-10-27T20:41:48+00:00",
+ "generated_at": "2026-10-28T02:42:45+00:00",
  "stories": [
   {
-   "id": "44ad84220c6e",
-   "title": "Genie 4",
-   "source": "Hacker News",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+   "id": "6374573b77cb",
+   "title": "Anthropic details early drug development work with six partners and says it has acquired Mithril, a one-person company working on muscular dystrophy",
+   "source": "Techmeme",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development"
   },
   {
-   "id": "9e8e48581433",
-   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "id": "ceb726589cad",
+   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
    "source": "Hacker News",
-   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+   "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners"
   },
   {
-   "id": "35ca28594095",
-   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "id": "8ea14019b64c",
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
    "source": "Hacker News",
-   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
   },
   {
-   "id": "d22f8b031ac0",
-   "title": "Giving chat feedback gives Anthropic your data",
+   "id": "4be864963df6",
+   "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
    "source": "Hacker News",
-   "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training"
+   "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html"
   },
   {
-   "id": "67b7b98a7b86",
-   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "id": "b4b6f6f27f42",
+   "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
    "source": "Hacker News",
-   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+   "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment"
   },
   {
-   "id": "0e9ecce568c3",
-   "title": "Classification of Finite Simple Groups Formalized in Lean",
+   "id": "f57acc4dace8",
+   "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
    "source": "Hacker News",
-   "url": "https://cfsg.axiommath.ai/"
+   "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude"
   },
   {
-   "id": "ead6adb71ac3",
-   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+   "id": "f718fe6bba77",
+   "title": "Amazon defines the role of the developer in the age of AI",
    "source": "Hacker News",
-   "url": "https://www.liquid.ai/blog/lfm3"
+   "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai"
   },
   {
-   "id": "a44a9fde6395",
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "source": "Hacker News",
-   "url": "https://www.brangus.io/survival-llm"
+   "id": "92d646a400c2",
+   "title": "An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that \"hunger beats tenure\"",
+   "source": "Techmeme",
+   "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"
   },
   {
-   "id": "506170b46351",
-   "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-   "source": "Hacker News",
-   "url": "https://spec-first.dev/"
+   "id": "3710255ec943",
+   "title": "AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
   },
   {
-   "id": "1b688d3e2157",
-   "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
-   "source": "Hacker News",
-   "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops"
-  },
-  {
-   "id": "85c2cd5037e2",
-   "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-   "source": "Hacker News",
-   "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/"
-  },
-  {
-   "id": "a1e3621795c1",
-   "title": "DietPi v10.8 has been released",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50260146"
-  },
-  {
-   "id": "085c38344df1",
-   "title": "[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser",
+   "id": "9b878643cb23",
+   "title": "Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote",
    "source": "Daring Fireball",
-   "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
+   "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
   },
   {
-   "id": "c83f50e8fcda",
-   "title": "GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle",
+   "id": "61ab9b9c3791",
+   "title": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270"
+   "url": "https://www.forbes.com/sites/rashishrivastava/2026/10/27/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/"
   },
   {
-   "id": "2d2db8bbf469",
-   "title": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
-  },
-  {
-   "id": "da40ab892e6f",
-   "title": "AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation"
-  },
-  {
-   "id": "931d409ac963",
-   "title": "Apple unveils the 14-inch MacBook Pro with M6, with a 12-core CPU and a 12-core GPU, up to 32GB of unified memory, and Wi-Fi 7, from $1,999 on November 6",
-   "source": "Techmeme",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
-  },
-  {
-   "id": "064dec5a18d9",
-   "title": "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html"
-  },
-  {
-   "id": "2317beaa0978",
-   "title": "Game Boy Color on My Conference Badge",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
-  },
-  {
-   "id": "2569357e74fd",
-   "title": "Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
-  },
-  {
-   "id": "1eee820f8e1c",
-   "title": "Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024",
-   "source": "Techmeme",
-   "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/"
-  },
-  {
-   "id": "2234596bc90b",
-   "title": "Tiny Computers for iPhone Duo",
+   "id": "57e5537eb52d",
+   "title": "Siri AI Expands to More Languages in OS 27.2",
    "source": "Daring Fireball",
-   "url": "https://www.fountaininteractive.com/TinyComputers/"
+   "url": "https://nr.apple.com/Du9G9W8Nq1"
   },
   {
-   "id": "6a268df9aee2",
-   "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-   "source": "Lobsters",
-   "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html"
-  },
-  {
-   "id": "ec0b93ffdaff",
-   "title": "Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable",
+   "id": "762869b92ad7",
+   "title": "OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/anthropics-85-margin-reality-check-skeptics"
-  },
-  {
-   "id": "6cc34db55d96",
-   "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/opus55/"
-  },
-  {
-   "id": "a9858e7fc3f4",
-   "title": "Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/meta-s-25-billion-stock-sale-ended-five-times-oversubscribed"
-  },
-  {
-   "id": "1454fa3c70bc",
-   "title": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html"
-  },
-  {
-   "id": "cb5c1ed5b16d",
-   "title": "Apple updates the 24-inch iMac with an M6 chip, with up to a 12-core CPU, up to a 12-core GPU, and a dual 16-core Neural Engine, from $1,499 on November 6",
-   "source": "Techmeme",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
-  },
-  {
-   "id": "96eb0d905822",
-   "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/"
+   "url": "https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips"
   }
  ]
 }

@@ -1,0 +1,16 @@
+{
+ "id": "8ea14019b64c",
+ "authored_at": "2026-10-28T02:48:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Anthropic expanded its GSA partnership with a 40% discount on Claude Enterprise, Claude for Government and the Claude API, applying for the first time across every product surface and extending to state, local, tribal and territorial governments. Anthropic estimates the discounts will save the government $1 billion, with no minimum spend commitment.",
+  "The company says roughly 500 US government organizations now use Claude, with weekly Claude for Government active users up about eightfold since February and federal civilian usage up about 20-fold in a year. A dedicated implementation program for agencies is coming. Claude for Government reached FedRAMP High general availability on September 30, and agencies can also access Claude via Bedrock and Vertex AI."
+ ],
+ "highlights": [
+  "40% government discount across all Claude products, ~$1B estimated savings",
+  "Extends to state, local, tribal and territorial governments",
+  "~500 government organizations use Claude; federal civilian usage up 20x in a year",
+  "Claude for Government hit FedRAMP High GA on Sept 30"
+ ]
+}

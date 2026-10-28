@@ -1,6 +1,6 @@
 # Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more
 
-_type: news-summary · created: 2026-10-17 · updated: 2026-10-27 · confidence: high_
+_type: news-summary · created: 2026-10-17 · updated: 2026-10-28 · confidence: high_
 
 `techmeme` `anthropic`
 

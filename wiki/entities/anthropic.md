@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,10 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-28** - Anthropic detailed early drug development partnerships with six organizations - BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines and The Column Group - and said it has begun drug discovery efforts of its own,… ([Anthropic details early drug development work with six partners and says it has acquired Mithril, a one-person company working on muscular dystrophy](../summaries/6374573b77cb.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-28** - Anthropic expanded its GSA partnership with a 40% discount on Claude Enterprise, Claude for Government and the Claude API, applying for the first time across every product surface and extending to state, local, tribal and territorial governments. Anthropic… ([Expanding our partnership with GSA to bring Claude to all levels of government](../summaries/8ea14019b64c.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-28** - Anthropic used an unreleased internal research model to find and exploit critical vulnerabilities in some of the world's most widely used software, detailing five attack chains with remote code execution and little or no user interaction. One chain pops… ([Discovering and exploiting vulnerabilities in real-world software with Claude](../summaries/f57acc4dace8.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-28** - Felix Rieseberg, a hiring manager at Anthropic, writes that he has stopped giving traditional coding interviews because Claude now solves them better than candidates - small coding challenges, once a weak but useful predictor of team success, no longer… ([An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that "hunger beats tenure"](../summaries/92d646a400c2.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-27** - The Stanford Daily reports that Anthropic trained Claude on pirated books by more than ten Stanford professors, including Tobias Wolff, Abraham Verghese and Chang-Rae Lee, according to the Bartz v. Anthropic litigation. Judge Alsup's May 2026 ruling barred… ([Anthropic trained Claude on illegally obtained Stanford professors' books](../summaries/9e8e48581433.md) · [Anthropic](../entities/anthropic.md))
 - **2026-10-27** - Fountain Interactive built Tiny Computers for the iPhone Duo: tiny emulated machines, including a working Commodore 64 command line, running on the dual-screen device. John Gruber links it as a must-try for Duo owners, while noting Cabel Sasser's… ([Tiny Computers for iPhone Duo](../summaries/2234596bc90b.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-10-27** - Latent Space interviews Anthropic's heads of Engineering and Product, Katelyn Lesse and Angela Jiang, on how Anthropic ships Claude with Claude. Against the backdrop of the S-1's revealed economics - a swing from -126% losses to 19% GAAP profit in a year -… ([How Anthropic ships Claude with Claude: Separating the Brain from the Hands](../summaries/6cc34db55d96.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
