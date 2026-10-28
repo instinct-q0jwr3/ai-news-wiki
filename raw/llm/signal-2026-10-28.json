@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-10-28",
+ "date": "2026-10-28",
+ "status": "provisional",
+ "reserve": "09046166f585",
+ "picks": [
+  {
+   "id": "59212b5c789f",
+   "front": "Models",
+   "source": "Google",
+   "why": "Gemini 4 Carbon launches at #1 on the rebuilt Intelligence Index with state-of-the-art cybersecurity scores and a government-tested staged rollout - the frontier cadence now runs in weeks."
+  },
+  {
+   "id": "76577e6ed295",
+   "front": "Research",
+   "source": "Axiom Math",
+   "why": "The Classification of Finite Simple Groups - 15,000 pages across 500 papers - fully machine-checked in Lean after AI agent swarms wrote ~43 million lines of proof in 24 days."
+  },
+  {
+   "id": "d36a5c6ca671",
+   "front": "Policy",
+   "source": "Bloomberg Government",
+   "why": "New York signs some of the strictest chatbot rules in the country for minors, a week before the election - states keep filling the federal void on AI and kids."
+  },
+  {
+   "id": "b4b750ab9cd4",
+   "front": "Industry",
+   "source": "Dario Amodei",
+   "why": "Anthropic's CEO answers a safety critic point by point in public, conceding mistakes while defending the 'race to the top' - a rare direct accountability exchange from a frontier lab about to go public."
+  },
+  {
+   "id": "3a6a6d8ef1c4",
+   "front": "Evaluation",
+   "source": "Surge AI",
+   "why": "DAYJOB: Tax tests what benchmarks usually miss - professional judgment on questions the client didn't ask. Astra missed a consequential tax deadline 5/5 times; Opus caught it 5/5."
+  }
+ ]
+}

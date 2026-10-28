@@ -1,0 +1,16 @@
+{
+ "id": "387e1c1b31ef",
+ "authored_at": "2026-10-28T20:50:50Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison declares October 2026 the inflection point for vibe coding computer games, a year after November 2025 did the same for coding agents generally. His evidence: a run of Claude Opus 5.5 sessions that went from single prompts ('build a three.js game called Tree Appreciator') through iterative direction to full games.",
+  "One sequence grew a top-down RPG village demo - NPCs, furniture, transparent walls indoors, basements and tunnels, a cave with a sleeping troll - then quadrupled the playable area and added plot, twists and a magic system on request. Another produced a mobile-friendly game with the instruction 'make it a LOT more fun'."
+ ],
+ "highlights": [
+  "Willison: October 2026 is the vibe-game-dev inflection point",
+  "Opus 5.5 builds playable three.js games from single prompts",
+  "Iterative prompting grew a village demo into a full RPG",
+  "Compares to November 2025's coding-agent tipping point"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "09046166f585",
+ "authored_at": "2026-10-28T20:50:50Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "GitHub's Octoverse 2026, announced by EVP Jay Parikh at Universe, quantifies the agentic engineering wave: merged pull requests tripled in under a year to 220 million per month, commits more than tripled to 7.38 billion per month (mostly in the second half), and the new-repository rate doubled to 30.3 million per month.",
+  "New cuts this year include industry breakdowns via a fine-tuned multilingual embedding model sorting repos into NAICS sectors, country rankings adjusted for VPN bias using LLM-extracted profile locations, and a breakout count of repositories mentioning interoperability or reverse engineering - the decompilation wave showing up in GitHub's own telemetry."
+ ],
+ "highlights": [
+  "Merged PRs tripled to 220M/month; commits to 7.38B/month",
+  "New repo creation doubled to 30.3M/month",
+  "Most growth landed in the second half of 2026",
+  "Report now tracks interoperability and reverse-engineering repos"
+ ]
+}

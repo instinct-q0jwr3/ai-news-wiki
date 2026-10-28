@@ -1510,5 +1510,61 @@
   "thin": 7,
   "total": 71,
   "unreadable": 3
+ },
+ "2026-10-28": {
+  "ok": 46,
+  "paywall": 9,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "59212b5c789f",
+    "minutes": 4,
+    "source": "Google",
+    "title": "Google unveils Gemini 4 Carbon, its \"strongest model with state-of-the-art cybersecurity\" capabilities, ranked #1 on Artificial Analysis' new Intelligence Index",
+    "why": "Gemini 4 Carbon launches at #1 on the rebuilt Intelligence Index with state-of-the-art cybersecurity scores and a government-tested staged rollout - the frontier cadence now runs in weeks."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "76577e6ed295",
+    "minutes": 24,
+    "source": "Axiom Math",
+    "title": "Formalizing the Enormous Theorem",
+    "why": "The Classification of Finite Simple Groups - 15,000 pages across 500 papers - fully machine-checked in Lean after AI agent swarms wrote ~43 million lines of proof in 24 days."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "d36a5c6ca671",
+    "minutes": 2,
+    "source": "Bloomberg Government",
+    "title": "NY Gov. Kathy Hochul signs bills banning AI chatbots from using \"unsafe features\" for minors and requiring security features in internet-connected baby monitors",
+    "why": "New York signs some of the strictest chatbot rules in the country for minors, a week before the election - states keep filling the federal void on AI and kids."
+   },
+   {
+    "cat": "ok",
+    "front": "Industry",
+    "id": "b4b750ab9cd4",
+    "minutes": 55,
+    "source": "Dario Amodei",
+    "title": "Anthropic Versus Anthropic",
+    "why": "Anthropic's CEO answers a safety critic point by point in public, conceding mistakes while defending the 'race to the top' - a rare direct accountability exchange from a frontier lab about to go public."
+   },
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "3a6a6d8ef1c4",
+    "minutes": 8,
+    "source": "Surge AI",
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "why": "DAYJOB: Tax tests what benchmarks usually miss - professional judgment on questions the client didn't ask. Astra missed a consequential tax deadline 5/5 times; Opus caught it 5/5."
+   }
+  ],
+  "reserve": "09046166f585",
+  "status": "provisional",
+  "thin": 1,
+  "total": 60,
+  "unreadable": 4
  }
 }

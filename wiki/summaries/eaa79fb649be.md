@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-10-28 · updated: 2026-10-28 · confidence: high_
 
-`hacker-news`
+`hacker-news` `external-evaluation`
 
 ## Summary
 
@@ -23,4 +23,4 @@ Upgrades replace Humanity's Last Exam with the refined 1,000-question HLE-Diamon
 
 ## Related pages
 
-_No related entity or concept page yet._
+[External AI evaluation](../concepts/external-evaluation.md)

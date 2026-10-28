@@ -1,0 +1,16 @@
+{
+ "id": "5010d60ef1ff",
+ "authored_at": "2026-10-28T20:50:50Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A reported feature traces the global resistance to Big Tech's data center water consumption: hyperscale facilities compete with communities for potable water while companies downplay the scale of their demands. The piece revisits the 2023 estimate that training GPT took 185,000 gallons and the 'bottle of water per conversation' framing, then Google's and OpenAI's counter-claims of mere drops per query - which independent researchers called a narrow view.",
+  "Resistance cases span Uruguay and beyond, with researchers like Daniel Pena of the University of the Republic contesting industry claims about how much water human consumption actually represents."
+ ],
+ "highlights": [
+  "Data centers compete with communities for potable water",
+  "185,000 gallons to train the original ChatGPT (2023 estimate)",
+  "Company 'drops per query' figures disputed as too narrow",
+  "Global resistance cases, Uruguay among them"
+ ]
+}

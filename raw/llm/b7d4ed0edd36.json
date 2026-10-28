@@ -1,0 +1,16 @@
+{
+ "id": "b7d4ed0edd36",
+ "authored_at": "2026-10-28T20:50:50Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A developer chronicles AI-assisted game decompilation: disassemble the binary, then write source code until the compiled output byte-matches - work that once took years by hand (Paper Mario) and now parallelizes beautifully across agents because the test case is unambiguous. Results include Halo in the browser and Call of Duty maps as Tony Hawk levels.",
+  "His own attempt - directing Claude at Age of Mythology: Gold Edition, his childhood favorite - stalled around 60% after a month, progress slowing as the target proved too big for the timescale and token budget. He's hoping the next model generation breaks through on reverse-compilation efficiency."
+ ],
+ "highlights": [
+  "Byte-matching decompilation is near-ideal agent work: clear test, parallel subtasks",
+  "Age of Mythology attempt stalled at ~60% after a month",
+  "Manual decomps (Paper Mario) took years; AI compresses but doesn't finish the hardest targets",
+  "Community output: Halo in the browser, CoD maps in Tony Hawk"
+ ]
+}

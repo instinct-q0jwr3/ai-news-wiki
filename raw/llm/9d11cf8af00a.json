@@ -1,0 +1,16 @@
+{
+ "id": "9d11cf8af00a",
+ "authored_at": "2026-10-28T20:50:50Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Ars Technica found Google's AI Mode evasive when asked directly who won the 2020 US presidential election, deflecting to the FEC's official report instead of stating Joe Biden's win - and giving similarly indirect answers for 2024 and 2012, while answering correctly and directly for every other election back to 2000.",
+  "Other Ars staffers reproduced direct answers for some elections but not others, with no consistent pattern. The behavior mirrors the 'weasely answers' of politicians who won't directly acknowledge the 2020 result, and follows social-media complaints about the same caginess."
+ ],
+ "highlights": [
+  "Google AI Mode deflects 'who won 2020' to the FEC report",
+  "Also evasive on 2024 and 2012; direct on 2000-2016 others",
+  "Inconsistent across staff tests - no clean pattern",
+  "Echoes politician evasion on acknowledging Biden's win"
+ ]
+}

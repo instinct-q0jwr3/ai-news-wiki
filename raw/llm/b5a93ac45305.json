@@ -1,0 +1,16 @@
+{
+ "id": "b5a93ac45305",
+ "authored_at": "2026-10-28T20:50:50Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reuters reports Microsoft's quarterly results: capex of $45.2 billion, up from $34.9 billion a year earlier but below the company's own $50 billion projection, and free cash flow of $18.6 billion against an $8.54 billion analyst estimate. Quarterly cloud revenue beat expectations, signaling the hefty AI investments are landing."
+ ],
+ "highlights": [
+  "Q1 capex $45.2B, up from $34.9B, below the $50B projection",
+  "Free cash flow $18.6B vs $8.54B estimated",
+  "Cloud revenue beat; AI spending showing returns",
+  "Basis: Techmeme summary; Reuters returned HTTP 401"
+ ],
+ "basis": "The fetch failed with HTTP 401 (Reuters), so this entry is based on the Techmeme feed summary and headline."
+}

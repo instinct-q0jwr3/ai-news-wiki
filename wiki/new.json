@@ -1,203 +1,83 @@
 {
- "generated_at": "2026-10-28T14:44:28+00:00",
+ "generated_at": "2026-10-28T20:45:08+00:00",
  "stories": [
   {
-   "id": "c32e79e24498",
-   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-   "source": "Hacker News",
-   "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
-  },
-  {
-   "id": "d692e119b7de",
-   "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-   "source": "Hacker News",
-   "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316"
-  },
-  {
-   "id": "9e9a8d0ee5ba",
-   "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-   "source": "Hacker News",
-   "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones"
-  },
-  {
-   "id": "f57acc4dace8",
-   "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude"
-  },
-  {
-   "id": "ccd49fa95c80",
-   "title": "Pluralistic: Agents vs ecommerce (28 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/28/principle-agent-problem/"
-  },
-  {
-   "id": "0dfac29e18d2",
-   "title": "Chinese AI chipmaker Moore Threads reports Q3 revenue up 1,774% YoY to ~$240M and a ~$7.4M net profit; Moore is building a domestic 100K-GPU cluster with JD.com",
+   "id": "59212b5c789f",
+   "title": "Google unveils Gemini 4 Carbon, its \"strongest model with state-of-the-art cybersecurity\" capabilities, ranked #1 on Artificial Analysis' new Intelligence Index",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
   },
   {
-   "id": "10511b374620",
-   "title": "Where are the world's AI chips?",
-   "source": "TLDR AI",
-   "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer"
+   "id": "3a6a6d8ef1c4",
+   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "source": "Hacker News",
+   "url": "https://surgehq.ai/blog/dayjob-tax"
   },
   {
-   "id": "2630f109bdc2",
-   "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+   "id": "5010d60ef1ff",
+   "title": "Big Tech's thirst for water is sparking a global resistance",
+   "source": "Hacker News",
+   "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/"
+  },
+  {
+   "id": "ede029c964cf",
+   "title": "Particle-1",
+   "source": "Hacker News",
+   "url": "https://particle.ai/blog/introducing-particle-1"
+  },
+  {
+   "id": "b7d4ed0edd36",
+   "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+   "source": "Hacker News",
+   "url": "https://bou.ke/blog/zoetermeer/"
+  },
+  {
+   "id": "9d11cf8af00a",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
+  },
+  {
+   "id": "d36a5c6ca671",
+   "title": "NY Gov. Kathy Hochul signs bills banning AI chatbots from using \"unsafe features\" for minors and requiring security features in internet-connected baby monitors",
+   "source": "Techmeme",
+   "url": "https://news.bgov.com/bloomberg-government-news/hochul-signs-bills-on-ai-risks-to-children-in-pre-election-push"
+  },
+  {
+   "id": "64dc0c2e5fb4",
+   "title": "Why Agents Love Supabase",
    "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/"
+   "url": "https://latent.space/p/supabase/"
   },
   {
-   "id": "1805d8f19215",
-   "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
-   "source": "TLDR AI",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud"
+   "id": "fd9449f7b212",
+   "title": "Pair-coding Lobste.rs feat",
+   "source": "Lobsters",
+   "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat"
   },
   {
-   "id": "8418f5189d10",
-   "title": "Proactive Video Agents",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2610.34662"
-  },
-  {
-   "id": "44ad84220c6e",
-   "title": "Genie 4",
-   "source": "Hacker News",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
-  },
-  {
-   "id": "fbba155f6abf",
-   "title": "Google unveils Google Multi-Party Compute (MPC), a digital-asset custody and security service in private preview, set for commercial availability in early 2027",
-   "source": "Techmeme",
-   "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow"
-  },
-  {
-   "id": "02f6aaa69240",
-   "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-   "source": "TLDR AI",
-   "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
-  },
-  {
-   "id": "a9a784b355d0",
-   "title": "Compare Commits to Your Code, Resolve Conflicts in Bulk, Keep Coding",
-   "source": "TLDR AI",
-   "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-october-update-compare-commits-to-your-code-resolve-conflicts-in-bulk-keep-coding/"
-  },
-  {
-   "id": "76577e6ed295",
-   "title": "Formalizing the Enormous Theorem",
-   "source": "TLDR AI",
-   "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/"
-  },
-  {
-   "id": "6a8ce15755da",
-   "title": "Glasser now lets AI agents buy premium data per API call",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/glasser-now-lets-ai-agents-buy-premium-data-per-api-call/"
-  },
-  {
-   "id": "b5694f6c0353",
-   "title": "Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 (@artificialanlys)",
-   "source": "Techmeme",
-   "url": "https://x.com/artificialanlys"
-  },
-  {
-   "id": "528adf56a7c5",
-   "title": "A US federal grand jury indicts OpenAI engineer and Saudi national Abdulrahman \"Abdul\" Alfozan on a felony charge of interception of oral communications",
-   "source": "Techmeme",
-   "url": "https://www.sfchronicle.com/bayarea/article/open-ai-engineer-indicted-for-bugging-headquarters-22497813.php"
-  },
-  {
-   "id": "414b144c661f",
-   "title": "FrontierCode 2.0",
-   "source": "TLDR AI",
-   "url": "https://cognition.com/blog/frontier-code-2.0"
-  },
-  {
-   "id": "fd46bd865267",
-   "title": "Liquid AI Launches LFM3 Models for On Device AI",
-   "source": "TLDR AI",
-   "url": "https://www.liquid.ai/blog/lfm3"
-  },
-  {
-   "id": "2166a8e81b35",
-   "title": "Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?st=4eEQYV&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "93ca7460c369",
-   "title": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/foundry-raises-100-million-autonomous-factories"
-  },
-  {
-   "id": "3283e1f22aab",
-   "title": "Anthropic's seven cofounders remain extremely influential and personally tight; Daniela Amodei, who runs operations, is seen as a good balance to Dario",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952"
-  },
-  {
-   "id": "db22b873cfa4",
-   "title": "Meta's Interactive Simulator for Wearable AI",
-   "source": "TLDR AI",
-   "url": "https://github.com/facebookresearch/InteractiveWorld"
-  },
-  {
-   "id": "6374573b77cb",
-   "title": "Anthropic details early drug development work with six partners and says it has acquired Mithril, a one-person company working on muscular dystrophy",
-   "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/early-progress-drug-development"
-  },
-  {
-   "id": "2d0f9ba715b0",
-   "title": "Getting good at AI takes time and practice",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/"
-  },
-  {
-   "id": "b7682e5ae7ef",
-   "title": "Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a \"daily journal disguised as a pet\"",
-   "source": "Techmeme",
-   "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
-  },
-  {
-   "id": "e2ee068c2380",
-   "title": "Anthropic's Claude Refutes the Exponential Time Hypothesis, With a Lean Proof",
-   "source": "TLDR AI",
-   "url": "https://github.com/anthropics/formal-math/tree/main/eth"
-  },
-  {
-   "id": "86cac9e9e464",
-   "title": "Samsung unveils the $229 Galaxy Buds On, its first open-fit, C-shaped cuff earbuds to compete with Sony and Bose, designed with AI's help, shipping November 6",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229"
-  },
-  {
-   "id": "b4b750ab9cd4",
-   "title": "Anthropic Versus Anthropic",
-   "source": "TLDR AI",
-   "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic/"
-  },
-  {
-   "id": "77d9aa3e6156",
-   "title": "Anthropic acquired a one-person biotech",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2115185849424048564.html"
-  },
-  {
-   "id": "4bcd6bb8e015",
-   "title": "Quoting Terk Terkowitz",
+   "id": "387e1c1b31ef",
+   "title": "The October inflection point for vibe game development",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/"
+   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
   },
   {
-   "id": "e6c8dab8f914",
-   "title": "AI and cloud cybersecurity startup Upwind Security raised $400M led by Bessemer at a $3.8B valuation, up from $1.5B in January, for $830M in total funding",
+   "id": "b5a93ac45305",
+   "title": "Microsoft reports Q1 capex of $45.2B, up from $34.9B a year earlier and below its own $50B projection, and free cash flow of $18.6B, vs. $8.54B est. by analysts",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/"
+   "url": "https://www.reuters.com/business/retail-consumer/microsoft-beats-quarterly-cloud-revenue-estimates-2026-10-28/"
+  },
+  {
+   "id": "09046166f585",
+   "title": "GitHub Octoverse 2026",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
+  },
+  {
+   "id": "eaa79fb649be",
+   "title": "Artificial Analysis Intelligence Index v5",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
   }
  ]
 }
