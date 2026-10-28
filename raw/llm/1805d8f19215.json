@@ -1,0 +1,16 @@
+{
+ "id": "1805d8f19215",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google DeepMind's Gemini Robotics Embodied Reasoning 2 is now in public preview on Google Cloud, bringing the specialized high-level 'robot brain' model to enterprise production. ER 2 combines spatio-temporal video understanding, long-horizon planning and safety guardrails across embodiments from stationary arms to humanoids.",
+  "Developers declare low-level control interfaces - Vision-Language-Action models or navigation APIs - as tools, and the model orchestrates them through multi-minute tasks involving hundreds of decisions, self-correcting and generalizing to novel situations, with natural conversation and multi-robot collaboration. Google Cloud adds security, multi-agent orchestration and lifecycle management."
+ ],
+ "highlights": [
+  "Gemini Robotics ER 2 in public preview on Google Cloud",
+  "High-level reasoning layer for any robot embodiment",
+  "Orchestrates VLA models and hardware APIs as tools",
+  "Multi-minute, hundreds-of-decisions tasks with self-correction"
+ ]
+}

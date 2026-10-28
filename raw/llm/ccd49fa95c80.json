@@ -1,0 +1,16 @@
+{
+ "id": "ccd49fa95c80",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Cory Doctorow applies his 2001 'Metacrap' critique of the Semantic Web to agentic commerce: any plan that begins by requiring everyone else to set aside their own needs in favor of your priorities is doomed. The original agentic vision - one chatbot venturing onto the unstructured web to comparison-shop and book for you - foundered on complexity.",
+  "The fix became 'swarms' of specialized bots for searching, evaluating and transacting, which buys accuracy at the price of compute and compounding reliability failures. His deeper point: ecommerce opacity is a feature, not a bug, and merchants have no reason to make themselves legible to your agents."
+ ],
+ "highlights": [
+  "Doctorow: agentic commerce repeats the Semantic Web's 'Metacrap' mistake",
+  "Single chatbot shopping gave way to specialized bot 'swarms'",
+  "Swarms trade compute cost and reliability for accuracy",
+  "Ecommerce opacity is deliberate; merchants won't cooperate with your agent"
+ ]
+}

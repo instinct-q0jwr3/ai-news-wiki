@@ -1,0 +1,16 @@
+{
+ "id": "2630f109bdc2",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Latent Space's AINews gives the headline to Felix Rieseberg's 'Hunger beats tenure' post on Anthropic ending coding interviews, and extends his advice for junior engineers: pick business impact over backlog, choose a radical idea, build it over a weekend instead of lobbying through PRDs, focus on one good idea per prototype, and lean into the fresh perspective that newcomers have on user-facing work.",
+  "The same issue notes major version bumps from Google Genie, Artificial Analysis and FrontierCode, plus 'impressive math verification' news, as mostly incremental annual improvements."
+ ],
+ "highlights": [
+  "AINews extends Rieseberg: business impact over backlog, prototypes over PRDs",
+  "One good idea per prototype; fresh eyes as an asset",
+  "Roundup: Genie, Artificial Analysis and FrontierCode version bumps",
+  "Frames Anthropic's interview change as a path forward for juniors"
+ ]
+}

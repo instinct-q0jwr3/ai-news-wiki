@@ -1,0 +1,16 @@
+{
+ "id": "0dfac29e18d2",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Chinese AI chipmaker Moore Threads posted Q3 revenue up 1,774% year over year to about $240 million, with a net profit around $7.4 million. The company is building a domestic 100,000-GPU cluster with JD.com."
+ ],
+ "highlights": [
+  "Moore Threads Q3 revenue +1,774% YoY to ~$240M",
+  "~$7.4M net profit - rare profitability among Chinese AI chip startups",
+  "Building a 100K-GPU domestic cluster with JD.com",
+  "Basis: Techmeme summary; Bloomberg paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

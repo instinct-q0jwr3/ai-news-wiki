@@ -1,0 +1,16 @@
+{
+ "id": "86cac9e9e464",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Samsung unveiled the $229 Galaxy Buds On, its first open-fit, C-shaped cuff earbuds, competing with Sony and Bose in a growing category. The earbuds were designed with AI's help and ship November 6."
+ ],
+ "highlights": [
+  "Galaxy Buds On: $229 open-fit cuff earbuds",
+  "Samsung's first entry in the cuff category vs Sony and Bose",
+  "Designed with AI assistance; ships November 6",
+  "Basis: Techmeme summary; Bloomberg paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

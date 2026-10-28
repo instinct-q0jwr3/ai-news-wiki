@@ -1,0 +1,16 @@
+{
+ "id": "fd46bd865267",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Coverage of Liquid AI's LFM3 launch for on-device AI: a natively multimodal family (text, vision, audio) in a compact footprint with open weights, backed by AMD for Ryzen AI processors and Qualcomm for Snapdragon, with enablement on Ambarella silicon underway.",
+  "The headline benchmark: LFM3-1.7B beat Qwen3.5-2B on 65 everyday agent tasks in real macOS environments, 64% to 48% task success, using 58% fewer tokens."
+ ],
+ "highlights": [
+  "Second-source coverage of the LFM3 on-device launch",
+  "Multimodal open weights for AI PCs and edge devices",
+  "1.7B model beats Qwen3.5-2B 64/48 on real Mac agent tasks",
+  "AMD, Qualcomm and Ambarella platform support"
+ ]
+}

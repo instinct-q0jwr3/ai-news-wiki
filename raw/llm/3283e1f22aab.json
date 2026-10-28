@@ -1,0 +1,16 @@
+{
+ "id": "3283e1f22aab",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times profiles Anthropic's seven cofounders, who remain extremely influential and personally tight as they prepare to gain collective control of one of the world's biggest companies through the IPO. Daniela Amodei, who runs operations, is seen internally as a good balance to Dario."
+ ],
+ "highlights": [
+  "FT profiles Anthropic's seven billionaire cofounders pre-IPO",
+  "Group remains personally tight and extremely influential",
+  "Daniela Amodei seen as the operational balance to Dario",
+  "Basis: Techmeme summary; FT paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (FT paywall), so this entry is based on the Techmeme feed summary and headline."
+}

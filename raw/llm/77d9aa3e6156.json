@@ -1,0 +1,15 @@
+{
+ "id": "77d9aa3e6156",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Coverage of Anthropic's acquisition of Mithril, the one-person biotech working on muscular dystrophy, announced alongside its six drug development partnerships. The item circulated as a social-media thread; the captured page holds no readable content."
+ ],
+ "highlights": [
+  "Anthropic's Mithril acquisition drew social-media attention",
+  "One-person muscular dystrophy company, per Anthropic's announcement",
+  "Basis: headline; cache is an unroll-service shell page"
+ ],
+ "basis": "The ok-status cache holds a Twitter-unroll service page rather than article text, so this entry is based on the headline and prior coverage."
+}

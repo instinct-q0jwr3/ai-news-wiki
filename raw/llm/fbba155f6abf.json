@@ -1,0 +1,16 @@
+{
+ "id": "fbba155f6abf",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "CoinDesk reports Google unveiled Google Multi-Party Compute (MPC), a digital-asset custody and security service in private preview, to be showcased at its inaugural digital assets symposium in New York. Several design partners and major financial institutions are testing it, and Alphabet already uses it to secure its own digital assets on Ethereum and Solana.",
+  "MPC splits private keys into fragments distributed across separate systems to remove single points of failure. The new service packages MPC-based signing, transaction policies and key recovery as a purpose-built product rather than assembly from KMS and Cloud HSM parts. Commercial availability is planned for early 2027; pricing undisclosed."
+ ],
+ "highlights": [
+  "Google Multi-Party Compute: digital-asset custody in private preview",
+  "Alphabet already secures its own Ethereum and Solana assets with it",
+  "Major financial institutions testing as design partners",
+  "Commercial availability targeted for early 2027"
+ ]
+}

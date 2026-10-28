@@ -1,0 +1,16 @@
+{
+ "id": "10511b374620",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Epoch AI launched the AI Chip Imports explorer, estimating how much AI compute has arrived in each country quarter by quarter since 2022, built from customs records across 16 major destinations. Since nearly every advanced AI chip passes through Taiwanese advanced packaging and crosses at least one border, trade data can track what companies won't disclose.",
+  "The explorer joins Epoch's chip supply chain project - components, sales, owners - and its AI data centers hub, aiming for the most complete public picture of where AI compute exists and who controls it, as export controls and data center hosting become instruments of economic and military power."
+ ],
+ "highlights": [
+  "AI Chip Imports explorer: quarterly country-level compute estimates since 2022",
+  "Built from customs records of 16 major destinations",
+  "Nearly all advanced chips cross borders via Taiwanese packaging",
+  "Complements Epoch's supply-chain and data-center datasets"
+ ]
+}

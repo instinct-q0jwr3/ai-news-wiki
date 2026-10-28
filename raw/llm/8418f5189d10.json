@@ -1,0 +1,16 @@
+{
+ "id": "8418f5189d10",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An arXiv paper introduces StreamVibe-Bench, a benchmark for proactive video agents: 4.1K evaluation and 85K training samples spanning explicit, implicit and dynamic user intents - like inferring 'where should I click next?' without being asked.",
+  "The authors' StreamVibe-VL streaming model plus StreamVibe-Harness (hierarchical memory keeping user intents as persistent states) improves response timing and answer quality by 10.7% over baselines and gains 12.3% on proactive interaction, while existing proactive models still struggle to understand implicit intent and decide when to speak."
+ ],
+ "highlights": [
+  "StreamVibe-Bench: 4.1K eval samples for explicit, implicit and dynamic intents",
+  "StreamVibe-VL infers intent from continuous observation",
+  "Harness keeps intents as persistent states via hierarchical memory",
+  "+10.7% timing/quality, +12.3% proactive interaction vs baselines"
+ ]
+}

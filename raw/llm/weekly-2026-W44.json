@@ -559,6 +559,98 @@
     "f209dbd1df28"
    ],
    "concepts": []
+  },
+  {
+   "title": "The games industry meets its recompiler",
+   "intro": "AI decompilation is flooding the web with browser ports of commercial games, Epic is swinging the DMCA hammer while being told it's karma, and Valve's advice to indies is simply to make the genuine version the best version.",
+   "stories": [
+    "d692e119b7de",
+    "9e9a8d0ee5ba"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Dario answers the critics",
+   "intro": "Dario Amodei publicly replied to Nathan Calvin's Anthropic investigation - conceding some mistakes, defending the 'race to the top' - as the FT profiled the seven cofounders who will collectively control the company.",
+   "stories": [
+    "b4b750ab9cd4",
+    "3283e1f22aab"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proof machines, continued",
+   "intro": "The ETH-refutation paper and its Lean formalization are now public, Axiom Math says agent swarms wrote 43 million lines of Lean to machine-check the entire Classification of Finite Simple Groups, and FrontierCode 2.0 finds even the best coding model at 45%.",
+   "stories": [
+    "e2ee068c2380",
+    "76577e6ed295",
+    "414b144c661f",
+    "b5694f6c0353"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Robots and bodies",
+   "intro": "Gemini Robotics ER 2 reached public preview on Google Cloud, Meta open-sourced a first-person simulator for wearable assistants, and Foundry raised $100 million to build factories run by physical AI.",
+   "stories": [
+    "1805d8f19215",
+    "db22b873cfa4",
+    "93ca7460c369"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Plumbing for the agent economy",
+   "intro": "Glasser lets agents buy premium data per API call, Google packaged multi-party-compute custody for digital assets, and Upwind Security raised $400 million to secure AI and cloud workloads.",
+   "stories": [
+    "6a8ce15755da",
+    "fbba155f6abf",
+    "e6c8dab8f914"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Models that keep learning",
+   "intro": "Google Research's 'sleep' framework consolidates short-term context into long-term weights without catastrophic forgetting, and StreamVibe teaches video agents to act on implicit user intent.",
+   "stories": [
+    "02f6aaa69240",
+    "8418f5189d10"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Mapping the chips",
+   "intro": "Epoch's new explorer tracks quarterly AI chip imports by country from customs records, while Moore Threads posted 1,774% revenue growth and a rare profit.",
+   "stories": [
+    "10511b374620",
+    "0dfac29e18d2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The discourse",
+   "intro": "Doctorow says agentic commerce is the Semantic Web all over again, AINews charts the junior engineer's path after coding interviews, Amazon tells engineers that 'no benefit from AI' can be a finding rather than a failing, and an essay insists AI skill is real work.",
+   "stories": [
+    "ccd49fa95c80",
+    "2630f109bdc2",
+    "4bcd6bb8e015",
+    "2d0f9ba715b0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odds and ends",
+   "intro": "Meta soft-launched an AI pet journal game in the Philippines, Samsung's AI-assisted cuff earbuds ship next week, Visual Studio got bulk conflict resolution, and an OpenAI engineer was indicted for allegedly bugging an executive conference room.",
+   "stories": [
+    "b7682e5ae7ef",
+    "86cac9e9e464",
+    "a9a784b355d0",
+    "528adf56a7c5",
+    "fd46bd865267",
+    "77d9aa3e6156",
+    "c32e79e24498"
+   ],
+   "concepts": []
   }
  ]
 }

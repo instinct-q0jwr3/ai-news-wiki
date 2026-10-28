@@ -1,0 +1,16 @@
+{
+ "id": "6a8ce15755da",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Glasser lets AI agents buy premium data per API call instead of per subscription: one key opens 2,000+ paid endpoints from 80+ providers - company records, SEO metrics, social data, financial filings - that normally sit behind monthly plans like Ahrefs Lite ($129/mo) or Semrush ($139/mo).",
+  "Setup is a one-line prompt into Claude Code, Codex or Cursor. Listed prices: Ahrefs keyword data at $0.055 per call, Semrush metrics at $0.0011, Apollo company search at $0.026 - subscriptions only win above roughly 2,300-2,500 calls a month. Agents must name the price and wait for approval before bulk or repeated paid calls, and prefer a user's existing provider key when one exists."
+ ],
+ "highlights": [
+  "Pay-per-call access to 2,000+ premium data endpoints from 80+ providers",
+  "One-prompt setup in Claude Code, Codex or Cursor",
+  "Beats subscriptions below ~2,300-2,500 calls/month",
+  "Agents must quote price and get approval before bulk paid calls"
+ ]
+}

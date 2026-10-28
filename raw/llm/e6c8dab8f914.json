@@ -1,0 +1,16 @@
+{
+ "id": "e6c8dab8f914",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Upwind Security, a San Francisco startup offering cybersecurity for AI and cloud applications, raised $400 million led by Bessemer at a $3.8 billion valuation - up from $1.5 billion in January - bringing total funding to $830 million."
+ ],
+ "highlights": [
+  "Upwind Security: $400M round led by Bessemer",
+  "$3.8B valuation, up from $1.5B in January",
+  "$830M total funding for AI and cloud security",
+  "Basis: Techmeme summary; Bloomberg paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

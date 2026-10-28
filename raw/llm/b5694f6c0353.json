@@ -1,0 +1,15 @@
+{
+ "id": "b5694f6c0353",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Artificial Analysis announced Intelligence Index v5 on social media: two new benchmarks and three upgrades, with the majority of the index built on private datasets for the first time. Per the headline, Claude Opus 5.5 (max) leads the index at 58."
+ ],
+ "highlights": [
+  "Intelligence Index v5 announced with private-dataset majority",
+  "Claude Opus 5.5 (max) reported leading at 58",
+  "Basis: headline plus launch text; cache is an old pinned tweet"
+ ],
+ "basis": "The ok-status cache holds an unrelated 2024 pinned tweet, so this entry is based on the headline and the launch announcement."
+}

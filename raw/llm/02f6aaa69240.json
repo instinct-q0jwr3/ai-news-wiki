@@ -1,0 +1,16 @@
+{
+ "id": "02f6aaa69240",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google Research's Ali Behrouz and Vahab Mirrokni introduce a 'sleep' framework for continual learning: LLMs get a periodic lifecycle alternating active interaction with offline memory consolidation, converting fragile short-term context into stable long-term parameters - the model's version of how the brain stabilizes memory during rest.",
+  "The goal is to escape the static knowledge cutoff without catastrophic forgetting. The authors report that the alternating cycle lets models continuously acquire new facts, retain long-context knowledge up to 10M tokens, and improve complex reasoning."
+ ],
+ "highlights": [
+  "'Sleep' phase consolidates short-term context into long-term weights",
+  "Targets static knowledge cutoffs without catastrophic forgetting",
+  "Retains long-context knowledge up to 10M tokens in tests",
+  "From Google Research (Behrouz and Mirrokni)"
+ ]
+}

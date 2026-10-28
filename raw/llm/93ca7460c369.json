@@ -1,0 +1,16 @@
+{
+ "id": "93ca7460c369",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports Foundry, a manufacturing-as-a-service startup that builds factories run by robots powered by physical AI models, raised a $100 million Series A led by Marlinspike. The pitch extends the agentic playbook - rethink processes from scratch - to physical manufacturing."
+ ],
+ "highlights": [
+  "Foundry: robot-built factories as a service",
+  "$100M Series A led by Marlinspike",
+  "Applies the agents-reshaping-processes thesis to physical manufacturing",
+  "Basis: Techmeme summary; The Information paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (The Information paywall), so this entry is based on the Techmeme feed summary and headline."
+}

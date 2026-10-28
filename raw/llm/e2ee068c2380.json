@@ -1,0 +1,16 @@
+{
+ "id": "e2ee068c2380",
+ "authored_at": "2026-10-28T14:52:24Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The repository for the claimed ETH refutation is now public: a deterministic algorithm solving 3-SAT in 2^{o(n)} time - and the harder #3-SAT counting problem in 2^{O(n log log n / sqrt(log n))} - with the paper and its Lean 4 formalization written by AI models. The authors stress the result is purely asymptotic and says nothing about solving formulas in practice.",
+  "The repo is labeled a research artifact, not maintained. MainResults.lean states what is proved in one short commented file with no proofs, so readers can check the statement matches the paper; ProofIndex.lean maps each numbered paper statement to its Lean counterpart."
+ ],
+ "highlights": [
+  "ETH-refutation paper and Lean 4 formalization now public",
+  "Also solves #3-SAT in 2^{O(n log log n / sqrt(log n))}",
+  "Authors: purely asymptotic, no practical SAT-solving impact",
+  "Repo is an unmaintained research artifact with a reader-checkable statement file"
+ ]
+}
