@@ -1,0 +1,18 @@
+{
+ "id": "60a99b343faa",
+ "authored_at": "2026-10-29T08:56:16Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A gist by Flamerix AI documents an overhead Claude Code users cannot switch off: roughly every 30 seconds, for every background agent, Claude Code ships that agent's entire transcript to the agent's own model (usually Opus) and asks it to describe its most recent action in three to five words. The answer only repaints the status line in the agents panel; it never reaches the conversation. There is no setting to disable it, and it has been on by default since version 2.1.232 in August 2026. The author caught it in Claude Code's OpenTelemetry export, where grouping API requests by query_source showed the agent_summary source costing more than the main conversation itself; a GitHub issue collects four independent measurements of 18 to 26 percent. On a subscription the cost is rate-limit headroom rather than money.\n\nThe fix is an 80-line Bun preload, no-agent-summary.js, that wraps setTimeout and setInterval and refuses to arm any timer whose callback source contains the summarizer's anchor log line, returning an inert handle set to 2^31-1 milliseconds - the largest delay Node and Bun will not round down to 1ms. Because the module ships as precompiled bytecode, editing the binary's JS text does nothing, but Function.prototype.toString still leaks a callback's source, which is how the timer is recognized. Installation is an environment variable and a daemon restart; headless runs, cron and CI need it too, and a pass-through mode exists as an A/B control.",
+ "highlights": [
+  "Claude Code pings each background agent's model with its full transcript every ~30 seconds for a 3-5 word status line",
+  "On by default since 2.1.232 (August 2026); no setting turns it off",
+  "OpenTelemetry export shows agent_summary requests costing more than the main conversation",
+  "Four independent measurements put the overhead at 18-26%",
+  "On subscriptions the loss is rate-limit headroom, not invoice line items",
+  "Fix: an ~80-line Bun preload that disarms only the summarizer's timers",
+  "Bytecode resists editing, but Function.prototype.toString still exposes the callback source",
+  "The inert timer uses 2^31-1 ms - a larger value would fire at once",
+  "Daemon restart required; headless, cron and CI runs need the env var too"
+ ]
+}

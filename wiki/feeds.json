@@ -1,14 +1,14 @@
 [
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 901,
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 903,
   "last": "2026-10-29"
  },
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 896,
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 902,
   "last": "2026-10-29"
  },
  {
@@ -30,15 +30,15 @@
   "last": "2026-10-28"
  },
  {
+  "name": "Latent.Space",
+  "url": "https://www.latent.space/feed",
+  "stories": 49,
+  "last": "2026-10-29"
+ },
+ {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
   "stories": 49,
-  "last": "2026-10-28"
- },
- {
-  "name": "Latent.Space",
-  "url": "https://www.latent.space/feed",
-  "stories": 48,
   "last": "2026-10-28"
  },
  {
@@ -86,8 +86,8 @@
  {
   "name": "seangoedecke",
   "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 14,
-  "last": "2026-10-28"
+  "stories": 15,
+  "last": "2026-10-29"
  },
  {
   "name": "Armin Ronacher",

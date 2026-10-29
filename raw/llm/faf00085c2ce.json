@@ -1,0 +1,16 @@
+{
+ "id": "faf00085c2ce",
+ "authored_at": "2026-10-29T08:56:16Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg profiles Tencent Cloud CEO Dowson Tong, who is steering the company's AI effort toward business customers and betting on WorkBuddy, an assistant in the style of Claude Cowork. The backdrop: founder Pony Ma publicly called Tencent's AI endeavor a leaky ship this summer."
+ ],
+ "highlights": [
+  "Tencent Cloud CEO Dowson Tong shifts the AI focus toward businesses",
+  "WorkBuddy assistant is Tencent's answer to Claude Cowork-style enterprise agents",
+  "Pony Ma called Tencent's AI effort a leaky ship this summer",
+  "Basis: Techmeme summary; Bloomberg bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

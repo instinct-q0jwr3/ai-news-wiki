@@ -1,0 +1,16 @@
+{
+ "id": "c3d0580a079f",
+ "authored_at": "2026-10-29T08:56:16Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Axios Pro reports Fragment has exited stealth with $56 million from 8VC and others. The startup, led by CEO Pranav Mulgund, applies AI to resolve purchasing and payment discrepancies across manufacturing datasets."
+ ],
+ "highlights": [
+  "Fragment exits stealth with $56M from 8VC and others",
+  "CEO Pranav Mulgund disclosed the raise to Axios Pro",
+  "Applies AI to reconciling purchasing and payment issues across manufacturing datasets",
+  "Basis: Techmeme summary; Axios bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Axios bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

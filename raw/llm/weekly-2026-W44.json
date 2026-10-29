@@ -717,7 +717,8 @@
    "title": "Carbon goes to market",
    "intro": "VentureBeat surfaced Gemini 4 Carbon's commercial shape: Fairwind defenders first, $2/$10 introductory token prices rising to $4/$20, and a benchmark table that leaves one lead each for OpenAI and Anthropic.",
    "stories": [
-    "a76673c394b5"
+    "a76673c394b5",
+    "88f24d01ff59"
    ],
    "concepts": []
   },
@@ -726,7 +727,9 @@
    "intro": "Microsoft's filing revealed $10 billion in quarterly revenue from OpenAI - 11% of its total, a $40 billion annual pace - while ServiceNow's guide-down knocked 15% off its shares despite 21% growth.",
    "stories": [
     "99930078308b",
-    "8bc062d871cc"
+    "8bc062d871cc",
+    "6f52bb561c4d",
+    "0ed6bf01293d"
    ],
    "concepts": []
   },
@@ -736,7 +739,9 @@
    "stories": [
     "903392e12656",
     "ff35f051b8e7",
-    "ca14ee531763"
+    "ca14ee531763",
+    "e78daff14139",
+    "140ffb6b21ee"
    ],
    "concepts": []
   },
@@ -765,6 +770,32 @@
    "stories": [
     "93bdd7d8e97b",
     "0375d709192c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Deals and strategy",
+   "intro": "Fragment surfaces from stealth with procurement AI and $56 million, while Tencent's cloud chief retools the company's AI push around business customers.",
+   "stories": [
+    "c3d0580a079f",
+    "faf00085c2ce"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labor market's early returns",
+   "intro": "US computer science enrollment posted a double-digit fall this autumn as AI eats the entry-level coding rung.",
+   "stories": [
+    "0ea3237133ae"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Working with the machines",
+   "intro": "An engineer's field guide to delegating to agents, and a community patch for the background chatter Claude Code never told you about.",
+   "stories": [
+    "3a53d5396141",
+    "60a99b343faa"
    ],
    "concepts": []
   }

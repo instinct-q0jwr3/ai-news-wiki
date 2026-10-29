@@ -1,0 +1,17 @@
+{
+ "id": "0ed6bf01293d",
+ "authored_at": "2026-10-29T08:56:16Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The Register's read of Alphabet's Q3 is blunt: shares dived almost ten percent after the company admitted AI-powered search earns less than the old kind. Search revenue rose 12 percent year over year to $63.25 billion - down from 14.5 percent growth a year ago - and chief business officer Philipp Schindler attributed the slowdown to lower monetization in AI Mode, while arguing those queries are upper-funnel, high-value and mostly incremental. The admission lands against enormous spending: $51.4 billion of capex in the quarter, about two thirds of it on servers and networking, and net income down to $26.17 billion from $35 billion a year earlier on revenue of $125.8 billion.\n\nThe cloud business, at $24.75 billion, has the opposite problem: demand exceeds capacity, so Google is offloading some customer workloads to third parties and warning that will dent future margins. Thomas Kurian said over 100 companies use Google's TPUs and all TPU inventory is tied to committed contracts, with third-party TPU revenue expected in coming quarters. Pichai pointed to the Gemini app's billion users, promised agentic features for business customers first - citing security, safety and governance bars - and held the year's capex forecast at $195-205 billion with significantly more planned for 2027.",
+ "highlights": [
+  "Alphabet shares fell ~10% after it admitted AI Mode searches monetize worse than classic search",
+  "Search revenue +12% YoY to $63.25B, down from 14.5% growth a year ago",
+  "Schindler blames lower monetization in AI Mode but calls the queries upper-funnel and incremental",
+  "Q3 capex $51.4B, two thirds on servers and networking",
+  "Net income $26.17B vs $35B a year ago",
+  "Cloud at $24.75B is capacity-constrained; some workloads offloaded to third parties, denting margins",
+  "100+ companies on Google TPUs; all TPU inventory under committed contracts",
+  "Capex forecast held at $195-205B for the year, with significantly more in 2027"
+ ]
+}

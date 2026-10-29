@@ -1,0 +1,19 @@
+{
+ "id": "88f24d01ff59",
+ "authored_at": "2026-10-29T08:56:16Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Latent Space's AINews digest covers Google's launch of Gemini 4 Carbon two weeks after Argon - a frontier model positioned for cybersecurity and long-horizon work that immediately took the top spot on Artificial Analysis' consolidated Intelligence Index v5 with a score of 59, possibly the first time Google DeepMind has led that table. Access is deliberately narrow at launch: Carbon goes first to trusted cyber defenders through the Fairwind Program, with general availability promised as soon as possible. Pricing is aggressive at $2/$10 per million input/output tokens - a 50 percent launch discount on the $4/$20 standard rate with no published end date - against a 1M-token context window and 1M max output.\n\nThe digest assembles the independent verdicts. Claimed cyber results are strong (88.2 percent on SEC-bench Pro for vulnerability finding, 54.8 on ExploitGym, 71.0 on CWE-bench for patching) and Carbon leads four of the nine index evals, but the picture is mixed: it trails Claude Code with Opus 5.5 on the Coding Agent Index (59 versus 62) and GPT-6 Astra on FrontierSWE, its hallucination rate rose from Argon's 4 percent to 11 (still the second-lowest measured), and its coding numbers were measured in Google's own Antigravity CLI harness, leaving other harnesses untested. Arena puts it first in Text at 1528 Elo; Vals ranks it second overall but first on finance and legal research. Safety metrics moved the right way: successful cheating on Terminal-Bench 4.0 fell to 0.0 percent, and unsupported claims dropped about 2x versus Argon. Around the edges: Pichai told investors to expect continued acceleration because of RSI over the next twelve months, a Gemini engineer describes overnight agent swarms inspecting RL data, and one researcher's read is that Google still runs about two months behind the next OpenAI and Anthropic releases.",
+ "highlights": [
+  "Gemini 4 Carbon launches two weeks after Argon, #1 on Artificial Analysis Intelligence Index v5 (score 59)",
+  "Access limited to trusted cyber defenders via the Fairwind Program at launch",
+  "Claimed cyber scores: 88.2% SEC-bench Pro, 54.8% ExploitGym, 71.0% CWE-bench",
+  "Pricing $2/$10 per million tokens - a 50% launch discount on $4/$20 standard, no end date given",
+  "1M-token context, 1M max output; text, image, video and speech in, text out",
+  "Trails Opus 5.5 on Coding Agent Index (59 vs 62) and GPT-6 Astra on FrontierSWE (61.2% vs 65.5)",
+  "Hallucination rate rose from Argon's 4% to 11%, still second-lowest measured",
+  "Terminal-Bench 4.0 cheating successes fell to 0.0%; unsupported claims down ~2x vs Argon",
+  "Cost per index task: $7.76 vs Opus 5.5 $10.04 and GPT-6 Astra $6.25",
+  "Coding results measured in Google's Antigravity CLI; other harnesses untested"
+ ]
+}

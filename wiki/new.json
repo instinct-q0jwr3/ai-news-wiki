@@ -1,83 +1,65 @@
 {
- "generated_at": "2026-10-29T02:46:02+00:00",
+ "generated_at": "2026-10-29T08:47:47+00:00",
  "stories": [
   {
-   "id": "2b95df195dae",
-   "title": "The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
-  },
-  {
-   "id": "c0c153720a0f",
-   "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+   "id": "60a99b343faa",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
    "source": "Hacker News",
-   "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
   },
   {
-   "id": "5d00d2eca37e",
-   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-   "source": "Hacker News",
-   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
-  },
-  {
-   "id": "93bdd7d8e97b",
-   "title": "Scaling Hierarchical Networks",
-   "source": "Hacker News",
-   "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1"
-  },
-  {
-   "id": "88b4dd412c51",
-   "title": "AI execs may be too out of touch to build for the general public",
-   "source": "Hacker News",
-   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
-  },
-  {
-   "id": "0375d709192c",
-   "title": "Quoting Ted Sanders",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
-  },
-  {
-   "id": "892370e4ec69",
-   "title": "the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct",
+   "id": "140ffb6b21ee",
+   "title": "Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope"
   },
   {
-   "id": "8bc062d871cc",
-   "title": "ServiceNow reports Q3 subscription revenue up 21% YoY to $3.99B, forecasts Q4 current remaining performance obligations below est.; NOW drops 15%+ after hours",
+   "id": "0ed6bf01293d",
+   "title": "Google's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to \"lower monetization\" in AI Mode",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-28/servicenow-falls-after-quarterly-sales-outlook-revives-ai-fears"
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181"
   },
   {
-   "id": "a76673c394b5",
-   "title": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later",
-   "source": "Techmeme",
-   "url": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited"
+   "id": "88f24d01ff59",
+   "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-gemini-4-carbon/"
   },
   {
-   "id": "99930078308b",
-   "title": "Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI",
+   "id": "6f52bb561c4d",
+   "title": "Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
   },
   {
-   "id": "ca14ee531763",
-   "title": "Marvell is in advanced talks to buy data center optics maker Lumentum, whose market value is ~$83B; the deal could be announced as soon as next week",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal"
+   "id": "3a53d5396141",
+   "title": "You can just ask AI to do things",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things/"
   },
   {
-   "id": "ff35f051b8e7",
-   "title": "Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea's National Growth Fund contributed $280M",
+   "id": "c3d0580a079f",
+   "title": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase"
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/28/fragment-procurement-software-botha"
   },
   {
-   "id": "903392e12656",
-   "title": "AI coding startup Cognition weighs a new funding round before year's end after receiving offers valuing it at $70B-$80B, up from $48B in September",
+   "id": "e78daff14139",
+   "title": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10"
+   "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=jB9Xwc&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "0ea3237133ae",
+   "title": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/"
+  },
+  {
+   "id": "faf00085c2ce",
+   "title": "A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship"
   }
  ]
 }
