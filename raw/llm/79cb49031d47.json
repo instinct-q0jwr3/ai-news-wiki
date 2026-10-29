@@ -1,0 +1,16 @@
+{
+ "id": "79cb49031d47",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Axios reports Reddit plans to require users to log in to fully access the site, a direct response to AI scraping, and will test the change in select markets outside the US this quarter. Reddit called it a move to become a primarily logged-in experience - one of the most significant shifts in its 21-year history."
+ ],
+ "highlights": [
+  "Reddit to require login for full site access, citing AI scraping",
+  "Testing in select non-US markets this quarter",
+  "Framed as becoming a primarily logged-in experience after 21 years",
+  "Basis: Techmeme summary; Axios bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Axios bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

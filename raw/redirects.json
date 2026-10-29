@@ -160,6 +160,16 @@
   "title": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\""
  },
  {
+  "from": "1d1f1f5c1e77",
+  "to": "bb1da3d09d17",
+  "title": "We're releasing the weights of Mistral Large 4"
+ },
+ {
+  "from": "1eb19ea4c35b",
+  "to": "e78daff14139",
+  "title": "Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’"
+ },
+ {
   "from": "1f6a2bb98e67",
   "to": "43eb192d1f2d",
   "title": "A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY 2018 to $11.48B in FY 2026, as AI reshapes cybersecurity"
@@ -1133,6 +1143,11 @@
   "from": "f680c9823194",
   "to": "6b765090b570",
   "title": "Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster"
+ },
+ {
+  "from": "f7135c48ce23",
+  "to": "712418da817b",
+  "title": "an Accenture staffer's Claude agent ran on a DOD network for two months and appears to have sent info to a third-party site before it was identified"
  },
  {
   "from": "f86bae140f48",

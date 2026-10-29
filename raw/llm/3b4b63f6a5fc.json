@@ -1,0 +1,15 @@
+{
+ "id": "3b4b63f6a5fc",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "phpClaw is an AI agent runtime for PHP with the pieces every 'AI in PHP' tutorial makes you hand-roll: tools, memory, security guards and a ReAct loop (reason, act, observe, repeat) with zero framework dependencies in core. Setup is one environment variable and a builder call - the builder probes ANTHROPIC_API_KEY, then OpenAI, Groq, Gemini, Mistral, DeepSeek and Ollama in order and uses whatever it finds, with no YAML and no vendor lock-in.\n\nThe tool kit is production-flavored: a shell tool restricted to an allowlist of commands, HTTP and file-read tools, a read-only database query tool and a code search tool. The agent decides which tools to call and in what order until it has an answer or hits the iteration cap, and the same loop works whether the tools touch the shell, a database, HTTP APIs or the codebase. MCP support is included.",
+ "highlights": [
+  "phpClaw: agent runtime for PHP - tools, memory, guards and a ReAct loop, no framework deps",
+  "One env var, one builder, one send(); provider auto-detect across seven backends",
+  "ShellTool runs only allowlisted commands; database tool is read-only",
+  "Agent plans its own tool sequence until answer or iteration cap",
+  "MCP support included",
+  "Positions itself against hand-rolled HTTP-client-plus-prayer tutorials"
+ ]
+}

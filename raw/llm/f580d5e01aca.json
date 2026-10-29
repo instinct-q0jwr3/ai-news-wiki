@@ -1,0 +1,14 @@
+{
+ "id": "f580d5e01aca",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The author of pgledger - a ledger implementation in pure PostgreSQL - explains why he now thinks of it as a starter kit rather than a library. pgledger is not a package you install but a set of tables and SQL functions you drop into your own migrations and then inevitably adapt: foreign keys to your users table, your currency subset, your ID conventions. Historically that adaptation was manual copy-and-edit work.\n\nCoding agents change the economics completely. 'Add pgledger to my app' sends an agent off to fetch the code and adapt it to the codebase; follow-up prompts ('change the ID format to match our conventions') handle customization. The author admits he had kept pgledger deliberately small because he assumed near-verbatim reuse - with agents absorbing the adaptation cost, he is now comfortable with richer starter kits, and suggests library authors generally rethink distribution for a world where the consumer is often an agent.",
+ "highlights": [
+  "pgledger: a Postgres ledger distributed as tables and SQL functions, not a package",
+  "Starter-kit model: you are expected to adapt it - keys, currencies, ID formats",
+  "Agents make 'fetch and adapt to my codebase' a one-prompt operation",
+  "Author kept it minimal assuming verbatim reuse; agents remove that constraint",
+  "Suggests library distribution should be rethought for agent consumers"
+ ]
+}

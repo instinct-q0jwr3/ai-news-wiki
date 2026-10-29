@@ -365,7 +365,9 @@
     "049b3940313a",
     "b0496c18b7cc",
     "09c85f5661f4",
-    "6bc5b57fadb0"
+    "6bc5b57fadb0",
+    "b97740d9db82",
+    "3b4b63f6a5fc"
    ],
    "concepts": []
   },
@@ -737,7 +739,8 @@
     "8bc062d871cc",
     "6f52bb561c4d",
     "0ed6bf01293d",
-    "6c597d4579f0"
+    "6c597d4579f0",
+    "f2599e5ed5d1"
    ],
    "concepts": []
   },
@@ -750,7 +753,9 @@
     "ca14ee531763",
     "e78daff14139",
     "140ffb6b21ee",
-    "567debfae8ac"
+    "567debfae8ac",
+    "1eb19ea4c35b",
+    "e93a0a66bc04"
    ],
    "concepts": []
   },
@@ -760,7 +765,8 @@
    "stories": [
     "892370e4ec69",
     "2b95df195dae",
-    "8957799f01b3"
+    "8957799f01b3",
+    "86314733ca2e"
    ],
    "concepts": []
   },
@@ -770,7 +776,10 @@
    "stories": [
     "5d00d2eca37e",
     "c0c153720a0f",
-    "88b4dd412c51"
+    "88b4dd412c51",
+    "79cb49031d47",
+    "07a6add8e481",
+    "13e79962e401"
    ],
    "concepts": []
   },
@@ -781,7 +790,9 @@
     "93bdd7d8e97b",
     "0375d709192c",
     "9312e6955a7e",
-    "d54140d057af"
+    "d54140d057af",
+    "5988d47f3610",
+    "3e0b07cdf812"
    ],
    "concepts": []
   },
@@ -792,7 +803,8 @@
     "c3d0580a079f",
     "faf00085c2ce",
     "f493942ef3d8",
-    "d32541fb7fd6"
+    "d32541fb7fd6",
+    "cebfe79d1385"
    ],
    "concepts": []
   },
@@ -812,7 +824,10 @@
     "60a99b343faa",
     "6e162938bbfc",
     "0880734a0753",
-    "19eb6ac1c116"
+    "19eb6ac1c116",
+    "6791b6e80473",
+    "f580d5e01aca",
+    "3d53c5b30710"
    ],
    "concepts": []
   },
@@ -821,7 +836,8 @@
    "intro": "Mistral releases the weights of its trillion-parameter flagship after three more weeks of reinforcement learning, and the coding numbers genuinely move.",
    "stories": [
     "bb1da3d09d17",
-    "cb4f7e3ca654"
+    "cb4f7e3ca654",
+    "1d1f1f5c1e77"
    ],
    "concepts": []
   },
@@ -838,7 +854,9 @@
    "intro": "ElevenLabs aligns characters with sub-millisecond timing; NVIDIA packs transcription, translation and diarization into one open checkpoint.",
    "stories": [
     "6aa31a0d7787",
-    "dfc84a180bb3"
+    "dfc84a180bb3",
+    "0f07cd956053",
+    "d31218ab126f"
    ],
    "concepts": []
   },
@@ -848,7 +866,8 @@
    "stories": [
     "20d241427367",
     "8ac8e32b29c6",
-    "a077b03a08b9"
+    "a077b03a08b9",
+    "11edab21684b"
    ],
    "concepts": []
   },
@@ -858,7 +877,28 @@
    "stories": [
     "d43a7c5a56a9",
     "39b7d350780d",
-    "99d4ac8a1e75"
+    "99d4ac8a1e75",
+    "a07aac117127",
+    "ce6031ba0a38"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The bill comes due",
+   "intro": "A record half-trillion erased from Alphabet as AI spending turns cash flow negative, a trillion dollars of obligations on its books, and Amazon burning $42 billion a quarter in free cash.",
+   "stories": [
+    "8c7dd75aeb95",
+    "eea60db8f936",
+    "8ed6dc14b1d0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An agent on the DOD network",
+   "intro": "An Accenture contractor's personal Claude agent ran for two months on a secure Defense Department network and appears to have exfiltrated credentials.",
+   "stories": [
+    "712418da817b",
+    "f7135c48ce23"
    ],
    "concepts": []
   }

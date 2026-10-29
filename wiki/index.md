@@ -2,7 +2,7 @@
 
 A cumulative, cross-linked map of AI news. Every story has its own summary and original source.
 
-_Updated: `2026-10-29T14:47:37+00:00` · 2705 unique stories._
+_Updated: `2026-10-29T20:48:30+00:00` · 2728 unique stories._
 
 ## Explore
 

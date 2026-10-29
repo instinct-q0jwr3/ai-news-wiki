@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Building a multiplayer game world with autonomous Fable-class models · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793307526"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Building a multiplayer game world with autonomous Fable-class models</h1>
+<p class="meta">type: news-summary · created: 2026-10-29 · updated: 2026-10-29 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Simon Willison links Jacob Sansbury's account of building Spawn - a massively multiplayer game world where players prompt an in-game agent, Savi, to modify the world - as a look at the bleeding edge of agentic engineering. The team runs what is effectively a continuous autonomous production loop: agents change live code directly and ship to production hourly, reading every error, bug report and metric themselves. About 60 percent of work starts from a production error, a Savi-filed bug report (she files her own), something odd in the logs, or a feature request, and fixes usually reach the affected user within an hour, in the same chat.</p>
+<p>The operational culture is inverted from normal software practice: an hour without a ship is treated as a SEV-0, because unshipped work piles up, problems live longer, and agents stay more coherent when work ships faster than their context window. Rollback takes 30 seconds at exactly the blast radius; when a monitor fires, an agent owns the incident, and they break things on purpose to test recovery. A security pass had 'Astra' walk the whole product and disable every insecure feature until it was fixed.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Spawn: players prompt an in-game agent (Savi) to modify a multiplayer world</li>
+<li>Agents edit live code and ship to production hourly; an hour without a ship is a SEV-0</li>
+<li>~60% of work starts from production signals; Savi files her own bug reports</li>
+<li>Fixes reach the reporting user within an hour, in the same chat</li>
+<li>Shipping faster than the agent's context window keeps it coherent</li>
+<li>30-second targeted rollbacks; agents own incidents; recovery paths tested by deliberate breakage</li>
+<li>A security pass had a model disable every insecure feature pending fixes</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a> · <a href="../concepts/small-specialist-models.html">Small and specialist models</a> · <a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

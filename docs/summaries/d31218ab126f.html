@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Overtone – Transcribe, correct and cut captions for any screen shape · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793307526"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Overtone – Transcribe, correct and cut captions for any screen shape</h1>
+<p class="meta">type: news-summary · created: 2026-10-29 · updated: 2026-10-29 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Overtone, from Lont co-founder Ruud, attacks the double tax of video captions: fixing misheard words, then fixing layout for every screen shape. Instead of cutting captions once at a line-length limit, Overtone stores each spoken word once - with its timing and speaker - and generates a separate cut for each aspect ratio: 16:9 and 9:16 by default, or anything you name. A CLI builds the file from subtitles, audio or video, and a video.js plugin serves the cut that fits the player.</p>
+<p>Transcription fans out across multiple models - gpt-transcribe, Azure STT and ElevenLabs Scribe - to catch mishearings, with a --dry-run flag that shows where audio would go and what it would cost before anything is sent. Existing SRT files can be re-cut fully offline with no API key and no ffmpeg, and a fully local path runs whisper.cpp with Ollama.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Overtone stores each word once with time and speaker, cuts captions per aspect ratio</li>
+<li>One source file serves 16:9, 9:16 or any named shape via a video.js plugin</li>
+<li>Multi-model transcription (gpt-transcribe, Azure STT, ElevenLabs Scribe) to fix mishearings</li>
+<li>--dry-run shows data destination and cost before sending anything</li>
+<li>Existing subtitles re-cut offline, no API key or ffmpeg needed</li>
+<li>Local path: whisper.cpp plus Ollama</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/lonthq/overtone-captions">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a> · <a href="../entities/microsoft.html">Microsoft</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a> · <a href="../concepts/small-specialist-models.html">Small and specialist models</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

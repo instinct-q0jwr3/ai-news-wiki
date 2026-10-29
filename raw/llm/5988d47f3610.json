@@ -1,0 +1,16 @@
+{
+ "id": "5988d47f3610",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An investigation asked ChatGPT, Perplexity, Gemini, Claude and Google's AI Overviews 200 everyday questions that call for a statistic - a share, rate, average, count or cost stated as fact - and then followed the citations all the way down. The opening example: the claim that 44 percent of salespeople give up after one follow-up, a number whose trail says a lot about where AI-quoted statistics actually come from."
+ ],
+ "highlights": [
+  "200 numeric questions posed to five AI assistants",
+  "Method: follow each citation chain to its origin",
+  "Example: the '44% of salespeople give up after one follow-up' statistic",
+  "Basis: article introduction; the fetched page yielded only the opening section (534 chars)"
+ ],
+ "basis": "The cached copy captured only the article's introduction (the full investigation is likely paywalled or script-rendered), so this entry is based on that introduction."
+}

@@ -1,0 +1,15 @@
+{
+ "id": "0f07cd956053",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Armin Ronacher is building a small dungeon crawler with his kids and wanted a narrator voice that does not sound like every standard AI voice. After starting with Kokoro he settled on Qwen3-TTS, whose voice embeddings support custom voices - and, with some creativity, more than the docs suggest. The catch: Qwen3 ships base, custom-voice and voice-design variants, and the base model can clone a voice from context or a speaker embedding but cannot then be directed with instructions like 'speak sad' or 'whisper'. The official routes are fine-tuning Base on a single speaker, or generating a clip with VoiceDesign and cloning that with Base.\n\nHis practical recipe: 28 seconds of his own PyAI Conf talk, cut between two pauses so it starts and ends on a full sentence, transcribed with Whisper - the transcript mainly matters for baking and for comparing the clone against the original saying the same words. Conference audio is not ideal source material, but it works, which is part of the point: you need far less clean data than you would think. The post doubles as notes you can hand to an agent.",
+ "highlights": [
+  "Qwen3-TTS voice embeddings enable custom narrator voices beyond the stock AI sound",
+  "Base model clones from context or speaker embedding but ignores style instructions",
+  "Two official custom-voice routes: fine-tune Base, or VoiceDesign clip + Base clone",
+  "Recipe: 28s of conference-talk audio, cut at sentence boundaries, Whisper transcript",
+  "Imperfect source audio works - less clean data needed than expected",
+  "Written to be handed to an agent"
+ ]
+}

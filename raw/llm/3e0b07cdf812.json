@@ -1,0 +1,15 @@
+{
+ "id": "3e0b07cdf812",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A research preprint describes an IgE disruptor for food allergy developed with Claude-enabled antibody design - a case of LLM-assisted protein engineering applied to allergy therapeutics."
+ ],
+ "highlights": [
+  "IgE disruptor for food allergy designed with Claude's assistance",
+  "Antibody design as an applied use case for LLM-driven protein engineering",
+  "Basis: Hacker News title only; the PDF could not be extracted"
+ ],
+ "basis": "The source is a PDF that failed extraction (fetch error), so this entry is based on the Hacker News title alone."
+}

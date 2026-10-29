@@ -1,0 +1,16 @@
+{
+ "id": "eea60db8f936",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Alphabet has disclosed more than $1 trillion in purchase commitments, future leases and other obligations, with its Q3 filing showing $98.5 billion in contingent commitments - up roughly $23 billion from Q2. The company points to rapid growth in its backlog of unfulfilled cloud contracts as evidence of demand."
+ ],
+ "highlights": [
+  "Alphabet discloses $1T+ in purchase commitments, leases and other obligations",
+  "Contingent commitments of $98.5B in the Q3 filing, up ~$23B from Q2",
+  "Company cites fast-growing unfulfilled cloud contract backlog",
+  "Basis: Techmeme summary; Bloomberg bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

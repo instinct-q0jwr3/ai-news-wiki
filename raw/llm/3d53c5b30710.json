@@ -1,0 +1,16 @@
+{
+ "id": "3d53c5b30710",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison links Jacob Sansbury's account of building Spawn - a massively multiplayer game world where players prompt an in-game agent, Savi, to modify the world - as a look at the bleeding edge of agentic engineering. The team runs what is effectively a continuous autonomous production loop: agents change live code directly and ship to production hourly, reading every error, bug report and metric themselves. About 60 percent of work starts from a production error, a Savi-filed bug report (she files her own), something odd in the logs, or a feature request, and fixes usually reach the affected user within an hour, in the same chat.\n\nThe operational culture is inverted from normal software practice: an hour without a ship is treated as a SEV-0, because unshipped work piles up, problems live longer, and agents stay more coherent when work ships faster than their context window. Rollback takes 30 seconds at exactly the blast radius; when a monitor fires, an agent owns the incident, and they break things on purpose to test recovery. A security pass had 'Astra' walk the whole product and disable every insecure feature until it was fixed.",
+ "highlights": [
+  "Spawn: players prompt an in-game agent (Savi) to modify a multiplayer world",
+  "Agents edit live code and ship to production hourly; an hour without a ship is a SEV-0",
+  "~60% of work starts from production signals; Savi files her own bug reports",
+  "Fixes reach the reporting user within an hour, in the same chat",
+  "Shipping faster than the agent's context window keeps it coherent",
+  "30-second targeted rollbacks; agents own incidents; recovery paths tested by deliberate breakage",
+  "A security pass had a model disable every insecure feature pending fixes"
+ ]
+}

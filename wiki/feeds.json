@@ -2,13 +2,13 @@
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 912,
+  "stories": 920,
   "last": "2026-10-29"
  },
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 906,
+  "stories": 918,
   "last": "2026-10-29"
  },
  {
@@ -20,14 +20,14 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 80,
+  "stories": 81,
   "last": "2026-10-29"
  },
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 67,
-  "last": "2026-10-28"
+  "stories": 68,
+  "last": "2026-10-29"
  },
  {
   "name": "Latent.Space",
@@ -92,8 +92,8 @@
  {
   "name": "Armin Ronacher",
   "url": "https://lucumr.pocoo.org/feed.atom",
-  "stories": 12,
-  "last": "2026-10-06"
+  "stories": 13,
+  "last": "2026-10-29"
  },
  {
   "name": "Anil Dash",

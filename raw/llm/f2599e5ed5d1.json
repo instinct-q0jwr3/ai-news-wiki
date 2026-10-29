@@ -1,0 +1,16 @@
+{
+ "id": "f2599e5ed5d1",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports, per a person familiar, that Anthropic is the 'Customer B' cited in a SpaceX filing as its single largest customer, accounting for 34.5 percent of Q3 revenue - more than a third of the business and surpassing the US government."
+ ],
+ "highlights": [
+  "Anthropic is reportedly SpaceX's largest single customer ('Customer B')",
+  "34.5% of SpaceX Q3 revenue - ahead of the US government",
+  "Disclosed via a SpaceX filing, attribution per a person familiar",
+  "Basis: Techmeme summary; Bloomberg bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

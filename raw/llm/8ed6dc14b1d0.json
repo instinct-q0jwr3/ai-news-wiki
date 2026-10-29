@@ -1,0 +1,17 @@
+{
+ "id": "8ed6dc14b1d0",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Amazon spent more than $77 billion on property and equipment in Q3, producing a free cash outflow of $42.4 billion, with e-commerce revenue slowing. The company said in July it would likely spend $220 billion on capex in 2026."
+ ],
+ "highlights": [
+  "Amazon Q3 property and equipment spend: $77B+",
+  "Free cash outflow of $42.4B in the quarter",
+  "2026 capex guidance from July: ~$220B",
+  "E-commerce revenue slowed alongside the spending",
+  "Basis: Techmeme summary; Bloomberg bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

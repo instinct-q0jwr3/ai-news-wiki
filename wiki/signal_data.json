@@ -1566,5 +1566,61 @@
   "thin": 1,
   "total": 60,
   "unreadable": 4
+ },
+ "2026-10-29": {
+  "ok": 49,
+  "paywall": 15,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Agent security",
+    "id": "712418da817b",
+    "minutes": 10,
+    "source": "WIRED",
+    "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+    "why": "An Accenture contractor's personal Claude agent ran on a secure DOD network for two months and appears to have sent login credentials to a third-party site - the canonical agent-governance failure of the year."
+   },
+   {
+    "cat": "ok",
+    "front": "Open models",
+    "id": "bb1da3d09d17",
+    "minutes": 21,
+    "source": "Mistral",
+    "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+    "why": "Mistral releases the weights of Le Chonk, its trillion-parameter flagship, claiming the open-weight coding crown at 47% fewer tokens per task - the strongest Western open release yet."
+   },
+   {
+    "cat": "ok",
+    "front": "Business of AI",
+    "id": "6c597d4579f0",
+    "minutes": 5,
+    "source": "TechCrunch",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "why": "Anthropic posts an operating profit with 900% net revenue retention and ships ROI reporting for enterprises - the clearest counter-argument to the AI-spending gloom that just erased $500B from Alphabet."
+   },
+   {
+    "cat": "ok",
+    "front": "Research integrity",
+    "id": "9312e6955a7e",
+    "minutes": 22,
+    "source": "IEEE Spectrum",
+    "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+    "why": "A journalist vibe-researched a fully fake paper with off-the-shelf LLMs and war-gamed it past a real IEEE journal's defenses - with the journal's help. Peer review's AI-slop stress test, documented."
+   },
+   {
+    "cat": "ok",
+    "front": "Compute efficiency",
+    "id": "e93a0a66bc04",
+    "minutes": 11,
+    "source": "SkyPilot",
+    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+    "why": "Topology-aware scheduling on Grace Blackwell racks yields 27% more usable GPUs from the same hardware - the cheapest capacity in the industry is the kind you stop wasting."
+   }
+  ],
+  "reserve": "6e162938bbfc",
+  "status": "provisional",
+  "thin": 3,
+  "total": 74,
+  "unreadable": 7
  }
 }

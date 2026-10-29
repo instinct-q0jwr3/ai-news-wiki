@@ -1,0 +1,15 @@
+{
+ "id": "cebfe79d1385",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports Dulo, a startup co-founded by Google veteran Sebastian Thrun to build 'foundation models for hardware design', has raised a $130 million seed round."
+ ],
+ "highlights": [
+  "Dulo: Sebastian Thrun's new startup, 'foundation models for hardware design'",
+  "$130M seed round",
+  "Basis: Techmeme summary; The Information paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (The Information paywall), so this entry is based on the Techmeme feed summary and headline."
+}

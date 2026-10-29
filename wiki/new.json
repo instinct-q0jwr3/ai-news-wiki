@@ -1,12 +1,6 @@
 {
- "generated_at": "2026-10-29T14:47:37+00:00",
+ "generated_at": "2026-10-29T20:48:30+00:00",
  "stories": [
-  {
-   "id": "cf9a0dc606e4",
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
-  },
   {
    "id": "bb1da3d09d17",
    "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
@@ -14,160 +8,148 @@
    "url": "https://mistral.ai/news/mistral-large-4-oss/"
   },
   {
-   "id": "9312e6955a7e",
-   "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+   "id": "07a6add8e481",
+   "title": "LLM Voice",
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/ai-generated-scientific-papers"
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html"
   },
   {
-   "id": "6e162938bbfc",
-   "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+   "id": "5988d47f3610",
+   "title": "Zombie stats: Where the numbers AI quotes come from",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50286306"
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats"
   },
   {
-   "id": "cb4f7e3ca654",
-   "title": "Mistral releases the weights for Mistral Large 4, or Le Chonk, and says it rivals top open models such as GLM-5.3 on the Artificial Analysis Coding Agent Index",
+   "id": "e93a0a66bc04",
+   "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+   "source": "Hacker News",
+   "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler"
+  },
+  {
+   "id": "6791b6e80473",
+   "title": "Why are good developers so wary of agentic development?",
+   "source": "Hacker News",
+   "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html"
+  },
+  {
+   "id": "b97740d9db82",
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50291116"
+  },
+  {
+   "id": "a07aac117127",
+   "title": "MIT professor says AI is taking over your brain",
+   "source": "Hacker News",
+   "url": "https://www.bostonglobe.com/2026/10/23/opinion/ai-impact-cognitive-ability-eric-so/"
+  },
+  {
+   "id": "3e0b07cdf812",
+   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+   "source": "Hacker News",
+   "url": "https://divergencelabs.com/publications/ige-preprint.pdf"
+  },
+  {
+   "id": "13e79962e401",
+   "title": "AI Contributions to GHC",
+   "source": "Hacker News",
+   "url": "https://serokell.io/blog/ai-contributions-to-ghc"
+  },
+  {
+   "id": "712418da817b",
+   "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+   "source": "Hacker News",
+   "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+  },
+  {
+   "id": "3b4b63f6a5fc",
+   "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+   "source": "Hacker News",
+   "url": "https://github.com/phpclaw-php/phpclaw-monorepo"
+  },
+  {
+   "id": "d31218ab126f",
+   "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+   "source": "Hacker News",
+   "url": "https://github.com/lonthq/overtone-captions"
+  },
+  {
+   "id": "ce6031ba0a38",
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "source": "Hacker News",
+   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/"
+  },
+  {
+   "id": "e78daff14139",
+   "title": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia",
    "source": "Techmeme",
-   "url": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/"
+   "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=jB9Xwc&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "8ac8e32b29c6",
-   "title": "OpenAI now lets you text your Dot agent",
-   "source": "TLDR AI",
-   "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/"
-  },
-  {
-   "id": "dfc84a180bb3",
-   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-   "source": "TLDR AI",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
-  },
-  {
-   "id": "20d241427367",
-   "title": "Meta has a new AI pet app called Waddle World",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/"
-  },
-  {
-   "id": "6c597d4579f0",
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
-  },
-  {
-   "id": "19eb6ac1c116",
-   "title": "Epic Games says it is using AI tools to \"develop code and features\" for Unreal Engine, including core engine components like the D3D12 rendering layer",
+   "id": "eea60db8f936",
+   "title": "Alphabet discloses $1T+ in purchase commitments, future leases, and other obligations; its Q3 filing shows $98.5B in contingent commitments, up ~$23B from Q2",
    "source": "Techmeme",
-   "url": "https://thisweekinvideogames.com/news/epic-games-confirms-ai-is-being-used-to-develop-code-for-unreal-engine/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows"
   },
   {
-   "id": "80d40d1b97f6",
-   "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-   "source": "TLDR AI",
-   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"
-  },
-  {
-   "id": "09c85f5661f4",
-   "title": "Copilot Automations now learn from outcomes and self-improve",
-   "source": "TLDR AI",
-   "url": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve/"
-  },
-  {
-   "id": "d32541fb7fd6",
-   "title": "Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025",
+   "id": "f2599e5ed5d1",
+   "title": "Anthropic is \"Customer B\" cited by SpaceX in a filing as its single largest customer accounting for 34.5% of Q3 revenue, surpassing the US government",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic"
   },
   {
-   "id": "6aa31a0d7787",
-   "title": "ElevenLabs Cue: Character-level audio timing",
-   "source": "TLDR AI",
-   "url": "https://elevenlabs.io/blog/cue-aligner"
-  },
-  {
-   "id": "567debfae8ac",
-   "title": "Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures",
+   "id": "8c7dd75aeb95",
+   "title": "Alphabet's stock falls 12%+, wiping a record $500B from its market cap, after reporting negative cash flow amid its AI spending; the Nasdaq falls 1.4%+",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017"
+   "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d"
   },
   {
-   "id": "d43a7c5a56a9",
-   "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/"
-  },
-  {
-   "id": "48be90da8f6f",
-   "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-   "source": "TLDR AI",
-   "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/"
-  },
-  {
-   "id": "99d4ac8a1e75",
-   "title": "Q&A with Palantir CTO Shyam Sankar on diffusing intelligence, safety, AI lessons, forward-deployed engineering, Anthropic vs. the US, AI religion, and more",
+   "id": "cebfe79d1385",
+   "title": "Dulo, a startup co-founded by Google veteran Sebastian Thrun to build \"foundation models for hardware design\", raised a $130M seed",
    "source": "Techmeme",
-   "url": "https://stratechery.com/"
+   "url": "https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo"
   },
   {
-   "id": "d54140d057af",
-   "title": "Mirendil Introduces Lor for AI Research Automation",
-   "source": "TLDR AI",
-   "url": "https://x.com/mirendil/status/2115488264312492088"
+   "id": "8ed6dc14b1d0",
+   "title": "Amazon spent $77B+ on property and equipment in Q3, leading to a free cash outflow of $42.4B; Amazon said in July that it would likely spend $220B in 2026 capex",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services"
   },
   {
-   "id": "b0496c18b7cc",
-   "title": "Introducing Vercel CI",
-   "source": "TLDR AI",
-   "url": "https://vercel.com/blog/introducing-vercel-ci"
+   "id": "86314733ca2e",
+   "title": "OpenAI updates Model Spec to reorganize it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care",
+   "source": "Techmeme",
+   "url": "https://openai.com/index/updated-model-spec"
   },
   {
-   "id": "049b3940313a",
-   "title": "Route and orchestrate models with GitHub Copilot Fusion",
-   "source": "TLDR AI",
-   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/"
-  },
-  {
-   "id": "0880734a0753",
-   "title": "Quoting Ben Hylak",
+   "id": "3d53c5b30710",
+   "title": "Building a multiplayer game world with autonomous Fable-class models",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/"
+   "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
   },
   {
-   "id": "6bc5b57fadb0",
-   "title": "Building an Inference Stack That Improves Itself",
-   "source": "TLDR AI",
-   "url": "https://x.com/DecagonAI/status/2115511110120120437"
-  },
-  {
-   "id": "cd5315246015",
-   "title": "Build and manage Connected Apps in one place",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"
-  },
-  {
-   "id": "f493942ef3d8",
-   "title": "Circuit Mind, which uses AI to automate electronics and circuit design, raised $25M, including an $18.5M Series A led by Norwest, and plans a US relocation",
+   "id": "79cb49031d47",
+   "title": "Reddit plans to require users to log in to fully access the site in response to AI scraping and will test it in select markets outside the US this quarter",
    "source": "Techmeme",
-   "url": "https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design"
+   "url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito"
   },
   {
-   "id": "a077b03a08b9",
-   "title": "Wabi, which is building an AI assistant that integrates into group chats and can take actions like booking appointments, raised $55M at a $1.25B valuation",
+   "id": "11edab21684b",
+   "title": "SuperMe, which generates AI-powered chats with simulated profiles of prominent industry experts to let users ask questions, raised $20M",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-29/ai-assistant-startup-wabi-raises-55-million-at-1-25-billion-value"
+   "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
   },
   {
-   "id": "8957799f01b3",
-   "title": "DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs"
+   "id": "f580d5e01aca",
+   "title": "Coding Agents, Starter Kits and pgledger",
+   "source": "Lobsters",
+   "url": "https://www.pgrs.net/2026/10/29/coding-agents-starter-kits-and-pgledger/"
   },
   {
-   "id": "39b7d350780d",
-   "title": "Q&A with Sam Altman on finding PHP bugs, sandboxing superhuman models as an unsolved safety dilemma, robotics scaling data centers, math, agent swarms, and more",
-   "source": "Techmeme",
-   "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single"
+   "id": "0f07cd956053",
+   "title": "Custom Voices With Qwen3-TTS",
+   "source": "Armin Ronacher",
+   "url": "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/"
   }
  ]
 }

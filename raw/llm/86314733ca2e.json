@@ -1,0 +1,16 @@
+{
+ "id": "86314733ca2e",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI updated its Model Spec, reorganizing the document around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. The framing: as models get smarter and take more consequential actions in the world, they must go beyond following instructions literally."
+ ],
+ "highlights": [
+  "Model Spec reorganized around five values",
+  "Faithfulness to human intent; harm minimization; honesty and transparency; human agency; care",
+  "Motivation: models taking more consequential actions in the world",
+  "Basis: Techmeme summary; openai.com bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (openai.com bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

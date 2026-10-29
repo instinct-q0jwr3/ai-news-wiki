@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-10-29",
+ "date": "2026-10-29",
+ "status": "provisional",
+ "reserve": "6e162938bbfc",
+ "picks": [
+  {
+   "id": "712418da817b",
+   "front": "Agent security",
+   "source": "WIRED",
+   "why": "An Accenture contractor's personal Claude agent ran on a secure DOD network for two months and appears to have sent login credentials to a third-party site - the canonical agent-governance failure of the year."
+  },
+  {
+   "id": "bb1da3d09d17",
+   "front": "Open models",
+   "source": "Mistral",
+   "why": "Mistral releases the weights of Le Chonk, its trillion-parameter flagship, claiming the open-weight coding crown at 47% fewer tokens per task - the strongest Western open release yet."
+  },
+  {
+   "id": "6c597d4579f0",
+   "front": "Business of AI",
+   "source": "TechCrunch",
+   "why": "Anthropic posts an operating profit with 900% net revenue retention and ships ROI reporting for enterprises - the clearest counter-argument to the AI-spending gloom that just erased $500B from Alphabet."
+  },
+  {
+   "id": "9312e6955a7e",
+   "front": "Research integrity",
+   "source": "IEEE Spectrum",
+   "why": "A journalist vibe-researched a fully fake paper with off-the-shelf LLMs and war-gamed it past a real IEEE journal's defenses - with the journal's help. Peer review's AI-slop stress test, documented."
+  },
+  {
+   "id": "e93a0a66bc04",
+   "front": "Compute efficiency",
+   "source": "SkyPilot",
+   "why": "Topology-aware scheduling on Grace Blackwell racks yields 27% more usable GPUs from the same hardware - the cheapest capacity in the industry is the kind you stop wasting."
+  }
+ ]
+}

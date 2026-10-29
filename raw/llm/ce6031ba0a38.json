@@ -1,0 +1,15 @@
+{
+ "id": "ce6031ba0a38",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Ben Lorica interviews Leo de Moura - creator of Lean, VP and Distinguished Scientist in AWS's Automated Reasoning Group, and Chief Architect of the Lean Focused Research Organization - on the premise that in software, generation has become easy (if not cheap), so verification becomes the scarce and valuable skill. Lean, both a programming language and a theorem prover, sits at the center of that shift: specifications and machine-checked proofs are moving from academic luxury to engineering necessity as more code is written by models nobody fully audited.\n\nThe conversation covers what it means to trust AI-generated code and autonomous agents, the vision of a verified software stack, and how AI plus formal verification is reshaping mathematics itself - including what happens to the skills and careers of engineers and researchers when proof, not just prose, can be machine-checked, and where similar breakthroughs might surface next.",
+ "highlights": [
+  "Leo de Moura: generation is now easy; verification is the key challenge of the agent era",
+  "Lean is both programming language and theorem prover - and increasingly on engineers' lips",
+  "Specifications and machine-checked proofs as the answer to unaudited AI-generated code",
+  "The vision: a verified software stack",
+  "AI + formal verification is also reshaping mathematics research itself",
+  "Discussion spans skills, careers and where the next similar breakthroughs emerge"
+ ]
+}

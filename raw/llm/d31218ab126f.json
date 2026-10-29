@@ -1,0 +1,15 @@
+{
+ "id": "d31218ab126f",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Overtone, from Lont co-founder Ruud, attacks the double tax of video captions: fixing misheard words, then fixing layout for every screen shape. Instead of cutting captions once at a line-length limit, Overtone stores each spoken word once - with its timing and speaker - and generates a separate cut for each aspect ratio: 16:9 and 9:16 by default, or anything you name. A CLI builds the file from subtitles, audio or video, and a video.js plugin serves the cut that fits the player.\n\nTranscription fans out across multiple models - gpt-transcribe, Azure STT and ElevenLabs Scribe - to catch mishearings, with a --dry-run flag that shows where audio would go and what it would cost before anything is sent. Existing SRT files can be re-cut fully offline with no API key and no ffmpeg, and a fully local path runs whisper.cpp with Ollama.",
+ "highlights": [
+  "Overtone stores each word once with time and speaker, cuts captions per aspect ratio",
+  "One source file serves 16:9, 9:16 or any named shape via a video.js plugin",
+  "Multi-model transcription (gpt-transcribe, Azure STT, ElevenLabs Scribe) to fix mishearings",
+  "--dry-run shows data destination and cost before sending anything",
+  "Existing subtitles re-cut offline, no API key or ffmpeg needed",
+  "Local path: whisper.cpp plus Ollama"
+ ]
+}

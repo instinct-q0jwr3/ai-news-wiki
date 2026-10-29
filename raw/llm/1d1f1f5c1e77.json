@@ -1,0 +1,16 @@
+{
+ "id": "1d1f1f5c1e77",
+ "authored_at": "2026-10-29T20:58:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Mistral's own announcement that it is releasing the weights of Mistral Large 4 (Le Chonk), its trillion-parameter flagship - the open release of the model detailed in today's coverage of the benchmark results."
+ ],
+ "highlights": [
+  "Mistral releases Mistral Large 4 weights",
+  "Trillion-parameter flagship, open for self-hosting",
+  "Basis: Hacker News title; mistral.ai could not be fetched this pass",
+  "Full abstract via today's Mistral blog story bb1da3d09d17"
+ ],
+ "basis": "The Mistral blog could not be fetched during this pass (no cache), so this entry is based on the Hacker News title; a full abstract exists at story bb1da3d09d17."
+}
