@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Introducing Vercel CI · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793285908"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Introducing Vercel CI</h1>
+<p class="meta">type: news-summary · created: 2026-10-29 · updated: 2026-10-29 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Vercel CI, now in beta, is continuous integration rebuilt for the era of coding agents: when agents open most of your pull requests, CI that runs the entire workflow on every push becomes the bottleneck. Vercel CI instead runs only the tasks affected by a change and provisions only the compute those checks need, the same way Fluid compute scales with traffic. Internally Vercel reports push-to-pass times improved 2-6x.</p>
+<p>The system leans on Turborepo: it reads turbo.json for the task graph, and tagging tasks with 'ci' is the entire configuration - no workflow YAML, no drift between CI config and build config, Remote Cache on by default. Unaffected tasks come from cache; the rest each run on their own Hive-powered machine and start as soon as their dependencies finish. Setup is deliberately agent-friendly: prompt your agent to run npx skills use vercel/ci@setup, then watch runs from the dashboard, CLI or Vercel MCP.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Vercel CI beta runs only tasks affected by a change, with right-sized compute</li>
+<li>Internal push-to-pass times improved 2-6x</li>
+<li>Config is turbo.json plus a 'ci' tag - no workflow YAML</li>
+<li>Unaffected tasks served from Remote Cache; the rest run in parallel on Hive machines</li>
+<li>Designed for agent-opened PR volume; setup via npx skills use vercel/ci@setup</li>
+<li>Watch and inspect runs via dashboard, CLI or Vercel MCP</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://vercel.com/blog/introducing-vercel-ci">Read the original story</a> · <a href="https://tldr.tech/ai/2026-10-29">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

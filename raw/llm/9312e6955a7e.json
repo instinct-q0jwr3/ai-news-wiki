@@ -1,0 +1,16 @@
+{
+ "id": "9312e6955a7e",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "IEEE Spectrum's Benjamin Skuse ran the experiment every editor dreads: he 'vibe-researched' a completely fake scientific paper using off-the-shelf LLMs - prompting them for the hypothesis, the code and the text with minimal human input - and then, with the cooperation of IEEE Access managing editor Jenny Mahoney, war-gamed whether it could slip past a real journal's defenses. The premise is that the problem is already at scale: by 2025 an estimated 57 percent of published academic articles showed detectable LLM influence, up from 12 percent in 2023; over 12 percent of Nature Communications reviews were found to be entirely AI-generated; and only one in 40 papers with statistical evidence of AI use disclosed it.\n\nThe experiment was designed in two parts of escalating concern. First, can someone with no special AI expertise generate a convincing paper describing research that was never performed, good enough to fool a publisher's screening tools? Second, what happens when more advanced systems do not just write the paper but conduct the underlying research themselves? IEEE's research-integrity manager Amanda Sulicz frames the stakes as existential for trust in science itself; the article sets out to show concretely how easy the deception is and whether volunteer peer reviewers have the tools to stop it.",
+ "highlights": [
+  "Journalist 'vibe-researched' a fully fake paper - hypothesis, code and text all LLM-generated",
+  "IEEE Access's managing editor cooperated to war-game the submission against real defenses",
+  "57% of 2025 published articles show detectable LLM influence, up from 12% in 2023",
+  "Over 12% of Nature Communications reviews in 2025 were fully AI-generated",
+  "Only 1 in 40 papers with statistical evidence of AI use disclosed it",
+  "Part two raises the stakes: AI systems conducting the research, not just writing it up",
+  "IEEE integrity manager: trust in centuries of scientific process is eroding"
+ ]
+}

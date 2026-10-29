@@ -1,0 +1,16 @@
+{
+ "id": "d54140d057af",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Mirendil announced Lor, a system it describes as doing the work of an entire AI lab: its agents write code, run experiments and iterate on results for days at a time, across any machine, hundreds of agents in parallel. Lor is now in private beta."
+ ],
+ "highlights": [
+  "Mirendil's Lor: agents that write code, run experiments and iterate for days",
+  "Marketed as doing the work of an entire AI lab, hundreds of agents in parallel",
+  "Now in private beta",
+  "Basis: Mirendil's X announcement; page extraction too thin for more"
+ ],
+ "basis": "The source page (an X post) yielded only the announcement text itself (extracted text under 400 chars), so this entry is based on that text and the TLDR AI feed summary."
+}

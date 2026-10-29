@@ -1,0 +1,18 @@
+{
+ "id": "cf9a0dc606e4",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Artificial Analysis' own writeup of its Intelligence Index v5 explains what Gemini 4 Carbon's number one ranking rests on. Carbon scores 59 overall and leads four of the nine component evaluations: HLE-Diamond, Terminal-Bench-Science, AA-Omniscience and AutomationBench-AA. Its weakest suit is still coding agents, but the gap has narrowed dramatically for a Google model: with the Antigravity CLI harness it scores 59 on the Coding Agent Index, three points behind Claude Code with Opus 5.5 at 62, and it ranks second on both Terminal-Bench 4.0 (64 percent) and FrontierCode v1.1 (51 percent, behind Opus at 56).\n\nThe knowledge-work picture is improving but not leading: Carbon's AA-Briefcase score jumps 126 Elo over Argon to 1609, with Presentation up 293 Elo, yet Grok 4.7, Muse Wonder and Kimi K3.1 Pro all still sit above it. The economic argument is stronger: at standard pricing Carbon costs $7.76 per index task, roughly 23 percent less than Opus 5.5's $10.04 (though more than GPT-6 Astra's $6.25), and it uses 29 percent fewer output tokens per task than Opus. Against its own sibling it looks like a straight upgrade - same $4/$20 price as Argon, nine index points higher. On hallucination, Carbon's AA-Omniscience score of 54 leads the field, six points ahead of Opus 5.5. Carbon is rolling out to selected users with a 50 percent launch discount that has no confirmed end date; all of Artificial Analysis' charts use standard pricing.",
+ "highlights": [
+  "Carbon #1 on Intelligence Index v5 with 59, leading 4 of 9 component evals",
+  "Second on Coding Agent Index (59 vs Opus 5.5's 62) in the Antigravity CLI harness",
+  "Second on Terminal-Bench 4.0 (64%) and FrontierCode v1.1 (51% vs Opus 56%)",
+  "AA-Briefcase 1609 Elo, +126 over Argon, still behind Grok 4.7, Muse Wonder and Kimi K3.1 Pro",
+  "$7.76 per index task: ~23% cheaper than Opus 5.5, ~1.2x GPT-6 Astra",
+  "Uses 29% fewer output tokens per task than Opus 5.5",
+  "Same $4/$20 standard price as Argon, 9 index points higher",
+  "Leads AA-Omniscience at 54, six points ahead of Opus 5.5",
+  "50% launch discount with no confirmed end date; AA charts use standard pricing"
+ ]
+}

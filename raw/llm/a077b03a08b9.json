@@ -1,0 +1,15 @@
+{
+ "id": "a077b03a08b9",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Wabi, a startup building an AI assistant that lives inside group chats and can take actions such as booking appointments, has raised $55 million at a $1.25 billion valuation."
+ ],
+ "highlights": [
+  "Wabi raises $55M at a $1.25B valuation",
+  "AI assistant embedded in group chats, able to take actions like bookings",
+  "Basis: Techmeme summary; Bloomberg bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

@@ -1,0 +1,14 @@
+{
+ "id": "cd5315246015",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google launched a preview of its Connected Apps Platform, a single pipeline for developers to build and manage apps that plug into both Search and the Gemini app. Integration runs through a cloud-hosted MCP server or Android MCP using the AppFunctions APIs; a new Google Connected Console handles registration, testing and submission, and developers choose whether their app goes live in Search, Gemini or both. Once live, they get traffic, latency and error-rate tracking plus brand controls like verified logos and authenticated accounts.\n\nThe platform formalizes what has been a partner-by-partner program: more than 50 Connected Apps already run across Search and Gemini, from groceries to event ticketing, and a new partner batch - Adobe, Calm, Experian, Localiza and Peloton - is rolling out in Gemini now and heading to Search in the coming weeks. Access opens in phases, with more developers, markets and Google products promised over the coming months.",
+ "highlights": [
+  "Connected Apps Platform: one pipeline to ship apps into both Search and the Gemini app",
+  "Integrate via cloud-hosted MCP server or Android MCP with AppFunctions APIs",
+  "Connected Console covers registration, testing, submission, metrics and brand controls",
+  "50+ Connected Apps already live; new partners include Adobe, Calm, Experian and Peloton",
+  "Phased preview; more developers, markets and Google surfaces to come"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "6aa31a0d7787",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "ElevenLabs detailed Cue, the forced-alignment model inside its Scribe speech-to-text family that places every character of a transcript on a precise audio timeline. Forced alignment is what makes word-level click-to-seek, subtitles and dubbing feel right, and ElevenLabs claims Cue is more accurate than every aligner it tested across all 29 languages of its benchmark, on real-world recordings. It handles audio of any length in a single pass and aligns an hour of speech in under a second.\n\nThe post draws a deliberate distinction between forced alignment - lining up text with sound - and the loftier notion of AI alignment. Cue sits at the end of the speech-to-text pipeline: Scribe transcribes, Cue timestamps, and every Scribe request passes through it. The same model powers subtitle generation, dubbing and lyric timing for music.",
+ "highlights": [
+  "Cue: forced-alignment model giving character-level, sub-millisecond timestamps",
+  "More accurate than every tested aligner across all 29 benchmark languages",
+  "Handles any recording length in one pass; an hour of audio in under a second",
+  "Sits at the end of every Scribe speech-to-text request",
+  "Also powers subtitles, dubbing and lyric timing"
+ ]
+}

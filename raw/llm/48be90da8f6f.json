@@ -1,0 +1,14 @@
+{
+ "id": "48be90da8f6f",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Microsoft is productizing the multi-model harness its GitHub engineering team built for its own Copilot fleet. The Microsoft Copilot harness - the orchestration layer that gives an agent its instructions, context, execution environment and controls - already powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI and VS Code. It is now available through Microsoft Foundry as a fully managed way to build agents that reason, use tools and run long tasks, with support for open standards like MCP, agent skills and plugins.\n\nThe pitch is that the model layer commoditizes faster than anyone can rebuild routing: a frontier model today may fall behind tomorrow, and maintaining your own harness or model router is slow and painful. Customers get the right model for each job without switching harnesses or stacks, while Microsoft's science and engineering investment in the harness compounds across its own products and its customers'.",
+ "highlights": [
+  "GitHub-built multi-model Copilot harness now available via Microsoft Foundry",
+  "Powers Copilot Code, Copilot Studio, the GitHub Copilot app, CLI and VS Code",
+  "Orchestration layer: instructions, context, execution environment and controls for agents",
+  "Supports MCP, agent skills and plugins",
+  "Pitch: models rotate, the harness endures - don't maintain your own router"
+ ]
+}

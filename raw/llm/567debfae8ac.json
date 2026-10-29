@@ -1,0 +1,16 @@
+{
+ "id": "567debfae8ac",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Microsoft is seeking to raise at least $25 billion in its first US investment-grade bond sale since 2017 - when it raised $17 billion - to fund AI-related capital expenditures."
+ ],
+ "highlights": [
+  "Microsoft seeking $25B+ in US investment-grade bonds",
+  "First such sale since 2017's $17B raise",
+  "Proceeds earmarked for AI capital expenditures",
+  "Basis: Techmeme summary; Bloomberg bot-blocked (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg bot-block), so this entry is based on the Techmeme feed summary and headline."
+}

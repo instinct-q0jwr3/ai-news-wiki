@@ -10,7 +10,8 @@
    "intro": "VentureBeat surfaced Gemini 4 Carbon's commercial shape: Fairwind defenders first, $2/$10 introductory token prices rising to $4/$20, and a benchmark table that leaves one lead each for OpenAI and Anthropic.",
    "stories": [
     "a76673c394b5",
-    "88f24d01ff59"
+    "88f24d01ff59",
+    "cf9a0dc606e4"
    ],
    "concepts": []
   },
@@ -21,7 +22,8 @@
     "99930078308b",
     "8bc062d871cc",
     "6f52bb561c4d",
-    "0ed6bf01293d"
+    "0ed6bf01293d",
+    "6c597d4579f0"
    ],
    "concepts": []
   },
@@ -33,7 +35,8 @@
     "ff35f051b8e7",
     "ca14ee531763",
     "e78daff14139",
-    "140ffb6b21ee"
+    "140ffb6b21ee",
+    "567debfae8ac"
    ],
    "concepts": []
   },
@@ -42,7 +45,8 @@
    "intro": "The DOJ is asking about Nvidia's $12.93 billion Hugging Face acquisition, and hackers leaked personal data on 41,000 DHS employees and contractors - including ICE and CBP facility locations - through a claimed Okta breach.",
    "stories": [
     "892370e4ec69",
-    "2b95df195dae"
+    "2b95df195dae",
+    "8957799f01b3"
    ],
    "concepts": []
   },
@@ -61,7 +65,9 @@
    "intro": "A case for byte-level models as the litmus test of general learning, and Ted Sanders on why model size still explains most performance variation - plus what a version number actually means.",
    "stories": [
     "93bdd7d8e97b",
-    "0375d709192c"
+    "0375d709192c",
+    "9312e6955a7e",
+    "d54140d057af"
    ],
    "concepts": []
   },
@@ -70,7 +76,9 @@
    "intro": "Fragment surfaces from stealth with procurement AI and $56 million, while Tencent's cloud chief retools the company's AI push around business customers.",
    "stories": [
     "c3d0580a079f",
-    "faf00085c2ce"
+    "faf00085c2ce",
+    "f493942ef3d8",
+    "d32541fb7fd6"
    ],
    "concepts": []
   },
@@ -87,7 +95,69 @@
    "intro": "An engineer's field guide to delegating to agents, and a community patch for the background chatter Claude Code never told you about.",
    "stories": [
     "3a53d5396141",
-    "60a99b343faa"
+    "60a99b343faa",
+    "6e162938bbfc",
+    "0880734a0753",
+    "19eb6ac1c116"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Le Chonk, unleashed",
+   "intro": "Mistral releases the weights of its trillion-parameter flagship after three more weeks of reinforcement learning, and the coding numbers genuinely move.",
+   "stories": [
+    "bb1da3d09d17",
+    "cb4f7e3ca654"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The referee's dilemma",
+   "intro": "Artificial Analysis v5 tries to put one number on the frontier; Interconnects asks whether any single number can carry that weight.",
+   "stories": [
+    "80d40d1b97f6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent workbench",
+   "intro": "GitHub, Microsoft, Google and Vercel all shipped plumbing for multi-model, self-improving agent workflows - plus an inference stack that tunes itself.",
+   "stories": [
+    "cd5315246015",
+    "48be90da8f6f",
+    "049b3940313a",
+    "b0496c18b7cc",
+    "09c85f5661f4",
+    "6bc5b57fadb0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Audio gets precise",
+   "intro": "ElevenLabs aligns characters with sub-millisecond timing; NVIDIA packs transcription, translation and diarization into one open checkpoint.",
+   "stories": [
+    "6aa31a0d7787",
+    "dfc84a180bb3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The companion beat",
+   "intro": "Meta hatches an AI pet, OpenAI puts Dot in your texts, and Wabi raises $55 million to live in group chats.",
+   "stories": [
+    "20d241427367",
+    "8ac8e32b29c6",
+    "a077b03a08b9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The interview circuit",
+   "intro": "Sam Altman on PHP bugs and agent swarms; Shyam Sankar on diffusion, safety and the industry's religious war.",
+   "stories": [
+    "d43a7c5a56a9",
+    "39b7d350780d",
+    "99d4ac8a1e75"
    ],
    "concepts": []
   }

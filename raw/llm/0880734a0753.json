@@ -1,0 +1,12 @@
+{
+ "id": "0880734a0753",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison quotes Ben Hylak skewering the industry's double standard on agent-native software: everyone wants every other product to shrink into a headless MCP server feeding their agent, while insisting their own product is the exception whose UI customers love.\n\nThe quip lands because it describes a real strategic tension: if agents mediate more software use, every vendor wants to be the agent's surface rather than its plumbing.",
+ "highlights": [
+  "Hylak: everyone wants other products reduced to headless MCP servers - but not their own",
+  "Captures the vendor dilemma of agent-mediated software: be the surface, not the plumbing",
+  "One-liner collected by Simon Willison, 29 October 2026"
+ ]
+}

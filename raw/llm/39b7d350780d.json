@@ -1,0 +1,16 @@
+{
+ "id": "39b7d350780d",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "On John Collison's Cheeky Pint, Sam Altman ranges across OpenAI's current preoccupations. He opens with 'PHP week': models have become good enough at finding vulnerabilities in the wild that OpenAI pointed them at PHP's codebase and uncovered critical bugs, and his conclusion is that the internet carries far more serious vulnerabilities than anyone expects - the surface area was simply never audited at this intensity. Test-time compute, he argues, unlocks massive agent swarms, and OpenAI's internal experiments have models proving complex mathematics including Navier-Stokes-level problems.\n\nThe harder admission is about safety: Altman calls sandboxing superhuman models an unsolved dilemma. Elsewhere in the conversation: robotics as the answer to scaling gigawatt data centers, the coming replacement of web forms and mobile apps by personal agents that businesses must adapt to, revenue-per-gigawatt as the metric that matters, and a chapter pointedly titled 'token pricing is fake'.",
+ "highlights": [
+  "Models pointed at PHP's codebase found critical vulnerabilities after 20 years",
+  "Altman: expect a world of far more serious vulnerabilities than assumed",
+  "Test-time compute unlocks massive agent swarms",
+  "Internal experiments have models working through Navier-Stokes-level math",
+  "Calls sandboxing superhuman models an unsolved safety dilemma",
+  "Robotics will scale gigawatt data centers; personal agents will replace web forms and apps",
+  "Chapter markers include 'revenue per gigawatt' and 'token pricing is fake'"
+ ]
+}

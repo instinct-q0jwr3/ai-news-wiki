@@ -1,0 +1,15 @@
+{
+ "id": "cb4f7e3ca654",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "ZDNET's coverage of the Mistral Large 4 weights release puts numbers on the 'Le Chonk' claims. On Terminal-Bench 4.0 the model jumped from 28 percent in preview to 41 percent, edging past GLM-5.3 by a point - a meaningful few weeks of additional training. On Artificial Analysis' overall Coding Agent Index it scores 48, one point behind GLM-5.3's 49 and level with Codex GPT-6.1 Terra. Mistral's efficiency claim is the sharper one: rivaling top open models while using 47 percent fewer tokens per task on average.\n\nThe piece frames the release as Western open models gaining ground on their Chinese peers, with three reasoning modes (low, medium, high) now standard for models of this size, and Mistral emphasizing cyber-defense capabilities and data sovereignty. ZDNET adds the standing caveat: benchmark scores deserve skepticism given how many models are tuned - or caught cheating - against them.",
+ "highlights": [
+  "Terminal-Bench 4.0: 41%, up from 28% in preview, a point ahead of GLM-5.3",
+  "Overall AA Coding Agent Index: 48, one behind GLM-5.3, tied with GPT-6.1 Terra",
+  "Mistral claims parity with top open models at 47% fewer tokens per task",
+  "Framed as Western open models closing on Chinese peers",
+  "Three reasoning modes; cyber defense and sovereignty emphasized",
+  "ZDNET caveat: benchmark scores warrant skepticism given widespread gaming"
+ ]
+}

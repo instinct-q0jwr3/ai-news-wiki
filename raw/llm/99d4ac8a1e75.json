@@ -1,0 +1,16 @@
+{
+ "id": "99d4ac8a1e75",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Stratechery's Ben Thompson interviews Palantir CTO Shyam Sankar - twenty years at the company - on diffusing intelligence rather than just producing it, AI safety, what Palantir has learned deploying AI, the forward-deployed engineer model, Anthropic's battle with the US government, and what he calls the industry's religious war over AI."
+ ],
+ "highlights": [
+  "Sankar on diffusing intelligence, safety and Palantir's AI lessons",
+  "Forward-deployed engineering explained",
+  "Covers Anthropic vs. the US government and tech's 'religious war' over AI",
+  "Basis: Techmeme summary; the fetched page was the Stratechery homepage, not the interview"
+ ],
+ "basis": "The cached page is the Stratechery homepage rather than the interview itself (the feed URL did not resolve to the article), so this entry is based on the Techmeme feed summary. A full abstract of the same interview exists via the Stratechery feed (story d43a7c5a56a9)."
+}

@@ -1,0 +1,16 @@
+{
+ "id": "19eb6ac1c116",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Epic Games confirmed it is using AI tools to develop code and features for Unreal Engine, including core engine components such as the D3D12 rendering layer, following CEO Tim Sweeney's announced 'huge pivot' toward AI tools."
+ ],
+ "highlights": [
+  "Epic using AI tools on Unreal Engine code and features",
+  "Includes core components like the D3D12 rendering layer",
+  "Follows Tim Sweeney's 'huge pivot' toward AI tooling",
+  "Basis: Techmeme summary; source page extraction empty"
+ ],
+ "basis": "The source page yielded no extractable text (under 400 chars), so this entry is based on the Techmeme feed summary and headline."
+}

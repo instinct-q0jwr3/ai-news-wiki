@@ -1,0 +1,14 @@
+{
+ "id": "09c85f5661f4",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "GitHub's Copilot Automations can now learn from their own outcomes and propose improvements to themselves. Automations leave a trail of signals on GitHub - whether their pull requests get merged, how reviewers respond, whether their output gets used - and a self-improving automation uses those signals to draft changes to its own prompt, tools or triggers. The human stays in the loop: every proposed change arrives as a reviewable diff that can be accepted or rejected before it applies.\n\nThe feature can also work at the meta level: asked to set up a self-improving workflow, Copilot may create a group of automations that cooperate - for example, a custom code reviewer plus a second automation whose job is to improve the first. Self-improving automations are available across Copilot Pro, Pro+, Max, Business and Enterprise plans.",
+ "highlights": [
+  "Copilot Automations now learn from outcome signals on GitHub (merges, reviews, usage)",
+  "Proposes edits to its own prompt, tools and triggers",
+  "Every proposed change requires human review before applying",
+  "Can spin up cooperating groups - e.g. a reviewer plus an automation that improves it",
+  "Available on Copilot Pro, Pro+, Max, Business and Enterprise"
+ ]
+}

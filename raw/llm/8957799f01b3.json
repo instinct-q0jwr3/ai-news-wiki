@@ -1,0 +1,17 @@
+{
+ "id": "8957799f01b3",
+ "authored_at": "2026-10-29T14:57:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports that DeepSeek and Moonshot AI relied heavily on distilling OpenAI's GPT-6 Astra to train models including Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown closed off its models as a distillation source. GPT-6 Astra, OpenAI's most powerful release, has seen strong demand since early September."
+ ],
+ "highlights": [
+  "Sources: DeepSeek and Moonshot leaned heavily on GPT-6 Astra distillation",
+  "Targets included Kimi K3.1 Pro and V4.1-Flash 1017",
+  "Shift followed Anthropic's distillation crackdown",
+  "Astra is OpenAI's most powerful model, in strong demand since early September",
+  "Basis: Techmeme summary; The Information paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (The Information paywall), so this entry is based on the Techmeme feed summary and headline."
+}
