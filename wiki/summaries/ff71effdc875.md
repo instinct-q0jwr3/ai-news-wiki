@@ -1,6 +1,6 @@
 # Canadian AI company turns away from U.S. government work amid trade tensions
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-29 · confidence: high_
 
 `hacker-news`
 

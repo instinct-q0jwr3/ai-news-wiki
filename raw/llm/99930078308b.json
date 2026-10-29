@@ -1,0 +1,16 @@
+{
+ "id": "99930078308b",
+ "authored_at": "2026-10-29T02:53:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Microsoft regulatory filing reveals the scale of the OpenAI relationship: $10 billion in revenue from commercial arrangements with OpenAI in the quarter ended September 30 - nearly 11% of Microsoft's $92.3 billion quarterly total - and $24.1 billion for the full 2026 fiscal year. At the current pace, OpenAI-related arrangements would bring in $40 billion annually.",
+  "Microsoft also holds $7.2 billion in outstanding receivables from OpenAI, up from $6 billion in June. The split between revenue-sharing payments and Azure cloud services isn't disclosed; leaked documents previously showed $865.8 million in net revenue-sharing over the first nine months of 2025 under a 20% revenue-share deal."
+ ],
+ "highlights": [
+  "$10B from OpenAI in one quarter - ~11% of Microsoft's revenue",
+  "$24.1B from OpenAI across FY2026; $40B annual run rate",
+  "$7.2B in outstanding OpenAI receivables",
+  "Split between revenue share and Azure spend undisclosed"
+ ]
+}

@@ -1,6 +1,6 @@
 # Decompiling Games with AI: Virtueel Zoetermeer
 
-_type: news-summary · created: 2026-10-28 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-28 · updated: 2026-10-29 · confidence: high_
 
 `hacker-news`
 

@@ -1,6 +1,6 @@
 # Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-29 · confidence: high_
 
 `techmeme` `apple`
 

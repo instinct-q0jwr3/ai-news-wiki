@@ -1,6 +1,6 @@
 # Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively
 
-_type: news-summary · created: 2026-10-22 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-22 · updated: 2026-10-29 · confidence: high_
 
 `techmeme` `openai` `anthropic` `nvidia` `ai-safety-incidents`
 

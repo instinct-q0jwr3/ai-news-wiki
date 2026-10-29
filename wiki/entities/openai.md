@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-29** - Simon Willison quotes Ted Sanders on model naming and scaling: LLM performance is multidimensional - the best math model may not tell the best jokes - yet a single variable, model size, explains much of the variation. Bigger models are more performant and… ([Quoting Ted Sanders](../summaries/0375d709192c.md) · [OpenAI](../entities/openai.md))
+- **2026-10-29** - A Microsoft regulatory filing reveals the scale of the OpenAI relationship: $10 billion in revenue from commercial arrangements with OpenAI in the quarter ended September 30 - nearly 11% of Microsoft's $92.3 billion quarterly total - and $24.1 billion for… ([Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI](../summaries/99930078308b.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md))
 - **2026-10-28** - Simon Willison declares October 2026 the inflection point for vibe coding computer games, a year after November 2025 did the same for coding agents generally. His evidence: a run of Claude Opus 5.5 sessions that went from single prompts ('build a three.js… ([The October inflection point for vibe game development](../summaries/387e1c1b31ef.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-28** - The San Francisco Chronicle reports a federal grand jury indicted OpenAI engineer Abdulrahman 'Abdul' Alfozan, a Saudi national, on a felony charge of interception of oral communications - the case of the engineer accused of bugging a San Francisco… ([A US federal grand jury indicts OpenAI engineer and Saudi national Abdulrahman "Abdul" Alfozan on a felony charge of interception of oral communications](../summaries/528adf56a7c5.md) · [OpenAI](../entities/openai.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-10-28** - A woman worried about reducing her medication dose was encouraged by ChatGPT to push on, according to this reported account. The story adds to the growing file of cases where chatbot advice intersects with medical decisions that belong with clinicians. ([She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On](../summaries/4be864963df6.md) · [OpenAI](../entities/openai.md)) 🔒

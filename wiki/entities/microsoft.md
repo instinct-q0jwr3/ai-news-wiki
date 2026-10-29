@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-29** - A Microsoft regulatory filing reveals the scale of the OpenAI relationship: $10 billion in revenue from commercial arrangements with OpenAI in the quarter ended September 30 - nearly 11% of Microsoft's $92.3 billion quarterly total - and $24.1 billion for… ([Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI](../summaries/99930078308b.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md))
 - **2026-10-28** - Reuters reports Microsoft's quarterly results: capex of $45.2 billion, up from $34.9 billion a year earlier but below the company's own $50 billion projection, and free cash flow of $18.6 billion against an $8.54 billion analyst estimate. Quarterly cloud… ([Microsoft reports Q1 capex of $45.2B, up from $34.9B a year earlier and below its own $50B projection, and free cash flow of $18.6B, vs. $8.54B est. by analysts](../summaries/b5a93ac45305.md) · [Microsoft](../entities/microsoft.md)) ⚠
 - **2026-10-28** - An essay argues the games industry is having its 'reap what you sow' moment: AI decompilation advances led by Claude Opus 5.5 are pumping out browser ports and native PC recompilations of games daily, and publishers can't keep up. Epic Games is DMCA-ing… ([Microsoft and Epic Games Suddenly Agree That AI Is Theft](../summaries/d692e119b7de.md) · [Microsoft](../entities/microsoft.md))
 - **2026-10-28** - Cory Doctorow applies his 2001 'Metacrap' critique of the Semantic Web to agentic commerce: any plan that begins by requiring everyone else to set aside their own needs in favor of your priorities is doomed. The original agentic vision - one chatbot… ([Pluralistic: Agents vs ecommerce (28 Oct 2026)](../summaries/ccd49fa95c80.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [The frontier model price war](../concepts/ai-price-war.md))

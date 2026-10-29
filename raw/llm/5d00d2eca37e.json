@@ -1,0 +1,16 @@
+{
+ "id": "5d00d2eca37e",
+ "authored_at": "2026-10-29T02:53:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The MicroZig and Zig Embedded Group projects adopted one of the strictest no-AI policies yet: no LLM-generated code or prose, no paraphrasing LLM output, no LLM editing including spelling and grammar fixes, no LLM translation, no LLM-assisted brainstorming shared in the space, no LLMs for finding bugs, and no talking about chatbot use at all.",
+  "The policy, modeled on Zig's Code of Conduct, took effect October 28, 2026 across the GitHub organization and Discord. Posting in one's native language is explicitly welcome - translation is the reader's problem, not a reason to use a model."
+ ],
+ "highlights": [
+  "MicroZig bans all LLM-generated content, code or prose",
+  "Extends to editing, translation, brainstorming and bug-finding",
+  "Even discussing chatbot use is barred in the project spaces",
+  "Effective October 28, 2026; modeled on Zig's CoC"
+ ]
+}

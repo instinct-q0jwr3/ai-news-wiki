@@ -1,6 +1,6 @@
 # Hugging Face
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-28 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-29 · confidence: medium_
 
 `entity` `hugging-face` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Hugging Face operates a major platform for models, datasets and open AI tooling.
 
 ## Timeline
 
+- **2026-10-29** - Reuters reports the US Department of Justice has inquired about the impact of Nvidia's $12.93 billion acquisition of Hugging Face on AI competition, as antitrust enforcers continue probing Nvidia's conduct across the AI stack. ([the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct](../summaries/892370e4ec69.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) ⚠
 - **2026-10-25** - Destined AI has released Hurston-1, an open-source text-to-speech model built for the accents most TTS systems flatten into generic American English: Southern American, Nigerian, West African, East African and Southern African, alongside broader American… ([Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](../summaries/594eb857b895.md) · [Hugging Face](../entities/hugging-face.md) · [Amazon](../entities/amazon.md))
 - **2026-10-19** - An arXiv paper proposing HybridAgents, an agent architecture that lets an LLM reason internally in latent (continuous) space while still acting through ordinary text. Pure text-based agents are transparent and tool-friendly but expensive; latent reasoning… ([Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](../summaries/60fb8c999970.md) · [Hugging Face](../entities/hugging-face.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-10-15** - Basis: headline only, the source could not be fetched. A Q&A with Dwarkesh Patel on his podcast, history, AGI and the mood in San Francisco. ([Q&A with Dwarkesh Patel on his podcast, lessons from history, AGI, the mood in San Francisco, the Hugging Face hack, Chinese AI, pacing the frontier, and more](../summaries/0d57207fbcfc.md) · [Hugging Face](../entities/hugging-face.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒

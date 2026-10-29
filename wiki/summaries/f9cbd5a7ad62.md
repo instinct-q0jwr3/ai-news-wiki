@@ -1,6 +1,6 @@
 # More Money Than They Ever Imagined–and No Clue How to Spend It
 
-_type: news-summary · created: 2026-10-14 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-14 · updated: 2026-10-29 · confidence: high_
 
 `hacker-news`
 

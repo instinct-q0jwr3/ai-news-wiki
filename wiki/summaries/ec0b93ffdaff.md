@@ -1,6 +1,6 @@
 # Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable
 
-_type: news-summary · created: 2026-10-27 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-27 · updated: 2026-10-29 · confidence: high_
 
 `techmeme` `anthropic`
 

@@ -1,6 +1,6 @@
 # Battle Drones - a vibe coded RTS with audio-based multiplayer
 
-_type: news-summary · created: 2026-10-20 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-20 · updated: 2026-10-29 · confidence: high_
 
 `simon-willison` `openai` `anthropic` `meta` `agentic-systems` `external-evaluation` `small-specialist-models` `ai-safety-incidents` `ai-coding-agents` `labor-displacement`
 

@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-10-29** - VentureBeat details the Gemini 4 Carbon commercial rollout: selected cybersecurity defenders get access first through Google's curated Fairwind Program, at introductory prices of $2 per million input tokens and $10 per million output - matching Argon's… ([Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later](../summaries/a76673c394b5.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-28** - Google announced Gemini 4 Carbon, its strongest model, two weeks after Argon, with state-of-the-art cybersecurity and long-horizon capabilities. It ranks #1 on Artificial Analysis Intelligence Index v5.0 at 59, and leads SEC-bench Pro (88.2%) for… ([Google unveils Gemini 4 Carbon, its "strongest model with state-of-the-art cybersecurity" capabilities, ranked #1 on Artificial Analysis' new Intelligence Index](../summaries/59212b5c789f.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-28** - Google DeepMind's Gemini Robotics Embodied Reasoning 2 is now in public preview on Google Cloud, bringing the specialized high-level 'robot brain' model to enterprise production. ER 2 combines spatio-temporal video understanding, long-horizon planning and… ([Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud](../summaries/1805d8f19215.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-10-27** - Simon Willison reports from GitHub Universe that the conference badge is a full color-screen computer, and that Steve Francia - working with Gemini - got a NES emulator running on it, then went further and deployed Game Boy and Game Boy Color emulators.… ([Game Boy Color on My Conference Badge](../summaries/2317beaa0978.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

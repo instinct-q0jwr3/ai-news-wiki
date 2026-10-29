@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-28 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-29** - VentureBeat details the Gemini 4 Carbon commercial rollout: selected cybersecurity defenders get access first through Google's curated Fairwind Program, at introductory prices of $2 per million input tokens and $10 per million output - matching Argon's… ([Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later](../summaries/a76673c394b5.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-28** - Google announced Gemini 4 Carbon, its strongest model, two weeks after Argon, with state-of-the-art cybersecurity and long-horizon capabilities. It ranks #1 on Artificial Analysis Intelligence Index v5.0 at 59, and leads SEC-bench Pro (88.2%) for… ([Google unveils Gemini 4 Carbon, its "strongest model with state-of-the-art cybersecurity" capabilities, ranked #1 on Artificial Analysis' new Intelligence Index](../summaries/59212b5c789f.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-28** - Ars Technica found Google's AI Mode evasive when asked directly who won the 2020 US presidential election, deflecting to the FEC's official report instead of stating Joe Biden's win - and giving similarly indirect answers for 2024 and 2012, while answering… ([Google AI gets cagey when asked who won the 2020 elections](../summaries/9d11cf8af00a.md) · [Google](../entities/google.md))
 - **2026-10-28** - Cory Doctorow applies his 2001 'Metacrap' critique of the Semantic Web to agentic commerce: any plan that begins by requiring everyone else to set aside their own needs in favor of your priorities is doomed. The original agentic vision - one chatbot… ([Pluralistic: Agents vs ecommerce (28 Oct 2026)](../summaries/ccd49fa95c80.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [The frontier model price war](../concepts/ai-price-war.md))

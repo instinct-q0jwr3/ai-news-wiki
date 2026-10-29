@@ -1,0 +1,16 @@
+{
+ "id": "8bc062d871cc",
+ "authored_at": "2026-10-29T02:53:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports ServiceNow posted Q3 subscription revenue up 21% year over year to $3.99 billion, but forecast Q4 current remaining performance obligations below analyst estimates. Shares dropped more than 15% after hours."
+ ],
+ "highlights": [
+  "ServiceNow Q3 subscriptions +21% to $3.99B",
+  "Q4 cRPO guidance missed estimates",
+  "Shares fell 15%+ after hours",
+  "Basis: Techmeme summary; Bloomberg paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

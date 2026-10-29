@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-10-28T20:45:08+00:00",
+ "generated_at": "2026-10-29T02:46:02+00:00",
  "stories": [
   {
-   "id": "59212b5c789f",
-   "title": "Google unveils Gemini 4 Carbon, its \"strongest model with state-of-the-art cybersecurity\" capabilities, ranked #1 on Artificial Analysis' new Intelligence Index",
+   "id": "2b95df195dae",
+   "title": "The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system",
    "source": "Techmeme",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
   },
   {
-   "id": "3a6a6d8ef1c4",
-   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "id": "c0c153720a0f",
+   "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
    "source": "Hacker News",
-   "url": "https://surgehq.ai/blog/dayjob-tax"
+   "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/"
   },
   {
-   "id": "5010d60ef1ff",
-   "title": "Big Tech's thirst for water is sparking a global resistance",
+   "id": "5d00d2eca37e",
+   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
    "source": "Hacker News",
-   "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/"
+   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
   },
   {
-   "id": "ede029c964cf",
-   "title": "Particle-1",
+   "id": "93bdd7d8e97b",
+   "title": "Scaling Hierarchical Networks",
    "source": "Hacker News",
-   "url": "https://particle.ai/blog/introducing-particle-1"
+   "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1"
   },
   {
-   "id": "b7d4ed0edd36",
-   "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+   "id": "88b4dd412c51",
+   "title": "AI execs may be too out of touch to build for the general public",
    "source": "Hacker News",
-   "url": "https://bou.ke/blog/zoetermeer/"
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
   },
   {
-   "id": "9d11cf8af00a",
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
-  },
-  {
-   "id": "d36a5c6ca671",
-   "title": "NY Gov. Kathy Hochul signs bills banning AI chatbots from using \"unsafe features\" for minors and requiring security features in internet-connected baby monitors",
-   "source": "Techmeme",
-   "url": "https://news.bgov.com/bloomberg-government-news/hochul-signs-bills-on-ai-risks-to-children-in-pre-election-push"
-  },
-  {
-   "id": "64dc0c2e5fb4",
-   "title": "Why Agents Love Supabase",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/supabase/"
-  },
-  {
-   "id": "fd9449f7b212",
-   "title": "Pair-coding Lobste.rs feat",
-   "source": "Lobsters",
-   "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat"
-  },
-  {
-   "id": "387e1c1b31ef",
-   "title": "The October inflection point for vibe game development",
+   "id": "0375d709192c",
+   "title": "Quoting Ted Sanders",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+   "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
   },
   {
-   "id": "b5a93ac45305",
-   "title": "Microsoft reports Q1 capex of $45.2B, up from $34.9B a year earlier and below its own $50B projection, and free cash flow of $18.6B, vs. $8.54B est. by analysts",
+   "id": "892370e4ec69",
+   "title": "the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/retail-consumer/microsoft-beats-quarterly-cloud-revenue-estimates-2026-10-28/"
+   "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/"
   },
   {
-   "id": "09046166f585",
-   "title": "GitHub Octoverse 2026",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
+   "id": "8bc062d871cc",
+   "title": "ServiceNow reports Q3 subscription revenue up 21% YoY to $3.99B, forecasts Q4 current remaining performance obligations below est.; NOW drops 15%+ after hours",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-28/servicenow-falls-after-quarterly-sales-outlook-revives-ai-fears"
   },
   {
-   "id": "eaa79fb649be",
-   "title": "Artificial Analysis Intelligence Index v5",
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5"
+   "id": "a76673c394b5",
+   "title": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later",
+   "source": "Techmeme",
+   "url": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited"
+  },
+  {
+   "id": "99930078308b",
+   "title": "Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+  },
+  {
+   "id": "ca14ee531763",
+   "title": "Marvell is in advanced talks to buy data center optics maker Lumentum, whose market value is ~$83B; the deal could be announced as soon as next week",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal"
+  },
+  {
+   "id": "ff35f051b8e7",
+   "title": "Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea's National Growth Fund contributed $280M",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase"
+  },
+  {
+   "id": "903392e12656",
+   "title": "AI coding startup Cognition weighs a new funding round before year's end after receiving offers valuing it at $70B-$80B, up from $48B in September",
+   "source": "Techmeme",
+   "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10"
   }
  ]
 }

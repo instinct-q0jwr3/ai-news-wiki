@@ -1,0 +1,16 @@
+{
+ "id": "892370e4ec69",
+ "authored_at": "2026-10-29T02:53:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reuters reports the US Department of Justice has inquired about the impact of Nvidia's $12.93 billion acquisition of Hugging Face on AI competition, as antitrust enforcers continue probing Nvidia's conduct across the AI stack."
+ ],
+ "highlights": [
+  "DOJ inquiring into Nvidia's $12.93B Hugging Face deal",
+  "Framed as part of ongoing antitrust probes of Nvidia",
+  "Question: impact on AI competition",
+  "Basis: Techmeme summary; Reuters returned HTTP 401"
+ ],
+ "basis": "The fetch failed with HTTP 401 (Reuters), so this entry is based on the Techmeme feed summary and headline."
+}

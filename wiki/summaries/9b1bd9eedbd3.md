@@ -1,6 +1,6 @@
 # Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts
 
-_type: news-summary · created: 2026-10-18 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-18 · updated: 2026-10-29 · confidence: high_
 
 `techmeme` `anthropic` `agentic-systems`
 

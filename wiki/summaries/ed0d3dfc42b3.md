@@ -1,6 +1,6 @@
 # Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027
 
-_type: news-summary · created: 2026-10-20 · updated: 2026-10-28 · confidence: high_
+_type: news-summary · created: 2026-10-20 · updated: 2026-10-29 · confidence: high_
 
 `techmeme`
 

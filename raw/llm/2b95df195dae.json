@@ -1,0 +1,16 @@
+{
+ "id": "2b95df195dae",
+ "authored_at": "2026-10-29T02:53:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Wired reports an unprecedented leak of DHS records exposing personal data of more than 41,000 employees and contractors across the department and seven component agencies including ICE and CBP: email addresses, phone numbers, office addresses, plus references to internal systems and sensitive details on undercover and surveillance programs - a map of how DHS operates.",
+  "Transparency nonprofit DDoSecrets published the archive, called 'Icepick', after previewing it with researcher maia arson crimew; the group behind it calls itself the Department of Peace and claims the data comes from DHS's Okta login system. Okta says it has no evidence of a breach. The leak lands as DHS aggressively pursues its own critics - unmasking anonymous accounts and seeking protesters' records."
+ ],
+ "highlights": [
+  "41,000+ DHS employee and contractor records leaked",
+  "Includes ICE/CBP facility locations and undercover program references",
+  "Hackers ('Department of Peace') claim DHS Okta breach; Okta denies",
+  "Published by DDoSecrets as the 'Icepick' archive"
+ ]
+}

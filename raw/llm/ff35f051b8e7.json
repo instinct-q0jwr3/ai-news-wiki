@@ -1,0 +1,16 @@
+{
+ "id": "ff35f051b8e7",
+ "authored_at": "2026-10-29T02:53:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports Seoul-based FuriosaAI raised a $620 million Series D at a $2.9 billion valuation, quadrupling from $735 million in 2025, as it bids to challenge Nvidia. South Korea's National Growth Fund contributed $280 million of the round."
+ ],
+ "highlights": [
+  "FuriosaAI: $620M Series D at $2.9B valuation",
+  "Valuation quadrupled from $735M in 2025",
+  "Korea's National Growth Fund put in $280M",
+  "Basis: Techmeme summary; Bloomberg paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (Bloomberg paywall), so this entry is based on the Techmeme feed summary and headline."
+}

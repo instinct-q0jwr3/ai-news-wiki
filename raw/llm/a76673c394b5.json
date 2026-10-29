@@ -1,0 +1,16 @@
+{
+ "id": "a76673c394b5",
+ "authored_at": "2026-10-29T02:53:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "VentureBeat details the Gemini 4 Carbon commercial rollout: selected cybersecurity defenders get access first through Google's curated Fairwind Program, at introductory prices of $2 per million input tokens and $10 per million output - matching Argon's launch rates - with a 95% cached-input discount. A footnote reveals later prices of $4 and $20, timing unspecified.",
+  "Artificial Analysis ranks Carbon (high reasoning) first on Intelligence Index v5.0 with 59, ahead of Claude Opus 5.5 (58), GPT-6 Astra (57) and Argon (50). Carbon tops 15 of 17 benchmark rows in Google's own chart, though OpenAI keeps one software engineering lead and Anthropic one computer-use lead. Independent testing notes tradeoffs alongside the gains."
+ ],
+ "highlights": [
+  "Carbon via Fairwind first: $2/$10 per million tokens, rising to $4/$20",
+  "95% cached-input discount at introductory pricing",
+  "AA Index: 59 vs Opus 5.5's 58 and Astra's 57",
+  "Tops 15 of 17 benchmarks; OpenAI and Anthropic keep one lead each"
+ ]
+}

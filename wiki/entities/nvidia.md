@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-28 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-29 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-29** - Bloomberg reports Seoul-based FuriosaAI raised a $620 million Series D at a $2.9 billion valuation, quadrupling from $735 million in 2025, as it bids to challenge Nvidia. South Korea's National Growth Fund contributed $280 million of the round. ([Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea's National Growth Fund contributed $280M](../summaries/ff35f051b8e7.md) · [NVIDIA](../entities/nvidia.md)) 🔒
+- **2026-10-29** - Reuters reports the US Department of Justice has inquired about the impact of Nvidia's $12.93 billion acquisition of Hugging Face on AI competition, as antitrust enforcers continue probing Nvidia's conduct across the AI stack. ([the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct](../summaries/892370e4ec69.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) ⚠
 - **2026-10-28** - Nvidia and AMD committed a combined $4 billion to Meta's equity offering: $3 billion from Nvidia and $1 billion from AMD, following Meta's announcement of a $95 billion raise for AI infrastructure. AMD added that its first Helios rackscale systems are… ([AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent](../summaries/3710255ec943.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-28** - The Information reports OpenAI plans to buy Google's TPUs despite being a major Nvidia customer, with a job listing seeking an engineer to 'lead the optimization' of its models on TPUs. The move would boost Google's rising challenge to Nvidia, an OpenAI… ([OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to "lead the optimization" of its models on TPUs](../summaries/762869b92ad7.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-27** - Nvidia and Meta are expanding their partnership around Muse, Meta's AI assistant, in a deal both companies frame as evidence of demand for 'useful' AI agents. As part of the deepened collaboration, Meta intends to deploy more Nvidia infrastructure -… ([Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise](../summaries/2166a8e81b35.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Muse (Meta)](../entities/muse.md))
