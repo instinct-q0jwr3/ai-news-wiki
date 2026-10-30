@@ -1,0 +1,15 @@
+{
+  "id": "89e1149e6722",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "A video of Neal Stephenson discussing 'AI and What Comes Next' is circulating on Hacker News. The cached page is YouTube's player shell - title and chrome only, with no transcript or description text - so the substance of the talk cannot be summarized from the available source. What the metadata supports: this is a recorded video of the author speaking about AI and its consequences."
+  ],
+  "highlights": [
+    "Video of Neal Stephenson on AI and what comes next",
+    "Cache is the YouTube player shell only; no transcript available",
+    "Summary limited to what the page metadata shows"
+  ],
+  "basis": "basis: YouTube page metadata only; video content not transcribed in cache"
+}

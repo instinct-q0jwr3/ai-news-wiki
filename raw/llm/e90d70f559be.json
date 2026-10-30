@@ -1,0 +1,15 @@
+{
+  "id": "e90d70f559be",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "NAND maker Kioxia reported fiscal Q2 operating profit up 22x year over year to about $12.7B, in line with estimates, on the back of ballooning AI data-storage demand - but forecast Q3 operating profit of roughly the same ~$12.7B, below the ~$14.9B analysts expected, warning that the AI-fueled surge in flash prices is not a straight line, per Bloomberg via Techmeme. The Bloomberg article is paywalled to the fetcher (HTTP 403), so figures come from the feed's report."
+  ],
+  "highlights": [
+    "Kioxia FY Q2 operating profit up 22x YoY to ~$12.7B, in line with estimates",
+    "Q3 forecast ~$12.7B, below the ~$14.9B estimate",
+    "AI data-storage demand is driving flash memory prices, but the outlook trails hopes",
+    "basis: Techmeme summary of the Bloomberg report; Bloomberg returns HTTP 403 to the fetcher"
+  ]
+}

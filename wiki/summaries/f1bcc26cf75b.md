@@ -1,0 +1,27 @@
+# Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code
+
+_type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high_
+
+`hacker-news`
+
+## Summary
+
+Cisco president and chief product officer Jeetu Patel has handed a 27-year-old engineer an extraordinary mandate: rewrite 98% of the company's legacy code within 24 months, with unlimited AI tokens to do it, Fortune reports via Tom's Hardware. Padmanabhan Krishnamurthy joined Cisco through its 2023 acquisition of EzDubs, the translation startup he co-founded, and was, in Patel's words, buried five levels down doing something unstrategic. Krishnamurthy pitched the idea directly: he told Patel he could rewrite Cisco's legacy code with a team of just two people - a level of ambition that, Patel admits, even the most AI-forward people on his own team were not voicing.
+
+The deal comes with a proof-of-concept gate: four weeks to show the approach works before the two-year clock really starts. The story lands as a marker of how incumbents are rethinking who drives AI transformation - not a central lab or a consultancy, but a single empowered engineer with a token budget and a founder's confidence.
+
+## Highlights
+
+- Cisco gives Padmanabhan Krishnamurthy, 27, unlimited AI tokens to rewrite 98% of legacy code in 24 months
+- Krishnamurthy joined via the 2023 EzDubs acquisition and sat five levels below his current remit
+- He claimed a two-person team could do the rewrite - beyond what Patel's own AI-forward staff proposed
+- Four-week proof of concept gates the full 24-month mandate
+- Patel: "I've given him unlimited tokens... you can go nuts"
+
+## Source
+
+[Read the original story](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
+
+## Related pages
+
+_No related entity or concept page yet._

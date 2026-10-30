@@ -102,6 +102,16 @@ DISPUTED=[
                r'NPM,? OpenVSX,? and (the )?(Microsoft |official )?VS ?Code (marketplace |extension)?builds? (are|were) unaffected'],
   'required':[r'scope outside Cursor.{0,40}(not settled|disputed|unconfirmed)'],
   'note':'Claude Code 2.1.313 incident (Oct 2026): Cursor confirmed only its own marketplace; cleanliness of NPM/OpenVSX/VSCode is asserted by one writeup but disputed by other researchers. No categorical exclusion while disputed.'},
+ {'id':'d19636d7fe25',
+  'forbidden':[r'are all clean', r'are NOT affected', r'NOT malicious\\b',
+               r'NPM,? OpenVSX,? and (the )?(Microsoft |official )?VS ?Code (marketplace |extension)?builds? (are|were) unaffected'],
+  'required':[r'beyond Cursor.{0,40}(contested|disputed|unconfirmed|not settled)'],
+  'note':'Claude Code 2.1.313 incident (Oct 2026): same disputed-scope guard as 22215744d33a.'},
+ {'id':'834b8a6bd154',
+  'forbidden':[r'are all clean', r'are NOT affected', r'NOT malicious\\b',
+               r'NPM,? OpenVSX,? and (the )?(Microsoft |official )?VS ?Code (marketplace |extension)?builds? (are|were) unaffected'],
+  'required':[r'competing accounts'],
+  'note':'Claude Code 2.1.313 incident (Oct 2026): same disputed-scope guard as 22215744d33a.'},
 ]
 for e in DISPUTED:
     texts=[]

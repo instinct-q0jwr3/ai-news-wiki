@@ -1,0 +1,13 @@
+{
+  "id": "c9e563c3ce4d",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Fish Audio has released upgraded weights for Drama 3, its voice model, and Artificial Analysis' independent benchmarks put it at the top of the open-weight field. On the Speech Arena leaderboards, Drama 3 takes the #1 open-weight spot on both Provider Voice (where it ranks #6 overall, +38 Elo over the Preview) and Controlled Voice (+22 Elo over Preview), and it is #1 of all models on the Pronunciation Robustness benchmark.",
+  "highlights": [
+    "Fish Audio ships upgraded Drama 3 weights",
+    "#1 open-weight on both Artificial Analysis Speech Arenas",
+    "Provider Voice: #6 overall, +38 Elo over Preview; Controlled Voice: +22 Elo",
+    "#1 of all models on Pronunciation Robustness"
+  ]
+}

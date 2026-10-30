@@ -1,0 +1,14 @@
+{
+  "id": "7f126c42437e",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Natural brings Direct to general availability, giving agents a runtime choice of payment rail: ACH, wire, or realtime payments over RTP and FedNow, with mailed paper checks and international wire promised next. The argument is that agents making on-the-spot decisions cannot know in advance who they will need to pay - the counterparty's rail, due date and banking details surface at runtime - so the financial primitives have to be selectable programmatically, from the same Natural wallet an agent already uses for instant payments, requests, issued cards and checkout acceptance.\n\nThe operator keeps the reins: the controls and limits configured in Natural apply regardless of which rail the agent picks. The post walks through when each rail makes sense - ACH for payroll, invoices and rent with predictable next-day batch settlement, versus wires and realtime rails for immediacy.",
+  "highlights": [
+    "Natural Direct hits GA: agents pick ACH, wire or realtime (RTP/FedNow) programmatically",
+    "Paper checks and international wire announced as coming soon",
+    "All rails run from the same Natural wallet used for instant payments, requests and cards",
+    "User-configured controls and limits apply across every rail",
+    "Rationale: counterparties and rails surface at agent runtime, not in advance"
+  ]
+}

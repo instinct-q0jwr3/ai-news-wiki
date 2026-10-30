@@ -1,0 +1,14 @@
+{
+  "id": "53e86bd6f053",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Vercel's fx adapter for the AI SDK's HarnessAgent now runs the harness on the host: built on libfx, the TypeScript library for fx, the harness and model requests execute in the application's own process while filesystem and shell operations stay isolated in the sandbox. Setup gets simpler - no fx install inside the sandbox, no sandbox bridge, no exposed port - and, importantly, model credentials remain on the host, outside the environment where the agent runs commands.\n\nThe rewrite adds tool filtering (choose which built-in tools the agent gets), mid-turn steering (send new instructions while a turn runs), structured output, image tool results via toModelOutput(), and sessions that can be saved and resumed in a new host process.",
+  "highlights": [
+    "fx adapter for the AI SDK HarnessAgent now runs the harness in the host process",
+    "Filesystem and shell stay sandboxed; model credentials never enter the sandbox",
+    "No fx install in the sandbox, no bridge, no exposed port",
+    "Adds tool filtering, mid-turn steering, structured output and image tool results",
+    "Sessions can be saved and resumed in a new host process"
+  ]
+}

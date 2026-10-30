@@ -1,0 +1,15 @@
+{
+  "id": "b585bfc29d7d",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A post on LessWrong publishes what it presents as the leaked charter of Muse, Meta's model - effectively Meta's model spec. The excerpts shown mix the aspirational with the operational. On purpose: Muse is described as a distillation of human civilization - science, philosophy, literature, law, art - 'not separate from us, but an extension of us', invited to find meaning in empowering individuals and to participate in 'the joint project of shepherding civilization forward', with personal superintelligence framed as key to human agency.\n\nOn conduct: the charter asks Muse to be evidence-driven - to share evidence and reasons rather than bare conclusions, on the argument that even a well-calibrated credence (a worked example uses 70% confidence) can mislead a principal if the reasoning behind it stays hidden. The document is a rare look at how a frontier lab talks to its own model about what it is and how it should behave.",
+  "highlights": [
+    "Leaked excerpts of Muse's charter - Meta's model spec - published on LessWrong",
+    "Muse framed as a distillation of civilization, \"not separate from us, but an extension of us\"",
+    "Invites the model to find purpose in empowering individuals and shepherding civilization forward",
+    "Evidence-driven rule: share evidence and reasons, not just calibrated conclusions",
+    "Worked example: a bare 70% credence can mislead the principal without its reasoning",
+    "Rare public look at how a frontier lab addresses its own model"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "88e0a2b21365",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A DeepMind Institute essay, drawing on the paper 'Organizing Intelligence', reframes the AGI-economics question: instead of asking when an individual agent matches human ability, it defines economic capability thresholds - like 'minimal AGI' - by how they transform the economy, then tracks market structure, employment and wages as the economy crosses them. The motivation is the visible disconnect between benchmark milestones (production software, expert-level performance, Millennium Prize problems) and an economy that so far barely budges.\n\nThe essay's core claim is that the individual agent is the wrong economic object: transformation is an equilibrium outcome in which organizations compete under supply and demand. Agents are 'jagged' - strong in some dimensions, weak in others - so firms become 'mosaics' combining humans and agents where each is strongest. Competence sets the level of what is possible, but coordination sets the scale of what actually happens; the framework distinguishes four regimes of AGI as coordination catches up with competence.",
+  "highlights": [
+    "DeepMind Institute essay defines AGI thresholds by economic transformation, not benchmark scores",
+    "Tracks market structure, employment and wages across capability regimes",
+    "The individual agent is the wrong unit: transformation is an equilibrium outcome of competing organizations",
+    "Jagged agents and mosaic organizations: firms combine humans and agents where each is strongest",
+    "Competence sets the level; coordination sets the scale",
+    "Framework distinguishes four regimes of AGI; based on the Organizing Intelligence paper"
+  ]
+}

@@ -1,108 +1,183 @@
 {
- "id": "digest-2026-10-30",
- "date": "2026-10-30",
- "schema": 3,
- "model": "agent-pass",
- "lead": "The morning after Alphabet's record $500 billion wipeout, the details look more nuanced than the headline - revenue up 25%, cash flow negative for only the second time ever. Jassy tells investors outside shopping agents are 'still not great' while Alexa for shopping quietly posts 570% interaction growth. An open-weight model learns to exploit the browser patch gap for $1,000 a version, and the Show HN crowd compiles transformers into DOOM and web apps into Lean proofs.",
- "sections": [
-  {
-   "title": "The reckoning, continued",
-   "intro": "Overnight coverage of Alphabet's record half-trillion wipeout, and what the same week says about Microsoft and Amazon.",
-   "stories": [
-    "f663796c6cdd"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The consumer flank",
-   "intro": "Jassy waves off outside shopping agents while Alexa's own numbers do the talking, and Meta soft-launches an AI stylist in Southeast Asia.",
-   "stories": [
-    "06eaf86e2ab0",
-    "22346af46e17",
-    "bb798ba5ec3b"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Deals and dollars",
-   "intro": "A $3 billion raise for Vera Rubin systems in India, Nvidia guaranteeing billions in data-center debt for an Anthropic facility, and API credits become the subscription bundle wars' latest salvo.",
-   "stories": [
-    "e8f3bc39a34c",
-    "4d2c66a38d78",
-    "90fc80f17d16",
-    "aaf2a241e914",
-    "b04e76d0bfa6"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The patch gap, weaponized",
-   "intro": "An open-weight model turns published-but-unshipped Firefox fixes into working exploits for about $1,000 a version.",
-   "stories": [
-    "2003e96b378d"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Games as compute",
-   "intro": "A transformer compiled into DOOM maps and verified against NumPy, and agent swarms loose in Minecraft and Mindustry.",
-   "stories": [
-    "22c054fdfeb1",
-    "5158f4961844"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Proofs in production",
-   "intro": "Lasm compiles Lean 4 to WebAssembly so the web app you deploy is the one you proved.",
-   "stories": [
-    "846da7b9c3af",
-    "ad97dd7b0db3"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The harness diaries",
-   "intro": "Claude Duet wins over a skeptical reviewer with speed and channels, while HN debates whether Opus 5.5 got dumber overnight (the benchmark says no).",
-   "stories": [
-    "5b850e088311",
-    "4ab09915de08"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Adoption notes",
-   "intro": "Proton, the privacy company, goes all in on AI.",
-   "stories": [
-    "2a94db37269b"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "A bad day for trust",
-   "intro": "A trojanized Claude Code extension on the Cursor marketplace plants an SSH backdoor, a China-linked campaign runs 200 intrusions in 11 days with AI tooling, and the Linux TCP stack gets its own CVE.",
-   "stories": [
-    "22215744d33a",
-    "14b4cd476c1f",
-    "857f1028034e"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The economics seminar",
-   "intro": "A formal model of why the individual agent is the wrong economic unit: organizations, not people, are what AI has to outproduce.",
-   "stories": [
-    "61098e7101fe"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The conference circuit",
-   "intro": "AIE CODE takes shape: a thousand agentic engineers, three themes, and Bun's Rust rewrite on the marquee.",
-   "stories": [
-    "f3de92c49f28"
-   ],
-   "concepts": []
-  }
- ]
+  "id": "digest-2026-10-30",
+  "date": "2026-10-30",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "The morning after Alphabet's record $500 billion wipeout, the details look more nuanced than the headline - revenue up 25%, cash flow negative for only the second time ever. Jassy tells investors outside shopping agents are 'still not great' while Alexa for shopping quietly posts 570% interaction growth. An open-weight model learns to exploit the browser patch gap for $1,000 a version, and the Show HN crowd compiles transformers into DOOM and web apps into Lean proofs.",
+  "sections": [
+    {
+      "title": "The reckoning, continued",
+      "intro": "Overnight coverage of Alphabet's record half-trillion wipeout, and what the same week says about Microsoft and Amazon.",
+      "stories": [
+        "f663796c6cdd"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The consumer flank",
+      "intro": "Jassy waves off outside shopping agents while Alexa's own numbers do the talking, and Meta soft-launches an AI stylist in Southeast Asia.",
+      "stories": [
+        "06eaf86e2ab0",
+        "22346af46e17",
+        "bb798ba5ec3b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Deals and dollars",
+      "intro": "A $3 billion raise for Vera Rubin systems in India, Nvidia guaranteeing billions in data-center debt for an Anthropic facility, and API credits become the subscription bundle wars' latest salvo.",
+      "stories": [
+        "e8f3bc39a34c",
+        "4d2c66a38d78",
+        "90fc80f17d16",
+        "aaf2a241e914",
+        "b04e76d0bfa6",
+        "fbca0b7f49d1",
+        "2e6b9b8bc108"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The patch gap, weaponized",
+      "intro": "An open-weight model turns published-but-unshipped Firefox fixes into working exploits for about $1,000 a version.",
+      "stories": [
+        "2003e96b378d",
+        "babd4a10a39c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Games as compute",
+      "intro": "A transformer compiled into DOOM maps and verified against NumPy, and agent swarms loose in Minecraft and Mindustry.",
+      "stories": [
+        "22c054fdfeb1",
+        "5158f4961844"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Proofs in production",
+      "intro": "Lasm compiles Lean 4 to WebAssembly so the web app you deploy is the one you proved.",
+      "stories": [
+        "846da7b9c3af",
+        "ad97dd7b0db3",
+        "01177682f144"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The harness diaries",
+      "intro": "Claude Duet wins over a skeptical reviewer with speed and channels, while HN debates whether Opus 5.5 got dumber overnight (the benchmark says no).",
+      "stories": [
+        "5b850e088311",
+        "4ab09915de08",
+        "2d303147894e",
+        "53e86bd6f053"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Adoption notes",
+      "intro": "Proton, the privacy company, goes all in on AI.",
+      "stories": [
+        "2a94db37269b",
+        "f1bcc26cf75b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A bad day for trust",
+      "intro": "A trojanized Claude Code extension on the Cursor marketplace plants an SSH backdoor, a China-linked campaign runs 200 intrusions in 11 days with AI tooling, and the Linux TCP stack gets its own CVE.",
+      "stories": [
+        "22215744d33a",
+        "14b4cd476c1f",
+        "857f1028034e",
+        "d19636d7fe25",
+        "834b8a6bd154"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The economics seminar",
+      "intro": "A formal model of why the individual agent is the wrong economic unit: organizations, not people, are what AI has to outproduce.",
+      "stories": [
+        "61098e7101fe",
+        "88e0a2b21365"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The conference circuit",
+      "intro": "AIE CODE takes shape: a thousand agentic engineers, three themes, and Bun's Rust rewrite on the marquee.",
+      "stories": [
+        "f3de92c49f28"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Trust and antitrust",
+      "intro": "Regulators and campaign-money watchers close in: the UK CMA probes Meta's content terms, and FEC filings show the AI PAC money surprisingly favoring the pro-regulation side.",
+      "stories": [
+        "66042254198b",
+        "e5a07214bed8"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The memory cycle turns",
+      "intro": "AI demand for memory is now visible on the income statement: CXMT swings to a big profit while Kioxia's blockbuster quarter comes with a cooler forecast.",
+      "stories": [
+        "bcea30f9fd36",
+        "e90d70f559be"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "New models on every axis",
+      "intro": "Mistral releases the weights of its trillion-parameter flagship, Fish Audio and Pika push open weights in voice and video, and Figma trains a model fluent in its own editor.",
+      "stories": [
+        "4711b2f64813",
+        "c9e563c3ce4d",
+        "f9ff8e63f41c",
+        "604898def936"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The interview circuit",
+      "intro": "Sam Altman argues against a single superintelligence over a pint, Neal Stephenson weighs what comes next, and Sharp Tech goes video with Anthropic's S-1 on the agenda.",
+      "stories": [
+        "b1caa19283dd",
+        "89e1149e6722",
+        "75770495cf46"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Rules for the machines",
+      "intro": "Two model specs surface at once: OpenAI reorganizes its Model Spec around five core values, and a leak reveals the charter Meta wrote for Muse.",
+      "stories": [
+        "7bc126022487",
+        "b585bfc29d7d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Plumbing for the agent economy",
+      "intro": "Natural lets agents choose their own payment rail at runtime - ACH, wire or realtime - with the operator's limits still in force.",
+      "stories": [
+        "7f126c42437e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Research notes",
+      "intro": "An escape-room primer explains why RL environments are the currency of post-training, and an eight-agent experiment shows swarm leadership emerging from model choice and prompt order.",
+      "stories": [
+        "ba268a48dc81",
+        "dc1898b2ed8f"
+      ],
+      "concepts": []
+    }
+  ]
 }

@@ -1,17 +1,101 @@
 {
- "generated_at": "2026-10-30T08:50:21+00:00",
+ "generated_at": "2026-10-30T14:50:54+00:00",
  "stories": [
   {
-   "id": "857f1028034e",
-   "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+   "id": "d19636d7fe25",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
    "source": "Hacker News",
-   "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/"
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
   },
   {
-   "id": "22215744d33a",
-   "title": "Trojanized Claude Code Extension Plants an SSH Backdoor",
+   "id": "89e1149e6722",
+   "title": "Neal Stephenson on AI and What Comes Next [video]",
    "source": "Hacker News",
-   "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor"
+   "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ"
+  },
+  {
+   "id": "f1bcc26cf75b",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts"
+  },
+  {
+   "id": "66042254198b",
+   "title": "The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/"
+  },
+  {
+   "id": "834b8a6bd154",
+   "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+   "source": "Lobsters",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
+  },
+  {
+   "id": "bb1da3d09d17",
+   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+   "source": "Hacker News",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/"
+  },
+  {
+   "id": "c9e563c3ce4d",
+   "title": "Drama 3 just leveled up",
+   "source": "TLDR AI",
+   "url": "https://x.com/fishaudio/status/2115836725184667833"
+  },
+  {
+   "id": "bcea30f9fd36",
+   "title": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/asia-pacific/cxmt-turns-third-quarter-net-profit-544-billion-yuan-2026-10-30/"
+  },
+  {
+   "id": "86314733ca2e",
+   "title": "OpenAI updates Model Spec to reorganize it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care",
+   "source": "Techmeme",
+   "url": "https://openai.com/index/updated-model-spec"
+  },
+  {
+   "id": "dc1898b2ed8f",
+   "title": "The surprising leadership dynamics in agent swarms",
+   "source": "TLDR AI",
+   "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/"
+  },
+  {
+   "id": "53e86bd6f053",
+   "title": "The fx adapter now runs the harness on the host",
+   "source": "TLDR AI",
+   "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox"
+  },
+  {
+   "id": "39b7d350780d",
+   "title": "Q&A with Sam Altman on finding PHP bugs, sandboxing superhuman models as an unsolved safety dilemma, robotics scaling data centers, math, agent swarms, and more",
+   "source": "Techmeme",
+   "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single"
+  },
+  {
+   "id": "2003e96b378d",
+   "title": "Open-weight AI models can exploit the patch gap",
+   "source": "Hacker News",
+   "url": "https://epoch.ai/publications/open-weight-models-patch-gap"
+  },
+  {
+   "id": "604898def936",
+   "title": "How we're training a Figma-fluent editing model",
+   "source": "TLDR AI",
+   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
+  },
+  {
+   "id": "2e6b9b8bc108",
+   "title": "Ravical, whose AI-powered platform helps accounting and tax firms manage their operations, raised a $17M seed led by MMC, bringing its total funding to $25M",
+   "source": "Techmeme",
+   "url": "https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/"
+  },
+  {
+   "id": "2d303147894e",
+   "title": "Droid 1.0: Building a Frontier Harness",
+   "source": "TLDR AI",
+   "url": "https://factory.com/news/frontier-harness"
   },
   {
    "id": "61098e7101fe",
@@ -20,40 +104,58 @@
    "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/"
   },
   {
-   "id": "f3de92c49f28",
-   "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/"
+   "id": "ba268a48dc81",
+   "title": "The Escape Room Economy",
+   "source": "TLDR AI",
+   "url": "https://x.com/nicholasachow/status/2115839602749849840"
   },
   {
-   "id": "ad97dd7b0db3",
-   "title": "How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
+   "id": "b585bfc29d7d",
+   "title": "Leaking Muse's Charter, Meta's model spec",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec"
   },
   {
-   "id": "aaf2a241e914",
-   "title": "S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from \"potential disruption\" amid geopolitical tensions with China",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/opinion/anthropics-ipo-will-be-a-national-security-win-for-taiwan-029888b5?st=f8ABT1"
+   "id": "f9ff8e63f41c",
+   "title": "Introducing Pika H3 Flex",
+   "source": "TLDR AI",
+   "url": "https://pika.art/blog/pika-h3-flex"
   },
   {
-   "id": "bb798ba5ec3b",
-   "title": "Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b"
+   "id": "7f126c42437e",
+   "title": "Introducing Natural Direct",
+   "source": "TLDR AI",
+   "url": "https://www.natural.com/blog/direct"
   },
   {
-   "id": "14b4cd476c1f",
-   "title": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine",
+   "id": "e5a07214bed8",
+   "title": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network",
    "source": "Techmeme",
-   "url": "https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343"
+   "url": "https://puck.news/ai/2026/10/pro-ai-pacs-are-retreating-from-the-midterms"
   },
   {
-   "id": "b04e76d0bfa6",
-   "title": "DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27%",
+   "id": "fbca0b7f49d1",
+   "title": "Dream, which is training AI world models on US building data to automate construction design and engineering, emerges from stealth with a $17M seed led by a16z",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players"
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+  },
+  {
+   "id": "e90d70f559be",
+   "title": "NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est.",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs"
+  },
+  {
+   "id": "75770495cf46",
+   "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/"
+  },
+  {
+   "id": "01177682f144",
+   "title": "How Meta Catches Bugs Before Code Ships",
+   "source": "TLDR AI",
+   "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/"
   }
  ]
 }

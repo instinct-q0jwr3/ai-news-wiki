@@ -1,0 +1,15 @@
+{
+  "id": "bcea30f9fd36",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "China's CXMT reported third-quarter results: revenue of roughly $16.7B, up 613.2% year over year, and a net profit of about $8.17B - a swing to profitability driven by surging AI demand for its memory chips, per Reuters via Techmeme. The Reuters article itself is paywalled to the fetcher (HTTP 401), so figures come from the feed's report of the piece."
+  ],
+  "highlights": [
+    "CXMT Q3 revenue ~$16.7B, up 613.2% year over year",
+    "Net profit ~$8.17B: a swing to profitability",
+    "Driver: AI-driven demand pushing memory chip prices higher",
+    "basis: Techmeme summary of the Reuters report; Reuters returns HTTP 401 to the fetcher"
+  ]
+}

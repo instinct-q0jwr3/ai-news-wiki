@@ -1,0 +1,16 @@
+{
+  "id": "834b8a6bd154",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "A short Mastodon post by security researcher Kevin Beaumont, linked from Lobsters under the title 'Backdoors in Claude Code for VS, Cursor official extensions', amplifies the Claude Code extension incident with the sharper framing that 'Anthropic got compromised'. The full post was not retrievable (the cache holds only the page's title snippet), so this summary rests on the feed metadata. Beaumont's framing is one of competing accounts: Cursor's own security notice says the malicious build was not developed by Anthropic and confirms it only for Cursor's marketplace, while other researchers report the same version on Open VSX - where the compromise actually sat is not settled."
+  ],
+  "highlights": [
+    "Kevin Beaumont post frames the incident as Anthropic itself being compromised",
+    "Cursor's notice says the build was not developed by Anthropic and confirms only its own marketplace",
+    "Other researchers place the same version on Open VSX; the true scope is disputed",
+    "Cache holds only a title snippet; summary based on feed metadata"
+  ],
+  "basis": "basis: Lobsters title plus cached page snippet; full Mastodon post not retrievable (thin cache)"
+}

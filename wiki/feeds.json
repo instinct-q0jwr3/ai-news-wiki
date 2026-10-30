@@ -1,21 +1,21 @@
 [
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 929,
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 935,
   "last": "2026-10-30"
  },
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 929,
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 932,
   "last": "2026-10-30"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 364,
-  "last": "2026-10-29"
+  "stories": 374,
+  "last": "2026-10-30"
  },
  {
   "name": "Simon Willison",
@@ -26,8 +26,8 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 68,
-  "last": "2026-10-29"
+  "stories": 69,
+  "last": "2026-10-30"
  },
  {
   "name": "Latent.Space",
@@ -66,16 +66,16 @@
   "last": "2026-10-26"
  },
  {
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 20,
+  "last": "2026-10-30"
+ },
+ {
   "name": "Works on My Machine",
   "url": "https://worksonmymachine.substack.com/feed",
   "stories": 20,
   "last": "2026-09-25"
- },
- {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
-  "stories": 19,
-  "last": "2026-10-29"
  },
  {
   "name": "Ed Zitron",

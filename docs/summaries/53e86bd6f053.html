@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The fx adapter now runs the harness on the host · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793372188"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>The fx adapter now runs the harness on the host</h1>
+<p class="meta">type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Vercel's fx adapter for the AI SDK's HarnessAgent now runs the harness on the host: built on libfx, the TypeScript library for fx, the harness and model requests execute in the application's own process while filesystem and shell operations stay isolated in the sandbox. Setup gets simpler - no fx install inside the sandbox, no sandbox bridge, no exposed port - and, importantly, model credentials remain on the host, outside the environment where the agent runs commands.</p>
+<p>The rewrite adds tool filtering (choose which built-in tools the agent gets), mid-turn steering (send new instructions while a turn runs), structured output, image tool results via toModelOutput(), and sessions that can be saved and resumed in a new host process.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>fx adapter for the AI SDK HarnessAgent now runs the harness in the host process</li>
+<li>Filesystem and shell stay sandboxed; model credentials never enter the sandbox</li>
+<li>No fx install in the sandbox, no bridge, no exposed port</li>
+<li>Adds tool filtering, mid-turn steering, structured output and image tool results</li>
+<li>Sessions can be saved and resumed in a new host process</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox">Read the original story</a> · <a href="https://tldr.tech/ai/2026-10-30">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

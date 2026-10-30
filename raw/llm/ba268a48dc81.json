@@ -1,0 +1,13 @@
+{
+  "id": "ba268a48dc81",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A widely shared primer uses an escape room to explain reinforcement learning environments, a theme the author says was everywhere at this year's ICML. The mapping: the room is the environment with its objects, rules and feedback; the flashlight, box and keypad are the tools; escaping is the task; and the binary escaped-or-not result after an hour is the verifier. Swap the human for an AI agent and you have an RL environment - a clean way to see why verifiable, well-instrumented tasks have become the bottleneck and the currency of post-training.",
+  "highlights": [
+    "Escape-room analogy for RL environments: environment, tools, task, verifier",
+    "RL environments were a central theme at this year's ICML",
+    "Binary escape-or-not outcome illustrates what a clean verifier looks like",
+    "Frames verifiable tasks as the bottleneck of post-training"
+  ]
+}

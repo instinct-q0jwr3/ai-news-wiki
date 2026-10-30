@@ -1,0 +1,14 @@
+{
+  "id": "f9ff8e63f41c",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Pika introduces H3 Flex, its post-trained version of MiniMax's H3 video model, aimed at professional iteration rather than first-shot generation. The headline claim is speed: a 15-second clip with synchronized audio at 768p in as little as seven seconds of transformer computation, achieved by post-training the model to generate in six steps instead of fifty and then refining the distilled model for quality and control. Flex takes up to 12 references - sketches, character sheets, product photos, moodboards, voice samples - exports five separate audio stems, finishes at up to 4K, and is being released as open weights.\n\nAt launch, Pika says Flex ranks #1 among open-weight models and #7 overall on DesignArena's text-to-video leaderboard, positioning it as the fast, steerable base creatives build variations on.",
+  "highlights": [
+    "Pika H3 Flex: post-trained MiniMax H3 built for professional iteration",
+    "15s clip with synchronized audio at 768p in ~7 seconds of transformer compute",
+    "Generation distilled to 6 steps from 50, then refined for quality and control",
+    "Up to 12 references, five separate audio stems, up to 4K output",
+    "Open weights released; #1 open-weight and #7 overall on DesignArena text-to-video"
+  ]
+}

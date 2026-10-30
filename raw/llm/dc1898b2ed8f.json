@@ -1,0 +1,14 @@
+{
+  "id": "dc1898b2ed8f",
+  "authored_at": "2026-10-30T14:55:30Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Raindrop ran an experiment on leadership emergence in agent swarms: eight agents drawn from four models - Claude Sonnet 5.5, GPT-6.1 Sol, Gemini 3.1 Pro and Kimi K3 - worked as peers with equal permissions to resolve four simulated outages at a fictional online store. Many agents issued instructions, but only a few actually changed other agents' behavior - the emergent 'leaders'.\n\nTwo factors predicted leadership potential: the agent's underlying model, and the order in which the agent's name happened to be listed in the prompt (names were rotated across models to control for bias). The takeaway for anyone assembling multi-agent systems: seemingly minor configuration details - which models you mix and how you list them - shape coordination outcomes as much as stated roles do.",
+  "highlights": [
+    "Experiment: 8 peer agents from 4 models resolve simulated store outages",
+    "Many agents issued instructions; only a few changed others' behavior (emergent leaders)",
+    "Leadership correlated with the underlying model and name order in the prompt",
+    "Models used: Claude Sonnet 5.5, GPT-6.1 Sol, Gemini 3.1 Pro, Kimi K3; names rotated to control bias",
+    "Lesson: minor swarm configuration details shape coordination outcomes"
+  ]
+}
