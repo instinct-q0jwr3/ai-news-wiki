@@ -1,0 +1,17 @@
+{
+ "id": "14b4cd476c1f",
+ "authored_at": "2026-10-30T08:52:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "NBC News, citing CrowdStrike, reports that Chinese state-linked hackers used AI tools - including the popular DeepSeek model and another model, via a tool called ARTEX - to launch cyberattacks against more than 200 organizations worldwide in just 11 days, compromising at least nine. CrowdStrike frames the campaign as an illustration of AI letting hackers operate at a scale that previously required far more human effort."
+ ],
+ "highlights": [
+  "CrowdStrike: China-linked hackers hit 200+ organizations in 11 days",
+  "AI tool ARTEX used a DeepSeek LLM and another model",
+  "At least nine organizations compromised",
+  "AI as a force multiplier for state-linked intrusion scale",
+  "Basis: article lede plus Techmeme summary; the fetched page was mostly navigation content"
+ ],
+ "basis": "The fetched page contained the article's opening paragraphs followed by navigation content, so this entry is based on that lede and the Techmeme feed summary."
+}

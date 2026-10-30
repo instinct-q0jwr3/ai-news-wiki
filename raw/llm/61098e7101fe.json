@@ -1,0 +1,16 @@
+{
+ "id": "61098e7101fe",
+ "authored_at": "2026-10-30T08:52:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "This essay, drawn from the paper 'Organizing Intelligence', argues that the individual AI agent is the wrong economic object. Benchmarks measure single agents solving problems in isolation, but economic transformation is an equilibrium outcome: organizations assemble people with complementary strengths into teams that can outproduce any solo worker - which is why organizations have been called a form of superintelligence. A model can beat every person one-on-one and still lose to a well-structured team, which helps explain the disconnect between milestone-clearing frontier models and an economy that, on the surface, has barely changed.\n\nThe authors instead define thresholds of economic capability - 'minimal AGI' among them - as functions of how they transform the economy, then track market structure, employment and wages across capability regimes. Standard economic models, they argue, miss the transformation because they still model machine intelligence as a better tool in a worker's hands or a machine swapped in for a person, rather than as a change in how coordination itself is produced.",
+ "highlights": [
+  "The individual AI agent is the wrong unit for economic analysis",
+  "Benchmarks test solo agents; the economy runs on organized teams",
+  "A model can beat every individual and still lose to a well-structured team",
+  "Organizations as a form of superintelligence - complementary strengths, divided tasks",
+  "Defines capability thresholds (e.g. 'minimal AGI') by their economic transformation",
+  "Tracks market structure, employment and wages across capability regimes",
+  "Standard models miss it: AI is not just a better tool or a swap-in machine"
+ ]
+}

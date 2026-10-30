@@ -1,0 +1,16 @@
+{
+ "id": "f3de92c49f28",
+ "authored_at": "2026-10-30T08:52:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A quiet-news-day AINews goes behind the scenes of the AI Engineer franchise - now at 6 million views a month from 1.8 million uniques - to preview AIE CODE, the year's last flagship summit: single-track, invite-only for the top 1,000 agentic engineers. (AIEi Shanghai follows next week and AIEi Sydney rides along with NeurIPS in December.) The curation goal is to recap 2026's themes in code and preview 2027.\n\nThree themes anchor the program. Scaling without Slop: last year's 'no more slop' call produced a year of managing it, including the rise and fall of Tokenmaxxing. System One models: the 'smart software' direction - cheap, fast decision models as the deliberate opposite of ever-larger coding-agent swarms - with TypeSafe's Diogo back for a mini 'Jev Day' on how top users actually deploy them. And Increasing Ambition: rewrites of the hardest software categories, from browsers to the Photoshop suite to mid-tier B2B SaaS, with Jarred Sumner previewing Bun's rewrite in Rust and new Bun AOT compiler features.",
+ "highlights": [
+  "AI Engineer franchise: 6M monthly views, 1.8M uniques",
+  "AIE CODE: single-track summit, invite-only top 1,000 agentic engineers",
+  "Theme 1 - Scaling without Slop: a year of managing output quality, Tokenmaxxing postmortem",
+  "Theme 2 - System One models: cheap fast 'smart software' vs ever-larger agent swarms",
+  "Theme 3 - Increasing Ambition: rewrites of browsers, Photoshop-class apps, B2B SaaS",
+  "Jarred Sumner to preview Bun's Rust rewrite and Bun AOT compiler features",
+  "AIEi Shanghai next week; AIEi Sydney alongside NeurIPS in December"
+ ]
+}

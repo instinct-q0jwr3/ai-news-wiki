@@ -915,7 +915,8 @@
    "intro": "Jassy waves off outside shopping agents while Alexa's own numbers do the talking, and Meta soft-launches an AI stylist in Southeast Asia.",
    "stories": [
     "06eaf86e2ab0",
-    "22346af46e17"
+    "22346af46e17",
+    "bb798ba5ec3b"
    ],
    "concepts": []
   },
@@ -925,7 +926,9 @@
    "stories": [
     "e8f3bc39a34c",
     "4d2c66a38d78",
-    "90fc80f17d16"
+    "90fc80f17d16",
+    "aaf2a241e914",
+    "b04e76d0bfa6"
    ],
    "concepts": []
   },
@@ -950,7 +953,8 @@
    "title": "Proofs in production",
    "intro": "Lasm compiles Lean 4 to WebAssembly so the web app you deploy is the one you proved.",
    "stories": [
-    "846da7b9c3af"
+    "846da7b9c3af",
+    "ad97dd7b0db3"
    ],
    "concepts": []
   },
@@ -968,6 +972,32 @@
    "intro": "Proton, the privacy company, goes all in on AI.",
    "stories": [
     "2a94db37269b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A bad day for trust",
+   "intro": "A trojanized Claude Code extension on the Cursor marketplace plants an SSH backdoor, a China-linked campaign runs 200 intrusions in 11 days with AI tooling, and the Linux TCP stack gets its own CVE.",
+   "stories": [
+    "22215744d33a",
+    "14b4cd476c1f",
+    "857f1028034e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The economics seminar",
+   "intro": "A formal model of why the individual agent is the wrong economic unit: organizations, not people, are what AI has to outproduce.",
+   "stories": [
+    "61098e7101fe"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The conference circuit",
+   "intro": "AIE CODE takes shape: a thousand agentic engineers, three themes, and Bun's Rust rewrite on the marquee.",
+   "stories": [
+    "f3de92c49f28"
    ],
    "concepts": []
   }

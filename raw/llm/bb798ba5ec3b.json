@@ -1,0 +1,16 @@
+{
+ "id": "bb798ba5ec3b",
+ "authored_at": "2026-10-30T08:52:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports Spotify aims to launch an AI product in Q1 2027 letting subscribers create their own remixes and covers for about $5 per month, pending licensing deals with rights holders."
+ ],
+ "highlights": [
+  "Spotify plans AI remixes and covers for ~$5/month",
+  "Targeted for Q1 2027, pending licensing deals",
+  "A consumer AI music feature with a price tag attached",
+  "Basis: Techmeme summary; FT paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (FT paywall), so this entry is based on the Techmeme feed summary and headline."
+}

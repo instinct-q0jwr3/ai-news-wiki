@@ -1,83 +1,59 @@
 {
- "generated_at": "2026-10-30T02:49:25+00:00",
+ "generated_at": "2026-10-30T08:50:21+00:00",
  "stories": [
   {
-   "id": "5158f4961844",
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
+   "id": "857f1028034e",
+   "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
    "source": "Hacker News",
-   "url": "https://labs.ycombinator.com/projects/games/index.html"
+   "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/"
   },
   {
-   "id": "5b850e088311",
-   "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+   "id": "22215744d33a",
+   "title": "Trojanized Claude Code Extension Plants an SSH Backdoor",
    "source": "Hacker News",
-   "url": "https://fig.blue/posts/duet-is-the-future/"
+   "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor"
   },
   {
-   "id": "2a94db37269b",
-   "title": "Proton goes all in on using AI",
+   "id": "61098e7101fe",
+   "title": "AGI Economics: Coordination vs. Competence",
    "source": "Hacker News",
-   "url": "https://convo.casa/@b/117525936178835007"
+   "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/"
   },
   {
-   "id": "22c054fdfeb1",
-   "title": "Show HN: I Turned DOOM into a Transformer",
-   "source": "Hacker News",
-   "url": "https://github.com/mottopanikeiku/doomformer"
-  },
-  {
-   "id": "f663796c6cdd",
-   "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-   "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o"
-  },
-  {
-   "id": "4ab09915de08",
-   "title": "Ask HN: Opus 5.5 suddenly dumb as rocks?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50296367"
-  },
-  {
-   "id": "2003e96b378d",
-   "title": "Open-weight AI models can exploit the patch gap",
-   "source": "Hacker News",
-   "url": "https://epoch.ai/publications/open-weight-models-patch-gap"
-  },
-  {
-   "id": "846da7b9c3af",
-   "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-   "source": "Hacker News",
-   "url": "https://github.com/Millillion/lasm"
-  },
-  {
-   "id": "90fc80f17d16",
-   "title": "API credits benefit for eligible ChatGPT subscriptions",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
-  },
-  {
-   "id": "4d2c66a38d78",
-   "title": "Nvidia is in talks to provide Nscale with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use",
+   "id": "aaf2a241e914",
+   "title": "S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from \"potential disruption\" amid geopolitical tensions with China",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/nvidia-talks-provide-billions-credit-support-cloud-providers-45-billion-anthropic-deal"
+   "url": "https://www.wsj.com/opinion/anthropics-ipo-will-be-a-national-security-win-for-taiwan-029888b5?st=f8ABT1"
   },
   {
-   "id": "06eaf86e2ab0",
-   "title": "On Amazon's earnings call, Andy Jassy says outside AI shopping agents are \"still not great, nor more convenient than coming to a retailer directly\"",
+   "id": "bb798ba5ec3b",
+   "title": "Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/"
+   "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b"
   },
   {
-   "id": "e8f3bc39a34c",
-   "title": "Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems",
+   "id": "b04e76d0bfa6",
+   "title": "DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27%",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order"
+   "url": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players"
   },
   {
-   "id": "22346af46e17",
-   "title": "Meta quietly launches Style Sketch, an AI fashion app that helps users put together outfit ideas using clothes they own, in Indonesia, Singapore, and Thailand",
+   "id": "14b4cd476c1f",
+   "title": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+   "url": "https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343"
+  },
+  {
+   "id": "f3de92c49f28",
+   "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/"
+  },
+  {
+   "id": "ad97dd7b0db3",
+   "title": "How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
   }
  ]
 }

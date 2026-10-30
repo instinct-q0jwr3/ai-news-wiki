@@ -1,0 +1,16 @@
+{
+ "id": "b04e76d0bfa6",
+ "authored_at": "2026-10-30T08:52:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports DeepSeek doubled the size of its latest funding round - nearly $16 billion this month - in part because surging black-market prices for Nvidia Blackwell chips raised the cost of its compute plans, with Chinese state-owned investors representing 27 percent of the round."
+ ],
+ "highlights": [
+  "DeepSeek's latest round nearly doubled to ~$16B",
+  "Driver: surging black-market Nvidia Blackwell prices",
+  "Chinese state-owned investors took 27% of the round",
+  "Basis: Techmeme summary; The Information paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (The Information paywall), so this entry is based on the Techmeme feed summary and headline."
+}
