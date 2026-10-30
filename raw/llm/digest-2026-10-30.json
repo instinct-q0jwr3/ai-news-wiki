@@ -43,8 +43,7 @@
       "title": "The patch gap, weaponized",
       "intro": "An open-weight model turns published-but-unshipped Firefox fixes into working exploits for about $1,000 a version.",
       "stories": [
-        "2003e96b378d",
-        "babd4a10a39c"
+        "2003e96b378d"
       ],
       "concepts": []
     },
@@ -105,8 +104,7 @@
       "title": "The economics seminar",
       "intro": "A formal model of why the individual agent is the wrong economic unit: organizations, not people, are what AI has to outproduce.",
       "stories": [
-        "61098e7101fe",
-        "88e0a2b21365"
+        "61098e7101fe"
       ],
       "concepts": []
     },
@@ -138,9 +136,8 @@
     },
     {
       "title": "New models on every axis",
-      "intro": "Mistral releases the weights of its trillion-parameter flagship, Fish Audio and Pika push open weights in voice and video, and Figma trains a model fluent in its own editor.",
+      "intro": "Fish Audio and Pika push open weights in voice and video, and Figma trains a model fluent in its own editor.",
       "stories": [
-        "4711b2f64813",
         "c9e563c3ce4d",
         "f9ff8e63f41c",
         "604898def936"
@@ -149,9 +146,8 @@
     },
     {
       "title": "The interview circuit",
-      "intro": "Sam Altman argues against a single superintelligence over a pint, Neal Stephenson weighs what comes next, and Sharp Tech goes video with Anthropic's S-1 on the agenda.",
+      "intro": "Neal Stephenson weighs what comes next, and Sharp Tech goes video with Anthropic's S-1 on the agenda.",
       "stories": [
-        "b1caa19283dd",
         "89e1149e6722",
         "75770495cf46",
         "63134bac6c5d"
@@ -160,9 +156,8 @@
     },
     {
       "title": "Rules for the machines",
-      "intro": "Two model specs surface at once: OpenAI reorganizes its Model Spec around five core values, and a leak reveals the charter Meta wrote for Muse.",
+      "intro": "A leak reveals the charter Meta wrote for its Muse model - part aspirational address, part conduct spec.",
       "stories": [
-        "7bc126022487",
         "b585bfc29d7d"
       ],
       "concepts": []

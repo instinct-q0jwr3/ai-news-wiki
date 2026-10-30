@@ -1628,22 +1628,22 @@
   "paywall": 8,
   "picks": [
    {
-    "cat": "unknown",
+    "cat": "ok",
     "front": "Offensive cyber",
-    "id": "babd4a10a39c",
-    "minutes": 17,
+    "id": "2003e96b378d",
+    "minutes": 14,
     "source": "Epoch AI",
-    "title": "babd4a10a39c",
+    "title": "Open-weight AI models can exploit the patch gap",
     "why": "Open-weight GLM 5.3 turns published Firefox fixes into working exploits for about $1,000 per version, collapsing the skill floor on the patch gap."
    },
    {
-    "cat": "unknown",
+    "cat": "ok",
     "front": "Open models",
-    "id": "4711b2f64813",
-    "minutes": 21,
-    "source": "Mistral",
-    "title": "4711b2f64813",
-    "why": "Mistral releases the weights of Le Chonk, its trillion-parameter flagship, with claimed best-in-class open-weight coding and security gains."
+    "id": "f9ff8e63f41c",
+    "minutes": 6,
+    "source": "Pika",
+    "title": "Introducing Pika H3 Flex",
+    "why": "Pika H3 Flex post-trains MiniMax H3 into a faster-than-real-time video model with 12 references, 4K output and open weights."
    },
    {
     "cat": "ok",
@@ -1664,12 +1664,12 @@
     "why": "Intel's worst day since the 1970s and a second day of selling show markets re-pricing AI capex as risk rather than promise."
    },
    {
-    "cat": "unknown",
+    "cat": "ok",
     "front": "AGI economics",
-    "id": "88e0a2b21365",
-    "minutes": 23,
+    "id": "61098e7101fe",
+    "minutes": 21,
     "source": "DeepMind Institute",
-    "title": "88e0a2b21365",
+    "title": "AGI Economics: Coordination vs. Competence",
     "why": "A formal framework that defines AGI thresholds by economic transformation - competence sets the level, coordination sets the scale."
    }
   ],

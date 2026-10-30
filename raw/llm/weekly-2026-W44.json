@@ -132,7 +132,6 @@
         "d554fe07d8f2",
         "e2ad8a5d5e7e",
         "0af44d7fcc4e",
-        "4711b2f64813",
         "c9e563c3ce4d",
         "f9ff8e63f41c",
         "604898def936"
@@ -701,7 +700,6 @@
       "stories": [
         "d36a5c6ca671",
         "9d11cf8af00a",
-        "7bc126022487",
         "b585bfc29d7d"
       ],
       "concepts": []
@@ -894,7 +892,6 @@
         "99d4ac8a1e75",
         "a07aac117127",
         "ce6031ba0a38",
-        "b1caa19283dd",
         "89e1149e6722",
         "75770495cf46",
         "63134bac6c5d"
@@ -958,8 +955,7 @@
       "title": "The patch gap, weaponized",
       "intro": "An open-weight model turns published-but-unshipped Firefox fixes into working exploits for about $1,000 a version.",
       "stories": [
-        "2003e96b378d",
-        "babd4a10a39c"
+        "2003e96b378d"
       ],
       "concepts": []
     },
@@ -1020,8 +1016,7 @@
       "title": "The economics seminar",
       "intro": "A formal model of why the individual agent is the wrong economic unit: organizations, not people, are what AI has to outproduce.",
       "stories": [
-        "61098e7101fe",
-        "88e0a2b21365"
+        "61098e7101fe"
       ],
       "concepts": []
     },
