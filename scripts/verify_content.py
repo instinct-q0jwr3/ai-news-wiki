@@ -7,6 +7,8 @@ Fails (exit 1) if any generated content violates a standing rule:
   R2 No daily/weekly page may contain a fixed-taxonomy section header.
   R3 No summary page may render prose one character per line.
   R4 Every story id referenced by an authored digest must exist in the corpus.
+  R8 Stories on the disputed-claims registry must keep their dispute marker and must not
+     regress to a categorical claim while the dispute is open.
 """
 import json,re,sys,glob,os
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -91,6 +93,33 @@ for day,r in _sig.items():
         if not os.path.exists(os.path.join(ROOT,'wiki/summaries',p['id']+'.md')): fails.append(f'R7 signal/{day} pick {p["id"]} does not resolve')
     if len({p['id'] for p in r['picks']})!=5: fails.append(f'R7 signal/{day} has duplicate picks')
 if _sig and not os.path.exists(os.path.join(ROOT,'docs/signal/index.html')): fails.append('R7 docs/signal/index.html missing')
+# R8: disputed-claims registry - while a claim's scope is disputed, the settled wording must not regress
+# to a categorical assertion. Each entry fails the build if a forbidden categorical phrasing reappears
+# OR if the dispute marker disappears (a resolved dispute requires a conscious edit of the registry).
+DISPUTED=[
+ {'id':'22215744d33a',
+  'forbidden':[r'are all clean', r'are NOT affected', r'NOT malicious\b',
+               r'NPM,? OpenVSX,? and (the )?(Microsoft |official )?VS ?Code (marketplace |extension)?builds? (are|were) unaffected'],
+  'required':[r'scope outside Cursor.{0,40}(not settled|disputed|unconfirmed)'],
+  'note':'Claude Code 2.1.313 incident (Oct 2026): Cursor confirmed only its own marketplace; cleanliness of NPM/OpenVSX/VSCode is asserted by one writeup but disputed by other researchers. No categorical exclusion while disputed.'},
+]
+for e in DISPUTED:
+    texts=[]
+    lj=os.path.join(ROOT,'raw','llm',e['id']+'.json')
+    if os.path.exists(lj):
+        d=json.load(open(lj))
+        pr=d.get('prose'); pr=' '.join(pr) if isinstance(pr,list) else (pr or '')
+        texts.append(('raw/llm/'+e['id']+'.json', pr+' '+' '.join(d.get('highlights') or [])))
+    md=os.path.join(ROOT,'wiki','summaries',e['id']+'.md')
+    if os.path.exists(md): texts.append(('wiki/summaries/'+e['id']+'.md', open(md).read()))
+    if not texts:
+        fails.append(f'R8 disputed-claim guard for {e["id"]} found no files; remove the entry consciously if the story is gone')
+        continue
+    for where,body in texts:
+        for pat in e['forbidden']:
+            if re.search(pat,body): fails.append(f'R8 {where} reintroduces categorical claim /{pat}/ on disputed story {e["id"]} ({e["note"]})')
+        for pat in e['required']:
+            if not re.search(pat,body): fails.append(f'R8 {where} lost the dispute marker /{pat}/ on {e["id"]} ({e["note"]})')
 if fails:
     print('VERIFY CONTENT FAILED:')
     for x in fails: print(' -',x)
