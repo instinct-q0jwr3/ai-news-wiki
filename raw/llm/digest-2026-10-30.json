@@ -33,7 +33,9 @@
         "aaf2a241e914",
         "b04e76d0bfa6",
         "fbca0b7f49d1",
-        "2e6b9b8bc108"
+        "2e6b9b8bc108",
+        "602f095480d1",
+        "475882dc1d78"
       ],
       "concepts": []
     },
@@ -81,7 +83,9 @@
       "intro": "Proton, the privacy company, goes all in on AI.",
       "stories": [
         "2a94db37269b",
-        "f1bcc26cf75b"
+        "f1bcc26cf75b",
+        "8b54cf7f26f9",
+        "9c2c8e429385"
       ],
       "concepts": []
     },
@@ -149,7 +153,8 @@
       "stories": [
         "b1caa19283dd",
         "89e1149e6722",
-        "75770495cf46"
+        "75770495cf46",
+        "63134bac6c5d"
       ],
       "concepts": []
     },
@@ -176,6 +181,47 @@
       "stories": [
         "ba268a48dc81",
         "dc1898b2ed8f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The bill meets the market",
+      "intro": "Two days of selling say the market has started reading AI capex as a liability: Intel has its worst day since the 1970s, Alphabet's AI answers cannibalize search ads, the big five sit on $3T of commitments and return a 15-year-low share of cash to shareholders, and Blackstone doubts Anthropic's post-IPO credit rating.",
+      "stories": [
+        "0ad8bbdffaef",
+        "4185b6cc7cb4",
+        "1126ccbb4d52",
+        "527eaae25fdb",
+        "c169027cf42f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The discourse",
+      "intro": "Essays argue the real question for SREs and PMs is deskilling, not replacement, while a satirical open letter lets the AI industry state its own position on creative work a little too plainly.",
+      "stories": [
+        "f9490f4000bc",
+        "5f91dc710ecd",
+        "88c4217e8511"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The maintenance bill",
+      "intro": "PostgreSQL 19 slips because AI agents file more bugs than the humans can triage, and Lobsters works through its own litmus test for keeping LLM noise off the front page.",
+      "stories": [
+        "167b995285e5",
+        "d254315d7b44"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The workbench",
+      "intro": "An inference server scores one document against many questions in a single pass, ~25 lines of SQL compile to a FlashAttention kernel, and agents learn to play Pictionary in public.",
+      "stories": [
+        "ec731dd92ab8",
+        "675a78514802",
+        "ff9bec9f522b"
       ],
       "concepts": []
     }

@@ -1,0 +1,15 @@
+{
+  "id": "8b54cf7f26f9",
+  "authored_at": "2026-10-30T20:54:32Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A FurtherAI engineer's widely-bookmarked thread describes what nine months of deliberately building an AI-native engineering org looks like. The headline numbers: code changes merged per engineer per day are up about 5x since January, while the revert rate has stayed under half a percent. The method was not handing out coding agents but re-engineering the whole shipping pipeline - every time one step sped up, work piled up at the next, so they optimized step by step.\n\nThe org now runs in-house agents (Poirot and Sherlock) that investigate and resolve production and staging issues with read access to logs, metrics, traces and databases, and the agents cooperate: Claude Code triages a request, Devin does the work, Poirot pulls internal data. A side effect: non-engineers ship code too - the designer has merged ~50 changes since August, including the design system, and customer-facing staff tweak the UI from Slack. None of it was free: much of the summer's engineering effort went into tests and tooling.",
+  "highlights": [
+    "FurtherAI: 5x more merged changes per engineer per day since January, revert rate under 0.5%",
+    "Method: optimize the whole shipping pipeline step by step, not just hand out agents",
+    "In-house Poirot and Sherlock agents investigate and resolve prod/staging issues",
+    "Agents cooperate: Claude Code triages, Devin implements, Poirot pulls data",
+    "Non-engineers ship too: the designer merged ~50 changes since August",
+    "The cost: a summer of engineering effort spent on tests and tooling"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4185b6cc7cb4",
+  "authored_at": "2026-10-30T20:54:32Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "Intel shares closed down 28.58% on Friday - the stock's worst day since the 1970s - after the chipmaker issued weaker-than-expected guidance, wiping roughly $12B off the US government's stake, CNBC reports. The article is blocked to the fetcher (HTTP 403), so the figures come from the feed's report of the piece."
+  ],
+  "highlights": [
+    "Intel -28.58% on Friday, its worst day since the 1970s",
+    "Trigger: weaker-than-expected guidance",
+    "~$12B erased from the US government's stake",
+    "basis: Techmeme summary of the CNBC report; CNBC returns HTTP 403 to the fetcher"
+  ]
+}

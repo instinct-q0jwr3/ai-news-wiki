@@ -1,0 +1,14 @@
+{
+  "id": "1126ccbb4d52",
+  "authored_at": "2026-10-30T20:54:32Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "Alphabet, Meta, Microsoft, Amazon and Oracle collectively hold more than $3 trillion in AI spending commitments over the coming years - including roughly $1T from Alphabet and $800B from Meta - Bloomberg reports. The article is blocked to the fetcher (HTTP 403), so the figures come from the feed's report of the piece."
+  ],
+  "highlights": [
+    "Five data-center giants hold $3T+ in AI spending commitments",
+    "Alphabet accounts for ~$1T, Meta ~$800B",
+    "basis: Techmeme summary of the Bloomberg report; Bloomberg returns HTTP 403 to the fetcher"
+  ]
+}

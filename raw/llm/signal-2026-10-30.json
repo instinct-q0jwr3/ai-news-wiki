@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-10-30",
+  "date": "2026-10-30",
+  "status": "provisional",
+  "reserve": "167b995285e5",
+  "picks": [
+    {
+      "id": "babd4a10a39c",
+      "front": "Offensive cyber",
+      "source": "Epoch AI",
+      "why": "Open-weight GLM 5.3 turns published Firefox fixes into working exploits for about $1,000 per version, collapsing the skill floor on the patch gap."
+    },
+    {
+      "id": "4711b2f64813",
+      "front": "Open models",
+      "source": "Mistral",
+      "why": "Mistral releases the weights of Le Chonk, its trillion-parameter flagship, with claimed best-in-class open-weight coding and security gains."
+    },
+    {
+      "id": "9c2c8e429385",
+      "front": "AI mandates at work",
+      "source": "404 Media",
+      "why": "Proton's CEO cancels forced AI re-interviews after an investigation exposes the \"use AI more\" push colliding with the security culture of a privacy company."
+    },
+    {
+      "id": "0ad8bbdffaef",
+      "front": "The money wobbles",
+      "source": "BBC",
+      "why": "Intel's worst day since the 1970s and a second day of selling show markets re-pricing AI capex as risk rather than promise."
+    },
+    {
+      "id": "88e0a2b21365",
+      "front": "AGI economics",
+      "source": "DeepMind Institute",
+      "why": "A formal framework that defines AGI thresholds by economic transformation - competence sets the level, coordination sets the scale."
+    }
+  ]
+}

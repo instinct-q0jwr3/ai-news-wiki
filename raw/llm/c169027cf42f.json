@@ -1,0 +1,14 @@
+{
+  "id": "c169027cf42f",
+  "authored_at": "2026-10-30T20:54:32Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "Blackstone has said Anthropic may not secure an investment-grade credit rating after its IPO, according to the Financial Times headline circulating on Hacker News. The FT article is paywalled to the fetcher (HTTP 403), so only the headline claim is verifiable here; the reasoning behind Blackstone's view is not available from the source."
+  ],
+  "highlights": [
+    "Blackstone: Anthropic may not get an investment-grade rating post-IPO",
+    "FT article paywalled; reasoning not verifiable from source",
+    "basis: headline only; ft.com returns HTTP 403 to the fetcher"
+  ]
+}

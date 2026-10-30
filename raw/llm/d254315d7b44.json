@@ -1,0 +1,14 @@
+{
+  "id": "d254315d7b44",
+  "authored_at": "2026-10-30T20:54:32Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "A Lobsters meta-discussion digs into the site's moderation decision to filter 'LLM usage' links as off-topic. A user who accepts the retirement of the conflated vibecoding tag (and even the appetite for filtering LLM discussion wholesale) asks why stories about using - or not using - LLMs are now considered wholly off-topic, noting months of useful threads about professional programming practice in the presence of LLMs.\n\nThe moderating answer articulates the site's topicality litmus: take a story and replace 'LLM' with 'consultant'; if the argument still holds unchanged, it is probably about work practices rather than programming and belongs elsewhere, alongside entrepreneurship, management and careers - popular on larger sites but off-topic here. The tag itself was renamed to building-ai-tooling to keep the subset about constructing the tools.",
+  "highlights": [
+    "Lobsters filters \"LLM usage\" stories as off-topic; users ask why",
+    "Useful threads existed on professional programming practice with LLMs",
+    "Moderation litmus: replace \"LLM\" with \"consultant\" - if it still reads the same, it is off-topic",
+    "vibecoding tag renamed to building-ai-tooling for precision",
+    "Off-topic bucket includes entrepreneurship, management, careers"
+  ]
+}

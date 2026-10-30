@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: Spinf-serve – inference server for bulk scoring and decisions · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793393726"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: Spinf-serve – inference server for bulk scoring and decisions</h1>
+<p class="meta">type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>spinf-serve is an open-source (Apache 2.0) inference server for bulk scoring and decisions rather than chat: it reads a piece of content once and answers many questions about it in the same forward pass, each answer a probability over provided options instead of generated text. It runs on a single 24GB NVIDIA GPU and exposes an OpenAI-compatible API.</p>
+<p>The motivation is workload shape: the team built it for a daily market index read from millions of news articles, each asked dozens of narrow calibrated questions - a job where a chat-oriented server re-reads content per question and generates token by token, making it slow and expensive. spinf-serve lays every question out as a branch of one read and packs many contents into a single pass. Any open instruction model works as a decision model this way; it ships for Linux on Ada, Hopper or Blackwell GPUs with fp8 tensor cores.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>spinf-serve: open-source inference server for bulk classification and decisions</li>
+<li>One read of the content answers many questions, each a probability over options</li>
+<li>Runs on a single 24GB NVIDIA GPU; OpenAI-compatible API; Apache 2.0</li>
+<li>Built for a market-index workload: millions of articles, dozens of questions each</li>
+<li>Throughput over single-request latency; not a chat server</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/spinfinc/spinf-serve">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

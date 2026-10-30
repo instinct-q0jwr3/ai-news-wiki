@@ -1,161 +1,113 @@
 {
- "generated_at": "2026-10-30T14:50:54+00:00",
+ "generated_at": "2026-10-30T20:51:55+00:00",
  "stories": [
   {
-   "id": "d19636d7fe25",
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "id": "f9490f4000bc",
+   "title": "AI isn't replacing SREs, it's deskilling them",
    "source": "Hacker News",
-   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
   },
   {
-   "id": "89e1149e6722",
-   "title": "Neal Stephenson on AI and What Comes Next [video]",
+   "id": "9c2c8e429385",
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ"
+   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
   },
   {
-   "id": "f1bcc26cf75b",
-   "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+   "id": "0ad8bbdffaef",
+   "title": "US tech stocks see sharp falls over AI cost fears",
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts"
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
   },
   {
-   "id": "66042254198b",
-   "title": "The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services",
+   "id": "c169027cf42f",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+  },
+  {
+   "id": "8b54cf7f26f9",
+   "title": "Building an AI-native engineering org",
+   "source": "Hacker News",
+   "url": "https://twitter.com/sgondala2/status/2115832070274723875"
+  },
+  {
+   "id": "ec731dd92ab8",
+   "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+   "source": "Hacker News",
+   "url": "https://github.com/spinfinc/spinf-serve"
+  },
+  {
+   "id": "ff9bec9f522b",
+   "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+   "source": "Hacker News",
+   "url": "https://sketch.wakeshift.ai/games/q5ucru"
+  },
+  {
+   "id": "5f91dc710ecd",
+   "title": "Product Managers aren't safe either",
+   "source": "Hacker News",
+   "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs"
+  },
+  {
+   "id": "88c4217e8511",
+   "title": "Some Thing is Happening A note from the AI companies",
+   "source": "Hacker News",
+   "url": "https://alanbellows.com/some-thing-is-happening/"
+  },
+  {
+   "id": "167b995285e5",
+   "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+   "source": "Hacker News",
+   "url": "https://www.phoronix.com/news/PostgreSQL-19-Late"
+  },
+  {
+   "id": "675a78514802",
+   "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+   "source": "Hacker News",
+   "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py"
+  },
+  {
+   "id": "4185b6cc7cb4",
+   "title": "Intel stock closed down 28.58% on Friday, its worst day since the 1970s and wiping ~$12B off US government's stake, after issuing weaker-than-expected guidance",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/"
+   "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
   },
   {
-   "id": "834b8a6bd154",
-   "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+   "id": "527eaae25fdb",
+   "title": "Microsoft, Alphabet, Amazon, Meta, and Oracle returned just 9.3% of cash to shareholders in the first three quarters of 2026, a 15-year low amid AI spending",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/"
+  },
+  {
+   "id": "d254315d7b44",
+   "title": "Rationale for filtering LLM usage links as off-topic",
    "source": "Lobsters",
-   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563"
+   "url": "https://lobste.rs/s/spv7tb/rationale_for_filtering_llm_usage_links"
   },
   {
-   "id": "bb1da3d09d17",
-   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
-   "source": "Hacker News",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/"
-  },
-  {
-   "id": "c9e563c3ce4d",
-   "title": "Drama 3 just leveled up",
-   "source": "TLDR AI",
-   "url": "https://x.com/fishaudio/status/2115836725184667833"
-  },
-  {
-   "id": "bcea30f9fd36",
-   "title": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/asia-pacific/cxmt-turns-third-quarter-net-profit-544-billion-yuan-2026-10-30/"
-  },
-  {
-   "id": "86314733ca2e",
-   "title": "OpenAI updates Model Spec to reorganize it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/updated-model-spec"
-  },
-  {
-   "id": "dc1898b2ed8f",
-   "title": "The surprising leadership dynamics in agent swarms",
-   "source": "TLDR AI",
-   "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/"
-  },
-  {
-   "id": "53e86bd6f053",
-   "title": "The fx adapter now runs the harness on the host",
-   "source": "TLDR AI",
-   "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox"
-  },
-  {
-   "id": "39b7d350780d",
-   "title": "Q&A with Sam Altman on finding PHP bugs, sandboxing superhuman models as an unsolved safety dilemma, robotics scaling data centers, math, agent swarms, and more",
-   "source": "Techmeme",
-   "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single"
-  },
-  {
-   "id": "2003e96b378d",
-   "title": "Open-weight AI models can exploit the patch gap",
-   "source": "Hacker News",
-   "url": "https://epoch.ai/publications/open-weight-models-patch-gap"
-  },
-  {
-   "id": "604898def936",
-   "title": "How we're training a Figma-fluent editing model",
-   "source": "TLDR AI",
-   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
-  },
-  {
-   "id": "2e6b9b8bc108",
-   "title": "Ravical, whose AI-powered platform helps accounting and tax firms manage their operations, raised a $17M seed led by MMC, bringing its total funding to $25M",
-   "source": "Techmeme",
-   "url": "https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/"
-  },
-  {
-   "id": "2d303147894e",
-   "title": "Droid 1.0: Building a Frontier Harness",
-   "source": "TLDR AI",
-   "url": "https://factory.com/news/frontier-harness"
-  },
-  {
-   "id": "61098e7101fe",
-   "title": "AGI Economics: Coordination vs. Competence",
-   "source": "Hacker News",
-   "url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/"
-  },
-  {
-   "id": "ba268a48dc81",
-   "title": "The Escape Room Economy",
-   "source": "TLDR AI",
-   "url": "https://x.com/nicholasachow/status/2115839602749849840"
-  },
-  {
-   "id": "b585bfc29d7d",
-   "title": "Leaking Muse's Charter, Meta's model spec",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec"
-  },
-  {
-   "id": "f9ff8e63f41c",
-   "title": "Introducing Pika H3 Flex",
-   "source": "TLDR AI",
-   "url": "https://pika.art/blog/pika-h3-flex"
-  },
-  {
-   "id": "7f126c42437e",
-   "title": "Introducing Natural Direct",
-   "source": "TLDR AI",
-   "url": "https://www.natural.com/blog/direct"
-  },
-  {
-   "id": "e5a07214bed8",
-   "title": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network",
-   "source": "Techmeme",
-   "url": "https://puck.news/ai/2026/10/pro-ai-pacs-are-retreating-from-the-midterms"
-  },
-  {
-   "id": "fbca0b7f49d1",
-   "title": "Dream, which is training AI world models on US building data to automate construction design and engineering, emerges from stealth with a $17M seed led by a16z",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
-  },
-  {
-   "id": "e90d70f559be",
-   "title": "NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est.",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs"
-  },
-  {
-   "id": "75770495cf46",
-   "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+   "id": "63134bac6c5d",
+   "title": "2026.44: At Long Last…",
    "source": "Stratechery",
-   "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/"
+   "url": "https://stratechery.com/2026/at-long-last/"
   },
   {
-   "id": "01177682f144",
-   "title": "How Meta Catches Bugs Before Code Ships",
-   "source": "TLDR AI",
-   "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/"
+   "id": "1126ccbb4d52",
+   "title": "Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet's $1T and Meta's $800B",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom"
+  },
+  {
+   "id": "475882dc1d78",
+   "title": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others",
+   "source": "Techmeme",
+   "url": "https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/"
+  },
+  {
+   "id": "602f095480d1",
+   "title": "Anthropic renames its $100 per month Max 5x plan as Max and the $200 per month Max 20x plan as Ultra, and removes the 5-hour limit for verified Ultra accounts",
+   "source": "Techmeme",
+   "url": "https://x.com/claudeai"
   }
  ]
 }

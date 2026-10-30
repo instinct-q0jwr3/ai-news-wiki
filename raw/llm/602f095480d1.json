@@ -1,0 +1,13 @@
+{
+  "id": "602f095480d1",
+  "authored_at": "2026-10-30T20:54:32Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Anthropic is renaming its Claude subscription tiers: the $100/month Max 5x plan becomes simply Max, and the $200/month Max 20x becomes Ultra. Prices stay put and current subscribers need do nothing. The substantive change comes with the rename: Anthropic is removing the 5-hour usage limit for verified Ultra accounts, starting with most existing subscribers; newer accounts keep the limit for now.",
+  "highlights": [
+    "Claude Max 5x becomes Max ($100/month); Max 20x becomes Ultra ($200/month)",
+    "Prices unchanged; no action needed from subscribers",
+    "The 5-hour usage limit is removed for verified Ultra accounts",
+    "Rollout starts with most existing subscribers; newer accounts keep the limit for now"
+  ]
+}

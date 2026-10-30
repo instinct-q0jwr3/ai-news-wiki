@@ -1622,5 +1622,61 @@
   "thin": 3,
   "total": 74,
   "unreadable": 7
+ },
+ "2026-10-30": {
+  "ok": 40,
+  "paywall": 8,
+  "picks": [
+   {
+    "cat": "unknown",
+    "front": "Offensive cyber",
+    "id": "babd4a10a39c",
+    "minutes": 17,
+    "source": "Epoch AI",
+    "title": "babd4a10a39c",
+    "why": "Open-weight GLM 5.3 turns published Firefox fixes into working exploits for about $1,000 per version, collapsing the skill floor on the patch gap."
+   },
+   {
+    "cat": "unknown",
+    "front": "Open models",
+    "id": "4711b2f64813",
+    "minutes": 21,
+    "source": "Mistral",
+    "title": "4711b2f64813",
+    "why": "Mistral releases the weights of Le Chonk, its trillion-parameter flagship, with claimed best-in-class open-weight coding and security gains."
+   },
+   {
+    "cat": "ok",
+    "front": "AI mandates at work",
+    "id": "9c2c8e429385",
+    "minutes": 5,
+    "source": "404 Media",
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "why": "Proton's CEO cancels forced AI re-interviews after an investigation exposes the \"use AI more\" push colliding with the security culture of a privacy company."
+   },
+   {
+    "cat": "ok",
+    "front": "The money wobbles",
+    "id": "0ad8bbdffaef",
+    "minutes": 4,
+    "source": "BBC",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "why": "Intel's worst day since the 1970s and a second day of selling show markets re-pricing AI capex as risk rather than promise."
+   },
+   {
+    "cat": "unknown",
+    "front": "AGI economics",
+    "id": "88e0a2b21365",
+    "minutes": 23,
+    "source": "DeepMind Institute",
+    "title": "88e0a2b21365",
+    "why": "A formal framework that defines AGI thresholds by economic transformation - competence sets the level, coordination sets the scale."
+   }
+  ],
+  "reserve": "167b995285e5",
+  "status": "provisional",
+  "thin": 7,
+  "total": 61,
+  "unreadable": 6
  }
 }
