@@ -901,6 +901,75 @@
     "f7135c48ce23"
    ],
    "concepts": []
+  },
+  {
+   "title": "The reckoning, continued",
+   "intro": "Overnight coverage of Alphabet's record half-trillion wipeout, and what the same week says about Microsoft and Amazon.",
+   "stories": [
+    "f663796c6cdd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The consumer flank",
+   "intro": "Jassy waves off outside shopping agents while Alexa's own numbers do the talking, and Meta soft-launches an AI stylist in Southeast Asia.",
+   "stories": [
+    "06eaf86e2ab0",
+    "22346af46e17"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Deals and dollars",
+   "intro": "A $3 billion raise for Vera Rubin systems in India, Nvidia guaranteeing billions in data-center debt for an Anthropic facility, and API credits become the subscription bundle wars' latest salvo.",
+   "stories": [
+    "e8f3bc39a34c",
+    "4d2c66a38d78",
+    "90fc80f17d16"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The patch gap, weaponized",
+   "intro": "An open-weight model turns published-but-unshipped Firefox fixes into working exploits for about $1,000 a version.",
+   "stories": [
+    "2003e96b378d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Games as compute",
+   "intro": "A transformer compiled into DOOM maps and verified against NumPy, and agent swarms loose in Minecraft and Mindustry.",
+   "stories": [
+    "22c054fdfeb1",
+    "5158f4961844"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proofs in production",
+   "intro": "Lasm compiles Lean 4 to WebAssembly so the web app you deploy is the one you proved.",
+   "stories": [
+    "846da7b9c3af"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The harness diaries",
+   "intro": "Claude Duet wins over a skeptical reviewer with speed and channels, while HN debates whether Opus 5.5 got dumber overnight (the benchmark says no).",
+   "stories": [
+    "5b850e088311",
+    "4ab09915de08"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Adoption notes",
+   "intro": "Proton, the privacy company, goes all in on AI.",
+   "stories": [
+    "2a94db37269b"
+   ],
+   "concepts": []
   }
  ]
 }

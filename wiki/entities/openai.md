@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-10-30** - Simon Willison notes that OpenAI has matched Anthropic's subscription benefit from earlier this month: ChatGPT subscribers on $100, $200 or $500 monthly plans now get the same amount in credits to apply to one of their API organizations - the same… ([API credits benefit for eligible ChatGPT subscriptions](../summaries/90fc80f17d16.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-29** - Simantic (YC F26), founded by former Neuralink and Tesla firmware engineers who worked on early Cybertruck and Roadster prototypes, is building the simulation layer that lets engineers and AI agents test firmware without hardware. Their diagnosis: agents… ([Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../summaries/b97740d9db82.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-29** - Overtone, from Lont co-founder Ruud, attacks the double tax of video captions: fixing misheard words, then fixing layout for every screen shape. Instead of cutting captions once at a line-length limit, Overtone stores each spoken word once - with its… ([Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](../summaries/d31218ab126f.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-10-29** - Simon Willison links Jacob Sansbury's account of building Spawn - a massively multiplayer game world where players prompt an in-game agent, Savi, to modify the world - as a look at the bleeding edge of agentic engineering. The team runs what is effectively… ([Building a multiplayer game world with autonomous Fable-class models](../summaries/3d53c5b30710.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

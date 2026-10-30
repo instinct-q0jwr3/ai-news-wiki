@@ -1,0 +1,14 @@
+{
+ "id": "5b850e088311",
+ "authored_at": "2026-10-30T02:53:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A self-described reluctant Anthropic admirer reviews Claude Duet after serious attempts with Muse, Dot, NanoClaw and other personal-assistant harnesses, and calls it the first that feels more useful than tedious - an evolution of the chat experience rather than another credentials-hungry agent. The headline virtue is speed: other assistants do who-knows-what in the background while you wait, and Duet, supposedly on Opus 5.5, answers faster than the reviewer has ever seen Opus move, suggesting deliberate tuning for responsiveness.\n\nThe structural win is channels: Duet creates and manages them, doing the session-organization tedium that loses workstreams in other tools. A natural hierarchy emerges, Cmd-K swaps between channels, channels can see and reference each other, and GitHub repo access is restricted per channel - the assistant keeps work in the right lane instead of accumulating one giant context soup.",
+ "highlights": [
+  "Review: Claude Duet is the first personal-assistant harness that feels useful",
+  "Speed is the differentiator - faster than Opus 5.5 appears elsewhere, clearly tuned",
+  "Channels replace manual session management; Duet organizes workstreams itself",
+  "Channels cross-reference; GitHub access scoped per channel",
+  "Reviewer tried Muse, Dot, NanoClaw first and found them tedious"
+ ]
+}

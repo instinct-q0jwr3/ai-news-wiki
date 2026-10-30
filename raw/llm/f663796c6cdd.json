@@ -1,0 +1,15 @@
+{
+ "id": "f663796c6cdd",
+ "authored_at": "2026-10-30T02:53:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The BBC's markets coverage of Alphabet's record-breaking Thursday: just over $500 billion erased, the stock at a six-month low, after its final investor update of the year showed AI summaries on search eating ad revenue. The numbers underneath were mixed rather than bad - total revenue up 25 percent to $127.6 billion, Google Cloud up 103 percent to almost $31 billion - but profits fell 25 percent in the quarter and, for only the second time as a public company, Alphabet posted negative free cash flow, this time more than $9 billion, nearly double the outflow three months earlier. The market cap went from $3.97 trillion to $3.46 trillion in a day.\n\nThe framing is contagion: Microsoft and Amazon reported the same week with the same plan - keep spending astronomical sums on AI - and investors appeared dismayed at what that spending is doing to each company's ability to grow its core business. Google's particular problem is that its omnipresent search engine now defaults to AI summaries of queries, and that directly reduced the number of ads it could sell in the quarter.",
+ "highlights": [
+  "Alphabet lost just over $500B in value; stock at a six-month low",
+  "Revenue +25% to $127.6B; Cloud +103% to ~$31B - but profits fell 25%",
+  "Negative free cash flow over $9B, second time in company history, ~2x last quarter's outflow",
+  "Market cap fell from $3.97T to $3.46T in one day",
+  "AI summaries now default on search and cut the number of ads sold",
+  "Microsoft and Amazon shares hit by the same spending-versus-growth dismay"
+ ]
+}

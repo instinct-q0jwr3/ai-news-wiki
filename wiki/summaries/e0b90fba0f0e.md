@@ -1,6 +1,6 @@
 # Imagine an AI future where being banned means you are now economically useless
 
-_type: news-summary · created: 2026-10-25 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-25 · updated: 2026-10-30 · confidence: high_
 
 `hacker-news`
 

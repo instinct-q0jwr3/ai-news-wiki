@@ -1,6 +1,6 @@
 # Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-30 · confidence: high_
 
 `techmeme` `anthropic` `google` `meta` `amazon` `agentic-systems` `ai-safety-incidents` `ai-coding-agents` `labor-displacement`
 

@@ -1,6 +1,6 @@
 # September 2020 News
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-10-30 · confidence: high_
 
 `gwern`
 

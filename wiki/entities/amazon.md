@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-10-30** - On Amazon's earnings call, Andy Jassy told investors not to worry about outside shopping agents invading its store: few customers are buying through them because the experience is, in his words, still not great and no more convenient than coming to a… ([On Amazon's earnings call, Andy Jassy says outside AI shopping agents are "still not great, nor more convenient than coming to a retailer directly"](../summaries/06eaf86e2ab0.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md))
 - **2026-10-29** - Bloomberg reports Amazon spent more than $77 billion on property and equipment in Q3, producing a free cash outflow of $42.4 billion, with e-commerce revenue slowing. The company said in July it would likely spend $220 billion on capex in 2026. ([Amazon spent $77B+ on property and equipment in Q3, leading to a free cash outflow of $42.4B; Amazon said in July that it would likely spend $220B in 2026 capex](../summaries/8ed6dc14b1d0.md) · [Amazon](../entities/amazon.md)) 🔒
 - **2026-10-28** - Simon Willison quotes Amazon engineering leadership's update on the developer role in the age of AI: if your work does not benefit from current AI tooling, 'that is a finding, not a failing' - document why, share it with peers, bring it to your manager. An… ([Quoting Terk Terkowitz](../summaries/4bcd6bb8e015.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-28** - Amazon published a piece defining the software developer's role in the age of AI, framed around Bezos' observation that what will not change matters more than what will, and that good builders deeply understand their customers through anecdotes rather than… ([Amazon defines the role of the developer in the age of AI](../summaries/f718fe6bba77.md) · [Amazon](../entities/amazon.md))

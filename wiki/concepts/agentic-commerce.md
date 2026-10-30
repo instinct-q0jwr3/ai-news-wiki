@@ -1,6 +1,6 @@
 # Concept: Agentic commerce
 
-_type: concept · created: 2026-09-21 · updated: 2026-10-29 · confidence: medium_
+_type: concept · created: 2026-09-21 · updated: 2026-10-30 · confidence: medium_
 
 `concept` `agentic-commerce`
 
@@ -17,10 +17,11 @@ AI agents that browse, decide and buy on a user's behalf force a negotiation bet
 
 ## Related entities
 
-[Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Amazon](../entities/amazon.md) · [Shopify](../entities/shopify.md)
+[Amazon](../entities/amazon.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Shopify](../entities/shopify.md)
 
 ## Timeline
 
+- **2026-10-30** - On Amazon's earnings call, Andy Jassy told investors not to worry about outside shopping agents invading its store: few customers are buying through them because the experience is, in his words, still not great and no more convenient than coming to a… ([On Amazon's earnings call, Andy Jassy says outside AI shopping agents are "still not great, nor more convenient than coming to a retailer directly"](../summaries/06eaf86e2ab0.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md))
 - **2026-10-22** - Walmart is leaning into agentic commerce with Agent Gateway, an MCP server that lets AI agents shop its site, plus Agent Profiles for customers' assistants, announced by CEO John Furner at the Masters of Scale Summit. The technology will support agentic… ([Walmart unveils Agent Gateway, an MCP server for AI agents to shop its site, and Agent Profiles to authorize agents and track their purchases separately](../summaries/e9425599501f.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md))
 - **2026-10-15** - A Chainalysis report says agentic commerce is growing fast, with crypto as the payment layer. On Coinbase's Base chain, cumulative x402 protocol transactions went from about 1,500 in mid-2025 to over 138 million by Q3 2026. ([Chainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents](../summaries/eb42faee2e79.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md))
 - **2026-10-13** - In a Cheeky Pint conversation with John Collison, Mark Zuckerberg and Alexandr Wang discuss Muse Wonder, Meta's new model, and the Muse app as Meta's AI infrastructure passes five gigawatts. They describe the complete talent reboot behind Meta… ([Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more](../summaries/96b74bbf324f.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [Agentic commerce](../concepts/agentic-commerce.md))

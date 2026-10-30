@@ -1,6 +1,6 @@
 # Google unveils Google Multi-Party Compute (MPC), a digital-asset custody and security service in private preview, set for commercial availability in early 2027
 
-_type: news-summary · created: 2026-10-28 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-28 · updated: 2026-10-30 · confidence: high_
 
 `techmeme` `google` `ai-safety-incidents` `compute-buildout`
 

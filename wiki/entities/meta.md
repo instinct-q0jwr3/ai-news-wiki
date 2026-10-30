@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-10-30** - Meta has quietly launched Style Sketch, an AI fashion app, in Indonesia, Singapore and Thailand on iOS and Android. Spotted by social media consultant Matt Navarra, the app connects to Instagram and Facebook to build a virtual closet from photos you have… ([Meta quietly launches Style Sketch, an AI fashion app that helps users put together outfit ideas using clothes they own, in Indonesia, Singapore, and Thailand](../summaries/22346af46e17.md) · [Meta](../entities/meta.md))
 - **2026-10-29** - Simantic (YC F26), founded by former Neuralink and Tesla firmware engineers who worked on early Cybertruck and Roadster prototypes, is building the simulation layer that lets engineers and AI agents test firmware without hardware. Their diagnosis: agents… ([Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../summaries/b97740d9db82.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-29** - Meta has soft-launched Waddle World, a Tamagotchi-style virtual pet app with AI under the hood, currently available only in the Philippines on iOS and Android. Spotted by social media consultant Matt Navarra, the app lets users hatch a pixel pet, feed it… ([Meta has a new AI pet app called Waddle World](../summaries/20d241427367.md) · [Meta](../entities/meta.md))
 - **2026-10-28** - Cory Doctorow applies his 2001 'Metacrap' critique of the Semantic Web to agentic commerce: any plan that begins by requiring everyone else to set aside their own needs in favor of your priorities is doomed. The original agentic vision - one chatbot… ([Pluralistic: Agents vs ecommerce (28 Oct 2026)](../summaries/ccd49fa95c80.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [The frontier model price war](../concepts/ai-price-war.md))

@@ -1,0 +1,15 @@
+{
+ "id": "22c054fdfeb1",
+ "authored_at": "2026-10-30T02:53:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Doomformer compiles integer neural networks into ZDoom maps and executes them inside a running game of DOOM: voodoo dolls (the player copies DOOM spawns for extra player-1 starts) do the arithmetic, while sector light levels and plane heights hold the sums. Python reads every exposed value back from the running engine and compares it against a NumPy integer reference with zero tolerance - one value off by one and the run fails. It is gloriously slow: about 23,000 times slower than NumPy on a small MLP, and a handwritten digit takes 163 seconds of real-time DOOM at the default schedule, or 8 seconds at --opt 3.\n\nThe demo is interactive: holding FIRE, the marine inks a 3x3 brush of floor cells; READ feeds the 784 pixels into the network and 1,355 voodoo dolls in the same map compute the MNIST inference. Installable with pip, it ships with a proof mode, a doctor command that checks ViZDoom and Freedoom, and a Colab notebook where you draw on a canvas and DOOM classifies the digit.",
+ "highlights": [
+  "Doomformer runs integer neural networks inside ZDoom maps via ViZDoom",
+  "1,355 voodoo dolls do the arithmetic; light levels and plane heights hold the sums",
+  "Every value verified against NumPy with zero tolerance",
+  "~23,000x slower than NumPy; one MNIST digit takes 163s (8s at --opt 3)",
+  "Interactive mode: the marine paints pixels with FIRE, the level reads the digit",
+  "pip-installable with proof mode and a Colab notebook"
+ ]
+}

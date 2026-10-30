@@ -1,6 +1,6 @@
 # Concept: The frontier model price war
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
 
 `concept` `ai-price-war`
 
@@ -16,10 +16,11 @@ Frontier labs keep cutting token prices while launching ever pricier top tiers. 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Google Gemini](../entities/gemini.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Google Gemini](../entities/gemini.md) · [Amazon](../entities/amazon.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Apple](../entities/apple.md)
 
 ## Timeline
 
+- **2026-10-30** - Simon Willison notes that OpenAI has matched Anthropic's subscription benefit from earlier this month: ChatGPT subscribers on $100, $200 or $500 monthly plans now get the same amount in credits to apply to one of their API organizations - the same… ([API credits benefit for eligible ChatGPT subscriptions](../summaries/90fc80f17d16.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-28** - Cory Doctorow applies his 2001 'Metacrap' critique of the Semantic Web to agentic commerce: any plan that begins by requiring everyone else to set aside their own needs in favor of your priorities is doomed. The original agentic vision - one chatbot… ([Pluralistic: Agents vs ecommerce (28 Oct 2026)](../summaries/ccd49fa95c80.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-10-26** - GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. ([OpenAI releases GPT-6.1 Terra, touting "fast and capable computer use at scale" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens](../summaries/8c78400abf6d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [The frontier model price war](../concepts/ai-price-war.md)) ⚠
 - **2026-10-23** - Simon Willison's link post on Kimi K3.1 Pro's launch: live on the Kimi API today, not yet open weights but with full weights promised by November 4, 2026, plus a Highspeed variant 2-3x faster at twice the price (input cache hits priced the same). US… ([Introducing Kimi K3.1 Pro](../summaries/f8ee876a76a7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [The frontier model price war](../concepts/ai-price-war.md))

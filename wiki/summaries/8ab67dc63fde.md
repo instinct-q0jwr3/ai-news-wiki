@@ -1,6 +1,6 @@
 # AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR
 
-_type: news-summary · created: 2026-10-14 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-14 · updated: 2026-10-30 · confidence: high_
 
 `techmeme` `compute-buildout`
 

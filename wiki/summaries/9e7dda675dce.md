@@ -1,6 +1,6 @@
 # Post About Recreating Adobe Tools Using AI Banned per Adobe Request
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-30 · confidence: high_
 
 `hacker-news`
 

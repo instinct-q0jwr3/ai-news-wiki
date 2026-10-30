@@ -1,6 +1,6 @@
 # GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle
 
-_type: news-summary · created: 2026-10-27 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-27 · updated: 2026-10-30 · confidence: high_
 
 `techmeme`
 

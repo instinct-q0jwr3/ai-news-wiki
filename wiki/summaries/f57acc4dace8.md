@@ -1,6 +1,6 @@
 # Discovering and exploiting vulnerabilities in real-world software with Claude
 
-_type: news-summary · created: 2026-10-28 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-28 · updated: 2026-10-30 · confidence: high_
 
 `hacker-news` `anthropic`
 

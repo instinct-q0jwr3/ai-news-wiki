@@ -1,0 +1,15 @@
+{
+ "id": "5158f4961844",
+ "authored_at": "2026-10-30T02:53:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A team reports running AI agent swarms inside Minecraft and Mindustry - games serving as sandboxes for multi-agent coordination experiments."
+ ],
+ "highlights": [
+  "Agent swarms run inside Minecraft and Mindustry",
+  "Games as cheap, observable sandboxes for multi-agent coordination",
+  "Basis: Hacker News title; the source failed to fetch"
+ ],
+ "basis": "The source fetch failed (no usable text), so this entry is based on the Hacker News title alone."
+}

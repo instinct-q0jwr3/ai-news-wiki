@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-10-29 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-10-30 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-10-30** - Bloomberg reports Indian AI infrastructure company AM Intelligence is seeking to raise as much as $3 billion to fund a previously announced purchase of Nvidia Vera Rubin systems. ([Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems](../summaries/e8f3bc39a34c.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
+- **2026-10-30** - The Information reports Nvidia is in talks to provide Nscale, a young AI cloud provider, with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use. ([Nvidia is in talks to provide Nscale with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use](../summaries/4d2c66a38d78.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-29** - NVIDIA released Nemotron 3.5 Transcribe, an open-weight, promptable speech model that folds transcription, speaker diarization, translation and audio question answering into a single checkpoint. It transcribes 40 languages, translates 31 of them to or from… ([NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](../summaries/dfc84a180bb3.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-10-29** - Bloomberg reports Seoul-based FuriosaAI raised a $620 million Series D at a $2.9 billion valuation, quadrupling from $735 million in 2025, as it bids to challenge Nvidia. South Korea's National Growth Fund contributed $280 million of the round. ([Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea's National Growth Fund contributed $280M](../summaries/ff35f051b8e7.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-10-29** - Reuters reports the US Department of Justice has inquired about the impact of Nvidia's $12.93 billion acquisition of Hugging Face on AI competition, as antitrust enforcers continue probing Nvidia's conduct across the AI stack. ([the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct](../summaries/892370e4ec69.md) · [Hugging Face](../entities/hugging-face.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) ⚠

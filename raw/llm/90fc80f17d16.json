@@ -1,0 +1,13 @@
+{
+ "id": "90fc80f17d16",
+ "authored_at": "2026-10-30T02:53:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison notes that OpenAI has matched Anthropic's subscription benefit from earlier this month: ChatGPT subscribers on $100, $200 or $500 monthly plans now get the same amount in credits to apply to one of their API organizations - the same expiring-credits deal Anthropic introduced for Max and Team subscribers.\n\nWillison, who holds subscriptions with both companies, calls it great news and muses about shipping public-facing demos now that the API spend is covered by subscriptions he already pays for. The matching move underlines how subscription bundles have become the labs' retention battleground.",
+ "highlights": [
+  "OpenAI mirrors Anthropic: $100/$200/$500 plans get equal API credits",
+  "Credits apply to an API organization, matching Anthropic's Max/Team benefit",
+  "Willison holds both subscriptions and plans public demos on the covered spend",
+  "Subscription bundles as the new retention battleground between labs"
+ ]
+}

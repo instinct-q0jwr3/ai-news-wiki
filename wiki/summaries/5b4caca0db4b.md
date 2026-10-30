@@ -1,6 +1,6 @@
 # Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5
 
-_type: news-summary · created: 2026-10-18 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-18 · updated: 2026-10-30 · confidence: high_
 
 `hacker-news` `anthropic` `external-evaluation`
 

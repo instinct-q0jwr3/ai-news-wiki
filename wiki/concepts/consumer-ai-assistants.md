@@ -1,6 +1,6 @@
 # Concept: Consumer Ai Assistants
 
-_type: concept · created: 2026-10-29 · updated: 2026-10-29 · confidence: medium_
+_type: concept · created: 2026-10-30 · updated: 2026-10-30 · confidence: medium_
 
 `concept` `consumer-ai-assistants`
 

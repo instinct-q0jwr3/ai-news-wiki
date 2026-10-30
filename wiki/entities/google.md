@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-30** - The BBC's markets coverage of Alphabet's record-breaking Thursday: just over $500 billion erased, the stock at a six-month low, after its final investor update of the year showed AI summaries on search eating ad revenue. The numbers underneath were mixed… ([Google value plunges by $500B as AI fears rattle Wall Street](../summaries/f663796c6cdd.md) · [Google](../entities/google.md))
 - **2026-10-29** - The Financial Times reports Alphabet's stock fell more than 12 percent, wiping a record $500 billion from its market value, after the company reported negative cash flow amid its AI spending and admitted AI Mode has hurt traditional search, with sales and… ([Alphabet's stock falls 12%+, wiping a record $500B from its market cap, after reporting negative cash flow amid its AI spending; the Nasdaq falls 1.4%+](../summaries/8c7dd75aeb95.md) · [Google](../entities/google.md)) 🔒
 - **2026-10-29** - The Information reports Dulo, a startup co-founded by Google veteran Sebastian Thrun to build 'foundation models for hardware design', has raised a $130 million seed round. ([Dulo, a startup co-founded by Google veteran Sebastian Thrun to build "foundation models for hardware design", raised a $130M seed](../summaries/cebfe79d1385.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-29** - Artificial Analysis' own writeup of its Intelligence Index v5 explains what Gemini 4 Carbon's number one ranking rests on. Carbon scores 59 overall and leads four of the nine component evaluations: HLE-Diamond, Terminal-Bench-Science, AA-Omniscience and… ([Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](../summaries/cf9a0dc606e4.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

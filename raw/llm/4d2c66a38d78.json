@@ -1,0 +1,16 @@
+{
+ "id": "4d2c66a38d78",
+ "authored_at": "2026-10-30T02:53:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports Nvidia is in talks to provide Nscale, a young AI cloud provider, with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use."
+ ],
+ "highlights": [
+  "Nvidia in talks to guarantee billions in Nscale debt",
+  "For a 460MW data center Anthropic plans to use",
+  "Another circular-financing link between Nvidia, cloud providers and labs",
+  "Basis: Techmeme summary; The Information paywalled (HTTP 403)"
+ ],
+ "basis": "The fetch failed with HTTP 403 (The Information paywall), so this entry is based on the Techmeme feed summary and headline."
+}

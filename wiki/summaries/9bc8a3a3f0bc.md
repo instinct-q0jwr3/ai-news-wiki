@@ -1,6 +1,6 @@
 # Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction
 
-_type: news-summary · created: 2026-10-12 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-12 · updated: 2026-10-30 · confidence: high_
 
 `techmeme` `google` `microsoft` `meta` `amazon` `compute-buildout`
 

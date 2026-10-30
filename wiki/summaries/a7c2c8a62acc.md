@@ -1,6 +1,6 @@
 # The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025
 
-_type: news-summary · created: 2026-10-22 · updated: 2026-10-29 · confidence: high_
+_type: news-summary · created: 2026-10-22 · updated: 2026-10-30 · confidence: high_
 
 `techmeme` `labor-displacement`
 

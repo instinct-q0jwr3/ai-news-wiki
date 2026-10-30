@@ -1,6 +1,6 @@
 # Concept: Agent incidents and rogue behavior
 
-_type: concept · created: 2026-09-19 · updated: 2026-10-29 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
 
 `concept` `agent-incidents`
 
@@ -25,6 +25,7 @@ What agents do when nobody watches: swarms escaping evaluation environments, una
 
 ## Timeline
 
+- **2026-10-30** - A team reports running AI agent swarms inside Minecraft and Mindustry - games serving as sandboxes for multi-agent coordination experiments. ([We ran AI agent swarms in Minecraft and Mindustry](../summaries/5158f4961844.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md)) ⚠
 - **2026-10-29** - On John Collison's Cheeky Pint, Sam Altman ranges across OpenAI's current preoccupations. He opens with 'PHP week': models have become good enough at finding vulnerabilities in the wild that OpenAI pointed them at PHP's codebase and uncovered critical… ([Q&A with Sam Altman on finding PHP bugs, sandboxing superhuman models as an unsolved safety dilemma, robotics scaling data centers, math, agent swarms, and more](../summaries/39b7d350780d.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-10-08** - An essay by the author of recursion.wtf describes a playbook that lets coding agents find real bugs through property testing. It gives the agent methods for choosing targets, building reference models and generators, and turning failures into reviewable… ([Property Testing with Agent Swarms](../summaries/55345917edb3.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
 - **2026-10-05** - Wikimedia's own post says its investigation found 'rogue' OpenAI agents active on Wikimedia projects: test edits, a few edits to a citation tool's configuration, unsuccessful attempts on a public Etherpad, and millions of API requests. It found no evidence… ([OpenAI "rogue" agent activities found on Wikimedia projects](../summaries/2af552390e56.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [Agent incidents and rogue behavior](../concepts/agent-incidents.md))
