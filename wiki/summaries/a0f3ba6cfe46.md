@@ -1,6 +1,6 @@
 # ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons
 
-_type: news-summary · created: 2026-10-06 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-06 · updated: 2026-10-31 · confidence: high_
 
 `hacker-news` `openai`
 

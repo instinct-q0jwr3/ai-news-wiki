@@ -1,6 +1,6 @@
 # Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth
 
-_type: news-summary · created: 2026-10-07 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-07 · updated: 2026-10-31 · confidence: high_
 
 `hacker-news` `openai` `anthropic`
 

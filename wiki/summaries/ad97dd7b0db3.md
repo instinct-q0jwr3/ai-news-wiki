@@ -1,6 +1,6 @@
 # How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed
 
-_type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-30 · updated: 2026-10-31 · confidence: high_
 
 `techmeme`
 

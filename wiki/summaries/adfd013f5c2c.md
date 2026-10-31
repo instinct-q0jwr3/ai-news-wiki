@@ -1,6 +1,6 @@
 # Anthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM
 
-_type: news-summary · created: 2026-10-28 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-28 · updated: 2026-10-31 · confidence: high_
 
 `techmeme` `anthropic` `small-specialist-models` `labor-displacement`
 

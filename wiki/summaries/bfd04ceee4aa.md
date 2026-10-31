@@ -1,6 +1,6 @@
 # How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it cheaper and easier to run fake investment schemes and other scams
 
-_type: news-summary · created: 2026-10-12 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-12 · updated: 2026-10-31 · confidence: high_
 
 `techmeme` `compute-buildout`
 

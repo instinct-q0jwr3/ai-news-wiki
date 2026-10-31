@@ -1,0 +1,14 @@
+{
+  "id": "e95d8e05e218",
+  "authored_at": "2026-10-31T02:54:59Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "OpenAI said on Friday it is tightening limits on the weapons-related information ChatGPT provides to teens, even when a question appears harmless, as part of new safeguards, Reuters reports. The article is paywalled to the fetcher (HTTP 401), so only the announcement's framing is verifiable from the source."
+  ],
+  "highlights": [
+    "OpenAI tightens weapons-related information limits for teens on ChatGPT",
+    "Applies even when a question appears harmless; part of new safeguards",
+    "basis: Techmeme summary of the Reuters report; Reuters returns HTTP 401 to the fetcher"
+  ]
+}

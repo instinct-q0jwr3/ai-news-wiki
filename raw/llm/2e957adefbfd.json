@@ -1,0 +1,14 @@
+{
+  "id": "2e957adefbfd",
+  "authored_at": "2026-10-31T02:54:59Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "OpenAI now seeks about $20 billion at a $1.25 trillion valuation for its latest round, down from $30 billion at $1.4 trillion, as some investors cut commitments amid the AI selloff, the Financial Times reports via sources. The article is blocked to the fetcher (HTTP 403), so the figures come from the feed's report of the piece."
+  ],
+  "highlights": [
+    "OpenAI trims its round to ~$20B at a $1.25T valuation, from $30B at $1.4T",
+    "Some investors cut commitments amid the AI selloff",
+    "basis: Techmeme summary of the FT report; FT returns HTTP 403 to the fetcher"
+  ]
+}

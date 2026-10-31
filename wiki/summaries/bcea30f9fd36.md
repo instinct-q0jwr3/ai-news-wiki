@@ -1,6 +1,6 @@
 # CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices
 
-_type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-30 · updated: 2026-10-31 · confidence: high_
 
 `techmeme`
 

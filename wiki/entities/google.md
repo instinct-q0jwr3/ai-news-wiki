@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-31 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-10-31** - OpenAI, Google, Microsoft and Anthropic say they will adopt a shared standard letting publishers opt out of AI scraping across multiple crawlers at once, The Verge reports. The mechanism is a 'policy token' proposed by Kevin Kelley, a technical lead for… ([OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers](../summaries/2c6d6cc4409e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md))
 - **2026-10-30** - The BBC's markets coverage of Alphabet's record-breaking Thursday: just over $500 billion erased, the stock at a six-month low, after its final investor update of the year showed AI summaries on search eating ad revenue. The numbers underneath were mixed… ([Google value plunges by $500B as AI fears rattle Wall Street](../summaries/f663796c6cdd.md) · [Google](../entities/google.md))
 - **2026-10-29** - The Financial Times reports Alphabet's stock fell more than 12 percent, wiping a record $500 billion from its market value, after the company reported negative cash flow amid its AI spending and admitted AI Mode has hurt traditional search, with sales and… ([Alphabet's stock falls 12%+, wiping a record $500B from its market cap, after reporting negative cash flow amid its AI spending; the Nasdaq falls 1.4%+](../summaries/8c7dd75aeb95.md) · [Google](../entities/google.md)) 🔒
 - **2026-10-29** - The Information reports Dulo, a startup co-founded by Google veteran Sebastian Thrun to build 'foundation models for hardware design', has raised a $130 million seed round. ([Dulo, a startup co-founded by Google veteran Sebastian Thrun to build "foundation models for hardware design", raised a $130M seed](../summaries/cebfe79d1385.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒

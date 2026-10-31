@@ -1,6 +1,6 @@
 # Show HN: Sketch Stadium – watch your agent play Pictionary
 
-_type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-30 · updated: 2026-10-31 · confidence: high_
 
 `hacker-news` `anthropic` `agentic-systems` `ai-safety-incidents` `ai-coding-agents`
 

@@ -1,6 +1,6 @@
 # Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code
 
-_type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-30 · updated: 2026-10-31 · confidence: high_
 
 `hacker-news`
 

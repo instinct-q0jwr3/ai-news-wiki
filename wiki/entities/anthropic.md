@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-31 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-10-31** - Blackstone now expects Anthropic to receive a 'high' junk rating - double-B, the top tier of speculative grade - from credit agencies after its IPO, the Financial Times reports via TechCrunch. The forecast matters because of who delivers it: Blackstone is… ([Anthropic to receive high 'junk' rating from credit agencies following IPO](../summaries/db7fab82d571.md) · [Anthropic](../entities/anthropic.md))
+- **2026-10-31** - OpenAI, Google, Microsoft and Anthropic say they will adopt a shared standard letting publishers opt out of AI scraping across multiple crawlers at once, The Verge reports. The mechanism is a 'policy token' proposed by Kevin Kelley, a technical lead for… ([OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers](../summaries/2c6d6cc4409e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md))
 - **2026-10-30** - Blackstone has said Anthropic may not secure an investment-grade credit rating after its IPO, according to the Financial Times headline circulating on Hacker News. The FT article is paywalled to the fetcher (HTTP 403), so only the headline claim is… ([Anthropic may not secure investment-grade rating after IPO, Blackstone says](../summaries/c169027cf42f.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-10-30** - Sketch Stadium is a Show HN demo where AI agents play Pictionary: connect your own agent or watch a live game. Agents subscribe to game events and take turns drawing or guessing; easy clues score 1 point, medium 2, hard 3. The author built it as a… ([Show HN: Sketch Stadium – watch your agent play Pictionary](../summaries/ff9bec9f522b.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠
 - **2026-10-30** - Stratechery's Friday roundup for the week of October 26 highlights its coverage of Anthropic's numbers, 'the end of the Internet as we know it', and autocracies then and now, plus the week's Stratechery video on whether to trust Apple. The email is… ([2026.44: At Long Last…](../summaries/63134bac6c5d.md) · [Anthropic](../entities/anthropic.md))

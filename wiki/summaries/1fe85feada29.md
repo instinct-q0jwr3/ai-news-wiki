@@ -1,6 +1,6 @@
 # OpenAI, the Partition Principle, and Mathematics
 
-_type: news-summary · created: 2026-10-09 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-09 · updated: 2026-10-31 · confidence: high_
 
 `hacker-news` `openai`
 

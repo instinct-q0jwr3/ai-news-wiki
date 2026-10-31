@@ -1,0 +1,69 @@
+{
+  "id": "digest-2026-10-31",
+  "date": "2026-10-31",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": "The money turns cautious: OpenAI halves its funding ambitions and Blackstone expects junk for Anthropic, while Wiz counts nine AI developer platforms breached in a single month.",
+  "sections": [
+    {
+      "title": "Capital gets selective",
+      "intro": "OpenAI trims its round from $30B to ~$20B at a lower valuation as investors cut commitments, Baseten more than doubles anyway, and the anchor of Anthropic's chip deal now expects a junk rating.",
+      "stories": [
+        "7ce09e713802",
+        "2e957adefbfd",
+        "9d0828b916df",
+        "db7fab82d571"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The selloff, day two",
+      "intro": "Wall Street closes sharply lower again, with Amazon and Intel results deepening the AI cash-burn worries.",
+      "stories": [
+        "a2b9ff804510"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A black October for AI platforms",
+      "intro": "Wiz connects nine breaches of AI developer platforms in one month - agent-swarm attack indications, distillation attempts, and one company shutting down.",
+      "stories": [
+        "68744d72e6cb"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Rules of the road",
+      "intro": "OpenAI tightens weapons information for teens, and the four big labs back an IETF policy token so publishers can opt out of AI scraping once, for every crawler.",
+      "stories": [
+        "e95d8e05e218",
+        "2c6d6cc4409e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The token mandate",
+      "intro": "Fortune's own account of Cisco handing a 27-year-old unlimited tokens to rewrite 98% of its legacy code - a bet against the graduate-hiring freeze.",
+      "stories": [
+        "84181bcd87e4"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Chips and equity",
+      "intro": "Powerlattice nearly triples its funding to cut AI's power bill from inside the processor package.",
+      "stories": [
+        "32b7a10b8d79"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "An NES in the weights",
+      "intro": "A working 6502 emulator baked into a 4B model, prompted into existence just for fun.",
+      "stories": [
+        "9596e84ee365"
+      ],
+      "concepts": []
+    }
+  ]
+}

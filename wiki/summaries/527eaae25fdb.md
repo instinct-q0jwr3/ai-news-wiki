@@ -1,6 +1,6 @@
 # Microsoft, Alphabet, Amazon, Meta, and Oracle returned just 9.3% of cash to shareholders in the first three quarters of 2026, a 15-year low amid AI spending
 
-_type: news-summary · created: 2026-10-30 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-30 · updated: 2026-10-31 · confidence: high_
 
 `techmeme` `microsoft` `meta` `amazon`
 

@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-31 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-10-31** - OpenAI, Google, Microsoft and Anthropic say they will adopt a shared standard letting publishers opt out of AI scraping across multiple crawlers at once, The Verge reports. The mechanism is a 'policy token' proposed by Kevin Kelley, a technical lead for… ([OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers](../summaries/2c6d6cc4409e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md))
 - **2026-10-30** - Alphabet, Meta, Microsoft, Amazon and Oracle collectively hold more than $3 trillion in AI spending commitments over the coming years - including roughly $1T from Alphabet and $800B from Meta - Bloomberg reports. The article is blocked to the fetcher (HTTP… ([Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet's $1T and Meta's $800B](../summaries/1126ccbb4d52.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-10-30** - Microsoft, Alphabet, Amazon, Meta and Oracle returned just 9.3% of their cash to shareholders in the first three quarters of 2026 - the smallest share in 15 years - even as they generated record cash, because AI spending is absorbing the difference,… ([Microsoft, Alphabet, Amazon, Meta, and Oracle returned just 9.3% of cash to shareholders in the first three quarters of 2026, a 15-year low amid AI spending](../summaries/527eaae25fdb.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md)) ⚠
 - **2026-10-29** - Overtone, from Lont co-founder Ruud, attacks the double tax of video captions: fixing misheard words, then fixing layout for every screen shape. Instead of cutting captions once at a line-length limit, Overtone stores each spoken word once - with its… ([Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](../summaries/d31218ab126f.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))

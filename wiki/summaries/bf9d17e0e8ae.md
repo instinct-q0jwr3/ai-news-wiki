@@ -1,6 +1,6 @@
 # OpenKylin: The AI Agent Linux Desktop
 
-_type: news-summary · created: 2026-10-13 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-13 · updated: 2026-10-31 · confidence: high_
 
 `hacker-news` `agentic-systems`
 

@@ -1,6 +1,6 @@
 # Anthropic's S-1 excludes Labs co-lead Ben Mann from its "Continuing Founders" and Founder LLC; Anthropic says "it's still fair to refer to him as a co-founder"
 
-_type: news-summary · created: 2026-10-27 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-27 · updated: 2026-10-31 · confidence: high_
 
 `techmeme` `anthropic`
 

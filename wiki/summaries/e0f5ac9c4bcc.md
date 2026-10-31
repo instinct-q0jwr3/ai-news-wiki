@@ -1,6 +1,6 @@
 # Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1
 
-_type: news-summary · created: 2026-10-16 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-16 · updated: 2026-10-31 · confidence: high_
 
 `hacker-news`
 

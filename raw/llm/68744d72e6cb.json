@@ -1,0 +1,15 @@
+{
+  "id": "68744d72e6cb",
+  "authored_at": "2026-10-31T02:54:59Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Wiz counts at least nine AI developer platforms disclosing security incidents in a single month: Fireworks AI (Oct 6), Andromeda (Oct 9), Zeabur (Oct 14), Lightning AI (Oct 15), OpenCode (Oct 16-17), Railway (Oct 20), Warp (Oct 23), CommandCode (Oct 28) and Northflank (Oct 30). Any one of these would be the top security story of a normal month; together they look like a campaign, and almost nobody is connecting the dots - the Cloud Security Alliance being a noted exception.\n\nThe patterns Wiz extracts: Fireworks, OpenCode and Warp report indications of an 'agent swarm' attack; OpenCode and CommandCode explicitly attribute their incidents to 'distillation' attempts; and Zeabur is shutting down over its breach. Root causes so far point at credential access (Fireworks, Zeabur, Lightning - the latter already hit in the Mini-Shai Hulud supply-chain campaign), privilege escalation in Railway's build infrastructure, and a third party for Warp. Most incidents are still under analysis, with only Zeabur's full write-up and Railway's preliminary timeline public.",
+  "highlights": [
+    "Wiz: at least nine AI developer platforms breached in October alone",
+    "Fireworks, Andromeda, Zeabur, Lightning AI, OpenCode, Railway, Warp, CommandCode, Northflank",
+    "Fireworks, OpenCode and Warp report \"agent swarm\" attack indications",
+    "OpenCode and CommandCode attribute incidents to distillation attempts; Zeabur is shutting down",
+    "Root causes so far: credential access, build-infrastructure privilege escalation, third parties",
+    "Almost no one is connecting the dots across the incidents - Cloud Security Alliance excepted"
+  ]
+}

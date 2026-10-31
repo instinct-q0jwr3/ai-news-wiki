@@ -1,6 +1,6 @@
 # Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges
 
-_type: news-summary · created: 2026-10-20 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-20 · updated: 2026-10-31 · confidence: high_
 
 `techmeme` `anthropic`
 

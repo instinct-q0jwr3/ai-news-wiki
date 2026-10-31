@@ -1,0 +1,14 @@
+{
+  "id": "a2b9ff804510",
+  "authored_at": "2026-10-31T02:54:59Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": [
+    "Wall Street closed sharply lower as fears over AI cash burn sparked a tech selloff, per Reuters' headline, with Amazon and Intel results deepening the AI-spending worries. The Reuters article is paywalled to the fetcher (HTTP 401), so only the headline framing is verifiable from the source."
+  ],
+  "highlights": [
+    "Wall Street closes sharply lower on AI cash-burn fears",
+    "Amazon and Intel results deepened the AI-spending worries",
+    "basis: headline only; reuters.com returns HTTP 401 to the fetcher"
+  ]
+}

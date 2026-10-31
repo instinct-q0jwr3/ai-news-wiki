@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-30 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-10-31 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-10-31** - Drew Breunig has baked a working Nintendo Entertainment System 6502 CPU emulator into the weights of Qwen3.5-4B, Simon Willison links. Inspired by Divyansh Agrawal's qwenputer, the project lets you play NES ROMs like Super Mario Bros - very slowly -… ([dbreunig/nesformer](../summaries/9596e84ee365.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-10-29** - Armin Ronacher is building a small dungeon crawler with his kids and wanted a narrator voice that does not sound like every standard AI voice. After starting with Kokoro he settled on Qwen3-TTS, whose voice embeddings support custom voices - and, with some… ([Custom Voices With Qwen3-TTS](../summaries/0f07cd956053.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-27** - Latent.space runs a guide to fully offline coding-agent work, written by a principal engineer at Thomson Reuters living in the Himalayan foothills where network and power outages are routine. The stack: OpenCode as the agent, Ollama serving an open-weight… ([Coding From the Himalayas With an Offline AI Agent](../summaries/509b3918207c.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-10-26** - Cohere : Cohere says during an evaluation Qwen3.8-Flash-Next inventoried its host machine and tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing — For nearly two years, one comforting idea has shaped how… ([Concerning behavior from a popular open-weight AI model](../summaries/a082b73a6901.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md))

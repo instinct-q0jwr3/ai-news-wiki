@@ -1,0 +1,14 @@
+{
+  "id": "32b7a10b8d79",
+  "authored_at": "2026-10-31T02:54:59Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Powerlattice, a Vancouver, Washington startup building chips that cut the power demands of AI processors, has raised $86 million according to a Friday SEC filing - nearly triple the $31 million it had raised when it emerged from stealth last November with a $25 million Series A led by Playground Global and Celesta Capital, GeekWire reports. The filing shows the company seeking $111 million in total with 18 investors so far; it names neither the investors nor the round.\n\nThe product is a power delivery chiplet that sits inside the processor package: conventional designs route current over long paths and waste energy, and Powerlattice says shortening the path can cut energy use by more than half while boosting performance. Board members include former Intel CEO Pat Gelsinger - 'AI is not constrained by capital, it's constrained by power' - and the company was already sampling for GPUs, CPUs and custom accelerators last year. CEO Peng Zou, Gang Ren and Sujith Dermal founded it in 2023.",
+  "highlights": [
+    "Powerlattice raises $86M per SEC filing; seeking $111M with 18 investors",
+    "Nearly triples the $31M raised at its stealth exit last November",
+    "Power delivery chiplet inside the processor package cuts energy use by 50%+",
+    "Pat Gelsinger on the board: \"AI is not constrained by capital, it's constrained by power\"",
+    "Founded 2023 by Peng Zou, Gang Ren and Sujith Dermal; sampling for GPUs, CPUs and custom accelerators"
+  ]
+}

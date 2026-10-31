@@ -1,6 +1,6 @@
 # Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures
 
-_type: news-summary · created: 2026-10-29 · updated: 2026-10-30 · confidence: high_
+_type: news-summary · created: 2026-10-29 · updated: 2026-10-31 · confidence: high_
 
 `techmeme` `microsoft`
 
