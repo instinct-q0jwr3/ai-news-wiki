@@ -1,0 +1,16 @@
+{
+ "id": "f89a0c3c1a65",
+ "authored_at": "2026-10-31T14:57:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Bloomberg (Morgan Meaker) reports that AI detectors such as Pangram are changing how people write - authors are dropping em dashes, \"not X, but Y\" constructions and words like \"delve\", or even adding deliberate typos, to make their prose read as human. The source page could not be fetched (paywall), so this summary rests on the feed description alone and no further detail is verified."
+ ],
+ "highlights": [
+  "AI detectors like Pangram are reshaping human writing habits, per Bloomberg",
+  "Writers drop em dashes, 'not X, but Y' phrasing and words like 'delve' to avoid looking machine-generated",
+  "Some add deliberate typos as proof of humanity",
+  "Summary based on feed metadata only - the Bloomberg page is paywalled and could not be fetched"
+ ],
+ "basis": "Techmeme feed summary of the Bloomberg piece (Morgan Meaker); raw/cache/sources/f89a0c3c1a65.json status=error (paywalled source)."
+}

@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>We Took over ChatGPT Accounts · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793458711"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>We Took over ChatGPT Accounts</h1>
+<p class="meta">type: news-summary · created: 2026-10-31 · updated: 2026-10-31 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Security researchers at Parameter found a way to turn an ordinary public ChatGPT share link into a full account takeover. An attacker builds a malicious conversation, publishes it through the normal sharing feature, and sends the link; when the victim opens it, attacker JavaScript executes as chatgpt.com inside the signed-in session. The team confirmed the payload could enumerate the victim's conversation list, pull content from a private conversation that was never shared with the attacker, and send that data to an outside server - no app install, project membership, pasted code or developer tools required, just one click on the link.</p>
+<p>The chain combines two features that look harmless alone. An interactive graph in the conversation loads the MathLive library, which installs a postMessage listener on the main ChatGPT page. The sandboxed HTML Preview, deliberately boxed off as a different origin, supplies the untrusted sender. MathLive's listener accepted messages from any origin and allowed a keyboard-layout update whose layout can contain HTML: a first message swapped in attacker markup, a second told MathLive to show the keyboard, and the payload rendered in the privileged page. OpenAI classified the report P1 and shipped a fix on October 26.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Public share link plus one click meant full ChatGPT account takeover - no install or dev tools needed</li>
+<li>Payload ran as chatgpt.com: listed conversations, read an unshared private chat, exfiltrated data</li>
+<li>An interactive graph loaded MathLive, installing a postMessage listener on the main page</li>
+<li>The sandboxed HTML Preview acted as the untrusted sender across the origin boundary</li>
+<li>MathLive's listener used an origin policy of none and accepted layout HTML from anyone</li>
+<li>Two messages: replace the virtual keyboard layout with attacker markup, then show it</li>
+<li>OpenAI rated the report P1 and fixed the issue on October 26</li>
+<li>Takeaway: a postMessage bridge is only as safe as the receiver's origin check</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/openai.html">OpenAI</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

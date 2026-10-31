@@ -1,105 +1,125 @@
 {
-  "id": "digest-2026-10-31",
-  "date": "2026-10-31",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": "The money turns cautious: OpenAI halves its funding ambitions, Blackstone expects junk for Anthropic, S&P cuts Meta's outlook and the bond market closes on the neoclouds - while Wiz counts nine AI platforms breached in a month.",
-  "sections": [
-    {
-      "title": "Capital gets selective",
-      "intro": "OpenAI trims its round from $30B to ~$20B as investors cut commitments, Baseten more than doubles anyway, Blackstone expects junk for Anthropic, S&P turns Meta negative, neoclouds lose the bond market, and Google admits AI Mode monetizes worse than Search.",
-      "stories": [
-        "7ce09e713802",
-        "2e957adefbfd",
-        "9d0828b916df",
-        "db7fab82d571",
-        "8754176a9187",
-        "18633eabad6b",
-        "489008422033"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The selloff, day two",
-      "intro": "Wall Street closes sharply lower again, with Amazon and Intel results deepening the AI cash-burn worries.",
-      "stories": [
-        "a2b9ff804510"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A black October for AI platforms",
-      "intro": "Wiz connects nine breaches of AI developer platforms in one month - agent-swarm attack indications, distillation attempts, and one company shutting down.",
-      "stories": [
-        "68744d72e6cb"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Rules of the road",
-      "intro": "OpenAI tightens weapons information for teens, and the four big labs back an IETF policy token so publishers can opt out of AI scraping once, for every crawler.",
-      "stories": [
-        "e95d8e05e218",
-        "2c6d6cc4409e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The token mandate",
-      "intro": "Fortune's own account of Cisco handing a 27-year-old unlimited tokens to rewrite 98% of its legacy code - a bet against the graduate-hiring freeze.",
-      "stories": [
-        "84181bcd87e4"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Chips and equity",
-      "intro": "Powerlattice nearly triples its funding to cut AI's power bill from inside the processor package.",
-      "stories": [
-        "32b7a10b8d79"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "An NES in the weights",
-      "intro": "A working 6502 emulator baked into a 4B model, prompted into existence just for fun.",
-      "stories": [
-        "9596e84ee365"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Anthropic's version",
-      "intro": "Anthropic breaks its silence on the Cursor marketplace incident: no compromise of its systems, a tampered copy it did not build or publish.",
-      "stories": [
-        "6c79ccb73a57"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The chokepoint thesis",
-      "intro": "A sweeping essay argues the durable AI fortunes sit at distribution, payment rails and a stablecoin dollar - not at the labs.",
-      "stories": [
-        "d99fdab4b0cc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Apple's product guy",
-      "intro": "Steven Levy profiles John Ternus: no drama, hardware first, and no AI for AI's sake.",
-      "stories": [
-        "f7621d5a39d9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The lighter side",
-      "intro": "Visit Iceland sends a knitter to your meeting so you can skip it, and Sam Altman explains why your PC should not have RAM.",
-      "stories": [
-        "b979409cb19d",
-        "06731eaafb0d"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "digest-2026-10-31",
+ "date": "2026-10-31",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "The money turns cautious: OpenAI halves its funding ambitions, Blackstone expects junk for Anthropic, S&P cuts Meta's outlook and the bond market closes on the neoclouds - while Wiz counts nine AI platforms breached in a month.",
+ "sections": [
+  {
+   "title": "Capital gets selective",
+   "intro": "OpenAI trims its round from $30B to ~$20B as investors cut commitments, Baseten more than doubles anyway, Blackstone expects junk for Anthropic, S&P turns Meta negative, neoclouds lose the bond market, and Google admits AI Mode monetizes worse than Search.",
+   "stories": [
+    "7ce09e713802",
+    "2e957adefbfd",
+    "9d0828b916df",
+    "db7fab82d571",
+    "8754176a9187",
+    "18633eabad6b",
+    "489008422033"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The selloff, day two",
+   "intro": "Wall Street closes sharply lower again, with Amazon and Intel results deepening the AI cash-burn worries - and Matt Stoller argues the Anthropic S-1 explains why the whole complex now falls as one trade.",
+   "stories": [
+    "a2b9ff804510",
+    "cdf5347d8204"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A black October for AI platforms",
+   "intro": "Wiz connects nine breaches of AI developer platforms in one month - agent-swarm attack indications, distillation attempts, and one company shutting down.",
+   "stories": [
+    "68744d72e6cb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rules of the road",
+   "intro": "OpenAI tightens weapons information for teens, the four big labs back an IETF policy token so publishers can opt out of AI scraping once, and developers say Claude now refuses game-cloning and reverse-engineering work.",
+   "stories": [
+    "e95d8e05e218",
+    "2c6d6cc4409e",
+    "51e284dbaf8f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The token mandate",
+   "intro": "Fortune's own account of Cisco handing a 27-year-old unlimited tokens to rewrite 98% of its legacy code - a bet against the graduate-hiring freeze.",
+   "stories": [
+    "84181bcd87e4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips and equity",
+   "intro": "Powerlattice nearly triples its funding to cut AI's power bill from inside the processor package.",
+   "stories": [
+    "32b7a10b8d79"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An NES in the weights",
+   "intro": "A working 6502 emulator baked into a 4B model, prompted into existence just for fun.",
+   "stories": [
+    "9596e84ee365"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's version",
+   "intro": "Anthropic breaks its silence on the Cursor marketplace incident: no compromise of its systems, a tampered copy it did not build or publish.",
+   "stories": [
+    "6c79ccb73a57"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The chokepoint thesis",
+   "intro": "A sweeping essay argues the durable AI fortunes sit at distribution, payment rails and a stablecoin dollar - not at the labs.",
+   "stories": [
+    "d99fdab4b0cc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Apple's product guy",
+   "intro": "Steven Levy profiles John Ternus: no drama, hardware first, and no AI for AI's sake.",
+   "stories": [
+    "f7621d5a39d9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The lighter side",
+   "intro": "Visit Iceland sends a knitter to your meeting so you can skip it, Sam Altman explains why your PC should not have RAM, and humans start editing their own prose to dodge the AI detectors.",
+   "stories": [
+    "b979409cb19d",
+    "06731eaafb0d",
+    "f89a0c3c1a65"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Holes in the fortress",
+   "intro": "A single public ChatGPT share link was enough to take over an account, and an authorized red team says its agents walked through Anthropic's business systems in twelve hours.",
+   "stories": [
+    "d6d8b417fe77",
+    "d8a88f3d710d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Water and resistance",
+   "intro": "Arizona welcomed TSMC and ignored its first 172 data centers - now a bipartisan coalition is fighting the hyperscale build-out over every gallon.",
+   "stories": [
+    "121c07ec17b7"
+   ],
+   "concepts": []
+  }
+ ]
 }

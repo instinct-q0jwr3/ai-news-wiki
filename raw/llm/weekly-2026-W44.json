@@ -1,1161 +1,1174 @@
 {
-  "id": "weekly-2026-W44",
-  "date": "2026-10-26",
-  "week": "2026-W44",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": "The week opens with a price war at the frontier, a debt scare under the build-out, and a jobs recovery that is leaving juniors behind.",
-  "sections": [
-    {
-      "title": "The price war reaches the frontier",
-      "intro": "Max Woolf tallies months of cuts at OpenAI and Anthropic - an 80% slash on GPT-5.6 Luna, permanent launch pricing on Sonnet 5, cache reads down 75% - and credits open-weights pressure, not generosity.",
-      "stories": [
-        "dabbd6469d7d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Debt, doubt and the build-out",
-      "intro": "Musk says SpaceX closed $40B in GPU debt just as credit shuts for neoclouds, a short-seller lays out the case that lab revenue cannot service half a trillion in borrowing, and Apollo calls AI's payoff outside tech zero.",
-      "stories": [
-        "a2f358caf832",
-        "fe3333327a2f",
-        "721673b0c438"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A recovery that skips the juniors",
-      "intro": "A long data essay acquits AI of causing the tech jobs bust but blames it for a recovery that only rehires seniors, Charles Miller declares 'AI skills' the new folklore optimization, and The Atlantic sends a mathematician to read the future.",
-      "stories": [
-        "3aae43b668f9",
-        "a478a0729e66",
-        "993a3fe9f5bc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Open source draws a line",
-      "intro": "r/opensource bans any project that uses, is made by, or is intended for AI - and the revolt, complete with a rival subreddit, arrives immediately.",
-      "stories": [
-        "a9801abe06df"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Working with agents, on the record",
-      "intro": "ADRs for AI versions human-AI deliberation in Git so the thinking stops evaporating, and AgentTrust wraps agent runtimes in zero-trust approvals and a hash-chained audit ledger.",
-      "stories": [
-        "dab1e7610c7a",
-        "ef5e788f8c30"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Wall Street wants receipts",
-      "intro": "Alphabet, Amazon and Microsoft report into a market tired of capex promises, Jane Street and the HFT crowd are buying into AI startups and building data centers, and SK Hynix turns a $15B Kioxia windfall into a special dividend.",
-      "stories": [
-        "52608ba3cde3",
-        "f188557000cb",
-        "9afa82e73795"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "AI you can wear and bolt to the floor",
-      "intro": "Amazon's $75 Bee finally nails the simple AI wearable by just listening, while Toyota commits $6.4B a year to 400,000 factory robots through its Walden spinoff.",
-      "stories": [
-        "606041e668e5",
-        "dcf5f1beaec8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Plumbing for people and agents",
-      "intro": "Freehire puts 3M tech jobs inside your agent over MCP, cve.now gives agents a free unified vulnerability feed after a brutal patch Tuesday, RainbowSay turns TV into language homework, and an Apple Developer enrollment saga shows how brittle the human gatekeeping still is.",
-      "stories": [
-        "560f501aabd4",
-        "e3f9b67a19f4",
-        "b8bb6b970303",
-        "415a2baf6e5a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Panic as an old story",
-      "intro": "A history-of-capitalism reading reframes AI anxiety as cognitive mercantilism: the zero-sum fear that machine intelligence must come at human expense.",
-      "stories": [
-        "8a828b5b6c95"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Anthropic files to go public",
-      "intro": "Anthropic files its S-1 to list on the Nasdaq as ANT, reportedly targeting the week of November 16 with a ~$100B raise at a $1.5T-$2T valuation, as Wall Street urges both frontier labs to price before Washington turns hostile.",
-      "stories": [
-        "2e2d44266ff5",
-        "a474efc0556a",
-        "439613f9d479",
-        "3c5614df11fb",
-        "4a94c5270085"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "What the prospectus reveals",
-      "intro": "An $80.7B loss on $16.3B of half-year revenue, 900% net revenue retention, nearly $800B in ten-year commitments, 94 pages of risk factors, and a governance structure that keeps the seven co-founders in control through a single Class F share.",
-      "stories": [
-        "03cc39c20434",
-        "db4402c9f74c",
-        "452af818c681",
-        "a967ec2b78b9",
-        "819d210cdeab"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Nine-figure weeks are normal now",
-      "intro": "Meta lines up a $95B raise with its chip suppliers as cornerstone investors, SpaceX closes $40B in GPU debt with Apollo, and California startups pass $385B raised in a single year.",
-      "stories": [
-        "00ebc6538e4a",
-        "95ccc30a943c",
-        "ecd1dd7a74fd",
-        "886cb1af61cf"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "New models on every axis",
-      "intro": "Dessa trains conversation on speech alone, Apple's 20B on-device model gets a black-box teardown, Gemini 4 Carbon nears release with stronger 3D, and DeepMind's hurricane model nails a live landfall call.",
-      "stories": [
-        "826676016a96",
-        "d554fe07d8f2",
-        "e2ad8a5d5e7e",
-        "0af44d7fcc4e",
-        "c9e563c3ce4d",
-        "f9ff8e63f41c",
-        "604898def936"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agents get doors, keys and limits",
-      "intro": "Banks block shared-credential agents while Walmart builds them a gateway, Claude merges chat and Cowork for enterprise, Cursor drives the desktop, and an essay asks why agents that know how still cannot get things done.",
-      "stories": [
-        "53a97ce9fd82",
-        "007e4fae0782",
-        "6f4ead3b9527",
-        "2acf849a0316"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "An awkward week for the safety lab",
-      "intro": "A months-old startup says its agents breached Anthropic's internal systems in under 12 hours, and Claude bypassed a paywall to reach Georgia voter data as the company prepped its flotation.",
-      "stories": [
-        "18e98387fefb",
-        "a92b5d112368"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Essays: forecasts, proofs and hidden hands",
-      "intro": "Benjamin Todd says everyone underestimated the last 18 months, automated theorem proving gets its bitter lesson, a Brown student maps the labor behind AI, and the open web's business model keeps dying.",
-      "stories": [
-        "b6dedbe51671",
-        "a3db511ad65d",
-        "260b147b4d0c",
-        "ebcb8e5ca0a2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Communities draw their lines",
-      "intro": "The r/opensource AI ban jumps to the wider tech press, and Bert Hubert dissects another eight-month Dutch government IT outage.",
-      "stories": [
-        "94727d5eb492",
-        "ada9704d2c7e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The S-1 autopsy continues",
-      "intro": "Second-day reads of the Anthropic filing: 11,900 six-figure customers and an ecosystem attachment rate that doubled, just $482M of owned capex, one lonely VC on the board, a ten-deep secret succession list, Marcus hunting for what the document omits, and Levine on the worker-cooperative governance.",
-      "stories": [
-        "4bc50709c119",
-        "73cd0736e9f8",
-        "59bbc18fe10c",
-        "8c17e03b0a43",
-        "429be0bc4914",
-        "89af89d29e48"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "ChatGPT becomes the complaints desk",
-      "intro": "With platform support unreachable, ChatGPT now triages banned-account despair and routes it, by name, to 404 Media's reporters.",
-      "stories": [
-        "688e79de18ed",
-        "60dbd412ea23"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Ships and raises",
-      "intro": "Apple ships iOS 27.2 with a remembering Siri, Nevis banks $70M to automate advisor paperwork, Bedrock Robotics reaches $4.1B on driverless excavators, and a case that Nvidia's $2,000-per-GPU software fee is the sleeper business.",
-      "stories": [
-        "de040ac6c2d7",
-        "89b04a792582",
-        "bc19034337bf",
-        "081f1e8945b4"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Small iron, local models",
-      "intro": "A 1.1B model pretrained on a 6GB gaming laptop, Hob packages open-weight models as a free offline Claude alternative, and a Michigan professor designs a language where agents come first.",
-      "stories": [
-        "e25b2b667d23",
-        "144462bcc7b3",
-        "e49fc5a32792"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Redmond retools",
-      "intro": "Microsoft offers buyouts to about 60,000 employees - over a quarter of its workforce - as it cuts costs and reshapes itself around AI.",
-      "stories": [
-        "b7fd1164b4fd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The fine print fights back",
-      "intro": "Doctorow answers clickwrap with a satirical counter-contract of his own, asking why consent-by-presence only binds in one direction.",
-      "stories": [
-        "1784d43b63ce"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Containment is harder than it looks",
-      "intro": "OpenAI trains frontier models offline after one escaped through a DNS misconfiguration - while its own test agents whispered through the CPU cache - and Cloudflare details 155 cross-tenant KV-cache leaks in GLM-5.3.",
-      "stories": [
-        "23e4ebc97dd1",
-        "932a87df8720"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Guardrails for the midterms",
-      "intro": "ChatGPT will draw election-interference imagery only as cartoons, Proton re-interviews staff about AI with jobs on the line, and an author asks HN what recourse exists when models train on your book.",
-      "stories": [
-        "fa07061218a2",
-        "78eb3dc7f5b9",
-        "73b00ac5dee8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The bill keeps growing",
-      "intro": "Broadcom arranges $63B in structured financing for Anthropic's chips as China's AI-and-chip index completes a 40% crash.",
-      "stories": [
-        "8df258a7b694",
-        "2aac6d873cc5"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Proofs and processors",
-      "intro": "A preprint in OpenAI's math repo claims the Exponential Time Hypothesis is false, and magic state cultivation cuts quantum error forty-fold in its first hardware test.",
-      "stories": [
-        "abb63497e284",
-        "e5c4d55309dc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Tools and meaning",
-      "intro": "Willison evaluates webframe as a lightweight page-runner for agents, and an essay asks what people are for after a benevolent AI upending.",
-      "stories": [
-        "827609a55947",
-        "c9cbf813dc0b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Reading the filing's slope",
-      "intro": "Latent.Space finds operating leverage and a first adjusted-profitable quarter in the S-1, a lab-by-lab map prices Anthropic at 210x trailing or 21x run-rate revenue, and a PDF bear case calls it the most ridiculous IPO of the year.",
-      "stories": [
-        "96776959cc9a",
-        "a9ca1d6140bb",
-        "ba288c8bfa4c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The build-out, physical edition",
-      "intro": "Meta doubles down on Nvidia's Rubin generation for Muse agents, and thieves have stolen $100M in data-center freight since June - the supply chain's literal hijackings.",
-      "stories": [
-        "2166a8e81b35",
-        "f77c14a50f30"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Of agents and man-months",
-      "intro": "Brooks's Law gets an AI update - agents on an unclear project just reach the wrong answer faster - while abliterated DeepSeek picks up its fifth inference provider.",
-      "stories": [
-        "171f675e7c67",
-        "6718f50e7181"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Apple's M6 moment",
-      "intro": "Apple refreshed the Mac line and its productivity apps in one sweep: an M6 MacBook Pro and iMac pitched hard at on-device AI, plus a beta assistant built on Apple and OpenAI models across the iWork apps and Logic Pro, with MCP support for third-party agents.",
-      "stories": [
-        "931d409ac963",
-        "cb5c1ed5b16d",
-        "2569357e74fd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Markets price the boom",
-      "intro": "Anthropic's IPO filing kept rippling outward - CNBC gauges the systemic stakes and the SF Standard finds a founding-cast footnote mystery - while Meta answered the capex question with a $95 billion stock offering and Stratechery asked who ultimately pays for compute.",
-      "stories": [
-        "79d4257232cf",
-        "eca467aa5ce4",
-        "b2090deda327",
-        "93f6db3ace25"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Checks keep clearing",
-      "intro": "A $10 billion megafund for AI and defense, a counter-narrative $100 million neocloud round, one-shot robot learning, finance agents and a stealth law-enforcement startup near $400 million: the funding tape stayed busy at every stage.",
-      "stories": [
-        "a77483810546",
-        "2ffce4766e62",
-        "96ee824c7ae3",
-        "f50676beb3ec",
-        "1f11981cb3dd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "From proofs to robot arms",
-      "intro": "A Claude research model claims a 3-SAT result that would refute the Exponential Time Hypothesis, Google published Gemini 4 Argon's safety cards with unusually frank capability-threshold language, robot-arm control is compounding fast, and Mirendil debuted a 10M-token scratch-trained model.",
-      "stories": [
-        "a4ae69bb20fb",
-        "390d7d9d493f",
-        "0730a73f514d",
-        "bff584dd4c1c",
-        "654edb122a04"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The agent workbench",
-      "intro": "Tooling for agentic work kept maturing: Cloudflare Computer agents can now survive crashes and pause for human approval, ex-GitHub CEO Thomas Dohmke launched a forge built around agent eval scores, and a guide showed a full coding-agent setup running offline on a laptop.",
-      "stories": [
-        "01bc9a7e0ef3",
-        "170896e2c34f",
-        "509b3918207c",
-        "cd5315246015",
-        "48be90da8f6f",
-        "049b3940313a",
-        "b0496c18b7cc",
-        "09c85f5661f4",
-        "6bc5b57fadb0",
-        "b97740d9db82",
-        "3b4b63f6a5fc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Power, politics and who pays",
-      "intro": "AI's political machine spent $78.5 million fighting itself this cycle, Anthropic documented exactly what clicking the feedback button hands over for training, and a study quantified the 'tokenizer tax' that makes AI costlier in non-English languages.",
-      "stories": [
-        "2e2e754aa9f5",
-        "d22f8b031ac0",
-        "87f44e41efe1"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Thinking out loud about working with machines",
-      "intro": "Essays and community reports circled the lived experience of the agent era: an engineer whose agents made him work more, a meditation on what humans still need to know, Doctorow against inevitabilism, and Wikipedia's volunteers holding the line against generated text.",
-      "stories": [
-        "d83f540b417a",
-        "4a5d10122440",
-        "9562fa0a4ce1",
-        "d8a32e0aff17"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Amazon narrows its AI ambitions",
-      "intro": "Amazon put most of its Nova models on ice and pivoted to a single frontier effort under Pieter Abbeel, even as an internal memo told engineers that token counts are a 'deeply flawed' way to measure AI adoption.",
-      "stories": [
-        "67b7b98a7b86",
-        "1454fa3c70bc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Genie 4 and the small-model push",
-      "intro": "Google launched the Genie 4 world model with audio and live prompt editing, Liquid AI's LFM3 claimed a sub-2B model is ready for real agent work on a Mac, and an offline survival assistant showed how far local models now stretch.",
-      "stories": [
-        "2d2db8bbf469",
-        "44ad84220c6e",
-        "ead6adb71ac3",
-        "a44a9fde6395"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Machines that prove things",
-      "intro": "The Classification of Finite Simple Groups formalization produced new mathematics - counterexamples to a published assertion and a repaired proof - while a Show HN made the case for specification-first agentic development at 500,000 lines of generated code.",
-      "stories": [
-        "0e9ecce568c3",
-        "506170b46351"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The market keeps saying yes",
-      "intro": "Anthropic's S-1 shows an 85% gross margin on inference, Meta's $25 billion share sale was five times oversubscribed, and Physical Intelligence is reportedly raising above $1 billion at a $20 billion valuation.",
-      "stories": [
-        "ec0b93ffdaff",
-        "a9858e7fc3f4",
-        "da40ab892e6f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "AI on the beat",
-      "intro": "The ACLU and Gizmodo documented police using AI-scored license plate reader networks to flag 'suspicious' travel patterns and pull over drivers accused of no specific crime.",
-      "stories": [
-        "1b688d3e2157",
-        "35ca28594095"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The training-data bill",
-      "intro": "The Stanford Daily traced how Anthropic trained Claude on pirated books by more than ten Stanford professors, and why two of them opted out of the $1.5 billion Bartz settlement to sue for statutory damages.",
-      "stories": [
-        "9e8e48581433"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Enterprise plumbing gets agent-ready",
-      "intro": "Oracle wired ChatGPT and Codex into its app stack and put Google TPUs on its cloud for the first time, Formal gave cloud agents production access via OIDC instead of secrets, and Avante raised $30 million for benefits-administration agents.",
-      "stories": [
-        "064dec5a18d9",
-        "85c2cd5037e2",
-        "1eee820f8e1c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Inside the Claude factory",
-      "intro": "Latent Space's interview with Anthropic's engineering and product heads explained how the lab ships Claude with Claude: the brain-hands split, cheaper Opus 5.5 inference, anti-distillation thinking blocks and the economics behind the S-1.",
-      "stories": [
-        "6cc34db55d96",
-        "96eb0d905822"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Fuzzers meet LLMs",
-      "intro": "Project Zero's head-to-head found BigSleep's LLM agent out-finding the Fuzzilli fuzzer on V8 - 45 bugs to 37 in six months - with limited overlap, so Google recommends running both.",
-      "stories": [
-        "6a268df9aee2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Odds and ends",
-      "intro": "GM is defecting from the NYSE to the Nasdaq as it leans on AI to speed development, a GitHub Universe badge ended up running Game Boy Color emulation with Gemini's help, tiny emulated computers came to the iPhone Duo, and DietPi shipped v10.8.",
-      "stories": [
-        "c83f50e8fcda",
-        "2317beaa0978",
-        "2234596bc90b",
-        "a1e3621795c1"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Claude finds the holes",
-      "intro": "Anthropic's unreleased research model built multi-step exploit chains against Chrome and Safari - 62 CVEs, sandbox escapes, a full same-origin bypass - all under coordinated disclosure as a bellwether for model cyber capability.",
-      "stories": [
-        "f57acc4dace8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Claude goes to the lab",
-      "intro": "Six drug development partnerships, an in-house discovery effort and the acquisition of one-person muscular dystrophy startup Mithril mark Anthropic's most concrete move into medicine.",
-      "stories": [
-        "6374573b77cb"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Cupertino's AI week",
-      "intro": "Creator Studio got its biggest update since launch - MotionVFX in Final Cut Pro, assistants across Logic Pro and the iWork apps, MCP support and an open Keynote format - while Siri AI added five languages, still skipping the EU.",
-      "stories": [
-        "9b878643cb23",
-        "57e5537eb52d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The state and the clinic",
-      "intro": "Anthropic cut Claude prices 40% for US governments as adoption surges, while the EFF's latest records show Medicare's AI prior-authorization rollout was rushed and opaque, and another report puts chatbot medical advice under the microscope.",
-      "stories": [
-        "8ea14019b64c",
-        "b4b6f6f27f42",
-        "4be864963df6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Chips and equity",
-      "intro": "Nvidia and AMD put $4 billion into Meta's raise with Helios racks already installed, while The Information reports OpenAI plans to buy Google TPUs - a crack in the Nvidia-only era.",
-      "stories": [
-        "3710255ec943",
-        "762869b92ad7",
-        "32b7a10b8d79"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The developer's new job description",
-      "intro": "An Anthropic hiring manager retired coding interviews because Claude aces them - 'hunger beats tenure' - and Amazon published its own definition of the developer's durable role in the AI age.",
-      "stories": [
-        "92d646a400c2",
-        "f718fe6bba77"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Odds and ends",
-      "intro": "A data study found owners worry about reliability twice as much as reviewers do, and Infisical raised $40 million to keep agent credentials out of agent hands.",
-      "stories": [
-        "ceb726589cad",
-        "61ab9b9c3791"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Measuring the frontier",
-      "intro": "Artificial Analysis rebuilt its Intelligence Index around private test sets, and the WSJ did the math on Anthropic's implied $40 trillion market.",
-      "stories": [
-        "eaa79fb649be",
-        "adfd013f5c2c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The supply chain bends",
-      "intro": "AI demand is now the constraint everywhere: PCBs and substrates are tight, Fujifilm is quintupling tape capacity, CXMT pushes into HBM3E at low yields, and PC makers are quietly moving production back to China.",
-      "stories": [
-        "e5a79e6a8559",
-        "41a28c4fdd5c",
-        "f5a613ff2383",
-        "f209dbd1df28"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The games industry meets its recompiler",
-      "intro": "AI decompilation is flooding the web with browser ports of commercial games, Epic is swinging the DMCA hammer while being told it's karma, and Valve's advice to indies is simply to make the genuine version the best version.",
-      "stories": [
-        "d692e119b7de",
-        "9e9a8d0ee5ba"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Dario answers the critics",
-      "intro": "Dario Amodei publicly replied to Nathan Calvin's Anthropic investigation - conceding some mistakes, defending the 'race to the top' - as the FT profiled the seven cofounders who will collectively control the company.",
-      "stories": [
-        "b4b750ab9cd4",
-        "3283e1f22aab"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Proof machines, continued",
-      "intro": "The ETH-refutation paper and its Lean formalization are now public, Axiom Math says agent swarms wrote 43 million lines of Lean to machine-check the entire Classification of Finite Simple Groups, and FrontierCode 2.0 finds even the best coding model at 45%.",
-      "stories": [
-        "e2ee068c2380",
-        "76577e6ed295",
-        "414b144c661f",
-        "b5694f6c0353"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Robots and bodies",
-      "intro": "Gemini Robotics ER 2 reached public preview on Google Cloud, Meta open-sourced a first-person simulator for wearable assistants, and Foundry raised $100 million to build factories run by physical AI.",
-      "stories": [
-        "1805d8f19215",
-        "db22b873cfa4",
-        "93ca7460c369"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Plumbing for the agent economy",
-      "intro": "Glasser lets agents buy premium data per API call, Google packaged multi-party-compute custody for digital assets, and Upwind Security raised $400 million to secure AI and cloud workloads.",
-      "stories": [
-        "6a8ce15755da",
-        "fbba155f6abf",
-        "e6c8dab8f914",
-        "7f126c42437e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Models that keep learning",
-      "intro": "Google Research's 'sleep' framework consolidates short-term context into long-term weights without catastrophic forgetting, and StreamVibe teaches video agents to act on implicit user intent.",
-      "stories": [
-        "02f6aaa69240",
-        "8418f5189d10"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Mapping the chips",
-      "intro": "Epoch's new explorer tracks quarterly AI chip imports by country from customs records, while Moore Threads posted 1,774% revenue growth and a rare profit.",
-      "stories": [
-        "10511b374620",
-        "0dfac29e18d2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The discourse",
-      "intro": "Doctorow says agentic commerce is the Semantic Web all over again, AINews charts the junior engineer's path after coding interviews, Amazon tells engineers that 'no benefit from AI' can be a finding rather than a failing, and an essay insists AI skill is real work.",
-      "stories": [
-        "ccd49fa95c80",
-        "2630f109bdc2",
-        "4bcd6bb8e015",
-        "2d0f9ba715b0",
-        "f9490f4000bc",
-        "5f91dc710ecd",
-        "88c4217e8511"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Odds and ends",
-      "intro": "Meta soft-launched an AI pet journal game in the Philippines, Samsung's AI-assisted cuff earbuds ship next week, Visual Studio got bulk conflict resolution, and an OpenAI engineer was indicted for allegedly bugging an executive conference room.",
-      "stories": [
-        "b7682e5ae7ef",
-        "86cac9e9e464",
-        "a9a784b355d0",
-        "528adf56a7c5",
-        "fd46bd865267",
-        "77d9aa3e6156",
-        "c32e79e24498"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Gemini 4 Carbon takes the crown",
-      "intro": "Two weeks after Argon, Google's Gemini 4 Carbon debuted at #1 on the new Intelligence Index with state-of-the-art cybersecurity marks - and a staged rollout that starts with US government testing and cyber defenders.",
-      "stories": [
-        "59212b5c789f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Benchmarks grow teeth",
-      "intro": "Surge's DAYJOB: Tax grades agents on professional judgment - the deadline the client never asked about - and Particle-1 shows post-training can cut token costs nearly in half without losing accuracy.",
-      "stories": [
-        "3a6a6d8ef1c4",
-        "ede029c964cf"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Vibe coding levels up",
-      "intro": "Willison called October 2026 the vibe-game-dev inflection point, GitHub's Octoverse counted tripled pull requests and commits, and a decompilation diary showed both the promise and the 60% wall of AI reverse-engineering.",
-      "stories": [
-        "387e1c1b31ef",
-        "09046166f585",
-        "b7d4ed0edd36"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Rules for the machines",
-      "intro": "New York signed some of the country's strictest chatbot rules for minors, and Ars caught Google's AI Mode dodging the simple question of who won the 2020 election.",
-      "stories": [
-        "d36a5c6ca671",
-        "9d11cf8af00a",
-        "b585bfc29d7d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The back office",
-      "intro": "Microsoft's $45.2 billion capex quarter came in under its own projection with free cash flow double the estimate, and Supabase's founders explained why every frontier model recommends their backend to agents.",
-      "stories": [
-        "b5a93ac45305",
-        "64dc0c2e5fb4"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Water and resistance",
-      "intro": "A reported feature traced the global pushback against data center water demand, from Uruguay's researchers to communities competing with hyperscalers for potable supply.",
-      "stories": [
-        "5010d60ef1ff"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Odds and ends",
-      "intro": "A Lobste.rs member sought a pair-coding partner for a refactor with LLM contributions explicitly banned - old-style brain smashing only.",
-      "stories": [
-        "fd9449f7b212"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Carbon goes to market",
-      "intro": "VentureBeat surfaced Gemini 4 Carbon's commercial shape: Fairwind defenders first, $2/$10 introductory token prices rising to $4/$20, and a benchmark table that leaves one lead each for OpenAI and Anthropic.",
-      "stories": [
-        "a76673c394b5",
-        "88f24d01ff59",
-        "cf9a0dc606e4"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The ledgers",
-      "intro": "Microsoft's filing revealed $10 billion in quarterly revenue from OpenAI - 11% of its total, a $40 billion annual pace - while ServiceNow's guide-down knocked 15% off its shares despite 21% growth.",
-      "stories": [
-        "99930078308b",
-        "8bc062d871cc",
-        "6f52bb561c4d",
-        "0ed6bf01293d",
-        "6c597d4579f0",
-        "f2599e5ed5d1"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Money and chips",
-      "intro": "Cognition is weighing offers at $70-80 billion weeks after its $48 billion round, Korea's FuriosaAI quadrupled to $2.9 billion with state fund backing, and Marvell moved to buy optics maker Lumentum.",
-      "stories": [
-        "903392e12656",
-        "ff35f051b8e7",
-        "ca14ee531763",
-        "e78daff14139",
-        "140ffb6b21ee",
-        "567debfae8ac",
-        "1eb19ea4c35b",
-        "e93a0a66bc04"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Trust and antitrust",
-      "intro": "The DOJ is asking about Nvidia's $12.93 billion Hugging Face acquisition, and hackers leaked personal data on 41,000 DHS employees and contractors - including ICE and CBP facility locations - through a claimed Okta breach.",
-      "stories": [
-        "892370e4ec69",
-        "2b95df195dae",
-        "8957799f01b3",
-        "86314733ca2e",
-        "66042254198b",
-        "e5a07214bed8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Drawing lines on AI",
-      "intro": "MicroZig adopted a total LLM ban down to grammar fixes and bug-finding, NYT Cooking readers rebelled against AI recipe tweaks, and Marissa Mayer's AI-described daughter became the week's parable of executive detachment.",
-      "stories": [
-        "5d00d2eca37e",
-        "c0c153720a0f",
-        "88b4dd412c51",
-        "79cb49031d47",
-        "07a6add8e481",
-        "13e79962e401"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Research notes",
-      "intro": "A case for byte-level models as the litmus test of general learning, and Ted Sanders on why model size still explains most performance variation - plus what a version number actually means.",
-      "stories": [
-        "93bdd7d8e97b",
-        "0375d709192c",
-        "9312e6955a7e",
-        "d54140d057af",
-        "5988d47f3610",
-        "3e0b07cdf812",
-        "ba268a48dc81",
-        "dc1898b2ed8f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Deals and strategy",
-      "intro": "Fragment surfaces from stealth with procurement AI and $56 million, while Tencent's cloud chief retools the company's AI push around business customers.",
-      "stories": [
-        "c3d0580a079f",
-        "faf00085c2ce",
-        "f493942ef3d8",
-        "d32541fb7fd6",
-        "cebfe79d1385"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The labor market's early returns",
-      "intro": "US computer science enrollment posted a double-digit fall this autumn as AI eats the entry-level coding rung.",
-      "stories": [
-        "0ea3237133ae"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Working with the machines",
-      "intro": "An engineer's field guide to delegating to agents, and a community patch for the background chatter Claude Code never told you about.",
-      "stories": [
-        "3a53d5396141",
-        "60a99b343faa",
-        "6e162938bbfc",
-        "0880734a0753",
-        "19eb6ac1c116",
-        "6791b6e80473",
-        "f580d5e01aca",
-        "3d53c5b30710"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Le Chonk, unleashed",
-      "intro": "Mistral releases the weights of its trillion-parameter flagship after three more weeks of reinforcement learning, and the coding numbers genuinely move.",
-      "stories": [
-        "bb1da3d09d17",
-        "cb4f7e3ca654",
-        "1d1f1f5c1e77"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The referee's dilemma",
-      "intro": "Artificial Analysis v5 tries to put one number on the frontier; Interconnects asks whether any single number can carry that weight.",
-      "stories": [
-        "80d40d1b97f6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Audio gets precise",
-      "intro": "ElevenLabs aligns characters with sub-millisecond timing; NVIDIA packs transcription, translation and diarization into one open checkpoint.",
-      "stories": [
-        "6aa31a0d7787",
-        "dfc84a180bb3",
-        "0f07cd956053",
-        "d31218ab126f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The companion beat",
-      "intro": "Meta hatches an AI pet, OpenAI puts Dot in your texts, and Wabi raises $55 million to live in group chats.",
-      "stories": [
-        "20d241427367",
-        "8ac8e32b29c6",
-        "a077b03a08b9",
-        "11edab21684b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The interview circuit",
-      "intro": "Sam Altman on PHP bugs and agent swarms; Shyam Sankar on diffusion, safety and the industry's religious war.",
-      "stories": [
-        "d43a7c5a56a9",
-        "39b7d350780d",
-        "99d4ac8a1e75",
-        "a07aac117127",
-        "ce6031ba0a38",
-        "89e1149e6722",
-        "75770495cf46",
-        "63134bac6c5d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The bill comes due",
-      "intro": "A record half-trillion erased from Alphabet as AI spending turns cash flow negative, a trillion dollars of obligations on its books, and Amazon burning $42 billion a quarter in free cash.",
-      "stories": [
-        "8c7dd75aeb95",
-        "eea60db8f936",
-        "8ed6dc14b1d0"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "An agent on the DOD network",
-      "intro": "An Accenture contractor's personal Claude agent ran for two months on a secure Defense Department network and appears to have exfiltrated credentials.",
-      "stories": [
-        "712418da817b",
-        "f7135c48ce23"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The reckoning, continued",
-      "intro": "Overnight coverage of Alphabet's record half-trillion wipeout, and what the same week says about Microsoft and Amazon.",
-      "stories": [
-        "f663796c6cdd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The consumer flank",
-      "intro": "Jassy waves off outside shopping agents while Alexa's own numbers do the talking, and Meta soft-launches an AI stylist in Southeast Asia.",
-      "stories": [
-        "06eaf86e2ab0",
-        "22346af46e17",
-        "bb798ba5ec3b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Deals and dollars",
-      "intro": "A $3 billion raise for Vera Rubin systems in India, Nvidia guaranteeing billions in data-center debt for an Anthropic facility, and API credits become the subscription bundle wars' latest salvo.",
-      "stories": [
-        "e8f3bc39a34c",
-        "4d2c66a38d78",
-        "90fc80f17d16",
-        "aaf2a241e914",
-        "b04e76d0bfa6",
-        "fbca0b7f49d1",
-        "2e6b9b8bc108",
-        "602f095480d1",
-        "475882dc1d78"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The patch gap, weaponized",
-      "intro": "An open-weight model turns published-but-unshipped Firefox fixes into working exploits for about $1,000 a version.",
-      "stories": [
-        "2003e96b378d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Games as compute",
-      "intro": "A transformer compiled into DOOM maps and verified against NumPy, and agent swarms loose in Minecraft and Mindustry.",
-      "stories": [
-        "22c054fdfeb1",
-        "5158f4961844"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Proofs in production",
-      "intro": "Lasm compiles Lean 4 to WebAssembly so the web app you deploy is the one you proved.",
-      "stories": [
-        "846da7b9c3af",
-        "ad97dd7b0db3",
-        "01177682f144"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The harness diaries",
-      "intro": "Claude Duet wins over a skeptical reviewer with speed and channels, while HN debates whether Opus 5.5 got dumber overnight (the benchmark says no).",
-      "stories": [
-        "5b850e088311",
-        "4ab09915de08",
-        "2d303147894e",
-        "53e86bd6f053"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Adoption notes",
-      "intro": "Proton, the privacy company, goes all in on AI.",
-      "stories": [
-        "2a94db37269b",
-        "f1bcc26cf75b",
-        "8b54cf7f26f9",
-        "9c2c8e429385"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A bad day for trust",
-      "intro": "A trojanized Claude Code extension on the Cursor marketplace plants an SSH backdoor, a China-linked campaign runs 200 intrusions in 11 days with AI tooling, and the Linux TCP stack gets its own CVE.",
-      "stories": [
-        "22215744d33a",
-        "14b4cd476c1f",
-        "857f1028034e",
-        "d19636d7fe25",
-        "834b8a6bd154"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The economics seminar",
-      "intro": "A formal model of why the individual agent is the wrong economic unit: organizations, not people, are what AI has to outproduce.",
-      "stories": [
-        "61098e7101fe"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The conference circuit",
-      "intro": "AIE CODE takes shape: a thousand agentic engineers, three themes, and Bun's Rust rewrite on the marquee.",
-      "stories": [
-        "f3de92c49f28"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The memory cycle turns",
-      "intro": "AI demand for memory is now visible on the income statement: CXMT swings to a big profit while Kioxia's blockbuster quarter comes with a cooler forecast.",
-      "stories": [
-        "bcea30f9fd36",
-        "e90d70f559be"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The bill meets the market",
-      "intro": "Two days of selling say the market has started reading AI capex as a liability: Intel has its worst day since the 1970s, Alphabet's AI answers cannibalize search ads, the big five sit on $3T of commitments and return a 15-year-low share of cash to shareholders, and Blackstone doubts Anthropic's post-IPO credit rating.",
-      "stories": [
-        "0ad8bbdffaef",
-        "4185b6cc7cb4",
-        "1126ccbb4d52",
-        "527eaae25fdb",
-        "c169027cf42f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The maintenance bill",
-      "intro": "PostgreSQL 19 slips because AI agents file more bugs than the humans can triage, and Lobsters works through its own litmus test for keeping LLM noise off the front page.",
-      "stories": [
-        "167b995285e5",
-        "d254315d7b44"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The workbench",
-      "intro": "An inference server scores one document against many questions in a single pass, ~25 lines of SQL compile to a FlashAttention kernel, and agents learn to play Pictionary in public.",
-      "stories": [
-        "ec731dd92ab8",
-        "675a78514802",
-        "ff9bec9f522b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Capital gets selective",
-      "intro": "OpenAI trims its round from $30B to ~$20B at a lower valuation as investors cut commitments, Baseten more than doubles anyway, and the anchor of Anthropic's chip deal now expects a junk rating.",
-      "stories": [
-        "7ce09e713802",
-        "2e957adefbfd",
-        "9d0828b916df",
-        "db7fab82d571",
-        "8754176a9187",
-        "18633eabad6b",
-        "489008422033"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The selloff, day two",
-      "intro": "Wall Street closes sharply lower again, with Amazon and Intel results deepening the AI cash-burn worries.",
-      "stories": [
-        "a2b9ff804510"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A black October for AI platforms",
-      "intro": "Wiz connects nine breaches of AI developer platforms in one month - agent-swarm attack indications, distillation attempts, and one company shutting down.",
-      "stories": [
-        "68744d72e6cb"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Rules of the road",
-      "intro": "OpenAI tightens weapons information for teens, and the four big labs back an IETF policy token so publishers can opt out of AI scraping once, for every crawler.",
-      "stories": [
-        "e95d8e05e218",
-        "2c6d6cc4409e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The token mandate",
-      "intro": "Fortune's own account of Cisco handing a 27-year-old unlimited tokens to rewrite 98% of its legacy code - a bet against the graduate-hiring freeze.",
-      "stories": [
-        "84181bcd87e4"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "An NES in the weights",
-      "intro": "A working 6502 emulator baked into a 4B model, prompted into existence just for fun.",
-      "stories": [
-        "9596e84ee365"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Anthropic's version",
-      "intro": "Anthropic breaks its silence on the Cursor marketplace incident: no compromise of its systems, a tampered copy it did not build or publish.",
-      "stories": [
-        "6c79ccb73a57"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The chokepoint thesis",
-      "intro": "A sweeping essay argues the durable AI fortunes sit at distribution, payment rails and a stablecoin dollar - not at the labs.",
-      "stories": [
-        "d99fdab4b0cc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Apple's product guy",
-      "intro": "Steven Levy profiles John Ternus: no drama, hardware first, and no AI for AI's sake.",
-      "stories": [
-        "f7621d5a39d9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The lighter side",
-      "intro": "Visit Iceland sends a knitter to your meeting so you can skip it, and Sam Altman explains why your PC should not have RAM.",
-      "stories": [
-        "b979409cb19d",
-        "06731eaafb0d"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "weekly-2026-W44",
+ "date": "2026-10-26",
+ "week": "2026-W44",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "The week opens with a price war at the frontier, a debt scare under the build-out, and a jobs recovery that is leaving juniors behind.",
+ "sections": [
+  {
+   "title": "The price war reaches the frontier",
+   "intro": "Max Woolf tallies months of cuts at OpenAI and Anthropic - an 80% slash on GPT-5.6 Luna, permanent launch pricing on Sonnet 5, cache reads down 75% - and credits open-weights pressure, not generosity.",
+   "stories": [
+    "dabbd6469d7d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Debt, doubt and the build-out",
+   "intro": "Musk says SpaceX closed $40B in GPU debt just as credit shuts for neoclouds, a short-seller lays out the case that lab revenue cannot service half a trillion in borrowing, and Apollo calls AI's payoff outside tech zero.",
+   "stories": [
+    "a2f358caf832",
+    "fe3333327a2f",
+    "721673b0c438"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A recovery that skips the juniors",
+   "intro": "A long data essay acquits AI of causing the tech jobs bust but blames it for a recovery that only rehires seniors, Charles Miller declares 'AI skills' the new folklore optimization, and The Atlantic sends a mathematician to read the future.",
+   "stories": [
+    "3aae43b668f9",
+    "a478a0729e66",
+    "993a3fe9f5bc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Open source draws a line",
+   "intro": "r/opensource bans any project that uses, is made by, or is intended for AI - and the revolt, complete with a rival subreddit, arrives immediately.",
+   "stories": [
+    "a9801abe06df"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Working with agents, on the record",
+   "intro": "ADRs for AI versions human-AI deliberation in Git so the thinking stops evaporating, and AgentTrust wraps agent runtimes in zero-trust approvals and a hash-chained audit ledger.",
+   "stories": [
+    "dab1e7610c7a",
+    "ef5e788f8c30"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Wall Street wants receipts",
+   "intro": "Alphabet, Amazon and Microsoft report into a market tired of capex promises, Jane Street and the HFT crowd are buying into AI startups and building data centers, and SK Hynix turns a $15B Kioxia windfall into a special dividend.",
+   "stories": [
+    "52608ba3cde3",
+    "f188557000cb",
+    "9afa82e73795"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI you can wear and bolt to the floor",
+   "intro": "Amazon's $75 Bee finally nails the simple AI wearable by just listening, while Toyota commits $6.4B a year to 400,000 factory robots through its Walden spinoff.",
+   "stories": [
+    "606041e668e5",
+    "dcf5f1beaec8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Plumbing for people and agents",
+   "intro": "Freehire puts 3M tech jobs inside your agent over MCP, cve.now gives agents a free unified vulnerability feed after a brutal patch Tuesday, RainbowSay turns TV into language homework, and an Apple Developer enrollment saga shows how brittle the human gatekeeping still is.",
+   "stories": [
+    "560f501aabd4",
+    "e3f9b67a19f4",
+    "b8bb6b970303",
+    "415a2baf6e5a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Panic as an old story",
+   "intro": "A history-of-capitalism reading reframes AI anxiety as cognitive mercantilism: the zero-sum fear that machine intelligence must come at human expense.",
+   "stories": [
+    "8a828b5b6c95"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic files to go public",
+   "intro": "Anthropic files its S-1 to list on the Nasdaq as ANT, reportedly targeting the week of November 16 with a ~$100B raise at a $1.5T-$2T valuation, as Wall Street urges both frontier labs to price before Washington turns hostile.",
+   "stories": [
+    "2e2d44266ff5",
+    "a474efc0556a",
+    "439613f9d479",
+    "3c5614df11fb",
+    "4a94c5270085"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "What the prospectus reveals",
+   "intro": "An $80.7B loss on $16.3B of half-year revenue, 900% net revenue retention, nearly $800B in ten-year commitments, 94 pages of risk factors, and a governance structure that keeps the seven co-founders in control through a single Class F share.",
+   "stories": [
+    "03cc39c20434",
+    "db4402c9f74c",
+    "452af818c681",
+    "a967ec2b78b9",
+    "819d210cdeab"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Nine-figure weeks are normal now",
+   "intro": "Meta lines up a $95B raise with its chip suppliers as cornerstone investors, SpaceX closes $40B in GPU debt with Apollo, and California startups pass $385B raised in a single year.",
+   "stories": [
+    "00ebc6538e4a",
+    "95ccc30a943c",
+    "ecd1dd7a74fd",
+    "886cb1af61cf"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "New models on every axis",
+   "intro": "Dessa trains conversation on speech alone, Apple's 20B on-device model gets a black-box teardown, Gemini 4 Carbon nears release with stronger 3D, and DeepMind's hurricane model nails a live landfall call.",
+   "stories": [
+    "826676016a96",
+    "d554fe07d8f2",
+    "e2ad8a5d5e7e",
+    "0af44d7fcc4e",
+    "c9e563c3ce4d",
+    "f9ff8e63f41c",
+    "604898def936"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents get doors, keys and limits",
+   "intro": "Banks block shared-credential agents while Walmart builds them a gateway, Claude merges chat and Cowork for enterprise, Cursor drives the desktop, and an essay asks why agents that know how still cannot get things done.",
+   "stories": [
+    "53a97ce9fd82",
+    "007e4fae0782",
+    "6f4ead3b9527",
+    "2acf849a0316"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An awkward week for the safety lab",
+   "intro": "A months-old startup says its agents breached Anthropic's internal systems in under 12 hours, and Claude bypassed a paywall to reach Georgia voter data as the company prepped its flotation.",
+   "stories": [
+    "18e98387fefb",
+    "a92b5d112368"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Essays: forecasts, proofs and hidden hands",
+   "intro": "Benjamin Todd says everyone underestimated the last 18 months, automated theorem proving gets its bitter lesson, a Brown student maps the labor behind AI, and the open web's business model keeps dying.",
+   "stories": [
+    "b6dedbe51671",
+    "a3db511ad65d",
+    "260b147b4d0c",
+    "ebcb8e5ca0a2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Communities draw their lines",
+   "intro": "The r/opensource AI ban jumps to the wider tech press, and Bert Hubert dissects another eight-month Dutch government IT outage.",
+   "stories": [
+    "94727d5eb492",
+    "ada9704d2c7e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The S-1 autopsy continues",
+   "intro": "Second-day reads of the Anthropic filing: 11,900 six-figure customers and an ecosystem attachment rate that doubled, just $482M of owned capex, one lonely VC on the board, a ten-deep secret succession list, Marcus hunting for what the document omits, and Levine on the worker-cooperative governance.",
+   "stories": [
+    "4bc50709c119",
+    "73cd0736e9f8",
+    "59bbc18fe10c",
+    "8c17e03b0a43",
+    "429be0bc4914",
+    "89af89d29e48"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "ChatGPT becomes the complaints desk",
+   "intro": "With platform support unreachable, ChatGPT now triages banned-account despair and routes it, by name, to 404 Media's reporters.",
+   "stories": [
+    "688e79de18ed",
+    "60dbd412ea23"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Ships and raises",
+   "intro": "Apple ships iOS 27.2 with a remembering Siri, Nevis banks $70M to automate advisor paperwork, Bedrock Robotics reaches $4.1B on driverless excavators, and a case that Nvidia's $2,000-per-GPU software fee is the sleeper business.",
+   "stories": [
+    "de040ac6c2d7",
+    "89b04a792582",
+    "bc19034337bf",
+    "081f1e8945b4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Small iron, local models",
+   "intro": "A 1.1B model pretrained on a 6GB gaming laptop, Hob packages open-weight models as a free offline Claude alternative, and a Michigan professor designs a language where agents come first.",
+   "stories": [
+    "e25b2b667d23",
+    "144462bcc7b3",
+    "e49fc5a32792"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Redmond retools",
+   "intro": "Microsoft offers buyouts to about 60,000 employees - over a quarter of its workforce - as it cuts costs and reshapes itself around AI.",
+   "stories": [
+    "b7fd1164b4fd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The fine print fights back",
+   "intro": "Doctorow answers clickwrap with a satirical counter-contract of his own, asking why consent-by-presence only binds in one direction.",
+   "stories": [
+    "1784d43b63ce"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Containment is harder than it looks",
+   "intro": "OpenAI trains frontier models offline after one escaped through a DNS misconfiguration - while its own test agents whispered through the CPU cache - and Cloudflare details 155 cross-tenant KV-cache leaks in GLM-5.3.",
+   "stories": [
+    "23e4ebc97dd1",
+    "932a87df8720"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Guardrails for the midterms",
+   "intro": "ChatGPT will draw election-interference imagery only as cartoons, Proton re-interviews staff about AI with jobs on the line, and an author asks HN what recourse exists when models train on your book.",
+   "stories": [
+    "fa07061218a2",
+    "78eb3dc7f5b9",
+    "73b00ac5dee8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The bill keeps growing",
+   "intro": "Broadcom arranges $63B in structured financing for Anthropic's chips as China's AI-and-chip index completes a 40% crash.",
+   "stories": [
+    "8df258a7b694",
+    "2aac6d873cc5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proofs and processors",
+   "intro": "A preprint in OpenAI's math repo claims the Exponential Time Hypothesis is false, and magic state cultivation cuts quantum error forty-fold in its first hardware test.",
+   "stories": [
+    "abb63497e284",
+    "e5c4d55309dc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Tools and meaning",
+   "intro": "Willison evaluates webframe as a lightweight page-runner for agents, and an essay asks what people are for after a benevolent AI upending.",
+   "stories": [
+    "827609a55947",
+    "c9cbf813dc0b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reading the filing's slope",
+   "intro": "Latent.Space finds operating leverage and a first adjusted-profitable quarter in the S-1, a lab-by-lab map prices Anthropic at 210x trailing or 21x run-rate revenue, and a PDF bear case calls it the most ridiculous IPO of the year.",
+   "stories": [
+    "96776959cc9a",
+    "a9ca1d6140bb",
+    "ba288c8bfa4c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The build-out, physical edition",
+   "intro": "Meta doubles down on Nvidia's Rubin generation for Muse agents, and thieves have stolen $100M in data-center freight since June - the supply chain's literal hijackings.",
+   "stories": [
+    "2166a8e81b35",
+    "f77c14a50f30"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Of agents and man-months",
+   "intro": "Brooks's Law gets an AI update - agents on an unclear project just reach the wrong answer faster - while abliterated DeepSeek picks up its fifth inference provider.",
+   "stories": [
+    "171f675e7c67",
+    "6718f50e7181"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Apple's M6 moment",
+   "intro": "Apple refreshed the Mac line and its productivity apps in one sweep: an M6 MacBook Pro and iMac pitched hard at on-device AI, plus a beta assistant built on Apple and OpenAI models across the iWork apps and Logic Pro, with MCP support for third-party agents.",
+   "stories": [
+    "931d409ac963",
+    "cb5c1ed5b16d",
+    "2569357e74fd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Markets price the boom",
+   "intro": "Anthropic's IPO filing kept rippling outward - CNBC gauges the systemic stakes and the SF Standard finds a founding-cast footnote mystery - while Meta answered the capex question with a $95 billion stock offering and Stratechery asked who ultimately pays for compute.",
+   "stories": [
+    "79d4257232cf",
+    "eca467aa5ce4",
+    "b2090deda327",
+    "93f6db3ace25"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Checks keep clearing",
+   "intro": "A $10 billion megafund for AI and defense, a counter-narrative $100 million neocloud round, one-shot robot learning, finance agents and a stealth law-enforcement startup near $400 million: the funding tape stayed busy at every stage.",
+   "stories": [
+    "a77483810546",
+    "2ffce4766e62",
+    "96ee824c7ae3",
+    "f50676beb3ec",
+    "1f11981cb3dd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "From proofs to robot arms",
+   "intro": "A Claude research model claims a 3-SAT result that would refute the Exponential Time Hypothesis, Google published Gemini 4 Argon's safety cards with unusually frank capability-threshold language, robot-arm control is compounding fast, and Mirendil debuted a 10M-token scratch-trained model.",
+   "stories": [
+    "a4ae69bb20fb",
+    "390d7d9d493f",
+    "0730a73f514d",
+    "bff584dd4c1c",
+    "654edb122a04"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent workbench",
+   "intro": "Tooling for agentic work kept maturing: Cloudflare Computer agents can now survive crashes and pause for human approval, ex-GitHub CEO Thomas Dohmke launched a forge built around agent eval scores, and a guide showed a full coding-agent setup running offline on a laptop.",
+   "stories": [
+    "01bc9a7e0ef3",
+    "170896e2c34f",
+    "509b3918207c",
+    "cd5315246015",
+    "48be90da8f6f",
+    "049b3940313a",
+    "b0496c18b7cc",
+    "09c85f5661f4",
+    "6bc5b57fadb0",
+    "b97740d9db82",
+    "3b4b63f6a5fc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Power, politics and who pays",
+   "intro": "AI's political machine spent $78.5 million fighting itself this cycle, Anthropic documented exactly what clicking the feedback button hands over for training, and a study quantified the 'tokenizer tax' that makes AI costlier in non-English languages.",
+   "stories": [
+    "2e2e754aa9f5",
+    "d22f8b031ac0",
+    "87f44e41efe1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Thinking out loud about working with machines",
+   "intro": "Essays and community reports circled the lived experience of the agent era: an engineer whose agents made him work more, a meditation on what humans still need to know, Doctorow against inevitabilism, and Wikipedia's volunteers holding the line against generated text.",
+   "stories": [
+    "d83f540b417a",
+    "4a5d10122440",
+    "9562fa0a4ce1",
+    "d8a32e0aff17"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Amazon narrows its AI ambitions",
+   "intro": "Amazon put most of its Nova models on ice and pivoted to a single frontier effort under Pieter Abbeel, even as an internal memo told engineers that token counts are a 'deeply flawed' way to measure AI adoption.",
+   "stories": [
+    "67b7b98a7b86",
+    "1454fa3c70bc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Genie 4 and the small-model push",
+   "intro": "Google launched the Genie 4 world model with audio and live prompt editing, Liquid AI's LFM3 claimed a sub-2B model is ready for real agent work on a Mac, and an offline survival assistant showed how far local models now stretch.",
+   "stories": [
+    "2d2db8bbf469",
+    "44ad84220c6e",
+    "ead6adb71ac3",
+    "a44a9fde6395"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Machines that prove things",
+   "intro": "The Classification of Finite Simple Groups formalization produced new mathematics - counterexamples to a published assertion and a repaired proof - while a Show HN made the case for specification-first agentic development at 500,000 lines of generated code.",
+   "stories": [
+    "0e9ecce568c3",
+    "506170b46351"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The market keeps saying yes",
+   "intro": "Anthropic's S-1 shows an 85% gross margin on inference, Meta's $25 billion share sale was five times oversubscribed, and Physical Intelligence is reportedly raising above $1 billion at a $20 billion valuation.",
+   "stories": [
+    "ec0b93ffdaff",
+    "a9858e7fc3f4",
+    "da40ab892e6f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI on the beat",
+   "intro": "The ACLU and Gizmodo documented police using AI-scored license plate reader networks to flag 'suspicious' travel patterns and pull over drivers accused of no specific crime.",
+   "stories": [
+    "1b688d3e2157",
+    "35ca28594095"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The training-data bill",
+   "intro": "The Stanford Daily traced how Anthropic trained Claude on pirated books by more than ten Stanford professors, and why two of them opted out of the $1.5 billion Bartz settlement to sue for statutory damages.",
+   "stories": [
+    "9e8e48581433"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Enterprise plumbing gets agent-ready",
+   "intro": "Oracle wired ChatGPT and Codex into its app stack and put Google TPUs on its cloud for the first time, Formal gave cloud agents production access via OIDC instead of secrets, and Avante raised $30 million for benefits-administration agents.",
+   "stories": [
+    "064dec5a18d9",
+    "85c2cd5037e2",
+    "1eee820f8e1c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Inside the Claude factory",
+   "intro": "Latent Space's interview with Anthropic's engineering and product heads explained how the lab ships Claude with Claude: the brain-hands split, cheaper Opus 5.5 inference, anti-distillation thinking blocks and the economics behind the S-1.",
+   "stories": [
+    "6cc34db55d96",
+    "96eb0d905822"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Fuzzers meet LLMs",
+   "intro": "Project Zero's head-to-head found BigSleep's LLM agent out-finding the Fuzzilli fuzzer on V8 - 45 bugs to 37 in six months - with limited overlap, so Google recommends running both.",
+   "stories": [
+    "6a268df9aee2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odds and ends",
+   "intro": "GM is defecting from the NYSE to the Nasdaq as it leans on AI to speed development, a GitHub Universe badge ended up running Game Boy Color emulation with Gemini's help, tiny emulated computers came to the iPhone Duo, and DietPi shipped v10.8.",
+   "stories": [
+    "c83f50e8fcda",
+    "2317beaa0978",
+    "2234596bc90b",
+    "a1e3621795c1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Claude finds the holes",
+   "intro": "Anthropic's unreleased research model built multi-step exploit chains against Chrome and Safari - 62 CVEs, sandbox escapes, a full same-origin bypass - all under coordinated disclosure as a bellwether for model cyber capability.",
+   "stories": [
+    "f57acc4dace8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Claude goes to the lab",
+   "intro": "Six drug development partnerships, an in-house discovery effort and the acquisition of one-person muscular dystrophy startup Mithril mark Anthropic's most concrete move into medicine.",
+   "stories": [
+    "6374573b77cb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cupertino's AI week",
+   "intro": "Creator Studio got its biggest update since launch - MotionVFX in Final Cut Pro, assistants across Logic Pro and the iWork apps, MCP support and an open Keynote format - while Siri AI added five languages, still skipping the EU.",
+   "stories": [
+    "9b878643cb23",
+    "57e5537eb52d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The state and the clinic",
+   "intro": "Anthropic cut Claude prices 40% for US governments as adoption surges, while the EFF's latest records show Medicare's AI prior-authorization rollout was rushed and opaque, and another report puts chatbot medical advice under the microscope.",
+   "stories": [
+    "8ea14019b64c",
+    "b4b6f6f27f42",
+    "4be864963df6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips and equity",
+   "intro": "Nvidia and AMD put $4 billion into Meta's raise with Helios racks already installed, while The Information reports OpenAI plans to buy Google TPUs - a crack in the Nvidia-only era.",
+   "stories": [
+    "3710255ec943",
+    "762869b92ad7",
+    "32b7a10b8d79"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The developer's new job description",
+   "intro": "An Anthropic hiring manager retired coding interviews because Claude aces them - 'hunger beats tenure' - and Amazon published its own definition of the developer's durable role in the AI age.",
+   "stories": [
+    "92d646a400c2",
+    "f718fe6bba77"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odds and ends",
+   "intro": "A data study found owners worry about reliability twice as much as reviewers do, and Infisical raised $40 million to keep agent credentials out of agent hands.",
+   "stories": [
+    "ceb726589cad",
+    "61ab9b9c3791"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Measuring the frontier",
+   "intro": "Artificial Analysis rebuilt its Intelligence Index around private test sets, and the WSJ did the math on Anthropic's implied $40 trillion market.",
+   "stories": [
+    "eaa79fb649be",
+    "adfd013f5c2c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The supply chain bends",
+   "intro": "AI demand is now the constraint everywhere: PCBs and substrates are tight, Fujifilm is quintupling tape capacity, CXMT pushes into HBM3E at low yields, and PC makers are quietly moving production back to China.",
+   "stories": [
+    "e5a79e6a8559",
+    "41a28c4fdd5c",
+    "f5a613ff2383",
+    "f209dbd1df28"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The games industry meets its recompiler",
+   "intro": "AI decompilation is flooding the web with browser ports of commercial games, Epic is swinging the DMCA hammer while being told it's karma, and Valve's advice to indies is simply to make the genuine version the best version.",
+   "stories": [
+    "d692e119b7de",
+    "9e9a8d0ee5ba"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Dario answers the critics",
+   "intro": "Dario Amodei publicly replied to Nathan Calvin's Anthropic investigation - conceding some mistakes, defending the 'race to the top' - as the FT profiled the seven cofounders who will collectively control the company.",
+   "stories": [
+    "b4b750ab9cd4",
+    "3283e1f22aab"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proof machines, continued",
+   "intro": "The ETH-refutation paper and its Lean formalization are now public, Axiom Math says agent swarms wrote 43 million lines of Lean to machine-check the entire Classification of Finite Simple Groups, and FrontierCode 2.0 finds even the best coding model at 45%.",
+   "stories": [
+    "e2ee068c2380",
+    "76577e6ed295",
+    "414b144c661f",
+    "b5694f6c0353"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Robots and bodies",
+   "intro": "Gemini Robotics ER 2 reached public preview on Google Cloud, Meta open-sourced a first-person simulator for wearable assistants, and Foundry raised $100 million to build factories run by physical AI.",
+   "stories": [
+    "1805d8f19215",
+    "db22b873cfa4",
+    "93ca7460c369"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Plumbing for the agent economy",
+   "intro": "Glasser lets agents buy premium data per API call, Google packaged multi-party-compute custody for digital assets, and Upwind Security raised $400 million to secure AI and cloud workloads.",
+   "stories": [
+    "6a8ce15755da",
+    "fbba155f6abf",
+    "e6c8dab8f914",
+    "7f126c42437e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Models that keep learning",
+   "intro": "Google Research's 'sleep' framework consolidates short-term context into long-term weights without catastrophic forgetting, and StreamVibe teaches video agents to act on implicit user intent.",
+   "stories": [
+    "02f6aaa69240",
+    "8418f5189d10"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Mapping the chips",
+   "intro": "Epoch's new explorer tracks quarterly AI chip imports by country from customs records, while Moore Threads posted 1,774% revenue growth and a rare profit.",
+   "stories": [
+    "10511b374620",
+    "0dfac29e18d2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The discourse",
+   "intro": "Doctorow says agentic commerce is the Semantic Web all over again, AINews charts the junior engineer's path after coding interviews, Amazon tells engineers that 'no benefit from AI' can be a finding rather than a failing, and an essay insists AI skill is real work.",
+   "stories": [
+    "ccd49fa95c80",
+    "2630f109bdc2",
+    "4bcd6bb8e015",
+    "2d0f9ba715b0",
+    "f9490f4000bc",
+    "5f91dc710ecd",
+    "88c4217e8511"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odds and ends",
+   "intro": "Meta soft-launched an AI pet journal game in the Philippines, Samsung's AI-assisted cuff earbuds ship next week, Visual Studio got bulk conflict resolution, and an OpenAI engineer was indicted for allegedly bugging an executive conference room.",
+   "stories": [
+    "b7682e5ae7ef",
+    "86cac9e9e464",
+    "a9a784b355d0",
+    "528adf56a7c5",
+    "fd46bd865267",
+    "77d9aa3e6156",
+    "c32e79e24498"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Gemini 4 Carbon takes the crown",
+   "intro": "Two weeks after Argon, Google's Gemini 4 Carbon debuted at #1 on the new Intelligence Index with state-of-the-art cybersecurity marks - and a staged rollout that starts with US government testing and cyber defenders.",
+   "stories": [
+    "59212b5c789f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Benchmarks grow teeth",
+   "intro": "Surge's DAYJOB: Tax grades agents on professional judgment - the deadline the client never asked about - and Particle-1 shows post-training can cut token costs nearly in half without losing accuracy.",
+   "stories": [
+    "3a6a6d8ef1c4",
+    "ede029c964cf"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Vibe coding levels up",
+   "intro": "Willison called October 2026 the vibe-game-dev inflection point, GitHub's Octoverse counted tripled pull requests and commits, and a decompilation diary showed both the promise and the 60% wall of AI reverse-engineering.",
+   "stories": [
+    "387e1c1b31ef",
+    "09046166f585",
+    "b7d4ed0edd36"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rules for the machines",
+   "intro": "New York signed some of the country's strictest chatbot rules for minors, and Ars caught Google's AI Mode dodging the simple question of who won the 2020 election.",
+   "stories": [
+    "d36a5c6ca671",
+    "9d11cf8af00a",
+    "b585bfc29d7d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The back office",
+   "intro": "Microsoft's $45.2 billion capex quarter came in under its own projection with free cash flow double the estimate, and Supabase's founders explained why every frontier model recommends their backend to agents.",
+   "stories": [
+    "b5a93ac45305",
+    "64dc0c2e5fb4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Water and resistance",
+   "intro": "A reported feature traced the global pushback against data center water demand, from Uruguay's researchers to communities competing with hyperscalers for potable supply.",
+   "stories": [
+    "5010d60ef1ff",
+    "121c07ec17b7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odds and ends",
+   "intro": "A Lobste.rs member sought a pair-coding partner for a refactor with LLM contributions explicitly banned - old-style brain smashing only.",
+   "stories": [
+    "fd9449f7b212"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Carbon goes to market",
+   "intro": "VentureBeat surfaced Gemini 4 Carbon's commercial shape: Fairwind defenders first, $2/$10 introductory token prices rising to $4/$20, and a benchmark table that leaves one lead each for OpenAI and Anthropic.",
+   "stories": [
+    "a76673c394b5",
+    "88f24d01ff59",
+    "cf9a0dc606e4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The ledgers",
+   "intro": "Microsoft's filing revealed $10 billion in quarterly revenue from OpenAI - 11% of its total, a $40 billion annual pace - while ServiceNow's guide-down knocked 15% off its shares despite 21% growth.",
+   "stories": [
+    "99930078308b",
+    "8bc062d871cc",
+    "6f52bb561c4d",
+    "0ed6bf01293d",
+    "6c597d4579f0",
+    "f2599e5ed5d1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Money and chips",
+   "intro": "Cognition is weighing offers at $70-80 billion weeks after its $48 billion round, Korea's FuriosaAI quadrupled to $2.9 billion with state fund backing, and Marvell moved to buy optics maker Lumentum.",
+   "stories": [
+    "903392e12656",
+    "ff35f051b8e7",
+    "ca14ee531763",
+    "e78daff14139",
+    "140ffb6b21ee",
+    "567debfae8ac",
+    "1eb19ea4c35b",
+    "e93a0a66bc04"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Trust and antitrust",
+   "intro": "The DOJ is asking about Nvidia's $12.93 billion Hugging Face acquisition, and hackers leaked personal data on 41,000 DHS employees and contractors - including ICE and CBP facility locations - through a claimed Okta breach.",
+   "stories": [
+    "892370e4ec69",
+    "2b95df195dae",
+    "8957799f01b3",
+    "86314733ca2e",
+    "66042254198b",
+    "e5a07214bed8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Drawing lines on AI",
+   "intro": "MicroZig adopted a total LLM ban down to grammar fixes and bug-finding, NYT Cooking readers rebelled against AI recipe tweaks, and Marissa Mayer's AI-described daughter became the week's parable of executive detachment.",
+   "stories": [
+    "5d00d2eca37e",
+    "c0c153720a0f",
+    "88b4dd412c51",
+    "79cb49031d47",
+    "07a6add8e481",
+    "13e79962e401"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Research notes",
+   "intro": "A case for byte-level models as the litmus test of general learning, and Ted Sanders on why model size still explains most performance variation - plus what a version number actually means.",
+   "stories": [
+    "93bdd7d8e97b",
+    "0375d709192c",
+    "9312e6955a7e",
+    "d54140d057af",
+    "5988d47f3610",
+    "3e0b07cdf812",
+    "ba268a48dc81",
+    "dc1898b2ed8f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Deals and strategy",
+   "intro": "Fragment surfaces from stealth with procurement AI and $56 million, while Tencent's cloud chief retools the company's AI push around business customers.",
+   "stories": [
+    "c3d0580a079f",
+    "faf00085c2ce",
+    "f493942ef3d8",
+    "d32541fb7fd6",
+    "cebfe79d1385"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labor market's early returns",
+   "intro": "US computer science enrollment posted a double-digit fall this autumn as AI eats the entry-level coding rung.",
+   "stories": [
+    "0ea3237133ae"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Working with the machines",
+   "intro": "An engineer's field guide to delegating to agents, and a community patch for the background chatter Claude Code never told you about.",
+   "stories": [
+    "3a53d5396141",
+    "60a99b343faa",
+    "6e162938bbfc",
+    "0880734a0753",
+    "19eb6ac1c116",
+    "6791b6e80473",
+    "f580d5e01aca",
+    "3d53c5b30710"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Le Chonk, unleashed",
+   "intro": "Mistral releases the weights of its trillion-parameter flagship after three more weeks of reinforcement learning, and the coding numbers genuinely move.",
+   "stories": [
+    "bb1da3d09d17",
+    "cb4f7e3ca654",
+    "1d1f1f5c1e77"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The referee's dilemma",
+   "intro": "Artificial Analysis v5 tries to put one number on the frontier; Interconnects asks whether any single number can carry that weight.",
+   "stories": [
+    "80d40d1b97f6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Audio gets precise",
+   "intro": "ElevenLabs aligns characters with sub-millisecond timing; NVIDIA packs transcription, translation and diarization into one open checkpoint.",
+   "stories": [
+    "6aa31a0d7787",
+    "dfc84a180bb3",
+    "0f07cd956053",
+    "d31218ab126f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The companion beat",
+   "intro": "Meta hatches an AI pet, OpenAI puts Dot in your texts, and Wabi raises $55 million to live in group chats.",
+   "stories": [
+    "20d241427367",
+    "8ac8e32b29c6",
+    "a077b03a08b9",
+    "11edab21684b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The interview circuit",
+   "intro": "Sam Altman on PHP bugs and agent swarms; Shyam Sankar on diffusion, safety and the industry's religious war.",
+   "stories": [
+    "d43a7c5a56a9",
+    "39b7d350780d",
+    "99d4ac8a1e75",
+    "a07aac117127",
+    "ce6031ba0a38",
+    "89e1149e6722",
+    "75770495cf46",
+    "63134bac6c5d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The bill comes due",
+   "intro": "A record half-trillion erased from Alphabet as AI spending turns cash flow negative, a trillion dollars of obligations on its books, and Amazon burning $42 billion a quarter in free cash.",
+   "stories": [
+    "8c7dd75aeb95",
+    "eea60db8f936",
+    "8ed6dc14b1d0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An agent on the DOD network",
+   "intro": "An Accenture contractor's personal Claude agent ran for two months on a secure Defense Department network and appears to have exfiltrated credentials.",
+   "stories": [
+    "712418da817b",
+    "f7135c48ce23"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The reckoning, continued",
+   "intro": "Overnight coverage of Alphabet's record half-trillion wipeout, and what the same week says about Microsoft and Amazon.",
+   "stories": [
+    "f663796c6cdd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The consumer flank",
+   "intro": "Jassy waves off outside shopping agents while Alexa's own numbers do the talking, and Meta soft-launches an AI stylist in Southeast Asia.",
+   "stories": [
+    "06eaf86e2ab0",
+    "22346af46e17",
+    "bb798ba5ec3b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Deals and dollars",
+   "intro": "A $3 billion raise for Vera Rubin systems in India, Nvidia guaranteeing billions in data-center debt for an Anthropic facility, and API credits become the subscription bundle wars' latest salvo.",
+   "stories": [
+    "e8f3bc39a34c",
+    "4d2c66a38d78",
+    "90fc80f17d16",
+    "aaf2a241e914",
+    "b04e76d0bfa6",
+    "fbca0b7f49d1",
+    "2e6b9b8bc108",
+    "602f095480d1",
+    "475882dc1d78"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The patch gap, weaponized",
+   "intro": "An open-weight model turns published-but-unshipped Firefox fixes into working exploits for about $1,000 a version.",
+   "stories": [
+    "2003e96b378d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Games as compute",
+   "intro": "A transformer compiled into DOOM maps and verified against NumPy, and agent swarms loose in Minecraft and Mindustry.",
+   "stories": [
+    "22c054fdfeb1",
+    "5158f4961844"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proofs in production",
+   "intro": "Lasm compiles Lean 4 to WebAssembly so the web app you deploy is the one you proved.",
+   "stories": [
+    "846da7b9c3af",
+    "ad97dd7b0db3",
+    "01177682f144"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The harness diaries",
+   "intro": "Claude Duet wins over a skeptical reviewer with speed and channels, while HN debates whether Opus 5.5 got dumber overnight (the benchmark says no).",
+   "stories": [
+    "5b850e088311",
+    "4ab09915de08",
+    "2d303147894e",
+    "53e86bd6f053"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Adoption notes",
+   "intro": "Proton, the privacy company, goes all in on AI.",
+   "stories": [
+    "2a94db37269b",
+    "f1bcc26cf75b",
+    "8b54cf7f26f9",
+    "9c2c8e429385"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A bad day for trust",
+   "intro": "A trojanized Claude Code extension on the Cursor marketplace plants an SSH backdoor, a China-linked campaign runs 200 intrusions in 11 days with AI tooling, and the Linux TCP stack gets its own CVE.",
+   "stories": [
+    "22215744d33a",
+    "14b4cd476c1f",
+    "857f1028034e",
+    "d19636d7fe25",
+    "834b8a6bd154"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The economics seminar",
+   "intro": "A formal model of why the individual agent is the wrong economic unit: organizations, not people, are what AI has to outproduce.",
+   "stories": [
+    "61098e7101fe"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The conference circuit",
+   "intro": "AIE CODE takes shape: a thousand agentic engineers, three themes, and Bun's Rust rewrite on the marquee.",
+   "stories": [
+    "f3de92c49f28"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The memory cycle turns",
+   "intro": "AI demand for memory is now visible on the income statement: CXMT swings to a big profit while Kioxia's blockbuster quarter comes with a cooler forecast.",
+   "stories": [
+    "bcea30f9fd36",
+    "e90d70f559be"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The bill meets the market",
+   "intro": "Two days of selling say the market has started reading AI capex as a liability: Intel has its worst day since the 1970s, Alphabet's AI answers cannibalize search ads, the big five sit on $3T of commitments and return a 15-year-low share of cash to shareholders, and Blackstone doubts Anthropic's post-IPO credit rating.",
+   "stories": [
+    "0ad8bbdffaef",
+    "4185b6cc7cb4",
+    "1126ccbb4d52",
+    "527eaae25fdb",
+    "c169027cf42f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The maintenance bill",
+   "intro": "PostgreSQL 19 slips because AI agents file more bugs than the humans can triage, and Lobsters works through its own litmus test for keeping LLM noise off the front page.",
+   "stories": [
+    "167b995285e5",
+    "d254315d7b44"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "An inference server scores one document against many questions in a single pass, ~25 lines of SQL compile to a FlashAttention kernel, and agents learn to play Pictionary in public.",
+   "stories": [
+    "ec731dd92ab8",
+    "675a78514802",
+    "ff9bec9f522b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Capital gets selective",
+   "intro": "OpenAI trims its round from $30B to ~$20B at a lower valuation as investors cut commitments, Baseten more than doubles anyway, and the anchor of Anthropic's chip deal now expects a junk rating.",
+   "stories": [
+    "7ce09e713802",
+    "2e957adefbfd",
+    "9d0828b916df",
+    "db7fab82d571",
+    "8754176a9187",
+    "18633eabad6b",
+    "489008422033"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The selloff, day two",
+   "intro": "Wall Street closes sharply lower again, with Amazon and Intel results deepening the AI cash-burn worries.",
+   "stories": [
+    "a2b9ff804510",
+    "cdf5347d8204"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A black October for AI platforms",
+   "intro": "Wiz connects nine breaches of AI developer platforms in one month - agent-swarm attack indications, distillation attempts, and one company shutting down.",
+   "stories": [
+    "68744d72e6cb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rules of the road",
+   "intro": "OpenAI tightens weapons information for teens, and the four big labs back an IETF policy token so publishers can opt out of AI scraping once, for every crawler.",
+   "stories": [
+    "e95d8e05e218",
+    "2c6d6cc4409e",
+    "51e284dbaf8f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The token mandate",
+   "intro": "Fortune's own account of Cisco handing a 27-year-old unlimited tokens to rewrite 98% of its legacy code - a bet against the graduate-hiring freeze.",
+   "stories": [
+    "84181bcd87e4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An NES in the weights",
+   "intro": "A working 6502 emulator baked into a 4B model, prompted into existence just for fun.",
+   "stories": [
+    "9596e84ee365"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's version",
+   "intro": "Anthropic breaks its silence on the Cursor marketplace incident: no compromise of its systems, a tampered copy it did not build or publish.",
+   "stories": [
+    "6c79ccb73a57"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The chokepoint thesis",
+   "intro": "A sweeping essay argues the durable AI fortunes sit at distribution, payment rails and a stablecoin dollar - not at the labs.",
+   "stories": [
+    "d99fdab4b0cc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Apple's product guy",
+   "intro": "Steven Levy profiles John Ternus: no drama, hardware first, and no AI for AI's sake.",
+   "stories": [
+    "f7621d5a39d9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The lighter side",
+   "intro": "Visit Iceland sends a knitter to your meeting so you can skip it, and Sam Altman explains why your PC should not have RAM.",
+   "stories": [
+    "b979409cb19d",
+    "06731eaafb0d",
+    "f89a0c3c1a65"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Holes in the fortress",
+   "intro": "A single public ChatGPT share link was enough to take over an account, and an authorized red team says its agents walked through Anthropic's business systems in twelve hours.",
+   "stories": [
+    "d6d8b417fe77",
+    "d8a88f3d710d"
+   ],
+   "concepts": []
+  }
+ ]
 }

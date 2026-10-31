@@ -1,65 +1,41 @@
 {
- "generated_at": "2026-10-31T08:53:29+00:00",
+ "generated_at": "2026-10-31T14:54:17+00:00",
  "stories": [
   {
-   "id": "7ce09e713802",
-   "title": "OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5?st=pgo9cE&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "b979409cb19d",
-   "title": "Visit Iceland Will Send a Real Knitter to Your Dumb Meeting So You Can Skip It",
+   "id": "d6d8b417fe77",
+   "title": "We Took over ChatGPT Accounts",
    "source": "Hacker News",
-   "url": "https://matadornetwork.com/read/iceland-ai-notetaker-knitting/"
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
   },
   {
-   "id": "e78daff14139",
-   "title": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia",
+   "id": "d8a88f3d710d",
+   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+   "source": "Hacker News",
+   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"
+  },
+  {
+   "id": "cdf5347d8204",
+   "title": "Why Anthropic's filing crushed tech stocks",
+   "source": "Hacker News",
+   "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech"
+  },
+  {
+   "id": "51e284dbaf8f",
+   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
+  },
+  {
+   "id": "121c07ec17b7",
+   "title": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=jB9Xwc&reflink=desktopwebshare_permalink"
+   "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE&utm_medium=gift-link"
   },
   {
-   "id": "06731eaafb0d",
-   "title": "When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and \"being used 5% of the time\"",
+   "id": "f89a0c3c1a65",
+   "title": "How AI detectors like Pangram are changing human writing: authors drop em dashes, \"not X, but Y\" phrasing, and words like \"delve\", or add typos, to look human",
    "source": "Techmeme",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization"
-  },
-  {
-   "id": "8754176a9187",
-   "title": "S&P downgraded Meta's outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html"
-  },
-  {
-   "id": "18633eabad6b",
-   "title": "neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "f7621d5a39d9",
-   "title": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/"
-  },
-  {
-   "id": "d99fdab4b0cc",
-   "title": "As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs",
-   "source": "Techmeme",
-   "url": "https://commanding-heights.com/"
-  },
-  {
-   "id": "489008422033",
-   "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/"
-  },
-  {
-   "id": "6c79ccb73a57",
-   "title": "Anthropic says a malicious actor used access to Cursor's marketplace to publish a \"tampered\" copy of the Claude Code extension, which it didn't build or publish",
-   "source": "Techmeme",
-   "url": "https://x.com/felixrieseberg"
+   "url": "https://www.bloomberg.com/news/features/2026-10-30/how-ai-detectors-like-pangram-are-changing-human-writing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzM2MDg2MCwiZXhwIjoxNzkzOTY1NjYwLCJhcnRpY2xlSWQiOiJUTlBLU0FLSVVQU0MwMCIsImJjb25uZWN0SWQiOiI1MEU0OTBGQjhDNTM0MkREODAwRUEyNTQ1RjBCMThCOCJ9.QWmO8ZCSYNuUI7oMX4N9wEkQtBDq_LYD89yJOMz3bfE"
   }
  ]
 }

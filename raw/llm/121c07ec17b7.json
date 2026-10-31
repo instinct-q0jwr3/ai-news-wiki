@@ -1,0 +1,17 @@
+{
+ "id": "121c07ec17b7",
+ "authored_at": "2026-10-31T14:57:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Gaby Del Valle reports in The Verge from Arizona, where the AI build-out has run into a bipartisan wall of local resistance over water. The state welcomed TSMC's enormous Phoenix fab - which draws nearly 5 million gallons of municipal water a day - and barely noticed its first 172 data centers, but the new generation of hyperscale proposals from Phoenix to Tucson demands more water, more power and more land than residents are willing to give. City council meetings now draw dozens of angry speakers, and a coalition that spans rural conservatives and pink-haired liberals has organized against the projects.\n\nThe piece tours the fight around Tucson's Project Blue, built by Beale Infrastructure. Amazon reportedly walked away after the design switched to air cooling; the state attorney general appealed the regulator's approval of a special energy agreement; and when a lawsuit under the open-meeting law was tossed, opponents moved to the ground game - occupying the developer's law firm, documenting contractors' use of city hydrants, and forcing water credits for the roughly 651,702 gallons used for dust control plus two dust-permit violations that carry fines of up to $10,000 each. Del Valle's larger point: Arizona's water overconsumption long predates AI, and agriculture remains the biggest draw - but data centers have become the breaking point and the rallying symbol, with one resident admitting they would vote for a liberal with pink hair to stop a stupid data center.",
+ "highlights": [
+  "Arizona's chip-and-AI boom has met a genuinely bipartisan anti-data-center coalition",
+  "TSMC's Phoenix fab uses ~5 million gallons of city water a day; the state already hosts 172 data centers",
+  "New hyperscale projects from Phoenix to Tucson face mass backlash that TSMC never did",
+  "Project Blue: Amazon reportedly pulled out after a switch to air cooling; the AG appealed the special energy deal",
+  "Activists slowed construction by policing hydrant use, water credits and dust-permit violations",
+  "Protesters occupied the developer's law firm; a green-waste supplier dropped a water contract after call campaigns",
+  "The coalition spans the spectrum - some conservatives will vote for a liberal with pink hair to stop a data center",
+  "Agriculture, not AI, is historically the biggest water draw - data centers are the breaking point, not the whole cause"
+ ]
+}

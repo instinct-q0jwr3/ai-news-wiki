@@ -1,0 +1,17 @@
+{
+ "id": "d6d8b417fe77",
+ "authored_at": "2026-10-31T14:57:26Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Security researchers at Parameter found a way to turn an ordinary public ChatGPT share link into a full account takeover. An attacker builds a malicious conversation, publishes it through the normal sharing feature, and sends the link; when the victim opens it, attacker JavaScript executes as chatgpt.com inside the signed-in session. The team confirmed the payload could enumerate the victim's conversation list, pull content from a private conversation that was never shared with the attacker, and send that data to an outside server - no app install, project membership, pasted code or developer tools required, just one click on the link.\n\nThe chain combines two features that look harmless alone. An interactive graph in the conversation loads the MathLive library, which installs a postMessage listener on the main ChatGPT page. The sandboxed HTML Preview, deliberately boxed off as a different origin, supplies the untrusted sender. MathLive's listener accepted messages from any origin and allowed a keyboard-layout update whose layout can contain HTML: a first message swapped in attacker markup, a second told MathLive to show the keyboard, and the payload rendered in the privileged page. OpenAI classified the report P1 and shipped a fix on October 26.",
+ "highlights": [
+  "Public share link plus one click meant full ChatGPT account takeover - no install or dev tools needed",
+  "Payload ran as chatgpt.com: listed conversations, read an unshared private chat, exfiltrated data",
+  "An interactive graph loaded MathLive, installing a postMessage listener on the main page",
+  "The sandboxed HTML Preview acted as the untrusted sender across the origin boundary",
+  "MathLive's listener used an origin policy of none and accepted layout HTML from anyone",
+  "Two messages: replace the virtual keyboard layout with attacker markup, then show it",
+  "OpenAI rated the report P1 and fixed the issue on October 26",
+  "Takeaway: a postMessage bridge is only as safe as the receiver's origin check"
+ ]
+}
