@@ -1,0 +1,14 @@
+{
+  "id": "6c79ccb73a57",
+  "authored_at": "2026-10-31T08:54:49Z",
+  "model": "agent-pass",
+  "schema": 1,
+  "prose": "Anthropic has given its own account of the Claude Code extension incident, via engineer Felix Rieseberg: 'We're working with Cursor on this incident, but it wasn't a compromise of Anthropic's systems or employee laptops. A malicious actor used access to Cursor's marketplace to publish a tampered copy of the Claude Code extension, which we didn't build or publish.' The versions on Anthropic's official channels, the statement continues, were not the tampered ones.\n\nThis is the company's first public word on the incident and it aligns with Cursor's notice, which put the exposure at at most 5,000 users and said the malicious version was not developed by Anthropic. Between the two statements the marketplace vector is settled; reports from some researchers that the same version also appeared on Open VSX remain those researchers' claims, not addressed by either company.",
+  "highlights": [
+    "Anthropic: the incident 'wasn't a compromise of Anthropic's systems or employee laptops'",
+    "A malicious actor used access to Cursor's marketplace to publish a tampered copy Anthropic did not build or publish",
+    "Versions on Anthropic's official channels were not the tampered ones",
+    "Aligns with Cursor's notice: at most 5,000 users, build not developed by Anthropic",
+    "Marketplace vector settled between the two statements; Open VSX reports remain unaddressed researchers' claims"
+  ]
+}

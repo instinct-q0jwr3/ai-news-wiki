@@ -3,16 +3,19 @@
   "date": "2026-10-31",
   "schema": 3,
   "model": "agent-pass",
-  "lead": "The money turns cautious: OpenAI halves its funding ambitions and Blackstone expects junk for Anthropic, while Wiz counts nine AI developer platforms breached in a single month.",
+  "lead": "The money turns cautious: OpenAI halves its funding ambitions, Blackstone expects junk for Anthropic, S&P cuts Meta's outlook and the bond market closes on the neoclouds - while Wiz counts nine AI platforms breached in a month.",
   "sections": [
     {
       "title": "Capital gets selective",
-      "intro": "OpenAI trims its round from $30B to ~$20B at a lower valuation as investors cut commitments, Baseten more than doubles anyway, and the anchor of Anthropic's chip deal now expects a junk rating.",
+      "intro": "OpenAI trims its round from $30B to ~$20B as investors cut commitments, Baseten more than doubles anyway, Blackstone expects junk for Anthropic, S&P turns Meta negative, neoclouds lose the bond market, and Google admits AI Mode monetizes worse than Search.",
       "stories": [
         "7ce09e713802",
         "2e957adefbfd",
         "9d0828b916df",
-        "db7fab82d571"
+        "db7fab82d571",
+        "8754176a9187",
+        "18633eabad6b",
+        "489008422033"
       ],
       "concepts": []
     },
@@ -62,6 +65,39 @@
       "intro": "A working 6502 emulator baked into a 4B model, prompted into existence just for fun.",
       "stories": [
         "9596e84ee365"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Anthropic's version",
+      "intro": "Anthropic breaks its silence on the Cursor marketplace incident: no compromise of its systems, a tampered copy it did not build or publish.",
+      "stories": [
+        "6c79ccb73a57"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The chokepoint thesis",
+      "intro": "A sweeping essay argues the durable AI fortunes sit at distribution, payment rails and a stablecoin dollar - not at the labs.",
+      "stories": [
+        "d99fdab4b0cc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Apple's product guy",
+      "intro": "Steven Levy profiles John Ternus: no drama, hardware first, and no AI for AI's sake.",
+      "stories": [
+        "f7621d5a39d9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The lighter side",
+      "intro": "Visit Iceland sends a knitter to your meeting so you can skip it, and Sam Altman explains why your PC should not have RAM.",
+      "stories": [
+        "b979409cb19d",
+        "06731eaafb0d"
       ],
       "concepts": []
     }

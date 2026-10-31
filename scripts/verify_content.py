@@ -112,6 +112,11 @@ DISPUTED=[
                r'NPM,? OpenVSX,? and (the )?(Microsoft |official )?VS ?Code (marketplace |extension)?builds? (are|were) unaffected'],
   'required':[r'competing accounts'],
   'note':'Claude Code 2.1.313 incident (Oct 2026): same disputed-scope guard as 22215744d33a.'},
+ {'id':'6c79ccb73a57',
+  'forbidden':[r'are all clean', r'are NOT affected', r'NOT malicious\\b',
+               r'NPM,? OpenVSX,? and (the )?(Microsoft |official )?VS ?Code (marketplace |extension)?builds? (are|were) unaffected'],
+  'required':[r'Open VSX reports remain'],
+  'note':'Claude Code 2.1.313 incident (Oct 2026): same disputed-scope guard as 22215744d33a.'},
 ]
 for e in DISPUTED:
     texts=[]
