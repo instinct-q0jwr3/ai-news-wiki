@@ -1,0 +1,17 @@
+{
+ "id": "4b9fcef999b7",
+ "authored_at": "2026-10-31T20:57:05Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic has confirmed it changed Claude's behavior around video games, ending days of user speculation. An X user named Chasm spotted a rule pushed to Claude Code on October 27, listed under tengu_heron_brook: build original games, genre games, and games from the user's own designs and assets, but do not build a recreation of a specific existing game, even renamed. Chasm reported no way to disable it. Anthropic member of technical staff Addy Osmani then said the quiet part out loud: two sentences were added to the Opus 5.5 prompt to steer Claude Code away from recreating someone else's specific game, because using Claude to infringe IP violates the usage policy - and he invited users wrongly refused to send cases his way.\n\nThe backdrop is a genuine industry scare. AI-driven remakes of classic and unreleased games have multiplied, and Digital Sun Games cancelled a public playtest of its upcoming ReVamp fearing someone would ingest the demo and ship a clone first; developers have pressed Valve on how Steam will stop fast-follow clones, extracting a rare explanation to Korean developers this week. Whether the prompt rule deters more than low-effort copycats is doubtful - prompt-level limits are routinely sidestepped, and the model cannot actually adjudicate who owns an idea or its assets, which is precisely where the false-positive complaints about anti-cheat work and reverse engineering come in.",
+ "highlights": [
+  "Anthropic confirms it added two sentences to Claude Code's Opus 5.5 prompt against recreating specific existing games",
+  "Rule spotted October 27 by X user Chasm under the codename tengu_heron_brook; no user-side disable",
+  "Addy Osmani: the change targets IP infringement; original and genre games 'are meant to keep working'",
+  "Osmani asks users hit by false refusals to send him cases - implicit confirmation of overreach",
+  "Backdrop: Digital Sun cancelled a public playtest fearing AI clones of its unreleased game",
+  "Valve pressed by developers on Steam clone policy; gave a rare answer to Korean devs this week",
+  "Prompt-level rules are routinely sidestepped, and the model cannot judge asset ownership",
+  "Follows days of user reports about refused game and reverse-engineering work"
+ ]
+}

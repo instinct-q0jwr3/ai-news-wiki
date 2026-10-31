@@ -1,0 +1,16 @@
+{
+ "id": "c7f23c8b3bad",
+ "authored_at": "2026-10-31T20:57:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note: Jointter is a daily word puzzle by a mathematician, built around dots and lines - find the hidden 7-letter word, with difficulty ramping Monday to Sunday like the classic crossword cadence. The author says the design was inspired by Sudoku and Wordle and that turning a core mechanic into an engaging game proved the hard part. Only a thin slice of the site could be fetched, so details beyond the basic mechanic are unverified."
+ ],
+ "highlights": [
+  "Daily word puzzle: find the hidden 7-letter word in a field of dots and lines",
+  "Difficulty ramps Monday to Sunday",
+  "By a mathematician inspired by Sudoku and Wordle",
+  "Site fetch was thin; only the basic mechanic is verified"
+ ],
+ "basis": "Hacker News Show HN listing + thin cache (170 chars) from jointter.com."
+}

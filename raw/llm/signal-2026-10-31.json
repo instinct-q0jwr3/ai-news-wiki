@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-10-31",
+ "date": "2026-10-31",
+ "status": "provisional",
+ "reserve": "2d66df4da83a",
+ "picks": [
+  {
+   "id": "cdf5347d8204",
+   "front": "The money wobbles",
+   "source": "The BIG newsletter",
+   "why": "Stoller ties the week's selloff to Anthropic's draft S-1: four monopolies in a trench coat, and the whole complex now trades - and falls - as one."
+  },
+  {
+   "id": "d6d8b417fe77",
+   "front": "AI platform security",
+   "source": "Parameter",
+   "why": "One public share link gave full ChatGPT account takeover through a MathLive postMessage bridge; rated P1 and fixed October 26. The platform-vuln story of the week."
+  },
+  {
+   "id": "8d5cf35d525e",
+   "front": "Offensive cyber",
+   "source": "Talos",
+   "why": "VOLTA-AUTODOXER lets an LLM rank what each victim is worth, with a fallback model chain to dodge refusals - the offense-defense loop made literal."
+  },
+  {
+   "id": "121c07ec17b7",
+   "front": "The build-out meets its limits",
+   "source": "The Verge",
+   "why": "Deep reporting on Arizona's bipartisan water revolt against hyperscale data centers: TSMC got a welcome, the next wave gets a coalition."
+  },
+  {
+   "id": "4b9fcef999b7",
+   "front": "Guardrails",
+   "source": "Game Developer",
+   "why": "Anthropic confirms on the record it steered Claude Code away from recreating specific games - the first admission of a quiet mid-deployment behavior change."
+  }
+ ]
+}

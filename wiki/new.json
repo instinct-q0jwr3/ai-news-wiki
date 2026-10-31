@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:54:17+00:00",
+ "generated_at": "2026-10-31T20:55:06+00:00",
  "stories": [
   {
    "id": "d6d8b417fe77",
@@ -8,34 +8,76 @@
    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
   },
   {
-   "id": "d8a88f3d710d",
-   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+   "id": "8d5cf35d525e",
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
    "source": "Hacker News",
-   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26"
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
   },
   {
-   "id": "cdf5347d8204",
-   "title": "Why Anthropic's filing crushed tech stocks",
+   "id": "f5adbee6addd",
+   "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
    "source": "Hacker News",
-   "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech"
+   "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
   },
   {
-   "id": "51e284dbaf8f",
-   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+   "id": "64a547cf4942",
+   "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
+   "url": "https://github.com/Koppar-AI/koppar-lte-modem"
   },
   {
-   "id": "121c07ec17b7",
-   "title": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash",
+   "id": "2d66df4da83a",
+   "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804"
+  },
+  {
+   "id": "871b64957afa",
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "source": "Hacker News",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088"
+  },
+  {
+   "id": "ea19fb49b15a",
+   "title": "Show HN: A language model that lives in a boot sector",
+   "source": "Hacker News",
+   "url": "https://github.com/kerlenton/bootgpt"
+  },
+  {
+   "id": "4b9fcef999b7",
+   "title": "Anthropic orders AI tool Claude to stop remaking video games",
+   "source": "Hacker News",
+   "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
+  },
+  {
+   "id": "c7f23c8b3bad",
+   "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+   "source": "Hacker News",
+   "url": "https://www.jointter.com/"
+  },
+  {
+   "id": "d95d71cc2049",
+   "title": "Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE&utm_medium=gift-link"
+   "url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push"
   },
   {
-   "id": "f89a0c3c1a65",
-   "title": "How AI detectors like Pangram are changing human writing: authors drop em dashes, \"not X, but Y\" phrasing, and words like \"delve\", or add typos, to look human",
+   "id": "4fbecc6fa429",
+   "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/arca/"
+  },
+  {
+   "id": "842c80ff1426",
+   "title": "Pluralistic: Formalities (31 Oct 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/10/31/burn-berne/"
+  },
+  {
+   "id": "18e6d578d4c5",
+   "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-10-30/how-ai-detectors-like-pangram-are-changing-human-writing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzM2MDg2MCwiZXhwIjoxNzkzOTY1NjYwLCJhcnRpY2xlSWQiOiJUTlBLU0FLSVVQU0MwMCIsImJjb25uZWN0SWQiOiI1MEU0OTBGQjhDNTM0MkREODAwRUEyNTQ1RjBCMThCOCJ9.QWmO8ZCSYNuUI7oMX4N9wEkQtBDq_LYD89yJOMz3bfE"
+   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html"
   }
  ]
 }

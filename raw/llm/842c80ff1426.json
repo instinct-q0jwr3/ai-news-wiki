@@ -1,0 +1,17 @@
+{
+ "id": "842c80ff1426",
+ "authored_at": "2026-10-31T20:57:18Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Cory Doctorow finds himself, for the first time in 25 years, cheering the US Copyright Office: its position that copyright exists to incentivize human creative expression, so only works of human authorship qualify. The essay walks through the doctrine of sweat of the brow - copyright protects creativity, never labor - via Feist, the phone-book case: a decade of work compiling facts earns no protection, while a haiku dashed off in seconds gets life plus 70 years. That is not a bug, he argues; it is the law working as intended, and it is why media executives find the Office's AI position so shocking.\n\nHis larger argument is historical. The US abolished copyright formalities - registration, renewal, notice - and in doing so destroyed the regular record-keeping system, making disputes both more likely and harder to resolve. AI recreates the need for formalities from the other side: any firm using AI in its products will have to document precisely which pixels, words and notes came from the model and which from humans, or lose the ability to defend its commercial interests. The prediction: formalities return, this time run by the private sector, as meticulous AI-use ledgers kept for litigation rather than registration.",
+ "highlights": [
+  "Doctorow cheers the US Copyright Office for the first time in 25 years: only human authorship gets copyright",
+  "Sweat of the brow: copyright protects creativity, not labor - Feist's phone book vs a ten-second haiku",
+  "Media executives find the Office's AI position shocking; lawyers find it obvious",
+  "Abolishing registration formalities destroyed copyright's record-keeping system",
+  "Result: disputes are more common and harder to resolve - no one knows who to license from",
+  "AI recreates formalities: firms must document which parts of a product are AI output vs human work",
+  "Prediction: formalities return as private-sector AI-use ledgers kept for litigation",
+  "Pluralistic: 'Formalities', October 31"
+ ]
+}

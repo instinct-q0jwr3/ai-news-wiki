@@ -1,0 +1,16 @@
+{
+ "id": "18e6d578d4c5",
+ "authored_at": "2026-10-31T20:57:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: The Hacker News reports that researchers were paid a $5,000 bounty for disclosing to OpenAI the bug behind the malicious ChatGPT share link that could run attacker code in the logged-in session of anyone who opened it - the same account-takeover chain detailed in Parameter's write-up (see today's main summary, d6d8b417fe77). The fetched page content did not match the story, so this rests on the feed description alone."
+ ],
+ "highlights": [
+  "$5,000 bounty paid for the ChatGPT share-link code-execution bug, per The Hacker News",
+  "Same vulnerability chain as the Parameter write-up summarized today (d6d8b417fe77)",
+  "Bounty size is the news hook - modest for a one-click account takeover",
+  "Cache content mismatched; summary based on feed metadata only"
+ ],
+ "basis": "Techmeme feed summary of The Hacker News piece; raw/cache/sources/18e6d578d4c5.json status=thin with mismatched content (148 chars on an unrelated topic)."
+}

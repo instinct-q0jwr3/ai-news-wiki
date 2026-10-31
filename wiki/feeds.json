@@ -1,14 +1,14 @@
 [
  {
-  "name": "Techmeme",
-  "url": "https://www.techmeme.com/feed.xml",
-  "stories": 954,
+  "name": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "stories": 960,
   "last": "2026-10-31"
  },
  {
-  "name": "Hacker News",
-  "url": "https://news.ycombinator.com/",
-  "stories": 952,
+  "name": "Techmeme",
+  "url": "https://www.techmeme.com/feed.xml",
+  "stories": 956,
   "last": "2026-10-31"
  },
  {
@@ -32,14 +32,14 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 51,
+  "stories": 52,
   "last": "2026-10-31"
  },
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 49,
-  "last": "2026-10-28"
+  "stories": 50,
+  "last": "2026-10-31"
  },
  {
   "name": "Daring Fireball",

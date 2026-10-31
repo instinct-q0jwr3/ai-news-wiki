@@ -1,0 +1,16 @@
+{
+ "id": "f5adbee6addd",
+ "authored_at": "2026-10-31T20:57:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: a 2025 study on the impact of generative AI on critical thinking, based on self-reported measures (linked via a Microsoft Research paper, published through the ACM). The title frames the method - self-reported - which matters for how much weight its findings can carry. The source page could not be fetched (ACM returned an error), so this summary rests on the feed listing alone and none of the paper's content is verified here."
+ ],
+ "highlights": [
+  "2025 study on generative AI's impact on critical thinking",
+  "Method is self-reported - the title itself flags the evidentiary limit",
+  "Linked via a Microsoft Research paper; ACM page could not be fetched",
+  "Summary based on feed metadata only; no findings verified"
+ ],
+ "basis": "Hacker News feed listing (title + Microsoft Research link); raw/cache/sources/f5adbee6addd.json status=error (ACM fetch failed)."
+}

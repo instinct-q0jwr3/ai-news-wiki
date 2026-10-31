@@ -1,0 +1,16 @@
+{
+ "id": "d95d71cc2049",
+ "authored_at": "2026-10-31T20:57:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: The Information (Jyoti Mann) reports that Meta built a prototype humanoid robot with Chinese robotics firm Fourier in about three months and is already building a second, while saying it has no plans to sell the units. The speed of the prototype - three months with an experienced partner - is the detail that matters: Meta can iterate in hardware faster than its AI-first image suggests. The source is paywalled, so this rests on the feed summary alone."
+ ],
+ "highlights": [
+  "Meta built a humanoid prototype with China's Fourier in ~3 months; a second is underway, per The Information",
+  "Meta says it has no plans to sell the units",
+  "Prototype speed via an established robotics partner is the real signal",
+  "Summary based on feed metadata only; The Information is paywalled"
+ ],
+ "basis": "Techmeme feed summary of The Information piece (Jyoti Mann); raw/cache/sources/d95d71cc2049.json status=error (paywalled)."
+}

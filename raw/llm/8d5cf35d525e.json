@@ -1,0 +1,17 @@
+{
+ "id": "8d5cf35d525e",
+ "authored_at": "2026-10-31T20:57:05Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Talos researchers detail VOLTA-AUTODOXER, a self-deleting Windows infostealer that adds an LLM-powered victim-profiling stage to the usual smash-and-grab. After harvesting the standard haul - browser passwords, cookies, payment cards, crypto seed phrases, Discord/Telegram/Steam/Roblox sessions, OAuth tokens, SSH and cloud keys - the malware builds a structured evidence bundle about the person behind the machine: home address, employer, inferred birth year, Slack workspaces, document authorship metadata, even a live Roblox account valuation. It then uses stolen session access to enrich the bundle further, searching the victim's Gmail for purchase receipts and pulling food-delivery order history to corroborate where they live.\n\nThe bundle is POSTed to OpenRouter under a system prompt casting the model as a forensic intelligence analyst drafting a target assessment, and the required output includes a section titled WHAT THEY'RE WORTH - valuables ranked by monetization tier - plus an OPSEC assessment of the victim's password hygiene. The operator anticipated refusals: the default model is Claude Opus 4.6, and if a response contains phrases like \"I can't\" the malware falls back through a chain of up to three progressively more permissive models, at temperature 0.2 for consistent output. The LLM is doing triage: turning a raw credential log into a prioritized, citation-backed dossier so the criminal knows which victim to exploit first.",
+ "highlights": [
+  "New infostealer VOLTA-AUTODOXER uses an LLM to rank victims by monetizable worth",
+  "Steals the usual haul, then builds a structured dossier: address, employer, birth year, workspace metadata",
+  "Uses stolen sessions to enrich evidence - Gmail receipts and delivery orders corroborate home addresses",
+  "System prompt casts the model as a forensic analyst; output includes a WHAT THEY'RE WORTH section",
+  "Default model Claude Opus 4.6 via OpenRouter, temperature 0.2, hand-assembled JSON, no SDK",
+  "On refusal phrases it falls back through up to three smaller, more permissive models",
+  "Effect: mass theft becomes triage - the model says which victim to spend time on",
+  "Surfaced through the CAIRN research effort; the malware self-deletes after running"
+ ]
+}

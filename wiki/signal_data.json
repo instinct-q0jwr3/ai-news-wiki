@@ -1678,5 +1678,61 @@
   "thin": 7,
   "total": 61,
   "unreadable": 6
+ },
+ "2026-10-31": {
+  "ok": 26,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "The money wobbles",
+    "id": "cdf5347d8204",
+    "minutes": 14,
+    "source": "The BIG newsletter",
+    "title": "Why Anthropic's filing crushed tech stocks",
+    "why": "Stoller ties the week's selloff to Anthropic's draft S-1: four monopolies in a trench coat, and the whole complex now trades - and falls - as one."
+   },
+   {
+    "cat": "ok",
+    "front": "AI platform security",
+    "id": "d6d8b417fe77",
+    "minutes": 14,
+    "source": "Parameter",
+    "title": "We Took over ChatGPT Accounts",
+    "why": "One public share link gave full ChatGPT account takeover through a MathLive postMessage bridge; rated P1 and fixed October 26. The platform-vuln story of the week."
+   },
+   {
+    "cat": "ok",
+    "front": "Offensive cyber",
+    "id": "8d5cf35d525e",
+    "minutes": 8,
+    "source": "Talos",
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "why": "VOLTA-AUTODOXER lets an LLM rank what each victim is worth, with a fallback model chain to dodge refusals - the offense-defense loop made literal."
+   },
+   {
+    "cat": "ok",
+    "front": "The build-out meets its limits",
+    "id": "121c07ec17b7",
+    "minutes": 55,
+    "source": "The Verge",
+    "title": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash",
+    "why": "Deep reporting on Arizona's bipartisan water revolt against hyperscale data centers: TSMC got a welcome, the next wave gets a coalition."
+   },
+   {
+    "cat": "ok",
+    "front": "Guardrails",
+    "id": "4b9fcef999b7",
+    "minutes": 3,
+    "source": "Game Developer",
+    "title": "Anthropic orders AI tool Claude to stop remaking video games",
+    "why": "Anthropic confirms on the record it steered Claude Code away from recreating specific games - the first admission of a quiet mid-deployment behavior change."
+   }
+  ],
+  "reserve": "2d66df4da83a",
+  "status": "provisional",
+  "thin": 2,
+  "total": 37,
+  "unreadable": 3
  }
 }

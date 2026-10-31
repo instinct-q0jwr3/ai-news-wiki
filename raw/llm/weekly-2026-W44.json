@@ -1107,7 +1107,9 @@
    "stories": [
     "e95d8e05e218",
     "2c6d6cc4409e",
-    "51e284dbaf8f"
+    "51e284dbaf8f",
+    "4b9fcef999b7",
+    "871b64957afa"
    ],
    "concepts": []
   },
@@ -1115,7 +1117,9 @@
    "title": "The token mandate",
    "intro": "Fortune's own account of Cisco handing a 27-year-old unlimited tokens to rewrite 98% of its legacy code - a bet against the graduate-hiring freeze.",
    "stories": [
-    "84181bcd87e4"
+    "84181bcd87e4",
+    "2d66df4da83a",
+    "4fbecc6fa429"
    ],
    "concepts": []
   },
@@ -1123,7 +1127,9 @@
    "title": "An NES in the weights",
    "intro": "A working 6502 emulator baked into a 4B model, prompted into existence just for fun.",
    "stories": [
-    "9596e84ee365"
+    "9596e84ee365",
+    "ea19fb49b15a",
+    "64a547cf4942"
    ],
    "concepts": []
   },
@@ -1157,7 +1163,8 @@
    "stories": [
     "b979409cb19d",
     "06731eaafb0d",
-    "f89a0c3c1a65"
+    "f89a0c3c1a65",
+    "c7f23c8b3bad"
    ],
    "concepts": []
   },
@@ -1166,7 +1173,33 @@
    "intro": "A single public ChatGPT share link was enough to take over an account, and an authorized red team says its agents walked through Anthropic's business systems in twelve hours.",
    "stories": [
     "d6d8b417fe77",
-    "d8a88f3d710d"
+    "d8a88f3d710d",
+    "8d5cf35d525e",
+    "18e6d578d4c5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Do the tools think for us",
+   "intro": "A self-reported 2025 study on generative AI and critical thinking surfaces again - the method matters as much as the findings.",
+   "stories": [
+    "f5adbee6addd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Copyright's new formalities",
+   "intro": "Doctorow cheers the Copyright Office for the first time in 25 years and predicts AI-use ledgers will quietly bring back registration by another name.",
+   "stories": [
+    "842c80ff1426"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A humanoid in three months",
+   "intro": "Meta reportedly prototyped a humanoid with China's Fourier in one quarter - hardware iteration faster than its AI-first image suggests.",
+   "stories": [
+    "d95d71cc2049"
    ],
    "concepts": []
   }

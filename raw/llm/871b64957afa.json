@@ -1,0 +1,16 @@
+{
+ "id": "871b64957afa",
+ "authored_at": "2026-10-31T20:57:18Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A single tweet, worth noting as a data point in the usage-policy wars: researcher Jiahao Shao says Anthropic has tagged his account for training a competitor and now blocks or degrades anything touching RFT, SFT or training larger models - Opus 5.5 sessions downgraded to Opus 5 or killed outright. Shao insists he never distilled Claude: the rollouts came from a strong open-source model, and Claude was only used to submit jobs and run analysis. His closing jab - that Anthropic built its models on the world's data and now treats paying users doing research automation as the enemy - gave the post 106K views in its first hours.\n\nThere is no way to verify either side from the outside: Anthropic has not commented, and enforcement telemetry is private. But the complaint fits a widening pattern of labs policing how their models' outputs are used, and of users discovering that enforcement is opaque, automated and hard to appeal.",
+ "highlights": [
+  "Researcher Jiahao Shao: Anthropic tagged his account for 'training a competitor'",
+  "He says rollouts came from an open-source model; Claude only submitted jobs and ran analysis",
+  "Claimed enforcement: RFT/SFT/larger-model prompts blocked, Opus 5.5 downgraded to Opus 5, sessions killed",
+  "106K views in hours - the complaint resonates with research-automation users",
+  "Unverifiable from outside; Anthropic has not commented",
+  "Fits a pattern of labs policing model-output use with opaque, automated enforcement"
+ ],
+ "basis": "Single X post by Jiahao Shao (cache ok, 539 chars); claims are one side of an unverified dispute."
+}
