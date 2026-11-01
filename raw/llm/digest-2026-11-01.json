@@ -64,10 +64,37 @@
   },
   {
    "title": "The workbench",
-   "intro": "Ben Eater's 8-bit computer gets a 3D breadboard simulator with an MCP server for AI pair-wiring, and datasette-llm learns to inherit its default model.",
+   "intro": "Ben Eater's 8-bit computer gets a 3D breadboard simulator, datasette-llm inherits its default model, and Nolan Lawson finally benchmarks which framework the agents should write.",
    "stories": [
     "556c83c938af",
-    "452a4db8efa6"
+    "452a4db8efa6",
+    "2844dd06fa23"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The consolidation ledger",
+   "intro": "Deepgram buys Daily and keeps Pipecat open, Guidewire pays $1.7B cash for hyperexponential, and Lumaril raises $66M to optimize factory floors.",
+   "stories": [
+    "ce516ac8b051",
+    "7ef63d6591fd",
+    "089e35aea4c6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A challenger for Claude Code",
+   "intro": "DeepSeek open-sources Super-Agent, a research prototype that watches group chats for coding problems and proposes fixes.",
+   "stories": [
+    "7512a9e3f49f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The reviewer's burden",
+   "intro": "Troy Hunt on the real cost of generated code: somebody still has to read all of it.",
+   "stories": [
+    "ebd4f6f85c36"
    ],
    "concepts": []
   }

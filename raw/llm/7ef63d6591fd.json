@@ -1,0 +1,16 @@
+{
+ "id": "7ef63d6591fd",
+ "authored_at": "2026-11-01T08:58:04Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Reuters reports that insurance software maker Guidewire has agreed to acquire hyperexponential - the London startup behind AI-powered underwriting and pricing software for insurers - for $1.7 billion in cash, plus up to $400 million more (per the feed excerpt, likely earnout terms). One of the year's larger vertical-AI exits. The source is error-cached, so deal terms beyond the headline figures are unverified."
+ ],
+ "highlights": [
+  "Guidewire agrees to buy hyperexponential for $1.7B in cash, plus up to $400M more",
+  "hyperexponential builds AI underwriting and pricing software for insurers",
+  "One of the year's biggest vertical-AI exits",
+  "Feed metadata only; full terms unverified"
+ ],
+ "basis": "Techmeme feed summary of the Reuters piece (Anzar Mehraj); raw/cache/sources/7ef63d6591fd.json status=error."
+}

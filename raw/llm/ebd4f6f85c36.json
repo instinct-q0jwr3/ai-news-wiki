@@ -1,0 +1,16 @@
+{
+ "id": "ebd4f6f85c36",
+ "authored_at": "2026-11-01T08:58:04Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note: Troy Hunt's Weekly Update 528 covers reading AI-generated code versus writing it - the review burden that comes with generated volume - plus the economics of his own solar setup, and a side note on the Proton CEO's AI engineering manifesto that made headlines the same week (Hunt: the management style and language rubbed people the wrong way, deservedly in his view). The page fetch came back thin, so only the feed-level outline is verified."
+ ],
+ "highlights": [
+  "Troy Hunt weekly: the burden of reviewing AI-generated code at scale",
+  "Also: the economics of his solar setup, with numbers",
+  "Side note endorsing the criticism of Proton's AI manifesto",
+  "Thin fetch; outline from feed metadata only"
+ ],
+ "basis": "Troy Hunt feed summary; raw/cache/sources/ebd4f6f85c36.json status=thin (0 chars of body)."
+}

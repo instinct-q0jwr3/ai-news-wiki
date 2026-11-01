@@ -1,0 +1,16 @@
+{
+ "id": "089e35aea4c6",
+ "authored_at": "2026-11-01T08:58:04Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: the Wall Street Journal reports that Lumaril, which optimizes industrial production by plugging AI into factories' existing control systems, has raised a $66 million Series A at a $400 million valuation. The pitch - no rip-and-replace, just better decisions on top of installed systems - is the pragmatic end of industrial AI. The source is paywalled, so investors and customer details are unverified."
+ ],
+ "highlights": [
+  "Lumaril raises a $66M Series A at a $400M valuation, per the WSJ",
+  "Product: AI optimization of industrial production via existing control systems - no rip-and-replace",
+  "The pragmatic end of industrial AI",
+  "Paywalled; investors and customers unverified"
+ ],
+ "basis": "Techmeme feed summary of the WSJ piece (Sarah Klearman); raw/cache/sources/089e35aea4c6.json status=error (paywall)."
+}

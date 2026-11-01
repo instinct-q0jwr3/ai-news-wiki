@@ -1,0 +1,15 @@
+{
+ "id": "ce516ac8b051",
+ "authored_at": "2026-11-01T08:58:04Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Voice AI consolidation continues: Deepgram is acquiring Daily, the maker of Pipecat, one of the most-used open-source voice AI frameworks. Pipecat orchestrates the real-time pipeline - voice and video streams, speech-to-text, LLMs, text-to-speech - with latency as the core metric, and Daily sells hosted call infrastructure underneath it. The deal amount is undisclosed, but the strategic terms are public: Pipecat stays open source and vendor-neutral, a commitment Daily co-founder Kwindla Kramer says was decisive in choosing Deepgram over other suitors. Both companies came through the same YC batch in 2016.\n\nThe shape of the combined company: Deepgram brings speech models and fresh unicorn status from a $130 million Series C earlier this year; Daily brings over $62 million raised from a cap table including Tiger Global, Nat Friedman and Kevin Weil, plus the real-time infrastructure know-how. Kramer frames the open-source commitment as both personal and commercial - sitting vendor-neutral in the middle of a fast-growing ecosystem is worth more than locking the framework down. The acquisition is one of several recent moves as voice AI players consolidate ahead of the next platform fight.",
+ "highlights": [
+  "Deepgram acquires Daily, maker of the Pipecat open-source voice AI framework",
+  "Pipecat orchestrates STT, LLM and TTS over real-time voice/video streams with low latency",
+  "Terms undisclosed; Pipecat stays open source and vendor-neutral - the deciding condition for Daily's founders",
+  "Daily raised $62M+ (Tiger Global, Nat Friedman, Kevin Weil); Deepgram hit unicorn status with a $130M Series C this year",
+  "Both companies are from the same YC 2016 batch",
+  "Part of a broader voice AI consolidation wave"
+ ]
+}

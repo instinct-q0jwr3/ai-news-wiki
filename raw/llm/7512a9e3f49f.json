@@ -1,0 +1,16 @@
+{
+ "id": "7512a9e3f49f",
+ "authored_at": "2026-11-01T08:58:04Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Bloomberg (Debby Wu) reports that DeepSeek has open-sourced Super-Agent, a research prototype of a more autonomous coding agent that can monitor group chats for coding issues and propose solutions - a direct bid at the territory Anthropic's Claude Code owns. The source is paywalled, so the prototype's actual capabilities, license and evaluation claims are unverified here."
+ ],
+ "highlights": [
+  "DeepSeek open-sources Super-Agent, a proactive coding-agent research prototype",
+  "Pitch: monitors group chats for coding issues and suggests solutions",
+  "Framed as a challenge to Claude Code's territory",
+  "Paywalled source; capabilities and license unverified"
+ ],
+ "basis": "Techmeme feed summary of the Bloomberg piece (Debby Wu); raw/cache/sources/7512a9e3f49f.json status=error (paywall)."
+}

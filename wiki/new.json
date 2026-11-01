@@ -1,65 +1,41 @@
 {
- "generated_at": "2026-11-01T02:56:23+00:00",
+ "generated_at": "2026-11-01T08:56:48+00:00",
  "stories": [
   {
-   "id": "f432ba6d4feb",
-   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+   "id": "2844dd06fa23",
+   "title": "The AI cost of JavaScript frameworks",
    "source": "Hacker News",
-   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"
+   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
   },
   {
-   "id": "1bf149fe3df4",
-   "title": "First response from the Project Suncatcher prototype satellite",
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
-  },
-  {
-   "id": "cab55ee52764",
-   "title": "AI text watermarking and quality loss",
-   "source": "Hacker News",
-   "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
-  },
-  {
-   "id": "78d971c01713",
-   "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
-   "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs"
-  },
-  {
-   "id": "f99c17eb2833",
-   "title": "ChatGPT and Codex usage limits merging",
-   "source": "Hacker News",
-   "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
-  },
-  {
-   "id": "556c83c938af",
-   "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-   "source": "Hacker News",
-   "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1"
-  },
-  {
-   "id": "b06b0bd71881",
-   "title": "How AI may drive union-resistant tech workers to the bargaining table",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize"
-  },
-  {
-   "id": "de1bc945d0db",
-   "title": "Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22%",
+   "id": "ce516ac8b051",
+   "title": "Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and develops open-source voice AI framework Pipecat, for an undisclosed sum",
    "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/technology/2026/10/30/how-an-obscure-website-became-force-americas-election-information-machine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkzMzMyODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0NzE4Nzk5LCJpYXQiOjE3OTMzMzI4MDAsImp0aSI6ImFlZmU1ZmI3LThlMmItNDYwOC1iMmVhLWJiZDg2YTFmZDQ1ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMzAvaG93LWFuLW9ic2N1cmUtd2Vic2l0ZS1iZWNhbWUtZm9yY2UtYW1lcmljYXMtZWxlY3Rpb24taW5mb3JtYXRpb24tbWFjaGluZS8ifQ.lCIALy15UkNNilYI0FU_HKDmoqz6MM-BgZD4xUT8pME&itid=gfta"
+   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
   },
   {
-   "id": "2fdfb30964b6",
-   "title": "How We Took Over ChatGPT Accounts",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+   "id": "089e35aea4c6",
+   "title": "Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d"
   },
   {
-   "id": "452a4db8efa6",
-   "title": "datasette-llm 0.1a9",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+   "id": "7ef63d6591fd",
+   "title": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B in cash",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/litigation/guidewire-buy-uk-insurance-ai-firm-hyperexponential-deal-worth-up-21-billion-2026-10-27/"
+  },
+  {
+   "id": "7512a9e3f49f",
+   "title": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic"
+  },
+  {
+   "id": "ebd4f6f85c36",
+   "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
+   "source": "Troy Hunt",
+   "url": "https://www.troyhunt.com/weekly-update-528/"
   }
  ]
 }

@@ -1068,7 +1068,8 @@
     "675a78514802",
     "ff9bec9f522b",
     "556c83c938af",
-    "452a4db8efa6"
+    "452a4db8efa6",
+    "2844dd06fa23"
    ],
    "concepts": []
   },
@@ -1259,6 +1260,32 @@
    "intro": "OpenAI is merging ChatGPT and Codex usage limits, per its own help center - mechanics still unverified.",
    "stories": [
     "f99c17eb2833"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The consolidation ledger",
+   "intro": "Deepgram buys Daily and keeps Pipecat open, Guidewire pays $1.7B cash for hyperexponential, and Lumaril raises $66M to optimize factory floors.",
+   "stories": [
+    "ce516ac8b051",
+    "7ef63d6591fd",
+    "089e35aea4c6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A challenger for Claude Code",
+   "intro": "DeepSeek open-sources Super-Agent, a research prototype that watches group chats for coding problems and proposes fixes.",
+   "stories": [
+    "7512a9e3f49f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The reviewer's burden",
+   "intro": "Troy Hunt on the real cost of generated code: somebody still has to read all of it.",
+   "stories": [
+    "ebd4f6f85c36"
    ],
    "concepts": []
   }
