@@ -1,0 +1,16 @@
+{
+ "id": "fef10396b9d0",
+ "authored_at": "2026-11-01T21:00:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Paul Walsh's TL;DR does not bury the lede: Meta's Muse, he argues, is a commercial surveillance network wearing an AI assistant's clothes. The assistant is pitched as a secure, private helper that connects to your apps and autonomously handles email, bookings, purchases and schedules with permission. The substance, drawing on internal instructions obtained by TIME, is that Muse accesses private messages, emails, financial accounts and contacts; builds detailed profiles of people's relationships - including people who never installed it - and updates those profiles hourly, recording interests, disputes, alliances and communication patterns. The same internal material shows Muse analysing how to influence individual behavior.\n\nThe piece stacks the structural charges: Meta uses interactions and agent activity for AI training by default, employed undisclosed human contractors, and accelerated launch despite internal warnings about serious security and privacy failures - with Zuckerberg personally approving software capable of analysing millions of people's private lives, including non-consenting third parties profiled through someone else's account. Walsh grounds the skepticism in history - Cambridge Analytica, billions in regulatory fines, a trillion-dollar advertising business built on monetizing personal information - and argues the default assumption should be exploitation until independently disproven. Unlike social-media tracking, an agent that reads correspondence and executes transactions collects what the social graph never could.",
+ "highlights": [
+  "Charge: Meta's Muse is a commercial surveillance network disguised as an AI assistant",
+  "TIME-sourced internal instructions: hourly-updated profiles of users' relationships, including non-users",
+  "Profiles record interests, disputes, alliances, communication patterns - and how to influence behavior",
+  "Interactions and agent activity train Meta's AI by default; undisclosed human contractors involved",
+  "Launch accelerated despite internal warnings on security and privacy; Zuckerberg approved it",
+  "Unlike social tracking, an agent reads private correspondence and executes transactions",
+  "Walsh's prior: given Cambridge Analytica and the fines, assume exploitation until independently disproven"
+ ]
+}

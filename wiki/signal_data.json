@@ -1734,5 +1734,61 @@
   "thin": 2,
   "total": 37,
   "unreadable": 3
+ },
+ "2026-11-01": {
+  "ok": 19,
+  "paywall": 5,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "The labor question",
+    "id": "f4263f79b9a8",
+    "minutes": 2,
+    "source": "blog.raed.dev",
+    "title": "It wasn't AI that flipped Proton's charge",
+    "why": "The week's AI-mandate backlash found its defining anecdote: a privacy-company CEO calling a pentest request 'loser thinking' - and the sharpest essay yet on why that is a leadership failure, not an AI story."
+   },
+   {
+    "cat": "ok",
+    "front": "AI platform security",
+    "id": "2fdfb30964b6",
+    "minutes": 2,
+    "source": "simonwillison.net",
+    "title": "How We Took Over ChatGPT Accounts",
+    "why": "Willison completes the exploit chain he has been annotating all week - the most concrete demonstration yet of how agent browsers get turned against their users."
+   },
+   {
+    "cat": "ok",
+    "front": "Privacy",
+    "id": "fef10396b9d0",
+    "minutes": 13,
+    "source": "paulfwalsh.substack.com",
+    "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+    "why": "TIME-sourced internal instructions show Meta's Muse rebuilding relationship profiles hourly, including non-users - the strongest documented case for the surveillance reading of consumer agents."
+   },
+   {
+    "cat": "ok",
+    "front": "The policy circle",
+    "id": "7bd653955833",
+    "minutes": 36,
+    "source": "colossus.com",
+    "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy",
+    "why": "A rare reported look at who actually steers US AI policy now, told through a locked room with $18 trillion of CEOs comparing compute scars."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents in the wild",
+    "id": "36fd4612bc28",
+    "minutes": 3,
+    "source": "tomshardware.com",
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "why": "The Minecraft Civ50 experiment is the year's most quotable agent-swarm result: bureaucracy emerges on its own, and hive organization beats democracy in combat."
+   }
+  ],
+  "reserve": "2844dd06fa23",
+  "status": "provisional",
+  "thin": 3,
+  "total": 29,
+  "unreadable": 2
  }
 }

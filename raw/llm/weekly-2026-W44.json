@@ -1069,7 +1069,9 @@
     "ff9bec9f522b",
     "556c83c938af",
     "452a4db8efa6",
-    "2844dd06fa23"
+    "2844dd06fa23",
+    "fa7be21d7de7",
+    "f03b3c3d6226"
    ],
    "concepts": []
   },
@@ -1235,7 +1237,8 @@
    "intro": "The Guardian traces AI-driven union drives at Google DeepMind and Meta, while Bloomberg reports CS programs losing students as AI absorbs the entry-level jobs.",
    "stories": [
     "b06b0bd71881",
-    "78d971c01713"
+    "78d971c01713",
+    "f4263f79b9a8"
    ],
    "concepts": []
   },
@@ -1285,7 +1288,8 @@
    "title": "The reviewer's burden",
    "intro": "Troy Hunt on the real cost of generated code: somebody still has to read all of it.",
    "stories": [
-    "ebd4f6f85c36"
+    "ebd4f6f85c36",
+    "96abbe4e6a17"
    ],
    "concepts": []
   },
@@ -1303,6 +1307,30 @@
    "stories": [
     "4a0c7d909972",
     "8192dfe920a4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The assistant that profiles",
+   "intro": "Internal instructions obtained by TIME show Meta's Muse updating relationship profiles hourly, including people who never installed it - Paul Walsh calls it a surveillance network with an assistant's face.",
+   "stories": [
+    "fef10396b9d0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The man briefing Washington",
+   "intro": "Colossus profiles Michael Kratsios, the ex-Thiel aide steering the administration's AI policy, through a locked room holding $18 trillion of tech CEOs.",
+   "stories": [
+    "7bd653955833"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The HN bookshelf",
+   "intro": "HackerBooks indexes the 16,500 books that Hacker News commenters keep recommending to each other.",
+   "stories": [
+    "e7d561424487"
    ],
    "concepts": []
   }

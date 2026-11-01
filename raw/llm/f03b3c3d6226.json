@@ -1,0 +1,15 @@
+{
+ "id": "f03b3c3d6226",
+ "authored_at": "2026-11-01T21:00:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Solene wanted to try local AI without the usual ceremony - no choosing among thousands of model files, no stack of installs - so she built braindead-local-intelligence: a small podman-based project that stands up an OpenAI-compatible LLM server, an image generation server, SearXNG for web search and Open WebUI as the front end, all behind a single address with token protection. The design touch she is proudest of: only one model sits in memory at a time - the right one loads when a request arrives and unloads after a few idle minutes, so the GPU is free again when you are not using it. Switching models means copying a config block and restarting; clients never change.\n\nThe requirements are deliberately modest: Linux with rootless podman 5.0+, an AMD GPU (NVIDIA untested - she does not own one), and models sized for ordinary hardware, from 4 GB VRAM / 8 GB RAM up to 12 GB VRAM, with the largest spilling partly into RAM. Her own rig is a 2021 build with 32 GB of RAM and a Radeon RX 6700 XT, and it still runs everything well. A ready-made model list covers small text models, vision-capable models, image generation and two image-modification models.",
+ "highlights": [
+  "braindead-local-intelligence: one-command local AI stack - LLM server, image gen, SearXNG, Open WebUI",
+  "Single-model-in-memory design: auto-loads the right model per request, unloads when idle",
+  "OpenAI-compatible API; everything behind one token-protected address",
+  "Modest requirements: rootless podman on Linux, AMD GPU, models from 4GB VRAM up",
+  "Author runs it on a 2021 PC with a Radeon RX 6700 XT; NVIDIA untested",
+  "Curated model list for home hardware: text, vision, image generation and image editing"
+ ]
+}

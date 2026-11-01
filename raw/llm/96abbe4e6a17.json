@@ -1,0 +1,15 @@
+{
+ "id": "96abbe4e6a17",
+ "authored_at": "2026-11-01T21:00:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Kyle Kingsbury, quoted by Simon Willison from the Jepsen analysis of ParticleDB 1.1.4: the use of LLMs erodes trust in documentation, in software, and in the organizations that produce them - the signals engineers relied on as markers of a mature system are now easy to counterfeit, so new projects may be met with suspicion by default. His closing questions are the ones maintainers now have to answer: how do you ensure correct software and accurate documentation in the age of LLMs, and having done that work, how do you prove it to users?"
+ ],
+ "highlights": [
+  "Kingsbury (via Willison): LLMs erode trust in documentation, software, and the orgs behind them",
+  "Markers of a mature system are now cheap to counterfeit - expect default suspicion of new projects",
+  "The maintainer's double problem: ensure correctness, then demonstrate it",
+  "From the Jepsen analysis of ParticleDB 1.1.4"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-01",
+ "date": "2026-11-01",
+ "status": "provisional",
+ "reserve": "2844dd06fa23",
+ "picks": [
+  {
+   "id": "f4263f79b9a8",
+   "front": "The labor question",
+   "source": "blog.raed.dev",
+   "why": "The week's AI-mandate backlash found its defining anecdote: a privacy-company CEO calling a pentest request 'loser thinking' - and the sharpest essay yet on why that is a leadership failure, not an AI story."
+  },
+  {
+   "id": "2fdfb30964b6",
+   "front": "AI platform security",
+   "source": "simonwillison.net",
+   "why": "Willison completes the exploit chain he has been annotating all week - the most concrete demonstration yet of how agent browsers get turned against their users."
+  },
+  {
+   "id": "fef10396b9d0",
+   "front": "Privacy",
+   "source": "paulfwalsh.substack.com",
+   "why": "TIME-sourced internal instructions show Meta's Muse rebuilding relationship profiles hourly, including non-users - the strongest documented case for the surveillance reading of consumer agents."
+  },
+  {
+   "id": "7bd653955833",
+   "front": "The policy circle",
+   "source": "colossus.com",
+   "why": "A rare reported look at who actually steers US AI policy now, told through a locked room with $18 trillion of CEOs comparing compute scars."
+  },
+  {
+   "id": "36fd4612bc28",
+   "front": "Agents in the wild",
+   "source": "tomshardware.com",
+   "why": "The Minecraft Civ50 experiment is the year's most quotable agent-swarm result: bureaucracy emerges on its own, and hive organization beats democracy in combat."
+  }
+ ]
+}

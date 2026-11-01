@@ -1,35 +1,65 @@
 {
- "generated_at": "2026-11-01T14:57:33+00:00",
+ "generated_at": "2026-11-01T20:58:25+00:00",
  "stories": [
   {
-   "id": "408240b2f536",
-   "title": "No AI, 52 min. Build all Linux Files utils in C by Hand",
+   "id": "e7d561424487",
+   "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+   "source": "Hacker News",
+   "url": "https://hackerbooks.org"
+  },
+  {
+   "id": "f4263f79b9a8",
+   "title": "It wasn't AI that flipped Proton's charge",
+   "source": "Hacker News",
+   "url": "https://blog.raed.dev/posts/proton-loser-thinking/"
+  },
+  {
+   "id": "fa7be21d7de7",
+   "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+   "source": "Hacker News",
+   "url": "https://github.com/ivankovic/omnidiff"
+  },
+  {
+   "id": "fef10396b9d0",
+   "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+   "source": "Hacker News",
+   "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial"
+  },
+  {
+   "id": "f9b818e35bf2",
+   "title": "Heretic 2.0 Released: Training-free language model modification",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50328567"
+  },
+  {
+   "id": "24076d30e555",
+   "title": "Are There Problems Beyond the Reach of AI [video]",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=NWNbAEivyvs"
+  },
+  {
+   "id": "f03b3c3d6226",
+   "title": "An easy way to try local AI with braindead-local-intelligence",
    "source": "Lobsters",
-   "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c"
+   "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html"
   },
   {
-   "id": "36fd4612bc28",
-   "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-   "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+   "id": "96abbe4e6a17",
+   "title": "Quoting Kyle Kingsbury",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
   },
   {
-   "id": "4a0c7d909972",
-   "title": "The question we should all be asking about AI",
-   "source": "Hacker News",
-   "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt"
+   "id": "085c38344df1",
+   "title": "[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser",
+   "source": "Daring Fireball",
+   "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
   },
   {
-   "id": "8192dfe920a4",
-   "title": "Solve: the cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021",
+   "id": "7bd653955833",
+   "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG"
-  },
-  {
-   "id": "7512a9e3f49f",
-   "title": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic"
+   "url": "https://colossus.com/article/michael-kratsios-office-frontier-ostp/"
   }
  ]
 }

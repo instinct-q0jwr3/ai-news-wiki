@@ -1,0 +1,16 @@
+{
+ "id": "e7d561424487",
+ "authored_at": "2026-11-01T21:00:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from the Show HN listing: inspired by Karpathy's HackerTube, HackerBooks does the same for books - roughly 16,500 titles mentioned by at least two different HN commenters from 2007 to now, each linking back to the comments that mentioned it, built with Claude Opus 5.5. The site itself is a keyboard-driven browser (j/k to move, Enter to open). The page fetch came back thin, so only the listing-level description is verified."
+ ],
+ "highlights": [
+  "HackerBooks: ~16.5k books mentioned by 2+ HN commenters since 2007",
+  "Each book links back to the HN comments that recommended it",
+  "Built with Claude Opus 5.5, inspired by Karpathy's HackerTube",
+  "Thin fetch; details from the Show HN listing only"
+ ],
+ "basis": "Show HN feed summary; raw/cache/sources/e7d561424487.json status=thin (site shell, no book data)."
+}

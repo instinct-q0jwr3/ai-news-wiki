@@ -1,0 +1,16 @@
+{
+ "id": "f4263f79b9a8",
+ "authored_at": "2026-11-01T21:00:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A paying Proton customer and longtime recommender reads the 404 Media investigation into Proton's AI push and lands on an uncomfortable distinction: the scandal is not that Proton's engineers are using AI - that is the new industry norm, and fine when reviews, tests and accountability wrap around it. The scandal is a CEO telling an engineer, in front of colleagues on the security Slack channel, that asking for a few days to pentest new code was 'bullshit and loser thinking,' telling staff their AI usage could decide whether they kept their jobs, and then - when that plan leaked and was dropped - saying it had already served its purpose. Plenty of companies are shipping coding agents without humiliating anyone; if Proton cannot, the author argues, the problem is leadership, not AI.\n\nThe stakes are specific to what Proton sells. Trading caution for speed is a defensible call at most companies, but Proton is a privacy company: careful, slow shipping is part of the product, and a bug that exposes users' mail would be fatal in a way a B2B vendor's bad release is not. The employee defenses posted on Reddit - Yen was fine with pentesting as long as it did not slow the pipeline - read to the author like astroturfed crisis management, and no dissenting employee voice has appeared. The piece closes where it started: the author would like to keep recommending Proton, but that depends on the engineer who asked for a few more days of testing winning the argument inside the company.",
+ "highlights": [
+  "Author is a years-long paying Proton customer and recommender - now unsure",
+  "404 Media: CEO Andy Yen called a pentest request 'bullshit and loser thinking' in the security Slack",
+  "The argument: AI-written code is the norm and fine with guardrails; this is a leadership story, not an AI story",
+  "Staff were told AI usage could decide their jobs; after the leak, Yen said the plan had served its purpose",
+  "Proton's product is carefulness - a mail-exposing bug would be existential",
+  "Employee Reddit defenses read as astroturfing; no genuine dissent has surfaced",
+  "Pairs with Troy Hunt's weekly, which noted the manifesto's language rubbed people the wrong way"
+ ]
+}
