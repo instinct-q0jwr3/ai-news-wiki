@@ -1,0 +1,15 @@
+{
+ "id": "4a0c7d909972",
+ "authored_at": "2026-11-01T14:58:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note: CNN Business runs an opinion piece, 'The real question we should all be asking about AI,' on the debt now stacked behind the AI trade (the URL flags ai-stocks-bonds-debt). The fetched page is 60,000 characters of stylesheet and markup with no article text, so the argument itself could not be read here - paired in the digest with the WSJ's reporting that default insurance on hyperscaler debt is at its priciest since 2021."
+ ],
+ "highlights": [
+  "CNN Business asks 'the real question' about AI - framed around stocks, bonds and debt",
+  "Page fetch returned pure CSS/markup; argument unverified beyond the framing",
+  "Read alongside WSJ: hyperscaler default insurance at its highest cost since 2021"
+ ],
+ "basis": "Feed title and URL (cnn.com/2026/10/30/business/ai-stocks-bonds-debt); raw/cache/sources/4a0c7d909972.json status=ok but body is stylesheet junk with zero prose."
+}
