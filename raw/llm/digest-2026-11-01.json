@@ -1,0 +1,75 @@
+{
+ "id": "digest-2026-11-01",
+ "date": "2026-11-01",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "The week closes on consequences: Anthropic's game-clone clampdown gets its lawsuit context, chatbots are caught answering midterm questions from AI-built voter sites, CS programs bleed students - and a TPU in orbit says hello world.",
+ "sections": [
+  {
+   "title": "The game-clone clampdown",
+   "intro": "Mashable supplies the context for Anthropic's quiet restrictions: GTA6 subpoenas, AI-assisted decompiles, browser ports - and the PS5 jailbreak that made the lawsuit exposure impossible to ignore.",
+   "stories": [
+    "f432ba6d4feb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The takeover, annotated",
+   "intro": "Simon Willison's walkthrough completes the ChatGPT exploit chain - innerHTML injection, an unsandboxed iframe, and a CSP bypass via YouTube's oEmbed - and calls the $5,000 bounty cheap.",
+   "stories": [
+    "2fdfb30964b6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chatbots and the midterms",
+   "intro": "Washington Post tests find chatbots answering voter questions from three obscure, AI-built voter sites - synthetic civic content laundered into authoritative answers.",
+   "stories": [
+    "de1bc945d0db"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labor question",
+   "intro": "The Guardian traces AI-driven union drives at Google DeepMind and Meta, while Bloomberg reports CS programs losing students as AI absorbs the entry-level jobs.",
+   "stories": [
+    "b06b0bd71881",
+    "78d971c01713"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The watermark debate",
+   "intro": "With EU transparency rules pushing labs to watermark text, the quality argument gets serious: single outputs may survive, but diversity across samples does not.",
+   "stories": [
+    "cab55ee52764"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Hello World from orbit",
+   "intro": "Google's Suncatcher prototype downlinks the first AI response from a data-center-class TPU in space - a haiku from Gemma 4 over Svalbard.",
+   "stories": [
+    "1bf149fe3df4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "One pool of tokens",
+   "intro": "OpenAI is merging ChatGPT and Codex usage limits, per its own help center - mechanics still unverified.",
+   "stories": [
+    "f99c17eb2833"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "Ben Eater's 8-bit computer gets a 3D breadboard simulator with an MCP server for AI pair-wiring, and datasette-llm learns to inherit its default model.",
+   "stories": [
+    "556c83c938af",
+    "452a4db8efa6"
+   ],
+   "concepts": []
+  }
+ ]
+}

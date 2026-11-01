@@ -1,0 +1,14 @@
+{
+ "id": "452a4db8efa6",
+ "authored_at": "2026-11-01T02:58:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A one-beat tooling note from Simon Willison: datasette-llm 0.1a9 now picks up the default model configured in LLM, so Datasette Agent works out of the box - uvx --with datasette-agent datasette content.db --internal internal.db - without explicitly setting a model. Bigger Datasette Agent upgrades are promised soon."
+ ],
+ "highlights": [
+  "datasette-llm 0.1a9 inherits LLM's default model - no more explicit -s plugins.datasette-agent.default_model",
+  "Datasette Agent now runs with a single uvx command",
+  "Larger Datasette Agent upgrades are in the pipeline"
+ ]
+}

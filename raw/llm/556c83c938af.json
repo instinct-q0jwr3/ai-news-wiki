@@ -1,0 +1,17 @@
+{
+ "id": "556c83c938af",
+ "authored_at": "2026-11-01T02:58:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "BBRouter is a browser simulator of Ben Eater's 8-bit breadboard computer, built because its author kept wiring the real thing wrong. The feature list is generous for a hobby tool: realistic 3D breadboards, side-by-side diff, an oscilloscope, schematics that auto-sync with the layout, an auto-router (the name stands for breadboard router), and upload from the real Arduino IDE. The twist that got it onto Hacker News: an MCP server, so Claude or another AI app can open, change and run your projects with you - sign in once and it works as you, on your projects only. The fetchable page was mostly UI strings, so finer details are unverified."
+ ],
+ "highlights": [
+  "Ben Eater's 8-bit computer simulated on realistic 3D breadboards in the browser",
+  "Side-by-side diff, scope, auto-syncing schematics and an auto-router",
+  "Upload projects from the real Arduino IDE",
+  "MCP server lets Claude or other AI apps build and run circuits with you, scoped to your projects",
+  "Cache was mostly UI strings; details beyond the feature list unverified"
+ ],
+ "basis": "Show HN listing + ok cache of mostly UI strings (1,076 chars) from bbrouter.com."
+}

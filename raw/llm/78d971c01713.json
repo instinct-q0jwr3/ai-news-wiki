@@ -1,0 +1,15 @@
+{
+ "id": "78d971c01713",
+ "authored_at": "2026-11-01T02:58:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from the feed listing only: Bloomberg reports that computer science programs are losing students as AI replaces the jobs those degrees once pointed to. The source is paywalled, so the enrollment data, geographies and timeframes behind the headline are unverified here."
+ ],
+ "highlights": [
+  "Bloomberg: CS programs lose students as AI replaces jobs",
+  "Paywalled - the underlying enrollment numbers are unverified",
+  "If it holds, a leading indicator for the tech labor pipeline"
+ ],
+ "basis": "Hacker News feed listing (title only); raw/cache/sources/78d971c01713.json status=error (Bloomberg paywall)."
+}

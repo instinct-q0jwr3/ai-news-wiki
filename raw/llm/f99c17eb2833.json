@@ -1,0 +1,15 @@
+{
+ "id": "f99c17eb2833",
+ "authored_at": "2026-11-01T02:58:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from the feed listing only: OpenAI is merging ChatGPT and Codex usage limits, per its own help-center article. The help page itself would not load (error), so the mechanics - whether pooled limits are more or less generous, and for which tiers - are unverified here."
+ ],
+ "highlights": [
+  "OpenAI help center: ChatGPT and Codex usage limits are merging",
+  "The help page failed to load; tiers and mechanics unverified",
+  "Heavy Codex users should watch for how pooled limits treat coding workloads"
+ ],
+ "basis": "Hacker News feed listing (title only); raw/cache/sources/f99c17eb2833.json status=error (help.openai.com fetch failed)."
+}

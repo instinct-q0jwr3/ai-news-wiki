@@ -1,83 +1,65 @@
 {
- "generated_at": "2026-10-31T20:55:06+00:00",
+ "generated_at": "2026-11-01T02:56:23+00:00",
  "stories": [
   {
-   "id": "d6d8b417fe77",
-   "title": "We Took over ChatGPT Accounts",
+   "id": "f432ba6d4feb",
+   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
    "source": "Hacker News",
-   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering"
   },
   {
-   "id": "8d5cf35d525e",
-   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "id": "1bf149fe3df4",
+   "title": "First response from the Project Suncatcher prototype satellite",
    "source": "Hacker News",
-   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
   },
   {
-   "id": "f5adbee6addd",
-   "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+   "id": "cab55ee52764",
+   "title": "AI text watermarking and quality loss",
    "source": "Hacker News",
-   "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
+   "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
   },
   {
-   "id": "64a547cf4942",
-   "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+   "id": "78d971c01713",
+   "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
    "source": "Hacker News",
-   "url": "https://github.com/Koppar-AI/koppar-lte-modem"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs"
   },
   {
-   "id": "2d66df4da83a",
-   "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+   "id": "f99c17eb2833",
+   "title": "ChatGPT and Codex usage limits merging",
    "source": "Hacker News",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804"
+   "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
   },
   {
-   "id": "871b64957afa",
-   "title": "Anthropic blocks users for anything touching training larger models",
+   "id": "556c83c938af",
+   "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
    "source": "Hacker News",
-   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088"
+   "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1"
   },
   {
-   "id": "ea19fb49b15a",
-   "title": "Show HN: A language model that lives in a boot sector",
+   "id": "b06b0bd71881",
+   "title": "How AI may drive union-resistant tech workers to the bargaining table",
    "source": "Hacker News",
-   "url": "https://github.com/kerlenton/bootgpt"
+   "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize"
   },
   {
-   "id": "4b9fcef999b7",
-   "title": "Anthropic orders AI tool Claude to stop remaking video games",
-   "source": "Hacker News",
-   "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
-  },
-  {
-   "id": "c7f23c8b3bad",
-   "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
-   "source": "Hacker News",
-   "url": "https://www.jointter.com/"
-  },
-  {
-   "id": "d95d71cc2049",
-   "title": "Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units",
+   "id": "de1bc945d0db",
+   "title": "Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22%",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push"
+   "url": "https://www.washingtonpost.com/technology/2026/10/30/how-an-obscure-website-became-force-americas-election-information-machine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkzMzMyODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0NzE4Nzk5LCJpYXQiOjE3OTMzMzI4MDAsImp0aSI6ImFlZmU1ZmI3LThlMmItNDYwOC1iMmVhLWJiZDg2YTFmZDQ1ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMzAvaG93LWFuLW9ic2N1cmUtd2Vic2l0ZS1iZWNhbWUtZm9yY2UtYW1lcmljYXMtZWxlY3Rpb24taW5mb3JtYXRpb24tbWFjaGluZS8ifQ.lCIALy15UkNNilYI0FU_HKDmoqz6MM-BgZD4xUT8pME&itid=gfta"
   },
   {
-   "id": "4fbecc6fa429",
-   "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/arca/"
+   "id": "2fdfb30964b6",
+   "title": "How We Took Over ChatGPT Accounts",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
   },
   {
-   "id": "842c80ff1426",
-   "title": "Pluralistic: Formalities (31 Oct 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/10/31/burn-berne/"
-  },
-  {
-   "id": "18e6d578d4c5",
-   "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link",
-   "source": "Techmeme",
-   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html"
+   "id": "452a4db8efa6",
+   "title": "datasette-llm 0.1a9",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
   }
  ]
 }

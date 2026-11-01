@@ -1,0 +1,16 @@
+{
+ "id": "de1bc945d0db",
+ "authored_at": "2026-11-01T02:58:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: the Washington Post tested chatbots on US midterm voter questions and found they lean heavily on three obscure, AI-built voter-information sites - Copilot cited the error-prone Ballot Brief in 75% of its test answers, ChatGPT in 22%. The sites, including one built by Ben Torres Ezrick as a one-stop shop for voters, are themselves AI-generated. The Post's page is paywalled, so the test methodology and error examples are unverified here, but the shape of the finding - chatbots laundering AI-generated civic content into authoritative answers - matches the tests described."
+ ],
+ "highlights": [
+  "WaPo tests: chatbots answer midterm questions from three obscure AI-built voter sites",
+  "Copilot cited the error-prone Ballot Brief in 75% of tests; ChatGPT in 22%",
+  "The voter sites are themselves AI-generated - synthetic civic content feeding authoritative answers",
+  "Paywalled; methodology unverified, shape of the finding matches the feed description"
+ ],
+ "basis": "Techmeme feed summary of the Washington Post piece; raw/cache/sources/de1bc945d0db.json status=error (paywall)."
+}

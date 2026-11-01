@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-10-31 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-01 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-11-01** - Short note from feed metadata only: the Washington Post tested chatbots on US midterm voter questions and found they lean heavily on three obscure, AI-built voter-information sites - Copilot cited the error-prone Ballot Brief in 75% of its test answers,… ([Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22%](../summaries/de1bc945d0db.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md)) 🔒
 - **2026-10-31** - Short note from feed metadata only: a 2025 study on the impact of generative AI on critical thinking, based on self-reported measures (linked via a Microsoft Research paper, published through the ACM). The title frames the method - self-reported - which… ([The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](../summaries/f5adbee6addd.md) · [Microsoft](../entities/microsoft.md)) ⚠
 - **2026-10-31** - Cory Doctorow finds himself, for the first time in 25 years, cheering the US Copyright Office: its position that copyright exists to incentivize human creative expression, so only works of human authorship qualify. The essay walks through the doctrine of… ([Pluralistic: Formalities (31 Oct 2026)](../summaries/842c80ff1426.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-31** - OpenAI, Google, Microsoft and Anthropic say they will adopt a shared standard letting publishers opt out of AI scraping across multiple crawlers at once, The Verge reports. The mechanism is a 'policy token' proposed by Kevin Kelley, a technical lead for… ([OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers](../summaries/2c6d6cc4409e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md))
