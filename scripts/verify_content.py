@@ -93,6 +93,22 @@ for day,r in _sig.items():
         if not os.path.exists(os.path.join(ROOT,'wiki/summaries',p['id']+'.md')): fails.append(f'R7 signal/{day} pick {p["id"]} does not resolve')
     if len({p['id'] for p in r['picks']})!=5: fails.append(f'R7 signal/{day} has duplicate picks')
 if _sig and not os.path.exists(os.path.join(ROOT,'docs/signal/index.html')): fails.append('R7 docs/signal/index.html missing')
+# R9: paywall labels - the lock marker is reserved for verified subscription/paywall sources.
+# cat=='paywall' may only come from a domain in derive.py's PAYWALL_DOMAINS registry; a fetcher
+# 'paywall' marker (paywall markers in page) or any technical/JS block on another domain must
+# render as thin/unreadable, never as a paywall.
+import re as _re9
+_dm=_re9.search(r"PAYWALL_DOMAINS=\{([^}]*)\}", open(os.path.join(ROOT,'scripts/derive.py')).read())
+_PAY9={d.strip().strip("'") for d in _dm.group(1).split(',') if d.strip()}
+try: _ss9=json.load(open(os.path.join(ROOT,'wiki/source_status.json')))
+except Exception: _ss9={}
+for _i,_c in _ss9.items():
+    if _c!='paywall': continue
+    try:
+        _cc=json.load(open(os.path.join(ROOT,'raw/cache/sources',_i+'.json')))
+        _dom=_re9.sub(r'^www\.','',_re9.search(r'https?://([^/]+)',_cc.get('url','') or '').group(1)) if _cc.get('url') else ''
+    except Exception: _dom=''
+    if _dom not in _PAY9: fails.append(f'R9 {_i} labeled paywall but domain "{_dom}" is not in the verified PAYWALL_DOMAINS registry')
 # R8: disputed-claims registry - while a claim's scope is disputed, the settled wording must not regress
 # to a categorical assertion. Each entry fails the build if a forbidden categorical phrasing reappears
 # OR if the dispute marker disappears (a resolved dispute requires a conscious edit of the registry).

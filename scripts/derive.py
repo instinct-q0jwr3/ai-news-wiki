@@ -452,7 +452,7 @@ def build_summaries(xs,stamp):
         dom=re.sub(r'^www\.','',urlsplit(st.get('url') or x.get('url') or '').netloc)
         sstat=st.get('status')
         if sstat in ('thin','error'):
-            if st.get('block')=='paywall' or dom in PAYWALL_DOMAINS:
+            if dom in PAYWALL_DOMAINS:  # label paywall only for the verified registry; fetcher 'paywall' markers alone are not verification
                 cat='paywall'; summary_sec+='\n\n_The original source is behind a paywall._'; PAYWALLED.add(x['id'])
             elif sstat=='thin':
                 cat='thin'; summary_sec+='\n\n_Only a short excerpt of the source could be read._'
