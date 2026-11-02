@@ -280,6 +280,11 @@
   "title": "Muse Spark Open"
  },
  {
+  "from": "37d92b802b58",
+  "to": "f4d6bb4452e1",
+  "title": "S-1 update: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a $23.3B net loss, up from $12.1B in Q3 2025, and operating expenses up 292% YoY to $17.5B"
+ },
+ {
   "from": "3840ab957c74",
   "to": "d22f8b031ac0",
   "title": "Is my data used for model training?"
@@ -705,6 +710,11 @@
   "title": "OpenAI Strengthens Security Around Frontier AI Training"
  },
  {
+  "from": "8edc6b0986ff",
+  "to": "40f79c504c4e",
+  "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1"
+ },
+ {
   "from": "8efb98195547",
   "to": "2aa801e6db7d",
   "title": "QGIS: No AI contributions permitted"
@@ -838,6 +848,11 @@
   "from": "a590c7aa2db4",
   "to": "7e773f963b3f",
   "title": "A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents"
+ },
+ {
+  "from": "a6468e19f82c",
+  "to": "94ceb01449d4",
+  "title": "Agentic backdoors via pretraining poisoning"
  },
  {
   "from": "a77696537215",

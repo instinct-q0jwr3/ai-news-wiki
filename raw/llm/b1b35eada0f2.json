@@ -1,0 +1,14 @@
+{
+ "id": "b1b35eada0f2",
+ "authored_at": "2026-11-02T21:04:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Wall Street Journal's take on the same filing: Oracle is selling $10 billion in common stock and $10 billion in bonds as it races to finance data-center construction and chip purchases, with the shares falling more than 5% on the news. The WSJ framing emphasizes the rush - Oracle is tapping equity and debt simultaneously while its credit metrics deteriorate toward junk territory."
+ ],
+ "highlights": [
+  "WSJ confirms the $10B stock + $10B bond sale and the 5%+ share drop",
+  "Journal angle: the financing rush itself is the story, alongside the buildout it funds"
+ ],
+ "basis": "Cache status: error (WSJ paywall); summary written from the feed headline and the CNBC report on the same filing."
+}

@@ -1,0 +1,13 @@
+{
+ "id": "46f62edc2c9c",
+ "authored_at": "2026-11-02T21:05:10Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A guest post on Terence Tao's blog by Karthik C. S., Amit Sahai and Jie Xue asks mathematicians to settle a prior question before debating which tasks AI will take: what makes mathematical work worth doing at all? If the answer has quietly become 'producing results and demonstrating individual ability,' they argue, the current anxiety is exposing a flaw in the conception, not just in the job market.\n\nThe essay walks through the old invention-versus-discovery divide and lands on a Platonic reading: there were infinitely many primes before anyone proved it, and the surprises that puncture our constructions - the counterexample to a tidy conjecture, two theories turning out to share a structure - are evidence that mathematical truth doesn't wait for our recognition. The mathematician's intelligence becomes 'a means through which an order independent of us can be understood.' On that view, an AI system producing more derivations changes the economist's calculus, not the mathematician's purpose.\n\nThe sharper turn is about metrics. The authors distinguish a correct derivation from an understanding of its significance: an axiomatic system permits endless deductions, but productivity doesn't pick a worthy direction. Taste - valuing a theory for the unity it reveals - is more than preference. Their target is a culture that 'increasingly measures intellectual life through publications, citations, awards and other indicators of performance' until the indicators define the work's worth. AI, on this reading, doesn't create the measurement problem; it makes the confusion impossible to ignore.",
+ "highlights": [
+  "Tao-hosted guest essay: before asking what AI will do to mathematics, ask what mathematical work is for",
+  "Argues a Platonic reading - truth independent of the prover - makes AI's productivity orthogonal to the field's purpose",
+  "Distinguishes correct derivations from understanding; taste and unification, not output volume, are what direct inquiry",
+  "Frames publication/citation/award metrics as a pre-existing corruption that AI merely exposes"
+ ]
+}

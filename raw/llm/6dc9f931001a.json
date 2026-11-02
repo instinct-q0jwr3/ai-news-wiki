@@ -1,0 +1,13 @@
+{
+ "id": "6dc9f931001a",
+ "authored_at": "2026-11-02T21:05:41Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Israeli startup 42AI has come out of stealth with a $62.5 million seed round and a claim that sounds like science fiction: a 'behavioral world model' that predicts what individual people will do before they decide to do it. Its first market is financial brokerages, where the company says the model predicts how individual traders respond to volatile conditions - ten large brokerages are live, using it for liquidity, margin requirements and hedging exposure.\n\nThe method is psychometrics at scale. Rather than extrapolating from past actions, 42AI watches how people react to ostensibly unrelated events - KYC flows, onboarding, support calls, money transfers - measuring sentiment, voice, and interaction counts, then converts those observations into mathematical trait representations fed into a transformer-based world model. 'In a world model, every individual is the world,' CTO Ehud Ezra says. Training rewards penalize the model when a simulation breaks a person's underlying tendencies - a risk-averse user suddenly modeled as a risk-taker means 'the target is off.' A separate LLM generates explanations of the predictions.\n\nThe claims deserve the caveats attached. The headline '98% accuracy' turns out to mean trading flows falling within a predicted range, not individual trades called correctly; the F1 score for direction and volume is 0.8-0.85. CEO Amit Gal-Or says the model 'never knows who the person is,' yet the company builds individual behavioral profiles from linked customer activity across datasets covering almost 30 million people. The team spent three years on the approach with advisors including psychology and PTSD experts and Nobel chemistry laureate Dan Shechtman, claims one brokerage gained ~$30 million via dynamic hedging, and reports seven-figure revenue. Whether behavioral world models generalize beyond brokerage floors is now a $62.5 million question.",
+ "highlights": [
+  "42AI exits stealth with $62.5M seed for a 'behavioral world model' that predicts individual decisions; 10 large brokerages are live customers",
+  "The model infers traits from KYC, onboarding, support-call sentiment and trading behavior rather than extrapolating past actions",
+  "Claims need discounting: '98% accuracy' means flows within a predicted range; F1 of 0.8-0.85 for direction/volume",
+  "Built over 3 years with psych/PTSD advisors and Nobel laureate Dan Shechtman; customer datasets cover ~30M people, with seven-figure revenue claimed"
+ ]
+}

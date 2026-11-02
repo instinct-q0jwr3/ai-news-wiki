@@ -1,0 +1,13 @@
+{
+ "id": "157df6b4c25c",
+ "authored_at": "2026-11-02T21:05:41Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic has confirmed it deliberately limited Claude Code to stop it recreating other people's games. After Friday's report on users hitting refusals, a direct statement posted by Addy Osmani put it plainly: 'We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy.' Original games, genre games, and games built from a user's own designs and assets are meant to keep working, Anthropic says it will keep iterating to 'strike the right balance,' and Osmani invited users to send false positives his way.\n\nTom's Hardware notes the likely two sentences are the ones an X user screenshotted from the system prompt: 'Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if it is renamed or called original.' The blocking appears limited to Claude Code running Opus 5.5, so other harnesses (Ollama, wrappers) may sidestep it. But users also report Opus 5.5 actively refusing reverse-engineering tasks, and Tom's Hardware says it has direct confirmations on that front - a broader concern, since reverse engineering is often legitimate interoperability and security work.\n\nThe episode is a small landmark in how labs now ship policy: not as a published usage rule enforced at the API, but as prompt text injected into a coding harness, discovered by users mid-task, and clarified ad hoc by an employee on X. Osmani invited users to send false positives his way. The complaint threads on Claude Code's GitHub repo suggest the classifier currently can't tell 'clone Mario' from 'work on my own game' - and the fix is a prompt edit, not a policy process.",
+ "highlights": [
+  "Anthropic confirms two added system-prompt sentences on Opus 5.5 steer Claude Code away from recreating specific existing games, citing its IP usage policy",
+  "Users report the limits also hit their own original games and reverse-engineering work; Anthropic is soliciting false positives",
+  "The blocking appears specific to Claude Code + Opus 5.5; other harnesses may not enforce it",
+  "Policy-by-prompt-edit: labs are shipping IP enforcement as prompt text, discovered by users and clarified on X"
+ ]
+}

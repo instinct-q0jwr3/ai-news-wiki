@@ -1,0 +1,14 @@
+{
+ "id": "292feb8fb636",
+ "authored_at": "2026-11-02T21:05:41Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Meituan's LongCat team has released LongCat-2.5, billed as native multimodality for agentic tasks. The open-weight series has been positioning itself as an agent-first alternative; details beyond the announcement page were not retrievable in this pass."
+ ],
+ "highlights": [
+  "LongCat-2.5 launches with native multimodality aimed at agentic tasks",
+  "Cache yielded only the announcement heading; capabilities and benchmarks unverified"
+ ],
+ "basis": "Cache status: thin (27 chars; only the page's heading fragment was retrievable). Summary written from the feed headline only."
+}

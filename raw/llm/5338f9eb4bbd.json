@@ -1,0 +1,14 @@
+{
+ "id": "5338f9eb4bbd",
+ "authored_at": "2026-11-02T21:05:41Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports DeepSeek has released a 'creator mode' for DeepSeek Harness, letting users build custom plugins such as a 3D model renderer and a video editing workbench. The open-weights lab is moving up the stack from models to an extensible agent platform - the same plugin ecosystem play the US labs have been building, from the company that keeps undercutting them on price."
+ ],
+ "highlights": [
+  "DeepSeek 'creator mode' lets users build custom Harness plugins (3D renderer, video workbench)",
+  "The open-weights lab is moving from models to platform, matching US labs' ecosystem strategy"
+ ],
+ "basis": "Cache status: error (Bloomberg paywall); summary written from the feed headline only."
+}

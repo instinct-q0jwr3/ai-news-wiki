@@ -1,0 +1,14 @@
+{
+ "id": "9fbc85ba7f6a",
+ "authored_at": "2026-11-02T21:05:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The New York Times details Anthropic's compute-deal spree: more than 3.5 gigawatts of expected capacity coming online in 2026, sourced well beyond Nvidia's chips to Amazon, Google and AMD among others. The reporting underpins the $895 billion in purchase commitments and lease agreements disclosed in the amended S-1 - Anthropic is locking up power and silicon across every available supplier at once."
+ ],
+ "highlights": [
+  "NYT: Anthropic has 3.5GW+ of expected capacity lined up for 2026, diversified across Amazon, Google, AMD and others",
+  "The deal spree is the physical footprint behind the S-1's $895B commitments figure"
+ ],
+ "basis": "Cache status: error (NYT paywall); summary written from the feed headline and the public S-1 figures it corroborates."
+}

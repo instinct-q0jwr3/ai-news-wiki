@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-02",
+ "date": "2026-11-02",
+ "status": "provisional",
+ "reserve": "e694a2bcfd2c",
+ "picks": [
+  {
+   "id": "ddce7a298d16",
+   "front": "Frontier research",
+   "source": "rikiyat.github.io",
+   "why": "MIT CSAIL shows a frontier LLM natively reading and rewriting neural weights - a 0.016% edit to Qwen3.5-0.8B lifts MATH-500 from 7.9% to 48.1% and triples IFEval. If it holds, optimization becomes a language task."
+  },
+  {
+   "id": "9d7cc62bca2d",
+   "front": "Supply-chain security",
+   "source": "hacktron.ai",
+   "why": "An AI pentest agent found the two-month window where a backtick email address led to root on GNU Savannah and push access to Bash as its maintainer - the xz scenario demonstrated, responsibly, in days."
+  },
+  {
+   "id": "40f79c504c4e",
+   "front": "The IPO ledger",
+   "source": "cnbc.com",
+   "why": "Anthropic's amended S-1: $33.24B nine-month revenue, Q3 growth slowing to 47%, and $895.4B in compute commitments - the first full balance-sheet look public investors get before the mega IPO."
+  },
+  {
+   "id": "1abf196b9596",
+   "front": "The labor question",
+   "source": "seldo.com",
+   "why": "Junior developer employment is down ~20% from 2022 and Anthropic's junior share fell from 27% to 9%; Voss lays out the most concrete proposal yet for interviewing engineers in the post-programming job."
+  },
+  {
+   "id": "42b1bb8724a3",
+   "front": "Agents do the work",
+   "source": "x.com",
+   "why": "An agent picked the drug, derived coordinates from three papers and drove a stereotaxic rig through mouse brain surgery - with a veterinarian holding a kill switch. The human-in-the-loop design is the story."
+  }
+ ]
+}

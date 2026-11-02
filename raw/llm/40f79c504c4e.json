@@ -1,0 +1,14 @@
+{
+ "id": "40f79c504c4e",
+ "authored_at": "2026-11-02T21:04:41Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic's amended S-1 gives investors their first full look at the company's third quarter, and the numbers are enormous in both directions. Revenue for the nine months through September came to $33.24 billion, up roughly 1,200% on the same period last year, with Q3 alone at about $17 billion. The net loss for the nine months was $104 billion, though most of that is an accounting artifact - the change in fair value of convertible notes and derivative liabilities - against a $25.1 billion loss a year earlier.\n\nThe detail that will dominate the roadshow is growth's slope. Quarter-on-quarter revenue growth slowed to about 47% in Q3, down from 144% in Q2 and 132% in Q1. Still fast by any normal standard, but the deceleration lands at the exact moment Anthropic is asking public markets to price a historic IPO, and CNBC's earlier reporting on the filing (via its initial prospectus) had already framed Q3 growth as the key question.\n\nThe filing also quantifies the compute bet. Anthropic reports purchase commitments and lease agreements with an aggregate committed spend of about $895.4 billion, 'substantially all of which is related to compute and infrastructure.' Compute and infrastructure expenses rose $14.4 billion over the nine months, up 329% year on year. The filing arrives as Wall Street is already jittery about whether debt markets can fund the broader AI buildout - last week's hyperscaler earnings showed AI capex eating into cash flows - and Anthropic sources much of its capacity from Amazon, Google and SpaceX, plus neoclouds. Rival OpenAI, which confidentially filed in June, is signaling a 2027 debut, leaving Anthropic to test public appetite first.",
+ "highlights": [
+  "Anthropic reported $33.24B in revenue for the nine months through September, up ~1,200% year on year, with Q3 at ~$17B",
+  "Quarter-on-quarter growth slowed to ~47% in Q3, down from 144% in Q2 and 132% in Q1 - the number bears will quote during the roadshow",
+  "Committed spend on purchase commitments and leases totals ~$895.4B, substantially all compute and infrastructure",
+  "The nine-month net loss of $104B is mostly the change in fair value of convertible notes and derivatives, not operations",
+  "Anthropic gets capacity from Amazon, Google, SpaceX and neoclouds; OpenAI is targeting a 2027 listing, so Anthropic prices the AI IPO market first"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "b389a946cbb1",
+ "authored_at": "2026-11-02T21:04:41Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports Anthropic has disclosed roughly $900 billion in AI spending commitments ahead of its IPO - the purchase commitments and lease agreements detailed in the amended S-1, substantially all tied to compute and infrastructure. The figure reframes the listing: investors are being asked to price not just the fastest-growing software business ever, but one of the largest infrastructure obligations in corporate history."
+ ],
+ "highlights": [
+  "FT puts Anthropic's spending commitments at ~$900B ahead of the IPO",
+  "The commitments are nearly all compute and infrastructure, per the amended S-1"
+ ],
+ "basis": "Cache status: error (FT paywall); summary written from the feed headline and the public S-1 figures it reports on."
+}

@@ -1,125 +1,53 @@
 {
- "generated_at": "2026-11-02T15:01:00+00:00",
+ "generated_at": "2026-11-02T21:01:54+00:00",
  "stories": [
   {
-   "id": "42b1bb8724a3",
-   "title": "Last night an AI agent performed brain surgery on a mouse",
+   "id": "a29bb118607f",
+   "title": "Show HN: Subvocal – Talk to your computer without making noise",
    "source": "Hacker News",
-   "url": "https://twitter.com/OcanaSantero/status/2115442964574908902"
+   "url": "https://news.ycombinator.com/item?id=50340088"
   },
   {
-   "id": "75e51494e1c4",
-   "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+   "id": "3396a4c986f3",
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
    "source": "Hacker News",
-   "url": "https://better-together.fun/"
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
   },
   {
-   "id": "86e802f7f390",
-   "title": "dsh-superagent",
-   "source": "TLDR AI",
-   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
-  },
-  {
-   "id": "013fafe6fcc3",
-   "title": "Inside the Frontier Labs: The First AGI Organizations",
-   "source": "TLDR AI",
-   "url": "https://x.com/hannahhaina/status/2116182129403166876"
-  },
-  {
-   "id": "f4d6bb4452e1",
-   "title": "S-1: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a net loss of $23.3B, up from $12.1B in Q3 2025, and operating expenses up 292% to $17.5B",
+   "id": "40f79c504c4e",
+   "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\"",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo"
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
   },
   {
-   "id": "1bf149fe3df4",
-   "title": "First response from the Project Suncatcher prototype satellite",
+   "id": "6a4d3609e985",
+   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
+   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
   },
   {
-   "id": "67eee131511e",
-   "title": "Introducing &Tutor",
-   "source": "TLDR AI",
-   "url": "https://tutor.humansand.ai/blog/"
+   "id": "b8368451d495",
+   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+   "source": "Hacker News",
+   "url": "https://momentic.ai/"
   },
   {
-   "id": "7531cf1b282d",
-   "title": "Supporting a shared AI training control for websites",
-   "source": "TLDR AI",
-   "url": "https://developers.google.com/search/blog/2026/10/ai-training-control"
+   "id": "febe4405af71",
+   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
   },
   {
-   "id": "7260e1986180",
-   "title": "DoorDash said it's only received 'several hundred' orders from AI agents",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+   "id": "292feb8fb636",
+   "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+   "source": "Hacker News",
+   "url": "https://longcat.ai/blog/longcat-2.5/"
   },
   {
-   "id": "f72e070c5556",
-   "title": "Anthropic prepares to release Claude Mythos 5.5 model",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/"
-  },
-  {
-   "id": "9f38462e77c2",
-   "title": "Reading Anthropic's S-1",
-   "source": "TLDR AI",
-   "url": "https://www.tilomitra.com/blog/anthropic-s1-in-charts"
-  },
-  {
-   "id": "a1f670e25734",
-   "title": "Building a gemini server in python",
-   "source": "Lobsters",
-   "url": "https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html"
-  },
-  {
-   "id": "127671828e96",
-   "title": "Unlocking hidden skills inside Google's model",
-   "source": "TLDR AI",
-   "url": "https://dejan.ai/blog/latent-skills/"
-  },
-  {
-   "id": "f0d18655c4ac",
-   "title": "The U.S. Census Bureau and “Super Intelligence”",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
-  },
-  {
-   "id": "2c29439eb0cd",
-   "title": "Hirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies",
-   "source": "Techmeme",
-   "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/"
-  },
-  {
-   "id": "cdcaadaabf87",
-   "title": "Pray for Chaos",
-   "source": "geohot",
-   "url": "https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html"
-  },
-  {
-   "id": "7b658da57a6c",
-   "title": "There is no single AI adoption rate",
-   "source": "TLDR AI",
-   "url": "https://www.stateof.ai/ai-adoption"
-  },
-  {
-   "id": "6a715f9ad450",
-   "title": "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits",
-   "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/"
-  },
-  {
-   "id": "34e60e958417",
-   "title": "A look at AI safety debates and the rising popularity of \"Stop Unilaterally + Raise Awareness\", or SURA; safety-focused AI labs shouldn't abandon the AI race",
-   "source": "Techmeme",
-   "url": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"
-  },
-  {
-   "id": "02fc983db8f7",
-   "title": "GPT-Rosalind-6 System Card Addendum",
-   "source": "TLDR AI",
-   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6"
+   "id": "e694a2bcfd2c",
+   "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+   "source": "Hacker News",
+   "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now"
   },
   {
    "id": "94ceb01449d4",
@@ -128,40 +56,130 @@
    "url": "https://arxiv.org/abs/2610.37741"
   },
   {
-   "id": "259662aa6046",
-   "title": "Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026",
+   "id": "46f62edc2c9c",
+   "title": "Egoless Mathematics in the AI Era",
+   "source": "Hacker News",
+   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
+  },
+  {
+   "id": "b389a946cbb1",
+   "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
+  },
+  {
+   "id": "c4dd5db76aef",
+   "title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
+   "source": "Hacker News",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools"
+  },
+  {
+   "id": "3ba8effeedb9",
+   "title": "Anthropic's spending commitments surge to nearly $900B",
+   "source": "Hacker News",
+   "url": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge"
+  },
+  {
+   "id": "98c10eab5dcd",
+   "title": "Anthropic's Amended S1 Filing Shows Slowing Q3 Growth",
+   "source": "Hacker News",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+  },
+  {
+   "id": "aa52b1bd0b00",
+   "title": "Microsoft just gave us the perfect name for AI thieves: Kyle",
+   "source": "Hacker News",
+   "url": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/"
+  },
+  {
+   "id": "974b5e7c9d8b",
+   "title": "Researchers face record-low chances of getting a grant partly due to rise of AI",
+   "source": "Hacker News",
+   "url": "https://nltimes.nl/2026/11/02/researchers-face-record-low-chances-getting-grant-partly-due-rise-ai"
+  },
+  {
+   "id": "436a00cbc0f2",
+   "title": "South Korea targets ' highest performance' sovereign AI model",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+  },
+  {
+   "id": "1abf196b9596",
+   "title": "A proposal: how to hire junior engineers in the age of AI",
+   "source": "Hacker News",
+   "url": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/"
+  },
+  {
+   "id": "cb89a1505cb2",
+   "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/"
+   "url": "https://openai.com/index/grid-protectors-program"
   },
   {
-   "id": "13c78ed3f75b",
-   "title": "Apple is developing a tabletop robot with a 9\" screen and a swiveling arm, set for release in 2027 or 2028 for ~$1,000, as John Ternus pushes robotics",
+   "id": "b1b35eada0f2",
+   "title": "Filings: Oracle is selling $10B in common stock and $10B in bonds, as it rushes to get financing for its data center buildout and chip purchases; ORCL falls 5%+",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/inside-apples-slog-create-first-robot"
+   "url": "https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "9222b3af7a54",
-   "title": "Red-teamers found 11 ways for a misaligned agent to slip past Codex's Auto-review",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1"
-  },
-  {
-   "id": "1110dc70dd8f",
-   "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience",
+   "id": "5338f9eb4bbd",
+   "title": "DeepSeek releases a \"creator mode\" that allows users of DeepSeek Harness to create custom plugins, like a 3D model renderer and a video editing workbench",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode"
   },
   {
-   "id": "8e7e4c147d4a",
-   "title": "Investigation: a network of 400+ domains and apps linked to Chinese-language developers bypasses app store reviews to generate nonconsensual deepfakes and CSAM",
+   "id": "f4d6bb4452e1",
+   "title": "S-1: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a net loss of $23.3B, up from $12.1B in Q3 2025, and operating expenses up 292% to $17.5B",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo"
   },
   {
-   "id": "ca421d42a878",
-   "title": "Find Hidden Misalignment in Training Data",
-   "source": "TLDR AI",
-   "url": "https://alignment.anthropic.com/2026/automated-em-search/"
+   "id": "fbf394eaa0a8",
+   "title": "Tutor, which is training a frontier robot foundation model and builds AI warehouse robots, raised a $75M Series B led by a16z, taking total funding to $117M",
+   "source": "Techmeme",
+   "url": "https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/"
+  },
+  {
+   "id": "7ba9521efd49",
+   "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying \"automation and AI are fundamentally shifting how software companies operate\"",
+   "source": "Techmeme",
+   "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950"
+  },
+  {
+   "id": "9fbc85ba7f6a",
+   "title": "Sources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html"
+  },
+  {
+   "id": "157df6b4c25c",
+   "title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement violates its usage policy",
+   "source": "Techmeme",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks"
+  },
+  {
+   "id": "13325d0c69f9",
+   "title": "A profile of OpenAI VP Charles Porch, an ex-Instagram executive who is rehabilitating AI's image across Hollywood and the media, including via celebrity dinners",
+   "source": "Techmeme",
+   "url": "https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html"
+  },
+  {
+   "id": "ddce7a298d16",
+   "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math",
+   "source": "Techmeme",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+  },
+  {
+   "id": "9d7cc62bca2d",
+   "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
+   "source": "Lobsters",
+   "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah"
+  },
+  {
+   "id": "6dc9f931001a",
+   "title": "Israeli startup 42AI, which is developing a \"behavioral world model\" that tries to predict human behavior, emerges from stealth with a $62.5M seed",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
   }
  ]
 }

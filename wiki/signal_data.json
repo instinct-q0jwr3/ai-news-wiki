@@ -1790,5 +1790,61 @@
   "thin": 3,
   "total": 29,
   "unreadable": 2
+ },
+ "2026-11-02": {
+  "ok": 50,
+  "paywall": 11,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Frontier research",
+    "id": "ddce7a298d16",
+    "minutes": 18,
+    "source": "rikiyat.github.io",
+    "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math",
+    "why": "MIT CSAIL shows a frontier LLM natively reading and rewriting neural weights - a 0.016% edit to Qwen3.5-0.8B lifts MATH-500 from 7.9% to 48.1% and triples IFEval. If it holds, optimization becomes a language task."
+   },
+   {
+    "cat": "ok",
+    "front": "Supply-chain security",
+    "id": "9d7cc62bca2d",
+    "minutes": 6,
+    "source": "hacktron.ai",
+    "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
+    "why": "An AI pentest agent found the two-month window where a backtick email address led to root on GNU Savannah and push access to Bash as its maintainer - the xz scenario demonstrated, responsibly, in days."
+   },
+   {
+    "cat": "ok",
+    "front": "The IPO ledger",
+    "id": "40f79c504c4e",
+    "minutes": 3,
+    "source": "cnbc.com",
+    "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\"",
+    "why": "Anthropic's amended S-1: $33.24B nine-month revenue, Q3 growth slowing to 47%, and $895.4B in compute commitments - the first full balance-sheet look public investors get before the mega IPO."
+   },
+   {
+    "cat": "ok",
+    "front": "The labor question",
+    "id": "1abf196b9596",
+    "minutes": 12,
+    "source": "seldo.com",
+    "title": "A proposal: how to hire junior engineers in the age of AI",
+    "why": "Junior developer employment is down ~20% from 2022 and Anthropic's junior share fell from 27% to 9%; Voss lays out the most concrete proposal yet for interviewing engineers in the post-programming job."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents do the work",
+    "id": "42b1bb8724a3",
+    "minutes": 1,
+    "source": "x.com",
+    "title": "Last night an AI agent performed brain surgery on a mouse",
+    "why": "An agent picked the drug, derived coordinates from three papers and drove a stereotaxic rig through mouse brain surgery - with a veterinarian holding a kill switch. The human-in-the-loop design is the story."
+   }
+  ],
+  "reserve": "e694a2bcfd2c",
+  "status": "provisional",
+  "thin": 5,
+  "total": 79,
+  "unreadable": 13
  }
 }

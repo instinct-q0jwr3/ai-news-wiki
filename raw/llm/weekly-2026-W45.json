@@ -34,13 +34,17 @@
   },
   {
    "title": "The money keeps moving",
-   "intro": "Aramco takes 49% of Humain for $2.6B, Broccoli AI banks $52M for answering plumbers' phones, Hex raises $100M for an agent-ready rebuild, and Hyperbolic adds $30M for neocloud compute.",
+   "intro": "Oracle files the $20B stock-and-bond sale it previewed and still drops 6%, with CDS spreads pricing it like junk; a16z leads a $75M round for warehouse-robotics foundation model Tutor; and Israel's 42AI exits stealth with $62.5M for a model that predicts what individual traders will do.",
    "stories": [
     "22999d18f5e0",
     "ad5785ff4e83",
     "fbcb787c3af0",
     "d9a1a7328379",
-    "259662aa6046"
+    "259662aa6046",
+    "febe4405af71",
+    "b1b35eada0f2",
+    "fbf394eaa0a8",
+    "6dc9f931001a"
    ],
    "concepts": []
   },
@@ -78,12 +82,13 @@
   },
   {
    "title": "The verticals collect",
-   "intro": "Vera Health banks $28.5M for evidence-first clinical search, Midstream $20M for hospital revenue recovery, Casap $56M for dispute automation, and Bites $40M for frontline training.",
+   "intro": "Vera Health banks $28.5M for evidence-first clinical search, Midstream $20M for hospital revenue recovery, Casap $56M for dispute automation, and Bites $40M for frontline training. An architect benchmarks 13 models on real construction documents and finds Claude Opus 5.5 producing permit-quality drawing sets.",
    "stories": [
     "16536e8ce1cb",
     "0e5f35da1884",
     "278fcdd1f8a2",
-    "60bb232052fc"
+    "60bb232052fc",
+    "e694a2bcfd2c"
    ],
    "concepts": []
   },
@@ -113,9 +118,10 @@
   },
   {
    "title": "Seoul doubles down",
-   "intro": "President Lee vows $15.97B for AI, chips and data centers in the 2027 budget, nearly twice this year's amount.",
+   "intro": "President Lee's record 820.9T-won budget nearly doubles AI and semiconductor spending to 21.3T won, adds 4.7T won for a sovereign model billed as the 'world's highest performance,' and rides a 93.7% export surge.",
    "stories": [
-    "e7ef3b491c92"
+    "e7ef3b491c92",
+    "436a00cbc0f2"
    ],
    "concepts": []
   },
@@ -141,7 +147,8 @@
    "stories": [
     "42b1bb8724a3",
     "75e51494e1c4",
-    "013fafe6fcc3"
+    "013fafe6fcc3",
+    "b8368451d495"
    ],
    "concepts": []
   },
@@ -158,19 +165,25 @@
   },
   {
    "title": "The adoption question",
-   "intro": "The Census Bureau now asks about 'Super Intelligence,' and State of AI reminds everyone there is no single adoption rate to argue about.",
+   "intro": "Goldman restricts traders and bankers from some AI tools - at regulated firms, compliance draws the adoption map, not capability.",
    "stories": [
     "f0d18655c4ac",
-    "7b658da57a6c"
+    "7b658da57a6c",
+    "c4dd5db76aef"
    ],
    "concepts": []
   },
   {
    "title": "Anthropic's S-1",
-   "intro": "Q3 revenue near $17B, up 12x in a year, with the first profitable quarter in Q2 - and a headline loss that is mostly accounting.",
+   "intro": "The amended filing lands: $33.24B in nine-month revenue and ~$17B in Q3, but quarter-on-quarter growth slowed to ~47% from 144% - and the commitments page shows $895.4B of purchase and lease obligations, substantially all compute. The NYT maps the physical footprint: 3.5GW+ of expected 2026 capacity spread across Amazon, Google, AMD and beyond.",
    "stories": [
     "f4d6bb4452e1",
-    "9f38462e77c2"
+    "9f38462e77c2",
+    "40f79c504c4e",
+    "98c10eab5dcd",
+    "b389a946cbb1",
+    "3ba8effeedb9",
+    "9fbc85ba7f6a"
    ],
    "concepts": []
   },
@@ -187,9 +200,10 @@
   },
   {
    "title": "Rules of the road",
-   "intro": "Google backs a shared robots.txt policy token so sites can state training preferences once, across providers.",
+   "intro": "Anthropic confirms it steered Claude Code on Opus 5.5 away from recreating specific games with two new system-prompt sentences - policy shipped as prompt text, discovered by users mid-task and clarified on X, with reverse-engineering refusals still unexplained.",
    "stories": [
-    "7531cf1b282d"
+    "7531cf1b282d",
+    "157df6b4c25c"
    ],
    "concepts": []
   },
@@ -198,7 +212,9 @@
    "intro": "Startups surgically unlearn censorship out of Chinese models for Western buyers, while DeepSeek publishes its Super-Agent prototype with honest disclaimers.",
    "stories": [
     "2c29439eb0cd",
-    "86e802f7f390"
+    "86e802f7f390",
+    "292feb8fb636",
+    "5338f9eb4bbd"
    ],
    "concepts": []
   },
@@ -220,10 +236,13 @@
   },
   {
    "title": "The research shelf",
-   "intro": "A hundred trained weights wake skills no prompt can reach, and humans& trains a tutor model against a simulated student.",
+   "intro": "MIT CSAIL shows GPT-6 Astra reading and writing neural weights natively - a 0.016% edit lifts Qwen3.5-0.8B's MATH-500 from 7.9% to 48.1%; a Tao-hosted essay asks what mathematical work is for once machines produce results; and grant agencies drown in AI-polished proposals, with ERC success rates below five percent.",
    "stories": [
     "127671828e96",
-    "67eee131511e"
+    "67eee131511e",
+    "ddce7a298d16",
+    "46f62edc2c9c",
+    "974b5e7c9d8b"
    ],
    "concepts": []
   },
@@ -237,9 +256,45 @@
   },
   {
    "title": "The hardware horizon",
-   "intro": "Apple is reportedly building a $1,000 tabletop robot for 2027-2028.",
+   "intro": "Apple is reportedly building a $1,000 tabletop robot for 2027-2028. OpenAI's Grid Protectors Program promises its future US campuses will curtail demand when the grid is strained - siting politics as energy policy.",
    "stories": [
-    "13c78ed3f75b"
+    "13c78ed3f75b",
+    "cb89a1505cb2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labor ledger",
+   "intro": "SUSE's CEO memo names automation and AI as the direct cause of a 10% cut - no restructuring euphemism. Bloomberg finds the jobless tech workers the SF boom is leaving behind, Laurie Voss proposes how to actually interview junior engineers for the post-programming job, and BI reports Anthropic's internal AI usage now costs more than its people.",
+   "stories": [
+    "7ba9521efd49",
+    "6a4d3609e985",
+    "1abf196b9596",
+    "3396a4c986f3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Supply-chain security",
+   "intro": "Hacktron's AI pentest agent found a backtick email address that led to root on GNU Savannah and a confirmed path to push commits to upstream Bash as its maintainer - the xz scenario, found in days against volunteer-run infrastructure. The FSF fixed all 26 reported vulnerabilities.",
+   "stories": [
+    "9d7cc62bca2d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The charm offensive",
+   "intro": "NYMag profiles Charles Porch, the ex-Instagram fixer Sam Altman hired to make OpenAI lovable in Hollywood - where endorsing AI is now 'the biggest third-rail issue.' The Paltrow dinner saga shows how much harder the room has become.",
+   "stories": [
+    "13325d0c69f9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The backlash",
+   "intro": "Ketan Joshi dissects a Microsoft Copilot ad in which 'Kyle' copies a praised colleague's work and takes the credit - and calls it the most honest piece of AI marketing ever made: the product truth is appropriation, sold with a smile.",
+   "stories": [
+    "aa52b1bd0b00"
    ],
    "concepts": []
   }

@@ -1,0 +1,14 @@
+{
+ "id": "b8368451d495",
+ "authored_at": "2026-11-02T21:05:47Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Launch HN for Momentic (YC W24): QA agents that autonomously plan, explore and bug-bash user flows across web, iOS, Android and soon desktop apps. The pitch is agents that catch bugs by actually using your app - the cached example shows a login routing change on a feature branch silently bypassing a new-device 2FA prompt, caught before merge. Another entry in the fast-crowding agentic QA category."
+ ],
+ "highlights": [
+  "Momentic (YC W24): QA agents that explore web/mobile apps and catch bugs autonomously",
+  "Example catch: a feature-branch routing change that silently skipped new-device 2FA"
+ ],
+ "basis": "Cache status: thin (202 chars; only a marketing case-study fragment was retrievable). Summary written from the launch post and feed metadata."
+}
