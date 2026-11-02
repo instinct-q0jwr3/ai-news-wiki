@@ -1,0 +1,15 @@
+{
+ "id": "278fcdd1f8a2",
+ "authored_at": "2026-11-02T09:01:15Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Casap, a startup automating dispute and anti-fraud operations for banks, has raised a $56 million Series B led by Base10 Partners - $90 million total since 2023, with Synchrony and Experian joining as strategic investors. The timing story is the shift in who commits card fraud: third-party scammers used to account for nearly all of it, but cardholders themselves now drive almost a third of fraudulent transactions, helped by AI tools that make disputing charges easy and social-media groups trading 'free stuff' playbooks. CEO Shanthi Shanmugam describes customers telling what they think are white lies on the theory that banks can afford it.\n\nThe structural problem sits in consumer protection law: dispute rules 'are written in a way that almost assumes that no one lies,' so banks face a high burden to reject dishonest claims - and many simply auto-resolve anything under about $30, sometimes far more, rather than pay for an investigation. Casap's answer is an AI suite trained on large models with a harness built specifically for dispute resolution, which the company says has changed that cost calculation and produced notable savings for card issuers.",
+ "highlights": [
+  "Casap raises a $56M Series B led by Base10; $90M total, Synchrony and Experian as strategic investors",
+  "First-party fraud shift: cardholders now drive nearly a third of fraudulent transactions",
+  "Drivers: AI dispute tools and social-media groups sharing 'free stuff' tactics",
+  "Dispute rules assume honesty - banks often auto-refund under ~$30 rather than investigate",
+  "Casap: large models plus a purpose-built dispute-resolution harness",
+  "Claims significant cost savings for card issuers"
+ ]
+}

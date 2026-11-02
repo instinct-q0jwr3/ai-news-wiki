@@ -1,77 +1,83 @@
 {
- "generated_at": "2026-11-02T02:59:16+00:00",
+ "generated_at": "2026-11-02T09:00:05+00:00",
  "stories": [
   {
-   "id": "faf247bfb72a",
-   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "id": "ead41b586a19",
+   "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
    "source": "Hacker News",
-   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
   },
   {
-   "id": "aa7bb66cf0fe",
-   "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+   "id": "60d5a169cf02",
+   "title": "Postmortem on Claude Code Cursor extension hack",
    "source": "Hacker News",
-   "url": "https://picon.dev/en/publications/ai-assisted-engineering/"
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/"
   },
   {
-   "id": "7dbb2995884e",
-   "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+   "id": "1c0051eb03b2",
+   "title": "Proton's AI manifesto for software engineering",
    "source": "Hacker News",
-   "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/"
+   "url": "https://proton.me/blog/ai-manifesto"
   },
   {
-   "id": "a05dff729c27",
-   "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-   "source": "Hacker News",
-   "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
-  },
-  {
-   "id": "7634f1363ae4",
-   "title": "In LLM era, can software startup survive?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50331001"
-  },
-  {
-   "id": "72c9301afcb1",
-   "title": "Letter: the White House argues it doesn't have to share the full draft of its voluntary AI testing framework, citing national security and commercial exemptions",
+   "id": "1652347626b8",
+   "title": "NAND maker Kioxia's shares fell up to 15% on Monday after its cautious Q3 outlook disappointed investors, raising concerns that AI-driven growth may be slowing",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off"
   },
   {
-   "id": "5d1b568a1b04",
-   "title": "Postgres 19 is late, and it's AI's fault",
-   "source": "Lobsters",
-   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-  },
-  {
-   "id": "ad5785ff4e83",
-   "title": "Broccoli AI, which sells AI agents to plumbing, HVAC, and electrical companies, raised a $22M Series A and a $30M Series B; a source says it is valued at $300M",
+   "id": "a45f1b503c00",
+   "title": "SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/"
+   "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities"
   },
   {
-   "id": "5de3a036a9be",
-   "title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\"",
+   "id": "e7ef3b491c92",
+   "title": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy"
+   "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02/"
   },
   {
-   "id": "d9a1a7328379",
-   "title": "Hyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan's Walden Catalyst; it has raised $50M to date",
+   "id": "0e5f35da1884",
+   "title": "Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10"
+   "url": "https://www.axios.com/pro/health-tech-deals/2026/10/29/midstream-health-20m-revenue-recovery"
   },
   {
-   "id": "22999d18f5e0",
-   "title": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51%",
+   "id": "16536e8ce1cb",
+   "title": "AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures",
    "source": "Techmeme",
-   "url": "https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b/"
+   "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine"
   },
   {
-   "id": "fbcb787c3af0",
-   "title": "Data analytics provider Hex Technologies, which says it has rebuilt its platform for AI agents, raised a $100M Series D led by Peak XV at a $1.2B valuation",
+   "id": "278fcdd1f8a2",
+   "title": "Casap, whose AI tools automate dispute and anti-fraud operations for banks, raised a $56M Series B led by Base10 Partners, bringing its total funding to $90M",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/"
+   "url": "https://fortune.com/2026/10/28/dd/"
+  },
+  {
+   "id": "c28b582a6ba5",
+   "title": "Pluralistic: Autodoxing (02 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/02/agony-verification/"
+  },
+  {
+   "id": "feaf536b4e18",
+   "title": "YC details multi-agent tests in games like Minecraft, where agents exhibit emergent capabilities, forming roles, hierarchies, and complex coordination patterns",
+   "source": "Techmeme",
+   "url": "https://labs.ycombinator.com/"
+  },
+  {
+   "id": "6d8bb453aa60",
+   "title": "How SF's AI boom is reshaping dating: founders treat first dates as interviews, use tech terms like \"conversion rate\" to track dates, and pay coaches $5K/month",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&smid=url-share"
+  },
+  {
+   "id": "60bb232052fc",
+   "title": "Bites, whose AI tools deliver personalized training to frontline workers via WhatsApp, SMS, Slack, and other channels, raised a $40M Series A led by PeakSpan",
+   "source": "Techmeme",
+   "url": "https://www.calcalistech.com/ctechnews/article/s1t5soetmx"
   }
  ]
 }

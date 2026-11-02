@@ -1,0 +1,15 @@
+{
+ "id": "ead41b586a19",
+ "authored_at": "2026-11-02T09:01:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note: the Cloud Security Alliance research note covers China's first frontier-AI export controls - Mofcom Announcement No. 48 - extending the export-control frame to frontier AI capabilities. The page fetch failed, so only the headline and framing are verified; the scope of the controls (which capabilities, which destinations, licensing terms) is not."
+ ],
+ "highlights": [
+  "China issues its first frontier-AI export controls (Mofcom Announcement No. 48), per CSA",
+  "Export-control logic now applied to frontier AI capabilities, mirroring US practice",
+  "Fetch failed; scope and licensing terms unverified"
+ ],
+ "basis": "Hacker News listing title; raw/cache/sources/ead41b586a19.json status=error."
+}

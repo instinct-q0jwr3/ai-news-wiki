@@ -7,9 +7,10 @@
  "sections": [
   {
    "title": "The payoff question",
-   "intro": "Apollo's chief economist counts the S&P 493's margins and finds AI has paid corporate America outside tech exactly nothing so far.",
+   "intro": "Apollo's chief economist counts the S&P 493's margins and finds AI has paid corporate America outside tech exactly nothing - and Kioxia's 15% drop shows how jumpy the demand story has become.",
    "stories": [
-    "faf247bfb72a"
+    "faf247bfb72a",
+    "1652347626b8"
    ],
    "concepts": []
   },
@@ -54,6 +55,81 @@
    "intro": "Axios: OpenAI readies a post-midterms push for mandatory AI 'speed limits' and a friendlier name for its data centers.",
    "stories": [
     "5de3a036a9be"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Measuring the frontier",
+   "intro": "SemiAnalysis launches GDPx: eleven high-ROI domains, safety classifiers and all - and the best model on Earth scores 12%.",
+   "stories": [
+    "a45f1b503c00"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The bill for the troves",
+   "intro": "Doctorow's 'Autodoxing': twenty-five years of surveillance policy was foreseen, and AI-era identification is collecting on it.",
+   "stories": [
+    "c28b582a6ba5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The verticals collect",
+   "intro": "Vera Health banks $28.5M for evidence-first clinical search, Midstream $20M for hospital revenue recovery, Casap $56M for dispute automation, and Bites $40M for frontline training.",
+   "stories": [
+    "16536e8ce1cb",
+    "0e5f35da1884",
+    "278fcdd1f8a2",
+    "60bb232052fc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The manifesto itself",
+   "intro": "Proton publishes the AI engineering manifesto behind the week's 'loser thinking' storm - the reactions are in yesterday's digest.",
+   "stories": [
+    "1c0051eb03b2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The intrusion post-mortem",
+   "intro": "Microsoft traces a malicious Claude Code Cursor-extension incident from Teams impersonation to certificate-services abuse.",
+   "stories": [
+    "60d5a169cf02"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Export controls, mirrored",
+   "intro": "China issues its first frontier-AI export controls - Mofcom Announcement No. 48 answers the American playbook.",
+   "stories": [
+    "ead41b586a19"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Seoul doubles down",
+   "intro": "President Lee vows $15.97B for AI, chips and data centers in the 2027 budget, nearly twice this year's amount.",
+   "stories": [
+    "e7ef3b491c92"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Dating in the boom",
+   "intro": "The NYT finds SF founders running first dates like interviews and tracking conversion rates.",
+   "stories": [
+    "6d8bb453aa60"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The swarm papers",
+   "intro": "YC Labs publishes the multi-agent experiments behind yesterday's Minecraft story: emergent roles, hierarchies and coordination.",
+   "stories": [
+    "feaf536b4e18"
    ],
    "concepts": []
   }

@@ -1,0 +1,15 @@
+{
+ "id": "e7ef3b491c92",
+ "authored_at": "2026-11-02T09:01:30Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Reuters reports that South Korean President Lee Jae Myung has vowed 15.97 billion dollars for AI, chips, physical AI and data centers in the country's 2027 budget - nearly double the 2026 amount. The source is error-cached, so the budget breakdown and timeline beyond the headline are unverified."
+ ],
+ "highlights": [
+  "South Korea's Lee vows $15.97B for AI, chips, physical AI and data centers in the 2027 budget",
+  "Nearly double the 2026 amount, per Reuters",
+  "Error-cached source; breakdown unverified"
+ ],
+ "basis": "Techmeme feed summary of the Reuters piece; raw/cache/sources/e7ef3b491c92.json status=error."
+}

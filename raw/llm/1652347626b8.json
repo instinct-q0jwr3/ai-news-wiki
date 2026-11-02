@@ -1,0 +1,16 @@
+{
+ "id": "1652347626b8",
+ "authored_at": "2026-11-02T09:01:30Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Bloomberg reports that NAND maker Kioxia's shares fell as much as 15 percent on Monday - their steepest drop in three months - after a cautious Q3 outlook disappointed investors, reviving worries that AI-driven memory demand growth may be slowing. The source is paywalled, so the outlook specifics are unverified. Noted alongside Musk's remark, in the Kratsios profile, that Micron's 87 percent gross margin is a supply-chain shock - the memory trade is moving on fine margins of sentiment in both directions."
+ ],
+ "highlights": [
+  "Kioxia shares drop up to 15% on a cautious Q3 outlook, per Bloomberg",
+  "Stokes fears that AI-driven memory demand growth is slowing",
+  "Contrast: Micron's 87% gross margin cited days earlier as a historic supply shock",
+  "Paywalled; outlook specifics unverified"
+ ],
+ "basis": "Techmeme feed summary of the Bloomberg piece; raw/cache/sources/1652347626b8.json status=error (paywall)."
+}

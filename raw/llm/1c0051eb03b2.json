@@ -1,0 +1,15 @@
+{
+ "id": "1c0051eb03b2",
+ "authored_at": "2026-11-02T09:01:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note: Proton has published its 'AI manifesto for software engineering' - the document behind the week's controversy, in which CEO Andy Yen's language ('loser thinking' for a pentest request) drew fire from Troy Hunt and a widely shared raed.dev essay. The page fetch failed, so the manifesto's actual text is unverified here; the reaction pieces are summarized separately in today's and yesterday's digests."
+ ],
+ "highlights": [
+  "Proton publishes its AI manifesto for software engineering - the text behind the controversy",
+  "Context: the CEO's 'loser thinking' reply to a pentest request drew the backlash",
+  "Fetch failed; manifesto text unverified, reactions covered separately"
+ ],
+ "basis": "Hacker News listing title; raw/cache/sources/1c0051eb03b2.json status=error. Reactions: raw/llm/f4263f79b9a8.json."
+}

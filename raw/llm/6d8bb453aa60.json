@@ -1,0 +1,15 @@
+{
+ "id": "6d8bb453aa60",
+ "authored_at": "2026-11-02T09:01:30Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: the New York Times (Emmy Martin) reports on how San Francisco's AI boom is reshaping dating - founders treating first dates as interviews, tracking 'conversion rates,' and paying dating coaches $5,000 a month, as the boom draws a wave of young, ambitious, mostly male newcomers to the city. The source is paywalled, so the reporting beyond the synopsis is unverified."
+ ],
+ "highlights": [
+  "NYT: SF's AI boom is reshaping dating culture",
+  "First dates as interviews, 'conversion rate' tracking, $5K/month dating coaches",
+  "Paywalled; details beyond the synopsis unverified"
+ ],
+ "basis": "Techmeme feed summary of the NYT piece (Emmy Martin); raw/cache/sources/6d8bb453aa60.json status=error (paywall)."
+}

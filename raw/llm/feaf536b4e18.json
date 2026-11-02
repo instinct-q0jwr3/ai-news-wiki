@@ -1,0 +1,15 @@
+{
+ "id": "feaf536b4e18",
+ "authored_at": "2026-11-02T09:01:30Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: YC Labs details its multi-agent game experiments - Minecraft and other environments - where agent swarms exhibited emergent roles, hierarchies and coordination patterns. This is the research behind the Tom's Hardware Minecraft story covered yesterday (Civ50's bureaucratic drift, the 6-1 Mindustry result); the page fetch failed, so only the listing-level description is verified here."
+ ],
+ "highlights": [
+  "YC Labs publishes its multi-agent game experiments: emergent roles, hierarchies, coordination",
+  "The research behind yesterday's Minecraft Civ50 story",
+  "Fetch failed; detail beyond the listing unverified"
+ ],
+ "basis": "Techmeme feed summary of the YC Labs post; raw/cache/sources/feaf536b4e18.json status=error. Related: raw/llm/36fd4612bc28.json."
+}

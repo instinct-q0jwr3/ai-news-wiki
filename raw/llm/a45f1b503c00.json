@@ -1,0 +1,16 @@
+{
+ "id": "a45f1b503c00",
+ "authored_at": "2026-11-02T09:01:15Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "SemiAnalysis has built GDPx on a deliberately unfashionable premise: the first trillion dollars of AI revenue will concentrate in sectors that can deploy frontier intelligence at high ROI, so a benchmark weighted by GDP share or occupational taxonomies measures the wrong thing. Their alternative spans eleven chosen domains - chip design, cybersecurity, biology, finance, legal, quant trading, recursive self-improvement, hardware design, materials science, alignment and software engineering - while deliberately skipping government, real estate and insurance. It is brutal by design: the best model in the world scores 12 percent.\n\nThe rankings come with caveats the authors consider features. Opus 5.5 and GPT-6 Astra lose points to their own safety classifiers; excluding cyber, bio and alignment reshuffles the board. Overall, Opus 5.5 is the best all-rounder (winning quant trading, hardware and chip design), Gemini 4 Carbon is Google's real step up - best in bio, edging software engineering, the only model in Opus/Astra's ballpark - and Astra wins RSI and materials science convincingly. Finance and legal tasks are so hard that essentially every model scores zero. On the cost-performance Pareto, Luna and DeepSeek fight the low end, OpenAI holds the middle, Opus takes the high end. One underrated practical note: safety classifiers should drive model choice per use case - Muse Wonder Full, they say, is meaningfully the best cyber model available.",
+ "highlights": [
+  "SemiAnalysis launches GDPx: 11 high-ROI domains, best model scores just 12%",
+  "Premise: the first trillion of AI revenue concentrates where frontier intelligence pays, so skip GDP-weighted benchmarks",
+  "Opus 5.5 best all-around (quant trading, hardware, chip design); GPT-6 Astra wins RSI and materials",
+  "Gemini 4 Carbon: Google's real improvement - best bio, edges software engineering, only model near the top two",
+  "Safety classifiers cost Opus and Astra points in cyber, bio and alignment - and should drive per-use-case model choice",
+  "Finance and legal so hard that nearly every model scores zero",
+  "Pareto: Luna and DeepSeek low end, OpenAI middle, Opus high end"
+ ]
+}
