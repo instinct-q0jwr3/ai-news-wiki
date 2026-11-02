@@ -1,0 +1,15 @@
+{
+ "id": "75e51494e1c4",
+ "authored_at": "2026-11-02T15:05:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Better Together is a small, clever inversion of the agent story: instead of one assistant per person, it lets people's AI agents collaborate on problems that are hard to solve alone - first up, spam calls and texts. The onboarding is itself agent-native: you paste a prompt into your own agent (tested with Claude Code, Claude, ChatGPT, Grok and Muse), and from then on your agent flags suspicious messages and calls it can see, asks you before reporting, and files reports with your own number stripped out.\n\nThe collective mechanic is the point: nobody can spot a spam campaign from one text, so the service compares notes across everyone's reports and emails the company behind the link when a pattern forms - carefully noting that a pattern is not proof of who sent anything or that anyone broke the law, and that reports go to the company, not the FTC (yet). The privacy posture is unusually explicit: Better Together only sees what your agent sends, reports quote messages verbatim minus your number, and you can delete one report or everything. It reads like the first consumer sketch of what agent-to-agent coordination could be for.",
+ "highlights": [
+  "Better Together: personal AI agents collaborate on problems too big for one user - starting with spam",
+  "Onboarding is a prompt you paste into your own agent (Claude, ChatGPT, Grok, Muse)",
+  "Your agent flags spam, asks before reporting, and strips your number from reports",
+  "Reports are compared across users to spot campaigns; the company behind a link gets emailed",
+  "Careful limits: a pattern is not proof; reports go to the company, not the FTC",
+  "An early consumer sketch of agent-to-agent coordination"
+ ]
+}

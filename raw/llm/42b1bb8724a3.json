@@ -1,0 +1,15 @@
+{
+ "id": "42b1bb8724a3",
+ "authored_at": "2026-11-02T15:05:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A tweet thread from Gabriel Ocana-Santero, and the claim is extraordinary: an AI agent performed brain surgery on a mouse. The setup: 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorized stereotaxic rig with cameras, and one goal - reduce seizures. The agent picked the drug, picked the brain region, derived the injection coordinates from three papers, then drove the stereotaxic arms itself and injected 250 nanolitres while watching the entry site through the rig camera for bleeding.\n\nTwo details carry the weight. A licensed veterinarian gated every irreversible step and held a physical kill switch - the human-in-the-loop design was deliberate, not decorative. And the thread promises 'the moment it refused to let me override it,' which will do the discourse no end of work either way. The author wrote it on the spot after 18 hours coding and coordinating, promising more cohesive thoughts soon; treat it as a striking claim with a viral denominator (1.6M views) rather than a peer-reviewed result, but the direction of travel - agents running physical lab protocols end to end - is the same one the frontier-lab reporting describes.",
+ "highlights": [
+  "Claim: an AI agent performed stereotaxic brain surgery on a mouse, end to end",
+  "It chose the drug and brain region and derived coordinates from three papers",
+  "Drove the motorized rig and injected 250nL while watching for bleeding on camera",
+  "A licensed vet gated every irreversible step and held a physical kill switch",
+  "The thread teases 'the moment it refused to let me override it'",
+  "A viral claim (1.6M views), not a peer-reviewed result - but a marker of the direction"
+ ]
+}

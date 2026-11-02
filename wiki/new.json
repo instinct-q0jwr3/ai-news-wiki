@@ -1,83 +1,167 @@
 {
- "generated_at": "2026-11-02T09:00:05+00:00",
+ "generated_at": "2026-11-02T15:01:00+00:00",
  "stories": [
   {
-   "id": "ead41b586a19",
-   "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+   "id": "42b1bb8724a3",
+   "title": "Last night an AI agent performed brain surgery on a mouse",
    "source": "Hacker News",
-   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
+   "url": "https://twitter.com/OcanaSantero/status/2115442964574908902"
   },
   {
-   "id": "60d5a169cf02",
-   "title": "Postmortem on Claude Code Cursor extension hack",
+   "id": "75e51494e1c4",
+   "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
    "source": "Hacker News",
-   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/"
+   "url": "https://better-together.fun/"
   },
   {
-   "id": "1c0051eb03b2",
-   "title": "Proton's AI manifesto for software engineering",
+   "id": "86e802f7f390",
+   "title": "dsh-superagent",
+   "source": "TLDR AI",
+   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+  },
+  {
+   "id": "013fafe6fcc3",
+   "title": "Inside the Frontier Labs: The First AGI Organizations",
+   "source": "TLDR AI",
+   "url": "https://x.com/hannahhaina/status/2116182129403166876"
+  },
+  {
+   "id": "f4d6bb4452e1",
+   "title": "S-1: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a net loss of $23.3B, up from $12.1B in Q3 2025, and operating expenses up 292% to $17.5B",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo"
+  },
+  {
+   "id": "1bf149fe3df4",
+   "title": "First response from the Project Suncatcher prototype satellite",
    "source": "Hacker News",
-   "url": "https://proton.me/blog/ai-manifesto"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
   },
   {
-   "id": "1652347626b8",
-   "title": "NAND maker Kioxia's shares fell up to 15% on Monday after its cautious Q3 outlook disappointed investors, raising concerns that AI-driven growth may be slowing",
+   "id": "67eee131511e",
+   "title": "Introducing &Tutor",
+   "source": "TLDR AI",
+   "url": "https://tutor.humansand.ai/blog/"
+  },
+  {
+   "id": "7531cf1b282d",
+   "title": "Supporting a shared AI training control for websites",
+   "source": "TLDR AI",
+   "url": "https://developers.google.com/search/blog/2026/10/ai-training-control"
+  },
+  {
+   "id": "7260e1986180",
+   "title": "DoorDash said it's only received 'several hundred' orders from AI agents",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+  },
+  {
+   "id": "f72e070c5556",
+   "title": "Anthropic prepares to release Claude Mythos 5.5 model",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/"
+  },
+  {
+   "id": "9f38462e77c2",
+   "title": "Reading Anthropic's S-1",
+   "source": "TLDR AI",
+   "url": "https://www.tilomitra.com/blog/anthropic-s1-in-charts"
+  },
+  {
+   "id": "a1f670e25734",
+   "title": "Building a gemini server in python",
+   "source": "Lobsters",
+   "url": "https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html"
+  },
+  {
+   "id": "127671828e96",
+   "title": "Unlocking hidden skills inside Google's model",
+   "source": "TLDR AI",
+   "url": "https://dejan.ai/blog/latent-skills/"
+  },
+  {
+   "id": "f0d18655c4ac",
+   "title": "The U.S. Census Bureau and “Super Intelligence”",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
+  },
+  {
+   "id": "2c29439eb0cd",
+   "title": "Hirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off"
+   "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/"
   },
   {
-   "id": "a45f1b503c00",
-   "title": "SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score",
+   "id": "cdcaadaabf87",
+   "title": "Pray for Chaos",
+   "source": "geohot",
+   "url": "https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html"
+  },
+  {
+   "id": "7b658da57a6c",
+   "title": "There is no single AI adoption rate",
+   "source": "TLDR AI",
+   "url": "https://www.stateof.ai/ai-adoption"
+  },
+  {
+   "id": "6a715f9ad450",
+   "title": "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits",
    "source": "Techmeme",
-   "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities"
+   "url": "https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/"
   },
   {
-   "id": "e7ef3b491c92",
-   "title": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount",
+   "id": "34e60e958417",
+   "title": "A look at AI safety debates and the rising popularity of \"Stop Unilaterally + Raise Awareness\", or SURA; safety-focused AI labs shouldn't abandon the AI race",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02/"
+   "url": "https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura"
   },
   {
-   "id": "0e5f35da1884",
-   "title": "Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius",
+   "id": "02fc983db8f7",
+   "title": "GPT-Rosalind-6 System Card Addendum",
+   "source": "TLDR AI",
+   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6"
+  },
+  {
+   "id": "94ceb01449d4",
+   "title": "Poisoning 0.1% of pretraining data planted a remote-code backdoor in a coding agent",
+   "source": "TLDR AI",
+   "url": "https://arxiv.org/abs/2610.37741"
+  },
+  {
+   "id": "259662aa6046",
+   "title": "Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026",
    "source": "Techmeme",
-   "url": "https://www.axios.com/pro/health-tech-deals/2026/10/29/midstream-health-20m-revenue-recovery"
+   "url": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/"
   },
   {
-   "id": "16536e8ce1cb",
-   "title": "AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures",
+   "id": "13c78ed3f75b",
+   "title": "Apple is developing a tabletop robot with a 9\" screen and a swiveling arm, set for release in 2027 or 2028 for ~$1,000, as John Ternus pushes robotics",
    "source": "Techmeme",
-   "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine"
+   "url": "https://www.theinformation.com/articles/inside-apples-slog-create-first-robot"
   },
   {
-   "id": "278fcdd1f8a2",
-   "title": "Casap, whose AI tools automate dispute and anti-fraud operations for banks, raised a $56M Series B led by Base10 Partners, bringing its total funding to $90M",
+   "id": "9222b3af7a54",
+   "title": "Red-teamers found 11 ways for a misaligned agent to slip past Codex's Auto-review",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1"
+  },
+  {
+   "id": "1110dc70dd8f",
+   "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/10/28/dd/"
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
   },
   {
-   "id": "c28b582a6ba5",
-   "title": "Pluralistic: Autodoxing (02 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/02/agony-verification/"
-  },
-  {
-   "id": "feaf536b4e18",
-   "title": "YC details multi-agent tests in games like Minecraft, where agents exhibit emergent capabilities, forming roles, hierarchies, and complex coordination patterns",
+   "id": "8e7e4c147d4a",
+   "title": "Investigation: a network of 400+ domains and apps linked to Chinese-language developers bypasses app store reviews to generate nonconsensual deepfakes and CSAM",
    "source": "Techmeme",
-   "url": "https://labs.ycombinator.com/"
+   "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
   },
   {
-   "id": "6d8bb453aa60",
-   "title": "How SF's AI boom is reshaping dating: founders treat first dates as interviews, use tech terms like \"conversion rate\" to track dates, and pay coaches $5K/month",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html?unlocked_article_code=1.NFE.wr2v.F_Wy3TSgmnjB&smid=url-share"
-  },
-  {
-   "id": "60bb232052fc",
-   "title": "Bites, whose AI tools deliver personalized training to frontline workers via WhatsApp, SMS, Slack, and other channels, raised a $40M Series A led by PeakSpan",
-   "source": "Techmeme",
-   "url": "https://www.calcalistech.com/ctechnews/article/s1t5soetmx"
+   "id": "ca421d42a878",
+   "title": "Find Hidden Misalignment in Training Data",
+   "source": "TLDR AI",
+   "url": "https://alignment.anthropic.com/2026/automated-em-search/"
   }
  ]
 }

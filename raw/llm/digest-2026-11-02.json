@@ -25,20 +25,22 @@
   },
   {
    "title": "The workbench",
-   "intro": "One developer's confession: he turned ordinary ChatGPT chats into a multi-agent dev shop over MCP, and OpenAI's usage merger is closing the loophole.",
+   "intro": "One developer's MCP-harness confession, plus a trip off the main web entirely: building a Gemini server in Python, where pages still cost effort.",
    "stories": [
-    "7dbb2995884e"
+    "7dbb2995884e",
+    "a1f670e25734"
    ],
    "concepts": []
   },
   {
    "title": "The money keeps moving",
-   "intro": "Aramco takes 49% of Humain for $2.6B, Broccoli AI banks $52M for answering plumbers' phones, Hex raises $100M for an agent-ready rebuild, and Hyperbolic adds $30M for neocloud compute.",
+   "intro": "Aramco takes 49% of Humain for $2.6B, Broccoli AI banks $52M, Hex raises $100M, Hyperbolic adds $30M - and Marvell buys Lumentum for $115B of stock to chase Broadcom in optics.",
    "stories": [
     "22999d18f5e0",
     "ad5785ff4e83",
     "fbcb787c3af0",
-    "d9a1a7328379"
+    "d9a1a7328379",
+    "259662aa6046"
    ],
    "concepts": []
   },
@@ -130,6 +132,114 @@
    "intro": "YC Labs publishes the multi-agent experiments behind yesterday's Minecraft story: emergent roles, hierarchies and coordination.",
    "stories": [
     "feaf536b4e18"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents do the work",
+   "intro": "An agent drives stereotaxic arms for mouse brain surgery under a vet's kill switch, Better Together lets personal agents gang up on spam, and inside the frontier labs the agent workdays already outnumber the human ones.",
+   "stories": [
+    "42b1bb8724a3",
+    "75e51494e1c4",
+    "013fafe6fcc3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The alignment desk",
+   "intro": "Anthropic shows training data can be crafted to slip past production monitors, a poisoning paper plants an RCE backdoor with 0.1% of pretraining data, red-teamers find 11 ways around Codex's Auto-review, and Scott Alexander argues SURA has it wrong.",
+   "stories": [
+    "ca421d42a878",
+    "94ceb01449d4",
+    "9222b3af7a54",
+    "34e60e958417"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The adoption question",
+   "intro": "The Census Bureau now asks about 'Super Intelligence,' and State of AI reminds everyone there is no single adoption rate to argue about.",
+   "stories": [
+    "f0d18655c4ac",
+    "7b658da57a6c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's S-1",
+   "intro": "Q3 revenue near $17B, up 12x in a year, with the first profitable quarter in Q2 - and a headline loss that is mostly accounting.",
+   "stories": [
+    "f4d6bb4452e1",
+    "9f38462e77c2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labs' week",
+   "intro": "Mythos 5.5 leaks through Anthropic's own HTML, OpenAI merges Chat and Work (and the token pools), Rosalind-6 gets a trusted-access bio tier, and Musk calls Grok Bot unsustainably expensive.",
+   "stories": [
+    "f72e070c5556",
+    "1110dc70dd8f",
+    "02fc983db8f7",
+    "6a715f9ad450"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rules of the road",
+   "intro": "Google backs a shared robots.txt policy token so sites can state training preferences once, across providers.",
+   "stories": [
+    "7531cf1b282d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The open-weight question",
+   "intro": "Startups surgically unlearn censorship out of Chinese models for Western buyers, while DeepSeek publishes its Super-Agent prototype with honest disclaimers.",
+   "stories": [
+    "2c29439eb0cd",
+    "86e802f7f390"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The abuse economy",
+   "intro": "WIRED finds a 400-domain network of mundane-looking apps that flip into deepfake generators, running on Apple, Google and Meta at once.",
+   "stories": [
+    "8e7e4c147d4a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent shopper, measured",
+   "intro": "DoorDash counts the agent-commerce revolution so far: several hundred orders, against 3 million deliveries a day.",
+   "stories": [
+    "7260e1986180"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The research shelf",
+   "intro": "A hundred trained weights wake skills no prompt can reach, and humans& trains a tutor model against a simulated student.",
+   "stories": [
+    "127671828e96",
+    "67eee131511e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Pray for chaos",
+   "intro": "geohot picks his apocalypse: chaos over order, because order is the cage.",
+   "stories": [
+    "cdcaadaabf87"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The hardware horizon",
+   "intro": "Apple is reportedly building a $1,000 tabletop robot for 2027-2028.",
+   "stories": [
+    "13c78ed3f75b"
    ],
    "concepts": []
   }

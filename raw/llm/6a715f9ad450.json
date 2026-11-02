@@ -1,0 +1,16 @@
+{
+ "id": "6a715f9ad450",
+ "authored_at": "2026-11-02T15:08:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Forbes (Siladitya Ray) reports that Elon Musk told complaining subscribers that the cost of serving Grok Bot was 'unsustainably high relative to revenue,' defending SpaceX's new usage limits. The source is error-cached, so the specifics of the limits and any pricing response are unverified here - but note the rhyme with OpenAI narrowing its own unlimited tier in the same cycle."
+ ],
+ "highlights": [
+  "Musk: serving Grok Bot was 'unsustainably high relative to revenue,' per Forbes",
+  "Usage limits defended to complaining subscribers",
+  "Same-cycle pattern: OpenAI narrowing unlimited chat, xAI capping Grok Bot",
+  "Error-cached source; specifics unverified"
+ ],
+ "basis": "Techmeme feed summary of the Forbes piece (Siladitya Ray); raw/cache/sources/6a715f9ad450.json status=error."
+}

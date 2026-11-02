@@ -1,0 +1,14 @@
+{
+ "id": "67eee131511e",
+ "authored_at": "2026-11-02T15:06:45Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Humans& has released Ampersand Tutor (&Tutor), a model trained to teach, available via API - and the training recipe is the interesting part: &Tutor learns by teaching against Persimmon, the company's large-scale user model, which plays the learner. It claims state of the art on TutorMoments, a benchmark built from real tutoring moments, and the company's thesis is on display: models understand people better by learning from long human interactions, and teaching is the sharpest case - you have to model what the learner knows and build on it.\n\nThe sample dialogue shows the target behavior: not answering, but eliciting - checking the student's conjecture (n = 10), celebrating the realization, then steering back to the original question with a hint about why it matters (cubes grow fast, and 10 sits between 8 and 27). A tutor model trained against a simulated learner is also a quiet milestone for synthetic-interaction training: the student in the loop is itself a model.",
+ "highlights": [
+  "humans& releases &Tutor, a model trained to teach, available via API",
+  "Trained against Persimmon, a large-scale user model playing the learner",
+  "Claims state of the art on TutorMoments, built from real tutoring moments",
+  "The behavior on show: elicit, check, celebrate, steer - not answer",
+  "Synthetic-interaction training milestone: the student in the loop is a model too"
+ ]
+}

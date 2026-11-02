@@ -1,0 +1,14 @@
+{
+ "id": "7b658da57a6c",
+ "authored_at": "2026-11-02T15:07:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "State of AI's methodological note starts with a blunt point: there is no single AI adoption rate, and the numbers people quote at each other are measuring different things. Start with the denominator - a global manager survey, a US spending-platform customer sample, and a representative US business survey describe different populations; their percentages cannot be averaged, and a gap between them is not evidence that one source is wrong. Then check what the measure can see: free tools leave no payment trace, paid seats can go unused, and one team's production deployment is not company-wide change.\n\nFinally, align period and question: a monthly payment measure and a two-week use measure are not interchangeable, and changes in wording, supplier coverage or sample can move a series without any behavior changing - exactly the break Simon Willison documented when the Census Bureau's AI question became a 'Super Intelligence' question. The note is the reference companion to the 2026 report's business analysis, and the right lens for this week's Slok-vs-adoption-chart argument: most disputes about the AI adoption rate are disputes about measurement wearing a policy costume.",
+ "highlights": [
+  "State of AI: there is no single AI adoption rate - sources measure different populations",
+  "Denominators differ: manager surveys, spending-platform samples, business surveys cannot be averaged",
+  "Measurement blind spots: free tools, unused seats, team-level vs company-wide use",
+  "Period and wording changes move series without behavior changing (see: the Census 'Super Intelligence' rewording)",
+  "Most adoption-rate arguments are measurement arguments in disguise"
+ ]
+}

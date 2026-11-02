@@ -1,0 +1,14 @@
+{
+ "id": "7260e1986180",
+ "authored_at": "2026-11-02T15:05:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "For all the noise about agents taking over commerce, DoorDash has a number: during its third-quarter earnings call, the company revealed it has seen 'several hundred' orders in total from third-party AI agents - against an average of 3 million deliveries a day. CEO Tony Xu's posture is neither denial nor hype: 'you never want to fight gravity. But at the same time, you don't want to be delusional.' Users still overwhelmingly order through the app.\n\nThe company is hedging constructively: it wants a healthy relationship with third-party agent makers, floats the idea of advertising inside agents someday, and has been shipping its own - a text-to-order agent in September, a CLI agent in July, the Ask DoorDash chatbot in June, and an MCP server for corporate ordering. The wider board is still being set: Amazon blocks personal agents while Walmart rolls out the red carpet, hoping to poach the agent-routed customer. The agent-commerce revolution, at least this quarter, is several hundred burritos wide.",
+ "highlights": [
+  "DoorDash: 'several hundred' total orders from third-party AI agents, vs 3M deliveries a day",
+  "CEO Tony Xu: never fight gravity, but don't be delusional - users still order in the app",
+  "DoorDash's own agents: text-to-order, a CLI agent, Ask DoorDash, and an MCP for corporate ordering",
+  "Open to advertising inside third-party agents someday",
+  "The split board: Amazon blocks agents, Walmart welcomes them"
+ ]
+}

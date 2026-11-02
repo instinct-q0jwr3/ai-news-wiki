@@ -1,0 +1,16 @@
+{
+ "id": "34e60e958417",
+ "authored_at": "2026-11-02T15:08:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Scott Alexander's latest on LessWrong surveys the AI safety debate's newest faction - SURA, 'Stop Unilaterally + Raise Awareness' - and argues that safety-focused labs should not unilaterally abandon the AI race. The piece draws on the AI Futures Project's taxonomy of national-strategy plans. The fetched page is a JavaScript data blob with no readable post body, so the argument's detail is unverified here."
+ ],
+ "highlights": [
+  "Scott Alexander on SURA: 'Stop Unilaterally + Raise Awareness' gains ground in safety debates",
+  "His position: safety-focused labs shouldn't abandon the race unilaterally",
+  "Builds on the AI Futures Project's plan taxonomy",
+  "Page fetch is JS junk; argument detail unverified"
+ ],
+ "basis": "Techmeme feed summary of the LessWrong post; raw/cache/sources/34e60e958417.json status=ok but body is a JSON data blob with no post text."
+}
