@@ -1,0 +1,16 @@
+{
+ "id": "d9a1a7328379",
+ "authored_at": "2026-11-02T03:01:44Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Short note from feed metadata only: Business Insider reports that Hyperbolic, which lets companies rent AI compute across roughly 30 neoclouds, has raised a $30 million Series A-1 led by Walden Catalyst - the firm of Intel CEO Lip-Bu Tan - bringing its total to $50 million. The page fetch came back thin, so only the feed-level figures are verified."
+ ],
+ "highlights": [
+  "Hyperbolic raises a $30M Series A-1 led by Lip-Bu Tan's Walden Catalyst; $50M to date",
+  "Product: renting AI compute aggregated across ~30 neoclouds",
+  "Intel's CEO personally backing compute-marketplace infrastructure",
+  "Thin fetch; figures from feed metadata only"
+ ],
+ "basis": "Techmeme feed summary of the Business Insider piece (Geoff Weiss); raw/cache/sources/d9a1a7328379.json status=thin (62 chars)."
+}

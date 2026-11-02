@@ -1,0 +1,61 @@
+{
+ "id": "digest-2026-11-02",
+ "date": "2026-11-02",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Apollo's Torsten Slok says AI has returned zero financial payoff outside tech, and the market's answer arrives the same morning: Aramco buys into Humain for $2.6B and three more rounds close. Meanwhile Postgres slips a release on LLM-found bugs, and fake AI wikis colonize the search results.",
+ "sections": [
+  {
+   "title": "The payoff question",
+   "intro": "Apollo's chief economist counts the S&P 493's margins and finds AI has paid corporate America outside tech exactly nothing so far.",
+   "stories": [
+    "faf247bfb72a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The discipline holds",
+   "intro": "An engineer's case for keeping decisions reviewable while agents implement, and Postgres 19 slipping because LLMs find bugs faster than committers can fix them.",
+   "stories": [
+    "aa7bb66cf0fe",
+    "5d1b568a1b04"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "One developer's confession: he turned ordinary ChatGPT chats into a multi-agent dev shop over MCP, and OpenAI's usage merger is closing the loophole.",
+   "stories": [
+    "7dbb2995884e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The money keeps moving",
+   "intro": "Aramco takes 49% of Humain for $2.6B, Broccoli AI banks $52M for answering plumbers' phones, Hex raises $100M for an agent-ready rebuild, and Hyperbolic adds $30M for neocloud compute.",
+   "stories": [
+    "22999d18f5e0",
+    "ad5785ff4e83",
+    "fbcb787c3af0",
+    "d9a1a7328379"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Slop in the search results",
+   "intro": "Eurogamer finds AI-generated fake wikis outranking real ones for indie games - invented companions, bounced contact addresses, and publishers playing whack-a-mole.",
+   "stories": [
+    "a05dff729c27"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The policy blitz",
+   "intro": "Axios: OpenAI readies a post-midterms push for mandatory AI 'speed limits' and a friendlier name for its data centers.",
+   "stories": [
+    "5de3a036a9be"
+   ],
+   "concepts": []
+  }
+ ]
+}

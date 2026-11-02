@@ -1,0 +1,15 @@
+{
+ "id": "5d1b568a1b04",
+ "authored_at": "2026-11-02T03:00:43Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "PostgreSQL's release train has been clockwork for a decade - mid-September to mid-October - and this year it will miss: version 19 most likely slips to November, possibly further, and three large features (UPDATE/DELETE FOR PORTION OF, SQL Property Graph Queries, ALTER TABLE ... MERGE/SPLIT PARTITION) were reverted unusually late in the beta. Robert Haas's short answer to what happened: LLMs happened. Postgres has always had plenty of bugs in thirty-odd years of code; what changed is that finding them became vastly easier, while fixing them got only somewhat easier.\n\nThe numbers make the case. Between feature freeze and late September, back-patched commits to the in-development stable branch jumped more than 60 percent year over year (724 to 1169) while master-branch commits slightly declined - and back-ports to the prior release jumped over 74 percent (248 to 433). Nobody on the project believes committers suddenly got sloppier; a huge number of people on the internet are now reporting LLM-found bugs, and the committers have been very, very busy fixing them. That flood explains both the late reverts and the delay: LLMs can draft fixes, but the fixes are not always correct or compliant with project conventions, so each report still costs senior reviewer time. The bug backlog of a 30-year-old codebase is being drained at machine speed, and the bottleneck is the humans who merge.",
+ "highlights": [
+  "Postgres 19 slips past its decade-long Sep-Oct window - probably November, maybe later",
+  "Three major features reverted late in beta, an unusual pattern",
+  "Back-patched commits up 60%+ YoY on the release branch, 74%+ on the prior release; master flat",
+  "Cause: the internet is reporting LLM-found bugs faster than committers can fix them",
+  "LLMs draft fixes, but fixes are often wrong or off-convention - reviewer time is the bottleneck",
+  "Haas's framing: finding bugs got vastly easier; fixing only somewhat easier"
+ ]
+}

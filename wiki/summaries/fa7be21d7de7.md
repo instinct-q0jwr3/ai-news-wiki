@@ -1,6 +1,6 @@
 # Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust
 
-_type: news-summary · created: 2026-11-01 · updated: 2026-11-01 · confidence: high_
+_type: news-summary · created: 2026-11-01 · updated: 2026-11-02 · confidence: high_
 
 `hacker-news` `ai-coding-agents`
 

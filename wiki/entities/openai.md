@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-01 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-02 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-02** - A developer confesses, tongue firmly in cheek, to being the reason OpenAI is killing unlimited ChatGPT chats. The trick: ChatGPT's support for custom MCP servers plus OpenAI's Secure MCP Tunnel let him expose tools running on his own machines - a Windows… ([I Am the Reason OpenAI Is Killing Unlimited Chats](../summaries/7dbb2995884e.md) · [OpenAI](../entities/openai.md))
+- **2026-11-02** - Short note from feed metadata only: Axios scoops that OpenAI plans a policy and PR blitz for right after Tuesday's midterms, pushing mandatory 'speed limits' for powerful AI systems and rebranding its data centers as 'AI compute campuses' - an effort to… ([OpenAI plans a post-midterms policy and PR blitz, pushing mandatory "speed limits" for powerful AI and rebranding its data centers as "AI compute campuses"](../summaries/5de3a036a9be.md) · [OpenAI](../entities/openai.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) ⚠
 - **2026-11-01** - Short note from the feed listing only: OpenAI is merging ChatGPT and Codex usage limits, per its own help-center article. The help page itself would not load (error), so the mechanics - whether pooled limits are more or less generous, and for which tiers -… ([ChatGPT and Codex usage limits merging](../summaries/f99c17eb2833.md) · [OpenAI](../entities/openai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠
 - **2026-11-01** - A one-beat tooling note from Simon Willison: datasette-llm 0.1a9 now picks up the default model configured in LLM, so Datasette Agent works out of the box - uvx --with datasette-agent datasette content.db --internal internal.db - without explicitly setting… ([datasette-llm 0.1a9](../summaries/452a4db8efa6.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-01** - Simon Willison's annotation of the Parameter Labs ChatGPT exploit is the clearest short version of the chain, and it completes details the original write-up's summary left out. The vulnerable feature is ChatGPT's artifacts pattern - now called HTML… ([How We Took Over ChatGPT Accounts](../summaries/2fdfb30964b6.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

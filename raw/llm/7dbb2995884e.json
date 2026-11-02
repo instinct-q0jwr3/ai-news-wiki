@@ -1,0 +1,15 @@
+{
+ "id": "7dbb2995884e",
+ "authored_at": "2026-11-02T03:00:43Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A developer confesses, tongue firmly in cheek, to being the reason OpenAI is killing unlimited ChatGPT chats. The trick: ChatGPT's support for custom MCP servers plus OpenAI's Secure MCP Tunnel let him expose tools running on his own machines - a Windows laptop and a VPS - directly to ordinary ChatGPT conversations. With a unified MCP gateway integrating a few open-source projects, plain chats gained most of Codex's practical abilities: inspect repositories, modify code, run commands, debug errors, visually verify changes - all without burning Codex limits or paying for API inference, on his existing subscription and hardware.\n\nThe workflow grew into ad-hoc multi-agent orchestration. Since chats cannot spawn sub-agents, he used a strong reasoning model to write a detailed implementation plan, had it break the plan into self-contained GitHub issues with context and acceptance criteria, then opened several parallel ChatGPT conversations - each on Sol 6 High, each assigned an issue, all sharing the same MCP server - and let them iterate until their task passed. He even extended the CUA integration so screenshots render inside the chat via a custom MCP App viewer. OpenAI's merger of ChatGPT and Codex usage closes the loophole; the post is both a eulogy and a blueprint.",
+ "highlights": [
+  "Author built a unified MCP server exposing his own machines' tools to regular ChatGPT chats",
+  "OpenAI's Secure MCP Tunnel bridged ChatGPT to his laptop - no custom cloud, no API inference costs",
+  "Result: ordinary chats did most of Codex's work - repo inspection, edits, commands, debugging, visual checks",
+  "Multi-agent workaround: planner model writes a plan, breaks it into GitHub issues, parallel chats each take one",
+  "Custom MCP App viewer renders screenshots inline in the conversation",
+  "OpenAI's usage merger kills the trick - the post is half confession, half blueprint"
+ ]
+}

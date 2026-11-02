@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Postgres 19 is late, and it&#x27;s AI&#x27;s fault · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793588606"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Postgres 19 is late, and it's AI's fault</h1>
+<p class="meta">type: news-summary · created: 2026-11-02 · updated: 2026-11-02 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>PostgreSQL's release train has been clockwork for a decade - mid-September to mid-October - and this year it will miss: version 19 most likely slips to November, possibly further, and three large features (UPDATE/DELETE FOR PORTION OF, SQL Property Graph Queries, ALTER TABLE ... MERGE/SPLIT PARTITION) were reverted unusually late in the beta. Robert Haas's short answer to what happened: LLMs happened. Postgres has always had plenty of bugs in thirty-odd years of code; what changed is that finding them became vastly easier, while fixing them got only somewhat easier.</p>
+<p>The numbers make the case. Between feature freeze and late September, back-patched commits to the in-development stable branch jumped more than 60 percent year over year (724 to 1169) while master-branch commits slightly declined - and back-ports to the prior release jumped over 74 percent (248 to 433). Nobody on the project believes committers suddenly got sloppier; a huge number of people on the internet are now reporting LLM-found bugs, and the committers have been very, very busy fixing them. That flood explains both the late reverts and the delay: LLMs can draft fixes, but the fixes are not always correct or compliant with project conventions, so each report still costs senior reviewer time. The bug backlog of a 30-year-old codebase is being drained at machine speed, and the bottleneck is the humans who merge.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Postgres 19 slips past its decade-long Sep-Oct window - probably November, maybe later</li>
+<li>Three major features reverted late in beta, an unusual pattern</li>
+<li>Back-patched commits up 60%+ YoY on the release branch, 74%+ on the prior release; master flat</li>
+<li>Cause: the internet is reporting LLM-found bugs faster than committers can fix them</li>
+<li>LLMs draft fixes, but fixes are often wrong or off-convention - reviewer time is the bottleneck</li>
+<li>Haas's framing: finding bugs got vastly easier; fixing only somewhat easier</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

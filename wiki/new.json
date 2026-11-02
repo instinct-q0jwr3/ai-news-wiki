@@ -1,65 +1,77 @@
 {
- "generated_at": "2026-11-01T20:58:25+00:00",
+ "generated_at": "2026-11-02T02:59:16+00:00",
  "stories": [
   {
-   "id": "e7d561424487",
-   "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+   "id": "faf247bfb72a",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
    "source": "Hacker News",
-   "url": "https://hackerbooks.org"
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
   },
   {
-   "id": "f4263f79b9a8",
-   "title": "It wasn't AI that flipped Proton's charge",
+   "id": "aa7bb66cf0fe",
+   "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
    "source": "Hacker News",
-   "url": "https://blog.raed.dev/posts/proton-loser-thinking/"
+   "url": "https://picon.dev/en/publications/ai-assisted-engineering/"
   },
   {
-   "id": "fa7be21d7de7",
-   "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+   "id": "7dbb2995884e",
+   "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
    "source": "Hacker News",
-   "url": "https://github.com/ivankovic/omnidiff"
+   "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/"
   },
   {
-   "id": "fef10396b9d0",
-   "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+   "id": "a05dff729c27",
+   "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
    "source": "Hacker News",
-   "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial"
+   "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
   },
   {
-   "id": "f9b818e35bf2",
-   "title": "Heretic 2.0 Released: Training-free language model modification",
+   "id": "7634f1363ae4",
+   "title": "In LLM era, can software startup survive?",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50328567"
+   "url": "https://news.ycombinator.com/item?id=50331001"
   },
   {
-   "id": "24076d30e555",
-   "title": "Are There Problems Beyond the Reach of AI [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=NWNbAEivyvs"
-  },
-  {
-   "id": "f03b3c3d6226",
-   "title": "An easy way to try local AI with braindead-local-intelligence",
-   "source": "Lobsters",
-   "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html"
-  },
-  {
-   "id": "96abbe4e6a17",
-   "title": "Quoting Kyle Kingsbury",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
-  },
-  {
-   "id": "085c38344df1",
-   "title": "[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser",
-   "source": "Daring Fireball",
-   "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
-  },
-  {
-   "id": "7bd653955833",
-   "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy",
+   "id": "72c9301afcb1",
+   "title": "Letter: the White House argues it doesn't have to share the full draft of its voluntary AI testing framework, citing national security and commercial exemptions",
    "source": "Techmeme",
-   "url": "https://colossus.com/article/michael-kratsios-office-frontier-ostp/"
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "5d1b568a1b04",
+   "title": "Postgres 19 is late, and it's AI's fault",
+   "source": "Lobsters",
+   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+  },
+  {
+   "id": "ad5785ff4e83",
+   "title": "Broccoli AI, which sells AI agents to plumbing, HVAC, and electrical companies, raised a $22M Series A and a $30M Series B; a source says it is valued at $300M",
+   "source": "Techmeme",
+   "url": "https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/"
+  },
+  {
+   "id": "5de3a036a9be",
+   "title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\"",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy"
+  },
+  {
+   "id": "d9a1a7328379",
+   "title": "Hyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan's Walden Catalyst; it has raised $50M to date",
+   "source": "Techmeme",
+   "url": "https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10"
+  },
+  {
+   "id": "22999d18f5e0",
+   "title": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51%",
+   "source": "Techmeme",
+   "url": "https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b/"
+  },
+  {
+   "id": "fbcb787c3af0",
+   "title": "Data analytics provider Hex Technologies, which says it has rebuilt its platform for AI agents, raised a $100M Series D led by Peak XV at a $1.2B valuation",
+   "source": "Techmeme",
+   "url": "https://www.forbes.com/sites/timkeary/2026/10/27/hex-threw-out-its-code-to-stop-the-saaspocalypse-raising-100-million/"
   }
  ]
 }
