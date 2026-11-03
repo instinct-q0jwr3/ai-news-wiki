@@ -1,0 +1,13 @@
+{
+ "id": "99c2dc799588",
+ "authored_at": "2026-11-03T03:05:02Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Trajectory, an 18-person startup founded a year ago by three Stanford classmates with Google DeepMind and Apple experience, has raised a $45 million Series A at a $300 million valuation, led by Sequoia with Nvidia, Bessemer and Bain Capital Ventures participating. The thesis: today's models don't learn from their mistakes without retraining, so businesses either fine-tune in-house or hire expensive forward-deployed engineers. Trajectory wants to automate that loop.\n\nThe platform connects to a customer's applications, collects feedback on how an open-source model performs at specialized tasks, and retrains it - 'continual learning' as a managed service, aimed at buyers without research teams. Co-founder Ronak Malde's framing: foundation models are brilliant PhD students perpetually starting a new job, while the economy values the person who has done the job for thirty years. Customers already include Harvey, Rogo, Decagon, Mercor and Nvidia itself, using it to make open models perform like experienced lawyers or analysts on specific contract types and valuation methodologies.\n\nThe launch makes the post-training platform generally available. It's also a notable bet against the 'one frontier model does everything' assumption: if Trajectory works, specialized open-weight models tuned on a company's own feedback loops stay competitive with the frontier on the tasks that company cares about.",
+ "highlights": [
+  "Trajectory raises $45M Series A at $300M valuation (Sequoia, with Nvidia, Bessemer, Bain) to automate post-training for nontechnical customers",
+  "Continual learning as a service: collect in-app feedback on open models, retrain for specialized tasks - no in-house research team or FDEs required",
+  "Customers include Harvey, Rogo, Decagon, Mercor and Nvidia; platform now generally available",
+  "A bet that specialized, feedback-tuned open models stay competitive with frontier models on domain tasks"
+ ]
+}

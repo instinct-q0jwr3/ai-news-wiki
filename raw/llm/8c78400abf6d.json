@@ -1,0 +1,14 @@
+{
+ "id": "8c78400abf6d",
+ "authored_at": "2026-11-03T03:06:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI released GPT-6.1 Terra, touting 'fast and capable computer use at scale' and clearer, more natural writing, priced at $1 per million input and $5 per million output tokens. The positioning - computer use plus aggressive pricing - is a direct move on the agentic-workload segment Anthropic's Claude Code currently owns. The announcement page was not retrievable in this pass."
+ ],
+ "highlights": [
+  "OpenAI launches GPT-6.1 Terra: computer use 'at scale,' $1/$5 per million tokens in/out",
+  "Priced to compete for agentic workloads against Claude Code's segment"
+ ],
+ "basis": "Cache status: error (openai.com blocked); summary written from the feed headline only."
+}

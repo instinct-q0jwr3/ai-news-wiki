@@ -1,0 +1,14 @@
+{
+ "id": "7ad30174e3ca",
+ "authored_at": "2026-11-03T03:06:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Business Insider reports that as Google prepares to roll out Gemini 4 Argon, staff are already testing an internal successor named 'Carbon' - with one staffer saying it 'feels like Opus 5.5.' The cadence is the story: Google is compressing its release cycle to the point where the next model is in employee testing before the current one ships, and the internal benchmark for quality is now Anthropic's flagship."
+ ],
+ "highlights": [
+  "BI: Google staff testing internal 'Carbon' build ahead of Gemini 4 Argon's rollout; one says it 'feels like Opus 5.5'",
+  "Release cadence compresses; Anthropic's flagship is the internal reference point"
+ ],
+ "basis": "Cache status: thin (only the beginning of the article was retrievable); summary written from the feed excerpt."
+}

@@ -1,0 +1,14 @@
+{
+ "id": "213157b68deb",
+ "authored_at": "2026-11-03T03:04:11Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Wall Street Journal reports that institutional investors have told Anthropic its IPO valuation should land around $1.5 trillion to $1.6 trillion - down from higher figures floated earlier. Coming the same week as the amended S-1's growth-slowdown disclosure, the number suggests the roadshow conversation is now about how much to discount the deceleration rather than whether it exists."
+ ],
+ "highlights": [
+  "WSJ: institutional investors steer Anthropic toward a $1.5T-$1.6T IPO valuation, below earlier estimates",
+  "The markdown lands days after the amended S-1 revealed slowing Q3 growth"
+ ],
+ "basis": "Cache status: error (WSJ paywall); summary written from the feed headline only."
+}

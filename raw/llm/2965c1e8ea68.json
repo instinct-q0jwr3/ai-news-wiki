@@ -1,0 +1,14 @@
+{
+ "id": "2965c1e8ea68",
+ "authored_at": "2026-11-03T03:05:09Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI's engineering blog details how the company scales Git for its monorepo-scale development. The Lobsters discussion highlights the operational reality of thousands of engineers and coding agents committing against the same infrastructure. The source page itself was not retrievable in this pass."
+ ],
+ "highlights": [
+  "OpenAI engineering post on scaling Git; discussion via Lobsters",
+  "Source page unretrievable in this pass - details unverified"
+ ],
+ "basis": "Cache status: error (fetch failed); summary written from the feed headline only."
+}

@@ -1,6 +1,6 @@
 # Show HN: Camera Controls and Motion for AI Video Prompts
 
-_type: news-summary · created: 2026-10-17 · updated: 2026-11-02 · confidence: high_
+_type: news-summary · created: 2026-10-17 · updated: 2026-11-03 · confidence: high_
 
 `hacker-news`
 

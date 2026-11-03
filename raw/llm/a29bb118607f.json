@@ -1,0 +1,13 @@
+{
+ "id": "a29bb118607f",
+ "authored_at": "2026-11-03T03:06:39Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Show HN from two Georgia Tech students (YC F26): Subvocal, smart glasses that decode silent mouthing into text at the speed of speech - no audible voice required. The sensing approach is radio-frequency rather than camera-based: because RF 'sees' inside the mouth, the system works with lips closed and no tongue movement, tuned to what the founders call internal speech. The origin story is a TreeHacks hack: two AI-native builders annoyed that they couldn't use Wispr Flow in libraries, offices or public.\n\nThe pitch lands on a genuine interface gap. Voice is the natural input for AI assistants but socially unusable in exactly the shared spaces where people spend their days; silent input that keeps pace with speech would unblock voice agents in public. The thread's 223 comments suggest the want is real even if the hardware path - custom glasses, trained per-user - is long. They cite AlterEgo, MIT Media Lab's earlier silent-speech wearable, as prior art.\n\nWorth tracking less as a product than as a signal: the application layer is now mature enough that YC companies are forming around the input bottleneck, not the models.",
+ "highlights": [
+  "Show HN: Subvocal (YC F26) - glasses that decode silent mouthing into text at speech speed via RF sensing, no audible voice needed",
+  "Works with lips closed; RF reads inside the mouth, tuned to 'internal speech'; built by two Georgia Tech students after a TreeHacks hack",
+  "Targets the real blocker for voice agents: voice is socially unusable in shared spaces",
+  "Signal: startups are now attacking the input bottleneck for AI assistants, not the models"
+ ]
+}

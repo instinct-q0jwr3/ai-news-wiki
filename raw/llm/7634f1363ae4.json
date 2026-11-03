@@ -1,0 +1,12 @@
+{
+ "id": "7634f1363ae4",
+ "authored_at": "2026-11-03T03:06:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "An Ask HN thread poses the question every small software founder is circling: in the LLM era, can a software startup survive? The poster's version of the dilemma: vibe coding makes turning an idea into software 'just a matter of tokens,' users increasingly expect open source or free tools, and posts about paid software draw instant downvotes - while large companies keep the compute and the customer base.\n\nThe thread's answers converge on the usual hard truth, updated for 2026: the code was never the moat. Distribution, promotion, and channels are the hard part ('getting it promoted like nord vpn is the hard part'), and a service model or productized niche beats selling licenses. Development being cheap cuts both ways - it lowers the cost of competition for you and for everyone copying you.",
+ "highlights": [
+  "Ask HN: if building software is nearly free, what's left for a software startup?",
+  "Consensus answer: distribution and channels are the moat now, not the code; service models beat licenses",
+  "The anxiety is symmetric: cheap development lowers your costs and your competitors' equally"
+ ]
+}

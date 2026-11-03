@@ -1,0 +1,13 @@
+{
+ "id": "3417d7144cd2",
+ "authored_at": "2026-11-03T03:05:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Mistral released Timestral, its first family of time-series foundation models - four sizes from 5M to 209M parameters, with the largest ranking first on all three main public benchmarks (GIFT-Eval, TIME, fev-bench) while using only two-thirds of the previous state of the art's parameter count. The models deliver probabilistic, multivariate forecasts, support past-only and known-future covariates, and run efficiently on CPUs.\n\nThe recipe combines synthetic pre-training, covariate-aware attention and long-context learning, with domain fine-tuning available through Mistral Forge. Mistral is targeting the enterprise bread and butter - capacity planning, energy, supply chains, predictive maintenance, finance - where forecasting drives decisions and zero-shot accuracy on unseen series is the actual requirement.\n\nStrategically it's a notable lane choice: while the frontier labs fight over general reasoning, Mistral is building a small-model specialist family for a data type every industrial company has and general LLMs handle poorly.",
+ "highlights": [
+  "Mistral launches Timestral: time-series foundation models from 5M to 209M parameters",
+  "The 209M model tops GIFT-Eval, TIME and fev-bench with two-thirds of the prior SOTA's parameters; CPU-efficient",
+  "Probabilistic multivariate forecasting with covariate support; fine-tuning via Mistral Forge",
+  "A specialist lane: small purpose-built forecasting models for industrial and enterprise time series"
+ ]
+}

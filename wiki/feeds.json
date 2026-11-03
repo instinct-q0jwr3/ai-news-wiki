@@ -2,14 +2,14 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1002,
-  "last": "2026-11-02"
+  "stories": 1008,
+  "last": "2026-11-03"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 997,
-  "last": "2026-11-02"
+  "stories": 1001,
+  "last": "2026-11-03"
  },
  {
   "name": "TLDR AI",
@@ -20,20 +20,20 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 87,
-  "last": "2026-11-02"
+  "stories": 88,
+  "last": "2026-11-03"
  },
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 75,
-  "last": "2026-11-02"
+  "stories": 76,
+  "last": "2026-11-03"
  },
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 52,
-  "last": "2026-10-31"
+  "stories": 54,
+  "last": "2026-11-03"
  },
  {
   "name": "Pluralistic",
@@ -44,8 +44,8 @@
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 41,
-  "last": "2026-10-28"
+  "stories": 42,
+  "last": "2026-11-03"
  },
  {
   "name": "Bert Hubert",
@@ -78,16 +78,16 @@
   "last": "2026-09-25"
  },
  {
+  "name": "seangoedecke",
+  "url": "https://www.seangoedecke.com/rss.xml",
+  "stories": 16,
+  "last": "2026-11-03"
+ },
+ {
   "name": "Ed Zitron",
   "url": "https://www.wheresyoured.at/rss/",
   "stories": 15,
   "last": "2026-10-20"
- },
- {
-  "name": "seangoedecke",
-  "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 15,
-  "last": "2026-10-29"
  },
  {
   "name": "Armin Ronacher",

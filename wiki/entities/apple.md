@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-02 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-03 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-03** - Jason Snell's traditional chart barrage for Apple's record fourth quarter: revenue of $114.5 billion, up 12% year on year, with iPhone up 17.5%, Mac up 23.7% and Services up 9.8%. The soft spots are Wearables, down 7.9%, and iPad, down 10.4%.
+
+The AI angle… ([Apple Announces Record $114.5B Fourth-Quarter Results](../summaries/8d715b84840e.md) · [Apple](../entities/apple.md))
 - **2026-11-02** - Short note from feed metadata only: The Information (Aaron Tilley) reports that Apple is developing a tabletop robot - a 9-inch screen on a swiveling arm, around $1,000, targeting 2027 or 2028 - as new CEO John Ternus pushes the company into robotics. The… ([Apple is developing a tabletop robot with a 9" screen and a swiveling arm, set for release in 2027 or 2028 for ~$1,000, as John Ternus pushes robotics](../summaries/13c78ed3f75b.md) · [Apple](../entities/apple.md)) 🔒
 - **2026-11-02** - Cory Doctorow's 'Autodoxing' is a history lesson with a bill attached. For twenty-five years, he writes, the wreckage of bad tech policy was both foreseeable and foreseen: when Scott McNealy declared privacy dead, digital rights advocates answered that a… ([Pluralistic: Autodoxing (02 Nov 2026)](../summaries/c28b582a6ba5.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-10-31** - Steven Levy profiles Apple's new CEO John Ternus for Wired after two interviews around the low-key launch of the first touchscreen MacBook Pro. Ternus, 51, a 25-year Apple veteran and CEO for under two months, is positioned as the anti-drama choice: 'Apple… ([John Ternus says Apple doesn't "want to ship AI for AI's sake" and that Tim Cook is "available to help wherever I ask" on policy; Ternus has yet to meet Trump](../summaries/f7621d5a39d9.md) · [Apple](../entities/apple.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

@@ -1,167 +1,53 @@
 {
- "generated_at": "2026-11-02T21:01:54+00:00",
+ "generated_at": "2026-11-03T03:02:31+00:00",
  "stories": [
   {
-   "id": "a29bb118607f",
-   "title": "Show HN: Subvocal – Talk to your computer without making noise",
+   "id": "256b0f4a5102",
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50340088"
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
   },
   {
-   "id": "3396a4c986f3",
-   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "id": "831298e4219a",
+   "title": "Anthropic's growth just flattened",
    "source": "Hacker News",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened"
   },
   {
-   "id": "40f79c504c4e",
-   "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\"",
+   "id": "4e8e9a757b52",
+   "title": "WorkOS reports security breach",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50345712"
+  },
+  {
+   "id": "0f483009604d",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+  },
+  {
+   "id": "bca252c973aa",
+   "title": "Developers are downgrading their AI on purpose – and it's working",
+   "source": "Hacker News",
+   "url": "https://thenewstack.io/claude-code-developer-refusals/"
+  },
+  {
+   "id": "9dde887875b6",
+   "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
+   "source": "Hacker News",
+   "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/"
+  },
+  {
+   "id": "df770ad8e340",
+   "title": "llm 0.37",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/2/llm/"
+  },
+  {
+   "id": "2a21e7848bf9",
+   "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
-  },
-  {
-   "id": "6a4d3609e985",
-   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-   "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
-  },
-  {
-   "id": "b8368451d495",
-   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-   "source": "Hacker News",
-   "url": "https://momentic.ai/"
-  },
-  {
-   "id": "febe4405af71",
-   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
-  },
-  {
-   "id": "292feb8fb636",
-   "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-   "source": "Hacker News",
-   "url": "https://longcat.ai/blog/longcat-2.5/"
-  },
-  {
-   "id": "e694a2bcfd2c",
-   "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-   "source": "Hacker News",
-   "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now"
-  },
-  {
-   "id": "94ceb01449d4",
-   "title": "Poisoning 0.1% of pretraining data planted a remote-code backdoor in a coding agent",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2610.37741"
-  },
-  {
-   "id": "46f62edc2c9c",
-   "title": "Egoless Mathematics in the AI Era",
-   "source": "Hacker News",
-   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
-  },
-  {
-   "id": "b389a946cbb1",
-   "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
-  },
-  {
-   "id": "c4dd5db76aef",
-   "title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
-   "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools"
-  },
-  {
-   "id": "3ba8effeedb9",
-   "title": "Anthropic's spending commitments surge to nearly $900B",
-   "source": "Hacker News",
-   "url": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge"
-  },
-  {
-   "id": "aa52b1bd0b00",
-   "title": "Microsoft just gave us the perfect name for AI thieves: Kyle",
-   "source": "Hacker News",
-   "url": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/"
-  },
-  {
-   "id": "98c10eab5dcd",
-   "title": "Anthropic's Amended S1 Filing Shows Slowing Q3 Growth",
-   "source": "Hacker News",
-   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
-  },
-  {
-   "id": "436a00cbc0f2",
-   "title": "South Korea targets ' highest performance' sovereign AI model",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
-  },
-  {
-   "id": "974b5e7c9d8b",
-   "title": "Researchers face record-low chances of getting a grant partly due to rise of AI",
-   "source": "Hacker News",
-   "url": "https://nltimes.nl/2026/11/02/researchers-face-record-low-chances-getting-grant-partly-due-rise-ai"
-  },
-  {
-   "id": "1abf196b9596",
-   "title": "A proposal: how to hire junior engineers in the age of AI",
-   "source": "Hacker News",
-   "url": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/"
-  },
-  {
-   "id": "6dc9f931001a",
-   "title": "Israeli startup 42AI, which is developing a \"behavioral world model\" that tries to predict human behavior, emerges from stealth with a $62.5M seed",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
-  },
-  {
-   "id": "5338f9eb4bbd",
-   "title": "DeepSeek releases a \"creator mode\" that allows users of DeepSeek Harness to create custom plugins, like a 3D model renderer and a video editing workbench",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode"
-  },
-  {
-   "id": "fbf394eaa0a8",
-   "title": "Tutor, which is training a frontier robot foundation model and builds AI warehouse robots, raised a $75M Series B led by a16z, taking total funding to $117M",
-   "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/"
-  },
-  {
-   "id": "f4d6bb4452e1",
-   "title": "S-1: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a net loss of $23.3B, up from $12.1B in Q3 2025, and operating expenses up 292% to $17.5B",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo"
-  },
-  {
-   "id": "9d7cc62bca2d",
-   "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
-   "source": "Lobsters",
-   "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah"
-  },
-  {
-   "id": "cb89a1505cb2",
-   "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/grid-protectors-program"
-  },
-  {
-   "id": "13325d0c69f9",
-   "title": "A profile of OpenAI VP Charles Porch, an ex-Instagram executive who is rehabilitating AI's image across Hollywood and the media, including via celebrity dinners",
-   "source": "Techmeme",
-   "url": "https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html"
-  },
-  {
-   "id": "7ba9521efd49",
-   "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying \"automation and AI are fundamentally shifting how software companies operate\"",
-   "source": "Techmeme",
-   "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950"
-  },
-  {
-   "id": "157df6b4c25c",
-   "title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement violates its usage policy",
-   "source": "Techmeme",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks"
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
   },
   {
    "id": "ddce7a298d16",
@@ -170,16 +56,64 @@
    "url": "https://rikiyat.github.io/blog/weight-space-programming/"
   },
   {
-   "id": "9fbc85ba7f6a",
-   "title": "Sources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more",
+   "id": "cb89a1505cb2",
+   "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html"
+   "url": "https://openai.com/index/grid-protectors-program"
   },
   {
-   "id": "b1b35eada0f2",
-   "title": "Filings: Oracle is selling $10B in common stock and $10B in bonds, as it rushes to get financing for its data center buildout and chip purchases; ORCL falls 5%+",
+   "id": "213157b68deb",
+   "title": "institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&reflink=desktopwebshare_permalink"
+   "url": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9"
+  },
+  {
+   "id": "266026de3880",
+   "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "2965c1e8ea68",
+   "title": "Scaling Git at OpenAI",
+   "source": "Lobsters",
+   "url": "https://openai.com/index/scaling-git-at-openai/"
+  },
+  {
+   "id": "b8a8f2e4fd32",
+   "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/"
+  },
+  {
+   "id": "aad164a1fc63",
+   "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/"
+  },
+  {
+   "id": "a32a24f39709",
+   "title": "LLMs are not superhuman at reading and writing neural network weights",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/"
+  },
+  {
+   "id": "8d715b84840e",
+   "title": "Apple Announces Record $114.5B Fourth-Quarter Results",
+   "source": "Daring Fireball",
+   "url": "https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/"
+  },
+  {
+   "id": "7ba9521efd49",
+   "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying \"automation and AI are fundamentally shifting how software companies operate\"",
+   "source": "Techmeme",
+   "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950"
+  },
+  {
+   "id": "99c2dc799588",
+   "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
   }
  ]
 }

@@ -1,0 +1,14 @@
+{
+ "id": "827e3fdbd966",
+ "authored_at": "2026-11-03T03:06:22Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "open-slopware: a curated list of alternatives to FOSS projects whose maintainers have chosen to adopt LLM/AI features - software for users who would rather switch tools than accept AI integration. The list is itself a marker of how far the open-source community's AI schism has progressed: forks and migration guides as protest."
+ ],
+ "highlights": [
+  "open-slopware catalogs alternatives to FOSS projects that adopted LLM features",
+  "The anti-AI wing of open source is organizing exits, not just complaints"
+ ],
+ "basis": "Cache status: error (fetch failed); summary written from the feed headline only."
+}

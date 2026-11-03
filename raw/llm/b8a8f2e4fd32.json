@@ -1,0 +1,14 @@
+{
+ "id": "b8a8f2e4fd32",
+ "authored_at": "2026-11-03T03:04:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The episode-notes edition of Latent Space's Jacob Lauritzen (Legora CTO) interview - the condensed chapter list and takeaway summary of the same conversation. Useful as a map: the questions listed are the ones the field is actually asking - how to evaluate agents you can't observe, which tasks still need better models (Lauritzen estimates current models do about 60% of legal work well), how legal engineers and forward-deployed engineers split the work, and whether labs will cut off legal tools the way they squeezed coding tools."
+ ],
+ "highlights": [
+  "Episode-notes edition of the Legora CTO interview; see the full conversation writeup for the detail",
+  "Lauritzen's estimate: current models already do ~60% of legal work well; the rest needs smarter models",
+  "Open question flagged: whether model labs will cut off legal tools the way they did coding tools"
+ ]
+}

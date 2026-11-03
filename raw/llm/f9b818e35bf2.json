@@ -1,0 +1,13 @@
+{
+ "id": "f9b818e35bf2",
+ "authored_at": "2026-11-03T03:07:03Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Heretic 2.0 is out: the training-free model-modification tool - best known for removing refusals and censorship from open-weight language models - has been reframed as a general-purpose weight editor. Beyond its default refusal suppression, the release claims the same machinery can suppress slop, reduce sycophancy, and alter emotional alignment. The project cites 37,000 GitHub stars, more than 8,500 modified models on Hugging Face, and 88 million total downloads.\n\nThe technique matters because of what it doesn't need: no fine-tuning runs, no dataset, no gradient budget - the modification is applied to the weights directly and cheaply enough that thousands of community variants exist. That cuts both ways. The same accessibility that lets hobbyists de-refusal a model on a laptop makes 'the lab's safety training' a layer any downstream user can strip, which is precisely the policy tension around open weights.\n\nSeen alongside this week's weight-space programming results - frontier models editing other models' weights in natural language - Heretic is the manual, artisanal end of a spectrum that is automating fast: deliberate, training-free weight modification as a general capability.",
+ "highlights": [
+  "Heretic 2.0: training-free modification of open-weight models, from censorship removal to slop suppression, sycophancy reduction and alignment edits",
+  "Scale: 37k GitHub stars, 8,500+ community-modified models, 88M downloads",
+  "No training runs or datasets required - weight edits applied directly, cheaply",
+  "The policy tension in a tool: lab safety training becomes an optional layer for any downstream user, just as weight editing is being automated elsewhere"
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "id": "digest-2026-11-03",
+ "date": "2026-11-03",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Day two of the amended S-1: an op-ed tells the SEC to block the IPO outright, Henry Blodget's arithmetic says Anthropic barely grew after July, the WSJ hears $1.5T, and the risk factors disclose an 'imminent' RSI threshold. Meanwhile Mandiant names the LLMJacking economy and Legora's CTO explains how you evaluate agents whose work you are never allowed to see.",
+ "sections": [
+  {
+   "title": "Reading the S-1",
+   "intro": "The filing gets its second, harsher day of scrutiny: Scherer wants the SEC to block the IPO over $582B in non-cancelable obligations, Blodget's monthly arithmetic shows growth flattening after July, institutional investors talk the valuation down to $1.5-1.6T - and the risk factors admit Anthropic may 'imminently' hit its own RSI threshold and has missed accelerations before.",
+   "stories": [
+    "256b0f4a5102",
+    "831298e4219a",
+    "213157b68deb",
+    "2a21e7848bf9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The legal vertical",
+   "intro": "Latent Space's two-part Legora conversation: $100M ARR in 18 months, two $550M rounds in seven months - and the hardest evals problem in applied AI, since client confidentiality means never reading a single trace.",
+   "stories": [
+    "aad164a1fc63",
+    "b8a8f2e4fd32"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The weight-space debate",
+   "intro": "Sean Goedecke reads the weight-space programming paper and reaches for the cold water: a smart human with three lines of numpy could do most of it, and the honest claim is 'better than expected,' not 'superhuman.'",
+   "stories": [
+    "a32a24f39709"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The abuse economy",
+   "intro": "Mandiant and GTIG document LLMJacking: stolen API keys and identity tokens funneled through 'LLM Mixers' that resell illicit access - $100K in fraudulent charges in a day, $1M cumulative at some victims.",
+   "stories": [
+    "9dde887875b6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The limits land",
+   "intro": "Developers report Opus 5.5 refusing reverse-engineering and analysis tasks beyond the confirmed game-clone limits; the workaround of record is deliberately downgrading to an older model.",
+   "stories": [
+    "bca252c973aa"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The money keeps moving",
+   "intro": "Trajectory raises $45M from Sequoia to automate post-training for companies without research teams; Apple posts a record $114.5B quarter with no compute story attached.",
+   "stories": [
+    "99c2dc799588",
+    "8d715b84840e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The hardware horizon",
+   "intro": "Fujifilm quintuples LTO tape capacity for the AI archiving boom - the buildout's supply chain reaches back to the 1950s.",
+   "stories": [
+    "0f483009604d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "llm 0.37 lands, and Willison reports the AI-PR flood is manageable when you triage it with models - 'bug reports with attached examples.'",
+   "stories": [
+    "df770ad8e340"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The engineering shelf",
+   "intro": "OpenAI engineering on scaling Git for its development org; the source page was unretrievable, so details await a successful fetch.",
+   "stories": [
+    "2965c1e8ea68"
+   ],
+   "concepts": []
+  }
+ ]
+}

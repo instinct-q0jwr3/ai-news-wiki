@@ -1,0 +1,13 @@
+{
+ "id": "a32a24f39709",
+ "authored_at": "2026-11-03T03:04:36Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Sean Goedecke reads the same weight-space programming paper everyone else is excited about and reaches for a bucket of cold water. The MIT CSAIL result - GPT-6 Astra identifying what game a network was trained to play from raw weights, and improving Qwen3.5-0.8B's math ability by editing 0.016% of its weights - looks superhuman, and superhuman model-improvement is exactly the recursive-self-improvement tripwire. His claim: 'I think a smart human ML researcher could perform all of these tasks.'\n\nTake the game-identification trick. The weights of the first layer, reshaped and norm-ed per input channel, produce a heatmap you can generate in three lines of numpy - and the heatmap visibly shows where the player sits (Breakout's paddle row) and where objects move (Pac-Man's maze). A human shown that plot would name most of the games immediately. Astra doing the norm calculation 'in its head' is neat, he says, but not shocking to anyone paying attention.\n\nThe Qwen math fix is the result he takes most seriously - 0.8B parameters, a genuine capability gain - and even there his skepticism is about interpretation, not the number: the model found a known, documented failure mode (the reasoning-loop issue Qwen's own model card warns about) and repaired a small set of weights, which is closer to a very well-read engineer doing a targeted patch than to alien weight-surgery. The essay matters less as debunking than as calibration: if the RSI-adjacent reading of weight-space programming was this week's excitement, Goedecke's is the reminder that 'better than any human could do' has not yet been shown - 'better than we expected' is the honest claim.",
+ "highlights": [
+  "Goedecke's rebuttal: the weight-space results are impressive but not superhuman - 'a smart human ML researcher could perform all of these tasks'",
+  "Game identification reduces to a three-line numpy norm heatmap whose patterns (paddle row, maze) a human can read immediately",
+  "The Qwen math fix targeted a documented failure mode with a tiny edit - a targeted patch, not alien weight surgery",
+  "The honest claim is 'better than expected,' not 'beyond human' - relevant calibration given the RSI reading of the paper"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "b722a90a837f",
+ "authored_at": "2026-11-03T03:06:39Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A link roundup of three new results across mathematics, computer science and physics - including a claimed disproof of the Exponential Time Hypothesis, which would be a major complexity-theory result if it holds up to review. The discussion links the ETH paper directly. The source page was not retrievable in this pass."
+ ],
+ "highlights": [
+  "Three new results in math, CS and physics; the CS one claims the Exponential Time Hypothesis is false",
+  "ETH falsity would be a landmark complexity result - verification pending"
+ ],
+ "basis": "Cache status: error (fetch failed); summary written from the feed metadata only."
+}

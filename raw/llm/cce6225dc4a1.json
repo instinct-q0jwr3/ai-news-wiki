@@ -1,0 +1,13 @@
+{
+ "id": "cce6225dc4a1",
+ "authored_at": "2026-11-03T03:06:39Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Babytalk is an MIT-licensed library that puts offline speech recognition and synthesis on a $20 ESP32: general-purpose English speech-to-text running entirely on the chip (no wake-word lists, no training), plus an on-device neural voice, callable from C, MicroPython, or Erlang/Elixir on AtomVM. The budgets are the achievement: STT in 6 MB of flash and 84.5 KB of RAM, TTS adding 1.9 MB flash, with any typed phrase usable as a wake phrase.\n\nThe project is explicit about its audience: voice input that must keep working offline, keep audio private, or can't depend on a server - and equally explicit about its limits (skip it for high accuracy, non-English languages, or smaller chips). The author credits the build as 'made by Thomas Lackner and Claude Opus 5.5,' another data point in the new normal of human-plus-model embedded development.\n\nThe joke that writes itself: possibly the only project involving both LoRa radios and LoRA (Low-Rank Adaptation).",
+ "highlights": [
+  "Babytalk: offline speech-to-text and text-to-speech on ESP32-S3/P4 - STT in 6MB flash/84.5KB RAM, no cloud, no wake-word training",
+  "General-purpose English recognition (any sentence), any typed phrase as wake phrase, optional on-device neural voice; C/MicroPython/AtomVM",
+  "Positioned for offline, private, server-free voice interfaces; MIT licensed; credits 'Thomas Lackner and Claude Opus 5.5'",
+  "Another concrete artifact of the human-plus-model development workflow"
+ ]
+}

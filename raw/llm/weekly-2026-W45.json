@@ -28,7 +28,8 @@
    "intro": "One developer's confession: he turned ordinary ChatGPT chats into a multi-agent dev shop over MCP, and OpenAI's usage merger is closing the loophole.",
    "stories": [
     "7dbb2995884e",
-    "a1f670e25734"
+    "a1f670e25734",
+    "df770ad8e340"
    ],
    "concepts": []
   },
@@ -44,7 +45,9 @@
     "febe4405af71",
     "b1b35eada0f2",
     "fbf394eaa0a8",
-    "6dc9f931001a"
+    "6dc9f931001a",
+    "99c2dc799588",
+    "8d715b84840e"
    ],
    "concepts": []
   },
@@ -222,7 +225,8 @@
    "title": "The abuse economy",
    "intro": "WIRED finds a 400-domain network of mundane-looking apps that flip into deepfake generators, running on Apple, Google and Meta at once.",
    "stories": [
-    "8e7e4c147d4a"
+    "8e7e4c147d4a",
+    "9dde887875b6"
    ],
    "concepts": []
   },
@@ -259,7 +263,8 @@
    "intro": "Apple is reportedly building a $1,000 tabletop robot for 2027-2028. OpenAI's Grid Protectors Program promises its future US campuses will curtail demand when the grid is strained - siting politics as energy policy.",
    "stories": [
     "13c78ed3f75b",
-    "cb89a1505cb2"
+    "cb89a1505cb2",
+    "0f483009604d"
    ],
    "concepts": []
   },
@@ -295,6 +300,50 @@
    "intro": "Ketan Joshi dissects a Microsoft Copilot ad in which 'Kyle' copies a praised colleague's work and takes the credit - and calls it the most honest piece of AI marketing ever made: the product truth is appropriation, sold with a smile.",
    "stories": [
     "aa52b1bd0b00"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reading the S-1",
+   "intro": "The filing gets its second, harsher day of scrutiny: Scherer wants the SEC to block the IPO over $582B in non-cancelable obligations, Blodget's monthly arithmetic shows growth flattening after July, institutional investors talk the valuation down to $1.5-1.6T - and the risk factors admit Anthropic may 'imminently' hit its own RSI threshold and has missed accelerations before.",
+   "stories": [
+    "256b0f4a5102",
+    "831298e4219a",
+    "213157b68deb",
+    "2a21e7848bf9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The legal vertical",
+   "intro": "Latent Space's two-part Legora conversation: $100M ARR in 18 months, two $550M rounds in seven months - and the hardest evals problem in applied AI, since client confidentiality means never reading a single trace.",
+   "stories": [
+    "aad164a1fc63",
+    "b8a8f2e4fd32"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The weight-space debate",
+   "intro": "Sean Goedecke reads the weight-space programming paper and reaches for the cold water: a smart human with three lines of numpy could do most of it, and the honest claim is 'better than expected,' not 'superhuman.'",
+   "stories": [
+    "a32a24f39709"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The limits land",
+   "intro": "Developers report Opus 5.5 refusing reverse-engineering and analysis tasks beyond the confirmed game-clone limits; the workaround of record is deliberately downgrading to an older model.",
+   "stories": [
+    "bca252c973aa"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The engineering shelf",
+   "intro": "OpenAI engineering on scaling Git for its development org; the source page was unretrievable, so details await a successful fetch.",
+   "stories": [
+    "2965c1e8ea68"
    ],
    "concepts": []
   }

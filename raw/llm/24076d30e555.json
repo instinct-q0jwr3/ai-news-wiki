@@ -1,0 +1,14 @@
+{
+ "id": "24076d30e555",
+ "authored_at": "2026-11-03T03:05:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A World Science Festival panel video asks whether there are problems beyond the reach of AI. The retrievable page content is YouTube's player scaffolding rather than a transcript, so the panel's arguments can't be summarized faithfully here; the question itself - which problem classes resist current AI approaches - is the live one as capability claims accelerate."
+ ],
+ "highlights": [
+  "World Science Festival panel: 'Are There Problems Beyond the Reach of AI' (video)",
+  "Only the YouTube player shell was retrievable; panel content not summarized"
+ ],
+ "basis": "Cache status: technically 'ok' but the captured text is YouTube JavaScript scaffolding, not the video content; summary limited to the feed metadata."
+}

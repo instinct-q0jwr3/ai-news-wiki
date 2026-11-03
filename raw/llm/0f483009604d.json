@@ -1,0 +1,12 @@
+{
+ "id": "0f483009604d",
+ "authored_at": "2026-11-03T03:05:02Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The AI buildout's most anachronistic beneficiary yet: magnetic tape. Fujifilm announced it will invest roughly 10 billion yen (~$63 million) to increase LTO tape production capacity fivefold against fiscal 2025 levels - its largest-ever investment in dedicated tape facilities - explicitly attributing the demand surge to generative AI's 'exponential growth' in data archiving needs. The expansion at the Kanagawa Odawara site runs fiscal 2026-2028 and focuses on the latest LTO Ultrium10 generation.\n\nThe logic is cold-storage economics plus security. Cloud giants never abandoned tape: it stores vast volumes cheaply, and cartridges can be air-gapped - physically disconnected and shelved - which Fujifilm pitches as a last line of defense against ransomware. As AI training and inference multiply the data worth keeping, the archive layer grows with it, and the archive layer runs on a medium consumers left for dead decades ago. Fujifilm has made magnetic tape since the 1950s and shipped the first barium-ferrite LTO tape in 2011; Ultrium10 uses a hybrid of barium and strontium ferrite particles.\n\nFile it next to the natural-gas turbines and the grid-interconnection queues: the AI boom's supply chain keeps reaching further back into industrial history.",
+ "highlights": [
+  "Fujifilm invests ~$63M to quintuple LTO tape production capacity by FY2028, citing generative AI's archiving demand",
+  "Cloud operators use tape for cheap mass cold storage; air-gapped cartridges are pitched as ransomware defense",
+  "The AI supply chain keeps reaching into legacy industry - tape joins turbines and grid queues as boom beneficiaries"
+ ]
+}

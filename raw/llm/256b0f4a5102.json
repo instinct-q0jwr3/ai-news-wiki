@@ -1,0 +1,13 @@
+{
+ "id": "256b0f4a5102",
+ "authored_at": "2026-11-03T03:04:11Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Matt Scherer, co-author of the report 'Brace for Impact: Protecting people and the economy when the AI bubble bursts,' argues the SEC should stop Anthropic's IPO altogether. His case starts where the amended S-1's fine print starts: beneath the impressive topline - revenue growing fast through 2026, $96 billion in cash reserves - sit nearly $900 billion in spending commitments, at least $582 billion of them non-cancelable obligations to just five counterparties: Amazon, AMD, Broadcom, Google and Microsoft. Those payments are due whether or not Anthropic can afford them, which makes them 'effectively debts in a legal and practical sense' even though they sit off the balance sheet.\n\nThe piece then stacks the risks. The 2026 financials have not been formally audited. Q3 suggests revenue growth 'slowed to a crawl' over the summer just as the obligations ramp. Anthropic may end the year with a trillion dollars or more in commitments while continuing to negotiate further infrastructure contracts. And the margin structure of model developers is being squeezed from several directions at once, making the extraordinary sustained growth needed to service those obligations exceptionally hard.\n\nThe policy argument is the novel part: Scherer contends the SEC's investor-protection mandate extends to blocking a debut where retail investors, workers and retirees would end up 'holding the bag when Anthropic's bills come due.' Whatever one thinks of the remedy - regulators almost never block IPOs on this basis - the piece is the sharpest framed version yet of the bear case on the AI buildout's circular financing, now aimed directly at the first mega IPO.",
+ "highlights": [
+  "Op-ed: the SEC should block Anthropic's IPO because public investors would absorb the risk of its ~$900B in spending commitments",
+  "At least $582B of the commitments are non-cancelable obligations to five companies (Amazon, AMD, Broadcom, Google, Microsoft) - 'effectively debts' kept off the balance sheet",
+  "The 2026 financials are unaudited, and Q3 suggests growth slowed sharply over the summer",
+  "Anthropic could end the year with $1T+ in contractual commitments while margins compress industry-wide"
+ ]
+}

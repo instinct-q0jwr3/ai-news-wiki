@@ -1,0 +1,14 @@
+{
+ "id": "408240b2f536",
+ "authored_at": "2026-11-03T03:05:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A programming exercise in deliberate constraint: build all the Linux file utilities in C by hand, no AI assistance, in 52 minutes. The point of the exercise is the contrast - measuring what a practiced developer can still do unaided against what the toolchain now does for everyone."
+ ],
+ "highlights": [
+  "Livestreamed exercise: reimplement Linux file utilities in C by hand in 52 minutes, no AI",
+  "A deliberate-practice counterpoint to AI-assisted development"
+ ],
+ "basis": "Cache status: thin (little retrievable text); summary written from the feed metadata only."
+}
