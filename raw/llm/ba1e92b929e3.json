@@ -1,0 +1,14 @@
+{
+ "id": "ba1e92b929e3",
+ "authored_at": "2026-11-03T15:06:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Elon Musk says xAI is limiting Grok Bot usage because 'the cost of serving Grok Bot was unsustainably high relative to revenue' - a rare public admission of inference economics biting at a frontier lab, via Musk's own X post."
+ ],
+ "highlights": [
+  "Musk: Grok Bot serving costs 'unsustainably high relative to revenue'; usage being limited",
+  "A rare public cost-pressure admission from a frontier lab owner"
+ ],
+ "basis": "Thin cache (X post snippet, ~146 chars). Written from the TLDR AI item title and Musk's quoted line; no article body available."
+}

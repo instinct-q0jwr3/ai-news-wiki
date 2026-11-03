@@ -1,0 +1,13 @@
+{
+ "id": "f76284a96050",
+ "authored_at": "2026-11-03T15:05:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "NVIDIA's Cosmos is now a full platform play for physical AI: world foundation models plus two delivery layers. Cosmos Framework is the open, modular training side - agent skills and recipes for world-model training, multimodal data processing, optimization and inference, expanding beyond Cosmos 3 to Alpamayo, GR00T, Qwen, pi0.5 and compatible Hugging Face models. Cosmos NIM microservices handle the deployment side: GPU-accelerated serving behind application APIs, with the post walking through config selection, container launch and first inference.\n\nThe distinctive piece is the agent-native workflow: you load setup, inference, post-training and troubleshooting skills under .agents/skills and give the agent a bounded task - post-train checkpoint X on dataset Y with recipe Z, pin revisions, validate data, stop at N GPU-hours, compare against base with three seeds. The framework is designed to be operated by agents under constraints, not just by engineers following docs.\n\nThe simulation story rounds it out: synchronized camera video and LiDAR generation for AV, robot and surgical scenarios from released checkpoints. The strategy read: NVIDIA is making world models an ecosystem with its silicon underneath, the same CUDA playbook applied to physical AI - and baking in agent-operated training as a first-class pattern.",
+ "highlights": [
+  "NVIDIA Cosmos Framework: open modular platform for world-model training/optimization/inference across AV, robotics, surgical scenarios",
+  "Agent-native by design: skills under .agents/skills, bounded prompts ('stop at N GPU-hours, compare on held-out data with three seeds')",
+  "Cosmos NIM microservices for GPU serving; supports Alpamayo, GR00T, Qwen, pi0.5 and HF-compatible models beyond Cosmos 3",
+  "Strategy: the CUDA playbook for physical AI - an ecosystem of world models with NVIDIA silicon underneath"
+ ]
+}

@@ -1,53 +1,59 @@
 {
- "generated_at": "2026-11-03T09:03:26+00:00",
+ "generated_at": "2026-11-03T15:04:22+00:00",
  "stories": [
   {
-   "id": "decaeece8af6",
-   "title": "How AI is creating a lopsided US economy",
+   "id": "46d4f73aace7",
+   "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
    "source": "Hacker News",
-   "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078"
+   "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html"
   },
   {
-   "id": "cdfefcffafd7",
-   "title": "WiCi: Connecting GPUs over WiFi",
+   "id": "19fef3bdab7d",
+   "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
    "source": "Hacker News",
-   "url": "https://wici.ai"
+   "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive"
   },
   {
-   "id": "7ecf249c1de2",
-   "title": "Open models can do 90 percent of agentic work at a twentieth of the cost",
+   "id": "f95852bfd64d",
+   "title": "Itch.io adding Generative AI disclosure filtering to few more places on the site",
    "source": "Hacker News",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132"
+   "url": "https://bsky.app/profile/itch.io/post/3mzezjvqexs2h"
   },
   {
-   "id": "615e44095bc0",
-   "title": "Mass attempted replication of old findings of LLMs with new models",
+   "id": "4341665bafaa",
+   "title": "The Nordic Token Tax",
    "source": "Hacker News",
-   "url": "https://zou-group.github.io/llm-claims-shelf-life/"
+   "url": "https://research.klang.ai/papers/the-nordic-token-tax"
   },
   {
-   "id": "b6fc6059d741",
-   "title": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages",
+   "id": "b0cf26519086",
+   "title": "Claude Introduces Message Threads",
+   "source": "TLDR AI",
+   "url": "https://claude.com/resources/articles/message-threads"
+  },
+  {
+   "id": "ba1e92b929e3",
+   "title": "Elon Musk Limits Grok Bot Usage Over Rising Costs",
+   "source": "TLDR AI",
+   "url": "https://x.com/elonmusk/status/2116992258520064397"
+  },
+  {
+   "id": "e2cf0560a073",
+   "title": "Anthropic tells investors that its 15-person chip design team is already using Claude for engineering and design work on its custom chips",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+   "url": "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors"
   },
   {
-   "id": "06ddb0ed8e44",
-   "title": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence",
-   "source": "Techmeme",
-   "url": "https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html"
+   "id": "b66c2e2380a7",
+   "title": "Just a little AI resistance, as a treat",
+   "source": "Terence Eden",
+   "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
   },
   {
-   "id": "213157b68deb",
-   "title": "institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9"
-  },
-  {
-   "id": "c9b45cf28ae9",
-   "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
+   "id": "4ad35515f220",
+   "title": "How to Train a Swarm",
+   "source": "TLDR AI",
+   "url": "https://www.gr.inc/blog/how-to-train-a-swarm"
   },
   {
    "id": "2a21e7848bf9",
@@ -56,40 +62,112 @@
    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
   },
   {
-   "id": "7ad9e906d30d",
-   "title": "October sponsors-only newsletter",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
+   "id": "1033f0b4b678",
+   "title": "Teaching Qwen Why",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1"
   },
   {
-   "id": "245cce2cad5b",
-   "title": "Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea"
+   "id": "3eed788f341a",
+   "title": "Lessons from building Copilot Cowork",
+   "source": "TLDR AI",
+   "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/"
   },
   {
-   "id": "703024b2229e",
-   "title": "OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+   "id": "316767f6149f",
+   "title": "Pluralistic: Separable (03 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/03/nobody-is-home/"
   },
   {
-   "id": "a63e9762bff8",
-   "title": "Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips",
+   "id": "6395ffd6a22f",
+   "title": "US data center operators and power developers are repurposing jet engines to secure power in as little as two years, bypassing multi-year grid-connection delays",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2"
+   "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html"
   },
   {
-   "id": "3e55277d08e6",
-   "title": "Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta",
+   "id": "1110dc70dd8f",
+   "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
   },
   {
-   "id": "331a127a1405",
-   "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures",
+   "id": "2c2f58198654",
+   "title": "The Hitchhiker's Guide to Training on Compute Islands",
+   "source": "TLDR AI",
+   "url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands"
+  },
+  {
+   "id": "97bb68716d39",
+   "title": "OpenAI hires ex-US Army Secretary Dan Driscoll to oversee national security modernization, as it pushes to secure government contracts and shape military policy",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11"
+   "url": "https://www.wsj.com/politics/national-security/openai-hires-former-army-secretary-dan-driscoll-to-cybersecurity-role-0e5cc0a1?st=cfNEPb&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "71d7db299774",
+   "title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e"
+  },
+  {
+   "id": "d990be6400d8",
+   "title": "Harness 2: executing agent code as it streams",
+   "source": "TLDR AI",
+   "url": "https://framer.com/blog/harness-2/"
+  },
+  {
+   "id": "40f79c504c4e",
+   "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\"",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+  },
+  {
+   "id": "1fc6692448a8",
+   "title": "GPU-accelerated Weight Teleportation",
+   "source": "TLDR AI",
+   "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation"
+  },
+  {
+   "id": "bac281c67ffb",
+   "title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html"
+  },
+  {
+   "id": "5d70dc79b00c",
+   "title": "China plans to roll out broad AI safety standards covering development through deployment, targeting domestic AI model makers, after global security incidents",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/"
+  },
+  {
+   "id": "b2b190b94e22",
+   "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/"
+  },
+  {
+   "id": "4785ab619529",
+   "title": "OpenAI Introduces LifeVal to Measure AI Performance on Everyday Tasks",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/lifeval/"
+  },
+  {
+   "id": "05b90ec7039e",
+   "title": "The UK NCSC says AI is \"transforming cyber operations\" and expects China and Russia to \"routinely use AI cyber to achieve their geopolitical goals\" by 2028",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40"
+  },
+  {
+   "id": "f76284a96050",
+   "title": "NVIDIA's Cosmos Framework",
+   "source": "TLDR AI",
+   "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/"
+  },
+  {
+   "id": "421ececb5e76",
+   "title": "Limit what agents learn about private repos with enclaves",
+   "source": "TLDR AI",
+   "url": "https://githubnext.com/posts/enclaves/"
   }
  ]
 }

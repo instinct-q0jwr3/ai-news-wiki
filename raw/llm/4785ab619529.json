@@ -1,0 +1,14 @@
+{
+ "id": "4785ab619529",
+ "authored_at": "2026-11-03T15:06:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI has introduced LifeVal, a benchmark for measuring AI performance on everyday tasks, per TLDR AI's selection. The openai.com page was unreachable at fetch time, so specifics on the tasks, scoring, and results are not yet available here."
+ ],
+ "highlights": [
+  "OpenAI introduces LifeVal, a benchmark for everyday-task performance",
+  "Source page unreachable; details pending"
+ ],
+ "basis": "Error cache: openai.com returned an error at fetch. Written from the TLDR AI item title only; treat specifics as unverified."
+}

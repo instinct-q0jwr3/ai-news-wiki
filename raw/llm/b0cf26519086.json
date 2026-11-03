@@ -1,0 +1,13 @@
+{
+ "id": "b0cf26519086",
+ "authored_at": "2026-11-03T15:05:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic shipped message threads in public beta on the Claude Platform: instead of resending the full conversation history on every turn, agents send only what's new since the last turn plus the previous response ID. For long-running coding-agent sessions - hundreds of requests, conversations in the hundreds of thousands of tokens - Anthropic says median time-to-first-token drops about 35% on requests with 500K to 1M tokens. It's on by default for most Claude Code users.\n\nThe mechanics carry the trade-offs. Threads are held in memory between turns (encrypted, not written to disk) and expire 5 minutes after the last request, after which the client resends the full conversation to start a new thread. Claude still reads the full conversation every turn, so token usage and billing stay the same - this is a latency optimization, not a cost one. Available on the native platform plus AWS, Microsoft Foundry and Google Cloud (Anthropic managed).\n\nIt's a small but telling piece of agent infrastructure: as coding agents run longer sessions, TTFT on resubmitted megahistories became a real tax, and the fix is session state held server-side - a step toward stateful agent APIs and away from the stateless-request orthodoxy the LLM API era started with.",
+ "highlights": [
+  "Claude message threads (public beta): agents send only new messages + previous response ID instead of the full history",
+  "Median TTFT down ~35% on 500K-1M-token requests; on by default for most Claude Code users",
+  "Trade-offs: threads live in memory, expire after 5 idle minutes; token usage and billing unchanged - latency win, not cost win",
+  "Direction: server-side session state enters the LLM API, reversing the stateless orthodoxy"
+ ]
+}

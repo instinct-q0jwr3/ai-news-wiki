@@ -1,0 +1,15 @@
+{
+ "id": "71d7db299774",
+ "authored_at": "2026-11-03T15:06:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "CrowdStrike agreed to buy Fiddler AI - which monitors AI agents - for roughly $400M, and Dreadnode, an automated AI security-testing tool, for about $95M, mostly in cash, per the Wall Street Journal. The deals land as companies deploy AI agents faster than security teams can establish controls: agent observability and adversarial testing are becoming security-stack line items."
+ ],
+ "highlights": [
+  "CrowdStrike buys Fiddler AI (~$400M) and Dreadnode (~$95M), mostly cash, per WSJ",
+  "Agent monitoring + automated AI red-teaming consolidated into a major security vendor",
+  "Context: enterprises deploying agents faster than security teams can govern them"
+ ],
+ "basis": "Error cache: WSJ paywall/bot-block. Written from the Techmeme headline and James Rundle's lede; figures from the headline."
+}

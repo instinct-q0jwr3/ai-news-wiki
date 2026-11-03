@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1012,
+  "stories": 1016,
   "last": "2026-11-03"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1008,
+  "stories": 1015,
   "last": "2026-11-03"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 387,
-  "last": "2026-11-02"
+  "stories": 399,
+  "last": "2026-11-03"
  },
  {
   "name": "Simon Willison",
@@ -38,8 +38,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 51,
-  "last": "2026-11-02"
+  "stories": 52,
+  "last": "2026-11-03"
  },
  {
   "name": "Daring Fireball",
@@ -168,6 +168,12 @@
   "last": "2026-10-14"
  },
  {
+  "name": "Terence Eden",
+  "url": "https://shkspr.mobi/blog/feed/",
+  "stories": 1,
+  "last": "2026-11-03"
+ },
+ {
   "name": "Xe Iaso",
   "url": "https://xeiaso.net/blog.rss",
   "stories": 1,
@@ -182,12 +188,6 @@
  {
   "name": "Paul Graham",
   "url": "https://raw.githubusercontent.com/olshansk/rss-feeds/main/feeds/feed_paulgraham.xml",
-  "stories": 0,
-  "last": ""
- },
- {
-  "name": "Terence Eden",
-  "url": "https://shkspr.mobi/blog/feed/",
   "stories": 0,
   "last": ""
  }

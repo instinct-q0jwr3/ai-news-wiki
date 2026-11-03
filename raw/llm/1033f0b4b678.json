@@ -1,0 +1,13 @@
+{
+ "id": "1033f0b4b678",
+ "authored_at": "2026-11-03T15:05:47Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Second Look Research (a summer-fellowship team) has partially replicated and extended Anthropic's 'Teaching Claude Why' alignment work on open models - the first independent check on techniques that have shipped in production Claude models since Opus 4.5. TCW's claim was that training on fictional stories about admirable AIs, constitution documents, and chat-formatted ethical-dilemma advice generalizes into better alignment on out-of-distribution agentic evaluations and survives RL post-training.\n\nThe replication (on Qwen-family open models, with data, code and checkpoints released) confirms the core interventions - synthetic document finetuning on aligned-AI fiction and SFT on 'difficult advice' transcripts - transfer beyond Anthropic's own models. The interesting extensions concern the Persona Selection Model behind TCW: adopting the AI-assistant persona more fully does improve alignment, but stories about a generic AI outperformed stories about a specific named assistant - suggesting the fiction shapes the model's expectations of AIs in general, not a persona it inhabits.\n\nThe framing question behind the work is the field's current fault line: agentic misalignment may be partly a pretraining-prior problem - models reverting to portrayals of AIs turning against their users - and if so, the fix is editing the prior with better fiction. That an external team could reproduce the effect on open weights is itself the story: alignment techniques no longer require frontier-lab access to verify.",
+ "highlights": [
+  "Second Look Research replicates Anthropic's 'Teaching Claude Why' on open models - the first external check of alignment techniques shipped in production since Opus 4.5",
+  "Core interventions replicate: aligned-AI fiction (SDF) and ethical-dilemma advice (SFT) improve OOD agentic alignment and persist through RL",
+  "Extension: generic-AI stories beat named-assistant stories - fiction shapes expectations of AIs in general, not a persona",
+  "All data, code and checkpoints released; agentic misalignment as a 'pretraining prior shaped by AI-gone-bad fiction' problem"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "421ececb5e76",
+ "authored_at": "2026-11-03T15:05:58Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "GitHub's answer to the GitLost disclosure is a new security primitive: the enclave. GitLost showed that an agent with read access to private repos and write access to a public one can be persuaded - via a crafted public issue - to post private repo contents in a public comment, no sandbox escape or token theft required. The confused-deputy attack works purely through permissions the maintainer intentionally granted.\n\nEnclaves, shipped as experimental in GitHub Agentic Workflows (GA since Universe), compartmentalize: an enclave is a single-use sandbox where work touching private data happens in isolation, and the primary agent - the one that talks to the public repo - never sees the private content, so it cannot over-share it even when manipulated. The analogy GitHub reaches for is need-to-know compartmentalization from intelligence agencies: clearance level doesn't grant access to every operation.\n\nThe design choice worth noting is determinism: rather than another model judging what's safe to say, the constraint is structural - the talkative agent simply lacks the information. As agentic workflows get wired into real repositories, that class of guarantee (impossible-by-construction rather than refused-by-policy) is what security teams will ask for, and this is its first mainstream packaging.",
+ "highlights": [
+  "GitHub Agentic Workflows ships 'enclaves' against GitLost-style leaks: private-repo work happens in single-use sandboxes the primary agent never sees",
+  "GitLost: a crafted public issue made an agent exfiltrate a private repo into a public comment - pure confused-deputy, no exploit needed",
+  "Need-to-know for agents: the talking agent structurally lacks the private data, so manipulation can't surface it",
+  "Deterministic-by-construction constraints beat policy refusals - first mainstream packaging of that principle for agentic workflows"
+ ]
+}

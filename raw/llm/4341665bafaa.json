@@ -1,0 +1,13 @@
+{
+ "id": "4341665bafaa",
+ "authored_at": "2026-11-03T15:05:34Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A Nordic AI consultancy measured something every non-English business suspects and few have quantified: the same sentence costs more tokens - and therefore more money and more latency - in Swedish, Norwegian, Danish and Finnish than in English. They sent 3,000 identical sentences (from the FLORES-200 and NTREX-128 research datasets) through twelve flagship models from nine labs and counted what each billed. Every model charged more for every Nordic language than for English: 32-68% more for Swedish, up to 2x for Finnish.\n\nThe mechanism is BPE tokenizer construction, explained cleanly: vocabularies are built once from training text by greedily gluing frequent character pairs into entries, so common English words like 'meeting' become single tokens while their Swedish equivalents get split into pieces ('mö' + 'tet'). More tokens means higher bills and slower responses, since models generate one token at a time.\n\nThe practical consequence lands on pricing and product decisions: a model priced per token has a built-in language tax that never appears on the rate card, and it falls hardest on exactly the markets - smaller languages - with the least leverage to negotiate. For European enterprises budgeting agent workloads, 'tokens per task' is not a constant; it's a function of the language your customers speak.",
+ "highlights": [
+  "Every tested model charges more tokens for the same content in Swedish, Norwegian, Danish and Finnish than in English: +32-68% for Swedish, up to 2x for Finnish",
+  "3,000 identical sentences (FLORES-200/NTREX-128) through 12 flagship models from 9 labs, as of Nov 1, 2026",
+  "Cause: BPE vocabularies are built from (mostly English) training text, so non-English words fragment into more tokens",
+  "A hidden language tax on per-token pricing - more tokens also means slower generation"
+ ]
+}

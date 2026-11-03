@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Lessons from building Copilot Cowork · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793718466"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Lessons from building Copilot Cowork</h1>
+<p class="meta">type: news-summary · created: 2026-11-03 · updated: 2026-11-03 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Microsoft's Copilot Cowork team tells the whole arc out loud: empty repo in January, worldwide GA in about four and a half months, then - the actually-hard part - migrating the runtime from Python to Rust while the service was live. On October 21, nine engineers merged 1,211 pull requests in a day. Agents wrote most of the code; engineers stayed responsible for defining the work and judging results.</p>
+<p>The six practices that emerged are the reusable payload. Specs got clearer because agents punish ambiguity; architecture and security boundaries are set by humans and enforced mechanically; review effort concentrates on high-risk changes and disagreements between automated checks and agent reviewers, which examine everything. Agents could propose changes but never decide what ships. And the meta-lesson: every few weeks the agents improved, some existing part of the process broke, and the team adapted - the workflow was never designed, it was repeatedly re-fit to capability.</p>
+<p>The Python-to-Rust-while-live case study is the proof of the method: the kind of migration that organizations postpone for years, done by the same spec-review-check loop on a running global service. For engineering leaders the number that should sting is the staffing: nine engineers, 1,211 PRs a day. The constraint on shipping is no longer writing code - it's specification quality, review discipline, and how fast your process can re-adapt.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Copilot Cowork: empty repo to worldwide GA in ~4.5 months, then Python→Rust runtime migration while live</li>
+<li>Nine engineers merged 1,211 PRs in one day; agents wrote most code, humans defined work and judged results</li>
+<li>Six practices: precise specs, human-set boundaries, risk-focused human review, automated+agent review of everything, agents propose but never decide</li>
+<li>Meta-lesson: every capability jump broke part of the process; the workflow was repeatedly re-fit, never designed once</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/">Read the original story</a> · <a href="https://tldr.tech/ai/2026-11-03">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/microsoft.html">Microsoft</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

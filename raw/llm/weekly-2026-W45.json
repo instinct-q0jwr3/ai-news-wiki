@@ -30,7 +30,10 @@
     "7dbb2995884e",
     "a1f670e25734",
     "df770ad8e340",
-    "7ad9e906d30d"
+    "7ad9e906d30d",
+    "b0cf26519086",
+    "d990be6400d8",
+    "3eed788f341a"
    ],
    "concepts": []
   },
@@ -48,7 +51,8 @@
     "fbf394eaa0a8",
     "6dc9f931001a",
     "99c2dc799588",
-    "8d715b84840e"
+    "8d715b84840e",
+    "ba1e92b929e3"
    ],
    "concepts": []
   },
@@ -141,7 +145,8 @@
    "title": "The swarm papers",
    "intro": "YC Labs publishes the multi-agent experiments behind yesterday's Minecraft story: emergent roles, hierarchies and coordination.",
    "stories": [
-    "feaf536b4e18"
+    "feaf536b4e18",
+    "4ad35515f220"
    ],
    "concepts": []
   },
@@ -163,7 +168,8 @@
     "ca421d42a878",
     "94ceb01449d4",
     "9222b3af7a54",
-    "34e60e958417"
+    "34e60e958417",
+    "1033f0b4b678"
    ],
    "concepts": []
   },
@@ -174,7 +180,9 @@
     "f0d18655c4ac",
     "7b658da57a6c",
     "c4dd5db76aef",
-    "331a127a1405"
+    "331a127a1405",
+    "4341665bafaa",
+    "f95852bfd64d"
    ],
    "concepts": []
   },
@@ -199,7 +207,8 @@
     "f72e070c5556",
     "1110dc70dd8f",
     "02fc983db8f7",
-    "6a715f9ad450"
+    "6a715f9ad450",
+    "b2b190b94e22"
    ],
    "concepts": []
   },
@@ -267,7 +276,10 @@
     "13c78ed3f75b",
     "cb89a1505cb2",
     "0f483009604d",
-    "cdfefcffafd7"
+    "cdfefcffafd7",
+    "bac281c67ffb",
+    "6395ffd6a22f",
+    "f76284a96050"
    ],
    "concepts": []
   },
@@ -302,7 +314,9 @@
    "title": "The backlash",
    "intro": "Ketan Joshi dissects a Microsoft Copilot ad in which 'Kyle' copies a praised colleague's work and takes the credit - and calls it the most honest piece of AI marketing ever made: the product truth is appropriation, sold with a smile.",
    "stories": [
-    "aa52b1bd0b00"
+    "aa52b1bd0b00",
+    "316767f6149f",
+    "b66c2e2380a7"
    ],
    "concepts": []
   },
@@ -313,7 +327,10 @@
     "256b0f4a5102",
     "831298e4219a",
     "213157b68deb",
-    "2a21e7848bf9"
+    "2a21e7848bf9",
+    "46d4f73aace7",
+    "19fef3bdab7d",
+    "e2cf0560a073"
    ],
    "concepts": []
   },
@@ -339,7 +356,8 @@
    "title": "The limits land",
    "intro": "Developers report Opus 5.5 refusing reverse-engineering and analysis tasks beyond the confirmed game-clone limits; the workaround of record is deliberately downgrading to an older model.",
    "stories": [
-    "bca252c973aa"
+    "bca252c973aa",
+    "4785ab619529"
    ],
    "concepts": []
   },
@@ -347,7 +365,9 @@
    "title": "The engineering shelf",
    "intro": "OpenAI engineering on scaling Git for its development org; the source page was unretrievable, so details await a successful fetch.",
    "stories": [
-    "2965c1e8ea68"
+    "2965c1e8ea68",
+    "1fc6692448a8",
+    "2c2f58198654"
    ],
    "concepts": []
   },
@@ -379,7 +399,8 @@
    "title": "The politics of safety",
    "intro": "NYMag profiles Alex Bores, the RAISE Act sponsor turned martyr of the $8M super-PAC hit, now launching Who Decides to make AI safety a default Democratic position for 2028.",
    "stories": [
-    "06ddb0ed8e44"
+    "06ddb0ed8e44",
+    "97bb68716d39"
    ],
    "concepts": []
   },
@@ -395,7 +416,10 @@
    "title": "The security desk",
    "intro": "OpenAI partners with Cathedral and quadruples top bug-bounty rewards - paying up to be attacked on friendly terms, the same week an autonomous AI pentest framework shows up in a real breach notification.",
    "stories": [
-    "703024b2229e"
+    "703024b2229e",
+    "421ececb5e76",
+    "05b90ec7039e",
+    "71d7db299774"
    ],
    "concepts": []
   },

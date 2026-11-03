@@ -1,0 +1,13 @@
+{
+ "id": "316767f6149f",
+ "authored_at": "2026-11-03T15:05:47Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Cory Doctorow's new essay opens a century before the Turing Test: from 1915 to 1925, Thomas Edison toured America with 'tone tests' - live performers and his phonograph behind curtains, the reveal being that audiences had taken the record player for the musician. Modern listeners hear those scratchy recordings and assume old-timey audiences were credulous yokels. Doctorow's answer: they weren't deaf, they were operating on a lifetime in which the sound of a performance had always implied a performer. When two things have been inseparable for all of history, the brain treats them as one.\n\nHe names the general principle through Douglas Adams' towel gambit: a hitchhiker spotted with a towel is assumed to also have the toothbrush, compass and space suit - and is happily lent any of them. Possession of one impressive attribute implies the whole kit. The Edison tone test weaponized the same inference: fidelity in one dimension borrowed credibility for the whole.\n\nThe essay is building its AI argument from this foundation - that fluent, confident text plays the phonograph's trick on us, borrowing the credibility we grant to articulate human experts. (The full development continues past the excerpt; the framing above is what the opening establishes.) Doctorow's title, 'Separable,' is the counter-thesis: the things AI makes us conflate are, in fact, separable - and learning to separate them is the era's core literacy.",
+ "highlights": [
+  "Doctorow: Edison's 1915-25 'tone tests' fooled audiences not because phonographs sounded real, but because performance had always implied a performer",
+  "The towel gambit (Douglas Adams) as the general principle: one impressive attribute implies the whole kit",
+  "The AI argument built on it: fluent text borrows the credibility we grant articulate experts - and the things we conflate are 'separable'",
+  "A rhetoric-of-credulity essay rather than a capability claim; the counter-literacy is learning to separate"
+ ]
+}

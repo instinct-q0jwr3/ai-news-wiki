@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GPU-accelerated Weight Teleportation · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793718466"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>GPU-accelerated Weight Teleportation</h1>
+<p class="meta">type: news-summary · created: 2026-11-03 · updated: 2026-11-03 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Large-scale RL has a plumbing problem pretraining never had: the sampler fleet must run on the same weights the trainer just produced, so every training step ends with terabytes of weights shipped trainer-to-sampler - over intra-cluster RDMA if you're lucky, with the samplers paused and burning money meanwhile. This post (from the Ampersand production RL setup) introduces GPU-accelerated weight teleportation: a Blackwell-native compression/decompression pipeline for delta weight sync that brings sampler pause time below 0.23 seconds and end-to-end weight sync under 4 seconds - faster than intra-cluster P2P RDMA for most real workloads.</p>
+<p>The design builds on delta weight sync (XOR masks against the old weights) and pushes the compression work onto the GPUs themselves, saturating Blackwell's dedicated decompression ASIC - which becomes the bottleneck, meaning the pipeline is hardware-limited rather than algorithm-limited. The proxy workload is a 445 GB NVFP4 GLM-5.3 checkpoint with a 0.085% steady-state mutation per step, across 64 B300 training nodes and TP4 rollout receivers.</p>
+<p>The bigger point: as RL post-training becomes the main capability lever, the trainer-sampler weight-sync loop is one of its defining systems bottlenecks. Sub-quarter-second pauses change what training configurations are practical - including samplers and trainers that aren't even co-located in the same cluster.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Weight teleportation for RL: Blackwell-native delta compression cuts sampler pause below 0.23s and full weight sync under 4s</li>
+<li>Faster than intra-cluster P2P RDMA for most workloads; the decompression ASIC becomes the bottleneck</li>
+<li>Workload: 445GB NVFP4 GLM-5.3 checkpoint, 0.085% weight mutation per step, 64 B300 trainer nodes</li>
+<li>Why it matters: trainer-sampler weight sync is a defining bottleneck of large-scale RL; near-zero pause makes non-co-located training practical</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://humansand.ai/blog/gpu-accelerated-weight-teleportation">Read the original story</a> · <a href="https://tldr.tech/ai/2026-11-03">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/compute-buildout.html">Compute and the data-center build-out</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

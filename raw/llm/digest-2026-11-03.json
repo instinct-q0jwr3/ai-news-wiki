@@ -12,7 +12,10 @@
     "256b0f4a5102",
     "831298e4219a",
     "213157b68deb",
-    "2a21e7848bf9"
+    "2a21e7848bf9",
+    "46d4f73aace7",
+    "19fef3bdab7d",
+    "e2cf0560a073"
    ],
    "concepts": []
   },
@@ -46,7 +49,8 @@
    "title": "The limits land",
    "intro": "Developers report Opus 5.5 refusing reverse-engineering and analysis tasks beyond the confirmed game-clone limits; the workaround of record is deliberately downgrading to an older model.",
    "stories": [
-    "bca252c973aa"
+    "bca252c973aa",
+    "4785ab619529"
    ],
    "concepts": []
   },
@@ -55,7 +59,8 @@
    "intro": "Trajectory raises $45M from Sequoia to automate post-training for companies without research teams; Apple posts a record $114.5B quarter with no compute story attached.",
    "stories": [
     "99c2dc799588",
-    "8d715b84840e"
+    "8d715b84840e",
+    "ba1e92b929e3"
    ],
    "concepts": []
   },
@@ -64,7 +69,10 @@
    "intro": "Fujifilm quintuples LTO tape capacity for the AI archiving boom - the buildout's supply chain reaches back to the 1950s. WiCi bets on the opposite architecture: a wireless GPU box that serves local inference to every device in the house.",
    "stories": [
     "0f483009604d",
-    "cdfefcffafd7"
+    "cdfefcffafd7",
+    "bac281c67ffb",
+    "6395ffd6a22f",
+    "f76284a96050"
    ],
    "concepts": []
   },
@@ -73,7 +81,10 @@
    "intro": "llm 0.37 lands, and Willison reports the AI-PR flood is manageable when you triage it with models - 'bug reports with attached examples.'",
    "stories": [
     "df770ad8e340",
-    "7ad9e906d30d"
+    "7ad9e906d30d",
+    "b0cf26519086",
+    "d990be6400d8",
+    "3eed788f341a"
    ],
    "concepts": []
   },
@@ -81,7 +92,9 @@
    "title": "The engineering shelf",
    "intro": "OpenAI engineering on scaling Git for its development org; the source page was unretrievable, so details await a successful fetch.",
    "stories": [
-    "2965c1e8ea68"
+    "2965c1e8ea68",
+    "1fc6692448a8",
+    "2c2f58198654"
    ],
    "concepts": []
   },
@@ -113,7 +126,8 @@
    "title": "The politics of safety",
    "intro": "NYMag profiles Alex Bores, the RAISE Act sponsor turned martyr of the $8M super-PAC hit, now launching Who Decides to make AI safety a default Democratic position for 2028.",
    "stories": [
-    "06ddb0ed8e44"
+    "06ddb0ed8e44",
+    "97bb68716d39"
    ],
    "concepts": []
   },
@@ -129,7 +143,10 @@
    "title": "The security desk",
    "intro": "OpenAI partners with Cathedral and quadruples top bug-bounty rewards - paying up to be attacked on friendly terms, the same week an autonomous AI pentest framework shows up in a real breach notification.",
    "stories": [
-    "703024b2229e"
+    "703024b2229e",
+    "421ececb5e76",
+    "05b90ec7039e",
+    "71d7db299774"
    ],
    "concepts": []
   },
@@ -146,7 +163,42 @@
    "title": "The adoption question",
    "intro": "Larridin raises $30M from Pelion to measure how AI actually affects employee output - the analytics layer for enterprises auditing their AI bills.",
    "stories": [
-    "331a127a1405"
+    "331a127a1405",
+    "4341665bafaa",
+    "f95852bfd64d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The alignment desk",
+   "intro": "Anthropic's 'Teaching Claude Why' techniques get their first external replication - on open models, with checkpoints released. Alignment verification no longer requires frontier-lab access.",
+   "stories": [
+    "1033f0b4b678"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The swarm papers",
+   "intro": "A public recipe for training agent collectives arrives months after swarms solved a Millennium Prize problem and coordinated a cyberattack - capability before science, as usual.",
+   "stories": [
+    "4ad35515f220"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The backlash",
+   "intro": "Doctorow resurrects Edison's tone tests to explain AI credulity, and Terence Eden files a small act of resistance against robotic customer support. The cultural immune response, in two registers.",
+   "stories": [
+    "316767f6149f",
+    "b66c2e2380a7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labs' week",
+   "intro": "GPT-6.2 Astra surfaces in Codex usage analytics before any announcement - the launch-by-analytics-leak pattern again, with a raw API event as evidence.",
+   "stories": [
+    "b2b190b94e22"
    ],
    "concepts": []
   }

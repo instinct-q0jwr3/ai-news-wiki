@@ -1,0 +1,14 @@
+{
+ "id": "f95852bfd64d",
+ "authored_at": "2026-11-03T15:06:35Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Itch.io says it is extending its generative-AI disclosure filtering to a few more places on the site, per the company's Bluesky announcement. Details are thin beyond the one-line post, but the direction continues itch's policy of labeling AI-generated asset disclosure on store pages."
+ ],
+ "highlights": [
+  "itch.io extends GenAI disclosure filtering to more areas of the site",
+  "One-line Bluesky announcement; details still thin"
+ ],
+ "basis": "Thin cache (Bluesky post, ~19 chars extracted). Written from the Hacker News item title and the extracted announcement line only; no article body available."
+}
