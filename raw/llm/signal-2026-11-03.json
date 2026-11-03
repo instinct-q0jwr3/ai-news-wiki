@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-03",
+ "date": "2026-11-03",
+ "status": "provisional",
+ "reserve": "29871a763459",
+ "picks": [
+  {
+   "id": "46d4f73aace7",
+   "front": "The IPO ledger",
+   "source": "techspot.com",
+   "why": "Anthropic's S-1 puts payroll at about $107K per employee per month - a first look at what the labor bill of a frontier lab really is before public investors pile in."
+  },
+  {
+   "id": "1033f0b4b678",
+   "front": "Alignment",
+   "source": "lesswrong.com",
+   "why": "The first outside replication of Anthropic's 'Teaching Claude Why' on open models: alignment techniques shipped in production can now be verified without frontier-lab access."
+  },
+  {
+   "id": "1fac56fc9de2",
+   "front": "Security",
+   "source": "cnbc.com",
+   "why": "Binance's account of the $6B theft: months of fake dev tools and fake recruiters, then a pivot through internal AI tools to the wallet authorization system."
+  },
+  {
+   "id": "3eed788f341a",
+   "front": "Agents do the work",
+   "source": "commandline.microsoft.com",
+   "why": "Nine engineers merged 1,211 PRs in a day while migrating a live service from Python to Rust - the constraint is now specs and review, not code."
+  },
+  {
+   "id": "c5c696d3ae5d",
+   "front": "Consumer adoption",
+   "source": "bigtechnology.com",
+   "why": "ChatGPT went from 1B to 1.2B weekly users in 60 days and says search-like queries are about a fifth of Google's - company numbers, but the pace is the news."
+  }
+ ]
+}

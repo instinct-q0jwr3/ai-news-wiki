@@ -33,7 +33,8 @@
     "7ad9e906d30d",
     "b0cf26519086",
     "d990be6400d8",
-    "3eed788f341a"
+    "3eed788f341a",
+    "484cd1381d8f"
    ],
    "concepts": []
   },
@@ -52,7 +53,8 @@
     "6dc9f931001a",
     "99c2dc799588",
     "8d715b84840e",
-    "ba1e92b929e3"
+    "ba1e92b929e3",
+    "34e0b8b60d7d"
    ],
    "concepts": []
   },
@@ -182,7 +184,10 @@
     "c4dd5db76aef",
     "331a127a1405",
     "4341665bafaa",
-    "f95852bfd64d"
+    "f95852bfd64d",
+    "2aeae094ed15",
+    "c657304af6b6",
+    "cf3e486d5080"
    ],
    "concepts": []
   },
@@ -316,7 +321,8 @@
    "stories": [
     "aa52b1bd0b00",
     "316767f6149f",
-    "b66c2e2380a7"
+    "b66c2e2380a7",
+    "717c300472a9"
    ],
    "concepts": []
   },
@@ -348,7 +354,9 @@
    "intro": "Sean Goedecke reads the weight-space programming paper and reaches for the cold water: a smart human with three lines of numpy could do most of it, and the honest claim is 'better than expected,' not 'superhuman.' AINews adds that an independent reproduction may already have confirmed the capability - and notes its own co-author is on the paper.",
    "stories": [
     "a32a24f39709",
-    "c9b45cf28ae9"
+    "c9b45cf28ae9",
+    "8ec7f86355a3",
+    "8959afa3a491"
    ],
    "concepts": []
   },
@@ -367,7 +375,9 @@
    "stories": [
     "2965c1e8ea68",
     "1fc6692448a8",
-    "2c2f58198654"
+    "2c2f58198654",
+    "6c992f12c70a",
+    "e9bcb81825dc"
    ],
    "concepts": []
   },
@@ -375,7 +385,9 @@
    "title": "The lopsided boom",
    "intro": "The ABC maps an S&P 500 where tech is 44% of value and the AI trade is the index's center of gravity - masking weakness elsewhere and concentrating repricing risk in every retirement account.",
    "stories": [
-    "decaeece8af6"
+    "decaeece8af6",
+    "29871a763459",
+    "59498e7830f8"
    ],
    "concepts": []
   },
@@ -400,7 +412,11 @@
    "intro": "NYMag profiles Alex Bores, the RAISE Act sponsor turned martyr of the $8M super-PAC hit, now launching Who Decides to make AI safety a default Democratic position for 2028.",
    "stories": [
     "06ddb0ed8e44",
-    "97bb68716d39"
+    "97bb68716d39",
+    "3c65291f996b",
+    "79eb1609e974",
+    "18f3b9cdde1e",
+    "8d27deedf6cf"
    ],
    "concepts": []
   },
@@ -408,7 +424,9 @@
    "title": "The consumer push",
    "intro": "Google takes Dreambeans to India with 13 languages - looking for the audience the proactive-story app hasn't found in the US, where downloads fell 84% in October.",
    "stories": [
-    "b6fc6059d741"
+    "b6fc6059d741",
+    "c5c696d3ae5d",
+    "525bcfad57ed"
    ],
    "concepts": []
   },
@@ -419,7 +437,11 @@
     "703024b2229e",
     "421ececb5e76",
     "05b90ec7039e",
-    "71d7db299774"
+    "71d7db299774",
+    "1fac56fc9de2",
+    "7cb4026f6aaa",
+    "efe4ed352b4e",
+    "f52c929f3da2"
    ],
    "concepts": []
   },
@@ -429,6 +451,15 @@
    "stories": [
     "245cce2cad5b",
     "a63e9762bff8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The copyright front",
+   "intro": "Publishers take their fight to the supply chain: the NYT and others sue Brave for feeding scraped, paywalled content to AI labs through its search index.",
+   "stories": [
+    "f5a50ad2c308",
+    "b96a86429782"
    ],
    "concepts": []
   }

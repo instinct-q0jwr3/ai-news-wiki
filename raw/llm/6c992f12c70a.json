@@ -1,0 +1,14 @@
+{
+ "id": "6c992f12c70a",
+ "authored_at": "2026-11-03T21:07:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Show HN post links to a page of interactive notes on RLHF, attention, LoRA and LLM evaluations, built so readers learn by changing inputs. The page needs JavaScript, so only its title and tagline were extracted: 'Engineering ideas you understand by changing the inputs.'"
+ ],
+ "highlights": [
+  "Interactive explainers on RLHF, attention, LoRA and LLM evals",
+  "Page requires JavaScript; content not captured"
+ ],
+ "basis": "Thin cache (102 chars, JS-only page). Written from the HN title and the extracted tagline."
+}

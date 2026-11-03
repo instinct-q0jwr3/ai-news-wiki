@@ -10,6 +10,8 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-03** - Apple released the first developer betas of iOS 27.3 and watchOS 27.3 on Tuesday, per Bloomberg. iOS 27.3 adds Apple Intelligence in China with an Alibaba-powered content filter; watchOS 27.3 adds Siri Recap and Live Rewind. ([Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind](../summaries/525bcfad57ed.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md)) 🔒
+- **2026-11-03** - Siri AI, an entirely new version of Siri that is profoundly more capable, conversational, and personal, is designed to be deeply integrated into Apple’s operating systems and the apps people use every day, including the apps from our… ([Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents](../summaries/8e9b2261901d.md) · [Apple](../entities/apple.md))
 - **2026-11-03** - Jason Snell's traditional chart barrage for Apple's record fourth quarter: revenue of $114.5 billion, up 12% year on year, with iPhone up 17.5%, Mac up 23.7% and Services up 9.8%. The soft spots are Wearables, down 7.9%, and iPad, down 10.4%.
 
 The AI angle… ([Apple Announces Record $114.5B Fourth-Quarter Results](../summaries/8d715b84840e.md) · [Apple](../entities/apple.md))

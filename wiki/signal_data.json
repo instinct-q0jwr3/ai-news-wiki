@@ -1846,5 +1846,61 @@
   "thin": 5,
   "total": 79,
   "unreadable": 13
+ },
+ "2026-11-03": {
+  "ok": 52,
+  "paywall": 16,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "The IPO ledger",
+    "id": "46d4f73aace7",
+    "minutes": 2,
+    "source": "techspot.com",
+    "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+    "why": "Anthropic's S-1 puts payroll at about $107K per employee per month - a first look at what the labor bill of a frontier lab really is before public investors pile in."
+   },
+   {
+    "cat": "ok",
+    "front": "Alignment",
+    "id": "1033f0b4b678",
+    "minutes": 55,
+    "source": "lesswrong.com",
+    "title": "Teaching Qwen Why",
+    "why": "The first outside replication of Anthropic's 'Teaching Claude Why' on open models: alignment techniques shipped in production can now be verified without frontier-lab access."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "1fac56fc9de2",
+    "minutes": 3,
+    "source": "cnbc.com",
+    "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
+    "why": "Binance's account of the $6B theft: months of fake dev tools and fake recruiters, then a pivot through internal AI tools to the wallet authorization system."
+   },
+   {
+    "cat": "ok",
+    "front": "Agents do the work",
+    "id": "3eed788f341a",
+    "minutes": 15,
+    "source": "commandline.microsoft.com",
+    "title": "Lessons from building Copilot Cowork",
+    "why": "Nine engineers merged 1,211 PRs in a day while migrating a live service from Python to Rust - the constraint is now specs and review, not code."
+   },
+   {
+    "cat": "ok",
+    "front": "Consumer adoption",
+    "id": "c5c696d3ae5d",
+    "minutes": 15,
+    "source": "bigtechnology.com",
+    "title": "ChatGPT Consumer Product Lead Adam Fry says ChatGPT has hit 1.2B WAUs, adding 200M over the past two months, and its search volume is now ~20% of Google's",
+    "why": "ChatGPT went from 1B to 1.2B weekly users in 60 days and says search-like queries are about a fifth of Google's - company numbers, but the pace is the news."
+   }
+  ],
+  "reserve": "29871a763459",
+  "status": "provisional",
+  "thin": 4,
+  "total": 79,
+  "unreadable": 7
  }
 }

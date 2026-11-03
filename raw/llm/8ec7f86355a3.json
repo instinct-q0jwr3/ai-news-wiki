@@ -1,0 +1,13 @@
+{
+ "id": "8ec7f86355a3",
+ "authored_at": "2026-11-03T21:07:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison shows a research result that runs on a laptop: Qwen 3.8 27B can interpret model weights, echoing a larger finding in the work he is covering. In that research, GPT-6 Astra reads raw weights and works out what a network was trained to do, and without environment feedback writes small game-playing networks that beat PPO-trained ones from 100 million steps. Asked to improve Qwen3.5-0.8B at math without gradients, it spots a reasoning-loop issue named in Qwen's own model card and edits 0.016% of the weights, lifting MATH-500 from 7.9% to 48.1% and tripling IFEval. The authors call this Weight-Space Programming.\n\nThe post's demo gives a model one policy network's weights and asks which game it was trained on, with no tools; the model answers with a description and a confidence level (the first guess, a Pac-Man-style maze at 72%, was not necessarily right). Willison's contribution is that a smaller open model does a version of this locally, which makes the technique reproducible by anyone.",
+ "highlights": [
+  "Weight-Space Programming: a model reads weights, infers training purpose, and edits them directly",
+  "Reported edit of 0.016% of Qwen3.5-0.8B's weights lifted MATH-500 from 7.9% to 48.1%",
+  "Qwen 3.8 27B can do a version of the interpretation task on a laptop",
+  "Reproducibility on open models is the post's contribution"
+ ]
+}

@@ -1,173 +1,155 @@
 {
- "generated_at": "2026-11-03T15:04:22+00:00",
+ "generated_at": "2026-11-03T21:05:00+00:00",
  "stories": [
   {
-   "id": "46d4f73aace7",
-   "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+   "id": "efe4ed352b4e",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
    "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html"
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
   },
   {
-   "id": "19fef3bdab7d",
-   "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+   "id": "2aeae094ed15",
+   "title": "Google will turn off search for schools that reject AI",
    "source": "Hacker News",
-   "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive"
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
   },
   {
-   "id": "f95852bfd64d",
-   "title": "Itch.io adding Generative AI disclosure filtering to few more places on the site",
+   "id": "27d16ff50c05",
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
    "source": "Hacker News",
-   "url": "https://bsky.app/profile/itch.io/post/3mzezjvqexs2h"
+   "url": "https://news.ycombinator.com/item?id=50352757"
   },
   {
-   "id": "4341665bafaa",
-   "title": "The Nordic Token Tax",
+   "id": "21f7ee94d645",
+   "title": "Gitbook Breached",
    "source": "Hacker News",
-   "url": "https://research.klang.ai/papers/the-nordic-token-tax"
+   "url": "https://news.ycombinator.com/item?id=50354336"
   },
   {
-   "id": "b0cf26519086",
-   "title": "Claude Introduces Message Threads",
-   "source": "TLDR AI",
-   "url": "https://claude.com/resources/articles/message-threads"
+   "id": "717c300472a9",
+   "title": "Quili AI",
+   "source": "Hacker News",
+   "url": "https://www.quili.ai/"
   },
   {
-   "id": "ba1e92b929e3",
-   "title": "Elon Musk Limits Grok Bot Usage Over Rising Costs",
-   "source": "TLDR AI",
-   "url": "https://x.com/elonmusk/status/2116992258520064397"
-  },
-  {
-   "id": "e2cf0560a073",
-   "title": "Anthropic tells investors that its 15-person chip design team is already using Claude for engineering and design work on its custom chips",
+   "id": "3c65291f996b",
+   "title": "UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors"
+   "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/"
   },
   {
-   "id": "b66c2e2380a7",
-   "title": "Just a little AI resistance, as a treat",
-   "source": "Terence Eden",
-   "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
+   "id": "59498e7830f8",
+   "title": "The AI Bubble Monitor",
+   "source": "Hacker News",
+   "url": "https://cepr.net/publications/ai-bubble-monitor/"
   },
   {
-   "id": "4ad35515f220",
-   "title": "How to Train a Swarm",
-   "source": "TLDR AI",
-   "url": "https://www.gr.inc/blog/how-to-train-a-swarm"
+   "id": "484cd1381d8f",
+   "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+   "source": "Hacker News",
+   "url": "https://github.com/Muvon/octomind"
   },
   {
-   "id": "2a21e7848bf9",
-   "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred",
+   "id": "6c992f12c70a",
+   "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+   "source": "Hacker News",
+   "url": "https://concepts.laxmena.com/"
+  },
+  {
+   "id": "29871a763459",
+   "title": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
+   "source": "Hacker News",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html"
+  },
+  {
+   "id": "8959afa3a491",
+   "title": "Embedding boolean circuits in a neural network",
+   "source": "Hacker News",
+   "url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network"
+  },
+  {
+   "id": "e9bcb81825dc",
+   "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+   "source": "Hacker News",
+   "url": "https://hackertv.org"
+  },
+  {
+   "id": "1fac56fc9de2",
+   "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+  },
+  {
+   "id": "b96a86429782",
+   "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
+  },
+  {
+   "id": "c657304af6b6",
+   "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
+   "source": "Hacker News",
+   "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/"
+  },
+  {
+   "id": "f52c929f3da2",
+   "title": "AI Agents Used by Railway Breach Systems of Rival Primcloud",
+   "source": "Hacker News",
+   "url": "https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud/"
+  },
+  {
+   "id": "8e9b2261901d",
+   "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+   "url": "https://developer.apple.com/news/?id=gdk2umrf"
   },
   {
-   "id": "1033f0b4b678",
-   "title": "Teaching Qwen Why",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1"
-  },
-  {
-   "id": "3eed788f341a",
-   "title": "Lessons from building Copilot Cowork",
-   "source": "TLDR AI",
-   "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/"
-  },
-  {
-   "id": "316767f6149f",
-   "title": "Pluralistic: Separable (03 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/03/nobody-is-home/"
-  },
-  {
-   "id": "6395ffd6a22f",
-   "title": "US data center operators and power developers are repurposing jet engines to secure power in as little as two years, bypassing multi-year grid-connection delays",
+   "id": "34e0b8b60d7d",
+   "title": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation"
   },
   {
-   "id": "1110dc70dd8f",
-   "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience",
+   "id": "18f3b9cdde1e",
+   "title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\"",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+   "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html"
   },
   {
-   "id": "2c2f58198654",
-   "title": "The Hitchhiker's Guide to Training on Compute Islands",
-   "source": "TLDR AI",
-   "url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands"
-  },
-  {
-   "id": "97bb68716d39",
-   "title": "OpenAI hires ex-US Army Secretary Dan Driscoll to oversee national security modernization, as it pushes to secure government contracts and shape military policy",
+   "id": "525bcfad57ed",
+   "title": "Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/politics/national-security/openai-hires-former-army-secretary-dan-driscoll-to-cybersecurity-role-0e5cc0a1?st=cfNEPb&reflink=desktopwebshare_permalink"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczMDU5MCwiZXhwIjoxNzk0MzM1MzkwLCJhcnRpY2xlSWQiOiJUTlhWQTJOM04wOUowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.7fxypbPrSvvjnL8axvz4558x4pLkCOGmDrxk0Q0E3l0"
   },
   {
-   "id": "71d7db299774",
-   "title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash",
+   "id": "8d27deedf6cf",
+   "title": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e"
+   "url": "https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber"
   },
   {
-   "id": "d990be6400d8",
-   "title": "Harness 2: executing agent code as it streams",
-   "source": "TLDR AI",
-   "url": "https://framer.com/blog/harness-2/"
-  },
-  {
-   "id": "40f79c504c4e",
-   "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\"",
+   "id": "c5c696d3ae5d",
+   "title": "ChatGPT Consumer Product Lead Adam Fry says ChatGPT has hit 1.2B WAUs, adding 200M over the past two months, and its search volume is now ~20% of Google's",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+   "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20"
   },
   {
-   "id": "1fc6692448a8",
-   "title": "GPU-accelerated Weight Teleportation",
-   "source": "TLDR AI",
-   "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation"
+   "id": "f5a50ad2c308",
+   "title": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
+   "source": "Daring Fireball",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
   },
   {
-   "id": "bac281c67ffb",
-   "title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028",
+   "id": "8ec7f86355a3",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+  },
+  {
+   "id": "7cb4026f6aaa",
+   "title": "CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html"
-  },
-  {
-   "id": "5d70dc79b00c",
-   "title": "China plans to roll out broad AI safety standards covering development through deployment, targeting domestic AI model makers, after global security incidents",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/"
-  },
-  {
-   "id": "b2b190b94e22",
-   "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/"
-  },
-  {
-   "id": "4785ab619529",
-   "title": "OpenAI Introduces LifeVal to Measure AI Performance on Everyday Tasks",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/lifeval/"
-  },
-  {
-   "id": "05b90ec7039e",
-   "title": "The UK NCSC says AI is \"transforming cyber operations\" and expects China and Russia to \"routinely use AI cyber to achieve their geopolitical goals\" by 2028",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40"
-  },
-  {
-   "id": "f76284a96050",
-   "title": "NVIDIA's Cosmos Framework",
-   "source": "TLDR AI",
-   "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/"
-  },
-  {
-   "id": "421ececb5e76",
-   "title": "Limit what agents learn about private repos with enclaves",
-   "source": "TLDR AI",
-   "url": "https://githubnext.com/posts/enclaves/"
+   "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html"
   }
  ]
 }

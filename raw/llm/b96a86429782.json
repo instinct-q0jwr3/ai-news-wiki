@@ -1,0 +1,13 @@
+{
+ "id": "b96a86429782",
+ "authored_at": "2026-11-03T21:07:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The Times' lawsuit against Brave, filed in the Southern District of New York, gets its fuller account here. The complaint calls Brave 'the supplier, dealer, and distributor of stolen copyrighted content' for its users and for major GenAI firms, and cites third-party estimates that Brave made more than $100 million by copying and reselling publishers' work while publishers received nothing.\n\nThe suit leans on Brave's own marketing: the Brave Search API is advertised as used by Cohere, Mistral, Perplexity and You.com. It alleges direct infringement (scraping for the index, the 'Ask Brave' AI feature and the API), plus contributory and vicarious infringement for facilitating and profiting from users' and AI customers' copying. It also adds a claim under the Digital Millennium Copyright Act around circumventing paywalls.\n\nTaken with the same-day report from The Verge, the picture is a publisher coalition testing a new theory: that an AI-facing search index is itself an infringing product, not just a neutral pipe.",
+ "highlights": [
+  "NYT sues Brave in SDNY: 'supplier, dealer, and distributor of stolen copyrighted content'",
+  "Claims Brave earned more than $100M while publishers got nothing",
+  "Theories: direct, contributory and vicarious infringement, plus a DMCA paywall-circumvention claim",
+  "Brave's own site lists AI customers of its Search API, which the suit quotes"
+ ]
+}

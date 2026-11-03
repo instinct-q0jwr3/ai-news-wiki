@@ -1,0 +1,14 @@
+{
+ "id": "e9bcb81825dc",
+ "authored_at": "2026-11-03T21:07:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "HackerTV is a Show HN project that turns Hacker News' most-recommended YouTube videos into 24/7 TV channels with a retro TV interface: channel up and down, number keys, a program guide, captions and theater mode. The page warns that durations are estimated until YouTube metadata loads, so some programs may run short or get cut off."
+ ],
+ "highlights": [
+  "HN's most-recommended YouTube videos as always-on TV channels",
+  "Retro controls: channel surfing, guide, captions, fullscreen"
+ ],
+ "basis": "Short cache (479 chars of page UI text). Written from the page's interface description."
+}

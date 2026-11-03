@@ -1,0 +1,13 @@
+{
+ "id": "c5c696d3ae5d",
+ "authored_at": "2026-11-03T21:07:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "In a fireside chat at an OpenAI dinner in New York, ChatGPT consumer product lead Adam Fry told Alex Kantrowitz that ChatGPT grew from 1 billion to 1.2 billion weekly active users in 60 days. He said search-like queries are roughly one-fifth of Google's volume, users create 1.5 billion images a week, and voice mode (dictation plus conversation) has 250 million combined weekly users.\n\nFry also said OpenAI plans to merge ChatGPT's Chat and Work modes so the confusing toggle goes away, and agreed with criticism that ChatGPT-made restaurant signage looks too uniform. The conversation covers image generation, interactive interfaces, advertising, education, public unease about AI, and the cost of serving its personal assistant Dots; only the opening was read here.\n\nThe numbers are company claims delivered in a friendly setting; the 20% search comparison depends on how OpenAI defines a search, a question Kantrowitz raises himself.",
+ "highlights": [
+  "ChatGPT reached 1.2B weekly users, adding 200M in two months",
+  "OpenAI says search-like queries are ~20% of Google's volume",
+  "1.5B images per week; 250M weekly voice-mode users",
+  "Chat and Work modes to be merged; figures are company claims, remainder of interview not read"
+ ]
+}

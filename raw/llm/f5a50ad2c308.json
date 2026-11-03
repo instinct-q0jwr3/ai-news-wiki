@@ -1,0 +1,13 @@
+{
+ "id": "f5a50ad2c308",
+ "authored_at": "2026-11-03T21:07:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The New York Times and a group of other publications - including the New York Daily News, Chicago Tribune and Orlando Sentinel - have sued Brave Software, the browser maker, on two fronts: that it scraped their sites without permission to build a search index it then sells to AI companies, and that its 'Paywall blocker' feature lets users bypass subscriptions. The complaint names Anthropic, Perplexity, Mistral, xAI and Cohere as paying customers of Brave's real-time index, which they allegedly use for training and to answer live queries.\n\nThe publishers' core argument is that Brave never asked permission, never paid, and took steps that stop publishers from blocking its crawler. A Times spokesperson says Brave ignored repeated requests to stop. The framing is that Brave is the middleman laundering content to AI labs that would rather not be seen taking it directly.\n\nThe case widens the AI-copyright fight from model makers to the infrastructure that supplies them: search-index APIs are now a litigation target, and any lab buying content through one inherits some of the exposure.",
+ "highlights": [
+  "NYT, Daily News, Chicago Tribune and Orlando Sentinel sue Brave over scraping and its paywall blocker",
+  "Allegation: Brave sells paid access to a scraped index to Anthropic, Perplexity, Mistral, xAI and Cohere",
+  "Publishers say Brave never asked permission or paid, and obstructed their attempts to block its crawler",
+  "Search-index APIs become a copyright target, with downstream AI customers exposed"
+ ]
+}

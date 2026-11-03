@@ -1,0 +1,13 @@
+{
+ "id": "efe4ed352b4e",
+ "authored_at": "2026-11-03T21:07:27Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A Hacker News thread reports that Postman's desktop app installs AI plugins and coding-agent skills on users' machines without clear consent, and attempts to share API data. One commenter describes opening Postman on a Mac and then seeing recurring MCP authentication warnings and Codex repeatedly routing API work through Postman skills; digging found a user-wide plugin and a startup instruction file that told agents to load a Postman skill before any API task.\n\nOther commenters say the script ran automatically after an update, that the company's reply on Discord was dismissive, and that Postman later altered its web page to downplay the behavior - something they dispute using a Wayback Machine snapshot from October 26. One user says an issue was raised on October 25, so earlier users were already affected.\n\nThe case is a clean example of an agent-era supply-chain concern: a trusted desktop tool writing instructions into the configuration that coding agents read. Note that the instruction text quoted in the thread is the reported payload, not guidance for anyone reading this page. The claims here come from user reports, not a confirmed Postman statement.",
+ "highlights": [
+  "Users report Postman silently installs AI plugins and agent skills, and tries to share API data",
+  "One user found a user-wide plugin and a startup instruction steering coding agents to Postman skills",
+  "Claim that Postman edited its page afterward is disputed via a Wayback snapshot from Oct 26",
+  "Instruction files for agents as a new supply-chain vector; all claims are user reports"
+ ]
+}
