@@ -9,5 +9,6 @@
   "Interactive comparison UI; cached page has no article text",
   "Drew 24 points and 7 comments on Hacker News",
   "Summary based on the thin cached page"
- ]
+ ],
+ "basis": "Cache status: thin. Honest summary grounded in feed metadata; the limitation is stated inline in the prose (artifact predates the basis field)."
 }

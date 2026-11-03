@@ -1,0 +1,14 @@
+{
+ "id": "a63e9762bff8",
+ "authored_at": "2026-11-03T09:05:15Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports Nvidia has verbally told cloud compute clients to sell at least 51% of their services to non-Chinese companies - a self-policing quota that further restricts China's access to AI chips through the cloud rental channel. Nvidia is effectively enforcing export controls on its own customers, without a written rule, as Washington's restrictions keep leaking through the services layer."
+ ],
+ "highlights": [
+  "FT: Nvidia verbally instructs cloud clients to sell 51%+ of services to non-Chinese customers",
+  "Export controls extend to the rental channel - enforced by the vendor, verbally, without a written rule"
+ ],
+ "basis": "Cache status: error (FT paywall); summary written from the feed excerpt only."
+}

@@ -1,0 +1,14 @@
+{
+ "id": "245cce2cad5b",
+ "authored_at": "2026-11-03T09:05:15Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports that Huawei has told some clients a large share of its upcoming flagship AI chip, the Ascend 960DT, will run largely on high-bandwidth memory made by Samsung and SK Hynix - an illustration of how porous US restrictions on AI-chip shipments to China remain, since the memory inside China's flagship silicon still comes from allied-country suppliers."
+ ],
+ "highlights": [
+  "The Information: Huawei's Ascend 960DT will largely run on Samsung/SK Hynix HBM, per client briefings",
+  "Export-control porosity: China's flagship AI chip depends on allied memory supply"
+ ],
+ "basis": "Cache status: error (The Information paywall); summary written from the feed excerpt only."
+}

@@ -8,5 +8,6 @@
  ],
  "model": "agent-pass",
  "schema": "1",
- "authored_at": "2026-09-30T21:20:00+02:00"
+ "authored_at": "2026-09-30T21:20:00+02:00",
+ "basis": "Cache status: thin. Honest summary grounded in feed metadata; the limitation is stated inline in the prose (artifact predates the basis field)."
 }

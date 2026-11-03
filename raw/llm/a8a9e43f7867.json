@@ -8,5 +8,6 @@
   "OpenAI details improved prompt caching for GPT-6",
   "Published on openai.com; selected by TLDR AI",
   "Source unreachable at fetch time; summary based on the headline"
- ]
+ ],
+ "basis": "Cache status: error. Honest summary grounded in feed metadata; the limitation is stated inline in the prose (artifact predates the basis field)."
 }

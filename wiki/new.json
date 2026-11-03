@@ -1,65 +1,41 @@
 {
- "generated_at": "2026-11-03T03:02:31+00:00",
+ "generated_at": "2026-11-03T09:03:26+00:00",
  "stories": [
   {
-   "id": "256b0f4a5102",
-   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "id": "decaeece8af6",
+   "title": "How AI is creating a lopsided US economy",
    "source": "Hacker News",
-   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
+   "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078"
   },
   {
-   "id": "831298e4219a",
-   "title": "Anthropic's growth just flattened",
+   "id": "cdfefcffafd7",
+   "title": "WiCi: Connecting GPUs over WiFi",
    "source": "Hacker News",
-   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened"
+   "url": "https://wici.ai"
   },
   {
-   "id": "4e8e9a757b52",
-   "title": "WorkOS reports security breach",
+   "id": "7ecf249c1de2",
+   "title": "Open models can do 90 percent of agentic work at a twentieth of the cost",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50345712"
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132"
   },
   {
-   "id": "0f483009604d",
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "id": "615e44095bc0",
+   "title": "Mass attempted replication of old findings of LLMs with new models",
    "source": "Hacker News",
-   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+   "url": "https://zou-group.github.io/llm-claims-shelf-life/"
   },
   {
-   "id": "bca252c973aa",
-   "title": "Developers are downgrading their AI on purpose – and it's working",
-   "source": "Hacker News",
-   "url": "https://thenewstack.io/claude-code-developer-refusals/"
-  },
-  {
-   "id": "9dde887875b6",
-   "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
-   "source": "Hacker News",
-   "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/"
-  },
-  {
-   "id": "df770ad8e340",
-   "title": "llm 0.37",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/2/llm/"
-  },
-  {
-   "id": "2a21e7848bf9",
-   "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred",
+   "id": "b6fc6059d741",
+   "title": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
   },
   {
-   "id": "ddce7a298d16",
-   "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math",
+   "id": "06ddb0ed8e44",
+   "title": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence",
    "source": "Techmeme",
-   "url": "https://rikiyat.github.io/blog/weight-space-programming/"
-  },
-  {
-   "id": "cb89a1505cb2",
-   "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/grid-protectors-program"
+   "url": "https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html"
   },
   {
    "id": "213157b68deb",
@@ -68,52 +44,52 @@
    "url": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9"
   },
   {
-   "id": "266026de3880",
-   "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta",
+   "id": "c9b45cf28ae9",
+   "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
+  },
+  {
+   "id": "2a21e7848bf9",
+   "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+  },
+  {
+   "id": "7ad9e906d30d",
+   "title": "October sponsors-only newsletter",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
+  },
+  {
+   "id": "245cce2cad5b",
+   "title": "Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea"
+  },
+  {
+   "id": "703024b2229e",
+   "title": "OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings",
+   "source": "Techmeme",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+  },
+  {
+   "id": "a63e9762bff8",
+   "title": "Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2"
+  },
+  {
+   "id": "3e55277d08e6",
+   "title": "Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta",
    "source": "Techmeme",
    "url": "https://www.theinformation.com/"
   },
   {
-   "id": "2965c1e8ea68",
-   "title": "Scaling Git at OpenAI",
-   "source": "Lobsters",
-   "url": "https://openai.com/index/scaling-git-at-openai/"
-  },
-  {
-   "id": "b8a8f2e4fd32",
-   "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/"
-  },
-  {
-   "id": "aad164a1fc63",
-   "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/"
-  },
-  {
-   "id": "a32a24f39709",
-   "title": "LLMs are not superhuman at reading and writing neural network weights",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/"
-  },
-  {
-   "id": "8d715b84840e",
-   "title": "Apple Announces Record $114.5B Fourth-Quarter Results",
-   "source": "Daring Fireball",
-   "url": "https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/"
-  },
-  {
-   "id": "7ba9521efd49",
-   "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying \"automation and AI are fundamentally shifting how software companies operate\"",
+   "id": "331a127a1405",
+   "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures",
    "source": "Techmeme",
-   "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950"
-  },
-  {
-   "id": "99c2dc799588",
-   "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+   "url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11"
   }
  ]
 }

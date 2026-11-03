@@ -1,0 +1,13 @@
+{
+ "id": "c9b45cf28ae9",
+ "authored_at": "2026-11-03T09:05:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Latent Space's AINews issue leads with the weight-space programming paper and frames it against two pieces of context its readers will feel: a deepening AI/tech bear market - Anthropic's bonds reportedly drawing a 'junk' rating comment and OpenAI out fundraising - and Karpathy's 'autoresearch' demonstration eight months ago, which kicked off the summer's recursive-self-improvement fears. AINews's co-author Alex Zhang is on the paper, so the writeup is informed rather than neutral: asking a smart model to directly read and edit a dumber model's weights is, in ML terms, skipping the source code and reading the compiled binary - telling what it does, one-shot-fixing bugs, even writing whole networks from scratch.\n\nThe issue adds one materially new fact: an independent reproduction of the weight-space results 'seems to already have found' the same capability, within days of the preprint. If that holds up, it answers the first skeptic question about the MIT CSAIL results (see today's Goedecke rebuttal for the second: whether any of it is actually superhuman).\n\nThe roundup continues with DeepSeek open-sourcing a 'super-agent' harness prototype - design article plus the dsh-superagent-prototype repo - extending the pattern of Chinese labs shipping the agent scaffolding, not just the weights. The editorial line tying the issue together: capability results keep arriving in the middle of a financing wobble, and the gap between those two curves is where the interesting year lives.",
+ "highlights": [
+  "AINews frames weight-space programming as 0-to-1 on a 'very new RSI capability' - with an independent reproduction reportedly already found",
+  "Context: the paper lands amid an AI bear wobble (Anthropic bond-rating chatter, OpenAI fundraising) and 8 months after Karpathy's autoresearch demo",
+  "Disclosure worth noting: AINews/Latent Space's Alex Zhang is a co-author of the paper",
+  "Also in the issue: DeepSeek open-sources a 'super-agent' harness prototype (design doc + repo)"
+ ]
+}

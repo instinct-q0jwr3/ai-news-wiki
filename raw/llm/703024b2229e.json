@@ -1,0 +1,14 @@
+{
+ "id": "703024b2229e",
+ "authored_at": "2026-11-03T09:05:15Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI announced a partnership with Cathedral to test its security defenses and a revamped Security Bug Bounty program that quadruples rewards for critical findings, alongside a planned internal security sprint bringing outside researchers together with its own teams. In the same week that WorkOS attributed a breach to an autonomous AI pentest framework, the frontier labs are paying up to be attacked on friendly terms."
+ ],
+ "highlights": [
+  "OpenAI partners with Cathedral on security testing; bug bounty rewards for critical findings quadrupled",
+  "Timing: defensive security spending rises as autonomous AI attack tooling shows up in real breach reports"
+ ],
+ "basis": "Cache status: error (openai.com blocked); summary written from the feed excerpt (OpenAI announcement via Techmeme) only."
+}

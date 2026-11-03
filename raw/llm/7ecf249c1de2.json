@@ -1,0 +1,13 @@
+{
+ "id": "7ecf249c1de2",
+ "authored_at": "2026-11-03T09:04:46Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Gartner's new strategic planning assumption: by 2030, 90% of enterprise operational agent workflow steps will run on open-weight models. The Register's writeup quotes analysts Mark Petty and Raymond Paquet: nine in ten agent workflow steps are routine - classification, tool calling, passing, validating, reconciling - and open-weight models already handle them 'at parity for a quarter of the price of the cheapest closed model.' Against a frontier model run on every step, the saving reaches a twentieth; even adjusting for open models' verbosity and retries, it's five to six times per task.\n\nBut the analysts frame cost as the by-product, not the argument. The argument is control: workflow history is a large part of what an acquirer pays for in a SaaS company, and every routine step sent to a frontier API moves a slice of it outside the perimeter. Domain-specific open models win where 'a small number of highly stable steps run millions of times a month.'\n\nTheir corollary reshuffles the value chain: models are commodities, and the value sits in harnesses - the tooling that routes each step to the cheapest adequate model, imposes guardrails and manages agent fleets. It's the enterprise-architecture version of this week's Trajectory funding (post-training as a service) and the seldo hiring essay: the frontier labs' real competition for routine work is free.",
+ "highlights": [
+  "Gartner: by 2030, 90% of enterprise agent workflow steps will execute on open-weight models",
+  "Open models handle routine steps at parity for a quarter of the cheapest closed model's price; up to 1/20th vs frontier-on-everything",
+  "The real argument is control, not cost: routine steps sent to frontier APIs move workflow history outside the perimeter",
+  "Corollary: models are commodities; harnesses (routing, guardrails, fleet management) are where the value is"
+ ]
+}

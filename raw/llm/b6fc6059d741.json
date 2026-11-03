@@ -1,0 +1,13 @@
+{
+ "id": "b6fc6059d741",
+ "authored_at": "2026-11-03T09:05:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google is taking Dreambeans - its experimental app that proactively generates illustrated, personalized stories from a user's Calendar, Gmail, Photos, Search and YouTube activity, no prompt required - to India, its first market outside the US, with support for 13 local languages including Hindi, Punjabi, Tamil, Telugu and Bengali. Google product manager Gozde Oznur says India was chosen for the high overlap of users across Gemini, Gmail and Google Photos; a recent addition animates select stories with Veo video generation.\n\nThe Sensor Tower numbers in TechCrunch's report are the sobering counterweight: Dreambeans has managed only ~55,000 US downloads since June, and October downloads dropped 84% month over month to about 5,500. Its first-30-days open-launch figure (~29,000) compares poorly with Meta's Muse (7.4M), ChatGPT (2.8M), Grok (362,000) and Claude (155,000) in their own launch windows - though Dreambeans is a narrower product, stories rather than a general assistant.\n\nThe India launch reads as a search for the audience the product hasn't found at home - and as a test of whether proactive, data-hungry personalization (the app literally builds stories from your inbox and photo library) lands differently in a market where Google's services are the default layer of the internet.",
+ "highlights": [
+  "Google launches Dreambeans in India - first market outside the US - with 13 local languages and Veo-animated stories",
+  "The app generates personalized illustrated stories from Gmail, Calendar, Photos, Search and YouTube without prompting",
+  "Sensor Tower: only ~55K US downloads since June, October down 84% MoM - the product hasn't found its US audience",
+  "India chosen for high Gemini/Gmail/Photos overlap; a test of whether proactive personalization lands where Google is the default internet layer"
+ ]
+}

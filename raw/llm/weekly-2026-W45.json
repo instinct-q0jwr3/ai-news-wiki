@@ -29,7 +29,8 @@
    "stories": [
     "7dbb2995884e",
     "a1f670e25734",
-    "df770ad8e340"
+    "df770ad8e340",
+    "7ad9e906d30d"
    ],
    "concepts": []
   },
@@ -168,11 +169,12 @@
   },
   {
    "title": "The adoption question",
-   "intro": "Goldman restricts traders and bankers from some AI tools - at regulated firms, compliance draws the adoption map, not capability.",
+   "intro": "Goldman restricts traders and bankers from some AI tools - at regulated firms, compliance draws the adoption map, not capability. Larridin raises $30M to measure what AI does to employee output - the analytics layer for the ROI audit.",
    "stories": [
     "f0d18655c4ac",
     "7b658da57a6c",
-    "c4dd5db76aef"
+    "c4dd5db76aef",
+    "331a127a1405"
    ],
    "concepts": []
   },
@@ -260,11 +262,12 @@
   },
   {
    "title": "The hardware horizon",
-   "intro": "Apple is reportedly building a $1,000 tabletop robot for 2027-2028. OpenAI's Grid Protectors Program promises its future US campuses will curtail demand when the grid is strained - siting politics as energy policy.",
+   "intro": "Apple is reportedly building a $1,000 tabletop robot for 2027-2028. OpenAI's Grid Protectors Program promises its future US campuses will curtail demand when the grid is strained - siting politics as energy policy. WiCi bets on the opposite architecture: a wireless GPU box that serves local inference to every device in the house.",
    "stories": [
     "13c78ed3f75b",
     "cb89a1505cb2",
-    "0f483009604d"
+    "0f483009604d",
+    "cdfefcffafd7"
    ],
    "concepts": []
   },
@@ -325,9 +328,10 @@
   },
   {
    "title": "The weight-space debate",
-   "intro": "Sean Goedecke reads the weight-space programming paper and reaches for the cold water: a smart human with three lines of numpy could do most of it, and the honest claim is 'better than expected,' not 'superhuman.'",
+   "intro": "Sean Goedecke reads the weight-space programming paper and reaches for the cold water: a smart human with three lines of numpy could do most of it, and the honest claim is 'better than expected,' not 'superhuman.' AINews adds that an independent reproduction may already have confirmed the capability - and notes its own co-author is on the paper.",
    "stories": [
-    "a32a24f39709"
+    "a32a24f39709",
+    "c9b45cf28ae9"
    ],
    "concepts": []
   },
@@ -344,6 +348,63 @@
    "intro": "OpenAI engineering on scaling Git for its development org; the source page was unretrievable, so details await a successful fetch.",
    "stories": [
     "2965c1e8ea68"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The lopsided boom",
+   "intro": "The ABC maps an S&P 500 where tech is 44% of value and the AI trade is the index's center of gravity - masking weakness elsewhere and concentrating repricing risk in every retirement account.",
+   "stories": [
+    "decaeece8af6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The shelf life of findings",
+   "intro": "A mass replication re-ran 50 widely cited LLM findings across 20 models: within 15 months, 44% had expired and another 34% weakened. Behavioral claims about 'how LLMs act' are time-stamped measurements, not durable facts.",
+   "stories": [
+    "615e44095bc0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The open-weight economics",
+   "intro": "Gartner's planning assumption: 90% of enterprise agent workflow steps will run on open-weight models by 2030 - routine steps at a quarter of the price, control of workflow history as the real argument, and harnesses as the layer where value concentrates.",
+   "stories": [
+    "7ecf249c1de2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The politics of safety",
+   "intro": "NYMag profiles Alex Bores, the RAISE Act sponsor turned martyr of the $8M super-PAC hit, now launching Who Decides to make AI safety a default Democratic position for 2028.",
+   "stories": [
+    "06ddb0ed8e44"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The consumer push",
+   "intro": "Google takes Dreambeans to India with 13 languages - looking for the audience the proactive-story app hasn't found in the US, where downloads fell 84% in October.",
+   "stories": [
+    "b6fc6059d741"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The security desk",
+   "intro": "OpenAI partners with Cathedral and quadruples top bug-bounty rewards - paying up to be attacked on friendly terms, the same week an autonomous AI pentest framework shows up in a real breach notification.",
+   "stories": [
+    "703024b2229e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Export controls, mirrored",
+   "intro": "Huawei's flagship Ascend 960DT will reportedly run on Samsung and SK Hynix HBM - the porous side of the controls - while Nvidia verbally orders cloud clients to sell 51%+ of services to non-Chinese customers, policing the rental channel itself.",
+   "stories": [
+    "245cce2cad5b",
+    "a63e9762bff8"
    ],
    "concepts": []
   }

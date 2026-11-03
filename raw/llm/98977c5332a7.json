@@ -1,13 +1,14 @@
 {
-  "id": "98977c5332a7",
-  "prose": "Ariel Simon's Medium piece 'Dark Sourcery' describes how hackers manipulate ChatGPT and Gemini to direct users to scam centers, per the headline. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the headline's claim; the manipulation technique and the scam flow could not be verified.",
-  "highlights": [
-    "'Dark Sourcery': hackers manipulate ChatGPT and Gemini to route users to scam centers",
-    "The source could not be fetched, so only the headline claim is summarized",
-    "Honest-basis note: technique and scam flow are unverified"
-  ],
-  "quotes": [],
-  "authored_at": "2026-09-29T19:17:30Z",
-  "model": "agent-pass",
-  "schema": "1"
+ "id": "98977c5332a7",
+ "prose": "Ariel Simon's Medium piece 'Dark Sourcery' describes how hackers manipulate ChatGPT and Gemini to direct users to scam centers, per the headline. The original source could not be retrieved (the fetch returned an error), so this summary is limited to the headline's claim; the manipulation technique and the scam flow could not be verified.",
+ "highlights": [
+  "'Dark Sourcery': hackers manipulate ChatGPT and Gemini to route users to scam centers",
+  "The source could not be fetched, so only the headline claim is summarized",
+  "Honest-basis note: technique and scam flow are unverified"
+ ],
+ "quotes": [],
+ "authored_at": "2026-09-29T19:17:30Z",
+ "model": "agent-pass",
+ "schema": "1",
+ "basis": "Cache status: error. Honest summary grounded in feed metadata; the limitation is stated inline in the prose (artifact predates the basis field)."
 }

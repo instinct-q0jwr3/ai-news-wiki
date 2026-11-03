@@ -1,0 +1,13 @@
+{
+ "id": "7ad9e906d30d",
+ "authored_at": "2026-11-03T09:05:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison's October sponsors-only newsletter is out, with September's edition now public as a free preview. Subscribers ($10/month) get each month's curated digest of LLM developments a month before the open version."
+ ],
+ "highlights": [
+  "Willison's October sponsors newsletter published; September edition now free as a preview"
+ ],
+ "basis": "Cache is ok but the page is a short sponsors notice (503 chars); the newsletter content itself is paywalled to sponsors."
+}

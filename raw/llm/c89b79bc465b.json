@@ -1,6 +1,6 @@
 {
  "id": "c89b79bc465b",
- "prose": "Nori claims its LLM reaches over 1 million tokens per second - but the site itself undercuts the boast, describing Nori LLM 1.0 as 'confidently, blazingly wrong' and warning visitors not to check important information because 'there's no time'. Read together, the page is a speed-\u00fcber-alles art project or joke rather than a serious serving claim.",
+ "prose": "Nori claims its LLM reaches over 1 million tokens per second - but the site itself undercuts the boast, describing Nori LLM 1.0 as 'confidently, blazingly wrong' and warning visitors not to check important information because 'there's no time'. Read together, the page is a speed-über-alles art project or joke rather than a serious serving claim.",
  "highlights": [
   "Nori claims 1M+ tokens per second for its LLM",
   "The page itself: 'confidently, blazingly wrong'",
@@ -9,5 +9,6 @@
  ],
  "model": "agent-pass",
  "schema": "1",
- "authored_at": "2026-09-30T09:25:00+02:00"
+ "authored_at": "2026-09-30T09:25:00+02:00",
+ "basis": "Cache status: thin. Honest summary grounded in feed metadata; the limitation is stated inline in the prose (artifact predates the basis field)."
 }

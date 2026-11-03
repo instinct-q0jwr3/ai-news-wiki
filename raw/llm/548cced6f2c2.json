@@ -1,16 +1,17 @@
 {
-  "id": "548cced6f2c2",
-  "prose": "Simon Willison's beat for llm-anthropic 0.29: same-day support for Claude Opus 5.5 in his LLM command-line tool, invoked as llm -m claude-opus-5.5. The release landed the day Opus 5.5 shipped, keeping his tooling current with Anthropic's latest model.",
-  "highlights": [
-    "llm-anthropic 0.29 adds Claude Opus 5.5 support",
-    "Usage: llm -m claude-opus-5.5 \"prompt goes here\"",
-    "Same-day tooling support, released September 22, 2026",
-    "A Simon Willison beat (short link-blog entry)"
-  ],
-  "quotes": [
-    "llm -m claude-opus-5.5"
-  ],
-  "authored_at": "2026-09-29T01:13:06Z",
-  "model": "agent-pass",
-  "schema": "1"
+ "id": "548cced6f2c2",
+ "prose": "Simon Willison's beat for llm-anthropic 0.29: same-day support for Claude Opus 5.5 in his LLM command-line tool, invoked as llm -m claude-opus-5.5. The release landed the day Opus 5.5 shipped, keeping his tooling current with Anthropic's latest model.",
+ "highlights": [
+  "llm-anthropic 0.29 adds Claude Opus 5.5 support",
+  "Usage: llm -m claude-opus-5.5 \"prompt goes here\"",
+  "Same-day tooling support, released September 22, 2026",
+  "A Simon Willison beat (short link-blog entry)"
+ ],
+ "quotes": [
+  "llm -m claude-opus-5.5"
+ ],
+ "authored_at": "2026-09-29T01:13:06Z",
+ "model": "agent-pass",
+ "schema": "1",
+ "basis": "Cache status: thin. Honest summary grounded in feed metadata; the limitation is stated inline in the prose (artifact predates the basis field)."
 }

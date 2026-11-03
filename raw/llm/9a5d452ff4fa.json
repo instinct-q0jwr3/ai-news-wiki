@@ -1,14 +1,15 @@
 {
-  "id": "9a5d452ff4fa",
-  "prose": "AI Passport Photo is a web tool for producing passport and visa photos with AI. The flow starts by choosing a country and document template; the tool then applies the matching frame, background color, and head-size guide from that specification. The cached source was only this first step, so this summary reflects the tool's documented onboarding rather than its full feature set.",
-  "highlights": [
-    "Web tool that produces passport/visa photos with AI",
-    "Step 1: pick a country and document template",
-    "Applies the spec's frame, background color, and head-size guide automatically",
-    "The cached source was only the first step; full features are unverified"
-  ],
-  "quotes": [],
-  "authored_at": "2026-09-29T19:17:30Z",
-  "model": "agent-pass",
-  "schema": "1"
+ "id": "9a5d452ff4fa",
+ "prose": "AI Passport Photo is a web tool for producing passport and visa photos with AI. The flow starts by choosing a country and document template; the tool then applies the matching frame, background color, and head-size guide from that specification. The cached source was only this first step, so this summary reflects the tool's documented onboarding rather than its full feature set.",
+ "highlights": [
+  "Web tool that produces passport/visa photos with AI",
+  "Step 1: pick a country and document template",
+  "Applies the spec's frame, background color, and head-size guide automatically",
+  "The cached source was only the first step; full features are unverified"
+ ],
+ "quotes": [],
+ "authored_at": "2026-09-29T19:17:30Z",
+ "model": "agent-pass",
+ "schema": "1",
+ "basis": "Cache status: thin. Honest summary grounded in feed metadata; the limitation is stated inline in the prose (artifact predates the basis field)."
 }
