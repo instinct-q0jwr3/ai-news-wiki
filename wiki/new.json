@@ -1,77 +1,179 @@
 {
- "generated_at": "2026-11-04T09:07:33+00:00",
+ "generated_at": "2026-11-04T15:07:26+00:00",
  "stories": [
   {
-   "id": "7df399d08487",
-   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "id": "478fe3f3d3aa",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
    "source": "Hacker News",
-   "url": "https://uncracked.city"
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
   },
   {
-   "id": "49a7a99cf81d",
-   "title": "AI stocks slide as Texas governor result raises data center risks",
+   "id": "dd9e7192d73f",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
    "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html"
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
   },
   {
-   "id": "696fd961e775",
-   "title": "Did Claude Help an Amateur Astronomer Discover a New Planet?",
+   "id": "2a030159a180",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
    "source": "Hacker News",
-   "url": "https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393"
+   "url": "https://news.ycombinator.com/item?id=50363461"
   },
   {
-   "id": "71eb641ff5d9",
-   "title": "Ohio voters approved data center bans or restrictions in at least 14 municipalities across 21 ballot measures, adding to 125 local moratoriums in the state",
-   "source": "Techmeme",
-   "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
+   "id": "4d850d400172",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
   },
   {
-   "id": "edde9c1bd7c1",
-   "title": "Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"
+   "id": "4b6b81147084",
+   "title": "Jaron Lanier on parallels between AI and social media",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI"
   },
   {
-   "id": "7b1f9d071772",
-   "title": "Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c"
+   "id": "64d744295965",
+   "title": "AI Slop Threatens Trust in Science",
+   "source": "Hacker News",
+   "url": "https://spectrum.ieee.org/ai-slop-trust-science"
   },
   {
-   "id": "05bec683dd50",
-   "title": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania may expose 50% of proposed US AI data center additions to greater scrutiny and pushback",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout"
+   "id": "e8c735ee6227",
+   "title": "Show HN: 13M opinions on 48k products extracted from Reddit and HN",
+   "source": "Hacker News",
+   "url": "https://www.trustmebro.reviews/"
   },
   {
-   "id": "930ac82411e5",
-   "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI",
+   "id": "4b859315c983",
+   "title": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/"
+   "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
   },
   {
-   "id": "a1a0972a6666",
-   "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c?st=sszirS&reflink=desktopwebshare_permalink"
+   "id": "0ac67d1ad96c",
+   "title": "AI on the Ballot",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/ai-on-the-ballot/"
   },
   {
-   "id": "4b0cbaee8d9c",
-   "title": "Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered"
+   "id": "4705188213df",
+   "title": "How much do tokens really cost?",
+   "source": "TLDR AI",
+   "url": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost"
   },
   {
-   "id": "06c23e8d2176",
-   "title": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster",
+   "id": "9b9b0f8a2b26",
+   "title": "Sentra, which helps restrict and monitor data access for AI agents, raised a $150M Series C led by Capital One Ventures, taking its total funding to $250M+",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?accessToken=zwAAAaGlkx_5kc8g1VmfiVVBhNOioKwSluQA8w.MEQCIFK7Fdnkw1P8IFgW1-qvSdOM3zwT-zAi5iCOR69gDKeaAiA_kkJ1mI6J2nnKn1OyZSmVm-LcnHQeleuqnfqYmrcY9A&sharetype=gift&token=b4848b6e-823f-4d06-ad62-e40b39922426"
+   "url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/"
   },
   {
-   "id": "25b73865fdcf",
-   "title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto",
+   "id": "e14503bc735b",
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "source": "TLDR AI",
+   "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+  },
+  {
+   "id": "30fb8991bf0b",
+   "title": "How Much Does Reasoning Effort Affect Score and Cost?",
+   "source": "TLDR AI",
+   "url": "https://www.vals.ai/blogs/reasoning-effort"
+  },
+  {
+   "id": "3cb4d1e27e70",
+   "title": "Siri AI is now open to all developers",
+   "source": "TLDR AI",
+   "url": "https://developer.apple.com/news/?id=gdk2umrf"
+  },
+  {
+   "id": "245944f59ce0",
+   "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto"
+   "url": "https://www.anthropic.com/research/provable-inference"
+  },
+  {
+   "id": "ee3675557b49",
+   "title": "ChatGPT is about to start making GIFs",
+   "source": "TLDR AI",
+   "url": "https://x.com/tokengremlin/status/2117526651932205552"
+  },
+  {
+   "id": "ebac0b46fb69",
+   "title": "DeepSeek Plans to Train Its Next-Generation Model on Huawei Ascend Chips",
+   "source": "TLDR AI",
+   "url": "https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next"
+  },
+  {
+   "id": "afc79aec64be",
+   "title": "Accelerating engineering for the physical world",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/"
+  },
+  {
+   "id": "c5c696d3ae5d",
+   "title": "ChatGPT Consumer Product Lead Adam Fry says ChatGPT has hit 1.2B WAUs, adding 200M over the past two months, and its search volume is now ~20% of Google's",
+   "source": "Techmeme",
+   "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20"
+  },
+  {
+   "id": "c9e0613bafe3",
+   "title": "Gemini Notebook API",
+   "source": "TLDR AI",
+   "url": "https://developers.google.com/notebook/docs"
+  },
+  {
+   "id": "493c3542a6d2",
+   "title": "OpenAI acquires developer tools startup Pierre Computer for an undisclosed amount and plans to integrate Pierre's Code Storage feature directly into Codex",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/11/04/openai-pierre-computer-github"
+  },
+  {
+   "id": "e4b47310ad33",
+   "title": "Learnings from Auditing Public Evaluations",
+   "source": "TLDR AI",
+   "url": "https://www.primeintellect.ai/blog/auditing-public-evaluations"
+  },
+  {
+   "id": "166880389be8",
+   "title": "Democrats running on AI regulation and anti-data center platforms won key races, including Sherrod Brown in Ohio, as leadership signals aggressive AI oversight",
+   "source": "Techmeme",
+   "url": "http://www.politico.com/"
+  },
+  {
+   "id": "65457efe0e91",
+   "title": "Baseten Introduces Grid, Sandboxes, and Serverless Loops",
+   "source": "TLDR AI",
+   "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier"
+  },
+  {
+   "id": "e1a98b0338e5",
+   "title": "Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/04/genius-scan-is-neither/"
+  },
+  {
+   "id": "78fdc8faa14a",
+   "title": "Training a Text-to-Image Model for $21K",
+   "source": "TLDR AI",
+   "url": "https://www.linum.ai/field-notes/pjit-21k"
+  },
+  {
+   "id": "8bb7d49cf69e",
+   "title": "Fireworks Launches Faster AI Inference and Enterprise Tools",
+   "source": "TLDR AI",
+   "url": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence"
+  },
+  {
+   "id": "2da8a738c0ae",
+   "title": "AI sales automation startup Nooks secures a $500M commitment from General Catalyst's CVF, which will take a share of the returns its capital helps generate",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/finance/ai-sales-startup-nooks-secures-500-million-funding-expansion-2026-11-04/"
+  },
+  {
+   "id": "45bb034108f2",
+   "title": "Agent State Machines: Building Deterministic Scaffolding for Agents",
+   "source": "TLDR AI",
+   "url": "https://x.com/josharosen/status/2117687393213932003"
   }
  ]
 }

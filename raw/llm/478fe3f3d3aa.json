@@ -1,0 +1,14 @@
+{
+ "id": "478fe3f3d3aa",
+ "authored_at": "2026-11-04T15:10:48Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "IEEE Spectrum's Dina Genkina (Nov 2) writes on the PHP2Shell vulnerability under the line 'AI is forcing us to pay off 40 years of technical debt'. Only the headline, byline and standfirst were captured, so the vulnerability and argument are not covered."
+ ],
+ "highlights": [
+  "IEEE Spectrum piece on PHP2Shell and AI-driven pressure to clear technical debt",
+  "Only the headline and standfirst captured"
+ ],
+ "basis": "Thin cache (234 chars, headline/byline only). Written from the title and standfirst."
+}

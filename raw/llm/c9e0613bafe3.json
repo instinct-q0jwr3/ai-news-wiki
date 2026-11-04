@@ -1,0 +1,12 @@
+{
+ "id": "c9e0613bafe3",
+ "authored_at": "2026-11-04T15:10:48Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google published a Gemini Notebook API: a REST interface to create and manage notebooks and sources in Gemini Notebook. Developers can ingest web pages, YouTube videos, plain text and Markdown into persistent notebooks. The docs show creating a notebook with a display name and adding a source such as a web URL, with Bearer auth and a project header, and suggest copying a setup prompt into your coding agent.",
+ "highlights": [
+  "REST API for creating and managing Gemini Notebook notebooks and sources",
+  "Sources: web pages, YouTube, text and Markdown",
+  "Docs include a quickstart prompt for coding agents"
+ ]
+}

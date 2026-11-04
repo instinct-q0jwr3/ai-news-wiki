@@ -1,0 +1,13 @@
+{
+ "id": "ebac0b46fb69",
+ "authored_at": "2026-11-04T15:10:48Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Geopolitechs, citing a STAR Market Daily report from industry sources, says DeepSeek plans to pre-train its next-generation model, DeepSeek V5, on Huawei Ascend chips. That would be a shift, since Ascend has mostly served inference rather than pre-training for DeepSeek.\n\nThe ties go back to early 2025, when Huawei reportedly deployed more than 3,000 Ascend chips to support DeepSeek V3 and R1 on Huawei Cloud. After DeepSeek V4 in April 2026, Huawei said Ascend SuperPoD systems could fully support the V4 family, and on September 30 DeepSeek open-sourced compiler tools, HPC libraries and communication software adapted for Ascend. The report is unconfirmed by either company.",
+ "highlights": [
+  "Report: DeepSeek V5 would be pre-trained on Huawei Ascend chips, not just served on them",
+  "Partnership dates to early 2025 (3,000+ Ascend chips for V3/R1 on Huawei Cloud)",
+  "Sept 30: DeepSeek open-sourced Ascend-adapted compiler and communication software",
+  "Based on industry sources; unconfirmed"
+ ]
+}

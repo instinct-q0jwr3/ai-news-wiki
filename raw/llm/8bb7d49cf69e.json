@@ -1,0 +1,13 @@
+{
+ "id": "8bb7d49cf69e",
+ "authored_at": "2026-11-04T15:10:48Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "At its first conference, Fireworks Forge, Fireworks AI pitched a choice between two futures: intelligence owned by a few closed labs, or every company owning intelligence built around its own expertise, data and tasks. It announced products to help companies turn open-weight model advances (including models from NVIDIA, Meta and Reflection AI) into such systems.\n\nThe launches target three barriers: agents that take too long to respond, models that need to perform better on company-specific tasks, and infrastructure that must meet enterprise cost, control and security needs. Agents make multiple model calls per task and each call adds latency, which is the basis for the faster-inference product. Only the opening was read, so product specifics and benchmarks are not covered.",
+ "highlights": [
+  "Fireworks Forge: first conference, pitched company-owned intelligence built on open-weight models",
+  "Targets slow agents, weak company-specific performance and enterprise security/cost needs",
+  "Open-weight models from NVIDIA, Meta and Reflection AI available on Fireworks",
+  "Product details not read"
+ ]
+}

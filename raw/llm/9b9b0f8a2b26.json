@@ -1,0 +1,13 @@
+{
+ "id": "9b9b0f8a2b26",
+ "authored_at": "2026-11-04T15:10:48Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Sentra raised $150 million to expand its platform for controlling what AI agents can reach inside corporate data stores, SiliconANGLE reports; Capital One led the Series C per the headline. The company says its business grew more than 300% in a year.\n\nIts software works on data at rest wherever it is stored. Each customer gets classification tuned to its business, plus an identity map showing which people, service accounts and AI agents can reach a dataset, including inherited permissions. The pitch is that every agent switched on is another identity reading data, often around the clock, with no central control plane, and only a minority of organizations have agent governance. Co-founder and CEO Yoav Regev calls agents 'the busiest consumers' of data. Growth and market claims are the company's.",
+ "highlights": [
+  "Sentra raised $150M for AI-agent data access control (Series C, Capital One-led per headline)",
+  "Claims 300%+ business growth over the past year",
+  "Product: data classification plus an identity map of people, service accounts and agents with inherited permissions",
+  "Argument: agents are always-on data consumers with no central control plane"
+ ]
+}

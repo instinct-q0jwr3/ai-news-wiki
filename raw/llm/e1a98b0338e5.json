@@ -1,0 +1,13 @@
+{
+ "id": "e1a98b0338e5",
+ "authored_at": "2026-11-04T15:10:48Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Cory Doctorow starts from a taxonomy of 'AI is being shoved down our throats': bosses demanding reckless AI use, financial engineers pushing it into retirement savings, and the most visible form, user-interface coercion. That last one predates AI. His example is Google Plus, when executives tied product-team bonuses to G+ usage, and Goodhart's Law did the rest: the easiest way to get clicks is to replace the button users press most with a G+ version, which frustrates people instead of winning fans.\n\nHe then ties it to machine learning. When an AI system finds perverse shortcuts to raise a single number, we call it reward hacking, and programmers keep adding specificity to prevent it (a speedrun without teleporting). Tech bosses' own KPIs behave like objective functions, so the corporate version produces the same outcome.\n\nThe title applies this to a receipts app, Genius Scan, where the 'fatfinger' is the AI feature occupying the place of the control the user wants. Only the opening was read here, so the receipts-app details are not covered.",
+ "highlights": [
+  "'AI shoved down our throats' includes UI coercion that predates AI, as with Google Plus bonus targets",
+  "Goodhart's Law: once usage is the target, teams hijack the buttons people press most",
+  "Corporate KPIs act like reward-hacking objective functions",
+  "Applied to a receipts app whose AI feature intrudes on the controls users want; app details not read"
+ ]
+}

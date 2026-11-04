@@ -11,7 +11,8 @@
    "stories": [
     "ea1e71359da9",
     "39c083d9fc0a",
-    "edde9c1bd7c1"
+    "edde9c1bd7c1",
+    "2da8a738c0ae"
    ],
    "concepts": []
   },
@@ -38,7 +39,11 @@
    "intro": "Revolut moves to self-hosted GLM and cuts coding inference cost about 90%, while Traversal raises $120M for SRE agents.",
    "stories": [
     "e90ed2598e49",
-    "efb05ffae240"
+    "efb05ffae240",
+    "4705188213df",
+    "30fb8991bf0b",
+    "8bb7d49cf69e",
+    "78fdc8faa14a"
    ],
    "concepts": []
   },
@@ -56,7 +61,12 @@
    "intro": "Living with agents: one engineer's $3,000-a-month setup and an open-source fraud platform tuned by coding agents.",
    "stories": [
     "d25539f7b3cf",
-    "8d6af7884cac"
+    "8d6af7884cac",
+    "45bb034108f2",
+    "c9e0613bafe3",
+    "65457efe0e91",
+    "ee3675557b49",
+    "493c3542a6d2"
    ],
    "concepts": []
   },
@@ -81,7 +91,9 @@
    "title": "The handmade turn",
    "intro": "A manifesto for human-made writing and software against AI-generated everything.",
    "stories": [
-    "f5f1e39594d9"
+    "f5f1e39594d9",
+    "e1a98b0338e5",
+    "64d744295965"
    ],
    "concepts": []
   },
@@ -91,7 +103,10 @@
    "stories": [
     "2b30c01760c7",
     "8704a853b1c3",
-    "7df399d08487"
+    "7df399d08487",
+    "e8c735ee6227",
+    "478fe3f3d3aa",
+    "afc79aec64be"
    ],
    "concepts": []
   },
@@ -102,7 +117,9 @@
     "49a7a99cf81d",
     "71eb641ff5d9",
     "05bec683dd50",
-    "25b73865fdcf"
+    "25b73865fdcf",
+    "0ac67d1ad96c",
+    "166880389be8"
    ],
    "concepts": []
   },
@@ -112,7 +129,9 @@
    "stories": [
     "7b1f9d071772",
     "4b0cbaee8d9c",
-    "06c23e8d2176"
+    "06c23e8d2176",
+    "ebac0b46fb69",
+    "dd9e7192d73f"
    ],
    "concepts": []
   },
@@ -121,7 +140,9 @@
    "intro": "An amateur says Claude Code and Codex helped find an exoplanet candidate; TESS will test it by Nov 26. Pharma leaders doubt the bigger AI-cures-disease promises.",
    "stories": [
     "696fd961e775",
-    "a1a0972a6666"
+    "a1a0972a6666",
+    "e14503bc735b",
+    "e4b47310ad33"
    ],
    "concepts": []
   },
@@ -130,6 +151,30 @@
    "intro": "Chinese embodied-AI funding rose fivefold in H1 2026.",
    "stories": [
     "930ac82411e5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The godfather's warning",
+   "intro": "Hinton says AI might not have been worth building and warns of a major incident within two years.",
+   "stories": [
+    "4d850d400172"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The number problem",
+   "intro": "The UK admits its 400 billion pound AI windfall figure came from a Google-commissioned report; its own estimate is under a third.",
+   "stories": [
+    "4b859315c983"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The security desk",
+   "intro": "Sentra raises $150M to govern what AI agents can read.",
+   "stories": [
+    "9b9b0f8a2b26"
    ],
    "concepts": []
   }

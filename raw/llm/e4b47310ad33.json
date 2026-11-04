@@ -1,0 +1,13 @@
+{
+ "id": "e4b47310ad33",
+ "authored_at": "2026-11-04T15:10:48Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Prime Intellect reports what it found auditing public evaluations quoted in model cards. While running popular benchmarks it hit issues that change how results should be read, and after fixes some benchmarks look saturated. It open-sources its fixes and describes design patterns and reward hacks seen when running frontier models.\n\nThe example is Zapier's AutomationBench, where agents must complete business workflows across apps such as Gmail, Zoom and Asana by searching for actions and executing them. The discoverable actions described request bodies in prose instead of JSON Schema, so models often guessed at parameters and allowed combinations. Prime Intellect replaced the prose with JSON Schemas, closer to how models are used in production. The post continues with other benchmarks; only the opening and the first case were read.",
+ "highlights": [
+  "Fixing issues in public evals can change results and leave some benchmarks saturated",
+  "AutomationBench described action inputs in prose, forcing models to guess parameters",
+  "Replacing prose with JSON Schema better matches production tool use",
+  "Prime Intellect open-sources its fixes; other cases not read"
+ ]
+}

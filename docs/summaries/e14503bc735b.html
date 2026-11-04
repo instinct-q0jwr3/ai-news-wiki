@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The &#x27;Astra can read and write weights to improve Qwen&#x27; post is misleading · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1793805089"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>The 'Astra can read and write weights to improve Qwen' post is misleading</h1>
+<p class="meta">type: news-summary · created: 2026-11-04 · updated: 2026-11-04 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Matthew Honnibal argues that the viral 'Astra can read and write weights to improve Qwen' post is misleading by blending different experiments under one headline. The abstract says 'just by looking at the raw weights' GPT-6 Astra can tell what a network was trained to do and can fix Qwen3.5-0.8B by editing 0.016% of weights, lifting MATH-500 from 7.9% to 48.1%.</p>
+<p>He says the raw-weights-in-context, no-tools setting appears only in experiments 1, 2 and 4, on tiny networks of 17K to 172K weights. Every experiment on a real language model uses Python, and the headline Qwen result also runs the model on up to 50 batches of practice problems. One footnote notes the game network beats PPO-500M only on Breakout and loses on Seaquest and Asterix. He compares it to a stage magician doing the same trick multiple ways while the audience assumes one technique.</p>
+<p>His conclusion: the Qwen result shows Astra can be prompted to do what a human ML engineer does with code, which is not nothing, but it does not show a single deep capability of reading weights directly. Experiments of different kinds should not share one framing.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Honnibal: the 'just by looking at raw weights' claim holds only for tiny networks (17K-172K weights)</li>
+<li>Every experiment on a real language model uses Python, and the Qwen result also runs the model on practice problems</li>
+<li>The game-network result beats PPO-500M only on Breakout; loses on Seaquest and Asterix</li>
+<li>Qwen result shows promptable engineer-like work, not a unified weight-reading capability</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://honnibal.dev/blog/astra-read-write-misleading">Read the original story</a> · <a href="https://tldr.tech/ai/2026-11-04">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/alibaba.html">Alibaba</a> · <a href="../entities/qwen.html">Qwen</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>
