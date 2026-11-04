@@ -41,7 +41,12 @@
     "c9e0613bafe3",
     "65457efe0e91",
     "ee3675557b49",
-    "493c3542a6d2"
+    "493c3542a6d2",
+    "2edafa1f6d78",
+    "535168559987",
+    "f1f51a7dc014",
+    "56452f7f4664",
+    "7bb6b3fbfe4f"
    ],
    "concepts": []
   },
@@ -257,7 +262,8 @@
    "title": "The agent shopper, measured",
    "intro": "DoorDash counts the agent-commerce revolution so far: several hundred orders, against 3 million deliveries a day.",
    "stories": [
-    "7260e1986180"
+    "7260e1986180",
+    "1d2070ead37f"
    ],
    "concepts": []
   },
@@ -478,7 +484,9 @@
     "ea1e71359da9",
     "39c083d9fc0a",
     "edde9c1bd7c1",
-    "2da8a738c0ae"
+    "2da8a738c0ae",
+    "e08bc9a9b2f6",
+    "1011b090f92d"
    ],
    "concepts": []
   },
@@ -509,7 +517,8 @@
     "4705188213df",
     "30fb8991bf0b",
     "8bb7d49cf69e",
-    "78fdc8faa14a"
+    "78fdc8faa14a",
+    "cbd64c0f0292"
    ],
    "concepts": []
   },
@@ -545,7 +554,8 @@
    "stories": [
     "f5f1e39594d9",
     "e1a98b0338e5",
-    "64d744295965"
+    "64d744295965",
+    "edfef1d1cca4"
    ],
    "concepts": []
   },
@@ -571,7 +581,11 @@
     "05bec683dd50",
     "25b73865fdcf",
     "0ac67d1ad96c",
-    "166880389be8"
+    "166880389be8",
+    "19594ae05756",
+    "99b319bd5f57",
+    "9f334019aa6a",
+    "75a96d1f785c"
    ],
    "concepts": []
   },
@@ -583,7 +597,8 @@
     "4b0cbaee8d9c",
     "06c23e8d2176",
     "ebac0b46fb69",
-    "dd9e7192d73f"
+    "dd9e7192d73f",
+    "443b9b33c52d"
    ],
    "concepts": []
   },
@@ -594,7 +609,8 @@
     "696fd961e775",
     "a1a0972a6666",
     "e14503bc735b",
-    "e4b47310ad33"
+    "e4b47310ad33",
+    "cd4d82230508"
    ],
    "concepts": []
   },
@@ -619,6 +635,15 @@
    "intro": "The UK admits its 400 billion pound AI windfall figure came from a Google-commissioned report; its own estimate is under a third.",
    "stories": [
     "4b859315c983"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The open-weight race",
+   "intro": "A chip-design lab says it trained a US open-weight coding leader for $32M, and Tencent shows Hy4.",
+   "stories": [
+    "0328e32fc849",
+    "1f90e934d1a3"
    ],
    "concepts": []
   }

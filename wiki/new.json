@@ -1,179 +1,119 @@
 {
- "generated_at": "2026-11-04T15:07:26+00:00",
+ "generated_at": "2026-11-04T21:08:20+00:00",
  "stories": [
   {
-   "id": "478fe3f3d3aa",
-   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "id": "1f90e934d1a3",
+   "title": "Tencent Hy4",
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+   "url": "https://hy.tencent.ai/research/hy4"
   },
   {
-   "id": "dd9e7192d73f",
-   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "id": "0328e32fc849",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
    "source": "Hacker News",
-   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+   "url": "https://www.ricursive.com/ripple"
   },
   {
-   "id": "2a030159a180",
-   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "id": "535168559987",
+   "title": "OpenAI to acquire Pierre Computer Company",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50363461"
+   "url": "https://openai.com/index/openai-to-acquire-pierre/"
   },
   {
-   "id": "4d850d400172",
-   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "id": "7bb6b3fbfe4f",
+   "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+   "url": "https://pcdealcheck.com/"
   },
   {
-   "id": "4b6b81147084",
-   "title": "Jaron Lanier on parallels between AI and social media",
+   "id": "19594ae05756",
+   "title": "AI data centers comprehensively defeated at US midterm elections",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI"
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
   },
   {
-   "id": "64d744295965",
-   "title": "AI Slop Threatens Trust in Science",
+   "id": "239735a18f87",
+   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/ai-slop-trust-science"
+   "url": "https://news.ycombinator.com/item?id=50368804"
   },
   {
-   "id": "e8c735ee6227",
-   "title": "Show HN: 13M opinions on 48k products extracted from Reddit and HN",
+   "id": "443b9b33c52d",
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
    "source": "Hacker News",
-   "url": "https://www.trustmebro.reviews/"
+   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
   },
   {
-   "id": "4b859315c983",
-   "title": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials",
+   "id": "1d2070ead37f",
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
+  },
+  {
+   "id": "99b319bd5f57",
+   "title": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
+   "url": "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation"
   },
   {
-   "id": "0ac67d1ad96c",
-   "title": "AI on the Ballot",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/ai-on-the-ballot/"
-  },
-  {
-   "id": "4705188213df",
-   "title": "How much do tokens really cost?",
-   "source": "TLDR AI",
-   "url": "https://substack.hadley.nz/p/how-much-do-tokens-really-cost"
-  },
-  {
-   "id": "9b9b0f8a2b26",
-   "title": "Sentra, which helps restrict and monitor data access for AI agents, raised a $150M Series C led by Capital One Ventures, taking its total funding to $250M+",
+   "id": "cbd64c0f0292",
+   "title": "Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgyMTg3MSwiZXhwIjoxNzk0NDI2NjcxLCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.efg5gZUg_bpWGkDdX9in4eLTEutSs8WX9rD17IHSi_o"
   },
   {
-   "id": "e14503bc735b",
-   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-   "source": "TLDR AI",
-   "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+   "id": "56452f7f4664",
+   "title": "llm 0.37.1",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/3/llm/"
   },
   {
-   "id": "30fb8991bf0b",
-   "title": "How Much Does Reasoning Effort Affect Score and Cost?",
-   "source": "TLDR AI",
-   "url": "https://www.vals.ai/blogs/reasoning-effort"
-  },
-  {
-   "id": "3cb4d1e27e70",
-   "title": "Siri AI is now open to all developers",
-   "source": "TLDR AI",
-   "url": "https://developer.apple.com/news/?id=gdk2umrf"
-  },
-  {
-   "id": "245944f59ce0",
-   "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in",
+   "id": "1011b090f92d",
+   "title": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/provable-inference"
+   "url": "https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/"
   },
   {
-   "id": "ee3675557b49",
-   "title": "ChatGPT is about to start making GIFs",
-   "source": "TLDR AI",
-   "url": "https://x.com/tokengremlin/status/2117526651932205552"
-  },
-  {
-   "id": "ebac0b46fb69",
-   "title": "DeepSeek Plans to Train Its Next-Generation Model on Huawei Ascend Chips",
-   "source": "TLDR AI",
-   "url": "https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next"
-  },
-  {
-   "id": "afc79aec64be",
-   "title": "Accelerating engineering for the physical world",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/"
-  },
-  {
-   "id": "c5c696d3ae5d",
-   "title": "ChatGPT Consumer Product Lead Adam Fry says ChatGPT has hit 1.2B WAUs, adding 200M over the past two months, and its search volume is now ~20% of Google's",
+   "id": "edfef1d1cca4",
+   "title": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection",
    "source": "Techmeme",
-   "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20"
+   "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0"
   },
   {
-   "id": "c9e0613bafe3",
-   "title": "Gemini Notebook API",
-   "source": "TLDR AI",
-   "url": "https://developers.google.com/notebook/docs"
-  },
-  {
-   "id": "493c3542a6d2",
-   "title": "OpenAI acquires developer tools startup Pierre Computer for an undisclosed amount and plans to integrate Pierre's Code Storage feature directly into Codex",
+   "id": "2edafa1f6d78",
+   "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/04/openai-pierre-computer-github"
+   "url": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor"
   },
   {
-   "id": "e4b47310ad33",
-   "title": "Learnings from Auditing Public Evaluations",
-   "source": "TLDR AI",
-   "url": "https://www.primeintellect.ai/blog/auditing-public-evaluations"
-  },
-  {
-   "id": "166880389be8",
-   "title": "Democrats running on AI regulation and anti-data center platforms won key races, including Sherrod Brown in Ohio, as leadership signals aggressive AI oversight",
+   "id": "75a96d1f785c",
+   "title": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow",
    "source": "Techmeme",
-   "url": "http://www.politico.com/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgxNDc5MCwiZXhwIjoxNzk0NDE5NTkwLCJhcnRpY2xlSWQiOiJUTlpJR0JWVFRENUUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.frDjijiV6zS7FBiJWbcApv_YkVGs2tz0u-uB7LtBVsw"
   },
   {
-   "id": "65457efe0e91",
-   "title": "Baseten Introduces Grid, Sandboxes, and Serverless Loops",
-   "source": "TLDR AI",
-   "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier"
+   "id": "cd4d82230508",
+   "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/"
   },
   {
-   "id": "e1a98b0338e5",
-   "title": "Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/04/genius-scan-is-neither/"
+   "id": "f1f51a7dc014",
+   "title": "datasette-llm 0.1a10",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/"
   },
   {
-   "id": "78fdc8faa14a",
-   "title": "Training a Text-to-Image Model for $21K",
-   "source": "TLDR AI",
-   "url": "https://www.linum.ai/field-notes/pjit-21k"
-  },
-  {
-   "id": "8bb7d49cf69e",
-   "title": "Fireworks Launches Faster AI Inference and Enterprise Tools",
-   "source": "TLDR AI",
-   "url": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence"
-  },
-  {
-   "id": "2da8a738c0ae",
-   "title": "AI sales automation startup Nooks secures a $500M commitment from General Catalyst's CVF, which will take a share of the returns its capital helps generate",
+   "id": "9f334019aa6a",
+   "title": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/finance/ai-sales-startup-nooks-secures-500-million-funding-expansion-2026-11-04/"
+   "url": "https://www.citationneeded.news/2026-election-results/"
   },
   {
-   "id": "45bb034108f2",
-   "title": "Agent State Machines: Building Deterministic Scaffolding for Agents",
-   "source": "TLDR AI",
-   "url": "https://x.com/josharosen/status/2117687393213932003"
+   "id": "e08bc9a9b2f6",
+   "title": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August",
+   "source": "Techmeme",
+   "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/"
   }
  ]
 }

@@ -1,0 +1,14 @@
+{
+ "id": "535168559987",
+ "authored_at": "2026-11-04T21:10:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI announced it will acquire Pierre Computer Company, with a link to a Pierre post on X. The openai.com page could not be read; Axios reported the same deal separately, saying Pierre's Code Storage will be integrated into Codex."
+ ],
+ "highlights": [
+  "OpenAI to acquire Pierre Computer Company",
+  "Code Storage integration into Codex reported by Axios in a separate item"
+ ],
+ "basis": "Error cache: openai.com did not load. Written from the HN title and the matching Axios headline."
+}

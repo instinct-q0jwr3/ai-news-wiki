@@ -1902,5 +1902,61 @@
   "thin": 4,
   "total": 79,
   "unreadable": 7
+ },
+ "2026-11-04": {
+  "ok": 44,
+  "paywall": 10,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "AI and politics",
+    "id": "19594ae05756",
+    "minutes": 5,
+    "source": "tomshardware.com",
+    "title": "AI data centers comprehensively defeated at US midterm elections",
+    "why": "Data-center restrictions won almost everywhere they were on the ballot - 33 passed, voters recalled officials in Piqua and Yukon - though only three projects (2.3 GW) have been delayed so far."
+   },
+   {
+    "cat": "ok",
+    "front": "Trust and verification",
+    "id": "245944f59ce0",
+    "minutes": 18,
+    "source": "anthropic.com",
+    "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in",
+    "why": "Anthropic open-sources FlashProve, a prototype that lets a user cryptographically verify which model answered, targeting router substitution and token-stream tampering."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "4d850d400172",
+    "minutes": 6,
+    "source": "theguardian.com",
+    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+    "why": "Hinton says we might have been better off never building AI, warns of a financial or power blackout incident within two years, and names Altman, Musk and Zuckerberg."
+   },
+   {
+    "cat": "ok",
+    "front": "The numbers behind the hype",
+    "id": "4b859315c983",
+    "minutes": 5,
+    "source": "wired.com",
+    "title": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials",
+    "why": "The UK AI minister admits the 400 billion pound AI windfall came from a Google-commissioned report; the government's own estimate is 55 to 140 billion by 2030."
+   },
+   {
+    "cat": "ok",
+    "front": "Open models",
+    "id": "0328e32fc849",
+    "minutes": 6,
+    "source": "ricursive.com",
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "why": "A chip-design lab claims a US open-weight coding record (80.52 on TerminalBench 2.1) for $32M of total R&D, a tenth of the previous leader - all self-reported."
+   }
+  ],
+  "reserve": "1d2070ead37f",
+  "status": "provisional",
+  "thin": 11,
+  "total": 77,
+  "unreadable": 12
  }
 }

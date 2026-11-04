@@ -1,0 +1,12 @@
+{
+ "id": "7bb6b3fbfe4f",
+ "authored_at": "2026-11-04T21:10:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "PC Deal Check is a Show HN tool that grades a prebuilt PC's asking price by pricing its parts. You paste a retailer link or upload a photo of the price and specs, AI identifies the main components, and a pricing engine compares the price to market-based part estimates to grade the deal. The example: a PowerSpec G531 at $1,399.99 graded A against a parts estimate of about $1,569. It is free for US visitors with US retailer listings.",
+ "highlights": [
+  "Grades prebuilt PC prices against part-by-part estimates",
+  "AI reads the listing; a custom engine does the pricing",
+  "Example: $1,399.99 PowerSpec G531 got an A vs ~$1,569 in parts"
+ ]
+}

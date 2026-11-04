@@ -1,0 +1,13 @@
+{
+ "id": "f1f51a7dc014",
+ "authored_at": "2026-11-04T21:10:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison released datasette-llm 0.1a10, fixing a bug on his agent.datasette.io demo where the available LLM models were not restricted to those in the configuration."
+ ],
+ "highlights": [
+  "datasette-llm 0.1a10 fixes model restriction by configuration"
+ ],
+ "basis": "Thin cache (372 chars, release note). Written from the release note."
+}

@@ -1,0 +1,13 @@
+{
+ "id": "1d2070ead37f",
+ "authored_at": "2026-11-04T21:10:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Ars Technica reports that almost no one is using outside AI agents to order on DoorDash. On the Q3 call, CEO Tony Xu said agents generated 'several hundred orders' over the time they have been live, a 'very low use case' for a company that handled nearly 1 billion orders in the quarter. Xu sees agents helping with long-consideration purchases and proactive background work, but said for something as simple as ordering food, people come directly to DoorDash.\n\nThe article adds context: DoorDash's MCP connector launched less than a month ago, is limited to early beta partners and mostly used for corporate lunches, and without it agents must use the web interface. The figure excludes DoorDash's own AI tools. Its 'Ask DoorDash' feature builds baskets five times faster, with orders averaging nearly 50% higher basket value and about 60% more unique items, per the company.",
+ "highlights": [
+  "Outside AI agents produced 'several hundred' DoorDash orders against ~1B total orders in Q3",
+  "Xu: agents suit long-consideration tasks; simple food ordering comes straight to the app",
+  "MCP connector is under a month old, limited to early partners",
+  "DoorDash's own Ask DoorDash: baskets built 5x faster, ~50% higher basket value (company figures)"
+ ]
+}

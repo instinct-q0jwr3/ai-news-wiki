@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-04",
+ "date": "2026-11-04",
+ "status": "provisional",
+ "reserve": "1d2070ead37f",
+ "picks": [
+  {
+   "id": "19594ae05756",
+   "front": "AI and politics",
+   "source": "tomshardware.com",
+   "why": "Data-center restrictions won almost everywhere they were on the ballot - 33 passed, voters recalled officials in Piqua and Yukon - though only three projects (2.3 GW) have been delayed so far."
+  },
+  {
+   "id": "245944f59ce0",
+   "front": "Trust and verification",
+   "source": "anthropic.com",
+   "why": "Anthropic open-sources FlashProve, a prototype that lets a user cryptographically verify which model answered, targeting router substitution and token-stream tampering."
+  },
+  {
+   "id": "4d850d400172",
+   "front": "Safety",
+   "source": "theguardian.com",
+   "why": "Hinton says we might have been better off never building AI, warns of a financial or power blackout incident within two years, and names Altman, Musk and Zuckerberg."
+  },
+  {
+   "id": "4b859315c983",
+   "front": "The numbers behind the hype",
+   "source": "wired.com",
+   "why": "The UK AI minister admits the 400 billion pound AI windfall came from a Google-commissioned report; the government's own estimate is 55 to 140 billion by 2030."
+  },
+  {
+   "id": "0328e32fc849",
+   "front": "Open models",
+   "source": "ricursive.com",
+   "why": "A chip-design lab claims a US open-weight coding record (80.52 on TerminalBench 2.1) for $32M of total R&D, a tenth of the previous leader - all self-reported."
+  }
+ ]
+}

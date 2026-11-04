@@ -1,0 +1,13 @@
+{
+ "id": "56452f7f4664",
+ "authored_at": "2026-11-04T21:10:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Simon Willison released llm 0.37.1, a bugfix release with contributions from Steven Huang, Tao An, Arjan Mossel and XQ."
+ ],
+ "highlights": [
+  "llm 0.37.1 bugfix release with four contributors"
+ ],
+ "basis": "Thin cache (309 chars, release note). Written from the release note."
+}

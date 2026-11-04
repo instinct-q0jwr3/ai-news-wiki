@@ -1,0 +1,13 @@
+{
+ "id": "cd4d82230508",
+ "authored_at": "2026-11-04T21:10:31Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "This Latent Space AINews issue admits the Weight-Space Programming claims were presented in an overly favorable light but says the finding is still a big wake-up moment with several independent replications, so it runs no retraction. It then summarizes the day's replications and caveats: Alex Krentsel's cross-generation replication found a sharp capability jump, with the latest models producing Breakout networks scoring up to 22x an RL baseline; Hugging Face reproduced the paper with its ML Intern harness; and a user had a model hand-write a 100K-parameter classifier for fake legal citations that reportedly beat a trained one.\n\nA Zhihu reconstruction of the Qwen edit says the gain is narrower than the headline: 576 of 579 repaired answers had hit the 32K-token limit because of looping, Astra located a 'repetition direction' mainly in layers 15 and 19 MLPs and subtracted it from top neurons, and held-out accuracy rose from 10.6% to 60.4%, mostly existing reasoning that could now finish. Simon Willison reports a laptop reproduction with Qwen 3.8 27B. The issue also features AI Engineer Shanghai and a history-of-Latent-Space interview, and is long; only the opening section was read.",
+ "highlights": [
+  "Latent Space: Weight-Space Programming overstated in places but independently replicated",
+  "Replications: Krentsel (Breakout nets up to 22x an RL baseline), Hugging Face, a hand-written citation classifier",
+  "Zhihu reconstruction: Qwen gain mostly fixes looping; held-out accuracy 10.6% to 60.4%",
+  "Opening section only; remainder of the issue not read"
+ ]
+}
