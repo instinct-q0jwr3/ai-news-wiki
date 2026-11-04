@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-03 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-11-04** - Daring Fireball collects reviews of the iPad Mini with the A20 Pro chip. David Pierce at The Verge says the new Acoustic Display fires sound out of the front panel rather than speaker holes, as some TVs do. He finds it sounds no better, maybe slightly… ([iPad Mini (A20 Pro) Review Roundup](../summaries/8704a853b1c3.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-11-03** - Simon Willison shows a research result that runs on a laptop: Qwen 3.8 27B can interpret model weights, echoing a larger finding in the work he is covering. In that research, GPT-6 Astra reads raw weights and works out what a network was trained to do, and… ([Qwen 3.8 27B on my laptop can interpret model weights, too](../summaries/8ec7f86355a3.md) · [OpenAI](../entities/openai.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-03** - Apple released the first developer betas of iOS 27.3 and watchOS 27.3 on Tuesday, per Bloomberg. iOS 27.3 adds Apple Intelligence in China with an Alibaba-powered content filter; watchOS 27.3 adds Siri Recap and Live Rewind. ([Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind](../summaries/525bcfad57ed.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md)) 🔒
 - **2026-11-03** - Second Look Research (a summer-fellowship team) has partially replicated and extended Anthropic's 'Teaching Claude Why' alignment work on open models - the first independent check on techniques that have shipped in production Claude models since Opus 4.5.… ([Teaching Qwen Why](../summaries/1033f0b4b678.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))

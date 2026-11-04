@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-03 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-04** - Google is on defense after a political backlash to its AI-in-schools policy. The New York Times reported that Google would turn off Search for schools that reject AI entirely. Sen. Bernie Sanders called it 'extortion', NYC Mayor Zohran Mamdani wrote that… ([Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually](../summaries/90d83694fbbc.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-11-04** - Google's official news account clarified its education announcement, saying it 'gives schools more choice, not less'. Gemini, Gemini Notebook and Search will be off by default, based on K-12 schools asking for more control over student AI use. The cached… ([We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)](../summaries/ee05b8840e05.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-11-03** - Hacker News links a report that Google will turn off Search for schools that reject its AI tools, with an archive link and a Google blog post on education products. The fuller account is in the NYT-sourced story: Google will make AI tools easier to… ([Google will turn off search for schools that reject AI](../summaries/2aeae094ed15.md) · [Google](../entities/google.md)) 🔒
 - **2026-11-03** - UK-based Google DeepMind staff are urging leaders to drop non-disparagement clauses that bar public warnings about AI risks even after employees leave, per the Washington Post. Current workers say the employment contracts deter them from warning the public. ([UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company](../summaries/3c65291f996b.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-03** - Another Hacker News submission of the same Google school-policy story: Google to cut off Search access for schools that ban generative AI. No article text was captured; see the NYT-sourced entry for the reported detail. ([Google to cutoff Search Engine access to schools banning Gen. AI](../summaries/c657304af6b6.md) · [Google](../entities/google.md)) ⚠

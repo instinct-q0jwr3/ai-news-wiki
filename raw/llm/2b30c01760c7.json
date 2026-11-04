@@ -1,0 +1,13 @@
+{
+ "id": "2b30c01760c7",
+ "authored_at": "2026-11-04T03:07:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "'The Little Book of Generative AI Foundations' is an arXiv book that gives a compact, derivation-focused route through the math behind generative models. It starts from PCA and probabilistic PCA and moves through variational autoencoders and diffusion models to normalising flows, autoregressive factorisations, GANs, Wasserstein GANs and energy-based models.\n\nThe stated aim is structure over survey: show how these families are derived and related, without dropping the mathematics. The audience is mathematically curious researchers, practitioners and students who want a foundation rather than an architecture tour. Only the abstract was captured.",
+ "highlights": [
+  "Compact derivation-first primer on generative model math",
+  "Path: PCA, probabilistic PCA, VAEs, diffusion, flows, autoregressive models, GANs, WGANs, energy-based models",
+  "Goal: show how the families relate, keeping the mathematics",
+  "Based on the abstract only"
+ ]
+}

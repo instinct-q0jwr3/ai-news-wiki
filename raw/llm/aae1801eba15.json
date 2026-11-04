@@ -1,0 +1,14 @@
+{
+ "id": "aae1801eba15",
+ "authored_at": "2026-11-04T03:07:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The essay argues that the AI industry got lucky with pretraining data - Wikipedia, open-source code, Stack Exchange, arXiv, Project Gutenberg and billions of web pages formed a commons that was 'lying around' - and that posttraining has no equivalent. Open models like Nemotron and the author's own still depend on that commons for most pretraining data, and over half of crawler traffic is now for AI, per Cloudflare.\n\nThe key distinction is that pretraining consumes documents while posttraining consumes tasks. A human task is situated: someone wants something, acts, the world responds, goals shift, and the moment passes. An RL task freezes that into a repeatable object, much as writing freezes an oral story. To preserve one you need at least a world, an intent and, in the author's framing, a way to judge outcomes. Nobody has built a shared public stock of such tasks, so frontier labs build them privately and open efforts lack them.\n\nThe implication is that truly open post-trained agents depend on a task commons that does not exist yet. Only the first half of the essay was read.",
+ "highlights": [
+  "Pretraining benefited from an accidental public commons; posttraining has none",
+  "Pretraining consumes documents; posttraining consumes tasks",
+  "An RL task freezes a situated human activity into a repeatable object (world, intent, evaluation)",
+  "Open models still rely on the pretraining commons; open agentic models would need a task commons",
+  "First half of the essay read"
+ ]
+}

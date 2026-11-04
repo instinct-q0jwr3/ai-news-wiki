@@ -1,6 +1,6 @@
 # Adapting for a world of software factories
 
-_type: news-summary · created: 2026-09-30 · updated: 2026-11-03 · confidence: high_
+_type: news-summary · created: 2026-09-30 · updated: 2026-11-04 · confidence: high_
 
 `tldr-ai`
 

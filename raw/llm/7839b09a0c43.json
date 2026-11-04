@@ -1,0 +1,14 @@
+{
+ "id": "7839b09a0c43",
+ "authored_at": "2026-11-04T03:07:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic, per Business Insider. She joined the company in 2024 and helped scale Claude Code into one of tech's most important products. Thariq Shihipar, who also worked on Claude Code, announced his departure last month."
+ ],
+ "highlights": [
+  "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic",
+  "Thariq Shihipar, a Claude Code engineer, left last month"
+ ],
+ "basis": "Thin cache (62 chars). Written from the Techmeme headline and Business Insider lede."
+}

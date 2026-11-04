@@ -1,155 +1,119 @@
 {
- "generated_at": "2026-11-03T21:05:00+00:00",
+ "generated_at": "2026-11-04T03:05:49+00:00",
  "stories": [
   {
-   "id": "efe4ed352b4e",
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "id": "ea1e71359da9",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
    "source": "Hacker News",
-   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
   },
   {
-   "id": "2aeae094ed15",
-   "title": "Google will turn off search for schools that reject AI",
+   "id": "2b30c01760c7",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
    "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+   "url": "https://arxiv.org/abs/2605.29713"
   },
   {
-   "id": "27d16ff50c05",
-   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "id": "d25539f7b3cf",
+   "title": "How I use AI",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50352757"
+   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
   },
   {
-   "id": "21f7ee94d645",
-   "title": "Gitbook Breached",
+   "id": "8d6af7884cac",
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50354336"
+   "url": "https://github.com/finic-ai/kairos"
   },
   {
-   "id": "717c300472a9",
-   "title": "Quili AI",
+   "id": "aae1801eba15",
+   "title": "There is no posttraining data commons",
    "source": "Hacker News",
-   "url": "https://www.quili.ai/"
+   "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/"
   },
   {
-   "id": "3c65291f996b",
-   "title": "UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company",
+   "id": "27c56f909ad6",
+   "title": "Why Every AI Model Will Ship as a Torrent",
+   "source": "Hacker News",
+   "url": "https://pirateface.co/articles/one-model-one-swarm"
+  },
+  {
+   "id": "fa65412a1f93",
+   "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
+   "source": "Hacker News",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/"
+  },
+  {
+   "id": "f5f1e39594d9",
+   "title": "Writing as an act of rebellion",
+   "source": "Hacker News",
+   "url": "https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion"
+  },
+  {
+   "id": "efb05ffae240",
+   "title": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation",
    "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/"
+   "url": "https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds/"
   },
   {
-   "id": "59498e7830f8",
-   "title": "The AI Bubble Monitor",
-   "source": "Hacker News",
-   "url": "https://cepr.net/publications/ai-bubble-monitor/"
-  },
-  {
-   "id": "484cd1381d8f",
-   "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-   "source": "Hacker News",
-   "url": "https://github.com/Muvon/octomind"
-  },
-  {
-   "id": "6c992f12c70a",
-   "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-   "source": "Hacker News",
-   "url": "https://concepts.laxmena.com/"
-  },
-  {
-   "id": "29871a763459",
-   "title": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
-   "source": "Hacker News",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html"
-  },
-  {
-   "id": "8959afa3a491",
-   "title": "Embedding boolean circuits in a neural network",
-   "source": "Hacker News",
-   "url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network"
-  },
-  {
-   "id": "e9bcb81825dc",
-   "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-   "source": "Hacker News",
-   "url": "https://hackertv.org"
-  },
-  {
-   "id": "1fac56fc9de2",
-   "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
-  },
-  {
-   "id": "b96a86429782",
-   "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
-  },
-  {
-   "id": "c657304af6b6",
-   "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
-   "source": "Hacker News",
-   "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/"
-  },
-  {
-   "id": "f52c929f3da2",
-   "title": "AI Agents Used by Railway Breach Systems of Rival Primcloud",
-   "source": "Hacker News",
-   "url": "https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud/"
-  },
-  {
-   "id": "8e9b2261901d",
-   "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents",
+   "id": "19f61eff297a",
+   "title": "Q&A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more",
    "source": "Techmeme",
+   "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/"
+  },
+  {
+   "id": "90d83694fbbc",
+   "title": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html"
+  },
+  {
+   "id": "ee05b8840e05",
+   "title": "We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)",
+   "source": "Techmeme",
+   "url": "https://x.com/newsfromgoogle"
+  },
+  {
+   "id": "39c083d9fc0a",
+   "title": "Super Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03/"
+  },
+  {
+   "id": "7839b09a0c43",
+   "title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month",
+   "source": "Techmeme",
+   "url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11"
+  },
+  {
+   "id": "245944f59ce0",
+   "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in",
+   "source": "Techmeme",
+   "url": "https://www.anthropic.com/research/provable-inference"
+  },
+  {
+   "id": "8704a853b1c3",
+   "title": "iPad Mini (A20 Pro) Review Roundup",
+   "source": "Daring Fireball",
+   "url": "https://www.techmeme.com/261103/p15#a261103p15"
+  },
+  {
+   "id": "602ae34e9b3d",
+   "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy"
+  },
+  {
+   "id": "95380347210b",
+   "title": "Apple Begins Opening Siri AI to Developers",
+   "source": "Daring Fireball",
    "url": "https://developer.apple.com/news/?id=gdk2umrf"
   },
   {
-   "id": "34e0b8b60d7d",
-   "title": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year",
+   "id": "e90ed2598e49",
+   "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation"
-  },
-  {
-   "id": "18f3b9cdde1e",
-   "title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\"",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html"
-  },
-  {
-   "id": "525bcfad57ed",
-   "title": "Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczMDU5MCwiZXhwIjoxNzk0MzM1MzkwLCJhcnRpY2xlSWQiOiJUTlhWQTJOM04wOUowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.7fxypbPrSvvjnL8axvz4558x4pLkCOGmDrxk0Q0E3l0"
-  },
-  {
-   "id": "8d27deedf6cf",
-   "title": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber"
-  },
-  {
-   "id": "c5c696d3ae5d",
-   "title": "ChatGPT Consumer Product Lead Adam Fry says ChatGPT has hit 1.2B WAUs, adding 200M over the past two months, and its search volume is now ~20% of Google's",
-   "source": "Techmeme",
-   "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20"
-  },
-  {
-   "id": "f5a50ad2c308",
-   "title": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
-   "source": "Daring Fireball",
-   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
-  },
-  {
-   "id": "8ec7f86355a3",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-  },
-  {
-   "id": "7cb4026f6aaa",
-   "title": "CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html"
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
   }
  ]
 }

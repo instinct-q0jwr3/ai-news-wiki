@@ -1,0 +1,14 @@
+{
+ "id": "ee05b8840e05",
+ "authored_at": "2026-11-04T03:07:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Google's official news account clarified its education announcement, saying it 'gives schools more choice, not less'. Gemini, Gemini Notebook and Search will be off by default, based on K-12 schools asking for more control over student AI use. The cached text was a short excerpt of the X post."
+ ],
+ "highlights": [
+  "Google: announcements give schools more choice, not less",
+  "Gemini, Gemini Notebook and Search off by default for schools"
+ ],
+ "basis": "Thin cache (365 chars, X post excerpt). Written from the excerpt and the matching CNBC report."
+}

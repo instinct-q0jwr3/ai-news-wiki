@@ -1,0 +1,13 @@
+{
+ "id": "f5f1e39594d9",
+ "authored_at": "2026-11-04T03:07:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A short newsletter essay argues that handwriting and human-made work gain value as AI spreads. The author takes the TV series Pluribus as his frame: an alien consciousness has absorbed all human knowledge, yet shows a desire to read something new when the main character, a writer, starts a book. From that he concludes that writing is becoming more valuable because AI cannot create what has not been written.\n\nHe points to software as evidence: Jepsen published a brutal report on ParticleDB, a vibe-coded database, which he calls the worst-implemented database he has seen, and contrasts it with careful handmade projects such as a Zig implementation of Postgres. He is 'bullish' on handmade articles, books and software standing out. The argument rests on one fiction reference and a couple of examples, and is better read as a manifesto than a measured case.",
+ "highlights": [
+  "Frame: Pluribus, where an all-knowing alien still wants to read something new",
+  "Claim: human writing and handmade software become more valuable and distinctive",
+  "Evidence cited: Jepsen's critical report on the vibe-coded ParticleDB database",
+  "A manifesto-style post resting on thin examples"
+ ]
+}

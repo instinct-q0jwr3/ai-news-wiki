@@ -1,0 +1,97 @@
+{
+ "id": "digest-2026-11-04",
+ "date": "2026-11-04",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Google's plan to cut Search for schools that reject AI becomes a political fight in a day, with Sanders, Mamdani and Lina Khan piling on. Anthropic ships FlashProve to prove which model answered you, and Revolut says self-hosting cut its AI coding bill by about 90%.",
+ "sections": [
+  {
+   "title": "The debt nobody sees",
+   "intro": "Off-balance-sheet AI obligations at big tech hit $3.2T, and Super Micro's 298% growth shows the demand side of the same boom.",
+   "stories": [
+    "ea1e71359da9",
+    "39c083d9fc0a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The schools fight",
+   "intro": "Google's plan to cut Search for schools that reject AI draws fire from Sanders, Mamdani and Khan; Google says schools stay in control, and NYC proposes a K-8 generative-AI ban.",
+   "stories": [
+    "90d83694fbbc",
+    "ee05b8840e05",
+    "19f61eff297a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The proof problem",
+   "intro": "Anthropic open-sources FlashProve to let users verify which model answered them.",
+   "stories": [
+    "245944f59ce0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The cost curve",
+   "intro": "Revolut moves to self-hosted GLM and cuts coding inference cost about 90%, while Traversal raises $120M for SRE agents.",
+   "stories": [
+    "e90ed2598e49",
+    "efb05ffae240"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The data commons",
+   "intro": "Two essays on what open models need: a posttraining task commons that does not exist, and torrents as the natural way to ship 510 GB of weights.",
+   "stories": [
+    "aae1801eba15",
+    "27c56f909ad6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "Living with agents: one engineer's $3,000-a-month setup and an open-source fraud platform tuned by coding agents.",
+   "stories": [
+    "d25539f7b3cf",
+    "8d6af7884cac"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The reskilling case",
+   "intro": "IKEA turned 8,500 call agents into design consultants after Billie took the routine half of its inquiries.",
+   "stories": [
+    "fa65412a1f93"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The talent and the lobby",
+   "intro": "Claude Code's product lead leaves Anthropic, and The Information describes Nvidia's soft power over its customers.",
+   "stories": [
+    "7839b09a0c43",
+    "602ae34e9b3d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The handmade turn",
+   "intro": "A manifesto for human-made writing and software against AI-generated everything.",
+   "stories": [
+    "f5f1e39594d9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The reading shelf",
+   "intro": "A math primer on generative models and an iPad Mini review roundup.",
+   "stories": [
+    "2b30c01760c7",
+    "8704a853b1c3"
+   ],
+   "concepts": []
+  }
+ ]
+}

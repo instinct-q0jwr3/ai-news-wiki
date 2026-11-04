@@ -1,6 +1,6 @@
 # FLAWED's Flaws and What This Means for Industry Research
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-11-03 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-11-04 · confidence: high_
 
 `hacker-news` `amazon`
 

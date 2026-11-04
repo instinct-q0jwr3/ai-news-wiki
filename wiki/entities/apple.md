@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-03 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-04** - Apple Developer: Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, a new Developer Preview enables any developer to integrate their app with Siri AI, giving businesses and developers new ways to reach… ([Apple Begins Opening Siri AI to Developers](../summaries/95380347210b.md) · [Apple](../entities/apple.md))
+- **2026-11-04** - Daring Fireball collects reviews of the iPad Mini with the A20 Pro chip. David Pierce at The Verge says the new Acoustic Display fires sound out of the front panel rather than speaker holes, as some TVs do. He finds it sounds no better, maybe slightly… ([iPad Mini (A20 Pro) Review Roundup](../summaries/8704a853b1c3.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-11-03** - Apple released the first developer betas of iOS 27.3 and watchOS 27.3 on Tuesday, per Bloomberg. iOS 27.3 adds Apple Intelligence in China with an Alibaba-powered content filter; watchOS 27.3 adds Siri Recap and Live Rewind. ([Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind](../summaries/525bcfad57ed.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md)) 🔒
 - **2026-11-03** - Siri AI, an entirely new version of Siri that is profoundly more capable, conversational, and personal, is designed to be deeply integrated into Apple’s operating systems and the apps people use every day, including the apps from our… ([Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents](../summaries/8e9b2261901d.md) · [Apple](../entities/apple.md))
 - **2026-11-03** - Jason Snell's traditional chart barrage for Apple's record fourth quarter: revenue of $114.5 billion, up 12% year on year, with iPhone up 17.5%, Mac up 23.7% and Services up 9.8%. The soft spots are Wearables, down 7.9%, and iPad, down 10.4%.

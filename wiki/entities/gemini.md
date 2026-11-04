@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-03 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-04** - Google is on defense after a political backlash to its AI-in-schools policy. The New York Times reported that Google would turn off Search for schools that reject AI entirely. Sen. Bernie Sanders called it 'extortion', NYC Mayor Zohran Mamdani wrote that… ([Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually](../summaries/90d83694fbbc.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-11-04** - Google's official news account clarified its education announcement, saying it 'gives schools more choice, not less'. Gemini, Gemini Notebook and Search will be off by default, based on K-12 schools asking for more control over student AI use. The cached… ([We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)](../summaries/ee05b8840e05.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-11-03** - UK-based Google DeepMind staff are urging leaders to drop non-disparagement clauses that bar public warnings about AI risks even after employees leave, per the Washington Post. Current workers say the employment contracts deter them from warning the public. ([UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company](../summaries/3c65291f996b.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-03** - Simon Willison's llm CLI hits 0.37 with about two months of accumulated work: support for gpt-6.1-sol and gpt-6.1-terra, a new 'llm openai endpoint add' command for OpenAI-compatible endpoints, and a new default model - gpt-6-luna, half the price of the… ([llm 0.37](../summaries/df770ad8e340.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-02** - Seven years late to the party, a developer discovers the Gemini protocol and falls for it: imagine the web with no cookies, no headers beyond GET, no scripting, no styling, no images - no trusted certificate authorities either. The minimalism sounds… ([Building a gemini server in python](../summaries/a1f670e25734.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

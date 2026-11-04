@@ -1,0 +1,13 @@
+{
+ "id": "e90ed2598e49",
+ "authored_at": "2026-11-04T03:07:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Revolut says it cut AI coding inference costs by roughly 90% in under a year by making self-hosted models its default instead of relying mainly on commercial services like Claude. David Abitbol, its ops and infrastructure lead, told the AI Engineer conference in New York that the rollout to about 2,000 engineers produced a 60% improvement in coding time and 70% in lead time.\n\nThe path: Revolut used Gemini in early 2025 and Claude Code in early 2026, but engineers were spending $1,000 to $10,000 a month with unclear return, so it set strict budgets and then looked at self-hosting. It moved from GLM-5.1 to GLM-5.3, now served on 56 Nvidia B200 GPUs. At about $0.30 per million tokens, self-hosted GLM 5.1 cost about a tenth of Codex or Claude Code.\n\nThe surprising lesson was behavioral: with cheap tokens, engineers stopped rationing and used models for debugging and Jira and Confluence tickets, which Abitbol says produced bigger gains than faster code. GLM 5.1 is large - about 754 billion parameters, 40 billion active, roughly 380 GB of GPU memory for weights.",
+ "highlights": [
+  "Revolut cut AI coding inference cost ~90% by defaulting to self-hosted GLM models",
+  "Reported 60% faster coding time and 70% better lead time across ~2,000 engineers",
+  "Served on 56 Nvidia B200 GPUs; ~$0.30 per million tokens, about a tenth of commercial tools",
+  "Cheap tokens changed behavior: engineers used AI for debugging and tickets, where the biggest gains appeared"
+ ]
+}

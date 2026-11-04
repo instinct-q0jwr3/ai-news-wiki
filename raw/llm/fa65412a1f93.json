@@ -1,0 +1,13 @@
+{
+ "id": "fa65412a1f93",
+ "authored_at": "2026-11-04T03:07:54Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "IKEA's Ingka Group deployed an AI assistant called Billie across customer service in 2021. By 2023 it was handling about 47% of inbound inquiries, roughly 3.2 million conversations on product information and recommendations, with operating savings of nearly 13 million euros (about $15 million).\n\nThe interesting step is what came next. Looking at the other 53%, IKEA saw callers who wanted help designing their homes, which needs taste and contextual judgment. Rather than trying to automate them, Ingka treated them as a demand signal and retrained about 8,500 call-center employees as remote interior design consultants, with training in digital retail sales, room planning and relationship management. Billie takes the operational load while the reskilled staff take the design work. It is held up as a case where automation creates a higher-value human role instead of removing the people.",
+ "highlights": [
+  "Billie handled ~47% of inquiries (3.2M conversations) by 2023, saving nearly 13M euros",
+  "The remaining 53% included design requests that needed human taste and judgment",
+  "About 8,500 call agents were retrained as remote interior design consultants",
+  "Pattern: automate the routine volume, convert freed staff into a paid advisory service"
+ ]
+}
