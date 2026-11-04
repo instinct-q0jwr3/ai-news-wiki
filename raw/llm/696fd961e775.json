@@ -1,0 +1,14 @@
+{
+ "id": "696fd961e775",
+ "authored_at": "2026-11-04T09:09:05Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Pavel Rabtsevich, a 28-year-old product manager in Spain with no astronomy training or telescope, says he may have found an exoplanet by pointing AI tools at public TESS data. He gave measurements of over 126,000 stars to TypeSafe's Jev, Claude Code and OpenAI's Codex and had them look for periodic dimming, iterating on a candidate list. He stresses that he did not take first answers: he pushed the models to improve their methods, cross-checked between them, and decided which tests to run and what to keep.\n\nThe candidate is TIC 4206066, a star a bit smaller than the Sun about 116 light-years away, dimming every 3.18 days. The same dips appear in the 2020 and 2018 data. He estimates a planet about 1.4 times Earth's size with a surface near 1,000 degrees Fahrenheit, and a possible second signal at 11.13 days he finds less convincing. He ran 74 tests with Claude Code trying to disprove it, including predicting the third dataset's dips from two, which worked in all three cases.\n\nHe asked MIT to point TESS at it; the request was approved, with observations every two minutes from October 31 to November 26. He posted predicted dimming times and said he would post it publicly if it fails. This is a claim awaiting confirmation, not a discovery yet; the article is Gizmodo's, and only part of it was read.",
+ "highlights": [
+  "Amateur used Jev, Claude Code and Codex on TESS data for 126,000+ stars to find periodic dimming",
+  "Candidate: TIC 4206066, ~116 light-years away, dimming every 3.18 days; ~1.4 Earth sizes, ~1,000°F",
+  "74 falsification tests with Claude Code; same dips appear in 2018 and 2020 data",
+  "TESS will observe it Oct 31 to Nov 26; predictions are public, so it is testable",
+  "Unconfirmed claim, not a verified discovery"
+ ]
+}

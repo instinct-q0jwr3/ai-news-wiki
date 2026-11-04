@@ -10,7 +10,8 @@
    "intro": "Off-balance-sheet AI obligations at big tech hit $3.2T, and Super Micro's 298% growth shows the demand side of the same boom.",
    "stories": [
     "ea1e71359da9",
-    "39c083d9fc0a"
+    "39c083d9fc0a",
+    "edde9c1bd7c1"
    ],
    "concepts": []
   },
@@ -89,7 +90,46 @@
    "intro": "A math primer on generative models and an iPad Mini review roundup.",
    "stories": [
     "2b30c01760c7",
-    "8704a853b1c3"
+    "8704a853b1c3",
+    "7df399d08487"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The ballot box vs. the data center",
+   "intro": "The midterms turn data centers into a campaign issue: Democrats win Texas, Georgia, Ohio and Pennsylvania, Ohio towns vote bans, and AI stocks drop.",
+   "stories": [
+    "49a7a99cf81d",
+    "71eb641ff5d9",
+    "05bec683dd50",
+    "25b73865fdcf"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The chip border",
+   "intro": "Oracle drops a $7B Tencent chip lease, Chinese firms wait on $70B of Nvidia orders, and the FT counts the grid gap behind it all.",
+   "stories": [
+    "7b1f9d071772",
+    "4b0cbaee8d9c",
+    "06c23e8d2176"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The research claim",
+   "intro": "An amateur says Claude Code and Codex helped find an exoplanet candidate; TESS will test it by Nov 26. Pharma leaders doubt the bigger AI-cures-disease promises.",
+   "stories": [
+    "696fd961e775",
+    "a1a0972a6666"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Embodied money",
+   "intro": "Chinese embodied-AI funding rose fivefold in H1 2026.",
+   "stories": [
+    "930ac82411e5"
    ],
    "concepts": []
   }

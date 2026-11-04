@@ -1,0 +1,15 @@
+{
+ "id": "7df399d08487",
+ "authored_at": "2026-11-04T09:09:05Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Uncracked City is a Show HN detective game from a solo founder in which a model plays the detective and you question LLM suspects, one of whom lies. Each case is set in a real city with real public places, while the crime and characters are invented. The sample case is a Halloween 2025 mystery in Salem with four suspects. Only the author's intro and a case blurb were captured."
+ ],
+ "highlights": [
+  "Detective game: question LLM suspects, one of whom lies",
+  "Cases are set in real cities with real public places; crimes and people are invented",
+  "Sample case: Salem, morning after Halloween, four suspects"
+ ],
+ "basis": "Thin cache (352 chars). Written from the author's intro text and case blurb only."
+}
