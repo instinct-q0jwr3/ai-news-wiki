@@ -1,6 +1,6 @@
 # Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind
 
-_type: news-summary · created: 2026-11-03 · updated: 2026-11-04 · confidence: high_
+_type: news-summary · created: 2026-11-03 · updated: 2026-11-05 · confidence: high_
 
 `techmeme` `apple` `alibaba`
 

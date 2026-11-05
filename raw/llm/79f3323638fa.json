@@ -1,0 +1,14 @@
+{
+ "id": "79f3323638fa",
+ "authored_at": "2026-11-05T03:10:57Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI published 'A thousand fewer paths to root', which Techmeme summarizes as a pipeline using an upcoming cyber model to validate and patch 948 Linux local privilege escalation vulnerabilities for $1.2 million in API costs. The page could not be read."
+ ],
+ "highlights": [
+  "OpenAI cyber pipeline: 948 Linux local privilege escalation bugs validated and patched for $1.2M (per summary)",
+  "Page unreadable; details unknown"
+ ],
+ "basis": "Error cache: openai.com did not load. Written from the HN title and the matching Techmeme summary."
+}

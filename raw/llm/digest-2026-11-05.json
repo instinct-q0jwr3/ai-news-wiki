@@ -1,0 +1,82 @@
+{
+ "id": "digest-2026-11-05",
+ "date": "2026-11-05",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Voters rejected data centers in 38 of 40-plus ballot races and Abbott lost Texas by 700,000, while data-center stocks fell. Cat Wu leaves Anthropic for OpenAI, Anthropic signs its first content deal with the AP, and OpenAI says it patched 948 Linux privilege-escalation bugs for $1.2M.",
+ "sections": [
+  {
+   "title": "The ballot box vs. the data center",
+   "intro": "Voters reject data centers in 38 of 40+ ballot races, Abbott loses Texas by 700,000, and data-center stocks fall even as the market rallies.",
+   "stories": [
+    "37c2d32e04b3",
+    "8d870a63e661"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The supply chain squeeze",
+   "intro": "AI demand now crowds out PCBs on top of RAM and GPUs, and Arm's royalty miss hints at a mixed chip picture.",
+   "stories": [
+    "228da1214043",
+    "2afd937cc8f6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The money keeps moving",
+   "intro": "SpaceX's chip debt gets syndicated and Isomorphic Labs eyes $5B at $50B.",
+   "stories": [
+    "b9421a4a05f1",
+    "60b583e0d2a7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent economy",
+   "intro": "Garry Tan's $200K token bill, a venting piece on agent tools, and a CLI that tests whether agents can use your docs.",
+   "stories": [
+    "d2797a1a44c4",
+    "3496e6e09d06",
+    "28fabb1a434e",
+    "5e335ad35973"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The talent and the lobby",
+   "intro": "Cat Wu moves from Anthropic to OpenAI, and Anthropic signs its first content deal, with the AP.",
+   "stories": [
+    "b25194a0e790",
+    "8151573577b1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The security desk",
+   "intro": "OpenAI says it validated and patched 948 Linux privilege-escalation bugs for $1.2M.",
+   "stories": [
+    "23d86ed438ed",
+    "79f3323638fa"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The consumer push",
+   "intro": "Images 2.6 brings GIFs to ChatGPT; 4 billion images a week.",
+   "stories": [
+    "a343e1060780",
+    "a52a544cb44c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The scam economy",
+   "intro": "Platforms take any ad that pays, and the spam now fakes close reading.",
+   "stories": [
+    "c9f1669c7ff1"
+   ],
+   "concepts": []
+  }
+ ]
+}

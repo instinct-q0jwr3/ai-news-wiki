@@ -1,0 +1,13 @@
+{
+ "id": "28fabb1a434e",
+ "authored_at": "2026-11-05T03:10:57Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Gauge is an open-source CLI for improving 'Agent Experience': how easily coding agents discover and use your skills, CLIs, SDKs, MCP servers and docs. It runs real agents against your product, records where they get stuck, and lets your own coding agent test fixes before you publish them. Fixes may touch error messages, skill content, help text, code or docs. The loop runs locally with Docker and your existing agent credentials, with no Gauge account needed. It requires Node.js 22.13+, npm and Docker, and is designed to be driven by your coding agent.",
+ "highlights": [
+  "Open-source CLI that runs real agents against your docs, CLIs and SDKs to find where they get stuck",
+  "Your own coding agent proposes and tests fixes before release",
+  "Runs locally with Docker; no account required",
+  "Needs Node 22.13+, npm and Docker"
+ ]
+}

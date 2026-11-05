@@ -1,0 +1,13 @@
+{
+ "id": "5e335ad35973",
+ "authored_at": "2026-11-05T03:10:57Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "TypeSafe AI explains why it calls its Jev model a 'System One' model, not a decision model. Its line: Jev makes judgments, code makes decisions. People first imagine feeding Jev all state and asking it for one big decision, which leads to 'prompt gymnastics': ever longer criteria prose patched for each new edge case. That, TypeSafe says, puts intelligence at the wrong layer.\n\nThe example is a customer-service workflow with outcomes such as fraud-team freeze, hand-off to a person, instant refund under $25 and review above it. Most of that is cold logic ('claim eligible, over $25') and only some steps need judgment ('does the user want money back?'). A decision is made of wires through nodes of code and nodes of judgment, and Jev belongs in the judgment nodes. The post is vendor positioning, with the architecture advice being the useful part.",
+ "highlights": [
+  "TypeSafe: Jev makes judgments, code makes decisions",
+  "One big 'decision' prompt leads to endless prompt gymnastics",
+  "Split workflows into code nodes (rules, math) and judgment nodes (semantic questions)",
+  "Vendor post; useful as a design pattern"
+ ]
+}

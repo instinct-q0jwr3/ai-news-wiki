@@ -1,6 +1,6 @@
 # Premium: The Hater's Guide To Circular Financing
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-11-04 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-11-05 · confidence: high_
 
 `ed-zitron` `nvidia` `compute-buildout`
 

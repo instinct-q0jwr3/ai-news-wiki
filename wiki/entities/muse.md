@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-05 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-11-05** - I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. ([Ask HN: What's your current AI agentic setup?](../summaries/9fd73df3fc55.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-01** - Paul Walsh's TL;DR does not bury the lede: Meta's Muse, he argues, is a commercial surveillance network wearing an AI assistant's clothes. The assistant is pitched as a secure, private helper that connects to your apps and autonomously handles email,… ([Muse AI agent is a commercial surveillance network disguised as an AI assistant](../summaries/fef10396b9d0.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-10-30** - Stratechery's Sharp Tech podcast is, for the first time, available on video - on YouTube, Spotify and Stratechery itself. The episode on offer covers Anthropic's S-1 and what it means for Meta and Muse, a segment titled 'You Can See Everything', and the… ([Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!](../summaries/75770495cf46.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-10-30** - A post on LessWrong publishes what it presents as the leaked charter of Muse, Meta's model - effectively Meta's model spec. The excerpts shown mix the aspirational with the operational. On purpose: Muse is described as a distillation of human civilization… ([Leaking Muse's Charter, Meta's model spec](../summaries/b585bfc29d7d.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md))

@@ -1,6 +1,6 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-05 · confidence: medium_
 
 `entity` `xai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-11-05** - I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. ([Ask HN: What's your current AI agentic setup?](../summaries/9fd73df3fc55.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-03** - The New York Times and a group of other publications - including the New York Daily News, Chicago Tribune and Orlando Sentinel - have sued Brave Software, the browser maker, on two fronts: that it scraped their sites without permission to build a search… ([The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training](../summaries/f5a50ad2c308.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Amazon](../entities/amazon.md) · [Mistral](../entities/mistral.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-03** - Elon Musk says xAI is limiting Grok Bot usage because 'the cost of serving Grok Bot was unsustainably high relative to revenue' - a rare public admission of inference economics biting at a frontier lab, via Musk's own X post. ([Elon Musk Limits Grok Bot Usage Over Rising Costs](../summaries/ba1e92b929e3.md) · [SpaceXAI (xAI)](../entities/xai.md)) ⚠
 - **2026-11-02** - Short note from feed metadata only: Forbes (Siladitya Ray) reports that Elon Musk told complaining subscribers that the cost of serving Grok Bot was 'unsustainably high relative to revenue,' defending SpaceX's new usage limits. The source is error-cached,… ([Elon Musk says the cost of serving Grok Bot was "unsustainably high relative to revenue", in response to subscribers complaining about SpaceX's usage limits](../summaries/6a715f9ad450.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md)) ⚠

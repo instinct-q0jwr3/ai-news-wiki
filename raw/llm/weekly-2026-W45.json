@@ -66,7 +66,9 @@
     "99c2dc799588",
     "8d715b84840e",
     "ba1e92b929e3",
-    "34e0b8b60d7d"
+    "34e0b8b60d7d",
+    "b9421a4a05f1",
+    "60b583e0d2a7"
    ],
    "concepts": []
   },
@@ -439,7 +441,9 @@
    "stories": [
     "b6fc6059d741",
     "c5c696d3ae5d",
-    "525bcfad57ed"
+    "525bcfad57ed",
+    "a343e1060780",
+    "a52a544cb44c"
    ],
    "concepts": []
   },
@@ -455,7 +459,9 @@
     "7cb4026f6aaa",
     "efe4ed352b4e",
     "f52c929f3da2",
-    "9b9b0f8a2b26"
+    "9b9b0f8a2b26",
+    "23d86ed438ed",
+    "79f3323638fa"
    ],
    "concepts": []
   },
@@ -544,7 +550,9 @@
    "intro": "Claude Code's product lead leaves Anthropic, and The Information describes Nvidia's soft power over its customers.",
    "stories": [
     "7839b09a0c43",
-    "602ae34e9b3d"
+    "602ae34e9b3d",
+    "b25194a0e790",
+    "8151573577b1"
    ],
    "concepts": []
   },
@@ -585,7 +593,9 @@
     "19594ae05756",
     "99b319bd5f57",
     "9f334019aa6a",
-    "75a96d1f785c"
+    "75a96d1f785c",
+    "37c2d32e04b3",
+    "8d870a63e661"
    ],
    "concepts": []
   },
@@ -644,6 +654,34 @@
    "stories": [
     "0328e32fc849",
     "1f90e934d1a3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The supply chain squeeze",
+   "intro": "AI demand now crowds out PCBs on top of RAM and GPUs, and Arm's royalty miss hints at a mixed chip picture.",
+   "stories": [
+    "228da1214043",
+    "2afd937cc8f6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent economy",
+   "intro": "Garry Tan's $200K token bill, a venting piece on agent tools, and a CLI that tests whether agents can use your docs.",
+   "stories": [
+    "d2797a1a44c4",
+    "3496e6e09d06",
+    "28fabb1a434e",
+    "5e335ad35973"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The scam economy",
+   "intro": "Platforms take any ad that pays, and the spam now fakes close reading.",
+   "stories": [
+    "c9f1669c7ff1"
    ],
    "concepts": []
   }

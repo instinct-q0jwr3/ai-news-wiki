@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-05 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-05** - Alphabet's Isomorphic Labs, the Google DeepMind spinout using AI for drug discovery, is in talks to raise about $5 billion at roughly a $50 billion valuation, per Bloomberg sources. It last raised $2.1 billion in May. ([Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May](../summaries/60b583e0d2a7.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-11-04** - TeraWulf secured a credit backstop agreement with Google to support financing of its Kentucky data-center project with Anthropic, due online in the second half of 2027, per Reuters. ([TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027](../summaries/1011b090f92d.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-11-04** - If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. ([Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](../summaries/2a030159a180.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-04** - Cory Doctorow starts from a taxonomy of 'AI is being shoved down our throats': bosses demanding reckless AI use, financial engineers pushing it into retirement savings, and the most visible form, user-interface coercion. That last one predates AI. His… ([Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)](../summaries/e1a98b0338e5.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

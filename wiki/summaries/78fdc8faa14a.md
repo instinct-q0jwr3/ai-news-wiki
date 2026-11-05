@@ -1,6 +1,6 @@
 # Training a Text-to-Image Model for $21K
 
-_type: news-summary · created: 2026-11-04 · updated: 2026-11-04 · confidence: high_
+_type: news-summary · created: 2026-11-04 · updated: 2026-11-05 · confidence: high_
 
 `tldr-ai`
 

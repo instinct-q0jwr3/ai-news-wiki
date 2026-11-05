@@ -1,6 +1,6 @@
 # Put a price on breakthroughs
 
-_type: news-summary · created: 2026-10-10 · updated: 2026-11-04 · confidence: high_
+_type: news-summary · created: 2026-10-10 · updated: 2026-11-05 · confidence: high_
 
 `hacker-news`
 

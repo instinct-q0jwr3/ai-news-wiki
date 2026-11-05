@@ -1,0 +1,13 @@
+{
+ "id": "8151573577b1",
+ "authored_at": "2026-11-05T03:10:57Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Adweek reports, citing two people familiar, that Anthropic struck its first content-licensing deal, with the Associated Press, just before the midterms. Financial terms and timeframe were not disclosed. On election night Claude could surface up-to-the-minute AP data with attribution.\n\nThe contrast is with OpenAI, which has more than a dozen publisher deals including Axel Springer, News Corp. and The Atlantic. In August, media executives told the author Anthropic believed its use of publisher content was fair use and saw no need to pay. His read on the change: an information index without current data is much less useful, especially at moments like an election, and publisher sites block Anthropic's crawlers. It comes as the company prepares to go public within weeks.",
+ "highlights": [
+  "Anthropic signed its first content-licensing deal, with the AP; terms undisclosed",
+  "OpenAI has 12+ publisher deals; Anthropic had held that scraping is fair use",
+  "Real-time AP election data surfaced in Claude with attribution",
+  "Author's read: current data is needed, and publishers block the crawlers"
+ ]
+}

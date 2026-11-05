@@ -1,0 +1,13 @@
+{
+ "id": "228da1214043",
+ "authored_at": "2026-11-05T03:10:57Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Tom's Hardware, citing Nikkei Asia, reports that AI demand is now causing a shortage of printed circuit boards, after price rises in RAM, GPUs and SSDs in 2026. An anonymous US PC-maker executive says it is struggling to secure PCBs even though PC shipments may fall again next year. Makers say traditional demand is underserved as AI products pay more.\n\nThe numbers are stark: lead times have doubled on many products, some PCB orders take up to 30 months, and a new order today would not be filled until late 2028. A Taiwanese PC maker says copper-clad laminate costs have risen at least 12 times since July, and a leading CCL supplier's order book is filling through 2030 despite plans to triple capacity by 2028. Nikkei also notes Nvidia's new partnerships with chip-substrate makers.",
+ "highlights": [
+  "AI demand is squeezing PCB supply for PC makers, per Nikkei Asia via Tom's Hardware",
+  "Some PCB orders take up to 30 months; new orders may not ship until late 2028",
+  "Copper-clad laminate costs up at least 12x since July; a top supplier is booked through 2030",
+  "Follows 2026 price rises in RAM, GPUs and SSDs"
+ ]
+}

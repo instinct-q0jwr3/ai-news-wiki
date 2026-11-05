@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-04 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-05 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-05** - Alphabet's Isomorphic Labs, the Google DeepMind spinout using AI for drug discovery, is in talks to raise about $5 billion at roughly a $50 billion valuation, per Bloomberg sources. It last raised $2.1 billion in May. ([Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May](../summaries/60b583e0d2a7.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-11-04** - If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. ([Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](../summaries/2a030159a180.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-04** - Google published a Gemini Notebook API: a REST interface to create and manage notebooks and sources in Gemini Notebook. Developers can ingest web pages, YouTube videos, plain text and Markdown into persistent notebooks. The docs show creating a notebook… ([Gemini Notebook API](../summaries/c9e0613bafe3.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-04** - Google is on defense after a political backlash to its AI-in-schools policy. The New York Times reported that Google would turn off Search for schools that reject AI entirely. Sen. Bernie Sanders called it 'extortion', NYC Mayor Zohran Mamdani wrote that… ([Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually](../summaries/90d83694fbbc.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

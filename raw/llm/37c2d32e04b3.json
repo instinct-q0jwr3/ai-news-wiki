@@ -1,0 +1,13 @@
+{
+ "id": "37c2d32e04b3",
+ "authored_at": "2026-11-05T03:10:57Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "404 Media reports that voters rejected data centers across the US in the midterms. Proposals were on the ballot in more than 40 races in 13 states, and voters went against them in 38 so far. Six cities banned data centers outright and 12 capped the megawatts such buildings can draw. Pro-data-center candidates also lost.\n\nThe starkest case is Texas, where Gov. Greg Abbott, who had marketed the state as the AI buildout's home (300+ working data centers, plans to double), lost by more than 700,000 votes to Gina Hinojosa. Abbott had accepted over $9 million from data-center donors, and his announced 'pause' on new projects was not real: regulators kept approving projects until the permitting portal was shut after 404 Media's reporting. Other cases: a Kentucky mayoral candidate who approved a hyperscale project lost to a write-in anti-data-center campaign, Emporia, Kansas passed a ban on high-impact data centers, and the mayor of Yukon, Oklahoma lost a recall. A Local Progress official says voters see higher costs and utility bills, not benefits.",
+ "highlights": [
+  "Data centers were on the ballot in 40+ races in 13 states; voters rejected them in 38 so far",
+  "Six cities banned them outright; 12 capped megawatt draw",
+  "Abbott lost Texas by 700,000+ votes after a data-center-friendly term; his 'pause' was not real, per 404 Media",
+  "Candidates and officials who backed hyperscale projects lost in Kentucky and Oklahoma"
+ ]
+}

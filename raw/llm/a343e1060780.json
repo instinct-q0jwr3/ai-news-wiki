@@ -1,0 +1,13 @@
+{
+ "id": "a343e1060780",
+ "authored_at": "2026-11-05T03:10:57Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "OpenAI launched Images 2.6 across ChatGPT, Codex and the API. ChatGPT can now make GIFs from a prompt or uploaded photo in a single step, with adjustable speed and frame-by-frame editing. OpenAI says image generation is 50% faster, and users now generate over 4 billion images per week across ChatGPT and its API, up from 3 billion reported in September. The model rolls out to all ChatGPT and Codex users, and the API gets GPT-Image-2.6 Flare and Sunburst for faster and higher-quality generation.",
+ "highlights": [
+  "Images 2.6 in ChatGPT, Codex and the API; image generation reportedly 50% faster",
+  "ChatGPT can create and edit GIFs (speed, frame by frame)",
+  "4B+ images per week, up from 3B in September (OpenAI)",
+  "API adds GPT-Image-2.6 Flare and Sunburst"
+ ]
+}
