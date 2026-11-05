@@ -1,0 +1,13 @@
+{
+ "id": "2e97794c1fa6",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google DeepMind published a repository for AlphaEvolve. It has a minimal implementation of AlphaEvolve with local evaluation, and an /omega directory with code and data for a new upper bound on the matrix multiplication exponent that AlphaEvolve found. A Colab notebook verifies it with rational arithmetic, and a level_3 folder holds the JAX/Haiku gradient-descent code (32k steps, 32 seeds) that converts the best solution into a verifiable parameter vector. The paper link is still a TODO.",
+ "highlights": [
+  "Minimal AlphaEvolve implementation with local evaluation",
+  "New upper bound on matrix multiplication exponent, with verification",
+  "Rigorous Colab check uses rational arithmetic",
+  "Paper link not yet added"
+ ]
+}

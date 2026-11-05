@@ -1,0 +1,13 @@
+{
+ "id": "bdb954d6637f",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "TestingCatalog covers OpenAI's Images 2.6 launch: global rollout in ChatGPT and Codex on all tiers, with GIF creation and reusable reference images, so you can save yourself or a pet once and reuse them. GPT-Image-2.6 Flare and Sunburst arrive in the API, generating 50% faster, with Sunburst keeping edits more consistent at medium or high quality. OpenAI says usage has reached 4 billion images a week.",
+ "highlights": [
+  "Images 2.6 on all ChatGPT tiers and Codex",
+  "GIFs and saved reference images",
+  "API: Flare and Sunburst, 50% faster",
+  "4B images per week"
+ ]
+}

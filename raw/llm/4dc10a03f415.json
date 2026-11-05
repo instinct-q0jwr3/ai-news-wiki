@@ -1,0 +1,13 @@
+{
+ "id": "4dc10a03f415",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Phoronix summarizes OpenAI's blog post on autonomous vulnerability discovery in the Linux kernel. The prototype found 2,308 candidate vulnerabilities, dynamically reproduced 1,724, and ended with 948 valid local privilege escalation exploits that let an unprivileged user gain root. It also generated candidate patches for maintainers. The run cost $1.2 million in API credits.\n\nOpenAI says that within a few years frontier models will likely find any vulnerabilities in a given project, so the focus should shift to secure-by-default code, smaller attack surface and formal verification. One odd detail: its GPT-5.5 Cyber model found over 5x more novel LPEs than GPT-5.6 Sol, even after three months of kernel hardening between scans.",
+ "highlights": [
+  "2,308 candidates, 1,724 reproduced, 948 valid LPE exploits",
+  "Cost $1.2M in API credits; patches drafted for maintainers",
+  "OpenAI expects 'no unknown vulnerabilities' era; points to secure-by-default code and formal verification",
+  "GPT-5.5 Cyber found 5x+ more novel LPEs than GPT-5.6 Sol"
+ ]
+}

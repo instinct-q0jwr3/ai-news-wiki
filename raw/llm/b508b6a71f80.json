@@ -1,0 +1,13 @@
+{
+ "id": "b508b6a71f80",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "An arXiv paper argues long context is less needed than assumed. Later tokens cost more to generate than early ones, up to 7x on open-weight frontier models. With frequent compaction, models lose little or no accuracy on long-horizon and long-input tasks, and do not collapse on software engineering even taking one action per context. The authors propose 'semantic state space models' and question the need for long-context models.",
+ "highlights": [
+  "Late tokens can cost up to 7x more",
+  "Frequent compaction keeps accuracy on long tasks",
+  "Works even with one action per context",
+  "Proposes semantic state space models"
+ ]
+}

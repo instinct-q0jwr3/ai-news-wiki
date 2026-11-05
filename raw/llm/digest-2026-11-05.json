@@ -10,7 +10,9 @@
    "intro": "Voters reject data centers in 38 of 40+ ballot races, Abbott loses Texas by 700,000, and data-center stocks fall even as the market rallies.",
    "stories": [
     "37c2d32e04b3",
-    "8d870a63e661"
+    "8d870a63e661",
+    "b68a045cf176",
+    "1061e58eeec4"
    ],
    "concepts": []
   },
@@ -20,7 +22,8 @@
    "stories": [
     "228da1214043",
     "2afd937cc8f6",
-    "9495d066e142"
+    "9495d066e142",
+    "14e4e387d84f"
    ],
    "concepts": []
   },
@@ -42,7 +45,9 @@
     "d2797a1a44c4",
     "3496e6e09d06",
     "28fabb1a434e",
-    "5e335ad35973"
+    "5e335ad35973",
+    "ab2d10de8654",
+    "e21a733f580b"
    ],
    "concepts": []
   },
@@ -54,7 +59,10 @@
     "8151573577b1",
     "ef9c14039348",
     "ba5e42b4b327",
-    "ae11b5f34e25"
+    "ae11b5f34e25",
+    "91cef173836e",
+    "5da4616c6393",
+    "e0d4453ee00c"
    ],
    "concepts": []
   },
@@ -63,7 +71,9 @@
    "intro": "OpenAI says it validated and patched 948 Linux privilege-escalation bugs for $1.2M.",
    "stories": [
     "23d86ed438ed",
-    "79f3323638fa"
+    "79f3323638fa",
+    "4dc10a03f415",
+    "ed65350736bd"
    ],
    "concepts": []
   },
@@ -72,7 +82,9 @@
    "intro": "Images 2.6 brings GIFs to ChatGPT; 4 billion images a week.",
    "stories": [
     "a343e1060780",
-    "a52a544cb44c"
+    "a52a544cb44c",
+    "bdb954d6637f",
+    "ed109411cd83"
    ],
    "concepts": []
   },
@@ -99,6 +111,37 @@
     "206e866a1eb0",
     "f0892e1e4839",
     "313f29bda98b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The open-weight race",
+   "intro": "New open and near-open models arrive from Tencent, Cognition and Ricursive, and Delangue argues risk lives in closed labs.",
+   "stories": [
+    "5a01fc952c40",
+    "1d36966941be",
+    "0b85a9011c04",
+    "ba269cf6f80b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The research shelf",
+   "intro": "Lean formalization of the Stacks Project, AlphaEvolve's code, and a paper arguing long context is overrated.",
+   "stories": [
+    "35d4dcdd9e44",
+    "2e97794c1fa6",
+    "b508b6a71f80",
+    "098d6cf7f1aa"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The business desk",
+   "intro": "An Intuit CEO interview and Perplexity's Decisions API.",
+   "stories": [
+    "a624cb1fba1c",
+    "7f248886d730"
    ],
    "concepts": []
   }

@@ -1,65 +1,167 @@
 {
- "generated_at": "2026-11-05T09:09:57+00:00",
+ "generated_at": "2026-11-05T15:10:44+00:00",
  "stories": [
   {
-   "id": "464566db7858",
-   "title": "Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M",
+   "id": "ed65350736bd",
+   "title": "GPT-6 Astra covertly underperforms on safety research",
+   "source": "Hacker News",
+   "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+  },
+  {
+   "id": "4dc10a03f415",
+   "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+   "source": "Hacker News",
+   "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs"
+  },
+  {
+   "id": "ab2d10de8654",
+   "title": "Amazon tells engineers to stop 'tokenmaxxing' to look productive",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim"
+  },
+  {
+   "id": "b68a045cf176",
+   "title": "AI stock selloffs fuel fears Big Tech's best quarters are over",
+   "source": "Hacker News",
+   "url": "https://www.latimes.com/business/story/2026-10-30/big-techs-growth-is-cooling-raising-fears-that-best-quarters-are-over"
+  },
+  {
+   "id": "ab7134ad3e29",
+   "title": "How Apple fits a LLM on iPhone with surgical efficiency",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=sb9uPuiyM_8"
+  },
+  {
+   "id": "14e4e387d84f",
+   "title": "Agility Robotics begins trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us"
   },
   {
-   "id": "ae11b5f34e25",
-   "title": "OpenAI President Greg Brockman says H1 2026 was \"pretty rough\", but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a \"revenue inflection\" in Q3",
+   "id": "b508b6a71f80",
+   "title": "You don't need long context",
+   "source": "TLDR AI",
+   "url": "https://arxiv.org/abs/2611.05306"
+  },
+  {
+   "id": "ba269cf6f80b",
+   "title": "Hugging Face CEO Clément Delangue says his P(doom) is \"close to zero\", arguing that future AI risks stem from closed frontier AI labs, not open-source systems",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/openai-had-rough-first-half-of-year-before-coding-takeoff-brockman-says-6c97d9e5?st=hL3kyT&reflink=desktopwebshare_permalink"
+   "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/"
   },
   {
-   "id": "9495d066e142",
-   "title": "China's export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates",
+   "id": "535168559987",
+   "title": "OpenAI to acquire Pierre Computer Company",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/openai-to-acquire-pierre/"
+  },
+  {
+   "id": "2e97794c1fa6",
+   "title": "AlphaEvolve",
+   "source": "TLDR AI",
+   "url": "https://github.com/google-deepmind/alphaevolve"
+  },
+  {
+   "id": "5da4616c6393",
+   "title": "Meta Acquires AI Coding Startup Conductor",
+   "source": "TLDR AI",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta"
+  },
+  {
+   "id": "5a01fc952c40",
+   "title": "Tencent Launches Hy4, Joining the Ranks of the World's Leading Open-Source AI Models",
+   "source": "TLDR AI",
+   "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+  },
+  {
+   "id": "23d86ed438ed",
+   "title": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs",
    "source": "Techmeme",
-   "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain"
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
   },
   {
-   "id": "bc9445403531",
-   "title": "Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/05/see-you-in-court/"
-  },
-  {
-   "id": "e07d8bb54557",
-   "title": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents",
+   "id": "ed109411cd83",
+   "title": "Study: UK consumer AI spending passes £1B annually, with 5.1% of adults paying for subscriptions as of July 2026; Claude is rapidly catching up to ChatGPT",
    "source": "Techmeme",
-   "url": "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market"
   },
   {
-   "id": "ba5e42b4b327",
-   "title": "Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat",
+   "id": "0b85a9011c04",
+   "title": "Ricursive releases Ripple-65B Preview, a general-purpose variant of its AI model for advanced chip design, under Apache 2.0, costing $0.60 per 1M output tokens",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/"
+   "url": "https://venturebeat.com/technology/ex-googlers-new-apache-2-0-model-ripple-65b-preview-claims-the-u-s-open-coding-lead-on-two-major-benchmarks"
   },
   {
-   "id": "f0892e1e4839",
-   "title": "Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named \"Watermelon\"",
+   "id": "91cef173836e",
+   "title": "Cat Wu joins OpenAI",
+   "source": "TLDR AI",
+   "url": "https://x.com/_catwu/status/2118137612577968402"
+  },
+  {
+   "id": "098d6cf7f1aa",
+   "title": "H-Nets Learn Directly From Raw Bytes",
+   "source": "TLDR AI",
+   "url": "https://x.com/_albertgu/status/2115502111924600855"
+  },
+  {
+   "id": "35d4dcdd9e44",
+   "title": "The Stacks Project, formalized in Lean",
+   "source": "TLDR AI",
+   "url": "https://axiommath.ai/research/the-stacks-project-formalized/"
+  },
+  {
+   "id": "1d36966941be",
+   "title": "Cognition Introduces SWE-2 Flash",
+   "source": "TLDR AI",
+   "url": "https://cognition.com/blog/swe-2-flash"
+  },
+  {
+   "id": "bdb954d6637f",
+   "title": "OpenAI launches Images 2.6 with GIFs and image reference",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/"
+  },
+  {
+   "id": "1061e58eeec4",
+   "title": "at Jensen Huang's midterms event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11"
+   "url": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&reflink=desktopwebshare_permalink"
   },
   {
-   "id": "206e866a1eb0",
-   "title": "Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY",
+   "id": "e21a733f580b",
+   "title": "Together Compiler: Continual Compilation for AI inference",
+   "source": "TLDR AI",
+   "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference"
+  },
+  {
+   "id": "0328e32fc849",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "source": "Hacker News",
+   "url": "https://www.ricursive.com/ripple"
+  },
+  {
+   "id": "7f248886d730",
+   "title": "Web grounding for the Decisions API",
+   "source": "TLDR AI",
+   "url": "https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api"
+  },
+  {
+   "id": "edfef1d1cca4",
+   "title": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market"
+   "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0"
   },
   {
-   "id": "313f29bda98b",
-   "title": "China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market",
+   "id": "a624cb1fba1c",
+   "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/"
+  },
+  {
+   "id": "e0d4453ee00c",
+   "title": "Sources detail Dario Amodei's AI beliefs, shaped by forums like GiveWell and based on EA and \"rationalism\", and his disputes with Sam Altman and Greg Brockman",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4"
-  },
-  {
-   "id": "ef9c14039348",
-   "title": "[AINews] It's Swapping Season",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-it-s-swapping-season/"
+   "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?unlocked_article_code=1.OFE.CslN.usTW7cxPf_1Y&smid=url-share"
   }
  ]
 }

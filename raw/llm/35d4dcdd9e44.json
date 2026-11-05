@@ -1,0 +1,13 @@
+{
+ "id": "35d4dcdd9e44",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Axiom released a Lean formalization of the whole Stacks Project, the roughly 7,500-page open reference for algebraic geometry started by Johan de Jong in 2005. At about 16 million lines it is billed as the largest integrated, reusable library of formalized mathematics. Humans and AI agents can import its definitions and theorems into new proofs, and permanent Stacks tags link every Lean declaration to the original text. It builds on Lean and Mathlib.",
+ "highlights": [
+  "Entire Stacks Project formalized in Lean, ~16M lines",
+  "Largest reusable formalized math library, per Axiom",
+  "Stacks tags link Lean declarations to canonical text",
+  "Usable by researchers and agents"
+ ]
+}

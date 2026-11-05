@@ -1,0 +1,13 @@
+{
+ "id": "e21a733f580b",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Together AI presents Together Compiler (TKCC), an agent-driven system for continual compilation of inference workloads, since optimizing thousands of model, hardware and traffic combinations by hand does not scale. In under 24 hours it reaches up to 2.6x higher tokens per second on frontier open models (Kimi K3, GLM 5.3, MiniMax M3.1-Flash, DeepSeek v4.1-Flash), sets InferenceX low-latency records of 1,111 TPS on MiniMax M3.1-Flash and 1,205 TPS on DeepSeek v4.1-Flash, and beats open-source megakernels by 1.7x on Llama 1B batch size 1. It also generalizes to weather, PDEs, time series and biology. Vendor numbers.",
+ "highlights": [
+  "Up to 2.6x TPS in under 24 hours",
+  "1,111 and 1,205 TPS on InferenceX low-latency",
+  "1.7x over open megakernels on Llama 1B",
+  "Generalizes beyond language inference; vendor-reported"
+ ]
+}

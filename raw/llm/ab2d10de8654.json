@@ -1,0 +1,13 @@
+{
+ "id": "ab2d10de8654",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Tom's Hardware reports that Amazon told its engineers to stop 'tokenmaxxing', inflating AI usage to look productive on internal dashboards. An internal memo says AI adoption rates, token use, code changes and reviews become 'deeply flawed' when turned into targets, since they encourage waste, raise compute bills and add software complexity, against Amazon's frugality principle.\n\nAmazon prefers long-term outcomes. Usage data can still help if read with care, looking at both the lightest and heaviest user teams. The memo also says that if current tools do not help someone's work, that is 'a finding, not a failing'. It stays committed to AI at the center of software engineering. In May, employees were reported to be using AI needlessly to lift usage scores.",
+ "highlights": [
+  "Amazon memo bans 'tokenmaxxing' as a productivity signal",
+  "Usage metrics become flawed once they are targets",
+  "Measure long-term outcomes; inspect heavy and light user teams",
+  "Not benefiting from a tool is 'a finding, not a failing'"
+ ]
+}

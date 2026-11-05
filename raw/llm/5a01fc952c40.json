@@ -1,0 +1,12 @@
+{
+ "id": "5a01fc952c40",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Tencent announced Hy4, its latest large model, which it says ranks among leading open-source models. Weights and system cards come in the coming days, with a focus on cyber and bio safety. New: visual understanding (image processing, charts, math reasoning), better instruction following and long context, stronger long-horizon agent tasks, and first-time computer use across command lines and GUIs. Rankings are Tencent's claim.",
+ "highlights": [
+  "Hy4 adds vision and computer use for the first time",
+  "Weights and system cards promised within days",
+  "Claims leading open-source ranking (self-reported)"
+ ]
+}

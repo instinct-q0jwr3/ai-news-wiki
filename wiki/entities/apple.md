@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-05** - How Apple fits a LLM on iPhone with surgical efficiency. Hacker News selected it as an AI-relevant development. ([How Apple fits a LLM on iPhone with surgical efficiency](../summaries/ab7134ad3e29.md) · [Apple](../entities/apple.md)) ⚠
 - **2026-11-04** - Apple cut some engineers' daily AI spending cap from $300 to $200 and plans reductions to as little as $100, per Bloomberg sources, as cost cutting raises staff fears of layoffs. ([Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs](../summaries/cbd64c0f0292.md) · [Apple](../entities/apple.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-04** - Siri AI is now open to all developers. ([Siri AI is now open to all developers](../summaries/3cb4d1e27e70.md) · [Apple](../entities/apple.md))
 - **2026-11-04** - Uncracked City is a Show HN detective game from a solo founder in which a model plays the detective and you question LLM suspects, one of whom lies. Each case is set in a real city with real public places, while the crime and characters are invented. The… ([Show HN: Uncracked City, detective game where you question LLM suspects that lie](../summaries/7df399d08487.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Apple](../entities/apple.md)) ⚠

@@ -1,0 +1,13 @@
+{
+ "id": "0b85a9011c04",
+ "authored_at": "2026-11-05T15:12:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "VentureBeat reports Ricursive released Ripple-65B Preview, a general-purpose variant of the model behind its chip-design platform, under Apache 2.0. It is on Hugging Face and via Together AI, GMI Cloud and OpenRouter, at $0.20 per million input and $0.60 per million output tokens. Ricursive claims a lead over selected US open models on terminal and software engineering benchmarks, but its results trail other open models elsewhere, and the advertised million-token context exceeds the 16,384-token limit listed by OpenRouter.",
+ "highlights": [
+  "Apache 2.0 release of Ripple-65B Preview",
+  "$0.20/$0.60 per million tokens on OpenRouter's GMICloud",
+  "Lead claimed only against selected US models",
+  "Context limit mismatch: 1M advertised vs 16,384 listed"
+ ]
+}

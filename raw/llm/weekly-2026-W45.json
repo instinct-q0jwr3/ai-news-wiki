@@ -279,7 +279,11 @@
     "67eee131511e",
     "ddce7a298d16",
     "46f62edc2c9c",
-    "974b5e7c9d8b"
+    "974b5e7c9d8b",
+    "35d4dcdd9e44",
+    "2e97794c1fa6",
+    "b508b6a71f80",
+    "098d6cf7f1aa"
    ],
    "concepts": []
   },
@@ -445,7 +449,9 @@
     "c5c696d3ae5d",
     "525bcfad57ed",
     "a343e1060780",
-    "a52a544cb44c"
+    "a52a544cb44c",
+    "bdb954d6637f",
+    "ed109411cd83"
    ],
    "concepts": []
   },
@@ -463,7 +469,9 @@
     "f52c929f3da2",
     "9b9b0f8a2b26",
     "23d86ed438ed",
-    "79f3323638fa"
+    "79f3323638fa",
+    "4dc10a03f415",
+    "ed65350736bd"
    ],
    "concepts": []
   },
@@ -557,7 +565,10 @@
     "8151573577b1",
     "ef9c14039348",
     "ba5e42b4b327",
-    "ae11b5f34e25"
+    "ae11b5f34e25",
+    "91cef173836e",
+    "5da4616c6393",
+    "e0d4453ee00c"
    ],
    "concepts": []
   },
@@ -600,7 +611,9 @@
     "9f334019aa6a",
     "75a96d1f785c",
     "37c2d32e04b3",
-    "8d870a63e661"
+    "8d870a63e661",
+    "b68a045cf176",
+    "1061e58eeec4"
    ],
    "concepts": []
   },
@@ -658,7 +671,11 @@
    "intro": "A chip-design lab says it trained a US open-weight coding leader for $32M, and Tencent shows Hy4.",
    "stories": [
     "0328e32fc849",
-    "1f90e934d1a3"
+    "1f90e934d1a3",
+    "5a01fc952c40",
+    "1d36966941be",
+    "0b85a9011c04",
+    "ba269cf6f80b"
    ],
    "concepts": []
   },
@@ -668,7 +685,8 @@
    "stories": [
     "228da1214043",
     "2afd937cc8f6",
-    "9495d066e142"
+    "9495d066e142",
+    "14e4e387d84f"
    ],
    "concepts": []
   },
@@ -679,7 +697,9 @@
     "d2797a1a44c4",
     "3496e6e09d06",
     "28fabb1a434e",
-    "5e335ad35973"
+    "5e335ad35973",
+    "ab2d10de8654",
+    "e21a733f580b"
    ],
    "concepts": []
   },
@@ -706,6 +726,15 @@
     "206e866a1eb0",
     "f0892e1e4839",
     "313f29bda98b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The business desk",
+   "intro": "An Intuit CEO interview and Perplexity's Decisions API.",
+   "stories": [
+    "a624cb1fba1c",
+    "7f248886d730"
    ],
    "concepts": []
   }
