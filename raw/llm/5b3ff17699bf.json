@@ -1,0 +1,14 @@
+{
+ "id": "5b3ff17699bf",
+ "authored_at": "2026-11-05T21:13:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reuters reports, citing sources, about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China while Beijing withholds approval for large-scale imports."
+ ],
+ "highlights": [
+  "~600,000 Nvidia H200 chips waiting in Hong Kong",
+  "Beijing has not approved large-scale imports"
+ ],
+ "basis": "Error cache: Reuters did not load. Written from the Techmeme headline and lede."
+}

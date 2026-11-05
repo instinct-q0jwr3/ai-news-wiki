@@ -1,0 +1,13 @@
+{
+ "id": "c80bc64d1ca2",
+ "authored_at": "2026-11-05T21:13:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Launch HN for Rivet (YC W23), an Apache 2.0 orchestrator for agent workloads built on the actor model and S3. Each actor is a long-lived process with in-memory state, a SQLite database, WebSockets and scheduling, run on plain Node.js, Bun or Rust. Claims: 4.99 ms p99 cold starts, 72 KB RAM per actor, scaling to billions. It offers durable scheduling, Vitest support and upgrade control, and positions itself against Cloudflare Durable Objects and Orleans-style virtual actors.",
+ "highlights": [
+  "Actors with in-memory state and per-actor SQLite",
+  "Claims 4.99 ms p99 cold start and 72 KB per actor (self-reported)",
+  "Runs on Node.js, Bun or Rust; Apache 2.0",
+  "Compared to Durable Objects and Orleans"
+ ]
+}

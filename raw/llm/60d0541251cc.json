@@ -1,0 +1,14 @@
+{
+ "id": "60d0541251cc",
+ "authored_at": "2026-11-05T21:13:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "WSJ live coverage headlined 'Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election'. The page could not be read; see the AP item for a similar report."
+ ],
+ "highlights": [
+  "Nasdaq down 5% per the headline",
+  "Retreat from AI stocks after the election"
+ ],
+ "basis": "Error cache: WSJ paywall. Written from the HN title only."
+}

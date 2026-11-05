@@ -1,0 +1,13 @@
+{
+ "id": "00cd00f0af78",
+ "authored_at": "2026-11-05T21:13:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "An open-source offline survival assistant that works without internet on Windows, Linux and macOS from a laptop or USB drive. Questions search the kit's guides (BM25) and Kiwix archives, then a local llama.cpp model answers with numbered sources, or shows relevant passages if no model is present. A preparer downloads the model (1-5 GB), runtime and Kiwix libraries once, online. Health advice follows WHO, Red Cross and CDC guidance, with a disclaimer that it does not replace emergency services.",
+ "highlights": [
+  "Local LLM plus Kiwix, fully offline",
+  "Answers cite guide and Kiwix sources",
+  "One-time online preparation of the kit",
+  "Disclaimer: not a substitute for emergency services"
+ ]
+}

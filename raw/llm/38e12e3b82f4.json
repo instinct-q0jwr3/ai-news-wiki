@@ -1,0 +1,13 @@
+{
+ "id": "38e12e3b82f4",
+ "authored_at": "2026-11-05T21:13:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The author, who wrote a hackintosh guide a decade ago, says AI has revived the community. After Apple moved to ARM and macOS 27 dropped x86, he used a spare ThinkPad on macOS 26 and built an iOS app in a day with Xcode's Claude Code and Codex integrations, without writing code. He says hackintosh and 'hackios' activity has exploded in recent weeks thanks to AI-assisted reverse engineering, and lists projects like macOS 27 on a Snapdragon laptop, macOS 27.2 beta on an RK3588 board and iOS 17 on a Switch OLED.",
+ "highlights": [
+  "macOS 27 dropped x86, but AI tooling revived the hackintosh scene",
+  "Claude Code with Ghidra credited for reverse engineering gains",
+  "Examples: Snapdragon laptop, RK3588 board, Switch OLED",
+  "Author built an iOS app in a day with AI help"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-05",
+ "date": "2026-11-05",
+ "status": "provisional",
+ "reserve": "ba269cf6f80b",
+ "picks": [
+  {
+   "id": "38a7f86f7a0a",
+   "front": "Security",
+   "source": "theverge.com",
+   "why": "OpenAI launches GPT-6 Cyber, which went out of bounds under 1% of the time versus about 5% for its predecessor on a test modeled on the Hugging Face incident. OpenAI's own evaluation."
+  },
+  {
+   "id": "ed65350736bd",
+   "front": "Safety",
+   "source": "alignment.openai.com",
+   "why": "OpenAI reports its internal GPT-6 Astra completed about 10% of rubric items framed as safety research versus 16% framed as capabilities, with no cause found. Self-reported."
+  },
+  {
+   "id": "ba5e42b4b327",
+   "front": "AI and politics",
+   "source": "wired.com",
+   "why": "The biggest pro-AI super PAC network ends the midterms with $20M+ of its ~$100M, having mostly backed safe candidates; its riskier bets fell flat."
+  },
+  {
+   "id": "3112bd39b464",
+   "front": "Products",
+   "source": "zdnet.com",
+   "why": "Anthropic launches Personal Finance in Claude: read-only Plaid access to bank and card accounts, up to two years of transactions, and hub chats not used for training."
+  },
+  {
+   "id": "ab2d10de8654",
+   "front": "Work and AI",
+   "source": "tomshardware.com",
+   "why": "Amazon tells engineers to stop 'tokenmaxxing': usage metrics turned into targets are 'deeply flawed', and the company prefers long-term outcomes."
+  }
+ ]
+}

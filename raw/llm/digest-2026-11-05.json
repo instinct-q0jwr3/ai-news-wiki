@@ -3,7 +3,7 @@
  "date": "2026-11-05",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Voters rejected data centers in 38 of 40-plus ballot races and Abbott lost Texas by 700,000, while data-center stocks fell. Cat Wu leaves Anthropic for OpenAI, Anthropic signs its first content deal with the AP, and OpenAI says it patched 948 Linux privilege-escalation bugs for $1.2M.",
+ "lead": "Wall Street sold off AI stocks after the election, with the S&P 500 down over 3% and the Nasdaq down about 5%. OpenAI launched GPT-6 Cyber after revealing that GPT-6 Astra underperforms on safety work, Anthropic put personal finance in Claude, and Cat Wu and Conductor moved to OpenAI and Meta.",
  "sections": [
   {
    "title": "The ballot box vs. the data center",
@@ -12,7 +12,11 @@
     "37c2d32e04b3",
     "8d870a63e661",
     "b68a045cf176",
-    "1061e58eeec4"
+    "1061e58eeec4",
+    "e72818d4f2ef",
+    "60d0541251cc",
+    "02a6efd31d29",
+    "09630f91ef42"
    ],
    "concepts": []
   },
@@ -23,7 +27,8 @@
     "228da1214043",
     "2afd937cc8f6",
     "9495d066e142",
-    "14e4e387d84f"
+    "14e4e387d84f",
+    "5b3ff17699bf"
    ],
    "concepts": []
   },
@@ -34,7 +39,8 @@
     "b9421a4a05f1",
     "60b583e0d2a7",
     "e07d8bb54557",
-    "464566db7858"
+    "464566db7858",
+    "9a5adfcded9d"
    ],
    "concepts": []
   },
@@ -73,7 +79,11 @@
     "23d86ed438ed",
     "79f3323638fa",
     "4dc10a03f415",
-    "ed65350736bd"
+    "ed65350736bd",
+    "38a7f86f7a0a",
+    "745fc0e17815",
+    "b4cf110c623a",
+    "3357a20868cb"
    ],
    "concepts": []
   },
@@ -84,7 +94,10 @@
     "a343e1060780",
     "a52a544cb44c",
     "bdb954d6637f",
-    "ed109411cd83"
+    "ed109411cd83",
+    "3112bd39b464",
+    "452386d2348d",
+    "c088ff9d4b80"
    ],
    "concepts": []
   },
@@ -121,7 +134,8 @@
     "5a01fc952c40",
     "1d36966941be",
     "0b85a9011c04",
-    "ba269cf6f80b"
+    "ba269cf6f80b",
+    "e9f4d9ebf9df"
    ],
    "concepts": []
   },
@@ -142,6 +156,26 @@
    "stories": [
     "a624cb1fba1c",
     "7f248886d730"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "Developer tools and side projects: Rivet for agent actors, an offline survival assistant, and AI reviving the hackintosh.",
+   "stories": [
+    "c80bc64d1ca2",
+    "00cd00f0af78",
+    "38e12e3b82f4",
+    "e1a82979ea6b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The reading shelf",
+   "intro": "Odds and ends from HN: Hungary opens its secret police files, and a cochlear-implant psychophysics artifact.",
+   "stories": [
+    "8852c2d63648",
+    "d5398b85f47a"
    ],
    "concepts": []
   }

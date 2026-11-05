@@ -1,0 +1,13 @@
+{
+ "id": "e1a82979ea6b",
+ "authored_at": "2026-11-05T21:13:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A developer argues LLMs could bring the 'Lisp curse' to mainstream ecosystems. In Lisp, power and flexibility let people build custom solutions alone, so few shared libraries exist. If generating code with an LLM seems easier than learning frameworks, the same pattern could hit ecosystems like Java's. First effect: fewer people use open-source libraries, so maintainers get less feedback. Second: fewer new libraries get created, as collaboration loses its payoff. He asks why someone would research APIs or read docs when a prompt and a few dollars of tokens will do, while noting libraries are stable and tested by many.",
+ "highlights": [
+  "Lisp curse: flexibility leads to isolation and reinvented wheels",
+  "LLMs could do the same to Java and other ecosystems",
+  "Fewer library users means less maintainer feedback",
+  "Fewer new libraries as collaboration declines"
+ ]
+}

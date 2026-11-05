@@ -1,0 +1,13 @@
+{
+ "id": "e9f4d9ebf9df",
+ "authored_at": "2026-11-05T21:13:53Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Silas Liu's study examines the architectures of twelve open-weight models, 1.7B to 35B parameters, that run on an 8 GB GPU. Each architecture is framed by the cost it cuts: attention variants shrink the KV cache, mixture of experts reduces compute per token, recurrent layers and short convolutions replace most attention, and quantization and ternary weights shrink every weight. It then follows a request through the server, from the startup KV-cache reservation through prefill and decode, showing what each step reads from VRAM and RAM and what limits speed. Motivation: the model variety is far greater than a year ago.",
+ "highlights": [
+  "Twelve open-weight models, 1.7B-35B, fit an 8 GB GPU",
+  "Each design trick maps to a cost: KV cache, compute, weight size",
+  "Traces a request through prefill and decode and the VRAM/RAM limits",
+  "Useful explainer rather than new research"
+ ]
+}
