@@ -68,7 +68,9 @@
     "ba1e92b929e3",
     "34e0b8b60d7d",
     "b9421a4a05f1",
-    "60b583e0d2a7"
+    "60b583e0d2a7",
+    "e07d8bb54557",
+    "464566db7858"
    ],
    "concepts": []
   },
@@ -552,7 +554,10 @@
     "7839b09a0c43",
     "602ae34e9b3d",
     "b25194a0e790",
-    "8151573577b1"
+    "8151573577b1",
+    "ef9c14039348",
+    "ba5e42b4b327",
+    "ae11b5f34e25"
    ],
    "concepts": []
   },
@@ -662,7 +667,8 @@
    "intro": "AI demand now crowds out PCBs on top of RAM and GPUs, and Arm's royalty miss hints at a mixed chip picture.",
    "stories": [
     "228da1214043",
-    "2afd937cc8f6"
+    "2afd937cc8f6",
+    "9495d066e142"
    ],
    "concepts": []
   },
@@ -682,6 +688,24 @@
    "intro": "Platforms take any ad that pays, and the spam now fakes close reading.",
    "stories": [
     "c9f1669c7ff1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The open web at stake",
+   "intro": "Doctorow on why banning scraping and weakening CDA 230 would entrench the giants.",
+   "stories": [
+    "bc9445403531"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The job market and the roadmap",
+   "intro": "UK entry-level postings now ask for AI, Meta retires fruit codenames, and China blocks SoftBank's robotics deal.",
+   "stories": [
+    "206e866a1eb0",
+    "f0892e1e4839",
+    "313f29bda98b"
    ],
    "concepts": []
   }

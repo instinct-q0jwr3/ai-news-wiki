@@ -1,0 +1,14 @@
+{
+ "id": "ef9c14039348",
+ "authored_at": "2026-11-05T09:11:28Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Latent Space's AINews for November 4 is themed 'swapping season': people changing sides all over the timeline. Cat Wu leaves Anthropic, where she was Claude Code's Head of Product from the start, to lead Core Products PM at OpenAI. Sharon Zhou, CEO of Lamini (acquired by AMD) and later an AMD VP of AI, goes to Anthropic. Factory is acquiring HumanLayer and Conductor.\n\nThe main technical item is OpenAI's autonomous cyber pipeline. In one run with an upcoming cyber model it validated and patched 948 local privilege-escalation bugs in the Linux kernel for $1.2M in API cost. OpenAI says the agents used at least 10 exploitation techniques it considers novel and that it is working with Linux maintainers and Patch the Planet partners on disclosure. Eric Wallace notes researchers typically find about 20 Linux LPEs a year, versus roughly 1,000 here in a week. The issue also covers Kimi K3.1 Pro open weights and Ricursive's Ripple-65B (not read in detail).",
+ "highlights": [
+  "Cat Wu leaves Anthropic for OpenAI Core Products PM; Sharon Zhou leaves AMD for Anthropic",
+  "Factory is acquiring HumanLayer and Conductor",
+  "OpenAI pipeline patched 948 Linux LPE bugs for $1.2M; 10+ techniques it calls novel",
+  "Researchers usually find about 20 Linux LPEs a year, per Eric Wallace",
+  "Headlines also mention Kimi K3.1 Pro open weights and Ricursive's Ripple-65B"
+ ]
+}

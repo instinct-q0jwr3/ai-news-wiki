@@ -1,0 +1,13 @@
+{
+ "id": "bc9445403531",
+ "authored_at": "2026-11-05T09:11:28Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Cory Doctorow argues that tech policy has a big blast radius, and that two popular fixes for big-tech harms would backfire. On scraping, many creative workers want to ban it to stop AI training. He says that would be a terrible idea: scraping is how search engines exist, and if copies of the web needed licenses only Google could afford them. Scraping also lets researchers check what platforms did, such as how algorithms spread disinformation, how Amazon prices, or how Uber sets wage offers. Clumsy scrapers that crash sites should be punished for that, not for copying. For creative livelihoods, he says the answer is labor organizing, not more copyright.\n\nThe headline point is that without CDA 230, Facebook will own the internet: small, well-run communities are the most exposed to legal threats and cannot afford the lawyers that Facebook can. Only the first half of the post was read closely.",
+ "highlights": [
+  "Banning scraping would entrench Google, the only firm able to license the whole web",
+  "Scraping also enables accountability research on platforms, pricing and gig wages",
+  "Protect creative work through labor organizing, not new copyright rules",
+  "Weakening CDA 230 would favor Facebook over small communities"
+ ]
+}
