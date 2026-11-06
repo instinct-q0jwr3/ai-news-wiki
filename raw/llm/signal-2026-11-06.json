@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-06",
+ "date": "2026-11-06",
+ "status": "provisional",
+ "reserve": "a5f45cba1fd0",
+ "picks": [
+  {
+   "id": "7ac9e11f87c1",
+   "front": "Science",
+   "source": "psi.inc",
+   "why": "PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis quantum conjecture, open since 2008. Company claim, not independently verified in the text."
+  },
+  {
+   "id": "74fd5b902712",
+   "front": "Safety",
+   "source": "planned-obsolescence.org",
+   "why": "Ajeya Cotra reads METR's report as showing Anthropic already crossed its own 'dramatic acceleration' threshold, with capabilities progress at about twice the prior pace."
+  },
+  {
+   "id": "46167aa33d64",
+   "front": "Business",
+   "source": "complexsystemspodcast.com",
+   "why": "Reading Anthropic's S-1: a Class F share with 50.1% of votes, an uncapped 3:1 donation match and about $900B in forward compute commitments."
+  },
+  {
+   "id": "07d85fa452c8",
+   "front": "Trust and fraud",
+   "source": "nbcnews.com",
+   "why": "The DOJ indicts three foreign nationals for allegedly using AI voice impersonation of executives and lawyers to steal over $129M."
+  },
+  {
+   "id": "866230cbaf9d",
+   "front": "The open web",
+   "source": "cbc.ca",
+   "why": "AI scraper bots are slowing or crashing university library sites worldwide, putting public access to archives at risk."
+  }
+ ]
+}

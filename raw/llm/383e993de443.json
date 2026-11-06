@@ -1,0 +1,13 @@
+{
+ "id": "383e993de443",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Zalando's incubator open-sourced the Agentic Identity Broker, an MIT-licensed OAuth2 broker that lets a user give an AI agent scoped, revocable access to MCP services without handing over credentials. It manages delegation chains for on-behalf-of flows, bridges OAuth2 systems, provides a token vault, consent management and audit logging, and sits in the call path via gateways. It saves each MCP server from running its own OAuth2 ceremony.",
+ "highlights": [
+  "Scoped, revocable delegation for agents to MCP services",
+  "Token vault, consent UI and audit logs",
+  "MIT-licensed; from Zalando Incubator",
+  "Offloads OAuth work from agent and server authors"
+ ]
+}

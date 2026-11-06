@@ -1,0 +1,14 @@
+{
+ "id": "ed9b0a09ffed",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports, citing sources, that Microsoft has been turning off rented capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips."
+ ],
+ "highlights": [
+  "Microsoft let a 2023 Oracle rental lapse",
+  "Reason: older Nvidia chips"
+ ],
+ "basis": "Error cache: Bloomberg did not load. Written from the Techmeme headline and lede."
+}

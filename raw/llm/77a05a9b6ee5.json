@@ -1,0 +1,13 @@
+{
+ "id": "77a05a9b6ee5",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A Show HN demo of AegisKernel, a zero-trust runtime for AI agents that claims deterministic capability boundaries block tool hijacking in under 0.016 ms. The page simulates attacks such as .env theft via path traversal, SQL drop injection and rm -rf, and offers a two-line integration for LangChain, CrewAI and AutoGen. Its argument is that probabilistic LLM guardrails fail where deterministic checks hold. Claims come from the project's own demo.",
+ "highlights": [
+  "Deterministic capability boundaries instead of LLM guardrails",
+  "Claims <0.016 ms interception (self-reported)",
+  "Demo of .env theft, SQL drop and rm -rf attacks",
+  "Two-line integration with LangChain, CrewAI, AutoGen"
+ ]
+}

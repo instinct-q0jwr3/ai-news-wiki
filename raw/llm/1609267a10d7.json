@@ -1,0 +1,12 @@
+{
+ "id": "1609267a10d7",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A follow-up Show HN to LDraw Nova: ldraw-mecha lets an agent take an LDraw LEGO model and return a Blender-animated version, inferring mechanisms from the sources. Setup installs tools locally in the repo (uv, bun, Blender 5.2.3, LeoCAD, the LDraw parts library and several project packages) and needs Python 3.12+ and a few env vars. Setup scripts exist for macOS, Linux and Windows WSL.",
+ "highlights": [
+  "Agent animates LEGO models in Blender from LDraw files",
+  "Local installs: Blender 5.2.3, LeoCAD, parts library",
+  "Python 3.12+; setup scripts for macOS, Linux, WSL"
+ ]
+}

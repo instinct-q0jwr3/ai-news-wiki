@@ -1,0 +1,13 @@
+{
+ "id": "1e048fb114be",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Waymark is an open-source durable execution library like Temporal or DBOS, built on Postgres with no other infrastructure, Python first. Jobs survive server restarts and crashes. The Show HN's pitch is that it compiles workflows instead of replaying them. Actions are plain async functions sent to workers, with fan-out and dependency injection; the package ships client and server binaries together.",
+ "highlights": [
+  "Durable background tasks on Postgres only",
+  "Compiles workflows instead of replaying them",
+  "Python first, more languages planned",
+  "Similar to Temporal and DBOS"
+ ]
+}

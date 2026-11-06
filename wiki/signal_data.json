@@ -1624,7 +1624,7 @@
   "unreadable": 7
  },
  "2026-10-30": {
-  "ok": 40,
+  "ok": 41,
   "paywall": 8,
   "picks": [
    {
@@ -1677,7 +1677,7 @@
   "status": "final",
   "thin": 7,
   "total": 61,
-  "unreadable": 6
+  "unreadable": 5
  },
  "2026-10-31": {
   "ok": 26,
@@ -2014,5 +2014,61 @@
   "thin": 6,
   "total": 73,
   "unreadable": 9
+ },
+ "2026-11-06": {
+  "ok": 44,
+  "paywall": 12,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Science",
+    "id": "7ac9e11f87c1",
+    "minutes": 8,
+    "source": "psi.inc",
+    "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008",
+    "why": "PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis quantum conjecture, open since 2008. Company claim, not independently verified in the text."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "74fd5b902712",
+    "minutes": 15,
+    "source": "planned-obsolescence.org",
+    "title": "AI is dramatically accelerating AI research",
+    "why": "Ajeya Cotra reads METR's report as showing Anthropic already crossed its own 'dramatic acceleration' threshold, with capabilities progress at about twice the prior pace."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "46167aa33d64",
+    "minutes": 55,
+    "source": "complexsystemspodcast.com",
+    "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+    "why": "Reading Anthropic's S-1: a Class F share with 50.1% of votes, an uncapped 3:1 donation match and about $900B in forward compute commitments."
+   },
+   {
+    "cat": "ok",
+    "front": "Trust and fraud",
+    "id": "07d85fa452c8",
+    "minutes": 6,
+    "source": "nbcnews.com",
+    "title": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme",
+    "why": "The DOJ indicts three foreign nationals for allegedly using AI voice impersonation of executives and lawyers to steal over $129M."
+   },
+   {
+    "cat": "ok",
+    "front": "The open web",
+    "id": "866230cbaf9d",
+    "minutes": 7,
+    "source": "cbc.ca",
+    "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+    "why": "AI scraper bots are slowing or crashing university library sites worldwide, putting public access to archives at risk."
+   }
+  ],
+  "reserve": "a5f45cba1fd0",
+  "status": "provisional",
+  "thin": 5,
+  "total": 67,
+  "unreadable": 6
  }
 }

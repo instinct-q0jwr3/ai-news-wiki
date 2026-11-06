@@ -1,0 +1,13 @@
+{
+ "id": "7ac9e11f87c1",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "AI physics startup PSI (Physical Superintelligence) says a research system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, open since 2008, which concerns when quantum computers can be exponentially faster than ordinary ones. The page quotes an outside expert calling it a huge result that draws on analysis of boolean functions and probabilistic combinatorics. PSI frames it against Shor's 1994 factoring algorithm as context. This is the company's own announcement; independent verification of the proof is not shown in the text read.",
+ "highlights": [
+  "PSI claims a proof of the Aaronson-Ambainis conjecture (open since 2008)",
+  "Proof found by PSI's system running a non-public Anthropic model",
+  "Conjecture concerns the limits of exponential quantum speedups",
+  "Company claim; independent verification not shown"
+ ]
+}

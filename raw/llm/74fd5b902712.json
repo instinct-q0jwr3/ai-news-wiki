@@ -1,0 +1,14 @@
+{
+ "id": "74fd5b902712",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Ajeya Cotra argues, from METR's public report on Anthropic, that AI is dramatically accelerating AI research. Anthropic's S-1 says it 'may imminently meet' the Responsible Scaling Policy threshold of progress twice as fast as the fastest sustained pre-AI rate. METR found capabilities progress over Oct 2025 to Oct 2026 about twice as fast as the prior twelve months, measured by an internal Epoch Capabilities Index (AECI), with most of the evidence redacted. She reads this as the threshold already crossed and as the most important AI-risk update in years, pointing to shorter timelines.\n\nHer reasoning: if overall capability progress doubles, software 'compute multipliers' must grow roughly 2.5-3x faster, so human researchers are being sped up by much more than 2x. She did not see the unredacted report.",
+ "highlights": [
+  "Anthropic's S-1 says it may imminently meet the 'dramatic acceleration' threshold",
+  "METR: capabilities progress ~2x faster over Oct 2025-Oct 2026",
+  "Cotra reads the threshold as already crossed",
+  "Compute multipliers must grow ~2.5-3x faster; researchers sped up by more than 2x",
+  "Most evidence redacted; she saw only the public report"
+ ]
+}

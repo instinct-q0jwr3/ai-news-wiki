@@ -1,0 +1,13 @@
+{
+ "id": "438556ddad0c",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Hightouch tested whether LLMs and decision models (Jev and Luna) could grade identity-resolution results, the task of mapping records to real people. Both did acceptably out of the box (88.8-97.3% accuracy), and a hybrid where Jev can ask Opus for help reached frontier accuracy at over 4x lower cost. The post explains why grading is hard: no answer key exists on real data, over-merging identities is the worst failure, heuristics like emails-per-identity help, and teams spend months checking by hand. Vendor test.",
+ "highlights": [
+  "Out-of-box accuracy 88.8-97.3%",
+  "Jev plus Opus hybrid matches frontier accuracy at >4x lower cost",
+  "Over-merging is the main failure mode",
+  "No answer key on real data, so grading needs sampling and review"
+ ]
+}

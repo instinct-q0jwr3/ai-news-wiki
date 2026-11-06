@@ -1,95 +1,125 @@
 {
- "generated_at": "2026-11-06T15:14:06+00:00",
+ "generated_at": "2026-11-06T21:14:56+00:00",
  "stories": [
   {
-   "id": "866230cbaf9d",
-   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "id": "9a0648753be9",
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
    "source": "Hacker News",
-   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
   },
   {
-   "id": "7ff78762dadc",
-   "title": "AI for scientific discovery: How researchers use Claude",
+   "id": "438556ddad0c",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/how-researchers-use-claude"
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
   },
   {
-   "id": "60b9cc774acd",
-   "title": "Stop running everything through LLMs: How I fixed my research agent",
+   "id": "de2113f37a11",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
    "source": "Hacker News",
-   "url": "https://www.tinyfish.ai/blog/inside-tinyresearch"
+   "url": "https://pwn.ai/blog/firecracker-escape"
   },
   {
-   "id": "12d4c663214b",
-   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-   "source": "TLDR AI",
-   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+   "id": "b10959665eea",
+   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
   },
   {
-   "id": "81453f2e2f08",
-   "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+   "id": "216887243ec9",
+   "title": "Perplexity launches AI agents for work",
+   "source": "Hacker News",
+   "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+  },
+  {
+   "id": "46167aa33d64",
+   "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+   "source": "Hacker News",
+   "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/"
+  },
+  {
+   "id": "383e993de443",
+   "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+   "source": "Hacker News",
+   "url": "https://github.com/zalando-incubator/agentic-identity-broker"
+  },
+  {
+   "id": "2e9ed341a1fc",
+   "title": "An AI Rant",
+   "source": "Hacker News",
+   "url": "https://carlhandellen.substack.com/p/an-ai-rant"
+  },
+  {
+   "id": "74fd5b902712",
+   "title": "AI is dramatically accelerating AI research",
+   "source": "Hacker News",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+  },
+  {
+   "id": "1609267a10d7",
+   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+   "source": "Hacker News",
+   "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0"
+  },
+  {
+   "id": "eaffdad14d28",
+   "title": "AI coding agent setups from 663 Hacker News comments",
+   "source": "Hacker News",
+   "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html"
+  },
+  {
+   "id": "77a05a9b6ee5",
+   "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+   "source": "Hacker News",
+   "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/"
+  },
+  {
+   "id": "1e048fb114be",
+   "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+   "source": "Hacker News",
+   "url": "https://github.com/piercefreeman/waymark"
+  },
+  {
+   "id": "e719f22a4a6d",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/partnering-with-hacktron/"
+  },
+  {
+   "id": "b28cba7a757f",
+   "title": "The United States of Inference",
+   "source": "Hacker News",
+   "url": "https://subconscious-systems.github.io/united-states-of-inference/"
+  },
+  {
+   "id": "ed9b0a09ffed",
+   "title": "Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity"
+  },
+  {
+   "id": "16f14c756468",
+   "title": "Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452"
+  },
+  {
+   "id": "c940ceb6b01c",
+   "title": "2026.45: Falling Leaves (and Stocks)",
    "source": "Stratechery",
-   "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/"
+   "url": "https://stratechery.com/2026/falling-leaves-and-stocks/"
   },
   {
-   "id": "c8bbcd1bddee",
-   "title": "Personal Finance in Claude",
-   "source": "TLDR AI",
-   "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
-  },
-  {
-   "id": "6e2f04fab865",
-   "title": "Cloudflare's Trust Framework for AI Agents",
-   "source": "TLDR AI",
-   "url": "https://blog.cloudflare.com/trusted-agent-delegation"
-  },
-  {
-   "id": "fe340cb3c6d3",
-   "title": "Cleanview: ~40% of pending US data center capacity is planned to be built in states where newly elected governors have pledged to stop or pause construction",
+   "id": "9addfb68b027",
+   "title": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress"
   },
   {
-   "id": "53f6b4f9c2f1",
-   "title": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more",
+   "id": "07d85fa452c8",
+   "title": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme",
    "source": "Techmeme",
-   "url": "https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/"
-  },
-  {
-   "id": "af1b1b9573e1",
-   "title": "The Ultimate MoE Training Handbook",
-   "source": "TLDR AI",
-   "url": "https://huggingface.co/spaces/huggingface/moe-blogpost"
-  },
-  {
-   "id": "3ac6b8a1614d",
-   "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/"
-  },
-  {
-   "id": "daca2485a9b3",
-   "title": "NVIDIA Introduced VFlash",
-   "source": "TLDR AI",
-   "url": "https://research.nvidia.com/labs/lpr/vflash/"
-  },
-  {
-   "id": "ddfe21798cc5",
-   "title": "Inkling 2 Small",
-   "source": "Hacker News",
-   "url": "https://thinkingmachines.ai/news/inkling-2-small/"
-  },
-  {
-   "id": "b6c55c4a397d",
-   "title": "Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling"
-  },
-  {
-   "id": "9c048c33ce74",
-   "title": "Muse Voice",
-   "source": "TLDR AI",
-   "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/"
+   "url": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818"
   },
   {
    "id": "ebe090be5627",
@@ -98,22 +128,10 @@
    "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html"
   },
   {
-   "id": "6f537b1023d0",
-   "title": "Gemini Omni 1.2 Flash",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-  },
-  {
-   "id": "9fbd7474c12c",
-   "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
-   "source": "Lobsters",
-   "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
-  },
-  {
-   "id": "e4dc50d2f683",
-   "title": "How Primary Compute Markets Work",
-   "source": "TLDR AI",
-   "url": "https://x.com/OrnnExchange/status/2118372699093295482"
+   "id": "a5f45cba1fd0",
+   "title": "Quoting Nilay Patel",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
   },
   {
    "id": "a031d2d3e692",
@@ -122,16 +140,10 @@
    "url": "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending"
   },
   {
-   "id": "19eef6bc569c",
-   "title": "Devin Review 2.0",
-   "source": "TLDR AI",
-   "url": "https://devin.ai/blog/devin-review-2"
-  },
-  {
-   "id": "beb074240f26",
-   "title": "You can now build live apps in Cursor and share them with a link",
-   "source": "TLDR AI",
-   "url": "https://x.com/cursor_ai/status/2118458629091426304"
+   "id": "7ac9e11f87c1",
+   "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008",
+   "source": "Techmeme",
+   "url": "https://psi.inc/research/aaronson-ambainis/"
   }
  ]
 }

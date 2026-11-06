@@ -1,0 +1,13 @@
+{
+ "id": "de2113f37a11",
+ "authored_at": "2026-11-06T21:16:51Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A write-up from pwn.ai shows an escape from Firecracker, the microVM meant to isolate untrusted code, achieving root code execution on the host. Building on a host-memory primitive from Part 1, the authors find Firecracker in memory and take over a live vCPU thread: while the thread sits in the KVM_RUN ioctl, its saved registers (pt_regs) control where it resumes, so altering them makes it run a chosen call on return. Firecracker keeps running and the VM stays reachable over SSH. It is tied to a CVE identifier in the post.",
+ "highlights": [
+  "Escape from a Firecracker microVM to root on the host",
+  "Hijacks a vCPU thread by editing saved registers during KVM_RUN",
+  "Firecracker and the VM keep running",
+  "Continuation of PwnEscape Part 1"
+ ]
+}
