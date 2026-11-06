@@ -1,0 +1,13 @@
+{
+ "id": "7ff78762dadc",
+ "authored_at": "2026-11-06T15:15:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic's research report studies how scientists use Claude, Claude Code and Claude Science with privacy-preserving infrastructure plus a survey. Usage varies by field: formal sciences like computer science, math and statistics use Claude more per researcher, while health and lab-based physical sciences use it less. By task, scientists use it more for analyzing data and writing, less for gathering data or generating ideas and hypotheses.\n\nUse is higher where a 'theoretical AI capability' measure is higher, in tasks that are more cognitive and suit reinforcement learning. The authors conclude scientists use AI where it works best, and outline scenarios for how AI could accelerate research. Anthropic studying its own product.",
+ "highlights": [
+  "Heaviest use in computer science, math and statistics",
+  "More use for analysis and writing; less for data gathering and hypotheses",
+  "Use tracks a measure of theoretical AI capability",
+  "Scenarios outlined for faster research; self-study by Anthropic"
+ ]
+}

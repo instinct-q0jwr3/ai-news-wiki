@@ -15,7 +15,10 @@
     "9639b46ebe44",
     "9cdeac35c667",
     "072d48be912a",
-    "87a157dae3ca"
+    "87a157dae3ca",
+    "fe340cb3c6d3",
+    "81453f2e2f08",
+    "53f6b4f9c2f1"
    ],
    "concepts": []
   },
@@ -27,7 +30,8 @@
     "2f0f1c107d03",
     "c716cd4d3e53",
     "fe16c476ab22",
-    "f8d633d9ac45"
+    "f8d633d9ac45",
+    "3ac6b8a1614d"
    ],
    "concepts": []
   },
@@ -65,7 +69,14 @@
    "intro": "Perplexity ships always-on Teammates, and Google stretches Omni video to 15 seconds.",
    "stories": [
     "5ba175fd953b",
-    "cac5e4017d52"
+    "cac5e4017d52",
+    "6e2f04fab865",
+    "19eef6bc569c",
+    "6f537b1023d0",
+    "9c048c33ce74",
+    "c8bbcd1bddee",
+    "beb074240f26",
+    "60b9cc774acd"
    ],
    "concepts": []
   },
@@ -75,6 +86,43 @@
    "stories": [
     "bf83f8cdf20b",
     "8ea280b0e15f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The chip border",
+   "intro": "Nvidia tracks chips in Southeast Asia and TSMC weighs 3D DRAM.",
+   "stories": [
+    "b6c55c4a397d",
+    "a031d2d3e692",
+    "e4dc50d2f683"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The reskilling case",
+   "intro": "Microsoft offers 60,000 buyouts as AI spending rises.",
+   "stories": [
+    "ebe090be5627"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The research shelf",
+   "intro": "How scientists use Claude, NVIDIA's world-simulation models, and training handbooks.",
+   "stories": [
+    "7ff78762dadc",
+    "12d4c663214b",
+    "daca2485a9b3",
+    "af1b1b9573e1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The data commons",
+   "intro": "AI scrapers are overwhelming university libraries.",
+   "stories": [
+    "866230cbaf9d"
    ],
    "concepts": []
   }

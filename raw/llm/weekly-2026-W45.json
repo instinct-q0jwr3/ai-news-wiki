@@ -293,7 +293,11 @@
     "35d4dcdd9e44",
     "2e97794c1fa6",
     "b508b6a71f80",
-    "098d6cf7f1aa"
+    "098d6cf7f1aa",
+    "7ff78762dadc",
+    "12d4c663214b",
+    "daca2485a9b3",
+    "af1b1b9573e1"
    ],
    "concepts": []
   },
@@ -560,7 +564,8 @@
    "intro": "Two essays on what open models need: a posttraining task commons that does not exist, and torrents as the natural way to ship 510 GB of weights.",
    "stories": [
     "aae1801eba15",
-    "27c56f909ad6"
+    "27c56f909ad6",
+    "866230cbaf9d"
    ],
    "concepts": []
   },
@@ -568,7 +573,8 @@
    "title": "The reskilling case",
    "intro": "IKEA turned 8,500 call agents into design consultants after Billie took the routine half of its inquiries.",
    "stories": [
-    "fa65412a1f93"
+    "fa65412a1f93",
+    "ebe090be5627"
    ],
    "concepts": []
   },
@@ -649,7 +655,10 @@
     "06c23e8d2176",
     "ebac0b46fb69",
     "dd9e7192d73f",
-    "443b9b33c52d"
+    "443b9b33c52d",
+    "b6c55c4a397d",
+    "a031d2d3e692",
+    "e4dc50d2f683"
    ],
    "concepts": []
   },
@@ -773,7 +782,10 @@
     "9639b46ebe44",
     "9cdeac35c667",
     "072d48be912a",
-    "87a157dae3ca"
+    "87a157dae3ca",
+    "fe340cb3c6d3",
+    "81453f2e2f08",
+    "53f6b4f9c2f1"
    ],
    "concepts": []
   },
@@ -785,7 +797,8 @@
     "2f0f1c107d03",
     "c716cd4d3e53",
     "fe16c476ab22",
-    "f8d633d9ac45"
+    "f8d633d9ac45",
+    "3ac6b8a1614d"
    ],
    "concepts": []
   },
@@ -813,7 +826,14 @@
    "intro": "Perplexity ships always-on Teammates, and Google stretches Omni video to 15 seconds.",
    "stories": [
     "5ba175fd953b",
-    "cac5e4017d52"
+    "cac5e4017d52",
+    "6e2f04fab865",
+    "19eef6bc569c",
+    "6f537b1023d0",
+    "9c048c33ce74",
+    "c8bbcd1bddee",
+    "beb074240f26",
+    "60b9cc774acd"
    ],
    "concepts": []
   }

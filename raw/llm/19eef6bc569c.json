@@ -1,0 +1,13 @@
+{
+ "id": "19eef6bc569c",
+ "authored_at": "2026-11-06T15:15:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Cognition's Devin Review 2.0 becomes the default PR review tool when working with Devin. Since August the cost of reviewing a PR fell 82% to about $0.25-$0.75, cheap enough to run on every PR, through a better model mix and harness tuning. Bugs found per PR rose from 1.22 to 1.32, and each fixed bug costs about $2.25 on average. The argument is that code review is the new bottleneck as PR volume rises, and agents should assist rather than skipping review. It also produces a guided PR tour for faster human review. Vendor-reported.",
+ "highlights": [
+  "Review cost per PR down 82% to $0.25-$0.75",
+  "Bugs found per PR up from 1.22 to 1.32",
+  "About $2.25 per fixed bug",
+  "Guided tour of the PR for human reviewers; vendor figures"
+ ]
+}

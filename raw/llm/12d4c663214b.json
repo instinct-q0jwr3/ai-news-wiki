@@ -1,0 +1,13 @@
+{
+ "id": "12d4c663214b",
+ "authored_at": "2026-11-06T15:15:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "NVIDIA added four open-weight checkpoints to Cosmos 3 for interactive world simulation and multi-sensor driving scenes. All are post-trained from Cosmos 3 Nano with 16B trainable parameters under OpenMDW 1.1 (commercial and non-commercial use). For robotics, Sim-Bimanual predicts the visual results of actions and Sim-Transfer turns simulator controls into generated observations. For driving, synchronized camera and LiDAR generation, plus scene and traffic-signal controls, let researchers vary layouts and study a driving policy. Streaming generation links video prediction to ongoing interaction.",
+ "highlights": [
+  "Four open checkpoints, 16B parameters, post-trained from Cosmos 3 Nano",
+  "Robotics: Sim-Bimanual and Sim-Transfer",
+  "Driving: synchronized camera and LiDAR, scene and signal controls",
+  "OpenMDW 1.1 license; streaming generation"
+ ]
+}

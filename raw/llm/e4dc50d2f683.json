@@ -1,0 +1,13 @@
+{
+ "id": "e4dc50d2f683",
+ "authored_at": "2026-11-06T15:15:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Ornn's first article in a compute-markets series explains the primary market, where providers sell capacity directly to customers. It uses a thought experiment: you get a quote for 1,024 NVIDIA B300s but need a loan, and the lender wants proof you can cover operating costs and repay. Three ways to sell: reservations (customers commit for an agreed period, which can help secure financing), on-demand and spot. The piece shows how the sales structure drives how a cluster gets financed.",
+ "highlights": [
+  "Primary market: providers sell compute directly to users",
+  "Three structures: reserved, on-demand, spot",
+  "Long reservations can secure financing for GPU purchases",
+  "First of a series on how compute is bought, sold and financed"
+ ]
+}

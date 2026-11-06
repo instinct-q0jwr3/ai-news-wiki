@@ -1,0 +1,13 @@
+{
+ "id": "6e2f04fab865",
+ "authored_at": "2026-11-06T15:15:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Cloudflare argues that AI agents acting on the web strip sites of the ability to recognize, serve and hold accountable the users behind them, so sites bear the cost when something goes wrong. Security traditionally needs identity, reputation and accountability, and a hosted agent is an intermediary: it may look like a human or like one visitor carrying many users, and it does not tire, runs in parallel and tolerates friction. Much of the web's capacity planning and business models assume human limits. The post calls for new mechanisms that preserve the Site-User relationship so sites can safely give agents more access. Only the opening was read.",
+ "highlights": [
+  "Agents hide the user from the site, shifting costs to the site",
+  "Needs identity, reputation and accountability",
+  "Agents break assumptions about human limits",
+  "Calls for a trust framework; only the opening was read"
+ ]
+}

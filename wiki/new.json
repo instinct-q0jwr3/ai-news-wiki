@@ -1,83 +1,137 @@
 {
- "generated_at": "2026-11-06T09:14:14+00:00",
+ "generated_at": "2026-11-06T15:14:06+00:00",
  "stories": [
   {
-   "id": "bf83f8cdf20b",
-   "title": "Nvidia Kubernetes Engine",
+   "id": "866230cbaf9d",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
    "source": "Hacker News",
-   "url": "https://github.com/dsx-ai-factory/nvke"
+   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
   },
   {
-   "id": "5baf558a2db1",
-   "title": "I struggle to believe that AI R&D is ingenious",
+   "id": "7ff78762dadc",
+   "title": "AI for scientific discovery: How researchers use Claude",
    "source": "Hacker News",
-   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude"
   },
   {
-   "id": "f8d633d9ac45",
-   "title": "Closed AI models dominate the price-performance frontier",
+   "id": "60b9cc774acd",
+   "title": "Stop running everything through LLMs: How I fixed my research agent",
    "source": "Hacker News",
-   "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
+   "url": "https://www.tinyfish.ai/blog/inside-tinyresearch"
   },
   {
-   "id": "58c90e4cbb8d",
-   "title": "Ask HN: What are forgotten topics in computing that deserve a new revisit?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50387483"
+   "id": "12d4c663214b",
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "source": "TLDR AI",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
   },
   {
-   "id": "ba269cf6f80b",
-   "title": "Hugging Face CEO Clément Delangue says his P(doom) is \"close to zero\", arguing that future AI risks stem from closed frontier AI labs, not open-source systems",
+   "id": "81453f2e2f08",
+   "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/"
+  },
+  {
+   "id": "c8bbcd1bddee",
+   "title": "Personal Finance in Claude",
+   "source": "TLDR AI",
+   "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+  },
+  {
+   "id": "6e2f04fab865",
+   "title": "Cloudflare's Trust Framework for AI Agents",
+   "source": "TLDR AI",
+   "url": "https://blog.cloudflare.com/trusted-agent-delegation"
+  },
+  {
+   "id": "fe340cb3c6d3",
+   "title": "Cleanview: ~40% of pending US data center capacity is planned to be built in states where newly elected governors have pledged to stop or pause construction",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity"
   },
   {
-   "id": "8ea280b0e15f",
-   "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+   "id": "53f6b4f9c2f1",
+   "title": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more",
+   "source": "Techmeme",
+   "url": "https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/"
+  },
+  {
+   "id": "af1b1b9573e1",
+   "title": "The Ultimate MoE Training Handbook",
+   "source": "TLDR AI",
+   "url": "https://huggingface.co/spaces/huggingface/moe-blogpost"
+  },
+  {
+   "id": "3ac6b8a1614d",
+   "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/"
+  },
+  {
+   "id": "daca2485a9b3",
+   "title": "NVIDIA Introduced VFlash",
+   "source": "TLDR AI",
+   "url": "https://research.nvidia.com/labs/lpr/vflash/"
+  },
+  {
+   "id": "ddfe21798cc5",
+   "title": "Inkling 2 Small",
    "source": "Hacker News",
-   "url": "https://obelisk.club/research/app-store-2026"
+   "url": "https://thinkingmachines.ai/news/inkling-2-small/"
   },
   {
-   "id": "072d48be912a",
-   "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
-  },
-  {
-   "id": "e064e0f1e66a",
-   "title": "OpenAI Just Found Nearly 1k Ways to Gain Root Access in Linux",
-   "source": "Hacker News",
-   "url": "https://hothardware.com/news/openai-just-found-nearly-1000-ways-to-gain-root-access-in-linux"
-  },
-  {
-   "id": "5ba175fd953b",
-   "title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously",
+   "id": "b6c55c4a397d",
+   "title": "Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling"
   },
   {
-   "id": "87a157dae3ca",
-   "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7%",
-   "source": "Techmeme",
-   "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout"
+   "id": "9c048c33ce74",
+   "title": "Muse Voice",
+   "source": "TLDR AI",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/"
   },
   {
-   "id": "831a0c63e4c1",
-   "title": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation",
+   "id": "ebe090be5627",
+   "title": "Employees at Microsoft, long known for its stability in the industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/"
+   "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html"
   },
   {
-   "id": "b067932a89fc",
-   "title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+   "id": "6f537b1023d0",
+   "title": "Gemini Omni 1.2 Flash",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
   },
   {
-   "id": "cac5e4017d52",
-   "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less",
+   "id": "9fbd7474c12c",
+   "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
+   "source": "Lobsters",
+   "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
+  },
+  {
+   "id": "e4dc50d2f683",
+   "title": "How Primary Compute Markets Work",
+   "source": "TLDR AI",
+   "url": "https://x.com/OrnnExchange/status/2118372699093295482"
+  },
+  {
+   "id": "a031d2d3e692",
+   "title": "TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages",
    "source": "Techmeme",
-   "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/"
+   "url": "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending"
+  },
+  {
+   "id": "19eef6bc569c",
+   "title": "Devin Review 2.0",
+   "source": "TLDR AI",
+   "url": "https://devin.ai/blog/devin-review-2"
+  },
+  {
+   "id": "beb074240f26",
+   "title": "You can now build live apps in Cursor and share them with a link",
+   "source": "TLDR AI",
+   "url": "https://x.com/cursor_ai/status/2118458629091426304"
   }
  ]
 }

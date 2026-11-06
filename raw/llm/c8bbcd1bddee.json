@@ -1,0 +1,13 @@
+{
+ "id": "c8bbcd1bddee",
+ "authored_at": "2026-11-06T15:15:49Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic's announcement of Personal Finance in Claude: connect bank and card accounts and ask in plain language. Access is read-only and it cannot move, manage or invest money. No ads or sponsored recommendations, and no credit cards, loans or savings products of its own. Beta rolls out this week for Pro, Max and Ultra plans in the US. Example: asked where the month's money went, Claude sorts spending by category, such as $4,309.37 mostly on rent and utilities.",
+ "highlights": [
+  "Read-only connection to bank and card accounts",
+  "No ads, sponsored recommendations or own financial products",
+  "Beta on Pro, Max and Ultra in the US",
+  "Answers in everyday language with spending by category"
+ ]
+}
