@@ -1,0 +1,13 @@
+{
+ "id": "9639b46ebe44",
+ "authored_at": "2026-11-06T03:14:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "WSJ reports major investors are skeptical Anthropic's IPO can reach a $1.5 trillion valuation after the market selloff. The page could not be read."
+ ],
+ "highlights": [
+  "Investors doubt a $1.5T Anthropic IPO valuation (per headline)"
+ ],
+ "basis": "Error cache: WSJ paywall. Written from the HN title only."
+}

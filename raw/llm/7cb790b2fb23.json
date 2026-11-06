@@ -1,0 +1,13 @@
+{
+ "id": "7cb790b2fb23",
+ "authored_at": "2026-11-06T03:14:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "METR published an independent assessment of how much AI is speeding up AI R&D at Anthropic, based on a high-access evaluation from Aug. 12 to Oct. 29, 2026 with internal metrics on pretraining, RL, compute, benchmarks, speedup analyses, forecasts and staff interviews.\n\nTheir conclusion: most METR staff now think Anthropic is improving model capabilities on well-specified tasks at about twice the rate of March 2024 to October 2025 (a 1.9x estimate; 1.3x or 3x would not surprise them), with less certainty for fuzzier tasks. Major caveat: Anthropic redacted most of the evidence METR found most informative, citing information that could accelerate other developers. METR says this means the public must rely on its judgment more than ideal. High-level conclusions on risk were shareable.",
+ "highlights": [
+  "Most METR staff: Anthropic improving capabilities ~2x as fast as in 2024-25 on well-specified tasks",
+  "Range 1.3x to 3x; uncertainty and internal disagreement",
+  "Anthropic redacted most of the most informative evidence",
+  "Evaluation ran Aug 12 to Oct 29, 2026"
+ ]
+}

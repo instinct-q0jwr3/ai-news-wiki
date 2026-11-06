@@ -1,6 +1,6 @@
 # Filings: Oracle is selling $10B in common stock and $10B in bonds, as it rushes to get financing for its data center buildout and chip purchases; ORCL falls 5%+
 
-_type: news-summary · created: 2026-11-02 · updated: 2026-11-05 · confidence: high_
+_type: news-summary · created: 2026-11-02 · updated: 2026-11-06 · confidence: high_
 
 `techmeme` `compute-buildout`
 

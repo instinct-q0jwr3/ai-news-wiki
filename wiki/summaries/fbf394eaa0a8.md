@@ -1,6 +1,6 @@
 # Tutor, which is training a frontier robot foundation model and builds AI warehouse robots, raised a $75M Series B led by a16z, taking total funding to $117M
 
-_type: news-summary · created: 2026-11-02 · updated: 2026-11-05 · confidence: high_
+_type: news-summary · created: 2026-11-02 · updated: 2026-11-06 · confidence: high_
 
 `techmeme`
 

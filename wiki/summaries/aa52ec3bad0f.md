@@ -1,6 +1,6 @@
 # Google Expands SynthID Detector Globally
 
-_type: news-summary · created: 2026-10-08 · updated: 2026-11-05 · confidence: high_
+_type: news-summary · created: 2026-10-08 · updated: 2026-11-06 · confidence: high_
 
 `tldr-ai` `google`
 

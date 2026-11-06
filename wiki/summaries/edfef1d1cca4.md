@@ -1,6 +1,6 @@
 # Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection
 
-_type: news-summary · created: 2026-11-04 · updated: 2026-11-05 · confidence: high_
+_type: news-summary · created: 2026-11-04 · updated: 2026-11-06 · confidence: high_
 
 `techmeme`
 

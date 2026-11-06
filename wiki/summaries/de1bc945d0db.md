@@ -1,6 +1,6 @@
 # Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22%
 
-_type: news-summary · created: 2026-11-01 · updated: 2026-11-05 · confidence: high_
+_type: news-summary · created: 2026-11-01 · updated: 2026-11-06 · confidence: high_
 
 `techmeme` `openai` `microsoft`
 

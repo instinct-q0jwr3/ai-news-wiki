@@ -1,0 +1,13 @@
+{
+ "id": "c716cd4d3e53",
+ "authored_at": "2026-11-06T03:14:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) on its Intelligence Index and would be the top open model outside China once weights ship. It launches proprietary on Thinking Machines' Tinker, up 18 points from Inkling Small, using about 4x the output tokens per task (~150K).\n\nGains are largest on agentic tasks: AutomationBench-AA 5% to 46%, FrontierCode 2.0 5% to 25%, HLE-Diamond 12% to 29%. Strengths differ from Claude Sonnet 5.5 (medium): 25% vs 11% on FrontierCode 2.0 but 13% vs 30% on Terminal-Bench 4.0. Hallucination rate falls from 61% to 27% via more selective answering. It costs almost 6x Inkling Small but less than some similar models.",
+ "highlights": [
+  "Matches Gemini 3.8 Flash (high) on the Intelligence Index",
+  "AutomationBench-AA 5% to 46%; FrontierCode 2.0 5% to 25%",
+  "Beats Claude Sonnet 5.5 on FrontierCode, trails on Terminal-Bench",
+  "Hallucination rate 61% to 27%; ~4x output tokens, ~6x the cost of Inkling Small"
+ ]
+}

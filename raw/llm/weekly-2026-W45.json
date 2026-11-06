@@ -75,7 +75,8 @@
     "60b583e0d2a7",
     "e07d8bb54557",
     "464566db7858",
-    "9a5adfcded9d"
+    "9a5adfcded9d",
+    "ca3a07809765"
    ],
    "concepts": []
   },
@@ -755,6 +756,46 @@
    "stories": [
     "a624cb1fba1c",
     "7f248886d730"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The selloff",
+   "intro": "Nasdaq 100 loses a record $2.3T and investors question Anthropic's IPO price.",
+   "stories": [
+    "b0ed2327dcc7",
+    "8e375528c1c9",
+    "58d4485525f7",
+    "9639b46ebe44",
+    "9cdeac35c667"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The new open contender",
+   "intro": "Thinking Machines launches Inkling 2 Small with weights promised next week and raises $5B.",
+   "stories": [
+    "ddfe21798cc5",
+    "2f0f1c107d03",
+    "c716cd4d3e53",
+    "fe16c476ab22"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The acceleration question",
+   "intro": "METR's assessment, with most evidence redacted, puts Anthropic's progress at about 2x.",
+   "stories": [
+    "7cb790b2fb23"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The leaky harness",
+   "intro": "Claude Code put users' emails in web headers; Anthropic added a blocking mod. Cuban says Facebook knowingly runs deepfake scam ads.",
+   "stories": [
+    "a67aec0255bd",
+    "e221f7fce287"
    ],
    "concepts": []
   }

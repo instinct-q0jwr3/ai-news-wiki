@@ -1,0 +1,57 @@
+{
+ "id": "digest-2026-11-06",
+ "date": "2026-11-06",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Tech stocks had their worst day since 2020, with the Nasdaq 100 down 6% and chips down 12%, and Anthropic's IPO valuation is now doubted. Thinking Machines launched Inkling 2 Small, and METR found Anthropic's capability progress is likely running about twice as fast as before.",
+ "sections": [
+  {
+   "title": "The selloff",
+   "intro": "Nasdaq 100 loses a record $2.3T and investors question Anthropic's IPO price.",
+   "stories": [
+    "b0ed2327dcc7",
+    "8e375528c1c9",
+    "58d4485525f7",
+    "9639b46ebe44",
+    "9cdeac35c667"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The new open contender",
+   "intro": "Thinking Machines launches Inkling 2 Small with weights promised next week and raises $5B.",
+   "stories": [
+    "ddfe21798cc5",
+    "2f0f1c107d03",
+    "c716cd4d3e53",
+    "fe16c476ab22"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The acceleration question",
+   "intro": "METR's assessment, with most evidence redacted, puts Anthropic's progress at about 2x.",
+   "stories": [
+    "7cb790b2fb23"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The leaky harness",
+   "intro": "Claude Code put users' emails in web headers; Anthropic added a blocking mod. Cuban says Facebook knowingly runs deepfake scam ads.",
+   "stories": [
+    "a67aec0255bd",
+    "e221f7fce287"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The money keeps moving",
+   "intro": "Airbnb's option on Chesky's stealth AI lab.",
+   "stories": [
+    "ca3a07809765"
+   ],
+   "concepts": []
+  }
+ ]
+}

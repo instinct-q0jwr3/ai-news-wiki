@@ -1,6 +1,6 @@
 # Gemini 4 Argon hints emerge as Google tests Carbon checkpoint
 
-_type: news-summary · created: 2026-10-12 · updated: 2026-11-05 · confidence: high_
+_type: news-summary · created: 2026-10-12 · updated: 2026-11-06 · confidence: high_
 
 `tldr-ai` `google` `gemini`
 

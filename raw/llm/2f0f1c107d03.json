@@ -1,0 +1,12 @@
+{
+ "id": "2f0f1c107d03",
+ "authored_at": "2026-11-06T03:14:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Techmeme's pointer to the Thinking Machines Lab homepage, announcing Inkling 2 Small, a MoE model with 594B total and 17B active parameters, with weights to come next week after safety testing. The page text is the company mission: make AI systems more widely understood, customizable and generally capable, with human-AI collaboration, open publication of papers and code, and a team that built ChatGPT, Character.ai, Mistral's open models, PyTorch and Segment Anything. See the Inkling 2 Small post for specifics.",
+ "highlights": [
+  "Announces Inkling 2 Small: 594B total, 17B active",
+  "Weights planned for next week after safety testing",
+  "Mission: understandable, customizable, collaborative AI"
+ ]
+}

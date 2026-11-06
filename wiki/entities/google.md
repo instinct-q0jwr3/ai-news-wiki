@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-05 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-06** - Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) on its Intelligence Index and would be the top open model outside China once weights ship. It launches proprietary on Thinking Machines' Tinker, up 18 points from Inkling Small, using… ([Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out](../summaries/c716cd4d3e53.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-05** - Cory Doctorow argues that tech policy has a big blast radius, and that two popular fixes for big-tech harms would backfire. On scraping, many creative workers want to ban it to stop AI training. He says that would be a terrible idea: scraping is how search… ([Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)](../summaries/bc9445403531.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-05** - Alphabet's Isomorphic Labs, the Google DeepMind spinout using AI for drug discovery, is in talks to raise about $5 billion at roughly a $50 billion valuation, per Bloomberg sources. It last raised $2.1 billion in May. ([Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May](../summaries/60b583e0d2a7.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-11-04** - TeraWulf secured a credit backstop agreement with Google to support financing of its Kentucky data-center project with Anthropic, due online in the second half of 2027, per Reuters. ([TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027](../summaries/1011b090f92d.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠

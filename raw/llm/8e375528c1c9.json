@@ -1,0 +1,14 @@
+{
+ "id": "8e375528c1c9",
+ "authored_at": "2026-11-06T03:14:07Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reuters reports investors wiped $2.5 trillion off the Nasdaq in a 'blue tsunami' as AI fears grew after Democratic election wins; the URL slug ties it to AI data-center stocks slipping."
+ ],
+ "highlights": [
+  "$2.5T wiped off the Nasdaq (headline)",
+  "Tied to AI fears after the Democratic sweep"
+ ],
+ "basis": "Error cache: Reuters did not load. Written from the HN title."
+}

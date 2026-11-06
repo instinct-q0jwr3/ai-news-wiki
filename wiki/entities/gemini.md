@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-05 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-06** - Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) on its Intelligence Index and would be the top open model outside China once weights ship. It launches proprietary on Thinking Machines' Tinker, up 18 points from Inkling Small, using… ([Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out](../summaries/c716cd4d3e53.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-05** - Alphabet's Isomorphic Labs, the Google DeepMind spinout using AI for drug discovery, is in talks to raise about $5 billion at roughly a $50 billion valuation, per Bloomberg sources. It last raised $2.1 billion in May. ([Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May](../summaries/60b583e0d2a7.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-11-04** - If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. ([Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](../summaries/2a030159a180.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-04** - Google published a Gemini Notebook API: a REST interface to create and manage notebooks and sources in Gemini Notebook. Developers can ingest web pages, YouTube videos, plain text and Markdown into persistent notebooks. The docs show creating a notebook… ([Gemini Notebook API](../summaries/c9e0613bafe3.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

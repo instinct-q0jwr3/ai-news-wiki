@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-05 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,11 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-06** - A GitHub issue on the Claude Code repo reports that the tool put the user's email address into the User-Agent header of web requests while researching, which the reporter says led to dozens of scam emails a day. He says it should be removed from the… ([Claude Code sends your email address to websites](../summaries/a67aec0255bd.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-11-06** - WSJ reports major investors are skeptical Anthropic's IPO can reach a $1.5 trillion valuation after the market selloff. The page could not be read. ([Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation](../summaries/9639b46ebe44.md) · [Anthropic](../entities/anthropic.md)) 🔒
+- **2026-11-06** - METR published an independent assessment of how much AI is speeding up AI R&D at Anthropic, based on a high-access evaluation from Aug. 12 to Oct. 29, 2026 with internal metrics on pretraining, RL, compute, benchmarks, speedup analyses, forecasts and staff… ([Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](../summaries/7cb790b2fb23.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-06** - Business Insider reports Michael Burry says Anthropic is 'betting its existence' on optimism, in the context of the company's IPO outlook. The page was not readable. ([Michael Burry says Anthropic is 'betting its existence' on optimism](../summaries/9cdeac35c667.md) · [Anthropic](../entities/anthropic.md)) ⚠
+- **2026-11-06** - The WSJ reports, citing sources, that major investors are increasingly skeptical Anthropic's IPO can reach $1.5T after the market selloff; one says it could be closer to $1T, and the AI giant may need a significantly lower valuation than expected. ([major investors are increasingly skeptical Anthropic's IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T](../summaries/58d4485525f7.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-05** - ZDNET reports Anthropic launched Personal Finance in Claude. Users link any number of bank and credit-card accounts through Plaid with read-only access and ask things like where they spent money this month or whether they can afford a vacation in six… ([Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends](../summaries/3112bd39b464.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-05** - AI use within Anthropic may have doubled the company's pace of AI development, a new report from AI research nonprofit METR says. ([METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration](../summaries/0198c2b67677.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md)) 🔒
 - **2026-11-05** - Bloomberg reports a study finding UK consumer AI spending passes £1 billion a year, with 5.1% of adults paying for subscriptions as of July 2026, and Claude rapidly catching up to ChatGPT. ([Study: UK consumer AI spending passes £1B annually, with 5.1% of adults paying for subscriptions as of July 2026; Claude is rapidly catching up to ChatGPT](../summaries/ed109411cd83.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) 🔒

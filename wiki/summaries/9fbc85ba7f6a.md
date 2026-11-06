@@ -1,6 +1,6 @@
 # Sources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more
 
-_type: news-summary · created: 2026-11-02 · updated: 2026-11-05 · confidence: high_
+_type: news-summary · created: 2026-11-02 · updated: 2026-11-06 · confidence: high_
 
 `techmeme` `anthropic` `google` `amazon` `nvidia` `compute-buildout`
 
