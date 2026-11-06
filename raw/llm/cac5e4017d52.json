@@ -1,0 +1,13 @@
+{
+ "id": "cac5e4017d52",
+ "authored_at": "2026-11-06T09:15:43Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The Decoder reports Google DeepMind made Gemini Omni 1.2 Flash generally available: clips from 3 to 15 seconds (up from 10), conversational editing of background, lighting or aspect ratio without regenerating, 30% lower price ($0.07 per second at 720p), better reference adherence (character images, product photos, short motion clips and audio cues), and SynthID watermarks. It is available through the Gemini API, AI Studio, Cloud Console, Flow, Vids, the Gemini app for Ultra subscribers and Google Ads. A tiered workflow drafts at low resolution and upscales only the final to 1080p or 4K.",
+ "highlights": [
+  "Clips up to 15 seconds, 30% cheaper ($0.07/s at 720p)",
+  "Conversational editing across the full clip",
+  "Reference inputs: images, 3-second motion clips, audio",
+  "SynthID watermark on every video"
+ ]
+}

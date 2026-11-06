@@ -13,7 +13,9 @@
     "8e375528c1c9",
     "58d4485525f7",
     "9639b46ebe44",
-    "9cdeac35c667"
+    "9cdeac35c667",
+    "072d48be912a",
+    "87a157dae3ca"
    ],
    "concepts": []
   },
@@ -24,7 +26,8 @@
     "ddfe21798cc5",
     "2f0f1c107d03",
     "c716cd4d3e53",
-    "fe16c476ab22"
+    "fe16c476ab22",
+    "f8d633d9ac45"
    ],
    "concepts": []
   },
@@ -32,7 +35,9 @@
    "title": "The acceleration question",
    "intro": "METR's assessment, with most evidence redacted, puts Anthropic's progress at about 2x.",
    "stories": [
-    "7cb790b2fb23"
+    "7cb790b2fb23",
+    "5baf558a2db1",
+    "e064e0f1e66a"
    ],
    "concepts": []
   },
@@ -49,7 +54,27 @@
    "title": "The money keeps moving",
    "intro": "Airbnb's option on Chesky's stealth AI lab.",
    "stories": [
-    "ca3a07809765"
+    "ca3a07809765",
+    "831a0c63e4c1",
+    "b067932a89fc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent desk",
+   "intro": "Perplexity ships always-on Teammates, and Google stretches Omni video to 15 seconds.",
+   "stories": [
+    "5ba175fd953b",
+    "cac5e4017d52"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "Infrastructure and app-store data.",
+   "stories": [
+    "bf83f8cdf20b",
+    "8ea280b0e15f"
    ],
    "concepts": []
   }

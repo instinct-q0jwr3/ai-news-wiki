@@ -1,83 +1,83 @@
 {
- "generated_at": "2026-11-06T03:12:31+00:00",
+ "generated_at": "2026-11-06T09:14:14+00:00",
  "stories": [
   {
-   "id": "a67aec0255bd",
-   "title": "Claude Code sends your email address to websites",
+   "id": "bf83f8cdf20b",
+   "title": "Nvidia Kubernetes Engine",
    "source": "Hacker News",
-   "url": "https://github.com/anthropics/claude-code/issues/107757"
+   "url": "https://github.com/dsx-ai-factory/nvke"
   },
   {
-   "id": "e221f7fce287",
-   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "id": "5baf558a2db1",
+   "title": "I struggle to believe that AI R&D is ingenious",
    "source": "Hacker News",
-   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
   },
   {
-   "id": "ddfe21798cc5",
-   "title": "Inkling 2 Small",
+   "id": "f8d633d9ac45",
+   "title": "Closed AI models dominate the price-performance frontier",
    "source": "Hacker News",
-   "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+   "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
   },
   {
-   "id": "9639b46ebe44",
-   "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+   "id": "58c90e4cbb8d",
+   "title": "Ask HN: What are forgotten topics in computing that deserve a new revisit?",
    "source": "Hacker News",
-   "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’"
+   "url": "https://news.ycombinator.com/item?id=50387483"
   },
   {
-   "id": "8e375528c1c9",
-   "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/"
-  },
-  {
-   "id": "7cb790b2fb23",
-   "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-   "source": "Hacker News",
-   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
-  },
-  {
-   "id": "9cdeac35c667",
-   "title": "Michael Burry says Anthropic is 'betting its existence' on optimism",
-   "source": "Hacker News",
-   "url": "https://www.businessinsider.com/michael-burry-anthropic-ipo-outlook-ant-big-short-2026-11"
-  },
-  {
-   "id": "58d4485525f7",
-   "title": "major investors are increasingly skeptical Anthropic's IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T",
+   "id": "ba269cf6f80b",
+   "title": "Hugging Face CEO Clément Delangue says his P(doom) is \"close to zero\", arguing that future AI risks stem from closed frontier AI labs, not open-source systems",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=kUhvLS"
+   "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/"
   },
   {
-   "id": "fe16c476ab22",
-   "title": "Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last year",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
+   "id": "8ea280b0e15f",
+   "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+   "source": "Hacker News",
+   "url": "https://obelisk.club/research/app-store-2026"
   },
   {
-   "id": "b0ed2327dcc7",
-   "title": "The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day"
+   "id": "072d48be912a",
+   "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
   },
   {
-   "id": "c716cd4d3e53",
-   "title": "Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out",
-   "source": "Techmeme",
-   "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it"
+   "id": "e064e0f1e66a",
+   "title": "OpenAI Just Found Nearly 1k Ways to Gain Root Access in Linux",
+   "source": "Hacker News",
+   "url": "https://hothardware.com/news/openai-just-found-nearly-1000-ways-to-gain-root-access-in-linux"
   },
   {
-   "id": "2f0f1c107d03",
-   "title": "Thinking Machines Lab debuts Inkling 2 Small, a MoE model with 594B total and 17B active parameters, and plans to release weights next week after safety testing",
+   "id": "5ba175fd953b",
+   "title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously",
    "source": "Techmeme",
-   "url": "https://thinkingmachines.ai/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
   },
   {
-   "id": "ca3a07809765",
-   "title": "Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky's stealth AI lab; source: Chesky has self-funded it so far",
+   "id": "87a157dae3ca",
+   "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7%",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup"
+   "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout"
+  },
+  {
+   "id": "831a0c63e4c1",
+   "title": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/"
+  },
+  {
+   "id": "b067932a89fc",
+   "title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+  },
+  {
+   "id": "cac5e4017d52",
+   "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less",
+   "source": "Techmeme",
+   "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/"
   }
  ]
 }

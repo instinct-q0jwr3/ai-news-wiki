@@ -1,0 +1,13 @@
+{
+ "id": "5baf558a2db1",
+ "authored_at": "2026-11-06T09:15:43Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A LessWrong shortform post by Arjun Panickssery says he struggles to believe autonomous AI R&D is ingenious. In his side projects the model's judgment is basic-level poor: eight hackathon papers he judged scored 60-95% on Pangram, were similar and methodologically incomplete in the same way. The exception is hill-climbing tasks with fast feedback: he improved the SOTA for listing legal Scrabble moves 10x by prompting Astra repeatedly, though key leaps came from his own suggestions. Astra also writes hard-to-follow reports. A reply agrees that AIs need human direction. A single person's anecdote.",
+ "highlights": [
+  "AI judgment seen as basic-level poor in his projects",
+  "Works best on fast-feedback hill-climbing, still needing human hints",
+  "10x Scrabble-move SOTA came with human-suggested leaps",
+  "Anecdotal, not a benchmark"
+ ]
+}

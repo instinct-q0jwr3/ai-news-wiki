@@ -1,0 +1,13 @@
+{
+ "id": "5ba175fd953b",
+ "authored_at": "2026-11-06T09:15:43Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The Verge reports Perplexity launched Teammates, always-on agents that take multiple roles in a workspace, reuse projects, skills and memory from existing Perplexity tools and build on Perplexity Computer for ongoing large-scale work. Like OpenAI's Dots and Claude Duet, each Teammate can run jobs simultaneously, tracked in app threads and Slack. It needs the $200/month Max plan. CEO Aravind Srinivas envisions hundreds of teammates per person over time.",
+ "highlights": [
+  "Always-on multi-role agents built on Perplexity Computer",
+  "Progress via threads and Slack",
+  "Requires the $200/month Max plan",
+  "Competes with OpenAI's Dots and Claude Duet"
+ ]
+}

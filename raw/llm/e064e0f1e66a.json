@@ -1,0 +1,13 @@
+{
+ "id": "e064e0f1e66a",
+ "authored_at": "2026-11-06T09:15:43Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "HotHardware describes OpenAI's Linux kernel experiment: a multi-tier pipeline of scout agents (pick audit targets), analyst agents (flag suspicious logic), triage systems (spin up isolated VMs to prove bugs are real) and exploit agents (test against defenses like KASLR and SMEP, package proofs of concept and draft patches for human review). It reproduced 1,724 vulnerabilities and produced 948 working local privilege escalation exploits. OpenAI says the run cost up to $1.2M in tokens and calls that a bargain.",
+ "highlights": [
+  "Pipeline of scout, analyst, triage and exploit agents",
+  "1,724 reproduced; 948 working LPE exploits",
+  "Tested against KASLR and SMEP; candidate patches drafted for humans",
+  "Up to $1.2M in tokens, per OpenAI"
+ ]
+}

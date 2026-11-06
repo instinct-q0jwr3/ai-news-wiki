@@ -1,0 +1,13 @@
+{
+ "id": "f8d633d9ac45",
+ "authored_at": "2026-11-06T09:15:43Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Village's LLM Atlas study finds closed models now dominate the price-performance frontier. Open models win on value in bursts, usually a strong, cheap DeepSeek release that holds a wide band of budgets until a closed model undercuts it. Recent closed releases are cheaper and stronger than any open one, so open's share has shrunk to the very cheapest end. Method: capability estimated from public benchmarks and cost from evaluators' runs, relative to GPT-5 at high effort, across 201 log-spaced budgets (scores as of Oct. 31, 2026). Caveat: open models may be cheaper self-hosted, and widening the budget range lifts open's share to 16%.",
+ "highlights": [
+  "Open models win only in bursts, then closed releases undercut them",
+  "Open's winning band is now confined to the lowest prices",
+  "Costs from hosted API runs; self-hosting may be cheaper",
+  "Widening budgets to 0.3%-10x GPT-5 lifts open share to 16%"
+ ]
+}
