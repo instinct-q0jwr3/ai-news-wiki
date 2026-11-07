@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-07** - Just received this via email: > Usage credits purchased on or after December 7 will expire 12 months after the purchase date. ([Claude usage credits purchased after Dec 7 will expire 12 months after purchase](../summaries/794917013349.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-07** - Latent Space's Nov. 6 AINews, 'Anthropic IPO: Whither Now?', calls it a quiet news day while the AI market rout deepened but may be leveling off at about -10% on the Nasdaq. With everything priced to perfection, valuation estimates for Anthropic have… ([AINews Anthropic IPO: Whither Now?](../summaries/51295da2cd64.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-06** - Bloomberg reports Anthropic IPO buyers see a valuation as low as $1.1 trillion, below earlier talk of $1.5 trillion. ([Anthropic IPO buyers see valuation as low as $1.1T](../summaries/9a0648753be9.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-06** - Patrick McKenzie and Zvi Mowshowitz read Anthropic's S-1 on the Complex Systems podcast. Points covered: a founder-controlled structure with a single Class F share holding 50.1% of votes, an uncapped 3:1 employee donation match that may be the most… ([Reading the Anthropic S-1, with Zvi Mowshowitz](../summaries/46167aa33d64.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-06** - AI physics startup PSI (Physical Superintelligence) says a research system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, open since 2008, which concerns when quantum computers can be exponentially faster than ordinary ones.… ([AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008](../summaries/7ac9e11f87c1.md) · [Anthropic](../entities/anthropic.md))

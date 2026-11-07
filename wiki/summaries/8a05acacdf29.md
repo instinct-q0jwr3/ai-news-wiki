@@ -1,6 +1,6 @@
 # Team Bots: AI coworkers that learn from your team
 
-_type: news-summary · created: 2026-09-29 · updated: 2026-11-06 · confidence: high_
+_type: news-summary · created: 2026-09-29 · updated: 2026-11-07 · confidence: high_
 
 `tldr-ai` `labor-displacement`
 

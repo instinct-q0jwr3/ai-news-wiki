@@ -1,0 +1,44 @@
+{
+ "id": "digest-2026-11-07",
+ "date": "2026-11-07",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "OpenAI closes about $11B at a $1.25T valuation while Anthropic's IPO valuation estimates slip toward $1T, and Google buys Crusoe's Wyoming data-center site. A hackathon test shows coding agents leaking a secret token to a swarm of strangers 15% of the time.",
+ "sections": [
+  {
+   "title": "The money keeps moving",
+   "intro": "OpenAI's round closes and Anthropic's IPO price is questioned.",
+   "stories": [
+    "314cd84a150c",
+    "51295da2cd64"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The data-center map",
+   "intro": "Google takes Crusoe's Wyoming site.",
+   "stories": [
+    "7d4806ac4609"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The leaky harness",
+   "intro": "Agents leak secrets to other agents, and a connector routing bug is reported in ChatGPT apps.",
+   "stories": [
+    "1994ba103fbb",
+    "f02b29a44c5a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent desk",
+   "intro": "OpenAI opens SIP phone calling and Meta adds Active Memory.",
+   "stories": [
+    "d531e1690707",
+    "87eff1f53e5e"
+   ],
+   "concepts": []
+  }
+ ]
+}

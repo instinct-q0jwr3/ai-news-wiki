@@ -1,6 +1,6 @@
 # Quoting Nilay Patel
 
-_type: news-summary · created: 2026-11-06 · updated: 2026-11-06 · confidence: high_
+_type: news-summary · created: 2026-11-06 · updated: 2026-11-07 · confidence: high_
 
 `simon-willison` `agentic-systems` `ai-safety-incidents` `compute-buildout` `ai-policy-regulation`
 

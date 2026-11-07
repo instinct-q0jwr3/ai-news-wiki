@@ -1,6 +1,6 @@
 # OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman
 
-_type: news-summary · created: 2026-11-03 · updated: 2026-11-06 · confidence: high_
+_type: news-summary · created: 2026-11-03 · updated: 2026-11-07 · confidence: high_
 
 `techmeme` `openai`
 

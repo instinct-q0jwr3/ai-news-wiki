@@ -1,6 +1,6 @@
 # Muse (Meta)
 
-_type: product · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
 
 `entity` `muse` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-11-07** - The New Stack reports Meta introduced specialized versions of its existing models, trained with Muse Wonder, adding Active Memory and Active Focus for all Muse and Meta AI users starting Friday. ([Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users](../summaries/87eff1f53e5e.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-11-06** - Latent Space's AINews for Nov. 5 centers on Inkling 2 Small: a 594B-total, 17B-active model pretrained from scratch in under three days on under 12T tokens in native NVFP4, with a single joint RL run and a very good vision encoder. The authors say it is… ([AINews Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark](../summaries/3ac6b8a1614d.md) · [Anthropic](../entities/anthropic.md) · [Muse (Meta)](../entities/muse.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-11-06** - Meta's announcement rolls out real-time voice conversation with Muse, previewed at Connect 2026, in the Muse app on mobile, web and Mac; tap the phone icon to start. Meta pitches thinking out loud, planning trips while walking or cooking, and rehearsing… ([Muse Voice](../summaries/9c048c33ce74.md) · [Muse (Meta)](../entities/muse.md))
 - **2026-11-05** - The Verge reports Meta's Muse app now supports real-time voice conversation with the Muse agent plus expressive avatars that animate as it speaks, announced by Zuckerberg and rolling out first in the US. Users can change the voice's tone by asking or via… ([Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time](../summaries/452386d2348d.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))

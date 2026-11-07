@@ -1,6 +1,6 @@
 # Concept: External AI evaluation
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
 
 `concept` `external-evaluation`
 
@@ -27,7 +27,7 @@ Methods used by third parties, standards groups and labs to measure model capabi
 
 ## Timeline
 
-- **2026-11-06** - Waymark is an open-source durable execution library like Temporal or DBOS, built on Postgres with no other infrastructure, Python first. Jobs survive server restarts and crashes. The Show HN's pitch is that it compiles workflows instead of replaying them.… ([Show HN: Waymark – A workflow engine that compiles jobs instead of replaying](../summaries/1e048fb114be.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
+- **2026-11-06** - Waymark is an open-source durable execution library like Temporal or DBOS, built on Postgres with no other infrastructure, Python first. Jobs survive server restarts and crashes. The Show HN's pitch is that it compiles workflows instead of replaying them.… ([Show HN: Waymark – A workflow engine that compiles jobs instead of replaying](../summaries/1e048fb114be.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-06** - Latent Space's AINews for Nov. 5 centers on Inkling 2 Small: a 594B-total, 17B-active model pretrained from scratch in under three days on under 12T tokens in native NVFP4, with a single joint RL run and a very good vision encoder. The authors say it is… ([AINews Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark](../summaries/3ac6b8a1614d.md) · [Anthropic](../entities/anthropic.md) · [Muse (Meta)](../entities/muse.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-11-05** - Launch HN for Rivet (YC W23), an Apache 2.0 orchestrator for agent workloads built on the actor model and S3. Each actor is a long-lived process with in-memory state, a SQLite database, WebSockets and scheduling, run on plain Node.js, Bun or Rust. Claims:… ([Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](../summaries/c80bc64d1ca2.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-05** - AI use within Anthropic may have doubled the company's pace of AI development, a new report from AI research nonprofit METR says. ([METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration](../summaries/0198c2b67677.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md)) 🔒

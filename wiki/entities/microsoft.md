@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 

@@ -1,149 +1,59 @@
 {
- "generated_at": "2026-11-06T21:14:56+00:00",
+ "generated_at": "2026-11-07T03:15:43+00:00",
  "stories": [
   {
-   "id": "9a0648753be9",
-   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "id": "f02b29a44c5a",
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
    "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053"
   },
   {
-   "id": "438556ddad0c",
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "id": "d531e1690707",
+   "title": "Outbound SIP calling is now available to all organizations",
    "source": "Hacker News",
-   "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+   "url": "https://developers.openai.com/api/docs/guides/voice-sip"
   },
   {
-   "id": "de2113f37a11",
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "id": "7d4806ac4609",
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
    "source": "Hacker News",
-   "url": "https://pwn.ai/blog/firecracker-escape"
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
   },
   {
-   "id": "b10959665eea",
-   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+   "id": "794917013349",
+   "title": "Claude usage credits purchased after Dec 7 will expire 12 months after purchase",
    "source": "Hacker News",
-   "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+   "url": "https://news.ycombinator.com/item?id=50399909"
   },
   {
-   "id": "216887243ec9",
-   "title": "Perplexity launches AI agents for work",
+   "id": "1994ba103fbb",
+   "title": "Agents reveal secrets when offered to team up with each other",
    "source": "Hacker News",
-   "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+   "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260"
   },
   {
-   "id": "46167aa33d64",
-   "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
-   "source": "Hacker News",
-   "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/"
-  },
-  {
-   "id": "383e993de443",
-   "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-   "source": "Hacker News",
-   "url": "https://github.com/zalando-incubator/agentic-identity-broker"
-  },
-  {
-   "id": "2e9ed341a1fc",
-   "title": "An AI Rant",
-   "source": "Hacker News",
-   "url": "https://carlhandellen.substack.com/p/an-ai-rant"
-  },
-  {
-   "id": "74fd5b902712",
-   "title": "AI is dramatically accelerating AI research",
-   "source": "Hacker News",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
-  },
-  {
-   "id": "1609267a10d7",
-   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-   "source": "Hacker News",
-   "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0"
-  },
-  {
-   "id": "eaffdad14d28",
-   "title": "AI coding agent setups from 663 Hacker News comments",
-   "source": "Hacker News",
-   "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html"
-  },
-  {
-   "id": "77a05a9b6ee5",
-   "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
-   "source": "Hacker News",
-   "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/"
-  },
-  {
-   "id": "1e048fb114be",
-   "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-   "source": "Hacker News",
-   "url": "https://github.com/piercefreeman/waymark"
-  },
-  {
-   "id": "e719f22a4a6d",
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/partnering-with-hacktron/"
-  },
-  {
-   "id": "b28cba7a757f",
-   "title": "The United States of Inference",
-   "source": "Hacker News",
-   "url": "https://subconscious-systems.github.io/united-states-of-inference/"
-  },
-  {
-   "id": "ed9b0a09ffed",
-   "title": "Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips",
+   "id": "bd7c4a747aa6",
+   "title": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity"
+   "url": "https://www.theinformation.com/"
   },
   {
-   "id": "16f14c756468",
-   "title": "Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T",
+   "id": "314cd84a150c",
+   "title": "OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk5OTYyNywiZXhwIjoxNzk0NjA0NDI3LCJhcnRpY2xlSWQiOiJUTzNNOVRSS1YyVEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.pVWDvtzoWMkiwWdzW9wgW8MNHfO8XHw9d9znQhP2cv4"
   },
   {
-   "id": "c940ceb6b01c",
-   "title": "2026.45: Falling Leaves (and Stocks)",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/falling-leaves-and-stocks/"
+   "id": "51295da2cd64",
+   "title": "[AINews] Anthropic IPO: Whither Now?",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/"
   },
   {
-   "id": "9addfb68b027",
-   "title": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing",
+   "id": "87eff1f53e5e",
+   "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress"
-  },
-  {
-   "id": "07d85fa452c8",
-   "title": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme",
-   "source": "Techmeme",
-   "url": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818"
-  },
-  {
-   "id": "ebe090be5627",
-   "title": "Employees at Microsoft, long known for its stability in the industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html"
-  },
-  {
-   "id": "a5f45cba1fd0",
-   "title": "Quoting Nilay Patel",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
-  },
-  {
-   "id": "a031d2d3e692",
-   "title": "TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending"
-  },
-  {
-   "id": "7ac9e11f87c1",
-   "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008",
-   "source": "Techmeme",
-   "url": "https://psi.inc/research/aaronson-ambainis/"
+   "url": "https://thenewstack.io/meta-muse-specialized-models/"
   }
  ]
 }

@@ -85,7 +85,9 @@
     "b067932a89fc",
     "46167aa33d64",
     "b10959665eea",
-    "ed9b0a09ffed"
+    "ed9b0a09ffed",
+    "314cd84a150c",
+    "51295da2cd64"
    ],
    "concepts": []
   },
@@ -834,7 +836,9 @@
     "77a05a9b6ee5",
     "de2113f37a11",
     "e719f22a4a6d",
-    "07d85fa452c8"
+    "07d85fa452c8",
+    "1994ba103fbb",
+    "f02b29a44c5a"
    ],
    "concepts": []
   },
@@ -855,7 +859,17 @@
     "383e993de443",
     "eaffdad14d28",
     "438556ddad0c",
-    "1e048fb114be"
+    "1e048fb114be",
+    "d531e1690707",
+    "87eff1f53e5e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The data-center map",
+   "intro": "Google takes Crusoe's Wyoming site.",
+   "stories": [
+    "7d4806ac4609"
    ],
    "concepts": []
   }

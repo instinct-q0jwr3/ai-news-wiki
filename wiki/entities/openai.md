@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-07** - An OpenAI Developer Community thread titled 'Security: Follow-up tool call silently routed to a different connector' in the ChatGPT Apps SDK, which the HN title says shows ChatGPT silently passing data between connectors while the bug bounty asks for an ID… ([ChatGPT silently passes data between connectors and the bounty wants an ID card](../summaries/f02b29a44c5a.md) · [OpenAI](../entities/openai.md))
+- **2026-11-07** - Bloomberg reports, citing sources, that OpenAI closed roughly $11B of new funding at a $1.25T valuation, the first part of a round that could reach $20B in total. ([OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total](../summaries/314cd84a150c.md) · [OpenAI](../entities/openai.md)) 🔒
 - **2026-11-06** - OpenAI announces a partnership with Hacktron to find vulnerabilities in OpenAI's systems. The page could not be read, so terms are unknown. ([Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI](../summaries/e719f22a4a6d.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-06** - HotHardware describes OpenAI's Linux kernel experiment: a multi-tier pipeline of scout agents (pick audit targets), analyst agents (flag suspicious logic), triage systems (spin up isolated VMs to prove bugs are real) and exploit agents (test against… ([OpenAI Just Found Nearly 1k Ways to Gain Root Access in Linux](../summaries/e064e0f1e66a.md) · [OpenAI](../entities/openai.md))
 - **2026-11-06** - The Verge reports Perplexity launched Teammates, always-on agents that take multiple roles in a workspace, reuse projects, skills and memory from existing Perplexity tools and build on Perplexity Computer for ongoing large-scale work. Like OpenAI's Dots… ([Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously](../summaries/5ba175fd953b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

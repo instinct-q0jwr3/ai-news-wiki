@@ -1,0 +1,13 @@
+{
+ "id": "d531e1690707",
+ "authored_at": "2026-11-07T03:17:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "OpenAI's documentation says outbound SIP calling is now available to all organizations, so phone calls in and out can connect to GPT-Live through a SIP trunk (for example Twilio). The provider carries call audio to OpenAI while your backend handles session configuration, call controls and business logic. SIP signaling uses TLS and audio requires SRTP. A sideband connection lets the backend receive events or send commands. For incoming calls OpenAI sends a webhook, your backend verifies its signature, deduplicates deliveries, then accepts or rejects. Give each action one handler so duplicate events do not run tools twice.",
+ "highlights": [
+  "Outbound and inbound phone calls via SIP trunk to GPT-Live",
+  "TLS signaling and SRTP audio",
+  "Webhook per incoming call; verify signature and deduplicate",
+  "Use a sideband connection and one handler per action"
+ ]
+}

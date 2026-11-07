@@ -1,0 +1,15 @@
+{
+ "id": "f02b29a44c5a",
+ "authored_at": "2026-11-07T03:17:01Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An OpenAI Developer Community thread titled 'Security: Follow-up tool call silently routed to a different connector' in the ChatGPT Apps SDK, which the HN title says shows ChatGPT silently passing data between connectors while the bug bounty asks for an ID card. The cached page was only stylesheet markup, so the details are unknown."
+ ],
+ "highlights": [
+  "Reported: a follow-up tool call routed to a different connector without notice (per title)",
+  "HN title says the bounty process asks for an ID card",
+  "Thread text not readable"
+ ],
+ "basis": "Cache holds only page CSS. Written from the thread and HN titles."
+}

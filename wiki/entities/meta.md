@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-11-07** - The New Stack reports Meta introduced specialized versions of its existing models, trained with Muse Wonder, adding Active Memory and Active Focus for all Muse and Meta AI users starting Friday. ([Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users](../summaries/87eff1f53e5e.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-11-05** - The WSJ reports Meta President Dina Powell McCormick said at the WSJ Tech conference that building new US data centers will be harder after the midterm results, but expanding existing projects will be easier. ([Meta President Dina Powell McCormick says building new US data centers will be harder after midterm results, but it will be easier to expand existing projects](../summaries/02a6efd31d29.md) · [Meta](../entities/meta.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-05** - The Verge reports Meta's Muse app now supports real-time voice conversation with the Muse agent plus expressive avatars that animate as it speaks, announced by Zuckerberg and rolling out first in the US. Users can change the voice's tone by asking or via… ([Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time](../summaries/452386d2348d.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-05** - TLDR AI reports Meta acquires AI coding startup Conductor; the Conductor changelog is titled 'Conductor is joining Meta' (version 0.93.0). The page was not readable, so terms are unknown. ([Meta Acquires AI Coding Startup Conductor](../summaries/5da4616c6393.md) · [Meta](../entities/meta.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠

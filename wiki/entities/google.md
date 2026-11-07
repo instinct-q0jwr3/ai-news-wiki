@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-06 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-07** - Crusoe announced that Google acquired its southeast Wyoming data-center site, ending Crusoe's pre-development work on site selection, approvals and a hybrid power strategy with Tallgrass Energy. CEO Chase Lochmiller says the pre-construction work set up… ([Google has acquired Crusoe's data center site in southeast Wyoming](../summaries/7d4806ac4609.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-11-07** - Google's investment arm Google Ventures has acquired nearly 3 million shares of the chip maker Qualcomm, as a result of Qualcomm's purchase of chip software startup Modular … ([Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market](../summaries/bd7c4a747aa6.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-06** - Stratechery's weekly overview for Nov. 2-6, 2026 covers AI on the ballot, a Google state of the union and China, under the title 'Falling Leaves (and Stocks)'. It highlights favorites, with a sponsored note on Stripe as an economic barometer. The remainder… ([2026.45: Falling Leaves (and Stocks)](../summaries/c940ceb6b01c.md) · [Google](../entities/google.md))
 - **2026-11-06** - Stratechery's Sharp Tech, available on video for the first time, covers the US votes on data centers, implications for Big Tech and Google's response to AI. The page is subscriber-gated, so only the headline and description were readable. ([Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI](../summaries/81453f2e2f08.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-06** - Google's announcement of Gemini Omni 1.2 Flash: native 15-second video (up from 10), duration in one-second steps from 3 to 15, multi-turn conversational editing, better reference following, and a 30% price cut to $0.07 per second at 720p. Available in the… ([Gemini Omni 1.2 Flash](../summaries/6f537b1023d0.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

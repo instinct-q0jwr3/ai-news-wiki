@@ -1,6 +1,6 @@
 # OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff
 
-_type: news-summary · created: 2026-10-31 · updated: 2026-11-06 · confidence: high_
+_type: news-summary · created: 2026-10-31 · updated: 2026-11-07 · confidence: high_
 
 `techmeme` `openai`
 
