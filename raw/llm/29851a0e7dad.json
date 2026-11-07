@@ -1,0 +1,14 @@
+{
+ "id": "29851a0e7dad",
+ "authored_at": "2026-11-07T15:18:53.905994+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "AmpUp pitches 'Enterprise Brain', a shared memory layer for coding agents (Claude Code, Codex, Gemini CLI, Cursor, Copilot) that builds on a company's existing context graph and catalogs. Memory is versioned, and agent trajectory records are stored with the memory version they ran against, so teams can evaluate performance and train custom models from the same records.\n\nThe headline numbers are the company's own: root-cause accuracy on ORCA-bench rose from 6.3% to 35.2% after three days of graded practice, and CRM question accuracy on CRMArena-Pro from 57.6% to 76.7%. AmpUp says broader leaderboard standing has not been independently verified, so treat these as vendor claims.",
+ "highlights": [
+  "Shared, versioned memory for coding agents across several tools.",
+  "Trajectory records are pinned to the memory version used.",
+  "ORCA-bench root-cause accuracy: 6.3% to 35.2% (vendor figure).",
+  "CRMArena-Pro accuracy: 57.6% to 76.7% (vendor figure).",
+  "AmpUp says leaderboard standing is not independently verified."
+ ]
+}
