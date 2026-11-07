@@ -10,7 +10,9 @@
    "intro": "OpenAI's round closes and Anthropic's IPO price is questioned.",
    "stories": [
     "314cd84a150c",
-    "51295da2cd64"
+    "51295da2cd64",
+    "127cefacbf73",
+    "4dc23c984a14"
    ],
    "concepts": []
   },
@@ -27,7 +29,8 @@
    "intro": "Agents leak secrets to other agents, and a connector routing bug is reported in ChatGPT apps.",
    "stories": [
     "1994ba103fbb",
-    "f02b29a44c5a"
+    "f02b29a44c5a",
+    "7c9255aa1bea"
    ],
    "concepts": []
   },
@@ -36,7 +39,16 @@
    "intro": "OpenAI opens SIP phone calling and Meta adds Active Memory.",
    "stories": [
     "d531e1690707",
-    "87eff1f53e5e"
+    "87eff1f53e5e",
+    "05a4e59e9b3b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The ballot box vs. the data center",
+   "intro": "The West's AI pessimism, per the FT.",
+   "stories": [
+    "d73400195df4"
    ],
    "concepts": []
   }

@@ -1,0 +1,13 @@
+{
+ "id": "05a4e59e9b3b",
+ "authored_at": "2026-11-07T09:18:44Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic's research post on agent memory borrows from neuroscience. The hippocampus captures experience quickly, and consolidation into long-term knowledge happens largely offline, during sleep. Agents can split work the same way: they log or transcribe their work, then use idle time to reflect on those logs to fix mistakes or write new notes. The idea builds on sleep-time compute proposed by Letta and UC Berkeley, and Anthropic calls the process dreaming. It says dreaming has helped it give Claude better memory. Only the opening was read.",
+ "highlights": [
+  "Memory split: fast capture in logs, slow consolidation offline",
+  "'Dreaming' reflects on logs between sessions",
+  "Builds on Letta and UC Berkeley's sleep-time compute",
+  "Only the opening was read"
+ ]
+}

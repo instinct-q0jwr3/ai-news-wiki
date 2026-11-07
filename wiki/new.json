@@ -1,59 +1,35 @@
 {
- "generated_at": "2026-11-07T03:15:43+00:00",
+ "generated_at": "2026-11-07T09:17:28+00:00",
  "stories": [
   {
-   "id": "f02b29a44c5a",
-   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "id": "4dc23c984a14",
+   "title": "The AI sell-off compared to well-known stock market crashes",
    "source": "Hacker News",
-   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053"
+   "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective"
   },
   {
-   "id": "d531e1690707",
-   "title": "Outbound SIP calling is now available to all organizations",
+   "id": "05a4e59e9b3b",
+   "title": "The Components of Agent Memory",
    "source": "Hacker News",
-   "url": "https://developers.openai.com/api/docs/guides/voice-sip"
+   "url": "https://www.anthropic.com/research/components-of-agent-memory"
   },
   {
-   "id": "7d4806ac4609",
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "source": "Hacker News",
-   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
-  },
-  {
-   "id": "794917013349",
-   "title": "Claude usage credits purchased after Dec 7 will expire 12 months after purchase",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50399909"
-  },
-  {
-   "id": "1994ba103fbb",
-   "title": "Agents reveal secrets when offered to team up with each other",
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260"
-  },
-  {
-   "id": "bd7c4a747aa6",
-   "title": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market",
+   "id": "d73400195df4",
+   "title": "How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
+   "url": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?accessToken=zwAAAaG04JwkkdOvl1haM4FCqdODi5ogWrgSMg.MEUCIQCIovxjLVzUSHQWyCMTaYOm0TJDSd7ol5iVEl7H4vY1zQIgb9x_ne7L2NI491-fZw0UyShWOkqlydwm2Nt-FGuKvBc&sharetype=gift&token=d741a183-368c-48f8-b401-12390f56a3d7"
   },
   {
-   "id": "314cd84a150c",
-   "title": "OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total",
+   "id": "7c9255aa1bea",
+   "title": "Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk5OTYyNywiZXhwIjoxNzk0NjA0NDI3LCJhcnRpY2xlSWQiOiJUTzNNOVRSS1YyVEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.pVWDvtzoWMkiwWdzW9wgW8MNHfO8XHw9d9znQhP2cv4"
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
   },
   {
-   "id": "51295da2cd64",
-   "title": "[AINews] Anthropic IPO: Whither Now?",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/"
-  },
-  {
-   "id": "87eff1f53e5e",
-   "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users",
+   "id": "127cefacbf73",
+   "title": "Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M",
    "source": "Techmeme",
-   "url": "https://thenewstack.io/meta-muse-specialized-models/"
+   "url": "https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283/"
   }
  ]
 }

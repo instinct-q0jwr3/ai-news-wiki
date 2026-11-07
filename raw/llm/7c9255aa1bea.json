@@ -1,0 +1,13 @@
+{
+ "id": "7c9255aa1bea",
+ "authored_at": "2026-11-07T09:18:44Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "TechCrunch reports Censys found more than 800 publicly exposed deployments of Artex, a Chinese-made open-source autonomous penetration-testing tool that is linked to several cyberattacks since its July release. Open source and free, it appeals to people without access to Anthropic's or OpenAI's strongest cyber models. Microsoft has described it as AI agents conducting attacks from reconnaissance through data exfiltration with little human involvement. Exposed copies could let outsiders launch attacks.",
+ "highlights": [
+  "800+ exposed Artex deployments found by Censys",
+  "Open-source autonomous pentest tool tied to attacks since July",
+  "Microsoft: agents run attacks end to end",
+  "Appeals to those lacking top Western cyber models"
+ ]
+}
