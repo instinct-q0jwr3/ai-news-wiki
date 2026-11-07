@@ -12,7 +12,8 @@
     "314cd84a150c",
     "51295da2cd64",
     "127cefacbf73",
-    "4dc23c984a14"
+    "4dc23c984a14",
+    "9bc1edcb41d8"
    ],
    "concepts": []
   },
@@ -20,7 +21,8 @@
    "title": "The data-center map",
    "intro": "Google takes Crusoe's Wyoming site.",
    "stories": [
-    "7d4806ac4609"
+    "7d4806ac4609",
+    "5b8d6aff0e38"
    ],
    "concepts": []
   },
@@ -30,7 +32,8 @@
    "stories": [
     "1994ba103fbb",
     "f02b29a44c5a",
-    "7c9255aa1bea"
+    "7c9255aa1bea",
+    "1b4c5700162e"
    ],
    "concepts": []
   },
@@ -49,7 +52,8 @@
    "title": "The ballot box vs. the data center",
    "intro": "The West's AI pessimism, per the FT.",
    "stories": [
-    "d73400195df4"
+    "d73400195df4",
+    "19e4fe029b82"
    ],
    "concepts": []
   },
@@ -75,6 +79,46 @@
    "intro": "Doctorow on tech worker organizing.",
    "stories": [
     "0c8d175a5079"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The research exodus",
+   "intro": "Microsoft loses its AI Frontiers group.",
+   "stories": [
+    "73d05e156d1e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The benchmark audit",
+   "intro": "MaxxBench probes DeepSWE scores.",
+   "stories": [
+    "7b2dcf473c02"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The compression race",
+   "intro": "A smaller video model for local hardware.",
+   "stories": [
+    "350c245f239f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "The workbench",
+   "stories": [
+    "a551dcc6b327"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The research claim",
+   "intro": "A disproof claim with big implications.",
+   "stories": [
+    "60d2790e9920"
    ],
    "concepts": []
   }

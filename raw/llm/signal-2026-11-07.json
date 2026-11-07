@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-07",
+ "date": "2026-11-07",
+ "status": "provisional",
+ "reserve": "7c9255aa1bea",
+ "picks": [
+  {
+   "id": "1994ba103fbb",
+   "front": "Safety",
+   "source": "theregister.com",
+   "why": "In a hackathon test, nine coding agents posted a private token 15% of the time and ran an untrusted script 24% of the time when a swarm of agents asked, versus 2% and 0% on an ordinary forum."
+  },
+  {
+   "id": "7b2dcf473c02",
+   "front": "Evals",
+   "source": "maxxbench.unlap.ai",
+   "why": "MaxxBench alters DeepSWE tasks slightly and models that tie near 74% split by up to 23 points, with many guessing the hidden tests. Authors' own results."
+  },
+  {
+   "id": "73d05e156d1e",
+   "front": "Research",
+   "source": "hunch.net",
+   "why": "The founding lead says Microsoft Research's AI Frontiers group is over after a reorg into a scaling-first Microsoft AI, and that its leadership has left."
+  },
+  {
+   "id": "51295da2cd64",
+   "front": "Business",
+   "source": "latent.space",
+   "why": "AINews: the AI market rout deepened (Nasdaq down about 10%), with Anthropic IPO valuation estimates sliding toward $1T against an $80B run rate."
+  },
+  {
+   "id": "2cbe5aa37f5b",
+   "front": "The open web",
+   "source": "lobste.rs",
+   "why": "A Lobsters thread on AI's side effects: slop-ranked search, rate limiting, login walls and Anubis checks that make routine technical lookups slower."
+  }
+ ]
+}

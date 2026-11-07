@@ -1,0 +1,15 @@
+{
+ "id": "60d2790e9920",
+ "authored_at": "2026-11-07T21:20:07.463312+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The New York Times reports that Russell Impagliazzo, co-proposer of the Exponential Time Hypothesis, called OpenAI's disproof 'shocking news', and that it could one day speed up chip design and break encryption. Basis: Techmeme headline only; the article was not readable."
+ ],
+ "highlights": [
+  "Impagliazzo calls the claimed disproof 'shocking news'.",
+  "Possible later uses: chip design and breaking encryption.",
+  "Basis: headline only."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available header text."
+}

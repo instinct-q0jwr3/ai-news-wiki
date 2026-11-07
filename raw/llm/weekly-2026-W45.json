@@ -54,7 +54,8 @@
     "bf83f8cdf20b",
     "8ea280b0e15f",
     "1609267a10d7",
-    "b28cba7a757f"
+    "b28cba7a757f",
+    "a551dcc6b327"
    ],
    "concepts": []
   },
@@ -89,7 +90,8 @@
     "314cd84a150c",
     "51295da2cd64",
     "127cefacbf73",
-    "4dc23c984a14"
+    "4dc23c984a14",
+    "9bc1edcb41d8"
    ],
    "concepts": []
   },
@@ -655,7 +657,8 @@
     "60d0541251cc",
     "02a6efd31d29",
     "09630f91ef42",
-    "d73400195df4"
+    "d73400195df4",
+    "19e4fe029b82"
    ],
    "concepts": []
   },
@@ -683,7 +686,8 @@
     "a1a0972a6666",
     "e14503bc735b",
     "e4b47310ad33",
-    "cd4d82230508"
+    "cd4d82230508",
+    "60d2790e9920"
    ],
    "concepts": []
   },
@@ -846,7 +850,8 @@
     "07d85fa452c8",
     "1994ba103fbb",
     "f02b29a44c5a",
-    "7c9255aa1bea"
+    "7c9255aa1bea",
+    "1b4c5700162e"
    ],
    "concepts": []
   },
@@ -879,7 +884,32 @@
    "title": "The data-center map",
    "intro": "Google takes Crusoe's Wyoming site.",
    "stories": [
-    "7d4806ac4609"
+    "7d4806ac4609",
+    "5b8d6aff0e38"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The research exodus",
+   "intro": "Microsoft loses its AI Frontiers group.",
+   "stories": [
+    "73d05e156d1e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The benchmark audit",
+   "intro": "MaxxBench probes DeepSWE scores.",
+   "stories": [
+    "7b2dcf473c02"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The compression race",
+   "intro": "A smaller video model for local hardware.",
+   "stories": [
+    "350c245f239f"
    ],
    "concepts": []
   }

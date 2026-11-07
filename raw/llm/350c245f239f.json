@@ -1,0 +1,14 @@
+{
+ "id": "350c245f239f",
+ "authored_at": "2026-11-07T21:20:07.463312+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Video Rebirth released HyperFlow H3 Flash, a compressed few-step version of MiniMax-H3 that generates video with synchronized stereo audio. The Show HN title says the 31B model was cut to 14B, run in 6 steps, with INT8 weights.\n\nThe repo gives a decision rule: use GGUF on PCs with 64 GB of RAM or less; use INT8 on data-center GPUs or 24 GB+ RTX cards with at least 69 GiB of system RAM. It needs an Ampere or newer NVIDIA GPU and diffusers 0.40+, and the first run downloads about 90 GB (about 68 GB with fp8 text encoder). Modes include text-to-video, keyframe and reference-image inputs, with multi-GPU on Linux or WSL2.",
+ "highlights": [
+  "Few-step, compressed version of MiniMax-H3 with joint video and audio.",
+  "Title claims 31B to 14B parameters, 6 steps, INT8.",
+  "GGUF for 64 GB RAM or less; INT8 for bigger systems.",
+  "Needs an Ampere or newer NVIDIA GPU; first-run download is about 90 GB.",
+  "Supports text, keyframe and reference-based generation."
+ ]
+}

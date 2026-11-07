@@ -1,35 +1,59 @@
 {
- "generated_at": "2026-11-07T15:17:20+00:00",
+ "generated_at": "2026-11-07T21:18:12+00:00",
  "stories": [
   {
-   "id": "6e05b07afea8",
-   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "id": "73d05e156d1e",
+   "title": "The end of Microsoft Research's AI Frontiers group",
    "source": "Hacker News",
-   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+   "url": "https://hunch.net/?p=13764006"
   },
   {
-   "id": "29851a0e7dad",
-   "title": "Enterprise Brain – Memory that learns from work",
+   "id": "7b2dcf473c02",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
    "source": "Hacker News",
-   "url": "https://www.ampup.ai/companybrain"
+   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/"
   },
   {
-   "id": "0c8d175a5079",
-   "title": "Pluralistic: JS Tan and Clarissa Redwine's \"Against Tech Oligarchy\" (07 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/"
+   "id": "350c245f239f",
+   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+   "source": "Hacker News",
+   "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash"
   },
   {
-   "id": "2cbe5aa37f5b",
-   "title": "How are you dealing with all the negative side effects of AI on the web?",
-   "source": "Lobsters",
-   "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side"
+   "id": "1b4c5700162e",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "source": "Hacker News",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
   },
   {
-   "id": "a611267a94f9",
-   "title": "Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curriculum overhaul",
+   "id": "a551dcc6b327",
+   "title": "Microsoft open-sources DACS: stalled data loads fell from 14% to 0.1%",
+   "source": "Hacker News",
+   "url": "https://opensource.microsoft.com/blog/2026/11/05/accelerate-data-access-for-inference-and-training-with-the-open-source-distributed-accelerator-for-cloud-storage/"
+  },
+  {
+   "id": "19e4fe029b82",
+   "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed",
    "source": "Techmeme",
-   "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai"
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble"
+  },
+  {
+   "id": "60d2790e9920",
+   "title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html?unlocked_article_code=1.OlE.47kX.eivz6u8UMHXN&smid=url-share"
+  },
+  {
+   "id": "9bc1edcb41d8",
+   "title": "Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/"
+  },
+  {
+   "id": "5b8d6aff0e38",
+   "title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa's election as governor may delay some of the data center plans",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions"
   }
  ]
 }

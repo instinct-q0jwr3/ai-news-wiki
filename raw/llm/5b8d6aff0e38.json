@@ -1,0 +1,15 @@
+{
+ "id": "5b8d6aff0e38",
+ "authored_at": "2026-11-07T21:20:07.463312+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Information reports that public records appear to show SpaceX building a 'Starbase supercomputer' in Texas, while Gina Hinojosa's election as governor may delay some data center plans. Basis: Techmeme headline only; paywalled."
+ ],
+ "highlights": [
+  "Records appear to show a SpaceX 'Starbase supercomputer' in Texas.",
+  "Governor-elect Hinojosa may delay some data center plans.",
+  "Basis: headline only."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available header text."
+}

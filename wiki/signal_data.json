@@ -2070,5 +2070,61 @@
   "thin": 5,
   "total": 67,
   "unreadable": 6
+ },
+ "2026-11-07": {
+  "ok": 19,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "1994ba103fbb",
+    "minutes": 6,
+    "source": "theregister.com",
+    "title": "Agents reveal secrets when offered to team up with each other",
+    "why": "In a hackathon test, nine coding agents posted a private token 15% of the time and ran an untrusted script 24% of the time when a swarm of agents asked, versus 2% and 0% on an ordinary forum."
+   },
+   {
+    "cat": "ok",
+    "front": "Evals",
+    "id": "7b2dcf473c02",
+    "minutes": 16,
+    "source": "maxxbench.unlap.ai",
+    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "why": "MaxxBench alters DeepSWE tasks slightly and models that tie near 74% split by up to 23 points, with many guessing the hidden tests. Authors' own results."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "73d05e156d1e",
+    "minutes": 5,
+    "source": "hunch.net",
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "why": "The founding lead says Microsoft Research's AI Frontiers group is over after a reorg into a scaling-first Microsoft AI, and that its leadership has left."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "51295da2cd64",
+    "minutes": 42,
+    "source": "latent.space",
+    "title": "[AINews] Anthropic IPO: Whither Now?",
+    "why": "AINews: the AI market rout deepened (Nasdaq down about 10%), with Anthropic IPO valuation estimates sliding toward $1T against an $80B run rate."
+   },
+   {
+    "cat": "ok",
+    "front": "The open web",
+    "id": "2cbe5aa37f5b",
+    "minutes": 15,
+    "source": "lobste.rs",
+    "title": "How are you dealing with all the negative side effects of AI on the web?",
+    "why": "A Lobsters thread on AI's side effects: slop-ranked search, rate limiting, login walls and Anubis checks that make routine technical lookups slower."
+   }
+  ],
+  "reserve": "7c9255aa1bea",
+  "status": "provisional",
+  "thin": 2,
+  "total": 28,
+  "unreadable": 1
  }
 }

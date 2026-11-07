@@ -1,0 +1,14 @@
+{
+ "id": "1b4c5700162e",
+ "authored_at": "2026-11-07T21:20:07.463312+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Per the Hacker News title, an Apiiro analysis found Claude Code's 'Don't Ask Again' option leaves passwords exposed in 1,122 public GitHub files. Basis: the cache held only page boilerplate, so details and method are unverified."
+ ],
+ "highlights": [
+  "Title claims 1,122 public GitHub files expose passwords via 'Don't Ask Again'.",
+  "Basis: headline only; page text unreadable."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available header text."
+}
