@@ -1,0 +1,15 @@
+{
+ "id": "d68cb56a0f73",
+ "authored_at": "2026-11-08T09:21:39.319830+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Reuters reports that major environmental groups are embracing AI to analyze climate data and track forest fires, even as they warn about data center impacts. Basis: Reuters was not readable, so only the headline is known."
+ ],
+ "highlights": [
+  "Environmental groups use AI for climate data and fire tracking.",
+  "They also warn about data centers' environmental impact.",
+  "Basis: headline only."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available text."
+}

@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1130,
+  "stories": 1133,
   "last": "2026-11-08"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1120,
+  "stories": 1122,
   "last": "2026-11-08"
  },
  {
@@ -80,8 +80,8 @@
  {
   "name": "seangoedecke",
   "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 16,
-  "last": "2026-11-03"
+  "stories": 17,
+  "last": "2026-11-08"
  },
  {
   "name": "Ed Zitron",
@@ -138,16 +138,16 @@
   "last": "2026-11-01"
  },
  {
+  "name": "Westenberg",
+  "url": "https://www.joanwestenberg.com/feed",
+  "stories": 4,
+  "last": "2026-11-08"
+ },
+ {
   "name": "lcamtuf",
   "url": "https://lcamtuf.substack.com/feed",
   "stories": 3,
   "last": "2026-09-25"
- },
- {
-  "name": "Westenberg",
-  "url": "https://www.joanwestenberg.com/feed",
-  "stories": 3,
-  "last": "2026-10-23"
  },
  {
   "name": "Krebs on Security",

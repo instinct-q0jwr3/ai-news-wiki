@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>LLMs are terrible at designing AI systems · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1794129762"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>LLMs are terrible at designing AI systems</h1>
+<p class="meta">type: news-summary · created: 2026-11-08 · updated: 2026-11-08 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Sean Goedecke argues that LLMs are poor at designing software that itself uses LLMs. They write ordinary programs comfortably, but given an AI-shaped problem they tend to get it wrong. His example is a vibe-coded memory tool meant to flag contradictory memories: an LLM could simply scan for contradictions in a batch or pairwise, yet when asked for the state of the art, the agent built a complex symbolic system that converted memories into logical atoms for a solver.</p>
+<p>That approach could not work, since no analytic method decides whether two natural-language sentences express the same proposition. The model knew this, and explained it was a 130-year-old unsolved problem once the user pushed, yet it iterated on the dead end for weeks. He has seen the same while building Autodeck, where agents kept trying to categorize cards with regex. His framing is that good design depends on the requirements you do not have, and models do not weigh those well.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>LLMs are weak at designing systems that use LLMs.</li>
+<li>Example: a contradiction-flagging memory tool where an LLM scan was the easy answer but the agent built a symbolic solver.</li>
+<li>The model knew the problem was unsolved yet spent weeks on it.</li>
+<li>Same pattern with regex categorization in his Autodeck project.</li>
+<li>Good design depends on identifying requirements you can drop.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

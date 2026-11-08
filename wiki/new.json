@@ -1,29 +1,47 @@
 {
- "generated_at": "2026-11-08T03:19:12+00:00",
+ "generated_at": "2026-11-08T09:20:20+00:00",
  "stories": [
   {
-   "id": "42113f7a8c3f",
-   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+   "id": "ff99fd923a7d",
+   "title": "Goodbye Claude, Hello Pi",
    "source": "Hacker News",
-   "url": "https://eyesrhythm.com/"
+   "url": "https://caleb.software/posts/claude-to-pi.html"
   },
   {
-   "id": "c6e64b345c94",
-   "title": "Driver AI in Stunt Car Racer, Commodore 64",
+   "id": "22acd1991df4",
+   "title": "Consumer brain wave headsets threaten privacy",
    "source": "Hacker News",
-   "url": "https://gamesexplained.com/c64/stunt-car-racer/opponents.html"
+   "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
   },
   {
-   "id": "73b162a4bf01",
-   "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms",
-   "source": "Techmeme",
-   "url": "https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312"
+   "id": "de8470ebcf3b",
+   "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+   "source": "Hacker News",
+   "url": "https://github.com/Miyamoto-Renya/LaplacesScissors"
   },
   {
-   "id": "0fe45b702b26",
-   "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections",
+   "id": "abf692111cd0",
+   "title": "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight"
+   "url": "https://technode.com/"
+  },
+  {
+   "id": "033495df1e58",
+   "title": "LLMs are terrible at designing AI systems",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/"
+  },
+  {
+   "id": "06654b13635a",
+   "title": "Why Most People Will Fail With AI Agents",
+   "source": "Westenberg",
+   "url": "https://www.joanwestenberg.com/p/why-most-people-will-fail-with-ai"
+  },
+  {
+   "id": "d68cb56a0f73",
+   "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"
   }
  ]
 }

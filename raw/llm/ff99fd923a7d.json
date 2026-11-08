@@ -1,0 +1,14 @@
+{
+ "id": "ff99fd923a7d",
+ "authored_at": "2026-11-08T09:21:39.319830+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A longtime Claude Code user explains why he has retired it as his main coding harness in favor of Pi, after an accumulation of small frustrations. He notes Anthropic announced AGENTS.md support a day after his decision, which he calls too little, too late: maintaining both CLAUDE.md and AGENTS.md means copying or symlinking between formats.\n\nHis main complaint is IDE integration. He reviews most generated code before committing and likes selecting text in VSCode to send it as context, but only one Claude Code session can be connected to the IDE at a time, so a second tab never receives selection events. He says this was reported as far back as December 2025 and closed as a duplicate of an unrelated bug. The official VSCode extension allows multiple tabs, but the post frames the whole list as the reason for leaving.",
+ "highlights": [
+  "Author moves from Claude Code to Pi as his main coding harness.",
+  "AGENTS.md support arrived a day after his decision; he still sees dual-format files as a nuisance.",
+  "Only one session can connect to the VSCode IDE at a time.",
+  "The multi-session bug was reported by December 2025 and closed as a duplicate of a different issue.",
+  "He prefers to review code before committing."
+ ]
+}

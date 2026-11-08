@@ -1,0 +1,15 @@
+{
+ "id": "de8470ebcf3b",
+ "authored_at": "2026-11-08T09:21:39.319830+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Show HN project, an LLM weight editing tool made by a 15-year-old, hosted on GitHub as LaplacesScissors. Basis: the repo page was not readable, so how the tool works is unknown."
+ ],
+ "highlights": [
+  "Weight-editing tool for LLMs.",
+  "Author is described as 15 years old.",
+  "Basis: headline only."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available text."
+}

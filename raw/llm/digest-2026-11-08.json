@@ -19,7 +19,42 @@
    "intro": "Small, hand-built software.",
    "stories": [
     "c6e64b345c94",
-    "42113f7a8c3f"
+    "42113f7a8c3f",
+    "de8470ebcf3b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "Harness and design lessons for coding agents.",
+   "stories": [
+    "ff99fd923a7d",
+    "033495df1e58"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The agent economy",
+   "intro": "Delegation as the skill.",
+   "stories": [
+    "06654b13635a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The data commons",
+   "intro": "Brain data and robot demonstrations.",
+   "stories": [
+    "22acd1991df4",
+    "abf692111cd0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The backlash",
+   "intro": "Environmental groups and the data-center bill.",
+   "stories": [
+    "d68cb56a0f73"
    ],
    "concepts": []
   }

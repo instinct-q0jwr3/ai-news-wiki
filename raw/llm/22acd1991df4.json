@@ -1,0 +1,15 @@
+{
+ "id": "22acd1991df4",
+ "authored_at": "2026-11-08T09:21:39.319830+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Science reports, per the Hacker News title, that consumer brain-wave headsets threaten privacy; the article URL says wearable makers are harvesting brain data to train AI without telling users. Basis: Science was not readable, so details are unverified."
+ ],
+ "highlights": [
+  "Headline: consumer EEG headsets threaten privacy.",
+  "URL slug alleges brain data is used for AI training without telling users.",
+  "Basis: headline and URL only."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available text."
+}
