@@ -1,0 +1,14 @@
+{
+ "id": "c6e64b345c94",
+ "authored_at": "2026-11-08T03:20:33.137816+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A reverse-engineering write-up on gamesexplained.com explains how the computer-driven opponent in the Commodore 64 game Stunt Car Racer works. The opponent car is just a handful of numbers: distance round the track, position across the road, speed, and three wheels on springs that move only up and down. The track carries the car wherever the springs put it.\n\nThe page walks through the code routines involved. Each spring pushes its wheel up harder the further it is pressed into the road and the faster it is moving, against a pull down of 40 (124 on a bend), with back wheels kept within set height limits of each other. That is why the car leans on banked bends and leaves the road over a crest, where only drag slows it. Run-ups to the jump insist on a speed of 70, and a too-slow car lands in the dip between ramps.",
+ "highlights": [
+  "The opponent is a few numbers plus three spring-loaded wheels.",
+  "Springs push harder with deeper compression and higher speed; gravity is 40, or 124 on a bend.",
+  "A spread routine limits height differences between wheels.",
+  "The car leans on banks and flies off crests; only drag slows it in the air.",
+  "The jump run-up demands a speed of 70."
+ ]
+}

@@ -1,6 +1,6 @@
 # Frontier models' ability to control robot arms is doubling every 54 days
 
-_type: news-summary · created: 2026-10-27 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-10-27 · updated: 2026-11-08 · confidence: high_
 
 `tldr-ai`
 

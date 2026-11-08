@@ -1,6 +1,6 @@
 # Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering
 
-_type: news-summary · created: 2026-11-04 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-11-04 · updated: 2026-11-08 · confidence: high_
 
 `techmeme` `meta`
 

@@ -1,0 +1,15 @@
+{
+ "id": "0fe45b702b26",
+ "authored_at": "2026-11-08T03:20:33.137816+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports that the Anthropic-backed AI safety super PAC Public First spent more than $63M in the 2026 midterms, and that 10 of the 17 congressional candidates it backed won, according to the Techmeme summary. Basis: the Bloomberg article was not readable, so only the headline is known."
+ ],
+ "highlights": [
+  "Public First, Anthropic-backed, spent $63M+ in the midterms.",
+  "10 of 17 candidates it backed won, per the headline.",
+  "Basis: headline only; article unreadable."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available text."
+}

@@ -1,6 +1,6 @@
 # OpenAI scraps release of Astra 6.1 model over safety issues
 
-_type: news-summary · created: 2026-09-29 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-09-29 · updated: 2026-11-08 · confidence: high_
 
 `hacker-news` `openai` `ai-safety-incidents` `ai-policy-regulation`
 

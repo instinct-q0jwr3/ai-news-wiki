@@ -1,0 +1,15 @@
+{
+ "id": "73b162a4bf01",
+ "authored_at": "2026-11-08T03:20:33.137816+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Politico's magazine piece describes how a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat a $100M-plus industry effort in the midterms, per the Techmeme summary. Basis: the Politico article was not readable, so details are unknown."
+ ],
+ "highlights": [
+  "A small, wealthy AI-safety network organized via Signal chats.",
+  "It grew into a coalition that beat a $100M+ opposing effort, per the headline.",
+  "Basis: headline only; article unreadable."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available text."
+}

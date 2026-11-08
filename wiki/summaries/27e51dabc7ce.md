@@ -1,6 +1,6 @@
 # battledrones v14: Compass Rose, a four player map
 
-_type: news-summary · created: 2026-10-24 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-10-24 · updated: 2026-11-08 · confidence: high_
 
 `simon-willison` `anthropic` `external-evaluation`
 

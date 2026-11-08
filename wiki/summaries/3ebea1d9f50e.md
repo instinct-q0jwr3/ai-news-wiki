@@ -1,6 +1,6 @@
 # When LLM Decompilers Recompile More and Preserve Less
 
-_type: news-summary · created: 2026-10-12 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-10-12 · updated: 2026-11-08 · confidence: high_
 
 `lobsters`
 

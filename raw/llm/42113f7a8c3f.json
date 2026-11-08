@@ -1,0 +1,15 @@
+{
+ "id": "42113f7a8c3f",
+ "authored_at": "2026-11-08T03:20:33.137816+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "A Show HN project, an offline desktop companion that helps users keep a healthy blink rhythm, shown on eyesrhythm.com with an 'Ocular Rhythm Index' of 78 out of 100. Basis: only the headline and the index readout were retrievable, so how it measures blinking is unverified."
+ ],
+ "highlights": [
+  "Offline desktop app aimed at blink rhythm.",
+  "Page shows an Ocular Rhythm Index (78/100).",
+  "Basis: headline and one readout only."
+ ],
+ "basis": "Thin or unreadable source cache; written from headline and available text."
+}

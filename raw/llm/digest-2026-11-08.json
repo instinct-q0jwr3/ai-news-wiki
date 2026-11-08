@@ -1,0 +1,27 @@
+{
+ "id": "digest-2026-11-08",
+ "date": "2026-11-08",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "AI safety money wins at the ballot box: Public First reportedly spent $63M+ and backed 10 winners in 17 races. Elsewhere, a C64 racing opponent dissected and a blink-rhythm app.",
+ "sections": [
+  {
+   "title": "The ballot box vs. the data center",
+   "intro": "The midterms as a test of AI-safety money.",
+   "stories": [
+    "0fe45b702b26",
+    "73b162a4bf01"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The handmade turn",
+   "intro": "Small, hand-built software.",
+   "stories": [
+    "c6e64b345c94",
+    "42113f7a8c3f"
+   ],
+   "concepts": []
+  }
+ ]
+}

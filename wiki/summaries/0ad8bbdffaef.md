@@ -1,6 +1,6 @@
 # US tech stocks see sharp falls over AI cost fears
 
-_type: news-summary · created: 2026-10-30 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-10-30 · updated: 2026-11-08 · confidence: high_
 
 `hacker-news`
 

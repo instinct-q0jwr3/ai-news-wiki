@@ -1,6 +1,6 @@
 # AI compute is the new oil–and needs a new market
 
-_type: news-summary · created: 2026-10-23 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-10-23 · updated: 2026-11-08 · confidence: high_
 
 `hacker-news` `compute-buildout`
 

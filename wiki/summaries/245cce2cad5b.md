@@ -1,6 +1,6 @@
 # Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix
 
-_type: news-summary · created: 2026-11-03 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-11-03 · updated: 2026-11-08 · confidence: high_
 
 `techmeme`
 

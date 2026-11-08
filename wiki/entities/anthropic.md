@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-07 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-08 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-08** - Bloomberg reports that the Anthropic-backed AI safety super PAC Public First spent more than $63M in the 2026 midterms, and that 10 of the 17 congressional candidates it backed won, according to the Techmeme summary. Basis: the Bloomberg article was not… ([Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections](../summaries/0fe45b702b26.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-11-07** - Per the Hacker News title, an Apiiro analysis found Claude Code's 'Don't Ask Again' option leaves passwords exposed in 1,122 public GitHub files. Basis: the cache held only page boilerplate, so details and method are unverified. ([Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](../summaries/1b4c5700162e.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠
 - **2026-11-07** - Just received this via email: > Usage credits purchased on or after December 7 will expire 12 months after the purchase date. ([Claude usage credits purchased after Dec 7 will expire 12 months after purchase](../summaries/794917013349.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-07** - Latent Space's Nov. 6 AINews, 'Anthropic IPO: Whither Now?', calls it a quiet news day while the AI market rout deepened but may be leveling off at about -10% on the Nasdaq. With everything priced to perfection, valuation estimates for Anthropic have… ([AINews Anthropic IPO: Whither Now?](../summaries/51295da2cd64.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

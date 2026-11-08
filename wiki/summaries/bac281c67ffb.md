@@ -1,6 +1,6 @@
 # UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028
 
-_type: news-summary · created: 2026-11-03 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-11-03 · updated: 2026-11-08 · confidence: high_
 
 `techmeme` `compute-buildout`
 

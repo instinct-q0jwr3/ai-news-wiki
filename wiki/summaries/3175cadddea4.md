@@ -1,6 +1,6 @@
 # Today's PHP Security Release, and How We're Strengthening PHP Security
 
-_type: news-summary · created: 2026-10-21 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-10-21 · updated: 2026-11-08 · confidence: high_
 
 `simon-willison` `openai` `google` `gemini` `small-specialist-models` `ai-safety-incidents` `ai-policy-regulation`
 

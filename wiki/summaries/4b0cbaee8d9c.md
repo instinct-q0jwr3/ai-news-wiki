@@ -1,6 +1,6 @@
 # Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months
 
-_type: news-summary · created: 2026-11-04 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-11-04 · updated: 2026-11-08 · confidence: high_
 
 `techmeme` `alibaba` `nvidia`
 

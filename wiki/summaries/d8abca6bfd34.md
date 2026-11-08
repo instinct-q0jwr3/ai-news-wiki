@@ -1,6 +1,6 @@
 # What driving across Europe costs in tolls, vignettes, bridges and fuel
 
-_type: news-summary · created: 2026-10-11 · updated: 2026-11-07 · confidence: high_
+_type: news-summary · created: 2026-10-11 · updated: 2026-11-08 · confidence: high_
 
 `hacker-news`
 
