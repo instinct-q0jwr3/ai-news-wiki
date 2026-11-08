@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-08",
+ "date": "2026-11-08",
+ "status": "provisional",
+ "reserve": "0771010b030b",
+ "picks": [
+  {
+   "id": "b094416a4acb",
+   "front": "Enterprise",
+   "source": "thestateofai.com",
+   "why": "Goldman Sachs limits Claude Code and GitHub to its engineers, cutting off traders and bankers, even as it underwrites Anthropic's IPO."
+  },
+  {
+   "id": "f29f9551a833",
+   "front": "Infrastructure",
+   "source": "newsletter.semianalysis.com",
+   "why": "SemiAnalysis visits Inner Mongolia: an 800MW campus whose first 120MW phase was built in a year at a fifth of US costs, with no local backlash."
+  },
+  {
+   "id": "b60ca3546f8c",
+   "front": "Business",
+   "source": "247wallst.com",
+   "why": "OpenAI closes about $11B at $1.25T pre-money, below its reported first ask, and the CFO cites 70% quarterly growth."
+  },
+  {
+   "id": "6e27f1efefab",
+   "front": "The open web",
+   "source": "lobste.rs",
+   "why": "A proposal to share Pangram AI-detection scans of articles, and an argument over how far the scans can be trusted."
+  },
+  {
+   "id": "033495df1e58",
+   "front": "Engineering",
+   "source": "seangoedecke.com",
+   "why": "LLMs are poor at designing LLM-based systems: an agent spent weeks on a symbolic solver for a task an LLM scan handles easily."
+  }
+ ]
+}

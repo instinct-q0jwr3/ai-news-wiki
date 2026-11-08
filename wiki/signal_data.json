@@ -2126,5 +2126,61 @@
   "thin": 2,
   "total": 28,
   "unreadable": 1
+ },
+ "2026-11-08": {
+  "ok": 13,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Enterprise",
+    "id": "b094416a4acb",
+    "minutes": 6,
+    "source": "thestateofai.com",
+    "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "why": "Goldman Sachs limits Claude Code and GitHub to its engineers, cutting off traders and bankers, even as it underwrites Anthropic's IPO."
+   },
+   {
+    "cat": "ok",
+    "front": "Infrastructure",
+    "id": "f29f9551a833",
+    "minutes": 14,
+    "source": "newsletter.semianalysis.com",
+    "title": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash",
+    "why": "SemiAnalysis visits Inner Mongolia: an 800MW campus whose first 120MW phase was built in a year at a fifth of US costs, with no local backlash."
+   },
+   {
+    "cat": "ok",
+    "front": "Business",
+    "id": "b60ca3546f8c",
+    "minutes": 4,
+    "source": "247wallst.com",
+    "title": "OpenAI Raises $11B at a $1.25T Valuation",
+    "why": "OpenAI closes about $11B at $1.25T pre-money, below its reported first ask, and the CFO cites 70% quarterly growth."
+   },
+   {
+    "cat": "ok",
+    "front": "The open web",
+    "id": "6e27f1efefab",
+    "minutes": 9,
+    "source": "lobste.rs",
+    "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+    "why": "A proposal to share Pangram AI-detection scans of articles, and an argument over how far the scans can be trusted."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "033495df1e58",
+    "minutes": 7,
+    "source": "seangoedecke.com",
+    "title": "LLMs are terrible at designing AI systems",
+    "why": "LLMs are poor at designing LLM-based systems: an agent spent weeks on a symbolic solver for a task an LLM scan handles easily."
+   }
+  ],
+  "reserve": "0771010b030b",
+  "status": "provisional",
+  "thin": 3,
+  "total": 24,
+  "unreadable": 2
  }
 }

@@ -57,7 +57,9 @@
     "b28cba7a757f",
     "a551dcc6b327",
     "ff99fd923a7d",
-    "033495df1e58"
+    "033495df1e58",
+    "0771010b030b",
+    "01c61f169178"
    ],
    "concepts": []
   },
@@ -94,7 +96,8 @@
     "127cefacbf73",
     "4dc23c984a14",
     "9bc1edcb41d8",
-    "b60ca3546f8c"
+    "b60ca3546f8c",
+    "4d11a7a30736"
    ],
    "concepts": []
   },
@@ -253,7 +256,8 @@
     "1110dc70dd8f",
     "02fc983db8f7",
     "6a715f9ad450",
-    "b2b190b94e22"
+    "b2b190b94e22",
+    "fcd8194ee640"
    ],
    "concepts": []
   },
@@ -373,7 +377,8 @@
     "316767f6149f",
     "b66c2e2380a7",
     "717c300472a9",
-    "d68cb56a0f73"
+    "d68cb56a0f73",
+    "302c6f0ae772"
    ],
    "concepts": []
   },
@@ -762,7 +767,8 @@
     "5e335ad35973",
     "ab2d10de8654",
     "e21a733f580b",
-    "06654b13635a"
+    "06654b13635a",
+    "4f18ba8ecaa1"
    ],
    "concepts": []
   },
@@ -780,7 +786,8 @@
    "stories": [
     "bc9445403531",
     "2cbe5aa37f5b",
-    "6e05b07afea8"
+    "6e05b07afea8",
+    "6e27f1efefab"
    ],
    "concepts": []
   },
@@ -933,6 +940,14 @@
    "stories": [
     "92571badbfbc",
     "dc18aea59a3e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The enterprise squeeze",
+   "intro": "Goldman narrows who gets coding agents.",
+   "stories": [
+    "b094416a4acb"
    ],
    "concepts": []
   }

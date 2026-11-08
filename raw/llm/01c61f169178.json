@@ -1,0 +1,14 @@
+{
+ "id": "01c61f169178",
+ "authored_at": "2026-11-08T21:23:02.908763+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A Lobsters user asks what is realistic to run locally on a Mac mini with an M5 Pro and 48GB unified memory, asking for real tokens-per-second numbers and 'waste of time' stories. Replies say Qwen3.8-27B is the best local coding model but slow, short on long-context headroom, and unsuited to parallel sessions; it suits background or overnight chores or an advisor role. Smaller models are called too weak for serious coding, 4-bit quants are the sweet spot, and gemma4-e4b works as a lossy wikipedia or smarter regex.\n\nOne commenter says even 96GB is barely usable for real coding and that DeepSeek 4.1 Flash is smarter, four times faster and avoids out-of-memory issues. Another runs Qwen3.6-27B at 6-bit on MLX-LM and finds it worse than Claude but fine for routine tasks and bug scans if the model must verify bugs.",
+ "highlights": [
+  "27B is the practical local coding ceiling on 48GB, and it is slow.",
+  "4-bit quants are the best size-quality tradeoff.",
+  "Small models suit lossy search and summarization, not edits.",
+  "A hosted model like DeepSeek Flash may beat local hardware on speed and quality.",
+  "Low-power models can find bugs if forced to verify them."
+ ]
+}

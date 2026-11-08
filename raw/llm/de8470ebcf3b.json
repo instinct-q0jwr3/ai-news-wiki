@@ -1,15 +1,14 @@
 {
  "id": "de8470ebcf3b",
- "authored_at": "2026-11-08T09:21:39.319830+00:00",
+ "authored_at": "2026-11-08T21:23:02.908763+00:00",
  "model": "agent-pass",
  "schema": 1,
- "prose": [
-  "A Show HN project, an LLM weight editing tool made by a 15-year-old, hosted on GitHub as LaplacesScissors. Basis: the repo page was not readable, so how the tool works is unknown."
- ],
+ "prose": "Laplace's Scissors is a Rust, Triton and CUDA/HIP tool that edits an LLM's output matrix by rotation so that chosen answers are repaired while protected correct answers stay intact. Its commands fetch and inspect a model, probe directions with weak output discrimination, diagnose failures from expected answer strings, generate, export an edited checkpoint, and analyze scaling across model sizes.\n\nEach edit is validated against actual GPU outputs before it is accepted. The project needs a Rust toolchain, Python with Triton 3.8, and a CUDA or HIP driver, and caches models and kernels under a configurable directory. The Show HN title says it was made by a 15-year-old; the README itself does not say.",
  "highlights": [
-  "Weight-editing tool for LLMs.",
-  "Author is described as 15 years old.",
-  "Basis: headline only."
- ],
- "basis": "Thin or unreadable source cache; written from headline and available text."
+  "Edits an LLM's output matrix by readout rotation.",
+  "Aims to fix failed answers while protecting successful ones.",
+  "Edits are checked against real GPU outputs.",
+  "Commands: fetch, inspect, probe, diagnose, generate, export, scale.",
+  "Requires Rust, Triton 3.8 and CUDA or HIP."
+ ]
 }
