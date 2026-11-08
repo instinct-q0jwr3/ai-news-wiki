@@ -14,8 +14,6 @@ A Show HN project, an LLM weight editing tool made by a 15-year-old, hosted on G
 - Author is described as 15 years old.
 - Basis: headline only.
 
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
-
 ## Source
 
 [Read the original story](https://github.com/Miyamoto-Renya/LaplacesScissors)

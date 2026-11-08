@@ -1,47 +1,35 @@
 {
- "generated_at": "2026-11-08T09:20:20+00:00",
+ "generated_at": "2026-11-08T15:20:46+00:00",
  "stories": [
   {
-   "id": "ff99fd923a7d",
-   "title": "Goodbye Claude, Hello Pi",
+   "id": "92571badbfbc",
+   "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
    "source": "Hacker News",
-   "url": "https://caleb.software/posts/claude-to-pi.html"
+   "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
   },
   {
-   "id": "22acd1991df4",
-   "title": "Consumer brain wave headsets threaten privacy",
-   "source": "Hacker News",
-   "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
-  },
-  {
-   "id": "de8470ebcf3b",
-   "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-   "source": "Hacker News",
-   "url": "https://github.com/Miyamoto-Renya/LaplacesScissors"
-  },
-  {
-   "id": "abf692111cd0",
-   "title": "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+",
+   "id": "6395ffd6a22f",
+   "title": "US data center operators and power developers are repurposing jet engines to secure power in as little as two years, bypassing multi-year grid-connection delays",
    "source": "Techmeme",
-   "url": "https://technode.com/"
+   "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html"
   },
   {
-   "id": "033495df1e58",
-   "title": "LLMs are terrible at designing AI systems",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/"
+   "id": "b60ca3546f8c",
+   "title": "OpenAI Raises $11B at a $1.25T Valuation",
+   "source": "Hacker News",
+   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
   },
   {
-   "id": "06654b13635a",
-   "title": "Why Most People Will Fail With AI Agents",
-   "source": "Westenberg",
-   "url": "https://www.joanwestenberg.com/p/why-most-people-will-fail-with-ai"
+   "id": "e168c659e71e",
+   "title": "AI stance is not binary",
+   "source": "Hacker News",
+   "url": "https://carette.xyz/posts/ai-stance-is-not-binary/"
   },
   {
-   "id": "d68cb56a0f73",
-   "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers",
+   "id": "f29f9551a833",
+   "title": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"
+   "url": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner"
   }
  ]
 }

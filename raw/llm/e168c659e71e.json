@@ -1,0 +1,14 @@
+{
+ "id": "e168c659e71e",
+ "authored_at": "2026-11-08T15:22:02.326857+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A blog post argues that the AI debate wrongly offers two options: full delegation to machines or full rejection. The interesting question is how humans and machines should work together. The author uses a runner asked to train a robot to run 100 meters. In the first scenario the runner stops running and shouts instructions from the sofa; the instructions get harder to give, and he loses fitness and intuition. He maps this to an engineer who only supervises an agent and slowly loses the intuition built by solving problems.\n\nThe second scenario, where runner and robot run side by side, is described as more honest but not necessarily more useful, and the post points to a third, hidden option between the extremes. His point is that using AI does not mean believing it should replace engineers, and refusing it does not mean thinking it is useless.",
+ "highlights": [
+  "The debate is framed as delegate-everything versus reject-everything; the author wants a third stance.",
+  "Analogy: a runner training a robot, from the sofa or alongside it.",
+  "Pure delegation erodes the engineer's intuition and skill.",
+  "Using AI is not the same as wanting to replace engineers.",
+  "Only the setup and first two scenarios were readable."
+ ]
+}

@@ -93,7 +93,8 @@
     "51295da2cd64",
     "127cefacbf73",
     "4dc23c984a14",
-    "9bc1edcb41d8"
+    "9bc1edcb41d8",
+    "b60ca3546f8c"
    ],
    "concepts": []
   },
@@ -845,7 +846,8 @@
     "5baf558a2db1",
     "e064e0f1e66a",
     "74fd5b902712",
-    "7ac9e11f87c1"
+    "7ac9e11f87c1",
+    "e168c659e71e"
    ],
    "concepts": []
   },
@@ -896,7 +898,8 @@
    "intro": "Google takes Crusoe's Wyoming site.",
    "stories": [
     "7d4806ac4609",
-    "5b8d6aff0e38"
+    "5b8d6aff0e38",
+    "f29f9551a833"
    ],
    "concepts": []
   },
@@ -921,6 +924,15 @@
    "intro": "A smaller video model for local hardware.",
    "stories": [
     "350c245f239f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The power problem",
+   "intro": "Gas and wind for the data-center boom.",
+   "stories": [
+    "92571badbfbc",
+    "dc18aea59a3e"
    ],
    "concepts": []
   }

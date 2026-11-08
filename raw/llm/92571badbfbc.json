@@ -1,0 +1,15 @@
+{
+ "id": "92571badbfbc",
+ "authored_at": "2026-11-08T15:22:02.326857+00:00",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The Financial Times reports, per the Hacker News title, that Anthropic struck a $3.4B deal to generate gas-fired power for its data centers. Basis: the FT article is paywalled, so only the headline is known."
+ ],
+ "highlights": [
+  "Headline: Anthropic's $3.4B deal for gas-fired power.",
+  "Aimed at powering data centers.",
+  "Basis: headline only; paywalled."
+ ],
+ "basis": "FT article paywalled; written from headline only."
+}
