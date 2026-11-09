@@ -1,6 +1,6 @@
 # Concept: AI, jobs and displacement
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-08 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-09 · confidence: medium_
 
 `concept` `labor-displacement`
 
@@ -22,6 +22,7 @@ Claims and evidence about AI's effect on employment: layoffs attributed to AI, t
 
 ## Timeline
 
+- **2026-11-09** - The Wall Street Journal reports, per Techmeme, that US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting and legal roles grew. Basis: paywalled; only the headline is known. ([US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears](../summaries/25b82f76032b.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-07** - Cory Doctorow's Pluralistic post covers 'Against Tech Oligarchy' by JS Tan and Clarissa Redwine, veterans of several tech-worker unionization drives that started well and then met fierce resistance in the second Trump term. He calls the book a superb… ([Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)](../summaries/0c8d175a5079.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-07** - Rajesh Nambiar, president of India's Nasscom, told Nikkei Asia that recent college graduates could struggle to land technology jobs as companies automate entry-level coding and software testing with AI.
 
@@ -53,4 +54,3 @@ He says India's tech education needs a rapid… ([Nasscom President Rajesh Nambi
 - **2026-10-26** - Basis: Bloomberg blocks automated fetching (HTTP 403), so this note rests on Techmeme's account. Microsoft will offer buyouts to about 60,000 workers at VP level and below across teams in the US, Canada, India and the UK - a headcount-reduction program… ([Microsoft offers buyouts to ~60K workers at VP level and below across teams in the US, Canada, India, and the UK; its headcount at the end of June was 223K](../summaries/b7fd1164b4fd.md) · [Microsoft](../entities/microsoft.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-10-26** - Freehire is a free, open-source job search engine built to be used from inside an AI agent. It indexes more than three million tech jobs directly from company career boards, deduplicates them, and tags them by stack, seniority and location, and it exposes… ([Show HN: Freehire, open-source search 3M+ tech jobs from company career boards](../summaries/560f501aabd4.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-10-26** - US tech employment has been falling since November 2022 - the month ChatGPT launched - and September 2026's information-sector payroll count of 2,739,000 is the lowest non-pandemic reading in more than a decade, 12% below that peak, while the wider economy… ([AI didn't cause the tech jobs bust, but it explains why there's no recovery](../summaries/3aae43b668f9.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
-- **2026-10-25** - Joseph Politano (Apricitas) documents that America has lost more than 200,000 jobs in creative industries over the last four years, roughly 50,000 in the last year alone - a stretch of media job losses comparable in intensity and duration only to the 2001… ([America has lost 200k of jobs in media, film and the arts. How much is AI?](../summaries/eea793d24e61.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-08 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-09 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-09** - Hi Guys, like many of you I work with AI agents every day and across several clients. ([Ask HN: How do you manage your AI agents' context across clients and projects?](../summaries/88ed21478cb3.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-11-09** - Simon Willison, curious on a dog walk, asked Claude (Opus 5.5) to compare writing a SQLite parse_number() function, which strips commas, $, £ and % and handles a leading minus, as a C extension versus Rust. The binaries differ a lot: the Rust extension was… ([parse_number() as a SQLite extension: C vs Rust](../summaries/5f9c9c54ca7d.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-09** - Tencent's chief AI scientist Yao Shunyu, a former OpenAI researcher, said AI models will soon be powerful enough to master biology, with benefits such as faster drug discovery and risks including bioweapons and a new pandemic, per SCMP. Speaking at a Hong… ([Tencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it "possible to do harm" and Anthropic has a "strong argument" for closed models](../summaries/f0a7d6e1f011.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-08** - Goldman Sachs has restricted Anthropic's Claude Code and Microsoft's GitHub to its engineers, cutting off traders and bankers who used the tools to track client flows and model markets, per Bloomberg as relayed by The State of AI. October guidance followed… ([Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](../summaries/b094416a4acb.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-08** - The Information reports that, excluding Anthropic's IPO, AI companies sold or priced over $300B of stock in 2026, with about $100B more on tap, raising the question of whether the market can absorb it, per the Techmeme headline. Basis: paywalled. ([Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb](../summaries/4d11a7a30736.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-08** - The Financial Times reports, per the Hacker News title, that Anthropic struck a $3.4B deal to generate gas-fired power for its data centers. Basis: the FT article is paywalled, so only the headline is known. ([Anthropic strikes $3.4B deal to generate gas-fired power for data centres](../summaries/92571badbfbc.md) · [Anthropic](../entities/anthropic.md)) 🔒

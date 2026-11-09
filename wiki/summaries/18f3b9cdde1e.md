@@ -1,6 +1,6 @@
 # A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever "war room"
 
-_type: news-summary · created: 2026-11-03 · updated: 2026-11-08 · confidence: high_
+_type: news-summary · created: 2026-11-03 · updated: 2026-11-09 · confidence: high_
 
 `techmeme` `openai` `anthropic`
 

@@ -1,6 +1,6 @@
 # The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi
 
-_type: news-summary · created: 2026-10-22 · updated: 2026-11-08 · confidence: high_
+_type: news-summary · created: 2026-10-22 · updated: 2026-11-09 · confidence: high_
 
 `latent.space`
 

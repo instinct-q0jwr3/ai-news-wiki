@@ -1,6 +1,6 @@
 # Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs
 
-_type: news-summary · created: 2026-11-04 · updated: 2026-11-08 · confidence: high_
+_type: news-summary · created: 2026-11-04 · updated: 2026-11-09 · confidence: high_
 
 `techmeme` `meta` `agentic-systems` `ai-coding-agents`
 

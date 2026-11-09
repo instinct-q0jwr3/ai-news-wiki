@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-08 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-09 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-09** - CNBC reports, from an analysis of job listings, that Amazon is building a 'new-to-world' home robot meant to operate 'alongside family members' in dynamic home environments. It follows Astro, the $1,450 Alexa-equipped rolling tablet revealed in 2021, which… ([Job listings show Amazon is building a "new-to-world" home robot to operate "alongside family members", after its $1,450 Astro reached only a few thousand homes](../summaries/317fa585a786.md) · [Amazon](../entities/amazon.md))
 - **2026-11-07** - Cory Doctorow's Pluralistic post covers 'Against Tech Oligarchy' by JS Tan and Clarissa Redwine, veterans of several tech-worker unionization drives that started well and then met fierce resistance in the second Trump term. He calls the book a superb… ([Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)](../summaries/0c8d175a5079.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-05** - Launch HN for Rivet (YC W23), an Apache 2.0 orchestrator for agent workloads built on the actor model and S3. Each actor is a long-lived process with in-memory state, a SQLite database, WebSockets and scheduling, run on plain Node.js, Bun or Rust. Claims:… ([Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](../summaries/c80bc64d1ca2.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-05** - Tom's Hardware reports that Amazon told its engineers to stop 'tokenmaxxing', inflating AI usage to look productive on internal dashboards. An internal memo says AI adoption rates, token use, code changes and reviews become 'deeply flawed' when turned into… ([Amazon tells engineers to stop 'tokenmaxxing' to look productive](../summaries/ab2d10de8654.md) · [Amazon](../entities/amazon.md))

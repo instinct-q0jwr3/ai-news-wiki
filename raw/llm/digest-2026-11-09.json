@@ -1,0 +1,66 @@
+{
+ "id": "digest-2026-11-09",
+ "date": "2026-11-09",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "A blogger argues the AI bubble may not exist while US professional services add 70K jobs, the most since 2022. Amazon prepares a new home robot, Tencent's AI chief warns on bio risk, and Stanford rebuilds its AI-engineering course around open-source maintainers.",
+ "sections": [
+  {
+   "title": "The bubble question",
+   "intro": "Whether the spending is a bubble or a one-off build-out.",
+   "stories": [
+    "44cbd77788b9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labor ledger",
+   "intro": "AI-exposed white-collar hiring rises.",
+   "stories": [
+    "25b82f76032b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Teaching the agent era",
+   "intro": "What engineers should learn when agents do the homework.",
+   "stories": [
+    "a39b96d44e86",
+    "39e4bee26d00"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The home robot returns",
+   "intro": "Amazon tries again after Astro.",
+   "stories": [
+    "317fa585a786"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The bio threshold",
+   "intro": "A Tencent AI chief on bio and cyber risk.",
+   "stories": [
+    "f0a7d6e1f011"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Safety institute politics",
+   "intro": "Who CAISSI answers to.",
+   "stories": [
+    "02a3dd723830"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "Hands-on benchmarks.",
+   "stories": [
+    "5f9c9c54ca7d"
+   ],
+   "concepts": []
+  }
+ ]
+}

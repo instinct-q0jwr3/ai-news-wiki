@@ -1,6 +1,6 @@
 # Show HN: I built a tool that prices a prebuilt PC part by part
 
-_type: news-summary · created: 2026-11-04 · updated: 2026-11-08 · confidence: high_
+_type: news-summary · created: 2026-11-04 · updated: 2026-11-09 · confidence: high_
 
 `hacker-news` `compute-buildout`
 

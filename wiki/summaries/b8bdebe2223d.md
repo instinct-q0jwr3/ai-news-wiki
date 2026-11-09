@@ -1,6 +1,6 @@
 # Chan Karunamuni on the Duo’s Open/Close Translucent Transition
 
-_type: news-summary · created: 2026-10-24 · updated: 2026-11-08 · confidence: high_
+_type: news-summary · created: 2026-10-24 · updated: 2026-11-09 · confidence: high_
 
 `daring-fireball` `google` `meta` `apple` `gemini`
 

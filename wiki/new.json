@@ -1,65 +1,59 @@
 {
- "generated_at": "2026-11-08T21:21:27+00:00",
+ "generated_at": "2026-11-09T03:22:23+00:00",
  "stories": [
   {
-   "id": "b094416a4acb",
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "id": "44cbd77788b9",
+   "title": "I'm Not Convinced the AI Bubble Exists",
    "source": "Hacker News",
-   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
   },
   {
-   "id": "a1a0972a6666",
-   "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c?st=sszirS&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "0771010b030b",
-   "title": "How I Fight AI Brain Fry",
+   "id": "88ed21478cb3",
+   "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
    "source": "Hacker News",
-   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+   "url": "https://news.ycombinator.com/item?id=50403153"
   },
   {
-   "id": "302c6f0ae772",
-   "title": "I Resist Generative \"AI\"",
-   "source": "Hacker News",
-   "url": "https://estherweidauer.com/articles/why-resist-generative-ai.html"
+   "id": "a39b96d44e86",
+   "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/"
   },
   {
-   "id": "600a3584bed8",
-   "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI"
+   "id": "5f9c9c54ca7d",
+   "title": "parse_number() as a SQLite extension: C vs Rust",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
   },
   {
-   "id": "01c61f169178",
-   "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-   "source": "Lobsters",
-   "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai"
+   "id": "39e4bee26d00",
+   "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/cs146s/"
   },
   {
-   "id": "4f18ba8ecaa1",
-   "title": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user",
+   "id": "02a3dd723830",
+   "title": "officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users"
+   "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13"
   },
   {
-   "id": "6e27f1efefab",
-   "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-   "source": "Lobsters",
-   "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles"
-  },
-  {
-   "id": "fcd8194ee640",
-   "title": "John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities",
+   "id": "25b82f76032b",
+   "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE1MTkyNCwiZXhwIjoxNzk0NzU2NzI0LCJhcnRpY2xlSWQiOiJUTzZWMDFLSUpIOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.36GAnE9alr4yBWfCUoJj6dU23ilQniOVEFSDSuoUVms"
+   "url": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4"
   },
   {
-   "id": "4d11a7a30736",
-   "title": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb",
+   "id": "f0a7d6e1f011",
+   "title": "Tencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/ai-stock-can-market-absorb"
+   "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns"
+  },
+  {
+   "id": "317fa585a786",
+   "title": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html"
   }
  ]
 }
