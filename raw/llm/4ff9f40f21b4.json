@@ -1,0 +1,14 @@
+{
+ "id": "4ff9f40f21b4",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A developer ran gpt-oss-120b and Qwen3.5-122B-A10B on a 32 GB M1 Max with a hard 16 GiB process-memory budget. The prototype keeps most mixture-of-experts weights on the SSD and brings in only what is needed. Memory is limited in practice and checked against macOS counters, not just set in config.\n\nOn gpt-oss-120b it averaged 7.84 tokens/s over eight prompts against 5.78 for another engine, about 36% faster, with the gap growing when other processes used memory. Weights were checked byte for byte. The engine code is not released, so results are unreproduced.",
+ "highlights": [
+  "120B-class MoE models run within a 16 GiB budget",
+  "Experts stream from SSD; limit enforced and measured",
+  "7.84 vs 5.78 tokens/s, about 36% faster",
+  "Gap widens under memory pressure",
+  "Code unreleased; single-author results"
+ ]
+}

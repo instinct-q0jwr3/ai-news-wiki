@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1794259713"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI</h1>
+<p class="meta">type: news-summary · created: 2026-11-09 · updated: 2026-11-09 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use).</p>
+<p>For my workflow I’ve always looked for performance, especially since some time ago I had a really outdated machine and any kind of bloat was really noticeable, I remember using DBeaver and it just crashing on me multiple times, I also…</p>
+<p>I migrated all my essential dev tools to use the ones with performance in mind (Zed, Ghostty etc) but the only thing that was missing was DB Client.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>The main choices everyone has are DBeaver which is a memory hog and an overkill for most of the tasks imo.</li>
+<li>The other options like Datagrid, Beekeeper, TablePlus are either electron based so bloated and memory hogs or paid and closed-source.</li>
+<li>DBDelve 0.3.6 against DBeaver 25.3.1 on the same Postgres table, median of 5 runs each (2026-10-11, M1 Pro, 32 GB).</li>
+<li>Times are from the action to the rows rendered.</li>
+<li>DBDelve DBeaver Launch 1.1 s 5.2 s Idle memory 133 MB 606 MB 1,000-row query 0.21 s 1.96 s 1M rows, time 56 s 208 s 1M rows, memory [1] 4.9 GB 17 GB [1] The whole 1M-row, 100-column table pulled into memory on purpose, with the row…</li>
+<li>GPUI component also solves a lot of problems with having a good component library we can use.</li>
+<li>The major optimization I did was just lowering the memory overhead by using packed rows which reduced the memory usage by 40% on large datasets (8.1GB to 4.9GB on a 4GB table loaded in app), everything else came bundled in with Rust and…</li>
+<li>Basically, your db client can slow you down even after you have waited for queries so this will fix that. reply dubcanada 2 hours ago | root | parent | prev | next [–] So your main sell on DBDelve is performance? reply shayan_abbas 2…</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://news.ycombinator.com/item?id=50427934">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/apple.html">Apple</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/external-evaluation.html">External AI evaluation</a> · <a href="../concepts/compute-buildout.html">Compute and the data-center build-out</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

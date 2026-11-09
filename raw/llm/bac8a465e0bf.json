@@ -1,0 +1,12 @@
+{
+ "id": "bac8a465e0bf",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Recalc is an open-source spreadsheet where each cell can be a Claude Code or Codex terminal. Agents fill cells in real time, and you can open any cell as a terminal and steer it by prompting or editing the cells. It runs locally on macOS, with Linux experimental.",
+ "highlights": [
+  "Each cell can run an agent terminal",
+  "Watch and steer agents via cells",
+  "Local, free, open source"
+ ]
+}

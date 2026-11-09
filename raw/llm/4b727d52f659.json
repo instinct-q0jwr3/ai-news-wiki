@@ -1,0 +1,12 @@
+{
+ "id": "4b727d52f659",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Artificial Analysis rates Claude Fable 5.2 at 65 on its Intelligence Index, among the leading models, but expensive, slow per task and very verbose. It supports text and image input with a 1M-token context.",
+ "highlights": [
+  "Index score 65, highest so far per the headline",
+  "Expensive, slow per task, verbose",
+  "1M-token context"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "99c430ac4248",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The New Stack reports pricing for the new models: $8 per million input and $40 per million output tokens, down 20% from 5.1, and a fast mode at $16 and $80."
+ ],
+ "highlights": [
+  "20% cheaper than 5.1",
+  "Fast mode costs double"
+ ],
+ "basis": "Techmeme summary only; the article could not be fetched"
+}

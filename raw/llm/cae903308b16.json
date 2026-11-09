@@ -1,0 +1,14 @@
+{
+ "id": "cae903308b16",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic and circuit-board maker Diode Computers tested whether Claude can design electronics end to end. A year earlier models could read datasheets but could not lay out a board. This time Claude Fable 5.2 was asked to design a speakerphone, a voice-assistant hub and a handheld virtual pet from a short prompt.\n\nIt wrote specs, drew schematics, laid out the boards using geometric reasoning, accounted for manufacturing limits, revised its own work, modeled parts in CAD and directed human engineers to build prototypes. Anthropic reports the prototypes worked without circuit fixes. It is a company-run showcase on three devices, not an independent benchmark.",
+ "highlights": [
+  "Three devices designed from short prompts: speakerphone, hub, virtual pet",
+  "Covers layout, manufacturability, CAD and firmware steps",
+  "Prototypes reportedly worked with no circuit fixes",
+  "Earlier models could not lay out a board",
+  "Anthropic-run test with a partner, small sample"
+ ]
+}

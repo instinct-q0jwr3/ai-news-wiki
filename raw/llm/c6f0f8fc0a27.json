@@ -1,0 +1,12 @@
+{
+ "id": "c6f0f8fc0a27",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A GitHub write-up claims Google reversed its 2023 promise that Gmail, Docs and Drive content in Gemini extensions is not seen by human reviewers, citing an updated Help page and an October edit. It says connected files can be pulled in the background without explicit tags and may reach reviewers. This is a third-party claim; the author describes tests with varying outcomes.",
+ "highlights": [
+  "Claim: Google now allows human review of connected Drive and email content",
+  "Retrieval is probabilistic and can happen without @-tags",
+  "Third-party testing, not confirmed by Google here"
+ ]
+}

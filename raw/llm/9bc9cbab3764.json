@@ -1,0 +1,13 @@
+{
+ "id": "9bc9cbab3764",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Meta Superintelligence Labs released Muse Ember, its smallest and cheapest model, aimed at subagent work such as coding and document analysis. Partner quotes cite speed: up to 30% faster at the tail than a comparable model, and a p95 latency of 2.2 seconds, 4x to 13x faster than leading open-weight models with 36-48% fewer output tokens. These are testimonials on Meta's page.",
+ "highlights": [
+  "Smallest, cheapest Muse model",
+  "Built for agent subagents: coding, document analysis",
+  "Partner-cited p95 of 2.2s, fewer output tokens",
+  "Claims come from Meta's own page"
+ ]
+}

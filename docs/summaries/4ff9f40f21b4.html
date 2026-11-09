@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>I ran 120B MoE models on my 32GB M1 Max using under 16 GB · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1794259713"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>I ran 120B MoE models on my 32GB M1 Max using under 16 GB</h1>
+<p class="meta">type: news-summary · created: 2026-11-09 · updated: 2026-11-09 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>A developer ran gpt-oss-120b and Qwen3.5-122B-A10B on a 32 GB M1 Max with a hard 16 GiB process-memory budget. The prototype keeps most mixture-of-experts weights on the SSD and brings in only what is needed. Memory is limited in practice and checked against macOS counters, not just set in config.</p>
+<p>On gpt-oss-120b it averaged 7.84 tokens/s over eight prompts against 5.78 for another engine, about 36% faster, with the gap growing when other processes used memory. Weights were checked byte for byte. The engine code is not released, so results are unreproduced.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>120B-class MoE models run within a 16 GiB budget</li>
+<li>Experts stream from SSD; limit enforced and measured</li>
+<li>7.84 vs 5.78 tokens/s, about 36% faster</li>
+<li>Gap widens under memory pressure</li>
+<li>Code unreleased; single-author results</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://mitln.github.io/moe-inference-engine/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -68,7 +68,10 @@
     "540733f9ba79",
     "7b93e0d31c62",
     "27e698346598",
-    "5eeb5e17aa05"
+    "5eeb5e17aa05",
+    "bac8a465e0bf",
+    "12f752b5d6d1",
+    "34ccb02371fc"
    ],
    "concepts": []
   },
@@ -157,6 +160,67 @@
    "stories": [
     "196a1d936873",
     "78dd5f12e591"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Fable and Mythos 5.2",
+   "intro": "Anthropic's new flagship pair, pricing, rating and reactions.",
+   "stories": [
+    "8d6cdd8a2ba8",
+    "21abefb61480",
+    "99c430ac4248",
+    "4b727d52f659",
+    "b867559fa5b7",
+    "c9802adecbe5",
+    "cae903308b16"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Meta's small model",
+   "intro": "",
+   "stories": [
+    "9bc9cbab3764",
+    "754c2b9d5225"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Data and local inference",
+   "intro": "What labs buy, and running big models on small machines.",
+   "stories": [
+    "3974dfffaef0",
+    "4ff9f40f21b4",
+    "521d8c2fabfd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Privacy and security",
+   "intro": "",
+   "stories": [
+    "c6f0f8fc0a27",
+    "879a692d0d5a",
+    "559fc24f9352"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Politics and rules",
+   "intro": "",
+   "stories": [
+    "29089a1b0253",
+    "8cfb3cc1f43f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Culture and industry",
+   "intro": "",
+   "stories": [
+    "560eac1bd2d3",
+    "38592ea82818"
    ],
    "concepts": []
   }

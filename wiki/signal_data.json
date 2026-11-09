@@ -2182,5 +2182,61 @@
   "thin": 3,
   "total": 24,
   "unreadable": 2
+ },
+ "2026-11-09": {
+  "ok": 54,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "8d6cdd8a2ba8",
+    "minutes": 6,
+    "source": "anthropic.com",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "why": "Anthropic ships Claude Fable 5.2 and Mythos 5.2 at 20% lower prices, claiming a Fermat's Last Theorem formalization in 30 hours."
+   },
+   {
+    "cat": "ok",
+    "front": "Applied AI",
+    "id": "cae903308b16",
+    "minutes": 10,
+    "source": "anthropic.com",
+    "title": "Testing Claude on real-world electronics design",
+    "why": "Claude Fable 5.2 designed three working electronic devices from short prompts; prototypes reportedly needed no circuit fixes."
+   },
+   {
+    "cat": "ok",
+    "front": "Data",
+    "id": "3974dfffaef0",
+    "minutes": 4,
+    "source": "latent.space",
+    "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+    "why": "Handshake AI went to $1B annualized in a year selling RL environments; demos show where models still fail finance and bio tasks."
+   },
+   {
+    "cat": "ok",
+    "front": "Infrastructure",
+    "id": "4ff9f40f21b4",
+    "minutes": 5,
+    "source": "mitln.github.io",
+    "title": "I ran 120B MoE models on my 32GB M1 Max using under 16 GB",
+    "why": "A 120B MoE model runs on a 32GB M1 Max inside a 16 GiB budget, about 36% faster than a rival engine."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "29089a1b0253",
+    "minutes": 1,
+    "source": "theverge.com",
+    "title": "In a 60 Minutes interview, Trump says the DOJ threatened a top exec at \"one of the big\" AI companies over \"bad\" activities and this \"person totally changed\"",
+    "why": "Trump says AI risk is overstated and claims the DOJ threatened an AI executive with jail; no names given."
+   }
+  ],
+  "reserve": "38592ea82818",
+  "status": "provisional",
+  "thin": 5,
+  "total": 70,
+  "unreadable": 5
  }
 }

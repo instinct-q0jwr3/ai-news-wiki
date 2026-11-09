@@ -1,149 +1,149 @@
 {
- "generated_at": "2026-11-09T15:23:57+00:00",
+ "generated_at": "2026-11-09T21:24:44+00:00",
  "stories": [
   {
-   "id": "7b93e0d31c62",
-   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+   "id": "8d6cdd8a2ba8",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
    "source": "Hacker News",
-   "url": "https://github.com/samir-sarwar/samir-vllm"
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
   },
   {
-   "id": "5eeb5e17aa05",
-   "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+   "id": "9bc9cbab3764",
+   "title": "Our Smallest, Most Efficient Model: Muse Ember",
    "source": "Hacker News",
-   "url": "https://zenodo.org/records/23682548"
+   "url": "https://research.meta.ai/blog/muse-ember"
   },
   {
-   "id": "05a4e59e9b3b",
-   "title": "The Components of Agent Memory",
+   "id": "521d8c2fabfd",
+   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/components-of-agent-memory"
+   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
   },
   {
-   "id": "fdd6994198d0",
-   "title": "A year as a Research Engineer working on RSI at Meta",
-   "source": "TLDR AI",
-   "url": "https://x.com/tomasmann1878/status/2119346730458038678?s=12"
-  },
-  {
-   "id": "005c25d0ffbc",
-   "title": "What Does a Positive AI Future Look Like?",
-   "source": "TLDR AI",
-   "url": "https://x.com/patrickc/status/2119495828683530519"
-  },
-  {
-   "id": "87e46aa34127",
-   "title": "Project EVE: Claude plays MMORPGs",
-   "source": "TLDR AI",
-   "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"
-  },
-  {
-   "id": "78dd5f12e591",
-   "title": "Medium launches TK, an AI-powered, minimalist note-taking, journaling, and private social networking app with daily prompts, its first major launch since 2017",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app"
-  },
-  {
-   "id": "5f4c02446a81",
-   "title": "US voters in Harwood, North Dakota rejected a ballot measure that opposed Applied Digital's $3B data center, set to open in 2027, bucking a nationwide backlash",
-   "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/"
-  },
-  {
-   "id": "6f4c8689fa29",
-   "title": "What the heck is going on with OpenAI internal AI R&D time horizons",
-   "source": "TLDR AI",
-   "url": "https://threadreaderapp.com/thread/2119541238856663473.html"
-  },
-  {
-   "id": "1f902f3e8d24",
-   "title": "Amsterdam police arrested between 150 and 200 protesters for trespassing and violence at a Microsoft data center construction site owned by Pure Data Centers",
-   "source": "Techmeme",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site"
-  },
-  {
-   "id": "bd049c9a3ec5",
-   "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
-   "source": "Terence Eden",
-   "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/"
-  },
-  {
-   "id": "196a1d936873",
-   "title": "Meta Introduces Custom Spaces in Muse",
-   "source": "TLDR AI",
-   "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
-  },
-  {
-   "id": "1186645528c9",
-   "title": "Meta expands its AI age estimation tech globally to apply Instagram's Teen Account protections for millions of users from 13 to 17 who misrepresented their age",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
-  },
-  {
-   "id": "9973178dd326",
-   "title": "Spines, which uses AI agents to edit and proofread amateur authors' books, design their covers, and handle the layout, raised $29M in equity and $35M in debt",
-   "source": "Techmeme",
-   "url": "https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574"
-  },
-  {
-   "id": "7ac9e11f87c1",
-   "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008",
-   "source": "Techmeme",
-   "url": "https://psi.inc/research/aaronson-ambainis/"
-  },
-  {
-   "id": "27e698346598",
-   "title": "Introducing the New Auto and Auto Code Routers",
-   "source": "TLDR AI",
-   "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"
-  },
-  {
-   "id": "73d05e156d1e",
-   "title": "The end of Microsoft Research's AI Frontiers group",
+   "id": "c6f0f8fc0a27",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
    "source": "Hacker News",
-   "url": "https://hunch.net/?p=13764006"
+   "url": "https://github.com/thisisme6598/gemini_files/"
   },
   {
-   "id": "e6d1b6a22e01",
-   "title": "Can LLMs redesign themselves as they train?",
-   "source": "TLDR AI",
-   "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
-  },
-  {
-   "id": "74fd5b902712",
-   "title": "AI is dramatically accelerating AI research",
+   "id": "33f680118998",
+   "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
    "source": "Hacker News",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+   "url": "https://news.ycombinator.com/item?id=50427934"
   },
   {
-   "id": "6bd565322baf",
-   "title": "OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+   "id": "4b727d52f659",
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
   },
   {
-   "id": "4263264ef4f5",
-   "title": "Symbiotic Firms Built Around Humans and AI",
-   "source": "TLDR AI",
-   "url": "https://x.com/johnjnay/status/2118377267495649448"
+   "id": "c9802adecbe5",
+   "title": "Claude Fable 5.2",
+   "source": "Hacker News",
+   "url": "https://twitter.com/claudeai/status/2119867114450268322"
   },
   {
-   "id": "a1591d57022a",
-   "title": "Google unveils two specialized TPUs launching in 2027: the 8tx, to be paired with an AMD CPU, and the 8i Max, a dual-chip package for long-context window tasks",
+   "id": "879a692d0d5a",
+   "title": "Sleep wearables are training AI on your brainwaves without explicit consent",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested"
+  },
+  {
+   "id": "8158243e16c0",
+   "title": "Ask HN: How do you evaluate the skills your AI agents use?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50426070"
+  },
+  {
+   "id": "bac8a465e0bf",
+   "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+   "source": "Hacker News",
+   "url": "https://github.com/sshah03/recalc"
+  },
+  {
+   "id": "12f752b5d6d1",
+   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+   "source": "Hacker News",
+   "url": "https://github.com/Dodaios/ste80-humanizer"
+  },
+  {
+   "id": "34ccb02371fc",
+   "title": "Synaptics sends cease-and-desist order to open-source DisplayLink hobbyist",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/synaptics-sends-cease-and-desist-order-to-creator-of-open-source-displaylink-driver-dares-him-to-publicize-its-threats-dev-reverse-engineers-displaylink-using-claude-ai-and-rust-synaptics-threatens-to-bill-creator-for-legal-documentation"
+  },
+  {
+   "id": "cae903308b16",
+   "title": "Testing Claude on real-world electronics design",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/claude-electronics-design"
+  },
+  {
+   "id": "b867559fa5b7",
+   "title": "Claude Fable 5.2 launch offers",
+   "source": "Hacker News",
+   "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers"
+  },
+  {
+   "id": "559fc24f9352",
+   "title": "Fireworks Cyberattack Exposes Customer Data and AI Models",
+   "source": "Hacker News",
+   "url": "https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/"
+  },
+  {
+   "id": "4ff9f40f21b4",
+   "title": "I ran 120B MoE models on my 32GB M1 Max using under 16 GB",
+   "source": "Hacker News",
+   "url": "https://mitln.github.io/moe-inference-engine/"
+  },
+  {
+   "id": "38592ea82818",
+   "title": "Disney and Adobe sign a multiyear deal to build proprietary \"artist-led\" generative AI models with Adobe Firefly Foundry to support Disney's production pipeline",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems"
+   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
   },
   {
-   "id": "085ef46e57ce",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"
+   "id": "754c2b9d5225",
+   "title": "Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
   },
   {
-   "id": "0678ae57ae1d",
-   "title": "Warp Sciences raises $215M for AI-powered labs",
-   "source": "TLDR AI",
-   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600/"
+   "id": "29089a1b0253",
+   "title": "In a 60 Minutes interview, Trump says the DOJ threatened a top exec at \"one of the big\" AI companies over \"bad\" activities and this \"person totally changed\"",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
+  },
+  {
+   "id": "560eac1bd2d3",
+   "title": "AI and Irontown",
+   "source": "Armin Ronacher",
+   "url": "https://lucumr.pocoo.org/2026/11/9/irontown/"
+  },
+  {
+   "id": "21abefb61480",
+   "title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZxTEU5c3dWWmMiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMzAwMDUvYW50aHJvcGljLWNsYXVkZS1mYWJsZS1teXRob3MtNS0yIiwiZXhwIjoxNzk0NjgzNDYyLCJpYXQiOjE3OTQyNTE0NjJ9.2LVCU8fAafdd4rkRbz6XCtLFvyK6Lugr0vpJRrELfpo&utm_medium=gift-link"
+  },
+  {
+   "id": "99c430ac4248",
+   "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens",
+   "source": "Techmeme",
+   "url": "https://thenewstack.io/anthropic-fable-coding-upgrade/"
+  },
+  {
+   "id": "3974dfffaef0",
+   "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/handshake/"
+  },
+  {
+   "id": "8cfb3cc1f43f",
+   "title": "Draft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
   }
  ]
 }

@@ -1,0 +1,11 @@
+{
+ "id": "12f752b5d6d1",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "STE80 Humanizer is a GitHub tool that tries to remove an 'AI voice' from text by rewriting it 80% of the way to the ASD-STE100 simplified-English standard, with before and after examples.",
+ "highlights": [
+  "Targets AI-sounding prose",
+  "Uses simplified technical English as the style"
+ ]
+}

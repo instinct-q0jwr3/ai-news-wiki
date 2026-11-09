@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-09",
+ "date": "2026-11-09",
+ "status": "provisional",
+ "reserve": "38592ea82818",
+ "picks": [
+  {
+   "id": "8d6cdd8a2ba8",
+   "front": "Models",
+   "source": "anthropic.com",
+   "why": "Anthropic ships Claude Fable 5.2 and Mythos 5.2 at 20% lower prices, claiming a Fermat's Last Theorem formalization in 30 hours."
+  },
+  {
+   "id": "cae903308b16",
+   "front": "Applied AI",
+   "source": "anthropic.com",
+   "why": "Claude Fable 5.2 designed three working electronic devices from short prompts; prototypes reportedly needed no circuit fixes."
+  },
+  {
+   "id": "3974dfffaef0",
+   "front": "Data",
+   "source": "latent.space",
+   "why": "Handshake AI went to $1B annualized in a year selling RL environments; demos show where models still fail finance and bio tasks."
+  },
+  {
+   "id": "4ff9f40f21b4",
+   "front": "Infrastructure",
+   "source": "mitln.github.io",
+   "why": "A 120B MoE model runs on a 32GB M1 Max inside a 16 GiB budget, about 36% faster than a rival engine."
+  },
+  {
+   "id": "29089a1b0253",
+   "front": "Policy",
+   "source": "theverge.com",
+   "why": "Trump says AI risk is overstated and claims the DOJ threatened an AI executive with jail; no names given."
+  }
+ ]
+}

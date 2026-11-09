@@ -1,0 +1,14 @@
+{
+ "id": "3974dfffaef0",
+ "authored_at": "2026-11-09T21:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Latent Space's first deep dive with an AI data company features Handshake AI, whose training-data business went from launch to $1 billion in gross annualized revenue in about a year. The episode asks what frontier labs are buying at that scale and shows live demos of the reinforcement learning environments Handshake builds.\n\nIn finance, an agent must find its task in a bank's email, identify governing files and deliver a workbook; it fails when it must apply a tax rule to a specific line and instead subtracts a goodwill figure. In bio, the VIALS benchmark tests reading scientific images such as tumor slides. The point is where models still trail humans.",
+ "highlights": [
+  "Handshake AI training business reached $1B annualized in about a year",
+  "Labs buy RL environments and expert evals",
+  "Finance demo: model explains a rule but misapplies it in code",
+  "VIALS benchmark tests interpreting scientific images",
+  "Shows evals where models are far from human level"
+ ]
+}
