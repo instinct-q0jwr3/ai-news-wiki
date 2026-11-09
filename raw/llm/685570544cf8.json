@@ -1,0 +1,14 @@
+{
+ "id": "685570544cf8",
+ "authored_at": "2026-11-09T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Uniform is a preview-stage UI library that replaces native text, layout and rendering with its own core written in C, compiled to WASM for the web and to native code elsewhere. A full web app using it is under 280 KB compressed. It renders through Metal on iOS and macOS and through GPU APIs in the browser, aiming for pixel-exact layout and consistent behavior across platforms.\n\nIt offers a JavaScript API with no build step for fast iteration and a C API for more speed, and compiles from source, shaders included, in under a second. The README says it was written by hand with no AI involvement. The API may still change and not every feature is done.",
+ "highlights": [
+  "Own layout, text and rendering instead of native UI tools",
+  "Web app under 280 KB compressed",
+  "JS API with no build step; C API for performance",
+  "Targets Metal on Apple platforms, GPU on the web",
+  "Preview: API may change"
+ ]
+}

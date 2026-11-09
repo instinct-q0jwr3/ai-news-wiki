@@ -1,0 +1,14 @@
+{
+ "id": "184470a1e182",
+ "authored_at": "2026-11-09T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google's November update for Googlebook frees 3 to 6 GB of RAM by updating the NPU driver and tightening how AICore, the on-device AI service, manages memory, according to Google's Mishaal Rahman on Reddit as reported by Android Central. On a 16 GB laptop that is a real gain.\n\nThe update also improves how memory is reclaimed when background AI services compete with Chrome, which should cut unexpected tab reloads and crashes. Other fixes: convertibles losing keyboard and touchpad input when switching modes, and Zoom crashes with virtual backgrounds, blur and 3D avatars. The reviewer says some fixes should have shipped at launch.",
+ "highlights": [
+  "3-6 GB RAM freed via NPU driver and AICore memory changes",
+  "Better reclaim when AI services clash with Chrome",
+  "Fixes lost input in convertible modes",
+  "Fixes Zoom crashes with backgrounds and avatars",
+  "On-device AI has a real memory cost"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "15b43f2ededd",
+ "authored_at": "2026-11-09T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Flide is a GitHub project that serves 'Jev-style' decision models through an API and claims up to 9.5 times faster inference than vLLM and SGLang by forking model state exactly, with answers matching those the model gives a question alone. The README shows installing it with pip and serving a small model."
+ ],
+ "highlights": [
+  "Claims up to 9.5x faster than vLLM and SGLang",
+  "Exact state forking, same answers as single queries",
+  "Serves a /v1/systemone API"
+ ],
+ "basis": "README excerpt only; benchmark claims not checked"
+}

@@ -1,47 +1,65 @@
 {
- "generated_at": "2026-11-09T03:22:23+00:00",
+ "generated_at": "2026-11-09T09:23:03+00:00",
  "stories": [
   {
-   "id": "44cbd77788b9",
-   "title": "I'm Not Convinced the AI Bubble Exists",
+   "id": "65a3508d35d2",
+   "title": "Apple capped engineers at a $200 daily AI budget",
    "source": "Hacker News",
-   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+   "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1"
   },
   {
-   "id": "88ed21478cb3",
-   "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+   "id": "6ee4744c6df9",
+   "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50403153"
+   "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
   },
   {
-   "id": "a39b96d44e86",
-   "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/"
+   "id": "685570544cf8",
+   "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+   "source": "Hacker News",
+   "url": "https://github.com/rkaehn/uniform"
   },
   {
-   "id": "5f9c9c54ca7d",
-   "title": "parse_number() as a SQLite extension: C vs Rust",
+   "id": "15b43f2ededd",
+   "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+   "source": "Hacker News",
+   "url": "https://github.com/OmniJev/Flide"
+  },
+  {
+   "id": "540733f9ba79",
+   "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+   "source": "Hacker News",
+   "url": "https://github.com/RenderBear/haci"
+  },
+  {
+   "id": "03f7057627eb",
+   "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50422628"
+  },
+  {
+   "id": "cfa51e1eaf8b",
+   "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "2f5838627a2c",
+   "title": "Hide your slop PR descriptions behind",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
+   "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
   },
   {
-   "id": "39e4bee26d00",
-   "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/cs146s/"
+   "id": "9a6dba4dd2e4",
+   "title": "AI is destroying my CS degree",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/3/hn-50354278/"
   },
   {
-   "id": "02a3dd723830",
-   "title": "officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns",
+   "id": "d1715b49de79",
+   "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M",
    "source": "Techmeme",
-   "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13"
-  },
-  {
-   "id": "25b82f76032b",
-   "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4"
+   "url": "https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/"
   },
   {
    "id": "f0a7d6e1f011",
@@ -50,10 +68,46 @@
    "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns"
   },
   {
-   "id": "317fa585a786",
-   "title": "Job listings show Amazon is building a \"new-to-world\" home robot to operate \"alongside family members\", after its $1,450 Astro reached only a few thousand homes",
+   "id": "8878da69c17a",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/"
+  },
+  {
+   "id": "78060c723b75",
+   "title": "Pluralistic: America cannot undo Trumpism (09 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/"
+  },
+  {
+   "id": "2144adb0bc3e",
+   "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\"",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html"
+   "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/"
+  },
+  {
+   "id": "b8770ac6b953",
+   "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+  },
+  {
+   "id": "184470a1e182",
+   "title": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more",
+   "source": "Techmeme",
+   "url": "https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone"
+  },
+  {
+   "id": "88a3bdeb6a3a",
+   "title": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682"
+  },
+  {
+   "id": "905ff702fd9a",
+   "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race",
+   "source": "Techmeme",
+   "url": "https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity"
   }
  ]
 }

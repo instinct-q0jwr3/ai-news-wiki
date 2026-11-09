@@ -1,0 +1,15 @@
+{
+ "id": "540733f9ba79",
+ "authored_at": "2026-11-09T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "HaCI is a GitHub project for edge detection in RGB images using a compact, fully distributed algorithm. It compares each pixel with its eight neighbors, pools responses by orientation, and uses contour facilitation and suppression in several stages. It is linked to a Zenodo paper."
+ ],
+ "highlights": [
+  "Distributed edge detection with four stages",
+  "Inspired by biological vision gain control",
+  "Paper on Zenodo"
+ ],
+ "basis": "README excerpt only; no benchmarks reviewed"
+}

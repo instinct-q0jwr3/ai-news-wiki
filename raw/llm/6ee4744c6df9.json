@@ -1,0 +1,14 @@
+{
+ "id": "6ee4744c6df9",
+ "authored_at": "2026-11-09T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Asahi Linux, the project that made Linux run on Apple Silicon Macs, is moving all its repositories from the permissive MIT license to GPL version 2 or later. It says people have lifted unreleased feature code from developers' personal forks, or had AI rewrite it to hide where it came from, in order to replace the project and profit from it. MIT explicitly allows reuse and has no protection against bad-faith actors, so the team chose strong copyleft only.\n\nIt Foss, which reports the change, explains 'code laundering': passing someone's code through a rewrite so it can be used without credit or license obligations. LLMs make that cheaper than the old manual renaming. Critics on social media object that relicensing may happen without every earlier contributor agreeing, and Asahi did not say how past contributions will be handled or name anyone it accuses.",
+ "highlights": [
+  "Asahi moves all code to GPLv2-or-later, copyleft only",
+  "Trigger: unreleased code taken from personal forks and AI-rewritten to hide origin",
+  "MIT has no carveout against bad-faith reuse",
+  "Open question: consent of past contributors, not addressed",
+  "Pitched as a precedent like WINE's license history"
+ ]
+}

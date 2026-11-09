@@ -1,0 +1,14 @@
+{
+ "id": "2f5838627a2c",
+ "authored_at": "2026-11-09T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison says most changes to his projects now arrive as pull requests opened by Claude Code or Codex, and agents write PR descriptions that are accurate but so thorough they read like slop. His reaction is to skip them, even when he is the one driving the agent. He wants a short human-approved introduction that says what the PR is for and whether it deserves attention.\n\nHis low-effort fix is the HTML details and summary elements, which GitHub Markdown supports. The human writes a short visible summary and the agent's long description sits collapsed underneath, so readers choose how deep to go.",
+ "highlights": [
+  "Agent-written PR descriptions are accurate but too long to read",
+  "Wants a human-edited short intro",
+  "Use details/summary so the long text is collapsed",
+  "Works in GitHub issues and PR Markdown",
+  "Keeps the agent's detail without forcing readers to wade through it"
+ ]
+}

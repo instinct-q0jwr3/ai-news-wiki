@@ -26,7 +26,8 @@
    "intro": "What engineers should learn when agents do the homework.",
    "stories": [
     "a39b96d44e86",
-    "39e4bee26d00"
+    "39e4bee26d00",
+    "9a6dba4dd2e4"
    ],
    "concepts": []
   },
@@ -50,7 +51,8 @@
    "title": "Safety institute politics",
    "intro": "Who CAISSI answers to.",
    "stories": [
-    "02a3dd723830"
+    "02a3dd723830",
+    "2144adb0bc3e"
    ],
    "concepts": []
   },
@@ -58,7 +60,48 @@
    "title": "The workbench",
    "intro": "Hands-on benchmarks.",
    "stories": [
-    "5f9c9c54ca7d"
+    "5f9c9c54ca7d",
+    "2f5838627a2c",
+    "8878da69c17a",
+    "685570544cf8",
+    "15b43f2ededd",
+    "540733f9ba79"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The budget squeeze",
+   "intro": "AI spending meets limits at big firms and small vendors.",
+   "stories": [
+    "65a3508d35d2",
+    "88a3bdeb6a3a",
+    "d1715b49de79"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Nvidia's founder problem",
+   "intro": "A scandal around the chip maker's CEO.",
+   "stories": [
+    "905ff702fd9a",
+    "cfa51e1eaf8b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Code, licenses and security",
+   "intro": "Open source and security adapt to AI.",
+   "stories": [
+    "6ee4744c6df9",
+    "b8770ac6b953"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Devices",
+   "intro": "On-device AI and its memory cost.",
+   "stories": [
+    "184470a1e182"
    ],
    "concepts": []
   }

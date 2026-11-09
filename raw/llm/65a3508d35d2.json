@@ -1,0 +1,14 @@
+{
+ "id": "65a3508d35d2",
+ "authored_at": "2026-11-09T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Stork AI Daily reports that Apple has lowered the daily AI spending cap for some of its own engineers from $300 to $200, a cut it reads as a sign that even the richest company is rationing compute. The newsletter treats the report as a warning for builders: uncapped model access produces a cost curve that eats margins, so the next edge is efficiency rather than raw capability.\n\nThe argument that follows is an opinion piece. It urges teams to cache intelligently, route work to smaller models and tighten prompts, and says products that rely on brute-force inference without automated cost controls are a financial risk. The Apple figures are described as 'reportedly' and come through a newsletter, not from Apple, so treat the numbers as unconfirmed.",
+ "highlights": [
+  "Reported cut: Apple daily AI cap for some engineers from $300 to $200",
+  "Source is a newsletter, Apple has not confirmed the figures",
+  "Claim: unlimited token use at enterprise scale breaks margins",
+  "Advice: caching, smaller-model routing and prompt trimming",
+  "Framing: efficiency becomes the competitive edge"
+ ]
+}
