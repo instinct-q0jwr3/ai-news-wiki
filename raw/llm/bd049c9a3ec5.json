@@ -1,0 +1,14 @@
+{
+ "id": "bd049c9a3ec5",
+ "authored_at": "2026-11-09T15:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Terence Eden cut bot traffic to his hobby site OpenBenches by over 80% with a simple trap. The site had sent 2.5 TB in a month, mostly AI crawlers pulling data and images. He adds a honeypot directory forbidden in robots.txt; any visitor that requests it is a bot ignoring the rules, and a small PHP page writes its IP into a blocked list in .htaccess, which then returns a 402 'Payment Required' message. The post gives the code and warns it may block innocent visitors.",
+ "highlights": [
+  "Honeypot directory disallowed in robots.txt",
+  "Visiting it adds the IP to .htaccess blocklist",
+  "Blocked requests get HTTP 402",
+  "Over 80% less bot traffic, 2.5 TB in a month before",
+  "Risk: false positives"
+ ]
+}

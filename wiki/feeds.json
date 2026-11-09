@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1148,
+  "stories": 1150,
   "last": "2026-11-09"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1137,
+  "stories": 1143,
   "last": "2026-11-09"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 433,
-  "last": "2026-11-06"
+  "stories": 444,
+  "last": "2026-11-09"
  },
  {
   "name": "Simon Willison",
@@ -162,16 +162,16 @@
   "last": "2026-09-26"
  },
  {
+  "name": "Terence Eden",
+  "url": "https://shkspr.mobi/blog/feed/",
+  "stories": 2,
+  "last": "2026-11-09"
+ },
+ {
   "name": "Experimental History",
   "url": "https://www.experimental-history.com/feed",
   "stories": 1,
   "last": "2026-10-14"
- },
- {
-  "name": "Terence Eden",
-  "url": "https://shkspr.mobi/blog/feed/",
-  "stories": 1,
-  "last": "2026-11-03"
  },
  {
   "name": "Xe Iaso",

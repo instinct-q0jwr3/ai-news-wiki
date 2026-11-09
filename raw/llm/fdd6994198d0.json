@@ -1,0 +1,14 @@
+{
+ "id": "fdd6994198d0",
+ "authored_at": "2026-11-09T15:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A Meta research engineer describes his first year on a team working on recursive self-improvement (RSI), without a academic background; he started in technical support. His view is that data science skills carry over, titles matter little across research scientists and engineers, and about 90% of the work is code that makes research reproducible, with the rest ideas and tests.\n\nHe explains RSI as teaching AI agents to train the next generation of models: one route updates the foundation model, another improves the prompts, tools, memory or code around it. The post is personal career reflection with a short technical frame, not a result.",
+ "highlights": [
+  "Year-in-review of an RSI research engineer at Meta",
+  "RSI: agents that help train the next models",
+  "Two routes: update the model or the scaffold",
+  "About 90% of the time is engineering",
+  "Data science background is enough to enter the field"
+ ]
+}

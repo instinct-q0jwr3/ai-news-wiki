@@ -1,0 +1,14 @@
+{
+ "id": "0678ae57ae1d",
+ "authored_at": "2026-11-09T15:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Warp Sciences announces a $215 million Series A led by Lightspeed to apply AI and robotics to drug discovery infrastructure. Co-founders include DJ Patil, FAIR co-founder Manohar Paluri and chemist Solomon Reisberg. The company is not developing drugs: it is building a US-based preclinical contract research organization that makes and tests molecules for others.\n\nThe plan is to start with human chemists doing real work for customers and automate workflow by workflow. The loop it describes is that more automation yields more experiment data, which trains better science models, which design better experiments. It also pitches the lab as a way to reshore scientific capacity from China.",
+ "highlights": [
+  "$215M Series A led by Lightspeed",
+  "Builds a preclinical CRO, not its own drugs",
+  "Starts with chemists, automates step by step",
+  "Lab data trains science models that improve the lab",
+  "Framed as reshoring capacity from China"
+ ]
+}

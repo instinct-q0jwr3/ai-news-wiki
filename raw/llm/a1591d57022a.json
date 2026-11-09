@@ -1,0 +1,15 @@
+{
+ "id": "a1591d57022a",
+ "authored_at": "2026-11-09T15:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Bloomberg reports via Techmeme that Google will launch two specialized TPUs in 2027: the 8tx, paired with an AMD CPU, and the 8i Max, a dual-chip package for long-context tasks."
+ ],
+ "highlights": [
+  "8tx paired with an AMD CPU",
+  "8i Max: dual-chip for long context",
+  "Both due in 2027"
+ ],
+ "basis": "Techmeme summary only; the article could not be fetched"
+}

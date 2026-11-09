@@ -1,113 +1,149 @@
 {
- "generated_at": "2026-11-09T09:23:03+00:00",
+ "generated_at": "2026-11-09T15:23:57+00:00",
  "stories": [
   {
-   "id": "65a3508d35d2",
-   "title": "Apple capped engineers at a $200 daily AI budget",
+   "id": "7b93e0d31c62",
+   "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
    "source": "Hacker News",
-   "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1"
+   "url": "https://github.com/samir-sarwar/samir-vllm"
   },
   {
-   "id": "6ee4744c6df9",
-   "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+   "id": "5eeb5e17aa05",
+   "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
    "source": "Hacker News",
-   "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/"
+   "url": "https://zenodo.org/records/23682548"
   },
   {
-   "id": "685570544cf8",
-   "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+   "id": "05a4e59e9b3b",
+   "title": "The Components of Agent Memory",
    "source": "Hacker News",
-   "url": "https://github.com/rkaehn/uniform"
+   "url": "https://www.anthropic.com/research/components-of-agent-memory"
   },
   {
-   "id": "15b43f2ededd",
-   "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+   "id": "fdd6994198d0",
+   "title": "A year as a Research Engineer working on RSI at Meta",
+   "source": "TLDR AI",
+   "url": "https://x.com/tomasmann1878/status/2119346730458038678?s=12"
+  },
+  {
+   "id": "005c25d0ffbc",
+   "title": "What Does a Positive AI Future Look Like?",
+   "source": "TLDR AI",
+   "url": "https://x.com/patrickc/status/2119495828683530519"
+  },
+  {
+   "id": "87e46aa34127",
+   "title": "Project EVE: Claude plays MMORPGs",
+   "source": "TLDR AI",
+   "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"
+  },
+  {
+   "id": "78dd5f12e591",
+   "title": "Medium launches TK, an AI-powered, minimalist note-taking, journaling, and private social networking app with daily prompts, its first major launch since 2017",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1029676/medium-tk-notes-app"
+  },
+  {
+   "id": "5f4c02446a81",
+   "title": "US voters in Harwood, North Dakota rejected a ballot measure that opposed Applied Digital's $3B data center, set to open in 2027, bucking a nationwide backlash",
+   "source": "Techmeme",
+   "url": "https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/"
+  },
+  {
+   "id": "6f4c8689fa29",
+   "title": "What the heck is going on with OpenAI internal AI R&D time horizons",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2119541238856663473.html"
+  },
+  {
+   "id": "1f902f3e8d24",
+   "title": "Amsterdam police arrested between 150 and 200 protesters for trespassing and violence at a Microsoft data center construction site owned by Pure Data Centers",
+   "source": "Techmeme",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site"
+  },
+  {
+   "id": "bd049c9a3ec5",
+   "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+   "source": "Terence Eden",
+   "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/"
+  },
+  {
+   "id": "196a1d936873",
+   "title": "Meta Introduces Custom Spaces in Muse",
+   "source": "TLDR AI",
+   "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
+  },
+  {
+   "id": "1186645528c9",
+   "title": "Meta expands its AI age estimation tech globally to apply Instagram's Teen Account protections for millions of users from 13 to 17 who misrepresented their age",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
+  },
+  {
+   "id": "9973178dd326",
+   "title": "Spines, which uses AI agents to edit and proofread amateur authors' books, design their covers, and handle the layout, raised $29M in equity and $35M in debt",
+   "source": "Techmeme",
+   "url": "https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574"
+  },
+  {
+   "id": "7ac9e11f87c1",
+   "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008",
+   "source": "Techmeme",
+   "url": "https://psi.inc/research/aaronson-ambainis/"
+  },
+  {
+   "id": "27e698346598",
+   "title": "Introducing the New Auto and Auto Code Routers",
+   "source": "TLDR AI",
+   "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/"
+  },
+  {
+   "id": "73d05e156d1e",
+   "title": "The end of Microsoft Research's AI Frontiers group",
    "source": "Hacker News",
-   "url": "https://github.com/OmniJev/Flide"
+   "url": "https://hunch.net/?p=13764006"
   },
   {
-   "id": "540733f9ba79",
-   "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+   "id": "e6d1b6a22e01",
+   "title": "Can LLMs redesign themselves as they train?",
+   "source": "TLDR AI",
+   "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+  },
+  {
+   "id": "74fd5b902712",
+   "title": "AI is dramatically accelerating AI research",
    "source": "Hacker News",
-   "url": "https://github.com/RenderBear/haci"
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
   },
   {
-   "id": "03f7057627eb",
-   "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50422628"
+   "id": "6bd565322baf",
+   "title": "OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
   },
   {
-   "id": "cfa51e1eaf8b",
-   "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley",
+   "id": "4263264ef4f5",
+   "title": "Symbiotic Firms Built Around Humans and AI",
+   "source": "TLDR AI",
+   "url": "https://x.com/johnjnay/status/2118377267495649448"
+  },
+  {
+   "id": "a1591d57022a",
+   "title": "Google unveils two specialized TPUs launching in 2027: the 8tx, to be paired with an AMD CPU, and the 8i Max, a dual-chip package for long-context window tasks",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?st=qRVEvG&reflink=desktopwebshare_permalink"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems"
   },
   {
-   "id": "2f5838627a2c",
-   "title": "Hide your slop PR descriptions behind",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
+   "id": "085ef46e57ce",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"
   },
   {
-   "id": "9a6dba4dd2e4",
-   "title": "AI is destroying my CS degree",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/3/hn-50354278/"
-  },
-  {
-   "id": "d1715b49de79",
-   "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M",
-   "source": "Techmeme",
-   "url": "https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger/"
-  },
-  {
-   "id": "f0a7d6e1f011",
-   "title": "Tencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models",
-   "source": "Techmeme",
-   "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns"
-  },
-  {
-   "id": "8878da69c17a",
-   "title": "The Web Is More Than Enough, by Paul Ford",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/"
-  },
-  {
-   "id": "78060c723b75",
-   "title": "Pluralistic: America cannot undo Trumpism (09 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/"
-  },
-  {
-   "id": "2144adb0bc3e",
-   "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\"",
-   "source": "Techmeme",
-   "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/"
-  },
-  {
-   "id": "b8770ac6b953",
-   "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
-  },
-  {
-   "id": "184470a1e182",
-   "title": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more",
-   "source": "Techmeme",
-   "url": "https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone"
-  },
-  {
-   "id": "88a3bdeb6a3a",
-   "title": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682"
-  },
-  {
-   "id": "905ff702fd9a",
-   "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race",
-   "source": "Techmeme",
-   "url": "https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity"
+   "id": "0678ae57ae1d",
+   "title": "Warp Sciences raises $215M for AI-powered labs",
+   "source": "TLDR AI",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519100037973401600/"
   }
  ]
 }

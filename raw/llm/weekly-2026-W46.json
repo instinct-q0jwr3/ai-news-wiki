@@ -65,7 +65,10 @@
     "8878da69c17a",
     "685570544cf8",
     "15b43f2ededd",
-    "540733f9ba79"
+    "540733f9ba79",
+    "7b93e0d31c62",
+    "27e698346598",
+    "5eeb5e17aa05"
    ],
    "concepts": []
   },
@@ -93,7 +96,8 @@
    "intro": "Open source and security adapt to AI.",
    "stories": [
     "6ee4744c6df9",
-    "b8770ac6b953"
+    "b8770ac6b953",
+    "bd049c9a3ec5"
    ],
    "concepts": []
   },
@@ -102,6 +106,57 @@
    "intro": "On-device AI and its memory cost.",
    "stories": [
     "184470a1e182"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Self-improvement and the upside",
+   "intro": "Research on agents that improve themselves, and the open question of the good outcome.",
+   "stories": [
+    "fdd6994198d0",
+    "e6d1b6a22e01",
+    "6f4c8689fa29",
+    "87e46aa34127",
+    "4263264ef4f5",
+    "005c25d0ffbc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Money at the frontier",
+   "intro": "Funding, valuations and chips.",
+   "stories": [
+    "6bd565322baf",
+    "0678ae57ae1d",
+    "9973178dd326",
+    "a1591d57022a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Labs and lab science",
+   "intro": "",
+   "stories": [
+    "085ef46e57ce"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Backlash and guardrails",
+   "intro": "Data-center protests, votes and teen protections.",
+   "stories": [
+    "1f902f3e8d24",
+    "5f4c02446a81",
+    "1186645528c9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Consumer products",
+   "intro": "New apps from Meta and Medium.",
+   "stories": [
+    "196a1d936873",
+    "78dd5f12e591"
    ],
    "concepts": []
   }

@@ -1,0 +1,14 @@
+{
+ "id": "7b93e0d31c62",
+ "authored_at": "2026-11-09T15:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Samir Sarwar's repository teaches LLM inference from first principles by building a small engine in C++ and CUDA. The series follows what happens between a prompt and a generated token: loading weights, then running each transformer part on the GPU. Parts cover prefill, decode and the KV cache, then static and continuous batching with a paged cache and online-softmax decode attention, using a Llama 3.2 1B path.\n\nThe author says the 80+ pages of handwritten notes and diagrams were written without AI. The engine keeps a fixed 2,048-token context and a KV pool of 128 MiB by default. Admission reserves room for each request's maximum length so generation cannot deadlock, which avoids preemption but can limit concurrency when output budgets are large.",
+ "highlights": [
+  "Learning engine built in C++ and CUDA for Llama 3.2 1B",
+  "Covers prefill, decode, KV cache and batching",
+  "Paged KV cache, default pool 128 MiB, 16-token pages",
+  "Conservative admission: no preemption, requests queue FIFO",
+  "Notes and videos are the teaching material"
+ ]
+}

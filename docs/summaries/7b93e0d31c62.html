@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1794238020"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</h1>
+<p class="meta">type: news-summary · created: 2026-11-09 · updated: 2026-11-09 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Samir Sarwar's repository teaches LLM inference from first principles by building a small engine in C++ and CUDA. The series follows what happens between a prompt and a generated token: loading weights, then running each transformer part on the GPU. Parts cover prefill, decode and the KV cache, then static and continuous batching with a paged cache and online-softmax decode attention, using a Llama 3.2 1B path.</p>
+<p>The author says the 80+ pages of handwritten notes and diagrams were written without AI. The engine keeps a fixed 2,048-token context and a KV pool of 128 MiB by default. Admission reserves room for each request's maximum length so generation cannot deadlock, which avoids preemption but can limit concurrency when output budgets are large.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Learning engine built in C++ and CUDA for Llama 3.2 1B</li>
+<li>Covers prefill, decode, KV cache and batching</li>
+<li>Paged KV cache, default pool 128 MiB, 16-token pages</li>
+<li>Conservative admission: no preemption, requests queue FIFO</li>
+<li>Notes and videos are the teaching material</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/samir-sarwar/samir-vllm">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

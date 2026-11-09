@@ -1,0 +1,14 @@
+{
+ "id": "5eeb5e17aa05",
+ "authored_at": "2026-11-09T15:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Ginux is described as a new kernel that runs a Linux userspace, built through human-directed AI engineering."
+ ],
+ "highlights": [
+  "Kernel runs Linux userspace",
+  "Built with human-directed AI"
+ ],
+ "basis": "Title only; the Zenodo page returned no readable content"
+}

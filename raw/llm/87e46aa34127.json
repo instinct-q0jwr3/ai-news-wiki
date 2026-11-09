@@ -1,0 +1,15 @@
+{
+ "id": "87e46aa34127",
+ "authored_at": "2026-11-09T15:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Project EVE has Claude play multiplayer space games, with transcripts of agents in a saboteur-hunt scenario where aligned agents accuse a suspect, and the saboteur argues publicly while reasoning privately about deflecting blame. The page is long; this note rests on the opening excerpt."
+ ],
+ "highlights": [
+  "Claude agents play an MMORPG with hidden saboteurs",
+  "Shows public messages versus private reasoning",
+  "Deception and cooperation are the focus"
+ ],
+ "basis": "Only the opening excerpt was reviewed"
+}
