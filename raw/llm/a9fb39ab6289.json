@@ -1,0 +1,12 @@
+{
+ "id": "a9fb39ab6289",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison's llm-gemini 0.36 adds Gemini 4 Carbon. He notes it costs $2 per million input and $10 per million output tokens at launch, and demos from Google's Antigravity: with /swarm, Carbon built an open-world 3D game set on Google's Mountain View campus with a pelican on a GBike, coordinating subagents to model assets in Blender and build it in Three.js with procedural audio.",
+ "highlights": [
+  "llm-gemini 0.36 supports Gemini 4 Carbon",
+  "Priced $2/$10 per million tokens",
+  "Antigravity swarm demo: subagents build a 3D campus game"
+ ]
+}

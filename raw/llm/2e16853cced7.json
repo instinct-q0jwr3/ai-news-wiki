@@ -1,0 +1,13 @@
+{
+ "id": "2e16853cced7",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic launched Claude Whiteboards and Claude Sheets in beta and made Claude Dashboards generally available as Claude Data. Whiteboards is a shared board for brainstorming with Claude, Sheets a spreadsheet Claude builds and edits, and Data adds data stories, certified queries and live sharing. The pitch is that work stays inside Claude instead of being copied into tools it cannot follow. Available on all paid plans.",
+ "highlights": [
+  "Whiteboards and Sheets in beta; Dashboards becomes Claude Data (GA)",
+  "Work stays live in Claude with team editing",
+  "Outputs can move into partner tools",
+  "All paid plans"
+ ]
+}

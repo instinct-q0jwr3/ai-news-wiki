@@ -1,0 +1,13 @@
+{
+ "id": "1f69285c7e25",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Modern Web Guidance is a Google Chrome-stewarded set of skills that gives coding agents web platform expertise, best practices and browser compatibility data, steering them away from about-2019 legacy JavaScript patterns toward modern web primitives. Mozilla, Microsoft Edge and MDN teams also steward it. Install with an npx wizard, then search and pull guides by topic.",
+ "highlights": [
+  "Skills embed web platform knowledge into coding agents",
+  "Stewarded by Chrome, Edge, Firefox and MDN teams",
+  "Aims agents at modern primitives over legacy patterns",
+  "npx install, search and fetch guides"
+ ]
+}

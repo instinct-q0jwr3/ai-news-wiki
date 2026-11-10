@@ -1,0 +1,14 @@
+{
+ "id": "bf362c095434",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "An open field guide to inference engineering for platform engineers: how models and GPUs work together, running inference in production, the tools, and growing into the role. It argues platform teams are becoming inference teams, since coding assistants cannot send source out and frontier model bills keep rising, while open models now compete with closed ones (R1 matched o1 about a month after release). Running your own model controls latency, uptime and data, and can cut costs about 80% at volume. Most of the 10x-a-year price drop in capability comes from serving, not GPUs; the real work is TLS, identity, timeouts, storage, IAM and observability.",
+ "highlights": [
+  "Platform teams become inference teams",
+  "Open models now rival closed ones",
+  "Self-hosting can cut costs about 80% at volume",
+  "Capability price falls about 10x a year, mostly via serving",
+  "The hard parts are TLS, IAM, timeouts and observability"
+ ]
+}

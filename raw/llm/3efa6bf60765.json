@@ -1,0 +1,15 @@
+{
+ "id": "3efa6bf60765",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "OpenAI's page introduces Businesses in ChatGPT, with Business Agents that represent companies to users, per The Verge: eligible US e-commerce and service businesses first, in beta, with comparison shopping and follow-up questions inside the chat."
+ ],
+ "highlights": [
+  "Business Agents represent brands inside ChatGPT",
+  "Beta for eligible US businesses",
+  "Comparison shopping use case"
+ ],
+ "basis": "Verge summary plus headline; OpenAI page not readable"
+}

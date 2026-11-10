@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-10",
+ "date": "2026-11-10",
+ "status": "provisional",
+ "reserve": "320a21c57274",
+ "picks": [
+  {
+   "id": "c01367ae4cdf",
+   "front": "Models",
+   "source": "blog.google",
+   "why": "Gemini 4 Carbon opens to everyone: Google claims frontier cybersecurity and long-horizon agentic work, at $2/$10 per million tokens."
+  },
+  {
+   "id": "2e16853cced7",
+   "front": "Products",
+   "source": "claude.com",
+   "why": "Claude adds Whiteboards, Sheets and Data so work stays live inside Claude instead of being exported to other tools."
+  },
+  {
+   "id": "6d873daba67e",
+   "front": "Research",
+   "source": "charleshuang.me",
+   "why": "TheoremSmith mass-produces formal verification problems; the author claims verification cost fell from $362 to about $0.10 per line."
+  },
+  {
+   "id": "d20cd014be72",
+   "front": "Policy",
+   "source": "berthub.eu",
+   "why": "Bert Hubert argues that in 2026 merely storing bulk personal data is a provably bigger risk than the ECtHR assumed."
+  },
+  {
+   "id": "6d3d6b0c54e7",
+   "front": "Work",
+   "source": "activtrak.com",
+   "why": "Behavioral data from 9,140 workers: AI users work up to 90 minutes longer and heavy users focus less."
+  }
+ ]
+}

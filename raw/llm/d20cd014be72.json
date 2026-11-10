@@ -1,0 +1,14 @@
+{
+ "id": "d20cd014be72",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Bert Hubert revisits the European Court of Human Rights cases Leander v Sweden and Big Brother Watch, under which the mere gathering and storage of bulk personal data was treated as a real but manageable infringement of Article 8 privacy rights, since nobody was yet looking at it. He argues that in 2026 the risk of merely holding such data is provably higher: agencies get hacked, classified data leaks, and US-run collection facilities have been compromised by China-linked actors.\n\nHe asks courts and legislators to recalibrate, to demand strong technical oversight, and to look harshly at state attempts to extend the 'mere storage' doctrine to merely hacking and installing surveillance software.",
+ "highlights": [
+  "ECtHR treated bulk storage as manageable because no one looked at the data",
+  "2026 reality: stored datasets leak and get hacked",
+  "China-linked actors compromised US collection facilities",
+  "Calls for strong technical oversight",
+  "Warns against extending the doctrine to hacking and surveillance software"
+ ]
+}

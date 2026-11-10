@@ -81,7 +81,10 @@
     "2686d8a5eca7",
     "2078b6653145",
     "8f5a4dccb729",
-    "47e6095210fd"
+    "47e6095210fd",
+    "1f69285c7e25",
+    "bf362c095434",
+    "cf09809a4636"
    ],
    "concepts": []
   },
@@ -142,7 +145,10 @@
     "6bd565322baf",
     "0678ae57ae1d",
     "9973178dd326",
-    "a1591d57022a"
+    "a1591d57022a",
+    "869e73769c27",
+    "da428812d2e1",
+    "98b225cc6921"
    ],
    "concepts": []
   },
@@ -305,7 +311,10 @@
     "9a7aed8771d3",
     "30ace3924166",
     "a32700385ee6",
-    "def03cc7a3f7"
+    "def03cc7a3f7",
+    "af14c362ae81",
+    "c11fc025b66f",
+    "dd042903c4f4"
    ],
    "concepts": []
   },
@@ -317,7 +326,9 @@
     "a91aa38365ec",
     "8e4f66d0a1f4",
     "0e87ca580dfa",
-    "2ebd1f373d4b"
+    "2ebd1f373d4b",
+    "320a21c57274",
+    "6d873daba67e"
    ],
    "concepts": []
   },
@@ -330,6 +341,48 @@
     "d47a957d7a03",
     "985a84cadfea",
     "c8a9310d3655"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Gemini 4 Carbon",
+   "intro": "Google's strongest model opens to everyone.",
+   "stories": [
+    "c01367ae4cdf",
+    "5e7293202f47",
+    "a9fb39ab6289"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents as the front door",
+   "intro": "Business agents, AEO and agent-built products.",
+   "stories": [
+    "3cc59c98e340",
+    "3efa6bf60765",
+    "5726ee544e42",
+    "2e16853cced7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Power, work and society",
+   "intro": "Surveillance doctrine, longer workdays and fiction of the automated life.",
+   "stories": [
+    "d20cd014be72",
+    "6d3d6b0c54e7",
+    "1196fe7a83e4",
+    "beb1de4c25e6",
+    "0f4126229438"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The Huang affair",
+   "intro": "",
+   "stories": [
+    "5c56a9bb00e1",
+    "34461c6e863a"
    ],
    "concepts": []
   }

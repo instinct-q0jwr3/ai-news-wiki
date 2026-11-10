@@ -1,0 +1,13 @@
+{
+ "id": "320a21c57274",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "The AI Futures Project updates its AI timelines after METR's deep-access report on Anthropic's R&D acceleration. It quotes METR's best estimate of about 2x acceleration with wide uncertainty (1.3x to 3x), the ways it could be underestimating (continuous or hyperbolic growth, automation closer than estimated, AECI understating real capability) and overestimating (non-AI causes, well-specified tasks only, an unusually low historical rate). It judges that Claude Mythos 5.2 does not cross Anthropic's RSP doubling threshold on a holistic view.",
+ "highlights": [
+  "Timelines updated after METR's Anthropic report",
+  "METR: about 2x acceleration, range 1.3x-3x",
+  "Risks both of under- and over-estimating",
+  "Mythos 5.2 judged below the RSP doubling threshold"
+ ]
+}

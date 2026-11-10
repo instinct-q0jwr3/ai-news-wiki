@@ -1,0 +1,13 @@
+{
+ "id": "6d873daba67e",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "TheoremSmith is a pipeline for mass-producing hard formal verification problems to train LLMs with RL, where proofs are easy to verify. Its author argues better formal verification both pushes math research (citing 10,000 agents on Navier-Stokes and the Fermat formalization) and cuts software bugs: outages rose 50% in two years, industry QA cannot keep up with agentic coding, and the cost of formal verification has flipped from about $362 per line (seL4) to about $0.10 with AI, making it viable beyond cryptographic libraries and microkernels. The two halves are writing a specification and proving it.",
+ "highlights": [
+  "Synthetic formal-verification environments at scale",
+  "Claims verification cost fell from $362 to about $0.10 per line",
+  "Ties agentic coding growth to a 50% rise in outages",
+  "Proofs give easy RL reward signals"
+ ]
+}

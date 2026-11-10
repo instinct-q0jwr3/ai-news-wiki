@@ -1,0 +1,13 @@
+{
+ "id": "5726ee544e42",
+ "authored_at": "2026-11-10T21:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Latent Space interviews Zeno Rocha, CEO of Resend, on agent experience optimization (AEO). The hook: in an AEO study, Claude Code picked Resend first in 64 of 102 email recommendations, while SendGrid came first seven times but appeared 55 times as an alternative. If a developer asks an agent to add email and accepts the suggestion, the agent's choice becomes the vendor. The episode is about designing products agents recommend.",
+ "highlights": [
+  "Claude Code picked Resend first in 64 of 102 recommendations",
+  "SendGrid: first 7 times, alternative 55 times",
+  "Agents increasingly choose the vendor",
+  "AEO: designing for agent recommenders"
+ ]
+}
