@@ -1,47 +1,35 @@
 {
- "generated_at": "2026-11-10T03:25:42+00:00",
+ "generated_at": "2026-11-10T09:26:25+00:00",
  "stories": [
   {
-   "id": "9bc9cbab3764",
-   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "id": "dc722ca92058",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
    "source": "Hacker News",
-   "url": "https://research.meta.ai/blog/muse-ember"
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
   },
   {
-   "id": "52813389f128",
-   "title": "TPU 8tx and TPU 8i Max",
+   "id": "26f1e57f88f2",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
   },
   {
-   "id": "9075c3b07c9a",
-   "title": "Indie Game Development with AI",
+   "id": "300ee28338da",
+   "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
    "source": "Hacker News",
-   "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai"
+   "url": "https://news.ycombinator.com/item?id=50436636"
   },
   {
-   "id": "2b89f7041b71",
-   "title": "The Race to Build a \"Find My\" for AI Chips",
-   "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/find-my-ai-chip"
+   "id": "e4144c90fe90",
+   "title": "Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1",
+   "source": "Techmeme",
+   "url": "https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license"
   },
   {
-   "id": "19d70b954664",
-   "title": "USB: A trust layer for AI skills and MCP servers",
-   "source": "Hacker News",
-   "url": "https://github.com/PeepSick/usbplus"
-  },
-  {
-   "id": "73d96d7b787f",
-   "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
-   "source": "Hacker News",
-   "url": "https://github.com/humanethq/airgap-check"
-  },
-  {
-   "id": "e52e07e84e30",
-   "title": "Bloomberg Was Onto Megaspeed’s Game a Year Ago",
-   "source": "Daring Fireball",
-   "url": "https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us"
+   "id": "b268f1f48396",
+   "title": "China's trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/"
   },
   {
    "id": "90585a01d35a",
@@ -50,22 +38,58 @@
    "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
   },
   {
-   "id": "72fc9a3a206f",
-   "title": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate",
+   "id": "bd818d9c44f8",
+   "title": "Analysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling"
   },
   {
-   "id": "811b2111fab9",
-   "title": "llm-anthropic 0.31",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
+   "id": "042749977b3a",
+   "title": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept.",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules"
   },
   {
-   "id": "3f3d74e1e0fe",
-   "title": "Locating the source of a mysterious beep with Claude",
+   "id": "524d8c32e888",
+   "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A; FactSet led the Series A",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai"
+  },
+  {
+   "id": "0293decf97a6",
+   "title": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+   "source": "Daring Fireball",
+   "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
+  },
+  {
+   "id": "2bd2335b715f",
+   "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/"
+  },
+  {
+   "id": "459fd055a776",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/"
+  },
+  {
+   "id": "0803a85de399",
+   "title": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show"
+  },
+  {
+   "id": "e4ec8085ed7f",
+   "title": "Quoting Prompting Claude Fable 5.2",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
+  },
+  {
+   "id": "feb145172e7e",
+   "title": "Yonkers Rises",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
   }
  ]
 }

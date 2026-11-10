@@ -1,0 +1,12 @@
+{
+ "id": "e4ec8085ed7f",
+ "authored_at": "2026-11-10T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Anthropic's prompting guide for Fable 5.2 says the model follows what a prompt says about who owns the code. With no ownership statement, or code framed as someone else's, it tends to add to existing structure even when that duplicates code. To get it to improve structure, tell it the codebase is its own, for example: 'This codebase is yours.'",
+ "highlights": [
+  "Ownership framing changes how much it restructures",
+  "Default: add to existing structure",
+  "Tip: say the codebase is the model's own"
+ ]
+}

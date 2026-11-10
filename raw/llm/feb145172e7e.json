@@ -1,0 +1,12 @@
+{
+ "id": "feb145172e7e",
+ "authored_at": "2026-11-10T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison asked Claude Fable 5.2 at Medium effort to animate Yonkers standing up as a mech and stomping over Manhattan, Queens and Brooklyn using OpenStreetMap data. It correctly read his phone-keyboard typo 'átomos' as 'stomps'. A light test of its 3D and animation skills.",
+ "highlights": [
+  "Three.js mech animation from OpenStreetMap data",
+  "Model inferred the typo 'stomps'",
+  "Quick demo of Fable 5.2 3D skills"
+ ]
+}

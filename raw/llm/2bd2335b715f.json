@@ -1,0 +1,14 @@
+{
+ "id": "2bd2335b715f",
+ "authored_at": "2026-11-10T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Latent Space's AINews says Claude Fable 5.2 retook the top spot among LLMs, ahead of Gemini 4 Carbon which held it for 10 days, as Anthropic's IPO roadshow began. Pricing falls 20% per token to $8/$40, but the model uses more tokens: on SemiAnalysis's GDPx professional-task benchmark the cost per task rose from $67.16 to $88.15, because the model writes hundreds or thousands of tests and spawns subagents to check its work. That helped it reach 16.4% and first place.\n\nThe issue collects vendor claims: Fable at High matching Opus 5.5 at Max for about half the cost on FrontierCode 2.0, 1,000 agents formalizing the Fermat proof in 30 hours versus 26% in 18 hours for Opus 5.5, and Mythos modeling 28 of 34 gene-therapy capsids. Medium is the default effort; there are five effort levels and a 1M-token context. It also notes deliberate limits on recursive self-improvement help and restricted subscription access.",
+ "highlights": [
+  "Fable 5.2 back at #1 on leaderboards, per the issue",
+  "Per-token price down 20% but cost per task up ($67 to $88 on GDPx)",
+  "More self-testing and subagents drive the extra tokens",
+  "Vendor claims: Fermat proof in 30 hours, FrontierCode results",
+  "Medium default effort; five effort levels; 1M context"
+ ]
+}

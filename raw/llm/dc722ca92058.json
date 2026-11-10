@@ -1,0 +1,14 @@
+{
+ "id": "dc722ca92058",
+ "authored_at": "2026-11-10T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "CNBC reports that debt markets are tightening on AI data center builders. Neocloud CoreWeave's 2032 bond, with a 9.625% coupon, now yields over 16%, and its five-year credit default swaps spiked above 1,289 basis points on Thursday before easing to about 1,155. Jefferies' Christopher Wood says the most plausible way the AI capex race ends is that 'the credit card will be taken away', though that has not happened yet.\n\nThe spook is political: Democratic governors in Ohio, Texas and Georgia and a Democratic Congress could delay or scrap data center projects, with moratoriums possibly affecting 45% of planned capacity. CDS on even strong names rose, Nvidia up 76% in a month, Broadcom 49%, Amazon 44%, but from low levels (Nvidia about 139 bps).",
+ "highlights": [
+  "CoreWeave 2032 bond yield above 16%",
+  "CoreWeave CDS peaked above 1,289 bps, then about 1,155",
+  "Political risk: possible data-center curbs in Ohio, Texas, Georgia",
+  "Nvidia, Broadcom, Amazon CDS up but still low in absolute terms",
+  "Higher CDS implies costlier financing ahead"
+ ]
+}

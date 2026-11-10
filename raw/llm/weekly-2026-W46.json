@@ -236,7 +236,9 @@
     "52813389f128",
     "90585a01d35a",
     "e52e07e84e30",
-    "2b89f7041b71"
+    "2b89f7041b71",
+    "0293decf97a6",
+    "524d8c32e888"
    ],
    "concepts": []
   },
@@ -245,6 +247,38 @@
    "intro": "",
    "stories": [
     "72fc9a3a206f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Fable 5.2 aftermath",
+   "intro": "Pricing, benchmarks and prompting notes.",
+   "stories": [
+    "2bd2335b715f",
+    "e4ec8085ed7f",
+    "feb145172e7e",
+    "459fd055a776"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Credit stress and breaches",
+   "intro": "Debt markets and a vendor breach.",
+   "stories": [
+    "dc722ca92058",
+    "26f1e57f88f2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips, China and rules",
+   "intro": "Export controls, open weights and regulation.",
+   "stories": [
+    "bd818d9c44f8",
+    "0803a85de399",
+    "e4144c90fe90",
+    "b268f1f48396",
+    "042749977b3a"
    ],
    "concepts": []
   }

@@ -1,0 +1,14 @@
+{
+ "id": "e4144c90fe90",
+ "authored_at": "2026-11-10T09:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Meituan released the weights of LongCat-2.5, a 1.6-trillion-parameter mixture-of-experts model for long agentic work, on Hugging Face under the MIT License, a week after announcing it. VentureBeat says it handles screenshots and video, works through codebases and revises software over multiple steps, and that Meituan's hosted API pricing makes trials cheap.\n\nThe suggested test is a job needing visual judgment plus code, such as turning a screenshot of a broken checkout flow into a patch. Western enterprises should weigh scrutiny of Chinese models in Washington: DHS ordered federal agencies to drop DeepSeek in October, though VentureBeat found no restriction naming Meituan as of Nov. 9.",
+ "highlights": [
+  "Open weights, MIT License, 1.6T-parameter MoE",
+  "Vision and video plus multi-step coding",
+  "Discounted hosted API",
+  "Test it on visual-regression bug fixes",
+  "Procurement risk for US firms: DeepSeek ban shows rules shift fast"
+ ]
+}
