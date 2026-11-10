@@ -1,0 +1,13 @@
+{
+ "id": "19d70b954664",
+ "authored_at": "2026-11-10T03:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "USB is an open-source trust layer for AI skills and MCP servers. It finds skills, servers, agents and commands in repositories, compares what they claim to do with observable evidence using a static scanner (secscan) and a live MCP probe (mcprobe), and installs them into 16 runtimes such as Claude Code and Cursor. Version 1.0.8 lists 529 skills and installs with an npm command. The claims are the project's own.",
+ "highlights": [
+  "Checks declared behavior against observed behavior",
+  "secscan static scan plus mcprobe live probing",
+  "529 skills, 16 runtime targets, MIT license",
+  "One installer across Claude Code, Cursor and others"
+ ]
+}

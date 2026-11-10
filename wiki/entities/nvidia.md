@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-09 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-10 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-10** - Daring Fireball points to Bloomberg's December 2025 reporting on Megaspeed International, a Singapore AI firm that quickly drew attention in Nvidia's supply chain. Only the introduction was read. ([Bloomberg Was Onto Megaspeed’s Game a Year Ago](../summaries/e52e07e84e30.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-09** - Semafor says Nvidia faces a crisis with little precedent after reports that Jensen Huang was targeted by a Chinese 'honeytrap' operation. Huang admitted in a statement that he had been unfaithful to his wife and said he remains fully committed to Nvidia.… ([Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race](../summaries/905ff702fd9a.md) · [NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-09** - The Wall Street Journal reports, via Techmeme, that Jensen Huang has brought his children and other relatives into Nvidia, making the company unusually family-run for Silicon Valley. ([Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley](../summaries/cfa51e1eaf8b.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-06** - Bloomberg reports Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing. ([Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing](../summaries/9addfb68b027.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒

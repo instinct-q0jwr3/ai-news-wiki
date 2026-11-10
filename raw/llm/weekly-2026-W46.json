@@ -71,7 +71,12 @@
     "5eeb5e17aa05",
     "bac8a465e0bf",
     "12f752b5d6d1",
-    "34ccb02371fc"
+    "34ccb02371fc",
+    "9075c3b07c9a",
+    "3f3d74e1e0fe",
+    "811b2111fab9",
+    "19d70b954664",
+    "73d96d7b787f"
    ],
    "concepts": []
   },
@@ -221,6 +226,25 @@
    "stories": [
     "560eac1bd2d3",
     "38592ea82818"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Silicon and platforms",
+   "intro": "Chips, usage pricing and supply chain.",
+   "stories": [
+    "52813389f128",
+    "90585a01d35a",
+    "e52e07e84e30",
+    "2b89f7041b71"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's money",
+   "intro": "",
+   "stories": [
+    "72fc9a3a206f"
    ],
    "concepts": []
   }

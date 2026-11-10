@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-09 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-10 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-10** - Apple launched its first paid Apple Intelligence add-on: a one-time $49.99 'intelligence usage pack' in Logic Pro, available when you reach your monthly limit. Unused usage rolls over and expires after 12 months, does not support Family Sharing and works… ([Apple is now offering additional AI access via one-time $50 "intelligence usage packs" when monthly usage caps are met, starting in its Creator Studio apps](../summaries/90585a01d35a.md) · [Apple](../entities/apple.md))
 - **2026-11-09** - Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use). ([Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](../summaries/33f680118998.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-09** - Stork AI Daily reports that Apple has lowered the daily AI spending cap for some of its own engineers from $300 to $200, a cut it reads as a sign that even the richest company is rationing compute. The newsletter treats the report as a warning for… ([Apple capped engineers at a $200 daily AI budget](../summaries/65a3508d35d2.md) · [Apple](../entities/apple.md))
 - **2026-11-08** - Bloomberg's Mark Gurman newsletter, per Techmeme, says John Ternus wants more urgency in Apple's AI efforts and is pushing Craig Federighi to move beyond Siri AI. Basis: paywalled; only the headline is known. ([John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities](../summaries/fcd8194ee640.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md)) 🔒

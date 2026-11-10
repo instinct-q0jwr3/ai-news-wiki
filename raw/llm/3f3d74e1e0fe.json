@@ -1,0 +1,13 @@
+{
+ "id": "3f3d74e1e0fe",
+ "authored_at": "2026-11-10T03:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison used Claude to build a tool that finds a mysterious beeping device in a room. Several laptops, phones and iPads join a Python web app through the browser and listen at once with WebAudio, then triangulate the sound. He started from the BeepBeep acoustic ranging paper, so the devices can also locate one another by playing sounds, and the app gained a rough-placement map, clap detection, timestamps, replays and a mark for 'this is the mystery beep'.\n\nThe post is a worked example of prompting with a problem file and iterating step by step.",
+ "highlights": [
+  "Browser devices listen together to locate a beep",
+  "Based on the BeepBeep acoustic ranging paper",
+  "Claude built the Python and WebAudio app in steps",
+  "Features: rough map, clap tests, replay, labeling the beep"
+ ]
+}

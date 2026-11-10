@@ -1,0 +1,13 @@
+{
+ "id": "73d96d7b787f",
+ "authored_at": "2026-11-10T03:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Airgap-check is a Go tool that finds what an AI app downloads or tries to reach when the network is gone. Pointing an LLM URL at local vLLM or Ollama does not make an app offline-ready, because libraries fetch tokenizer data, ONNX weights, corpora, price maps or telemetry on first use, then fail or hang on retry backoff. The tool scans a repo statically, suggests a Dockerfile fix, and with --run executes the app in a container with no network.",
+ "highlights": [
+  "Local LLM does not mean offline-ready",
+  "Libraries fetch tokenizers, weights and telemetry on first use",
+  "Static scan, fix snippet, and no-network run",
+  "Useful for air-gapped, hospital or defense networks"
+ ]
+}

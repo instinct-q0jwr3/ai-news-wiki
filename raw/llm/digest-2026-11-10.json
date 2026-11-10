@@ -1,0 +1,40 @@
+{
+ "id": "digest-2026-11-10",
+ "date": "2026-11-10",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": "Google adds two TPU systems, Apple starts charging for AI usage, and developers report what building with agents is really like, from games to a beep tracker.",
+ "sections": [
+  {
+   "title": "Silicon and platforms",
+   "intro": "Chips, usage pricing and supply chain.",
+   "stories": [
+    "52813389f128",
+    "90585a01d35a",
+    "e52e07e84e30",
+    "2b89f7041b71"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The workbench",
+   "intro": "Building with agents.",
+   "stories": [
+    "9075c3b07c9a",
+    "3f3d74e1e0fe",
+    "811b2111fab9",
+    "19d70b954664",
+    "73d96d7b787f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's money",
+   "intro": "",
+   "stories": [
+    "72fc9a3a206f"
+   ],
+   "concepts": []
+  }
+ ]
+}

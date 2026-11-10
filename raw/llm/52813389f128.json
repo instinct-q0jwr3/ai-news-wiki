@@ -1,0 +1,14 @@
+{
+ "id": "52813389f128",
+ "authored_at": "2026-11-10T03:30:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google announced two more systems in its eighth-generation TPU line: TPU 8tx for secure, confidential inference, and TPU 8i Max for very large context windows and the highest compute density per rack. With the earlier 8t (training) and 8i (real-time reasoning), that makes four TPU systems in one year, a first for Google.\n\nVahdat says the move is driven by customer feedback: agent-scale workloads need accelerators that reason over huge contexts, and regulated customers want specialized encryption. He stresses that a new system, which combines compute, networking, storage and packaging around a chip, can be delivered faster than a new chip. Google says TPUs now have nearly 100 customers, including frontier labs and trading firms, and that it is easing access through PyTorch support.",
+ "highlights": [
+  "TPU 8tx: secure, confidential inference",
+  "TPU 8i Max: massive context, highest rack density",
+  "Four TPU systems in one year, a Google first",
+  "New systems are faster to ship than new chips",
+  "Nearly 100 TPU customers; PyTorch support to widen access"
+ ]
+}

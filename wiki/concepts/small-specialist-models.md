@@ -1,6 +1,6 @@
 # Concept: Small and specialist models
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-09 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-10 · confidence: medium_
 
 `concept` `small-specialist-models`
 

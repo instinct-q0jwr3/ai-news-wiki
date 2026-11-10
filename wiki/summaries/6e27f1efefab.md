@@ -1,6 +1,6 @@
 # Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?
 
-_type: news-summary · created: 2026-11-08 · updated: 2026-11-09 · confidence: high_
+_type: news-summary · created: 2026-11-08 · updated: 2026-11-10 · confidence: high_
 
 `lobsters`
 

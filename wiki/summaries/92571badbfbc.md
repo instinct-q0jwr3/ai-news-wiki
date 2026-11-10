@@ -1,6 +1,6 @@
 # Anthropic strikes $3.4B deal to generate gas-fired power for data centres
 
-_type: news-summary · created: 2026-11-08 · updated: 2026-11-09 · confidence: high_
+_type: news-summary · created: 2026-11-08 · updated: 2026-11-10 · confidence: high_
 
 `hacker-news` `anthropic`
 
