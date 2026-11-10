@@ -1,0 +1,15 @@
+{
+ "id": "8f5a4dccb729",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "NVIDIA's AutoCompress is a hardware-guided LLM compression framework. Instead of targeting parameter counts, it folds latency, throughput and memory limits into differentiable architecture search, using serving-engine cost models validated against end-to-end measurements to produce heterogeneous pruned models."
+ ],
+ "highlights": [
+  "Compression driven by hardware limits, not parameter count",
+  "Differentiable architecture search",
+  "Cost models validated against real serving"
+ ],
+ "basis": "Abstract only"
+}

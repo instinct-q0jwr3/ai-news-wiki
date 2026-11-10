@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1174,
+  "stories": 1177,
   "last": "2026-11-10"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1157,
+  "stories": 1169,
   "last": "2026-11-10"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 444,
-  "last": "2026-11-09"
+  "stories": 457,
+  "last": "2026-11-10"
  },
  {
   "name": "Simon Willison",
@@ -44,7 +44,7 @@
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 47,
+  "stories": 49,
   "last": "2026-11-10"
  },
  {
@@ -60,16 +60,16 @@
   "last": "2026-09-26"
  },
  {
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
+  "stories": 25,
+  "last": "2026-11-10"
+ },
+ {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
   "stories": 25,
   "last": "2026-11-06"
- },
- {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 24,
-  "last": "2026-11-05"
  },
  {
   "name": "Works on My Machine",

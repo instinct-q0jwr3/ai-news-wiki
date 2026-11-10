@@ -1,95 +1,203 @@
 {
- "generated_at": "2026-11-10T09:26:25+00:00",
+ "generated_at": "2026-11-10T15:27:19+00:00",
  "stories": [
   {
-   "id": "dc722ca92058",
-   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "id": "2078b6653145",
+   "title": "AlphaProof Code",
    "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
   },
   {
-   "id": "26f1e57f88f2",
-   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "id": "260fd1a8943d",
+   "title": "AI usage generates a fragile codebase",
    "source": "Hacker News",
-   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
   },
   {
-   "id": "300ee28338da",
-   "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+   "id": "f740b6a12a92",
+   "title": "Anthropic launches roadshow for proposed initial public offering",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50436636"
+   "url": "https://www.anthropic.com/news/roadshow-launch"
   },
   {
-   "id": "e4144c90fe90",
-   "title": "Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1",
+   "id": "d47a957d7a03",
+   "title": "Tel Aviv-based Bay, which helps companies find AI agents and set guardrails, emerges from stealth with a $37M Series A led by Battery Ventures and a $13M seed",
    "source": "Techmeme",
-   "url": "https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license"
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/11/10/agentic-security-bay-battery"
   },
   {
-   "id": "b268f1f48396",
-   "title": "China's trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand",
+   "id": "0e87ca580dfa",
+   "title": "Scale Labs and CAIS' Remote Labor Index: Fable 5.2 completes 41.3% of freelance projects at professional quality, above Opus 5.5's 21.3% and GPT-6 Astra's 20.8%",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/"
+   "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
   },
   {
-   "id": "90585a01d35a",
-   "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps",
+   "id": "2686d8a5eca7",
+   "title": "Google DeepMind researchers used agentic AI framework AlphaProof Code to verify the Signal protocol's cryptographic guarantees, in a four-week proof-of-concept",
    "source": "Techmeme",
-   "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+   "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
   },
   {
-   "id": "bd818d9c44f8",
-   "title": "Analysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure",
+   "id": "2ebd1f373d4b",
+   "title": "When Does the US Become a Net Importer of Tokens?",
+   "source": "TLDR AI",
+   "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens"
+  },
+  {
+   "id": "8f5a4dccb729",
+   "title": "NVIDIA Introduces Hardware-Aware LLM Compression",
+   "source": "TLDR AI",
+   "url": "https://arxiv.org/abs/2611.08290"
+  },
+  {
+   "id": "b6968d0f1674",
+   "title": "At Adobe Max, Adobe unveils Creative Cloud and Firefly AI updates to make designing and editing easier, including Premiere's new Generative Remove tool",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling"
+   "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
   },
   {
-   "id": "042749977b3a",
-   "title": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept.",
+   "id": "47e6095210fd",
+   "title": "Is Opus 5.5 nerfed?",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2119192075505893695.html"
+  },
+  {
+   "id": "a91aa38365ec",
+   "title": "Two Kinds of Test-Time Scaling",
+   "source": "TLDR AI",
+   "url": "https://www.forethought.org/research/two-kinds-of-test-time-scaling"
+  },
+  {
+   "id": "7909421c34e1",
+   "title": "Anthropic launches its IPO roadshow, saying the company and shareholders plan to sell 825M Class A shares at $70 to $78 each, listing on the Nasdaq under ANT",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules"
+   "url": "https://www.anthropic.com/"
   },
   {
-   "id": "524d8c32e888",
-   "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A; FactSet led the Series A",
+   "id": "8e4f66d0a1f4",
+   "title": "What objective is reasoning solving?",
+   "source": "TLDR AI",
+   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/"
+  },
+  {
+   "id": "262f2c15d3eb",
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "source": "TLDR AI",
+   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards"
+  },
+  {
+   "id": "a32700385ee6",
+   "title": "Anthropic Buys $3.4 Billion in Gas Generators",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+  },
+  {
+   "id": "def03cc7a3f7",
+   "title": "TSMC plans to invest up to $500M in Anthropic at its IPO price and up to $500M in OpenAI to acquire preferred stock",
    "source": "Techmeme",
-   "url": "https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai"
+   "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
   },
   {
-   "id": "0293decf97a6",
-   "title": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+   "id": "9a7aed8771d3",
+   "title": "Just say no to Anthropic’s IPO",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo"
+  },
+  {
+   "id": "30ace3924166",
+   "title": "Will Anthropic Grow Into Its Compute Bill?",
+   "source": "TLDR AI",
+   "url": "https://x.com/OrnnExchange/status/2119839768355778637"
+  },
+  {
+   "id": "52813389f128",
+   "title": "TPU 8tx and TPU 8i Max",
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+  },
+  {
+   "id": "a6cd34361212",
+   "title": "Path Robotics, which develops software for autonomous manufacturing robots, raised a $300M Series E at a $2.45B valuation, taking its total funding to ~$610M",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round"
+  },
+  {
+   "id": "9bc9cbab3764",
+   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "source": "Hacker News",
+   "url": "https://research.meta.ai/blog/muse-ember"
+  },
+  {
+   "id": "985a84cadfea",
+   "title": "ChatGPT Enterprise on AWS Marketplace",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/"
+  },
+  {
+   "id": "78c13312ffa8",
+   "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee",
    "source": "Daring Fireball",
-   "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
+   "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb"
   },
   {
-   "id": "2bd2335b715f",
-   "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/"
-  },
-  {
-   "id": "459fd055a776",
-   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/"
-  },
-  {
-   "id": "0803a85de399",
-   "title": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules",
+   "id": "1bc7fab9af70",
+   "title": "Cyanogen's co-founder and two others debut Kora, a Linux desktop OS that integrates AI models at a system level, set for a 2027 launch on Snapdragon and x86 PCs",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show"
+   "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
   },
   {
-   "id": "e4ec8085ed7f",
-   "title": "Quoting Prompting Claude Fable 5.2",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
+   "id": "4d5c3aef8b32",
+   "title": "GR00T 2",
+   "source": "TLDR AI",
+   "url": "https://research.nvidia.com/labs/gear/gr00t-2/"
   },
   {
-   "id": "feb145172e7e",
-   "title": "Yonkers Rises",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
+   "id": "4f3118d4d346",
+   "title": "‘A Scandal at the Center of the Economy’",
+   "source": "Daring Fireball",
+   "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&"
+  },
+  {
+   "id": "ac8f26a2b5fd",
+   "title": "Amazon's Ring unveils the $249 Ring Drone Cam and the $999 Ring Rover Cam, utilizing its AI Pilot navigation software, under new subbrand Ring Robotics",
+   "source": "Techmeme",
+   "url": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/"
+  },
+  {
+   "id": "cd258610dfde",
+   "title": "Filing: Anthropic's IPO could give it an up to $1.405T valuation on a fully diluted basis, up from the $965B valuation during its $65B Series H announced in May",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+  },
+  {
+   "id": "9429f0750213",
+   "title": "Apple Introduces $50 AI Usage Packs in Logic Pro",
+   "source": "TLDR AI",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+  },
+  {
+   "id": "55d134e126ff",
+   "title": "Update on October 2026 security incident",
+   "source": "TLDR AI",
+   "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+  },
+  {
+   "id": "c8a9310d3655",
+   "title": "OpenAI's Control Room Can Halt Research Model Output",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/control-room/"
+  },
+  {
+   "id": "03394bddf01f",
+   "title": "Microsoft is among a group of companies lobbying the Trump administration to halt the FCC's plan to ban imports of Chinese optical transceivers",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/"
+  },
+  {
+   "id": "3b050ca74aa0",
+   "title": "Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping"
   }
  ]
 }

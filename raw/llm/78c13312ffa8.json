@@ -1,0 +1,14 @@
+{
+ "id": "78c13312ffa8",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "Daring Fireball quotes the New York Times: Commerce Department investigators were deep into a monthslong probe of a Singapore company suspected of smuggling Nvidia AI chips before the inquiry was halted after Nvidia mentioned a Trump appointee. Only the opening paragraph was available."
+ ],
+ "highlights": [
+  "Probe of suspected chip smuggling halted",
+  "Nvidia reportedly name-dropped a Trump appointee"
+ ],
+ "basis": "Quoted excerpt only; NYT not readable"
+}

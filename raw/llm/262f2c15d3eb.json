@@ -1,0 +1,14 @@
+{
+ "id": "262f2c15d3eb",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A thread digest on METR's deep-access report finds Anthropic is likely improving model capabilities on well-specified tasks at about twice the rate of March 2024 to October 2025, with high uncertainty (1.3x to 3x), mostly due to using AI for R&D. Commentators say the 'dramatic acceleration' threshold in Anthropic's policy may be crossed, and extrapolations put Claude leading internal research by mid-2027. Some key findings were redacted. The sources are social posts quoting the report, so numbers come second-hand.",
+ "highlights": [
+  "METR estimate: about 2x faster capability gains (range 1.3x to 3x)",
+  "Mostly attributed to AI doing R&D",
+  "No strong bottlenecks seen yet",
+  "Commentators extrapolate to near-automation by end of 2027",
+  "Some findings were redacted"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "a91aa38365ec",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "James Tillman separates two kinds of test-time scaling. The ordinary kind trades more compute for better results per task up to the compute used in training. 'Compute extrapolation' goes beyond training-level compute, and he thinks it likely speeds frontier progress, makes dangerous-capability evaluation harder and changes race dynamics. He sees it as newer and still being mastered through context management and multi-agent scaling, and argues it should be measured.",
+ "highlights": [
+  "Distinction: scaling within vs beyond training compute",
+  "Extrapolation may speed progress and hinder safety evals",
+  "Improvements likely via context management, multi-agent setups",
+  "Worth measuring"
+ ]
+}

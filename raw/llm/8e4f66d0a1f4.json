@@ -1,0 +1,15 @@
+{
+ "id": "8e4f66d0a1f4",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "An essay asks what reasoning training really optimizes. The simple view says longer thinking gives better answers, but forcing a trained model to think longer helps only for a while and can hurt, which fits poorly with convergence to an optimum. It frames reasoning as pathfinding in token space rather than simple deliberation."
+ ],
+ "highlights": [
+  "Longer chains help in RL training but not when forced later",
+  "Overthinking can reduce accuracy",
+  "Proposes reasoning as pathfinding in token space"
+ ],
+ "basis": "Based on the opening of the essay"
+}

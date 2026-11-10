@@ -1,0 +1,14 @@
+{
+ "id": "55d134e126ff",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Fireworks' updated incident notice says the breach went beyond secrets used in evaluation jobs to account and billing information and, for a limited set of accounts, secrets, datasets and incomplete models. A third-party cloud provider hosting its R&D machines was compromised on October 23 and the attacker reached development machines on October 24, running an unauthorized workload. Fireworks links it to a financially motivated group selling LLM access ('LLMJacking') and says services that are zero data retention by default were not hit. Unit 42 assisted and the investigation continues.",
+ "highlights": [
+  "Impact extends to billing info, datasets, incomplete models",
+  "Entry via a third-party cloud provider on Oct 23",
+  "Group sells LLM access (LLMJacking)",
+  "ZDR-by-default services not affected",
+  "Law enforcement and Unit 42 involved"
+ ]
+}

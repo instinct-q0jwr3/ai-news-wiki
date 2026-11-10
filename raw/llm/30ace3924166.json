@@ -1,0 +1,14 @@
+{
+ "id": "30ace3924166",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "An analysis of Anthropic's S-1 asks whether revenue can outgrow its compute bill. Seven disclosed deals total $644 billion and total committed spending is about $895 billion, including one counterparty payment of over half of annualized Q3 revenue once fully delivered. Compute fell from 251% of revenue in Q1 2025 to 48% in Q2 2026, then rose to 58% in Q3 ($9.9B on $17.0B revenue), and an operating profit of $974M became a $567M loss, blamed mostly on $5.0B of costly short-term compute and $2.0B of non-cash donation matching. The piece works backward from commitments to the revenue needed to support them.",
+ "highlights": [
+  "$644B in seven deals; about $895B total commitments",
+  "Compute 48% of revenue in Q2, 58% in Q3",
+  "Q3 operating loss $567M after a $974M Q2 profit",
+  "Short-term compute costs more than multi-year contracts",
+  "Estimates revenue needed to cover commitments"
+ ]
+}

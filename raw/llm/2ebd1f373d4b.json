@@ -1,0 +1,12 @@
+{
+ "id": "2ebd1f373d4b",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A short model asks when the US becomes a net importer of tokens. With US AI demand starting at 66 GW in 2027 and tokens per watt improving 2.9x a year, the grid binds only if token demand grows faster than about 2.5x a year. With slowing construction and cancellations, the model puts the switch between 2028 and 2030.",
+ "highlights": [
+  "Break-even token growth about 2.5x a year",
+  "Efficiency gains of 2.9x a year in tokens per watt",
+  "Net importer of tokens between 2028 and 2030 in the model"
+ ]
+}

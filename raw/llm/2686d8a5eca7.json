@@ -1,0 +1,12 @@
+{
+ "id": "2686d8a5eca7",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google DeepMind used its agentic AlphaProof Code framework to formally verify several key cryptographic guarantees of the Signal protocol in four weeks, a proof of concept. It independently supports the protocol used by Signal, Google Messages and WhatsApp, and shows AI-aided formal verification, though practicality at scale is unclear.",
+ "highlights": [
+  "Signal protocol guarantees formally verified",
+  "Done in four weeks with AlphaProof Code",
+  "Unclear how practical broad use will be"
+ ]
+}

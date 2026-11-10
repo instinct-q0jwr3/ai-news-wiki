@@ -1,0 +1,14 @@
+{
+ "id": "4d5c3aef8b32",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "NVIDIA's GR00T 2 is a new generation of world-action models that predict future video and robot actions together. It runs on parallel grippers, dexterous hands and humanoids. Learning to predict outcomes lets skills shown by humans carry over to robots, lets it do many new tasks zero-shot or from a few demonstrations, and lets a reasoning model direct it. GR00T 2 Turbo is a faster, smaller version.",
+ "highlights": [
+  "Predicts video and actions together",
+  "Skills transfer from human demonstrations",
+  "Zero-shot and few-shot tasks",
+  "Reasoning models can direct it",
+  "Turbo variant built for speed"
+ ]
+}

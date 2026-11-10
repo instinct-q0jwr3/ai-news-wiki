@@ -1,0 +1,13 @@
+{
+ "id": "260fd1a8943d",
+ "authored_at": "2026-11-10T15:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A developer laid off from Meta argues heavy AI coding makes fragile codebases. He generated at least 90% of his code with AI there and now 100%, but saw peers merge brittle code, such as mouseover effects done in JavaScript instead of CSS :hover. AI solves what fits its context window and misses long-term issues. He lists four failure modes, starting with simplistic tests that cover trivial getters or only already-covered cases. The author says the article was written by a human.",
+ "highlights": [
+  "AI code is brittle beyond its context window",
+  "Tests are shallow and leave hidden gaps",
+  "Four ways AI creates fragile SaaS code",
+  "Firsthand account, not a study"
+ ]
+}
