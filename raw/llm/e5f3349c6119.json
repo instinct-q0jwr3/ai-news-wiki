@@ -1,0 +1,14 @@
+{
+ "id": "e5f3349c6119",
+ "authored_at": "2026-11-11T03:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A paper shows that zeroing fewer than 0.05% of a pretrained LLM's weights, with nothing else changed, matches full fine-tuning across three post-training regimes: RL with verifiable rewards, supervised fine-tuning and on-policy distillation. The method, Deletion Tuning, learns a binary mask over the gate projection of transformer blocks. The mask is hundreds to thousands of times smaller than a full checkpoint, and the model forgets far less: under RL, prior-task accuracy stays near base level while full fine-tuning, LoRA and random sparse tuning lose up to 5.4 points.",
+ "highlights": [
+  "Deleting under 0.05% of weights matches full fine-tuning",
+  "Works across RLVR, SFT and distillation",
+  "Mask is hundreds to thousands of times smaller",
+  "Much less forgetting than FFT or LoRA",
+  "Analysis of why masking suffices via stable rank"
+ ]
+}

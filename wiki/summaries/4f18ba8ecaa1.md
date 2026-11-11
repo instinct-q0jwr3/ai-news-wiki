@@ -1,6 +1,6 @@
 # DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user
 
-_type: news-summary · created: 2026-11-08 · updated: 2026-11-10 · confidence: high_
+_type: news-summary · created: 2026-11-08 · updated: 2026-11-11 · confidence: high_
 
 `techmeme` `deepseek` `agentic-systems` `compute-buildout`
 

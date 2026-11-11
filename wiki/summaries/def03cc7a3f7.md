@@ -1,6 +1,6 @@
 # TSMC plans to invest up to $500M in Anthropic at its IPO price and up to $500M in OpenAI to acquire preferred stock
 
-_type: news-summary · created: 2026-11-10 · updated: 2026-11-10 · confidence: high_
+_type: news-summary · created: 2026-11-10 · updated: 2026-11-11 · confidence: high_
 
 `techmeme` `openai` `anthropic`
 

@@ -1,0 +1,13 @@
+{
+ "id": "238fd8b47389",
+ "authored_at": "2026-11-11T03:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Railway's incident report says the October hack exploited a previously unknown build-infrastructure vulnerability to escape filesystem isolation and steal an internal credential, then customer authentication secrets, generating about $740,000 in fraudulent AI usage. Decrypted customer environment variables for at most 1.85% of workspaces (about 100,000) were accessed, a maximum estimate rather than confirmed thefts. Railway believes the attackers wanted AI provider keys for resale and told customers on Oct. 22 to rotate secrets.",
+ "highlights": [
+  "About $740K of fraudulent AI usage",
+  "Up to 100,000 workspaces' env vars accessed (max estimate)",
+  "Entry: zero-day in build infrastructure",
+  "Motive believed to be AI key resale"
+ ]
+}

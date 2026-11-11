@@ -1,6 +1,6 @@
 # Draft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships
 
-_type: news-summary · created: 2026-11-09 · updated: 2026-11-10 · confidence: high_
+_type: news-summary · created: 2026-11-09 · updated: 2026-11-11 · confidence: high_
 
 `techmeme`
 

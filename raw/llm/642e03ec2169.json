@@ -1,0 +1,12 @@
+{
+ "id": "642e03ec2169",
+ "authored_at": "2026-11-11T03:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Leaker Aaron Perris found evidence of an Apple Mac app called Harbor, which would turn a Mac into a private AI inference server for open-weight models on Apple silicon, with data staying on-device. Multiple Macs could be linked over Thunderbolt 5 to pool unified memory for larger models and more concurrency. Unannounced; reported from leaked evidence.",
+ "highlights": [
+  "Harbor: a local inference server app for Mac",
+  "Thunderbolt 5 pooling of unified memory across Macs",
+  "Unannounced; from a leaker's findings"
+ ]
+}

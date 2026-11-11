@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-10 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-11 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-11** - The Wall Street Journal reports via Techmeme that leaked documents show OpenAI's adjusted operating margin improved from -150% to -109% between Q2 and Q3, with revenue up about 50% to $10 billion, still far from profitability. ([Leaked documents: OpenAI's adjusted operating margin improved from -150% to -109% from Q2 to Q3](../summaries/080bd76f09ff.md) · [OpenAI](../entities/openai.md)) 🔒
 - **2026-11-10** - Modern Web Guidance is a Google Chrome-stewarded set of skills that gives coding agents web platform expertise, best practices and browser compatibility data, steering them away from about-2019 legacy JavaScript patterns toward modern web primitives.… ([Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](../summaries/1f69285c7e25.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-10** - OpenAI's page introduces Businesses in ChatGPT, with Business Agents that represent companies to users, per The Verge: eligible US e-commerce and service businesses first, in beta, with comparison shopping and follow-up questions inside the chat. ([Businesses in ChatGPT – OpenAI](../summaries/3efa6bf60765.md) · [OpenAI](../entities/openai.md)) ⚠
 - **2026-11-10** - Simon Willison's llm-gemini 0.36 adds Gemini 4 Carbon. He notes it costs $2 per million input and $10 per million output tokens at launch, and demos from Google's Antigravity: with /swarm, Carbon built an open-world 3D game set on Google's Mountain View… ([llm-gemini 0.36](../summaries/a9fb39ab6289.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))

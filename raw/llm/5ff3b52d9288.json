@@ -1,0 +1,14 @@
+{
+ "id": "5ff3b52d9288",
+ "authored_at": "2026-11-11T03:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Patrick Garrity has tracked Anthropic's Project Glasswing since its April launch, when Anthropic said it had found thousands of high- and critical-severity vulnerabilities to disclose to open source maintainers. Seven months on, his tally of actually disclosed results finds the outcomes underwhelming relative to the launch claim, and he questions how much was marketing.\n\nHe notes AI is genuinely useful for finding vulnerabilities, but the public evidence from Glasswing is thin. The critique rests on his own tracking of disclosures since mid-April.",
+ "highlights": [
+  "Glasswing claimed thousands of high/critical vulnerabilities in April",
+  "Seven months later, disclosed results look thin",
+  "Garrity tracks actual disclosures since April 17",
+  "AI is useful for vuln-finding; the issue is evidence",
+  "Suggests launch claims were overhyped"
+ ]
+}

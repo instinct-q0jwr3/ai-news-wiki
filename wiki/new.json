@@ -1,131 +1,71 @@
 {
- "generated_at": "2026-11-10T21:28:01+00:00",
+ "generated_at": "2026-11-11T03:28:59+00:00",
  "stories": [
   {
-   "id": "c01367ae4cdf",
-   "title": "Gemini 4 Carbon is now available",
+   "id": "5ff3b52d9288",
+   "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
   },
   {
-   "id": "1f69285c7e25",
-   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "id": "642e03ec2169",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
    "source": "Hacker News",
-   "url": "https://github.com/GoogleChrome/modern-web-guidance"
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
   },
   {
-   "id": "2e16853cced7",
-   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "id": "6af95d23cd39",
+   "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
    "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data"
+   "url": "https://aircad.com"
   },
   {
-   "id": "af14c362ae81",
-   "title": "Anthropic to Seek $1.3T Valuation in IPO",
+   "id": "e524c2b03297",
+   "title": "AI is an information gateway. Audiences still don't want it making their news",
    "source": "Hacker News",
-   "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669"
+   "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
   },
   {
-   "id": "beb1de4c25e6",
-   "title": "Life on Claude Nine",
+   "id": "e5f3349c6119",
+   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
    "source": "Hacker News",
-   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html"
+   "url": "https://arxiv.org/abs/2611.10866"
   },
   {
-   "id": "cf09809a4636",
-   "title": "Saltline: First-person shooter built by Fable 5.2",
-   "source": "Hacker News",
-   "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
+   "id": "290be871acb4",
+   "title": "Glue work is still harmful in the age of AI",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/"
   },
   {
-   "id": "bf362c095434",
-   "title": "An Open Field Guide to Inference Engineering",
-   "source": "Hacker News",
-   "url": "https://docs.modelplane.ai/guides/inference-guide"
-  },
-  {
-   "id": "1196fe7a83e4",
-   "title": "Work at the Frontier: AI's effect on freelance work",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work"
-  },
-  {
-   "id": "6d3d6b0c54e7",
-   "title": "AI Users have workdays up to 90 min longer than non-users",
-   "source": "Hacker News",
-   "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"
-  },
-  {
-   "id": "5e7293202f47",
-   "title": "Gemini 4 Carbon is rolling out today",
-   "source": "Hacker News",
-   "url": "https://twitter.com/sundarpichai/status/2120185896469496180"
-  },
-  {
-   "id": "3efa6bf60765",
-   "title": "Businesses in ChatGPT – OpenAI",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt/"
-  },
-  {
-   "id": "5b64a48e4d2b",
-   "title": "How do you keep up quality when you vibe-code?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50444380"
-  },
-  {
-   "id": "c11fc025b66f",
-   "title": "Anthropic Targets $1.4T Valuation in IPO",
-   "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
-  },
-  {
-   "id": "6d873daba67e",
-   "title": "Show HN: TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs",
-   "source": "Hacker News",
-   "url": "https://charleshuang.me/2026/09/27/theoremsmith/"
-  },
-  {
-   "id": "869e73769c27",
-   "title": "OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2",
+   "id": "cbf877078895",
+   "title": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter"
+   "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
   },
   {
-   "id": "5c56a9bb00e1",
-   "title": "Jensen's Bizarre Adventure",
-   "source": "Ed Zitron",
-   "url": "https://www.wheresyoured.at/jensens-bizarre-adventure/"
+   "id": "9a7aed8771d3",
+   "title": "Just say no to Anthropic’s IPO",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo"
   },
   {
-   "id": "a9fb39ab6289",
-   "title": "llm-gemini 0.36",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-  },
-  {
-   "id": "a6777fb76d49",
-   "title": "Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't currently plan to",
+   "id": "87078535854d",
+   "title": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
+   "url": "https://www.wsj.com/pro/private-equity/goldman-leads-investment-in-cybersecurity-startup-at-400-million-valuation-648c54b7"
   },
   {
-   "id": "d20cd014be72",
-   "title": "Revisiting Leander v Sweden and Big Brother Watch",
-   "source": "Bert Hubert",
-   "url": "https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/"
-  },
-  {
-   "id": "320a21c57274",
-   "title": "The AI Futures Project updates its timelines after METR's report on Anthropic R&D progress, saying it now expects a Superhuman AI Researcher to arrive in 2027",
+   "id": "1cb50a60ae85",
+   "title": "Anthropic's bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more",
    "source": "Techmeme",
-   "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
+   "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?accessToken=zwAAAaHIPX8Ekc9ovLpXBXVE7tOA9C5eojpDHg.MEYCIQCyA_RvsNxAO8C2cqmOijMAfUYU6CI25hscCqhpSEOiPwIhANJsgKYmPtN4Oag-OniyReoOcFughHSQbGVN_54GU-vs&sharetype=gift&token=f904c459-eec5-4b8c-ba10-d039c030cd7b&syn-25a6b1a6=1"
   },
   {
-   "id": "da428812d2e1",
-   "title": "Oura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B",
+   "id": "301bdf7d96d8",
+   "title": "An analysis of the tech job market in late 2026: product managers seem to be benefiting most in the AI era, demand for engineers is plateauing, and more",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-10/oura-to-buy-on-demand-doctor-ai-service-counsel-health-revenue-jumps-153-in-q4"
+   "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late"
   },
   {
    "id": "dd042903c4f4",
@@ -134,34 +74,22 @@
    "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"
   },
   {
-   "id": "0f4126229438",
-   "title": "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/10/worst-of-all-worlds/"
-  },
-  {
-   "id": "3cc59c98e340",
-   "title": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles",
+   "id": "238fd8b47389",
+   "title": "In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
   },
   {
-   "id": "98b225cc6921",
-   "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures",
+   "id": "080bd76f09ff",
+   "title": "Leaked documents: OpenAI's adjusted operating margin improved from -150% to -109% from Q2 to Q3",
    "source": "Techmeme",
-   "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10"
+   "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb?st=eFGBW2"
   },
   {
-   "id": "34461c6e863a",
-   "title": "Lawsuit filing: Point72's quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor",
+   "id": "2d81479e8c4c",
+   "title": "Coframe, which uses AI to make websites that test and personalize themselves for each visitor, raised a $25M Series A, bringing its total funding to $35M",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code"
-  },
-  {
-   "id": "5726ee544e42",
-   "title": "Designing for Agents — Zeno Rocha, Resend",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/resend/"
+   "url": "https://www.businessinsider.com/khosla-doubles-down-on-coframe-to-build-a-living-internet-2026-11"
   }
  ]
 }

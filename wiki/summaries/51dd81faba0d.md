@@ -1,6 +1,6 @@
 # OpenAI prepares new $500/month Pro Max plan for ChatGPT
 
-_type: news-summary · created: 2026-09-25 · updated: 2026-11-10 · confidence: high_
+_type: news-summary · created: 2026-09-25 · updated: 2026-11-11 · confidence: high_
 
 `tldr-ai` `openai`
 

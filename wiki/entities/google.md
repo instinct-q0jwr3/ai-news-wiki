@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-10 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-11 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,8 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
-- **2026-11-10** - Google made Gemini 4 Carbon available to everyone: developers, enterprises, scientists and consumers. Google calls it its strongest model, with frontier cybersecurity capability and long-horizon agentic work across knowledge work, software engineering and… ([Gemini 4 Carbon is now available](../summaries/c01367ae4cdf.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-10** - Modern Web Guidance is a Google Chrome-stewarded set of skills that gives coding agents web platform expertise, best practices and browser compatibility data, steering them away from about-2019 legacy JavaScript patterns toward modern web primitives.… ([Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](../summaries/1f69285c7e25.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-11-10** - Google made Gemini 4 Carbon available to everyone: developers, enterprises, scientists and consumers. Google calls it its strongest model, with frontier cybersecurity capability and long-horizon agentic work across knowledge work, software engineering and… ([Gemini 4 Carbon is now available](../summaries/c01367ae4cdf.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-10** - Sundar Pichai's post says Gemini 4 Carbon is rolling out, built for sustained long-horizon tasks in software engineering, cybersecurity and scientific discovery, available in the Gemini API, AI Studio, Gemini for business, and for Ultra subscribers in… ([Gemini 4 Carbon is rolling out today](../summaries/5e7293202f47.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-10** - Simon Willison's llm-gemini 0.36 adds Gemini 4 Carbon. He notes it costs $2 per million input and $10 per million output tokens at launch, and demos from Google's Antigravity: with /swarm, Carbon built an open-world 3D game set on Google's Mountain View… ([llm-gemini 0.36](../summaries/a9fb39ab6289.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-10** - Anthropic in the past month inked new commitments with Microsoft and Google to spend roughly $10 billion more to rent cloud servers between … ([Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't currently plan to](../summaries/a6777fb76d49.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md)) 🔒

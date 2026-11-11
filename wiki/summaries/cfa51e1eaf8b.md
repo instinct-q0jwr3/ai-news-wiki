@@ -1,6 +1,6 @@
 # Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley
 
-_type: news-summary · created: 2026-11-09 · updated: 2026-11-10 · confidence: high_
+_type: news-summary · created: 2026-11-09 · updated: 2026-11-11 · confidence: high_
 
 `techmeme` `nvidia`
 

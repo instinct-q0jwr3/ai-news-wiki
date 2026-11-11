@@ -1,0 +1,13 @@
+{
+ "id": "6af95d23cd39",
+ "authored_at": "2026-11-11T03:35:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Aircad is a browser-based professional 2D drafting and 3D solid modeling tool with multiplayer editing and an AI agent that drafts, models and renders alongside you, driven from a command line with familiar shortcuts or plain words. One shared file is the source of truth, with unlimited version history and attribution per edit.",
+ "highlights": [
+  "2D drafting and 3D modeling in the browser",
+  "AI agent edits and renders in the drawing",
+  "Multiplayer: one shared file, no stale copies",
+  "Full version history with per-edit attribution"
+ ]
+}

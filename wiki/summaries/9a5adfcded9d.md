@@ -1,6 +1,6 @@
 # Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March
 
-_type: news-summary · created: 2026-11-05 · updated: 2026-11-10 · confidence: high_
+_type: news-summary · created: 2026-11-05 · updated: 2026-11-11 · confidence: high_
 
 `techmeme`
 
