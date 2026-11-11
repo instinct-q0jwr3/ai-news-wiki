@@ -1,0 +1,12 @@
+{
+ "id": "33e776a86c60",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Documentation for Antigravity's /swarm: a team of named agents splits your task, works in parallel and coordinates on a shared message board, with a verifier agent reviewing changes. Your conversation becomes the coordinator; the board and graph views show workers' progress. Suggested when a task divides cleanly across files or questions.",
+ "highlights": [
+  "Named agents split tasks and coordinate on a board",
+  "A verifier reviews before you see changes",
+  "Works in the Antigravity app and CLI"
+ ]
+}

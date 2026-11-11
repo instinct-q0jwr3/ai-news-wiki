@@ -1,0 +1,13 @@
+{
+ "id": "ca07f4d12df7",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "A security write-up says over 35,000 apps built with Grok's Build mode were open to anyone with the link under grok.me. On November 8 the authors paged through public addresses signed in to nothing and found, among others, a confidential onboarding plan for a new SpaceXSI enterprise sales hire: internal system addresses, tools, 19 internal chat channels and a 30-day plan. The exposure was the share-by-link default; names were covered in the published figures.",
+ "highlights": [
+  "35,000+ Grok-built apps public by link",
+  "Found a confidential SpaceXSI onboarding plan unauthenticated",
+  "Share-by-link default was the exposure",
+  "Researchers redacted names"
+ ]
+}

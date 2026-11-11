@@ -90,7 +90,13 @@
     "238fd8b47389",
     "012e1cb58a00",
     "f87d05e1c7db",
-    "f60cf626dfb1"
+    "f60cf626dfb1",
+    "90f104d585e0",
+    "33e776a86c60",
+    "64c1befc5577",
+    "a7816a45cd45",
+    "22c2a240dca6",
+    "70a7ad51fa1e"
    ],
    "concepts": []
   },
@@ -157,7 +163,13 @@
     "98b225cc6921",
     "080bd76f09ff",
     "2d81479e8c4c",
-    "87078535854d"
+    "87078535854d",
+    "a41e6cb2bb79",
+    "8fdb3e7dc10d",
+    "bddc47fd394c",
+    "00bb4fcc122b",
+    "e540a96fb665",
+    "722ef6da7de0"
    ],
    "concepts": []
   },
@@ -250,7 +262,13 @@
    "intro": "",
    "stories": [
     "560eac1bd2d3",
-    "38592ea82818"
+    "38592ea82818",
+    "ad6200e8ae53",
+    "c6f3b0ce43a9",
+    "96903253fbde",
+    "b28e2720e504",
+    "c20bbfe497c7",
+    "6aa2c0dacfe9"
    ],
    "concepts": []
   },
@@ -328,7 +346,11 @@
     "c11fc025b66f",
     "dd042903c4f4",
     "cbf877078895",
-    "1cb50a60ae85"
+    "1cb50a60ae85",
+    "dae20a7bf719",
+    "4dd3b427dce2",
+    "6f6be59da147",
+    "e4492896e795"
    ],
    "concepts": []
   },
@@ -413,7 +435,11 @@
    "title": "Research notes",
    "intro": "",
    "stories": [
-    "e5f3349c6119"
+    "e5f3349c6119",
+    "e50fb0dccd83",
+    "f048e7cee21d",
+    "9243d5322ecd",
+    "ec96e239b509"
    ],
    "concepts": []
   },
@@ -424,6 +450,18 @@
     "e524c2b03297",
     "301bdf7d96d8",
     "2cb97390eef3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents everywhere, for better and worse",
+   "intro": "Discovery, exposure and delegation.",
+   "stories": [
+    "c68e175bb98f",
+    "ca07f4d12df7",
+    "2d9008788ca1",
+    "f3bd3da5c8ba",
+    "a5e2ded21c82"
    ],
    "concepts": []
   }

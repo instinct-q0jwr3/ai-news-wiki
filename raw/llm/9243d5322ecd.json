@@ -1,0 +1,12 @@
+{
+ "id": "9243d5322ecd",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google DeepMind launched AlphaGenome 2, trained on over 100 million cell profiles across 68 tissues, to predict how genetic mutations affect different cell types. The same variant can act differently across cells and states, which is what the model resolves; DeepMind frames it as a route to understanding disease causes and treatments.",
+ "highlights": [
+  "Trained on 100M+ cell profiles, 68 tissues",
+  "Predicts variant effects per cell type",
+  "Successor to last year's AlphaGenome"
+ ]
+}

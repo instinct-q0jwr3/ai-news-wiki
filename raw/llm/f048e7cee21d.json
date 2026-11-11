@@ -1,0 +1,12 @@
+{
+ "id": "f048e7cee21d",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Goodfire research argues neurons themselves can be an interpretable basis. The field moved to learned feature spaces because individual neurons looked too polysemantic, but this work, building on recent literature, suggests neurons are more interpretable than assumed, letting normal science start without transforming the model first. Companion to 'Neural Networks Are Already Clean'.",
+ "highlights": [
+  "Claims neurons are interpretable enough to study directly",
+  "Challenges the learned-feature-space default",
+  "From Goodfire, with a companion paper"
+ ]
+}

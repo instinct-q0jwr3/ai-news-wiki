@@ -1,0 +1,14 @@
+{
+ "id": "6f6be59da147",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": [
+  "The New York Times reports via Techmeme that Amazon and Google together own over 25% of Anthropic; Amazon's $18B investment could be worth $250B+ and Google's $33B could reach $140B at IPO prices."
+ ],
+ "highlights": [
+  "Amazon and Google own 25%+ of Anthropic",
+  "Amazon stake could reach $250B+; Google's $140B"
+ ],
+ "basis": "Techmeme summary only; NYT not readable"
+}

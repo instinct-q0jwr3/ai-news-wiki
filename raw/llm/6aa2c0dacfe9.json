@@ -1,0 +1,13 @@
+{
+ "id": "6aa2c0dacfe9",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Plurai, founded by Nexar alumni, uses synthetic data and digital twins of a company's IT environment to train and test AI agents, adapting self-driving simulation techniques. The article cites benchmarks: LiveBench 2.0 has Claude Fable 5.2 at 82.9/100 and ChatGPT-6 Astra at 75.6, and an EON simulated-company test put Claude Opus 4.8 at 76.8% accuracy, so agents still need supervision.",
+ "highlights": [
+  "Digital twins of corporate IT for agent training",
+  "Founders from Nexar, worked with Waymo",
+  "Benchmarks show top agents under 83%",
+  "Simulation approach from autonomous driving"
+ ]
+}

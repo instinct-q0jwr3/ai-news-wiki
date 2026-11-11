@@ -1,0 +1,13 @@
+{
+ "id": "f3bd3da5c8ba",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Google Cloud announced Gemini for healthcare, a purpose-built industry layer extending the Gemini agent introduced at Gemini at Work. It targets fragmented healthcare data: records, coverage policies and clinical evidence trapped in disconnected systems, with clinicians spending nearly 28 hours a week reconciling information. The pitch is a governed orchestration layer across existing systems with human oversight.",
+ "highlights": [
+  "Gemini for healthcare: industry-specific agent layer",
+  "Aims at fragmented records, claims and evidence",
+  "Claims clinicians spend about 28 hours a week on reconciliation",
+  "Governed workflows with human oversight"
+ ]
+}

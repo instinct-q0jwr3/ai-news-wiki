@@ -1,0 +1,12 @@
+{
+ "id": "ec96e239b509",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Microsoft's MAI-Transcribe-2 adds diarization, configurable transcription styles and word-level timestamps. Microsoft says it beats Gemini 3.5 Transcribe, GPT-Transcribe, Whisper V3-Large and ScribeV2, ranks first on FLEURS across 60 languages with 5.2% average word error rate, and sits on the accuracy-latency Pareto frontier per Artificial Analysis. Vendor claims.",
+ "highlights": [
+  "Diarization, styles, word-level timestamps",
+  "Claims FLEURS best: 5.2% WER over 60 languages",
+  "Vendor benchmark claims"
+ ]
+}

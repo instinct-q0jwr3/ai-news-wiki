@@ -1,0 +1,12 @@
+{
+ "id": "a7816a45cd45",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Meta's ExecuTorch WebGPU backend runs PyTorch models on the GPU inside WebGPU browsers, without converting to GGUF, ONNX or TFLite. Browser inference keeps prompts and outputs on-device, cuts latency, works offline and lowers server cost; WebGPU's compute shaders and shared memory make it viable. Works across desktop, laptop and mobile browsers.",
+ "highlights": [
+  "PyTorch models run in-browser on WebGPU, no format conversion",
+  "On-device: privacy, offline, lower server cost",
+  "Chrome, Firefox and Safari, desktop and mobile"
+ ]
+}

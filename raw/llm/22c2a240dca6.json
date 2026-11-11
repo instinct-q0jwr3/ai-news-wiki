@@ -1,0 +1,13 @@
+{
+ "id": "22c2a240dca6",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Meta FAIR released e-means, a k-means replacement claiming about 10x faster epochs and wall-clock with lower loss than Lloyd's algorithm and no extra hyperparameters. It uses a mini-batch update rule with quality-focused batches, defaults that shift at low dimensions, and distributed variants. Includes a browser demo and reproduction scripts; claims are the authors' own.",
+ "highlights": [
+  "About 10x faster than Lloyd's k-means, lower loss claimed",
+  "No extra hyperparameters",
+  "Distributed and low-dimension modes",
+  "Code, browser demo and repro scripts"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "dae20a7bf719",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Simon Willison quotes Anthropic's IPO roadshow video. Anthropic says its early multi-chip bet now pays off: Claude trains and serves across all four major chip families, and when it adopted AMD GPUs this year, Mythos got Claude running on AMD in three days with basically no human intervention, writing or porting almost 100% of the kernels. It describes 'compute multipliers' as a second advantage: discoveries that multiply effective compute beyond physical capacity.",
+ "highlights": [
+  "Claude runs on four chip families",
+  "Mythos ported Claude to AMD in three days, near-100% of kernels",
+  "'Compute multipliers' multiply effective compute",
+  "Quotes from the roadshow video"
+ ]
+}

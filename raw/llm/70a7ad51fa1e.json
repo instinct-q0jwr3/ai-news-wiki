@@ -1,0 +1,13 @@
+{
+ "id": "70a7ad51fa1e",
+ "authored_at": "2026-11-11T15:40:00Z",
+ "model": "agent-pass",
+ "schema": 1,
+ "prose": "Pots is an open-source alternative to Grok Bot and similar AI teammates: it reads the channels, email and events you give it, decides what matters, does work on your own computer and speaks up when it should. It runs on your machine with the model you choose, inside the chat tools your team already uses; MIT licensed. The README says six startups have used it for a month, and it ships a docs page written for the agent that will install it.",
+ "highlights": [
+  "Open-source AI coworker for Slack, email and events",
+  "Runs locally with your choice of model",
+  "Claims six startups using it for a month",
+  "Includes setup docs written for AI agents"
+ ]
+}
