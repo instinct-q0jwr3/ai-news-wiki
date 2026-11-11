@@ -1,0 +1,13 @@
+{
+ "id": "2f42804a7653",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752701+00:00",
+ "model": "agent-pass",
+ "prose": "Simon Willison adds tag-based browsing to his collection of 244 small tools. He describes using Fable 5.2 and tree-sitter to identify JavaScript APIs, libraries and web-service hosts, then turning those extracted categories into tag clouds. It is a concrete example of using code analysis to make a growing collection easier to discover.",
+ "highlights": [
+  "Collection contains 244 tools",
+  "Tree-sitter extracts code-level categories",
+  "Tags cover APIs, libraries and service hosts",
+  "AI-assisted indexing improves browsing"
+ ]
+}

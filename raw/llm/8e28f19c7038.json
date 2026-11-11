@@ -1,0 +1,15 @@
+{
+ "id": "8e28f19c7038",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752251+00:00",
+ "model": "agent-pass",
+ "prose": "MACaQ provides calibrated quantization for local inference across text and other model types. The project documents paths for GGUF with llama.cpp, compact checkpoints with vLLM and PyTorch, and diffusion workflows through Diffusers. It aims to reduce weight and activation precision without tying the method to one model family.\n\nThe repository claims a 122-billion-parameter model can be quantized in 64 minutes using 32.5 GB of device memory, and reports favorable accuracy-time comparisons. These are project measurements that depend on configuration. Backend support also has limits: the Ascend kernels require further runtime integration for full-model execution.",
+ "highlights": [
+  "Quantizes weights and activations",
+  "Text, diffusion and speech workflows documented",
+  "Multiple inference backends supported",
+  "Project claims fast low-memory calibration",
+  "Accuracy comparisons are project-reported",
+  "Ascend kernels are not a complete serving integration"
+ ]
+}

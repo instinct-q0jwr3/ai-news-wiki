@@ -1,0 +1,15 @@
+{
+ "id": "67d1182fd0b9",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.751832+00:00",
+ "model": "agent-pass",
+ "prose": "TimeNet tackles the inconsistent packaging of time-series datasets. Its TimeF format provides a common storage representation, while connectors convert source data into immutable versions and a client finds and loads them through a shared API. Training and inference remain in the user's chosen modeling framework.\n\nThe project is pre-release, so both format and API may change before version 1.0. Its MIT license applies to the code, not to upstream datasets. A local registry allows a prepared dataset version to be loaded without network access, which makes the infrastructure useful independently of any particular temporal foundation model.",
+ "highlights": [
+  "Shared storage format for time-series datasets",
+  "Connectors create versioned data",
+  "Client separates loading from conversion",
+  "Model training stays outside TimeNet",
+  "Pre-release API may change",
+  "Dataset licenses remain separate from the code license"
+ ]
+}

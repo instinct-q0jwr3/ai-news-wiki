@@ -1,0 +1,15 @@
+{
+ "id": "b6f5e5908a72",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752800+00:00",
+ "model": "agent-pass",
+ "prose": "GeekWire reports that AWS Emulator reproduces more than 200 AWS services locally and was built entirely by coding agents, according to Amazon. The team's role was to define behavioral inputs and automated acceptance checks rather than manually write or review each code change.\n\nThree agent teams test scenarios against real AWS, compare the emulator and repair differences. The tool lets developers run cloud-dependent tests offline without paying for actual service calls. The claim about agent-written code is a company account of this project, not evidence that human review is unnecessary for all software.",
+ "highlights": [
+  "More than 400 API models underpin the emulator",
+  "Covers over 200 services according to AWS",
+  "Local testing avoids live-cloud latency and charges",
+  "Agent teams test, compare and repair",
+  "Automated gates substitute for manual code review here",
+  "Project-specific claim, not a universal workflow rule"
+ ]
+}

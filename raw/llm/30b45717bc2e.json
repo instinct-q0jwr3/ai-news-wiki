@@ -1,0 +1,15 @@
+{
+ "id": "30b45717bc2e",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.751717+00:00",
+ "model": "agent-pass",
+ "prose": [
+  "Christian Bird's seminar page frames software engineering around the gap between producing activity and achieving useful outcomes. It links research on coding-tool productivity, code-review agents and developers' limits on autonomy. The fetched page is primarily a talk listing and bibliography, not a transcript, so it does not support a detailed account of the talk's findings."
+ ],
+ "highlights": [
+  "Seminar on activity versus engineering outcomes",
+  "References include productivity and review-agent research",
+  "Talk conclusions were not available in the fetched text"
+ ],
+ "basis": "Fetched seminar landing page and bibliography; no talk transcript."
+}

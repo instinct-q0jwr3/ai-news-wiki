@@ -1,0 +1,15 @@
+{
+ "id": "d03064ebefc7",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.751774+00:00",
+ "model": "agent-pass",
+ "prose": "Klad gives coding agents a drawing interface built from editable strokes, fills, layers and animation keys. People draw in a shared editor while an agent uses a command-line interface on the same document. Unlike image generation, the system preserves the parts of a drawing so a later change can target one shape or brush mark without regenerating the whole scene.\n\nThe project demonstrates agent-made illustrations and animation assembled from those parts. It is a source-available art tool rather than a new image model; the value depends on how well an agent can plan, inspect and revise an explicit drawing. The examples are project demonstrations, not a general quality benchmark.",
+ "highlights": [
+  "Shared editor and command-line interface",
+  "Persistent editable strokes and fills",
+  "Layers and timeline support animation",
+  "No image-generation model inside the app",
+  "Local edits avoid whole-image rerolls",
+  "Project demonstrations do not establish general performance"
+ ]
+}

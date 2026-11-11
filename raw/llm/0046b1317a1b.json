@@ -1,0 +1,15 @@
+{
+ "id": "0046b1317a1b",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.751259+00:00",
+ "model": "agent-pass",
+ "prose": [
+  "Yogurt is presented by its developer as a free desktop meeting assistant that transcribes and summarizes calls locally rather than sending recordings to a hosted service. The launch post describes an MIT-licensed app that stays out of the meeting participant list and can optionally expose notes through a local MCP server. The source page was thin, so these details come from the developer's feed introduction rather than an independently tested installation."
+ ],
+ "highlights": [
+  "Local transcription and meeting summaries",
+  "Developer describes an MIT license",
+  "Optional local MCP access to notes"
+ ],
+ "basis": "Developer launch post in the Hacker News feed; repository fetch was thin."
+}

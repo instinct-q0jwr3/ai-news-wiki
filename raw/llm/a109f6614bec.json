@@ -1,0 +1,15 @@
+{
+ "id": "a109f6614bec",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.751485+00:00",
+ "model": "agent-pass",
+ "prose": "Google introduces Gemini Decisions as a classification endpoint rather than a text generator. Gemini Decision 1 evaluates predefined choices, yes/no checks and rubric scores against a shared multimodal input, returning probabilities that applications can use for routing or review. Google says a request can contain up to 1,000 questions, with input priced at $0.10 per million tokens and no output-token charge.\n\nThe practical shift is to separate bounded decisions from open-ended conversation. Teams can reuse one input for many checks and send uncertain cases elsewhere. Google advertises 150-250 ms end-to-end latency and stronger calibration on its benchmark suite; those are vendor measurements, not independent guarantees.",
+ "highlights": [
+  "Closed-set decisions instead of generated prose",
+  "Text, image, audio, video and PDF inputs",
+  "Up to 1,000 questions per request",
+  "Shared input is billed once, plus question tokens",
+  "Confidence scores enable fallback handling",
+  "Latency and benchmark results are Google claims"
+ ]
+}

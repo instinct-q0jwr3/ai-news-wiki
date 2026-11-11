@@ -1,0 +1,15 @@
+{
+ "id": "4640c9bdb0cf",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752437+00:00",
+ "model": "agent-pass",
+ "prose": "Anthropic's Fable 5.2 prompting guide treats effort as a control over reasoning time and tool use, not simply answer length. It recommends retesting effort levels for the new model and reports that high effort captures much of the capability improvement, while lower settings can be faster but more prone to stopping before multistep work is finished.\n\nThe guide also reports that wording about code ownership can cause substantially broader refactoring, including changes the user did not request. Its examples therefore illustrate a tradeoff between persistence, cost and scope control. These are vendor evaluations and prompting observations, not instructions to relax approval rules or expand the task.",
+ "highlights": [
+  "Effort changes reasoning and tool-use budgets",
+  "High effort is the stated API default",
+  "Lower settings can end tasks prematurely",
+  "More persistence can increase token costs",
+  "Ownership framing can broaden unrequested changes",
+  "Vendor tests need validation on the actual workflow"
+ ]
+}

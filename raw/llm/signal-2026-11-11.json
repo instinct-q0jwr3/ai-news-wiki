@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-11",
+ "date": "2026-11-11",
+ "status": "provisional",
+ "reserve": "c9638612d199",
+ "picks": [
+  {
+   "id": "a109f6614bec",
+   "front": "Models",
+   "source": "blog.google",
+   "why": "Google turns multimodal bounded decisions into a separate API, with probabilities rather than generated answers."
+  },
+  {
+   "id": "8579dc601fe5",
+   "front": "Engineering",
+   "source": "www.allthingsdistributed.com",
+   "why": "AWS explains how agents build local cloud simulations against real-service fidelity tests, shifting the engineering work toward contracts and validation."
+  },
+  {
+   "id": "548a9fd79961",
+   "front": "Policy",
+   "source": "www.cbsnews.com",
+   "why": "United restricts unauthorized personal booking agents, testing the boundary between assistant capability and platform permission."
+  },
+  {
+   "id": "1fe88d4c17ca",
+   "front": "Research",
+   "source": "x.com",
+   "why": "Lazarus demonstrates a model-weight integrity risk that ordinary behavioral evaluations can miss."
+  },
+  {
+   "id": "f703eb38165b",
+   "front": "Education",
+   "source": "www.theguardian.com",
+   "why": "England's regulator pushes assessment redesign as AI weakens coursework as evidence of individual learning."
+  }
+ ]
+}

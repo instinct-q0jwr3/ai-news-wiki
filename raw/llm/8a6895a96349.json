@@ -1,0 +1,13 @@
+{
+ "id": "8a6895a96349",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752653+00:00",
+ "model": "agent-pass",
+ "prose": "Simon Willison welcomes AWS Emulator as an official local test target for cloud-dependent code. He notes that agents produced the Rust implementation and reports 29,684 commits in its first three weeks. His practical reservation is packaging: macOS and Windows currently require Docker, whereas a standalone binary would fit more test suites.",
+ "highlights": [
+  "Official local AWS test environment",
+  "Rust implementation attributed to agents",
+  "Docker requirement limits packaging convenience",
+  "Commentary favors a standalone binary"
+ ]
+}

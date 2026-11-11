@@ -1,0 +1,13 @@
+{
+ "id": "c9638612d199",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752749+00:00",
+ "model": "agent-pass",
+ "prose": "LLM 0.37.2 fixes two paths that could send a configured OpenAI key to another OpenAI-compatible provider. Simon Willison says the problem could occur when a named provider key was absent, or when a Responses-configured model was invoked with a chat-completions override. The release addresses credential selection across endpoints rather than a model-quality issue.",
+ "highlights": [
+  "Security fix in LLM 0.37.2",
+  "A missing named key could select the wrong credential",
+  "A request-mode override exposed a second path",
+  "Endpoint configuration is the relevant boundary"
+ ]
+}

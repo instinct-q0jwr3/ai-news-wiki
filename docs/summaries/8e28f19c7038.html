@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Huawei releases MACaQ, its internal quantizer for local inference · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1794432987"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Huawei releases MACaQ, its internal quantizer for local inference</h1>
+<p class="meta">type: news-summary · created: 2026-11-11 · updated: 2026-11-11 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>MACaQ provides calibrated quantization for local inference across text and other model types. The project documents paths for GGUF with llama.cpp, compact checkpoints with vLLM and PyTorch, and diffusion workflows through Diffusers. It aims to reduce weight and activation precision without tying the method to one model family.</p>
+<p>The repository claims a 122-billion-parameter model can be quantized in 64 minutes using 32.5 GB of device memory, and reports favorable accuracy-time comparisons. These are project measurements that depend on configuration. Backend support also has limits: the Ascend kernels require further runtime integration for full-model execution.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Quantizes weights and activations</li>
+<li>Text, diffusion and speech workflows documented</li>
+<li>Multiple inference backends supported</li>
+<li>Project claims fast low-memory calibration</li>
+<li>Accuracy comparisons are project-reported</li>
+<li>Ascend kernels are not a complete serving integration</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/huawei-csl/MACaQ">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

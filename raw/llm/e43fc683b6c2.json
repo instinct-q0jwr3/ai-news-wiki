@@ -1,0 +1,14 @@
+{
+ "id": "e43fc683b6c2",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.751934+00:00",
+ "model": "agent-pass",
+ "prose": "Pomerado presents website interactions as reusable APIs and MCP tools instead of asking a browser agent to reason through every page on every run. Its launch description says integrations can detect interface changes, repair broken steps and return results through deterministic calls. The commercial proposition is faster, cheaper access to sites without conventional APIs.\n\nThe site supplies demonstrations and comparative performance claims, but the fetched material does not establish an independent benchmark. Website permissions, account access and transaction approvals remain separate requirements; an integration layer does not remove them. This is a description of the product, not a recommendation to install it or alter an assistant's settings.",
+ "highlights": [
+  "Website workflows exposed as APIs or MCP tools",
+  "Vendor claims automatic repair after page changes",
+  "Targets sites without conventional integration APIs",
+  "Speed and cost figures are vendor claims",
+  "Permissions and approvals still apply"
+ ]
+}

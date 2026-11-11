@@ -1,0 +1,15 @@
+{
+ "id": "8579dc601fe5",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.751588+00:00",
+ "model": "agent-pass",
+ "prose": "An AWS engineering essay connects the new AWS Emulator to earlier work testing a Paxos-based lock service through controlled simulation. The argument is that faster code generation increases the importance of specifying observable behavior and reproducing failures, rather than making engineering judgment unnecessary.\n\nFor the emulator, agents derive customer scenarios from public service descriptions, check those scenarios against real AWS, and then implement local behavior until the same tests pass. AWS says the resulting tool covers more than 200 services and runs offline for free. Humans still decide the contract and acceptance gates; automated fidelity checks cannot establish that every production behavior has been reproduced.",
+ "highlights": [
+  "Simulation makes difficult failure orderings reproducible",
+  "Public API models define the intended interface",
+  "Tests are checked against actual AWS behavior",
+  "Agents implement and repair the emulator",
+  "More than 200 services covered according to AWS",
+  "Engineering shifts toward specifications and validation"
+ ]
+}

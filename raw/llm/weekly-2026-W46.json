@@ -464,6 +464,65 @@
     "a5e2ded21c82"
    ],
    "concepts": []
+  },
+  {
+   "title": "Decisions without a conversation",
+   "intro": "Google turns bounded choices into a separate low-cost API.",
+   "stories": [
+    "a109f6614bec",
+    "89317bc923ae"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Testing the cloud on a laptop",
+   "intro": "AWS puts simulation and automated acceptance tests at the center of agent-built software.",
+   "stories": [
+    "8579dc601fe5",
+    "b6f5e5908a72",
+    "8a6895a96349",
+    "30b45717bc2e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Who controls an agent",
+   "intro": "A booking restriction, weight-integrity research and a credential fix expose distinct control boundaries.",
+   "stories": [
+    "548a9fd79961",
+    "514817c9761d",
+    "1fe88d4c17ca",
+    "c9638612d199",
+    "4640c9bdb0cf",
+    "e43fc683b6c2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Smaller tools, explicit state",
+   "intro": "Local meeting notes, editable art and shared data formats favor inspectable building blocks.",
+   "stories": [
+    "0046b1317a1b",
+    "d03064ebefc7",
+    "67d1182fd0b9",
+    "9096c97418f5",
+    "8e28f19c7038",
+    "2f42804a7653"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Risk beyond the benchmark",
+   "intro": "Research acceleration, university assessment and retirement exposure reach different institutions.",
+   "stories": [
+    "0ace9d6868d1",
+    "f703eb38165b",
+    "eb87f68845c4",
+    "8c43536bc926",
+    "f59fc7b65017",
+    "a93de5c2358d"
+   ],
+   "concepts": []
   }
  ]
 }

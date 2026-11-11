@@ -1,0 +1,15 @@
+{
+ "id": "9096c97418f5",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752098+00:00",
+ "model": "agent-pass",
+ "prose": "Litesql packages SQLite connection and transaction choices for Go applications. It separates pooled read connections from a dedicated write connection so writes are serialized rather than competing through an unrestricted pool. Transaction helpers return cleanup functions, reducing the chance that an unfinished transaction blocks later work.\n\nThe library is a set of defaults and an API, not a promise that one configuration suits every workload. Its documentation explains that the driver ignores the Go isolation setting, with effective behavior instead determined by SQLite locking configuration. Applications still need to choose settings and complete transactions correctly.",
+ "highlights": [
+  "Go wrapper for SQLite access",
+  "Concurrent reads use a connection pool",
+  "Single dedicated write connection serializes writes",
+  "Cleanup helpers roll back unfinished transactions",
+  "Driver isolation semantics need attention",
+  "Defaults remain workload-dependent"
+ ]
+}

@@ -1,83 +1,107 @@
 {
- "generated_at": "2026-11-11T15:30:45+00:00",
+ "generated_at": "2026-11-11T21:31:17+00:00",
  "stories": [
   {
-   "id": "c68e175bb98f",
-   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "id": "0046b1317a1b",
+   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
    "source": "Hacker News",
-   "url": "https://pietromiotti.com/latest/maya-site/?maya"
+   "url": "https://github.com/FrigadeHQ/yogurt"
   },
   {
-   "id": "64c1befc5577",
-   "title": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",
+   "id": "a109f6614bec",
+   "title": "Gemini Decisions API",
    "source": "Hacker News",
-   "url": "https://github.com/NeuraCryption/SPECTRA"
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
   },
   {
-   "id": "90f104d585e0",
-   "title": "Show HN: Aq – an attention queue TUI for Claude Code",
+   "id": "8579dc601fe5",
+   "title": "AWS Emulator and the engineer's job when agents write the code",
    "source": "Hacker News",
-   "url": "https://github.com/nodo-labs-uk/attention-queue"
+   "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
   },
   {
-   "id": "70a7ad51fa1e",
-   "title": "Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",
+   "id": "eb87f68845c4",
+   "title": "Retirement Savings Are Fueling the AI Bubble",
    "source": "Hacker News",
-   "url": "https://github.com/Crokily/pi-durable-bot"
+   "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
   },
   {
-   "id": "22c2a240dca6",
-   "title": "Meta Releases Faster K-Means Alternative",
-   "source": "TLDR AI",
-   "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means"
+   "id": "30b45717bc2e",
+   "title": "AI, activity, and outcomes in software engineering",
+   "source": "Hacker News",
+   "url": "https://cabird.com/talks/shipping-faster/"
   },
   {
-   "id": "6f6be59da147",
-   "title": "As Anthropic prepares to IPO, Amazon and Google collectively own 25%+; Amazon's $18B investment could reach $250B+ in value and Google's $33B could hit $140B",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html?unlocked_article_code=1.PlE.gDyc.A0vRKAxGOwwz&smid=url-share"
+   "id": "d03064ebefc7",
+   "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+   "source": "Hacker News",
+   "url": "https://github.com/klad-app/klad"
   },
   {
-   "id": "8fdb3e7dc10d",
-   "title": "London-based AI chip startup Fractile raised $720M from Thrive, Founders Fund, and others, sources say at a $7B post-money valuation, up from ~$1.1B in May",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25"
+   "id": "67d1182fd0b9",
+   "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+   "source": "Hacker News",
+   "url": "https://github.com/OpenTSLM/TimeNet"
   },
   {
-   "id": "96903253fbde",
-   "title": "Why Instinct Feels Like a Personal Assistant",
-   "source": "TLDR AI",
-   "url": "https://x.com/nizzyabi/status/2120194267066863738"
+   "id": "e43fc683b6c2",
+   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "source": "Hacker News",
+   "url": "https://pomerado.ai/"
   },
   {
-   "id": "dae20a7bf719",
-   "title": "Anthropic's IPO roadshow video",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+   "id": "a93de5c2358d",
+   "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths"
   },
   {
-   "id": "bddc47fd394c",
-   "title": "Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation",
-   "source": "Techmeme",
-   "url": "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/"
+   "id": "9096c97418f5",
+   "title": "Show HN: I created a library for correctly using SQLite in Go programs",
+   "source": "Hacker News",
+   "url": "https://github.com/cattlecloud/litesql"
   },
   {
-   "id": "c20bbfe497c7",
-   "title": "ByteDance co-founder Zhang Yiming says the company plans to launch a Muse-like AI assistant in the coming weeks and reach the AI frontier by 2029-2030",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap"
+   "id": "8e28f19c7038",
+   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "source": "Hacker News",
+   "url": "https://github.com/huawei-csl/MACaQ"
   },
   {
-   "id": "4dd3b427dce2",
-   "title": "Anthropic's IPO roadshow video: Dario Amodei says cancer, Alzheimer's, heart disease, and mental illness will be \"relics of the past\" in \"less than a decade\" (@firesidealpha)",
-   "source": "Techmeme",
-   "url": "https://x.com/firesidealpha/status/2120173460509032675"
+   "id": "0ace9d6868d1",
+   "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+   "source": "Hacker News",
+   "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html"
   },
   {
-   "id": "6aa2c0dacfe9",
-   "title": "Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+   "id": "89317bc923ae",
+   "title": "Gemini Decision 1 is Free on Google AI Studio",
+   "source": "Hacker News",
+   "url": "https://aistudio.google.com/docs/decisions-api"
+  },
+  {
+   "id": "4640c9bdb0cf",
+   "title": "Prompting Claude Fable 5.2",
+   "source": "Hacker News",
+   "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2"
+  },
+  {
+   "id": "f703eb38165b",
+   "title": "AI has made it 'close to impossible' to assess university coursework",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator"
+  },
+  {
+   "id": "548a9fd79961",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "source": "Hacker News",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+  },
+  {
+   "id": "1fe88d4c17ca",
+   "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "source": "Hacker News",
+   "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo"
   },
   {
    "id": "e540a96fb665",
@@ -86,10 +110,22 @@
    "url": "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/"
   },
   {
-   "id": "b28e2720e504",
-   "title": "Wesleyan Media Project: political campaigns spent ~$187M on ~300 AI-generated or AI-enhanced ads in the midterms; 90% of tracked AI ads were for GOP candidates",
+   "id": "c9638612d199",
+   "title": "llm 0.37.2",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/"
+  },
+  {
+   "id": "8c43536bc926",
+   "title": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows",
    "source": "Techmeme",
-   "url": "https://www.poynter.org/fact-checking/2026/ai-generated-political-ads-2026-midterm-elections/"
+   "url": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?gift=VELZukBv_TdFyvYot6GkvImUfy5VbhsFdb6Ml7MDXXU"
+  },
+  {
+   "id": "8a6895a96349",
+   "title": "aws-emulator",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
   },
   {
    "id": "9243d5322ecd",
@@ -98,118 +134,28 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
   },
   {
-   "id": "f740b6a12a92",
-   "title": "Anthropic launches roadshow for proposed initial public offering",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/roadshow-launch"
-  },
-  {
-   "id": "3efa6bf60765",
-   "title": "Businesses in ChatGPT – OpenAI",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt/"
-  },
-  {
-   "id": "e50fb0dccd83",
-   "title": "Suppressing Reward Hacking Through Model Weight Arithmetic",
-   "source": "TLDR AI",
-   "url": "https://x.com/KunhaoZ/status/2120172863734849903"
-  },
-  {
-   "id": "ec96e239b509",
-   "title": "MAI-Transcribe-2",
-   "source": "TLDR AI",
-   "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/"
-  },
-  {
-   "id": "2078b6653145",
-   "title": "AlphaProof Code",
-   "source": "Hacker News",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-  },
-  {
-   "id": "a7816a45cd45",
-   "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
-   "source": "TLDR AI",
-   "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/"
-  },
-  {
-   "id": "ca07f4d12df7",
-   "title": "More than 35,000 Grok-built apps were open to anyone with the link, including SpaceXSI's own",
-   "source": "TLDR AI",
-   "url": "https://blog.claroc.io/ghostshares-grok-build-apps"
-  },
-  {
-   "id": "722ef6da7de0",
-   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
-  },
-  {
-   "id": "e4492896e795",
-   "title": "Anthropic's IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday",
+   "id": "b6f5e5908a72",
+   "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed"
+   "url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/"
   },
   {
-   "id": "2d9008788ca1",
-   "title": "German defense tech giant Helsing launches Clarity, an intelligence platform using military-customized AI agents to rival Palantir's Maven and Anduril's Lattice",
+   "id": "2f42804a7653",
+   "title": "Browse tools.simonwillison.net by tag",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
+  },
+  {
+   "id": "514817c9761d",
+   "title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations",
    "source": "Techmeme",
-   "url": "https://resiliencemedia.co/helsing-launches-clarity-a-competitor-to-palantirs-maven/"
+   "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?st=ytrzi1"
   },
   {
-   "id": "c6f3b0ce43a9",
-   "title": "What are some \"No AI\" apps/companies/resources you know of?",
-   "source": "Lobsters",
-   "url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies"
-  },
-  {
-   "id": "a41e6cb2bb79",
-   "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/"
-  },
-  {
-   "id": "a5e2ded21c82",
-   "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors",
-   "source": "TLDR AI",
-   "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors"
-  },
-  {
-   "id": "00bb4fcc122b",
-   "title": "Salt Lake City-based energy storage startup Torus raised a $500M Series C led by Magnetar to build shipping container-sized AI data centers at 1MW to 20MW sizes",
+   "id": "f59fc7b65017",
+   "title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center"
-  },
-  {
-   "id": "ad6200e8ae53",
-   "title": "Game developer House House confirms using AI during Big Walk's final development, sparking an intense debate among Independent Games Festival judges and jurors",
-   "source": "Techmeme",
-   "url": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/"
-  },
-  {
-   "id": "f048e7cee21d",
-   "title": "Neurons as an Interpretable Basis",
-   "source": "TLDR AI",
-   "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis"
-  },
-  {
-   "id": "320a21c57274",
-   "title": "The AI Futures Project updates its timelines after METR's report on Anthropic R&D progress, saying it now expects a Superhuman AI Researcher to arrive in 2027",
-   "source": "Techmeme",
-   "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
-  },
-  {
-   "id": "f3bd3da5c8ba",
-   "title": "Introducing Gemini for healthcare",
-   "source": "TLDR AI",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare"
-  },
-  {
-   "id": "33e776a86c60",
-   "title": "Swarm (/swarm)",
-   "source": "TLDR AI",
-   "url": "https://antigravity.google/docs/swarm/"
+   "url": "https://www.upstartsmedia.com/p/fintech-imprint-raises-130m"
   }
  ]
 }

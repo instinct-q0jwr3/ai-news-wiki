@@ -1,0 +1,15 @@
+{
+ "id": "548a9fd79961",
+ "schema": 1,
+ "authored_at": "2026-11-11T21:34:49.752550+00:00",
+ "model": "agent-pass",
+ "prose": "United Airlines says it is restricting unauthorized third-party AI assistants from making reservations through its own platforms or indirect booking channels. The report cites risks from sharing credentials, unintended purchases, account changes and mileage use, together with concerns about rules tied to passenger verification.\n\nAn aviation analyst also interprets the move as a fight over control of distribution and the cost of automated searches. The distinction is between approved travel distribution and personal agents acting with account access; the article does not establish that every AI-assisted flight search is prohibited. Other airlines are taking different approaches.",
+ "highlights": [
+  "United targets unauthorized personal AI assistants",
+  "Restriction includes direct and indirect channels",
+  "Credentials, miles and unintended actions are cited risks",
+  "Analyst sees distribution economics behind the policy",
+  "Other carriers differ on AI-assisted discovery",
+  "Reporting does not define every implementation exception"
+ ]
+}

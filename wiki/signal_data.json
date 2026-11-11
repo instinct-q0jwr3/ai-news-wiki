@@ -2294,5 +2294,61 @@
   "thin": 5,
   "total": 82,
   "unreadable": 10
+ },
+ "2026-11-11": {
+  "ok": 55,
+  "paywall": 12,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "a109f6614bec",
+    "minutes": 5,
+    "source": "blog.google",
+    "title": "Gemini Decisions API",
+    "why": "Google turns multimodal bounded decisions into a separate API, with probabilities rather than generated answers."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "8579dc601fe5",
+    "minutes": 9,
+    "source": "www.allthingsdistributed.com",
+    "title": "AWS Emulator and the engineer's job when agents write the code",
+    "why": "AWS explains how agents build local cloud simulations against real-service fidelity tests, shifting the engineering work toward contracts and validation."
+   },
+   {
+    "cat": "ok",
+    "front": "Policy",
+    "id": "548a9fd79961",
+    "minutes": 2,
+    "source": "www.cbsnews.com",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "why": "United restricts unauthorized personal booking agents, testing the boundary between assistant capability and platform permission."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "1fe88d4c17ca",
+    "minutes": 24,
+    "source": "x.com",
+    "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "why": "Lazarus demonstrates a model-weight integrity risk that ordinary behavioral evaluations can miss."
+   },
+   {
+    "cat": "ok",
+    "front": "Education",
+    "id": "f703eb38165b",
+    "minutes": 4,
+    "source": "www.theguardian.com",
+    "title": "AI has made it 'close to impossible' to assess university coursework",
+    "why": "England's regulator pushes assessment redesign as AI weakens coursework as evidence of individual learning."
+   }
+  ],
+  "reserve": "c9638612d199",
+  "status": "provisional",
+  "thin": 5,
+  "total": 75,
+  "unreadable": 3
  }
 }
