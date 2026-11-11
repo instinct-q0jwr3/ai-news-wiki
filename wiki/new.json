@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T03:28:59+00:00",
+ "generated_at": "2026-11-11T09:29:49+00:00",
  "stories": [
   {
    "id": "5ff3b52d9288",
@@ -8,88 +8,52 @@
    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
   },
   {
-   "id": "642e03ec2169",
-   "title": "Apple has new Mac app coming to make running local AI models easy",
-   "source": "Hacker News",
-   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
-  },
-  {
-   "id": "6af95d23cd39",
-   "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-   "source": "Hacker News",
-   "url": "https://aircad.com"
-  },
-  {
    "id": "e524c2b03297",
    "title": "AI is an information gateway. Audiences still don't want it making their news",
    "source": "Hacker News",
    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
   },
   {
-   "id": "e5f3349c6119",
-   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+   "id": "012e1cb58a00",
+   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2611.10866"
+   "url": "https://github.com/adrbn/bo2-mac"
   },
   {
-   "id": "290be871acb4",
-   "title": "Glue work is still harmful in the age of AI",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/"
+   "id": "2cb97390eef3",
+   "title": "OSS projects banning AI-generated contributions",
+   "source": "Hacker News",
+   "url": "https://osssaysno.com"
   },
   {
-   "id": "cbf877078895",
-   "title": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing",
+   "id": "f87d05e1c7db",
+   "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+   "source": "Hacker News",
+   "url": "https://taipeiledger.com/gpu/"
+  },
+  {
+   "id": "c38b6e54d060",
+   "title": "Records: China's Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia's H200 AI chips despite being on a US export blacklist",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
+   "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/"
   },
   {
-   "id": "9a7aed8771d3",
-   "title": "Just say no to Anthropic’s IPO",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo"
-  },
-  {
-   "id": "87078535854d",
-   "title": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation",
+   "id": "61a1c62bf3d2",
+   "title": "VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/pro/private-equity/goldman-leads-investment-in-cybersecurity-startup-at-400-million-valuation-648c54b7"
+   "url": "https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html?unlocked_article_code=1.PlE.e7Fx.YuauO1QXRsR3&smid=url-share"
   },
   {
-   "id": "1cb50a60ae85",
-   "title": "Anthropic's bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?accessToken=zwAAAaHIPX8Ekc9ovLpXBXVE7tOA9C5eojpDHg.MEYCIQCyA_RvsNxAO8C2cqmOijMAfUYU6CI25hscCqhpSEOiPwIhANJsgKYmPtN4Oag-OniyReoOcFughHSQbGVN_54GU-vs&sharetype=gift&token=f904c459-eec5-4b8c-ba10-d039c030cd7b&syn-25a6b1a6=1"
+   "id": "f60cf626dfb1",
+   "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/codex-work/"
   },
   {
-   "id": "301bdf7d96d8",
-   "title": "An analysis of the tech job market in late 2026: product managers seem to be benefiting most in the AI era, demand for engineers is plateauing, and more",
+   "id": "ced5fa009e55",
+   "title": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls",
    "source": "Techmeme",
-   "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late"
-  },
-  {
-   "id": "dd042903c4f4",
-   "title": "S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"
-  },
-  {
-   "id": "238fd8b47389",
-   "title": "In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K",
-   "source": "Techmeme",
-   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
-  },
-  {
-   "id": "080bd76f09ff",
-   "title": "Leaked documents: OpenAI's adjusted operating margin improved from -150% to -109% from Q2 to Q3",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb?st=eFGBW2"
-  },
-  {
-   "id": "2d81479e8c4c",
-   "title": "Coframe, which uses AI to make websites that test and personalize themselves for each visitor, raised a $25M Series A, bringing its total funding to $35M",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/khosla-doubles-down-on-coframe-to-build-a-living-internet-2026-11"
+   "url": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244"
   }
  ]
 }
