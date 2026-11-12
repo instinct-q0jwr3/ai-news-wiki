@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-12",
+ "date": "2026-11-12",
+ "status": "provisional",
+ "reserve": "01062ca44206",
+ "picks": [
+  {
+   "id": "4de20046fdd1",
+   "front": "Models",
+   "source": "blog.google",
+   "why": "Hydrogen adds a faster execution model and explicit pricing, while Orchestrator tests dynamic collaboration with frontier reasoning."
+  },
+  {
+   "id": "497d6097ca0a",
+   "front": "Research",
+   "source": "deepmind.google",
+   "why": "AlphaGenome 2 conditions variant predictions on specific cell states, extending what DNA models can prioritize for research."
+  },
+  {
+   "id": "d6ca186f6a3e",
+   "front": "Robotics",
+   "source": "runway.com",
+   "why": "Praxis-1 opens weights and adaptation code for a joint video-action model, widening access while leaving hardware-specific validation essential."
+  },
+  {
+   "id": "71e38ebafb71",
+   "front": "Security",
+   "source": "www.oblomovka.com",
+   "why": "A capability-security argument separates recognizing manipulation from limiting the damage it can cause."
+  },
+  {
+   "id": "f4e4bdbff5fc",
+   "front": "Products",
+   "source": "blog.google",
+   "why": "Tabletop turns shared planning inputs into interactive group tools, with an explicitly limited waitlist rollout."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "4de20046fdd1",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T21:37:11.640385+00:00",
+ "prose": "Google introduces Gemini 4 Hydrogen as a faster execution-oriented model for everyday coding and agent workflows, alongside Carbon and Argon for harder reasoning. The launch specifies a one-million-token context window and flat prices of $1.50 per million input tokens and $7.50 per million output tokens. Availability spans several Google surfaces, with plan limits varying by product.\n\nGoogle also presents Orchestrator, which switches models during a session rather than choosing once from the first prompt. Its reported speed and quota gains are vendor benchmark results, not guarantees for every workload. Hydrogen offers multiple thinking levels, so comparisons need to hold settings and task outcomes in view.",
+ "highlights": [
+  "Execution-oriented member of Gemini 4",
+  "One-million-token context window",
+  "Announced pricing is $1.50 input and $7.50 output per million",
+  "Thinking settings affect quality and speed",
+  "Orchestrator switches models during a session",
+  "Vendor evaluations do not establish universal gains"
+ ]
+}

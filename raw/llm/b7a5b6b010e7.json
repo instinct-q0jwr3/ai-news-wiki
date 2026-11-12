@@ -1,0 +1,15 @@
+{
+ "id": "b7a5b6b010e7",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T21:37:11.640673+00:00",
+ "prose": [
+  "A Hacker News submission called AI Red Lines proposes writing down conditions that would prompt action on AI. The fetched page was thin and the feed contained no detailed explanation. Its exact process, data handling and intended commitments could not be established from the available material."
+ ],
+ "highlights": [
+  "Title suggests explicit action thresholds",
+  "No substantive page text was retrieved",
+  "Process and privacy details remain unchecked"
+ ],
+ "basis": "Hacker News title only; source fetch was thin."
+}

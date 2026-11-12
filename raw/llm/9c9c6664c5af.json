@@ -1,0 +1,15 @@
+{
+ "id": "9c9c6664c5af",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T21:37:11.641659+00:00",
+ "prose": [
+  "Bloomberg sources, relayed by Techmeme, say orders for Anthropic's IPO are about six times the shares available and that existing backers may receive priority. The original report was unavailable. Oversubscription is a reported demand measure, not a guaranteed allocation or a prediction of trading performance."
+ ],
+ "highlights": [
+  "Reported demand is about six times supply",
+  "Existing backers may receive priority",
+  "Allocation and future price remain uncertain"
+ ],
+ "basis": "Techmeme headline and excerpt; Bloomberg fetch failed."
+}

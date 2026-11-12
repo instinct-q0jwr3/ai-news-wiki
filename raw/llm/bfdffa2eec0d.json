@@ -1,0 +1,14 @@
+{
+ "id": "bfdffa2eec0d",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T21:37:11.641068+00:00",
+ "prose": "DRS-VPT estimates a camera's position and orientation inside a three-dimensional point-cloud map from one image, without an initial pose estimate. The project describes the same model operating across driving LiDAR and indoor maps, and also supporting camera-to-LiDAR calibration.\n\nCode and weights are offered with a demonstration, but the available description does not establish robustness for every scene or sensor. Generalization claims need evaluation against the deployment's lighting, geometry and sensing conditions. The contribution is spatial alignment, not autonomous navigation by itself.",
+ "highlights": [
+  "Single image localized in a point-cloud map",
+  "No initial pose estimate required",
+  "Project claims indoor and driving-map support",
+  "Can also support camera-LiDAR calibration",
+  "Deployment robustness needs separate evaluation"
+ ]
+}

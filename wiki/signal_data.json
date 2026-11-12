@@ -2350,5 +2350,61 @@
   "thin": 5,
   "total": 75,
   "unreadable": 3
+ },
+ "2026-11-12": {
+  "ok": 45,
+  "paywall": 11,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "4de20046fdd1",
+    "minutes": 6,
+    "source": "blog.google",
+    "title": "Gemini 4 Hydrogen",
+    "why": "Hydrogen adds a faster execution model and explicit pricing, while Orchestrator tests dynamic collaboration with frontier reasoning."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "497d6097ca0a",
+    "minutes": 10,
+    "source": "deepmind.google",
+    "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease",
+    "why": "AlphaGenome 2 conditions variant predictions on specific cell states, extending what DNA models can prioritize for research."
+   },
+   {
+    "cat": "ok",
+    "front": "Robotics",
+    "id": "d6ca186f6a3e",
+    "minutes": 3,
+    "source": "runway.com",
+    "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model",
+    "why": "Praxis-1 opens weights and adaptation code for a joint video-action model, widening access while leaving hardware-specific validation essential."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "71e38ebafb71",
+    "minutes": 6,
+    "source": "www.oblomovka.com",
+    "title": "AI Security Issues Are Social Engineering Issues",
+    "why": "A capability-security argument separates recognizing manipulation from limiting the damage it can cause."
+   },
+   {
+    "cat": "ok",
+    "front": "Products",
+    "id": "f4e4bdbff5fc",
+    "minutes": 1,
+    "source": "blog.google",
+    "title": "Google Tabletop Creates Shared Interactive Planning Spaces",
+    "why": "Tabletop turns shared planning inputs into interactive group tools, with an explicitly limited waitlist rollout."
+   }
+  ],
+  "reserve": "01062ca44206",
+  "status": "provisional",
+  "thin": 1,
+  "total": 62,
+  "unreadable": 5
  }
 }

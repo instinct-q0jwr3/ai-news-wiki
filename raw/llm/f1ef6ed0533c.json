@@ -1,0 +1,14 @@
+{
+ "id": "f1ef6ed0533c",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T21:37:11.640619+00:00",
+ "prose": "AgentRun is an open-source layer around existing agent harnesses that adds run tracking, recovery, tool connections and a process for retaining useful work from earlier runs. Its project description treats repeated rediscovery as a cost problem and proposes reviewing and keeping notes, skills or workflows for later reuse.\n\nThe repository cites internal code-review and classification case studies with lower costs, but these are project-reported comparisons on particular samples. A retention mechanism is not proof that every change improves future runs; evaluation, permissions and oversight still determine whether learned behavior is useful.",
+ "highlights": [
+  "Wraps existing agent harnesses",
+  "Adds tracking and durable execution",
+  "Retains reviewed notes and reusable workflows",
+  "Project cites task-specific cost comparisons",
+  "Case studies are not broad reliability guarantees"
+ ]
+}

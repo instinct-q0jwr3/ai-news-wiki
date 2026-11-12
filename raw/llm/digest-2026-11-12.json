@@ -4,7 +4,7 @@
  "schema": 3,
  "model": "agent-pass",
  "lead": [
-  "Reports of Nvidia's leadership transition put governance and financing dependencies in focus. New research spans cell-specific genetics and hidden computation, while agent products expand interfaces and reopen questions about permissions and privacy."
+  "Google launches Hydrogen and dynamic model routing as Nvidia's leadership transition continues. Open robot weights, cell-specific genetics and new agent interfaces widen the practical toolkit; privacy, infrastructure and financing claims still need careful boundaries."
  ],
  "sections": [
   {
@@ -130,6 +130,60 @@
     "74c8479c207d",
     "5487ec63e396",
     "8487dc8d8672"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Hydrogen and the moving model boundary",
+   "intro": "Google adds an execution-oriented model and routing that can change mid-task.",
+   "stories": [
+    "4de20046fdd1",
+    "07f0f76317e0",
+    "e89bdd7fc00c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Tools that keep structure",
+   "intro": "Managed runs, connected facts and spatial alignment expose different building blocks.",
+   "stories": [
+    "f1ef6ed0533c",
+    "b2192f634b48",
+    "bfdffa2eec0d",
+    "b7a5b6b010e7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The transition continues",
+   "intro": "Testimony plans, open-model commitments and leadership commentary.",
+   "stories": [
+    "78f353cacbd6",
+    "285fe12a3d3e",
+    "a2e8c060c313",
+    "812051d2d59c",
+    "b9bba35d1dad"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Trust in the surrounding system",
+   "intro": "Phishing, wearable privacy and infrastructure concerns.",
+   "stories": [
+    "b0457d31709b",
+    "5d298fd470c9",
+    "bdb0f1228954"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Promises and their economics",
+   "intro": "Proposed campuses, investor demand and a critique of robot labor.",
+   "stories": [
+    "4e3e490a963c",
+    "9c9c6664c5af",
+    "7dbb4bd8ddc1",
+    "6c8da4ddbb08"
    ],
    "concepts": []
   }
