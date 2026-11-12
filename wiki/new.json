@@ -1,53 +1,59 @@
 {
- "generated_at": "2026-11-12T03:32:25+00:00",
+ "generated_at": "2026-11-12T09:33:11+00:00",
  "stories": [
   {
-   "id": "c68e175bb98f",
-   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "id": "3a513fe51a48",
+   "title": "A2UI 1.0",
    "source": "Hacker News",
-   "url": "https://pietromiotti.com/latest/maya-site/?maya"
+   "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/"
   },
   {
-   "id": "66f598021968",
-   "title": "Adventures in Weight Space Programming",
+   "id": "11435efeaec8",
+   "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
    "source": "Hacker News",
-   "url": "https://www.withbeaker.ai/blog/weight-space-programming"
+   "url": "https://github.com/DaleFranks/ramasite"
   },
   {
-   "id": "b98c1ba6c330",
-   "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
-   "source": "Hacker News",
-   "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a"
+   "id": "4191baeb81a3",
+   "title": "[AINews] D-Day",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-d-day-decision-models-day/"
   },
   {
-   "id": "514817c9761d",
-   "title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations",
+   "id": "faa4350dce93",
+   "title": "Munich-based Agile Robots, which develops humanoids, mobile robots, robotic arms, and control software, raised $500M led by SoftBank at an $8.5B valuation",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?st=ytrzi1"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-12/softbank-backs-agile-robots-in-500-million-humanoid-push"
   },
   {
-   "id": "b6f5e5908a72",
-   "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code",
+   "id": "8b7845dcb3cc",
+   "title": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection",
    "source": "Techmeme",
-   "url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/"
+   "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/"
   },
   {
-   "id": "1c78c3d602dd",
-   "title": "the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule"
+   "id": "1151d6e29527",
+   "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/jev-revolution/"
   },
   {
-   "id": "f83aff32b504",
-   "title": "Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved curbs for a third time in 2026 on November 5",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls"
+   "id": "d505c184e531",
+   "title": "NYC’s venture capitalists need to love themselves",
+   "source": "Anil Dash",
+   "url": "https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/"
   },
   {
-   "id": "3dd30938a327",
-   "title": "CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds' yield",
+   "id": "e010e5304e43",
+   "title": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls as Nvidia CEO Jensen Huang falls out of favor in DC",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan"
+   "url": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688"
+  },
+  {
+   "id": "1fa4906d24ee",
+   "title": "Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/"
   }
  ]
 }

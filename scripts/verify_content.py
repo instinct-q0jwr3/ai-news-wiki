@@ -16,6 +16,13 @@ def J(p):
     with open(os.path.join(ROOT,p)) as f: return json.load(f)
 FIXED=['Agentic systems','Compute and the data-center build-out','AI safety incidents and controls','AI policy, regulation and litigation','External AI evaluation','Small and specialist models','AI price war','Agentic commerce','Labor displacement','AI coding agents','Agent incidents']
 fails=[]
+# Authored digest leads are paragraphs, never a bare string iterated as characters.
+for path in glob.glob(os.path.join(ROOT,'raw/llm/digest-*.json')) + glob.glob(os.path.join(ROOT,'raw/llm/weekly-*.json')):
+    data=json.load(open(path))
+    if data.get('schema')==3 and 'lead' in data:
+        lead=data['lead']
+        if not isinstance(lead,list) or not all(isinstance(p,str) for p in lead):
+            fails.append(f'R3 {os.path.basename(path)} lead must be a list of paragraphs')
 # R1+R2: digests
 dailies=sorted(os.path.basename(p)[:-3] for p in glob.glob(os.path.join(ROOT,'wiki/daily/*.md')))
 weeklies=sorted(os.path.basename(p)[:-3] for p in glob.glob(os.path.join(ROOT,'wiki/weekly/*.md')))

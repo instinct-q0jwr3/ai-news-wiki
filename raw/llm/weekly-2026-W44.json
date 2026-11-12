@@ -4,7 +4,9 @@
  "week": "2026-W44",
  "schema": 3,
  "model": "agent-pass",
- "lead": "The week opens with a price war at the frontier, a debt scare under the build-out, and a jobs recovery that is leaving juniors behind.",
+ "lead": [
+  "The week opens with a price war at the frontier, a debt scare under the build-out, and a jobs recovery that is leaving juniors behind."
+ ],
  "sections": [
   {
    "title": "The price war reaches the frontier",

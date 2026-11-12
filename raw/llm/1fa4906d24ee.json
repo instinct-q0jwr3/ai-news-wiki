@@ -1,0 +1,15 @@
+{
+ "id": "1fa4906d24ee",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T09:35:17.786030+00:00",
+ "prose": [
+  "Reuters sources, as summarized by Techmeme, say Chinese AI companies are trying to rent Nvidia-powered computing capacity outside China amid concern about tighter US restrictions. The original report was not retrievable. The feed supports an account of reported demand for overseas capacity, not verified rental totals or the final scope of any future US rule."
+ ],
+ "highlights": [
+  "Sources report demand for overseas Nvidia compute",
+  "Concern about tighter US controls is the stated context",
+  "No rental totals or final policy terms were accessible"
+ ],
+ "basis": "Techmeme headline and excerpt; Reuters source fetch failed."
+}

@@ -3,7 +3,9 @@
  "date": "2026-11-03",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Day two of the amended S-1: an op-ed tells the SEC to block the IPO outright, Henry Blodget's arithmetic says Anthropic barely grew after July, the WSJ hears $1.5T, and the risk factors disclose an 'imminent' RSI threshold. Meanwhile Mandiant names the LLMJacking economy and Legora's CTO explains how you evaluate agents whose work you are never allowed to see.",
+ "lead": [
+  "Day two of the amended S-1: an op-ed tells the SEC to block the IPO outright, Henry Blodget's arithmetic says Anthropic barely grew after July, the WSJ hears $1.5T, and the risk factors disclose an 'imminent' RSI threshold. Meanwhile Mandiant names the LLMJacking economy and Legora's CTO explains how you evaluate agents whose work you are never allowed to see."
+ ],
  "sections": [
   {
    "title": "Reading the S-1",

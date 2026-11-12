@@ -3,7 +3,9 @@
  "week": "2026-W46",
  "schema": 3,
  "model": "agent-pass",
- "lead": "A blogger argues the AI bubble may not exist while US professional services add 70K jobs, the most since 2022. Amazon prepares a new home robot, Tencent's AI chief warns on bio risk, and Stanford rebuilds its AI-engineering course around open-source maintainers.",
+ "lead": [
+  "A blogger argues the AI bubble may not exist while US professional services add 70K jobs, the most since 2022. Amazon prepares a new home robot, Tencent's AI chief warns on bio risk, and Stanford rebuilds its AI-engineering course around open-source maintainers."
+ ],
  "sections": [
   {
    "title": "The bubble question",
@@ -547,6 +549,43 @@
    "intro": "The court-auction detention claim remains unverified beyond its submission title.",
    "stories": [
     "b98c1ba6c330"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Choices become interface building blocks",
+   "intro": "Decision models and native interface protocols divide work between models and application code.",
+   "stories": [
+    "3a513fe51a48",
+    "4191baeb81a3",
+    "1151d6e29527"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Capital and control of compute",
+   "intro": "Reported robotics investment and pressure over chip access.",
+   "stories": [
+    "faa4350dce93",
+    "e010e5304e43",
+    "1fa4906d24ee"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Testing a biological warning system",
+   "intro": "An offline model proposes threat scores, with validation still in progress.",
+   "stories": [
+    "8b7845dcb3cc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Independence in software and investment",
+   "intro": "A self-contained CMS and an argument for local investor confidence.",
+   "stories": [
+    "11435efeaec8",
+    "d505c184e531"
    ],
    "concepts": []
   }

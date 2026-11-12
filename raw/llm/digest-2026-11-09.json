@@ -3,7 +3,9 @@
  "date": "2026-11-09",
  "schema": 3,
  "model": "agent-pass",
- "lead": "A blogger argues the AI bubble may not exist while US professional services add 70K jobs, the most since 2022. Amazon prepares a new home robot, Tencent's AI chief warns on bio risk, and Stanford rebuilds its AI-engineering course around open-source maintainers.",
+ "lead": [
+  "A blogger argues the AI bubble may not exist while US professional services add 70K jobs, the most since 2022. Amazon prepares a new home robot, Tencent's AI chief warns on bio risk, and Stanford rebuilds its AI-engineering course around open-source maintainers."
+ ],
  "sections": [
   {
    "title": "The bubble question",

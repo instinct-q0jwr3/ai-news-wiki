@@ -3,7 +3,9 @@
  "date": "2026-10-07",
  "schema": 3,
  "model": "agent-pass",
- "lead": "OpenAI's mathematics catalogue dominates the day, with 722 manuscripts at different stages of verification. Mistral Large 4 arrives, AI-assisted software copying raises ownership questions, and a streaming-fraud case ends in prison.",
+ "lead": [
+  "OpenAI's mathematics catalogue dominates the day, with 722 manuscripts at different stages of verification. Mistral Large 4 arrives, AI-assisted software copying raises ownership questions, and a streaming-fraud case ends in prison."
+ ],
  "sections": [
   {
    "title": "Mistral Large 4 arrives",

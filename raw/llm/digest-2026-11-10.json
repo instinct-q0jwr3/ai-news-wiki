@@ -3,7 +3,9 @@
  "date": "2026-11-10",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Google adds two TPU systems, Apple starts charging for AI usage, and developers report what building with agents is really like, from games to a beep tracker.",
+ "lead": [
+  "Google adds two TPU systems, Apple starts charging for AI usage, and developers report what building with agents is really like, from games to a beep tracker."
+ ],
  "sections": [
   {
    "title": "Silicon and platforms",

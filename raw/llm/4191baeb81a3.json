@@ -1,0 +1,15 @@
+{
+ "id": "4191baeb81a3",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T09:35:17.785783+00:00",
+ "prose": "AINews frames November 11 as a convergence around decision models: Google launches Gemini Decision 1, while conference demonstrations show classifiers taking over narrow routing and extraction tasks from larger reasoning models. The newsletter contrasts Google's favorable launch benchmarks with a more mixed independent evaluation, where task cost, latency and document-level accuracy differ across competitors.\n\nThe architectural lesson is to assign fast bounded choices to a classifier and reserve a generative model for work that needs it. A Cloudflare demonstration reportedly reduced six LLM calls to one, but that result belongs to its workload rather than all agent designs. The edition also surveys frontier-model evaluations; scores and practitioner impressions are task-specific, not a universal ordering.",
+ "highlights": [
+  "Decision models return bounded choices rather than prose",
+  "Google launch results differ from independent comparisons",
+  "Per-task cost is distinct from input-token price",
+  "Cloudflare demo combines classifiers with a reasoning model",
+  "Reported call and token savings are workload-specific",
+  "Benchmark rankings do not settle every use case"
+ ]
+}

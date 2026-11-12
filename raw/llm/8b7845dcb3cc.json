@@ -1,0 +1,15 @@
+{
+ "id": "8b7845dcb3cc",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T09:35:17.785987+00:00",
+ "prose": "Radical Numerics introduces Omnii Defense, a model intended to flag biological threats from genetic sequences on a laptop without internet access. Wired reports that it combines predictions about pathogenicity, possible engineering and taxonomy into a threat score. The proposed advantage is recognizing functional patterns beyond exact matches to known organisms.\n\nThe company reports partial detection in an experiment withholding a virus species or genus from training, but those figures do not establish operational accuracy across unfamiliar threats. An outside expert cautions that detecting a signal is different from establishing dangerous consequences or deliberate engineering. Access is limited to vetted testers, with further external evaluation planned.",
+ "highlights": [
+  "Offline analysis pairs a laptop with sequencing equipment",
+  "Model predicts biological properties rather than exact matches alone",
+  "Threat score is a prediction, not a confirmed diagnosis",
+  "Withheld-virus experiment shows partial detection",
+  "Independent expert stresses the gap from signal to consequence",
+  "Vetted testing and external evaluation are still underway"
+ ]
+}

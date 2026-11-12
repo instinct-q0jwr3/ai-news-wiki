@@ -3,7 +3,9 @@
  "date": "2026-11-06",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Anthropic's IPO is the story: S-1 details, a $1.1T to $1.75T valuation range, and METR plus Cotra arguing its AI-driven research acceleration may already cross its own threshold. A PSI system using a non-public Anthropic model claims a proof of the Aaronson-Ambainis conjecture, and Asian markets and Big Tech kept sliding on data-center fears.",
+ "lead": [
+  "Anthropic's IPO is the story: S-1 details, a $1.1T to $1.75T valuation range, and METR plus Cotra arguing its AI-driven research acceleration may already cross its own threshold. A PSI system using a non-public Anthropic model claims a proof of the Aaronson-Ambainis conjecture, and Asian markets and Big Tech kept sliding on data-center fears."
+ ],
  "sections": [
   {
    "title": "The selloff",

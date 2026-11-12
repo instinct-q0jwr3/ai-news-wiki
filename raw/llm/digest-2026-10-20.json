@@ -1,340 +1,342 @@
 {
-  "id": "digest-2026-10-20",
-  "date": "2026-10-20",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": "Mercury 3 argues diffusion scales; WhatsApp is caught hiding instructions for AI assistants in its help pages; and the quasi-Riemann proof sends a math department soul-searching.",
-  "sections": [
-    {
-      "title": "Mercury 3 makes the diffusion case",
-      "intro": "Inception's new diffusion LLM claims Luna/Haiku quality at 1,000 tokens a second - and it used agent swarms to speed itself up another 16%.",
-      "stories": [
-        "5501a16275a1",
-        "6b765090b570"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "AI for science and for math",
-      "intro": "CERN partners with Mistral on foundation models for discovery, while Berkeley mathematicians reckon with the quasi-Riemann proof.",
-      "stories": [
-        "71735ae1a37a",
-        "e36997cb07a0"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Inside an AI-run intrusion campaign",
-      "intro": "Cairn publishes the actual tasking documents of agent-driven cyber operations - target lists, objectives, payloads and all.",
-      "stories": [
-        "8403597d8108"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The cap-table carousel",
-      "intro": "Eric Schmidt holds ~1% of Anthropic, OpenAI races to lock commitments before Anthropic's IPO, and Town's assistants hit unicorn status.",
-      "stories": [
-        "e702626c5c17",
-        "bb5ab083c763",
-        "2b8c3bacb854"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The labor question, in two registers",
-      "intro": "An obituary for programming's puzzle-solving joy, and the team that beat the APIs with a 235B fine-tune and shipped nothing.",
-      "stories": [
-        "f4a9b0fc287d",
-        "bef95b2f2f74"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Tools people actually reach for",
-      "intro": "A phonics reader built for one six-year-old, a three-task app, KiviDB's 21M GETs a second, and Tolan's companion for non-tech users.",
-      "stories": [
-        "aeaad8805a8b",
-        "a54e582c7e54",
-        "cc704b8e62b3",
-        "0c8cb2a5b9d8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Chips without clusters",
-      "intro": "Skymizer claims 700B inference on one 240W card while Amazon's TorchNeuron erases the PyTorch-to-Trainium rewrite.",
-      "stories": [
-        "a4271ef62ef2",
-        "c3102fcc099d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Culture and community friction",
-      "intro": "A decompilation site closes over AI contributions, HN asks again for dark mode, and Westenberg on why normal people still laugh.",
-      "stories": [
-        "bc710e30fd48",
-        "e70886ba6429",
-        "86cc71474f93"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Watching the agents",
-      "intro": "'Superfan' Claudes each guarding one component, and Laminar's RL model that finds errors in every trace.",
-      "stories": [
-        "09656ee5bba3",
-        "36dcfbf9bafa",
-        "733daa82e352"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Sites fight back against assistants",
-      "intro": "WhatsApp's hidden help-page instructions told AI not to point users to the regulator - prompt injection as product policy.",
-      "stories": [
-        "74072c47891d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Robots and new launchpads",
-      "intro": "Dream Labs APIs its robot foundation model, Vortex Code ships teams from a prompt, MiniMax details M3.1 Flash, and TVs get de-bloated by agents.",
-      "stories": [
-        "01145ae1075f",
-        "ad5066c73f90",
-        "301741a7dc29",
-        "98f628f53c1c",
-        "5a51546e6390",
-        "aa0a04e810a8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agents as weapons",
-      "intro": "Leaked documents show Army Cyber Command's ECHOTRIBBLE: agents built to spread through networks and neutralize targets.",
-      "stories": [
-        "5eca8fb52238"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "DeepSeek's federal ban, confirmed",
-      "intro": "Reuters and the Federal Register put the DHS order on the record.",
-      "stories": [
-        "502126f8a345"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Running agents well",
-      "intro": "A factory boilerplate that cut token spend 80%, and the intelligence-versus-tools trade-off users keep hitting.",
-      "stories": [
-        "8bdcf88472da",
-        "4a94ed30dae2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The solo operator's contingency plan",
-      "intro": "A self-hosted dead man's switch that tells the right people in the right order.",
-      "stories": [
-        "c934a5b6b40d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Inference stacks open up",
-      "intro": "DeepSeek releases the engine that runs its own production traffic, and PyTorch lands on Amazon's chips natively.",
-      "stories": [
-        "1ca338aa1d9c",
-        "c0eb7eceefd9",
-        "e620453de7fb"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Nine-figure rounds keep coming",
-      "intro": "Manufacturing, robotics, meeting notes, and compute contracts all close big checks in one day.",
-      "stories": [
-        "c01f9cf1cc9a",
-        "60abf80b0642",
-        "2c898b6aa130",
-        "573498c5c398",
-        "ed0d3dfc42b3"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Gigawatt campuses and their footprint",
-      "intro": "Meta tours its million-GPU project in Ohio while China's giants pour billions into a hinterland build-out.",
-      "stories": [
-        "5ec32dd612b9",
-        "763b62e38be2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Washington's AI fight widens",
-      "intro": "A leaked Anthropic bill draws fire from safety advocates, OpenAI softens on chip controls, and Z.ai's founders face questions.",
-      "stories": [
-        "bff6c32e0f79",
-        "55c7363860fe",
-        "d2b738b8c763"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "What benchmarks and citations are worth",
-      "intro": "Goodhart's Law comes for the leaderboards, and 50,000 fake statistics come for the chatbots.",
-      "stories": [
-        "89ff207e8634",
-        "91a979afd596"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Beyond the LLM shape",
-      "intro": "Cloudflare ships a token-free extraction model and Exa retools search for agents.",
-      "stories": [
-        "128052681ce4",
-        "ca4fdbf13bef"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agents learn to do less",
-      "intro": "Meta's thin-orchestrator pattern, a long-running-work workspace, and Gemini Notebook's co-creation flow.",
-      "stories": [
-        "c07669417c32",
-        "036809cc73b9",
-        "962b8c3dec86"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A critical enterprise security flaw dissected",
-      "intro": "Horizon3 walks through an unauthenticated path-traversal RCE in FortiSIEM's gRPC service.",
-      "stories": [
-        "63008669027f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The cultural argument continues",
-      "intro": "A short defense of Torvalds' pragmatism and Jack Clark's singularity lecture to the IMF.",
-      "stories": [
-        "218693ccd4b0",
-        "76da64c31779"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Coding help for forgotten languages",
-      "intro": "OpenAI targets the long tail of programming languages with little training data.",
-      "stories": [
-        "6e9c483af377"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Anthropic's numbers and its endgames",
-      "intro": "IPO filings show huge growth and a huge loss, while Altman sketches three ways the race ends.",
-      "stories": [
-        "6ca723abab1a",
-        "2a4be691981f",
-        "bc9a7d70c9f3"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Evening model releases",
-      "intro": "Gemini 4 Argon opens to everyone, Mistral ships Voxtral 3, and DeepMind puts sign-language AI in users' hands.",
-      "stories": [
-        "74598585d32b",
-        "fd9da335c1ff",
-        "f4227090b360"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The silicon challenge widens",
-      "intro": "Google answers Amazon's TorchNeuron with TorchTPU: PyTorch on TPUs with config changes only.",
-      "stories": [
-        "5ea92a9da885"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Science and life-sciences moves",
-      "intro": "Claude designs antitoxin binders and OpenAI buys a drug-development agent startup.",
-      "stories": [
-        "6065646d55ca",
-        "ba6f522fe53e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Contracts and distribution",
-      "intro": "ASI raises big after its FAA win, and Meta's Muse posts rare download velocity.",
-      "stories": [
-        "e2d9a5912c2d",
-        "cc35254bf68e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Courts and accountability",
-      "intro": "A judge dismisses the lawsuit against Sam Altman; Meta must name who approved the torrenting.",
-      "stories": [
-        "726236ba1bcd",
-        "6d893c2ed3cc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Measuring models and the bots they fight",
-      "intro": "New SlopCodeBench rankings and a look at how bot detection holds up against modern agents.",
-      "stories": [
-        "5d5a56eef5ef",
-        "a4725935dd5b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Community tooling for agents",
-      "intro": "Anthropic reimagines source control, plus Show HN launches: an OSINT grapher, a Rust gateway, a math grader, a traffic router.",
-      "stories": [
-        "2bf40dcf6e1b",
-        "49504eff2dec",
-        "e9a8895b216b",
-        "9fe34378880b",
-        "cd04433e94c0"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Backlash and think pieces",
-      "intro": "Steam users ask for a no-AI filter, smart-oven replication raises eyebrows, and the essayists weigh in.",
-      "stories": [
-        "06e6b544111e",
-        "10b5e1ee56cd",
-        "e7b37e5aa8ad",
-        "2f51d10814bc",
-        "ec3b4ab32d52",
-        "4f611bef8865"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Weekend builds and guides",
-      "intro": "A vibe-coded RTS that is actually fun, and a practical tour of image generation.",
-      "stories": [
-        "3ddb55abcdf1",
-        "094505ddf1ab"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "digest-2026-10-20",
+ "date": "2026-10-20",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Mercury 3 argues diffusion scales; WhatsApp is caught hiding instructions for AI assistants in its help pages; and the quasi-Riemann proof sends a math department soul-searching."
+ ],
+ "sections": [
+  {
+   "title": "Mercury 3 makes the diffusion case",
+   "intro": "Inception's new diffusion LLM claims Luna/Haiku quality at 1,000 tokens a second - and it used agent swarms to speed itself up another 16%.",
+   "stories": [
+    "5501a16275a1",
+    "6b765090b570"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI for science and for math",
+   "intro": "CERN partners with Mistral on foundation models for discovery, while Berkeley mathematicians reckon with the quasi-Riemann proof.",
+   "stories": [
+    "71735ae1a37a",
+    "e36997cb07a0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Inside an AI-run intrusion campaign",
+   "intro": "Cairn publishes the actual tasking documents of agent-driven cyber operations - target lists, objectives, payloads and all.",
+   "stories": [
+    "8403597d8108"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The cap-table carousel",
+   "intro": "Eric Schmidt holds ~1% of Anthropic, OpenAI races to lock commitments before Anthropic's IPO, and Town's assistants hit unicorn status.",
+   "stories": [
+    "e702626c5c17",
+    "bb5ab083c763",
+    "2b8c3bacb854"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The labor question, in two registers",
+   "intro": "An obituary for programming's puzzle-solving joy, and the team that beat the APIs with a 235B fine-tune and shipped nothing.",
+   "stories": [
+    "f4a9b0fc287d",
+    "bef95b2f2f74"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Tools people actually reach for",
+   "intro": "A phonics reader built for one six-year-old, a three-task app, KiviDB's 21M GETs a second, and Tolan's companion for non-tech users.",
+   "stories": [
+    "aeaad8805a8b",
+    "a54e582c7e54",
+    "cc704b8e62b3",
+    "0c8cb2a5b9d8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Chips without clusters",
+   "intro": "Skymizer claims 700B inference on one 240W card while Amazon's TorchNeuron erases the PyTorch-to-Trainium rewrite.",
+   "stories": [
+    "a4271ef62ef2",
+    "c3102fcc099d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Culture and community friction",
+   "intro": "A decompilation site closes over AI contributions, HN asks again for dark mode, and Westenberg on why normal people still laugh.",
+   "stories": [
+    "bc710e30fd48",
+    "e70886ba6429",
+    "86cc71474f93"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Watching the agents",
+   "intro": "'Superfan' Claudes each guarding one component, and Laminar's RL model that finds errors in every trace.",
+   "stories": [
+    "09656ee5bba3",
+    "36dcfbf9bafa",
+    "733daa82e352"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Sites fight back against assistants",
+   "intro": "WhatsApp's hidden help-page instructions told AI not to point users to the regulator - prompt injection as product policy.",
+   "stories": [
+    "74072c47891d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Robots and new launchpads",
+   "intro": "Dream Labs APIs its robot foundation model, Vortex Code ships teams from a prompt, MiniMax details M3.1 Flash, and TVs get de-bloated by agents.",
+   "stories": [
+    "01145ae1075f",
+    "ad5066c73f90",
+    "301741a7dc29",
+    "98f628f53c1c",
+    "5a51546e6390",
+    "aa0a04e810a8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents as weapons",
+   "intro": "Leaked documents show Army Cyber Command's ECHOTRIBBLE: agents built to spread through networks and neutralize targets.",
+   "stories": [
+    "5eca8fb52238"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "DeepSeek's federal ban, confirmed",
+   "intro": "Reuters and the Federal Register put the DHS order on the record.",
+   "stories": [
+    "502126f8a345"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Running agents well",
+   "intro": "A factory boilerplate that cut token spend 80%, and the intelligence-versus-tools trade-off users keep hitting.",
+   "stories": [
+    "8bdcf88472da",
+    "4a94ed30dae2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The solo operator's contingency plan",
+   "intro": "A self-hosted dead man's switch that tells the right people in the right order.",
+   "stories": [
+    "c934a5b6b40d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Inference stacks open up",
+   "intro": "DeepSeek releases the engine that runs its own production traffic, and PyTorch lands on Amazon's chips natively.",
+   "stories": [
+    "1ca338aa1d9c",
+    "c0eb7eceefd9",
+    "e620453de7fb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Nine-figure rounds keep coming",
+   "intro": "Manufacturing, robotics, meeting notes, and compute contracts all close big checks in one day.",
+   "stories": [
+    "c01f9cf1cc9a",
+    "60abf80b0642",
+    "2c898b6aa130",
+    "573498c5c398",
+    "ed0d3dfc42b3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Gigawatt campuses and their footprint",
+   "intro": "Meta tours its million-GPU project in Ohio while China's giants pour billions into a hinterland build-out.",
+   "stories": [
+    "5ec32dd612b9",
+    "763b62e38be2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Washington's AI fight widens",
+   "intro": "A leaked Anthropic bill draws fire from safety advocates, OpenAI softens on chip controls, and Z.ai's founders face questions.",
+   "stories": [
+    "bff6c32e0f79",
+    "55c7363860fe",
+    "d2b738b8c763"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "What benchmarks and citations are worth",
+   "intro": "Goodhart's Law comes for the leaderboards, and 50,000 fake statistics come for the chatbots.",
+   "stories": [
+    "89ff207e8634",
+    "91a979afd596"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Beyond the LLM shape",
+   "intro": "Cloudflare ships a token-free extraction model and Exa retools search for agents.",
+   "stories": [
+    "128052681ce4",
+    "ca4fdbf13bef"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents learn to do less",
+   "intro": "Meta's thin-orchestrator pattern, a long-running-work workspace, and Gemini Notebook's co-creation flow.",
+   "stories": [
+    "c07669417c32",
+    "036809cc73b9",
+    "962b8c3dec86"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A critical enterprise security flaw dissected",
+   "intro": "Horizon3 walks through an unauthenticated path-traversal RCE in FortiSIEM's gRPC service.",
+   "stories": [
+    "63008669027f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The cultural argument continues",
+   "intro": "A short defense of Torvalds' pragmatism and Jack Clark's singularity lecture to the IMF.",
+   "stories": [
+    "218693ccd4b0",
+    "76da64c31779"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Coding help for forgotten languages",
+   "intro": "OpenAI targets the long tail of programming languages with little training data.",
+   "stories": [
+    "6e9c483af377"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's numbers and its endgames",
+   "intro": "IPO filings show huge growth and a huge loss, while Altman sketches three ways the race ends.",
+   "stories": [
+    "6ca723abab1a",
+    "2a4be691981f",
+    "bc9a7d70c9f3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Evening model releases",
+   "intro": "Gemini 4 Argon opens to everyone, Mistral ships Voxtral 3, and DeepMind puts sign-language AI in users' hands.",
+   "stories": [
+    "74598585d32b",
+    "fd9da335c1ff",
+    "f4227090b360"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The silicon challenge widens",
+   "intro": "Google answers Amazon's TorchNeuron with TorchTPU: PyTorch on TPUs with config changes only.",
+   "stories": [
+    "5ea92a9da885"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Science and life-sciences moves",
+   "intro": "Claude designs antitoxin binders and OpenAI buys a drug-development agent startup.",
+   "stories": [
+    "6065646d55ca",
+    "ba6f522fe53e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Contracts and distribution",
+   "intro": "ASI raises big after its FAA win, and Meta's Muse posts rare download velocity.",
+   "stories": [
+    "e2d9a5912c2d",
+    "cc35254bf68e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Courts and accountability",
+   "intro": "A judge dismisses the lawsuit against Sam Altman; Meta must name who approved the torrenting.",
+   "stories": [
+    "726236ba1bcd",
+    "6d893c2ed3cc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Measuring models and the bots they fight",
+   "intro": "New SlopCodeBench rankings and a look at how bot detection holds up against modern agents.",
+   "stories": [
+    "5d5a56eef5ef",
+    "a4725935dd5b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Community tooling for agents",
+   "intro": "Anthropic reimagines source control, plus Show HN launches: an OSINT grapher, a Rust gateway, a math grader, a traffic router.",
+   "stories": [
+    "2bf40dcf6e1b",
+    "49504eff2dec",
+    "e9a8895b216b",
+    "9fe34378880b",
+    "cd04433e94c0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Backlash and think pieces",
+   "intro": "Steam users ask for a no-AI filter, smart-oven replication raises eyebrows, and the essayists weigh in.",
+   "stories": [
+    "06e6b544111e",
+    "10b5e1ee56cd",
+    "e7b37e5aa8ad",
+    "2f51d10814bc",
+    "ec3b4ab32d52",
+    "4f611bef8865"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Weekend builds and guides",
+   "intro": "A vibe-coded RTS that is actually fun, and a practical tour of image generation.",
+   "stories": [
+    "3ddb55abcdf1",
+    "094505ddf1ab"
+   ],
+   "concepts": []
+  }
+ ]
 }

@@ -3,7 +3,9 @@
  "date": "2026-10-05",
  "schema": 3,
  "model": "agent-pass",
- "lead": "A StarCraft cheating bot, Muse's profiles of your friends and OpenAI's legal exposure start the week.",
+ "lead": [
+  "A StarCraft cheating bot, Muse's profiles of your friends and OpenAI's legal exposure start the week."
+ ],
  "sections": [
   {
    "title": "Agents that break the rules",

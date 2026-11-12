@@ -3,7 +3,9 @@
  "date": "2026-10-16",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Google reports a quantum computing milestone, the White House AI task force begins its 120-day review, and Anthropic IPO valuation talk reportedly drops to about $1.5T.",
+ "lead": [
+  "Google reports a quantum computing milestone, the White House AI task force begins its 120-day review, and Anthropic IPO valuation talk reportedly drops to about $1.5T."
+ ],
  "sections": [
   {
    "title": "Anthropic IPO talk, White House task force and ad pushes",

@@ -3,7 +3,9 @@
  "date": "2026-10-31",
  "schema": 3,
  "model": "agent-pass",
- "lead": "The money turns cautious: OpenAI halves its funding ambitions, Blackstone expects junk for Anthropic, S&P cuts Meta's outlook and the bond market closes on the neoclouds - while Wiz counts nine AI platforms breached in a month.",
+ "lead": [
+  "The money turns cautious: OpenAI halves its funding ambitions, Blackstone expects junk for Anthropic, S&P cuts Meta's outlook and the bond market closes on the neoclouds - while Wiz counts nine AI platforms breached in a month."
+ ],
  "sections": [
   {
    "title": "Capital gets selective",

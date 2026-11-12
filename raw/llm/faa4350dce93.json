@@ -1,0 +1,16 @@
+{
+ "id": "faa4350dce93",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T09:35:17.785942+00:00",
+ "prose": [
+  "Bloomberg reports, according to Techmeme, that Munich-based Agile Robots raised $500 million in a SoftBank-led round at an $8.5 billion valuation. The company develops humanoids, mobile robots, arms and control software. The original article was unavailable, so the item does not establish deployment scale or the detailed terms of the investment."
+ ],
+ "highlights": [
+  "Reported funding of $500 million",
+  "Reported valuation of $8.5 billion",
+  "SoftBank is named as lead investor",
+  "Product range spans hardware and control software"
+ ],
+ "basis": "Techmeme headline and excerpt; Bloomberg source fetch failed."
+}

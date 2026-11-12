@@ -3,7 +3,9 @@
  "date": "2026-10-09",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Fired OpenAI safety researchers publish a letter, a $1.8B biology data push is announced, and Anthropic offers free AI security scans to open-source projects that arrive without human review.",
+ "lead": [
+  "Fired OpenAI safety researchers publish a letter, a $1.8B biology data push is announced, and Anthropic offers free AI security scans to open-source projects that arrive without human review."
+ ],
  "sections": [
   {
    "title": "Fired OpenAI researchers speak",

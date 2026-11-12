@@ -3,7 +3,9 @@
  "date": "2026-10-15",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Eight states sue OpenAI over safeguards, an OpenAI employee is charged over a hidden recorder, and Anthropic is reported at $16.8B quarterly revenue.",
+ "lead": [
+  "Eight states sue OpenAI over safeguards, an OpenAI employee is charged over a hidden recorder, and Anthropic is reported at $16.8B quarterly revenue."
+ ],
  "sections": [
   {
    "title": "Eight states sue OpenAI, and an insider case",

@@ -3,7 +3,9 @@
  "date": "2026-10-17",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Replit stops working with Anthropic over cost, Apple cracks down on AI nudify apps, and Anthropic reports on AI's effect on its own hiring.",
+ "lead": [
+  "Replit stops working with Anthropic over cost, Apple cracks down on AI nudify apps, and Anthropic reports on AI's effect on its own hiring."
+ ],
  "sections": [
   {
    "title": "Anthropic finance, safety bill and Replit exit",

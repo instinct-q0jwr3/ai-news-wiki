@@ -3,7 +3,9 @@
  "date": "2026-11-04",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Voters did what analysts feared: data-center restrictions passed almost everywhere they were on the ballot, Democrats swept Congress, and crypto and AI PACs lost nine of twelve competitive races. Meanwhile Hinton says we might have been better off without AI, and the UK admits its 400 billion pound AI windfall came from a Google-commissioned report.",
+ "lead": [
+  "Voters did what analysts feared: data-center restrictions passed almost everywhere they were on the ballot, Democrats swept Congress, and crypto and AI PACs lost nine of twelve competitive races. Meanwhile Hinton says we might have been better off without AI, and the UK admits its 400 billion pound AI windfall came from a Google-commissioned report."
+ ],
  "sections": [
   {
    "title": "The debt nobody sees",

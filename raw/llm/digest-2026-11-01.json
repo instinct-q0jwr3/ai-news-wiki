@@ -3,7 +3,9 @@
  "date": "2026-11-01",
  "schema": 3,
  "model": "agent-pass",
- "lead": "The week closes on consequences: Anthropic's game-clone clampdown gets its lawsuit context, chatbots are caught answering midterm questions from AI-built voter sites, CS programs bleed students - and a TPU in orbit says hello world.",
+ "lead": [
+  "The week closes on consequences: Anthropic's game-clone clampdown gets its lawsuit context, chatbots are caught answering midterm questions from AI-built voter sites, CS programs bleed students - and a TPU in orbit says hello world."
+ ],
  "sections": [
   {
    "title": "The game-clone clampdown",

@@ -3,7 +3,9 @@
  "date": "2026-10-08",
  "schema": 3,
  "model": "agent-pass",
- "lead": "A light overnight pass: GPT-6 plans split into Sol and Luna, Mozilla accuses Microsoft of steering users to Edge, and fired OpenAI researchers write to the board about AI monitoring.",
+ "lead": [
+  "A light overnight pass: GPT-6 plans split into Sol and Luna, Mozilla accuses Microsoft of steering users to Edge, and fired OpenAI researchers write to the board about AI monitoring."
+ ],
  "sections": [
   {
    "title": "Detection, browsers and attitudes",

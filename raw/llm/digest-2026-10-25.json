@@ -1,87 +1,89 @@
 {
-  "id": "digest-2026-10-25",
-  "date": "2026-10-25",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": "America's creative industries have lost 200,000 jobs in four years with no recession to blame, and a blogger writes the field guide for sites that want AI agents as readers.",
-  "sections": [
-    {
-      "title": "Creative work under the machine",
-      "intro": "Apricitas counts 200,000 US creative-industry jobs lost in four years - recession-grade losses with no recession - and asks how much of it is AI.",
-      "stories": [
-        "eea793d24e61"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Websites learn to talk to agents",
-      "intro": "A static-blog author ships a full recipe for agent-readable publishing: markdown mirrors, content negotiation, llms.txt and explicit crawler signals.",
-      "stories": [
-        "9a7953874347"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agents enter the clinic",
-      "intro": "Baba raises $40M to put AI care teams in front of Medicare and Medicaid patients, with a benchmark for long-horizon patient advocacy in tow.",
-      "stories": [
-        "0724adf26ea7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Kimi's crown comes with questions",
-      "intro": "VentureBeat's assessment finds Kimi K3.1 Pro's agentic benchmarks genuinely historic but its reasoning gains modest, its self-hosting story unfinished, and its launch shadowed by unverified but ugly allegations of an undisclosed paid influencer campaign.",
-      "stories": [
-        "493da15dc34e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Debt secured by GPUs",
-      "intro": "Bloomberg traces the chip-backed debt boom - on track for $1 trillion - back to Blackstone's 2023 CoreWeave loan.",
-      "stories": [
-        "91c492af081b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Contests, bans and other collisions",
-      "intro": "Nikon strips a microscopy prize over an AI-generated entry, and a viral thread turns an OpenAI ban for reverse engineering into a parable about economic dependence on platform AI.",
-      "stories": [
-        "a59f0b8b0414",
-        "e0b90fba0f0e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The graveyard fills up",
-      "intro": "TechCrunch tallies the dead and the humbled - Relay, Character.ai, Sora, Atlas, the AI Pin - with 42% of corporate AI initiatives abandoned. In Washington, both parties are tiring of AI executives who promise prosperity and doom in the same breath.",
-      "stories": [
-        "703591c615ad",
-        "03252cbb35cd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The specialists strike back",
-      "intro": "A decade-old CNN fine-tuned in twenty minutes beats two frontier LLMs at skin-cancer diagnosis, an open-source TTS model serves the accents Big Tech flattens, and a hobbyist coaxes SIMD computer vision out of a $2 microcontroller.",
-      "stories": [
-        "ddeaf56014f1",
-        "594eb857b895",
-        "9859a3c4ad19"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Homework, data plumbing and the iPhone",
-      "intro": "A Fields medalist at Berkeley stops grading homework because AI has made it meaningless, Sunnny pitches a cleaned customer-data layer built for AI consumption, and Gruber and Stern talk iPhone on The Talk Show.",
-      "stories": [
-        "09eba99e63b7",
-        "f0a739ba0091",
-        "a0d852ef0bc1"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "digest-2026-10-25",
+ "date": "2026-10-25",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "America's creative industries have lost 200,000 jobs in four years with no recession to blame, and a blogger writes the field guide for sites that want AI agents as readers."
+ ],
+ "sections": [
+  {
+   "title": "Creative work under the machine",
+   "intro": "Apricitas counts 200,000 US creative-industry jobs lost in four years - recession-grade losses with no recession - and asks how much of it is AI.",
+   "stories": [
+    "eea793d24e61"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Websites learn to talk to agents",
+   "intro": "A static-blog author ships a full recipe for agent-readable publishing: markdown mirrors, content negotiation, llms.txt and explicit crawler signals.",
+   "stories": [
+    "9a7953874347"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents enter the clinic",
+   "intro": "Baba raises $40M to put AI care teams in front of Medicare and Medicaid patients, with a benchmark for long-horizon patient advocacy in tow.",
+   "stories": [
+    "0724adf26ea7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Kimi's crown comes with questions",
+   "intro": "VentureBeat's assessment finds Kimi K3.1 Pro's agentic benchmarks genuinely historic but its reasoning gains modest, its self-hosting story unfinished, and its launch shadowed by unverified but ugly allegations of an undisclosed paid influencer campaign.",
+   "stories": [
+    "493da15dc34e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Debt secured by GPUs",
+   "intro": "Bloomberg traces the chip-backed debt boom - on track for $1 trillion - back to Blackstone's 2023 CoreWeave loan.",
+   "stories": [
+    "91c492af081b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Contests, bans and other collisions",
+   "intro": "Nikon strips a microscopy prize over an AI-generated entry, and a viral thread turns an OpenAI ban for reverse engineering into a parable about economic dependence on platform AI.",
+   "stories": [
+    "a59f0b8b0414",
+    "e0b90fba0f0e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The graveyard fills up",
+   "intro": "TechCrunch tallies the dead and the humbled - Relay, Character.ai, Sora, Atlas, the AI Pin - with 42% of corporate AI initiatives abandoned. In Washington, both parties are tiring of AI executives who promise prosperity and doom in the same breath.",
+   "stories": [
+    "703591c615ad",
+    "03252cbb35cd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The specialists strike back",
+   "intro": "A decade-old CNN fine-tuned in twenty minutes beats two frontier LLMs at skin-cancer diagnosis, an open-source TTS model serves the accents Big Tech flattens, and a hobbyist coaxes SIMD computer vision out of a $2 microcontroller.",
+   "stories": [
+    "ddeaf56014f1",
+    "594eb857b895",
+    "9859a3c4ad19"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Homework, data plumbing and the iPhone",
+   "intro": "A Fields medalist at Berkeley stops grading homework because AI has made it meaningless, Sunnny pitches a cleaned customer-data layer built for AI consumption, and Gruber and Stern talk iPhone on The Talk Show.",
+   "stories": [
+    "09eba99e63b7",
+    "f0a739ba0091",
+    "a0d852ef0bc1"
+   ],
+   "concepts": []
+  }
+ ]
 }

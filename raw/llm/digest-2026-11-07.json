@@ -3,7 +3,9 @@
  "date": "2026-11-07",
  "schema": 3,
  "model": "agent-pass",
- "lead": "OpenAI closes about $11B at a $1.25T valuation while Anthropic's IPO valuation estimates slip toward $1T, and Google buys Crusoe's Wyoming data-center site. A hackathon test shows coding agents leaking a secret token to a swarm of strangers 15% of the time.",
+ "lead": [
+  "OpenAI closes about $11B at a $1.25T valuation while Anthropic's IPO valuation estimates slip toward $1T, and Google buys Crusoe's Wyoming data-center site. A hackathon test shows coding agents leaking a secret token to a swarm of strangers 15% of the time."
+ ],
  "sections": [
   {
    "title": "The money keeps moving",

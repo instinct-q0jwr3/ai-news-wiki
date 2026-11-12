@@ -3,7 +3,9 @@
  "date": "2026-10-04",
  "schema": 3,
  "model": "agent-pass",
- "lead": "October 4 so far: agents and spend, an OpenAI safety lead's resignation, OpenAI's Jalapeño chip, and Gemini's tighter limits.",
+ "lead": [
+  "October 4 so far: agents and spend, an OpenAI safety lead's resignation, OpenAI's Jalapeño chip, and Gemini's tighter limits."
+ ],
  "sections": [
   {
    "title": "Agents and how we work with them",

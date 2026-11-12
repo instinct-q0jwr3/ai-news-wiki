@@ -4,7 +4,9 @@
  "week": "2026-W42",
  "schema": 3,
  "model": "agent-pass",
- "lead": "OpenAI fires three safety researchers who had urged labs to slow down, days before trimming its revenue story by $20B; Brad Smith says milk is more regulated than AI; and Karpathy maps a widening funnel between the 20 million who see what agents do and everyone else.",
+ "lead": [
+  "OpenAI fires three safety researchers who had urged labs to slow down, days before trimming its revenue story by $20B; Brad Smith says milk is more regulated than AI; and Karpathy maps a widening funnel between the 20 million who see what agents do and everyone else."
+ ],
  "sections": [
   {
    "title": "OpenAI, safety and the revenue story",

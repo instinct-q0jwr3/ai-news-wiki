@@ -3,7 +3,9 @@
  "date": "2026-10-13",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Anthropic adds a no-cruelty clause to its usage policy, Epic tells a studio to go 'AI first' with no hand-written code, and Amazon is reported to be weighing a $7B purchase of Decart.",
+ "lead": [
+  "Anthropic adds a no-cruelty clause to its usage policy, Epic tells a studio to go 'AI first' with no hand-written code, and Amazon is reported to be weighing a $7B purchase of Decart."
+ ],
  "sections": [
   {
    "title": "Anthropic's rules and OpenAI's watermarks",

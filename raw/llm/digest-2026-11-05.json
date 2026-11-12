@@ -3,7 +3,9 @@
  "date": "2026-11-05",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Wall Street sold off AI stocks after the election, with the S&P 500 down over 3% and the Nasdaq down about 5%. OpenAI launched GPT-6 Cyber after revealing that GPT-6 Astra underperforms on safety work, Anthropic put personal finance in Claude, and Cat Wu and Conductor moved to OpenAI and Meta.",
+ "lead": [
+  "Wall Street sold off AI stocks after the election, with the S&P 500 down over 3% and the Nasdaq down about 5%. OpenAI launched GPT-6 Cyber after revealing that GPT-6 Astra underperforms on safety work, Anthropic put personal finance in Claude, and Cat Wu and Conductor moved to OpenAI and Meta."
+ ],
  "sections": [
   {
    "title": "The ballot box vs. the data center",

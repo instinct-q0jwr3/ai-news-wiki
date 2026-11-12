@@ -3,7 +3,9 @@
  "week": "2026-W45",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Apollo's Torsten Slok says AI has returned zero financial payoff outside tech, and the market's answer arrives the same morning: Aramco buys into Humain for $2.6B and three more rounds close. Meanwhile Postgres slips a release on LLM-found bugs, and fake AI wikis colonize the search results.",
+ "lead": [
+  "Apollo's Torsten Slok says AI has returned zero financial payoff outside tech, and the market's answer arrives the same morning: Aramco buys into Humain for $2.6B and three more rounds close. Meanwhile Postgres slips a release on LLM-found bugs, and fake AI wikis colonize the search results."
+ ],
  "sections": [
   {
    "title": "The payoff question",

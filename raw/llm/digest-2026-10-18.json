@@ -3,7 +3,9 @@
  "date": "2026-10-18",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Overnight into Sunday: what OpenAI's math results leave out, a breach exposing coding-agent API keys, Nadella on Windows as agent territory, and a mixed bag of lawsuits, AI debt, crawler paywalls and quantum error reduction.",
+ "lead": [
+  "Overnight into Sunday: what OpenAI's math results leave out, a breach exposing coding-agent API keys, Nadella on Windows as agent territory, and a mixed bag of lawsuits, AI debt, crawler paywalls and quantum error reduction."
+ ],
  "sections": [
   {
    "title": "OpenAI's math bounty, and what it skipped",

@@ -3,7 +3,9 @@
  "date": "2026-11-11",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Google introduces an API for bounded decisions; AWS releases an agent-built local emulator; United moves to restrict unauthorized booking agents. Safety thresholds, model integrity and university assessment test how institutions keep control.",
+ "lead": [
+  "Google introduces an API for bounded decisions; AWS releases an agent-built local emulator; United moves to restrict unauthorized booking agents. Safety thresholds, model integrity and university assessment test how institutions keep control."
+ ],
  "sections": [
   {
    "title": "Anthropic goes public",

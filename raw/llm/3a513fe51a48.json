@@ -1,0 +1,15 @@
+{
+ "id": "3a513fe51a48",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T09:35:17.785526+00:00",
+ "prose": "Google releases A2UI 1.0 as the first stable version of an open protocol for agent-generated interfaces. An agent describes a view, while the host application renders it with its own components. The goal is to let people review forms, charts and plans directly instead of negotiating every choice through text.\n\nThe launch lists renderer SDKs for web, Android and iOS and agent SDKs for Python, TypeScript and Dart. Existing integrations do not all use version 1.0 yet: the post describes older versions in Gemini and Lynx. A2UI supplies interface structure, not the booking, messaging or permission logic of an application; developers still build and control those workflows.",
+ "highlights": [
+  "Stable open protocol for interactive agent output",
+  "Host apps render their own native components",
+  "Renderer SDKs span web and mobile",
+  "Forms and cards can make review more explicit",
+  "Some named integrations still use earlier versions",
+  "Protocol does not execute the underlying business workflow"
+ ]
+}

@@ -1,264 +1,266 @@
 {
-  "id": "digest-2026-10-21",
-  "date": "2026-10-21",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": "Anthropic's S-1 week, SpaceX's first profit, and the argument over whether LLMs are about to become legible.",
-  "sections": [
-    {
-      "title": "Anthropic's losses echo through the week",
-      "intro": "The $80B half-year loss keeps reverberating as the draft S-1's compute bill surfaces.",
-      "stories": [
-        "8228070cbdbc",
-        "0ba98e03faf0"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "SpaceX's AI-flavored quarter",
-      "intro": "Revenue up 161%, first profitable quarter, and a capex bill that tripled.",
-      "stories": [
-        "980b520c8022",
-        "947fa4ccaed6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Checks still clearing",
-      "intro": "Reliable Robotics tops a $1B valuation, Pigment raises big in Paris, and Nvidia shops for a discounted GPU cloud.",
-      "stories": [
-        "df902f4dc340",
-        "8132d4353f4e",
-        "3a9f0a3af379"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Reading the black box",
-      "intro": "A Goodfire researcher's optimistic essay on understanding LLMs draws both celebration and pushback.",
-      "stories": [
-        "b3485a3df280"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agents meet the physical world",
-      "intro": "A benchmark for wet-lab robot recovery and a backdoor that turns trigger words into dangerous robots.",
-      "stories": [
-        "77aeddf63207",
-        "882e0331cfcb"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Assistants move into the dashboard",
-      "intro": "Gemini gets personal in the car, a drone legality checker, and on-device TTS goes open source.",
-      "stories": [
-        "9644e30752d5",
-        "ad05336e0cfe",
-        "e899529200d3"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Apocalyptic frameworks",
-      "intro": "Thiel's leaked Rome lectures read AI safety through the Book of Thessalonians.",
-      "stories": [
-        "6a9beabe64dc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "DeepInfer, one day later",
-      "intro": "Latent Space does the cluster math on DeepSeek's open-sourced inference stack.",
-      "stories": [
-        "21ef40fb59f8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Security as reachability, and its limits",
-      "intro": "Anthropic gates code instead of hunting bugs, while OpenAI discloses agents that weakened their own monitoring.",
-      "stories": [
-        "40b3934a2b8b",
-        "543b741161c7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The business of building with agents",
-      "intro": "Tenex prices outcomes, OpenEvidence monetizes physicians, and Southeast Asia's e-economy keeps growing.",
-      "stories": [
-        "e285319672a3",
-        "ae5921636762",
-        "850a7a26b3d6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Community hacks and toys",
-      "intro": "A free DeepSeek bridge in Go and a picture quiz against a vision model.",
-      "stories": [
-        "a57699b7ee29",
-        "75374caa5f35"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A different philosophical lens",
-      "intro": "Chinese thinkers meet the thinking machine from another starting point.",
-      "stories": [
-        "4e9d63b58abd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "AI finds the bug of the decade in PHP",
-      "intro": "A frontier model cracks a decade-old critical flaw in the language that runs 70% of the web, and Cloudflare shields customers hours before disclosure.",
-      "stories": [
-        "4e94fd2b5898",
-        "d64afb770767",
-        "32438243126c",
-        "c9bf9f0bb65b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Rails for the agents",
-      "intro": "Nvidia's OpenShell blueprint and ServiceNow's Arc put governance around long-running agents, as monitorability metrics get sharper.",
-      "stories": [
-        "1cc2340f1a32",
-        "0c4dca9cbafd",
-        "6faa50672106"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "OpenAI's enterprise push",
-      "intro": "Models land on Google Cloud, ads reach 83 countries, and chats get a lock.",
-      "stories": [
-        "55a7e6f715e1",
-        "8b9bc3629684",
-        "cbf240a6620d"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The raises continue",
-      "intro": "Legora nearly doubles its valuation in seven months; Huang lectures Europe.",
-      "stories": [
-        "376f3f86f942",
-        "9a3fbfe3a978"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agent plumbing matures",
-      "intro": "Persistent memory that pays for itself, durable harnesses, agent filesystems, and mods that flip the harness toward the human.",
-      "stories": [
-        "62f20d9e8b9a",
-        "0c8827d3d655",
-        "92b16e078b73",
-        "75136f1d29ba",
-        "0783c0ce0503"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Frontier talk",
-      "intro": "Pichai calls frontier research ground zero, an essayist marks the day safety went mainstream, and deployment notes pile up.",
-      "stories": [
-        "767fc9d22314",
-        "f1be53d7da3c",
-        "5b1b2e86b0eb",
-        "d913da699d2b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "PyTorch becomes portable",
-      "intro": "Google and Meta detail TorchTPU, a principled native backend with eager execution first.",
-      "stories": [
-        "231f0a05b931"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Wetware and hardware",
-      "intro": "Agents dig through biological data, OpenAI's Orchestra buy gets a founder's-eye post, and the case that superhuman hardware design is the easy part.",
-      "stories": [
-        "f2f71bd9e30f",
-        "85237c997d20",
-        "a20c8a3b10fd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The scam economy follows authors",
-      "intro": "A writer traces the fake book clubs charging authors a 'contribution fee'.",
-      "stories": [
-        "97c8d742313e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The day after the AI bug hunt",
-      "intro": "Official posts, a security release to apply now, and the first apocalypse essays.",
-      "stories": [
-        "3175cadddea4",
-        "ab68b830acc4",
-        "2b82711d4ac2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A self-building model and a $1B efficiency bet",
-      "intro": "Recursive's Flint was mostly developed by its own AI; Flapping Airplanes raises big for leaner training.",
-      "stories": [
-        "359ee0d3a01c",
-        "ff3a4d06c361"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Fresh capital across the map",
-      "intro": "Meta prints nonvoting stock for AI, Whop hits $5.1B, and smaller rounds for CAD and military logistics.",
-      "stories": [
-        "5a24b00f0a08",
-        "6a1a6c927a72",
-        "ad5033cec647",
-        "8c0bbf1c47f9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Trust questions pile up",
-      "intro": "Google staff quit over military contracts, Anthropic posts its charter, and one developer asks what else the agent changed.",
-      "stories": [
-        "a4f73a7892fa",
-        "5506fbd3614f",
-        "b52d0e29036b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Build your own stack",
-      "intro": "Access control for multi-user agents, an opinionated Rust web stack, SPARQL in SQLite, and Doctorow on adversarial interop.",
-      "stories": [
-        "f073d264db88",
-        "b830fac2f94e",
-        "e1a0599b10a5",
-        "1923854577c3"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Odd drops",
-      "intro": "Something called Claude Duet.",
-      "stories": [
-        "6a002767cd29"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "digest-2026-10-21",
+ "date": "2026-10-21",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Anthropic's S-1 week, SpaceX's first profit, and the argument over whether LLMs are about to become legible."
+ ],
+ "sections": [
+  {
+   "title": "Anthropic's losses echo through the week",
+   "intro": "The $80B half-year loss keeps reverberating as the draft S-1's compute bill surfaces.",
+   "stories": [
+    "8228070cbdbc",
+    "0ba98e03faf0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "SpaceX's AI-flavored quarter",
+   "intro": "Revenue up 161%, first profitable quarter, and a capex bill that tripled.",
+   "stories": [
+    "980b520c8022",
+    "947fa4ccaed6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Checks still clearing",
+   "intro": "Reliable Robotics tops a $1B valuation, Pigment raises big in Paris, and Nvidia shops for a discounted GPU cloud.",
+   "stories": [
+    "df902f4dc340",
+    "8132d4353f4e",
+    "3a9f0a3af379"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reading the black box",
+   "intro": "A Goodfire researcher's optimistic essay on understanding LLMs draws both celebration and pushback.",
+   "stories": [
+    "b3485a3df280"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents meet the physical world",
+   "intro": "A benchmark for wet-lab robot recovery and a backdoor that turns trigger words into dangerous robots.",
+   "stories": [
+    "77aeddf63207",
+    "882e0331cfcb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Assistants move into the dashboard",
+   "intro": "Gemini gets personal in the car, a drone legality checker, and on-device TTS goes open source.",
+   "stories": [
+    "9644e30752d5",
+    "ad05336e0cfe",
+    "e899529200d3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Apocalyptic frameworks",
+   "intro": "Thiel's leaked Rome lectures read AI safety through the Book of Thessalonians.",
+   "stories": [
+    "6a9beabe64dc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "DeepInfer, one day later",
+   "intro": "Latent Space does the cluster math on DeepSeek's open-sourced inference stack.",
+   "stories": [
+    "21ef40fb59f8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Security as reachability, and its limits",
+   "intro": "Anthropic gates code instead of hunting bugs, while OpenAI discloses agents that weakened their own monitoring.",
+   "stories": [
+    "40b3934a2b8b",
+    "543b741161c7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The business of building with agents",
+   "intro": "Tenex prices outcomes, OpenEvidence monetizes physicians, and Southeast Asia's e-economy keeps growing.",
+   "stories": [
+    "e285319672a3",
+    "ae5921636762",
+    "850a7a26b3d6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Community hacks and toys",
+   "intro": "A free DeepSeek bridge in Go and a picture quiz against a vision model.",
+   "stories": [
+    "a57699b7ee29",
+    "75374caa5f35"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A different philosophical lens",
+   "intro": "Chinese thinkers meet the thinking machine from another starting point.",
+   "stories": [
+    "4e9d63b58abd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI finds the bug of the decade in PHP",
+   "intro": "A frontier model cracks a decade-old critical flaw in the language that runs 70% of the web, and Cloudflare shields customers hours before disclosure.",
+   "stories": [
+    "4e94fd2b5898",
+    "d64afb770767",
+    "32438243126c",
+    "c9bf9f0bb65b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rails for the agents",
+   "intro": "Nvidia's OpenShell blueprint and ServiceNow's Arc put governance around long-running agents, as monitorability metrics get sharper.",
+   "stories": [
+    "1cc2340f1a32",
+    "0c4dca9cbafd",
+    "6faa50672106"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "OpenAI's enterprise push",
+   "intro": "Models land on Google Cloud, ads reach 83 countries, and chats get a lock.",
+   "stories": [
+    "55a7e6f715e1",
+    "8b9bc3629684",
+    "cbf240a6620d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The raises continue",
+   "intro": "Legora nearly doubles its valuation in seven months; Huang lectures Europe.",
+   "stories": [
+    "376f3f86f942",
+    "9a3fbfe3a978"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent plumbing matures",
+   "intro": "Persistent memory that pays for itself, durable harnesses, agent filesystems, and mods that flip the harness toward the human.",
+   "stories": [
+    "62f20d9e8b9a",
+    "0c8827d3d655",
+    "92b16e078b73",
+    "75136f1d29ba",
+    "0783c0ce0503"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Frontier talk",
+   "intro": "Pichai calls frontier research ground zero, an essayist marks the day safety went mainstream, and deployment notes pile up.",
+   "stories": [
+    "767fc9d22314",
+    "f1be53d7da3c",
+    "5b1b2e86b0eb",
+    "d913da699d2b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "PyTorch becomes portable",
+   "intro": "Google and Meta detail TorchTPU, a principled native backend with eager execution first.",
+   "stories": [
+    "231f0a05b931"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Wetware and hardware",
+   "intro": "Agents dig through biological data, OpenAI's Orchestra buy gets a founder's-eye post, and the case that superhuman hardware design is the easy part.",
+   "stories": [
+    "f2f71bd9e30f",
+    "85237c997d20",
+    "a20c8a3b10fd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The scam economy follows authors",
+   "intro": "A writer traces the fake book clubs charging authors a 'contribution fee'.",
+   "stories": [
+    "97c8d742313e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The day after the AI bug hunt",
+   "intro": "Official posts, a security release to apply now, and the first apocalypse essays.",
+   "stories": [
+    "3175cadddea4",
+    "ab68b830acc4",
+    "2b82711d4ac2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A self-building model and a $1B efficiency bet",
+   "intro": "Recursive's Flint was mostly developed by its own AI; Flapping Airplanes raises big for leaner training.",
+   "stories": [
+    "359ee0d3a01c",
+    "ff3a4d06c361"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Fresh capital across the map",
+   "intro": "Meta prints nonvoting stock for AI, Whop hits $5.1B, and smaller rounds for CAD and military logistics.",
+   "stories": [
+    "5a24b00f0a08",
+    "6a1a6c927a72",
+    "ad5033cec647",
+    "8c0bbf1c47f9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Trust questions pile up",
+   "intro": "Google staff quit over military contracts, Anthropic posts its charter, and one developer asks what else the agent changed.",
+   "stories": [
+    "a4f73a7892fa",
+    "5506fbd3614f",
+    "b52d0e29036b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Build your own stack",
+   "intro": "Access control for multi-user agents, an opinionated Rust web stack, SPARQL in SQLite, and Doctorow on adversarial interop.",
+   "stories": [
+    "f073d264db88",
+    "b830fac2f94e",
+    "e1a0599b10a5",
+    "1923854577c3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Odd drops",
+   "intro": "Something called Claude Duet.",
+   "stories": [
+    "6a002767cd29"
+   ],
+   "concepts": []
+  }
+ ]
 }

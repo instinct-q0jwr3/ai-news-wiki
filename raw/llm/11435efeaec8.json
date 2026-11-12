@@ -1,0 +1,15 @@
+{
+ "id": "11435efeaec8",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T09:35:17.785638+00:00",
+ "prose": "RamaSite packages a small content-management system around Laravel, Filament and SQLite. Its design aims to keep a site self-contained, with a release archive that includes dependencies and first-visit setup that creates the database and settings. This reduces the separate services an operator must configure.\n\nThe repository describes preserving pages, media, settings and accounts when release files are replaced, and running tests and a package-security check before publishing release archives. The project is MIT-licensed. Its developer's dissatisfaction with WordPress motivates the design, but does not establish that this alternative is immune to security or maintenance problems.",
+ "highlights": [
+  "Laravel and Filament with SQLite",
+  "Release archive includes dependencies",
+  "First visit initializes settings and database",
+  "User content is kept separate from release files",
+  "Release process includes tests and dependency checks",
+  "MIT license does not imply a security guarantee"
+ ]
+}

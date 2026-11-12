@@ -3,7 +3,9 @@
  "date": "2026-10-14",
  "schema": 3,
  "model": "agent-pass",
- "lead": "An OpenAI engineer is arrested for bugging an executive conference room, a judge orders OpenAI to speed up evidence handover to Apple, and Marcus and others keep asking where the measurable AI returns are.",
+ "lead": [
+  "An OpenAI engineer is arrested for bugging an executive conference room, a judge orders OpenAI to speed up evidence handover to Apple, and Marcus and others keep asking where the measurable AI returns are."
+ ],
  "sections": [
   {
    "title": "A bugged OpenAI boardroom and Apple's discovery win",

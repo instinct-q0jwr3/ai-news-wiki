@@ -3,7 +3,9 @@
  "date": "2026-10-28",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Anthropic dominates the overnight cycle on three fronts at once: an internal research model that finds and exploits real browser vulnerabilities, a push into drug development with six pharma partners and its first biotech acquisition, and a discounted Claude offering for every level of US government. Apple, Meta's chip suppliers and the coders'-job debate fill out the day.",
+ "lead": [
+  "Anthropic dominates the overnight cycle on three fronts at once: an internal research model that finds and exploits real browser vulnerabilities, a push into drug development with six pharma partners and its first biotech acquisition, and a discounted Claude offering for every level of US government. Apple, Meta's chip suppliers and the coders'-job debate fill out the day."
+ ],
  "sections": [
   {
    "title": "Claude finds the holes",

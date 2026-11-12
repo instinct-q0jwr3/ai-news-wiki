@@ -1,0 +1,15 @@
+{
+ "id": "1151d6e29527",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T09:35:17.785848+00:00",
+ "prose": "A Latent Space conference report describes engineers using Jev as a low-latency decision component inside conventional software. Glean uses it alongside LLMs and other classifiers where decision categories change; UiPath demonstrates a tournament that ranks document chunks; Workday prototypes an interface that anticipates an action as a person types.\n\nTypeSafe AI's founder advocates much wider automation, but the concrete evidence is these scoped applications and demonstrations. A fast probability or choice can change how an application behaves without replacing its entire workflow. Reliability still depends on the task, evaluation and surrounding code, not on the label of a system-one model.",
+ "highlights": [
+  "Jev supplies structured decisions inside application code",
+  "Glean emphasizes changing categories without repeated tuning",
+  "UiPath demo ranks chunks through successive comparisons",
+  "Workday prototype predicts actions during typing",
+  "Vendor automation ambitions exceed the demonstrated scope",
+  "Applications still need task-specific reliability checks"
+ ]
+}

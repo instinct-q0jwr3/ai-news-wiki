@@ -3,7 +3,9 @@
  "date": "2026-10-11",
  "schema": 3,
  "model": "agent-pass",
- "lead": "Cockroach Labs ships a Db2 migration built entirely by agents inside its coding hospital, byte-level Transformers challenge the tokenizer, and fake Claude installers ride Google ads through Bing redirects.",
+ "lead": [
+  "Cockroach Labs ships a Db2 migration built entirely by agents inside its coding hospital, byte-level Transformers challenge the tokenizer, and fake Claude installers ride Google ads through Bing redirects."
+ ],
  "sections": [
   {
    "title": "The coding hospital",
