@@ -1,0 +1,16 @@
+{
+ "id": "1c78c3d602dd",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T03:33:55.600374+00:00",
+ "prose": [
+  "The Information reports, according to the Techmeme feed, that the Commerce Department is finalizing semiconductor controls aimed at remote access to advanced chips and diversion through data centers into China. The wording describes a rule in preparation, not an enacted restriction. The original article was unavailable, leaving its exact scope, exceptions and effective date unverified."
+ ],
+ "highlights": [
+  "Reported update targets remote compute access",
+  "Data-center diversion is another stated concern",
+  "Rule is described as being finalized",
+  "Scope and effective date were not accessible"
+ ],
+ "basis": "Techmeme headline and excerpt of The Information reporting; source fetch failed."
+}

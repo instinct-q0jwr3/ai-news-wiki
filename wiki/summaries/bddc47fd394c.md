@@ -1,6 +1,6 @@
 # Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation
 
-_type: news-summary · created: 2026-11-11 · updated: 2026-11-11 · confidence: high_
+_type: news-summary · created: 2026-11-11 · updated: 2026-11-12 · confidence: high_
 
 `techmeme` `agentic-systems`
 

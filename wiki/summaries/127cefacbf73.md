@@ -1,6 +1,6 @@
 # Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M
 
-_type: news-summary · created: 2026-11-07 · updated: 2026-11-11 · confidence: high_
+_type: news-summary · created: 2026-11-07 · updated: 2026-11-12 · confidence: high_
 
 `techmeme`
 

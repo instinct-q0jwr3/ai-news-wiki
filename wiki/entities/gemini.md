@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-11 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,7 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
-- **2026-11-11** - Google introduces Gemini Decisions as a classification endpoint rather than a text generator. Gemini Decision 1 evaluates predefined choices, yes/no checks and rubric scores against a shared multimodal input, returning probabilities that applications can… ([Gemini Decisions API](../summaries/a109f6614bec.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-11-11** - Google introduces Gemini Decisions as a classification endpoint rather than a text generator. Gemini Decision 1 evaluates predefined choices, yes/no checks and rubric scores against a shared multimodal input, returning probabilities that applications can… ([Gemini Decisions API](../summaries/a109f6614bec.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [TypeSafe](../entities/typesafe.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-11** - A Hacker News submission highlights free access to Gemini Decision 1 in Google AI Studio. The fetched page was thin and the feed provides no explanation of quotas or eligibility, so the item should not be read as a promise of unlimited free usage. ([Gemini Decision 1 is Free on Google AI Studio](../summaries/89317bc923ae.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-11-11** - Latent Space's AINews leads with Mercor's $750M Series D at a $20B valuation. The data vendor reports $3B annualized revenue after crossing $1B in February and $2B in June, five million experts on its books, and says it already spends three times as much… ([AINews Mercor $750m Series D at $20B valuation, $3B run rate](../summaries/a41e6cb2bb79.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-11** - Google Cloud announced Gemini for healthcare, a purpose-built industry layer extending the Gemini agent introduced at Gemini at Work. It targets fragmented healthcare data: records, coverage policies and clinical evidence trapped in disconnected systems,… ([Introducing Gemini for healthcare](../summaries/f3bd3da5c8ba.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

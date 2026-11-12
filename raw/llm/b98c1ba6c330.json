@@ -1,0 +1,15 @@
+{
+ "id": "b98c1ba6c330",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T03:33:55.600117+00:00",
+ "prose": [
+  "A submitted article alleges that a person was jailed in Turkey after using AI to read court-auction listings. The source could not be fetched and the feed contains only a title, so the cause of the detention, legal claims and surrounding facts could not be checked. The headline alone does not establish that using AI was the reason for imprisonment."
+ ],
+ "highlights": [
+  "Headline alleges a Turkish detention",
+  "No article text was accessible",
+  "Legal cause and factual context remain unverified"
+ ],
+ "basis": "Hacker News title only; original source fetch failed."
+}

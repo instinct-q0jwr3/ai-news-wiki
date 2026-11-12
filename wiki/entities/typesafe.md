@@ -1,6 +1,6 @@
 # TypeSafe
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
 
 `entity` `typesafe` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ TypeSafe is the company behind Jev, a typed decision-model spin on large languag
 
 ## Timeline
 
+- **2026-11-11** - Google introduces Gemini Decisions as a classification endpoint rather than a text generator. Gemini Decision 1 evaluates predefined choices, yes/no checks and rubric scores against a shared multimodal input, returning probabilities that applications can… ([Gemini Decisions API](../summaries/a109f6614bec.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [TypeSafe](../entities/typesafe.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-09** - Flide is a GitHub project that serves 'Jev-style' decision models through an API and claims up to 9.5 times faster inference than vLLM and SGLang by forking model state exactly, with answers matching those the model gives a question alone. The README shows… ([Show HN: Flide: Make Jev-like decision models up to 9.5x faster](../summaries/15b43f2ededd.md) · [TypeSafe](../entities/typesafe.md))
 - **2026-11-06** - Hightouch tested whether LLMs and decision models (Jev and Luna) could grade identity-resolution results, the task of mapping records to real people. Both did acceptably out of the box (88.8-97.3% accuracy), and a hybrid where Jev can ask Opus for help… ([A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](../summaries/438556ddad0c.md) · [TypeSafe](../entities/typesafe.md))
 - **2026-11-04** - This Latent Space AINews issue admits the Weight-Space Programming claims were presented in an overly favorable light but says the finding is still a big wake-up moment with several independent replications, so it runs no retraction. It then summarizes the… ([AINews Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai](../summaries/cd4d82230508.md) · [TypeSafe](../entities/typesafe.md))

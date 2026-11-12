@@ -1,6 +1,6 @@
 # As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage
 
-_type: news-summary · created: 2026-11-09 · updated: 2026-11-11 · confidence: high_
+_type: news-summary · created: 2026-11-09 · updated: 2026-11-12 · confidence: high_
 
 `techmeme` `agentic-systems` `labor-displacement`
 

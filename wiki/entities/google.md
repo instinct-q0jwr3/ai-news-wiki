@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,7 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
-- **2026-11-11** - Google introduces Gemini Decisions as a classification endpoint rather than a text generator. Gemini Decision 1 evaluates predefined choices, yes/no checks and rubric scores against a shared multimodal input, returning probabilities that applications can… ([Gemini Decisions API](../summaries/a109f6614bec.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [External AI evaluation](../concepts/external-evaluation.md))
+- **2026-11-11** - Google introduces Gemini Decisions as a classification endpoint rather than a text generator. Gemini Decision 1 evaluates predefined choices, yes/no checks and rubric scores against a shared multimodal input, returning probabilities that applications can… ([Gemini Decisions API](../summaries/a109f6614bec.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [TypeSafe](../entities/typesafe.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-11** - TimeNet tackles the inconsistent packaging of time-series datasets. Its TimeF format provides a common storage representation, while connectors convert source data into immutable versions and a client finds and loads them through a shared API. Training and… ([TimeNet: Open-source data infrastructure for Temporal Foundation Models](../summaries/67d1182fd0b9.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-11** - A Hacker News submission highlights free access to Gemini Decision 1 in Google AI Studio. The fetched page was thin and the feed provides no explanation of quotas or eligibility, so the item should not be read as a promise of unlimited free usage. ([Gemini Decision 1 is Free on Google AI Studio](../summaries/89317bc923ae.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-11-11** - A Google software engineer traveling in Peru pointed 48 AI agents at NASA lidar data and, in under 72 hours, went from a random thought to an official reply from Mexico's INAH about a Maya site that, as far as anyone can tell, was unreported. The… ([Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](../summaries/c68e175bb98f.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))

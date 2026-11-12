@@ -1,0 +1,16 @@
+{
+ "id": "3dd30938a327",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T03:33:55.600179+00:00",
+ "prose": [
+  "Bloomberg sources, as summarized by Techmeme, say CoreWeave plans to raise at least $4 billion through an investment-grade loan, potentially as soon as the following week. The feed reports a prospective yield of 7%-7.5%, described as roughly half the yield on its junk bonds. This is a reported financing plan, not a completed borrowing; the original article was unavailable."
+ ],
+ "highlights": [
+  "Reported loan target of at least $4 billion",
+  "Feed cites prospective yield of 7%-7.5%",
+  "Terms and timing are not final",
+  "Original report was not retrievable"
+ ],
+ "basis": "Techmeme headline and excerpt of Bloomberg reporting; source fetch failed."
+}

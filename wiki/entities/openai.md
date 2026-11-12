@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -11,6 +11,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 ## Timeline
 
 - **2026-11-11** - Yogurt is presented by its developer as a free desktop meeting assistant that transcribes and summarizes calls locally rather than sending recordings to a hosted service. The launch post describes an MIT-licensed app that stays out of the meeting… ([Show HN: Yogurt – Free, private, open-source alternative to Granola](../summaries/0046b1317a1b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
+- **2026-11-11** - Google introduces Gemini Decisions as a classification endpoint rather than a text generator. Gemini Decision 1 evaluates predefined choices, yes/no checks and rubric scores against a shared multimodal input, returning probabilities that applications can… ([Gemini Decisions API](../summaries/a109f6614bec.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [TypeSafe](../entities/typesafe.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-11** - LLM 0.37.2 fixes two paths that could send a configured OpenAI key to another OpenAI-compatible provider. Simon Willison says the problem could occur when a named provider key was absent, or when a Responses-configured model was invoked with a… ([llm 0.37.2](../summaries/c9638612d199.md) · [OpenAI](../entities/openai.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-11** - Pots is an open-source alternative to Grok Bot and similar AI teammates: it reads the channels, email and events you give it, decides what matters, does work on your own computer and speaks up when it should. It runs on your machine with the model you… ([Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month](../summaries/70a7ad51fa1e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-11** - OpenAI acquired Odessia, the AI travel agent founded by Sonder founder Francis Davidson, who joins OpenAI to work on the future of travel. Terms undisclosed; looks like an acqui-hire. Odessia was a year old, had raised $6M led by Sequoia, launched five… ([OpenAI acquires Odessia, travel startup created by Sonder founder](../summaries/722ef6da7de0.md) · [OpenAI](../entities/openai.md))

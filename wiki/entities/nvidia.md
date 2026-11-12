@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-11 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-12 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-safety-incidents` `compute-buildout`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-12** - Axios sources, as relayed by Techmeme, say Howard Lutnick has delayed restrictions on companies suspected of diverting Nvidia chips to China despite another presidential approval on November 5. The item concerns a reported gap between approval and… ([Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved curbs for a third time in 2026 on November 5](../summaries/f83aff32b504.md) · [NVIDIA](../entities/nvidia.md)) ⚠
 - **2026-11-11** - Simon Willison quotes Anthropic's IPO roadshow video. Anthropic says its early multi-chip bet now pays off: Claude trains and serves across all four major chip families, and when it adopted AMD GPUs this year, Mythos got Claude running on AMD in three days… ([Anthropic's IPO roadshow video](../summaries/dae20a7bf719.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-11** - Reuters reports via Techmeme that records show China's Northwestern Polytechnical University, which has close PLA ties and is on a US export blacklist, bought and has access to Nvidia H200 AI chips. ([Records: China's Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia's H200 AI chips despite being on a US export blacklist](../summaries/c38b6e54d060.md) · [NVIDIA](../entities/nvidia.md)) ⚠
 - **2026-11-11** - The Financial Times reports via Techmeme that the Nvidia spy scandal exposes Singapore-based networks helping Chinese tech companies obtain advanced US AI chips and circumvent export controls. ([The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls](../summaries/ced5fa009e55.md) · [NVIDIA](../entities/nvidia.md)) 🔒

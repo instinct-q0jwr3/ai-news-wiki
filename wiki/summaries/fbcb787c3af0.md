@@ -1,6 +1,6 @@
 # Data analytics provider Hex Technologies, which says it has rebuilt its platform for AI agents, raised a $100M Series D led by Peak XV at a $1.2B valuation
 
-_type: news-summary · created: 2026-11-02 · updated: 2026-11-11 · confidence: high_
+_type: news-summary · created: 2026-11-02 · updated: 2026-11-12 · confidence: high_
 
 `techmeme` `agentic-systems`
 

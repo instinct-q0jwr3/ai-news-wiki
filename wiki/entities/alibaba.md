@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-11 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 

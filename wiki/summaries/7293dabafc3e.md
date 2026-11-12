@@ -1,6 +1,6 @@
 # Bank of America added 1k contractors to patch AI-exposed software flaws
 
-_type: news-summary · created: 2026-10-15 · updated: 2026-11-11 · confidence: high_
+_type: news-summary · created: 2026-10-15 · updated: 2026-11-12 · confidence: high_
 
 `hacker-news` `amazon`
 

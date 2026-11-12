@@ -1,149 +1,23 @@
 {
- "generated_at": "2026-11-11T21:31:17+00:00",
+ "generated_at": "2026-11-12T03:32:25+00:00",
  "stories": [
   {
-   "id": "0046b1317a1b",
-   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+   "id": "c68e175bb98f",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "source": "Hacker News",
-   "url": "https://github.com/FrigadeHQ/yogurt"
+   "url": "https://pietromiotti.com/latest/maya-site/?maya"
   },
   {
-   "id": "a109f6614bec",
-   "title": "Gemini Decisions API",
+   "id": "66f598021968",
+   "title": "Adventures in Weight Space Programming",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+   "url": "https://www.withbeaker.ai/blog/weight-space-programming"
   },
   {
-   "id": "8579dc601fe5",
-   "title": "AWS Emulator and the engineer's job when agents write the code",
+   "id": "b98c1ba6c330",
+   "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
    "source": "Hacker News",
-   "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
-  },
-  {
-   "id": "eb87f68845c4",
-   "title": "Retirement Savings Are Fueling the AI Bubble",
-   "source": "Hacker News",
-   "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
-  },
-  {
-   "id": "30b45717bc2e",
-   "title": "AI, activity, and outcomes in software engineering",
-   "source": "Hacker News",
-   "url": "https://cabird.com/talks/shipping-faster/"
-  },
-  {
-   "id": "d03064ebefc7",
-   "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-   "source": "Hacker News",
-   "url": "https://github.com/klad-app/klad"
-  },
-  {
-   "id": "67d1182fd0b9",
-   "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-   "source": "Hacker News",
-   "url": "https://github.com/OpenTSLM/TimeNet"
-  },
-  {
-   "id": "e43fc683b6c2",
-   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-   "source": "Hacker News",
-   "url": "https://pomerado.ai/"
-  },
-  {
-   "id": "a93de5c2358d",
-   "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
-   "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths"
-  },
-  {
-   "id": "9096c97418f5",
-   "title": "Show HN: I created a library for correctly using SQLite in Go programs",
-   "source": "Hacker News",
-   "url": "https://github.com/cattlecloud/litesql"
-  },
-  {
-   "id": "8e28f19c7038",
-   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-   "source": "Hacker News",
-   "url": "https://github.com/huawei-csl/MACaQ"
-  },
-  {
-   "id": "0ace9d6868d1",
-   "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
-   "source": "Hacker News",
-   "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html"
-  },
-  {
-   "id": "89317bc923ae",
-   "title": "Gemini Decision 1 is Free on Google AI Studio",
-   "source": "Hacker News",
-   "url": "https://aistudio.google.com/docs/decisions-api"
-  },
-  {
-   "id": "4640c9bdb0cf",
-   "title": "Prompting Claude Fable 5.2",
-   "source": "Hacker News",
-   "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2"
-  },
-  {
-   "id": "f703eb38165b",
-   "title": "AI has made it 'close to impossible' to assess university coursework",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator"
-  },
-  {
-   "id": "548a9fd79961",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "source": "Hacker News",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
-  },
-  {
-   "id": "1fe88d4c17ca",
-   "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
-   "source": "Hacker News",
-   "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo"
-  },
-  {
-   "id": "e540a96fb665",
-   "title": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed",
-   "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/"
-  },
-  {
-   "id": "c9638612d199",
-   "title": "llm 0.37.2",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/11/llm/"
-  },
-  {
-   "id": "8c43536bc926",
-   "title": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows",
-   "source": "Techmeme",
-   "url": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?gift=VELZukBv_TdFyvYot6GkvImUfy5VbhsFdb6Ml7MDXXU"
-  },
-  {
-   "id": "8a6895a96349",
-   "title": "aws-emulator",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
-  },
-  {
-   "id": "9243d5322ecd",
-   "title": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
-  },
-  {
-   "id": "b6f5e5908a72",
-   "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code",
-   "source": "Techmeme",
-   "url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/"
-  },
-  {
-   "id": "2f42804a7653",
-   "title": "Browse tools.simonwillison.net by tag",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
+   "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a"
   },
   {
    "id": "514817c9761d",
@@ -152,10 +26,28 @@
    "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?st=ytrzi1"
   },
   {
-   "id": "f59fc7b65017",
-   "title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation",
+   "id": "b6f5e5908a72",
+   "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code",
    "source": "Techmeme",
-   "url": "https://www.upstartsmedia.com/p/fintech-imprint-raises-130m"
+   "url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/"
+  },
+  {
+   "id": "1c78c3d602dd",
+   "title": "the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule"
+  },
+  {
+   "id": "f83aff32b504",
+   "title": "Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved curbs for a third time in 2026 on November 5",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls"
+  },
+  {
+   "id": "3dd30938a327",
+   "title": "CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds' yield",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan"
   }
  ]
 }

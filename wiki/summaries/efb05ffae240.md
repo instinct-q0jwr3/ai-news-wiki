@@ -1,6 +1,6 @@
 # Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation
 
-_type: news-summary · created: 2026-11-04 · updated: 2026-11-11 · confidence: high_
+_type: news-summary · created: 2026-11-04 · updated: 2026-11-12 · confidence: high_
 
 `techmeme` `agentic-systems`
 
