@@ -1,0 +1,15 @@
+{
+ "id": "153ed86fb94e",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972852+00:00",
+ "prose": [
+  "The Wall Street Journal profile, as relayed by Techmeme, describes Huang's reported resignation as the end of a 33-year tenure that transformed Nvidia from a graphics-chip company into an AI supplier. The original text was not retrievable, so this summary is limited to the feed's account of the career retrospective."
+ ],
+ "highlights": [
+  "Feed describes a 33-year leadership tenure",
+  "Profile tracks the shift from graphics to AI",
+  "Original article was unavailable"
+ ],
+ "basis": "Techmeme headline and excerpt; Wall Street Journal fetch failed."
+}

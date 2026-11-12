@@ -10,4 +10,5 @@ Shopify powers a large share of independent e-commerce and is opening its checko
 
 ## Timeline
 
+- **2026-11-12** - Shopify describes a shared generative candidate model trained for search and recommendations together. Product knowledge and eligible buyer interactions provide common inputs; a search query adds explicit intent, while recommendations infer it from… ([Shopify's generative discovery model](../summaries/91d3058327f2.md) · [Shopify](../entities/shopify.md))
 - **2026-09-22** - Shopify plans to let Meta's personal AI agent, Muse, complete purchases on behalf of users at Shopify-powered stores, the Wall Street Journal reports. The purchases would run through Shop Pay, Shopify's one-tap checkout service. ([Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay](../summaries/69da42e0e50b.md) · [Meta](../entities/meta.md) · [Shopify](../entities/shopify.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [Agentic commerce](../concepts/agentic-commerce.md)) 🔒

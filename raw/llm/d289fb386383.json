@@ -1,0 +1,14 @@
+{
+ "id": "d289fb386383",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972429+00:00",
+ "prose": "This critique examines an individual Internet-Draft proposing that agents forward optional user signals such as country, a masked IP prefix, locale and time zone to websites. It recognizes the operational problem of shared data-center traffic triggering blocks, but argues that disclosing those signals gives back privacy that proxy browsing currently preserves.\n\nThe author questions consent, minimization and unsigned claims used for risk scoring, and suggests stronger authentication and purpose limits. These are critiques of a draft, not an adopted IETF standard or evidence that such forwarding is already universally deployed. A masked network identifier can still contribute to identification.",
+ "highlights": [
+  "Draft proposes optional forwarded user signals",
+  "Agent traffic blocks are the operational motivation",
+  "Critique focuses on privacy and consent",
+  "Unsigned signals have authenticity limitations",
+  "Individual proposal is not an adopted standard"
+ ]
+}

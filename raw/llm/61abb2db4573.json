@@ -1,0 +1,14 @@
+{
+ "id": "61abb2db4573",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972241+00:00",
+ "prose": "OpenRouter compares three ways to expose a GitHub task to several models: a full MCP tool set, a command-line interface and a task skill. On its Sonnet run, all answered correctly but the reported input usage ranged from 1,421 tokens for the CLI to 59,417 for the default MCP configuration.\n\nThe article attributes cost to both tool definitions and bulky results, and discusses loading only relevant tools. It is a narrow task comparison, not proof that one interface is always cheaper or more reliable. The amount exposed, result filtering and model behavior can change the outcome.",
+ "highlights": [
+  "One GitHub task underpins the comparison",
+  "Tool definitions and returned data both consume context",
+  "Default MCP loading was expensive in the example",
+  "CLI and skill used less input in that run",
+  "Results do not generalize to every tool configuration"
+ ]
+}

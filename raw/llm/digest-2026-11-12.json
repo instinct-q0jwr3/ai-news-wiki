@@ -4,7 +4,7 @@
  "schema": 3,
  "model": "agent-pass",
  "lead": [
-  "Google stabilizes A2UI while engineers demonstrate decision models inside everyday software. A proposed offline biological warning model faces further testing; reports also track robotics funding and pressure over chip access."
+  "Reports of Nvidia's leadership transition put governance and financing dependencies in focus. New research spans cell-specific genetics and hidden computation, while agent products expand interfaces and reopen questions about permissions and privacy."
  ],
  "sections": [
   {
@@ -67,6 +67,69 @@
    "stories": [
     "11435efeaec8",
     "d505c184e531"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Nvidia after its founder",
+   "intro": "Reports and commentary examine governance and concentrated financial dependencies.",
+   "stories": [
+    "5388de97116b",
+    "0033043fd563",
+    "153ed86fb94e",
+    "02c6f1358509",
+    "989f8600b618",
+    "1c2ad10e4833"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Research beyond visible words",
+   "intro": "Cell-specific genetics, filler-token computation and derived kernels.",
+   "stories": [
+    "497d6097ca0a",
+    "01062ca44206",
+    "2a957ab8761c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The expanding agent interface",
+   "intro": "New sharing, plugin and planning surfaces meet questions about permissions and privacy.",
+   "stories": [
+    "a9e5807eaaa4",
+    "f4e4bdbff5fc",
+    "0f2babdfb3a1",
+    "d289fb386383",
+    "71e38ebafb71",
+    "61abb2db4573",
+    "34200c081e58",
+    "fd63b0cebf65",
+    "0e9058705a4a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "From simulated worlds to machines",
+   "intro": "Open robot weights, spatial maps and generative discovery.",
+   "stories": [
+    "d6ca186f6a3e",
+    "2b1471cfe07a",
+    "91d3058327f2",
+    "0f79b16bb331",
+    "bb3edd6997af"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Capital and access",
+   "intro": "Offering information, reported financing and an argument about professional networks.",
+   "stories": [
+    "67259592b755",
+    "6c81daed34bd",
+    "74c8479c207d",
+    "5487ec63e396",
+    "8487dc8d8672"
    ],
    "concepts": []
   }

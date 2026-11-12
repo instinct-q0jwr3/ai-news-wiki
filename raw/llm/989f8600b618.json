@@ -1,0 +1,15 @@
+{
+ "id": "989f8600b618",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972814+00:00",
+ "prose": [
+  "The Financial Times, summarized by Techmeme, examines Nvidia's financing ties to startups, suppliers and chip customers and argues that this network could become vulnerable during its leadership crisis. The original article was unavailable. The feed supports a reported concern about linked exposures, not a demonstrated collapse of those relationships."
+ ],
+ "highlights": [
+  "Feed describes linked investment and customer relationships",
+  "Article warns of possible unwinding",
+  "Original evidence was not retrievable"
+ ],
+ "basis": "Techmeme headline and excerpt; Financial Times fetch failed."
+}

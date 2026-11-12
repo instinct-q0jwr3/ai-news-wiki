@@ -1,0 +1,14 @@
+{
+ "id": "01062ca44206",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972193+00:00",
+ "prose": "A research update investigates whether language models can perform multistep reasoning while intermediate positions contain repeated filler tokens rather than visible explanations. The authors adapt existing models with LoRA and train internal positions against reasoning targets, using a setup that differs from ordinary next-token generation.\n\nThe work matters because unrelated-looking output need not imply that no computation is occurring between positions. It also separates filler-token reasoning from steganography, where information is encoded in the emitted words themselves. The experiments do not establish arbitrary serial computation without limits, nor that ordinary deployed models routinely reason this way.",
+ "highlights": [
+  "Studies computation without visible intermediate words",
+  "Uses LoRA on existing language models",
+  "Training setup differs from ordinary text prediction",
+  "Filler computation differs from steganographic text",
+  "Conclusions remain bounded to the tested tasks"
+ ]
+}

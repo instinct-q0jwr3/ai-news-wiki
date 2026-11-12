@@ -1,0 +1,14 @@
+{
+ "id": "2a957ab8761c",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972075+00:00",
+ "prose": "The tang project argues that GPU kernels can be derived from a compact mathematical representation rather than hand-written separately for every operator and device. Its representation uses affine views and reductions, with fusion and differentiation expressed as transformations and hardware choices handled by schedules.\n\nThe article reports results across several backends and is explicit about weaknesses: derived kernels sometimes match or beat its baselines, but attention can be much slower than specialist implementations, and one integration misses an agreement threshold. Formal results cover particular rewrite and memory-bound properties, not universal optimality or correctness of every generated program.",
+ "highlights": [
+  "Small tensor representation separates math from scheduling",
+  "Fusion and gradients use shared transformations",
+  "Several GPU and CPU backends are reported",
+  "Performance varies sharply by shape and hardware",
+  "Formal proofs have specific boundaries"
+ ]
+}

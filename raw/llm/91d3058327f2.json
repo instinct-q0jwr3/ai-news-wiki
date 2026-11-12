@@ -1,0 +1,14 @@
+{
+ "id": "91d3058327f2",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972545+00:00",
+ "prose": "Shopify describes a shared generative candidate model trained for search and recommendations together. Product knowledge and eligible buyer interactions provide common inputs; a search query adds explicit intent, while recommendations infer it from behavior. The model is described as deployed in production across a very large catalog.\n\nThe post reports improved retrieval and search-relevance metrics, including stronger results for signed-in users whose context can personalize candidates. These are Shopify measurements, not a universal gain from replacing ranking systems. Candidate generation, representation and serving latency remain separate engineering choices in the production pipeline.",
+ "highlights": [
+  "Search and recommendation share one candidate model",
+  "Product and buyer context supply common signals",
+  "Queries add explicit intent",
+  "Vendor reports production relevance improvements",
+  "Personalization and serving constraints shape results"
+ ]
+}

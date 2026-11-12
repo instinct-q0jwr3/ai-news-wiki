@@ -1,0 +1,14 @@
+{
+ "id": "d6ca186f6a3e",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972497+00:00",
+ "prose": "Runway releases Praxis-1 weights and adaptation code under Apache 2.0. It describes a 27-billion-parameter mixture-of-experts model that predicts video and robot actions together, with hardware and fine-tuning support intended to let developers adapt one pretrained model to different robot bodies.\n\nRunway reports benchmark results and partner demonstrations, including transfer to a robot absent from training. Those are vendor evaluations on defined tasks, not a guarantee of safe autonomous performance in arbitrary environments. Open access allows inspection and adaptation but does not remove the need for robot-specific validation.",
+ "highlights": [
+  "Open weights and code under Apache 2.0",
+  "Joint prediction of video and actions",
+  "27B mixture-of-experts architecture",
+  "Supports full adaptation and LoRA",
+  "Reported results require task-specific validation"
+ ]
+}

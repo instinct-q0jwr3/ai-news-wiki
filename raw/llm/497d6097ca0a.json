@@ -1,0 +1,14 @@
+{
+ "id": "497d6097ca0a",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.971954+00:00",
+ "prose": "DeepMind introduces AlphaGenome 2 as a conditional DNA-sequence model that predicts effects for a specific cell type or state rather than broad tissue averages. The announcement says it was trained on more than 100 million cell profiles across 68 tissues and can condition predictions on a researcher's own single-cell data without a new training run.\n\nThe intended use is to prioritize and interpret variants in disease-relevant cells. DeepMind reports improved detection of variants affecting gene expression, but model predictions are not clinical confirmation of causality. Access is described as available for non-commercial research, with commercial use in private preview.",
+ "highlights": [
+  "Predicts variant effects for cell-specific conditions",
+  "Training spans over 100 million cell profiles",
+  "Own single-cell data can supply a new condition",
+  "Vendor reports improved expression-effect prediction",
+  "Research access differs from clinical validation"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "a9e5807eaaa4",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972032+00:00",
+ "prose": "Databricks expands Genie Agents from SQL-oriented questions to document analysis, enterprise-tool actions and governed sharing with outside organizations. The announcement describes using curated business context, MCP connectors and unstructured-data workflows instead of treating each question as an isolated query.\n\nOpenSharing is intended to distribute configured agents to partners, customers and suppliers; clean-room workflows aim to let recipients ask questions without receiving the underlying dataset. Those governance and privacy claims depend on the configuration and controls of the deployment. The launch is a vendor account of capabilities, not an independent audit of data protection.",
+ "highlights": [
+  "Expands beyond structured SQL analysis",
+  "Adds document context and enterprise connectors",
+  "Vendor describes no-code agent configuration",
+  "OpenSharing targets external stakeholders",
+  "Clean-room protection claims need deployment-specific checks"
+ ]
+}

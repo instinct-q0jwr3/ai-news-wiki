@@ -1,0 +1,14 @@
+{
+ "id": "0e9058705a4a",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972641+00:00",
+ "prose": "A guide to Grok Bot 1.0 distinguishes the product announcement from the app release and describes new team-oriented capabilities across Slack, Microsoft Teams and meetings. Its author says team and meeting sections are based on documentation and announcement screenshots, not hands-on use. That distinction limits how much the article can establish about real-world reliability.",
+ "highlights": [
+  "Version 1.0 shifts emphasis toward team interaction",
+  "Documentation covers Teams and meetings",
+  "Announcement and app-release dates differ",
+  "Author distinguishes own use from documented features",
+  "Guide is not a full team-workflow test"
+ ]
+}

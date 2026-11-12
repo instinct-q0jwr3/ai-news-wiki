@@ -1,0 +1,16 @@
+{
+ "id": "6c81daed34bd",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972889+00:00",
+ "prose": [
+  "The Wall Street Journal reports, according to Techmeme, that LangChain raised $300 million led by CapitalG at a $3 billion valuation, up from $1.25 billion in 2025. The item frames the round around enterprise agent development. The original article was inaccessible, leaving detailed terms and operating metrics unchecked."
+ ],
+ "highlights": [
+  "Reported funding of $300 million",
+  "CapitalG is named as lead",
+  "Reported valuation is $3 billion",
+  "Enterprise agents are the stated focus"
+ ],
+ "basis": "Techmeme headline and excerpt; Wall Street Journal fetch failed."
+}

@@ -1,0 +1,14 @@
+{
+ "id": "0f2babdfb3a1",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-12T15:37:42.972334+00:00",
+ "prose": "OpenAI MCP Extensions adds interface features intended to make plugins behave like native ChatGPT components. The project lists sidebar entry points, custom file viewers, resource search from the composer and thumbnail selections. It is an Apache-licensed extension layer for richer interactions, not a guarantee that every MCP host supports the same features.",
+ "highlights": [
+  "Adds ChatGPT-specific interface capabilities",
+  "Sidebar and file-viewer hooks are included",
+  "Composer can reference plugin resources",
+  "Selection controls can show thumbnails",
+  "Apache 2.0 license covers the project"
+ ]
+}
