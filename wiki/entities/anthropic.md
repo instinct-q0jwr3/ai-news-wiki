@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-13 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-13** - Cerulion describes a Rust robotics runtime compatible with ROS 2, emphasizing low-latency inter-process transport and deterministic replay of recorded runs against revised code. The developers say existing ROS 2 nodes and launch files can coexist with… ([Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay](../summaries/65d05397b7c8.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
+- **2026-11-13** - Simon Willison discusses Hydrogen support in llm-gemini 0.37 and questions how Google's model pricing maps to practical value. He notes that temporary Carbon and Argon pricing makes Hydrogen's token discount relatively small until the scheduled price… ([llm-gemini 0.37](../summaries/1a1e98749a2c.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [The frontier model price war](../concepts/ai-price-war.md))
+- **2026-11-13** - Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi... ([Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)](../summaries/1ef190c76f1e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-12** - AgentRun is an open-source layer around existing agent harnesses that adds run tracking, recovery, tool connections and a process for retaining useful work from earlier runs. Its project description treats repeated rediscovery as a cost problem and… ([Show HN: AgentRun – open-source, Self-improving Managed Agents](../summaries/f1ef6ed0533c.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-12** - Bloomberg sources, relayed by Techmeme, say orders for Anthropic's IPO are about six times the shares available and that existing backers may receive priority. The original report was unavailable. Oversubscription is a reported demand measure, not a… ([Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized](../summaries/9c9c6664c5af.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-12** - Anthropic's IPO site presents its public-benefit mission, customer testimonials and a timetable for the offering. It says pricing is expected on November 18 and trading on November 19 under ANT, subject to clearance and market conditions. Participation and… ([Anthropic IPO](../summaries/67259592b755.md) · [Anthropic](../entities/anthropic.md))

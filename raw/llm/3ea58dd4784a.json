@@ -1,0 +1,16 @@
+{
+ "id": "3ea58dd4784a",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T03:37:33.815421+00:00",
+ "prose": [
+  "Reuters reports, according to Techmeme, that Cisco's first-quarter revenue rose 24% to $18.5 billion and that the company raised its fiscal 2027 forecast. The original article was unavailable. The excerpt links the results to AI networking demand but does not provide enough detail to isolate that demand's contribution."
+ ],
+ "highlights": [
+  "Reported revenue is $18.5 billion",
+  "Feed cites 24% annual growth",
+  "Annual forecast reportedly increased",
+  "Detailed business breakdown was unavailable"
+ ],
+ "basis": "Techmeme headline and excerpt; Reuters fetch failed."
+}

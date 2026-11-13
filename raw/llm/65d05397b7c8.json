@@ -1,0 +1,14 @@
+{
+ "id": "65d05397b7c8",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T03:37:33.815231+00:00",
+ "prose": "Cerulion describes a Rust robotics runtime compatible with ROS 2, emphasizing low-latency inter-process transport and deterministic replay of recorded runs against revised code. The developers say existing ROS 2 nodes and launch files can coexist with native components rather than requiring a single-process rewrite.\n\nRecording and replay can help reproduce failures, but compatibility and timing claims need evaluation on the actual robot and sensor workload. The repository also describes account-based pairing and remote connectivity; those are product features, not actions performed for this editorial summary.",
+ "highlights": [
+  "ROS 2 compatibility is a stated goal",
+  "Multi-process transport rather than forced single process",
+  "Recorded runs can be replayed against changed code",
+  "Native Rust and Python components are described",
+  "Hardware-specific validation remains necessary"
+ ]
+}

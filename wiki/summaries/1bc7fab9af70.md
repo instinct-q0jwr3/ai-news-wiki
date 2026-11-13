@@ -1,6 +1,6 @@
 # Cyanogen's co-founder and two others debut Kora, a Linux desktop OS that integrates AI models at a system level, set for a 2027 launch on Snapdragon and x86 PCs
 
-_type: news-summary · created: 2026-11-10 · updated: 2026-11-12 · confidence: high_
+_type: news-summary · created: 2026-11-10 · updated: 2026-11-13 · confidence: high_
 
 `techmeme`
 

@@ -1,6 +1,6 @@
 # Introducing Gemini for healthcare
 
-_type: news-summary · created: 2026-11-11 · updated: 2026-11-12 · confidence: high_
+_type: news-summary · created: 2026-11-11 · updated: 2026-11-13 · confidence: high_
 
 `tldr-ai` `google` `gemini`
 

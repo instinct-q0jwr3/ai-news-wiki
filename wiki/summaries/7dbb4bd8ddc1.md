@@ -1,6 +1,6 @@
 # Pluralistic: Uber's labor crash (12 Nov 2026)
 
-_type: news-summary · created: 2026-11-12 · updated: 2026-11-12 · confidence: high_
+_type: news-summary · created: 2026-11-12 · updated: 2026-11-13 · confidence: high_
 
 `pluralistic` `nvidia` `agentic-systems` `external-evaluation` `compute-buildout` `ai-policy-regulation` `labor-displacement` `ai-price-war`
 

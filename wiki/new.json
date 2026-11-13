@@ -1,125 +1,95 @@
 {
- "generated_at": "2026-11-12T21:34:39+00:00",
+ "generated_at": "2026-11-13T03:35:37+00:00",
  "stories": [
   {
-   "id": "4de20046fdd1",
-   "title": "Gemini 4 Hydrogen",
+   "id": "b422c250c8a5",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
    "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+   "url": "https://unemploymentlabs.com/checkpoint-forensics"
   },
   {
-   "id": "07f0f76317e0",
-   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "id": "c54d7e2053b2",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
    "source": "Hacker News",
-   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
   },
   {
-   "id": "f1ef6ed0533c",
-   "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+   "id": "e4f558637e85",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "source": "Hacker News",
-   "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
   },
   {
-   "id": "b7a5b6b010e7",
-   "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+   "id": "40dd5ff21e23",
+   "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
    "source": "Hacker News",
-   "url": "https://yourairedlines.com"
+   "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
   },
   {
-   "id": "967dd7de01d8",
-   "title": "Show HN: Kapso – Iterative learning from enterprise data",
+   "id": "ff542347845b",
+   "title": "Show HN: Apron Chat Protocol",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50471281"
+   "url": "https://apron.chat/"
   },
   {
-   "id": "285fe12a3d3e",
-   "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+   "id": "65d05397b7c8",
+   "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
    "source": "Hacker News",
-   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+   "url": "https://github.com/cerulion-inc/cerulion"
   },
   {
-   "id": "b2192f634b48",
-   "title": "Relate – the agent-native graph database",
-   "source": "Hacker News",
-   "url": "https://relatedb.ai/"
-  },
-  {
-   "id": "a2e8c060c313",
-   "title": "Washing dishes at Denny's to rockstar of AI, the rise and fall of Jensen Huang",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile"
-  },
-  {
-   "id": "b0457d31709b",
-   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-   "source": "Hacker News",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
-  },
-  {
-   "id": "bdb0f1228954",
-   "title": "The internet won't necessarily go dark. It could simply stop working",
-   "source": "Hacker News",
-   "url": "https://www.washingtonpost.com/opinions/2026/11/12/ai-is-exposing-internets-cybersecurity-vulnerabilities/"
-  },
-  {
-   "id": "bfdffa2eec0d",
-   "title": "Show HN: DRS-VPT. Localize a photo in a 3D point cloud without an initial pose",
-   "source": "Hacker News",
-   "url": "https://github.com/ori-drs/drs-vpt"
-  },
-  {
-   "id": "4e3e490a963c",
-   "title": "SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its revenue",
+   "id": "1ef190c76f1e",
+   "title": "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html"
+   "url": "https://x.com/artificialanlys"
   },
   {
-   "id": "7dbb4bd8ddc1",
-   "title": "Pluralistic: Uber's labor crash (12 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/12/starvation-wages/"
-  },
-  {
-   "id": "6c8da4ddbb08",
-   "title": "The anti-marketing aspect of the Gemini network",
-   "source": "Lobsters",
-   "url": "https://ploum.net/2026-11-12-anti-marketing-gemini.html"
-  },
-  {
-   "id": "e89bdd7fc00c",
-   "title": "Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more",
+   "id": "bf72530cec31",
+   "title": "Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit",
    "source": "Techmeme",
-   "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit"
   },
   {
-   "id": "78f353cacbd6",
-   "title": "Jensen Huang Agrees to Testify Before Congress, But Not Publicly",
-   "source": "Daring Fireball",
-   "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+   "id": "1a1e98749a2c",
+   "title": "llm-gemini 0.37",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
   },
   {
-   "id": "b9bba35d1dad",
-   "title": "And Every New Boy That You Meet / He Doesn’t Know the Real Surprise",
-   "source": "Daring Fireball",
-   "url": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY"
-  },
-  {
-   "id": "5d298fd470c9",
-   "title": "Samsung's Android XR smart glasses hands-on: stylish with good privacy protections like local face redaction and nice Gemini features like real-time translation",
+   "id": "121c570be54d",
+   "title": "The FBI says North Korean hackers stole $400M+ in crypto in the last 18 months using \"FaceStealer\", a scheme involving fake video calls and AI deepfakes",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on"
+   "url": "https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/"
   },
   {
-   "id": "9c9c6664c5af",
-   "title": "Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
+   "id": "04d0c53832db",
+   "title": "First Strike",
+   "source": "geohot",
+   "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html"
   },
   {
-   "id": "812051d2d59c",
-   "title": "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI",
+   "id": "9286a008a2d3",
+   "title": "New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/interim-nvidia-ceo-colette-kress-tried-tame-nvidias-riskiest-bets"
+   "url": "https://www.crn.com/news/ai/2026/hatz-ai-secures-24m-to-expand-platform-double-headcount-exclusive"
+  },
+  {
+   "id": "3ea58dd4784a",
+   "title": "Cisco reports Q1 revenue up 24% YoY to $18.5B, above $18.14B est., adjusted EPS above estimates, and raises its FY 2027 revenue forecast",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/"
+  },
+  {
+   "id": "be52945adb18",
+   "title": "Analysis of open weights: six models from DeepSeek, Moonshot, MiniMax, and Ant Group released since April carry fingerprints of export-controlled Blackwell GPUs",
+   "source": "Techmeme",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics"
+  },
+  {
+   "id": "c248c776b06f",
+   "title": "OpenAI confirmed to lawmakers this week that it would support a bipartisan effort in Congress to curb China's access to AI chips and chipmaking tools",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures"
   }
  ]
 }

@@ -1,0 +1,14 @@
+{
+ "id": "1a1e98749a2c",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T03:37:33.815273+00:00",
+ "prose": "Simon Willison discusses Hydrogen support in llm-gemini 0.37 and questions how Google's model pricing maps to practical value. He notes that temporary Carbon and Argon pricing makes Hydrogen's token discount relatively small until the scheduled price change.\n\nHis pelican-generation examples illustrate differences at several effort levels, not a general benchmark of software engineering. The useful comparison is total cost and success on a task, since two models with the same per-token price can consume different numbers of tokens.",
+ "highlights": [
+  "Plugin release adds Hydrogen support",
+  "Commentary distinguishes temporary and later prices",
+  "Per-token price differs from per-task cost",
+  "Effort settings affect comparisons",
+  "Illustrative image-code tests are not a universal ranking"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "e4f558637e85",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T03:37:33.814905+00:00",
+ "prose": "Edge0 announces 145B- and 120B-parameter models together with an inference framework and deployment tools for local use. It claims laptop operation for the larger model at more than 80 tokens per second and 28 GB peak memory, positioning it as an alternative to cloud dependence.\n\nThese are vendor measurements for a specified setup, not hardware-independent expectations. The announcement separately cites a smaller phone model, whose speed and memory figures should not be confused with the laptop release. Claims of frontier-level ability need task-specific evaluation alongside the practical costs of running the full stack.",
+ "highlights": [
+  "Vendor releases models and deployment stack",
+  "Local use aims to reduce cloud dependence",
+  "Laptop speed and memory figures are vendor claims",
+  "Phone figures refer to a different smaller model",
+  "Capability comparisons need independent task testing"
+ ]
+}

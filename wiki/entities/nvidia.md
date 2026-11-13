@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-12 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-13 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,8 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-13** - Bloomberg sources, relayed by Techmeme, say Nvidia faced pressure to increase a 25% residual-value backstop associated with a planned $500 billion AI financing vehicle. The original report was unavailable. A proposed vehicle and negotiations about support… ([Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit](../summaries/bf72530cec31.md) · [NVIDIA](../entities/nvidia.md)) 🔒
+- **2026-11-13** - George Hotz argues that electricity supply is a long-term constraint on computing power and favors trade and domestic energy investment over a zero-sum AI race. He then expresses concern that strategic competition could encourage dangerous ideas about… ([First Strike](../summaries/04d0c53832db.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-12** - We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). ([Show HN: Kapso – Iterative learning from enterprise data](../summaries/967dd7de01d8.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-11-12** - A Guardian profile traces Huang's career from restaurant work to building Nvidia into a central AI supplier. It emphasizes technical fluency and communication as parts of his influence with customers and investors, while framing his reported resignation as… ([Washing dishes at Denny's to rockstar of AI, the rise and fall of Jensen Huang](../summaries/a2e8c060c313.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-12** - Daring Fireball quotes a Wall Street Journal account of introductions and personal relationships surrounding Nvidia's leadership crisis. The original report could not be retrieved. The available material consists of attributed claims about private conduct,… ([And Every New Boy That You Meet / He Doesn’t Know the Real Surprise](../summaries/b9bba35d1dad.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒

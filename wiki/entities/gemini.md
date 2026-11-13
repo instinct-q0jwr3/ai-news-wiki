@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-13 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-13** - Simon Willison discusses Hydrogen support in llm-gemini 0.37 and questions how Google's model pricing maps to practical value. He notes that temporary Carbon and Argon pricing makes Hydrogen's token discount relatively small until the scheduled price… ([llm-gemini 0.37](../summaries/1a1e98749a2c.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [The frontier model price war](../concepts/ai-price-war.md))
+- **2026-11-13** - Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi... ([Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)](../summaries/1ef190c76f1e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-12** - Google introduces Gemini 4 Hydrogen as a faster execution-oriented model for everyday coding and agent workflows, alongside Carbon and Argon for harder reasoning. The launch specifies a one-million-token context window and flat prices of $1.50 per million… ([Gemini 4 Hydrogen](../summaries/4de20046fdd1.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-11-12** - Google Antigravity adds Hydrogen and a dynamic Orchestrator option that pairs it with Carbon. The design can move from planning to execution and back when a task encounters difficulty, rather than locking the whole task to a model chosen at its… ([Gemini 4 Hydrogen and Orchestrator](../summaries/07f0f76317e0.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-12** - Ploum discusses the Gemini network protocol, explicitly distinct from Google's AI product. The essay argues that a small network can remain healthy without correlating growth to publicity or maximizing clicks. It uses reported capsule counts to question… ([The anti-marketing aspect of the Gemini network](../summaries/6c8da4ddbb08.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

@@ -1,0 +1,15 @@
+{
+ "id": "bf72530cec31",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T03:37:33.815544+00:00",
+ "prose": [
+  "Bloomberg sources, relayed by Techmeme, say Nvidia faced pressure to increase a 25% residual-value backstop associated with a planned $500 billion AI financing vehicle. The original report was unavailable. A proposed vehicle and negotiations about support are not a completed commitment on those terms."
+ ],
+ "highlights": [
+  "Feed describes pressure over residual-value support",
+  "Vehicle is described as planned",
+  "Final commitments were not accessible"
+ ],
+ "basis": "Techmeme headline and excerpt; Bloomberg fetch failed."
+}

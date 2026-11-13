@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-12 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-13 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-13** - A submitted article claims AI is complicating Apple app review for synthesizer developers. The original source could not be fetched and the feed provides no substantive excerpt. The title alone cannot establish the affected developers, review decisions or… ([AI is turning Apple's app review process into a nightmare for synth developers](../summaries/c54d7e2053b2.md) · [Apple](../entities/apple.md)) ⚠
 - **2026-11-12** - The Verge's HomeView review praises quick home controls, customizable photo-display functions and sound for the device's size. It finds Siri AI useful but sometimes slow, and argues that the product becomes less convincing when it tries to serve as a… ([Apple HomeView review: fast home controls, helpful Siri AI, gorgeous customizable faces, great sound for its size, but Siri can be slow and pricey wall mount](../summaries/bb3edd6997af.md) · [Apple](../entities/apple.md))
 - **2026-11-11** - Yogurt is presented by its developer as a free desktop meeting assistant that transcribes and summarizes calls locally rather than sending recordings to a hosted service. The launch post describes an MIT-licensed app that stays out of the meeting… ([Show HN: Yogurt – Free, private, open-source alternative to Granola](../summaries/0046b1317a1b.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-11-11** - Leaker Aaron Perris found evidence of an Apple Mac app called Harbor, which would turn a Mac into a private AI inference server for open-weight models on Apple silicon, with data staying on-device. Multiple Macs could be linked over Thunderbolt 5 to pool… ([Apple has new Mac app coming to make running local AI models easy](../summaries/642e03ec2169.md) · [Apple](../entities/apple.md))

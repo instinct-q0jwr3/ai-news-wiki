@@ -107,9 +107,9 @@
   ],
   "reserve": "07bc1aa006f7",
   "status": "final",
-  "thin": 11,
+  "thin": 12,
   "total": 68,
-  "unreadable": 5
+  "unreadable": 4
  },
  "2026-10-03": {
   "ok": 24,
@@ -2402,7 +2402,7 @@
    }
   ],
   "reserve": "01062ca44206",
-  "status": "provisional",
+  "status": "final",
   "thin": 1,
   "total": 62,
   "unreadable": 5

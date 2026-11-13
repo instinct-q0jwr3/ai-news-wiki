@@ -1,6 +1,6 @@
 # ChatGPT Enterprise on AWS Marketplace
 
-_type: news-summary · created: 2026-11-10 · updated: 2026-11-12 · confidence: high_
+_type: news-summary · created: 2026-11-10 · updated: 2026-11-13 · confidence: high_
 
 `tldr-ai` `openai` `amazon`
 

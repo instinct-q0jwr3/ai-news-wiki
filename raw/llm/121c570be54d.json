@@ -1,0 +1,16 @@
+{
+ "id": "121c570be54d",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T03:37:33.815631+00:00",
+ "prose": [
+  "Reuters reports, according to Techmeme, that the FBI attributes more than $400 million in cryptocurrency theft over 18 months to North Korean hackers using fake video calls and AI deepfakes in a scheme called FaceStealer. The original article was inaccessible. This is an attributed account of a campaign, not evidence that the user encountered it."
+ ],
+ "highlights": [
+  "Feed attributes campaign findings to the FBI",
+  "Reported losses exceed $400 million",
+  "Fake calls and deepfakes are the stated lure",
+  "No user-specific exposure is established"
+ ],
+ "basis": "Techmeme headline and excerpt; Reuters fetch failed."
+}

@@ -1,0 +1,13 @@
+{
+ "id": "be52945adb18",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T03:37:33.815360+00:00",
+ "prose": "An analysis by Unemployment Labs, highlighted by Techmeme, finds numerical initialization patterns in six public models consistent with Blackwell hardware. The authors say this supports a training-hardware inference but does not prove the chips' location, access route or any export-control violation.",
+ "highlights": [
+  "Public weights provide the evidence",
+  "Fingerprint concerns initialization",
+  "Training hardware is an inference",
+  "No legal violation is established by the method"
+ ]
+}

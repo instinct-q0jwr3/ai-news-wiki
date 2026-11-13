@@ -1,0 +1,53 @@
+{
+ "id": "digest-2026-11-13",
+ "date": "2026-11-13",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Model-weight forensics raises questions about hardware access without proving export violations. Local models and robot replay broaden the engineering toolkit, while schools question whether search must include AI."
+ ],
+ "sections": [
+  {
+   "title": "What a hardware fingerprint can prove",
+   "intro": "Checkpoint forensics supports attribution while leaving location and legality unresolved.",
+   "stories": [
+    "b422c250c8a5",
+    "be52945adb18",
+    "c248c776b06f",
+    "04d0c53832db"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Local models and reproducible systems",
+   "intro": "A local model release, robot replay and a small chat protocol.",
+   "stories": [
+    "e4f558637e85",
+    "65d05397b7c8",
+    "ff542347845b",
+    "1a1e98749a2c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Institutions choose their boundaries",
+   "intro": "School search, app review and deepfake fraud reporting.",
+   "stories": [
+    "40dd5ff21e23",
+    "c54d7e2053b2",
+    "121c570be54d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Revenue and proposed commitments",
+   "intro": "Reported results, new funding and negotiations over a financing backstop.",
+   "stories": [
+    "3ea58dd4784a",
+    "9286a008a2d3",
+    "bf72530cec31"
+   ],
+   "concepts": []
+  }
+ ]
+}

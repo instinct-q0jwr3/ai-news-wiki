@@ -2,14 +2,14 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1237,
-  "last": "2026-11-12"
+  "stories": 1243,
+  "last": "2026-11-13"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1222,
-  "last": "2026-11-12"
+  "stories": 1229,
+  "last": "2026-11-13"
  },
  {
   "name": "TLDR AI",
@@ -20,8 +20,8 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 107,
-  "last": "2026-11-11"
+  "stories": 108,
+  "last": "2026-11-13"
  },
  {
   "name": "Lobsters",
@@ -120,16 +120,16 @@
   "last": "2026-10-26"
  },
  {
+  "name": "geohot",
+  "url": "https://geohot.github.io/blog/feed.xml",
+  "stories": 8,
+  "last": "2026-11-13"
+ },
+ {
   "name": "Geoffrey Litt",
   "url": "https://www.geoffreylitt.com/feed.xml",
   "stories": 7,
   "last": "2026-09-25"
- },
- {
-  "name": "geohot",
-  "url": "https://geohot.github.io/blog/feed.xml",
-  "stories": 7,
-  "last": "2026-11-02"
  },
  {
   "name": "Troy Hunt",
