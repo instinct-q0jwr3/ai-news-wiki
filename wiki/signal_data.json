@@ -280,8 +280,8 @@
   "unreadable": 8
  },
  "2026-10-06": {
-  "ok": 45,
-  "paywall": 7,
+  "ok": 46,
+  "paywall": 6,
   "picks": [
    {
     "cat": "ok",
@@ -336,8 +336,8 @@
   "unreadable": 2
  },
  "2026-10-07": {
-  "ok": 66,
-  "paywall": 7,
+  "ok": 67,
+  "paywall": 6,
   "picks": [
    {
     "cat": "ok",
@@ -616,8 +616,8 @@
   "unreadable": 1
  },
  "2026-10-12": {
-  "ok": 47,
-  "paywall": 14,
+  "ok": 48,
+  "paywall": 13,
   "picks": [
    {
     "cat": "ok",
@@ -728,8 +728,8 @@
   "unreadable": 7
  },
  "2026-10-14": {
-  "ok": 52,
-  "paywall": 11,
+  "ok": 53,
+  "paywall": 10,
   "picks": [
    {
     "cat": "ok",
@@ -784,8 +784,8 @@
   "unreadable": 8
  },
  "2026-10-15": {
-  "ok": 64,
-  "paywall": 11,
+  "ok": 65,
+  "paywall": 10,
   "picks": [
    {
     "cat": "ok",
@@ -2406,5 +2406,61 @@
   "thin": 1,
   "total": 62,
   "unreadable": 5
+ },
+ "2026-11-13": {
+  "ok": 52,
+  "paywall": 10,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Models",
+    "id": "e4f558637e85",
+    "minutes": 16,
+    "source": "edge0.ai",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "why": "A local-model release pushes deployment claims toward laptops, with vendor measurements that still need independent task testing."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "de3c451fea7e",
+    "minutes": 7,
+    "source": "theguardian.com",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "why": "An archival project pairs AI reconstruction with human review and formal checking, making errors and repairs part of the story."
+   },
+   {
+    "cat": "ok",
+    "front": "Commerce",
+    "id": "d56f493eba58",
+    "minutes": 4,
+    "source": "cnbc.com",
+    "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18",
+    "why": "Transaction-scoped payment tokens and per-purchase approval define an important boundary for agents that can buy."
+   },
+   {
+    "cat": "ok",
+    "front": "Infrastructure",
+    "id": "6ced008ce44e",
+    "minutes": 4,
+    "source": "claude.com",
+    "title": "Operate Claude Managed Agents inside your security perimeter",
+    "why": "Self-hosted managed agents expand operational control without implying that all inference or risk stays local."
+   },
+   {
+    "cat": "ok",
+    "front": "Developer tools",
+    "id": "bd99696ef3c9",
+    "minutes": 7,
+    "source": "github.com",
+    "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
+    "why": "A usage proxy makes spend visible while documenting budget overshoot, logging privacy and availability tradeoffs."
+   }
+  ],
+  "reserve": "eca128a725d0",
+  "status": "provisional",
+  "thin": 2,
+  "total": 70,
+  "unreadable": 6
  }
 }

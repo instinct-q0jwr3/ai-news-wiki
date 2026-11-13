@@ -1,0 +1,14 @@
+{
+  "id": "3cb4d1e27e70",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.821127+00:00",
+  "prose": "Apple’s developer announcement opens a Siri AI preview through App Intents in the 27.3 operating-system betas. It describes exposing app actions and content, combining actions into larger experiences and making additional indexed entities available to Siri.\n\nThe distinction is between developer access now and customer distribution later. The announcement says public shipping, App Store submissions and more detailed terms will follow, so preview support is not a claim that every integration is available to ordinary users.",
+  "highlights": [
+    "App Intents connects app actions",
+    "Preview uses 27.3 OS betas",
+    "Complex requests can combine actions",
+    "Developer preview precedes customer shipping",
+    "Further terms are still to follow"
+  ]
+}

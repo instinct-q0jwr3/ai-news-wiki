@@ -1,0 +1,15 @@
+{
+  "id": "6cf5b3e17014",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.764377+00:00",
+  "prose": "The accessible New York Times opening examines Wall Street’s dependence on Huang’s dealmaking and concern that Nvidia’s investment pace could slow after his departure. It contrasts that uncertainty with Nvidia’s continuing chip-market position and financial resources.\n\nThe rest of the article is gated. The feed adds source-based claims that a $500 billion lending consortium is unsettled and a lender may leave, but the available body does not verify those details or establish that any withdrawal has occurred.",
+  "highlights": [
+    "Opening describes financing uncertainty",
+    "Nvidia’s underlying resources remain distinct",
+    "Concerns are not confirmed cancellations",
+    "Consortium claim comes from the feed",
+    "Possible lender exit remains conditional"
+  ],
+  "basis": "Feed metadata and accessible excerpt only; full article unavailable or incomplete."
+}

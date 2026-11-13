@@ -1,0 +1,14 @@
+{
+  "id": "7f873adcbe6a",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.762394+00:00",
+  "prose": "Ars Technica reports a prolonged Microsoft 365 disruption affecting email and other cloud services. Microsoft attributed capacity loss to servers failing automated health checks and described repeated recovery attempts, including restarting isolated infrastructure and extending email timeouts to preserve delayed messages.\n\nThe report captures recovery in progress, with regional improvements and lingering delivery queues. It should not be read as a current service-status page: a later company statement indexed separately reports broad recovery and denies a cyberattack or AI-agent cause.",
+  "highlights": [
+    "Email and connected services were disrupted",
+    "Failed health checks reduced available capacity",
+    "Some restarted servers failed again under traffic",
+    "Email timeout was extended to 48 hours",
+    "The article is a dated incident account"
+  ]
+}

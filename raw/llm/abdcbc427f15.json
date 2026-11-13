@@ -1,0 +1,14 @@
+{
+  "id": "abdcbc427f15",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.762875+00:00",
+  "prose": "Isometric SF presents a pixel-art map of the San Francisco Bay Area. The accessible page mainly supplies loading text and credits, identifying map, imagery, land-cover and elevation sources rather than explaining the implementation.\n\nIts tile artwork is offered for noncommercial reuse with attribution under CC BY-NC 4.0; the credited underlying datasets have their own terms. The extracted page alone does not establish how well the interactive map works.",
+  "highlights": [
+    "Bay Area is rendered in pixel art",
+    "Justin Chavez is credited for tiles",
+    "Noncommercial reuse requires attribution",
+    "Underlying data has separate licenses",
+    "Interactive behavior was not evaluated"
+  ]
+}

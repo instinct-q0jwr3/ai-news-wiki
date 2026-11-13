@@ -1,0 +1,14 @@
+{
+  "id": "bd99696ef3c9",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.763162+00:00",
+  "prose": "llmtee is a self-hosted proxy that records LLM requests with token usage, cost and latency while forwarding responses. Its documentation describes provider-key forwarding or proxy-specific keys, per-key spending limits, and support for OpenAI, Anthropic and compatible APIs.\n\nThe operational tradeoffs are explicit: the request that exceeds a budget can still finish, a failed proxy can interrupt calls, and slow storage can cause logs to be dropped. Request bodies are logged by default with 30-day retention, so privacy and redaction settings matter as much as the cost dashboard.",
+  "highlights": [
+    "Proxy records usage and latency",
+    "Budgets are checked before forwarding",
+    "A crossing request can overshoot its limit",
+    "Body logging is enabled by default",
+    "Proxy availability affects application calls"
+  ]
+}

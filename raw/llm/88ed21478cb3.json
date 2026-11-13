@@ -1,0 +1,14 @@
+{
+  "id": "88ed21478cb3",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.819628+00:00",
+  "prose": "A Hacker News poster asks how people preserve prior decisions and client rules across AI work sessions without mixing unrelated projects. Replies describe repository-local decision records, status documents and specification-driven workflows.\n\nThe thread is a small set of practices rather than a validated solution. Its central problem is continuity with separation: retaining useful project context while avoiding the accidental reuse of one client’s assumptions in another’s work.",
+  "highlights": [
+    "Question concerns cross-session context",
+    "Client separation is a distinct requirement",
+    "Replies suggest decision and status records",
+    "Repository-local files are one approach",
+    "No measured effectiveness is supplied"
+  ]
+}

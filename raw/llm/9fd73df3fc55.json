@@ -1,0 +1,14 @@
+{
+  "id": "9fd73df3fc55",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.818632+00:00",
+  "prose": "This Hacker News question asks readers to describe their AI subscriptions, API or local models, coding interfaces and multi-agent tools. The goal is a snapshot of changing workflows and the reasons people switch between tools.\n\nResponses are self-selected anecdotes, not a representative adoption survey or a controlled comparison of model quality. The useful distinction is between model access, the interface used to work with it and any orchestration layered above.",
+  "highlights": [
+    "Question gathers workflow snapshots",
+    "Subscriptions and API use are separate",
+    "Interfaces and models are different choices",
+    "Orchestration is another layer",
+    "Replies are not representative statistics"
+  ]
+}

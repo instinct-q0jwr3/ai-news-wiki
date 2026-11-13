@@ -1,0 +1,14 @@
+{
+  "id": "874b8bb8bd8b",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.763532+00:00",
+  "prose": "Cory Doctorow uses the Microsoft outage to argue that concentration creates systemic dependence without sufficient accountability. He first compares the practical enforceability of copyright and antitrust rules, then argues that fact-intensive legal hurdles weakened competition enforcement.\n\nThe essay favors structural remedies and treats Microsoft’s scale as a reliability and governance problem. That is a policy argument about incentives, not an incident report establishing which code or operational change caused the outage.",
+  "highlights": [
+    "Essay links concentration and infrastructure dependence",
+    "Legal enforceability is its organizing theme",
+    "Copyright supplies a comparison for antitrust",
+    "Structural remedies are advocated",
+    "Technical outage causation is not established"
+  ]
+}

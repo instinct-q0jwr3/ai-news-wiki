@@ -1,0 +1,14 @@
+{
+  "id": "2a030159a180",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.818338+00:00",
+  "prose": "A Hacker News discussion warns that a paid personal Gemini subscription does not itself exclude saved conversations from model improvement. The poster quotes Google help pages about activity settings, human review and retention, distinguishing subscription payment from privacy controls.\n\nThis entry summarizes the discussion rather than independently rechecking the linked policies. Workspace terms, temporary sessions and settings-dependent retention should not be collapsed into a blanket statement about all Gemini accounts.",
+  "highlights": [
+    "Thread focuses on personal accounts",
+    "Payment differs from a training opt-out",
+    "Poster cites Google help pages",
+    "Activity settings affect the claim",
+    "Other account types may have different terms"
+  ]
+}

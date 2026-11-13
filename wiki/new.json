@@ -1,53 +1,35 @@
 {
- "generated_at": "2026-11-13T15:37:38+00:00",
+ "generated_at": "2026-11-13T21:38:05+00:00",
  "stories": [
   {
-   "id": "d5626f1d7d9c",
-   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "id": "de3c451fea7e",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "source": "Hacker News",
-   "url": "https://status.claude.com/incidents/nn11wk485zfn"
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
   },
   {
-   "id": "1cab81adaafa",
-   "title": "Claude Is Down",
+   "id": "7f70cb14d7fc",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
    "source": "Hacker News",
-   "url": "https://status.claude.com/history"
+   "url": "https://text.npr.org/nx-s1-6029408"
   },
   {
-   "id": "c8841860f56a",
-   "title": "AI Is Destroying the Trust Between Writers and Readers",
+   "id": "3d81fe77dbe3",
+   "title": "OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics",
+   "source": "Techmeme",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+  },
+  {
+   "id": "f73d75f8454a",
+   "title": "No AI Slop: A Manifesto",
    "source": "Hacker News",
-   "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+   "url": "https://www.slopmanifesto.com/"
   },
   {
-   "id": "fb3ce6417bb3",
-   "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+   "id": "abdcbc427f15",
+   "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
    "source": "Hacker News",
-   "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11"
-  },
-  {
-   "id": "bdd1b3766981",
-   "title": "AI agents have a big problem: Nobody wants to let them in",
-   "source": "Hacker News",
-   "url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html"
-  },
-  {
-   "id": "6ced008ce44e",
-   "title": "Operate Claude Managed Agents inside your security perimeter",
-   "source": "TLDR AI",
-   "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
-  },
-  {
-   "id": "77ac72a815b6",
-   "title": "Orienting to 1 year AGI timelines",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"
-  },
-  {
-   "id": "b29d8c222803",
-   "title": "NYT: ‘Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew’",
-   "source": "Daring Fireball",
-   "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html?unlocked_article_code=1.QFE.hj_X.iLppRX0Ec_Jj"
+   "url": "https://isometricsf.com/"
   },
   {
    "id": "ba1f8262f563",
@@ -56,94 +38,106 @@
    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider"
   },
   {
-   "id": "4ff39376cff3",
-   "title": "A review of Chinese contracts, disclosures, and other documents identifies $3.2B+ in compute projects built or planned around Nvidia GPUs restricted by the US",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/"
-  },
-  {
-   "id": "9910e58dd939",
-   "title": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production",
-   "source": "Techmeme",
-   "url": "http://www.eetimes.com/"
-  },
-  {
-   "id": "a76c0fbc372a",
-   "title": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
-  },
-  {
-   "id": "b13363b1a274",
-   "title": "SpaceX laid off ~60 Grok Imagine staffers in the past week, leaving a handful to keep the product alive, as it prioritizes AI coding tools and Grok Bot",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team"
-  },
-  {
-   "id": "371be5761ad6",
-   "title": "Jensen Huang's biographer says there was a culture of omertà and deference towards Huang inside Nvidia that enabled him to \"be his worst self\"",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html?unlocked_article_code=1.P1E.6bW-.jsvT3PNHnXvZ&smid=nytcore-ios-share"
-  },
-  {
-   "id": "05cb502c3de6",
-   "title": "Fast by Default: Compile-Time Heuristics for Helion Kernels",
-   "source": "TLDR AI",
-   "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/"
-  },
-  {
-   "id": "03f3a83e775b",
-   "title": "Everyone is learning the wrong lesson from Hugging Face",
-   "source": "TLDR AI",
-   "url": "https://blog.karthiktadepalli.com/p/hugging-face"
-  },
-  {
-   "id": "d56f493eba58",
-   "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
-  },
-  {
-   "id": "f2060cfe3de9",
-   "title": "Replit Agent can now buy for your business and help you reach customers",
-   "source": "TLDR AI",
-   "url": "https://replit.com/blog/replit-agent-ads-commerce"
-  },
-  {
-   "id": "b422c250c8a5",
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "id": "bf6c9d1eecfc",
+   "title": "Are we just going to ignore that books are destroyed for AI?",
    "source": "Hacker News",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics"
+   "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/"
   },
   {
-   "id": "cd621006b922",
-   "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
-   "source": "TLDR AI",
-   "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/"
+   "id": "bd99696ef3c9",
+   "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
+   "source": "Hacker News",
+   "url": "https://github.com/garritfra/llmtee"
   },
   {
-   "id": "5bf83e4c97b9",
-   "title": "LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed",
-   "source": "TLDR AI",
-   "url": "https://www.liquid.ai/blog/liquidcodec"
+   "id": "e74b217e6f25",
+   "title": "Beating benchmarks by weight-space optimizing decision models with DSPy",
+   "source": "Hacker News",
+   "url": "https://www.cmpnd.ai/blog/weight-space-programming-dspy.html"
   },
   {
-   "id": "24b5e587babc",
-   "title": "Use Claude Meetings",
-   "source": "TLDR AI",
-   "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings"
+   "id": "3b05dab78341",
+   "title": "The avalanche that hit math is coming for AI development",
+   "source": "Dwarkesh Podcast",
+   "url": "https://www.dwarkesh.com/p/rsi"
   },
   {
-   "id": "eca128a725d0",
-   "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic",
-   "source": "TLDR AI",
-   "url": "https://nathan.rs/posts/detllm/"
+   "id": "2a1f10146f16",
+   "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's \"deepest business dilemma\" due to the unpredictability of revenue",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma"
   },
   {
-   "id": "f61b5b5c5eec",
-   "title": "NVIDIA Announces CEO Transition",
-   "source": "TLDR AI",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+   "id": "874b8bb8bd8b",
+   "title": "Pluralistic: I told you so (13 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/13/outlookpocalypse/"
+  },
+  {
+   "id": "36531f968c74",
+   "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
+  },
+  {
+   "id": "1045b3699557",
+   "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+   "source": "Techmeme",
+   "url": "https://x.com/microsoft"
+  },
+  {
+   "id": "c9345d44e6b1",
+   "title": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+  },
+  {
+   "id": "6b19bb55c330",
+   "title": "Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
+  },
+  {
+   "id": "6cf5b3e17014",
+   "title": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html"
+  },
+  {
+   "id": "79da1b1b81ca",
+   "title": "Inside Jensen Huang’s Final Hours as the CEO of Nvidia",
+   "source": "Daring Fireball",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting"
+  },
+  {
+   "id": "69227978e4a7",
+   "title": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week",
+   "source": "Techmeme",
+   "url": "https://www.nbcnews.com/world/asia/jensen-huang-nvidia-china-ai-chips-rcna608952"
+  },
+  {
+   "id": "e174f3f00e9d",
+   "title": "The great Generative AI unraveling",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/the-great-generative-ai-unraveling"
+  },
+  {
+   "id": "aaa7b0a6b305",
+   "title": "David Sacks Is Fucked Too",
+   "source": "Daring Fireball",
+   "url": "https://x.com/DavidSacks/status/2121070881258504395"
+  },
+  {
+   "id": "7f873adcbe6a",
+   "title": "Microsoft, and Its Customers, Are Suffering a Global Cloud Outage",
+   "source": "Daring Fireball",
+   "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+  },
+  {
+   "id": "9fe06f5afd01",
+   "title": "Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’",
+   "source": "Daring Fireball",
+   "url": "https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/"
   }
  ]
 }

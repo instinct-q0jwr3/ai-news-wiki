@@ -1,0 +1,14 @@
+{
+  "id": "239735a18f87",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.818527+00:00",
+  "prose": "Kino’s launch post describes a collaborative video editor and media store in which timeline edits, motion graphics and comments are represented as code. The founders position that shared representation as a way for people and coding agents to work on the same video without repeatedly translating visual changes into disconnected instructions.\n\nThe post describes Remotion-based editing and concurrent work on a launch video. These are founder demonstrations and product claims, not independent evidence that automated edits preserve creative intent or work equally well on every production.",
+  "highlights": [
+    "Code represents timeline and graphics edits",
+    "Shared media supports people and agents",
+    "Comments sit alongside the editing context",
+    "Founders describe concurrent agent work",
+    "Production reliability is not independently tested"
+  ]
+}

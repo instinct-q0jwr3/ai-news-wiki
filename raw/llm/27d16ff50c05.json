@@ -1,0 +1,14 @@
+{
+  "id": "27d16ff50c05",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.818125+00:00",
+  "prose": "A Hacker News poster says colleagues found Codex data-sharing settings enabled after previously switching them off. The thread asks whether this is isolated and links earlier discussions and account controls.\n\nThis is a user report, not a confirmed provider incident or evidence that every account changed. Comments and suggested workarounds do not establish a root cause, contractual exception or the actual training use of those conversations.",
+  "highlights": [
+    "User reports an unexpected setting change",
+    "Scope is unknown",
+    "Thread links earlier reports",
+    "Comments are not provider confirmation",
+    "Actual training use is not established"
+  ]
+}

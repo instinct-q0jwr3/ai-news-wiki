@@ -1,0 +1,14 @@
+{
+  "id": "e74b217e6f25",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.763269+00:00",
+  "prose": "Compound introduces dspy-wsp, an experimental DSPy optimizer in which a writer model inspects and edits another model’s weights. The published experiment gives the writer a fixed forward-pass budget, then evaluates edited decision models on held-out Typed Decisions cases.\n\nThe authors report improvements across five models, with larger gains when weight editing is combined with threshold refitting. These are results on one reported benchmark and a small set of model families; the post warns that text-generating model runs can be costly and unproductive.",
+  "highlights": [
+    "Writer model directly edits model weights",
+    "Forward-pass budget limits each search",
+    "Five decision models were tested",
+    "Evaluation uses 400 held-out cases",
+    "The release remains experimental"
+  ]
+}

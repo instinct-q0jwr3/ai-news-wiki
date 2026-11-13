@@ -1,0 +1,14 @@
+{
+  "id": "33f680118998",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.819897+00:00",
+  "prose": "DBDelve’s creator presents a Rust and GPUI database client focused on responsiveness, keyboard control and a simpler interface. The launch post compares launch time, memory and query rendering with DBeaver on a specified Mac and Postgres dataset.\n\nThe author’s benchmark favors DBDelve but includes an unusually large whole-table load and manually adjusted DBeaver memory limits. Those conditions matter: the figures are a reproducible-looking self-report, not an independent result for every database or everyday workflow.",
+  "highlights": [
+    "Client uses Rust and GPUI",
+    "Keyboard control and project grouping are described",
+    "Author reports lower resource use in one comparison",
+    "Large-table test is not a normal workload",
+    "Independent replication is not provided"
+  ]
+}

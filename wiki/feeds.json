@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1251,
+  "stories": 1258,
   "last": "2026-11-13"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1239,
+  "stories": 1247,
   "last": "2026-11-13"
  },
  {
@@ -38,13 +38,13 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 58,
-  "last": "2026-11-12"
+  "stories": 59,
+  "last": "2026-11-13"
  },
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 52,
+  "stories": 56,
   "last": "2026-11-13"
  },
  {
@@ -60,16 +60,16 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
   "stories": 27,
   "last": "2026-11-13"
  },
  {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 26,
-  "last": "2026-11-12"
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 27,
+  "last": "2026-11-13"
  },
  {
   "name": "Works on My Machine",
@@ -104,8 +104,8 @@
  {
   "name": "Dwarkesh Podcast",
   "url": "https://www.dwarkesh.com/feed",
-  "stories": 10,
-  "last": "2026-09-25"
+  "stories": 11,
+  "last": "2026-11-13"
  },
  {
   "name": "Gwern",

@@ -1,0 +1,14 @@
+{
+  "id": "21f7ee94d645",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.818236+00:00",
+  "prose": "A Hacker News poster reproduces a message presented as a GitBook incident update. The quoted notice describes compromised infrastructure credentials, service isolation, credential replacement and possible access to integration secrets and assistant questions.\n\nThe available source is a customer’s pasted message, not a directly authenticated company bulletin. Its account of an AI-assisted attack and the affected data should remain attributed; it does not establish that every GitBook customer or document was affected.",
+  "highlights": [
+    "Source is a pasted customer notice",
+    "Credential exposure is alleged",
+    "Services were reportedly isolated and restored",
+    "Integration tokens and questions are named",
+    "Universal customer impact is not established"
+  ]
+}

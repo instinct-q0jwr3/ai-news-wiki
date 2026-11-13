@@ -1,0 +1,14 @@
+{
+  "id": "8158243e16c0",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.819991+00:00",
+  "prose": "This Hacker News discussion asks how to evaluate reusable instructions used by AI coding assistants. A respondent contrasts quick self-evaluation with building a benchmark from real work, noting that the value of testing grows with deployment scale and that results can change between models.\n\nThe thread offers evaluation ideas rather than a proven universal test. Checking the final artifact and checking a change in an assistant’s behavior are different measurement problems.",
+  "highlights": [
+    "Discussion concerns reusable task instructions",
+    "Real-work benchmarks are proposed",
+    "Quick self-evaluation is described as limited",
+    "Model changes can alter behavior",
+    "Artifact quality and behavior need different tests"
+  ]
+}

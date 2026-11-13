@@ -1,0 +1,14 @@
+{
+  "id": "5b64a48e4d2b",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.820301+00:00",
+  "prose": "A Hacker News poster describes AI-written software becoming harder to reason about as features multiply and local fixes miss system-wide interactions. Replies suggest keeping design records current, planning larger changes and adding independent review or audits.\n\nThese are practitioners’ proposed controls rather than measured guarantees. The underlying problem is that generating code faster does not automatically preserve an explicit model of product behavior or reduce the work of reviewing edge cases.",
+  "highlights": [
+    "Poster reports complexity and review difficulty",
+    "Local fixes can miss broader behavior",
+    "Replies favor maintained design records",
+    "Planning and review are suggested",
+    "Advice is anecdotal rather than benchmarked"
+  ]
+}

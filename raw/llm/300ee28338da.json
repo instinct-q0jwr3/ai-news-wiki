@@ -1,0 +1,14 @@
+{
+  "id": "300ee28338da",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.820118+00:00",
+  "prose": "A Hacker News user reproduces a message presented as a Notion security notice about a Fireworks AI vendor incident. The quoted text says some chat transcripts may have been exposed without user or workspace labels and without tool-result content, while Notion stopped the affected connections.\n\nThe available source is a pasted email, not direct confirmation from the vendor. Lack of attached account labels does not guarantee anonymity if a conversation itself contains identifying information, and the account should not be generalized to all Notion data.",
+  "highlights": [
+    "Source is a user-pasted notice",
+    "Possible exposure concerns some AI chats",
+    "Quoted notice excludes tool results",
+    "Connections were reportedly shut down",
+    "Transcript content can still identify people"
+  ]
+}

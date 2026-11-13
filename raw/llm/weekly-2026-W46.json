@@ -1,855 +1,919 @@
 {
- "id": "weekly-2026-W46",
- "week": "2026-W46",
- "schema": 3,
- "model": "agent-pass",
- "lead": [
-  "A blogger argues the AI bubble may not exist while US professional services add 70K jobs, the most since 2022. Amazon prepares a new home robot, Tencent's AI chief warns on bio risk, and Stanford rebuilds its AI-engineering course around open-source maintainers."
- ],
- "sections": [
-  {
-   "title": "The bubble question",
-   "intro": "Whether the spending is a bubble or a one-off build-out.",
-   "stories": [
-    "44cbd77788b9"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The labor ledger",
-   "intro": "AI-exposed white-collar hiring rises.",
-   "stories": [
-    "25b82f76032b"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Teaching the agent era",
-   "intro": "What engineers should learn when agents do the homework.",
-   "stories": [
-    "a39b96d44e86",
-    "39e4bee26d00",
-    "9a6dba4dd2e4"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The home robot returns",
-   "intro": "Amazon tries again after Astro.",
-   "stories": [
-    "317fa585a786"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The bio threshold",
-   "intro": "A Tencent AI chief on bio and cyber risk.",
-   "stories": [
-    "f0a7d6e1f011"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Safety institute politics",
-   "intro": "Who CAISSI answers to.",
-   "stories": [
-    "02a3dd723830",
-    "2144adb0bc3e"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The workbench",
-   "intro": "Hands-on benchmarks.",
-   "stories": [
-    "5f9c9c54ca7d",
-    "2f5838627a2c",
-    "8878da69c17a",
-    "685570544cf8",
-    "15b43f2ededd",
-    "540733f9ba79",
-    "7b93e0d31c62",
-    "27e698346598",
-    "5eeb5e17aa05",
-    "bac8a465e0bf",
-    "12f752b5d6d1",
-    "34ccb02371fc",
-    "9075c3b07c9a",
-    "3f3d74e1e0fe",
-    "811b2111fab9",
-    "19d70b954664",
-    "73d96d7b787f",
-    "260fd1a8943d",
-    "2686d8a5eca7",
-    "2078b6653145",
-    "8f5a4dccb729",
-    "47e6095210fd",
-    "1f69285c7e25",
-    "bf362c095434",
-    "cf09809a4636",
-    "642e03ec2169",
-    "6af95d23cd39",
-    "238fd8b47389",
-    "012e1cb58a00",
-    "f87d05e1c7db",
-    "f60cf626dfb1",
-    "90f104d585e0",
-    "33e776a86c60",
-    "64c1befc5577",
-    "a7816a45cd45",
-    "22c2a240dca6",
-    "70a7ad51fa1e"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The budget squeeze",
-   "intro": "AI spending meets limits at big firms and small vendors.",
-   "stories": [
-    "65a3508d35d2",
-    "88a3bdeb6a3a",
-    "d1715b49de79"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Nvidia's founder problem",
-   "intro": "A scandal around the chip maker's CEO.",
-   "stories": [
-    "905ff702fd9a",
-    "cfa51e1eaf8b"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Code, licenses and security",
-   "intro": "Open source and security adapt to AI.",
-   "stories": [
-    "6ee4744c6df9",
-    "b8770ac6b953",
-    "bd049c9a3ec5"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Devices",
-   "intro": "On-device AI and its memory cost.",
-   "stories": [
-    "184470a1e182"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Self-improvement and the upside",
-   "intro": "Research on agents that improve themselves, and the open question of the good outcome.",
-   "stories": [
-    "fdd6994198d0",
-    "e6d1b6a22e01",
-    "6f4c8689fa29",
-    "87e46aa34127",
-    "4263264ef4f5",
-    "005c25d0ffbc"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Money at the frontier",
-   "intro": "Funding, valuations and chips.",
-   "stories": [
-    "6bd565322baf",
-    "0678ae57ae1d",
-    "9973178dd326",
-    "a1591d57022a",
-    "869e73769c27",
-    "da428812d2e1",
-    "98b225cc6921",
-    "080bd76f09ff",
-    "2d81479e8c4c",
-    "87078535854d",
-    "a41e6cb2bb79",
-    "8fdb3e7dc10d",
-    "bddc47fd394c",
-    "00bb4fcc122b",
-    "e540a96fb665",
-    "722ef6da7de0"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Labs and lab science",
-   "intro": "",
-   "stories": [
-    "085ef46e57ce"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Backlash and guardrails",
-   "intro": "Data-center protests, votes and teen protections.",
-   "stories": [
-    "1f902f3e8d24",
-    "5f4c02446a81",
-    "1186645528c9"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Consumer products",
-   "intro": "New apps from Meta and Medium.",
-   "stories": [
-    "196a1d936873",
-    "78dd5f12e591",
-    "9429f0750213",
-    "ac8f26a2b5fd",
-    "b6968d0f1674",
-    "1bc7fab9af70",
-    "3b050ca74aa0"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Fable and Mythos 5.2",
-   "intro": "Anthropic's new flagship pair, pricing, rating and reactions.",
-   "stories": [
-    "8d6cdd8a2ba8",
-    "21abefb61480",
-    "99c430ac4248",
-    "4b727d52f659",
-    "b867559fa5b7",
-    "c9802adecbe5",
-    "cae903308b16"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Meta's small model",
-   "intro": "",
-   "stories": [
-    "9bc9cbab3764",
-    "754c2b9d5225"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Data and local inference",
-   "intro": "What labs buy, and running big models on small machines.",
-   "stories": [
-    "3974dfffaef0",
-    "4ff9f40f21b4",
-    "521d8c2fabfd"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Privacy and security",
-   "intro": "",
-   "stories": [
-    "c6f0f8fc0a27",
-    "879a692d0d5a",
-    "559fc24f9352"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Politics and rules",
-   "intro": "",
-   "stories": [
-    "29089a1b0253",
-    "8cfb3cc1f43f"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Culture and industry",
-   "intro": "",
-   "stories": [
-    "560eac1bd2d3",
-    "38592ea82818",
-    "ad6200e8ae53",
-    "c6f3b0ce43a9",
-    "96903253fbde",
-    "b28e2720e504",
-    "c20bbfe497c7",
-    "6aa2c0dacfe9"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Silicon and platforms",
-   "intro": "Chips, usage pricing and supply chain.",
-   "stories": [
-    "52813389f128",
-    "90585a01d35a",
-    "e52e07e84e30",
-    "2b89f7041b71",
-    "0293decf97a6",
-    "524d8c32e888"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Anthropic's money",
-   "intro": "",
-   "stories": [
-    "72fc9a3a206f"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Fable 5.2 aftermath",
-   "intro": "Pricing, benchmarks and prompting notes.",
-   "stories": [
-    "2bd2335b715f",
-    "e4ec8085ed7f",
-    "feb145172e7e",
-    "459fd055a776"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Credit stress and breaches",
-   "intro": "Debt markets and a vendor breach.",
-   "stories": [
-    "dc722ca92058",
-    "26f1e57f88f2",
-    "55d134e126ff"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Chips, China and rules",
-   "intro": "Export controls, open weights and regulation.",
-   "stories": [
-    "bd818d9c44f8",
-    "0803a85de399",
-    "e4144c90fe90",
-    "b268f1f48396",
-    "042749977b3a",
-    "78c13312ffa8",
-    "4f3118d4d346",
-    "03394bddf01f",
-    "c38b6e54d060",
-    "ced5fa009e55",
-    "61a1c62bf3d2"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Anthropic goes public",
-   "intro": "The roadshow, the valuation and the bill.",
-   "stories": [
-    "f740b6a12a92",
-    "cd258610dfde",
-    "9a7aed8771d3",
-    "30ace3924166",
-    "a32700385ee6",
-    "def03cc7a3f7",
-    "af14c362ae81",
-    "c11fc025b66f",
-    "dd042903c4f4",
-    "cbf877078895",
-    "1cb50a60ae85",
-    "dae20a7bf719",
-    "4dd3b427dce2",
-    "6f6be59da147",
-    "e4492896e795"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Acceleration watch",
-   "intro": "How fast AI R&D is moving.",
-   "stories": [
-    "262f2c15d3eb",
-    "a91aa38365ec",
-    "8e4f66d0a1f4",
-    "0e87ca580dfa",
-    "2ebd1f373d4b",
-    "320a21c57274",
-    "6d873daba67e"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Robots and startups",
-   "intro": "",
-   "stories": [
-    "4d5c3aef8b32",
-    "a6cd34361212",
-    "d47a957d7a03",
-    "985a84cadfea",
-    "c8a9310d3655"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Gemini 4 Carbon",
-   "intro": "Google's strongest model opens to everyone.",
-   "stories": [
-    "c01367ae4cdf",
-    "5e7293202f47",
-    "a9fb39ab6289"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Agents as the front door",
-   "intro": "Business agents, AEO and agent-built products.",
-   "stories": [
-    "3cc59c98e340",
-    "3efa6bf60765",
-    "5726ee544e42",
-    "2e16853cced7"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Power, work and society",
-   "intro": "Surveillance doctrine, longer workdays and fiction of the automated life.",
-   "stories": [
-    "d20cd014be72",
-    "6d3d6b0c54e7",
-    "1196fe7a83e4",
-    "beb1de4c25e6",
-    "0f4126229438"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The Huang affair",
-   "intro": "",
-   "stories": [
-    "5c56a9bb00e1",
-    "34461c6e863a"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Claims and their evidence",
-   "intro": "Glasswing's disclosure record and a skeptical look at AI labor.",
-   "stories": [
-    "5ff3b52d9288",
-    "290be871acb4"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Research notes",
-   "intro": "",
-   "stories": [
-    "e5f3349c6119",
-    "e50fb0dccd83",
-    "f048e7cee21d",
-    "9243d5322ecd",
-    "ec96e239b509"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Audiences and media",
-   "intro": "",
-   "stories": [
-    "e524c2b03297",
-    "301bdf7d96d8",
-    "2cb97390eef3"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Agents everywhere, for better and worse",
-   "intro": "Discovery, exposure and delegation.",
-   "stories": [
-    "c68e175bb98f",
-    "ca07f4d12df7",
-    "2d9008788ca1",
-    "f3bd3da5c8ba",
-    "a5e2ded21c82"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Decisions without a conversation",
-   "intro": "Google turns bounded choices into a separate low-cost API.",
-   "stories": [
-    "a109f6614bec",
-    "89317bc923ae"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Testing the cloud on a laptop",
-   "intro": "AWS puts simulation and automated acceptance tests at the center of agent-built software.",
-   "stories": [
-    "8579dc601fe5",
-    "b6f5e5908a72",
-    "8a6895a96349",
-    "30b45717bc2e"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Who controls an agent",
-   "intro": "A booking restriction, weight-integrity research and a credential fix expose distinct control boundaries.",
-   "stories": [
-    "548a9fd79961",
-    "514817c9761d",
-    "1fe88d4c17ca",
-    "c9638612d199",
-    "4640c9bdb0cf",
-    "e43fc683b6c2"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Smaller tools, explicit state",
-   "intro": "Local meeting notes, editable art and shared data formats favor inspectable building blocks.",
-   "stories": [
-    "0046b1317a1b",
-    "d03064ebefc7",
-    "67d1182fd0b9",
-    "9096c97418f5",
-    "8e28f19c7038",
-    "2f42804a7653"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Risk beyond the benchmark",
-   "intro": "Research acceleration, university assessment and retirement exposure reach different institutions.",
-   "stories": [
-    "0ace9d6868d1",
-    "f703eb38165b",
-    "eb87f68845c4",
-    "8c43536bc926",
-    "f59fc7b65017",
-    "a93de5c2358d"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Editing the thinking loop",
-   "intro": "A weight-editing experiment separates benchmark gains from changes to reasoning habits.",
-   "stories": [
-    "66f598021968"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Financing and chip access",
-   "intro": "Reported borrowing and export-rule plans remain provisional.",
-   "stories": [
-    "3dd30938a327",
-    "f83aff32b504",
-    "1c78c3d602dd"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "A headline without a record",
-   "intro": "The court-auction detention claim remains unverified beyond its submission title.",
-   "stories": [
-    "b98c1ba6c330"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Choices become interface building blocks",
-   "intro": "Decision models and native interface protocols divide work between models and application code.",
-   "stories": [
-    "3a513fe51a48",
-    "4191baeb81a3",
-    "1151d6e29527"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Capital and control of compute",
-   "intro": "Reported robotics investment and pressure over chip access.",
-   "stories": [
-    "faa4350dce93",
-    "e010e5304e43",
-    "1fa4906d24ee"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Testing a biological warning system",
-   "intro": "An offline model proposes threat scores, with validation still in progress.",
-   "stories": [
-    "8b7845dcb3cc"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Independence in software and investment",
-   "intro": "A self-contained CMS and an argument for local investor confidence.",
-   "stories": [
-    "11435efeaec8",
-    "d505c184e531"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Nvidia after its founder",
-   "intro": "Reports and commentary examine governance and concentrated financial dependencies.",
-   "stories": [
-    "5388de97116b",
-    "0033043fd563",
-    "153ed86fb94e",
-    "02c6f1358509",
-    "989f8600b618",
-    "1c2ad10e4833"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Research beyond visible words",
-   "intro": "Cell-specific genetics, filler-token computation and derived kernels.",
-   "stories": [
-    "497d6097ca0a",
-    "01062ca44206",
-    "2a957ab8761c"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The expanding agent interface",
-   "intro": "New sharing, plugin and planning surfaces meet questions about permissions and privacy.",
-   "stories": [
-    "a9e5807eaaa4",
-    "f4e4bdbff5fc",
-    "0f2babdfb3a1",
-    "d289fb386383",
-    "71e38ebafb71",
-    "61abb2db4573",
-    "34200c081e58",
-    "fd63b0cebf65",
-    "0e9058705a4a"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "From simulated worlds to machines",
-   "intro": "Open robot weights, spatial maps and generative discovery.",
-   "stories": [
-    "d6ca186f6a3e",
-    "2b1471cfe07a",
-    "91d3058327f2",
-    "0f79b16bb331",
-    "bb3edd6997af"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Capital and access",
-   "intro": "Offering information, reported financing and an argument about professional networks.",
-   "stories": [
-    "67259592b755",
-    "6c81daed34bd",
-    "74c8479c207d",
-    "5487ec63e396",
-    "8487dc8d8672"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Hydrogen and the moving model boundary",
-   "intro": "Google adds an execution-oriented model and routing that can change mid-task.",
-   "stories": [
-    "4de20046fdd1",
-    "07f0f76317e0",
-    "e89bdd7fc00c"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Tools that keep structure",
-   "intro": "Managed runs, connected facts and spatial alignment expose different building blocks.",
-   "stories": [
-    "f1ef6ed0533c",
-    "b2192f634b48",
-    "bfdffa2eec0d",
-    "b7a5b6b010e7"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The transition continues",
-   "intro": "Testimony plans, open-model commitments and leadership commentary.",
-   "stories": [
-    "78f353cacbd6",
-    "285fe12a3d3e",
-    "a2e8c060c313",
-    "812051d2d59c",
-    "b9bba35d1dad"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Trust in the surrounding system",
-   "intro": "Phishing, wearable privacy and infrastructure concerns.",
-   "stories": [
-    "b0457d31709b",
-    "5d298fd470c9",
-    "bdb0f1228954"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Promises and their economics",
-   "intro": "Proposed campuses, investor demand and a critique of robot labor.",
-   "stories": [
-    "4e3e490a963c",
-    "9c9c6664c5af",
-    "7dbb4bd8ddc1",
-    "6c8da4ddbb08"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "What a hardware fingerprint can prove",
-   "intro": "Checkpoint forensics supports attribution while leaving location and legality unresolved.",
-   "stories": [
-    "b422c250c8a5",
-    "be52945adb18",
-    "c248c776b06f",
-    "04d0c53832db"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Local models and reproducible systems",
-   "intro": "A local model release, robot replay and a small chat protocol.",
-   "stories": [
-    "e4f558637e85",
-    "65d05397b7c8",
-    "ff542347845b",
-    "1a1e98749a2c"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Institutions choose their boundaries",
-   "intro": "School search, app review and deepfake fraud reporting.",
-   "stories": [
-    "40dd5ff21e23",
-    "c54d7e2053b2",
-    "121c570be54d"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Revenue and proposed commitments",
-   "intro": "Reported results, new funding and negotiations over a financing backstop.",
-   "stories": [
-    "3ea58dd4784a",
-    "9286a008a2d3",
-    "bf72530cec31"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Paying and acting one request at a time",
-   "intro": "Search payments and business calls add operational boundaries to agent capabilities.",
-   "stories": [
-    "c5e34008fbd2",
-    "a76c0fbc372a"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Security claims need a precise perimeter",
-   "intro": "A provider-linked data exposure and new automated defense products.",
-   "stories": [
-    "eced435fc996",
-    "713573c43dba"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Rebuilding familiar software",
-   "intro": "An open-tool ambition and a pixel-rendered terminal browser.",
-   "stories": [
-    "24bcbf95456a",
-    "2c35a7e0fd37"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Funding the next stage",
-   "intro": "Reported rounds and offering plans meet infrastructure funding requirements.",
-   "stories": [
-    "d40f359dcf60",
-    "f04f879a1d88",
-    "32558f54a572"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Taking stock of the transition",
-   "intro": "A news digest and an episode listing frame Nvidia and American AI.",
-   "stories": [
-    "323fcd62827e",
-    "49e260f89d29"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The company statement and the arguments around it",
-   "intro": "Announced governance actions differ from commentary and unresolved allegations.",
-   "stories": [
-    "f61b5b5c5eec",
-    "b29d8c222803",
-    "371be5761ad6",
-    "4ff39376cff3"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Making inference repeatable and fast",
-   "intro": "Integer arithmetic, compile-time settings and streaming audio tackle different bottlenecks.",
-   "stories": [
-    "eca128a725d0",
-    "05cb502c3de6",
-    "5bf83e4c97b9",
-    "9910e58dd939"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Boundaries around capable agents",
-   "intro": "Self-hosting, anomaly monitoring and access restrictions address distinct problems.",
-   "stories": [
-    "6ced008ce44e",
-    "cd621006b922",
-    "03f3a83e775b",
-    "bdd1b3766981"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Approval before the transaction",
-   "intro": "New wallets and business-purchase tools make payment controls explicit.",
-   "stories": [
-    "d56f493eba58",
-    "f2060cfe3de9",
-    "24b5e587babc",
-    "ba1f8262f563"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Incidents, forecasts and trust",
-   "intro": "Resolved service trouble should not remain an outage headline; predictions need attribution.",
-   "stories": [
-    "d5626f1d7d9c",
-    "1cab81adaafa",
-    "c8841860f56a",
-    "fb3ce6417bb3",
-    "77ac72a815b6",
-    "b13363b1a274"
-   ],
-   "concepts": []
-  }
- ]
+  "id": "weekly-2026-W46",
+  "week": "2026-W46",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "A blogger argues the AI bubble may not exist while US professional services add 70K jobs, the most since 2022. Amazon prepares a new home robot, Tencent's AI chief warns on bio risk, and Stanford rebuilds its AI-engineering course around open-source maintainers."
+  ],
+  "sections": [
+    {
+      "title": "The bubble question",
+      "intro": "Whether the spending is a bubble or a one-off build-out.",
+      "stories": [
+        "44cbd77788b9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The labor ledger",
+      "intro": "AI-exposed white-collar hiring rises.",
+      "stories": [
+        "25b82f76032b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Teaching the agent era",
+      "intro": "What engineers should learn when agents do the homework.",
+      "stories": [
+        "a39b96d44e86",
+        "39e4bee26d00",
+        "9a6dba4dd2e4"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The home robot returns",
+      "intro": "Amazon tries again after Astro.",
+      "stories": [
+        "317fa585a786"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The bio threshold",
+      "intro": "A Tencent AI chief on bio and cyber risk.",
+      "stories": [
+        "f0a7d6e1f011"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Safety institute politics",
+      "intro": "Who CAISSI answers to.",
+      "stories": [
+        "02a3dd723830",
+        "2144adb0bc3e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The workbench",
+      "intro": "Hands-on benchmarks.",
+      "stories": [
+        "5f9c9c54ca7d",
+        "2f5838627a2c",
+        "8878da69c17a",
+        "685570544cf8",
+        "15b43f2ededd",
+        "540733f9ba79",
+        "7b93e0d31c62",
+        "27e698346598",
+        "5eeb5e17aa05",
+        "bac8a465e0bf",
+        "12f752b5d6d1",
+        "34ccb02371fc",
+        "9075c3b07c9a",
+        "3f3d74e1e0fe",
+        "811b2111fab9",
+        "19d70b954664",
+        "73d96d7b787f",
+        "260fd1a8943d",
+        "2686d8a5eca7",
+        "2078b6653145",
+        "8f5a4dccb729",
+        "47e6095210fd",
+        "1f69285c7e25",
+        "bf362c095434",
+        "cf09809a4636",
+        "642e03ec2169",
+        "6af95d23cd39",
+        "238fd8b47389",
+        "012e1cb58a00",
+        "f87d05e1c7db",
+        "f60cf626dfb1",
+        "90f104d585e0",
+        "33e776a86c60",
+        "64c1befc5577",
+        "a7816a45cd45",
+        "22c2a240dca6",
+        "70a7ad51fa1e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The budget squeeze",
+      "intro": "AI spending meets limits at big firms and small vendors.",
+      "stories": [
+        "65a3508d35d2",
+        "88a3bdeb6a3a",
+        "d1715b49de79"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Nvidia's founder problem",
+      "intro": "A scandal around the chip maker's CEO.",
+      "stories": [
+        "905ff702fd9a",
+        "cfa51e1eaf8b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Code, licenses and security",
+      "intro": "Open source and security adapt to AI.",
+      "stories": [
+        "6ee4744c6df9",
+        "b8770ac6b953",
+        "bd049c9a3ec5"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Devices",
+      "intro": "On-device AI and its memory cost.",
+      "stories": [
+        "184470a1e182"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Self-improvement and the upside",
+      "intro": "Research on agents that improve themselves, and the open question of the good outcome.",
+      "stories": [
+        "fdd6994198d0",
+        "e6d1b6a22e01",
+        "6f4c8689fa29",
+        "87e46aa34127",
+        "4263264ef4f5",
+        "005c25d0ffbc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Money at the frontier",
+      "intro": "Funding, valuations and chips.",
+      "stories": [
+        "6bd565322baf",
+        "0678ae57ae1d",
+        "9973178dd326",
+        "a1591d57022a",
+        "869e73769c27",
+        "da428812d2e1",
+        "98b225cc6921",
+        "080bd76f09ff",
+        "2d81479e8c4c",
+        "87078535854d",
+        "a41e6cb2bb79",
+        "8fdb3e7dc10d",
+        "bddc47fd394c",
+        "00bb4fcc122b",
+        "e540a96fb665",
+        "722ef6da7de0"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Labs and lab science",
+      "intro": "",
+      "stories": [
+        "085ef46e57ce"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Backlash and guardrails",
+      "intro": "Data-center protests, votes and teen protections.",
+      "stories": [
+        "1f902f3e8d24",
+        "5f4c02446a81",
+        "1186645528c9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Consumer products",
+      "intro": "New apps from Meta and Medium.",
+      "stories": [
+        "196a1d936873",
+        "78dd5f12e591",
+        "9429f0750213",
+        "ac8f26a2b5fd",
+        "b6968d0f1674",
+        "1bc7fab9af70",
+        "3b050ca74aa0"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Fable and Mythos 5.2",
+      "intro": "Anthropic's new flagship pair, pricing, rating and reactions.",
+      "stories": [
+        "8d6cdd8a2ba8",
+        "21abefb61480",
+        "99c430ac4248",
+        "4b727d52f659",
+        "b867559fa5b7",
+        "c9802adecbe5",
+        "cae903308b16"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Meta's small model",
+      "intro": "",
+      "stories": [
+        "9bc9cbab3764",
+        "754c2b9d5225"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Data and local inference",
+      "intro": "What labs buy, and running big models on small machines.",
+      "stories": [
+        "3974dfffaef0",
+        "4ff9f40f21b4",
+        "521d8c2fabfd"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Privacy and security",
+      "intro": "",
+      "stories": [
+        "c6f0f8fc0a27",
+        "879a692d0d5a",
+        "559fc24f9352"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Politics and rules",
+      "intro": "",
+      "stories": [
+        "29089a1b0253",
+        "8cfb3cc1f43f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Culture and industry",
+      "intro": "",
+      "stories": [
+        "560eac1bd2d3",
+        "38592ea82818",
+        "ad6200e8ae53",
+        "c6f3b0ce43a9",
+        "96903253fbde",
+        "b28e2720e504",
+        "c20bbfe497c7",
+        "6aa2c0dacfe9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Silicon and platforms",
+      "intro": "Chips, usage pricing and supply chain.",
+      "stories": [
+        "52813389f128",
+        "90585a01d35a",
+        "e52e07e84e30",
+        "2b89f7041b71",
+        "0293decf97a6",
+        "524d8c32e888"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Anthropic's money",
+      "intro": "",
+      "stories": [
+        "72fc9a3a206f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Fable 5.2 aftermath",
+      "intro": "Pricing, benchmarks and prompting notes.",
+      "stories": [
+        "2bd2335b715f",
+        "e4ec8085ed7f",
+        "feb145172e7e",
+        "459fd055a776"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Credit stress and breaches",
+      "intro": "Debt markets and a vendor breach.",
+      "stories": [
+        "dc722ca92058",
+        "26f1e57f88f2",
+        "55d134e126ff"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Chips, China and rules",
+      "intro": "Export controls, open weights and regulation.",
+      "stories": [
+        "bd818d9c44f8",
+        "0803a85de399",
+        "e4144c90fe90",
+        "b268f1f48396",
+        "042749977b3a",
+        "78c13312ffa8",
+        "4f3118d4d346",
+        "03394bddf01f",
+        "c38b6e54d060",
+        "ced5fa009e55",
+        "61a1c62bf3d2"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Anthropic goes public",
+      "intro": "The roadshow, the valuation and the bill.",
+      "stories": [
+        "f740b6a12a92",
+        "cd258610dfde",
+        "9a7aed8771d3",
+        "30ace3924166",
+        "a32700385ee6",
+        "def03cc7a3f7",
+        "af14c362ae81",
+        "c11fc025b66f",
+        "dd042903c4f4",
+        "cbf877078895",
+        "1cb50a60ae85",
+        "dae20a7bf719",
+        "4dd3b427dce2",
+        "6f6be59da147",
+        "e4492896e795"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Acceleration watch",
+      "intro": "How fast AI R&D is moving.",
+      "stories": [
+        "262f2c15d3eb",
+        "a91aa38365ec",
+        "8e4f66d0a1f4",
+        "0e87ca580dfa",
+        "2ebd1f373d4b",
+        "320a21c57274",
+        "6d873daba67e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robots and startups",
+      "intro": "",
+      "stories": [
+        "4d5c3aef8b32",
+        "a6cd34361212",
+        "d47a957d7a03",
+        "985a84cadfea",
+        "c8a9310d3655"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "intro": "Google's strongest model opens to everyone.",
+      "stories": [
+        "c01367ae4cdf",
+        "5e7293202f47",
+        "a9fb39ab6289"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents as the front door",
+      "intro": "Business agents, AEO and agent-built products.",
+      "stories": [
+        "3cc59c98e340",
+        "3efa6bf60765",
+        "5726ee544e42",
+        "2e16853cced7"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Power, work and society",
+      "intro": "Surveillance doctrine, longer workdays and fiction of the automated life.",
+      "stories": [
+        "d20cd014be72",
+        "6d3d6b0c54e7",
+        "1196fe7a83e4",
+        "beb1de4c25e6",
+        "0f4126229438"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The Huang affair",
+      "intro": "",
+      "stories": [
+        "5c56a9bb00e1",
+        "34461c6e863a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Claims and their evidence",
+      "intro": "Glasswing's disclosure record and a skeptical look at AI labor.",
+      "stories": [
+        "5ff3b52d9288",
+        "290be871acb4"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Research notes",
+      "intro": "",
+      "stories": [
+        "e5f3349c6119",
+        "e50fb0dccd83",
+        "f048e7cee21d",
+        "9243d5322ecd",
+        "ec96e239b509"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Audiences and media",
+      "intro": "",
+      "stories": [
+        "e524c2b03297",
+        "301bdf7d96d8",
+        "2cb97390eef3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents everywhere, for better and worse",
+      "intro": "Discovery, exposure and delegation.",
+      "stories": [
+        "c68e175bb98f",
+        "ca07f4d12df7",
+        "2d9008788ca1",
+        "f3bd3da5c8ba",
+        "a5e2ded21c82"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Decisions without a conversation",
+      "intro": "Google turns bounded choices into a separate low-cost API.",
+      "stories": [
+        "a109f6614bec",
+        "89317bc923ae"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Testing the cloud on a laptop",
+      "intro": "AWS puts simulation and automated acceptance tests at the center of agent-built software.",
+      "stories": [
+        "8579dc601fe5",
+        "b6f5e5908a72",
+        "8a6895a96349",
+        "30b45717bc2e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Who controls an agent",
+      "intro": "A booking restriction, weight-integrity research and a credential fix expose distinct control boundaries.",
+      "stories": [
+        "548a9fd79961",
+        "514817c9761d",
+        "1fe88d4c17ca",
+        "c9638612d199",
+        "4640c9bdb0cf",
+        "e43fc683b6c2"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Smaller tools, explicit state",
+      "intro": "Local meeting notes, editable art and shared data formats favor inspectable building blocks.",
+      "stories": [
+        "0046b1317a1b",
+        "d03064ebefc7",
+        "67d1182fd0b9",
+        "9096c97418f5",
+        "8e28f19c7038",
+        "2f42804a7653"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Risk beyond the benchmark",
+      "intro": "Research acceleration, university assessment and retirement exposure reach different institutions.",
+      "stories": [
+        "0ace9d6868d1",
+        "f703eb38165b",
+        "eb87f68845c4",
+        "8c43536bc926",
+        "f59fc7b65017",
+        "a93de5c2358d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Editing the thinking loop",
+      "intro": "A weight-editing experiment separates benchmark gains from changes to reasoning habits.",
+      "stories": [
+        "66f598021968"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Financing and chip access",
+      "intro": "Reported borrowing and export-rule plans remain provisional.",
+      "stories": [
+        "3dd30938a327",
+        "f83aff32b504",
+        "1c78c3d602dd"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A headline without a record",
+      "intro": "The court-auction detention claim remains unverified beyond its submission title.",
+      "stories": [
+        "b98c1ba6c330"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Choices become interface building blocks",
+      "intro": "Decision models and native interface protocols divide work between models and application code.",
+      "stories": [
+        "3a513fe51a48",
+        "4191baeb81a3",
+        "1151d6e29527"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Capital and control of compute",
+      "intro": "Reported robotics investment and pressure over chip access.",
+      "stories": [
+        "faa4350dce93",
+        "e010e5304e43",
+        "1fa4906d24ee"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Testing a biological warning system",
+      "intro": "An offline model proposes threat scores, with validation still in progress.",
+      "stories": [
+        "8b7845dcb3cc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Independence in software and investment",
+      "intro": "A self-contained CMS and an argument for local investor confidence.",
+      "stories": [
+        "11435efeaec8",
+        "d505c184e531"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Nvidia after its founder",
+      "intro": "Reports and commentary examine governance and concentrated financial dependencies.",
+      "stories": [
+        "5388de97116b",
+        "0033043fd563",
+        "153ed86fb94e",
+        "02c6f1358509",
+        "989f8600b618",
+        "1c2ad10e4833"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Research beyond visible words",
+      "intro": "Cell-specific genetics, filler-token computation and derived kernels.",
+      "stories": [
+        "497d6097ca0a",
+        "01062ca44206",
+        "2a957ab8761c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The expanding agent interface",
+      "intro": "New sharing, plugin and planning surfaces meet questions about permissions and privacy.",
+      "stories": [
+        "a9e5807eaaa4",
+        "f4e4bdbff5fc",
+        "0f2babdfb3a1",
+        "d289fb386383",
+        "71e38ebafb71",
+        "61abb2db4573",
+        "34200c081e58",
+        "fd63b0cebf65",
+        "0e9058705a4a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "From simulated worlds to machines",
+      "intro": "Open robot weights, spatial maps and generative discovery.",
+      "stories": [
+        "d6ca186f6a3e",
+        "2b1471cfe07a",
+        "91d3058327f2",
+        "0f79b16bb331",
+        "bb3edd6997af"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Capital and access",
+      "intro": "Offering information, reported financing and an argument about professional networks.",
+      "stories": [
+        "67259592b755",
+        "6c81daed34bd",
+        "74c8479c207d",
+        "5487ec63e396",
+        "8487dc8d8672"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Hydrogen and the moving model boundary",
+      "intro": "Google adds an execution-oriented model and routing that can change mid-task.",
+      "stories": [
+        "4de20046fdd1",
+        "07f0f76317e0",
+        "e89bdd7fc00c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Tools that keep structure",
+      "intro": "Managed runs, connected facts and spatial alignment expose different building blocks.",
+      "stories": [
+        "f1ef6ed0533c",
+        "b2192f634b48",
+        "bfdffa2eec0d",
+        "b7a5b6b010e7"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The transition continues",
+      "intro": "Testimony plans, open-model commitments and leadership commentary.",
+      "stories": [
+        "78f353cacbd6",
+        "285fe12a3d3e",
+        "a2e8c060c313",
+        "812051d2d59c",
+        "b9bba35d1dad"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Trust in the surrounding system",
+      "intro": "Phishing, wearable privacy and infrastructure concerns.",
+      "stories": [
+        "b0457d31709b",
+        "5d298fd470c9",
+        "bdb0f1228954"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Promises and their economics",
+      "intro": "Proposed campuses, investor demand and a critique of robot labor.",
+      "stories": [
+        "4e3e490a963c",
+        "9c9c6664c5af",
+        "7dbb4bd8ddc1",
+        "6c8da4ddbb08"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "What a hardware fingerprint can prove",
+      "intro": "Checkpoint forensics supports attribution while leaving location and legality unresolved.",
+      "stories": [
+        "b422c250c8a5",
+        "be52945adb18",
+        "c248c776b06f",
+        "04d0c53832db"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Local models and reproducible systems",
+      "intro": "A local model release, robot replay and a small chat protocol.",
+      "stories": [
+        "e4f558637e85",
+        "65d05397b7c8",
+        "ff542347845b",
+        "1a1e98749a2c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Institutions choose their boundaries",
+      "intro": "School search, app review and deepfake fraud reporting.",
+      "stories": [
+        "40dd5ff21e23",
+        "c54d7e2053b2",
+        "121c570be54d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Revenue and proposed commitments",
+      "intro": "Reported results, new funding and negotiations over a financing backstop.",
+      "stories": [
+        "3ea58dd4784a",
+        "9286a008a2d3",
+        "bf72530cec31"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Paying and acting one request at a time",
+      "intro": "Search payments and business calls add operational boundaries to agent capabilities.",
+      "stories": [
+        "c5e34008fbd2",
+        "a76c0fbc372a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Security claims need a precise perimeter",
+      "intro": "A provider-linked data exposure and new automated defense products.",
+      "stories": [
+        "eced435fc996",
+        "713573c43dba"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Rebuilding familiar software",
+      "intro": "An open-tool ambition and a pixel-rendered terminal browser.",
+      "stories": [
+        "24bcbf95456a",
+        "2c35a7e0fd37"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Funding the next stage",
+      "intro": "Reported rounds and offering plans meet infrastructure funding requirements.",
+      "stories": [
+        "d40f359dcf60",
+        "f04f879a1d88",
+        "32558f54a572"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Taking stock of the transition",
+      "intro": "A news digest and an episode listing frame Nvidia and American AI.",
+      "stories": [
+        "323fcd62827e",
+        "49e260f89d29"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The company statement and the arguments around it",
+      "intro": "Announced governance actions differ from commentary and unresolved allegations.",
+      "stories": [
+        "f61b5b5c5eec",
+        "b29d8c222803",
+        "371be5761ad6",
+        "4ff39376cff3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Making inference repeatable and fast",
+      "intro": "Integer arithmetic, compile-time settings and streaming audio tackle different bottlenecks.",
+      "stories": [
+        "eca128a725d0",
+        "05cb502c3de6",
+        "5bf83e4c97b9",
+        "9910e58dd939"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Boundaries around capable agents",
+      "intro": "Self-hosting, anomaly monitoring and access restrictions address distinct problems.",
+      "stories": [
+        "6ced008ce44e",
+        "cd621006b922",
+        "03f3a83e775b",
+        "bdd1b3766981"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Approval before the transaction",
+      "intro": "New wallets and business-purchase tools make payment controls explicit.",
+      "stories": [
+        "d56f493eba58",
+        "f2060cfe3de9",
+        "24b5e587babc",
+        "ba1f8262f563"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Incidents, forecasts and trust",
+      "intro": "Resolved service trouble should not remain an outage headline; predictions need attribution.",
+      "stories": [
+        "d5626f1d7d9c",
+        "1cab81adaafa",
+        "c8841860f56a",
+        "fb3ce6417bb3",
+        "77ac72a815b6",
+        "b13363b1a274"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Forecasting the research feedback loop",
+      "intro": "Predictions about automated research meet a concrete archival reconstruction.",
+      "stories": [
+        "3b05dab78341",
+        "de3c451fea7e",
+        "e74b217e6f25"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Quality and context in everyday tools",
+      "intro": "Human judgment remains necessary for code, reminders and spending visibility.",
+      "stories": [
+        "f73d75f8454a",
+        "bd99696ef3c9",
+        "c9345d44e6b1",
+        "abdcbc427f15"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "After the outage, distinguish explanation from argument",
+      "intro": "Company statements and dated incident reports differ from policy and market commentary.",
+      "stories": [
+        "7f873adcbe6a",
+        "1045b3699557",
+        "874b8bb8bd8b",
+        "e174f3f00e9d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Allegations, capital and access",
+      "intro": "New commentary and partial reports leave important evidence gaps.",
+      "stories": [
+        "9fe06f5afd01",
+        "aaa7b0a6b305",
+        "79da1b1b81ca",
+        "69227978e4a7",
+        "36531f968c74",
+        "6cf5b3e17014",
+        "2a1f10146f16",
+        "6b19bb55c330"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Schools and source material",
+      "intro": "Search-policy theories and a book-digitization report need attribution.",
+      "stories": [
+        "7f70cb14d7fc",
+        "bf6c9d1eecfc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robotics without a standalone team",
+      "intro": "A reorganization integrates research while leaving physical-world validation ahead.",
+      "stories": [
+        "3d81fe77dbe3"
+      ],
+      "concepts": []
+    }
+  ]
 }

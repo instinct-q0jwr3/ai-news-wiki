@@ -1,0 +1,14 @@
+{
+  "id": "3d81fe77dbe3",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.820806+00:00",
+  "prose": "Fortune reports that OpenAI dissolved its standalone robotics team and moved researchers into its main research organization while applied robotics and hardware staff joined Applied. A company spokesperson portrays the change as integration around general-purpose models, not abandonment of robotics.\n\nThe article connects the reorganization to a broader bet that language, code and vision models can also control physical devices. That strategy does not establish safe robot performance, and a planned future demonstration remains a target rather than a delivered product.",
+  "highlights": [
+    "Company confirmed the reorganization",
+    "Research and Applied receive different staff",
+    "Robotics remains a stated long-term goal",
+    "General models motivate the strategy",
+    "Future demonstration is not a completed launch"
+  ]
+}

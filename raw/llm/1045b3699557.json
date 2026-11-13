@@ -1,0 +1,15 @@
+{
+  "id": "1045b3699557",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.763933+00:00",
+  "prose": "The indexed Microsoft statement apologizes for the outage and reports broad recovery and stability. Its feed summary attributes the incident to a network-capacity upgrade and says it was unrelated to cyber activity or AI agents.\n\nThe directly extracted social post is truncated before the technical explanation, so those details are preserved as the feed’s account of Microsoft’s statement, not a completed post-incident investigation or a guarantee that every customer backlog has cleared.",
+  "highlights": [
+    "Company apology is visible in the partial post",
+    "Feed reports a network-capacity upgrade",
+    "Company denies cyber or AI-agent causation",
+    "Broad recovery differs from every queue being cleared",
+    "Full root-cause report is not available here"
+  ],
+  "basis": "Feed metadata and accessible excerpt only; full article unavailable or incomplete."
+}

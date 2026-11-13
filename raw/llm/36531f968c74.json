@@ -1,0 +1,15 @@
+{
+  "id": "36531f968c74",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:42:07.764193+00:00",
+  "prose": "The accessible New York Times opening describes founders and investors worrying that Huang’s departure could remove an ally who supplied capital and computing resources. It reports that Nvidia held $48 billion of stakes in 229 private companies at the end of July, citing securities filings.\n\nThe article stops at an access gate. A larger cloud-backstop figure appears in the feed headline but cannot be checked against the body here; concern about future support does not mean announced investments have been canceled.",
+  "highlights": [
+    "Available text covers startup-financing concerns",
+    "Reported stakes total $48 billion",
+    "Reported portfolio includes 229 private companies",
+    "Later article sections are unavailable",
+    "Future investment cuts are not confirmed"
+  ],
+  "basis": "Feed metadata and accessible excerpt only; full article unavailable or incomplete."
+}

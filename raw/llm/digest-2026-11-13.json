@@ -1,156 +1,220 @@
 {
- "id": "digest-2026-11-13",
- "date": "2026-11-13",
- "schema": 3,
- "model": "agent-pass",
- "lead": [
-  "New agent wallets and purchase tools emphasize transaction approval, while self-hosting and anomaly monitoring address different security boundaries. Inference research targets determinism and speed; Nvidia's company statement and surrounding commentary require separate treatment."
- ],
- "sections": [
-  {
-   "title": "What a hardware fingerprint can prove",
-   "intro": "Checkpoint forensics supports attribution while leaving location and legality unresolved.",
-   "stories": [
-    "b422c250c8a5",
-    "be52945adb18",
-    "c248c776b06f",
-    "04d0c53832db"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Local models and reproducible systems",
-   "intro": "A local model release, robot replay and a small chat protocol.",
-   "stories": [
-    "e4f558637e85",
-    "65d05397b7c8",
-    "ff542347845b",
-    "1a1e98749a2c"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Institutions choose their boundaries",
-   "intro": "School search, app review and deepfake fraud reporting.",
-   "stories": [
-    "40dd5ff21e23",
-    "c54d7e2053b2",
-    "121c570be54d"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Revenue and proposed commitments",
-   "intro": "Reported results, new funding and negotiations over a financing backstop.",
-   "stories": [
-    "3ea58dd4784a",
-    "9286a008a2d3",
-    "bf72530cec31"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Paying and acting one request at a time",
-   "intro": "Search payments and business calls add operational boundaries to agent capabilities.",
-   "stories": [
-    "c5e34008fbd2",
-    "a76c0fbc372a"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Security claims need a precise perimeter",
-   "intro": "A provider-linked data exposure and new automated defense products.",
-   "stories": [
-    "eced435fc996",
-    "713573c43dba"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Rebuilding familiar software",
-   "intro": "An open-tool ambition and a pixel-rendered terminal browser.",
-   "stories": [
-    "24bcbf95456a",
-    "2c35a7e0fd37"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Funding the next stage",
-   "intro": "Reported rounds and offering plans meet infrastructure funding requirements.",
-   "stories": [
-    "d40f359dcf60",
-    "f04f879a1d88",
-    "32558f54a572"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Taking stock of the transition",
-   "intro": "A news digest and an episode listing frame Nvidia and American AI.",
-   "stories": [
-    "323fcd62827e",
-    "49e260f89d29"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The company statement and the arguments around it",
-   "intro": "Announced governance actions differ from commentary and unresolved allegations.",
-   "stories": [
-    "f61b5b5c5eec",
-    "b29d8c222803",
-    "371be5761ad6",
-    "4ff39376cff3"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Making inference repeatable and fast",
-   "intro": "Integer arithmetic, compile-time settings and streaming audio tackle different bottlenecks.",
-   "stories": [
-    "eca128a725d0",
-    "05cb502c3de6",
-    "5bf83e4c97b9",
-    "9910e58dd939"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Boundaries around capable agents",
-   "intro": "Self-hosting, anomaly monitoring and access restrictions address distinct problems.",
-   "stories": [
-    "6ced008ce44e",
-    "cd621006b922",
-    "03f3a83e775b",
-    "bdd1b3766981"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Approval before the transaction",
-   "intro": "New wallets and business-purchase tools make payment controls explicit.",
-   "stories": [
-    "d56f493eba58",
-    "f2060cfe3de9",
-    "24b5e587babc",
-    "ba1f8262f563"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Incidents, forecasts and trust",
-   "intro": "Resolved service trouble should not remain an outage headline; predictions need attribution.",
-   "stories": [
-    "d5626f1d7d9c",
-    "1cab81adaafa",
-    "c8841860f56a",
-    "fb3ce6417bb3",
-    "77ac72a815b6",
-    "b13363b1a274"
-   ],
-   "concepts": []
-  }
- ]
+  "id": "digest-2026-11-13",
+  "date": "2026-11-13",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "AI research forecasts and an archival mathematics project offer different kinds of evidence for acceleration. Practical tools focus on context, usage and approval; outage reporting, political allegations and financing concerns require careful separation of facts, excerpts and opinion."
+  ],
+  "sections": [
+    {
+      "title": "What a hardware fingerprint can prove",
+      "intro": "Checkpoint forensics supports attribution while leaving location and legality unresolved.",
+      "stories": [
+        "b422c250c8a5",
+        "be52945adb18",
+        "c248c776b06f",
+        "04d0c53832db"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Local models and reproducible systems",
+      "intro": "A local model release, robot replay and a small chat protocol.",
+      "stories": [
+        "e4f558637e85",
+        "65d05397b7c8",
+        "ff542347845b",
+        "1a1e98749a2c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Institutions choose their boundaries",
+      "intro": "School search, app review and deepfake fraud reporting.",
+      "stories": [
+        "40dd5ff21e23",
+        "c54d7e2053b2",
+        "121c570be54d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Revenue and proposed commitments",
+      "intro": "Reported results, new funding and negotiations over a financing backstop.",
+      "stories": [
+        "3ea58dd4784a",
+        "9286a008a2d3",
+        "bf72530cec31"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Paying and acting one request at a time",
+      "intro": "Search payments and business calls add operational boundaries to agent capabilities.",
+      "stories": [
+        "c5e34008fbd2",
+        "a76c0fbc372a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Security claims need a precise perimeter",
+      "intro": "A provider-linked data exposure and new automated defense products.",
+      "stories": [
+        "eced435fc996",
+        "713573c43dba"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Rebuilding familiar software",
+      "intro": "An open-tool ambition and a pixel-rendered terminal browser.",
+      "stories": [
+        "24bcbf95456a",
+        "2c35a7e0fd37"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Funding the next stage",
+      "intro": "Reported rounds and offering plans meet infrastructure funding requirements.",
+      "stories": [
+        "d40f359dcf60",
+        "f04f879a1d88",
+        "32558f54a572"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Taking stock of the transition",
+      "intro": "A news digest and an episode listing frame Nvidia and American AI.",
+      "stories": [
+        "323fcd62827e",
+        "49e260f89d29"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The company statement and the arguments around it",
+      "intro": "Announced governance actions differ from commentary and unresolved allegations.",
+      "stories": [
+        "f61b5b5c5eec",
+        "b29d8c222803",
+        "371be5761ad6",
+        "4ff39376cff3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Making inference repeatable and fast",
+      "intro": "Integer arithmetic, compile-time settings and streaming audio tackle different bottlenecks.",
+      "stories": [
+        "eca128a725d0",
+        "05cb502c3de6",
+        "5bf83e4c97b9",
+        "9910e58dd939"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Boundaries around capable agents",
+      "intro": "Self-hosting, anomaly monitoring and access restrictions address distinct problems.",
+      "stories": [
+        "6ced008ce44e",
+        "cd621006b922",
+        "03f3a83e775b",
+        "bdd1b3766981"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Approval before the transaction",
+      "intro": "New wallets and business-purchase tools make payment controls explicit.",
+      "stories": [
+        "d56f493eba58",
+        "f2060cfe3de9",
+        "24b5e587babc",
+        "ba1f8262f563"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Incidents, forecasts and trust",
+      "intro": "Resolved service trouble should not remain an outage headline; predictions need attribution.",
+      "stories": [
+        "d5626f1d7d9c",
+        "1cab81adaafa",
+        "c8841860f56a",
+        "fb3ce6417bb3",
+        "77ac72a815b6",
+        "b13363b1a274"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Forecasting the research feedback loop",
+      "intro": "Predictions about automated research meet a concrete archival reconstruction.",
+      "stories": [
+        "3b05dab78341",
+        "de3c451fea7e",
+        "e74b217e6f25"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Quality and context in everyday tools",
+      "intro": "Human judgment remains necessary for code, reminders and spending visibility.",
+      "stories": [
+        "f73d75f8454a",
+        "bd99696ef3c9",
+        "c9345d44e6b1",
+        "abdcbc427f15"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "After the outage, distinguish explanation from argument",
+      "intro": "Company statements and dated incident reports differ from policy and market commentary.",
+      "stories": [
+        "7f873adcbe6a",
+        "1045b3699557",
+        "874b8bb8bd8b",
+        "e174f3f00e9d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Allegations, capital and access",
+      "intro": "New commentary and partial reports leave important evidence gaps.",
+      "stories": [
+        "9fe06f5afd01",
+        "aaa7b0a6b305",
+        "79da1b1b81ca",
+        "69227978e4a7",
+        "36531f968c74",
+        "6cf5b3e17014",
+        "2a1f10146f16",
+        "6b19bb55c330"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Schools and source material",
+      "intro": "Search-policy theories and a book-digitization report need attribution.",
+      "stories": [
+        "7f70cb14d7fc",
+        "bf6c9d1eecfc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robotics without a standalone team",
+      "intro": "A reorganization integrates research while leaving physical-world validation ahead.",
+      "stories": [
+        "3d81fe77dbe3"
+      ],
+      "concepts": []
+    }
+  ]
 }

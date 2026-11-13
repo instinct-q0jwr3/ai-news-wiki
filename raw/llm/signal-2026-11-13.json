@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-11-13",
+  "date": "2026-11-13",
+  "status": "provisional",
+  "reserve": "eca128a725d0",
+  "picks": [
+    {
+      "id": "e4f558637e85",
+      "front": "Models",
+      "source": "edge0.ai",
+      "why": "A local-model release pushes deployment claims toward laptops, with vendor measurements that still need independent task testing."
+    },
+    {
+      "id": "de3c451fea7e",
+      "front": "Research",
+      "source": "theguardian.com",
+      "why": "An archival project pairs AI reconstruction with human review and formal checking, making errors and repairs part of the story."
+    },
+    {
+      "id": "d56f493eba58",
+      "front": "Commerce",
+      "source": "cnbc.com",
+      "why": "Transaction-scoped payment tokens and per-purchase approval define an important boundary for agents that can buy."
+    },
+    {
+      "id": "6ced008ce44e",
+      "front": "Infrastructure",
+      "source": "claude.com",
+      "why": "Self-hosted managed agents expand operational control without implying that all inference or risk stays local."
+    },
+    {
+      "id": "bd99696ef3c9",
+      "front": "Developer tools",
+      "source": "github.com",
+      "why": "A usage proxy makes spend visible while documenting budget overshoot, logging privacy and availability tradeoffs."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "967dd7de01d8",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-13T21:44:39.820478+00:00",
+  "prose": "Kapso’s founders describe an open-source engine for iterative enterprise-data work: investigate an unfamiliar environment, form hypotheses, run experiments and carry lessons into later projects. Their launch example involves tracing a large legacy data estate before moving it to a lakehouse.\n\nThe proposed value comes from tested, environment-specific learning rather than simply retrieving documentation. The launch post is a founder account, so its claims about delivery speed and accumulated learning still need evaluation on a real deployment.",
+  "highlights": [
+    "Experiments drive the proposed workflow",
+    "Enterprise context is learned iteratively",
+    "Founders describe a legacy-data migration",
+    "Sandboxed testing is part of the approach",
+    "Outcome claims are not independently evaluated"
+  ]
+}
