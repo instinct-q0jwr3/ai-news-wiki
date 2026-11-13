@@ -23,6 +23,12 @@ for path in glob.glob(os.path.join(ROOT,'raw/llm/digest-*.json')) + glob.glob(os
         lead=data['lead']
         if not isinstance(lead,list) or not all(isinstance(p,str) for p in lead):
             fails.append(f'R3 {os.path.basename(path)} lead must be a list of paragraphs')
+# Digest excerpts must never end with a character-sliced ellipsis.
+for path in glob.glob(os.path.join(ROOT,'wiki/daily/*.md')) + glob.glob(os.path.join(ROOT,'wiki/weekly/*.md')):
+    body=open(path).read()
+    if re.search(r'(?:…|\.\.\.)\s*\(\[read more\]',body):
+        fails.append(f'R3 {path} has a truncated narrative excerpt')
+
 # R1+R2: digests
 dailies=sorted(os.path.basename(p)[:-3] for p in glob.glob(os.path.join(ROOT,'wiki/daily/*.md')))
 weeklies=sorted(os.path.basename(p)[:-3] for p in glob.glob(os.path.join(ROOT,'wiki/weekly/*.md')))

@@ -4,6 +4,7 @@ from __future__ import annotations
 import datetime as dt, json, re
 from collections import Counter, defaultdict
 from pathlib import Path
+from editorial_render import complete_excerpt, group_sources
 
 ROOT=Path(__file__).resolve().parents[1]; WIKI=ROOT/'wiki'; RAW=ROOT/'raw'/'snapshots'
 
@@ -508,14 +509,16 @@ def prose_links(items,limit=4):
     chosen=sorted(items,key=lambda x:(x.get('source')!='Hacker News', x.get('score',0)),reverse=True)[:limit]
     if not chosen: return 'The current corpus has no matching story for this theme.'
     parts=[]
-    for x in chosen:
-        t=story_summary(x)
-        if len(t)>280: t=t[:280].rsplit(' ',1)[0].rstrip(' ,;:')+'\u2026'
-        lock=mark(x.get('id'))
-        parts.append(f"{t} ([read more](../summaries/{x['id']}.md){lock}).")
-    if len(parts)>6: return '\n\n'.join(' '.join(parts[k:k+3]) for k in range(0,len(parts),3))
-    midpoint=max(1,(len(parts)+1)//2)
-    return ' '.join(parts[:midpoint])+'\n\n'+' '.join(parts[midpoint:]) if len(parts)>1 else parts[0]
+    for group in group_sources(chosen):
+        # Prefer the fuller authored account; keep every original index link.
+        x=max(group,key=lambda item:len(story_summary(item)))
+        t=complete_excerpt(story_summary(x),x.get('title') or x.get('feed_title') or 'Untitled item')
+        links=[]
+        for n,item in enumerate([x]+[g for g in group if g['id']!=x['id']]):
+            label='read more' if n==0 else 'same source, alternate index'
+            links.append(f"[{label}](../summaries/{item['id']}.md){mark(item.get('id'))}")
+        parts.append(f"{t} ({'; '.join(links)}).")
+    return '\n\n'.join(parts)
 
 def build_weekly(xs,stamp):
     # Regenerate every week present in the corpus, so style fixes apply retroactively.
@@ -548,7 +551,7 @@ def _write_weekly(slug,week,stamp):
     sections=[]; used=set()
     if wdigest and wdigest.get('sections'):
         by_id={x.get('id'):x for x in week}
-        for sec in (wdigest.get('sections') or [])[:8]:
+        for sec in (wdigest.get('sections') or []):
             fresh=[by_id[i] for i in sec.get('stories',[]) if i in by_id and i not in used]
             if not fresh: continue
             for x in fresh: used.add(x.get('id'))

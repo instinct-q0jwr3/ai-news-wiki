@@ -4,6 +4,7 @@
 # Usage: bash scripts/build_verified.sh   (then commit+push only if exit 0)
 set -euo pipefail
 cd "$(dirname "$0")/.."
+python3 scripts/test_editorial_render.py
 python3 scripts/derive.py
 python3 scripts/verify_content.py
 python3 scripts/build_site.py
