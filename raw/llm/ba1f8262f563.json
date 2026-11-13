@@ -1,0 +1,15 @@
+{
+ "id": "ba1f8262f563",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296299+00:00",
+ "prose": [
+  "TLDR AI selected an item titled Perplexity Decider, but the source could not be fetched and the feed provides no substantive description. Its function, availability and pricing cannot be established from the title alone."
+ ],
+ "highlights": [
+  "Only the selected title was available",
+  "Product scope remains unchecked",
+  "No pricing or access inferred"
+ ],
+ "basis": "TLDR AI title only; source fetch failed."
+}

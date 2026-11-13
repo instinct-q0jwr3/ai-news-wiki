@@ -1,0 +1,14 @@
+{
+ "id": "05cb502c3de6",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.295904+00:00",
+ "prose": "Helion introduces compile-time heuristics that inspect kernel structure and dataflow to choose settings without a long autotuning search. Kernels are grouped into broad operation families, and resource estimates guide block sizes, warps and pipeline stages.\n\nThe aim is a useful performance-versus-wait-time tradeoff, not a promise to beat exhaustive tuning. Heuristics can also seed autotuning with a smaller set of promising configurations, and the post describes falling back to existing defaults when compile-time extents are unavailable.",
+ "highlights": [
+  "Compile-time analysis selects configuration",
+  "Matmul, reduction and pointwise families guide choices",
+  "Resource use informs launch settings",
+  "Heuristics can seed a smaller tuning search",
+  "Fallbacks remain for unsupported cases"
+ ]
+}

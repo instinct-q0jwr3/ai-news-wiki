@@ -1,0 +1,16 @@
+{
+ "id": "4ff39376cff3",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296459+00:00",
+ "prose": [
+  "Reuters reports, through Techmeme, that a document review identified more than $3.2 billion in Chinese compute projects built or planned around Nvidia GPUs subject to US restrictions. The original article was inaccessible. Project descriptions alone do not establish how every chip was obtained or the legal status of each arrangement."
+ ],
+ "highlights": [
+  "Feed describes review of contracts and disclosures",
+  "Projects include planned as well as built capacity",
+  "Reported value exceeds $3.2 billion",
+  "Individual access routes and legality remain unchecked"
+ ],
+ "basis": "Techmeme headline and excerpt; Reuters fetch failed."
+}

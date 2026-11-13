@@ -1,0 +1,14 @@
+{
+ "id": "5bf83e4c97b9",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296014+00:00",
+ "prose": "Liquid AI describes LiquidCodec, a roughly 74-million-parameter streaming audio codec designed for fast on-device speech generation. It converts waveforms to tokens and back, balancing reconstruction quality with token predictability and decoding speed.\n\nThe team built both sides of the codec to control tradeoffs previously constrained by a third-party tokenizer. Its article reports competitive quality and faster generation in selected comparisons; those are developer measurements, not a guarantee for every voice, language or device.",
+ "highlights": [
+  "Codec serves both tokenization and reconstruction",
+  "Design targets local streaming use",
+  "Approximately 74 million parameters",
+  "Predictability matters alongside compression",
+  "Quality and speed comparisons are vendor-reported"
+ ]
+}

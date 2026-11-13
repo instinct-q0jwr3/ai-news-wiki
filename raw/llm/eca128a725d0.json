@@ -1,0 +1,14 @@
+{
+ "id": "eca128a725d0",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.295791+00:00",
+ "prose": "DetLLM explores integer-only inference as a way to make model outputs bit-identical across hardware and batch configurations. The author explains how floating-point rounding can change with reduction order, allowing a different winning token even under greedy decoding.\n\nThe project replaces arithmetic throughout the inference path rather than merely fixing one GPU's kernel order. Its demonstrations support reproducibility in the tested configurations, not a claim that numerical agreement guarantees correct answers or that every model can be converted without tradeoffs.",
+ "highlights": [
+  "Floating-point order can change token selection",
+  "Batch invariance differs from repeatability on one setup",
+  "Integer arithmetic targets cross-platform agreement",
+  "Conversion covers more than matrix multiplication",
+  "Determinism does not imply factual correctness"
+ ]
+}

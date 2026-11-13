@@ -1,0 +1,14 @@
+{
+ "id": "d5626f1d7d9c",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.295239+00:00",
+ "prose": "Claude's incident page records authentication problems affecting several services on November 13. Investigation began at 09:58 UTC, a fix was being monitored at 11:05, and the page marks the issue resolved at 11:58. The historical submission headline should not be read as evidence that the outage is still ongoing.",
+ "highlights": [
+  "Incident concerned authentication",
+  "Status page records investigation and monitoring",
+  "Resolution posted at 11:58 UTC",
+  "Multiple Claude services were listed",
+  "This is a historical incident summary"
+ ]
+}

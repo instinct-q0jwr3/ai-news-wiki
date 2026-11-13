@@ -4,7 +4,7 @@
  "schema": 3,
  "model": "agent-pass",
  "lead": [
-  "Brave adds per-request search payments and Meta expands business calls, while security news demands precise distinctions between provider exposure, internal compromise and automated defense promises. Software rebuilding and infrastructure financing remain active themes."
+  "New agent wallets and purchase tools emphasize transaction approval, while self-hosting and anomaly monitoring address different security boundaries. Inference research targets determinism and speed; Nvidia's company statement and surrounding commentary require separate treatment."
  ],
  "sections": [
   {
@@ -92,6 +92,63 @@
    "stories": [
     "323fcd62827e",
     "49e260f89d29"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The company statement and the arguments around it",
+   "intro": "Announced governance actions differ from commentary and unresolved allegations.",
+   "stories": [
+    "f61b5b5c5eec",
+    "b29d8c222803",
+    "371be5761ad6",
+    "4ff39376cff3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Making inference repeatable and fast",
+   "intro": "Integer arithmetic, compile-time settings and streaming audio tackle different bottlenecks.",
+   "stories": [
+    "eca128a725d0",
+    "05cb502c3de6",
+    "5bf83e4c97b9",
+    "9910e58dd939"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Boundaries around capable agents",
+   "intro": "Self-hosting, anomaly monitoring and access restrictions address distinct problems.",
+   "stories": [
+    "6ced008ce44e",
+    "cd621006b922",
+    "03f3a83e775b",
+    "bdd1b3766981"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Approval before the transaction",
+   "intro": "New wallets and business-purchase tools make payment controls explicit.",
+   "stories": [
+    "d56f493eba58",
+    "f2060cfe3de9",
+    "24b5e587babc",
+    "ba1f8262f563"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Incidents, forecasts and trust",
+   "intro": "Resolved service trouble should not remain an outage headline; predictions need attribution.",
+   "stories": [
+    "d5626f1d7d9c",
+    "1cab81adaafa",
+    "c8841860f56a",
+    "fb3ce6417bb3",
+    "77ac72a815b6",
+    "b13363b1a274"
    ],
    "concepts": []
   }

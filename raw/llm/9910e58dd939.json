@@ -1,0 +1,16 @@
+{
+ "id": "9910e58dd939",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296690+00:00",
+ "prose": [
+  "EE Times reports, relayed by Techmeme, that DeepX taped out its DX-M2 edge accelerator and is targeting mass production in fall 2027. Claims about running very large language models on robots and drones are product targets, not verified field performance. Tape-out is a development milestone, not shipping availability."
+ ],
+ "highlights": [
+  "Reported milestone is chip tape-out",
+  "Mass production is a future target",
+  "Edge robotics is the intended market",
+  "Performance claims remain unverified here"
+ ],
+ "basis": "Techmeme headline and excerpt; original source fetch failed."
+}

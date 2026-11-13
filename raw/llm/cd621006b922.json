@@ -1,0 +1,14 @@
+{
+ "id": "cd621006b922",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.295960+00:00",
+ "prose": "Google reports results for Agent Anomaly Detection on five public benchmarks it did not author. The asynchronous monitor reviews traces after execution: it flagged 87% of harmful actions that the tested agent actually carried out, with benign-session false alarms ranging from 2% to 16%.\n\nThat is a post-execution detection result, not an attack-prevention rate. The report identifies poisoned memory as a gap, catching only four of eighteen successful cases in that category. Independent benchmark authorship improves test diversity but does not make the vendor's evaluation an independent audit.",
+ "highlights": [
+  "Monitor reviews agent traces asynchronously",
+  "87% figure concerns executed harmful behavior",
+  "False-alarm rates vary by benchmark",
+  "Poisoned-memory cases expose a weakness",
+  "Detection is not prevention"
+ ]
+}

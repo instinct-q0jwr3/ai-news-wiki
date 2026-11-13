@@ -1,0 +1,14 @@
+{
+ "id": "f2060cfe3de9",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296351+00:00",
+ "prose": "Replit expands its agent beyond software creation into business purchases and Google Ads. The announcement describes preparing a merchant checkout and requiring the owner to approve the final total, with Link and Visa supporting the payment flow.\n\nThe launch specifies US one-time purchases for Core and Pro users and says payment-time restrictions are enforced in code. These are product claims about scope and controls, not open-ended spending authority. Advertising is another workflow with its own account and budget decisions.",
+ "highlights": [
+  "Agent prepares checkout rather than receiving blanket spending permission",
+  "Owner approves final purchase total",
+  "Link and Visa support payment handling",
+  "Launch is limited by geography and plan",
+  "Ads involve separate budget and account choices"
+ ]
+}

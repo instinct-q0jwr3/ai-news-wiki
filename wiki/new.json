@@ -1,59 +1,35 @@
 {
- "generated_at": "2026-11-13T09:36:33+00:00",
+ "generated_at": "2026-11-13T15:37:38+00:00",
  "stories": [
   {
-   "id": "c5e34008fbd2",
-   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "id": "d5626f1d7d9c",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
    "source": "Hacker News",
-   "url": "https://brave.com/blog/search-api-agentic-payments/"
+   "url": "https://status.claude.com/incidents/nn11wk485zfn"
   },
   {
-   "id": "eced435fc996",
-   "title": "TSMC Has Been Hacked",
+   "id": "1cab81adaafa",
+   "title": "Claude Is Down",
    "source": "Hacker News",
-   "url": "https://mlq.ai/news/tsmc-says-employee-personal-data-was-posted-online-from-a-cloud-providers-systems/"
+   "url": "https://status.claude.com/history"
   },
   {
-   "id": "2c35a7e0fd37",
-   "title": "Show HN: KittyBrowser, I built a web browser in your terminal",
+   "id": "c8841860f56a",
+   "title": "AI Is Destroying the Trust Between Writers and Readers",
    "source": "Hacker News",
-   "url": "https://github.com/graiz/kittybrowser"
+   "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
   },
   {
-   "id": "323fcd62827e",
-   "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/"
+   "id": "fb3ce6417bb3",
+   "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+   "source": "Hacker News",
+   "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11"
   },
   {
-   "id": "f04f879a1d88",
-   "title": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47"
-  },
-  {
-   "id": "49e260f89d29",
-   "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/"
-  },
-  {
-   "id": "d40f359dcf60",
-   "title": "AI server maker xFusion gets approval from the Shenzhen Stock Exchange for a ChiNext IPO; filing: the company aims to raise ~$1.2B by issuing up to 220M shares",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing"
-  },
-  {
-   "id": "24bcbf95456a",
-   "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/artcraft/"
-  },
-  {
-   "id": "713573c43dba",
-   "title": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them",
-   "source": "Techmeme",
-   "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
+   "id": "bdd1b3766981",
+   "title": "AI agents have a big problem: Nobody wants to let them in",
+   "source": "Hacker News",
+   "url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html"
   },
   {
    "id": "a76c0fbc372a",
@@ -62,10 +38,112 @@
    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
   },
   {
-   "id": "32558f54a572",
-   "title": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital",
+   "id": "ba1f8262f563",
+   "title": "Perplexity Decider",
+   "source": "TLDR AI",
+   "url": "https://www.perplexity.ai/hub/blog/perplexity-decider"
+  },
+  {
+   "id": "05cb502c3de6",
+   "title": "Fast by Default: Compile-Time Heuristics for Helion Kernels",
+   "source": "TLDR AI",
+   "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/"
+  },
+  {
+   "id": "371be5761ad6",
+   "title": "Jensen Huang's biographer says there was a culture of omertà and deference towards Huang inside Nvidia that enabled him to \"be his worst self\"",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59"
+   "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html?unlocked_article_code=1.P1E.6bW-.jsvT3PNHnXvZ&smid=nytcore-ios-share"
+  },
+  {
+   "id": "4ff39376cff3",
+   "title": "A review of Chinese contracts, disclosures, and other documents identifies $3.2B+ in compute projects built or planned around Nvidia GPUs restricted by the US",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/"
+  },
+  {
+   "id": "03f3a83e775b",
+   "title": "Everyone is learning the wrong lesson from Hugging Face",
+   "source": "TLDR AI",
+   "url": "https://blog.karthiktadepalli.com/p/hugging-face"
+  },
+  {
+   "id": "24b5e587babc",
+   "title": "Use Claude Meetings",
+   "source": "TLDR AI",
+   "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings"
+  },
+  {
+   "id": "9910e58dd939",
+   "title": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production",
+   "source": "Techmeme",
+   "url": "http://www.eetimes.com/"
+  },
+  {
+   "id": "d56f493eba58",
+   "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+  },
+  {
+   "id": "cd621006b922",
+   "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+   "source": "TLDR AI",
+   "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/"
+  },
+  {
+   "id": "77ac72a815b6",
+   "title": "Orienting to 1 year AGI timelines",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/biFHYdJnMSCmW9Xou/orienting-to-1-year-agi-timelines"
+  },
+  {
+   "id": "eca128a725d0",
+   "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic",
+   "source": "TLDR AI",
+   "url": "https://nathan.rs/posts/detllm/"
+  },
+  {
+   "id": "b422c250c8a5",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "source": "Hacker News",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics"
+  },
+  {
+   "id": "b13363b1a274",
+   "title": "SpaceX laid off ~60 Grok Imagine staffers in the past week, leaving a handful to keep the product alive, as it prioritizes AI coding tools and Grok Bot",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team"
+  },
+  {
+   "id": "f2060cfe3de9",
+   "title": "Replit Agent can now buy for your business and help you reach customers",
+   "source": "TLDR AI",
+   "url": "https://replit.com/blog/replit-agent-ads-commerce"
+  },
+  {
+   "id": "f61b5b5c5eec",
+   "title": "NVIDIA Announces CEO Transition",
+   "source": "TLDR AI",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+  },
+  {
+   "id": "6ced008ce44e",
+   "title": "Operate Claude Managed Agents inside your security perimeter",
+   "source": "TLDR AI",
+   "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
+  },
+  {
+   "id": "b29d8c222803",
+   "title": "NYT: ‘Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew’",
+   "source": "Daring Fireball",
+   "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html?unlocked_article_code=1.QFE.hj_X.iLppRX0Ec_Jj"
+  },
+  {
+   "id": "5bf83e4c97b9",
+   "title": "LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed",
+   "source": "TLDR AI",
+   "url": "https://www.liquid.ai/blog/liquidcodec"
   }
  ]
 }

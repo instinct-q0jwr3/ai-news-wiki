@@ -1,0 +1,14 @@
+{
+ "id": "d56f493eba58",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296572+00:00",
+ "prose": "CNBC reports OpenAI's ChatGPT Wallet launch for eligible US adult Pro subscribers using dots agents. It describes per-purchase approval and transaction-scoped payment tokens supplied by card networks rather than exposing the user's ordinary card details to the agent.\n\nThose limits distinguish a payment mechanism from permission to spend freely. The report describes partnerships and an initial rollout, not universal merchant compatibility or a guarantee that every purchase flow succeeds. Approval still concerns the actual item, destination and total.",
+ "highlights": [
+  "Launch is restricted by plan, age and country",
+  "Each purchase needs approval",
+  "Network tokens scope payment to a transaction",
+  "Ordinary card details are described as hidden from agents",
+  "Initial rollout does not imply universal coverage"
+ ]
+}

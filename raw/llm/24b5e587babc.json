@@ -1,0 +1,14 @@
+{
+ "id": "24b5e587babc",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296405+00:00",
+ "prose": "Claude Meetings documentation describes a beta that joins Google Meet visibly, takes notes and creates artifacts during calls. Rollout is for Team and Enterprise, with exclusions for some configurations including zero-data-retention and certain security or compliance options.\n\nThe documentation distinguishes organization enablement from each person's auto-join choice and stresses participant agreement to transcription. A meeting assistant's availability does not grant consent to record other people; the specific organization settings and call context still matter.",
+ "highlights": [
+  "Visible Google Meet participant",
+  "Notes and live artifacts are described",
+  "Team and Enterprise beta has exclusions",
+  "Organization enablement differs from personal auto-join",
+  "Participant consent remains necessary"
+ ]
+}

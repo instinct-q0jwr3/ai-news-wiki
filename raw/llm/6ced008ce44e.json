@@ -1,0 +1,14 @@
+{
+ "id": "6ced008ce44e",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.296186+00:00",
+ "prose": "Anthropic announces a private beta of self-hosted Claude Managed Agents, extending local hosting from sandboxes to the broader service. Teams operate the agent service, workers and session database in their own environment while choosing where model requests are sent.\n\nThe announcement emphasizes isolation, credential handling, network limits and activity records. These are vendor-described deployment controls, not evidence that self-hosting alone makes a workflow safe or keeps all inference local. Organizations still choose access boundaries and carry the operating burden.",
+ "highlights": [
+  "Private beta expands self-hosting scope",
+  "Service and session history can run in customer environment",
+  "Model requests can still go to external providers",
+  "Vendor describes configurable security controls",
+  "Local hosting is not a complete safety guarantee"
+ ]
+}

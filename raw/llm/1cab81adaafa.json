@@ -1,0 +1,15 @@
+{
+ "id": "1cab81adaafa",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T15:40:00.295501+00:00",
+ "prose": [
+  "A submission titled Claude Is Down links to a status-history page, but the retrieved text provides navigation rather than an incident timeline. It cannot establish a current outage. The title reflects the submission's claim at posting time, not a live service-health check."
+ ],
+ "highlights": [
+  "Linked page is incident history",
+  "Retrieved text lacks incident details",
+  "Submission title is not current status"
+ ],
+ "basis": "Hacker News title and status-history landing page only."
+}
