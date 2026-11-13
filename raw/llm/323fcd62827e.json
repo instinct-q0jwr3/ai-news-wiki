@@ -1,0 +1,14 @@
+{
+ "id": "323fcd62827e",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T09:38:24.171257+00:00",
+ "prose": "AINews leads with reports of Huang's departure and Kress's interim leadership, then surveys Hydrogen's launch and the debate over hardware fingerprints in public model weights. It distinguishes some of the uncertainty about cause and hardware scale even as it describes a major industry transition.\n\nThe edition is a curated digest of announcements, reports and social commentary. Vendor benchmarks and speculation about future US AI leadership remain separate from confirmed management appointments; hardware attribution alone does not establish a legal violation.",
+ "highlights": [
+  "Digest combines leadership news and model releases",
+  "Hydrogen comparisons originate in specific evaluations",
+  "Hardware inference has important limits",
+  "Causal claims about the departure remain uncertain",
+  "Curated commentary is not independent proof of every claim"
+ ]
+}

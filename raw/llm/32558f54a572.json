@@ -1,0 +1,16 @@
+{
+ "id": "32558f54a572",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T09:38:24.171640+00:00",
+ "prose": [
+  "The Wall Street Journal reports, as relayed by Techmeme, that Mirendil raised a $1 billion Series A led by Kleiner Perkins and Clearlake Capital to develop tools for frontier AI research. The original text was unavailable. The funding claim does not establish the capabilities or labor effects of its proposed tools."
+ ],
+ "highlights": [
+  "Reported Series A is $1 billion",
+  "Founders are described as Anthropic alumni",
+  "Tools target frontier AI research",
+  "Capabilities were not verified from the feed"
+ ],
+ "basis": "Techmeme headline and excerpt; Wall Street Journal fetch failed."
+}

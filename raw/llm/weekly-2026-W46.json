@@ -747,6 +747,52 @@
     "bf72530cec31"
    ],
    "concepts": []
+  },
+  {
+   "title": "Paying and acting one request at a time",
+   "intro": "Search payments and business calls add operational boundaries to agent capabilities.",
+   "stories": [
+    "c5e34008fbd2",
+    "a76c0fbc372a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Security claims need a precise perimeter",
+   "intro": "A provider-linked data exposure and new automated defense products.",
+   "stories": [
+    "eced435fc996",
+    "713573c43dba"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rebuilding familiar software",
+   "intro": "An open-tool ambition and a pixel-rendered terminal browser.",
+   "stories": [
+    "24bcbf95456a",
+    "2c35a7e0fd37"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Funding the next stage",
+   "intro": "Reported rounds and offering plans meet infrastructure funding requirements.",
+   "stories": [
+    "d40f359dcf60",
+    "f04f879a1d88",
+    "32558f54a572"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Taking stock of the transition",
+   "intro": "A news digest and an episode listing frame Nvidia and American AI.",
+   "stories": [
+    "323fcd62827e",
+    "49e260f89d29"
+   ],
+   "concepts": []
   }
  ]
 }

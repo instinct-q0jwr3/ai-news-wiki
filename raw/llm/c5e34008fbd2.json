@@ -1,0 +1,14 @@
+{
+ "id": "c5e34008fbd2",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T09:38:24.170654+00:00",
+ "prose": "Brave adds request-by-request payment to its Search API through x402. The announcement describes paying in USDC on Base instead of authenticating with a conventional API key and account plan. An unpaid request returns a price, and a paid retry receives search results and a transaction receipt.\n\nBrave lists $0.005 per query for the described endpoints and says transaction gas is covered temporarily. Removing API-key administration does not remove the need to control spending or secure payment credentials. These are vendor launch terms, not a payment action performed for this summary.",
+ "highlights": [
+  "Request-level payment replaces API-key authentication",
+  "Announcement specifies USDC on Base",
+  "Listed query price is $0.005",
+  "Gas coverage is temporary",
+  "Wallet access and spending still need controls"
+ ]
+}

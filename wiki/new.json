@@ -1,95 +1,71 @@
 {
- "generated_at": "2026-11-13T03:35:37+00:00",
+ "generated_at": "2026-11-13T09:36:33+00:00",
  "stories": [
   {
-   "id": "b422c250c8a5",
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "id": "c5e34008fbd2",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
    "source": "Hacker News",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics"
+   "url": "https://brave.com/blog/search-api-agentic-payments/"
   },
   {
-   "id": "c54d7e2053b2",
-   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "id": "eced435fc996",
+   "title": "TSMC Has Been Hacked",
    "source": "Hacker News",
-   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+   "url": "https://mlq.ai/news/tsmc-says-employee-personal-data-was-posted-online-from-a-cloud-providers-systems/"
   },
   {
-   "id": "e4f558637e85",
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "id": "2c35a7e0fd37",
+   "title": "Show HN: KittyBrowser, I built a web browser in your terminal",
    "source": "Hacker News",
-   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+   "url": "https://github.com/graiz/kittybrowser"
   },
   {
-   "id": "40dd5ff21e23",
-   "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-   "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html"
+   "id": "323fcd62827e",
+   "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/"
   },
   {
-   "id": "ff542347845b",
-   "title": "Show HN: Apron Chat Protocol",
-   "source": "Hacker News",
-   "url": "https://apron.chat/"
-  },
-  {
-   "id": "65d05397b7c8",
-   "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
-   "source": "Hacker News",
-   "url": "https://github.com/cerulion-inc/cerulion"
-  },
-  {
-   "id": "1ef190c76f1e",
-   "title": "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)",
+   "id": "f04f879a1d88",
+   "title": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO",
    "source": "Techmeme",
-   "url": "https://x.com/artificialanlys"
+   "url": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47"
   },
   {
-   "id": "bf72530cec31",
-   "title": "Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit",
+   "id": "49e260f89d29",
+   "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/"
+  },
+  {
+   "id": "d40f359dcf60",
+   "title": "AI server maker xFusion gets approval from the Shenzhen Stock Exchange for a ChiNext IPO; filing: the company aims to raise ~$1.2B by issuing up to 220M shares",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing"
   },
   {
-   "id": "1a1e98749a2c",
-   "title": "llm-gemini 0.37",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+   "id": "24bcbf95456a",
+   "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/artcraft/"
   },
   {
-   "id": "121c570be54d",
-   "title": "The FBI says North Korean hackers stole $400M+ in crypto in the last 18 months using \"FaceStealer\", a scheme involving fake video calls and AI deepfakes",
+   "id": "713573c43dba",
+   "title": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/"
+   "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
   },
   {
-   "id": "04d0c53832db",
-   "title": "First Strike",
-   "source": "geohot",
-   "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html"
-  },
-  {
-   "id": "9286a008a2d3",
-   "title": "New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A",
+   "id": "a76c0fbc372a",
+   "title": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option",
    "source": "Techmeme",
-   "url": "https://www.crn.com/news/ai/2026/hatz-ai-secures-24m-to-expand-platform-double-headcount-exclusive"
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
   },
   {
-   "id": "3ea58dd4784a",
-   "title": "Cisco reports Q1 revenue up 24% YoY to $18.5B, above $18.14B est., adjusted EPS above estimates, and raises its FY 2027 revenue forecast",
+   "id": "32558f54a572",
+   "title": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/media-telecom/cisco-raises-annual-revenue-forecast-strong-ai-networking-demand-2026-11-12/"
-  },
-  {
-   "id": "be52945adb18",
-   "title": "Analysis of open weights: six models from DeepSeek, Moonshot, MiniMax, and Ant Group released since April carry fingerprints of export-controlled Blackwell GPUs",
-   "source": "Techmeme",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics"
-  },
-  {
-   "id": "c248c776b06f",
-   "title": "OpenAI confirmed to lawmakers this week that it would support a bipartisan effort in Congress to curb China's access to AI chips and chipmaking tools",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures"
+   "url": "https://www.wsj.com/pro/venture-capital/this-startup-raised-1-billion-to-build-ai-faster-and-with-fewer-humans-f7f07a59"
   }
  ]
 }

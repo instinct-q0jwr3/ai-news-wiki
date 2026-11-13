@@ -1,0 +1,14 @@
+{
+ "id": "a76c0fbc372a",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T09:38:24.171582+00:00",
+ "prose": "TechCrunch reports that Meta has expanded Muse's outbound calls to US businesses to paid subscribers after an earlier limited test. Examples include customer-service calls and restaurants, but the article notes that businesses may reject automated callers.\n\nTechnical ability to place a call is therefore distinct from successful service on the other end. The report describes a US paid rollout, not worldwide availability or a guarantee that an assistant can complete every request.",
+ "highlights": [
+  "Paid US subscribers get broader calling access",
+  "Earlier access was a limited test",
+  "Businesses may refuse automated callers",
+  "Availability does not guarantee task completion",
+  "Reported launch scope is geographic and plan-specific"
+ ]
+}

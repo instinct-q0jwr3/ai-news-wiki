@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1243,
+  "stories": 1246,
   "last": "2026-11-13"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1229,
+  "stories": 1234,
   "last": "2026-11-13"
  },
  {
@@ -32,8 +32,8 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 68,
-  "last": "2026-11-12"
+  "stories": 70,
+  "last": "2026-11-13"
  },
  {
   "name": "Pluralistic",
@@ -60,14 +60,14 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 26,
-  "last": "2026-11-12"
- },
- {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
+  "stories": 27,
+  "last": "2026-11-13"
+ },
+ {
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
   "stories": 26,
   "last": "2026-11-12"
  },

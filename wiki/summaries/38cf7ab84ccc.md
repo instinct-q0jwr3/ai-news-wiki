@@ -17,8 +17,6 @@ The article is paywalled, so only the Techmeme excerpt was read. It does not giv
 - Reported by Cade Metz of the NYT
 - Excerpt only, no results given
 
-_The original source is behind a paywall._
-
 ## Source
 
 [Read the original story](https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html?unlocked_article_code=1.HFE.YDRK.krqXr7rdBT5r&smid=url-share)

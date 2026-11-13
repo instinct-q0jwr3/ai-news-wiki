@@ -1,0 +1,14 @@
+{
+ "id": "24bcbf95456a",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T09:38:24.171343+00:00",
+ "prose": "Latent Space profiles ArtCraft's ambition to rebuild familiar software as open-source alternatives with AI-assisted development. The conference report describes 17 released tools, including a Rust photo editor and a PDF tool, and connects the founder's motivation to frustration with closed distribution and subscription economics.\n\nThe examples establish a project direction, not feature-for-feature equivalence to mature commercial applications. Enthusiastic conference reception and a broad mission to rebuild software do not settle maintenance, interoperability or long-term quality.",
+ "highlights": [
+  "AI-assisted open-source alternatives are the theme",
+  "Report describes 17 released tools",
+  "Photo and PDF applications are examples",
+  "Founder criticizes closed-platform incentives",
+  "Release count is not proof of commercial-tool parity"
+ ]
+}

@@ -18,8 +18,6 @@ Basis: the Times page is paywalled and was not fetched in this pass, so this res
 - Incidents reached the White House
 - Source text not fetched
 
-_The original source is behind a paywall._
-
 ## Source
 
 [Read the original story](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html?unlocked_article_code=1.HVE.8qqm.Wioro2BMBvfg&smid=nytcore-ios-share)

@@ -1,0 +1,14 @@
+{
+ "id": "eced435fc996",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T09:38:24.170876+00:00",
+ "prose": "A report of TSMC's disclosure says employee personal data appeared online and matched information held in a cloud provider's services. The account says TSMC found no evidence its own systems were compromised and described the data as unrelated to operations or customers.\n\nThe distinction corrects the broader submission title: exposure at a provider is not proof of a breach of TSMC's internal network. Further figures about affected records and ransom demands come from secondary reporting and are not confirmed in the described company statement.",
+ "highlights": [
+  "Disclosure concerns employee information",
+  "Data reportedly matches a cloud provider system",
+  "No evidence of internal-system compromise was reported",
+  "Customer and operating data are distinguished",
+  "Secondary breach figures remain unconfirmed"
+ ]
+}

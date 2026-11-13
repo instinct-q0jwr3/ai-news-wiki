@@ -1,0 +1,15 @@
+{
+ "id": "d40f359dcf60",
+ "schema": 1,
+ "model": "agent-pass",
+ "authored_at": "2026-11-13T09:38:24.171467+00:00",
+ "prose": [
+  "Bloomberg reports, according to Techmeme, that xFusion received Shenzhen exchange approval for a ChiNext IPO targeting roughly $1.2 billion through up to 220 million shares. The original report was inaccessible. Exchange approval and proposed issuance terms do not establish a completed offering or final proceeds."
+ ],
+ "highlights": [
+  "Feed reports exchange approval",
+  "Target proceeds are roughly $1.2 billion",
+  "Share issuance is proposed, not completed"
+ ],
+ "basis": "Techmeme headline and excerpt; Bloomberg fetch failed."
+}
