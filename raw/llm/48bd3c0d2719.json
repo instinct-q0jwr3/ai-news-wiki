@@ -1,0 +1,14 @@
+{
+  "id": "48bd3c0d2719",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T15:43:02.028953+00:00",
+  "prose": "Terminactory is presented in its submission as a terminal-native idle factory game built with Rust and ratatui. The retrieved GitLab page supplied only the project name, so game mechanics, installation requirements, license terms and any role for AI cannot be checked from the available material.",
+  "highlights": [
+    "Submission identifies a terminal game",
+    "Rust and ratatui are named",
+    "Repository body was not extracted",
+    "License terms remain unchecked",
+    "No AI-development claim is inferred"
+  ]
+}

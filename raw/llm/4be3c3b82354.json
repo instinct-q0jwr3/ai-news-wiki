@@ -1,0 +1,14 @@
+{
+  "id": "4be3c3b82354",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T15:43:02.028675+00:00",
+  "prose": "The University of Michigan submission reports that generative AI uses more energy when processing non-English text. The source could not be retrieved, so the models, languages, measurement method and size of the reported difference cannot be established from the available title. It should not be generalized into a fixed energy penalty for every language or system.",
+  "highlights": [
+    "Title is the available evidence",
+    "Reported issue concerns language-dependent energy use",
+    "Tested models are unknown here",
+    "Magnitude was not verified",
+    "No universal energy ratio is established"
+  ]
+}

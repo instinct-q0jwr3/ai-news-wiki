@@ -1,0 +1,14 @@
+{
+  "id": "1a4b7efb2acd",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T15:43:02.029114+00:00",
+  "prose": "Agweb is a macOS browser designed for coding agents, using WebKit and a shell interface while keeping pages visible without taking keyboard focus. The creator describes a shared window for parallel work, suspended idle tabs and change-oriented command responses to reduce repeated page inspection.\n\nThe README reports low idle CPU use on one machine and requires macOS 26 or later. Those claims are not an independent performance comparison or proof of compatibility with every site; the practical tradeoff is visible local browsing without the usual focus-stealing windows.",
+  "highlights": [
+    "WebKit supplies the browser engine",
+    "Shell commands drive visible pages",
+    "Window is designed not to take focus",
+    "Idle tabs can be suspended",
+    "Performance claims are author-reported"
+  ]
+}

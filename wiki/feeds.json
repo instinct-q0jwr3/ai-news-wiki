@@ -2,7 +2,7 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1275,
+  "stories": 1279,
   "last": "2026-11-14"
  },
  {
@@ -150,6 +150,12 @@
   "last": "2026-09-25"
  },
  {
+  "name": "Terence Eden",
+  "url": "https://shkspr.mobi/blog/feed/",
+  "stories": 3,
+  "last": "2026-11-14"
+ },
+ {
   "name": "Krebs on Security",
   "url": "https://krebsonsecurity.com/feed/",
   "stories": 2,
@@ -160,12 +166,6 @@
   "url": "https://mitchellh.com/feed.xml",
   "stories": 2,
   "last": "2026-09-26"
- },
- {
-  "name": "Terence Eden",
-  "url": "https://shkspr.mobi/blog/feed/",
-  "stories": 2,
-  "last": "2026-11-09"
  },
  {
   "name": "Experimental History",

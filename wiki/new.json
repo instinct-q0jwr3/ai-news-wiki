@@ -1,71 +1,35 @@
 {
- "generated_at": "2026-11-14T09:39:36+00:00",
+ "generated_at": "2026-11-14T15:40:29+00:00",
  "stories": [
   {
-   "id": "76e20a01a33f",
-   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "id": "4be3c3b82354",
+   "title": "Generative AI uses more energy on non-English text",
    "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+   "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
   },
   {
-   "id": "24dafbd712f3",
-   "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+   "id": "48bd3c0d2719",
+   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
    "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/projects-redesigned"
+   "url": "https://gitlab.com/snipedbywifi/terminactory"
   },
   {
-   "id": "f44783e7dad4",
-   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "id": "1a4b7efb2acd",
+   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50494696"
+   "url": "https://github.com/paul-nameless/agweb"
   },
   {
-   "id": "4448ef7d5d0e",
-   "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
+   "id": "80be5b0e72df",
+   "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
    "source": "Hacker News",
-   "url": "https://twitter.com/willdepue/status/2120992457630326841"
+   "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/"
   },
   {
-   "id": "19215d82b138",
-   "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
-   "source": "Hacker News",
-   "url": "https://opencyclone.vercel.app/"
-  },
-  {
-   "id": "88c605e146bc",
-   "title": "Sam Bankman-Fried would have made nearly $40B in Anthropic IPO",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787"
-  },
-  {
-   "id": "202c79a35219",
-   "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/11/12/luminal-inference-standard-software"
-  },
-  {
-   "id": "d7ab4ddde4d2",
-   "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m"
-  },
-  {
-   "id": "d33de453b50b",
-   "title": "[AINews] The No AI Slop Manifesto",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/"
-  },
-  {
-   "id": "608eaf8195d5",
-   "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners",
-   "source": "Techmeme",
-   "url": "https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools"
-  },
-  {
-   "id": "ba671cb9b781",
-   "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A",
-   "source": "Techmeme",
-   "url": "https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11"
+   "id": "dc3a1dcbe0bc",
+   "title": "Theatre Review: FrankenTacit ★★☆☆☆",
+   "source": "Terence Eden",
+   "url": "https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/"
   }
  ]
 }
