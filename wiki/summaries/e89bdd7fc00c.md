@@ -1,6 +1,6 @@
 # Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more
 
-_type: news-summary · created: 2026-11-12 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-12 · updated: 2026-11-14 · confidence: high_
 
 `techmeme` `google` `gemini`
 

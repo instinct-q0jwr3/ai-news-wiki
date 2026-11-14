@@ -1,0 +1,14 @@
+{
+  "id": "1f6709996c19",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T03:40:42.670566+00:00",
+  "prose": "AlphaSignal reports updates to Claude Code Projects that surface coordinator status, blocked work and pending decisions in the main project conversation. Parallel work continues in separate cloud sessions with separate repository copies and branches, so coordinating progress does not remove Git merge conflicts.\n\nThe report also describes limited read-only thread sharing, reminders and improved navigation. Worker sessions draw on the same subscriber allowance, and simultaneous high-effort work can consume it quickly; the product remains a waitlisted Pro and Max beta rather than a Team or Enterprise rollout.",
+  "highlights": [
+    "Status updates reduce manual thread checking",
+    "Workers retain separate branches",
+    "Read-only links do not expose the whole project",
+    "Threads accessing local machines cannot be shared",
+    "Parallel work still shares usage limits"
+  ]
+}

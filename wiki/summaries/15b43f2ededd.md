@@ -1,6 +1,6 @@
 # Show HN: Flide: Make Jev-like decision models up to 9.5x faster
 
-_type: news-summary · created: 2026-11-09 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-09 · updated: 2026-11-14 · confidence: high_
 
 `hacker-news` `typesafe`
 

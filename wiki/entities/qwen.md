@@ -1,6 +1,6 @@
 # Qwen
 
-_type: product · created: 2026-09-19 · updated: 2026-11-13 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-14 · confidence: medium_
 
 `entity` `qwen` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Qwen is Alibaba's family of open-weight large language and image models. This pa
 
 ## Timeline
 
+- **2026-11-14** - Unsloth updates its Qwen3.8-27B quantizations with Dynamic V3.1 and reports improved accuracy at comparable sizes on several coding and general benchmarks. The documentation describes a dense vision-and-reasoning model that can run locally at reduced… ([Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](../summaries/711dcf762b7f.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-13** - Isometric SF presents a pixel-art map of the San Francisco Bay Area. The accessible page mainly supplies loading text and credits, identifying map, imagery, land-cover and elevation sources rather than explaining the implementation.
 
 Its tile artwork is… ([Show HN: Isometric SF – A pixel-art map of the SF Bay Area](../summaries/abdcbc427f15.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md))

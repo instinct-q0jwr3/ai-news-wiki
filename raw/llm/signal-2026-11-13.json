@@ -1,8 +1,8 @@
 {
   "id": "signal-2026-11-13",
   "date": "2026-11-13",
-  "status": "provisional",
-  "reserve": "eca128a725d0",
+  "status": "final",
+  "reserve": "05cb502c3de6",
   "picks": [
     {
       "id": "e4f558637e85",
@@ -17,10 +17,10 @@
       "why": "An archival project pairs AI reconstruction with human review and formal checking, making errors and repairs part of the story."
     },
     {
-      "id": "d56f493eba58",
-      "front": "Commerce",
-      "source": "cnbc.com",
-      "why": "Transaction-scoped payment tokens and per-purchase approval define an important boundary for agents that can buy."
+      "id": "eca128a725d0",
+      "front": "Inference",
+      "source": "nathan.rs",
+      "why": "Integer-only inference targets repeatable outputs across hardware and batching, without confusing determinism with correctness."
     },
     {
       "id": "6ced008ce44e",

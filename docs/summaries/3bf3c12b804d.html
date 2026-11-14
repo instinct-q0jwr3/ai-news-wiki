@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>End‑to‑End 4‑Bit Training · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1794627772"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>End‑to‑End 4‑Bit Training</h1>
+<p class="meta">type: news-summary · created: 2026-11-14 · updated: 2026-11-14 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Thinking Machines describes training Inkling 2 Small with a native four-bit forward pass from pretraining through reinforcement learning. The recipe uses NVFP4 where speed and memory gains are valuable, while treating rounding bias and mismatches between forward and backward calculations as the main accuracy risks.</p>
+<p>The post reports an 8% pretraining and 20% reinforcement-learning wall-clock improvement over its full-MXFP8 baseline on GB300 hardware. End-to-end four-bit training does not mean every stored value and operation is four-bit: numerical choices differ across components, and the gains are specific to the reported system and comparison.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Native four-bit forward pass spans training stages</li>
+<li>Biased rounding can compound across layers</li>
+<li>Transposition changes block-scaled quantization</li>
+<li>Other precisions remain part of the recipe</li>
+<li>Reported speedups are hardware- and baseline-specific</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://thinkingmachines.ai/blog/end-to-end-4-bit-training/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

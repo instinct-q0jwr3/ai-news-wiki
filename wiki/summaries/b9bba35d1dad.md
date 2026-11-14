@@ -1,6 +1,6 @@
 # And Every New Boy That You Meet / He Doesn’t Know the Real Surprise
 
-_type: news-summary · created: 2026-11-12 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-12 · updated: 2026-11-14 · confidence: high_
 
 `daring-fireball` `nvidia` `agentic-systems` `ai-safety-incidents` `ai-policy-regulation`
 

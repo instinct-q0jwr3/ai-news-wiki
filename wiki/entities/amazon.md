@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-13 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-14 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-14** - Reuters’ indexed account describes an internal Amazon plan to gather product information across the market, including from competing retailers, as AI agents make shopping data a competitive asset. The article was not retrieved, so the scope, methods and… ([Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites](../summaries/f994680b6553.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-11-13** - Cory Doctorow uses the Microsoft outage to argue that concentration creates systemic dependence without sufficient accountability. He first compares the practical enforceability of copyright and antitrust rules, then argues that fact-intensive legal… ([Pluralistic: I told you so (13 Nov 2026)](../summaries/874b8bb8bd8b.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-13** - KittyBrowser puts rendered Chrome pages inside a terminal using the kitty graphics protocol, preserving layout and images instead of reducing a page to text. Its Rust interface supports ordinary interaction and a control surface intended for use beside… ([Show HN: KittyBrowser, I built a web browser in your terminal](../summaries/2c35a7e0fd37.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-13** - The Register reports OpenAI's launch of Daybreak Red Team in early access for web-application security testing and Daybreak Defense Factory for finding, validating and patching vulnerabilities. The account describes agents using code and application… ([OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them](../summaries/713573c43dba.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

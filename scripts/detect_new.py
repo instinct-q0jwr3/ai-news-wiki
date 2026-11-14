@@ -1,10 +1,13 @@
 import json, glob, os, sys, re
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, parse_qsl, urlencode
 def norm(u):
     if not u: return ''
     p = urlsplit(u)
     path = re.sub(r'/$','',p.path)
-    return (p.netloc.lower().replace('www.','') + path).split('?')[0].lower()
+    host = p.netloc.lower().removeprefix('www.')
+    keys = {'id'} if host == 'news.ycombinator.com' else {'v'} if host.endswith('youtube.com') else set()
+    query = urlencode([(k,v) for k,v in parse_qsl(p.query) if k in keys])
+    return host + path + ('?' + query if query else '')
 os.chdir(sys.argv[1] if len(sys.argv)>1 else '.')
 snaps = sorted(glob.glob('raw/snapshots/*.json'), key=os.path.getmtime)
 latest = json.load(open(snaps[-1]))

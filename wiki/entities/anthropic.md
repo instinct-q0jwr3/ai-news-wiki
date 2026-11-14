@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-13 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-14 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-14** - Anthropic introduces Claude Meetings as a visible participant in Google Meet calls, able to answer questions, make notes and build shared documents during a conversation. The beta starts on Team and Enterprise plans, with meeting pages retaining… ([Claude Meetings](../summaries/1080b245060d.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-14** - AlphaSignal reports updates to Claude Code Projects that surface coordinator status, blocked work and pending decisions in the main project conversation. Parallel work continues in separate cloud sessions with separate repository copies and branches, so… ([Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](../summaries/1f6709996c19.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
+- **2026-11-14** - The Financial Times submission frames the Anthropic IPO through a counterfactual: what Sam Bankman-Fried’s former stake might have been worth had it been retained. The article was inaccessible, so the near-$40 billion figure remains the title’s… ([Sam Bankman-Fried would have made nearly $40B in Anthropic IPO](../summaries/88c605e146bc.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-13** - The Verge’s hands-on review finds Claude Duet approachable and sometimes useful at combining email, calendar, documents and chat context. Examples include morning reminders and detecting obligations or scheduling issues across services, but the reviewer… ([Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags](../summaries/c9345d44e6b1.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-13** - Bloomberg’s feed excerpt attributes to Dario Amodei a dilemma about reserving computing capacity one or two years ahead when revenue is hard to predict. The article itself was unavailable, so this entry does not add contract sizes, utilization figures or… ([Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's "deepest business dilemma" due to the unpredictability of revenue](../summaries/2a1f10146f16.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-13** - The accessible New York Times opening describes founders and investors worrying that Huang’s departure could remove an ally who supplied capital and computing resources. It reports that Nvidia held $48 billion of stakes in 229 private companies at the end… ([Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops](../summaries/36531f968c74.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md))

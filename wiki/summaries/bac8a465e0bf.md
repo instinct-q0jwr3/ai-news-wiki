@@ -1,6 +1,6 @@
 # Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals
 
-_type: news-summary · created: 2026-11-09 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-09 · updated: 2026-11-14 · confidence: high_
 
 `hacker-news` `openai` `anthropic` `agentic-systems` `external-evaluation` `ai-coding-agents`
 

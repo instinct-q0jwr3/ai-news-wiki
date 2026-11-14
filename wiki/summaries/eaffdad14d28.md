@@ -1,6 +1,6 @@
 # AI coding agent setups from 663 Hacker News comments
 
-_type: news-summary · created: 2026-11-06 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-06 · updated: 2026-11-14 · confidence: high_
 
 `hacker-news` `agentic-systems` `ai-safety-incidents` `ai-coding-agents`
 

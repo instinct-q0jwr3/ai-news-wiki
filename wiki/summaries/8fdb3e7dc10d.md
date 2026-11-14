@@ -1,6 +1,6 @@
 # London-based AI chip startup Fractile raised $720M from Thrive, Founders Fund, and others, sources say at a $7B post-money valuation, up from ~$1.1B in May
 
-_type: news-summary · created: 2026-11-11 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-11 · updated: 2026-11-14 · confidence: high_
 
 `techmeme`
 

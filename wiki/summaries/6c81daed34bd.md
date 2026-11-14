@@ -1,6 +1,6 @@
 # LangChain, which aims to help large companies build and deploy their own AI agents, raised $300M led by CapitalG at a $3B valuation, up from $1.25B in 2025
 
-_type: news-summary · created: 2026-11-12 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-12 · updated: 2026-11-14 · confidence: high_
 
 `techmeme` `agentic-systems`
 

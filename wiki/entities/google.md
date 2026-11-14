@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-13 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-14 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-14** - A Hacker News poster reports seeing Google Search require login on some shared-network IP addresses after earlier CAPTCHA challenges. The report describes inconsistent behavior across connections rather than a verified policy applying to all signed-out… ([Tell HN: Google Search to start locking down search behind a login wall](../summaries/c5ae28bcd69b.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-13** - NPR examines Google’s decision to tie school access to Search to its AI Overviews features. Parents and school leaders describe the choice as undermining promised control over classroom AI, while Google points to its original announcement rather than… ([Why is Google cutting off Search from AI-free schools? Here are some theories](../summaries/7f70cb14d7fc.md) · [Google](../entities/google.md))
 - **2026-11-13** - Isometric SF presents a pixel-art map of the San Francisco Bay Area. The accessible page mainly supplies loading text and credits, identifying map, imagery, land-cover and elevation sources rather than explaining the implementation.
 

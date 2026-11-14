@@ -1,0 +1,14 @@
+{
+  "id": "c5ae28bcd69b",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T03:40:42.671159+00:00",
+  "prose": "A Hacker News poster reports seeing Google Search require login on some shared-network IP addresses after earlier CAPTCHA challenges. The report describes inconsistent behavior across connections rather than a verified policy applying to all signed-out users.\n\nIn the thread the poster agrees that the original title was too categorical. This is evidence of a user-observed access challenge, not confirmation that Google is putting every search behind a login wall or that AI scraping is the proven cause.",
+  "highlights": [
+    "Observation concerns selected IP addresses",
+    "Behavior differs across connections",
+    "Poster accepts a less categorical framing",
+    "No general policy announcement is supplied",
+    "Cause remains speculative"
+  ]
+}

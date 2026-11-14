@@ -1,6 +1,6 @@
 # DeepX claims inference up to 100B parameters at less than 5 W
 
-_type: news-summary · created: 2026-11-09 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-09 · updated: 2026-11-14 · confidence: high_
 
 `hacker-news`
 

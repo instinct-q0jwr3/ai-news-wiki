@@ -1,0 +1,14 @@
+{
+  "id": "3bf3c12b804d",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T03:40:42.671843+00:00",
+  "prose": "Thinking Machines describes training Inkling 2 Small with a native four-bit forward pass from pretraining through reinforcement learning. The recipe uses NVFP4 where speed and memory gains are valuable, while treating rounding bias and mismatches between forward and backward calculations as the main accuracy risks.\n\nThe post reports an 8% pretraining and 20% reinforcement-learning wall-clock improvement over its full-MXFP8 baseline on GB300 hardware. End-to-end four-bit training does not mean every stored value and operation is four-bit: numerical choices differ across components, and the gains are specific to the reported system and comparison.",
+  "highlights": [
+    "Native four-bit forward pass spans training stages",
+    "Biased rounding can compound across layers",
+    "Transposition changes block-scaled quantization",
+    "Other precisions remain part of the recipe",
+    "Reported speedups are hardware- and baseline-specific"
+  ]
+}

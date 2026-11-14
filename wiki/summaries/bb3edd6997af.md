@@ -1,6 +1,6 @@
 # Apple HomeView review: fast home controls, helpful Siri AI, gorgeous customizable faces, great sound for its size, but Siri can be slow and pricey wall mount
 
-_type: news-summary · created: 2026-11-12 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-12 · updated: 2026-11-14 · confidence: high_
 
 `techmeme` `apple`
 

@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-13 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-14 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-14** - The submission links an allegation that Nvidia supported AI startups in ways that drove purchases of its own GPUs and contributed to scarcity. The retrieved page is a bot challenge rather than the article, so the evidence, financial arrangements and causal… ([Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](../summaries/f42e313918d4.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-11-13** - Andrew Sharp argues that Jensen Huang’s political conflict over China and chip exports made his position vulnerable. The essay mixes sympathy for Huang’s personal losses with criticism of his lobbying and judgment, treating Nvidia’s commercial incentives… ([Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’](../summaries/9fe06f5afd01.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-13** - In the accessible post, David Sacks disputes the strength of public evidence behind allegations concerning Alice Huang. He lists statements attributed to officials who had not reached firm conclusions and calls for investigation of a classified leak.
 

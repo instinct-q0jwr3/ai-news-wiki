@@ -1,0 +1,14 @@
+{
+  "id": "711dcf762b7f",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T03:40:42.670963+00:00",
+  "prose": "Unsloth updates its Qwen3.8-27B quantizations with Dynamic V3.1 and reports improved accuracy at comparable sizes on several coding and general benchmarks. The documentation describes a dense vision-and-reasoning model that can run locally at reduced precision, with memory needs depending on quantization and context.\n\nThe benchmark discussion matters as much as the headline: Unsloth attributes disagreements with another comparison to context budgets, trial counts and embedding-size accounting. These are vendor results for specified settings, not a universal accuracy guarantee or a promise that every quantization and hardware setup behaves alike.",
+  "highlights": [
+    "Dynamic V3.1 changes selected quantizations",
+    "Context budgets affect comparisons",
+    "Multiple trials can change reported rankings",
+    "Embedding accounting changes size comparisons",
+    "Memory needs include context and runtime overhead"
+  ]
+}

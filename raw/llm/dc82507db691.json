@@ -1,0 +1,14 @@
+{
+  "id": "dc82507db691",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T03:40:42.671656+00:00",
+  "prose": "The submission points to a Hugging Face listing named DeepSeek V4 Pro 0813. The available extraction contains only collection metadata rather than a usable model card, so architecture, license, release timing and benchmark claims cannot be established from this page.",
+  "highlights": [
+    "Listing name is the available basis",
+    "No usable model card was extracted",
+    "Architecture remains unchecked",
+    "License terms are not available here",
+    "No benchmark result is verified"
+  ]
+}

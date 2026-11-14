@@ -1,6 +1,6 @@
 # Postman silently auto-installs AI plugins and attempts to share all API data
 
-_type: news-summary · created: 2026-11-03 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-03 · updated: 2026-11-14 · confidence: high_
 
 `hacker-news`
 

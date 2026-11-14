@@ -1,0 +1,14 @@
+{
+  "id": "1080b245060d",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T03:40:42.670198+00:00",
+  "prose": "Anthropic introduces Claude Meetings as a visible participant in Google Meet calls, able to answer questions, make notes and build shared documents during a conversation. The beta starts on Team and Enterprise plans, with meeting pages retaining transcripts and generated artifacts rather than audio.\n\nThe announcement makes access and audience boundaries important: tool use depends on the individual’s permission, answers in chat are visible to the call, and outside guests are excluded by default unless an admin permits them. Preview eligibility and usage charges vary by configuration; meeting participation does not create permission to expose every connected source.",
+  "highlights": [
+    "Google Meet is the initial supported platform",
+    "Notes and artifacts persist on a meeting page",
+    "Audio is not retained according to the announcement",
+    "Outside guests require an admin-enabled setting",
+    "Connected tools have separate permission boundaries"
+  ]
+}

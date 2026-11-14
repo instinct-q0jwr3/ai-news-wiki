@@ -1,6 +1,6 @@
 # Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business
 
-_type: news-summary · created: 2026-11-07 · updated: 2026-11-13 · confidence: high_
+_type: news-summary · created: 2026-11-07 · updated: 2026-11-14 · confidence: high_
 
 `techmeme` `agentic-systems`
 

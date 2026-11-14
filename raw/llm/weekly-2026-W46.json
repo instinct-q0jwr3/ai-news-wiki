@@ -914,6 +914,50 @@
         "3d81fe77dbe3"
       ],
       "concepts": []
+    },
+    {
+      "title": "From a meeting to a running work session",
+      "intro": "Shared meeting context and parallel coding expose different permission and coordination boundaries.",
+      "stories": [
+        "1080b245060d",
+        "1f6709996c19"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Four-bit efficiency is a numerical tradeoff",
+      "intro": "Training precision and local inference both depend on the exact comparison.",
+      "stories": [
+        "3bf3c12b804d",
+        "711dcf762b7f",
+        "dc82507db691",
+        "0fe12bdba782"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Advisory AI is not an incident root cause",
+      "intro": "Separate the September plan, November rollout and developer response to the ground stop.",
+      "stories": [
+        "02945602ea01",
+        "37de44c8accd",
+        "15b737d96180",
+        "55f3e4660509",
+        "c7f75c0bd32d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Data access and financing remain contested",
+      "intro": "User observations, blocked reporting and corporate plans have different evidence limits.",
+      "stories": [
+        "c5ae28bcd69b",
+        "f994680b6553",
+        "f42e313918d4",
+        "88c605e146bc",
+        "ec0eda26b177"
+      ],
+      "concepts": []
     }
   ]
 }

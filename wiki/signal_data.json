@@ -2431,12 +2431,12 @@
    },
    {
     "cat": "ok",
-    "front": "Commerce",
-    "id": "d56f493eba58",
-    "minutes": 4,
-    "source": "cnbc.com",
-    "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18",
-    "why": "Transaction-scoped payment tokens and per-purchase approval define an important boundary for agents that can buy."
+    "front": "Inference",
+    "id": "eca128a725d0",
+    "minutes": 12,
+    "source": "nathan.rs",
+    "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic",
+    "why": "Integer-only inference targets repeatable outputs across hardware and batching, without confusing determinism with correctness."
    },
    {
     "cat": "ok",
@@ -2457,8 +2457,8 @@
     "why": "A usage proxy makes spend visible while documenting budget overshoot, logging privacy and availability tradeoffs."
    }
   ],
-  "reserve": "eca128a725d0",
-  "status": "provisional",
+  "reserve": "05cb502c3de6",
+  "status": "final",
   "thin": 2,
   "total": 70,
   "unreadable": 6
