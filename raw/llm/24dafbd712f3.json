@@ -1,0 +1,14 @@
+{
+  "id": "24dafbd712f3",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T09:42:22.884912+00:00",
+  "prose": "Anthropic describes redesigned Claude Code Projects as a persistent place to coordinate work across cloud sessions. A coordinator divides a goal into threads, while each thread works on its own repository copy and branch; shared project memory and a file library carry context across that work.\n\nThe announcement starts with a selective Pro and Max beta and says wider product and organizational access will follow. Parallelism still consumes the subscriber’s existing allowance and overlapping edits still produce ordinary merge conflicts. This is the vendor’s description of the workflow, not proof that coordination removes review or integration work.",
+  "highlights": [
+    "Threads use separate repository branches",
+    "Shared memory carries project context",
+    "A library collects inputs and outputs",
+    "Initial beta access is selective",
+    "Parallel sessions share usage limits"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "19215d82b138",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T09:42:22.885212+00:00",
+  "prose": "OpenCyclone presents itself as an independent open-source Android project that lets an agent operate existing apps on a hidden display. Its page claims approval gates before sending, paying or deleting, and offers a choice of model providers rather than requiring new phone hardware.\n\nThe page also admits that the software was built quickly, tested on a Pixel 7 and is less reliable on long multi-app tasks; some promised sections are unfinished. These are project claims, not a security audit, proof that every consequential action is intercepted or confirmation of affiliation with the similarly named commercial phone.",
+  "highlights": [
+    "Existing Android hardware is the intended target",
+    "Project claims code-enforced approval gates",
+    "Model-provider costs remain separate",
+    "Long multi-app tasks are acknowledged as unreliable",
+    "Security claims were not independently tested"
+  ]
+}

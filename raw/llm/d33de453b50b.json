@@ -1,0 +1,14 @@
+{
+  "id": "d33de453b50b",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T09:42:22.885291+00:00",
+  "prose": "Latent.Space’s AI-news digest centers on the No AI Slop manifesto as a workplace discussion tool for judging AI-assisted output. It then surveys local inference, model launches and agent evaluation, drawing attention to the difference between headline benchmark scores and the cost of obtaining them.\n\nThe issue mixes editorial summary, linked vendor claims, independent evaluation references and clearly marked sponsorship. Its figures are a map of reported developments rather than one controlled comparison; individual release and benchmark claims require their own source context.",
+  "highlights": [
+    "Manifesto supplies the issue’s main theme",
+    "Local inference and agent tooling are surveyed",
+    "Benchmark cost matters alongside scores",
+    "Sponsorship is marked separately",
+    "Digest figures are not one common experiment"
+  ]
+}

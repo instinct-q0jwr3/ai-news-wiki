@@ -958,6 +958,37 @@
         "ec0eda26b177"
       ],
       "concepts": []
+    },
+    {
+      "title": "Who checks the work",
+      "intro": "Coordination, phone automation and learning advice still depend on human judgment.",
+      "stories": [
+        "24dafbd712f3",
+        "19215d82b138",
+        "f44783e7dad4",
+        "76e20a01a33f",
+        "d33de453b50b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Hardware traces and further inferences",
+      "intro": "Initialization evidence does not resolve location or legality.",
+      "stories": [
+        "4448ef7d5d0e"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Funding narrower workflow bets",
+      "intro": "Healthcare administration, inference, due diligence and agent supervision attract reported rounds.",
+      "stories": [
+        "608eaf8195d5",
+        "202c79a35219",
+        "d7ab4ddde4d2",
+        "ba671cb9b781"
+      ],
+      "concepts": []
     }
   ]
 }

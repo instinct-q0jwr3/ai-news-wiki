@@ -1,53 +1,35 @@
 {
- "generated_at": "2026-11-14T03:38:53+00:00",
+ "generated_at": "2026-11-14T09:39:36+00:00",
  "stories": [
   {
-   "id": "1080b245060d",
-   "title": "Claude Meetings",
+   "id": "76e20a01a33f",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/claude-meetings"
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
   },
   {
-   "id": "1f6709996c19",
-   "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+   "id": "24dafbd712f3",
+   "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
    "source": "Hacker News",
-   "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free"
+   "url": "https://claude.com/resources/articles/projects-redesigned"
   },
   {
-   "id": "f42e313918d4",
-   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+   "id": "f44783e7dad4",
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
    "source": "Hacker News",
-   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+   "url": "https://news.ycombinator.com/item?id=50494696"
   },
   {
-   "id": "711dcf762b7f",
-   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "id": "4448ef7d5d0e",
+   "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
    "source": "Hacker News",
-   "url": "https://unsloth.ai/docs/models/qwen3.8"
+   "url": "https://twitter.com/willdepue/status/2120992457630326841"
   },
   {
-   "id": "c5ae28bcd69b",
-   "title": "Tell HN: Google Search to start locking down search behind a login wall",
+   "id": "19215d82b138",
+   "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50491617"
-  },
-  {
-   "id": "02945602ea01",
-   "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
-  },
-  {
-   "id": "37de44c8accd",
-   "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
-  },
-  {
-   "id": "dc82507db691",
-   "title": "DeepSeek V4 Pro 0813",
-   "source": "Hacker News",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813"
+   "url": "https://opencyclone.vercel.app/"
   },
   {
    "id": "88c605e146bc",
@@ -56,52 +38,34 @@
    "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787"
   },
   {
-   "id": "0fe12bdba782",
-   "title": "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=_e2dk4Pothw"
-  },
-  {
-   "id": "3bf3c12b804d",
-   "title": "End‑to‑End 4‑Bit Training",
-   "source": "Hacker News",
-   "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/"
-  },
-  {
-   "id": "c7f75c0bd32d",
-   "title": "Of Course Americans Blamed the Ground Stop on AI",
-   "source": "Hacker News",
-   "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/"
-  },
-  {
-   "id": "55f3e4660509",
-   "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\"",
+   "id": "202c79a35219",
+   "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A",
    "source": "Techmeme",
-   "url": "https://x.com/airspaceintel"
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/11/12/luminal-inference-standard-software"
   },
   {
-   "id": "ec0eda26b177",
-   "title": "Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO",
+   "id": "d7ab4ddde4d2",
+   "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/chinas-moonshot-ai-restructures-to-pave-way-for-ipo-49f09abb"
+   "url": "https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m"
   },
   {
-   "id": "571a4888021f",
-   "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away",
-   "source": "Techmeme",
-   "url": "https://www.dwarkesh.com/p/rsi"
+   "id": "d33de453b50b",
+   "title": "[AINews] The No AI Slop Manifesto",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/"
   },
   {
-   "id": "f994680b6553",
-   "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites",
+   "id": "608eaf8195d5",
+   "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/"
+   "url": "https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools"
   },
   {
-   "id": "15b737d96180",
-   "title": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US",
+   "id": "ba671cb9b781",
+   "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A",
    "source": "Techmeme",
-   "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+   "url": "https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11"
   }
  ]
 }

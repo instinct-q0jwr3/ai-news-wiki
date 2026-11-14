@@ -1,0 +1,15 @@
+{
+  "id": "ba671cb9b781",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T09:42:22.885557+00:00",
+  "prose": "Business Insider’s indexed report describes WhiteMatter as building supervisory agents to monitor other agents’ file access, software use and actions, alongside a reported $20 million Series A. The retrieved page contained no substantive article, so this entry cannot verify implementation, enforcement coverage or the round’s terms.",
+  "highlights": [
+    "Feed reports a $20 million Series A",
+    "Product is framed as agent supervision",
+    "File and software access are named boundaries",
+    "No substantive article was retrieved",
+    "Security effectiveness is not established"
+  ],
+  "basis": "Available feed metadata or title only; substantive source text unavailable."
+}

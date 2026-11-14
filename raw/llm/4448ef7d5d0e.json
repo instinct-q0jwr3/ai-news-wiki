@@ -1,0 +1,14 @@
+{
+  "id": "4448ef7d5d0e",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T09:42:22.885126+00:00",
+  "prose": "Will Depue’s post describes checkpoint forensics that matches numerical traces in published model weights to GPU initialization patterns. He reports Blackwell matches for six Chinese models and physical-hardware checks for two, presenting the result as evidence about the hardware used to initialize those weights.\n\nThe post also estimates training-cluster size and cost, which are further inferences rather than direct observations. A hardware signature does not establish chip location, procurement route or export-law violations, and the post’s claim of outside verification is attributed to its author rather than independently confirmed here.",
+  "highlights": [
+    "Weight initialization supplies the proposed fingerprint",
+    "Six model matches are reported",
+    "Two physical-chip checks are described",
+    "Cluster costs are estimates",
+    "Location and legality are not established"
+  ]
+}
