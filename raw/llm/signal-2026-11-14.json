@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-11-14",
+  "date": "2026-11-14",
+  "status": "provisional",
+  "reserve": "24dafbd712f3",
+  "picks": [
+    {
+      "id": "1080b245060d",
+      "front": "Products",
+      "source": "claude.com",
+      "why": "A visible meeting participant can create shared work during calls, making audience and connected-tool permissions central."
+    },
+    {
+      "id": "3bf3c12b804d",
+      "front": "Research",
+      "source": "thinkingmachines.ai",
+      "why": "Native four-bit forward passes reveal how numerical bias and hardware-specific tradeoffs shape training efficiency."
+    },
+    {
+      "id": "1a4b7efb2acd",
+      "front": "Developer tools",
+      "source": "github.com",
+      "why": "A WebKit browser gives coding agents visible local pages without taking keyboard focus, with explicit platform limits."
+    },
+    {
+      "id": "d400f52f4fd5",
+      "front": "Governance",
+      "source": "shotoku.dev",
+      "why": "Local budgets separate action authorization from payment execution, with enforcement depending on an unavoidable integration path."
+    },
+    {
+      "id": "8e3b486b9e61",
+      "front": "Engineering",
+      "source": "willdady.com",
+      "why": "The distinction between attractive templates and mandatory guardrails matters when agents can generate a service from scratch."
+    }
+  ]
+}

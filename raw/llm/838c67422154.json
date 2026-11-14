@@ -1,0 +1,14 @@
+{
+  "id": "838c67422154",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T21:44:23.375413+00:00",
+  "prose": "Tom’s Hardware reports SemiAnalysis estimates of restricted Nvidia accelerators reaching China and its suggestion that the issue may be connected to Huang’s departure. The underlying estimate is expressed as more than 1.5 GW of hardware, while the article explores GPU-count equivalents using assumed power ratings.\n\nThe power-to-count conversion depends on the mix of processors and does not establish an exact shipment total. The causal link to the leadership change is an analyst hypothesis, not a finding that Huang directed smuggling or that the public weight fingerprints locate chips in China.",
+  "highlights": [
+    "Report attributes estimates to SemiAnalysis",
+    "Power capacity differs from a GPU count",
+    "Generation mix changes implied quantities",
+    "Leadership link remains a hypothesis",
+    "Individual wrongdoing is not established"
+  ]
+}

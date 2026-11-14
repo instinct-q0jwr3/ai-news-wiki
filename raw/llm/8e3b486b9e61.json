@@ -1,0 +1,14 @@
+{
+  "id": "8e3b486b9e61",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T21:44:23.375627+00:00",
+  "prose": "Will Dady argues that platform teams fail when reactive operations crowd out investment in useful internal products. He distinguishes optional golden paths, which must win adoption through convenience, from mandatory guardrails, which must apply even when developers generate a service from scratch.\n\nAI raises the stakes because a prompt can bypass an undiscovered template without bypassing the organization’s obligations. The essay favors discoverable catalogs and protected engineering time, drawing on the author’s experience rather than a representative study of platform teams.",
+  "highlights": [
+    "Reactive work can consume roadmap capacity",
+    "Golden paths are adoption-driven products",
+    "Guardrails are mandatory policy",
+    "Generated services can bypass templates",
+    "Claims draw on practitioner observation"
+  ]
+}

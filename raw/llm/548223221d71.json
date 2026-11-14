@@ -1,0 +1,14 @@
+{
+  "id": "548223221d71",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T21:44:23.375560+00:00",
+  "prose": "Debarshi Basak proposes Agent First Development as a way to combine fast exploration with explicit requirements and evidence-based acceptance. The essay separates a prototype that answers a question from production work with agreed boundaries, dependencies and responsible human owners.\n\nIt borrows preparation discipline from waterfall and iterative feedback from Agile, arguing that more generated code increases the need for shared understanding and review. This is a proposed methodology, not a controlled demonstration that it improves delivery across teams.",
+  "highlights": [
+    "Exploration and production have different goals",
+    "Scope includes boundaries and acceptance criteria",
+    "Human owners remain accountable",
+    "Small increments preserve feedback",
+    "Methodology is a proposal rather than benchmarked evidence"
+  ]
+}

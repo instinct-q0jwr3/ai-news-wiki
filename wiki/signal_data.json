@@ -1288,8 +1288,8 @@
   "unreadable": 5
  },
  "2026-10-24": {
-  "ok": 27,
-  "paywall": 4,
+  "ok": 28,
+  "paywall": 3,
   "picks": [
    {
     "cat": "ok",
@@ -2072,8 +2072,8 @@
   "unreadable": 6
  },
  "2026-11-07": {
-  "ok": 19,
-  "paywall": 6,
+  "ok": 20,
+  "paywall": 5,
   "picks": [
    {
     "cat": "ok",
@@ -2462,5 +2462,61 @@
   "thin": 2,
   "total": 70,
   "unreadable": 6
+ },
+ "2026-11-14": {
+  "ok": 28,
+  "paywall": 3,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Products",
+    "id": "1080b245060d",
+    "minutes": 4,
+    "source": "claude.com",
+    "title": "Claude Meetings",
+    "why": "A visible meeting participant can create shared work during calls, making audience and connected-tool permissions central."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "3bf3c12b804d",
+    "minutes": 19,
+    "source": "thinkingmachines.ai",
+    "title": "End‑to‑End 4‑Bit Training",
+    "why": "Native four-bit forward passes reveal how numerical bias and hardware-specific tradeoffs shape training efficiency."
+   },
+   {
+    "cat": "ok",
+    "front": "Developer tools",
+    "id": "1a4b7efb2acd",
+    "minutes": 2,
+    "source": "github.com",
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+    "why": "A WebKit browser gives coding agents visible local pages without taking keyboard focus, with explicit platform limits."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "d400f52f4fd5",
+    "minutes": 3,
+    "source": "shotoku.dev",
+    "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+    "why": "Local budgets separate action authorization from payment execution, with enforcement depending on an unavoidable integration path."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "8e3b486b9e61",
+    "minutes": 8,
+    "source": "willdady.com",
+    "title": "Why platform teams fail (and AI makes it worse)",
+    "why": "The distinction between attractive templates and mandatory guardrails matters when agents can generate a service from scratch."
+   }
+  ],
+  "reserve": "24dafbd712f3",
+  "status": "provisional",
+  "thin": 8,
+  "total": 44,
+  "unreadable": 5
  }
 }

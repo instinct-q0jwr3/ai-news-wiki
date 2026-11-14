@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-14** - Patrick McGee argues that Apple hardware chief Johny Srouji would be a strong candidate to lead Nvidia and says he believes Srouji would accept. The post quotes separate reporting that Srouji was under consideration, then adds McGee’s assessment of his… ([Patrick McGee on Johny Srouji and Nvidia](../summaries/bdf1721eefed.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-13** - Isometric SF presents a pixel-art map of the San Francisco Bay Area. The accessible page mainly supplies loading text and credits, identifying map, imagery, land-cover and elevation sources rather than explaining the implementation.
 
 Its tile artwork is… ([Show HN: Isometric SF – A pixel-art map of the SF Bay Area](../summaries/abdcbc427f15.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md))

@@ -1,0 +1,14 @@
+{
+  "id": "9fd6df7d41f3",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T21:44:23.375696+00:00",
+  "prose": "Cyberviber uses a small USB-connected touch display to show coding-session states and prioritize sessions awaiting a person. Local hooks feed a daemon that tracks work, questions and completion, while a tap can focus the relevant terminal pane or window.\n\nThe project describes specific display hardware and macOS or selected Linux support, with more limited information from Mistral Vibe than Claude Code. The headline hardware price is not a verified all-in purchase quote, and compatibility depends on the terminal and hook integrations.",
+  "highlights": [
+    "USB carries power and data",
+    "Session state stays in a local daemon",
+    "Attention requests are prioritized",
+    "Touch input focuses a session",
+    "Agent and terminal support varies"
+  ]
+}

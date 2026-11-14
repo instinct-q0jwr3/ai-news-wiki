@@ -1,35 +1,77 @@
 {
- "generated_at": "2026-11-14T15:40:29+00:00",
+ "generated_at": "2026-11-14T21:41:21+00:00",
  "stories": [
   {
-   "id": "4be3c3b82354",
-   "title": "Generative AI uses more energy on non-English text",
+   "id": "838c67422154",
+   "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
    "source": "Hacker News",
-   "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls"
   },
   {
-   "id": "48bd3c0d2719",
-   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+   "id": "8e6719299603",
+   "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
    "source": "Hacker News",
-   "url": "https://gitlab.com/snipedbywifi/terminactory"
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits"
   },
   {
-   "id": "1a4b7efb2acd",
-   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+   "id": "548223221d71",
+   "title": "Agile Manifesto for Agents",
    "source": "Hacker News",
-   "url": "https://github.com/paul-nameless/agweb"
+   "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development"
   },
   {
-   "id": "80be5b0e72df",
-   "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+   "id": "8e3b486b9e61",
+   "title": "Why platform teams fail (and AI makes it worse)",
    "source": "Hacker News",
-   "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/"
+   "url": "https://willdady.com/why-platform-teams-fail"
   },
   {
-   "id": "dc3a1dcbe0bc",
-   "title": "Theatre Review: FrankenTacit ★★☆☆☆",
-   "source": "Terence Eden",
-   "url": "https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/"
+   "id": "9fd6df7d41f3",
+   "title": "Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you",
+   "source": "Hacker News",
+   "url": "https://cyberviber.de/"
+  },
+  {
+   "id": "87eeeb08e0f8",
+   "title": "Open-source AI without Jensen",
+   "source": "Hacker News",
+   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen"
+  },
+  {
+   "id": "d400f52f4fd5",
+   "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+   "source": "Hacker News",
+   "url": "https://www.shotoku.dev/"
+  },
+  {
+   "id": "db1e51864a4b",
+   "title": "So Far, AI Pessimism Is Observationally Equivalent to AI Optimism",
+   "source": "Hacker News",
+   "url": "https://www.betonit.ai/p/so-far-ai-pessimism-is-observationally"
+  },
+  {
+   "id": "8315f8d23ff6",
+   "title": "App like GitHub for your conversations with AI",
+   "source": "Hacker News",
+   "url": "http://ainiconva.com"
+  },
+  {
+   "id": "bdf1721eefed",
+   "title": "Patrick McGee on Johny Srouji and Nvidia",
+   "source": "Daring Fireball",
+   "url": "https://x.com/patrickmcgee_/status/2120799867140550999"
+  },
+  {
+   "id": "8283721fac12",
+   "title": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation",
+   "source": "Techmeme",
+   "url": "https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c/"
+  },
+  {
+   "id": "45d74ad9440e",
+   "title": "Microsoft Says Cloud Outage Was ‘Not Related to Cyber or AI / Agents’",
+   "source": "Daring Fireball",
+   "url": "https://x.com/microsoft/status/2121282013600907325"
   }
  ]
 }

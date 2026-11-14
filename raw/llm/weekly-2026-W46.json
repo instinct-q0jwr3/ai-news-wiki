@@ -1008,6 +1008,32 @@
         "dc3a1dcbe0bc"
       ],
       "concepts": []
+    },
+    {
+      "title": "Accountability before output",
+      "intro": "Proposed methods, local spending rules and attention displays target different parts of supervision.",
+      "stories": [
+        "548223221d71",
+        "8e3b486b9e61",
+        "d400f52f4fd5",
+        "9fd6df7d41f3",
+        "8e6719299603",
+        "8315f8d23ff6"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Separate explanations from forecasts",
+      "intro": "Company outage statements, market estimates and policy essays carry different levels of evidence.",
+      "stories": [
+        "45d74ad9440e",
+        "838c67422154",
+        "bdf1721eefed",
+        "87eeeb08e0f8",
+        "db1e51864a4b",
+        "8283721fac12"
+      ],
+      "concepts": []
     }
   ]
 }

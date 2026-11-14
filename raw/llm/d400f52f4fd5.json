@@ -1,0 +1,14 @@
+{
+  "id": "d400f52f4fd5",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T21:44:23.375824+00:00",
+  "prose": "Shotoku describes a local authorization layer for agent spending, with vendor limits, rolling budgets, an approval queue and an append-only decision log. It separates deciding whether an action is allowed from custody or execution of the actual payment.\n\nIts claimed enforcement depends on placing the layer in the execution path, through wrapped tools or a receipt checked by a downstream service. The beta’s stated sandbox testing is not proof that an agent with an alternate route cannot bypass policy or that every real payment integration is covered.",
+  "highlights": [
+    "Authorization is separate from payment execution",
+    "Budgets and rules are configured locally",
+    "Human approval can hold over-limit actions",
+    "Enforcement requires integration in the action path",
+    "Beta claims are not a security audit"
+  ]
+}

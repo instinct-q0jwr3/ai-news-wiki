@@ -1,0 +1,14 @@
+{
+  "id": "45d74ad9440e",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-14T21:44:23.375142+00:00",
+  "prose": "Microsoft’s full social statement attributes its cloud outage to a problem introduced during a network-capacity upgrade and exposed by a later network change. It denies a cyberattack or AI-agent cause and describes staged restoration to validate stability under returning demand.\n\nThe statement reports broad recovery while acknowledging remaining customers and regions still needed restoration. It promises a post-incident report, so this is the company’s preliminary explanation rather than a completed independent root-cause review.",
+  "highlights": [
+    "Company denies cyber and AI-agent causation",
+    "Earlier upgrade and later change are distinguished",
+    "Restoration was deliberately staged",
+    "Broad recovery is not universal completion",
+    "A full incident report is still promised"
+  ]
+}
