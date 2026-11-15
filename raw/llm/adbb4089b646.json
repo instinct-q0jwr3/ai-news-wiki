@@ -1,0 +1,14 @@
+{
+  "id": "adbb4089b646",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-15T15:46:09.943260+00:00",
+  "prose": "An exploratory Qwen3-1.7B visualization maps internal token representations across constructed conversations in several languages. The author records normalized final-token states and places datasets in one shared PCA frame so adding another language does not silently rotate the comparison axes.\n\nThe initial English paths appear nearly planar in the three-dimensional projection, but that observation is explicitly about the projection, not the full 2,048-dimensional state space. The deliberately small sample and visualization choices limit any claim about universal model geometry or a model’s understanding.",
+  "highlights": [
+    "Experiment uses a frozen Qwen model",
+    "Sample covers selected topics and languages",
+    "Shared PCA axes support visual comparison",
+    "Projected flatness is not full-space flatness",
+    "Constructed sample limits generalization"
+  ]
+}

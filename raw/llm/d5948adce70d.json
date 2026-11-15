@@ -1,0 +1,14 @@
+{
+  "id": "d5948adce70d",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-15T15:46:09.942864+00:00",
+  "prose": "Jakub Jankiewicz argues that AI-generated code should be released openly because models benefited from the open-source commons and because purely machine-generated work raises authorship questions. He distinguishes an ethical obligation to give back from differences in copyright treatment across jurisdictions.\n\nThis is a licensing proposal, not a legal determination that every AI-assisted program is uncopyrightable or inherits the licenses of its training material. Mixed human and machine authorship complicates the position, and the essay’s preferred remedy is explicit open licensing or public-domain dedication.",
+  "highlights": [
+    "Essay proposes open release",
+    "Training-data provenance motivates its ethics",
+    "Human authorship affects the legal argument",
+    "Jurisdictions are acknowledged to differ",
+    "No universal license obligation is established"
+  ]
+}

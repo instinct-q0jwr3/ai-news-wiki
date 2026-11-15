@@ -1,0 +1,14 @@
+{
+  "id": "7984ecf3f324",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-15T15:46:09.943810+00:00",
+  "prose": "The video submission says coding agents helped reverse engineer a 1994 Jeep ECU through inexpensive Arduino hardware. Only the video title and page shell were available, so the actual method, level of vehicle control and safety precautions cannot be verified. This is not a validated procedure for modifying an automobile.",
+  "highlights": [
+    "Title supplies the project claim",
+    "No usable transcript was retrieved",
+    "Hardware cost is not independently checked",
+    "Vehicle-control scope is unknown",
+    "No safe modification procedure is established"
+  ]
+}

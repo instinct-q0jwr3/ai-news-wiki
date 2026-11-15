@@ -1,0 +1,14 @@
+{
+  "id": "cf1fe20b75e9",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-15T15:46:09.943934+00:00",
+  "prose": "A social-post author describes using separate Claude Code configuration directories to keep personal and work accounts signed in on one Mac. The account identity, history and settings can then follow distinct launch commands rather than repeated sign-out and sign-in.\n\nThe author emphasizes that separate configurations do not isolate filesystem access and shared links to rules remain shared files. This is one user’s tested setup, with limits noted for other authentication methods and operating systems, not an official guarantee of account or data isolation.",
+  "highlights": [
+    "Post describes a macOS workflow",
+    "Configuration directories distinguish sessions",
+    "Account identity still needs checking",
+    "Filesystem access remains shared",
+    "Other authentication methods may behave differently"
+  ]
+}
