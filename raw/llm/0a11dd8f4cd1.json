@@ -3,7 +3,7 @@
   "schema": 1,
   "model": "agent-pass",
   "authored_at": "2026-11-15T15:46:09.943596+00:00",
-  "prose": "Niklas Roy describes building a working pendulum clock from drink cartons and simple household materials. A browser tool developed with Claude helped design and simulate the escapement, but physical prototypes exposed the limits of cardboard precision: a simpler, larger five-tooth wheel worked where the first design failed.\n\nThe project shows AI-assisted tooling inside an iterative mechanical build rather than a model independently producing a finished clock. Material friction, gearing and pendulum timing still required hands-on adjustment, and the completed clock runs a little over an hour when wound.",
+  "prose": "Niklas Roy describes building a working pendulum clock from drink cartons and simple household materials. A browser tool developed with Claude helped design and simulate the escapement, but physical prototypes exposed the limits of cardboard precision: a simpler, larger five-tooth wheel worked where the first design failed.\n\nThe project shows AI-assisted tooling inside an iterative mechanical build rather than a model independently producing a finished clock. Material friction, gearing and pendulum timing still required hands-on adjustment, and the completed clock runs a little over an hour when wound.\n\nThe five-tooth mechanism belongs to the proof of concept. The later hour-running clock uses a larger 15-tooth escape wheel, full hour and minute gearing, and another AI-assisted browser tool for gear stencils and assembly tools. It still runs fast: operating duration and timekeeping accuracy are separate results.",
   "highlights": [
     "Cartons supply much of the structure",
     "Browser tool assists escapement design",
