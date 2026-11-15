@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-15** - Daring Fireball uses the membership of the President’s Council of Advisors on Science and Technology to criticize technology leaders’ proximity to the administration. The linked White House page confirms David Sacks and Michael Kratsios as co-chairs and… ([The Legion of PCAST](../summaries/419f82a2d364.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-14** - A Hacker News poster reports seeing Google Search require login on some shared-network IP addresses after earlier CAPTCHA challenges. The report describes inconsistent behavior across connections rather than a verified policy applying to all signed-out… ([Tell HN: Google Search to start locking down search behind a login wall](../summaries/c5ae28bcd69b.md) · [Google](../entities/google.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-13** - Isometric SF presents a pixel-art map of the San Francisco Bay Area. The accessible page mainly supplies loading text and credits, identifying map, imagery, land-cover and elevation sources rather than explaining the implementation.
 

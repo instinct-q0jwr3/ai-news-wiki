@@ -1,0 +1,14 @@
+{
+  "id": "010c2d9a3566",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-15T21:47:32.013320+00:00",
+  "prose": "Strata explores a processor design in which memory movement is explicit rather than hidden behind predictive caches. The accessible project excerpt describes per-core 64 KiB data and instruction Local Stores, with software responsible for deciding what resides there.\n\nThe Lobsters submission says a directed LLM process helped produce a much larger prototype spanning emulation, RTL, a microkernel and language tools. Those implementation and speed-of-development claims come from the submission; the short extracted project page is not enough to assess completeness, correctness or performance.",
+  "highlights": [
+    "Local Stores make movement software-visible",
+    "Data and instruction stores are distinct",
+    "Submission credits a directed LLM process",
+    "Broad prototype claims remain author-reported",
+    "No performance advantage is established"
+  ]
+}

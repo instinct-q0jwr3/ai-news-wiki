@@ -1,53 +1,59 @@
 {
- "generated_at": "2026-11-15T15:43:42+00:00",
+ "generated_at": "2026-11-15T21:44:29+00:00",
  "stories": [
   {
-   "id": "d5948adce70d",
-   "title": "All AI-generated code should be Open Source",
+   "id": "7d64f1110092",
+   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
    "source": "Hacker News",
-   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
   },
   {
-   "id": "adbb4089b646",
-   "title": "What thousands of conversations look like inside a language model",
+   "id": "4c1a8c7a7548",
+   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
    "source": "Hacker News",
-   "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/"
+   "url": "https://github.com/db-branch/db-branch"
   },
   {
-   "id": "f4ece00249e5",
-   "title": "Jensen Huang allegedly manufactured the GPU shortage",
+   "id": "d21e7675ce72",
+   "title": "Ask HN: What does building hardware with AI look like?",
    "source": "Hacker News",
-   "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/"
+   "url": "https://news.ycombinator.com/item?id=50508089"
   },
   {
-   "id": "0a11dd8f4cd1",
-   "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-   "source": "Hacker News",
-   "url": "https://www.niklasroy.com/carton-clock/"
-  },
-  {
-   "id": "6ef17de13310",
-   "title": "A Human Reads the Anthropic IPO Filing",
-   "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html"
-  },
-  {
-   "id": "7984ecf3f324",
-   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
-  },
-  {
-   "id": "cf1fe20b75e9",
-   "title": "I run multiple Claude Code accounts on one Mac",
-   "source": "Hacker News",
-   "url": "https://twitter.com/viborc/status/2121941174374039788"
-  },
-  {
-   "id": "0dff6f17476f",
-   "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues",
+   "id": "b767b2e7a24f",
+   "title": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China",
    "source": "Techmeme",
-   "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/"
+   "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22"
+  },
+  {
+   "id": "fe1dabcc68dc",
+   "title": "Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDc1NTQ2MSwiZXhwIjoxNzk1MzYwMjYxLCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.2TeBxZfpuwFLhhyEns0-GWBuy-YbU6nhgWwD5smKMD4"
+  },
+  {
+   "id": "419f82a2d364",
+   "title": "The Legion of PCAST",
+   "source": "Daring Fireball",
+   "url": "https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/"
+  },
+  {
+   "id": "0293decf97a6",
+   "title": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+   "source": "Daring Fireball",
+   "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
+  },
+  {
+   "id": "4fe7ebd22e9b",
+   "title": "Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case"
+  },
+  {
+   "id": "010c2d9a3566",
+   "title": "Strata — memory is explicit I/O",
+   "source": "Lobsters",
+   "url": "https://yrashk.com/strata/"
   }
  ]
 }

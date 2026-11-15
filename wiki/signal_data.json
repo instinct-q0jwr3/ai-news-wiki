@@ -2518,5 +2518,61 @@
   "thin": 8,
   "total": 44,
   "unreadable": 5
+ },
+ "2026-11-15": {
+  "ok": 15,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Education",
+    "id": "7d64f1110092",
+    "minutes": 4,
+    "source": "fortune.com",
+    "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+    "why": "Reported school results test a specific acceleration promise, not whether pupils passed ordinary math."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "adbb4089b646",
+    "minutes": 9,
+    "source": "operator0x.com",
+    "title": "What thousands of conversations look like inside a language model",
+    "why": "Full-space checks show how a striking three-dimensional map can hide most of a model representation’s variation."
+   },
+   {
+    "cat": "ok",
+    "front": "Developer tools",
+    "id": "4c1a8c7a7548",
+    "minutes": 4,
+    "source": "github.com",
+    "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+    "why": "Copy-on-write database branches offer disposable test environments, with beta and paid-module limits made explicit."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "0a11dd8f4cd1",
+    "minutes": 10,
+    "source": "niklasroy.com",
+    "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+    "why": "A working carton clock separates AI-assisted design tools from the physical iteration needed to make a mechanism run."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "419f82a2d364",
+    "minutes": 1,
+    "source": "whitehouse.gov",
+    "title": "The Legion of PCAST",
+    "why": "The official advisory roster gives a factual anchor for commentary about technology leaders’ political connections."
+   }
+  ],
+  "reserve": "6e370e2d53b1",
+  "status": "provisional",
+  "thin": 3,
+  "total": 25,
+  "unreadable": 1
  }
 }
