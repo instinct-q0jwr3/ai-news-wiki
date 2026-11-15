@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-14 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-15 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-15** - Forbes’ indexed analysis contrasts Huang’s ordinary voting position at Nvidia with founders protected by super-voting shares. The article was inaccessible, so this entry records the governance distinction in the feed without verifying individual voting… ([Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company](../summaries/0a4c5c1f11a0.md) · [NVIDIA](../entities/nvidia.md)) ⚠
 - **2026-11-14** - Interconnects argues that open-weight AI could lose financial and political support after Huang’s departure even though Nvidia retains an incentive to avoid dependence on a few closed-model customers. The essay treats talent, compute access and downstream… ([Open-source AI without Jensen](../summaries/87eeeb08e0f8.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-14** - Patrick McGee argues that Apple hardware chief Johny Srouji would be a strong candidate to lead Nvidia and says he believes Srouji would accept. The post quotes separate reporting that Srouji was under consideration, then adds McGee’s assessment of his… ([Patrick McGee on Johny Srouji and Nvidia](../summaries/bdf1721eefed.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-14** - The submission links an allegation that Nvidia supported AI startups in ways that drove purchases of its own GPUs and contributed to scarcity. The retrieved page is a bot challenge rather than the article, so the evidence, financial arrangements and causal… ([Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](../summaries/f42e313918d4.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠

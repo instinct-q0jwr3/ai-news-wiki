@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-14 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-15 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-11-15** - Simon Willison announces OpenAI-compatible endpoint support in datasette-llm 0.1a11, the configuration layer used by other Datasette plugins. This lets a Datasette application select a locally or remotely hosted model through the same API-style… ([datasette-llm 0.1a11](../summaries/6e370e2d53b1.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-14** - Unsloth updates its Qwen3.8-27B quantizations with Dynamic V3.1 and reports improved accuracy at comparable sizes on several coding and general benchmarks. The documentation describes a dense vision-and-reasoning model that can run locally at reduced… ([Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](../summaries/711dcf762b7f.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-13** - Isometric SF presents a pixel-art map of the San Francisco Bay Area. The accessible page mainly supplies loading text and credits, identifying map, imagery, land-cover and elevation sources rather than explaining the implementation.
 

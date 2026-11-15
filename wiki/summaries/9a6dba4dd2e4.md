@@ -1,6 +1,6 @@
 # AI is destroying my CS degree
 
-_type: news-summary · created: 2026-11-09 · updated: 2026-11-14 · confidence: high_
+_type: news-summary · created: 2026-11-09 · updated: 2026-11-15 · confidence: high_
 
 `simon-willison` `external-evaluation` `ai-safety-incidents`
 

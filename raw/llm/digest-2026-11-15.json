@@ -1,0 +1,29 @@
+{
+  "id": "digest-2026-11-15",
+  "date": "2026-11-15",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "A robotics mentor argues for simpler periodic control, while Datasette adds configurable model endpoints. Separate financial and governance reports remain excerpt-based, with no verified contract terms or ownership calculations."
+  ],
+  "sections": [
+    {
+      "title": "Explicit loops and configurable endpoints",
+      "intro": "A robotics programming argument and a small Datasette release favor visible control boundaries.",
+      "stories": [
+        "39678c43afdc",
+        "6e370e2d53b1"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Power contracts and voting power",
+      "intro": "Two inaccessible reports describe different constraints on AI infrastructure and company control.",
+      "stories": [
+        "0cc3b8132460",
+        "0a4c5c1f11a0"
+      ],
+      "concepts": []
+    }
+  ]
+}

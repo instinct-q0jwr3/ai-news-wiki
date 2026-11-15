@@ -1,0 +1,14 @@
+{
+  "id": "6e370e2d53b1",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-15T03:44:48.443377+00:00",
+  "prose": "Simon Willison announces OpenAI-compatible endpoint support in datasette-llm 0.1a11, the configuration layer used by other Datasette plugins. This lets a Datasette application select a locally or remotely hosted model through the same API-style interface.\n\nThe example combines Datasette Agent with a local model server. Compatibility with the protocol is the key addition, not a claim that every model supports the same tools, performs equally well or keeps data local when pointed at a remote endpoint.",
+  "highlights": [
+    "Release adds configurable compatible endpoints",
+    "Plugin supplies models to other plugins",
+    "Local servers are one supported use case",
+    "Protocol compatibility differs from model capability",
+    "Data location depends on endpoint choice"
+  ]
+}

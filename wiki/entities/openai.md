@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-14 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-15 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-15** - Simon Willison announces OpenAI-compatible endpoint support in datasette-llm 0.1a11, the configuration layer used by other Datasette plugins. This lets a Datasette application select a locally or remotely hosted model through the same API-style… ([datasette-llm 0.1a11](../summaries/6e370e2d53b1.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-14** - Patrick McGee argues that Apple hardware chief Johny Srouji would be a strong candidate to lead Nvidia and says he believes Srouji would accept. The post quotes separate reporting that Srouji was under consideration, then adds McGee’s assessment of his… ([Patrick McGee on Johny Srouji and Nvidia](../summaries/bdf1721eefed.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-14** - Will Depue’s post describes checkpoint forensics that matches numerical traces in published model weights to GPU initialization patterns. He reports Blackwell matches for six Chinese models and physical-hardware checks for two, presenting the result as… ([Ex-OpenAI researcher finds Blackwell signatures in open-weight models](../summaries/4448ef7d5d0e.md) · [OpenAI](../entities/openai.md))
 - **2026-11-13** - Fortune reports that OpenAI dissolved its standalone robotics team and moved researchers into its main research organization while applied robotics and hardware staff joined Applied. A company spokesperson portrays the change as integration around… ([OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics](../summaries/3d81fe77dbe3.md) · [OpenAI](../entities/openai.md))
