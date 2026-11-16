@@ -1,6 +1,6 @@
 # Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings
 
-_type: news-summary · created: 2026-11-02 · updated: 2026-11-15 · confidence: high_
+_type: news-summary · created: 2026-11-02 · updated: 2026-11-16 · confidence: high_
 
 `hacker-news` `anthropic`
 

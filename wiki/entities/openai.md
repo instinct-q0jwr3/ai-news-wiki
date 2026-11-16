@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-15 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-16** - The Financial Times excerpt indexed by Techmeme says Samsung wants to combine construction, operation and power supply for AI data centers, and is in early discussions about Anthropic and OpenAI as tenants. The article body was inaccessible. Early talks… ([Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants](../summaries/2e11e792cd8e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-15** - The video submission says coding agents helped reverse engineer a 1994 Jeep ECU through inexpensive Arduino hardware. Only the video title and page shell were available, so the actual method, level of vehicle control and safety precautions cannot be… ([Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino video](../summaries/7984ecf3f324.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠
 - **2026-11-15** - Simon Willison announces OpenAI-compatible endpoint support in datasette-llm 0.1a11, the configuration layer used by other Datasette plugins. This lets a Datasette application select a locally or remotely hosted model through the same API-style… ([datasette-llm 0.1a11](../summaries/6e370e2d53b1.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-14** - Patrick McGee argues that Apple hardware chief Johny Srouji would be a strong candidate to lead Nvidia and says he believes Srouji would accept. The post quotes separate reporting that Srouji was under consideration, then adds McGee’s assessment of his… ([Patrick McGee on Johny Srouji and Nvidia](../summaries/bdf1721eefed.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

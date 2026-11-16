@@ -1,0 +1,14 @@
+{
+  "id": "e5ce0d3e4dbb",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.672112+00:00",
+  "prose": "Skillset wraps Vercel’s Skills CLI to install reusable collections of agent skills from a JSON manifest. Repository sources can be pinned to commits, and collections can be shared within a project or kept separately for reuse across projects.\n\nThe project describes explicit updates, installation choices and lockfile recording. Local paths and direct downloads cannot be pinned, and the underlying CLI has its own telemetry behavior. Reproducible selection is distinct from evaluating whether a skill’s instructions or source code are trustworthy.",
+  "highlights": [
+    "Collections use a JSON manifest",
+    "Repository revisions can be pinned",
+    "Updates are explicit rather than automatic",
+    "Local sources have pinning limits",
+    "Dependency telemetry and content trust remain separate concerns"
+  ]
+}

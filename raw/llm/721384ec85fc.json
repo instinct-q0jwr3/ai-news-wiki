@@ -1,0 +1,14 @@
+{
+  "id": "721384ec85fc",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.672214+00:00",
+  "prose": "Baseten distinguishes tuning an inference deployment along a latency-throughput frontier from improving the frontier itself. Batch sizing and parallelism change resource allocation, while kernels, speculative decoding and phase-specific serving can produce efficiency gains under suitable workloads.\n\nQuantization adds a separate quality tradeoff, and the article stresses that real configurations have abrupt performance thresholds rather than a smooth curve. These are vendor engineering explanations, not a benchmark proving every technique helps every model or traffic mix.",
+  "highlights": [
+    "Batch size changes per-user latency and throughput",
+    "Parallelism depends on interconnect and workload",
+    "Quantization introduces quality considerations",
+    "Speculation competes for resources as well as saving passes",
+    "Empirical sweeps are needed for production settings"
+  ]
+}

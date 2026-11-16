@@ -5,7 +5,7 @@ def norm(u):
     p = urlsplit(u)
     path = re.sub(r'/$','',p.path)
     host = p.netloc.lower().removeprefix('www.')
-    keys = {'id'} if host == 'news.ycombinator.com' else {'v'} if host.endswith('youtube.com') else set()
+    keys = {'id', 'v'}  # Content IDs are meaningful on Qwen blogs as well as HN/YouTube.
     query = urlencode([(k,v) for k,v in parse_qsl(p.query) if k in keys])
     return host + path + ('?' + query if query else '')
 os.chdir(sys.argv[1] if len(sys.argv)>1 else '.')

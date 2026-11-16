@@ -1,6 +1,6 @@
 # Show HN: Jointter – A daily word puzzle using dots and lines
 
-_type: news-summary · created: 2026-10-31 · updated: 2026-11-15 · confidence: high_
+_type: news-summary · created: 2026-10-31 · updated: 2026-11-16 · confidence: high_
 
 `hacker-news`
 

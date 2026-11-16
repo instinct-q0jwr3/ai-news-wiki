@@ -1,0 +1,14 @@
+{
+  "id": "c0b8ca5958bb",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.671784+00:00",
+  "prose": "A Hacker News contributor reports receiving a fake AWS payment email at an address they say was used only on HN. They interpret that as evidence that public contact details are being collected for scams; replies describe similar use of site-specific addresses.\n\nThis is a community anecdote, not a verified campaign investigation or proof of an HN security breach. Publicly posted email addresses can explain the reported exposure without access to private account records.",
+  "highlights": [
+    "Poster reports a site-specific email alias",
+    "Message allegedly impersonated an AWS bill",
+    "Public harvesting is the proposed explanation",
+    "No breach is demonstrated",
+    "Replies provide anecdotes rather than campaign attribution"
+  ]
+}

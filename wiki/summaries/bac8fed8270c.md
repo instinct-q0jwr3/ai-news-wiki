@@ -1,0 +1,29 @@
+# Qwen4-Max
+
+_type: news-summary · created: 2026-11-16 · updated: 2026-11-16 · confidence: high_
+
+`hacker-news` `alibaba` `qwen`
+
+## Summary
+
+Qwen’s announcement as indexed by Techmeme introduces Qwen4-Max as a 2.4-trillion-parameter mixture-of-experts model with a one-million-token context window. The feed attributes to the team a claim of improved results over Qwen3.8-Max using up to roughly half as many tokens.
+
+The linked page yielded only a short shell, not the announcement or evaluation tables. Model size, context capacity and efficiency remain vendor claims from the indexed excerpt; benchmark conditions, availability and independent reproduction could not be established.
+
+## Highlights
+
+- Announcement is indexed by Techmeme
+- Model specifications are vendor claims
+- Efficiency depends on undisclosed evaluation conditions
+- Linked article text was not retrieved
+- Availability and pricing are unverified
+
+_Only a short excerpt of the source could be read._
+
+## Source
+
+[Read the original story](https://qwen.ai/blog?id=qwen4-max)
+
+## Related pages
+
+[Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md)

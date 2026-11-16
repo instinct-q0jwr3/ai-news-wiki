@@ -1,0 +1,14 @@
+{
+  "id": "23b31c283446",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.672454+00:00",
+  "prose": "Datasette Apps 0.4a0 adds fragment-based links between sandboxed HTML and JavaScript apps that can query Datasette data. Apps can use URL fragments to identify a record, and the supported link schemes are reported to Datasette Agent.\n\nThe change supports composing a search interface and a separate record-detail app. It concerns navigation and app context; the release note does not claim that links broaden database access or remove the need to respect existing permissions.",
+  "highlights": [
+    "Apps can consume URL fragments",
+    "Separate apps can link to record views",
+    "Agent receives supported link schemes",
+    "Apps can issue SQL queries",
+    "Navigation support is distinct from access control"
+  ]
+}

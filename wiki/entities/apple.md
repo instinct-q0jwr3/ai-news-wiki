@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-15 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-16** - 9to5Mac reports Mount Thor raised $45 million across seed and Series A rounds to expand Apple-silicon cloud infrastructure. The service offers managed Mac compute and customer-owned hardware hosted at its sites, targeting agent environments, Apple software… ([Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction](../summaries/cd48de158929.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-15** - Daring Fireball uses the membership of the President’s Council of Advisors on Science and Technology to criticize technology leaders’ proximity to the administration. The linked White House page confirms David Sacks and Michael Kratsios as co-chairs and… ([The Legion of PCAST](../summaries/419f82a2d364.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-15** - Bloomberg’s report, as indexed by Techmeme, says Apple plans to introduce smart glasses at WWDC and ship them by the end of 2027, with third-party iPhone apps and Siri AI central to the experience. The article body was inaccessible. These are attributed… ([Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI](../summaries/fe1dabcc68dc.md) · [Apple](../entities/apple.md)) 🔒
 - **2026-11-14** - Patrick McGee argues that Apple hardware chief Johny Srouji would be a strong candidate to lead Nvidia and says he believes Srouji would accept. The post quotes separate reporting that Srouji was under consideration, then adds McGee’s assessment of his… ([Patrick McGee on Johny Srouji and Nvidia](../summaries/bdf1721eefed.md) · [OpenAI](../entities/openai.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

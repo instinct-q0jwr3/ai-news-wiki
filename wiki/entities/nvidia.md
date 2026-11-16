@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-15 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-16 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-16** - The Wall Street Journal excerpt indexed by Techmeme says Nvidia leadership is considering a retreat from aggressive AI financing, with upfront customer payments expected to play a larger role. It attributes earlier plans to Jensen Huang and possible… ([Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further](../summaries/a0a1b102d343.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-15** - Daring Fireball uses the membership of the President’s Council of Advisors on Science and Technology to criticize technology leaders’ proximity to the administration. The linked White House page confirms David Sacks and Michael Kratsios as co-chairs and… ([The Legion of PCAST](../summaries/419f82a2d364.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-15** - Techmeme’s excerpt of Bloomberg reporting says Nvidia appealed to Taiwanese officials after a manager was charged in a chip-smuggling case and sought advice from TSMC, which reportedly declined to get involved. The underlying article was inaccessible. A… ([Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved](../summaries/4fe7ebd22e9b.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-15** - Wccftech interprets reported Nvidia financing commitments as a way of supporting demand for its chips when large customers were developing alternatives. It recounts reported disagreements over guarantees and connects them with commentary about unused… ([Jensen Huang allegedly manufactured the GPU shortage](../summaries/f4ece00249e5.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

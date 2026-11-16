@@ -1,6 +1,6 @@
 # WiCi: Connecting GPUs over WiFi
 
-_type: news-summary · created: 2026-11-03 · updated: 2026-11-15 · confidence: high_
+_type: news-summary · created: 2026-11-03 · updated: 2026-11-16 · confidence: high_
 
 `hacker-news` `compute-buildout`
 

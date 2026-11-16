@@ -1,0 +1,14 @@
+{
+  "id": "8b1995c75e00",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.672383+00:00",
+  "prose": "Datasette Agent 0.6a0 puts an agent prompt on the Datasette homepage and supports hash-mentions of tables and queries. Simon Willison presents it as a collection of small fixes to the data-questioning plugin. The short release note does not establish new model capabilities, permission changes or accuracy guarantees.",
+  "highlights": [
+    "Homepage gains an agent prompt",
+    "Hash-mentions refer to tables and queries",
+    "Release collects small fixes",
+    "Note is the maintainer’s description",
+    "No broader capability benchmark is supplied"
+  ]
+}

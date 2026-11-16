@@ -1,0 +1,14 @@
+{
+  "id": "a5db7f1b8901",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.671869+00:00",
+  "prose": "A hardware developer describes using Claude Code to design an analog synthesizer through specifications, SPICE simulations, PCB generation and firmware. After assembled boards arrived, software-controlled instruments and an audio loopback supported calibration and comparison with simulation.\n\nThe account includes substantial human direction: choosing the concept, reviewing the design, reorganizing PCB blocks, switching to four layers and fixing a hand-soldered bridge. Small touch keys remained awkward. The working board is evidence from one reported build, not proof that arbitrary mixed-signal circuits can be designed without expert oversight.",
+  "highlights": [
+    "Workflow starts with a complete specification",
+    "Simulation informs circuit revisions",
+    "PCB layout required human intervention",
+    "Physical boards were tested and calibrated",
+    "One build does not establish general autonomy"
+  ]
+}

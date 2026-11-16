@@ -1,6 +1,6 @@
 # AI delivers 'zero financial payoff' to most companies, Apollo economist says
 
-_type: news-summary · created: 2026-11-02 · updated: 2026-11-15 · confidence: high_
+_type: news-summary · created: 2026-11-02 · updated: 2026-11-16 · confidence: high_
 
 `hacker-news` `external-evaluation`
 

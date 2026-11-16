@@ -1,6 +1,6 @@
 # Qwen
 
-_type: product · created: 2026-09-19 · updated: 2026-11-15 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
 
 `entity` `qwen` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Qwen is Alibaba's family of open-weight large language and image models. This pa
 
 ## Timeline
 
+- **2026-11-16** - Qwen’s announcement as indexed by Techmeme introduces Qwen4-Max as a 2.4-trillion-parameter mixture-of-experts model with a one-million-token context window. The feed attributes to the team a claim of improved results over Qwen3.8-Max using up to roughly… ([Qwen4-Max](../summaries/bac8fed8270c.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md)) ⚠
+- **2026-11-16** - Qwen’s announcement as indexed by Techmeme introduces Qwen4-Max as a 2.4-trillion-parameter mixture-of-experts model with a one-million-token context window. The feed attributes to the team a claim of improved results over Qwen3.8-Max using up to roughly… ([Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens](../summaries/36e30a174d73.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md)) ⚠
 - **2026-11-15** - Simon Willison announces OpenAI-compatible endpoint support in datasette-llm 0.1a11, the configuration layer used by other Datasette plugins. This lets a Datasette application select a locally or remotely hosted model through the same API-style… ([datasette-llm 0.1a11](../summaries/6e370e2d53b1.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-14** - Unsloth updates its Qwen3.8-27B quantizations with Dynamic V3.1 and reports improved accuracy at comparable sizes on several coding and general benchmarks. The documentation describes a dense vision-and-reasoning model that can run locally at reduced… ([Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](../summaries/711dcf762b7f.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-13** - Isometric SF presents a pixel-art map of the San Francisco Bay Area. The accessible page mainly supplies loading text and credits, identifying map, imagery, land-cover and elevation sources rather than explaining the implementation.

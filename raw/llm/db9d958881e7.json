@@ -1,0 +1,14 @@
+{
+  "id": "db9d958881e7",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.672543+00:00",
+  "prose": "Simon Willison introduces a Datasette mapping plugin combining MapLibre GL with OpenFreeMap. It renders latitude-longitude points and GeoJSON shapes, using SVG previews before loading WebGL previews when they enter view.\n\nThe author says most of the initial implementation came from one Claude prompt guided by existing plugins and a local demo, and supplies a Datasette Lite demonstration. This is a maintainer account of assisted development, not an independent test of the plugin’s correctness or mapping-service availability.",
+  "highlights": [
+    "Plugin uses MapLibre and OpenFreeMap",
+    "Points and shapes can share a map",
+    "Lazy WebGL previews limit initial rendering work",
+    "Demo runs through Datasette Lite",
+    "Development account is author-reported"
+  ]
+}

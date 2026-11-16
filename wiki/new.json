@@ -1,59 +1,125 @@
 {
- "generated_at": "2026-11-15T21:44:29+00:00",
+ "generated_at": "2026-11-16T03:45:29+00:00",
  "stories": [
   {
-   "id": "7d64f1110092",
-   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+   "id": "bac8fed8270c",
+   "title": "Qwen4-Max",
    "source": "Hacker News",
-   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
+   "url": "https://qwen.ai/blog?id=qwen4-max"
   },
   {
-   "id": "4c1a8c7a7548",
-   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+   "id": "8df6b8be193a",
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
    "source": "Hacker News",
-   "url": "https://github.com/db-branch/db-branch"
+   "url": "https://www.hntrends.com/2026/november.html"
   },
   {
-   "id": "d21e7675ce72",
-   "title": "Ask HN: What does building hardware with AI look like?",
+   "id": "c0b8ca5958bb",
+   "title": "Tell HN: HN is being scraped for emails to scam",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50508089"
+   "url": "https://news.ycombinator.com/item?id=50513451"
   },
   {
-   "id": "b767b2e7a24f",
-   "title": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China",
+   "id": "a5db7f1b8901",
+   "title": "Agentic AI Designs an Analog Synthesizer",
+   "source": "Hacker News",
+   "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/"
+  },
+  {
+   "id": "c0d2379d96a6",
+   "title": "Artificial Intelligence for the Z80",
+   "source": "Hacker News",
+   "url": "https://www.dfsantos.com/en/libro-ia-z80"
+  },
+  {
+   "id": "dd748603ec0c",
+   "title": "Show HN: Attest – Test what AI agents do, not just what they say",
+   "source": "Hacker News",
+   "url": "https://attest-framework.github.io/"
+  },
+  {
+   "id": "e5ce0d3e4dbb",
+   "title": "Show HN: Skillset: Easily curate and install agent skills collection",
+   "source": "Hacker News",
+   "url": "https://github.com/itsmeyaw/skillset"
+  },
+  {
+   "id": "721384ec85fc",
+   "title": "The efficient frontier of LLM inference",
+   "source": "Hacker News",
+   "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization"
+  },
+  {
+   "id": "a0a1b102d343",
+   "title": "Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22"
+   "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388"
   },
   {
-   "id": "fe1dabcc68dc",
-   "title": "Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI",
+   "id": "23b31c283446",
+   "title": "datasette-apps 0.4a0",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/"
+  },
+  {
+   "id": "d95fcc4a622f",
+   "title": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDc1NTQ2MSwiZXhwIjoxNzk1MzYwMjYxLCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.2TeBxZfpuwFLhhyEns0-GWBuy-YbU6nhgWwD5smKMD4"
+   "url": "https://epochai.substack.com/p/what-huaweis-horinger-data-center"
   },
   {
-   "id": "419f82a2d364",
-   "title": "The Legion of PCAST",
-   "source": "Daring Fireball",
-   "url": "https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/"
+   "id": "061fc5395004",
+   "title": "AI Slop Is Great, Actually",
+   "source": "Westenberg",
+   "url": "https://www.joanwestenberg.com/p/ai-slop-is-great-actually"
   },
   {
-   "id": "0293decf97a6",
-   "title": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
-   "source": "Daring Fireball",
-   "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026"
-  },
-  {
-   "id": "4fe7ebd22e9b",
-   "title": "Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved",
+   "id": "cd48de158929",
+   "title": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case"
+   "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/"
   },
   {
-   "id": "010c2d9a3566",
-   "title": "Strata — memory is explicit I/O",
-   "source": "Lobsters",
-   "url": "https://yrashk.com/strata/"
+   "id": "d4a101923e0b",
+   "title": "Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom"
+  },
+  {
+   "id": "36e30a174d73",
+   "title": "Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens",
+   "source": "Techmeme",
+   "url": "https://qwen.ai/blog?id=qwen4-max"
+  },
+  {
+   "id": "db9d958881e7",
+   "title": "datasette-maplibre 0.1a0",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+  },
+  {
+   "id": "416fcc4f194c",
+   "title": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation",
+   "source": "Techmeme",
+   "url": "https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/"
+  },
+  {
+   "id": "58bd47a08a82",
+   "title": "datasette 1.0a43",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/"
+  },
+  {
+   "id": "8b1995c75e00",
+   "title": "datasette-agent 0.6a0",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
+  },
+  {
+   "id": "2e11e792cd8e",
+   "title": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2"
   }
  ]
 }

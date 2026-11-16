@@ -1,0 +1,14 @@
+{
+  "id": "58bd47a08a82",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.672304+00:00",
+  "prose": "Simon Willison’s Datasette 1.0a43 release note introduces streaming output renderers, including CSV and TSV exports, alongside smaller interface changes and security fixes. One reported flaw exposed the title and SQL of private stored queries without allowing those queries to execute.\n\nThe release also adds cross-document view transitions while retaining a multi-page application. Browser support and future Firefox timing are the author’s report, not a promise that every client receives the same effect.",
+  "highlights": [
+    "Output renderers gain streaming support",
+    "CSV and TSV use the new path",
+    "Private-query metadata exposure is addressed",
+    "Query execution is distinguished from disclosure",
+    "Interface remains a multi-page application"
+  ]
+}

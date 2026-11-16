@@ -1,6 +1,6 @@
 # Are we just going to ignore that books are destroyed for AI?
 
-_type: news-summary · created: 2026-11-13 · updated: 2026-11-15 · confidence: high_
+_type: news-summary · created: 2026-11-13 · updated: 2026-11-16 · confidence: high_
 
 `hacker-news`
 

@@ -1,6 +1,6 @@
 # Tell HN: Google Search to start locking down search behind a login wall
 
-_type: news-summary · created: 2026-11-14 · updated: 2026-11-15 · confidence: high_
+_type: news-summary · created: 2026-11-14 · updated: 2026-11-16 · confidence: high_
 
 `hacker-news` `google` `compute-buildout`
 

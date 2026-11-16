@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-15 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-16** - A Hacker News contributor reports receiving a fake AWS payment email at an address they say was used only on HN. They interpret that as evidence that public contact details are being collected for scams; replies describe similar use of site-specific… ([Tell HN: HN is being scraped for emails to scam](../summaries/c0b8ca5958bb.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-15** - Daring Fireball uses the membership of the President’s Council of Advisors on Science and Technology to criticize technology leaders’ proximity to the administration. The linked White House page confirms David Sacks and Michael Kratsios as co-chairs and… ([The Legion of PCAST](../summaries/419f82a2d364.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-15** - Niklas Roy describes building a working pendulum clock from drink cartons and simple household materials. A browser tool developed with Claude helped design and simulate the escapement, but physical prototypes exposed the limits of cardboard precision: a… ([Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](../summaries/0a11dd8f4cd1.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-14** - Terminactory is presented in its submission as a terminal-native idle factory game built with Rust and ratatui. The retrieved GitLab page supplied only the project name, so game mechanics, installation requirements, license terms and any role for AI cannot… ([Show HN: A terminal-native idle factory game, written in Rust with ratatui](../summaries/48bd3c0d2719.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠

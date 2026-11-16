@@ -1,0 +1,14 @@
+{
+  "id": "cd48de158929",
+  "schema": 1,
+  "model": "agent-pass",
+  "authored_at": "2026-11-16T03:47:28.672668+00:00",
+  "prose": "9to5Mac reports Mount Thor raised $45 million across seed and Series A rounds to expand Apple-silicon cloud infrastructure. The service offers managed Mac compute and customer-owned hardware hosted at its sites, targeting agent environments, Apple software testing and model inference.\n\nClaims of superior efficiency and suitability for agents are attributed to the company and investors. The article distinguishes this pitch from the already existing Mac-cloud market; it does not supply an independent cost or performance comparison.",
+  "highlights": [
+    "Funding combines seed and Series A",
+    "Managed and customer-managed options differ",
+    "Agent use is one target workload",
+    "Mac cloud hosting predates this company",
+    "Efficiency claims lack an independent benchmark here"
+  ]
+}
