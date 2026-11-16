@@ -1,0 +1,13 @@
+{
+  "id": "8cd4792e9009",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Axonnic’s founders describe a 64-channel forearm EMG sleeve that estimates finger joint motion and fingertip force while leaving the hand uncovered. They synchronize muscle recordings with hand tracking for training and calibrate force estimates against physical sensors, aiming to collect demonstrations for dexterous robots.\n\nThe launch reports a 6.9-degree error in one 215-second test four days after training, plus factory data collection and a letter of intent. Those are founder-reported examples, not broad validation across users, fatigue, tasks or repeated rewearing. Proposed wired electronics are intended to address recording problems encountered in pilots.",
+  "highlights": [
+    "Muscle activity complements visible hand motion",
+    "Force estimation uses calibration sensors",
+    "Reported benchmark covers a limited test",
+    "Factory examples are pilots and data collection",
+    "Generalization and fatigue need separate evaluation"
+  ]
+}

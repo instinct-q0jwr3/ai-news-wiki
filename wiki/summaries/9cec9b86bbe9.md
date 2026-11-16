@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-11-16 · updated: 2026-11-16 · confidence: high_
 
-`stratechery` `nvidia`
+`stratechery` `nvidia` `small-specialist-models` `compute-buildout`
 
 ## Summary
 
@@ -24,4 +24,4 @@ The essay combines reported events with an argument for innovation and openness 
 
 ## Related pages
 
-[NVIDIA](../entities/nvidia.md)
+[NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)

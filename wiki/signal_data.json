@@ -1792,8 +1792,8 @@
   "unreadable": 2
  },
  "2026-11-02": {
-  "ok": 52,
-  "paywall": 10,
+  "ok": 53,
+  "paywall": 9,
   "picks": [
    {
     "cat": "ok",
@@ -2574,5 +2574,61 @@
   "thin": 3,
   "total": 25,
   "unreadable": 1
+ },
+ "2026-11-16": {
+  "ok": 43,
+  "paywall": 13,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "a3a765808527",
+    "minutes": 7,
+    "source": "empero.org",
+    "title": "Quark: our whole training stack, end to end, for $4,200",
+    "why": "A small-model training release reports its full compute bill and explains why training rollouts are not held-out agent results."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "9947b8de96c0",
+    "minutes": 21,
+    "source": "anthropic.com",
+    "title": "Building strong safety evaluations",
+    "why": "A methods guide makes grader validity, multi-turn context and statistical uncertainty central to safety claims."
+   },
+   {
+    "cat": "ok",
+    "front": "Products",
+    "id": "c6a44373ea58",
+    "minutes": 2,
+    "source": "devin.ai",
+    "title": "Devin Apps",
+    "why": "Private internal apps combine stable links and versioned deployment with clear single-machine and billing limits."
+   },
+   {
+    "cat": "ok",
+    "front": "Interoperability",
+    "id": "da95cc2bdb02",
+    "minutes": 2,
+    "source": "sierra.ai",
+    "title": "Releasing Personal Agent Protocol 1.0",
+    "why": "A protocol release separates service discovery and OAuth access from the customer permission still needed for actions."
+   },
+   {
+    "cat": "ok",
+    "front": "Robotics",
+    "id": "8cd4792e9009",
+    "minutes": 5,
+    "source": "news.ycombinator.com",
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "why": "A forearm sleeve captures muscle activity and force estimates for demonstrations, with the limits of its pilot evidence explicit."
+   }
+  ],
+  "reserve": "0ef208ee8ae4",
+  "status": "provisional",
+  "thin": 9,
+  "total": 75,
+  "unreadable": 10
  }
 }

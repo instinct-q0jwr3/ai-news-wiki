@@ -1,0 +1,13 @@
+{
+  "id": "d0719828a273",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "TechCrunch reports OpenAI introduced a child-abuse-image classifier for selected partners, warning screens and temporary suspensions for prohibited attempts, plus guidance and investigator support. The company says early partner tests reduced reviewer workload while finding the same number of abusive images.\n\nThose are company test results rather than independent estimates of real-world recall or false positives. The classifier provides scores for review, and new warnings do not demonstrate that all harmful behavior is prevented.",
+  "highlights": [
+    "Classifier access is limited to selected partners",
+    "Warnings add deterrence to existing blocking",
+    "Early efficiency claims come from OpenAI",
+    "Scores inform rather than replace review",
+    "Real-world effectiveness requires further evidence"
+  ]
+}

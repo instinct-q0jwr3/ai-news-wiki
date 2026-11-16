@@ -1,0 +1,13 @@
+{
+  "id": "f6f8efc1508f",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "OpenAI’s child-safety announcement, as described in TechCrunch’s separate report, introduces an image classifier, deterrent warnings and developer guidance against child sexual abuse material. The primary announcement itself was inaccessible.\n\nReported efficiency gains come from OpenAI’s early partner tests, not an independent audit. The existence of new tools does not establish complete detection or prevention, and the classifier’s scores still support a review process rather than settling every case.",
+  "highlights": [
+    "Primary announcement could not be read",
+    "Separate coverage supplies the product description",
+    "Classifier targets previously unseen material",
+    "Early results are company-reported",
+    "Detection and deterrence remain imperfect"
+  ]
+}

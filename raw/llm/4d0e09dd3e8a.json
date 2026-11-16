@@ -1,0 +1,13 @@
+{
+  "id": "4d0e09dd3e8a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Emittr’s repository describes using a compatible rooted Android device as a USB keyboard and mouse, with optional control through a local-network web interface. The project aims to provide input without installing software on the target machine.\n\nCompatibility depends on the phone’s kernel and USB gadget support. Claims that keyboards are never blocked are promotional overstatements, not a universal security fact. A network-controllable input device also creates authentication and physical-access risks; using it does not authorize bypassing a system owner’s restrictions.",
+  "highlights": [
+    "Project emulates standard USB input",
+    "Root and compatible hardware are required",
+    "Target-side installation is not the design",
+    "Network control expands the trust boundary",
+    "Claims of universal access are not verified"
+  ]
+}

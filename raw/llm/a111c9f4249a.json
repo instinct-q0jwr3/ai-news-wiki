@@ -1,0 +1,13 @@
+{
+  "id": "a111c9f4249a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "TechCrunch reports an FBI warning that attackers are using autonomous penetration-testing tools such as Artex in real intrusions. The account describes exposed credentials, missing protections and rapid movement through compromised networks, rather than requiring previously unknown vulnerabilities.\n\nCase details and the under-three-hour claim are attributed to the advisory and cited investigators. The tools can produce a noisy trail even as they accelerate attacks, and the account does not establish that every operation was fully autonomous or share one attribution.",
+  "highlights": [
+    "Report cites an FBI advisory",
+    "Weak credentials are among the reported entry points",
+    "Several incidents have distinct sources and attribution",
+    "Automation can be fast and conspicuous",
+    "No exploit procedure is supplied"
+  ]
+}

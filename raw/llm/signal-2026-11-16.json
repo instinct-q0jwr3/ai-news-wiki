@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-11-16",
+  "date": "2026-11-16",
+  "status": "provisional",
+  "reserve": "0ef208ee8ae4",
+  "picks": [
+    {
+      "id": "a3a765808527",
+      "front": "Research",
+      "source": "empero.org",
+      "why": "A small-model training release reports its full compute bill and explains why training rollouts are not held-out agent results."
+    },
+    {
+      "id": "9947b8de96c0",
+      "front": "Safety",
+      "source": "anthropic.com",
+      "why": "A methods guide makes grader validity, multi-turn context and statistical uncertainty central to safety claims."
+    },
+    {
+      "id": "c6a44373ea58",
+      "front": "Products",
+      "source": "devin.ai",
+      "why": "Private internal apps combine stable links and versioned deployment with clear single-machine and billing limits."
+    },
+    {
+      "id": "da95cc2bdb02",
+      "front": "Interoperability",
+      "source": "sierra.ai",
+      "why": "A protocol release separates service discovery and OAuth access from the customer permission still needed for actions."
+    },
+    {
+      "id": "8cd4792e9009",
+      "front": "Robotics",
+      "source": "news.ycombinator.com",
+      "why": "A forearm sleeve captures muscle activity and force estimates for demonstrations, with the limits of its pilot evidence explicit."
+    }
+  ]
+}

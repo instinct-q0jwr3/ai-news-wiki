@@ -13,8 +13,6 @@ The New York Times details Anthropic's compute-deal spree: more than 3.5 gigawat
 - NYT: Anthropic has 3.5GW+ of expected capacity lined up for 2026, diversified across Amazon, Google, AMD and others
 - The deal spree is the physical footprint behind the S-1's $895B commitments figure
 
-_The original source is behind a paywall._
-
 ## Source
 
 [Read the original story](https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html)

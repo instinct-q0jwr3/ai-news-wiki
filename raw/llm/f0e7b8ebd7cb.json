@@ -1,0 +1,13 @@
+{
+  "id": "f0e7b8ebd7cb",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Anthropic says its coordinated disclosure policy will give maintainers 30 days for human-reviewed high- and critical-severity findings and 45 days for other findings reported from January 1, 2027. Existing reports retain their deadlines, with a separate transition described for overdue serious findings.\n\nThe update also shortens nonresponse escalation and post-patch detail publication periods. Active exploitation retains a seven-day window, and hard-to-fix cases may receive negotiated timelines. This is Anthropic’s disclosure policy, not a new legal deadline for every maintainer or a rule covering unreviewed automated findings.",
+  "highlights": [
+    "New windows start with reports from January 2027",
+    "High and critical issues receive 30 days",
+    "Other covered issues receive 45 days",
+    "Active exploitation and difficult remediation have distinct treatment",
+    "Unreviewed automated findings are excluded"
+  ]
+}
