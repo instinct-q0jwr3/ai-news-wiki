@@ -1,0 +1,13 @@
+{
+  "id": "c0ea354e7b0c",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "TechCrunch reports Apple launched a research app with OpenEvidence to study health-AI use for more than a year, targeting up to 200,000 eligible US participants. The app answers health questions and can personalize responses using data participants choose to share from HealthKit.\n\nApple’s reported privacy commitments include anonymization, no model training and deletion of query-response data by OpenEvidence after 24 hours. These are provider statements, not an independent privacy audit or proof of clinical benefit. The study should not be confused with a general release of equivalent functionality in Health or Siri.",
+  "highlights": [
+    "App is part of a research study",
+    "Enrollment has US and device eligibility limits",
+    "HealthKit sharing is optional",
+    "Privacy terms are attributed to Apple",
+    "Clinical outcomes remain to be studied"
+  ]
+}

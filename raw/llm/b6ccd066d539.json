@@ -1,0 +1,13 @@
+{
+  "id": "b6ccd066d539",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Techmeme’s excerpt of South China Morning Post reporting says Alibaba filtered Qwen4-Max training data to reduce offensive cyber capabilities and chemical, biological, radiological and nuclear risks. The supplied link led to the publication’s homepage, not the article. This records a vendor safety claim, not independent evidence that those capabilities were removed or that safeguards resist adversarial use.",
+  "highlights": [
+    "Claim concerns training-data filtering",
+    "Risk categories are vendor-reported",
+    "Feed link resolves to a homepage",
+    "No evaluation protocol was available",
+    "Mitigation claims are not safety guarantees"
+  ]
+}

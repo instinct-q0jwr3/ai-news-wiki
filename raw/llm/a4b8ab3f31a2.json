@@ -1,0 +1,13 @@
+{
+  "id": "a4b8ab3f31a2",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Techmeme’s Artificial Analysis excerpt assigns Qwen4-Max a score of 43 on its Intelligence Index and reports lower task cost than Qwen3.8-Max, while placing it behind Kimi K3.1 Pro at a somewhat lower cost. The supplied URL retrieved the general benchmarking homepage rather than that model’s results. The exact score, cost basis and comparison settings remain excerpt-attributed.",
+  "highlights": [
+    "Feed attributes evaluation to Artificial Analysis",
+    "Score differs from a universal capability measure",
+    "Task cost depends on evaluation settings",
+    "Model-specific result page was not retrieved",
+    "General homepage cannot verify the numbers"
+  ]
+}
