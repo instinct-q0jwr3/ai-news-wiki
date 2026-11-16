@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1310,
+  "stories": 1311,
   "last": "2026-11-16"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1287,
+  "stories": 1297,
   "last": "2026-11-16"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 496,
-  "last": "2026-11-13"
+  "stories": 510,
+  "last": "2026-11-16"
  },
  {
   "name": "Simon Willison",
@@ -60,14 +60,14 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 27,
-  "last": "2026-11-13"
- },
- {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
+  "stories": 28,
+  "last": "2026-11-16"
+ },
+ {
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
   "stories": 27,
   "last": "2026-11-13"
  },

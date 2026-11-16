@@ -1,0 +1,13 @@
+{
+  "id": "9947b8de96c0",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Anthropic argues that safety evaluations must measure appropriate behavior in context rather than treating refusal as universally desirable. Its guidance combines domain expertise, realistic multi-turn scenarios, validated graders, preregistered analysis and uncertainty reporting.\n\nThe examples show why observational score differences do not identify causes, why configuration changes can alter results, and why apparent percentage-point gaps may be sampling noise. The article is a methods proposal informed by the company’s own evaluations, not proof that its models are safe across untested settings.",
+  "highlights": [
+    "Construct validity comes before a headline score",
+    "Multi-turn context can change the right response",
+    "Grader failures can silently distort results",
+    "Causal claims need controlled comparisons",
+    "Intervals and configuration support interpretation"
+  ]
+}

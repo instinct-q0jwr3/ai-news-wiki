@@ -1,0 +1,13 @@
+{
+  "id": "0ef208ee8ae4",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Nvidia and KAIST’s BirdDreams project jointly generates driving video and a schematic bird’s-eye view from one camera image. An optional ego trajectory guides the camera vehicle, while surrounding traffic motion is predicted rather than supplied as future vehicle states.\n\nThe project reports better trajectory following and human preference against specified baselines. Some comparison variants use matched HD maps, while the proposed inference setup does not require them. Generated plausible reactions and benchmark gains do not establish a validated simulator for safety-critical driving decisions.",
+  "highlights": [
+    "Two generated views exchange information",
+    "Ego trajectories are optional inputs",
+    "Other vehicles’ future motion is predicted",
+    "Comparison conditions differ from default inference",
+    "Simulation realism is not a driving-safety certification"
+  ]
+}

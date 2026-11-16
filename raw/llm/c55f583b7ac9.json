@@ -1,0 +1,13 @@
+{
+  "id": "c55f583b7ac9",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "SiliconANGLE reports GTIG observed an autonomous framework converting patches into working exploits, based on an exposed server and related victim telemetry. It also describes other offensive-agent frameworks and influence operations attributed to Google’s threat reporting.\n\nThis overlaps The Register’s account of the same GTIG finding rather than independently reproducing it. The first-observed framing is limited to the investigator’s visibility, and details of campaign attribution and autonomy remain sourced claims.",
+  "highlights": [
+    "Account derives from Google threat reporting",
+    "Patch-driven exploitation is the central observation",
+    "Other campaigns are separate examples",
+    "First observed is not necessarily first ever",
+    "Multiple articles are not independent forensic confirmation"
+  ]
+}

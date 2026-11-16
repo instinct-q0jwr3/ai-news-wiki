@@ -1,0 +1,13 @@
+{
+  "id": "a3a765808527",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Empero describes Quark as an end-to-end test of its training stack: a roughly 165-million-parameter model taken through pretraining, context extension and reinforcement learning for about $4,200 in reported compute. The release includes checkpoints, code, cost accounting and explicit failure examples.\n\nIts best-in-group benchmark claim uses selected size and token-budget comparisons run by the authors. Long-context checks use teacher-forced answers, and agent results are training rollouts rather than a held-out agent benchmark. The small model still makes confident mistakes and has not been safety-evaluated; the compute bill is not the full cost of building a competitive general model.",
+  "highlights": [
+    "Reported budget includes failed compute experiments",
+    "Checkpoints cover multiple training stages",
+    "Comparison set restricts size and token budgets",
+    "Agent metrics are not held-out capability evidence",
+    "Release explicitly documents limitations"
+  ]
+}

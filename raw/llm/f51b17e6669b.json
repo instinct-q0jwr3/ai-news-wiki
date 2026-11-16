@@ -1,0 +1,13 @@
+{
+  "id": "f51b17e6669b",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "The Register reports Google Threat Intelligence Group found an exposed server running an agent framework that compared software patches, developed exploits and executed them without a human approving each step. The account attributes victim targeting and stolen data on that server to Google’s investigation.\n\nThis is a reported observed campaign, not proof that all intrusions were autonomous from initial intent through every later action. The attribution is tentative, and the underlying forensic evidence was not independently examined here.",
+  "highlights": [
+    "Report attributes findings to GTIG",
+    "Patch comparison is central to the workflow",
+    "Server reportedly contained victim data",
+    "Human-free execution concerns the reported pipeline",
+    "Attribution and coverage remain investigation claims"
+  ]
+}

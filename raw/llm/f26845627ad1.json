@@ -1,0 +1,13 @@
+{
+  "id": "f26845627ad1",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Anthropic’s engineering article describes how to build proactive agents around durable event handling, scheduling, memory, permissions and message delivery. It emphasizes serialized work, recovery after failures and keeping external-system references rather than duplicating facts that can be retrieved.\n\nThe article treats permission checks and restrained notifications as product requirements, not consequences of a more capable model. This is vendor implementation guidance, not a measured reliability result or evidence that any particular deployment follows the design.",
+  "highlights": [
+    "Durability is a surrounding software concern",
+    "Events and scheduled work need coordination",
+    "Permissions apply to unattended actions",
+    "Delivery can require its own recovery path",
+    "Advice does not certify a deployed system"
+  ]
+}

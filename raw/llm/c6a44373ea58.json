@@ -1,0 +1,13 @@
+{
+  "id": "c6a44373ea58",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Devin Apps hosts private internal web applications on the same cloud machine used by Devin, allowing them to use existing integrations and a codebase. The product page describes stable links, signed-in audience controls, versioned deployments and keeping the previous version available if a new one fails to start.\n\nThe vendor says machines sleep between use and billing depends on awake time. Each app runs on one machine and is positioned for internal tools rather than high-traffic services. These are documented product claims, not an independent isolation, cost or reliability audit.",
+  "highlights": [
+    "Apps use stable signed-in links",
+    "Audience can be restricted or widened within an organization",
+    "Deployments retain versions",
+    "Awake time affects billing",
+    "Single-machine design limits the intended workload"
+  ]
+}

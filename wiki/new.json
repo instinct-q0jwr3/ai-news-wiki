@@ -1,107 +1,167 @@
 {
- "generated_at": "2026-11-16T09:46:12+00:00",
+ "generated_at": "2026-11-16T15:47:07+00:00",
  "stories": [
   {
-   "id": "a0a1b102d343",
-   "title": "Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388"
-  },
-  {
-   "id": "a0cf9bcdd67b",
-   "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+   "id": "f51b17e6669b",
+   "title": "Google: AI agent turned a security patch into a exploit with no human help",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes"
+   "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926"
   },
   {
-   "id": "540da2637398",
-   "title": "Google AI Ultra Subscription Not Worth It",
+   "id": "e3a5e348c789",
+   "title": "A look at the Jensen Huang fallout: a threat to Nvidia's organizational moat and its financing of neocloud customers, a win for AI doomers and hawks, and more",
+   "source": "Techmeme",
+   "url": "https://stratechery.com/"
+  },
+  {
+   "id": "f26845627ad1",
+   "title": "Building always-on agents",
+   "source": "TLDR AI",
+   "url": "https://claude.com/resources/articles/building-always-on-agents"
+  },
+  {
+   "id": "a3a765808527",
+   "title": "Quark: our whole training stack, end to end, for $4,200",
+   "source": "TLDR AI",
+   "url": "https://empero.org/writing/quark"
+  },
+  {
+   "id": "a527ca54a4fc",
+   "title": "Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html"
+  },
+  {
+   "id": "3bf3c12b804d",
+   "title": "End‑to‑End 4‑Bit Training",
    "source": "Hacker News",
-   "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/"
+   "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/"
   },
   {
-   "id": "874f975774e9",
-   "title": "Show HN: gavel: guided code review with your coding agent",
-   "source": "Hacker News",
-   "url": "https://photostructure.com/coding/gavel/"
+   "id": "7e7e145f37b7",
+   "title": "Meta's Vision Encoders in Multimodal Models",
+   "source": "TLDR AI",
+   "url": "https://unbundling.github.io/"
   },
   {
-   "id": "a4b8ab3f31a2",
-   "title": "Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost",
+   "id": "f423b6ef2015",
+   "title": "Qwen4-Max: Your New Teammate Has Arrived",
+   "source": "TLDR AI",
+   "url": "https://qwen.ai/blog?id=qwen4-max"
+  },
+  {
+   "id": "c55f583b7ac9",
+   "title": "Google's TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits",
    "source": "Techmeme",
-   "url": "https://artificialanalysis.ai/"
+   "url": "https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/"
   },
   {
-   "id": "c0ea354e7b0c",
-   "title": "Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+   "id": "c68499267b48",
+   "title": "Embla 1",
+   "source": "TLDR AI",
+   "url": "https://sevren.ai/blog/embla-1"
   },
   {
-   "id": "798cb02a10b2",
-   "title": "the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help win overseas business",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?st=e6my7o&reflink=desktopwebshare_permalink"
+   "id": "4095d79344b0",
+   "title": "GPT-6 Astra Tackles a Fundamental Physics Problem",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model/"
   },
   {
-   "id": "2a32990b4f59",
-   "title": "Alibaba says Qwen4-Max, which isn't open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals"
+   "id": "9354ab5ab494",
+   "title": "ChatGPT Wallet",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet/"
   },
   {
-   "id": "1792febc3196",
-   "title": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29"
+   "id": "b565bda1d2e6",
+   "title": "We've made some big updates to Projects in Claude Code!",
+   "source": "TLDR AI",
+   "url": "https://threadreaderapp.com/thread/2121375309287301360.html"
   },
   {
-   "id": "76d779d5430d",
-   "title": "Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+   "id": "814524838b76",
+   "title": "Petition Calls for Nvidia to Reinstate Jensen Huang",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
   },
   {
-   "id": "5c7470741210",
-   "title": "Startups unveil plans to develop floating offshore data centers to bypass land and power constraints, while experts warn of challenges like saltwater corrosion",
+   "id": "30387e084ed6",
+   "title": "Wall Street's 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/data-centers-ocean-f676429a?st=StJGmG&reflink=desktopwebshare_permalink"
+   "url": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32"
   },
   {
-   "id": "b6ccd066d539",
-   "title": "Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks",
+   "id": "cbbf5443289f",
+   "title": "The US-led Pax Silica faces local backlash in the Philippines over a planned AI hub, with concerns about displacement, resources, and threats to sovereignty",
    "source": "Techmeme",
-   "url": "http://www.scmp.com/"
+   "url": "https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html?unlocked_article_code=1.Q1E.S_8o.St--m43lJuOx&smid=url-share"
   },
   {
-   "id": "3be578acf141",
-   "title": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+",
-   "source": "Techmeme",
-   "url": "https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows"
+   "id": "0ef208ee8ae4",
+   "title": "BirdDreams: A Driving World Model",
+   "source": "TLDR AI",
+   "url": "https://research.nvidia.com/labs/sil/projects/birddreams/"
   },
   {
-   "id": "4c2377793700",
-   "title": "Analysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI \"picks and shovels\" trade swings into reverse",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a"
+   "id": "9cec9b86bbe9",
+   "title": "Obituaries",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/obituaries/"
   },
   {
-   "id": "7c7ddee19ef0",
-   "title": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, taking its total funding to $57.6M, and says its revenue grew ~800% YoY in 2026",
+   "id": "dc5d9f709248",
+   "title": "Knit Health, which uses its AI world model to predict patient care needs, forecast treatment impacts, and optimize referrals, raised a $35M Series A led by NEA",
    "source": "Techmeme",
-   "url": "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/"
+   "url": "https://www.axios.com/pro/health-tech-deals/2026/11/16/knit-health-35m-ai-patient-referrals"
   },
   {
-   "id": "77dbd6c8880d",
-   "title": "A look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/inside-chinas-drive-build-an-ai-native-generation-2026-11-16/"
+   "id": "c6a44373ea58",
+   "title": "Devin Apps",
+   "source": "TLDR AI",
+   "url": "https://devin.ai/blog/devin-apps"
   },
   {
-   "id": "70ebfe5504d1",
-   "title": "Copenhagen-based AI accounting software maker Sumary raised a $25M seed led by Singular, taking its total funding to $29.2M after a $4.2M pre-seed in Nov. 2025",
+   "id": "229a83abed4d",
+   "title": "Dreamteam, which uses AI agents for CRM tasks like data capture and research, raised $53M across seed and Series A led by Together Fund and Accel, respectively",
    "source": "Techmeme",
-   "url": "https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms/"
+   "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+  },
+  {
+   "id": "27bbb64dd819",
+   "title": "Tel Aviv- and SF-based Corma, which builds AI agents custom-trained for cyber defense, raised a $125M Series A led by NEA, after raising a $60M seed in August",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387"
+  },
+  {
+   "id": "92115e77d1be",
+   "title": "The Jensen Huang saga is driven by elite factional conflicts: China hawks vs. doves, open vs. closed AI models, and the founder class vs. managerial class",
+   "source": "Techmeme",
+   "url": "https://www.patreon.com/MaxRead/posts/mapping-jensen-175257766"
+  },
+  {
+   "id": "54e7a233acf6",
+   "title": "The US Commerce Department issues an interim rule to limit remote access to advanced AI chips and servers from select countries, such as Singapore and Malaysia",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+  },
+  {
+   "id": "da95cc2bdb02",
+   "title": "Releasing Personal Agent Protocol 1.0",
+   "source": "TLDR AI",
+   "url": "https://sierra.ai/blog/releasing-poppy"
+  },
+  {
+   "id": "9947b8de96c0",
+   "title": "Building strong safety evaluations",
+   "source": "TLDR AI",
+   "url": "https://www.anthropic.com/research/building-strong-safety-evaluations"
+  },
+  {
+   "id": "6f25253ef10e",
+   "title": "On the Brutality of Amdahl's Law",
+   "source": "TLDR AI",
+   "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law"
   }
  ]
 }
