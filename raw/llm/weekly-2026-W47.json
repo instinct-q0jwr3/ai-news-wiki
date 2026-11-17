@@ -297,6 +297,27 @@
         "7f0a051db2b5"
       ],
       "concepts": []
+    },
+    {
+      "title": "Backlogs, token bills and browser migration",
+      "intro": "Developer anecdotes and author-run cost estimates need different evidence from a tested migration or measured productivity gain.",
+      "stories": [
+        "4a13fe9b4338",
+        "dec0d9448b6d",
+        "f19e0c0056a7"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Hardware roadmaps and contested expansion",
+      "intro": "A GPU announcement and reports of distillation, local restrictions and dealership funding describe plans and attributed findings, not uniform proof of deployment outcomes.",
+      "stories": [
+        "42a18560c2f1",
+        "4c974c57ad40",
+        "54cbd041903b",
+        "f5493a14c565"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

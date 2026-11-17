@@ -1,0 +1,13 @@
+{
+  "id": "f19e0c0056a7",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Zigzag’s repository presents a native macOS browser built with Swift and WebKit, with sidebar spaces, Arc migration and claimed Chrome-extension compatibility. The author emphasizes a small installed footprint, no required account and a published list of the app’s own network connections.\n\nThose are project claims rather than an independent privacy or compatibility audit. The browser is described as young, and import support does not establish every password, session or extension migrates correctly. WebKit updates through macOS do not replace security review of the surrounding browser code.",
+  "highlights": [
+    "WebKit supplies the rendering engine",
+    "Sidebar spaces target former Arc users",
+    "Migration and extension support need real testing",
+    "No-account design reduces one service dependency",
+    "Early software still has compatibility and security risks"
+  ]
+}

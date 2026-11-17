@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-17** - Zigzag’s repository presents a native macOS browser built with Swift and WebKit, with sidebar spaces, Arc migration and claimed Chrome-extension compatibility. The author emphasizes a small installed footprint, no required account and a published list of… ([Show HN: Zigzag, a native Mac browser for people leaving Arc](../summaries/f19e0c0056a7.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-17** - A Google social post describes a Gemini 4 Hydrogen demonstration that codes a moving landscape in Google Sheets by changing thousands of cells frame by frame. The post says the work used Antigravity and labels the output as AI-made.
 
 This is a promotional… ([Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets](../summaries/5fb01a0f975b.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

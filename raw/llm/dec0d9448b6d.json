@@ -1,0 +1,13 @@
+{
+  "id": "dec0d9448b6d",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Tokendoctor describes a local Claude Code plugin that analyzes session token use and estimates how smaller context windows or other settings might change cost. Its headline saving is an upper-bound promotional claim; the README itself warns that shorter windows can save nothing or trigger summaries that cost more.\n\nThe project says proposed setting changes require an explicit Apply action and can be undone. Local transcript analysis and replay estimates are not proof of future savings or equal task quality. Its hooks and settings access also need review before installation; no installation or configuration change was performed here.",
+  "highlights": [
+    "Savings depend on session length and workload",
+    "Replay estimates precede proposed changes",
+    "Earlier summaries can increase spending",
+    "Apply and undo are stated product controls",
+    "Cost estimates do not prove equal output quality"
+  ]
+}

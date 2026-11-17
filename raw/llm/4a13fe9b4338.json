@@ -1,0 +1,13 @@
+{
+  "id": "4a13fe9b4338",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "An Ask HN discussion asks why better coding agents have not emptied software teams’ bug backlogs. Replies describe different experiences: quick symptom patches, time spent negotiating acceptable tradeoffs, and workflows where agents first investigate causes before a human chooses a fix.\n\nThese accounts illustrate coordination and verification costs, but they are a self-selected discussion rather than a productivity study. A growing backlog can reflect new demand, prioritization or newly discovered problems as well as slow fixes; its size alone cannot establish how much work agents save.",
+  "highlights": [
+    "Discussion compares personal engineering workflows",
+    "Root-cause work differs from symptom repair",
+    "Task boundaries and tradeoffs consume time",
+    "Backlog size is not a controlled productivity measure",
+    "No representative adoption result follows"
+  ]
+}

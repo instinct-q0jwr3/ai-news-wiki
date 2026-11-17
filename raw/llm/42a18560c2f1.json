@@ -1,0 +1,13 @@
+{
+  "id": "42a18560c2f1",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Tom’s Hardware reports Nvidia announced Rubin HPC for scientific simulation and agent-assisted workloads, with more than 50,000 CUDA cores and a stated 2028 arrival. The report says physical packaging, memory capacity and bandwidth, and native FP64 details were not disclosed.\n\nCore counts and vendor positioning do not establish delivered application performance. The article’s suggestion of a multi-die configuration is inference, not a confirmed layout, and the expected arrival date is a roadmap statement rather than current availability.",
+  "highlights": [
+    "Announcement targets HPC and agent-assisted research",
+    "Core count is vendor-reported",
+    "Memory and FP64 details remain unknown",
+    "Packaging inference is not confirmed design",
+    "Roadmap timing is not present availability"
+  ]
+}
