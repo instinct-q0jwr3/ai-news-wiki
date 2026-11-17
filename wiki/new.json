@@ -1,191 +1,131 @@
 {
- "generated_at": "2026-11-17T15:50:24+00:00",
+ "generated_at": "2026-11-17T21:51:26+00:00",
  "stories": [
   {
-   "id": "033acdfad6db",
-   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "id": "469a3db8f8a2",
+   "title": "GPT‑6.2 Astra and Sol",
    "source": "Hacker News",
-   "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
   },
   {
-   "id": "5638db057c7c",
-   "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+   "id": "16d17f137b43",
+   "title": "MAI Code 2 and Code 2 Flash",
    "source": "Hacker News",
-   "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e"
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
   },
   {
-   "id": "11ecefc76672",
-   "title": "Who Is Anthropic Kidding?",
+   "id": "76d447eb6c73",
+   "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
    "source": "Hacker News",
-   "url": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/"
+   "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc"
   },
   {
-   "id": "60d2790e9920",
-   "title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html?unlocked_article_code=1.OlE.47kX.eivz6u8UMHXN&smid=url-share"
-  },
-  {
-   "id": "9b78f0193aab",
-   "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+   "id": "efddb909bdaf",
+   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
    "source": "Hacker News",
-   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+   "url": "https://github.com/RunanywhereAI/trnrt"
   },
   {
-   "id": "73921541604d",
-   "title": "Pluralistic: Remembrance of proteins past (17 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/17/mississippi-gosh-darn/"
-  },
-  {
-   "id": "3adac9df72f2",
-   "title": "The frontier is still open",
-   "source": "TLDR AI",
-   "url": "https://research.perplexity.ai/"
-  },
-  {
-   "id": "e3ca83573b27",
-   "title": "Hollywood VFX artists and studios are adopting AI and ML tools to streamline rotoscoping, a tedious process that can cost up to $75K for a one-minute scene",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/17/movies/aritifical-intelligence-hollywood-visual-effects.html?unlocked_article_code=1.RFE.I2H3.UgvAdIeAyjOe&smid=url-share"
-  },
-  {
-   "id": "c2158fa031c1",
-   "title": "California state AG sues OpenAI over rogue agent incidents",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-  },
-  {
-   "id": "c35464b39545",
-   "title": "Gemini Notebook Turns Sources Into Interactive Sites",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/"
-  },
-  {
-   "id": "b542d108672a",
-   "title": "d1.2: State-of-the-Art Omnimodal Decision Models",
-   "source": "TLDR AI",
-   "url": "https://www.liquid.ai/blog/d1-2"
-  },
-  {
-   "id": "60dc7db7771d",
-   "title": "The NVIDIA Bubble",
-   "source": "Ed Zitron",
-   "url": "https://www.wheresyoured.at/the-nvidia-bubble/"
-  },
-  {
-   "id": "eab0c36e62dd",
-   "title": "Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is"
-  },
-  {
-   "id": "8393a772bff8",
-   "title": "First phase of embedded assessments at OpenAI",
+   "id": "e378347837ac",
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
    "source": "Hacker News",
-   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+   "url": "https://starsling.dev"
   },
   {
-   "id": "b9ffdd905a05",
-   "title": "Claude was trained on protein sequences at scale",
-   "source": "TLDR AI",
-   "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+   "id": "4497d49316ad",
+   "title": "Not Everything Needs an LLM",
+   "source": "Hacker News",
+   "url": "https://newsletter.posthog.com/p/decision-models"
   },
   {
-   "id": "5c7d12b452e4",
-   "title": "Tiberius Aerospace, a defense-as-a-service startup that uses AI to design long-range supersonic artillery munitions, raised an $85M Series A at a $1B+ valuation",
+   "id": "ee54f36c1d32",
+   "title": "Human.md",
+   "source": "Hacker News",
+   "url": "https://www.human-md.ai/"
+  },
+  {
+   "id": "51194ce554d6",
+   "title": "The Buddhist A.I. Sect That Wants to Take over Silicon Valley",
+   "source": "Hacker News",
+   "url": "https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley"
+  },
+  {
+   "id": "1a0afa1ca577",
+   "title": "Isomorphic Labs $5B Series C",
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html"
+  },
+  {
+   "id": "c22e53855e8a",
+   "title": "Ask HN: Aren't the current cyber attacks suspicious?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50538449"
+  },
+  {
+   "id": "e04f2967eee8",
+   "title": "AI tool has been used to automate cyber intrusions",
+   "source": "Hacker News",
+   "url": "https://abcnews.com/amp/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story"
+  },
+  {
+   "id": "fd18b934f4cc",
+   "title": "Show HN: Your Spreadsheet Is Your Database",
+   "source": "Hacker News",
+   "url": "https://spreadsheettoapp.ai"
+  },
+  {
+   "id": "507d06b9231a",
+   "title": "SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)",
+   "source": "Daring Fireball",
+   "url": "https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/"
+  },
+  {
+   "id": "1cdfb8398bbb",
+   "title": "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
   },
   {
-   "id": "3d00cd70bd7a",
-   "title": "NVIDIA's Rubin HPC",
-   "source": "TLDR AI",
-   "url": "https://blogs.nvidia.com/blog/rubin-hpc/"
-  },
-  {
-   "id": "4ed797a61d83",
-   "title": "Hugging Face and OpenRouter Join Forces",
-   "source": "TLDR AI",
-   "url": "https://huggingface.co/blog/openrouter"
-  },
-  {
-   "id": "82d7f1913932",
-   "title": "Measuring alignment eval tells",
-   "source": "TLDR AI",
-   "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai"
-  },
-  {
-   "id": "6e5771019ad9",
-   "title": "How the Claude Code team thinks about verification",
-   "source": "TLDR AI",
-   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
-  },
-  {
-   "id": "2cab7830caba",
-   "title": "Alphabet's Isomorphic Labs raised a $5B Series C led by Sequoia and Greenoaks, after raising $2.1B in May and $600M in March 2025, to accelerate clinical trials",
+   "id": "f75cdcfbb667",
+   "title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round"
+   "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
   },
   {
-   "id": "9990dd523e2d",
-   "title": "The Trump administration's proposal to curb China's remote access to AI chips rattles Southeast Asia, threatening a data center boom fueled by Chinese companies",
+   "id": "457a15c01643",
+   "title": "Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html?unlocked_article_code=1.RFE.3pta.az4-gkX5GBns&smid=url-share"
+   "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite"
   },
   {
-   "id": "93295ec4c3ad",
-   "title": "Tencent Launches Hy4 flash",
-   "source": "TLDR AI",
-   "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
-  },
-  {
-   "id": "7fec23053eb5",
-   "title": "Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range",
+   "id": "904025e3ff01",
+   "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
+   "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN"
   },
   {
-   "id": "805706b0c66f",
-   "title": "Advancing computer-use agents for healthcare teams",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-  },
-  {
-   "id": "fac77da1b0a0",
-   "title": "World 2030",
-   "source": "TLDR AI",
-   "url": "https://world-2030.pages.dev/"
-  },
-  {
-   "id": "5f7fd63c2937",
-   "title": "Paris-based Genesis AI, which is building a general-purpose robot with greater dexterity for warehouses and homes, raised a $500M Series A at a $3.5B valuation",
+   "id": "bc282173ba4c",
+   "title": "GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol's $2/1M input and $10/1M output token pricing",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?st=VQ2f9L&reflink=desktopwebshare_permalink"
+   "url": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/"
   },
   {
-   "id": "3b2e315b3e11",
-   "title": "Mexico is struggling to attract data centers despite its proximity to the US, hosting just 71 of LatAm's 500+ sites, due to a slow grid expansion and red tape",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites"
+   "id": "7791046af256",
+   "title": "Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page",
+   "source": "Daring Fireball",
+   "url": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/"
   },
   {
-   "id": "9ba954c68349",
-   "title": "SEC filing: Amazon and Google are set to hold nearly 15% and 14% of Anthropic's outstanding capital stock, respectively, after its IPO and private placement",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo"
+   "id": "a49ff87d7934",
+   "title": "Is Compute the New Oil? (And Are We All F**ked?)",
+   "source": "Westenberg",
+   "url": "https://www.joanwestenberg.com/p/is-compute-the-new-oil-and-are-we"
   },
   {
-   "id": "faae4cbedf4d",
-   "title": "A week with Apple Watch's Siri Recap and Live Rewind in beta: inaccurate summaries lag Amazon Bee, Granola, and Otter, and rarely justify the privacy trade-offs",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value"
-  },
-  {
-   "id": "4c55f02bac7f",
-   "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
-   "source": "TLDR AI",
-   "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch"
+   "id": "7dddcbc98095",
+   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
   }
  ]
 }

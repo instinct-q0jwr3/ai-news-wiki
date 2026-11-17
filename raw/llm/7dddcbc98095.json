@@ -1,0 +1,13 @@
+{
+  "id": "7dddcbc98095",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison describes rewriting Datasette Lite so a Python Datasette application runs inside the browser through Pyodide and service workers. URL parameters can select versions, plugins, data and metadata, making reproducible demos and bug comparisons easy to share.\n\nThe approach still depends on browser-compatible packages, data access and CORS. A browser demo is not an independently hosted server, and loading plugins or remote metadata adds trust decisions. The article’s examples demonstrate a workflow rather than universal compatibility.",
+  "highlights": [
+    "Service workers route requests to browser-run Python",
+    "URLs can identify versions and datasets",
+    "Examples compare a bug and its fix",
+    "CORS and package support constrain use",
+    "Remote code and metadata still require trust"
+  ]
+}

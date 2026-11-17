@@ -1,0 +1,13 @@
+{
+  "id": "4497d49316ad",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "PostHog describes using small decision models to screen, route and evaluate bounded tasks before paying for a larger language-model call. Its examples emphasize typed answers and thresholds chosen around the relative cost of false positives and false negatives.\n\nThe reported savings and production skip rate apply to PostHog’s workflows. Calibration must be checked for each task and model, and a cheap filter does not establish that sensitive material will never pass through. Multi-step reasoning remains outside the article’s preferred use cases.",
+  "highlights": [
+    "Structured decisions can reduce unnecessary generation",
+    "Threshold depends on which error is costlier",
+    "Calibration does not automatically transfer",
+    "Reported savings are workload-specific",
+    "Complex reasoning needs different tools"
+  ]
+}

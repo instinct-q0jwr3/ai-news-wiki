@@ -1,0 +1,13 @@
+{
+  "id": "c22e53855e8a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "An Ask HN thread speculates that a cluster of service disruptions may reflect coordinated AI-assisted attacks. Replies challenge both the shared-cause assumption and the evidence offered for it.\n\nThe discussion provides no forensic link between the incidents and does not establish every disruption was a hack. Temporal clustering, competing intuitions and claims of Bayesian reasoning are not substitutes for incident reports or attribution evidence.",
+  "highlights": [
+    "Thread contains competing speculation",
+    "Outage does not necessarily mean compromise",
+    "No common forensic cause is supplied",
+    "Timing alone cannot attribute an attacker",
+    "No coordinated cyberwar is established"
+  ]
+}

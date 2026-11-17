@@ -1,0 +1,13 @@
+{
+  "id": "1cdfb8398bbb",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "TechCrunch reports Google plans to extend retention of temporary Gemini chats and chats with history disabled from seventy-two hours to around two months. It also describes separate controls for conversation history and model training, with a rollout over coming weeks.\n\nThe report attributes the rationale to safety and security and says temporary chats are not used to train models. Retention, training and visibility in history are distinct policies; disabling one does not mean immediate deletion. The underlying policy and account-specific rollout were not independently inspected here.",
+  "highlights": [
+    "Report describes longer temporary-chat retention",
+    "History and training controls are becoming separate",
+    "Temporary does not imply immediate deletion",
+    "Rollout is staged rather than universal immediately",
+    "Legal or safety exceptions can extend storage"
+  ]
+}

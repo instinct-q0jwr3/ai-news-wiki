@@ -1,0 +1,13 @@
+{
+  "id": "efddb909bdaf",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "TrnRT presents an open inference engine for AWS Trainium, initially supporting GLM-5.3-Flash on a single Trainium2 instance. Its repository describes compiled kernels, host and device prefix caching and an OpenAI-compatible serving API.\n\nReported agent-session costs depend on hardware pricing, batch configuration and a specified earlier build. They count input, cached input and output together, so they cannot be read as an equivalent public API output-token price. Model coverage and known issues remain important deployment limits.",
+  "highlights": [
+    "Initial model support is narrow",
+    "Compilation is a separate preparation stage",
+    "Prefix cache spans host and device memory",
+    "Benchmark costs depend on instance pricing",
+    "Earlier-build results are not universal current guarantees"
+  ]
+}

@@ -2,7 +2,7 @@
 
 _type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
-`entity` `deepseek` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-safety-incidents`
+`entity` `deepseek` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
 ## Overview
 
@@ -10,6 +10,9 @@ DeepSeek is the Chinese AI lab whose open-weight models set the pace for the ope
 
 ## Timeline
 
+- **2026-11-17** - TrnRT presents an open inference engine for AWS Trainium, initially supporting GLM-5.3-Flash on a single Trainium2 instance. Its repository describes compiled kernels, host and device prefix caching and an OpenAI-compatible serving API.
+
+Reported… ([Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](../summaries/efddb909bdaf.md) · [Amazon](../entities/amazon.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-14** - The submission points to a Hugging Face listing named DeepSeek V4 Pro 0813. The available extraction contains only collection metadata rather than a usable model card, so architecture, license, release timing and benchmark claims cannot be established from… ([DeepSeek V4 Pro 0813](../summaries/dc82507db691.md) · [DeepSeek](../entities/deepseek.md)) ⚠
 - **2026-11-13** - An analysis by Unemployment Labs, highlighted by Techmeme, finds numerical initialization patterns in six public models consistent with Blackwell hardware. The authors say this supports a training-hardware inference but does not prove the chips' location,… ([Analysis of open weights: six models from DeepSeek, Moonshot, MiniMax, and Ant Group released since April carry fingerprints of export-controlled Blackwell GPUs](../summaries/be52945adb18.md) · [DeepSeek](../entities/deepseek.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-08** - Bloomberg reports that DeepSeek's open-source agent app Harness reached 1.54M daily active users on November 4, less than three months after launch, per the Techmeme headline. Basis: Bloomberg was not readable. ([DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user](../summaries/4f18ba8ecaa1.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒

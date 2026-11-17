@@ -143,6 +143,55 @@
         "11ecefc76672"
       ],
       "concepts": []
+    },
+    {
+      "title": "Launch claims meet outside measurements",
+      "intro": "Model releases combine vendor comparisons, third-party indexes and workload-specific costs rather than one universal ranking.",
+      "stories": [
+        "469a3db8f8a2",
+        "f75cdcfbb667",
+        "bc282173ba4c",
+        "16d17f137b43",
+        "457a15c01643"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Privacy, outages and attribution",
+      "intro": "Retention changes are different from training choices; service disruption alone does not identify a coordinated attacker.",
+      "stories": [
+        "1cdfb8398bbb",
+        "7791046af256",
+        "c22e53855e8a",
+        "e04f2967eee8",
+        "904025e3ff01"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Practical systems beyond a larger model",
+      "intro": "Settings snapshots, browser-run Python and workload-aware inference offer concrete designs with distinct compatibility limits.",
+      "stories": [
+        "507d06b9231a",
+        "7dddcbc98095",
+        "efddb909bdaf",
+        "4497d49316ad",
+        "fd18b934f4cc",
+        "e378347837ac"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Money, creative responsibility and belief",
+      "intro": "Funding, lobbying narratives and cultural essays require different standards of evidence.",
+      "stories": [
+        "1a0afa1ca577",
+        "76d447eb6c73",
+        "ee54f36c1d32",
+        "51194ce554d6",
+        "a49ff87d7934"
+      ],
+      "concepts": []
     }
   ]
 }

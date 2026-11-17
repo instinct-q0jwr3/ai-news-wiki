@@ -2630,5 +2630,61 @@
   "thin": 9,
   "total": 75,
   "unreadable": 10
+ },
+ "2026-11-17": {
+  "ok": 52,
+  "paywall": 9,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "82d7f1913932",
+    "minutes": 20,
+    "source": "metr.org",
+    "title": "Measuring alignment eval tells",
+    "why": "Investigator agents spot evaluation cues, while the authors distinguish recognition from proof that cues change behavior."
+   },
+   {
+    "cat": "ok",
+    "front": "Vision",
+    "id": "2698fce9df1c",
+    "minutes": 14,
+    "source": "github.com",
+    "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+    "why": "One shared tracker serves multiple live streams, with GPU and model-specific benchmark limits made explicit."
+   },
+   {
+    "cat": "ok",
+    "front": "Products",
+    "id": "af9b07226a1b",
+    "minutes": 4,
+    "source": "get.mem.ai",
+    "title": "Mem Is Shutting Down",
+    "why": "An official shutdown notice sets out the read-only and closure dates that make exporting notes timely."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "7dddcbc98095",
+    "minutes": 9,
+    "source": "simonwillison.net",
+    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+    "why": "Browser-run Python and versioned URLs turn a server application into reproducible demos and bug comparisons."
+   },
+   {
+    "cat": "ok",
+    "front": "Infrastructure",
+    "id": "4ed797a61d83",
+    "minutes": 5,
+    "source": "huggingface.co",
+    "title": "Hugging Face and OpenRouter Join Forces",
+    "why": "A routing change adds retries and provider selection behind one token, with data-handling choices still relevant."
+   }
+  ],
+  "reserve": "92e7bf937344",
+  "status": "provisional",
+  "thin": 4,
+  "total": 75,
+  "unreadable": 10
  }
 }

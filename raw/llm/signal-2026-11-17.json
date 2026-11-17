@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-11-17",
+  "date": "2026-11-17",
+  "status": "provisional",
+  "reserve": "92e7bf937344",
+  "picks": [
+    {
+      "id": "82d7f1913932",
+      "front": "Research",
+      "source": "metr.org",
+      "why": "Investigator agents spot evaluation cues, while the authors distinguish recognition from proof that cues change behavior."
+    },
+    {
+      "id": "2698fce9df1c",
+      "front": "Vision",
+      "source": "github.com",
+      "why": "One shared tracker serves multiple live streams, with GPU and model-specific benchmark limits made explicit."
+    },
+    {
+      "id": "af9b07226a1b",
+      "front": "Products",
+      "source": "get.mem.ai",
+      "why": "An official shutdown notice sets out the read-only and closure dates that make exporting notes timely."
+    },
+    {
+      "id": "7dddcbc98095",
+      "front": "Engineering",
+      "source": "simonwillison.net",
+      "why": "Browser-run Python and versioned URLs turn a server application into reproducible demos and bug comparisons."
+    },
+    {
+      "id": "4ed797a61d83",
+      "front": "Infrastructure",
+      "source": "huggingface.co",
+      "why": "A routing change adds retries and provider selection behind one token, with data-handling choices still relevant."
+    }
+  ]
+}

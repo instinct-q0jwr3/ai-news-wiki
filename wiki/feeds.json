@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1337,
+  "stories": 1349,
   "last": "2026-11-17"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1318,
+  "stories": 1323,
   "last": "2026-11-17"
  },
  {
@@ -20,7 +20,7 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 114,
+  "stories": 115,
   "last": "2026-11-17"
  },
  {
@@ -38,7 +38,7 @@
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 60,
+  "stories": 62,
   "last": "2026-11-17"
  },
  {
@@ -132,16 +132,16 @@
   "last": "2026-09-25"
  },
  {
+  "name": "Westenberg",
+  "url": "https://www.joanwestenberg.com/feed",
+  "stories": 6,
+  "last": "2026-11-17"
+ },
+ {
   "name": "Troy Hunt",
   "url": "https://www.troyhunt.com/rss/",
   "stories": 5,
   "last": "2026-11-01"
- },
- {
-  "name": "Westenberg",
-  "url": "https://www.joanwestenberg.com/feed",
-  "stories": 5,
-  "last": "2026-11-16"
  },
  {
   "name": "lcamtuf",

@@ -1,0 +1,13 @@
+{
+  "id": "fd18b934f4cc",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Spreadsheet to App describes importing an Excel workbook into Google Sheets and building an interface that reads and writes the imported tables. The accessible page is a brief product pitch.\n\nIt does not establish faithful formula conversion, access controls, concurrent-write behavior or suitable backups. Keeping data in a sheet may simplify an initial workflow without making it equivalent to a transactional database.",
+  "highlights": [
+    "Pitch converts workbook data into a sheet-backed app",
+    "Interface is described as reading and writing",
+    "Formula fidelity was not checked",
+    "Access and concurrency limits are unknown",
+    "Spreadsheet storage is not automatically database equivalence"
+  ]
+}

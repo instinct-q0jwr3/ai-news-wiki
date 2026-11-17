@@ -1,0 +1,13 @@
+{
+  "id": "7791046af256",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "MacRumors reports Apple account and cloud-service problems, first describing sign-in issues and later adding services listed on Apple’s status pages. Social reports mention a wider set of symptoms, but those reports are not equivalent to confirmed outages for every service.\n\nThis is a time-specific incident report. It does not establish a common cause, a cyberattack or that the disruption remains ongoing when read later.",
+  "highlights": [
+    "Report separates status-page listings from social reports",
+    "Account sign-in was among reported symptoms",
+    "Listed services changed during the incident",
+    "Root cause is not established",
+    "Current status needs a fresh official check"
+  ]
+}

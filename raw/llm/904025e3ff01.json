@@ -1,0 +1,13 @@
+{
+  "id": "904025e3ff01",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A New York Times excerpt indexed by Techmeme reports security company Calif says it used GPT-6 Cyber to find a Java remote-code-execution vulnerability and that Oracle released a patch. The full article was inaccessible. Affected versions, advisory details and exploitability could not be checked here; patch decisions need the official vendor notice.",
+  "highlights": [
+    "Discovery is attributed to a security company",
+    "Excerpt reports a vendor patch",
+    "Affected versions were not retrieved",
+    "No exploit steps are supplied",
+    "Operational guidance requires the official advisory"
+  ]
+}
