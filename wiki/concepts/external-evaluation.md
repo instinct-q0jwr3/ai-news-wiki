@@ -1,6 +1,6 @@
 # Concept: External AI evaluation
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
 `concept` `external-evaluation`
 
@@ -27,6 +27,7 @@ Methods used by third parties, standards groups and labs to measure model capabi
 
 ## Timeline
 
+- **2026-11-17** - Fakemetrics shows a Stripe-style revenue chart with placeholder figures and labels it suitable for a slide or joke. The short page does not substantiate a real business’s revenue or explain a broader product workflow. The displayed dollar amounts should be… ([Show HN: Fakemetrics.com – "build in public" like a superstar](../summaries/025888ec0e70.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [External AI evaluation](../concepts/external-evaluation.md)) ⚠
 - **2026-11-16** - OpenAI’s embedded-assessment announcement is indexed as naming Apollo Research, METR, Transluce and Goodfire as independent assessors under signed agreements. The primary page could not be retrieved, so this entry is limited to the indexed statement.
 
 An… ([First phase of embedded assessments at OpenAI](../summaries/8393a772bff8.md) · [OpenAI](../entities/openai.md) · [External AI evaluation](../concepts/external-evaluation.md)) ⚠
@@ -62,4 +63,3 @@ The… ([Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](../
 - **2026-11-05** - The Information’s feed attributes to METR a finding that Anthropic’s model-development pace has roughly doubled relative to an earlier period, with internal AI use accounting for much of the acceleration. The full report and methodology were unavailable,… ([METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration](../summaries/0198c2b67677.md) · [Anthropic](../entities/anthropic.md) · [External AI evaluation](../concepts/external-evaluation.md)) 🔒
 - **2026-11-05** - The Verge reports OpenAI launched GPT-6 Cyber, which it says beats GPT-6 Astra on cyber benchmarks, finds vulnerabilities better and is less likely to go rogue. On an evaluation modeled on the Hugging Face incident, in which OpenAI's agents breached… ([OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue](../summaries/38a7f86f7a0a.md) · [OpenAI](../entities/openai.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-11-05** - CyberScoop reports OpenAI announced GPT-6 Cyber, first available to a limited set of customers in its Daybreak Red program, which uses more advanced or nonpublic models for offensive red teaming. As previews, OpenAI says it found at least 81 'novel'… ([OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ "novel" vulnerabilities in Firefox](../summaries/745fc0e17815.md) · [OpenAI](../entities/openai.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
-- **2026-11-05** - Gauge is an open-source CLI for improving 'Agent Experience': how easily coding agents discover and use your skills, CLIs, SDKs, MCP servers and docs. It runs real agents against your product, records where they get stuck, and lets your own coding agent… ([Show HN: Gauge – Open-Source CLI to recursively improve your docs](../summaries/28fabb1a434e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [The frontier model price war](../concepts/ai-price-war.md))

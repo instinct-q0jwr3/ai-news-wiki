@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-17** - A Google social post describes a Gemini 4 Hydrogen demonstration that codes a moving landscape in Google Sheets by changing thousands of cells frame by frame. The post says the work used Antigravity and labels the output as AI-made.
+
+This is a promotional… ([Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets](../summaries/5fb01a0f975b.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-13** - TechCrunch reports that Meta has expanded Muse's outbound calls to US businesses to paid subscribers after an earlier limited test. Examples include customer-service calls and restaurants, but the article notes that businesses may reject automated… ([Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option](../summaries/a76c0fbc372a.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-13** - Simon Willison discusses Hydrogen support in llm-gemini 0.37 and questions how Google's model pricing maps to practical value. He notes that temporary Carbon and Argon pricing makes Hydrogen's token discount relatively small until the scheduled price… ([llm-gemini 0.37](../summaries/1a1e98749a2c.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-13** - The indexed Artificial Analysis item compares Gemini 4 Hydrogen with Claude Sonnet 5.5 and GPT-6.1 Sol on an intelligence index and relative cost. The linked social-profile cache contains an unrelated older pinned post rather than the stated… ([Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)](../summaries/1ef190c76f1e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

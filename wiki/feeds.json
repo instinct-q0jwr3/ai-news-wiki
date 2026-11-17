@@ -2,14 +2,14 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1318,
-  "last": "2026-11-16"
+  "stories": 1330,
+  "last": "2026-11-17"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1303,
-  "last": "2026-11-16"
+  "stories": 1305,
+  "last": "2026-11-17"
  },
  {
   "name": "TLDR AI",
@@ -20,14 +20,14 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 113,
-  "last": "2026-11-16"
+  "stories": 114,
+  "last": "2026-11-17"
  },
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 85,
-  "last": "2026-11-15"
+  "stories": 86,
+  "last": "2026-11-17"
  },
  {
   "name": "Latent.Space",
@@ -38,8 +38,8 @@
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 59,
-  "last": "2026-11-15"
+  "stories": 60,
+  "last": "2026-11-17"
  },
  {
   "name": "Pluralistic",
@@ -114,16 +114,16 @@
   "last": "2026-09-25"
  },
  {
+  "name": "geohot",
+  "url": "https://geohot.github.io/blog/feed.xml",
+  "stories": 9,
+  "last": "2026-11-17"
+ },
+ {
   "name": "Max Woolf",
   "url": "https://minimaxir.com/index.xml",
   "stories": 9,
   "last": "2026-10-26"
- },
- {
-  "name": "geohot",
-  "url": "https://geohot.github.io/blog/feed.xml",
-  "stories": 8,
-  "last": "2026-11-13"
  },
  {
   "name": "Geoffrey Litt",

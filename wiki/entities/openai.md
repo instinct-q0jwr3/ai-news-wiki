@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-17** - Fakemetrics shows a Stripe-style revenue chart with placeholder figures and labels it suitable for a slide or joke. The short page does not substantiate a real business’s revenue or explain a broader product workflow. The displayed dollar amounts should be… ([Show HN: Fakemetrics.com – "build in public" like a superstar](../summaries/025888ec0e70.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [External AI evaluation](../concepts/external-evaluation.md)) ⚠
+- **2026-11-17** - The Washington Free Beacon reports business-record links between an Anthropic researcher and a private event organizer, alongside allegations of assault and professional pressure within AI social circles. Daring Fireball links to and comments on that… ([‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’](../summaries/97b5826e973d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-16** - OpenAI’s child-safety announcement, as described in TechCrunch’s separate report, introduces an image classifier, deterrent warnings and developer guidance against child sexual abuse material. The primary announcement itself was inaccessible.
 
 Reported… ([OpenAI: Strengthening the fight against online child sexual abuse](../summaries/f6f8efc1508f.md) · [OpenAI](../entities/openai.md)) ⚠

@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-17** - A Google social post describes a Gemini 4 Hydrogen demonstration that codes a moving landscape in Google Sheets by changing thousands of cells frame by frame. The post says the work used Antigravity and labels the output as AI-made.
+
+This is a promotional… ([Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets](../summaries/5fb01a0f975b.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-16** - The Register reports Google Threat Intelligence Group found an exposed server running an agent framework that compared software patches, developed exploits and executed them without a human approving each step. The account attributes victim targeting and… ([Google: AI agent turned a security patch into a exploit with no human help](../summaries/f51b17e6669b.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-16** - SiliconANGLE reports GTIG observed an autonomous framework converting patches into working exploits, based on an exposed server and related victim telemetry. It also describes other offensive-agent frameworks and influence operations attributed to Google’s… ([Google's TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits](../summaries/c55f583b7ac9.md) · [Google](../entities/google.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-16** - A Reddit submission’s title says Google AI Ultra was not worth its subscription cost to the poster. The discussion could not be retrieved. No specific complaint, price, usage limit or broader customer verdict can be established from that title alone. ([Google AI Ultra Subscription Not Worth It](../summaries/540da2637398.md) · [Google](../entities/google.md)) ⚠

@@ -1,0 +1,13 @@
+{
+  "id": "c8d402a32c26",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison describes LLM 0.37.3 as a bug-fix release addressing a logging incompatibility exposed by Homebrew’s newer SQLite. SQLite 3.54.1 corrects how a JSON array passing through a scalar subquery is typed, so code that relied on the earlier behavior can emit a quoted JSON string instead of a nested array.\n\nThe illustrated workaround explicitly restores JSON typing at the boundary. The note explains a compatibility repair, not a new model feature or evidence that the newer SQLite behavior is itself a regression.",
+  "highlights": [
+    "Release repairs logging compatibility",
+    "Affected path involves Homebrew SQLite",
+    "Scalar-subquery output is SQL text",
+    "Explicit JSON conversion restores intended nesting",
+    "Earlier SQLite behavior is described as the bug"
+  ]
+}

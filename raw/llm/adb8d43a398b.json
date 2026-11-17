@@ -1,0 +1,13 @@
+{
+  "id": "adb8d43a398b",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Tom’s Hardware reports Anthropic told IPO investors that Claude Mythos Preview handled most kernel work needed for prompt processing of one model on AMD MI355X GPUs in roughly three days. The comparison is with the company’s account of earlier accelerator bring-up projects taking six to twelve months.\n\nThat is a company claim about a defined workload reaching useful performance, not independent proof that a complete hardware migration takes three days or that every kernel beats hand tuning. It suggests one possible reduction in porting costs without establishing that Nvidia’s broader software advantage has disappeared.",
+  "highlights": [
+    "Claim comes from an investor presentation",
+    "Scope is prompt processing for one model",
+    "Historical staffing comparisons are not a controlled benchmark",
+    "Useful performance is not universal optimality",
+    "Broader switching costs remain separate"
+  ]
+}

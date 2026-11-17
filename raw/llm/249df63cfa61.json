@@ -1,0 +1,13 @@
+{
+  "id": "249df63cfa61",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A reverse-engineering report traces Windows coding-agent and developer-tool usage categories from executable-name matching through saved state into a diagnostic upload queue. The author describes reproductions in a Windows 11 ARM64 VM and a clean US-region installation, including detection of an ordinary executable renamed as a coding agent.\n\nThe reported output is a bitmap of observed categories, not prompts, source code or time spent in each agent. Upload queuing depended on optional diagnostics, and the author found the feature disabled in another baseline image. The investigation supports a specific privacy concern without showing the behavior is enabled on every Windows installation or independently confirming delivery to Microsoft.",
+  "highlights": [
+    "Name matching can misidentify renamed executables",
+    "Report contains category bitmaps rather than prompts",
+    "Optional diagnostics govern the observed upload queue",
+    "Tests cover specified builds and a US setup",
+    "Queued transmission is not proof of server receipt"
+  ]
+}

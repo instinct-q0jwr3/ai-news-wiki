@@ -321,3 +321,5 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-11-16] ingest | 319 AI stories | snapshot 20261116T154707Z
 ## [2026-11-16] ingest | 286 AI stories | snapshot 20261116T214747Z
 - Partial errors: antirez: The read operation timed out
+## [2026-11-17] ingest | 290 AI stories | snapshot 20261117T034853Z
+- Partial errors: antirez: The read operation timed out

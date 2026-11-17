@@ -244,6 +244,59 @@
         "897ca9d3f363"
       ],
       "concepts": []
+    },
+    {
+      "title": "Who can use a signed-in session?",
+      "intro": "Browser access, local command approval and narrower operating-system permissions expose distinct boundaries. None is a universal safeguard.",
+      "stories": [
+        "1bbf2359261f",
+        "92e7bf937344",
+        "e959fc4a8728",
+        "249df63cfa61"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Serving costs and workload-specific claims",
+      "intro": "GPU porting, tracking throughput and cluster scheduling claims need their hardware and workload boundaries.",
+      "stories": [
+        "adb8d43a398b",
+        "2698fce9df1c",
+        "c17d19332482"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Maintenance includes shutdowns and review gates",
+      "intro": "A service closure and a logging fix are concrete changes; contribution filtering remains a proposed experiment.",
+      "stories": [
+        "af9b07226a1b",
+        "c8d402a32c26",
+        "6a9763582c08"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Demonstrations are not independent evaluations",
+      "intro": "An animated spreadsheet is a promotional example, placeholder charts are fictional, and unreadable learning resources cannot be reviewed.",
+      "stories": [
+        "025888ec0e70",
+        "5fb01a0f975b",
+        "f021e93c6bae",
+        "5e0d4e18b7d6"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Snapshots, allegations and speculative risk",
+      "intro": "Historical portfolio disclosures, attributed misconduct allegations and political predictions must not be flattened into established present facts.",
+      "stories": [
+        "0062eecc288b",
+        "97b5826e973d",
+        "647ea49b7dab",
+        "7f0a051db2b5"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

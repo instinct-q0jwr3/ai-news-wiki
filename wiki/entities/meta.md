@@ -1,6 +1,6 @@
 # Meta
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
 `entity` `meta` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Meta develops open-weight Llama models and deploys AI across its social products
 
 ## Timeline
 
+- **2026-11-17** - Tamserve presents a shared serving engine for SAM 2-family video trackers, batching work across live camera feeds instead of loading a model copy per camera. Its application supplies frames and initial objects; optional text-based discovery adds another… ([Show HN: Open-source, real-time object tracking for live video feeds](../summaries/2698fce9df1c.md) · [Meta](../entities/meta.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-16** - A controlled multimodal-model study separates three features usually bundled in a vision encoder: separate pretraining, dedicated visual capacity and placement before fusion with language. Under matched data and lifetime compute, it finds dedicated early… ([Meta's Vision Encoders in Multimodal Models](../summaries/7e7e145f37b7.md) · [Meta](../entities/meta.md))
 - **2026-11-15** - Daring Fireball uses the membership of the President’s Council of Advisors on Science and Technology to criticize technology leaders’ proximity to the administration. The linked White House page confirms David Sacks and Michael Kratsios as co-chairs and… ([The Legion of PCAST](../summaries/419f82a2d364.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-15** - Simon Willison announces OpenAI-compatible endpoint support in datasette-llm 0.1a11, the configuration layer used by other Datasette plugins. This lets a Datasette application select a locally or remotely hosted model through the same API-style… ([datasette-llm 0.1a11](../summaries/6e370e2d53b1.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md))

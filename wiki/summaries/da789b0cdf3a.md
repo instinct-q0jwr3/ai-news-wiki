@@ -1,6 +1,6 @@
 # The Inference Gap
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-11-16 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-11-17 · confidence: high_
 
 `tldr-ai`
 

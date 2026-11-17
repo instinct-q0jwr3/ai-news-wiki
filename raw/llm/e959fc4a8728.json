@@ -1,0 +1,13 @@
+{
+  "id": "e959fc4a8728",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "MacRumors reports macOS 27.3 beta changes intended to steer new app permission requests toward narrower folder or app access. Developers are told to handle limited access and some backup or assistive use cases may request entitlements for broader behavior.\n\nThe report says existing permissions remain in effect and further entitlement details are pending. A beta announcement is not a guarantee of final shipping behavior, nor does it mean every existing app immediately loses access. The underlying API changes were not independently tested here.",
+  "highlights": [
+    "Changes concern new permission requests",
+    "Narrower access requires app handling",
+    "Existing grants are reported as preserved",
+    "Specialized use cases may use entitlements",
+    "Beta details can change"
+  ]
+}

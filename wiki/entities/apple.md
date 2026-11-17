@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-17** - MacRumors reports macOS 27.3 beta changes intended to steer new app permission requests toward narrower folder or app access. Developers are told to handle limited access and some backup or assistive use cases may request entitlements for broader… ([macOS 27.3 beta warns if an app would get full device control, nudging users to "Choose Apps" for the app to control instead, brought on by AI apps' popularity](../summaries/e959fc4a8728.md) · [Apple](../entities/apple.md))
 - **2026-11-16** - Axonnic’s founders describe a 64-channel forearm EMG sleeve that estimates finger joint motion and fingertip force while leaving the hand uncovered. They synchronize muscle recordings with hand tracking for training and calibrate force estimates against… ([Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](../summaries/8cd4792e9009.md) · [Apple](../entities/apple.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-16** - TechCrunch reports Apple launched a research app with OpenEvidence to study health-AI use for more than a year, targeting up to 200,000 eligible US participants. The app answers health questions and can personalize responses using data participants choose… ([Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users](../summaries/c0ea354e7b0c.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Apple](../entities/apple.md))
 - **2026-11-16** - 9to5Mac reports Mount Thor raised $45 million across seed and Series A rounds to expand Apple-silicon cloud infrastructure. The service offers managed Mac compute and customer-owned hardware hosted at its sites, targeting agent environments, Apple software… ([Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction](../summaries/cd48de158929.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

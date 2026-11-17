@@ -1,6 +1,6 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-16 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
 
 `entity` `xai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-11-17** - Fakemetrics shows a Stripe-style revenue chart with placeholder figures and labels it suitable for a slide or joke. The short page does not substantiate a real business’s revenue or explain a broader product workflow. The displayed dollar amounts should be… ([Show HN: Fakemetrics.com – "build in public" like a superstar](../summaries/025888ec0e70.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [External AI evaluation](../concepts/external-evaluation.md)) ⚠
 - **2026-11-13** - The Information reports, according to Techmeme, that SpaceX cut roughly sixty Grok Imagine roles while prioritizing coding tools and Grok Bot. The original text was unavailable. The feed supports an attributed staffing report, not a confirmed shutdown of… ([SpaceX laid off ~60 Grok Imagine staffers in the past week, leaving a handful to keep the product alive, as it prioritizes AI coding tools and Grok Bot](../summaries/b13363b1a274.md) · [SpaceXAI (xAI)](../entities/xai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-12** - A guide to Grok Bot 1.0 distinguishes the product announcement from the app release and describes new team-oriented capabilities across Slack, Microsoft Teams and meetings. Its author says team and meeting sections are based on documentation and… ([What's new in Grok Bot 1.0](../summaries/0e9058705a4a.md) · [SpaceXAI (xAI)](../entities/xai.md))
 - **2026-11-11** - Pomerado presents website interactions as reusable APIs and MCP tools instead of asking a browser agent to reason through every page on every run. Its launch description says integrations can detect interface changes, repair broken steps and return results… ([Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](../summaries/e43fc683b6c2.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

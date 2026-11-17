@@ -1,6 +1,6 @@
 # OpenAI open-sources MCP Extensions for ChatGPT-native plugins
 
-_type: news-summary · created: 2026-11-12 · updated: 2026-11-16 · confidence: high_
+_type: news-summary · created: 2026-11-12 · updated: 2026-11-17 · confidence: high_
 
 `tldr-ai` `openai`
 

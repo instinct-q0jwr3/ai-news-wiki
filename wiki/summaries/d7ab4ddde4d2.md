@@ -1,6 +1,6 @@
 # Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation
 
-_type: news-summary · created: 2026-11-14 · updated: 2026-11-16 · confidence: high_
+_type: news-summary · created: 2026-11-14 · updated: 2026-11-17 · confidence: high_
 
 `techmeme`
 

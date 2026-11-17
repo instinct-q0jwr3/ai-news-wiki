@@ -1,0 +1,13 @@
+{
+  "id": "92e7bf937344",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "The author describes lend, a local approval proxy that lets remote coding agents request SSH signatures or run selected commands on the owner’s laptop without copying credentials to the remote VM. A local policy, per-request approval and narrowly matched temporary leases constrain what can run.\n\nThe design keeps tokens local only when the approved command does not print or disclose them. Commands still run with the user’s privileges, and approving a shell or interpreter can effectively authorize arbitrary code. Remote caller labels are unverified, other processes with socket access can submit requests, and the author describes the tool as early rather than a complete sandbox.",
+  "highlights": [
+    "Policy defaults to denying unlisted requests",
+    "Approvals can use macOS biometrics",
+    "Command output returns to the remote process",
+    "Shell and interpreter approvals widen risk",
+    "No sandbox isolates approved local execution"
+  ]
+}

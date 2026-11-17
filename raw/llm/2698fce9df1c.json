@@ -1,0 +1,13 @@
+{
+  "id": "2698fce9df1c",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Tamserve presents a shared serving engine for SAM 2-family video trackers, batching work across live camera feeds instead of loading a model copy per camera. Its application supplies frames and initial objects; optional text-based discovery adds another route to selecting targets.\n\nThe repository reports throughput and memory comparisons on specified GPU and model configurations. These are author-run results, not independent guarantees across camera counts, resolutions and object densities. Serving a tracker more efficiently does not eliminate occlusion failures, incorrect detections or the consent and privacy obligations of a real deployment.",
+  "highlights": [
+    "One model serves several streams",
+    "Application owns video input and timing",
+    "Pointing or text can initialize tracking",
+    "Benchmark hardware and settings matter",
+    "Tracking accuracy and deployment privacy remain separate"
+  ]
+}

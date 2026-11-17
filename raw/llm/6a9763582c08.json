@@ -1,0 +1,13 @@
+{
+  "id": "6a9763582c08",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Lobsters contributor proposes requiring evidence that a submitter actually uses a project before reviewing their pull request. The aim is to prioritize downstream users and reduce speculative, AI-generated or contribution-count-driven changes that consume maintainer attention.\n\nThe discussion offers anecdotes and reactions, not measured evidence that such a gate improves maintenance. It could filter low-value patches but also exclude useful newcomers or contributors unable to disclose private work. This is one maintainer’s proposed experiment, not a platform-wide rule.",
+  "highlights": [
+    "Proposal prioritizes demonstrated downstream need",
+    "Private production use can be described",
+    "Discussion evidence is anecdotal",
+    "Newcomer exclusion is a possible tradeoff",
+    "No platform-wide policy is announced"
+  ]
+}

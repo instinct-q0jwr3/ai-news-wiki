@@ -2,11 +2,11 @@
 
 A cumulative, cross-linked map of AI news. Every story has its own summary and original source.
 
-_Updated: `2026-11-16T21:47:47+00:00` · 3785 unique stories._
+_Updated: `2026-11-17T03:48:53+00:00` · 3803 unique stories._
 
 ## Explore
 
-- [Daily](daily/2026-11-16.md)
+- [Daily](daily/2026-11-17.md)
 - [Weekly](weekly/2026-W47.md)
 - [Stories](summaries/0033043fd563.md)
 - [Entities](entities/openai.md)
@@ -14,6 +14,7 @@ _Updated: `2026-11-16T21:47:47+00:00` · 3785 unique stories._
 
 ## Daily briefings
 
+- [2026-11-17](daily/2026-11-17.md)
 - [2026-11-16](daily/2026-11-16.md)
 - [2026-11-15](daily/2026-11-15.md)
 - [2026-11-14](daily/2026-11-14.md)

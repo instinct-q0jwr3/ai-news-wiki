@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-11-16T21:47:47+00:00",
+ "generated_at": "2026-11-17T03:48:53+00:00",
  "stories": [
+  {
+   "id": "249df63cfa61",
+   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "source": "Hacker News",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+  },
+  {
+   "id": "1bbf2359261f",
+   "title": "OpenCode Browse",
+   "source": "Hacker News",
+   "url": "https://opencode.ai/product/browse"
+  },
   {
    "id": "f6f8efc1508f",
    "title": "OpenAI: Strengthening the fight against online child sexual abuse",
@@ -8,82 +20,100 @@
    "url": "https://openai.com/index/strengthening-online-child-safety/"
   },
   {
-   "id": "a527ca54a4fc",
-   "title": "Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html"
-  },
-  {
-   "id": "a111c9f4249a",
-   "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+   "id": "92e7bf937344",
+   "title": "Running coding agents without handing them my credentials",
    "source": "Hacker News",
-   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+   "url": "https://blog.antonio.cx/running-agents-with-lend"
   },
   {
-   "id": "07d91d37c9ec",
-   "title": "Caltech professor no longer grades homework's because everyone uses AI",
+   "id": "025888ec0e70",
+   "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
    "source": "Hacker News",
-   "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11"
+   "url": "https://fakemetrics.com/"
   },
   {
-   "id": "8393a772bff8",
-   "title": "First phase of embedded assessments at OpenAI",
+   "id": "adb8d43a398b",
+   "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
    "source": "Hacker News",
-   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
   },
   {
-   "id": "897ca9d3f363",
-   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+   "id": "647ea49b7dab",
+   "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
    "source": "Hacker News",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
+   "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566"
   },
   {
-   "id": "8cd4792e9009",
-   "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+   "id": "af9b07226a1b",
+   "title": "Mem Is Shutting Down",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50522776"
+   "url": "https://get.mem.ai/blog/mem-is-shutting-down"
   },
   {
-   "id": "4d0e09dd3e8a",
-   "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
+   "id": "c17d19332482",
+   "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
    "source": "Hacker News",
-   "url": "https://github.com/mr-anjaneyam/Emittr"
+   "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/"
   },
   {
-   "id": "023131b052fd",
-   "title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\"",
+   "id": "2698fce9df1c",
+   "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+   "source": "Hacker News",
+   "url": "https://github.com/aryamandarda/tamserve"
+  },
+  {
+   "id": "f021e93c6bae",
+   "title": "Show HN: A free interactive course on AI agent governance",
+   "source": "Hacker News",
+   "url": "https://studio.sinapsdata.com.br"
+  },
+  {
+   "id": "5fb01a0f975b",
+   "title": "Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets",
+   "source": "Hacker News",
+   "url": "https://twitter.com/Google/status/2121004369617485896"
+  },
+  {
+   "id": "5e0d4e18b7d6",
+   "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
+   "source": "Hacker News",
+   "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/"
+  },
+  {
+   "id": "0062eecc288b",
+   "title": "Filing: Leopold Aschenbrenner's hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html"
+   "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html"
   },
   {
-   "id": "8ee4379a6732",
-   "title": "Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures",
+   "id": "97b5826e973d",
+   "title": "‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’",
+   "source": "Daring Fireball",
+   "url": "https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/"
+  },
+  {
+   "id": "7f0a051db2b5",
+   "title": "My Empire of Dirt",
+   "source": "geohot",
+   "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html"
+  },
+  {
+   "id": "6a9763582c08",
+   "title": "\"Proof of use\" as a requirement for open source contributions?",
+   "source": "Lobsters",
+   "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source"
+  },
+  {
+   "id": "e959fc4a8728",
+   "title": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai"
+   "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/"
   },
   {
-   "id": "f0e7b8ebd7cb",
-   "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery",
+   "id": "f6f8f5de8948",
+   "title": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
-  },
-  {
-   "id": "a0a1b102d343",
-   "title": "Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388"
-  },
-  {
-   "id": "04927ccfedbb",
-   "title": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg1MTkyNSwiZXhwIjoxNzk1NDU2NzI1LCJhcnRpY2xlSWQiOiJUT0xTTEdUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.r6LmtmU7Op0YupcW7NseYlZEPI3zLR_cnigfe6HXPcY"
-  },
-  {
-   "id": "9cec9b86bbe9",
-   "title": "Obituaries",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/obituaries/"
+   "url": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953"
   },
   {
    "id": "d0719828a273",
@@ -92,10 +122,10 @@
    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
   },
   {
-   "id": "f6f8f5de8948",
-   "title": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards",
-   "source": "Techmeme",
-   "url": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953"
+   "id": "c8d402a32c26",
+   "title": "llm 0.37.3",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/16/llm/"
   }
  ]
 }

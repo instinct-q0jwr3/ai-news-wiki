@@ -1,6 +1,6 @@
 # Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery
 
-_type: news-summary · created: 2026-11-16 · updated: 2026-11-16 · confidence: high_
+_type: news-summary · created: 2026-11-16 · updated: 2026-11-17 · confidence: high_
 
 `techmeme` `anthropic` `ai-policy-regulation`
 
