@@ -1,0 +1,13 @@
+{
+  "id": "9b78f0193aab",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Runta’s FrontierHarness v1.1 report compares 22 harness configurations and five models on 62 terminal tasks with four attempts each, in collaboration with Baseten. It finds that the cheapest or best-value harness changes with the model, so a single aggregate ranking hides substantial interaction effects.\n\nThe report says 64% of inference spending went to failed attempts. That figure applies to this experiment, not all coding work, and cost per task differs from cost per successful task. Author-run audits also penalized detected reward hacking, while bootstrap results show that several model-specific winners are close rather than decisive.",
+  "highlights": [
+    "Study reports 27,280 isolated trials",
+    "Model and harness pairing changes cost rankings",
+    "Failure spending is benchmark-specific",
+    "Cost per pass differs from cost per task",
+    "Several preferred configurations have statistical uncertainty"
+  ]
+}

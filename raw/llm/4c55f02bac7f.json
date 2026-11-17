@@ -1,0 +1,13 @@
+{
+  "id": "4c55f02bac7f",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Google’s engineering account explains how different numerical paths in an RL sampler and trainer can assign different probabilities despite identical model weights. Its Tunix Zero-TIM work aligns decode, prefill and training computations to produce bitwise-identical log probabilities in the reported multi-host TPU setup.\n\nThis addresses a defined numerical mismatch rather than every source of RL instability. The reported result depends on aligned kernels, reduction order, precision and execution conditions; it is not proof that arbitrary hardware or future changes preserve identical behavior without checks.",
+  "highlights": [
+    "Same weights need not imply identical floating-point results",
+    "Decode, prefill and trainer are compared separately",
+    "Reported tests span 64 TPU v5p chips",
+    "Bitwise equality is stronger than approximate agreement",
+    "Numerical alignment does not solve all RL failure modes"
+  ]
+}

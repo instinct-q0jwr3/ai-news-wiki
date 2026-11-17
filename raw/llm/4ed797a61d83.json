@@ -1,0 +1,13 @@
+{
+  "id": "4ed797a61d83",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Hugging Face announces that language-model requests through Inference Providers will use OpenRouter’s routing, retaining a Hugging Face token and supporting multiple familiar API formats. It describes retries across providers and routing choices that balance measured price, speed and reliability.\n\nThe announcement attributes traffic shares and performance improvements to OpenRouter’s measurements. Those platform-specific figures are not the whole model market, and routing still involves provider-specific capabilities, policies and failures. Existing code compatibility does not itself settle data-handling requirements for a deployment.",
+  "highlights": [
+    "Change concerns language-model inference routing",
+    "Hugging Face token remains the entry credential",
+    "Retries can switch serving providers",
+    "Traffic statistics describe one platform",
+    "Provider selection still affects data and reliability considerations"
+  ]
+}

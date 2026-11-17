@@ -1,0 +1,13 @@
+{
+  "id": "b542d108672a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Liquid announces d1.2 and d1.2-ultra decision models with audio input and additional structured-answer tasks. It reports a leading Decision Index score for ultra and low calibration error across a stated benchmark collection, while separating those figures from internal tests of new tasks.\n\nThe announcement’s price-performance and calibration claims depend on the compared models and datasets. Reliable confidence on one collection does not guarantee calibrated answers after a distribution shift, and internal extraction or localization scores need separate deployment testing.",
+  "highlights": [
+    "Release adds audio and structured decision tasks",
+    "Company cites an external index score",
+    "New-task results come from internal tests",
+    "Calibration is dataset-dependent",
+    "Prices and ranking are launch claims, not universal value guarantees"
+  ]
+}

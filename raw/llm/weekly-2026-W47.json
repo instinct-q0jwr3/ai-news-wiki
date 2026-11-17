@@ -318,6 +318,70 @@
         "f5493a14c565"
       ],
       "concepts": []
+    },
+    {
+      "title": "Cost per successful run, not just token price",
+      "intro": "Benchmarks, verification methods and numerical alignment all depend on the measurement boundary.",
+      "stories": [
+        "9b78f0193aab",
+        "6e5771019ad9",
+        "4c55f02bac7f",
+        "b542d108672a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "What protein prediction and evaluation awareness reveal",
+      "intro": "Behavioral tests support bounded inferences, not direct access to training records or proof of deceptive intent.",
+      "stories": [
+        "b9ffdd905a05",
+        "82d7f1913932"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Routing, notebooks and lower-cost deployment",
+      "intro": "Launch claims distinguish current services, staged rollouts and future weight releases.",
+      "stories": [
+        "4ed797a61d83",
+        "c35464b39545",
+        "93295ec4c3ad",
+        "805706b0c66f",
+        "3adac9df72f2"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Capital and infrastructure are still constraints",
+      "intro": "Financing reports, roadmaps and policy exposure should not be treated as completed deployment or financial outcomes.",
+      "stories": [
+        "60dc7db7771d",
+        "3d00cd70bd7a",
+        "2cab7830caba",
+        "3b2e315b3e11",
+        "5f7fd63c2937",
+        "9ba954c68349",
+        "7fec23053eb5",
+        "9990dd523e2d",
+        "5c7d12b452e4"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Risk arguments, legal allegations and early user reports",
+      "intro": "Commentary and partial reporting retain their limits rather than becoming verified common causes.",
+      "stories": [
+        "eab0c36e62dd",
+        "c2158fa031c1",
+        "73921541604d",
+        "fac77da1b0a0",
+        "faae4cbedf4d",
+        "e3ca83573b27",
+        "033acdfad6db",
+        "5638db057c7c",
+        "11ecefc76672"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

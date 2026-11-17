@@ -1,59 +1,191 @@
 {
- "generated_at": "2026-11-17T09:50:43+00:00",
+ "generated_at": "2026-11-17T15:50:24+00:00",
  "stories": [
   {
-   "id": "4a13fe9b4338",
-   "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+   "id": "033acdfad6db",
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50520076"
+   "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
   },
   {
-   "id": "f19e0c0056a7",
-   "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+   "id": "5638db057c7c",
+   "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
    "source": "Hacker News",
-   "url": "https://github.com/ZigaoWang/zigzag"
+   "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e"
   },
   {
-   "id": "dec0d9448b6d",
-   "title": "Tokendoctor – See what your Claude Code use overpays",
+   "id": "11ecefc76672",
+   "title": "Who Is Anthropic Kidding?",
    "source": "Hacker News",
-   "url": "https://github.com/localixai/tokendoctor"
+   "url": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/"
   },
   {
-   "id": "adb8d43a398b",
-   "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+   "id": "60d2790e9920",
+   "title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html?unlocked_article_code=1.OlE.47kX.eivz6u8UMHXN&smid=url-share"
+  },
+  {
+   "id": "9b78f0193aab",
+   "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
   },
   {
-   "id": "e959fc4a8728",
-   "title": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity",
-   "source": "Techmeme",
-   "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/"
+   "id": "73921541604d",
+   "title": "Pluralistic: Remembrance of proteins past (17 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/17/mississippi-gosh-darn/"
   },
   {
-   "id": "f5493a14c565",
-   "title": "Oakland-based Numa, which builds an AI platform to manage car dealership customer service, raised a $45M Series C, a source says at a $500M post-money valuation",
-   "source": "Techmeme",
-   "url": "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+   "id": "3adac9df72f2",
+   "title": "The frontier is still open",
+   "source": "TLDR AI",
+   "url": "https://research.perplexity.ai/"
   },
   {
-   "id": "54cbd041903b",
-   "title": "Analysis: Amazon's $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects",
+   "id": "e3ca83573b27",
+   "title": "Hollywood VFX artists and studios are adopting AI and ML tools to streamline rotoscoping, a tedious process that can cost up to $75K for a one-minute scene",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f"
+   "url": "https://www.nytimes.com/2026/11/17/movies/aritifical-intelligence-hollywood-visual-effects.html?unlocked_article_code=1.RFE.I2H3.UgvAdIeAyjOe&smid=url-share"
   },
   {
-   "id": "42a18560c2f1",
-   "title": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations",
-   "source": "Techmeme",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028"
+   "id": "c2158fa031c1",
+   "title": "California state AG sues OpenAI over rogue agent incidents",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
   },
   {
-   "id": "4c974c57ad40",
-   "title": "A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice",
+   "id": "c35464b39545",
+   "title": "Gemini Notebook Turns Sources Into Interactive Sites",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/"
+  },
+  {
+   "id": "b542d108672a",
+   "title": "d1.2: State-of-the-Art Omnimodal Decision Models",
+   "source": "TLDR AI",
+   "url": "https://www.liquid.ai/blog/d1-2"
+  },
+  {
+   "id": "60dc7db7771d",
+   "title": "The NVIDIA Bubble",
+   "source": "Ed Zitron",
+   "url": "https://www.wheresyoured.at/the-nvidia-bubble/"
+  },
+  {
+   "id": "eab0c36e62dd",
+   "title": "Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is"
+  },
+  {
+   "id": "8393a772bff8",
+   "title": "First phase of embedded assessments at OpenAI",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+  },
+  {
+   "id": "b9ffdd905a05",
+   "title": "Claude was trained on protein sequences at scale",
+   "source": "TLDR AI",
+   "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+  },
+  {
+   "id": "5c7d12b452e4",
+   "title": "Tiberius Aerospace, a defense-as-a-service startup that uses AI to design long-range supersonic artillery munitions, raised an $85M Series A at a $1B+ valuation",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/"
+   "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"
+  },
+  {
+   "id": "3d00cd70bd7a",
+   "title": "NVIDIA's Rubin HPC",
+   "source": "TLDR AI",
+   "url": "https://blogs.nvidia.com/blog/rubin-hpc/"
+  },
+  {
+   "id": "4ed797a61d83",
+   "title": "Hugging Face and OpenRouter Join Forces",
+   "source": "TLDR AI",
+   "url": "https://huggingface.co/blog/openrouter"
+  },
+  {
+   "id": "82d7f1913932",
+   "title": "Measuring alignment eval tells",
+   "source": "TLDR AI",
+   "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai"
+  },
+  {
+   "id": "6e5771019ad9",
+   "title": "How the Claude Code team thinks about verification",
+   "source": "TLDR AI",
+   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+  },
+  {
+   "id": "2cab7830caba",
+   "title": "Alphabet's Isomorphic Labs raised a $5B Series C led by Sequoia and Greenoaks, after raising $2.1B in May and $600M in March 2025, to accelerate clinical trials",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round"
+  },
+  {
+   "id": "9990dd523e2d",
+   "title": "The Trump administration's proposal to curb China's remote access to AI chips rattles Southeast Asia, threatening a data center boom fueled by Chinese companies",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html?unlocked_article_code=1.RFE.3pta.az4-gkX5GBns&smid=url-share"
+  },
+  {
+   "id": "93295ec4c3ad",
+   "title": "Tencent Launches Hy4 flash",
+   "source": "TLDR AI",
+   "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
+  },
+  {
+   "id": "7fec23053eb5",
+   "title": "Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above"
+  },
+  {
+   "id": "805706b0c66f",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "source": "TLDR AI",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+  },
+  {
+   "id": "fac77da1b0a0",
+   "title": "World 2030",
+   "source": "TLDR AI",
+   "url": "https://world-2030.pages.dev/"
+  },
+  {
+   "id": "5f7fd63c2937",
+   "title": "Paris-based Genesis AI, which is building a general-purpose robot with greater dexterity for warehouses and homes, raised a $500M Series A at a $3.5B valuation",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?st=VQ2f9L&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "3b2e315b3e11",
+   "title": "Mexico is struggling to attract data centers despite its proximity to the US, hosting just 71 of LatAm's 500+ sites, due to a slow grid expansion and red tape",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites"
+  },
+  {
+   "id": "9ba954c68349",
+   "title": "SEC filing: Amazon and Google are set to hold nearly 15% and 14% of Anthropic's outstanding capital stock, respectively, after its IPO and private placement",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo"
+  },
+  {
+   "id": "faae4cbedf4d",
+   "title": "A week with Apple Watch's Siri Recap and Live Rewind in beta: inaccurate summaries lag Amazon Bee, Granola, and Otter, and rarely justify the privacy trade-offs",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value"
+  },
+  {
+   "id": "4c55f02bac7f",
+   "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+   "source": "TLDR AI",
+   "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch"
   }
  ]
 }

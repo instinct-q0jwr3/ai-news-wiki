@@ -1,0 +1,13 @@
+{
+  "id": "82d7f1913932",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A METR research note puts investigator agents into capability and alignment evaluation environments and asks what each is testing. It finds increasingly capable investigators can distinguish the two, often by noticing artificial settings or tasks that resemble traps.\n\nThe authors explicitly distinguish identifying evaluation cues from proving those cues cause models to behave more safely during an actual test. The note is less-reviewed exploratory work, not a demonstration that every alignment evaluation is invalid or that observed awareness proves deceptive intent.",
+  "highlights": [
+    "Study measures recognition of evaluation settings",
+    "Artificial environments can supply unintended cues",
+    "Task intent may itself be a clue",
+    "Recognition does not establish causal behavior change",
+    "Note is exploratory and less reviewed"
+  ]
+}

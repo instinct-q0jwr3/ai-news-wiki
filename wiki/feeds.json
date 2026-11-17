@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1333,
+  "stories": 1337,
   "last": "2026-11-17"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1309,
+  "stories": 1318,
   "last": "2026-11-17"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 510,
-  "last": "2026-11-16"
+  "stories": 523,
+  "last": "2026-11-17"
  },
  {
   "name": "Simon Willison",
@@ -44,8 +44,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 59,
-  "last": "2026-11-13"
+  "stories": 60,
+  "last": "2026-11-17"
  },
  {
   "name": "Bert Hubert",
@@ -60,16 +60,16 @@
   "last": "2026-09-26"
  },
  {
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
+  "stories": 28,
+  "last": "2026-11-17"
+ },
+ {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
   "stories": 28,
   "last": "2026-11-16"
- },
- {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 27,
-  "last": "2026-11-13"
  },
  {
   "name": "Works on My Machine",
@@ -86,8 +86,8 @@
  {
   "name": "Ed Zitron",
   "url": "https://www.wheresyoured.at/rss/",
-  "stories": 16,
-  "last": "2026-11-10"
+  "stories": 17,
+  "last": "2026-11-17"
  },
  {
   "name": "Armin Ronacher",

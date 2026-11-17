@@ -1,0 +1,13 @@
+{
+  "id": "b9ffdd905a05",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A researcher tests next-amino-acid prediction on little-studied protein families and compares real sequences with shuffled controls. The report finds a substantial gap for recent Claude models and argues this is evidence of large-scale exposure to protein sequences rather than knowledge only from papers.\n\nThat is an inference from behavior, not direct access to training records. Model comparisons depend on task format and settings, and good sequence continuation is not validation of protein design, biological function or safety. The report’s strong conclusion should remain attributed to its author.",
+  "highlights": [
+    "Test compares real and shuffled protein prefixes",
+    "Sample targets little-studied families",
+    "Behavior suggests rather than directly reveals training data",
+    "Prediction format affects model comparisons",
+    "Sequence scores do not validate biological function"
+  ]
+}

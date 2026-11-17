@@ -1,0 +1,13 @@
+{
+  "id": "93295ec4c3ad",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Tencent introduces Hy4 flash as a lower-cost multimodal model with a stated million-token context and a smaller active parameter count than its total size. It reports favorable task cost and completion-time results from internal WorkIndex tests and a blind evaluation by 85 internal users.\n\nThose comparisons depend on selected workloads, pricing tiers and internal samples. The company distinguishes current service availability from a future plan to release weights; an open-source plan is not proof the weights are already available. Promotional access terms are not permanent pricing.",
+  "highlights": [
+    "Architecture separates total and active parameters",
+    "Company reports internal workplace-task tests",
+    "User study is internal and limited in size",
+    "Weights are described as a future release",
+    "Promotional terms differ from lasting cost"
+  ]
+}

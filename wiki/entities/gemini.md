@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-17** - Google says Gemini Notebook can generate interactive sites from a user’s sources and make the result available in a separate tab or through sharing. The short announcement describes a web rollout for users aged 18 and over, including Workspace subscribers,… ([Gemini Notebook Turns Sources Into Interactive Sites](../summaries/c35464b39545.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-17** - A Google social post describes a Gemini 4 Hydrogen demonstration that codes a moving landscape in Google Sheets by changing thousands of cells frame by frame. The post says the work used Antigravity and labels the output as AI-made.
 
 This is a promotional… ([Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets](../summaries/5fb01a0f975b.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

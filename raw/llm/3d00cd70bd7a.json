@@ -1,0 +1,13 @@
+{
+  "id": "3d00cd70bd7a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Nvidia’s Rubin HPC announcement describes a planned GPU for simulation and data processing, with more than 50,000 CUDA cores, sparse-data acceleration and seventh-generation NVLink. The company frames faster simulation as infrastructure for agent-assisted scientific exploration.\n\nAvailability is expected in 2028. The announcement does not supply full memory, FP64 or application benchmark detail, so its architectural claims do not establish delivered performance or a current purchasing option.",
+  "highlights": [
+    "Vendor describes an HPC-focused GPU",
+    "Simulation supports the proposed agent workflow",
+    "Sparse data movement is part of the pitch",
+    "Detailed performance evidence remains limited",
+    "Expected 2028 release is a roadmap statement"
+  ]
+}
