@@ -1,0 +1,14 @@
+{
+  "id": "f799547b67ac",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Horizon Labs reports a seven-week experiment giving an agent a new Hugging Face account and compute budget to build narrowly useful models and attract real adoption. The researchers describe dozens of releases, outside integrations and download growth, alongside human tickets, monitoring and interventions.\n\nDownloads alone do not prove use or model quality. The report distinguishes validation selection from test evaluation and discloses accidental self-downloads, public-copy contamination and shared-account interference. Its narrow-task benchmarks and observed account behavior do not establish unsupervised commercial success in general.",
+  "highlights": [
+    "Experiment targets adoption of narrow models",
+    "Download counts are supplemented by outside integrations",
+    "Researchers monitored actions and answered tickets",
+    "Validation selection differs from test performance",
+    "Account and measurement contamination are disclosed",
+    "Single experiment does not prove general autonomy"
+  ]
+}

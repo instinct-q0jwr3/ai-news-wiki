@@ -10,6 +10,10 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-18** - The Hollywood Reporter describes Disney and AWS developing interactive Anzellan audio-animatronics for a planned public demonstration. Cameras, microphones and AI help choose responses to visitors and other characters.
+
+The report says Imagineers authored… ([Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas](../summaries/684af04894c7.md) · [Amazon](../entities/amazon.md))
+- **2026-11-18** - A Reuters report indexed by Techmeme says the U.S. administration is considering a disclosure requirement for companies using Chinese AI models. The full source was inaccessible. This is a report about deliberations, not an enacted obligation; scope,… ([the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage](../summaries/78f30a2292f6.md) · [Amazon](../entities/amazon.md)) ⚠
 - **2026-11-17** - StarSling’s accessible landing-page excerpt advertises faster CI and repeats a customer testimonial showing a test suite dropping from roughly thirty minutes to five. The page yielded little technical detail.
 
 The example is a marketing claim, not an… ([Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](../summaries/e378347837ac.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) ⚠

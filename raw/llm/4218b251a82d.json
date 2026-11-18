@@ -1,0 +1,14 @@
+{
+  "id": "4218b251a82d",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Microsoft announces Decision-1.1 availability through Foundry and distribution partners, adding image input to a model focused on bounded choices such as routing, classification and workflow control. The company emphasizes calibrated confidence so applications can defer uncertain decisions.\n\nReported speed, benchmark and adoption figures are vendor claims. Aggregate accuracy or calibration does not guarantee safe choices on a new workload, and a decision score does not grant permission to take an action. Deployment needs task-specific error costs and deferral tests.",
+  "highlights": [
+    "Model targets structured permitted choices",
+    "Image input expands supported request types",
+    "Confidence can support deferral",
+    "Reported evaluations are attributed to Microsoft",
+    "Calibration must be checked for the actual task",
+    "A model decision is not operational authority"
+  ]
+}

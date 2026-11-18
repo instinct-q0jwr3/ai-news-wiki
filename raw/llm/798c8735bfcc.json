@@ -1,0 +1,14 @@
+{
+  "id": "798c8735bfcc",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Sergey Kamardin presents Pagedog, a Go incident-investigation pipeline built around message queues, bounded workers and an LLM with selected observability tools. The design acknowledges an incoming alert only after queuing it, renews processing leases and atomically moves a completed incident into a report-notification queue.\n\nThese mechanics address crash recovery and handoff, not the truth of a model’s diagnosis. Notifications remain at-least-once and can duplicate; the free in-memory queue loses in-flight state on restart, unlike the described hosted durable option. The author also sells the queue service used in the example.",
+  "highlights": [
+    "Input is queued before acknowledgement",
+    "Workers renew leases during long investigations",
+    "Atomic acknowledgement and send join two queue stages",
+    "Notifications can repeat at some destinations",
+    "In-memory and hosted persistence differ",
+    "Delivery guarantees do not validate a diagnosis"
+  ]
+}

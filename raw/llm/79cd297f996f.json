@@ -1,0 +1,14 @@
+{
+  "id": "79cd297f996f",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Vercel announces eve 1.0, an open-source agent framework that combines a configurable model-and-tool loop with workflow-backed persistence, approval controls and optional managed hosting. The article describes recovery from completed steps rather than restarting all work after a crash.\n\nCustomer testimonials and framework claims were not independently reproduced. Durable execution does not by itself make external side effects idempotent or generated code safe; permissions, replay behavior and sandbox boundaries still require application-specific design. This summary covers the examined release overview.",
+  "highlights": [
+    "Framework separates configurable agent logic and hosting",
+    "Workflow persistence supports recovery",
+    "Approval and observability controls are described",
+    "Managed hosting is optional",
+    "Durability does not prove side-effect safety",
+    "Testimonials are not reproduced benchmarks"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "5a25b1c66d06",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Hacker News listing links to a university-hosted PDF about peer review and AI-generated text. Both the normal source retrieval and a direct download returned no readable paper. Its methods, findings and proposed remedies remain unverified; the question in its title is not itself a research result.",
+  "highlights": [
+    "Listing identifies a paper-shaped source",
+    "PDF download was blocked",
+    "Methods were not available",
+    "Findings could not be inspected",
+    "No conclusion is inferred from the title"
+  ]
+}

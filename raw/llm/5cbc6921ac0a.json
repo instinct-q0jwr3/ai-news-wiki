@@ -1,0 +1,14 @@
+{
+  "id": "5cbc6921ac0a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Nvidia explains how sparse-attention architecture and GPU kernels need to be designed together for long contexts. Selecting a small attention subset reduces core attention work but moves substantial cost into an indexer and Top-k selection, with different bottlenecks in prefill and decode.\n\nThe examined measurements use specified kernel settings, precision and shapes. They illustrate hardware tradeoffs rather than guarantee an end-to-end speedup on another model. This summary covers the examined design and indexer passages, not an independent reproduction of the complete optimization study.",
+  "highlights": [
+    "Sparse attention shifts rather than removes all cost",
+    "Indexer still scores the full key context",
+    "Prefill and decode have different bottlenecks",
+    "Head count and speculation share hardware capacity",
+    "Precision and kernel shapes affect results",
+    "Kernel measurements are not universal application gains"
+  ]
+}

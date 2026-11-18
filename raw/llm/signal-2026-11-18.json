@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-11-18",
+  "date": "2026-11-18",
+  "status": "provisional",
+  "reserve": "72c22040a5eb",
+  "picks": [
+    {
+      "id": "85ae7bf936fc",
+      "front": "Research",
+      "source": "energy-based-reasoners.github.io",
+      "why": "A learned energy function makes refinement and stopping explicit, with the efficiency claim bounded to particular reasoning tasks."
+    },
+    {
+      "id": "798c8735bfcc",
+      "front": "Engineering",
+      "source": "sergey.kamardin.org",
+      "why": "A concrete queue-based incident pipeline explains atomic handoffs, duplicate notifications and the limits of in-memory persistence."
+    },
+    {
+      "id": "165f2ae4912c",
+      "front": "Privacy",
+      "source": "techpolicy.press",
+      "why": "A policy argument ties persistent agents to task-scoped data collection instead of treating blanket access as inevitable."
+    },
+    {
+      "id": "6830c7db22dc",
+      "front": "Products",
+      "source": "replit.com",
+      "why": "An outcome-based agent launch includes budget exhaustion and single-run comparison limits that make the case study worth reading carefully."
+    },
+    {
+      "id": "7f86df1452c0",
+      "front": "Society",
+      "source": "wired.com",
+      "why": "A youth companionship survey separates patterns of connection from the unresolved direction of loneliness and AI use."
+    }
+  ]
+}

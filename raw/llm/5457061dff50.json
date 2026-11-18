@@ -1,0 +1,13 @@
+{
+  "id": "5457061dff50",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Microsoft announces a family of seven models spanning coding, security and other applications, emphasizing price and workload-specific performance. Its coding discussion explicitly prioritizes everyday enterprise tasks rather than fundamental research or very long autonomous work.\n\nThe comparisons use selected benchmarks and cost assumptions. Lower output-token prices and average benchmark ratios do not establish lower cost per successful task or superiority across all domains. This summary covers the examined family overview and coding and security passages.",
+  "highlights": [
+    "Release includes multiple specialized models",
+    "Vendor emphasizes enterprise workload fit",
+    "Coding limits are explicitly acknowledged",
+    "Ratios depend on benchmark and price settings",
+    "Task cost differs from token price"
+  ]
+}

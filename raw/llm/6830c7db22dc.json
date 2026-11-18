@@ -1,0 +1,14 @@
+{
+  "id": "6830c7db22dc",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Replit introduces Missions as outcome-based work carried out by agent teams within agreed budgets and approval boundaries. Its DataCat case study describes building a self-hostable monitoring platform, while separate NumPy and simulated-commerce examples illustrate reported search and optimization gains.\n\nThe article explicitly limits its comparisons: some builds use one run per setup, hosted production services were not the benchmark, and an AI judge checking completion is not an independent human audit. Budget exhaustion can stop a mission with the outcome unresolved. The examples remain company-reported rather than general guarantees.",
+  "highlights": [
+    "Missions specify outcomes budgets and approval boundaries",
+    "Teams explore and test alternatives in parallel",
+    "DataCat is an internal company case study",
+    "Comparisons include single-run limitations",
+    "AI completion judgment is not independent assurance",
+    "An exhausted budget can leave the task incomplete"
+  ]
+}

@@ -1,53 +1,191 @@
 {
- "generated_at": "2026-11-18T09:52:46+00:00",
+ "generated_at": "2026-11-18T15:54:13+00:00",
  "stories": [
   {
-   "id": "8d1c2787fa9f",
-   "title": "AI is killing All About Berlin",
+   "id": "85ae7bf936fc",
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
    "source": "Hacker News",
-   "url": "https://nicolasbouliane.com/blog/death-by-ai"
+   "url": "https://energy-based-reasoners.github.io/"
   },
   {
-   "id": "df0a56f66071",
-   "title": "Why is Gemini 4 Carbon taking so long?",
+   "id": "179e590c3127",
+   "title": "When AI Knows More Than It Can Offer",
    "source": "Hacker News",
-   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+   "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e"
   },
   {
-   "id": "eaf90a1cf8d3",
-   "title": "Show HN: Director's Lookbook, named looks for image, video and music prompts",
+   "id": "5a25b1c66d06",
+   "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
    "source": "Hacker News",
-   "url": "https://directorslookbook.app/"
+   "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
   },
   {
-   "id": "d3e84fecb6a2",
-   "title": "Anthropic IPO is set to redraw VC power rankings, with lesser-known firms like Spark Capital poised for outsized returns compared with larger, blue-chip rivals",
+   "id": "9a146c68e5a7",
+   "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI",
+   "source": "Hacker News",
+   "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5"
+  },
+  {
+   "id": "165f2ae4912c",
+   "title": "Data Minimization Is Imperative for the Age of AI Agents",
+   "source": "Hacker News",
+   "url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/"
+  },
+  {
+   "id": "4099fdb215a4",
+   "title": "How should we define “capabilities activities” for the purpose of pacing?",
+   "source": "TLDR AI",
+   "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities"
+  },
+  {
+   "id": "684af04894c7",
+   "title": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?accessToken=zwAAAaHtopUSkdOjQw8NAIBJcNOO7CwUyEOLPQ.MEUCIF1q7aLCnP63ba_HSXgJrufMSFKbE0XM6j8UzDPK2UaJAiEAwlWU3Tct7FROgNE7x9sr3LUUt1DjFS0mZu406msl96Y&sharetype=gift&token=a97c7641-a9cb-433e-a6b6-ea4083f6a825"
+   "url": "https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851/"
   },
   {
-   "id": "686fd50db061",
-   "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/"
+   "id": "469a3db8f8a2",
+   "title": "GPT‑6.2 Astra and Sol",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
   },
   {
-   "id": "9c85a5718f56",
-   "title": "Microsoft makes Word, Excel, and PowerPoint generally available inside Copilot, which Satya Nadella calls \"the new OS for work\" in his Ignite keynote speech",
+   "id": "78f30a2292f6",
+   "title": "the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage",
    "source": "Techmeme",
-   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+   "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
   },
   {
-   "id": "c9786778ac2b",
-   "title": "LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors",
+   "id": "09b636ac9a37",
+   "title": "Masayoshi Son says passing on a 2023 opportunity to invest in Anthropic was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\"",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/"
+   "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0"
   },
   {
-   "id": "7f86df1452c0",
-   "title": "A Gallup survey of 15,925 people aged 15 to 22 across 16 countries finds that more than 33% rely on AI for companionship, rising to 50% among daily AI users",
+   "id": "f799547b67ac",
+   "title": "Horizon Labs",
+   "source": "TLDR AI",
+   "url": "https://horizon-labs.ai/"
+  },
+  {
+   "id": "4218b251a82d",
+   "title": "Microsoft-Decision-1.1 is now generally available for fast, low-cost decision making",
+   "source": "TLDR AI",
+   "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/"
+  },
+  {
+   "id": "77cfd79db59c",
+   "title": "Cerebras Disaggregated Inference",
+   "source": "Hacker News",
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+  },
+  {
+   "id": "db93030dce73",
+   "title": "Jensen Huang Tweets",
+   "source": "Daring Fireball",
+   "url": "https://x.com/JensenHuang/status/2122726005219737649"
+  },
+  {
+   "id": "1a6f97c61ece",
+   "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+   "source": "TLDR AI",
+   "url": "https://notesbylex.com/weight-space-programming-1990s.html"
+  },
+  {
+   "id": "5cbc6921ac0a",
+   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+   "source": "TLDR AI",
+   "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"
+  },
+  {
+   "id": "249df63cfa61",
+   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+   "source": "Hacker News",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+  },
+  {
+   "id": "9b78f0193aab",
+   "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+   "source": "Hacker News",
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+  },
+  {
+   "id": "a2a17a3e5428",
+   "title": "Tencent President Martin Lau says the US' new \"remote access\" rules on Chinese chip access \"sets everyone back in China\" and will delay new AI model training",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "7932cd302866",
+   "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/"
+  },
+  {
+   "id": "798c8735bfcc",
+   "title": "Building a reliable LLM investigation pipeline in Go with spooler.sh",
+   "source": "Lobsters",
+   "url": "https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/"
+  },
+  {
+   "id": "12759f585c95",
+   "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas's award-winning novel as 99% AI-generated",
+   "source": "Techmeme",
+   "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/"
+  },
+  {
+   "id": "17e5bb3611a3",
+   "title": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+  },
+  {
+   "id": "8f244e136b85",
+   "title": "ByteDance is in advanced talks with Microsoft to spend an additional ~$500M on Azure, primarily to access OpenAI models, drawing complaints from OpenAI",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai"
+  },
+  {
+   "id": "e63430832ec4",
+   "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\"",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+  },
+  {
+   "id": "6830c7db22dc",
+   "title": "Introducing Replit Missions",
+   "source": "TLDR AI",
+   "url": "https://replit.com/blog/introducing-replit-missions"
+  },
+  {
+   "id": "72c22040a5eb",
+   "title": "Experiments in Weight-Space Programming",
+   "source": "TLDR AI",
+   "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/"
+  },
+  {
+   "id": "9acafc34f909",
+   "title": "Gemini Can Now Make Calls and Pay Bills",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+  },
+  {
+   "id": "79cd297f996f",
+   "title": "Vercel's eve 1.0",
+   "source": "TLDR AI",
+   "url": "https://vercel.com/blog/eve-is-now-generally-available"
+  },
+  {
+   "id": "e50f73193df3",
+   "title": "Introducing Computer's Multiagent effort level",
+   "source": "TLDR AI",
+   "url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent"
+  },
+  {
+   "id": "5457061dff50",
+   "title": "Microsoft's Seven New Models",
+   "source": "TLDR AI",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
   }
  ]
 }

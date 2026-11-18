@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-18** - Google announces expanded Gemini task execution, including calls, account-based bill analysis and shopping, with a free rollout in specified countries and advanced features initially in the United States. The announcement describes connected apps,… ([Gemini Can Now Make Calls and Pay Bills](../summaries/9acafc34f909.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-18** - Kernel describes unexpectedly long Gemini 4 Carbon runtimes on a private evaluation compared with other models. The readable excerpt contains a small number of timing examples and refers to a time-and-cost chart.
 
 Tasks, sample size, settings and the… ([Why is Gemini 4 Carbon taking so long?](../summaries/df0a56f66071.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

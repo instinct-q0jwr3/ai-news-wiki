@@ -1,0 +1,14 @@
+{
+  "id": "72c22040a5eb",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Jacob Strauss tests whether an LLM can set or edit small neural-network weights without an ordinary gradient-descent loop. His examples succeed by expressing familiar templates, linear controllers, word dictionaries and task-specific shortcuts as weights, while an undertrained language-model example improves only slightly.\n\nThese author-run experiments make some model structure easier to inspect, but do not show that direct weight writing replaces training. Models, task formulations, evaluation access and the author’s subsidized API use constrain comparisons of accuracy, speed and cost.",
+  "highlights": [
+    "Experiments cover several small classic tasks",
+    "Strategies often encode known hand-built features",
+    "A bracket task admits a counting shortcut",
+    "Undertrained language model sees limited gain",
+    "No general replacement for gradient descent is shown",
+    "Author discloses startup API credits"
+  ]
+}

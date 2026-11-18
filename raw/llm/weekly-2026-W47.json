@@ -512,6 +512,75 @@
         "d3e84fecb6a2"
       ],
       "concepts": []
+    },
+    {
+      "title": "Learning energy and writing weights",
+      "intro": "Bounded reasoning benchmarks and hand-engineered networks expose useful mechanisms without proving a general replacement for training.",
+      "stories": [
+        "85ae7bf936fc",
+        "72c22040a5eb",
+        "1a6f97c61ece",
+        "5cbc6921ac0a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Durable work is not a verified outcome",
+      "intro": "Queues, workflow recovery, mission budgets and model confidence address different pieces of reliable agent execution.",
+      "stories": [
+        "798c8735bfcc",
+        "6830c7db22dc",
+        "79cd297f996f",
+        "4218b251a82d",
+        "f799547b67ac"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Delegation raises a data boundary question",
+      "intro": "Expanded task execution and a call for data minimization put convenience and authorized scope in direct tension.",
+      "stories": [
+        "9acafc34f909",
+        "165f2ae4912c",
+        "4099fdb215a4",
+        "5457061dff50",
+        "e50f73193df3"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robotics data and authored characters",
+      "intro": "First-person training data and constrained animatronics are distinct paths toward systems acting in physical environments.",
+      "stories": [
+        "17e5bb3611a3",
+        "684af04894c7"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Authorship and consciousness remain contested",
+      "intro": "Detector scores cannot adjudicate literary authorship, and philosophical objections are not experimental consciousness tests.",
+      "stories": [
+        "12759f585c95",
+        "e63430832ec4",
+        "5a25b1c66d06",
+        "179e590c3127"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Board decisions, negotiations and proposed rules",
+      "intro": "A conditional return offer, investment regret and reported policy discussions must remain distinct from completed decisions.",
+      "stories": [
+        "db93030dce73",
+        "9a146c68e5a7",
+        "7932cd302866",
+        "09b636ac9a37",
+        "8f244e136b85",
+        "78f30a2292f6",
+        "a2a17a3e5428"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

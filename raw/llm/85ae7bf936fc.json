@@ -1,0 +1,14 @@
+{
+  "id": "85ae7bf936fc",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Energy-Based Reasoners describes recurrent models whose learned energy function scores intermediate states, guides refinement and provides an adaptive stopping signal. The project reports strong results on four algorithmic reasoning tasks, including Sudoku, and improved coverage when multiple valid solutions exist.\n\nThe project page reports a 345-fold inference-compute reduction on a specified comparison, which differs from the feed headline’s 385-fold figure. These are author-reported results on bounded benchmarks, not a general efficiency advantage for language-model inference or unrestricted reasoning.",
+  "highlights": [
+    "Energy rates intermediate latent states",
+    "Gradients guide refinement and stopping",
+    "Benchmarks involve bounded algorithmic tasks",
+    "Multiple-solution coverage is separately evaluated",
+    "Page says 345-fold rather than headline’s 385-fold",
+    "Results are not a universal LLM efficiency claim"
+  ]
+}

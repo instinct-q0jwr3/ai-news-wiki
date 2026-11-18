@@ -2686,5 +2686,61 @@
   "thin": 4,
   "total": 75,
   "unreadable": 10
+ },
+ "2026-11-18": {
+  "ok": 32,
+  "paywall": 7,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "85ae7bf936fc",
+    "minutes": 3,
+    "source": "energy-based-reasoners.github.io",
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "why": "A learned energy function makes refinement and stopping explicit, with the efficiency claim bounded to particular reasoning tasks."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "798c8735bfcc",
+    "minutes": 22,
+    "source": "sergey.kamardin.org",
+    "title": "Building a reliable LLM investigation pipeline in Go with spooler.sh",
+    "why": "A concrete queue-based incident pipeline explains atomic handoffs, duplicate notifications and the limits of in-memory persistence."
+   },
+   {
+    "cat": "ok",
+    "front": "Privacy",
+    "id": "165f2ae4912c",
+    "minutes": 6,
+    "source": "techpolicy.press",
+    "title": "Data Minimization Is Imperative for the Age of AI Agents",
+    "why": "A policy argument ties persistent agents to task-scoped data collection instead of treating blanket access as inevitable."
+   },
+   {
+    "cat": "ok",
+    "front": "Products",
+    "id": "6830c7db22dc",
+    "minutes": 8,
+    "source": "replit.com",
+    "title": "Introducing Replit Missions",
+    "why": "An outcome-based agent launch includes budget exhaustion and single-run comparison limits that make the case study worth reading carefully."
+   },
+   {
+    "cat": "ok",
+    "front": "Society",
+    "id": "7f86df1452c0",
+    "minutes": 6,
+    "source": "wired.com",
+    "title": "A Gallup survey of 15,925 people aged 15 to 22 across 16 countries finds that more than 33% rely on AI for companionship, rising to 50% among daily AI users",
+    "why": "A youth companionship survey separates patterns of connection from the unresolved direction of loneliness and AI use."
+   }
+  ],
+  "reserve": "72c22040a5eb",
+  "status": "provisional",
+  "thin": 0,
+  "total": 45,
+  "unreadable": 6
  }
 }

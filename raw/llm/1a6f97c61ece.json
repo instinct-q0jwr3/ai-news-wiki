@@ -1,0 +1,14 @@
+{
+  "id": "1a6f97c61ece",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Lex Toumbourou tests weight-space programming on a small digit-classification network and compares the resulting feature engineering with pre-deep-learning methods. In three author-run attempts, an LLM constructs filters and classifiers through repeated feedback, with final performance around ninety percent on held-out images.\n\nThe model does not see test images or test scores during construction, but it receives training feedback after each attempt. The experiment therefore illustrates a constrained search through hand-designed features rather than learning-free general intelligence. Its architecture and rules differ from earlier Go demonstrations, limiting direct comparisons.",
+  "highlights": [
+    "Experiment fixes a small convolutional architecture",
+    "LLM builds weights through code and feedback",
+    "Held-out test results are withheld during construction",
+    "Methods resemble hand-engineered vision features",
+    "Repeated training feedback still guides improvement",
+    "Different task rules limit cross-study comparisons"
+  ]
+}
