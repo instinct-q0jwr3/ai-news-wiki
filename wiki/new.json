@@ -98,10 +98,10 @@
    "url": "https://springcraft-ai.github.io/springrep/"
   },
   {
-   "id": "3a65a7099408",
-   "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?st=xrTMe2&reflink=desktopwebshare_permalink"
+   "id": "27394eb2d154",
+   "title": "Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces",
+   "source": "Lobsters",
+   "url": "https://contextgeneric.dev/blog/v0.8.0-release"
   },
   {
    "id": "96472f28438e",
@@ -110,22 +110,10 @@
    "url": "https://www.axios.com/pro/all-deals/2026/11/17/remanence-30m-ai-model-training"
   },
   {
-   "id": "d34229657679",
-   "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws",
+   "id": "5576e271b577",
+   "title": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's \"safety\" branding and its \"reckless attempt\" to build RSI",
    "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/"
-  },
-  {
-   "id": "2e52bfe7a641",
-   "title": "Quoting Daniel Stenberg",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/"
-  },
-  {
-   "id": "ca2f718efe6e",
-   "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+   "url": "https://safe.ai/news/anthropic-is-not-a-safe-ai-company"
   },
   {
    "id": "67835862d67f",
@@ -134,28 +122,28 @@
    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
   },
   {
-   "id": "0ca08945f0ad",
-   "title": "Is Anthropic’s IPO a bad bet, both for investors and society?",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both"
-  },
-  {
-   "id": "5576e271b577",
-   "title": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's \"safety\" branding and its \"reckless attempt\" to build RSI",
-   "source": "Techmeme",
-   "url": "https://safe.ai/news/anthropic-is-not-a-safe-ai-company"
-  },
-  {
    "id": "81229296622e",
    "title": "Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue",
    "source": "Techmeme",
    "url": "https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation"
   },
   {
-   "id": "b838768b27a1",
-   "title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches",
+   "id": "d34229657679",
+   "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws",
    "source": "Techmeme",
-   "url": "https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739"
+   "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/"
+  },
+  {
+   "id": "0ca08945f0ad",
+   "title": "Is Anthropic’s IPO a bad bet, both for investors and society?",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both"
+  },
+  {
+   "id": "2e52bfe7a641",
+   "title": "Quoting Daniel Stenberg",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/"
   },
   {
    "id": "922ef7ae50c1",
@@ -164,10 +152,22 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight"
   },
   {
-   "id": "27394eb2d154",
-   "title": "Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces",
-   "source": "Lobsters",
-   "url": "https://contextgeneric.dev/blog/v0.8.0-release"
+   "id": "b838768b27a1",
+   "title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches",
+   "source": "Techmeme",
+   "url": "https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739"
+  },
+  {
+   "id": "3a65a7099408",
+   "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?st=xrTMe2&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "ca2f718efe6e",
+   "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
   }
  ]
 }
