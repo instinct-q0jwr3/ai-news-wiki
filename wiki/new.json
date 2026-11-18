@@ -1,65 +1,53 @@
 {
- "generated_at": "2026-11-18T03:52:32+00:00",
+ "generated_at": "2026-11-18T09:52:46+00:00",
  "stories": [
   {
-   "id": "e899e59c81a1",
-   "title": "Google's AI answers reducing search traffic by 40%",
+   "id": "8d1c2787fa9f",
+   "title": "AI is killing All About Berlin",
    "source": "Hacker News",
-   "url": "https://revscope.co/blog/search-seo-geo-2026/"
+   "url": "https://nicolasbouliane.com/blog/death-by-ai"
   },
   {
-   "id": "a6d0641f3e6f",
-   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "id": "df0a56f66071",
+   "title": "Why is Gemini 4 Carbon taking so long?",
    "source": "Hacker News",
-   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
   },
   {
-   "id": "cf5899006194",
-   "title": "Tencent Hy4 Flash",
+   "id": "eaf90a1cf8d3",
+   "title": "Show HN: Director's Lookbook, named looks for image, video and music prompts",
    "source": "Hacker News",
-   "url": "https://hy.tencent.ai/research/hy4-flash"
+   "url": "https://directorslookbook.app/"
   },
   {
-   "id": "77cfd79db59c",
-   "title": "Cerebras Disaggregated Inference",
-   "source": "Hacker News",
-   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
-  },
-  {
-   "id": "0363eafd0857",
-   "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-   "source": "Hacker News",
-   "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
-  },
-  {
-   "id": "d03943274ae7",
-   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
-  },
-  {
-   "id": "dd1f0e649abe",
-   "title": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours",
+   "id": "d3e84fecb6a2",
+   "title": "Anthropic IPO is set to redraw VC power rankings, with lesser-known firms like Spark Capital poised for outsized returns compared with larger, blue-chip rivals",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress"
+   "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?accessToken=zwAAAaHtopUSkdOjQw8NAIBJcNOO7CwUyEOLPQ.MEUCIF1q7aLCnP63ba_HSXgJrufMSFKbE0XM6j8UzDPK2UaJAiEAwlWU3Tct7FROgNE7x9sr3LUUt1DjFS0mZu406msl96Y&sharetype=gift&token=a97c7641-a9cb-433e-a6b6-ea4083f6a825"
   },
   {
-   "id": "4dd2685da65f",
-   "title": "External sandboxes for coding agents",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
+   "id": "686fd50db061",
+   "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/18/malice-v-incompetence/"
   },
   {
-   "id": "9579282dfd01",
-   "title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra",
+   "id": "9c85a5718f56",
+   "title": "Microsoft makes Word, Excel, and PowerPoint generally available inside Copilot, which Satya Nadella calls \"the new OS for work\" in his Ignite keynote speech",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos"
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
   },
   {
-   "id": "66d06a804e6e",
-   "title": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic's IPO midpoint, the average employee's equity is valued at $72M",
+   "id": "c9786778ac2b",
+   "title": "LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-11-17/san-francisco-s-anthropic-openai-boom-could-create-1-2-trillion-in-wealth?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDkzNTQyNCwiZXhwIjoxNzk1NTQwMjI0LCJhcnRpY2xlSWQiOiJUT043VzdOM04wOUcwMCIsImJjb25uZWN0SWQiOiJBRjJFNDMxQTgzRjk0OTU3QUIxNzg5NTgwOEU2Q0YxMiJ9.7VayFY-M2sQ5RZu3yUtftUqTb-0UIpPVnEz898iFnWw"
+   "url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/"
+  },
+  {
+   "id": "7f86df1452c0",
+   "title": "A Gallup survey of 15,925 people aged 15 to 22 across 16 countries finds that more than 33% rely on AI for companionship, rising to 50% among daily AI users",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"
   }
  ]
 }

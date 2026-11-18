@@ -1,0 +1,13 @@
+{
+  "id": "df0a56f66071",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Kernel describes unexpectedly long Gemini 4 Carbon runtimes on a private evaluation compared with other models. The readable excerpt contains a small number of timing examples and refers to a time-and-cost chart.\n\nTasks, sample size, settings and the chart’s underlying measurements were not available in the extracted text. The complaint is evidence of the author’s experience, not a general latency ranking or a verified explanation for why a model is slow.",
+  "highlights": [
+    "Author reports a private evaluation",
+    "Examples compare different model effort settings",
+    "Task definitions were not readable",
+    "Sample size was not supplied in the excerpt",
+    "No universal speed ranking is established"
+  ]
+}

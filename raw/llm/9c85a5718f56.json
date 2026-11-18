@@ -1,0 +1,14 @@
+{
+  "id": "9c85a5718f56",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Ars Technica reports Microsoft made Word, Excel and PowerPoint available inside Copilot, with editable files created through the assistant interface. The Ignite coverage places that release alongside autonomous-agent plans, organizational context systems and identity and permission controls.\n\nAvailability differs across the announced components: Workspaces remains early access, and final Autopilot pricing was not announced in the report. Claimed governance effectiveness still needs demonstration. Microsoft also acknowledges that estimated assisted hours are model-generated, not direct measurements of time saved.",
+  "highlights": [
+    "Office file creation is described as generally available",
+    "Generated files remain editable in Office apps",
+    "Other announced components have different release stages",
+    "Agent controls include identity permissions and activity logs",
+    "Autopilot final pricing was not reported",
+    "Estimated saved work is not directly measured productivity"
+  ]
+}
