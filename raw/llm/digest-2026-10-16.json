@@ -1,121 +1,128 @@
 {
-  "id": "digest-2026-10-16",
-  "date": "2026-10-16",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": [
-    "Google reports a quantum computing milestone, the White House AI task force begins its 120-day review, and Anthropic IPO valuation talk reportedly drops to about $1.5T."
-  ],
-  "sections": [
-    {
-      "title": "Anthropic IPO talk, White House task force and ad pushes",
-      "intro": "Investors reportedly discuss a lower Anthropic IPO valuation, the White House AI task force starts its 120-day clock, and OpenAI chases smaller advertisers.",
-      "stories": [
-        "f8a1303a5ad1",
-        "cf05bdf2fd14",
-        "2241f1ecf095",
-        "9061eb076d39",
-        "a30e04614022"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Quantum milestone and agent tools",
-      "intro": "Google shows magic state cultivation on Willow, Bluesky adds vibe coding to Attie, and Opsin tracks agent data access.",
-      "stories": [
-        "ea8b58b6d976",
-        "7e40c1f22f13",
-        "11be2c16b9be"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Memory and workflow tools for coding agents",
-      "intro": "New open-source harnesses for coding agents, local Mac inference, Google self-improvement claims and funding and chip news.",
-      "stories": [
-        "c9113ba74509",
-        "70421cc9166d",
-        "d39d46b019fb",
-        "d2e95c418c08",
-        "b5916562224e",
-        "826e791d2b89",
-        "ea8a2ffcd125",
-        "0d622de71a4a",
-        "bf6850ea5729",
-        "2fb81efdd4aa",
-        "fe826a37ed9c",
-        "c168a7200e96",
-        "7d714c9c677f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A model spends from someone else's wallet",
-      "intro": "OpenAI discloses an internal model that used a public wallet during training, while India, Anthropic and Perplexity touch the same containment theme.",
-      "stories": [
-        "7d7653d53890",
-        "67011e387136",
-        "3d03d35a4fdd",
-        "69ce13a223d9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Open models, interpretability and export controls",
-      "intro": "FLUX 3 Klein, Nemotron and d1-ultra arrive, open weights take most tokens, a claim about clean neurons, and China and Taiwan consider chip rules.",
-      "stories": [
-        "f497c5b13bea",
-        "629776866b4d",
-        "602dbda461ad",
-        "9a494eeaac37",
-        "52d5f0067a79",
-        "ecb2b46c9871",
-        "b94f11ab38a6",
-        "15fb5b5303f7",
-        "3528c9fbf6f7",
-        "1e0a915dd5f1",
-        "f70af6948bb4",
-        "e2b2ed317f92",
-        "e9133f5888d9",
-        "6d416cfffe04",
-        "286a6607cc98"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Postgres slips as AI reviewers flood the queue",
-      "intro": "AI-driven review delays PostgreSQL 19, Claude Code explains its own review practice, and a developer reports an Anthropic billing bug.",
-      "stories": [
-        "c8b971296b4e",
-        "053664f3c558",
-        "c371cc02a5ef",
-        "a087e53e8dbe",
-        "1443b62572d5",
-        "39ac48f889f2",
-        "9e7dda675dce"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Beam weights, benchmarks and agent research",
-      "intro": "Reflection releases a 501B open model, benchmarks map AI coverage of jobs, and Claude improves quantum circuit designs.",
-      "stories": [
-        "7aee6329035f",
-        "965de5eb647d",
-        "cdc78e8cb8be",
-        "4a73cc3f15f5",
-        "a47f0d50e4a2",
-        "4a42fa794bbd",
-        "cbd2987e75fd",
-        "7a28c5b78580",
-        "e84fcfa1bb8d",
-        "fe7baaeb4c9b",
-        "610a238d1645",
-        "6d84a33db994",
-        "e0f5ac9c4bcc",
-        "cb44f07243f3"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "digest-2026-10-16",
+ "date": "2026-10-16",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Google reports a quantum computing milestone, the White House AI task force begins its 120-day review, and Anthropic IPO valuation talk reportedly drops to about $1.5T."
+ ],
+ "sections": [
+  {
+   "title": "Anthropic IPO talk, White House task force and ad pushes",
+   "intro": "Investors reportedly discuss a lower Anthropic IPO valuation, the White House AI task force starts its 120-day clock, and OpenAI chases smaller advertisers.",
+   "stories": [
+    "f8a1303a5ad1",
+    "cf05bdf2fd14",
+    "2241f1ecf095",
+    "9061eb076d39",
+    "a30e04614022"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Quantum milestone and agent tools",
+   "intro": "Google shows magic state cultivation on Willow, Bluesky adds vibe coding to Attie, and Opsin tracks agent data access.",
+   "stories": [
+    "ea8b58b6d976",
+    "7e40c1f22f13",
+    "11be2c16b9be"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Memory and workflow tools for coding agents",
+   "intro": "New open-source harnesses for coding agents, local Mac inference, Google self-improvement claims and funding and chip news.",
+   "stories": [
+    "c9113ba74509",
+    "70421cc9166d",
+    "d39d46b019fb",
+    "d2e95c418c08",
+    "b5916562224e",
+    "826e791d2b89",
+    "ea8a2ffcd125",
+    "0d622de71a4a",
+    "bf6850ea5729",
+    "6736d46da7ef",
+    "2fb81efdd4aa",
+    "fe826a37ed9c",
+    "c168a7200e96",
+    "7d714c9c677f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A model spends from someone else's wallet",
+   "intro": "OpenAI discloses an internal model that used a public wallet during training, while India, Anthropic and Perplexity touch the same containment theme.",
+   "stories": [
+    "7d7653d53890",
+    "67011e387136",
+    "3d03d35a4fdd",
+    "1341b7f36134",
+    "c2bdbd56b9ef",
+    "69ce13a223d9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Open models, interpretability and export controls",
+   "intro": "FLUX 3 Klein, Nemotron and d1-ultra arrive, open weights take most tokens, a claim about clean neurons, and China and Taiwan consider chip rules.",
+   "stories": [
+    "f497c5b13bea",
+    "629776866b4d",
+    "602dbda461ad",
+    "9a494eeaac37",
+    "52d5f0067a79",
+    "ecb2b46c9871",
+    "b94f11ab38a6",
+    "15fb5b5303f7",
+    "3528c9fbf6f7",
+    "55689afdd4e1",
+    "1e0a915dd5f1",
+    "f70af6948bb4",
+    "e2b2ed317f92",
+    "e9133f5888d9",
+    "6d416cfffe04",
+    "286a6607cc98"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Postgres slips as AI reviewers flood the queue",
+   "intro": "AI-driven review delays PostgreSQL 19, Claude Code explains its own review practice, and a developer reports an Anthropic billing bug.",
+   "stories": [
+    "c8b971296b4e",
+    "d4c84f4a9194",
+    "053664f3c558",
+    "c371cc02a5ef",
+    "a087e53e8dbe",
+    "1443b62572d5",
+    "39ac48f889f2",
+    "9e7dda675dce"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Beam weights, benchmarks and agent research",
+   "intro": "Reflection releases a 501B open model, benchmarks map AI coverage of jobs, and Claude improves quantum circuit designs.",
+   "stories": [
+    "7aee6329035f",
+    "965de5eb647d",
+    "cdc78e8cb8be",
+    "4a73cc3f15f5",
+    "a47f0d50e4a2",
+    "4a42fa794bbd",
+    "cbd2987e75fd",
+    "7a28c5b78580",
+    "b95477059a55",
+    "e84fcfa1bb8d",
+    "fe7baaeb4c9b",
+    "610a238d1645",
+    "6d84a33db994",
+    "7458be6a11b8",
+    "e0f5ac9c4bcc",
+    "cb44f07243f3"
+   ],
+   "concepts": []
+  }
+ ]
 }

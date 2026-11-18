@@ -1,214 +1,224 @@
 {
-  "id": "digest-2026-10-13",
-  "date": "2026-10-13",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": [
-    "Anthropic adds a no-cruelty clause to its usage policy, Epic tells a studio to go 'AI first' with no hand-written code, and Amazon is reported to be weighing a $7B purchase of Decart."
-  ],
-  "sections": [
-    {
-      "title": "Anthropic's rules and OpenAI's watermarks",
-      "intro": "Anthropic rewrites its usage policy and OpenAI sets out text watermarking plans, as the self-replication study keeps circulating.",
-      "stories": [
-        "c2e871730ded"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Where the AI money is going",
-      "intro": "Deals, loans and chips as the build-out keeps drawing capital.",
-      "stories": [
-        "9aeaefd7d8dd",
-        "284e5862c049",
-        "54371421e709",
-        "914a15c188af",
-        "1cee4d84af54",
-        "549abd952f56"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "AI at work, and pushback against it",
-      "intro": "Epic's AI-first mandate, open source moratoriums and arguments about skill and sovereignty.",
-      "stories": [
-        "e92ccc718e4f",
-        "0d509601c474",
-        "cc20c655f6d2",
-        "ff71effdc875",
-        "d7f4cf36b53c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Small tools and odd experiments",
-      "intro": "Personal projects, an agent desktop and an iOS update nudge.",
-      "stories": [
-        "ddae6c55b1ab",
-        "b487b0d01e01",
-        "bf9d17e0e8ae",
-        "d4f3a9cebed8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Markets wobble over AI's debt and its returns",
-      "intro": "The IMF, a chip sell-off and Character.AI's bankruptcy put a price on the boom.",
-      "stories": [
-        "9993884ab710",
-        "78d5b27c2916",
-        "85c8a81afd22",
-        "1e45ca3949b7",
-        "f205e66ac6c9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Security, distillation and hidden capabilities",
-      "intro": "Anthropic fights model copying while researchers show audits can miss hidden abilities and police get a new geolocation tool.",
-      "stories": [
-        "438ec3bb1d1e",
-        "f34e4f9a770c",
-        "54a341b77dd9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Meta's pitch, Amazon's robots and a Fourier aside",
-      "intro": "Zuckerberg and Wang explain the bet behind Muse Wonder, Ars looks at Amazon's million robots, and OpenAI's FFT claim gets a review.",
-      "stories": [
-        "96b74bbf324f",
-        "0105a3e5f2ac",
-        "95a32bd4b248"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Apple's Welcome Home hardware, and Meta's Muse under scrutiny",
-      "intro": "Apple's smart home lineup leans on Siri AI, which keeps HomeView out of the EU, while Wired probes Meta's Muse and Alibaba shows glasses.",
-      "stories": [
-        "9b4f3bd3fba7",
-        "927d8bbb8e79",
-        "79e36f12d96c",
-        "7751467086d7",
-        "7ad0eec28c2d",
-        "fe1d2e9e37b3",
-        "745f255787f7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The market reacts: IMF growth, chip sell-off, Character.AI exits",
-      "intro": "Growth forecasts credit the AI boom just as chip stocks slide and a pioneer chatbot startup files for bankruptcy.",
-      "stories": [
-        "67347f6a1f3e",
-        "8e4049b94b74",
-        "c74e6d35c291",
-        "87dc5b4bbb84",
-        "48d533c73131",
-        "99ea8f5a8e2f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agent practice: constraints, plugins and the cost of loops",
-      "intro": "Practitioners trade ways to keep coding and research agents honest and affordable.",
-      "stories": [
-        "4def953dfe1b",
-        "da1193ea3503",
-        "22d5778f6fb8",
-        "82fb5e1eea72",
-        "94eca77a0f8a",
-        "9326ae9b44b7",
-        "f2524a67d91b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Research, new models and what's coming",
-      "intro": "Cheaper hybrid architectures, world models, distillation findings and rumors of Claude Next.",
-      "stories": [
-        "2067ff7c221e",
-        "8b2328eab85e",
-        "fcbf10c02e0e",
-        "c494a1043dd9",
-        "ea9d873f3d2e",
-        "c33aa5c0858d",
-        "0481b9033351"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Oversight, risk and security",
-      "intro": "Regulators question banks, labs seek control over evaluators, and essays warn about gradual disempowerment and weakened security.",
-      "stories": [
-        "bb381efac0af",
-        "4be5fc6345e1",
-        "8459d1447d10",
-        "437bf7f5fbb3",
-        "92538405f0d2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Anthropic's engineering at scale, and a new RSI date",
-      "intro": "Anthropic swaps out git because Claude writes too much code for it, and Jack Clark pulls his recursive-self-improvement estimate forward.",
-      "stories": [
-        "ea5d97dbc2d2",
-        "5adb584ec645",
-        "1f0665bbbda7",
-        "663f80865c7c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Google's Gemini 4 Argon",
-      "intro": "Google claims frontier parity for Argon, with a robotics variant and free personal Android apps.",
-      "stories": [
-        "50ea585312e9",
-        "d5d325eacb51",
-        "fc434d6fa73a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Apple's HomeView, Meta's feed controls and startup money",
-      "intro": "Hub hardware, feed tuning and funding rounds around AI products.",
-      "stories": [
-        "030e89e2c99e",
-        "b89b367d94b4",
-        "4cb78890354c",
-        "ceedff75c2fc",
-        "0e9dc04a20b9",
-        "5e28d56aa520",
-        "f038991ae03b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Trust, revenue claims and bot floods",
-      "intro": "Scientists doubt AI firms with their ideas, Zitron questions revenue accounting, and scrapers swamp small sites.",
-      "stories": [
-        "b8fc1a87e8ae",
-        "705552ee1cd1",
-        "34a9256167f9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Builders' notes: harnesses, gateways and slop filters",
-      "intro": "Practical tools and experiments from developers working with agents.",
-      "stories": [
-        "d500d57460ae",
-        "282b815f1ec0",
-        "125272a873dc",
-        "fc7654a6d1e7",
-        "cfc5f40e4a6c",
-        "fd97403228ee",
-        "d755080dedb4",
-        "fc5b4c9da6ea"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "digest-2026-10-13",
+ "date": "2026-10-13",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Anthropic adds a no-cruelty clause to its usage policy, Epic tells a studio to go 'AI first' with no hand-written code, and Amazon is reported to be weighing a $7B purchase of Decart."
+ ],
+ "sections": [
+  {
+   "title": "Anthropic's rules and OpenAI's watermarks",
+   "intro": "Anthropic rewrites its usage policy and OpenAI sets out text watermarking plans, as the self-replication study keeps circulating.",
+   "stories": [
+    "c2e871730ded",
+    "9fbd5de88285",
+    "b9e9619de6f1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Where the AI money is going",
+   "intro": "Deals, loans and chips as the build-out keeps drawing capital.",
+   "stories": [
+    "f86bae140f48",
+    "9aeaefd7d8dd",
+    "284e5862c049",
+    "54371421e709",
+    "914a15c188af",
+    "1cee4d84af54",
+    "549abd952f56"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI at work, and pushback against it",
+   "intro": "Epic's AI-first mandate, open source moratoriums and arguments about skill and sovereignty.",
+   "stories": [
+    "e92ccc718e4f",
+    "0d509601c474",
+    "2774b680f8b6",
+    "cc20c655f6d2",
+    "ff71effdc875",
+    "d7f4cf36b53c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Small tools and odd experiments",
+   "intro": "Personal projects, an agent desktop and an iOS update nudge.",
+   "stories": [
+    "ddae6c55b1ab",
+    "b487b0d01e01",
+    "bf9d17e0e8ae",
+    "d4f3a9cebed8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Markets wobble over AI's debt and its returns",
+   "intro": "The IMF, a chip sell-off and Character.AI's bankruptcy put a price on the boom.",
+   "stories": [
+    "9993884ab710",
+    "78d5b27c2916",
+    "85c8a81afd22",
+    "1e45ca3949b7",
+    "f205e66ac6c9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Security, distillation and hidden capabilities",
+   "intro": "Anthropic fights model copying while researchers show audits can miss hidden abilities and police get a new geolocation tool.",
+   "stories": [
+    "438ec3bb1d1e",
+    "f34e4f9a770c",
+    "54a341b77dd9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Meta's pitch, Amazon's robots and a Fourier aside",
+   "intro": "Zuckerberg and Wang explain the bet behind Muse Wonder, Ars looks at Amazon's million robots, and OpenAI's FFT claim gets a review.",
+   "stories": [
+    "96b74bbf324f",
+    "0105a3e5f2ac",
+    "95a32bd4b248",
+    "337348ac38d2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Apple's Welcome Home hardware, and Meta's Muse under scrutiny",
+   "intro": "Apple's smart home lineup leans on Siri AI, which keeps HomeView out of the EU, while Wired probes Meta's Muse and Alibaba shows glasses.",
+   "stories": [
+    "9b4f3bd3fba7",
+    "927d8bbb8e79",
+    "79e36f12d96c",
+    "7751467086d7",
+    "7ad0eec28c2d",
+    "fe1d2e9e37b3",
+    "745f255787f7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The market reacts: IMF growth, chip sell-off, Character.AI exits",
+   "intro": "Growth forecasts credit the AI boom just as chip stocks slide and a pioneer chatbot startup files for bankruptcy.",
+   "stories": [
+    "67347f6a1f3e",
+    "8e4049b94b74",
+    "c74e6d35c291",
+    "87dc5b4bbb84",
+    "48d533c73131",
+    "99ea8f5a8e2f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent practice: constraints, plugins and the cost of loops",
+   "intro": "Practitioners trade ways to keep coding and research agents honest and affordable.",
+   "stories": [
+    "4def953dfe1b",
+    "da1193ea3503",
+    "22d5778f6fb8",
+    "82fb5e1eea72",
+    "94eca77a0f8a",
+    "9326ae9b44b7",
+    "f2524a67d91b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Research, new models and what's coming",
+   "intro": "Cheaper hybrid architectures, world models, distillation findings and rumors of Claude Next.",
+   "stories": [
+    "2067ff7c221e",
+    "8b2328eab85e",
+    "fcbf10c02e0e",
+    "c494a1043dd9",
+    "ea9d873f3d2e",
+    "e134511d5d61",
+    "c33aa5c0858d",
+    "0481b9033351"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Oversight, risk and security",
+   "intro": "Regulators question banks, labs seek control over evaluators, and essays warn about gradual disempowerment and weakened security.",
+   "stories": [
+    "bb381efac0af",
+    "4be5fc6345e1",
+    "8459d1447d10",
+    "96298db29330",
+    "437bf7f5fbb3",
+    "92538405f0d2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic's engineering at scale, and a new RSI date",
+   "intro": "Anthropic swaps out git because Claude writes too much code for it, and Jack Clark pulls his recursive-self-improvement estimate forward.",
+   "stories": [
+    "ea5d97dbc2d2",
+    "f9d15bc9a06f",
+    "5adb584ec645",
+    "1f0665bbbda7",
+    "663f80865c7c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Google's Gemini 4 Argon",
+   "intro": "Google claims frontier parity for Argon, with a robotics variant and free personal Android apps.",
+   "stories": [
+    "50ea585312e9",
+    "d5d325eacb51",
+    "fc434d6fa73a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Apple's HomeView, Meta's feed controls and startup money",
+   "intro": "Hub hardware, feed tuning and funding rounds around AI products.",
+   "stories": [
+    "030e89e2c99e",
+    "b89b367d94b4",
+    "4cb78890354c",
+    "ceedff75c2fc",
+    "0e9dc04a20b9",
+    "5e28d56aa520",
+    "f038991ae03b",
+    "b3100e3e1ecd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Trust, revenue claims and bot floods",
+   "intro": "Scientists doubt AI firms with their ideas, Zitron questions revenue accounting, and scrapers swamp small sites.",
+   "stories": [
+    "b8fc1a87e8ae",
+    "705552ee1cd1",
+    "34a9256167f9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Builders' notes: harnesses, gateways and slop filters",
+   "intro": "Practical tools and experiments from developers working with agents.",
+   "stories": [
+    "d500d57460ae",
+    "282b815f1ec0",
+    "125272a873dc",
+    "fc7654a6d1e7",
+    "cfc5f40e4a6c",
+    "fd97403228ee",
+    "d755080dedb4",
+    "fc5b4c9da6ea",
+    "a84c58fd034f"
+   ],
+   "concepts": []
+  }
+ ]
 }

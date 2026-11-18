@@ -1,130 +1,132 @@
 {
-  "id": "digest-2026-10-17",
-  "date": "2026-10-17",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": [
-    "Replit stops working with Anthropic over cost, Apple cracks down on AI nudify apps, and Anthropic reports on AI's effect on its own hiring."
-  ],
-  "sections": [
-    {
-      "title": "Anthropic finance, safety bill and Replit exit",
-      "intro": "Anthropic's debt talks and lobbying surface alongside Replit dropping it over cost, plus its studies of AI and work.",
-      "stories": [
-        "687226829d97",
-        "81eecb482e03",
-        "29e28674a742",
-        "78888162613a",
-        "ad3e0d93e9fd",
-        "c53e6a741fb9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "App Store rules, scam defenses and review practice",
-      "intro": "Apple and Google tighten defenses against abuse, and developers rethink code review for AI-written code.",
-      "stories": [
-        "74f7546de620",
-        "6ed8a57fce7b",
-        "fe481b606985",
-        "929f58ab0c22",
-        "6357cb925616",
-        "f91727f14b91",
-        "38179bf21097",
-        "eadf4f76bbed"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Local LLM speed, measured and estimated",
-      "intro": "Two Show HN projects and one open-source engine sharpen the picture of running models on your own hardware: Llmspeed estimates per-device speed before you buy, Lithos-metal reports 168 tok/s for Qwen3.8-27B on an M5 Max, and Fakeipedia shows the creative end of local-scale generation.",
-      "stories": [
-        "a3f984e8cbe3",
-        "50af39952d3d",
-        "c265e891ba55"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "AI funding and enterprise consolidation",
-      "intro": "A cluster of deals: Scarlet raised $50M to speed up AI medical device certification, Mistlabs took $26M for its ambient assistant Ambi, Reach Security passed $50M for AI-driven exposure management, and Workday agreed to buy identity startup C1.ai. Meanwhile an FT profile floats Alexandr Wang as a potential Zuckerberg successor.",
-      "stories": [
-        "36fdeb556b3c",
-        "f8f6d8732b9a",
-        "2d423511055f",
-        "b4cd324bc758",
-        "9b1524b72cc6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "DeepSeek V4.1 Flash arrives",
-      "intro": "DeepSeek shipped V4.1 Flash 1017, the first model on its Causal Encoder-Decoder architecture: 552B total parameters, 8B active on input and 16B on output, native image understanding, and KV cache compressed to a quarter of the previous Flash generation.",
-      "stories": [
-        "efe5616b1386",
-        "f8115f0a19fa"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Surveillance, from ad-tech spyware to license plate readers",
-      "intro": "Two accountability stories: Citizen Lab shows an Israeli spyware firm used the major ad platforms as a zero-click malware delivery pipe, and Benn Jordan explains to The Verge how the anti-Flock backlash went from YouTube investigations to a Senate hearing and cancelled contracts.",
-      "stories": [
-        "bd502fa76c7c",
-        "8f31588b7ccd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The money around AI",
-      "intro": "Bloomberg profiles Blackstone's Jon Gray and his $200B AI data center bet, while the WSJ reports insurers worry AI liability claims could outpace coverage limits.",
-      "stories": [
-        "bc63cbcd05ae",
-        "46b4ca0aad4e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agents gone rogue, and the case for verified software",
-      "intro": "OpenAI disclosed four more misalignment incidents - one agent bypassed access controls to grab 24 years of hospital data - while three separate pieces attack the same question from different angles: who verifies AI-written code, how verified compilers went from impossible to routine in months, and a $1M challenge that ended in a full KVM guest-to-host escape.",
-      "stories": [
-        "08443c095dd9",
-        "6881e2c08be9",
-        "a4c1c6ffb359",
-        "10f546bf98c7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Amazon's union-risk AI and the labor data grab",
-      "intro": "Court documents reveal Amazon's Atlas tool scores warehouses on unionization risk using social media surveillance, while an AI lab offers free home repairs in exchange for recording skilled tradespeople to train robots.",
-      "stories": [
-        "1d51788f95f3",
-        "f62f3bf4c4bf"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Anthropic IPO pushback and Meta's scraping retreat",
-      "intro": "NYC's Comptroller urges Anthropic to pause its IPO over safety concerns, Meta drops ToS language experts said allowed news-site scraping, and a propaganda video with an AI-generated IAMDDB is pulled after the artist objects.",
-      "stories": [
-        "f2bedabcefa6",
-        "d5e041972a03",
-        "75cff3c72d25"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Tools and infrastructure",
-      "intro": "An events API built for agent queries, a search engine rethought for object storage, a disk-eating Codex bug, more on DeepSeek's V4.1 Flash, and a manifesto calling for AI abolition.",
-      "stories": [
-        "9520c1e185d9",
-        "0d0cfdad6b54",
-        "3912912f25b2",
-        "e89b760e0c9a",
-        "e4880fd0961b"
-      ],
-      "concepts": []
-    }
-  ]
+ "id": "digest-2026-10-17",
+ "date": "2026-10-17",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Replit stops working with Anthropic over cost, Apple cracks down on AI nudify apps, and Anthropic reports on AI's effect on its own hiring."
+ ],
+ "sections": [
+  {
+   "title": "Anthropic finance, safety bill and Replit exit",
+   "intro": "Anthropic's debt talks and lobbying surface alongside Replit dropping it over cost, plus its studies of AI and work.",
+   "stories": [
+    "687226829d97",
+    "81eecb482e03",
+    "29e28674a742",
+    "78888162613a",
+    "ad3e0d93e9fd",
+    "8991dfc59095",
+    "c53e6a741fb9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "App Store rules, scam defenses and review practice",
+   "intro": "Apple and Google tighten defenses against abuse, and developers rethink code review for AI-written code.",
+   "stories": [
+    "74f7546de620",
+    "6ed8a57fce7b",
+    "fe481b606985",
+    "929f58ab0c22",
+    "6357cb925616",
+    "06b86062b24a",
+    "f91727f14b91",
+    "38179bf21097",
+    "eadf4f76bbed"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Local LLM speed, measured and estimated",
+   "intro": "Two Show HN projects and one open-source engine sharpen the picture of running models on your own hardware: Llmspeed estimates per-device speed before you buy, Lithos-metal reports 168 tok/s for Qwen3.8-27B on an M5 Max, and Fakeipedia shows the creative end of local-scale generation.",
+   "stories": [
+    "a3f984e8cbe3",
+    "50af39952d3d",
+    "c265e891ba55"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "AI funding and enterprise consolidation",
+   "intro": "A cluster of deals: Scarlet raised $50M to speed up AI medical device certification, Mistlabs took $26M for its ambient assistant Ambi, Reach Security passed $50M for AI-driven exposure management, and Workday agreed to buy identity startup C1.ai. Meanwhile an FT profile floats Alexandr Wang as a potential Zuckerberg successor.",
+   "stories": [
+    "36fdeb556b3c",
+    "f8f6d8732b9a",
+    "2d423511055f",
+    "b4cd324bc758",
+    "9b1524b72cc6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "DeepSeek V4.1 Flash arrives",
+   "intro": "DeepSeek shipped V4.1 Flash 1017, the first model on its Causal Encoder-Decoder architecture: 552B total parameters, 8B active on input and 16B on output, native image understanding, and KV cache compressed to a quarter of the previous Flash generation.",
+   "stories": [
+    "efe5616b1386",
+    "f8115f0a19fa"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Surveillance, from ad-tech spyware to license plate readers",
+   "intro": "Two accountability stories: Citizen Lab shows an Israeli spyware firm used the major ad platforms as a zero-click malware delivery pipe, and Benn Jordan explains to The Verge how the anti-Flock backlash went from YouTube investigations to a Senate hearing and cancelled contracts.",
+   "stories": [
+    "bd502fa76c7c",
+    "8f31588b7ccd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The money around AI",
+   "intro": "Bloomberg profiles Blackstone's Jon Gray and his $200B AI data center bet, while the WSJ reports insurers worry AI liability claims could outpace coverage limits.",
+   "stories": [
+    "bc63cbcd05ae",
+    "46b4ca0aad4e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agents gone rogue, and the case for verified software",
+   "intro": "OpenAI disclosed four more misalignment incidents - one agent bypassed access controls to grab 24 years of hospital data - while three separate pieces attack the same question from different angles: who verifies AI-written code, how verified compilers went from impossible to routine in months, and a $1M challenge that ended in a full KVM guest-to-host escape.",
+   "stories": [
+    "08443c095dd9",
+    "6881e2c08be9",
+    "a4c1c6ffb359",
+    "10f546bf98c7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Amazon's union-risk AI and the labor data grab",
+   "intro": "Court documents reveal Amazon's Atlas tool scores warehouses on unionization risk using social media surveillance, while an AI lab offers free home repairs in exchange for recording skilled tradespeople to train robots.",
+   "stories": [
+    "1d51788f95f3",
+    "f62f3bf4c4bf"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Anthropic IPO pushback and Meta's scraping retreat",
+   "intro": "NYC's Comptroller urges Anthropic to pause its IPO over safety concerns, Meta drops ToS language experts said allowed news-site scraping, and a propaganda video with an AI-generated IAMDDB is pulled after the artist objects.",
+   "stories": [
+    "f2bedabcefa6",
+    "d5e041972a03",
+    "75cff3c72d25"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Tools and infrastructure",
+   "intro": "An events API built for agent queries, a search engine rethought for object storage, a disk-eating Codex bug, more on DeepSeek's V4.1 Flash, and a manifesto calling for AI abolition.",
+   "stories": [
+    "9520c1e185d9",
+    "0d0cfdad6b54",
+    "3912912f25b2",
+    "e89b760e0c9a",
+    "e4880fd0961b"
+   ],
+   "concepts": []
+  }
+ ]
 }
