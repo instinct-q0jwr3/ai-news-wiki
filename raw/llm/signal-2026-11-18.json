@@ -8,7 +8,7 @@
       "id": "85ae7bf936fc",
       "front": "Research",
       "source": "energy-based-reasoners.github.io",
-      "why": "A learned energy function makes refinement and stopping explicit, with the efficiency claim bounded to particular reasoning tasks."
+      "why": "The source reports 345x, not the feed headline’s 385x, on a bounded reasoning benchmark. A learned energy function guides refinement and stopping."
     },
     {
       "id": "798c8735bfcc",

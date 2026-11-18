@@ -32,58 +32,10 @@
    "url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/"
   },
   {
-   "id": "4099fdb215a4",
-   "title": "How should we define “capabilities activities” for the purpose of pacing?",
+   "id": "5457061dff50",
+   "title": "Microsoft's Seven New Models",
    "source": "TLDR AI",
-   "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities"
-  },
-  {
-   "id": "684af04894c7",
-   "title": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas",
-   "source": "Techmeme",
-   "url": "https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851/"
-  },
-  {
-   "id": "469a3db8f8a2",
-   "title": "GPT‑6.2 Astra and Sol",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
-  },
-  {
-   "id": "78f30a2292f6",
-   "title": "the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
-  },
-  {
-   "id": "09b636ac9a37",
-   "title": "Masayoshi Son says passing on a 2023 opportunity to invest in Anthropic was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\"",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0"
-  },
-  {
-   "id": "f799547b67ac",
-   "title": "Horizon Labs",
-   "source": "TLDR AI",
-   "url": "https://horizon-labs.ai/"
-  },
-  {
-   "id": "4218b251a82d",
-   "title": "Microsoft-Decision-1.1 is now generally available for fast, low-cost decision making",
-   "source": "TLDR AI",
-   "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/"
-  },
-  {
-   "id": "77cfd79db59c",
-   "title": "Cerebras Disaggregated Inference",
-   "source": "Hacker News",
-   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
-  },
-  {
-   "id": "db93030dce73",
-   "title": "Jensen Huang Tweets",
-   "source": "Daring Fireball",
-   "url": "https://x.com/JensenHuang/status/2122726005219737649"
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
   },
   {
    "id": "1a6f97c61ece",
@@ -92,88 +44,10 @@
    "url": "https://notesbylex.com/weight-space-programming-1990s.html"
   },
   {
-   "id": "5cbc6921ac0a",
-   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
-   "source": "TLDR AI",
-   "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"
-  },
-  {
-   "id": "249df63cfa61",
-   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-   "source": "Hacker News",
-   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
-  },
-  {
-   "id": "9b78f0193aab",
-   "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
-   "source": "Hacker News",
-   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
-  },
-  {
-   "id": "a2a17a3e5428",
-   "title": "Tencent President Martin Lau says the US' new \"remote access\" rules on Chinese chip access \"sets everyone back in China\" and will delay new AI model training",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
-  },
-  {
-   "id": "7932cd302866",
-   "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/"
-  },
-  {
-   "id": "798c8735bfcc",
-   "title": "Building a reliable LLM investigation pipeline in Go with spooler.sh",
-   "source": "Lobsters",
-   "url": "https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/"
-  },
-  {
-   "id": "12759f585c95",
-   "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas's award-winning novel as 99% AI-generated",
-   "source": "Techmeme",
-   "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/"
-  },
-  {
-   "id": "17e5bb3611a3",
-   "title": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
-  },
-  {
    "id": "8f244e136b85",
    "title": "ByteDance is in advanced talks with Microsoft to spend an additional ~$500M on Azure, primarily to access OpenAI models, drawing complaints from OpenAI",
    "source": "Techmeme",
    "url": "https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai"
-  },
-  {
-   "id": "e63430832ec4",
-   "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\"",
-   "source": "Techmeme",
-   "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
-  },
-  {
-   "id": "6830c7db22dc",
-   "title": "Introducing Replit Missions",
-   "source": "TLDR AI",
-   "url": "https://replit.com/blog/introducing-replit-missions"
-  },
-  {
-   "id": "72c22040a5eb",
-   "title": "Experiments in Weight-Space Programming",
-   "source": "TLDR AI",
-   "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/"
-  },
-  {
-   "id": "9acafc34f909",
-   "title": "Gemini Can Now Make Calls and Pay Bills",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-  },
-  {
-   "id": "79cd297f996f",
-   "title": "Vercel's eve 1.0",
-   "source": "TLDR AI",
-   "url": "https://vercel.com/blog/eve-is-now-generally-available"
   },
   {
    "id": "e50f73193df3",
@@ -182,10 +56,136 @@
    "url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent"
   },
   {
-   "id": "5457061dff50",
-   "title": "Microsoft's Seven New Models",
+   "id": "7932cd302866",
+   "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/"
+  },
+  {
+   "id": "469a3db8f8a2",
+   "title": "GPT‑6.2 Astra and Sol",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+  },
+  {
+   "id": "db93030dce73",
+   "title": "Jensen Huang Tweets",
+   "source": "Daring Fireball",
+   "url": "https://x.com/JensenHuang/status/2122726005219737649"
+  },
+  {
+   "id": "9b78f0193aab",
+   "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+   "source": "Hacker News",
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+  },
+  {
+   "id": "e63430832ec4",
+   "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\"",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+  },
+  {
+   "id": "684af04894c7",
+   "title": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas",
+   "source": "Techmeme",
+   "url": "https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851/"
+  },
+  {
+   "id": "4218b251a82d",
+   "title": "Microsoft-Decision-1.1 is now generally available for fast, low-cost decision making",
    "source": "TLDR AI",
-   "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+   "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/"
+  },
+  {
+   "id": "09b636ac9a37",
+   "title": "Masayoshi Son says passing on a 2023 opportunity to invest in Anthropic was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\"",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0"
+  },
+  {
+   "id": "4099fdb215a4",
+   "title": "How should we define “capabilities activities” for the purpose of pacing?",
+   "source": "TLDR AI",
+   "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities"
+  },
+  {
+   "id": "9acafc34f909",
+   "title": "Gemini Can Now Make Calls and Pay Bills",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+  },
+  {
+   "id": "12759f585c95",
+   "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas's award-winning novel as 99% AI-generated",
+   "source": "Techmeme",
+   "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/"
+  },
+  {
+   "id": "78f30a2292f6",
+   "title": "the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
+  },
+  {
+   "id": "77cfd79db59c",
+   "title": "Cerebras Disaggregated Inference",
+   "source": "Hacker News",
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+  },
+  {
+   "id": "6830c7db22dc",
+   "title": "Introducing Replit Missions",
+   "source": "TLDR AI",
+   "url": "https://replit.com/blog/introducing-replit-missions"
+  },
+  {
+   "id": "17e5bb3611a3",
+   "title": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+  },
+  {
+   "id": "798c8735bfcc",
+   "title": "Building a reliable LLM investigation pipeline in Go with spooler.sh",
+   "source": "Lobsters",
+   "url": "https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/"
+  },
+  {
+   "id": "79cd297f996f",
+   "title": "Vercel's eve 1.0",
+   "source": "TLDR AI",
+   "url": "https://vercel.com/blog/eve-is-now-generally-available"
+  },
+  {
+   "id": "72c22040a5eb",
+   "title": "Experiments in Weight-Space Programming",
+   "source": "TLDR AI",
+   "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/"
+  },
+  {
+   "id": "f799547b67ac",
+   "title": "Horizon Labs",
+   "source": "TLDR AI",
+   "url": "https://horizon-labs.ai/"
+  },
+  {
+   "id": "a2a17a3e5428",
+   "title": "Tencent President Martin Lau says the US' new \"remote access\" rules on Chinese chip access \"sets everyone back in China\" and will delay new AI model training",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/"
+  },
+  {
+   "id": "249df63cfa61",
+   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+   "source": "Hacker News",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+  },
+  {
+   "id": "5cbc6921ac0a",
+   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+   "source": "TLDR AI",
+   "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"
   }
  ]
 }

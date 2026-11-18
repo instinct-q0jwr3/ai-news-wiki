@@ -2698,7 +2698,7 @@
     "minutes": 3,
     "source": "energy-based-reasoners.github.io",
     "title": "Energy-Based Reasoners: 385x more efficient inference",
-    "why": "A learned energy function makes refinement and stopping explicit, with the efficiency claim bounded to particular reasoning tasks."
+    "why": "The source reports 345x, not the feed headline’s 385x, on a bounded reasoning benchmark. A learned energy function guides refinement and stopping."
    },
    {
     "cat": "ok",
