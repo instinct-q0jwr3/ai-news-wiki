@@ -1,0 +1,13 @@
+{
+  "id": "d7b365ab6b18",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Mastra’s authors introduce an open-source software-factory interface for coordinating maintenance work through a board and Slack. They describe durable sessions, company knowledge with citations, repository-event triggers and configurable development environments, alongside internal pull-request counts.\n\nThose counts measure the authors’ activity, not independently verified quality or net productivity. Closing outside contributions and asking for detailed issue reports is their project choice, not a general recommendation. No software was installed or repository access changed for this summary.",
+  "highlights": [
+    "Author post describes a coordination product",
+    "Slack is an important interface in their usage",
+    "Internal PR counts are not quality measurements",
+    "Durability and event triggers support longer work",
+    "Project contribution policy remains context-specific"
+  ]
+}

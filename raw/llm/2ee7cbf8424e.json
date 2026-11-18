@@ -1,0 +1,13 @@
+{
+  "id": "2ee7cbf8424e",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Beat’s landing page describes drafting reviews and follow-ups across workplace tools, with a person approving before changes are posted. It advertises beta availability and later paid plans.\n\nThe page’s claim that prompt injection cannot cause actions relies on its stated draft-review boundary and was not independently tested. Human review can reduce some risks but is not proof that every malicious draft will be caught. No accounts were connected.",
+  "highlights": [
+    "Product pitch centers on draft then approve",
+    "Workplace-tool connections require setup",
+    "Beta and planned paid access are distinct",
+    "Prompt-injection claim is not independently verified",
+    "Human review does not guarantee detection"
+  ]
+}

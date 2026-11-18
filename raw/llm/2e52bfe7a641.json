@@ -1,0 +1,13 @@
+{
+  "id": "2e52bfe7a641",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison quotes Daniel Stenberg questioning whether AI-assisted Rust rewrites can keep pace with continuing curl maintenance. The quotation contrasts conversion activity with fixes and security work arriving in the original project.\n\nThe specific counts are Stenberg’s account, not independently checked here. The general issue is ongoing synchronization and maintenance rather than whether one language is always safer or a rewrite can never succeed.",
+  "highlights": [
+    "Quotation emphasizes continuing upstream work",
+    "Porting volume differs from maintained behavior",
+    "Bug and security fixes keep arriving",
+    "Reported counts remain attributed",
+    "No universal language-safety conclusion follows"
+  ]
+}

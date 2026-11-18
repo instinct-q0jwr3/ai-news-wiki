@@ -1,36 +1,6 @@
 {
- "generated_at": "2026-11-18T15:54:13+00:00",
+ "generated_at": "2026-11-18T21:54:30+00:00",
  "stories": [
-  {
-   "id": "85ae7bf936fc",
-   "title": "Energy-Based Reasoners: 385x more efficient inference",
-   "source": "Hacker News",
-   "url": "https://energy-based-reasoners.github.io/"
-  },
-  {
-   "id": "179e590c3127",
-   "title": "When AI Knows More Than It Can Offer",
-   "source": "Hacker News",
-   "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e"
-  },
-  {
-   "id": "5a25b1c66d06",
-   "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-   "source": "Hacker News",
-   "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
-  },
-  {
-   "id": "9a146c68e5a7",
-   "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI",
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5"
-  },
-  {
-   "id": "165f2ae4912c",
-   "title": "Data Minimization Is Imperative for the Age of AI Agents",
-   "source": "Hacker News",
-   "url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/"
-  },
   {
    "id": "5457061dff50",
    "title": "Microsoft's Seven New Models",
@@ -38,76 +8,52 @@
    "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
   },
   {
-   "id": "1a6f97c61ece",
-   "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-   "source": "TLDR AI",
-   "url": "https://notesbylex.com/weight-space-programming-1990s.html"
-  },
-  {
-   "id": "8f244e136b85",
-   "title": "ByteDance is in advanced talks with Microsoft to spend an additional ~$500M on Azure, primarily to access OpenAI models, drawing complaints from OpenAI",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/microsoft-nears-500-million-deal-sell-ai-bytedance-irking-openai"
-  },
-  {
-   "id": "e50f73193df3",
-   "title": "Introducing Computer's Multiagent effort level",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/introducing-computer-multiagent"
-  },
-  {
-   "id": "7932cd302866",
-   "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/"
-  },
-  {
-   "id": "469a3db8f8a2",
-   "title": "GPT‑6.2 Astra and Sol",
+   "id": "237672bc5461",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
    "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
   },
   {
-   "id": "db93030dce73",
-   "title": "Jensen Huang Tweets",
-   "source": "Daring Fireball",
-   "url": "https://x.com/JensenHuang/status/2122726005219737649"
-  },
-  {
-   "id": "9b78f0193aab",
-   "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+   "id": "1b216eaf5fd1",
+   "title": "Genie 4 is now available",
    "source": "Hacker News",
-   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
   },
   {
-   "id": "e63430832ec4",
-   "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\"",
+   "id": "43e7dd620719",
+   "title": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
   },
   {
-   "id": "684af04894c7",
-   "title": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas",
-   "source": "Techmeme",
-   "url": "https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851/"
+   "id": "1716c585ae29",
+   "title": "Advancing chip design with OpenAI models",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
   },
   {
-   "id": "4218b251a82d",
-   "title": "Microsoft-Decision-1.1 is now generally available for fast, low-cost decision making",
-   "source": "TLDR AI",
-   "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/"
+   "id": "d7b365ab6b18",
+   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50548660"
   },
   {
-   "id": "09b636ac9a37",
-   "title": "Masayoshi Son says passing on a 2023 opportunity to invest in Anthropic was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\"",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0"
+   "id": "d6bbe97eecb8",
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "source": "Hacker News",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
   },
   {
-   "id": "4099fdb215a4",
-   "title": "How should we define “capabilities activities” for the purpose of pacing?",
-   "source": "TLDR AI",
-   "url": "https://blog.redwoodresearch.org/p/how-should-we-define-capabilities"
+   "id": "0896c2b0ce4e",
+   "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+   "source": "Hacker News",
+   "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
+  },
+  {
+   "id": "21205a0a1685",
+   "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50549188"
   },
   {
    "id": "9acafc34f909",
@@ -116,52 +62,22 @@
    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
   },
   {
-   "id": "12759f585c95",
-   "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas's award-winning novel as 99% AI-generated",
-   "source": "Techmeme",
-   "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/"
-  },
-  {
-   "id": "78f30a2292f6",
-   "title": "the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
-  },
-  {
-   "id": "77cfd79db59c",
-   "title": "Cerebras Disaggregated Inference",
+   "id": "7a350a27dc87",
+   "title": "Can Universities Survive? AI vs. Higher Education [audio]",
    "source": "Hacker News",
-   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+   "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education"
   },
   {
-   "id": "6830c7db22dc",
-   "title": "Introducing Replit Missions",
-   "source": "TLDR AI",
-   "url": "https://replit.com/blog/introducing-replit-missions"
+   "id": "8d8766b67cd7",
+   "title": "Is AI a bicycle for the mind, or a car?",
+   "source": "Hacker News",
+   "url": "https://twitter.com/kouhxp/status/2123096768996892959"
   },
   {
-   "id": "17e5bb3611a3",
-   "title": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
-  },
-  {
-   "id": "798c8735bfcc",
-   "title": "Building a reliable LLM investigation pipeline in Go with spooler.sh",
-   "source": "Lobsters",
-   "url": "https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/"
-  },
-  {
-   "id": "79cd297f996f",
-   "title": "Vercel's eve 1.0",
-   "source": "TLDR AI",
-   "url": "https://vercel.com/blog/eve-is-now-generally-available"
-  },
-  {
-   "id": "72c22040a5eb",
-   "title": "Experiments in Weight-Space Programming",
-   "source": "TLDR AI",
-   "url": "https://jacobstrauss.bearblog.dev/experiments-in-weight-space-programming/"
+   "id": "3aca80047cac",
+   "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+   "source": "Hacker News",
+   "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners"
   },
   {
    "id": "f799547b67ac",
@@ -170,22 +86,88 @@
    "url": "https://horizon-labs.ai/"
   },
   {
-   "id": "a2a17a3e5428",
-   "title": "Tencent President Martin Lau says the US' new \"remote access\" rules on Chinese chip access \"sets everyone back in China\" and will delay new AI model training",
-   "source": "Techmeme",
-   "url": "https://www.theinformation.com/"
-  },
-  {
-   "id": "249df63cfa61",
-   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+   "id": "2ee7cbf8424e",
+   "title": "Show HN: Beat – a to-do list that completes its own tasks",
    "source": "Hacker News",
-   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+   "url": "https://gobeat.ai/auth/login"
   },
   {
-   "id": "5cbc6921ac0a",
-   "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
-   "source": "TLDR AI",
-   "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/"
+   "id": "2f7f81084eed",
+   "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+   "source": "Hacker News",
+   "url": "https://springcraft-ai.github.io/springrep/"
+  },
+  {
+   "id": "ca2f718efe6e",
+   "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+  },
+  {
+   "id": "5576e271b577",
+   "title": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's \"safety\" branding and its \"reckless attempt\" to build RSI",
+   "source": "Techmeme",
+   "url": "https://safe.ai/news/anthropic-is-not-a-safe-ai-company"
+  },
+  {
+   "id": "96472f28438e",
+   "title": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/pro/all-deals/2026/11/17/remanence-30m-ai-model-training"
+  },
+  {
+   "id": "922ef7ae50c1",
+   "title": "Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg's stake",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight"
+  },
+  {
+   "id": "2e52bfe7a641",
+   "title": "Quoting Daniel Stenberg",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/"
+  },
+  {
+   "id": "0ca08945f0ad",
+   "title": "Is Anthropic’s IPO a bad bet, both for investors and society?",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both"
+  },
+  {
+   "id": "67835862d67f",
+   "title": "Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+  },
+  {
+   "id": "3a65a7099408",
+   "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?st=xrTMe2&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "d34229657679",
+   "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws",
+   "source": "Techmeme",
+   "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/"
+  },
+  {
+   "id": "b838768b27a1",
+   "title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches",
+   "source": "Techmeme",
+   "url": "https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739"
+  },
+  {
+   "id": "27394eb2d154",
+   "title": "Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces",
+   "source": "Lobsters",
+   "url": "https://contextgeneric.dev/blog/v0.8.0-release"
+  },
+  {
+   "id": "81229296622e",
+   "title": "Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue",
+   "source": "Techmeme",
+   "url": "https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation"
   }
  ]
 }

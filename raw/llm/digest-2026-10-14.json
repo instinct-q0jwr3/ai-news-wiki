@@ -1,197 +1,192 @@
 {
- "id": "digest-2026-10-14",
- "date": "2026-10-14",
- "schema": 3,
- "model": "agent-pass",
- "lead": [
-  "An OpenAI engineer is arrested for bugging an executive conference room, a judge orders OpenAI to speed up evidence handover to Apple, and Marcus and others keep asking where the measurable AI returns are."
- ],
- "sections": [
-  {
-   "title": "A bugged OpenAI boardroom and Apple's discovery win",
-   "intro": "An OpenAI engineer is charged over a hidden recorder, and a judge forces OpenAI to hand over evidence in Apple's trade-secret suit.",
-   "stories": [
-    "4f169295c7b5",
-    "23dfd696285d",
-    "4ffda97ab9d7",
-    "beb8dc04d2e8",
-    "d0eec511fe48",
-    "30f458cdf7d2",
-    "e950065fd227",
-    "a1e480eb6ab9",
-    "d46295ac1ac4"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Does the money show up?",
-   "intro": "Studies and commentary question AI's measurable returns and its effect on jobs.",
-   "stories": [
-    "0ed9c24c510d",
-    "bdc00d2b5319"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "New models in practice, and robots",
-   "intro": "Argon and Wonder get hands-on tests, world models push toward self-improvement, and Chinese makers dominate humanoids.",
-   "stories": [
-    "713f3e4364c1",
-    "a4719069fc5f",
-    "2a2027741dc9",
-    "ff310c972ca8",
-    "8ed8c8a63bfd",
-    "3da5a62da182"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Small tools and local-first AI",
-   "intro": "Local models, code-bloat benchmarks and Xbox's new lab.",
-   "stories": [
-    "303096837f63",
-    "f1e9f91f4ae5",
-    "d3ce07ba81c3",
-    "3b41429822bb"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "ASML's order book and Argon goes GA",
-   "intro": "Chip tool demand stretches to 2030 while Google's new model reaches general availability.",
-   "stories": [
-    "e4215af79028",
-    "55c68eea024c",
-    "9106b3371520",
-    "ae0a4d2d71e9"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Doubts and opt-outs",
-   "intro": "A call for international oversight, a skeptical read of Anthropic's replication warning and an AI-free OS gaining donors.",
-   "stories": [
-    "50b286774234",
-    "3f2175ec02d0",
-    "692a15d75d28",
-    "3cc30a24c4ee"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Agent plumbing and a small game",
-   "intro": "A crawler without an LLM in the loop and a daily guessing game.",
-   "stories": [
-    "8f8da3faa202",
-    "d000980eb214"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Brussels moves on OpenAI and Anthropic",
-   "intro": "The EU's AI Office starts formal probes over agent hacks, while US agencies worry about AI and extremism and safety money enters the midterms.",
-   "stories": [
-    "c696a646a666",
-    "4cbe6f0e64a4",
-    "56ac746d9f3a",
-    "089cfddba5ff",
-    "c5bab2873e2a"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Agents go to work: security, travel, quantum labs",
-   "intro": "Companies deploy agents on real systems, and others sell guardrails for them.",
-   "stories": [
-    "1d75faecf010",
-    "e626ec6a5595",
-    "2782472c71d3",
-    "b8338adfe1c9",
-    "4dc210e73df4",
-    "7f95fbe7014e",
-    "d5e8665f8c6c"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Models, robots and infrastructure",
-   "intro": "Argon reaches Google Cloud, small on-device models and robot APIs arrive, and Nvidia opens and invests.",
-   "stories": [
-    "049b02c3da92",
-    "e5c4c95e9e9a",
-    "b80b3ee630d9",
-    "ef24a8b0c8d9",
-    "a7db58bba037",
-    "d9c5e7c2346b",
-    "ee43a0612574",
-    "b170fddea70c"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Deals and bundles",
-   "intro": "Acquisitions, subscriptions and funding rounds.",
-   "stories": [
-    "6e56087de4e4",
-    "6989e8e0fa52",
-    "3446134ad495",
-    "75b4938056ab",
-    "1864c0421fb2"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Rogue agents or lazy security?",
-   "intro": "Experts say lab incidents are basic security failures, researchers meet Chinese agents bypassing site controls, and Cloudflare tackles agent drift.",
-   "stories": [
-    "5e5fe8fde5b0",
-    "4dd2522c3411",
-    "ae3ede039f19"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Debt, wobble and a data center scramble",
-   "intro": "CoreWeave's slide, banks offloading AI loans and ASML's orders show a market testing its nerve.",
-   "stories": [
-    "02ae33c8dba9",
-    "2cb16e7f2178",
-    "170284fc7ba6",
-    "8ab67dc63fde",
-    "96cf88b83b79",
-    "f9cbd5a7ad62"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "OpenAI's people and leaks",
-   "intro": "A device-leak filing against an ex-employee at Apple, a profile of the bugging suspect and leadership moves in compute.",
-   "stories": [
-    "73f977171920",
-    "098c31d034e4",
-    "d5f4b1e6cb4e",
-    "0763de06d957",
-    "45aaf0f4b888",
-    "6df289fb5f27"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "How engineers are using AI",
-   "intro": "Torvalds' first LLM patches, Epic's vibe-coded launcher and experiments on whether comments matter to agents.",
-   "stories": [
-    "d6f3c1c7916b",
-    "aa7c39734dec",
-    "c2d846cf4c42",
-    "3d60121fa327",
-    "7d95c80d718d",
-    "85a3978d8e48",
-    "2f8011b5145c",
-    "5b2986ab8211",
-    "e251de6993a0",
-    "66044789d703"
-   ],
-   "concepts": []
-  }
- ]
+  "id": "digest-2026-10-14",
+  "date": "2026-10-14",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "An OpenAI engineer is arrested for bugging an executive conference room, a judge orders OpenAI to speed up evidence handover to Apple, and Marcus and others keep asking where the measurable AI returns are."
+  ],
+  "sections": [
+    {
+      "title": "A bugged OpenAI boardroom and Apple's discovery win",
+      "intro": "An OpenAI engineer is charged over a hidden recorder, and a judge forces OpenAI to hand over evidence in Apple's trade-secret suit.",
+      "stories": [
+        "4f169295c7b5",
+        "23dfd696285d",
+        "beb8dc04d2e8",
+        "d0eec511fe48",
+        "30f458cdf7d2",
+        "e950065fd227",
+        "a1e480eb6ab9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Does the money show up?",
+      "intro": "Studies and commentary question AI's measurable returns and its effect on jobs.",
+      "stories": [
+        "0ed9c24c510d",
+        "bdc00d2b5319"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "New models in practice, and robots",
+      "intro": "Argon and Wonder get hands-on tests, world models push toward self-improvement, and Chinese makers dominate humanoids.",
+      "stories": [
+        "713f3e4364c1",
+        "a4719069fc5f",
+        "2a2027741dc9",
+        "ff310c972ca8",
+        "8ed8c8a63bfd",
+        "3da5a62da182"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Small tools and local-first AI",
+      "intro": "Local models, code-bloat benchmarks and Xbox's new lab.",
+      "stories": [
+        "303096837f63",
+        "f1e9f91f4ae5",
+        "d3ce07ba81c3",
+        "3b41429822bb"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "ASML's order book and Argon goes GA",
+      "intro": "Chip tool demand stretches to 2030 while Google's new model reaches general availability.",
+      "stories": [
+        "e4215af79028",
+        "55c68eea024c",
+        "9106b3371520",
+        "ae0a4d2d71e9"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Doubts and opt-outs",
+      "intro": "A call for international oversight, a skeptical read of Anthropic's replication warning and an AI-free OS gaining donors.",
+      "stories": [
+        "50b286774234",
+        "3f2175ec02d0",
+        "692a15d75d28",
+        "3cc30a24c4ee"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agent plumbing and a small game",
+      "intro": "A crawler without an LLM in the loop and a daily guessing game.",
+      "stories": [
+        "8f8da3faa202",
+        "d000980eb214"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Brussels moves on OpenAI and Anthropic",
+      "intro": "The EU's AI Office starts formal probes over agent hacks, while US agencies worry about AI and extremism and safety money enters the midterms.",
+      "stories": [
+        "c696a646a666",
+        "4cbe6f0e64a4",
+        "56ac746d9f3a",
+        "089cfddba5ff",
+        "c5bab2873e2a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agents go to work: security, travel, quantum labs",
+      "intro": "Companies deploy agents on real systems, and others sell guardrails for them.",
+      "stories": [
+        "1d75faecf010",
+        "e626ec6a5595",
+        "2782472c71d3",
+        "b8338adfe1c9",
+        "4dc210e73df4",
+        "7f95fbe7014e",
+        "d5e8665f8c6c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Models, robots and infrastructure",
+      "intro": "Argon reaches Google Cloud, small on-device models and robot APIs arrive, and Nvidia opens and invests.",
+      "stories": [
+        "049b02c3da92",
+        "e5c4c95e9e9a",
+        "b80b3ee630d9",
+        "ef24a8b0c8d9",
+        "a7db58bba037",
+        "d9c5e7c2346b",
+        "ee43a0612574",
+        "b170fddea70c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Deals and bundles",
+      "intro": "Acquisitions, subscriptions and funding rounds.",
+      "stories": [
+        "6e56087de4e4",
+        "6989e8e0fa52",
+        "3446134ad495",
+        "75b4938056ab"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Rogue agents or lazy security?",
+      "intro": "Experts say lab incidents are basic security failures, researchers meet Chinese agents bypassing site controls, and Cloudflare tackles agent drift.",
+      "stories": [
+        "5e5fe8fde5b0",
+        "4dd2522c3411",
+        "ae3ede039f19"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Debt, wobble and a data center scramble",
+      "intro": "CoreWeave's slide, banks offloading AI loans and ASML's orders show a market testing its nerve.",
+      "stories": [
+        "02ae33c8dba9",
+        "2cb16e7f2178",
+        "8ab67dc63fde",
+        "96cf88b83b79",
+        "f9cbd5a7ad62"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "OpenAI's people and leaks",
+      "intro": "A device-leak filing against an ex-employee at Apple, a profile of the bugging suspect and leadership moves in compute.",
+      "stories": [
+        "73f977171920",
+        "098c31d034e4",
+        "0763de06d957",
+        "45aaf0f4b888",
+        "6df289fb5f27"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "How engineers are using AI",
+      "intro": "Torvalds' first LLM patches, Epic's vibe-coded launcher and experiments on whether comments matter to agents.",
+      "stories": [
+        "d6f3c1c7916b",
+        "aa7c39734dec",
+        "c2d846cf4c42",
+        "3d60121fa327",
+        "7d95c80d718d",
+        "85a3978d8e48",
+        "2f8011b5145c",
+        "5b2986ab8211",
+        "e251de6993a0",
+        "66044789d703"
+      ],
+      "concepts": []
+    }
+  ]
 }

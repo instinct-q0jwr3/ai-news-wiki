@@ -10,6 +10,10 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-18** - Google’s Gemini 4 Neon announcement reports a balance of professional-task capability and speed across selected evaluations. It describes different reasoning effort settings and rollout through APIs and paid products.
+
+Benchmark rank and task cost depend… ([Google rolls out Gemini 4 Neon, with "fast end-to-end task completion" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app](../summaries/43e7dd620719.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Small and specialist models](../concepts/small-specialist-models.md))
+- **2026-11-18** - The Verge reports Google is renaming Spark to Tasks and broadening free access in six countries, with additional calling, payment and account-sign-in features in the United States. The article describes sensitive-action approval and account-specific… ([Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay](../summaries/ca2f718efe6e.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-18** - Google announces expanded Gemini task execution, including calls, account-based bill analysis and shopping, with a free rollout in specified countries and advanced features initially in the United States. The announcement describes connected apps,… ([Gemini Can Now Make Calls and Pay Bills](../summaries/9acafc34f909.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-18** - Kernel describes unexpectedly long Gemini 4 Carbon runtimes on a private evaluation compared with other models. The readable excerpt contains a small number of timing examples and refers to a time-and-cost chart.
 

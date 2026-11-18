@@ -1,86 +1,83 @@
 {
- "id": "digest-2026-10-11",
- "date": "2026-10-11",
- "schema": 3,
- "model": "agent-pass",
- "lead": [
-  "Cockroach Labs ships a Db2 migration built entirely by agents inside its coding hospital, byte-level Transformers challenge the tokenizer, and fake Claude installers ride Google ads through Bing redirects."
- ],
- "sections": [
-  {
-   "title": "The coding hospital",
-   "intro": "Cockroach Labs runs coding agents like a medical team, and a hobby OS wants agents at the kernel.",
-   "stories": [
-    "a9ca056c9fd1",
-    "35c210044574"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Do models need tokenizers",
-   "intro": "Flat byte-level Transformers catch and pass subword models as they scale.",
-   "stories": [
-    "cfc71f918a70"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Fake Claude installers",
-   "intro": "Malvertising abuses Bing redirects to push ClickFix attacks dressed as Claude.",
-   "stories": [
-    "6f7dd6fcc260"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Decompiling games, at industrial scale",
-   "intro": "A three-month, 500-billion-token FPS recreation, and the Kotaku wave of browser ports driven by Opus 5.5.",
-   "stories": [
-    "61a00b937df0",
-    "43f56db67d76"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Agent tooling and toys",
-   "intro": "A stand-up call for your Claude Code session, a Rust engine for agent-made 3D video, and Python 3.15 in Actions.",
-   "stories": [
-    "9cf90242dc46",
-    "c070f0bd9d35",
-    "28c3f83e2b05"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Research, models and money",
-   "intro": "Models fall short of a human algorithmic innovation, Microsoft ships a decision model, and two raises land.",
-   "stories": [
-    "683fa7f84ce8",
-    "38f8ee4ddd08",
-    "c1656a52fe8f",
-    "f3da71d65732"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Humans, tools and the AI backlash",
-   "intro": "Today's reading is about what AI does to people and creative work: a premium on human-made art, a study on persistence, an actor refusing an AI waiver, and an AI-built Adobe clone.",
-   "stories": [
-    "66810b4608f4",
-    "f0e5e6b1231e",
-    "e569e397a513",
-    "8e05b5e8c85a"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "Robots, data and road tolls",
-   "intro": "Physical AI funding built on filmed human work, plus a data page on European driving costs.",
-   "stories": [
-    "7c816ab63f1e",
-    "d8abca6bfd34"
-   ],
-   "concepts": []
-  }
- ]
+  "id": "digest-2026-10-11",
+  "date": "2026-10-11",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "Cockroach Labs ships a Db2 migration built entirely by agents inside its coding hospital, byte-level Transformers challenge the tokenizer, and fake Claude installers ride Google ads through Bing redirects."
+  ],
+  "sections": [
+    {
+      "title": "The coding hospital",
+      "intro": "Cockroach Labs runs coding agents like a medical team, and a hobby OS wants agents at the kernel.",
+      "stories": [
+        "a9ca056c9fd1"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Do models need tokenizers",
+      "intro": "Flat byte-level Transformers catch and pass subword models as they scale.",
+      "stories": [
+        "cfc71f918a70"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Fake Claude installers",
+      "intro": "Malvertising abuses Bing redirects to push ClickFix attacks dressed as Claude.",
+      "stories": [
+        "6f7dd6fcc260"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Decompiling games, at industrial scale",
+      "intro": "A three-month, 500-billion-token FPS recreation, and the Kotaku wave of browser ports driven by Opus 5.5.",
+      "stories": [
+        "61a00b937df0"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agent tooling and toys",
+      "intro": "A stand-up call for your Claude Code session, a Rust engine for agent-made 3D video, and Python 3.15 in Actions.",
+      "stories": [
+        "9cf90242dc46",
+        "c070f0bd9d35",
+        "28c3f83e2b05"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Research, models and money",
+      "intro": "Models fall short of a human algorithmic innovation, Microsoft ships a decision model, and two raises land.",
+      "stories": [
+        "38f8ee4ddd08",
+        "c1656a52fe8f",
+        "f3da71d65732"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Humans, tools and the AI backlash",
+      "intro": "Today's reading is about what AI does to people and creative work: a premium on human-made art, a study on persistence, an actor refusing an AI waiver, and an AI-built Adobe clone.",
+      "stories": [
+        "66810b4608f4",
+        "f0e5e6b1231e",
+        "e569e397a513",
+        "8e05b5e8c85a"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Robots, data and road tolls",
+      "intro": "Physical AI funding built on filmed human work, plus a data page on European driving costs.",
+      "stories": [
+        "7c816ab63f1e",
+        "d8abca6bfd34"
+      ],
+      "concepts": []
+    }
+  ]
 }

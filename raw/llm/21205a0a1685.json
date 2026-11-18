@@ -1,0 +1,13 @@
+{
+  "id": "21205a0a1685",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Maritime’s founders describe a managed cloud for persistent agents, combining isolated environments with scheduling, sleep and wake, recovery, networking and spending visibility. Their launch argues that lifecycle operations are a larger problem than creating a sandbox alone.\n\nThe pricing and security statements are founder claims, not an independent service audit or verified total-cost comparison. Commenters question patching maturity and latency. Application inference, resource needs and operational guarantees must be checked separately before choosing a provider.",
+  "highlights": [
+    "Launch emphasizes lifecycle management",
+    "Persistent isolated environments are described",
+    "Recovery and networking are part of the pitch",
+    "Founder pricing is not a complete cost audit",
+    "Discussion raises patching and latency questions"
+  ]
+}

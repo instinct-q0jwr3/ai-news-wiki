@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1362,
+  "stories": 1374,
   "last": "2026-11-18"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1338,
+  "stories": 1348,
   "last": "2026-11-18"
  },
  {
@@ -20,13 +20,13 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 117,
+  "stories": 118,
   "last": "2026-11-18"
  },
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 87,
+  "stories": 88,
   "last": "2026-11-18"
  },
  {
@@ -60,16 +60,16 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
   "stories": 29,
   "last": "2026-11-18"
  },
  {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 28,
-  "last": "2026-11-17"
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 29,
+  "last": "2026-11-18"
  },
  {
   "name": "Works on My Machine",

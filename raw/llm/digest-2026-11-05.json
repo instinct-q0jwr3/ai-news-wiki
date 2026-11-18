@@ -1,185 +1,184 @@
 {
- "id": "digest-2026-11-05",
- "date": "2026-11-05",
- "schema": 3,
- "model": "agent-pass",
- "lead": [
-  "Wall Street sold off AI stocks after the election, with the S&P 500 down over 3% and the Nasdaq down about 5%. OpenAI launched GPT-6 Cyber after revealing that GPT-6 Astra underperforms on safety work, Anthropic put personal finance in Claude, and Cat Wu and Conductor moved to OpenAI and Meta."
- ],
- "sections": [
-  {
-   "title": "The ballot box vs. the data center",
-   "intro": "Voters reject data centers in 38 of 40+ ballot races, Abbott loses Texas by 700,000, and data-center stocks fall even as the market rallies.",
-   "stories": [
-    "37c2d32e04b3",
-    "8d870a63e661",
-    "b68a045cf176",
-    "1061e58eeec4",
-    "e72818d4f2ef",
-    "60d0541251cc",
-    "02a6efd31d29",
-    "09630f91ef42"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The supply chain squeeze",
-   "intro": "AI demand now crowds out PCBs on top of RAM and GPUs, and Arm's royalty miss hints at a mixed chip picture.",
-   "stories": [
-    "228da1214043",
-    "2afd937cc8f6",
-    "9495d066e142",
-    "14e4e387d84f",
-    "5b3ff17699bf"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The money keeps moving",
-   "intro": "SpaceX's chip debt gets syndicated and Isomorphic Labs eyes $5B at $50B.",
-   "stories": [
-    "b9421a4a05f1",
-    "60b583e0d2a7",
-    "e07d8bb54557",
-    "464566db7858",
-    "9a5adfcded9d"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The agent economy",
-   "intro": "Garry Tan's $200K token bill, a venting piece on agent tools, and a CLI that tests whether agents can use your docs.",
-   "stories": [
-    "d2797a1a44c4",
-    "3496e6e09d06",
-    "28fabb1a434e",
-    "5e335ad35973",
-    "ab2d10de8654",
-    "e21a733f580b"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The talent and the lobby",
-   "intro": "Cat Wu moves from Anthropic to OpenAI, and Anthropic signs its first content deal, with the AP.",
-   "stories": [
-    "b25194a0e790",
-    "8151573577b1",
-    "ef9c14039348",
-    "ba5e42b4b327",
-    "ae11b5f34e25",
-    "91cef173836e",
-    "5da4616c6393",
-    "e0d4453ee00c"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The security desk",
-   "intro": "OpenAI says it validated and patched 948 Linux privilege-escalation bugs for $1.2M.",
-   "stories": [
-    "23d86ed438ed",
-    "79f3323638fa",
-    "4dc10a03f415",
-    "ed65350736bd",
-    "38a7f86f7a0a",
-    "745fc0e17815",
-    "b4cf110c623a",
-    "3357a20868cb"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The consumer push",
-   "intro": "Images 2.6 brings GIFs to ChatGPT; 4 billion images a week.",
-   "stories": [
-    "a343e1060780",
-    "a52a544cb44c",
-    "bdb954d6637f",
-    "ed109411cd83",
-    "3112bd39b464",
-    "452386d2348d",
-    "c088ff9d4b80"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The scam economy",
-   "intro": "Platforms take any ad that pays, and the spam now fakes close reading.",
-   "stories": [
-    "c9f1669c7ff1"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The open web at stake",
-   "intro": "Doctorow on why banning scraping and weakening CDA 230 would entrench the giants.",
-   "stories": [
-    "bc9445403531"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The job market and the roadmap",
-   "intro": "UK entry-level postings now ask for AI, Meta retires fruit codenames, and China blocks SoftBank's robotics deal.",
-   "stories": [
-    "206e866a1eb0",
-    "f0892e1e4839",
-    "313f29bda98b"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The open-weight race",
-   "intro": "New open and near-open models arrive from Tencent, Cognition and Ricursive, and Delangue argues risk lives in closed labs.",
-   "stories": [
-    "5a01fc952c40",
-    "1d36966941be",
-    "0b85a9011c04",
-    "ba269cf6f80b",
-    "e9f4d9ebf9df"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The research shelf",
-   "intro": "Lean formalization of the Stacks Project, AlphaEvolve's code, and a paper arguing long context is overrated.",
-   "stories": [
-    "35d4dcdd9e44",
-    "2e97794c1fa6",
-    "b508b6a71f80",
-    "098d6cf7f1aa"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The business desk",
-   "intro": "An Intuit CEO interview and Perplexity's Decisions API.",
-   "stories": [
-    "a624cb1fba1c",
-    "7f248886d730"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The workbench",
-   "intro": "Developer tools and side projects: Rivet for agent actors, an offline survival assistant, and AI reviving the hackintosh.",
-   "stories": [
-    "c80bc64d1ca2",
-    "00cd00f0af78",
-    "38e12e3b82f4",
-    "e1a82979ea6b"
-   ],
-   "concepts": []
-  },
-  {
-   "title": "The reading shelf",
-   "intro": "Odds and ends from HN: Hungary opens its secret police files, and a cochlear-implant psychophysics artifact.",
-   "stories": [
-    "8852c2d63648",
-    "d5398b85f47a"
-   ],
-   "concepts": []
-  }
- ]
+  "id": "digest-2026-11-05",
+  "date": "2026-11-05",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "Wall Street sold off AI stocks after the election, with the S&P 500 down over 3% and the Nasdaq down about 5%. OpenAI launched GPT-6 Cyber after revealing that GPT-6 Astra underperforms on safety work, Anthropic put personal finance in Claude, and Cat Wu and Conductor moved to OpenAI and Meta."
+  ],
+  "sections": [
+    {
+      "title": "The ballot box vs. the data center",
+      "intro": "Voters reject data centers in 38 of 40+ ballot races, Abbott loses Texas by 700,000, and data-center stocks fall even as the market rallies.",
+      "stories": [
+        "37c2d32e04b3",
+        "8d870a63e661",
+        "b68a045cf176",
+        "1061e58eeec4",
+        "e72818d4f2ef",
+        "60d0541251cc",
+        "02a6efd31d29",
+        "09630f91ef42"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The supply chain squeeze",
+      "intro": "AI demand now crowds out PCBs on top of RAM and GPUs, and Arm's royalty miss hints at a mixed chip picture.",
+      "stories": [
+        "228da1214043",
+        "2afd937cc8f6",
+        "9495d066e142",
+        "14e4e387d84f",
+        "5b3ff17699bf"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The money keeps moving",
+      "intro": "SpaceX's chip debt gets syndicated and Isomorphic Labs eyes $5B at $50B.",
+      "stories": [
+        "b9421a4a05f1",
+        "60b583e0d2a7",
+        "e07d8bb54557",
+        "464566db7858",
+        "9a5adfcded9d"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The agent economy",
+      "intro": "Garry Tan's $200K token bill, a venting piece on agent tools, and a CLI that tests whether agents can use your docs.",
+      "stories": [
+        "d2797a1a44c4",
+        "3496e6e09d06",
+        "28fabb1a434e",
+        "5e335ad35973",
+        "ab2d10de8654",
+        "e21a733f580b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The talent and the lobby",
+      "intro": "Cat Wu moves from Anthropic to OpenAI, and Anthropic signs its first content deal, with the AP.",
+      "stories": [
+        "b25194a0e790",
+        "8151573577b1",
+        "ef9c14039348",
+        "ba5e42b4b327",
+        "ae11b5f34e25",
+        "91cef173836e",
+        "5da4616c6393",
+        "e0d4453ee00c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The security desk",
+      "intro": "OpenAI says it validated and patched 948 Linux privilege-escalation bugs for $1.2M.",
+      "stories": [
+        "23d86ed438ed",
+        "4dc10a03f415",
+        "ed65350736bd",
+        "38a7f86f7a0a",
+        "745fc0e17815",
+        "b4cf110c623a",
+        "3357a20868cb"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The consumer push",
+      "intro": "Images 2.6 brings GIFs to ChatGPT; 4 billion images a week.",
+      "stories": [
+        "a343e1060780",
+        "a52a544cb44c",
+        "bdb954d6637f",
+        "ed109411cd83",
+        "3112bd39b464",
+        "452386d2348d",
+        "c088ff9d4b80"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The scam economy",
+      "intro": "Platforms take any ad that pays, and the spam now fakes close reading.",
+      "stories": [
+        "c9f1669c7ff1"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The open web at stake",
+      "intro": "Doctorow on why banning scraping and weakening CDA 230 would entrench the giants.",
+      "stories": [
+        "bc9445403531"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The job market and the roadmap",
+      "intro": "UK entry-level postings now ask for AI, Meta retires fruit codenames, and China blocks SoftBank's robotics deal.",
+      "stories": [
+        "206e866a1eb0",
+        "f0892e1e4839",
+        "313f29bda98b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The open-weight race",
+      "intro": "New open and near-open models arrive from Tencent, Cognition and Ricursive, and Delangue argues risk lives in closed labs.",
+      "stories": [
+        "5a01fc952c40",
+        "1d36966941be",
+        "0b85a9011c04",
+        "ba269cf6f80b",
+        "e9f4d9ebf9df"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The research shelf",
+      "intro": "Lean formalization of the Stacks Project, AlphaEvolve's code, and a paper arguing long context is overrated.",
+      "stories": [
+        "35d4dcdd9e44",
+        "2e97794c1fa6",
+        "b508b6a71f80",
+        "098d6cf7f1aa"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The business desk",
+      "intro": "An Intuit CEO interview and Perplexity's Decisions API.",
+      "stories": [
+        "a624cb1fba1c",
+        "7f248886d730"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The workbench",
+      "intro": "Developer tools and side projects: Rivet for agent actors, an offline survival assistant, and AI reviving the hackintosh.",
+      "stories": [
+        "c80bc64d1ca2",
+        "00cd00f0af78",
+        "38e12e3b82f4",
+        "e1a82979ea6b"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "The reading shelf",
+      "intro": "Odds and ends from HN: Hungary opens its secret police files, and a cochlear-implant psychophysics artifact.",
+      "stories": [
+        "8852c2d63648",
+        "d5398b85f47a"
+      ],
+      "concepts": []
+    }
+  ]
 }

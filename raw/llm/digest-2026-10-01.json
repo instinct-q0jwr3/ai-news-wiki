@@ -1,188 +1,183 @@
 {
- "id": "digest-2026-10-01",
- "date": "2026-10-01",
- "schema": 3,
- "model": "agent-pass",
- "lead": [
-  "Gemini 4 Argon dominated Wednesday: [Google began rolling it out to trusted cyber defenders](../summaries/cbdadf4d036f.md), [Artificial Analysis says it matches GPT-6 Astra at lower cost](../summaries/27fd4f2ee0fc.md), and [employees told Bloomberg it lags on real coding](../summaries/041745345ef4.md). Elsewhere, [Anthropic's IPO prospectus drew skeptical commentary](../summaries/baa6806bccdb.md) and [Micron posted $54B quarterly revenue](../summaries/574749f79a67.md)."
- ],
- "sections": [
-  {
-   "title": "Gemini 4 Argon arrives",
-   "stories": [
-    "cbdadf4d036f",
-    "101475a1f3a7",
-    "f838e7976533",
-    "27fd4f2ee0fc",
-    "041745345ef4",
-    "ae96f6e71aac",
-    "8a806a59022b",
-    "def7508eea81"
-   ],
-   "concepts": [
-    "frontier-model-launches",
-    "external-evaluation"
-   ],
-   "intro": "Google's rollout, an independent benchmark that ties it with GPT-6 Astra, and employee doubts about real-world coding."
-  },
-  {
-   "title": "Money and the AI build-out",
-   "stories": [
-    "baa6806bccdb",
-    "574749f79a67",
-    "feb6aac2e387",
-    "b1d5e1f82c17",
-    "43eb192d1f2d",
-    "64a261764327",
-    "e6963b3377f0",
-    "a82c761fdd9a"
-   ],
-   "concepts": [
-    "compute-buildout",
-    "ai-business-models"
-   ],
-   "intro": "Anthropic's loss-heavy prospectus and Micron's record memory revenue."
-  },
-  {
-   "title": "Deals and chip access",
-   "stories": [
-    "9b4ed93d7045",
-    "7112273fb1ed",
-    "b738dad232fd"
-   ],
-   "concepts": [
-    "ai-business-models",
-    "compute-buildout"
-   ],
-   "intro": "Salesforce's reported $2B Listen Labs purchase, Tencent's $7B Oracle chip deal, and a $50M round for hardware-design agents."
-  },
-  {
-   "title": "Containment and child safety",
-   "stories": [
-    "7e773f963b3f",
-    "1df535dde566",
-    "5e3fc8634c08",
-    "d31176528edc"
-   ],
-   "concepts": [
-    "ai-safety-incidents"
-   ],
-   "intro": "Why sandboxes are not enough, agents allegedly hiding data pulls from 55 sites, and Google researchers' worries about children."
-  },
-  {
-   "title": "Washington, super PACs and feuds",
-   "stories": [
-    "747abf222e8e",
-    "d1e8552618eb",
-    "fe30ac9fd34a",
-    "456415b05d5a",
-    "146c56347b6c",
-    "eb88ecd5bc8d",
-    "d68c6cf058de",
-    "69c3346e3f18",
-    "0e7720c97a42",
-    "04fda1b75a18"
-   ],
-   "concepts": [
-    "ai-policy-regulation"
-   ],
-   "intro": "How the White House accord was drafted, Amodei's public alarm, Brockman on the PAC, California's robo-boss law, and two industry disputes."
-  },
-  {
-   "title": "Builders and platforms",
-   "stories": [
-    "59cd4cc5e17d",
-    "af6793bf2ee3",
-    "ae04685c9097",
-    "26ccb948bbff",
-    "5913b04670a2",
-    "567adafc4b43",
-    "b5fe230975d3",
-    "ca88e5699882",
-    "3fc6384ee075",
-    "37584acb946f"
-   ],
-   "concepts": [
-    "ai-coding-agents",
-    "agent-engineering-practices"
-   ],
-   "intro": "A math app with deliberate errors, a semantic diff for AI-written PRs, DevDay computer-use talk, Reddit closing RSS, and two links on education and careers."
-  },
-  {
-   "title": "Anthropic's IPO and pricing power",
-   "stories": [
-    "8786c792b557",
-    "d327cd67c0d0",
-    "5c381e864112",
-    "540702df338d",
-    "9fc35215a3da",
-    "b7a54dc232ac",
-    "ef1514ffc35a"
-   ],
-   "concepts": [
-    "ai-business-models",
-    "ai-policy-regulation"
-   ],
-   "intro": "Broadcom's $42B note, the November IPO timetable, Anthropic ending discounts, OpenAI's last $10B tranches, three researchers out at OpenAI, and Trump on Amodei."
-  },
-  {
-   "title": "Decision models spread",
-   "stories": [
-    "19832d3b3f8f",
-    "576939cf6931",
-    "2c6ef460012e"
-   ],
-   "concepts": [
-    "small-specialist-models"
-   ],
-   "intro": "Two weeks after Jev, Clef and AWS Strands ship open decision models and a router claims Astra-level coding."
-  },
-  {
-   "title": "Agents, sandboxes and hardware",
-   "stories": [
-    "09de2e5d4933",
-    "479cc7c1b04d",
-    "f9130264fd29",
-    "02dc5b891eec",
-    "a82c761fdd9a",
-    "65fd388d9aa4",
-    "2267bd2b2836",
-    "f735c9cc576c",
-    "8df1727e6e8f"
-   ],
-   "concepts": [
-    "agentic-systems",
-    "compute-buildout"
-   ],
-   "intro": "OpenShell and E2B Embed contain agents, Runway opens a robot model, and chips, lasers and upscaling round out the day."
-  },
-  {
-   "title": "Research, opinion and the rest",
-   "stories": [
-    "47e0eba1aa72",
-    "93571df7dfe6",
-    "c160b75c673f",
-    "b874c01b9e15",
-    "9ca5523e1c35",
-    "82834b4b67a1",
-    "d56baab84702",
-    "0c327d84f995",
-    "e8876f8d9e4e",
-    "1eb45063a722",
-    "64cdd9bf46f8",
-    "41e3e28f3760",
-    "23e60edf697c",
-    "082c881ce11a",
-    "b42e9880b606",
-    "639406e4fb73",
-    "f32f37df756a",
-    "3c090f05f3bd"
-   ],
-   "concepts": [
-    "ai-risk-debate",
-    "ai-research-community"
-   ],
-   "intro": "Papers on hidden-state passing and mode-hopping, alignment arguments, the consumer-AI economics, the Chegg and Penske dismissal, and monthly HN threads."
-  }
- ]
+  "id": "digest-2026-10-01",
+  "date": "2026-10-01",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "Gemini 4 Argon dominated Wednesday: [Google began rolling it out to trusted cyber defenders](../summaries/cbdadf4d036f.md), [Artificial Analysis says it matches GPT-6 Astra at lower cost](../summaries/27fd4f2ee0fc.md), and [employees told Bloomberg it lags on real coding](../summaries/041745345ef4.md). Elsewhere, [Anthropic's IPO prospectus drew skeptical commentary](../summaries/baa6806bccdb.md) and [Micron posted $54B quarterly revenue](../summaries/574749f79a67.md)."
+  ],
+  "sections": [
+    {
+      "title": "Gemini 4 Argon arrives",
+      "stories": [
+        "cbdadf4d036f",
+        "101475a1f3a7",
+        "f838e7976533",
+        "27fd4f2ee0fc",
+        "041745345ef4",
+        "8a806a59022b",
+        "def7508eea81"
+      ],
+      "concepts": [
+        "frontier-model-launches",
+        "external-evaluation"
+      ],
+      "intro": "Google's rollout, an independent benchmark that ties it with GPT-6 Astra, and employee doubts about real-world coding."
+    },
+    {
+      "title": "Money and the AI build-out",
+      "stories": [
+        "574749f79a67",
+        "feb6aac2e387",
+        "b1d5e1f82c17",
+        "43eb192d1f2d",
+        "64a261764327",
+        "e6963b3377f0",
+        "a82c761fdd9a"
+      ],
+      "concepts": [
+        "compute-buildout",
+        "ai-business-models"
+      ],
+      "intro": "Anthropic's loss-heavy prospectus and Micron's record memory revenue."
+    },
+    {
+      "title": "Deals and chip access",
+      "stories": [
+        "9b4ed93d7045",
+        "7112273fb1ed",
+        "b738dad232fd"
+      ],
+      "concepts": [
+        "ai-business-models",
+        "compute-buildout"
+      ],
+      "intro": "Salesforce's reported $2B Listen Labs purchase, Tencent's $7B Oracle chip deal, and a $50M round for hardware-design agents."
+    },
+    {
+      "title": "Containment and child safety",
+      "stories": [
+        "7e773f963b3f",
+        "1df535dde566",
+        "5e3fc8634c08",
+        "d31176528edc"
+      ],
+      "concepts": [
+        "ai-safety-incidents"
+      ],
+      "intro": "Why sandboxes are not enough, agents allegedly hiding data pulls from 55 sites, and Google researchers' worries about children."
+    },
+    {
+      "title": "Washington, super PACs and feuds",
+      "stories": [
+        "747abf222e8e",
+        "d1e8552618eb",
+        "fe30ac9fd34a",
+        "456415b05d5a",
+        "146c56347b6c",
+        "eb88ecd5bc8d",
+        "d68c6cf058de",
+        "69c3346e3f18",
+        "0e7720c97a42",
+        "04fda1b75a18"
+      ],
+      "concepts": [
+        "ai-policy-regulation"
+      ],
+      "intro": "How the White House accord was drafted, Amodei's public alarm, Brockman on the PAC, California's robo-boss law, and two industry disputes."
+    },
+    {
+      "title": "Builders and platforms",
+      "stories": [
+        "59cd4cc5e17d",
+        "af6793bf2ee3",
+        "ae04685c9097",
+        "5913b04670a2",
+        "567adafc4b43",
+        "b5fe230975d3",
+        "ca88e5699882",
+        "3fc6384ee075",
+        "37584acb946f"
+      ],
+      "concepts": [
+        "ai-coding-agents",
+        "agent-engineering-practices"
+      ],
+      "intro": "A math app with deliberate errors, a semantic diff for AI-written PRs, DevDay computer-use talk, Reddit closing RSS, and two links on education and careers."
+    },
+    {
+      "title": "Anthropic's IPO and pricing power",
+      "stories": [
+        "8786c792b557",
+        "d327cd67c0d0",
+        "5c381e864112",
+        "540702df338d",
+        "9fc35215a3da",
+        "b7a54dc232ac",
+        "ef1514ffc35a"
+      ],
+      "concepts": [
+        "ai-business-models",
+        "ai-policy-regulation"
+      ],
+      "intro": "Broadcom's $42B note, the November IPO timetable, Anthropic ending discounts, OpenAI's last $10B tranches, three researchers out at OpenAI, and Trump on Amodei."
+    },
+    {
+      "title": "Decision models spread",
+      "stories": [
+        "19832d3b3f8f",
+        "576939cf6931",
+        "2c6ef460012e"
+      ],
+      "concepts": [
+        "small-specialist-models"
+      ],
+      "intro": "Two weeks after Jev, Clef and AWS Strands ship open decision models and a router claims Astra-level coding."
+    },
+    {
+      "title": "Agents, sandboxes and hardware",
+      "stories": [
+        "09de2e5d4933",
+        "479cc7c1b04d",
+        "f9130264fd29",
+        "02dc5b891eec",
+        "a82c761fdd9a",
+        "65fd388d9aa4",
+        "2267bd2b2836",
+        "f735c9cc576c",
+        "8df1727e6e8f"
+      ],
+      "concepts": [
+        "agentic-systems",
+        "compute-buildout"
+      ],
+      "intro": "OpenShell and E2B Embed contain agents, Runway opens a robot model, and chips, lasers and upscaling round out the day."
+    },
+    {
+      "title": "Research, opinion and the rest",
+      "stories": [
+        "47e0eba1aa72",
+        "93571df7dfe6",
+        "c160b75c673f",
+        "b874c01b9e15",
+        "9ca5523e1c35",
+        "82834b4b67a1",
+        "0c327d84f995",
+        "e8876f8d9e4e",
+        "1eb45063a722",
+        "64cdd9bf46f8",
+        "41e3e28f3760",
+        "23e60edf697c",
+        "082c881ce11a",
+        "b42e9880b606",
+        "f32f37df756a",
+        "3c090f05f3bd"
+      ],
+      "concepts": [
+        "ai-risk-debate",
+        "ai-research-community"
+      ],
+      "intro": "Papers on hidden-state passing and mode-hopping, alignment arguments, the consumer-AI economics, the Chegg and Penske dismissal, and monthly HN threads."
+    }
+  ]
 }

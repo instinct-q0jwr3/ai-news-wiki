@@ -1,0 +1,13 @@
+{
+  "id": "2f7f81084eed",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Springrep presents a Rust boundary-representation CAD kernel using analytic or NURBS surfaces rather than meshes. Its landing page emphasizes validity checks, exact-geometry measurements and a public conformance benchmark; the author’s launch description says AI-assisted coding helped create the kernel and test suite.\n\nAccuracy and benchmark leadership are author claims, not independently reproduced results. A validity check can reject a bad solid without proving every numerical operation or downstream manufacturing use is safe.",
+  "highlights": [
+    "Kernel targets exact CAD geometry",
+    "Surfaces differ from mesh approximations",
+    "Page describes validity checks and errors",
+    "Test and speed claims remain attributed",
+    "Manufacturing suitability was not verified"
+  ]
+}

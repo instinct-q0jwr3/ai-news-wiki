@@ -1,0 +1,13 @@
+{
+  "id": "d34229657679",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Forbes report indexed by Techmeme says Xint and Wiz separately identified vulnerabilities involving Nginx, with Xint attributing part of its work to AI models. The full article was inaccessible. Affected versions, advisories and remediation status were not checked; operational patch decisions need the official vendor notices.",
+  "highlights": [
+    "Evidence is limited to an indexed excerpt",
+    "Discovery claims come from security companies",
+    "Separate discovery does not establish priority",
+    "Affected versions were unavailable",
+    "Patch guidance requires official advisories"
+  ]
+}

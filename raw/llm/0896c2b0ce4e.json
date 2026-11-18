@@ -1,0 +1,14 @@
+{
+  "id": "0896c2b0ce4e",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Onehouse announces vector search on existing open lakehouse tables, with a Postgres-compatible query endpoint and index metadata stored alongside the table. Its design aims to avoid copying full vector datasets into a separate search database while keeping writes and indexes aligned.\n\nThe article distinguishes shipped Lakegres support from open-source components still being upstreamed or tested for release. Efficiency and uniqueness claims are vendor assertions, and index construction, storage and approximate-search quality still have costs. This summary covers the examined architecture passages.",
+  "highlights": [
+    "Index is derived table metadata",
+    "Queries use a Postgres-compatible endpoint",
+    "Design avoids a second full vector store",
+    "Table snapshots determine compatible index state",
+    "Open-source release stages differ",
+    "No independent performance comparison was reproduced"
+  ]
+}

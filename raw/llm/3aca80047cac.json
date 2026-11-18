@@ -1,0 +1,13 @@
+{
+  "id": "3aca80047cac",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Tin Computer reports observing three scanner patterns across ten operated websites, including requests that impersonate AI crawlers while seeking exposed configuration and credential material. The analysis distinguishes observed request behavior from hypotheses about implementation and infrastructure.\n\nCrawler names and hosting addresses do not establish who controls a scanner. The evidence is a bounded operator observation rather than proof of compromise at every probed site, and no scanning or credential retrieval was performed for this summary.",
+  "highlights": [
+    "Report covers ten operator-controlled sites",
+    "Requests imitate recognizable crawler names",
+    "Patterns include probes for exposed secrets",
+    "Infrastructure clues do not prove operator identity",
+    "Attempted access does not establish compromise"
+  ]
+}
