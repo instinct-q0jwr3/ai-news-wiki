@@ -1,0 +1,14 @@
+{
+  "id": "e899e59c81a1",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "RevScope reviews evidence that Google AI Overviews reduce visits to outside sites, distinguishing a desktop randomized experiment from observational search panels. The reported roughly forty-percent reduction applies to searches that would display an Overview, not to all search traffic or every publisher.\n\nThe working-paper result is not yet peer reviewed and does not cover mobile. Separate citation and ranking correlations do not prove which optimization tactics cause inclusion. The article also promotes RevScope, so its commercial interest and the original studies matter when interpreting its recommendations.",
+  "highlights": [
+    "Reported experiment hides Overviews for a randomized group",
+    "Forty-percent figure concerns eligible desktop searches",
+    "All-search estimates are smaller",
+    "Observational panels cannot isolate every cause",
+    "Citation correlations do not establish effective tactics",
+    "Article has a commercial interest"
+  ]
+}

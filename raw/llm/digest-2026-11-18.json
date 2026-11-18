@@ -1,0 +1,55 @@
+{
+  "id": "digest-2026-11-18",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "More generated output is not the same as more completed work or more publisher traffic. New reporting shifts attention to review queues, search clicks and the boundaries around code execution."
+  ],
+  "sections": [
+    {
+      "title": "Search clicks and the cost of review",
+      "intro": "Desktop search experiments and engineering-adoption studies measure different downstream effects. Their samples and identification limits matter.",
+      "stories": [
+        "e899e59c81a1",
+        "a6d0641f3e6f"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Separating generated code from its executor",
+      "intro": "An external sandbox design narrows one execution boundary, while split inference assigns prompt processing and response generation to different hardware.",
+      "stories": [
+        "4dd2685da65f",
+        "77cfd79db59c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Launch demonstrations and inaccessible details",
+      "intro": "Author-run examples add context to release claims. Unreadable model and video announcements leave practical terms unverified.",
+      "stories": [
+        "d03943274ae7",
+        "cf5899006194",
+        "9579282dfd01"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Paper wealth is not committed capital",
+      "intro": "Indexed reporting about insider valuations and selective infrastructure investment cannot establish realized proceeds or future commitments.",
+      "stories": [
+        "66d06a804e6e",
+        "dd1f0e649abe"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "An attributed explanation for the outages",
+      "intro": "Anonymous-source reporting connects some disruptions with hurried patching, while incident-specific forensic confirmation remains unavailable.",
+      "stories": [
+        "0363eafd0857"
+      ],
+      "concepts": []
+    }
+  ]
+}

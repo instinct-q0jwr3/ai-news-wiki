@@ -1,131 +1,65 @@
 {
- "generated_at": "2026-11-17T21:51:26+00:00",
+ "generated_at": "2026-11-18T03:52:32+00:00",
  "stories": [
   {
-   "id": "469a3db8f8a2",
-   "title": "GPT‑6.2 Astra and Sol",
+   "id": "e899e59c81a1",
+   "title": "Google's AI answers reducing search traffic by 40%",
    "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+   "url": "https://revscope.co/blog/search-seo-geo-2026/"
   },
   {
-   "id": "16d17f137b43",
-   "title": "MAI Code 2 and Code 2 Flash",
+   "id": "a6d0641f3e6f",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "source": "Hacker News",
-   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
   },
   {
-   "id": "76d447eb6c73",
-   "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+   "id": "cf5899006194",
+   "title": "Tencent Hy4 Flash",
    "source": "Hacker News",
-   "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc"
+   "url": "https://hy.tencent.ai/research/hy4-flash"
   },
   {
-   "id": "efddb909bdaf",
-   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+   "id": "77cfd79db59c",
+   "title": "Cerebras Disaggregated Inference",
    "source": "Hacker News",
-   "url": "https://github.com/RunanywhereAI/trnrt"
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
   },
   {
-   "id": "e378347837ac",
-   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "id": "0363eafd0857",
+   "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
    "source": "Hacker News",
-   "url": "https://starsling.dev"
+   "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
   },
   {
-   "id": "4497d49316ad",
-   "title": "Not Everything Needs an LLM",
-   "source": "Hacker News",
-   "url": "https://newsletter.posthog.com/p/decision-models"
-  },
-  {
-   "id": "ee54f36c1d32",
-   "title": "Human.md",
-   "source": "Hacker News",
-   "url": "https://www.human-md.ai/"
-  },
-  {
-   "id": "51194ce554d6",
-   "title": "The Buddhist A.I. Sect That Wants to Take over Silicon Valley",
-   "source": "Hacker News",
-   "url": "https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley"
-  },
-  {
-   "id": "1a0afa1ca577",
-   "title": "Isomorphic Labs $5B Series C",
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html"
-  },
-  {
-   "id": "c22e53855e8a",
-   "title": "Ask HN: Aren't the current cyber attacks suspicious?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50538449"
-  },
-  {
-   "id": "e04f2967eee8",
-   "title": "AI tool has been used to automate cyber intrusions",
-   "source": "Hacker News",
-   "url": "https://abcnews.com/amp/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story"
-  },
-  {
-   "id": "fd18b934f4cc",
-   "title": "Show HN: Your Spreadsheet Is Your Database",
-   "source": "Hacker News",
-   "url": "https://spreadsheettoapp.ai"
-  },
-  {
-   "id": "507d06b9231a",
-   "title": "SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)",
-   "source": "Daring Fireball",
-   "url": "https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/"
-  },
-  {
-   "id": "1cdfb8398bbb",
-   "title": "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
-  },
-  {
-   "id": "f75cdcfbb667",
-   "title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2",
-   "source": "Techmeme",
-   "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
-  },
-  {
-   "id": "457a15c01643",
-   "title": "Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite"
-  },
-  {
-   "id": "904025e3ff01",
-   "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN"
-  },
-  {
-   "id": "bc282173ba4c",
-   "title": "GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol's $2/1M input and $10/1M output token pricing",
-   "source": "Techmeme",
-   "url": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/"
-  },
-  {
-   "id": "7791046af256",
-   "title": "Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page",
-   "source": "Daring Fireball",
-   "url": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/"
-  },
-  {
-   "id": "a49ff87d7934",
-   "title": "Is Compute the New Oil? (And Are We All F**ked?)",
-   "source": "Westenberg",
-   "url": "https://www.joanwestenberg.com/p/is-compute-the-new-oil-and-are-we"
-  },
-  {
-   "id": "7dddcbc98095",
-   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+   "id": "d03943274ae7",
+   "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
+   "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+  },
+  {
+   "id": "dd1f0e649abe",
+   "title": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress"
+  },
+  {
+   "id": "4dd2685da65f",
+   "title": "External sandboxes for coding agents",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
+  },
+  {
+   "id": "9579282dfd01",
+   "title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos"
+  },
+  {
+   "id": "66d06a804e6e",
+   "title": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic's IPO midpoint, the average employee's equity is valued at $72M",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/features/2026-11-17/san-francisco-s-anthropic-openai-boom-could-create-1-2-trillion-in-wealth?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDkzNTQyNCwiZXhwIjoxNzk1NTQwMjI0LCJhcnRpY2xlSWQiOiJUT043VzdOM04wOUcwMCIsImJjb25uZWN0SWQiOiJBRjJFNDMxQTgzRjk0OTU3QUIxNzg5NTgwOEU2Q0YxMiJ9.7VayFY-M2sQ5RZu3yUtftUqTb-0UIpPVnEz898iFnWw"
   }
  ]
 }

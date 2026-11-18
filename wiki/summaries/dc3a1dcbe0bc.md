@@ -1,6 +1,6 @@
 # Theatre Review: FrankenTacit ★★☆☆☆
 
-_type: news-summary · created: 2026-11-14 · updated: 2026-11-17 · confidence: high_
+_type: news-summary · created: 2026-11-14 · updated: 2026-11-18 · confidence: high_
 
 `terence-eden`
 

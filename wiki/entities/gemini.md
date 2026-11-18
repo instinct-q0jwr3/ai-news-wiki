@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-18** - Simon Willison discusses OpenAI’s GPT-6.2 Astra and Sol release, adds support in his LLM tool and compares advertised token prices with earlier versions. He also tries drawing and animation prompts, finding that the new models fall short of his preferred… ([GPT‑6.2 Astra and GPT‑6.2 Sol](../summaries/d03943274ae7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-17** - TechCrunch reports Google plans to extend retention of temporary Gemini chats and chats with history disabled from seventy-two hours to around two months. It also describes separate controls for conversation history and model training, with a rollout over… ([Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months](../summaries/1cdfb8398bbb.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-17** - Google says Gemini Notebook can generate interactive sites from a user’s sources and make the result available in a separate tab or through sharing. The short announcement describes a web rollout for users aged 18 and over, including Workspace subscribers,… ([Gemini Notebook Turns Sources Into Interactive Sites](../summaries/c35464b39545.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-17** - A Google social post describes a Gemini 4 Hydrogen demonstration that codes a moving landscape in Google Sheets by changing thousands of cells frame by frame. The post says the work used Antigravity and labels the output as AI-made.

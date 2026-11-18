@@ -1,6 +1,6 @@
 # Concept: AI, jobs and displacement
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `concept` `labor-displacement`
 
@@ -18,10 +18,11 @@ Claims and evidence about AI's effect on employment: layoffs attributed to AI, t
 
 ## Related entities
 
-[Amazon](../entities/amazon.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md) · [Meta](../entities/meta.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md)
+[Amazon](../entities/amazon.md) · [Google](../entities/google.md) · [Anthropic](../entities/anthropic.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [NVIDIA](../entities/nvidia.md)
 
 ## Timeline
 
+- **2026-11-18** - Simon Willison introduces an external-sandbox pattern in which a coding agent remains outside the environment that executes its generated code. Three demonstration implementations expose a common local API, with optional network allow-listing and… ([External sandboxes for coding agents](../summaries/4dd2685da65f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-17** - StarSling’s accessible landing-page excerpt advertises faster CI and repeats a customer testimonial showing a test suite dropping from roughly thirty minutes to five. The page yielded little technical detail.
 
 The example is a marketing claim, not an… ([Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](../summaries/e378347837ac.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) ⚠
@@ -57,6 +58,3 @@ He says India's tech education needs a rapid… ([Nasscom President Rajesh Nambi
 - **2026-11-05** - Gauge is an open-source CLI for improving 'Agent Experience': how easily coding agents discover and use your skills, CLIs, SDKs, MCP servers and docs. It runs real agents against your product, records where they get stuck, and lets your own coding agent… ([Show HN: Gauge – Open-Source CLI to recursively improve your docs](../summaries/28fabb1a434e.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-04** - Apple cut some engineers' daily AI spending cap from $300 to $200 and plans reductions to as little as $100, per Bloomberg sources, as cost cutting raises staff fears of layoffs. ([Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs](../summaries/cbd64c0f0292.md) · [Apple](../entities/apple.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-04** - Cory Doctorow starts from a taxonomy of 'AI is being shoved down our throats': bosses demanding reckless AI use, financial engineers pushing it into retirement savings, and the most visible form, user-interface coercion. That last one predates AI. His… ([Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)](../summaries/e1a98b0338e5.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
-- **2026-11-03** - A Hacker News poster says colleagues found Codex data-sharing settings enabled after previously switching them off. The thread asks whether this is isolated and links earlier discussions and account controls.
-
-This is a user report, not a confirmed… ([OpenAI seems to be silently re-enabling model training on Codex chats](../summaries/27d16ff50c05.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

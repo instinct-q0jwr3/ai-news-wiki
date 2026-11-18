@@ -1,6 +1,6 @@
 # JetBrains
 
-_type: organization · created: 2026-09-22 · updated: 2026-11-17 · confidence: medium_
+_type: organization · created: 2026-09-22 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `jetbrains` `agentic-systems`
 

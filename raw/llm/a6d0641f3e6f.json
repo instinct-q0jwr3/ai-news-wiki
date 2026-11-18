@@ -1,0 +1,14 @@
+{
+  "id": "a6d0641f3e6f",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "ComplexDiscovery reports a Harvard working paper in which firms adopting coding agents produced more code without a statistically detectable increase in completed Jira issues. Its account describes longer pull-request review times and more change requests, suggesting that faster drafting can move a constraint downstream.\n\nThe study compares adoption timing rather than randomly assigning firms, so its causal interpretation depends on procurement and other assumptions. A statistically indistinguishable result is not proof of exactly zero benefit. The article extends the review-checkpoint idea to legal tools, but the study itself examines software firms, not legal work.",
+  "highlights": [
+    "Report covers 718 firms using engineering analytics",
+    "Agent adoption adds to earlier assistant use",
+    "Code volume differs from deployed completed work",
+    "Review time reportedly rises by about half",
+    "Nonrandom adoption leaves identification assumptions",
+    "No direct legal-productivity result follows"
+  ]
+}

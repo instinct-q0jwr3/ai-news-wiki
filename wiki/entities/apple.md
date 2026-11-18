@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-18** - Simon Willison introduces an external-sandbox pattern in which a coding agent remains outside the environment that executes its generated code. Three demonstration implementations expose a common local API, with optional network allow-listing and… ([External sandboxes for coding agents](../summaries/4dd2685da65f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-17** - An Ask HN thread speculates that a cluster of service disruptions may reflect coordinated AI-assisted attacks. Replies challenge both the shared-cause assumption and the evidence offered for it.
 
 The discussion provides no forensic link between the… ([Ask HN: Aren't the current cyber attacks suspicious?](../summaries/c22e53855e8a.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

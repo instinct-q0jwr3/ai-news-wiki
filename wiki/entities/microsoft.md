@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-11-18** - Simon Willison introduces an external-sandbox pattern in which a coding agent remains outside the environment that executes its generated code. Three demonstration implementations expose a common local API, with optional network allow-listing and… ([External sandboxes for coding agents](../summaries/4dd2685da65f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-17** - Axios reporting indexed by Techmeme says Microsoft introduced six models across coding, cybersecurity, images and voice. The full article was inaccessible. Its headline performance and cost ratios are Microsoft’s claims about selected comparisons, not… ([Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price](../summaries/457a15c01643.md) · [OpenAI](../entities/openai.md) · [Microsoft](../entities/microsoft.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-16** - The Wall Street Journal report indexed by Techmeme says the US administration plans to name more than two dozen AI national champions, including Nvidia, Amazon, Microsoft, OpenAI and Anthropic, to help them win overseas business. The article was… ([the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI "national champions" to help win overseas business](../summaries/798cb02a10b2.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-16** - Fierce Healthcare reports Zus Health raised $33 million to expand connected patient records and AI-supported clinical workflows. Its platform combines a longitudinal record, a network for collecting outside clinical data and applications such as visit… ([Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+](../summaries/3be578acf141.md) · [Microsoft](../entities/microsoft.md) · [Agentic systems](../concepts/agentic-systems.md))

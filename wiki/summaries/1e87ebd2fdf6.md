@@ -1,6 +1,6 @@
 # Pacing the frontier may be sincere - and strategically useful for labs
 
-_type: news-summary · created: 2026-09-21 · updated: 2026-11-17 · confidence: high_
+_type: news-summary · created: 2026-09-21 · updated: 2026-11-18 · confidence: high_
 
 `techmeme`
 

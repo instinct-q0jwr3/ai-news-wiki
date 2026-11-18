@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-18** - RevScope reviews evidence that Google AI Overviews reduce visits to outside sites, distinguishing a desktop randomized experiment from observational search panels. The reported roughly forty-percent reduction applies to searches that would display an… ([Google's AI answers reducing search traffic by 40%](../summaries/e899e59c81a1.md) · [Google](../entities/google.md))
+- **2026-11-18** - Simon Willison discusses OpenAI’s GPT-6.2 Astra and Sol release, adds support in his LLM tool and compares advertised token prices with earlier versions. He also tries drawing and animation prompts, finding that the new models fall short of his preferred… ([GPT‑6.2 Astra and GPT‑6.2 Sol](../summaries/d03943274ae7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-17** - TechCrunch reports Google plans to extend retention of temporary Gemini chats and chats with history disabled from seventy-two hours to around two months. It also describes separate controls for conversation history and model training, with a rollout over… ([Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months](../summaries/1cdfb8398bbb.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-17** - Google says Gemini Notebook can generate interactive sites from a user’s sources and make the result available in a separate tab or through sharing. The short announcement describes a web rollout for users aged 18 and over, including Workspace subscribers,… ([Gemini Notebook Turns Sources Into Interactive Sites](../summaries/c35464b39545.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-17** - Bloomberg reporting indexed by Techmeme says an SEC filing projects substantial Amazon and Google ownership of Anthropic after its IPO and private placement. The article and filing were not retrieved. The excerpt does not settle final post-offering… ([SEC filing: Amazon and Google are set to hold nearly 15% and 14% of Anthropic's outstanding capital stock, respectively, after its IPO and private placement](../summaries/9ba954c68349.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md)) 🔒

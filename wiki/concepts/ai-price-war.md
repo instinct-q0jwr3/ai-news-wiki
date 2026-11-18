@@ -1,6 +1,6 @@
 # Concept: The frontier model price war
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `concept` `ai-price-war`
 
@@ -16,10 +16,11 @@ Frontier labs keep cutting token prices while launching ever pricier top tiers. 
 
 ## Related entities
 
-[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Google Gemini](../entities/gemini.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md)
+[OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Amazon](../entities/amazon.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Microsoft](../entities/microsoft.md)
 
 ## Timeline
 
+- **2026-11-18** - Simon Willison discusses OpenAI’s GPT-6.2 Astra and Sol release, adds support in his LLM tool and compares advertised token prices with earlier versions. He also tries drawing and animation prompts, finding that the new models fall short of his preferred… ([GPT‑6.2 Astra and GPT‑6.2 Sol](../summaries/d03943274ae7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-17** - TrnRT presents an open inference engine for AWS Trainium, initially supporting GLM-5.3-Flash on a single Trainium2 instance. Its repository describes compiled kernels, host and device prefix caching and an OpenAI-compatible serving API.
 
 Reported… ([Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](../summaries/efddb909bdaf.md) · [Amazon](../entities/amazon.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
@@ -51,4 +52,3 @@ Reported… ([Show HN: TrnRT – An open-source LLM inference engine for AWS Tra
 - **2026-10-01** - Bloomberg reports, via a TLDR AI pointer, that Musk's SpaceXAI is considering an overhaul of pricing for Grok and X users. The article could not be retrieved, so this rests on the headline. ([Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users](../summaries/b42e9880b606.md) · [SpaceXAI (xAI)](../entities/xai.md) · [The frontier model price war](../concepts/ai-price-war.md)) ⚠
 - **2026-09-30** - Bloomberg reports on a document showing SpaceXAI planning a unified subscription for Grok and X with four tiers: a $100/month Ultra plan, an $8/month Lite plan and a free offering among them. (Summary based on the Techmeme headline and feed excerpt; the… ([Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering](../summaries/e0cf2099819a.md) · [SpaceXAI (xAI)](../entities/xai.md) · [The frontier model price war](../concepts/ai-price-war.md)) 🔒
 - **2026-09-29** - Cory Doctorow plugs Lindsay Owens's new book Gouged, a guide to surveillance pricing and algorithmic wage discrimination - using computers and commercial surveillance data to pick pockets and shrink paychecks. Owens runs Groundwork Collaborative, whose… ([Pluralistic: Lindsay Owens's "Gouged" (29 Sep 2026)](../summaries/3de385ce6dc4.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [The frontier model price war](../concepts/ai-price-war.md))
-- **2026-09-29** - OpenAI announced a Decisions API at DevDay - its answer to the decision-model category TypeSafe's Jev made hot. The API returns predefined answers with confidence and is based on Luna, the smallest and cheapest model in OpenAI's lineup. The New Stack reads… ([OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details](../summaries/2964d289f4bc.md) · [OpenAI](../entities/openai.md) · [TypeSafe](../entities/typesafe.md) · [The frontier model price war](../concepts/ai-price-war.md))

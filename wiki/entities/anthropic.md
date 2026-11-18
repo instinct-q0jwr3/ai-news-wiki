@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-18** - Simon Willison introduces an external-sandbox pattern in which a coding agent remains outside the environment that executes its generated code. Three demonstration implementations expose a common local API, with optional network allow-listing and… ([External sandboxes for coding agents](../summaries/4dd2685da65f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
+- **2026-11-18** - Simon Willison discusses OpenAI’s GPT-6.2 Astra and Sol release, adds support in his LLM tool and compares advertised token prices with earlier versions. He also tries drawing and animation prompts, finding that the new models fall short of his preferred… ([GPT‑6.2 Astra and GPT‑6.2 Sol](../summaries/d03943274ae7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
+- **2026-11-18** - A Bloomberg analysis indexed by Techmeme estimates the paper value of equity held by San Francisco AI-company insiders, including a per-employee calculation at an assumed Anthropic IPO midpoint. The full article was inaccessible. Its valuation assumptions… ([Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic's IPO midpoint, the average employee's equity is valued at $72M](../summaries/66d06a804e6e.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-17** - A ZeroHedge article links reported Anthropic lobbying payments and federal disclosures with the political controversy around Nvidia. It combines claimed filing details, quotations and speculation about motives and competitive effects.
 
 The examined… ([Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC](../summaries/76d447eb6c73.md) · [Anthropic](../entities/anthropic.md))

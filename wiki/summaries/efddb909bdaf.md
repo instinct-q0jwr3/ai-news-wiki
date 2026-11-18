@@ -1,6 +1,6 @@
 # Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium
 
-_type: news-summary · created: 2026-11-17 · updated: 2026-11-17 · confidence: high_
+_type: news-summary · created: 2026-11-17 · updated: 2026-11-18 · confidence: high_
 
 `hacker-news` `amazon` `deepseek` `agentic-systems` `external-evaluation` `ai-coding-agents` `ai-price-war`
 

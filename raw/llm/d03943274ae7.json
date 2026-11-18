@@ -1,0 +1,13 @@
+{
+  "id": "d03943274ae7",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison discusses OpenAI’s GPT-6.2 Astra and Sol release, adds support in his LLM tool and compares advertised token prices with earlier versions. He also tries drawing and animation prompts, finding that the new models fall short of his preferred results on a particular animation task.\n\nThese are author-run demonstrations and attributed launch prices, not a controlled broad capability ranking. His account also relays complaints about communication during long tasks. Such examples can expose workflow friction but do not establish its frequency or predict performance on every project.",
+  "highlights": [
+    "Author reports adding model support to LLM",
+    "Price comparisons distinguish input output and cache",
+    "Drawing and animation examples are narrow tests",
+    "Reported communication complaints are anecdotes",
+    "Unit price does not settle completed-task cost"
+  ]
+}

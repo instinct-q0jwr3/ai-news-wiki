@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-17 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-18** - Simon Willison introduces an external-sandbox pattern in which a coding agent remains outside the environment that executes its generated code. Three demonstration implementations expose a common local API, with optional network allow-listing and… ([External sandboxes for coding agents](../summaries/4dd2685da65f.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
+- **2026-11-18** - Simon Willison discusses OpenAI’s GPT-6.2 Astra and Sol release, adds support in his LLM tool and compares advertised token prices with earlier versions. He also tries drawing and animation prompts, finding that the new models fall short of his preferred… ([GPT‑6.2 Astra and GPT‑6.2 Sol](../summaries/d03943274ae7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-17** - OpenAI’s GPT-6.2 Astra and Sol announcement was inaccessible. Separate readable reporting describes a joint release aimed at demanding professional work and lower-cost everyday tasks, with company benchmark and efficiency claims.
 
 This entry does not… ([GPT‑6.2 Astra and Sol](../summaries/469a3db8f8a2.md) · [OpenAI](../entities/openai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠

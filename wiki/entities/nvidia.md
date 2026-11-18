@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-17 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-18 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-18** - An Axios report indexed by Techmeme attributes a selective investment stance toward neocloud customers to Nvidia’s interim chief executive and describes after-hours stock moves. The full article was inaccessible. The excerpt does not establish future… ([Nvidia interim CEO Colette Kress says the company will stay "disciplined and selective" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours](../summaries/dd1f0e649abe.md) · [NVIDIA](../entities/nvidia.md)) ⚠
 - **2026-11-17** - Ed Zitron argues that Nvidia’s growth is exposed to a web of financing commitments, customer concentration and continuing AI infrastructure investment. His essay combines cited financial reporting with strongly worded commentary about the durability of… ([The NVIDIA Bubble](../summaries/60dc7db7771d.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-17** - Nvidia’s Rubin HPC announcement describes a planned GPU for simulation and data processing, with more than 50,000 CUDA cores, sparse-data acceleration and seventh-generation NVLink. The company frames faster simulation as infrastructure for agent-assisted… ([NVIDIA's Rubin HPC](../summaries/3d00cd70bd7a.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-17** - Tom’s Hardware reports Nvidia announced Rubin HPC for scientific simulation and agent-assisted workloads, with more than 50,000 CUDA cores and a stated 2028 arrival. The report says physical packaging, memory capacity and bandwidth, and native FP64 details… ([Nvidia unveils its Rubin HPC GPU with "more than 50,000" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations](../summaries/42a18560c2f1.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

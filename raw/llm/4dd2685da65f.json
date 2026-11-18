@@ -1,0 +1,14 @@
+{
+  "id": "4dd2685da65f",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison introduces an external-sandbox pattern in which a coding agent remains outside the environment that executes its generated code. Three demonstration implementations expose a common local API, with optional network allow-listing and credential replacement.\n\nThe separation offers a way to compare isolation approaches, not proof that any agent workflow is safe. Its value depends on which operations are routed through the sandbox and what the proxy permits. The article describes an experiment and its design; no implementation was installed or security audit performed for this summary.",
+  "highlights": [
+    "Agent and generated-code runtime are separated",
+    "Demonstrations share a local API",
+    "Network restrictions are optional controls",
+    "Credential replacement avoids handing over some secrets",
+    "Unrouted operations remain outside this boundary",
+    "Design description is not an independent audit"
+  ]
+}

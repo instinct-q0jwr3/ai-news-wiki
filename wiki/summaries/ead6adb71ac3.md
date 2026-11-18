@@ -1,6 +1,6 @@
 # Introducing LFM3: Every Modality for Specialized Intelligence
 
-_type: news-summary · created: 2026-10-27 · updated: 2026-11-17 · confidence: high_
+_type: news-summary · created: 2026-10-27 · updated: 2026-11-18 · confidence: high_
 
 `hacker-news`
 

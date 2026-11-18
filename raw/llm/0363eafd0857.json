@@ -1,0 +1,13 @@
+{
+  "id": "0363eafd0857",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "The Washington Sun reports that unnamed sources familiar with private congressional briefings attributed several outages to rushed patches for vulnerabilities found with AI. It contrasts that explanation with public statements about software defects and scheduled maintenance.\n\nThe report does not provide forensic records establishing a common cause for every incident, and it explicitly leaves the FAA disruption unresolved. Anonymous-source attribution and an absence of reported attack evidence are not proof that no attack occurred. The patching explanation should remain attributed rather than replace earlier speculation with a new certainty.",
+  "highlights": [
+    "Patching explanation comes from anonymous sources",
+    "Article distinguishes some public statements",
+    "No common forensic record is supplied",
+    "FAA cause remains explicitly unresolved",
+    "Absence of reported evidence does not prove absence of attack"
+  ]
+}

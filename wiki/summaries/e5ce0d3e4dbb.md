@@ -1,6 +1,6 @@
 # Show HN: Skillset: Easily curate and install agent skills collection
 
-_type: news-summary · created: 2026-11-16 · updated: 2026-11-17 · confidence: high_
+_type: news-summary · created: 2026-11-16 · updated: 2026-11-18 · confidence: high_
 
 `hacker-news` `anthropic` `agentic-systems`
 
