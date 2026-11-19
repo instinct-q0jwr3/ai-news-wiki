@@ -1,0 +1,14 @@
+{
+  "id": "43bd8521ab87",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Onlook’s launch post and repository describe a local-first canvas over a running application, with separate worktrees and changes that can become reviewable pull requests. The founder frames multiple live views as a way for designers to explore alternatives without rebuilding mockups.\n\nThe repository notes usage analytics and distinguishes its source license from excluded visual and audio assets. The tool was not installed, so compatibility, performance and generated changes remain untested. The founder’s adoption counts are self-reported.",
+  "highlights": [
+    "Canvas shows a real running application",
+    "Worktrees support separate explorations",
+    "Changes remain code changes requiring review",
+    "Official download has analytics enabled by default",
+    "Source license does not cover every asset",
+    "No installation or compatibility test was performed"
+  ]
+}

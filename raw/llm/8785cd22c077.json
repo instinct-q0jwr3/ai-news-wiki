@@ -1,0 +1,14 @@
+{
+  "id": "8785cd22c077",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A DataSketches contributor describes encountering hardcoded tables while porting CPC cardinality estimation to Rust and trying to reconstruct the missing program that produced them. The examined opening explains how full coupon-state compression differs from keeping only per-bucket maxima.\n\nThis summary covers the motivation and algorithm context, not the complete later reconstruction or its AI-assisted steps. The reported production experience and compression comparison were not independently tested, and no original source recovery is established merely by matching some outputs.",
+  "highlights": [
+    "Article motivates reconstructing table generators",
+    "CPC stores more state before compression",
+    "Rust port exposed hardcoded constants",
+    "Examined opening does not cover full reconstruction",
+    "Reported savings were not benchmarked here",
+    "No code was executed"
+  ]
+}

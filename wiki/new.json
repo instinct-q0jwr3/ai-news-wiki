@@ -1,161 +1,89 @@
 {
- "generated_at": "2026-11-19T15:57:19+00:00",
+ "generated_at": "2026-11-19T21:57:48+00:00",
  "stories": [
   {
-   "id": "b827849004e8",
-   "title": "DeepMind Employees Are Unionising",
+   "id": "67ea0c5a00f0",
+   "title": "Anthropic hits $2T in Nasdaq debut",
    "source": "Hacker News",
-   "url": "https://www.gdmunion.co.uk"
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
   },
   {
-   "id": "ff14cf8ca8e2",
-   "title": "The AI Superintelligence Debate Has Serious Flaws",
+   "id": "e6b197ad0202",
+   "title": "Fuck Your AI Safeguards",
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/ai-superintelligence-debate"
+   "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
   },
   {
-   "id": "dc88f413a3db",
-   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+   "id": "3dfc4c6d6922",
+   "title": "Claude solves two open problems in the physics of black holes",
    "source": "Hacker News",
-   "url": "https://foolscap.works/"
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics"
   },
   {
-   "id": "cb036fa8c3d3",
-   "title": "OpenAI still has a WebRTC Problem",
-   "source": "Hacker News",
-   "url": "https://moq.dev/blog/webrtc-is-still-the-problem/"
-  },
-  {
-   "id": "b259f6a295d6",
-   "title": "AI Overworks People",
-   "source": "Hacker News",
-   "url": "https://twitter.com/catalinmpit/status/2123061832781090948"
-  },
-  {
-   "id": "aabfd507bb76",
-   "title": "Carbon Emissions of US Data Centers Rival Countries",
-   "source": "Hacker News",
-   "url": "https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html"
-  },
-  {
-   "id": "4678ab14c6bf",
-   "title": "Why AI Wants to Be Local – With Pete Warden",
+   "id": "7c6e0e378967",
+   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
    "source": "Hacker News",
    "url": "https://thedataexchange.media/pete-warden-moonshine/"
   },
   {
-   "id": "dd293e15d96f",
-   "title": "Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents\"",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/"
-  },
-  {
-   "id": "385f9827a214",
-   "title": "Introducing Stitch Loop: A new way to build and evolve products",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
-  },
-  {
-   "id": "5b38cef5d2ca",
-   "title": "Type inference and narrowing with reverse arrows",
-   "source": "Lobsters",
-   "url": "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/"
-  },
-  {
-   "id": "8488a8e24842",
-   "title": "Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/19/loan-out-companies/"
-  },
-  {
-   "id": "96ca3b8538da",
-   "title": "Analysis: Anthropic needs ~$602B in annual revenue to hit a 20% return on invested capital comparable to its Big Tech peers; Apple has $478B in annual revenue",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59"
-  },
-  {
-   "id": "9906b3bfe565",
-   "title": "Context API extracts full context from any web page",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page"
-  },
-  {
-   "id": "993e95419698",
-   "title": "Google partners with Jeff Bezos' Blue Origin to launch TPU-powered AI server satellites aboard the New Glenn rocket in Q1 2029, as part of Project Suncatcher",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029"
-  },
-  {
-   "id": "d32533b30fc4",
-   "title": "Switching LLMs mid-conversation is a ski-rental problem",
-   "source": "TLDR AI",
-   "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem"
-  },
-  {
-   "id": "0e15981f91aa",
-   "title": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more",
-   "source": "Techmeme",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier"
-  },
-  {
-   "id": "c144059b303d",
-   "title": "ResolveAI Introduces SRE-1, the Most Accurate Model for Production at Every Budget",
-   "source": "TLDR AI",
-   "url": "https://resolve.ai/news/introduces-SRE-1-model-and-primary-on-call"
-  },
-  {
-   "id": "e5ac0c0ab894",
-   "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
-   "source": "TLDR AI",
-   "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth"
-  },
-  {
-   "id": "b32f3a117596",
-   "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured",
-   "source": "TLDR AI",
-   "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/"
-  },
-  {
-   "id": "8d3c9acf2822",
-   "title": "An Interview With Eric Seufert About Agentic Commerce",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/"
-  },
-  {
-   "id": "58c2d9366a1d",
-   "title": "GTA VI's 5,000-strong team eschewed AI and procedural generation in favor of handcrafted \"fidelity\", with 30,000 unique NPCs and an in-game video game system",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html?unlocked_article_code=1.RlE.fmuo.D_-7-tknBypF&smid=url-share"
-  },
-  {
-   "id": "31d78ecfe775",
-   "title": "Anthropic's IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers"
-  },
-  {
-   "id": "e788d1aca1aa",
-   "title": "Introducing Model Factory",
-   "source": "TLDR AI",
-   "url": "https://www.primeintellect.ai/blog/introducing-model-factory"
-  },
-  {
-   "id": "ef43f43364aa",
-   "title": "IEA expects global data center investment to hit $4T by 2030; fewer than 100 major AI projects would require a combined 50GW of power, matching peak UK demand",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/iea-sees-data-center-boom-pushing-power-grids-to-the-limit"
-  },
-  {
-   "id": "e3402c51ea9d",
-   "title": "The Codex Sandbox",
+   "id": "b9145b5f0df8",
+   "title": "Chrome AI features wasting much bandwidth",
    "source": "Hacker News",
-   "url": "https://openai.com/index/inside-the-codex-sandbox/"
+   "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
   },
   {
-   "id": "da889bf83ea1",
-   "title": "The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX",
+   "id": "59f923214a4a",
+   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+   "source": "Hacker News",
+   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
+  },
+  {
+   "id": "43bd8521ab87",
+   "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+   "source": "Hacker News",
+   "url": "https://github.com/onlook-dev/onlook/"
+  },
+  {
+   "id": "82d7888e18ff",
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
+  },
+  {
+   "id": "9d5ef95c5d71",
+   "title": "Show HN: Watch weight-space programming in action with WebGPU",
+   "source": "Hacker News",
+   "url": "https://tabbyml.github.io/weight-space-playground/"
+  },
+  {
+   "id": "caf5eba5f64a",
+   "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+   "source": "Hacker News",
+   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/"
+  },
+  {
+   "id": "8785cd22c077",
+   "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+   "source": "Hacker News",
+   "url": "https://www.tisonkun.io/posts/ai-repair-program/"
+  },
+  {
+   "id": "3957e098eabf",
+   "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
+   "source": "Hacker News",
+   "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html"
+  },
+  {
+   "id": "e63430832ec4",
+   "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\"",
    "source": "Techmeme",
-   "url": "http://www.politico.com/"
+   "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+  },
+  {
+   "id": "84484020aa81",
+   "title": "Ask HN: Where do you see Software in 5 years?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50565484"
   },
   {
    "id": "f0cb8026ed28",
@@ -164,34 +92,64 @@
    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
   },
   {
-   "id": "bb5816cf6717",
-   "title": "Anthropic-backed pro-AI safety nonprofit Public First Action's PACs spent $25M+ in 12 states to help elect eight of the 13 House and Senate candidates it backed",
+   "id": "26f066e04764",
+   "title": "Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months",
    "source": "Techmeme",
-   "url": "https://www.washingtonpost.com/technology/2026/11/19/anthropic-gave-40m-an-ai-safety-group-most-candidates-it-backed-won/"
+   "url": "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business"
   },
   {
-   "id": "21c06208abc5",
-   "title": "Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform's AI push",
+   "id": "945a7e290889",
+   "title": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents",
    "source": "Techmeme",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
+   "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
   },
   {
-   "id": "7771e73b67b1",
-   "title": "Quickly, There's No Time",
-   "source": "TLDR AI",
-   "url": "https://thezvi.substack.com/p/quickly-theres-no-time"
+   "id": "4489e177bad9",
+   "title": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025",
+   "source": "Techmeme",
+   "url": "https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/"
   },
   {
-   "id": "dacd3286c254",
-   "title": "The Silent Consensus",
-   "source": "TLDR AI",
-   "url": "https://www.hyperdimensional.co/p/the-silent-consensus"
+   "id": "ba14e69f5e85",
+   "title": "Anthropic opens at $111.50 per share in record IPO: Live updates",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
   },
   {
-   "id": "00a23b0be1c1",
-   "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
-   "source": "TLDR AI",
-   "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/"
+   "id": "c11270c8084c",
+   "title": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+  },
+  {
+   "id": "03bf5b9e2789",
+   "title": "Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics"
+  },
+  {
+   "id": "b75ac995e1fa",
+   "title": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI",
+   "source": "Techmeme",
+   "url": "https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829"
+  },
+  {
+   "id": "b68150f1db04",
+   "title": "Grand Theft Auto 6",
+   "source": "Daring Fireball",
+   "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&utm_medium=gift-link"
+  },
+  {
+   "id": "ca2f718efe6e",
+   "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+  },
+  {
+   "id": "ebaee0f29830",
+   "title": "Anthropic IPOs, Topping SpaceX for the Largest Ever",
+   "source": "Daring Fireball",
+   "url": "https://www.techmeme.com/261118/p34#a261118p34"
   }
  ]
 }

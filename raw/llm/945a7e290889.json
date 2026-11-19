@@ -1,0 +1,14 @@
+{
+  "id": "945a7e290889",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Wired describes Google’s isolated simulated web for training and testing browsing agents. The environment includes realistic shopping, social and banking interfaces, plus adversarial situations, without exposing unfinished agents to real accounts.\n\nThe account explains why limited test worlds and evaluation awareness complicate validation. Company descriptions of browser modifications concern a privileged test environment, not a demonstrated attack against ordinary users. Simulation scale alone does not establish safe behavior on every real website.",
+  "highlights": [
+    "Environment is isolated from the real web",
+    "Realistic workflows support broader testing",
+    "Adversarial cases are part of evaluation",
+    "Evaluation awareness remains a concern",
+    "Privileged test changes differ from public exploits",
+    "Simulation does not prove universal safety"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ba14e69f5e85",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "CNBC’s live coverage was updated from the opening trade to Anthropic’s first-day close. Its examined opening reports a closing price of $97.17, versus an $111.50 opening trade and an $83 offering price, while using a fully diluted basis for its closing valuation.\n\nThe feed headline preserves an earlier stage of the day. Basic market capitalization and fully diluted valuation are different measures, so apparently conflicting totals need their definitions checked. This summary covers the examined opening and selected updates, not every later claim in the long liveblog.",
+  "highlights": [
+    "Live article advances beyond its feed headline",
+    "Offering price differs from opening trade",
+    "Close was below the opening trade",
+    "CNBC uses fully diluted valuation",
+    "Other reports may use another share-count basis",
+    "These are historical reported prices not current quotes"
+  ]
+}

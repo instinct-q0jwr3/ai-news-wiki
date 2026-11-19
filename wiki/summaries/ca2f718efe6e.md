@@ -2,7 +2,7 @@
 
 _type: news-summary · created: 2026-11-18 · updated: 2026-11-19 · confidence: high_
 
-`techmeme` `google` `gemini` `agentic-systems`
+`techmeme` `google` `gemini` `agentic-systems` `ai-price-war`
 
 ## Summary
 
@@ -24,4 +24,4 @@ Country rollout and feature eligibility differ. Company assurances are not an in
 
 ## Related pages
 
-[Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md)
+[Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [The frontier model price war](../concepts/ai-price-war.md)

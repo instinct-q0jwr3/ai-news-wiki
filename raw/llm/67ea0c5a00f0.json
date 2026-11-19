@@ -1,0 +1,14 @@
+{
+  "id": "67ea0c5a00f0",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Hacker News headline links to Reuters coverage of Anthropic’s trading debut and highlights an intraday valuation. Reuters was inaccessible. A later Techmeme excerpt of the same article reports a $97.17 close after an $111.50 opening trade, rather than a closing valuation at the headline’s intraday peak.\n\nThe indexed Reuters closing market-cap figure and CNBC’s fully diluted figure use different apparent share-count conventions. Those totals should not be treated as interchangeable without inspecting the underlying counts. The Reuters article itself was not readable, and these are attributed historical reports rather than a current stock quote.",
+  "highlights": [
+    "Primary article was inaccessible",
+    "Later excerpt updates the intraday headline",
+    "Offering open and close are different prices",
+    "Basic and diluted valuations can differ",
+    "Underlying share counts were not inspected",
+    "No current quote is supplied"
+  ]
+}

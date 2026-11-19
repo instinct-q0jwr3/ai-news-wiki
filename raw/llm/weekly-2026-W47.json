@@ -831,6 +831,70 @@
         "da889bf83ea1"
       ],
       "concepts": []
+    },
+    {
+      "title": "A first trade is not a closing valuation",
+      "intro": "The offering price, opening trade and closing price describe different stages, while share-count conventions change the valuation.",
+      "stories": [
+        "67ea0c5a00f0",
+        "ba14e69f5e85",
+        "ebaee0f29830",
+        "03bf5b9e2789"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "What counts as checking a result",
+      "intro": "A physics announcement, missing table generators and verification arguments each need checks suited to their claims.",
+      "stories": [
+        "3dfc4c6d6922",
+        "8785cd22c077",
+        "3957e098eabf",
+        "9d5ef95c5d71"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Agent controls and the worlds used to test them",
+      "intro": "Computer-use previews and simulated websites address different layers of operational risk.",
+      "stories": [
+        "c11270c8084c",
+        "945a7e290889",
+        "e6b197ad0202",
+        "b9145b5f0df8"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Working conditions and public opposition",
+      "intro": "Platform labor, career anxiety and protests describe distinct kinds of evidence about AI’s social effects.",
+      "stories": [
+        "59f923214a4a",
+        "84484020aa81",
+        "caf5eba5f64a",
+        "b75ac995e1fa",
+        "82d7888e18ff"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Products still need their own evidence",
+      "intro": "A design canvas, molecule models, a game review and a proposed device price cannot substitute for tests of their different promises.",
+      "stories": [
+        "43bd8521ab87",
+        "4489e177bad9",
+        "b68150f1db04",
+        "26f066e04764"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Local speech has modularity tradeoffs",
+      "intro": "An edited interview describes local control and component reuse without establishing universal benchmark parity.",
+      "stories": [
+        "7c6e0e378967"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

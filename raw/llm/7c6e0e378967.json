@@ -1,0 +1,14 @@
+{
+  "id": "7c6e0e378967",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "An edited Data Exchange interview with Pete Warden argues that specialized local models can improve responsiveness, privacy control and deployment stability. He contrasts compound speech pipelines with end-to-end systems, noting that converting audio to text loses expressive information but allows components to be trained and replaced separately.\n\nThe interview treats usability, hardware memory and bandwidth as practical constraints rather than assuming all local models fit every device. Claims about competitive capability and future hardware are practitioner judgments, not independently reproduced benchmarks. Local execution enables control but does not itself guarantee secure recording practices or zero operating cost.",
+  "highlights": [
+    "Interview favors task-specific local deployment",
+    "Compound pipelines trade expressiveness for modularity",
+    "Memory and bandwidth shape hardware fit",
+    "Latency affects conversational usability",
+    "Usability remains a deployment obstacle",
+    "Local does not automatically mean secure or costless"
+  ]
+}

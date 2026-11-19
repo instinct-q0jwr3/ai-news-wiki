@@ -1,0 +1,13 @@
+{
+  "id": "b9145b5f0df8",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A blogger attributes unusually high bandwidth use to Chrome’s AI features after observing a decline when those features were disabled. The account suggests comparing network activity before and after a settings change.\n\nThe post supplies a personal before-and-after observation, not controlled evidence of the cause or a representative monthly total. Downloads, versions and other background activity could affect the comparison. No browser settings were changed for this editorial pass.",
+  "highlights": [
+    "Claim is a personal observation",
+    "Disabling features coincided with lower traffic",
+    "Causation was not isolated",
+    "Totals need not generalize to other users",
+    "No settings were changed"
+  ]
+}

@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1395,
+  "stories": 1408,
   "last": "2026-11-19"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1375,
+  "stories": 1381,
   "last": "2026-11-19"
  },
  {
@@ -38,8 +38,8 @@
  {
   "name": "Daring Fireball",
   "url": "https://daringfireball.net/feeds/main",
-  "stories": 63,
-  "last": "2026-11-18"
+  "stories": 65,
+  "last": "2026-11-19"
  },
  {
   "name": "Pluralistic",
@@ -60,16 +60,16 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
   "stories": 30,
   "last": "2026-11-19"
  },
  {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 29,
-  "last": "2026-11-18"
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 30,
+  "last": "2026-11-19"
  },
  {
   "name": "Works on My Machine",
