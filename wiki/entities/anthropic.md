@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-19 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,18 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-19** - Anthropic announces an IPO price of eighty-three dollars per share and a larger offering than the share count used in earlier coverage. The announcement distinguishes newly issued company shares from selling-stockholder shares, whose proceeds do not go to… ([Anthropic prices initial public offering](../summaries/afb2565ea363.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-19** - A film project page contains brief production notes about replacing a song take and reshooting motion synchronized to the voice while retaining a few shots. The feed presents the project as AI-created.
+
+The retrieved text is short and the film itself was… ([Fable: Written, painted and directed by Claude Fable 5.2](../summaries/283d9c222f01.md) · [Anthropic](../entities/anthropic.md)) ⚠
+- **2026-11-19** - An Ask HN thread asks when an application should offer its own interface rather than expose functions through MCP. The few replies favor alternatives such as documented command-line access and treating agent access as an additional interface.
+
+This is a… ([Ask HN: When does your app need its own UI vs. using it via MCP?](../summaries/6d5ac635ec4a.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-11-19** - Simon Willison introduces an early Apache Arrow streaming-export plugin for Datasette. It exercises a recently added output-renderer hook and illustrates exporting incrementally instead of loading an entire result into memory.
+
+The article distinguishes a… ([datasette-arrows 0.1a0](../summaries/f5c8c3ff9a3d.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-19** - Artificial Analysis reports Gemini 4 Neon results on its intelligence, coding and document-work evaluations. The report distinguishes high and extra-high effort, includes completed-task cost and time, and notes that output-token use can offset part of a… ([Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost](../summaries/0085318bf23d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-11-19** - A Bloomberg excerpt indexed by Techmeme reports Japanese-investor participation in Anthropic’s IPO and attributes the amount to a regulatory filing. The full article and filing were not inspected. The reported regional tranche should not be confused with… ([Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B](../summaries/bc54c7ecffea.md) · [Anthropic](../entities/anthropic.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-11-18** - Mastra’s authors introduce an open-source software-factory interface for coordinating maintenance work through a board and Slack. They describe durable sessions, company knowledge with citations, repository-event triggers and configurable development… ([Show HN: Mastra Factory, the open-source software factory we use to build Mastra](../summaries/d7b365ab6b18.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-18** - TechCrunch reports projected Amazon and Google ownership in Anthropic around its IPO, explaining how convertible notes and nonvoting shares shape the percentages. Some notes remain unconverted, so the reported ownership differs from a hypothetical full… ([Amazon and Google will together own nearly 30% of Anthropic after its IPO](../summaries/d6bbe97eecb8.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md))
 - **2026-11-18** - Springrep presents a Rust boundary-representation CAD kernel using analytic or NURBS surfaces rather than meshes. Its landing page emphasizes validity checks, exact-geometry measurements and a public conformance benchmark; the author’s launch description… ([Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests](../summaries/2f7f81084eed.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

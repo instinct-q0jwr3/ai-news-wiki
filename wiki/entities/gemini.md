@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-19 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,11 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-19** - An Agent Duel analysis projects Gemini 4 Neon preference performance by combining an assumed Carbon-like quality level with observed higher serving speed. It models the interaction of speed and early voting and gives an uncertainty interval around the… ([Gemini 4 Neon looks like an Opus 5.5 competitor](../summaries/b1490d672445.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-11-19** - Artificial Analysis reports Gemini 4 Neon results on its intelligence, coding and document-work evaluations. The report distinguishes high and extra-high effort, includes completed-task cost and time, and notes that output-token use can offset part of a… ([Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost](../summaries/0085318bf23d.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-11-19** - 9to5Google describes Gemini 4 Neon’s placement in the product family, paid-app availability and changes to the model picker. It distinguishes Neon list prices from temporary promotional prices for other models.
+
+The report is launch coverage, not… ([Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app](../summaries/ec1cbdc496d9.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-18** - Google’s Gemini 4 Neon announcement reports a balance of professional-task capability and speed across selected evaluations. It describes different reasoning effort settings and rollout through APIs and paid products.
 
 Benchmark rank and task cost depend… ([Google rolls out Gemini 4 Neon, with "fast end-to-end task completion" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app](../summaries/43e7dd620719.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Small and specialist models](../concepts/small-specialist-models.md))

@@ -1,0 +1,13 @@
+{
+  "id": "a91534357939",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A practitioner describes using LLMs to assist reverse engineering, emphasizing tooling knowledge, persistent notes and targeted questions when analysis stalls. The readable passages discuss a personal workflow rather than a controlled productivity study.\n\nSome process steps were absent from the extraction. The account does not establish universal speed gains, correctness of recovered behavior or permission to modify any particular binary. No reverse engineering was performed for this summary.",
+  "highlights": [
+    "Author describes personal experience",
+    "Tool-specific guidance is part of the workflow",
+    "Notes preserve investigation state",
+    "Extraction omits some process detail",
+    "Correctness and speed were not independently tested"
+  ]
+}

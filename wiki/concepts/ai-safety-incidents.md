@@ -1,6 +1,6 @@
 # Concept: AI safety incidents and controls
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-19 · confidence: medium_
 
 `concept` `ai-safety-incidents`
 
@@ -34,6 +34,8 @@ A connected record of reported failures, attacks and control proposals. A report
 
 ## Timeline
 
+- **2026-11-19** - A Reuters excerpt indexed by Techmeme reports Palo Alto Networks quarterly growth, a raised revenue outlook and an acquisition agreement. The full article was inaccessible. Forecasts are not realized revenue, an agreement is not a completed acquisition,… ([Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours](../summaries/9a79fc36c72c.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
+- **2026-11-19** - A Bloomberg excerpt indexed by Techmeme reports a new U.S. cybercrime initiative involving an AI platform and a no-bid contract. The full article and procurement documents were inaccessible. Contract scope, safeguards, performance and legal rationale could… ([The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs' AI platform via a ~$95M no-bid deal](../summaries/0e1ed16d15ab.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
 - **2026-11-18** - Simon Willison quotes Daniel Stenberg questioning whether AI-assisted Rust rewrites can keep pace with continuing curl maintenance. The quotation contrasts conversion activity with fixes and security work arriving in the original project.
 
 The specific… ([Quoting Daniel Stenberg](../summaries/2e52bfe7a641.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
@@ -72,5 +74,3 @@ The discussion provides no forensic link between the… ([Ask HN: Aren't the cur
 
 This… ([David Sacks Is Fucked Too](../summaries/aaa7b0a6b305.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-13** - Anthropic announces a private beta of self-hosted Claude Managed Agents, extending local hosting from sandboxes to the broader service. Teams operate the agent service, workers and session database in their own environment while choosing where model… ([Operate Claude Managed Agents inside your security perimeter](../summaries/6ced008ce44e.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
-- **2026-11-13** - A report of TSMC's disclosure says employee personal data appeared online and matched information held in a cloud provider's services. The account says TSMC found no evidence its own systems were compromised and described the data as unrelated to… ([TSMC Has Been Hacked](../summaries/eced435fc996.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
-- **2026-11-13** - The Register reports OpenAI's launch of Daybreak Red Team in early access for web-application security testing and Daybreak Defense Factory for finding, validating and patching vulnerabilities. The account describes agents using code and application… ([OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them](../summaries/713573c43dba.md) · [OpenAI](../entities/openai.md) · [Amazon](../entities/amazon.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))

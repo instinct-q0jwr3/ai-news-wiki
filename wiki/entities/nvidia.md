@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-18 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-19 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-19** - A New York Times excerpt indexed by Techmeme describes allegations about offshore access to Nvidia compute and possible links to a military-associated laboratory. The full article was inaccessible. The evidence chain, responses and legal implications could… ([How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab](../summaries/d24cff0cd99e.md) · [Alibaba](../entities/alibaba.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-18** - A Hacker News listing points to Financial Times coverage connecting Nvidia leadership turmoil with competition between open and closed AI models. The full article was inaccessible and the listing contained no substantive excerpt. The proposed market… ([Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI](../summaries/9a146c68e5a7.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-18** - A post returned from the JensenHuang account on X expresses willingness to return to Nvidia if its board decides that is appropriate. Daring Fireball links the post and adds sharply critical commentary about making that appeal publicly.
 

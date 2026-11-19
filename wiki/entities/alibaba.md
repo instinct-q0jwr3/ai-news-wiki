@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-18 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-19 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-11-19** - A New York Times excerpt indexed by Techmeme describes allegations about offshore access to Nvidia compute and possible links to a military-associated laboratory. The full article was inaccessible. The evidence chain, responses and legal implications could… ([How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab](../summaries/d24cff0cd99e.md) · [Alibaba](../entities/alibaba.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-16** - Qwen’s announcement as indexed by Techmeme introduces Qwen4-Max as a 2.4-trillion-parameter mixture-of-experts model with a one-million-token context window. The feed attributes to the team a claim of improved results over Qwen3.8-Max using up to roughly… ([Qwen4-Max: Your New Teammate Has Arrived](../summaries/f423b6ef2015.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md)) ⚠
 - **2026-11-16** - Techmeme’s excerpt of South China Morning Post reporting says Alibaba filtered Qwen4-Max training data to reduce offensive cyber capabilities and chemical, biological, radiological and nuclear risks. The supplied link led to the publication’s homepage, not… ([Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks](../summaries/b6ccd066d539.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-16** - Bloomberg’s report indexed by Techmeme says Alibaba claims Qwen4-Max outperforms named competitors on coding benchmarks and plans open weights for smaller Qwen4 models, while the flagship is not open weight. The article was inaccessible. Benchmark… ([Alibaba says Qwen4-Max, which isn't open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models](../summaries/2a32990b4f59.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md)) 🔒

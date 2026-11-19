@@ -1,0 +1,13 @@
+{
+  "id": "f5c8c3ff9a3d",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison introduces an early Apache Arrow streaming-export plugin for Datasette. It exercises a recently added output-renderer hook and illustrates exporting incrementally instead of loading an entire result into memory.\n\nThe article distinguishes a screenshot from the development branch from the current release’s export grouping. AI-assisted implementation is the author’s account, not proof that review was unnecessary or that every export workload behaves correctly.",
+  "highlights": [
+    "Plugin uses a new streaming renderer hook",
+    "Arrow joins streaming export options",
+    "Incremental output can limit memory use",
+    "Development screenshot differs from current release",
+    "Implementation claim is not an independent audit"
+  ]
+}

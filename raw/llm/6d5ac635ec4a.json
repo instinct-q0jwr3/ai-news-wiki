@@ -1,0 +1,13 @@
+{
+  "id": "6d5ac635ec4a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "An Ask HN thread asks when an application should offer its own interface rather than expose functions through MCP. The few replies favor alternatives such as documented command-line access and treating agent access as an additional interface.\n\nThis is a small discussion, not evidence of a market consensus or measured user preference. Application audience, interaction needs and access costs remain unresolved design choices.",
+  "highlights": [
+    "Thread poses an interface-design question",
+    "Replies suggest complementary access modes",
+    "Sample is very small",
+    "No market consensus is established",
+    "Design depends on the intended users"
+  ]
+}

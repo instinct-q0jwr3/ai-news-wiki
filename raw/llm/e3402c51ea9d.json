@@ -1,0 +1,13 @@
+{
+  "id": "e3402c51ea9d",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Hacker News listing links to OpenAI’s account of the Codex sandbox. The primary source was inaccessible and the listing supplied no substantive excerpt. Isolation boundaries, permission behavior and platform differences could not be checked from the title.",
+  "highlights": [
+    "Listing identifies a sandbox article",
+    "Primary source was inaccessible",
+    "No substantive excerpt was supplied",
+    "Permission behavior was not verified",
+    "No security guarantee is inferred"
+  ]
+}

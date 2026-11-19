@@ -1,0 +1,13 @@
+{
+  "id": "9e403413ed44",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "ADE Index is presented as a directory of agentic coding tools, but the retrieved text contains only a small ranked product card. It is not enough to verify the claimed directory size, ranking method, sourcing coverage or freshness. No tool recommendation is made from that fragment.",
+  "highlights": [
+    "Extraction is a single product-card fragment",
+    "Directory breadth was not verified",
+    "Ranking method was not available",
+    "Pricing freshness was not checked",
+    "No product verdict follows"
+  ]
+}

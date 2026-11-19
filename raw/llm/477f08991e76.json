@@ -1,0 +1,14 @@
+{
+  "id": "477f08991e76",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "VB Harness describes a local coding workflow that breaks work into small tasks, makes changes in isolated copies and retains them only after project checks and review. The repository distinguishes an illustrated demonstration from a screen recording and notes that Astro is the first supported stack.\n\nPassing tests and a second model’s review do not prove correctness beyond their coverage. The optional local-network interface adds an exposure boundary and is off by default. This summary covers the examined overview, not an installation or an independent evaluation.",
+  "highlights": [
+    "Project checks gate retained changes",
+    "Small tasks run in isolated copies",
+    "Initial supported stack is limited",
+    "Demo illustration is not a screen recording",
+    "Review strength depends on available checks",
+    "Optional network mode changes exposure"
+  ]
+}

@@ -1,6 +1,6 @@
 # Reports of AI-related child sexual abuse material rise 8,400% in two years
 
-_type: news-summary · created: 2026-11-16 · updated: 2026-11-18 · confidence: high_
+_type: news-summary · created: 2026-11-16 · updated: 2026-11-19 · confidence: high_
 
 `hacker-news`
 

@@ -1,0 +1,13 @@
+{
+  "id": "0085318bf23d",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Artificial Analysis reports Gemini 4 Neon results on its intelligence, coding and document-work evaluations. The report distinguishes high and extra-high effort, includes completed-task cost and time, and notes that output-token use can offset part of a lower unit price.\n\nThese results describe the evaluator’s tasks and execution settings, not a universal ranking. In one visual test higher effort scores lower, and coding comparisons include different model-and-harness combinations. Some cost comparisons use Carbon’s non-discounted price.",
+  "highlights": [
+    "Evaluator reports task cost as well as token price",
+    "Effort settings are not interchangeable",
+    "Coding results depend on execution software",
+    "Higher effort is not uniformly better",
+    "Comparison uses specified non-discounted pricing"
+  ]
+}

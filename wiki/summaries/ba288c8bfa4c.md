@@ -1,6 +1,6 @@
 # Anthropic Is the Most Ridiculous IPO of 2026 [pdf]
 
-_type: news-summary · created: 2026-10-27 · updated: 2026-11-18 · confidence: high_
+_type: news-summary · created: 2026-10-27 · updated: 2026-11-19 · confidence: high_
 
 `hacker-news` `anthropic`
 
