@@ -10,6 +10,7 @@ DeepSeek is the Chinese AI lab whose open-weight models set the pace for the ope
 
 ## Timeline
 
+- **2026-11-19** - A Bloomberg excerpt indexed by Techmeme describes criticism of Sarvam for offering access to Chinese open-weight models while promoting sovereign AI. The full article was inaccessible. Hosting or serving another model is distinct from claiming to have… ([Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service](../summaries/d18b873eafe8.md) · [DeepSeek](../entities/deepseek.md)) 🔒
 - **2026-11-17** - TrnRT presents an open inference engine for AWS Trainium, initially supporting GLM-5.3-Flash on a single Trainium2 instance. Its repository describes compiled kernels, host and device prefix caching and an OpenAI-compatible serving API.
 
 Reported… ([Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](../summaries/efddb909bdaf.md) · [Amazon](../entities/amazon.md) · [DeepSeek](../entities/deepseek.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [The frontier model price war](../concepts/ai-price-war.md))

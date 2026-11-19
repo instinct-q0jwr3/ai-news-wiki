@@ -10,6 +10,14 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-19** - Zpup describes a small scene format that renders orthographic three-dimensional illustrations into plain SVG. It compares overlapping shapes to decide drawing order and can generate images without client-side JavaScript.
+
+The project explicitly excludes… ([Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle](../summaries/1c2358600c6a.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
+- **2026-11-19** - Latent Space’s roundup compares Gemini 4 Neon launch claims with independent tests and early user reports. The examined passages distinguish effort levels, benchmark costs, capacity errors and corrections to an earlier adapter comparison.
+
+A newsletter… ([AINews Gemini 4 Neon: GDM's Opus/Sol Contender](../summaries/229d4c712eaa.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-11-19** - A New York Times opinion excerpt indexed by Techmeme describes interviews about Anthropic employees’ attitudes toward the IPO and development pace. The full essay was inaccessible. Interview impressions are not a representative employee survey, and the… ([Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development](../summaries/d8d7062f0d44.md) · [Anthropic](../entities/anthropic.md)) 🔒
+- **2026-11-19** - A Financial Times excerpt indexed by Techmeme reports expectations about the retail share of Anthropic’s IPO allocation. The full article was inaccessible. An expected allocation is not a final allotment or proof of any particular investor’s access, and… ([Sources expect Anthropic's IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs](../summaries/1d8d5dce6999.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-19** - Anthropic announces an IPO price of eighty-three dollars per share and a larger offering than the share count used in earlier coverage. The announcement distinguishes newly issued company shares from selling-stockholder shares, whose proceeds do not go to… ([Anthropic prices initial public offering](../summaries/afb2565ea363.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-19** - A film project page contains brief production notes about replacing a song take and reshooting motion synchronized to the voice while retaining a few shots. The feed presents the project as AI-created.
 

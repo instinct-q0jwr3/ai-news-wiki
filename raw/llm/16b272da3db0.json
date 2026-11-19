@@ -1,0 +1,13 @@
+{
+  "id": "16b272da3db0",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Reuters excerpt indexed by Techmeme says internal posts raised concerns about possible cross-account conversation mixing in Meta’s Muse. The full investigation was inaccessible. These are reported concerns, not a verified finding here of a particular user-data leak, its scale or cause.",
+  "highlights": [
+    "Evidence is an indexed investigation excerpt",
+    "Concern involves possible account separation failures",
+    "No specific leak was independently verified",
+    "Scale and cause remain unknown",
+    "Company response was not inspected"
+  ]
+}

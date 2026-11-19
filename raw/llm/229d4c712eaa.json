@@ -1,0 +1,13 @@
+{
+  "id": "229d4c712eaa",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Latent Space’s roundup compares Gemini 4 Neon launch claims with independent tests and early user reports. The examined passages distinguish effort levels, benchmark costs, capacity errors and corrections to an earlier adapter comparison.\n\nA newsletter synthesis is not independent replication of every linked claim. Rankings use different tasks and execution software, and a corrected run affected by a tunnel failure illustrates why methodology matters. This summary covers the examined model, inference and chip-design portions rather than the entire issue.",
+  "highlights": [
+    "Roundup combines several source types",
+    "Effort settings change results and cost",
+    "Early user sessions include capacity failures",
+    "Earlier adapter numbers receive an explicit correction",
+    "Linked technical claims were not all independently audited"
+  ]
+}

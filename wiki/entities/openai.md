@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-19** - A Reuters excerpt indexed by Techmeme says Arizona opened an investigation involving AI companies and alleged unauthorized agent activity in banks. The full article was inaccessible. Opening an investigation is not proof that an infiltration occurred or… ([Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the "apparent infiltration of banks by rogue AI agents"](../summaries/dd293e15d96f.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-11-19** - A Hacker News listing links to OpenAI’s account of the Codex sandbox. The primary source was inaccessible and the listing supplied no substantive excerpt. Isolation boundaries, permission behavior and platform differences could not be checked from the title. ([The Codex Sandbox](../summaries/e3402c51ea9d.md) · [OpenAI](../entities/openai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md)) ⚠
 - **2026-11-19** - An Ask HN thread asks when an application should offer its own interface rather than expose functions through MCP. The few replies favor alternatives such as documented command-line access and treating agent access as an additional interface.
 

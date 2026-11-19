@@ -1,143 +1,89 @@
 {
- "generated_at": "2026-11-19T03:55:22+00:00",
+ "generated_at": "2026-11-19T09:56:16+00:00",
  "stories": [
   {
-   "id": "afb2565ea363",
-   "title": "Anthropic prices initial public offering",
+   "id": "3bf4035ac30a",
+   "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+   "url": "https://quebec.yarn.so"
   },
   {
-   "id": "b1490d672445",
-   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "id": "205bebd6a107",
+   "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
    "source": "Hacker News",
-   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+   "url": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal"
   },
   {
-   "id": "a91534357939",
-   "title": "LLM assisted reverse engineering",
+   "id": "1c2358600c6a",
+   "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
    "source": "Hacker News",
-   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+   "url": "https://github.com/rxolve/zpup"
   },
   {
-   "id": "c7f26de1ab1e",
-   "title": "AI will not make you rich (2025)",
-   "source": "Hacker News",
-   "url": "https://colossus.com/article/ai-will-not-make-you-rich/"
+   "id": "229d4c712eaa",
+   "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/"
   },
   {
-   "id": "a01fbbc99326",
-   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-   "source": "Hacker News",
-   "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
-  },
-  {
-   "id": "283d9c222f01",
-   "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-   "source": "Hacker News",
-   "url": "https://claudia.gallery/fable/"
-  },
-  {
-   "id": "accbc1cc9ca3",
-   "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2607.29378"
-  },
-  {
-   "id": "e63430832ec4",
-   "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\"",
+   "id": "5e92a3a43973",
+   "title": "technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+   "url": "https://asia.nikkei.com/business/technology/us-visa-denials-hit-xpeng-other-chinese-robot-makers-ahead-of-ces"
   },
   {
-   "id": "e3402c51ea9d",
-   "title": "The Codex Sandbox",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/inside-the-codex-sandbox/"
-  },
-  {
-   "id": "477f08991e76",
-   "title": "VB Harness – Make local coding agents verify their own work",
-   "source": "Hacker News",
-   "url": "https://github.com/Viktotovich/vb-harness-for-agentic-building"
-  },
-  {
-   "id": "9e403413ed44",
-   "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
-   "source": "Hacker News",
-   "url": "https://adeindex.com"
-  },
-  {
-   "id": "6d5ac635ec4a",
-   "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50554686"
-  },
-  {
-   "id": "ec1cbdc496d9",
-   "title": "Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app",
+   "id": "d8d7062f0d44",
+   "title": "Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development",
    "source": "Techmeme",
-   "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+   "url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share"
   },
   {
-   "id": "bfe2a65999f4",
-   "title": "Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund",
+   "id": "1d8d5dce6999",
+   "title": "Sources expect Anthropic's IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639"
+   "url": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f"
   },
   {
-   "id": "4ec0d6ede325",
-   "title": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features",
+   "id": "676f22984d15",
+   "title": "A US congressional commission report says China's PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html?unlocked_article_code=1.RVE.gLxg.XpnU5fMGh-0k&smid=url-share"
+   "url": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/"
   },
   {
-   "id": "0e15981f91aa",
-   "title": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more",
+   "id": "748f7eb450c4",
+   "title": "College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses",
    "source": "Techmeme",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+   "url": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html?unlocked_article_code=1.RVE.X0lj.uxofd9RL308T&smid=url-share"
   },
   {
-   "id": "d24cff0cd99e",
-   "title": "How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab",
+   "id": "d18b873eafe8",
+   "title": "Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html?unlocked_article_code=1.RlE.LNs4.VaGPGt5WhYLb&smid=url-share"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTA2NDA3NiwiZXhwIjoxNzk1NjY4ODc2LCJhcnRpY2xlSWQiOiJUT09ZMEhLR1pBSVIwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.7zIR1NLTCnv5jFUF2YxBsublGkM4Be3C0TVim4SQHVg"
   },
   {
-   "id": "1716c585ae29",
-   "title": "Advancing chip design with OpenAI models",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
-  },
-  {
-   "id": "0085318bf23d",
-   "title": "Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost",
+   "id": "dd293e15d96f",
+   "title": "Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents\"",
    "source": "Techmeme",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain"
+   "url": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/"
   },
   {
-   "id": "f5c8c3ff9a3d",
-   "title": "datasette-arrows 0.1a0",
+   "id": "01028392e62b",
+   "title": "llm-gemini 0.38",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
+   "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
   },
   {
-   "id": "bc54c7ecffea",
-   "title": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B",
+   "id": "16b272da3db0",
+   "title": "Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users' private data",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo"
+   "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18"
   },
   {
-   "id": "0e1ed16d15ab",
-   "title": "The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs' AI platform via a ~$95M no-bid deal",
+   "id": "7e1e4e037f32",
+   "title": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-administration-unveils-project-to-combat-cybercrime"
-  },
-  {
-   "id": "9a79fc36c72c",
-   "title": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/technology/palo-alto-buy-ai-startup-applied-compute-45-billion-2026-11-18/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round"
   }
  ]
 }

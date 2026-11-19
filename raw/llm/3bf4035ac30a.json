@@ -1,0 +1,14 @@
+{
+  "id": "3bf4035ac30a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Yarn introduces Quebec, a speech-alignment API combining constrained decoding with a small boundary-refinement model. Its report separates missing timestamps, word-edge timing error and the practical result of deleting a word in an editor.\n\nThe page reports seventy-seven percent of boundaries within twenty milliseconds of human labels, newer than the feed headline’s seventy-five percent. Results are vendor-run and focused on English speech; agreement with human labels and performance on one editing rule do not establish universal accuracy.",
+  "highlights": [
+    "Decoder search is bounded by rough transcript timing",
+    "Small model refines local word boundaries",
+    "Training uses public and privately labeled recordings",
+    "Page figure differs from the feed headline",
+    "Timing and bad-cut metrics measure different outcomes",
+    "English evaluation does not prove multilingual quality"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1c2358600c6a",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Zpup describes a small scene format that renders orthographic three-dimensional illustrations into plain SVG. It compares overlapping shapes to decide drawing order and can generate images without client-side JavaScript.\n\nThe project explicitly excludes perspective, textures, general animation and several other full-engine features, and says deeply intersecting shapes remain problematic. Its sorting benchmark is author-run; the early API and intended illustration scale limit broader conclusions.",
+  "highlights": [
+    "JSON scene data renders to standalone SVG",
+    "Orthographic view can change without changing the scene",
+    "Overlap comparisons inform drawing order",
+    "Project is not a general 3D engine",
+    "Intersections and missing features are explicit limits",
+    "API may change before stable release"
+  ]
+}
