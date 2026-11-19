@@ -1,0 +1,13 @@
+{
+  "id": "cb036fa8c3d3",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A MoQ advocate argues that voice-agent transport has different timing needs from human conferencing. The examined passages criticize discarding late speech packets and propose recovering audio before an agent needs the complete utterance, while using timestamps for generated-audio playback.\n\nThe examples are an argumentative protocol comparison, not a controlled test of every WebRTC configuration or OpenAI implementation. Network conditions, buffering, codec options and application behavior affect the tradeoff. This summary covers the examined loss-recovery and playback discussion.",
+  "highlights": [
+    "Argument contrasts conferencing and machine processing",
+    "Late context may still be useful before response generation",
+    "Retransmission and latency have workload-specific tradeoffs",
+    "Playback timestamps are part of the proposal",
+    "No universal protocol benchmark was reproduced"
+  ]
+}

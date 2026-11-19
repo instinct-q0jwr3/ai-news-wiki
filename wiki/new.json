@@ -1,65 +1,47 @@
 {
- "generated_at": "2026-11-19T09:56:16+00:00",
+ "generated_at": "2026-11-19T15:57:19+00:00",
  "stories": [
   {
-   "id": "3bf4035ac30a",
-   "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+   "id": "b827849004e8",
+   "title": "DeepMind Employees Are Unionising",
    "source": "Hacker News",
-   "url": "https://quebec.yarn.so"
+   "url": "https://www.gdmunion.co.uk"
   },
   {
-   "id": "205bebd6a107",
-   "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
+   "id": "ff14cf8ca8e2",
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
    "source": "Hacker News",
-   "url": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal"
+   "url": "https://spectrum.ieee.org/ai-superintelligence-debate"
   },
   {
-   "id": "1c2358600c6a",
-   "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+   "id": "dc88f413a3db",
+   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
    "source": "Hacker News",
-   "url": "https://github.com/rxolve/zpup"
+   "url": "https://foolscap.works/"
   },
   {
-   "id": "229d4c712eaa",
-   "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/"
+   "id": "cb036fa8c3d3",
+   "title": "OpenAI still has a WebRTC Problem",
+   "source": "Hacker News",
+   "url": "https://moq.dev/blog/webrtc-is-still-the-problem/"
   },
   {
-   "id": "5e92a3a43973",
-   "title": "technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware",
-   "source": "Techmeme",
-   "url": "https://asia.nikkei.com/business/technology/us-visa-denials-hit-xpeng-other-chinese-robot-makers-ahead-of-ces"
+   "id": "b259f6a295d6",
+   "title": "AI Overworks People",
+   "source": "Hacker News",
+   "url": "https://twitter.com/catalinmpit/status/2123061832781090948"
   },
   {
-   "id": "d8d7062f0d44",
-   "title": "Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&smid=url-share"
+   "id": "aabfd507bb76",
+   "title": "Carbon Emissions of US Data Centers Rival Countries",
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html"
   },
   {
-   "id": "1d8d5dce6999",
-   "title": "Sources expect Anthropic's IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f"
-  },
-  {
-   "id": "676f22984d15",
-   "title": "A US congressional commission report says China's PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/"
-  },
-  {
-   "id": "748f7eb450c4",
-   "title": "College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses",
-   "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html?unlocked_article_code=1.RVE.X0lj.uxofd9RL308T&smid=url-share"
-  },
-  {
-   "id": "d18b873eafe8",
-   "title": "Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTA2NDA3NiwiZXhwIjoxNzk1NjY4ODc2LCJhcnRpY2xlSWQiOiJUT09ZMEhLR1pBSVIwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.7zIR1NLTCnv5jFUF2YxBsublGkM4Be3C0TVim4SQHVg"
+   "id": "4678ab14c6bf",
+   "title": "Why AI Wants to Be Local – With Pete Warden",
+   "source": "Hacker News",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/"
   },
   {
    "id": "dd293e15d96f",
@@ -68,22 +50,148 @@
    "url": "https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/"
   },
   {
-   "id": "01028392e62b",
-   "title": "llm-gemini 0.38",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
+   "id": "385f9827a214",
+   "title": "Introducing Stitch Loop: A new way to build and evolve products",
+   "source": "TLDR AI",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
   },
   {
-   "id": "16b272da3db0",
-   "title": "Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users' private data",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18"
+   "id": "5b38cef5d2ca",
+   "title": "Type inference and narrowing with reverse arrows",
+   "source": "Lobsters",
+   "url": "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/"
   },
   {
-   "id": "7e1e4e037f32",
-   "title": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022",
+   "id": "8488a8e24842",
+   "title": "Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/19/loan-out-companies/"
+  },
+  {
+   "id": "96ca3b8538da",
+   "title": "Analysis: Anthropic needs ~$602B in annual revenue to hit a 20% return on invested capital comparable to its Big Tech peers; Apple has $478B in annual revenue",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round"
+   "url": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59"
+  },
+  {
+   "id": "9906b3bfe565",
+   "title": "Context API extracts full context from any web page",
+   "source": "TLDR AI",
+   "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page"
+  },
+  {
+   "id": "993e95419698",
+   "title": "Google partners with Jeff Bezos' Blue Origin to launch TPU-powered AI server satellites aboard the New Glenn rocket in Q1 2029, as part of Project Suncatcher",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029"
+  },
+  {
+   "id": "d32533b30fc4",
+   "title": "Switching LLMs mid-conversation is a ski-rental problem",
+   "source": "TLDR AI",
+   "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem"
+  },
+  {
+   "id": "0e15981f91aa",
+   "title": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more",
+   "source": "Techmeme",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+  },
+  {
+   "id": "c144059b303d",
+   "title": "ResolveAI Introduces SRE-1, the Most Accurate Model for Production at Every Budget",
+   "source": "TLDR AI",
+   "url": "https://resolve.ai/news/introduces-SRE-1-model-and-primary-on-call"
+  },
+  {
+   "id": "e5ac0c0ab894",
+   "title": "Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x",
+   "source": "TLDR AI",
+   "url": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth"
+  },
+  {
+   "id": "b32f3a117596",
+   "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured",
+   "source": "TLDR AI",
+   "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/"
+  },
+  {
+   "id": "8d3c9acf2822",
+   "title": "An Interview With Eric Seufert About Agentic Commerce",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/"
+  },
+  {
+   "id": "58c2d9366a1d",
+   "title": "GTA VI's 5,000-strong team eschewed AI and procedural generation in favor of handcrafted \"fidelity\", with 30,000 unique NPCs and an in-game video game system",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html?unlocked_article_code=1.RlE.fmuo.D_-7-tknBypF&smid=url-share"
+  },
+  {
+   "id": "31d78ecfe775",
+   "title": "Anthropic's IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers"
+  },
+  {
+   "id": "e788d1aca1aa",
+   "title": "Introducing Model Factory",
+   "source": "TLDR AI",
+   "url": "https://www.primeintellect.ai/blog/introducing-model-factory"
+  },
+  {
+   "id": "ef43f43364aa",
+   "title": "IEA expects global data center investment to hit $4T by 2030; fewer than 100 major AI projects would require a combined 50GW of power, matching peak UK demand",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/iea-sees-data-center-boom-pushing-power-grids-to-the-limit"
+  },
+  {
+   "id": "e3402c51ea9d",
+   "title": "The Codex Sandbox",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/inside-the-codex-sandbox/"
+  },
+  {
+   "id": "da889bf83ea1",
+   "title": "The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX",
+   "source": "Techmeme",
+   "url": "http://www.politico.com/"
+  },
+  {
+   "id": "f0cb8026ed28",
+   "title": "Dustin Moskovitz, one of Anthropic's earliest investors, says he \"invested in Anthropic to promote safety, not racing\" and frontier AI labs \"should slow down\"",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
+  },
+  {
+   "id": "bb5816cf6717",
+   "title": "Anthropic-backed pro-AI safety nonprofit Public First Action's PACs spent $25M+ in 12 states to help elect eight of the 13 House and Senate candidates it backed",
+   "source": "Techmeme",
+   "url": "https://www.washingtonpost.com/technology/2026/11/19/anthropic-gave-40m-an-ai-safety-group-most-candidates-it-backed-won/"
+  },
+  {
+   "id": "21c06208abc5",
+   "title": "Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform's AI push",
+   "source": "Techmeme",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
+  },
+  {
+   "id": "7771e73b67b1",
+   "title": "Quickly, There's No Time",
+   "source": "TLDR AI",
+   "url": "https://thezvi.substack.com/p/quickly-theres-no-time"
+  },
+  {
+   "id": "dacd3286c254",
+   "title": "The Silent Consensus",
+   "source": "TLDR AI",
+   "url": "https://www.hyperdimensional.co/p/the-silent-consensus"
+  },
+  {
+   "id": "00a23b0be1c1",
+   "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+   "source": "TLDR AI",
+   "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/"
   }
  ]
 }

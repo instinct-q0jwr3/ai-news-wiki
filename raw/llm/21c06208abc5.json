@@ -1,0 +1,13 @@
+{
+  "id": "21c06208abc5",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "The Verge reports Canva added controls to disable many generative features and prioritize human-created library content. The report explicitly distinguishes those controls from turning off every AI-assisted tool: background removal and object-moving features remain.\n\nThe controls affect product experience, not necessarily training-data policy or deletion of existing content. The article does not prove perfect detection of AI-generated assets, and account-specific rollout was not tested.",
+  "highlights": [
+    "Generative-feature toggle has explicit exceptions",
+    "Library preference is a separate control",
+    "Some assistive editing tools remain enabled",
+    "Interface choices differ from data-retention policy",
+    "Account-specific access was not checked"
+  ]
+}

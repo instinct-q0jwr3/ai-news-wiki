@@ -1,0 +1,13 @@
+{
+  "id": "b827849004e8",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Hacker News listing links to a site presented as a DeepMind union organizing effort. The extracted page contains only a short item about Google’s earlier AI principles, not the organizing announcement itself. Membership, recognition, demands and current organizing status could not be checked from that fragment.",
+  "highlights": [
+    "Listing points to an organizing site",
+    "Extraction does not contain the announcement",
+    "Membership was not verified",
+    "Recognition status remains unknown",
+    "No detailed labor claim is inferred"
+  ]
+}

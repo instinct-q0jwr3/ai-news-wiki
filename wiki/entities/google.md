@@ -10,6 +10,10 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-19** - A Hacker News listing links to a site presented as a DeepMind union organizing effort. The extracted page contains only a short item about Google’s earlier AI principles, not the organizing announcement itself. Membership, recognition, demands and current… ([DeepMind Employees Are Unionising](../summaries/b827849004e8.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
+- **2026-11-19** - The Verge reports Google and Blue Origin plan a future launch of TPU-equipped satellites for Project Suncatcher. It distinguishes the planned dedicated heavy-lift mission from an earlier reported demonstration.
+
+A launch agreement is not operational… ([Google partners with Jeff Bezos' Blue Origin to launch TPU-powered AI server satellites aboard the New Glenn rocket in Q1 2029, as part of Project Suncatcher](../summaries/993e95419698.md) · [Google](../entities/google.md))
 - **2026-11-19** - Yarn introduces Quebec, a speech-alignment API combining constrained decoding with a small boundary-refinement model. Its report separates missing timestamps, word-edge timing error and the practical result of deleting a word in an editor.
 
 The page… ([Show HN: An API for word timestamps from speech, 75% within 20ms](../summaries/3bf4035ac30a.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md))

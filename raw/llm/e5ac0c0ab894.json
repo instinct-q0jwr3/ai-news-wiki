@@ -1,0 +1,14 @@
+{
+  "id": "e5ac0c0ab894",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Epoch AI estimates growth in Anthropic and OpenAI compute spending using disclosures and media reports, converting mixed reporting periods into annualized rates. The analysis distinguishes the richer Anthropic filing data from sparse OpenAI observations and forecasts.\n\nRun rates are not actual full-year totals, and the fitted historical growth rates are not commitments about future growth. The report explains interpolation, regression and accounting limits, including the difference between internal research and customer-serving compute.",
+  "highlights": [
+    "Sources differ in completeness across companies",
+    "Quarterly spending is annualized for comparison",
+    "Fit assumes growth between reporting periods",
+    "Forecasted and observed amounts are distinct",
+    "Historical multipliers do not guarantee future growth",
+    "Compute spend includes more than customer inference"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e788d1aca1aa",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Prime Intellect introduces Model Factory as a shared control plane for model training, inference, task environments and deployment. Its examples connect reinforcement-learning attempts and rewards with checkpoint inspection and separate evaluation tasks.\n\nThe platform pitch does not establish that owning weights is best for every team, or that all API providers reuse customer data. Training expense, reward quality and held-out performance remain separate questions. The summary describes the examined product workflow, not a deployment.",
+  "highlights": [
+    "Platform combines several training stages",
+    "Environments provide tasks tools and rewards",
+    "Attempts and checkpoints can be inspected",
+    "Held-out evaluation is separate from training reward",
+    "Vendor strategic claims are not universal facts",
+    "No service was connected"
+  ]
+}

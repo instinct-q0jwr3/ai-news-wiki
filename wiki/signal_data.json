@@ -2739,8 +2739,64 @@
   ],
   "reserve": "72c22040a5eb",
   "status": "final",
-  "thin": 1,
+  "thin": 2,
   "total": 70,
-  "unreadable": 10
+  "unreadable": 9
+ },
+ "2026-11-19": {
+  "ok": 35,
+  "paywall": 17,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Speech",
+    "id": "3bf4035ac30a",
+    "minutes": 11,
+    "source": "quebec.yarn.so",
+    "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+    "why": "A forced-alignment design separates rough timing, local boundary refinement and real editing errors, with vendor-run English benchmarks."
+   },
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "0085318bf23d",
+    "minutes": 3,
+    "source": "artificialanalysis.ai",
+    "title": "Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost",
+    "why": "Independent measurements distinguish effort, harness, task time and actual task cost rather than one token-price headline."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "1c2358600c6a",
+    "minutes": 10,
+    "source": "github.com",
+    "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+    "why": "A compact JSON-to-SVG scene tool explains drawing order and clearly states where it stops being a full 3D engine."
+   },
+   {
+    "cat": "ok",
+    "front": "Products",
+    "id": "21c06208abc5",
+    "minutes": 2,
+    "source": "theverge.com",
+    "title": "Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform's AI push",
+    "why": "Canva adds concrete opt-outs while making clear that some AI-assisted editing tools remain enabled."
+   },
+   {
+    "cat": "ok",
+    "front": "Society",
+    "id": "a01fbbc99326",
+    "minutes": 5,
+    "source": "lawyerscommittee.org",
+    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+    "why": "A plaintiffs’ announcement shows why an alleged false alert must be examined together with human review and escalation, not treated as a verdict."
+   }
+  ],
+  "reserve": "e5ac0c0ab894",
+  "status": "provisional",
+  "thin": 4,
+  "total": 64,
+  "unreadable": 8
  }
 }

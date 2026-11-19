@@ -1,0 +1,13 @@
+{
+  "id": "b32f3a117596",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "An Antigravity user investigates whether short prompt-cache persistence contributes to rapid quota use. The examined opening describes reverse engineering and empirical probing rather than merely inferring the cause from a high bill.\n\nThis summary does not validate the later measurements or suggested keep-alive changes. Findings from one version and account need not transfer, and undocumented modifications can alter support, security and billing behavior. No binaries or caching settings were changed.",
+  "highlights": [
+    "Author tests a cache-expiration hypothesis",
+    "Long sessions resend substantial context",
+    "Account and software version constrain transfer",
+    "Later measurements were not independently reproduced",
+    "No modification or keep-alive setup was performed"
+  ]
+}

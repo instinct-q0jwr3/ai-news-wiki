@@ -753,6 +753,84 @@
         "1d8d5dce6999"
       ],
       "concepts": []
+    },
+    {
+      "title": "What people can turn off or keep local",
+      "intro": "Canva controls, a non-generative writing pitch and local-model advocacy approach user choice from different directions.",
+      "stories": [
+        "21c06208abc5",
+        "dc88f413a3db",
+        "4678ab14c6bf",
+        "b259f6a295d6"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Running a product is more than generating code",
+      "intro": "Model-training platforms, incident models and continuous maintenance tools need separate checks for model quality and system behavior.",
+      "stories": [
+        "e788d1aca1aa",
+        "c144059b303d",
+        "385f9827a214",
+        "00a23b0be1c1",
+        "9906b3bfe565"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Cache economics and voice transport",
+      "intro": "Session switching and speech delivery have workload-specific costs that simple per-token or latency slogans miss.",
+      "stories": [
+        "d32533b30fc4",
+        "b32f3a117596",
+        "cb036fa8c3d3",
+        "5b38cef5d2ca"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Historical spending is not future capacity",
+      "intro": "Annualized compute estimates, proposed orbital servers and grid projections measure different stages of infrastructure.",
+      "stories": [
+        "e5ac0c0ab894",
+        "993e95419698",
+        "ef43f43364aa",
+        "aabfd507bb76",
+        "96ca3b8538da"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Arguments about power and the future",
+      "intro": "Engineering objections, timeline forecasts, policy visions and labor and copyright debates remain distinct kinds of evidence.",
+      "stories": [
+        "ff14cf8ca8e2",
+        "7771e73b67b1",
+        "dacd3286c254",
+        "b827849004e8",
+        "8488a8e24842",
+        "f0cb8026ed28",
+        "bb5816cf6717"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Commerce, craft and scarce shares",
+      "intro": "Unreadable interviews and financial excerpts support only limited conclusions about how value and access are distributed.",
+      "stories": [
+        "8d3c9acf2822",
+        "58c2d9366a1d",
+        "31d78ecfe775"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Cyberattack attribution needs an accessible record",
+      "intro": "A short indexed report does not establish the causal contribution of an intrusion tool.",
+      "stories": [
+        "da889bf83ea1"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

@@ -1,0 +1,14 @@
+{
+  "id": "c144059b303d",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "ResolveAI announces SRE-1 and an on-call product, separating model-level incident evaluations from complete-system comparisons. It describes task-specific reinforcement learning, tools pinned to incident time and escalation when an engineer is needed.\n\nReported results come from company-selected production cases and repeated attempts. An ensemble result differs from one investigation, and a system comparison includes more than model weights. Customer statements and claimed alert closure rates were not independently audited.",
+  "highlights": [
+    "Model and complete-system evaluations are separate",
+    "Incident-time tools aim to prevent future-answer leakage",
+    "Repeated attempts affect reported success",
+    "On-call flow includes escalation",
+    "Company-selected cases limit generalization",
+    "Customer closure claims are not independent validation"
+  ]
+}

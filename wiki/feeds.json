@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1388,
+  "stories": 1395,
   "last": "2026-11-19"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1366,
+  "stories": 1375,
   "last": "2026-11-19"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 534,
-  "last": "2026-11-18"
+  "stories": 544,
+  "last": "2026-11-19"
  },
  {
   "name": "Simon Willison",
@@ -26,8 +26,8 @@
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 88,
-  "last": "2026-11-18"
+  "stories": 89,
+  "last": "2026-11-19"
  },
  {
   "name": "Latent.Space",
@@ -44,8 +44,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 61,
-  "last": "2026-11-18"
+  "stories": 62,
+  "last": "2026-11-19"
  },
  {
   "name": "Bert Hubert",
@@ -60,14 +60,14 @@
   "last": "2026-09-26"
  },
  {
-  "name": "Marcus on AI",
-  "url": "https://garymarcus.substack.com/feed",
-  "stories": 29,
-  "last": "2026-11-18"
- },
- {
   "name": "Stratechery",
   "url": "https://stratechery.com/feed/",
+  "stories": 30,
+  "last": "2026-11-19"
+ },
+ {
+  "name": "Marcus on AI",
+  "url": "https://garymarcus.substack.com/feed",
   "stories": 29,
   "last": "2026-11-18"
  },

@@ -1,0 +1,13 @@
+{
+  "id": "385f9827a214",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Google Labs introduces Stitch Loop as an experiment for ongoing product maintenance using code and live metrics. The announcement describes identifying issues, preparing fixes and opening pull requests for human review rather than directly publishing every change.\n\nThe page invites waitlist registration, so the announcement is not universal current access. Continuous work and security-fix promises are vendor claims; the tool was not connected or tested, and generated fixes still need suitable checks.",
+  "highlights": [
+    "Experiment targets post-launch maintenance",
+    "Code and metrics inform proposed work",
+    "Review precedes live changes in the described flow",
+    "Waitlist differs from open availability",
+    "Continuous operation does not prove correct fixes"
+  ]
+}

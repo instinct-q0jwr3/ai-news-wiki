@@ -1,0 +1,13 @@
+{
+  "id": "da889bf83ea1",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Techmeme excerpt attributes a European Commission cyberattack report to Politico and an account of AI-assisted intrusion tools to CERT-EU. The supplied link resolves only to the publication homepage, which was inaccessible. The affected systems, duration and tool attribution could not be independently checked; the excerpt does not establish how much AI contributed to the attack.",
+  "highlights": [
+    "Evidence is a short indexed excerpt",
+    "Supplied URL is not an article-specific link",
+    "Primary report was inaccessible",
+    "Tool attribution was not independently checked",
+    "AI contribution cannot be quantified from the excerpt"
+  ]
+}
