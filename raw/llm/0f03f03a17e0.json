@@ -1,0 +1,14 @@
+{
+  "id": "0f03f03a17e0",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "The OpenComputer repository describes a self-hostable coding agent that accepts Slack tasks, runs isolated sessions and returns pull requests. Its architecture combines a VM gateway, rootless containers and persistence across local storage and a git-backed store.\n\nThe repository’s speed comparison is a project-authored benchmark claim, not an independently verified measure of quality or safety. Self-hosting and container isolation do not remove the need to assess repository access, credentials and network boundaries. No installation, Slack connection or account permission was changed.",
+  "highlights": [
+    "Repository describes a Slack-to-pull-request workflow",
+    "Gateway supports several coding harnesses",
+    "Sessions use rootless containers",
+    "Storage and control layers have different roles",
+    "Speed claim is vendor-authored",
+    "No private repository access was granted"
+  ]
+}

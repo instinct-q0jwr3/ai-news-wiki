@@ -1,0 +1,15 @@
+{
+  "id": "d3befbfaf819",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Thinking Machines releases Inkling 2 Mini, an open-weight mixture-of-experts model that repeats its middle layers to spend more computation per token without storing a larger model. The announcement separates improved reasoning and tool use from factual recall, and notes weaknesses on multi-turn constraints.\n\nIts accompanying variable-loop research model supports preliminary monitoring experiments, not a general safety guarantee. Readable shorter reasoning and weak control over reasoning text are different from evidence that every internal step is observable. Comparisons also depend on precision, hardware and task; the local Mac launch configuration requires at least 32 GB RAM despite the roughly 20 GB weight footprint.",
+  "highlights": [
+    "Middle layers repeat three times per token",
+    "Total parameters differ from active computation",
+    "Looping helps some reasoning tasks more than recall",
+    "Variable-loop model is a separate research artifact",
+    "Monitoring findings are preliminary and scale-limited",
+    "Energy comparisons use differing precisions",
+    "Memory footprint is not the minimum system RAM"
+  ]
+}

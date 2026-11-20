@@ -1,0 +1,15 @@
+{
+  "id": "3db3d2167907",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "An a90 experiment repeatedly asks many models for advice, names and random-looking choices and reports strong convergence on common answers. It compares new chats with follow-up requests, tests richer personal context and examines a small open model across training stages.\n\nThe prompts, sampling counts, grouping rules and selected questions shape the results; some life-advice plots explicitly show only questions exceeding a concentration threshold. This does not establish that every personalized assistant gives everyone identical advice or that a model fingerprint proves undocumented ancestry. Repeated recommendations can sometimes be appropriate, and generated numbers should not be confused with reliable randomness.",
+  "highlights": [
+    "Repeated sampling reveals concentrated defaults",
+    "Fresh chats differ from requests for another answer",
+    "Some plots select high-concentration questions",
+    "Short labels personalize less than detailed context in this experiment",
+    "Training-stage investigation covers particular open models",
+    "Family similarity is not proof of hidden lineage",
+    "Variety and recommendation quality are different metrics"
+  ]
+}

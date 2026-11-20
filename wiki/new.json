@@ -1,173 +1,119 @@
 {
- "generated_at": "2026-11-20T16:00:34+00:00",
+ "generated_at": "2026-11-20T22:01:17+00:00",
  "stories": [
   {
-   "id": "0c48f382a921",
-   "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-   "source": "Hacker News",
-   "url": "https://alpo.ge/remark.pdf"
-  },
-  {
-   "id": "f9957632da1c",
-   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-   "source": "Hacker News",
-   "url": "https://architectlabs.com/blog/frostbite"
-  },
-  {
-   "id": "fc5c4b2c7162",
-   "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-  },
-  {
-   "id": "0b6822f42497",
-   "title": "Epic Games Turns to AI Coding for the Unreal Engine",
-   "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai"
-  },
-  {
-   "id": "9a192188389a",
-   "title": "Apple is building an AI agent",
-   "source": "Hacker News",
-   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-  },
-  {
-   "id": "132cb9e68de2",
-   "title": "Energy Wins Driving Optical Computing AI",
-   "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/optical-computing-ai"
-  },
-  {
-   "id": "fb4cebfc73cc",
-   "title": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B",
+   "id": "d3befbfaf819",
+   "title": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
   },
   {
-   "id": "bb3fb5845460",
-   "title": "Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August",
+   "id": "91013106faaa",
+   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "source": "Hacker News",
+   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
+  },
+  {
+   "id": "65b16025b534",
+   "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+   "source": "Hacker News",
+   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
+  },
+  {
+   "id": "f22621acd445",
+   "title": "Vibecoding an inference chip",
+   "source": "Hacker News",
+   "url": "https://ankitg.me/blog/vibecoding-inference-chip/"
+  },
+  {
+   "id": "3db3d2167907",
+   "title": "AI is giving everyone the same advice",
+   "source": "Hacker News",
+   "url": "https://a90.com/experiments/same-advice/"
+  },
+  {
+   "id": "0f03f03a17e0",
+   "title": "Show HN: OpenComputer – an open source alternative to Devin",
+   "source": "Hacker News",
+   "url": "https://github.com/diggerhq/opencomputer"
+  },
+  {
+   "id": "a6e5d1528f81",
+   "title": "Combatting Adversarial Distillation",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/combatting-adversarial-distillation/"
+  },
+  {
+   "id": "0bf1386ec779",
+   "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
+   "source": "Hacker News",
+   "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations"
+  },
+  {
+   "id": "199172461838",
+   "title": "Anthropic is not living up to its ideals",
+   "source": "Hacker News",
+   "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its"
+  },
+  {
+   "id": "bc7f6a100325",
+   "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"
+  },
+  {
+   "id": "ee74b45bd3b9",
+   "title": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion"
+   "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html"
   },
   {
-   "id": "536698282b31",
-   "title": "Vercel Board",
-   "source": "TLDR AI",
-   "url": "https://vercel.com/blog/introducing-vercel-board"
+   "id": "3e0d2439768d",
+   "title": "Quoting Levent Alpöge",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
   },
   {
-   "id": "49de74c1ac42",
-   "title": "AI is already massively speeding up AI research",
-   "source": "TLDR AI",
-   "url": "https://linch.substack.com/p/ai-is-already-massively-speeding"
-  },
-  {
-   "id": "6618523ad9cf",
-   "title": "Anthropic mathematician Levent Alpöge says he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language",
+   "id": "09b53fce419b",
+   "title": "Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September",
    "source": "Techmeme",
-   "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding"
   },
   {
-   "id": "f127e25cab2c",
-   "title": "Pluralistic: Lisa Hanawalt's \"I Can't Stop Thinking About Horses and Sex\" (20 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/"
+   "id": "38f5e527805c",
+   "title": "Quoting Ravi Vakil",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
   },
   {
-   "id": "2be753e45cb5",
-   "title": "Anthropic stock fell as low as $87.26 in the opening hours of its second day of trading, trimming gains from the $83 IPO price to as little as 5.1%",
+   "id": "33d26781a5fa",
+   "title": "Helix Digital, launched by KKR to invest in data centers, is in talks to buy EdgeCore in a deal that values the data center operator at $8B to $10B",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion"
   },
   {
-   "id": "76aff1ac8e49",
-   "title": "How OpenAI's Performance Factory keeps ChatGPT fast",
-   "source": "TLDR AI",
-   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"
+   "id": "5ca266fe801e",
+   "title": "METR updates its time horizon plot to add judgment-heavy tasks, finding some AI capabilities still grow exponentially but models lag at designing AI evaluations",
+   "source": "Techmeme",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
   },
   {
-   "id": "66aa67c82e65",
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+   "id": "01a981b35824",
+   "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/formal-verification/"
   },
   {
-   "id": "7e336fd7d3be",
-   "title": "When Agent Swarms Outperform Solo Coders",
-   "source": "TLDR AI",
-   "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/"
-  },
-  {
-   "id": "216cf4bf8746",
-   "title": "Let Gemini tackle repetitive chores on your Mac",
-   "source": "TLDR AI",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
-  },
-  {
-   "id": "eca405337152",
-   "title": "Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result",
-   "source": "TLDR AI",
-   "url": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul"
-  },
-  {
-   "id": "ece0b4804330",
-   "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+   "id": "fbc5d059f4bc",
+   "title": "2026.47: Down in DC",
    "source": "Stratechery",
-   "url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/"
+   "url": "https://stratechery.com/2026/down-in-dc/"
   },
   {
-   "id": "cba5f2e65db1",
-   "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web",
-   "source": "TLDR AI",
-   "url": "https://blog.google/security/mirror-dimension-for-agents/"
-  },
-  {
-   "id": "a026531f9b6b",
-   "title": "Cloudflare's Clairic and Clairic-flash",
-   "source": "TLDR AI",
-   "url": "https://blog.cloudflare.com/open-clairic/"
-  },
-  {
-   "id": "2abe949fc5a7",
-   "title": "Signal says it will restrict screenshots by default to stop AI agents from reading private chats on phones but warns its new protections are \"incomplete\"",
+   "id": "92275392d7d1",
+   "title": "Trump says he would block US companies from building data centers overseas or impose a \"tremendous tax\" on them if they do",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
-  },
-  {
-   "id": "1dba69797eec",
-   "title": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing"
-  },
-  {
-   "id": "b9a41bba9bec",
-   "title": "Filing: SK Hynix will become Kioxia's largest shareholder with a ~14.1% stake after it converts Kioxia bonds into shares, expanding its clout in the NAND sector",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion"
-  },
-  {
-   "id": "35e8e9a2eddd",
-   "title": "FastFrames: Video Generation at Interactive Latency",
-   "source": "TLDR AI",
-   "url": "https://apple-aiml-research.github.io/ml-fastframes/"
-  },
-  {
-   "id": "3a38b54864fe",
-   "title": "Stripe evals: Measuring real-world coding agent performance",
-   "source": "TLDR AI",
-   "url": "https://stripe.dev/blog/stripe-integration-evals-methodology"
-  },
-  {
-   "id": "85b8cd249acd",
-   "title": "Sandboxed Models Can Communicate via Inference Servers",
-   "source": "TLDR AI",
-   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-  },
-  {
-   "id": "cd1a46d8f962",
-   "title": "Perplexity's Self-Improving Skills",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/self-improving-skills"
+   "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas"
   }
  ]
 }

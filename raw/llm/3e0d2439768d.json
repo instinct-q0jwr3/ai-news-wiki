@@ -1,0 +1,13 @@
+{
+  "id": "3e0d2439768d",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison collects a passage from Levent Alpöge’s statement claiming a Claude-assisted proof of the Riemann Hypothesis and its generalized form. The page is a quotation with attribution, not an independent analysis of the proposed proof.\n\nThe quoted author also expects a further extension, which is distinct from claiming that extension complete. Neither this quotation nor the author’s assertion of assumption-free formalization establishes expert acceptance, correct theorem encoding or a checked formal archive.",
+  "highlights": [
+    "Page is an attributed quotation",
+    "Original statement is a separate primary source",
+    "Claimed result differs from hoped-for extension",
+    "No proof-checking procedure is reported",
+    "Independent validation remains open"
+  ]
+}

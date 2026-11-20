@@ -1057,6 +1057,67 @@
         "ece0b4804330"
       ],
       "concepts": []
+    },
+    {
+      "title": "More computation is not more knowledge",
+      "intro": "A looped-model release and a repeated-advice experiment ask different questions about capability and diversity.",
+      "stories": [
+        "d3befbfaf819",
+        "3db3d2167907"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Verification starts with the claim being checked",
+      "intro": "Formal tools, research judgments and court citations all require a faithful target rather than a plausible-looking answer.",
+      "stories": [
+        "01a981b35824",
+        "5ca266fe801e",
+        "0bf1386ec779"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Proposed proofs remain separate proposals",
+      "intro": "A collected quotation adds attribution, not acceptance; two different mathematical proposals must not be collapsed.",
+      "stories": [
+        "3e0d2439768d",
+        "38f5e527805c"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Building agents still means choosing boundaries",
+      "intro": "An FPGA project, self-hosted sessions and extraction defenses expose different cost and security tradeoffs.",
+      "stories": [
+        "f22621acd445",
+        "0f03f03a17e0",
+        "a6e5d1528f81"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Adoption disputes are not automatic permissions",
+      "intro": "School choices, seller objections and safety criticism remain attributed positions with distinct evidence.",
+      "stories": [
+        "91013106faaa",
+        "ee74b45bd3b9",
+        "199172461838"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Markets, talks and threats have different finality",
+      "intro": "Closing prices, proposed rounds, deal talks and political statements must not become completed transactions or enacted rules.",
+      "stories": [
+        "65b16025b534",
+        "bc7f6a100325",
+        "09b53fce419b",
+        "33d26781a5fa",
+        "92275392d7d1",
+        "fbc5d059f4bc"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

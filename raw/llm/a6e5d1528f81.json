@@ -1,0 +1,15 @@
+{
+  "id": "a6e5d1528f81",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "OpenAI describes layered defenses against unauthorized capability distillation, combining model training, classifiers, API boundaries and coordinated account investigations. Its internal adaptive tests report much lower protected-reasoning extraction success on updated models than on the earlier setup.\n\nThe comparison changes model generation and safeguards together, so it does not isolate one defense. Results below one percent are not zero risk or an independent audit, and the cyber-distillation study itself shows budget-dependent differences between training on exact traces and summaries. The article’s policy advocacy and investigative attributions remain the company’s positions.",
+  "highlights": [
+    "Request and campaign defenses address different layers",
+    "Tool arguments can leak information as well as final messages",
+    "API boundaries restrict reuse of protected reasoning",
+    "Internal adaptive results are not universal guarantees",
+    "Model and safeguards change in the reported comparison",
+    "Distillation outcomes depend on inference budget",
+    "Policy proposals are not enacted rules"
+  ]
+}

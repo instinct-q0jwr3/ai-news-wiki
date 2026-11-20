@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-20** - The OpenComputer repository describes a self-hostable coding agent that accepts Slack tasks, runs isolated sessions and returns pull requests. Its architecture combines a VM gateway, rootless containers and persistence across local storage and a git-backed… ([Show HN: OpenComputer – an open source alternative to Devin](../summaries/0f03f03a17e0.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-20** - Cory Doctorow’s Pluralistic post reviews Lisa Hanawalt’s graphic memoir through its treatment of relationships, horses and bodily experience. The examined opening is a cultural review rather than an AI technology report.
 
 Its presence in a broad feed does… ([Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)](../summaries/f127e25cab2c.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))

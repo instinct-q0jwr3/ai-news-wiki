@@ -1,6 +1,6 @@
 {
  "2026-10-01": {
-  "ok": 47,
+  "ok": 48,
   "paywall": 14,
   "picks": [
    {
@@ -53,10 +53,10 @@
   "status": "final",
   "thin": 3,
   "total": 75,
-  "unreadable": 11
+  "unreadable": 10
  },
  "2026-10-02": {
-  "ok": 46,
+  "ok": 47,
   "paywall": 6,
   "picks": [
    {
@@ -109,7 +109,7 @@
   "status": "final",
   "thin": 12,
   "total": 68,
-  "unreadable": 4
+  "unreadable": 3
  },
  "2026-10-03": {
   "ok": 24,
@@ -224,7 +224,7 @@
   "unreadable": 3
  },
  "2026-10-05": {
-  "ok": 39,
+  "ok": 40,
   "paywall": 11,
   "picks": [
    {
@@ -277,10 +277,10 @@
   "status": "final",
   "thin": 1,
   "total": 59,
-  "unreadable": 8
+  "unreadable": 7
  },
  "2026-10-06": {
-  "ok": 46,
+  "ok": 47,
   "paywall": 6,
   "picks": [
    {
@@ -333,10 +333,10 @@
   "status": "final",
   "thin": 3,
   "total": 57,
-  "unreadable": 2
+  "unreadable": 1
  },
  "2026-10-07": {
-  "ok": 67,
+  "ok": 68,
   "paywall": 6,
   "picks": [
    {
@@ -389,7 +389,7 @@
   "status": "final",
   "thin": 7,
   "total": 88,
-  "unreadable": 8
+  "unreadable": 7
  },
  "2026-10-08": {
   "ok": 45,
@@ -1120,7 +1120,7 @@
   "unreadable": 8
  },
  "2026-10-21": {
-  "ok": 40,
+  "ok": 41,
   "paywall": 13,
   "picks": [
    {
@@ -1173,7 +1173,7 @@
   "status": "final",
   "thin": 7,
   "total": 66,
-  "unreadable": 6
+  "unreadable": 5
  },
  "2026-10-22": {
   "ok": 45,
@@ -2016,7 +2016,7 @@
   "unreadable": 9
  },
  "2026-11-06": {
-  "ok": 45,
+  "ok": 46,
   "paywall": 11,
   "picks": [
    {
@@ -2069,7 +2069,7 @@
   "status": "final",
   "thin": 5,
   "total": 67,
-  "unreadable": 6
+  "unreadable": 5
  },
  "2026-11-07": {
   "ok": 20,
@@ -2744,7 +2744,7 @@
   "unreadable": 9
  },
  "2026-11-19": {
-  "ok": 50,
+  "ok": 51,
   "paywall": 18,
   "picks": [
    {
@@ -2797,11 +2797,11 @@
   "status": "final",
   "thin": 6,
   "total": 86,
-  "unreadable": 12
+  "unreadable": 11
  },
  "2026-11-20": {
-  "ok": 29,
-  "paywall": 10,
+  "ok": 44,
+  "paywall": 14,
   "picks": [
    {
     "cat": "ok",
@@ -2852,7 +2852,7 @@
   "reserve": "66aa67c82e65",
   "status": "provisional",
   "thin": 2,
-  "total": 50,
+  "total": 69,
   "unreadable": 9
  }
 }

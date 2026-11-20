@@ -1,0 +1,13 @@
+{
+  "id": "bc7f6a100325",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Hacker News listing links to a Wall Street Journal report about an AI-stock sell-off and Anthropic’s offering. The source was inaccessible and the listing contained no substantive excerpt. The headline’s aggregate loss figure, basket of companies, measurement interval and causal framing could not be checked.",
+  "highlights": [
+    "Primary report was inaccessible",
+    "Feed supplied only a headline",
+    "Aggregate loss methodology was unavailable",
+    "IPO causation was not established",
+    "No current market quotation is inferred"
+  ]
+}

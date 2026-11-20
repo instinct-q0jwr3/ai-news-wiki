@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1420,
+  "stories": 1429,
   "last": "2026-11-20"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1400,
+  "stories": 1406,
   "last": "2026-11-20"
  },
  {
@@ -20,7 +20,7 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 121,
+  "stories": 123,
   "last": "2026-11-20"
  },
  {
@@ -32,7 +32,7 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 74,
+  "stories": 75,
   "last": "2026-11-20"
  },
  {
@@ -54,6 +54,12 @@
   "last": "2026-11-10"
  },
  {
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 32,
+  "last": "2026-11-20"
+ },
+ {
   "name": "antirez",
   "url": "https://antirez.com/rss",
   "stories": 31,
@@ -62,12 +68,6 @@
  {
   "name": "Marcus on AI",
   "url": "https://garymarcus.substack.com/feed",
-  "stories": 31,
-  "last": "2026-11-20"
- },
- {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
   "stories": 31,
   "last": "2026-11-20"
  },

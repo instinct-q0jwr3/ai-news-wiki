@@ -1,0 +1,14 @@
+{
+  "id": "01a981b35824",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Latent Space surveys companies combining AI proof generation with formal verification and contrasts machine-checked guarantees with testing or another model’s judgment. Interviews and company examples emphasize requirements precise enough for a proof checker to evaluate.\n\nThe guarantee applies to the encoded specification and assumptions, not automatically to every user intention or deployed environment. Claims about future workflow simplicity and broad security benefits remain vendor expectations. The survey mentions a claimed Riemann result, but that mention is not independent mathematical validation.",
+  "highlights": [
+    "Survey spans solvers and proof assistants",
+    "Testing differs from checking a formal proof",
+    "Specification quality remains a human responsibility",
+    "Company examples do not establish universal coverage",
+    "Token-efficiency results concern selected tasks",
+    "Mentioned mathematical claims remain unreviewed here"
+  ]
+}
