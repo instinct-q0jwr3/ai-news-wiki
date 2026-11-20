@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-19 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-20 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-20** - An Austin Patrick Substack essay recounts a person’s claimed police contact after threatening chatbot messages and uses it to discuss reporting, context and privacy. In the examined passages, the writer explicitly says he cannot attest that the reported… ([An FBI agent called a Claude user about his chats](../summaries/be1ed1dbc74d.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-11-20** - A Forbes excerpt indexed by Techmeme estimates the value of Iconiq’s Anthropic stake at the trading close. The primary article was inaccessible. Estimated holdings multiplied by a market price describe paper value, not realized proceeds, and ownership… ([Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment](../summaries/6084adc38d85.md) · [Anthropic](../entities/anthropic.md)) ⚠
+- **2026-11-20** - A Reuters excerpt indexed by Techmeme describes venture firms’ Anthropic investments and estimated stakes. The source article was inaccessible. Values depend on the valuation and share-count convention at a particular time, and do not establish realizable… ([Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+](../summaries/dde8d6fb29e2.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-11-19** - A Hacker News headline links to Reuters coverage of Anthropic’s trading debut and highlights an intraday valuation. Reuters was inaccessible. A later Techmeme excerpt of the same article reports a $97.17 close after an $111.50 opening trade, rather than a… ([Anthropic hits $2T in Nasdaq debut](../summaries/67ea0c5a00f0.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-11-19** - Anthropic reports two theoretical-physics results obtained with Claude, concerning a phase transition in a model of quantum gravity and a bound from a simplified bootstrapping method. The examined opening explains how holographic duality turns difficult… ([Claude solves two open problems in the physics of black holes](../summaries/3dfc4c6d6922.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-19** - Onlook’s launch post and repository describe a local-first canvas over a running application, with separate worktrees and changes that can become reviewable pull requests. The founder frames multiple live views as a way for designers to explore… ([Launch HN: Onlook (YC W25) – An open-source developer tool for designers](../summaries/43bd8521ab87.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))

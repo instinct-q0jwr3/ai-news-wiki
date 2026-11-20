@@ -1,6 +1,6 @@
 # How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-19 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-20 · confidence: high_
 
 `techmeme` `alibaba` `nvidia` `compute-buildout`
 

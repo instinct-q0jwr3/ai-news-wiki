@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-19 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-20 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-20** - A Hacker News listing describes Gemini 4 Neon as leading the Models Engineering Index. The retrieved site contains model names and cost-versus-performance controls but no readable scores or methodology. The ranking, evaluation coverage and reproducibility… ([Gemini 4 Neon is the new #1 on the Models Engineering Index](../summaries/7a84715021d2.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
+- **2026-11-20** - A DeepMind Institute essay maps possible routes beyond human-level AGI, including cheaper and more numerous agents, stronger individual models and coordinated groups. The examined passages explicitly state that efficiency extrapolations are conditional and… ([What Comes After AGI?](../summaries/beb42b931c6f.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-11-19** - TechCrunch reports computer use in Gemini’s Mac application, with a preview of cross-application work and controls to pause, stop and approve actions. The report distinguishes this from the separate Tasks and family-organization offerings.
 
 Initial access… ([Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users](../summaries/c11270c8084c.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

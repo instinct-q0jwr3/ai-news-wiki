@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:57:48+00:00",
+ "generated_at": "2026-11-20T03:58:51+00:00",
  "stories": [
   {
    "id": "67ea0c5a00f0",
@@ -8,148 +8,88 @@
    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
   },
   {
-   "id": "e6b197ad0202",
-   "title": "Fuck Your AI Safeguards",
+   "id": "7a84715021d2",
+   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
    "source": "Hacker News",
-   "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
+   "url": "https://git-aarvin.github.io/mei/"
   },
   {
-   "id": "3dfc4c6d6922",
-   "title": "Claude solves two open problems in the physics of black holes",
+   "id": "951c8cf16a4e",
+   "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+   "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
   },
   {
-   "id": "7c6e0e378967",
-   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "id": "be1ed1dbc74d",
+   "title": "An FBI agent called a Claude user about his chats",
    "source": "Hacker News",
-   "url": "https://thedataexchange.media/pete-warden-moonshine/"
+   "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police"
   },
   {
-   "id": "b9145b5f0df8",
-   "title": "Chrome AI features wasting much bandwidth",
+   "id": "beb42b931c6f",
+   "title": "What Comes After AGI?",
    "source": "Hacker News",
-   "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
+   "url": "https://institute.deepmind.com/essays/what-comes-after-agi/"
   },
   {
-   "id": "59f923214a4a",
-   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+   "id": "fd2cac56fd03",
+   "title": "ChatGPT for SNES",
    "source": "Hacker News",
-   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
+   "url": "https://www.bxfoundry.com/chatgpt_snes/"
   },
   {
-   "id": "43bd8521ab87",
-   "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+   "id": "98a3088b1f57",
+   "title": "Nobody is talking seriously about AI demand",
    "source": "Hacker News",
-   "url": "https://github.com/onlook-dev/onlook/"
+   "url": "https://twitter.com/giovannicatt3/status/2094815425972539565"
   },
   {
-   "id": "82d7888e18ff",
-   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
+   "id": "35f5fd629ae4",
+   "title": "Token fraud is here and it’s BAD",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
   },
   {
-   "id": "9d5ef95c5d71",
-   "title": "Show HN: Watch weight-space programming in action with WebGPU",
-   "source": "Hacker News",
-   "url": "https://tabbyml.github.io/weight-space-playground/"
-  },
-  {
-   "id": "caf5eba5f64a",
-   "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-   "source": "Hacker News",
-   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/"
-  },
-  {
-   "id": "8785cd22c077",
-   "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-   "source": "Hacker News",
-   "url": "https://www.tisonkun.io/posts/ai-repair-program/"
-  },
-  {
-   "id": "3957e098eabf",
-   "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
-   "source": "Hacker News",
-   "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html"
-  },
-  {
-   "id": "e63430832ec4",
-   "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\"",
+   "id": "541243ef6e75",
+   "title": "Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+   "url": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million"
   },
   {
-   "id": "84484020aa81",
-   "title": "Ask HN: Where do you see Software in 5 years?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50565484"
-  },
-  {
-   "id": "f0cb8026ed28",
-   "title": "Dustin Moskovitz, one of Anthropic's earliest investors, says he \"invested in Anthropic to promote safety, not racing\" and frontier AI labs \"should slow down\"",
+   "id": "1b575b62f37a",
+   "title": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
   },
   {
-   "id": "26f066e04764",
-   "title": "Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months",
+   "id": "6084adc38d85",
+   "title": "Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business"
+   "url": "https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo/"
   },
   {
-   "id": "945a7e290889",
-   "title": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents",
+   "id": "987fc8875cbb",
+   "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/linear-scaling/"
+  },
+  {
+   "id": "dde8d6fb29e2",
+   "title": "Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
+   "url": "https://www.reuters.com/legal/transactional/anthropics-15-trillion-debut-rewrites-venture-capitals-playbook-2026-11-19/"
   },
   {
-   "id": "4489e177bad9",
-   "title": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025",
+   "id": "70e71aeea194",
+   "title": "the White House named DOD Chief Information Officer Kirsten A. Davies as its national cyber director, replacing Sean Cairncross who is stepping down",
    "source": "Techmeme",
-   "url": "https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/"
+   "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving"
   },
   {
-   "id": "ba14e69f5e85",
-   "title": "Anthropic opens at $111.50 per share in record IPO: Live updates",
+   "id": "8bc253d1a3c3",
+   "title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
-  },
-  {
-   "id": "c11270c8084c",
-   "title": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users",
-   "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-  },
-  {
-   "id": "03bf5b9e2789",
-   "title": "Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics"
-  },
-  {
-   "id": "b75ac995e1fa",
-   "title": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI",
-   "source": "Techmeme",
-   "url": "https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829"
-  },
-  {
-   "id": "b68150f1db04",
-   "title": "Grand Theft Auto 6",
-   "source": "Daring Fireball",
-   "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&utm_medium=gift-link"
-  },
-  {
-   "id": "ca2f718efe6e",
-   "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay",
-   "source": "Techmeme",
-   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-  },
-  {
-   "id": "ebaee0f29830",
-   "title": "Anthropic IPOs, Topping SpaceX for the Largest Ever",
-   "source": "Daring Fireball",
-   "url": "https://www.techmeme.com/261118/p34#a261118p34"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEyNDc2NSwiZXhwIjoxNzk1NzI5NTY1LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.76_dY8UuzU3uFF5ExyvuszXnM3mdj2w3dulsez1QvhY"
   }
  ]
 }

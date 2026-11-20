@@ -1,6 +1,6 @@
 # Anthropic's Amended S1 Filing Shows Slowing Q3 Growth
 
-_type: news-summary · created: 2026-11-02 · updated: 2026-11-19 · confidence: high_
+_type: news-summary · created: 2026-11-02 · updated: 2026-11-20 · confidence: high_
 
 `hacker-news` `anthropic`
 

@@ -2754,7 +2754,7 @@
     "minutes": 11,
     "source": "quebec.yarn.so",
     "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
-    "why": "A forced-alignment design separates rough timing, local boundary refinement and real editing errors, with vendor-run English benchmarks."
+    "why": "The source reports 77% of word edges within 20 ms, versus the feed headline’s 75%. Its English-only design connects alignment error to actual editing cuts."
    },
    {
     "cat": "ok",
@@ -2794,7 +2794,7 @@
    }
   ],
   "reserve": "e5ac0c0ab894",
-  "status": "provisional",
+  "status": "final",
   "thin": 6,
   "total": 86,
   "unreadable": 12

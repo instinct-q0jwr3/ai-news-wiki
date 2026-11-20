@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-19 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-20 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,10 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-20** - A short project page presents a ChatGPT-themed SNES experience with controller-style input and downloadable console files. It states hardware-support requirements but supplies little readable information about the underlying model or whether responses come… ([ChatGPT for SNES](../summaries/fd2cac56fd03.md) · [OpenAI](../entities/openai.md))
+- **2026-11-20** - Simon Willison summarizes Claire Vo’s account of repeated free-trial abuse at ChatPRD, including alleged resale or diversion of model usage to unrelated businesses. The post says the service is winding down trials in response.
+
+This is a link post… ([Token fraud is here and it’s BAD](../summaries/35f5fd629ae4.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-19** - Onlook’s launch post and repository describe a local-first canvas over a running application, with separate worktrees and changes that can become reviewable pull requests. The founder frames multiple live views as a way for designers to explore… ([Launch HN: Onlook (YC W25) – An open-source developer tool for designers](../summaries/43bd8521ab87.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-19** - A MoQ advocate argues that voice-agent transport has different timing needs from human conferencing. The examined passages criticize discarding late speech packets and propose recovering audio before an agent needs the complete utterance, while using… ([OpenAI still has a WebRTC Problem](../summaries/cb036fa8c3d3.md) · [OpenAI](../entities/openai.md))
 - **2026-11-19** - Epoch AI estimates growth in Anthropic and OpenAI compute spending using disclosures and media reports, converting mixed reporting periods into annualized rates. The analysis distinguishes the richer Anthropic filing data from sparse OpenAI observations… ([Anthropic's compute spending is increasing by 4x per year, outpacing OpenAI's 3x](../summaries/e5ac0c0ab894.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

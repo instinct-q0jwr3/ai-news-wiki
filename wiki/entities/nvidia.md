@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-19 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-20 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-20** - An Information excerpt indexed by Techmeme reports advanced acquisition talks involving Nvidia and Inception. The primary article was inaccessible. A reported negotiating price and earnouts do not establish a signed agreement, final consideration or… ([Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation](../summaries/541243ef6e75.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-19** - Daring Fireball’s feed commentary uses Anthropic’s offering to argue that frontier-model advantages may be temporary and criticizes company leadership. The linked aggregation page was inaccessible. These are editorial judgments, not evidence that a durable… ([Anthropic IPOs, Topping SpaceX for the Largest Ever](../summaries/ebaee0f29830.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) ⚠
 - **2026-11-19** - Gadget Review separates a criminal export-control case from civil allegations and a short-seller report that proposes a connection involving a former executive. It also includes a company denial of the alleged role and says the photo-based identity link is… ([Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal](../summaries/205bebd6a107.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-19** - A Reuters excerpt indexed by Techmeme describes a congressional commission’s assessment of Chinese military demand for advanced chips. The full article and report were inaccessible. The assessment remains attributed; evidence, responses and the scope of… ([A US congressional commission report says China's PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals](../summaries/676f22984d15.md) · [NVIDIA](../entities/nvidia.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) ⚠

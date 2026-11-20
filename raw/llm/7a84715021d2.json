@@ -1,0 +1,13 @@
+{
+  "id": "7a84715021d2",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Hacker News listing describes Gemini 4 Neon as leading the Models Engineering Index. The retrieved site contains model names and cost-versus-performance controls but no readable scores or methodology. The ranking, evaluation coverage and reproducibility could not be checked from that interface fragment.",
+  "highlights": [
+    "Listing makes an index-specific claim",
+    "Extraction contains mostly interface labels",
+    "No numerical ranking was readable",
+    "Methodology was not examined",
+    "No universal model-quality ranking follows"
+  ]
+}

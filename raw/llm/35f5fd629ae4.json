@@ -1,0 +1,14 @@
+{
+  "id": "35f5fd629ae4",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Simon Willison summarizes Claire Vo’s account of repeated free-trial abuse at ChatPRD, including alleged resale or diversion of model usage to unrelated businesses. The post says the service is winding down trials in response.\n\nThis is a link post recounting a product operator’s experience, not a comprehensive fraud study or independent audit. The proposed use of characteristic image prompts to identify underlying models is explicitly speculative. It illustrates how an agent’s open-ended capability can complicate the economics of a trial.",
+  "highlights": [
+    "Account concerns a particular product",
+    "Free-trial cycling is the alleged mechanism",
+    "Unrelated use can create real token costs",
+    "Model-identification explanation is speculation",
+    "Original video was not independently verified",
+    "No industry-wide loss estimate is supplied"
+  ]
+}

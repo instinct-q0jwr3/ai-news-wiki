@@ -1,0 +1,13 @@
+{
+  "id": "98a3088b1f57",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Hacker News headline links to a post about AI demand. The extraction contains account metadata but not the post’s argument. Demand measurements, assumptions and conclusions could not be checked, and view counts do not supply the missing economic evidence.",
+  "highlights": [
+    "Only metadata was readable",
+    "Underlying argument is unavailable",
+    "No demand series was inspected",
+    "Engagement does not validate an economic claim",
+    "No forecast is inferred"
+  ]
+}

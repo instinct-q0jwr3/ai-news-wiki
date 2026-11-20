@@ -1,6 +1,6 @@
 # Amazon and Google will together own nearly 30% of Anthropic after its IPO
 
-_type: news-summary · created: 2026-11-18 · updated: 2026-11-19 · confidence: high_
+_type: news-summary · created: 2026-11-18 · updated: 2026-11-20 · confidence: high_
 
 `hacker-news` `anthropic` `google` `amazon`
 

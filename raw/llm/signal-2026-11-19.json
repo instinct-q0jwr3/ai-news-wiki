@@ -1,14 +1,14 @@
 {
   "id": "signal-2026-11-19",
   "date": "2026-11-19",
-  "status": "provisional",
+  "status": "final",
   "reserve": "e5ac0c0ab894",
   "picks": [
     {
       "id": "3bf4035ac30a",
       "front": "Speech",
       "source": "quebec.yarn.so",
-      "why": "A forced-alignment design separates rough timing, local boundary refinement and real editing errors, with vendor-run English benchmarks."
+      "why": "The source reports 77% of word edges within 20 ms, versus the feed headline’s 75%. Its English-only design connects alignment error to actual editing cuts."
     },
     {
       "id": "0085318bf23d",
