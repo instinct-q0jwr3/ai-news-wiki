@@ -1,0 +1,13 @@
+{
+  "id": "2abe949fc5a7",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Reuters excerpt indexed by Techmeme reports planned screenshot restrictions in Signal to reduce AI-agent access to private conversations. The excerpt explicitly says the protections are incomplete; the full article was inaccessible.\n\nA screenshot control should not be treated as a guarantee that no agent can access message content through any route. Platform coverage, exceptions and rollout details were not checked, and no user privacy settings were changed.",
+  "highlights": [
+    "Evidence is an indexed report excerpt",
+    "Protection is explicitly described as incomplete",
+    "Screenshot capture is only one access route",
+    "Platform details were unavailable",
+    "No privacy setting was changed"
+  ]
+}

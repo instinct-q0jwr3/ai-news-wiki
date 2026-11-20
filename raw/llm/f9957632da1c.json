@@ -1,0 +1,14 @@
+{
+  "id": "f9957632da1c",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Architect Labs describes Frostbite, an interaction-net CPU design developed by iterating software, instruction sets and hardware together. It reports a 4.59-fold performance-per-watt gain across 25 workloads against an undisclosed dual-issue in-order core, with smaller gains on held-out tasks.\n\nThe results use pre-silicon power estimates and a particular area-matched comparison, not measured production chips or a win over every modern CPU. The post describes formal contracts and recalibration after early power estimates diverged sharply. Wider industry benchmarks and larger out-of-order comparisons are future work.",
+  "highlights": [
+    "Interaction nets expose locality and ownership",
+    "Compiler and hardware are co-designed",
+    "Ten search workloads differ from fifteen held-out tasks",
+    "Comparison core identity is undisclosed",
+    "Power is estimated before silicon",
+    "Broader benchmarks remain future work"
+  ]
+}

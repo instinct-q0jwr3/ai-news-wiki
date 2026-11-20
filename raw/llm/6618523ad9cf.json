@@ -1,0 +1,14 @@
+{
+  "id": "6618523ad9cf",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Scientific American reports a claimed Claude-assisted proof of the Riemann Hypothesis and its generalized form, citing a statement and a Lean formalization. The article says experts still need to check that the intended theorem is encoded and the proof is correct.\n\nA formalization claim is not independent acceptance. Neither the archives nor assumptions were audited in this pass, and the article’s sweeping language about AI mathematics should be read as framing around a result still awaiting scrutiny.",
+  "highlights": [
+    "Reporting concerns a claimed mathematical result",
+    "Author statement and formal files are separate evidence",
+    "Theorem encoding must be checked",
+    "Formal assumptions also matter",
+    "No independent acceptance is established",
+    "No immediate cryptographic outcome is inferred"
+  ]
+}

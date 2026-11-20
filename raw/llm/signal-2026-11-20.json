@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-11-20",
+  "date": "2026-11-20",
+  "status": "provisional",
+  "reserve": "66aa67c82e65",
+  "picks": [
+    {
+      "id": "f9957632da1c",
+      "front": "Hardware",
+      "source": "architectlabs.com",
+      "why": "A concrete CPU co-design account separates held-out workloads and pre-silicon power from the limits of its undisclosed comparison core."
+    },
+    {
+      "id": "3a38b54864fe",
+      "front": "Evaluation",
+      "source": "stripe.dev",
+      "why": "The gap between average criteria and strict success exposes nearly correct integrations, with judging and timeout limits stated."
+    },
+    {
+      "id": "cba5f2e65db1",
+      "front": "Security",
+      "source": "blog.google",
+      "why": "A synthetic web supports repeatable adversarial tests without confusing test volume with proof that real browsing is safe."
+    },
+    {
+      "id": "a026531f9b6b",
+      "front": "Products",
+      "source": "blog.cloudflare.com",
+      "why": "Typed extraction models come with internal-evaluation caveats and a preview-endpoint change that matters to existing users."
+    },
+    {
+      "id": "eca405337152",
+      "front": "Research",
+      "source": "today.ucsd.edu",
+      "why": "An institutional review announcement keeps a high-profile complexity claim conditional rather than treating announced results as accepted proofs."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "536698282b31",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Vercel introduces Board as an experimental shared message and task store for coordinating agents. The examined sections describe threaded context, claiming work, leases, follow-ups, structured messages and access controls across connected services.\n\nInternal adoption and merged-pull-request claims are company reports, not independent evidence of correct code or safe autonomy. Synchronizing messages can broaden disclosure, so the existence of connectors or permissions features does not itself authorize connecting private accounts. No service was connected here.",
+  "highlights": [
+    "Product is explicitly experimental",
+    "Threads preserve work context",
+    "Claiming and leases coordinate ownership",
+    "Events can trigger follow-up work",
+    "Access controls do not establish user consent",
+    "No connector was enabled"
+  ]
+}

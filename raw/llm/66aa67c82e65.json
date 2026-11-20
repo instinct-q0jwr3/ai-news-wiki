@@ -1,0 +1,14 @@
+{
+  "id": "66aa67c82e65",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Google introduces preview support for loading tool parameter schemas only when needed in the Gemini Interactions API. Names and descriptions can remain visible while larger schemas are deferred; a client-side registry option adds a separate lookup round trip.\n\nThe announcement explains that loaded schemas continue to count as input later in a conversation. There is no separate retrieval fee, but this is not token-free operation or guaranteed savings for every workload. The mechanism selects descriptions, not permission to execute the selected actions.",
+  "highlights": [
+    "Preview concerns deferred parameter schemas",
+    "Names and descriptions still occupy context",
+    "Client retrieval adds a round trip",
+    "Loaded schemas remain billable input",
+    "Savings depend on unused library size",
+    "Tool selection does not grant execution authority"
+  ]
+}

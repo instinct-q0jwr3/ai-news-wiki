@@ -1,0 +1,14 @@
+{
+  "id": "216cf4bf8746",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Google announces background computer use in Gemini’s Mac app, with a live preview, chosen application access and interruption controls. Its main description says users approve key actions rather than establishing that every individual click requires approval.\n\nRollout is described as English-language access in the United States. The announcement is not a reliability audit or proof of access for other regions, and no application permissions were changed in this pass.",
+  "highlights": [
+    "Feature spans local apps files and websites",
+    "Background window preserves foreground work",
+    "User controls include pause and selected access",
+    "Main text refers to key-action approval",
+    "Region and language restrict initial rollout",
+    "No account or device was configured"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cba5f2e65db1",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Google describes a controlled synthetic web for testing browsing agents without changing real accounts. Realistic stateful sites and resettable scenarios aim to reduce evaluation awareness and support repeatable adversarial testing.\n\nThe post explains that special trust configuration works because Google controls the test environment, not because ordinary web attackers can bypass browser protections. Reported test-generation volume is a throughput claim, not an attack-blocking success rate. More realistic testing does not establish universal safety on live websites.",
+  "highlights": [
+    "Synthetic sites isolate real-world effects",
+    "State reset supports reproducibility",
+    "Realism addresses evaluation awareness",
+    "Adversarial cases span multiple content surfaces",
+    "Privileged test setup is not a public exploit",
+    "Test volume differs from protection effectiveness"
+  ]
+}

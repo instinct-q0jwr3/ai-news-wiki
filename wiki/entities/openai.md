@@ -10,6 +10,10 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-20** - UC San Diego describes an independent community review of OpenAI and Anthropic claims concerning the Exponential Time Hypothesis. The announcement names researchers facilitating discussion, a public review forum and planned meetings.
+
+The institution’s… ([Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result](../summaries/eca405337152.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-11-20** - A TLDR AI listing links to an OpenAI account of its Performance Factory. The primary page was inaccessible and the listing supplied no substantive excerpt. Architecture, measured speed improvements and workload limits could not be checked, so no… ([How OpenAI's Performance Factory keeps ChatGPT fast](../summaries/76aff1ac8e49.md) · [OpenAI](../entities/openai.md)) ⚠
 - **2026-11-20** - A short project page presents a ChatGPT-themed SNES experience with controller-style input and downloadable console files. It states hardware-support requirements but supplies little readable information about the underlying model or whether responses come… ([ChatGPT for SNES](../summaries/fd2cac56fd03.md) · [OpenAI](../entities/openai.md))
 - **2026-11-20** - Simon Willison summarizes Claire Vo’s account of repeated free-trial abuse at ChatPRD, including alleged resale or diversion of model usage to unrelated businesses. The post says the service is winding down trials in response.
 

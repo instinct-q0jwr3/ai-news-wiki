@@ -10,6 +10,7 @@ Qwen is Alibaba's family of open-weight large language and image models. This pa
 
 ## Timeline
 
+- **2026-11-20** - A Bloomberg excerpt indexed by Techmeme reports new funding at Pragmatik Labs and a higher private valuation. The primary article was inaccessible. A financing valuation is not revenue, liquid market value or evidence of model quality, and the funding… ([Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August](../summaries/bb3fb5845460.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md)) 🔒
 - **2026-11-19** - A launch post presents a browser walkthrough of weight-space editing for a small Qwen model. The author explicitly says the intended full inspect-edit-evaluate loop exceeded available video memory and was replaced by an interactive example.
 
 The extracted… ([Show HN: Watch weight-space programming in action with WebGPU](../summaries/9d5ef95c5d71.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠

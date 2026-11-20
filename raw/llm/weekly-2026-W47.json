@@ -980,6 +980,83 @@
         "06d0cdb46f58"
       ],
       "concepts": []
+    },
+    {
+      "title": "Proof claims meet independent review",
+      "intro": "An author statement, a formalization report and a separate ETH review announcement are different stages of mathematical scrutiny.",
+      "stories": [
+        "0c48f382a921",
+        "6618523ad9cf",
+        "eca405337152",
+        "49de74c1ac42"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Hardware gains need the right denominator",
+      "intro": "Pre-silicon CPU comparisons and optical-operation energy do not automatically translate into whole-system wins.",
+      "stories": [
+        "f9957632da1c",
+        "132cb9e68de2",
+        "35e8e9a2eddd",
+        "b9a41bba9bec"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Nearly correct is not complete",
+      "intro": "Integration scoring, agent coordination and deferred schemas expose distinct limits behind automation headlines.",
+      "stories": [
+        "3a38b54864fe",
+        "7e336fd7d3be",
+        "536698282b31",
+        "66aa67c82e65"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Isolation must be tested at several layers",
+      "intro": "Synthetic websites, shared inference state and incomplete screenshot controls address different security boundaries.",
+      "stories": [
+        "cba5f2e65db1",
+        "85b8cd249acd",
+        "2abe949fc5a7"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Extraction and computer use change product boundaries",
+      "intro": "Specialized models and background app control come with rollout and evaluation limits.",
+      "stories": [
+        "a026531f9b6b",
+        "216cf4bf8746",
+        "9a192188389a",
+        "0b6822f42497",
+        "cd1a46d8f962",
+        "76aff1ac8e49"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Financing totals are not trading outcomes",
+      "intro": "Overallotment exercise, private valuations and intraday share moves must remain separate.",
+      "stories": [
+        "fb4cebfc73cc",
+        "2be753e45cb5",
+        "fc5c4b2c7162",
+        "1dba69797eec",
+        "bb3fb5845460"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Feed inclusion is not a substantive AI claim",
+      "intro": "A cultural review and an inaccessible podcast discussion have different limits from technical reporting.",
+      "stories": [
+        "f127e25cab2c",
+        "ece0b4804330"
+      ],
+      "concepts": []
     }
   ],
   "week": "2026-W47"

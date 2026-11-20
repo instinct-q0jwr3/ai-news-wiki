@@ -1,0 +1,14 @@
+{
+  "id": "a026531f9b6b",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Cloudflare releases two open-weight Clairic extraction models with a typed interface for fields, confidence and source spans. It describes a move from a single pass to parallel autoregressive field generation and a tradeoff between latency and accuracy.\n\nThe company explicitly labels its comparisons as self-reported internal evaluations, including synthetic receipts and customer-shaped cases. Perfect scores on those sets do not establish error-free extraction in general. A temporary price promotion and a change in which model occupies the existing endpoint also mean the old preview name is not a stable capability or price guarantee.",
+  "highlights": [
+    "Models target structured extraction",
+    "Field generation is parallel but autoregressive",
+    "Typed outputs include confidence and spans",
+    "Benchmarks are internal and directional",
+    "Preview endpoint changes its underlying model",
+    "Temporary price differs from later standard pricing"
+  ]
+}

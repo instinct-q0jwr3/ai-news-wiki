@@ -1,0 +1,14 @@
+{
+  "id": "7e336fd7d3be",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Replit examines when multiple agents improve performance-optimization work and when coordination makes them worse. The examined sections contrast models and workload structure, with independent optimization opportunities favoring larger teams more than tightly shared code.\n\nEqual wall-clock time is not equal total compute when each worker receives its own resources. The benchmark requires output preservation and restricts shortcuts, but its selected libraries and models do not establish that adding agents improves all coding work. This summary covers the examined introduction and methodology rather than every later result.",
+  "highlights": [
+    "Team benefit varies across models",
+    "Task independence affects coordination cost",
+    "Each additional worker receives resources",
+    "Fixed time does not imply fixed total cost",
+    "Correctness contracts restrict optimization shortcuts",
+    "No general more-agents-is-better rule follows"
+  ]
+}

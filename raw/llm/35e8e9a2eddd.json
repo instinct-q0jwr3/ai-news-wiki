@@ -1,0 +1,13 @@
+{
+  "id": "35e8e9a2eddd",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "The FastFrames project page shows a video-generation prompt and latency labels for several model and GPU configurations. The extracted text provides little methodology beyond those displayed times.\n\nGeneration latency is not automatically time to a complete finished video, and an eight-GPU figure is not directly a one-GPU efficiency comparison. Quality, resolution, duration and hardware conditions were not checked, so the page does not establish a universal real-time generation ranking.",
+  "highlights": [
+    "Evidence is a sparse demo page",
+    "Latency varies with model and GPU count",
+    "Metric definition is not fully readable",
+    "Quality and duration were not assessed",
+    "No end-to-end ranking was reproduced"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0c48f382a921",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A statement hosted on alpo.ge claims a Claude-assisted proof of the Riemann Hypothesis and its generalized form, with formalization distributed separately in multiple archives. The PDF was retrieved and read as text after the normal article fetch failed.\n\nThe statement is a claim and an account of the work, not an independently checked proof. The formalization archives were not downloaded or compiled, and neither the theorem encoded nor its assumptions were audited. Independent expert review remains separate from an author’s statement that formalization is complete.",
+  "highlights": [
+    "Primary statement claims a generalized result",
+    "PDF retrieval succeeded outside article extraction",
+    "Separate formalization archives are linked",
+    "Archives were not executed or checked",
+    "Encoding and assumptions were not audited",
+    "No accepted proof is established here"
+  ]
+}

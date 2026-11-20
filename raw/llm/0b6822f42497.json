@@ -1,0 +1,13 @@
+{
+  "id": "0b6822f42497",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A short IEEE Spectrum excerpt says Unreal Canvas introduces ways to use agents while developing assets in Unreal Engine. The retrieval stops after the introduction. Integration details, access, licensing and the actual scope of generated code or assets could not be checked from that fragment.",
+  "highlights": [
+    "Only the introduction was readable",
+    "Feature is described in an engine-release context",
+    "Full technical account was unavailable",
+    "No access or licensing terms were checked",
+    "Capability was not tested"
+  ]
+}

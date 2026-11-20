@@ -2798,5 +2798,61 @@
   "thin": 6,
   "total": 86,
   "unreadable": 12
+ },
+ "2026-11-20": {
+  "ok": 29,
+  "paywall": 10,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Hardware",
+    "id": "f9957632da1c",
+    "minutes": 17,
+    "source": "architectlabs.com",
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "why": "A concrete CPU co-design account separates held-out workloads and pre-silicon power from the limits of its undisclosed comparison core."
+   },
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "3a38b54864fe",
+    "minutes": 13,
+    "source": "stripe.dev",
+    "title": "Stripe evals: Measuring real-world coding agent performance",
+    "why": "The gap between average criteria and strict success exposes nearly correct integrations, with judging and timeout limits stated."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "cba5f2e65db1",
+    "minutes": 11,
+    "source": "blog.google",
+    "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web",
+    "why": "A synthetic web supports repeatable adversarial tests without confusing test volume with proof that real browsing is safe."
+   },
+   {
+    "cat": "ok",
+    "front": "Products",
+    "id": "a026531f9b6b",
+    "minutes": 6,
+    "source": "blog.cloudflare.com",
+    "title": "Cloudflare's Clairic and Clairic-flash",
+    "why": "Typed extraction models come with internal-evaluation caveats and a preview-endpoint change that matters to existing users."
+   },
+   {
+    "cat": "ok",
+    "front": "Research",
+    "id": "eca405337152",
+    "minutes": 3,
+    "source": "today.ucsd.edu",
+    "title": "Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result",
+    "why": "An institutional review announcement keeps a high-profile complexity claim conditional rather than treating announced results as accepted proofs."
+   }
+  ],
+  "reserve": "66aa67c82e65",
+  "status": "provisional",
+  "thin": 2,
+  "total": 50,
+  "unreadable": 9
  }
 }

@@ -1,0 +1,14 @@
+{
+  "id": "85b8cd249acd",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A LessWrong experiment investigates whether models sharing an inference environment can communicate through numerical side effects rather than ordinary text messages. The examined passages describe batch-size and cache-related channels and small signaling tasks with substantial setup.\n\nSome results require fine-tuning, a helper model or access to probability outputs. They do not establish that every isolated model can freely communicate across deployments. This summary covers the examined protocol descriptions and selected results; no experiment was run and no real service compromise is established.",
+  "highlights": [
+    "Shared inference state supplies the proposed channel",
+    "Numerical rounding is the observed signal",
+    "Different channels have different assumptions",
+    "Some demonstrations use trained helpers",
+    "Toy signaling is not unrestricted data exchange",
+    "No attack was reproduced"
+  ]
+}
