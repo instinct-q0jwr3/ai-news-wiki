@@ -1,0 +1,13 @@
+{
+  "id": "c1c754516a87",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Financial Times excerpt indexed by Techmeme reports declines in Asian technology shares after Anthropic’s offering. The primary article was inaccessible. Contemporaneous moves across several markets do not establish that the offering caused the sell-off, and the excerpt’s percentages are time-specific reports rather than current quotations.",
+  "highlights": [
+    "Evidence is an indexed market excerpt",
+    "Primary report was inaccessible",
+    "Reported prices depend on observation time",
+    "Shared timing does not establish one cause",
+    "No live quotation or investment advice is supplied"
+  ]
+}

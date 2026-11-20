@@ -1,95 +1,53 @@
 {
- "generated_at": "2026-11-20T03:58:51+00:00",
+ "generated_at": "2026-11-20T09:59:25+00:00",
  "stories": [
   {
-   "id": "67ea0c5a00f0",
-   "title": "Anthropic hits $2T in Nasdaq debut",
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
-  },
-  {
-   "id": "7a84715021d2",
-   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-   "source": "Hacker News",
-   "url": "https://git-aarvin.github.io/mei/"
-  },
-  {
-   "id": "951c8cf16a4e",
-   "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-   "source": "Hacker News",
-   "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
-  },
-  {
-   "id": "be1ed1dbc74d",
-   "title": "An FBI agent called a Claude user about his chats",
-   "source": "Hacker News",
-   "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police"
-  },
-  {
-   "id": "beb42b931c6f",
-   "title": "What Comes After AGI?",
-   "source": "Hacker News",
-   "url": "https://institute.deepmind.com/essays/what-comes-after-agi/"
-  },
-  {
-   "id": "fd2cac56fd03",
-   "title": "ChatGPT for SNES",
-   "source": "Hacker News",
-   "url": "https://www.bxfoundry.com/chatgpt_snes/"
-  },
-  {
-   "id": "98a3088b1f57",
-   "title": "Nobody is talking seriously about AI demand",
-   "source": "Hacker News",
-   "url": "https://twitter.com/giovannicatt3/status/2094815425972539565"
-  },
-  {
-   "id": "35f5fd629ae4",
-   "title": "Token fraud is here and it’s BAD",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
-  },
-  {
-   "id": "541243ef6e75",
-   "title": "Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation",
+   "id": "c1c754516a87",
+   "title": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+",
    "source": "Techmeme",
-   "url": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million"
+   "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b"
   },
   {
-   "id": "1b575b62f37a",
-   "title": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list",
+   "id": "a8aa94b5375b",
+   "title": "Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus"
   },
   {
-   "id": "6084adc38d85",
-   "title": "Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment",
-   "source": "Techmeme",
-   "url": "https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo/"
-  },
-  {
-   "id": "987fc8875cbb",
-   "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+   "id": "9d31b418bde0",
+   "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
    "source": "Latent.Space",
-   "url": "https://latent.space/p/linear-scaling/"
+   "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/"
   },
   {
-   "id": "dde8d6fb29e2",
-   "title": "Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+",
+   "id": "0303cdc9c071",
+   "title": "An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/legal/transactional/anthropics-15-trillion-debut-rewrites-venture-capitals-playbook-2026-11-19/"
+   "url": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/"
   },
   {
-   "id": "70e71aeea194",
-   "title": "the White House named DOD Chief Information Officer Kirsten A. Davies as its national cyber director, replacing Sean Cairncross who is stepping down",
+   "id": "391840735bd6",
+   "title": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving"
+   "url": "https://www.seroundtable.com/"
   },
   {
-   "id": "8bc253d1a3c3",
-   "title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users",
+   "id": "06d0cdb46f58",
+   "title": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEyNDc2NSwiZXhwIjoxNzk1NzI5NTY1LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.76_dY8UuzU3uFF5ExyvuszXnM3mdj2w3dulsez1QvhY"
+   "url": "https://www.bloomberg.com/"
+  },
+  {
+   "id": "a65946ee4a9e",
+   "title": "Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs"
+  },
+  {
+   "id": "bb5a74594b59",
+   "title": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M",
+   "source": "Techmeme",
+   "url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/"
   }
  ]
 }

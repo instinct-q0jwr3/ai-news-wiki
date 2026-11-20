@@ -18,8 +18,6 @@ The site had faced repeated delays, and Microsoft's exit threatens Nscale's plan
 - Cancellation threatens Nscale's multibillion-dollar listing
 - Basis: Techmeme summary; Telegraph original not retrievable
 
-_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
-
 ## Source
 
 [Read the original story](https://www.telegraph.co.uk/business/2026/10/18/microsoft-axes-ai-deal-setback-uk-data-centre-pioneer/)
