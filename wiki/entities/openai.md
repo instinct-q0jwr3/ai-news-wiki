@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-21** - Scientific American reports that Tristan Buckmaster and Levent Alpöge claim a new AI-aided Navier-Stokes blowup result that addresses a disputed feature of an earlier OpenAI result. The article says the rushed write-up did not yet include the promised… ([NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution](../summaries/4cd9ed1637b6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-21** - A Techmeme excerpt attributes to Oracle a statement that it has secured funding for its OpenAI infrastructure contract and regards further vendor discussions as optional. Fetching the linked Oracle profile returned an unrelated pinned event post, not the… ([Oracle says it has secured funding for its infrastructure contract with OpenAI and "any further private discussions with vendors are just additional options" (@oracle)](../summaries/2ead59ff2766.md) · [OpenAI](../entities/openai.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-20** - UC San Diego describes an independent community review of OpenAI and Anthropic claims concerning the Exponential Time Hypothesis. The announcement names researchers facilitating discussion, a public review forum and planned meetings.
 

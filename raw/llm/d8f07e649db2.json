@@ -1,0 +1,13 @@
+{
+  "id": "d8f07e649db2",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Meta Muse Spark model page yielded a short, flattened benchmark table. Column and row relationships were not reliably preserved, so individual figures could not safely be assigned to tasks or compared across models.\n\nA model version named in the listing does not establish availability, release terms or a verified performance gain. The thin extraction supports identifying the page, not reconstructing a leaderboard from detached numbers.",
+  "highlights": [
+    "Extraction contains a flattened table",
+    "Metric labels are incompletely aligned",
+    "Scores cannot safely be mapped to tasks",
+    "No release access was verified",
+    "No benchmark ranking is inferred"
+  ]
+}

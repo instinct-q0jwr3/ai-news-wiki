@@ -1,0 +1,15 @@
+{
+  "id": "d4b09ea86246",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "ClawDOS is a hobby coding-agent harness designed for an IBM PC XT running DOS. The project describes local file tools, compiler handoff, persistent conversations and screenshot capture, while using a separate modern machine for TLS and a remote model API for inference.\n\nRunning the harness on an 8088 does not mean the language model runs there. The page distinguishes emulator screenshots from a filmed real-machine demo and reports default confirmation prompts for changes, but neither those controls nor the claimed tests were independently audited. No setup commands, key handling or software installation were performed.",
+  "highlights": [
+    "DOS machine runs the harness rather than model weights",
+    "Separate bridge handles encrypted transport",
+    "Compiler can run while harness leaves memory",
+    "Emulated captures differ from filmed hardware demonstration",
+    "Safe mode is a project-described control",
+    "API usage still depends on a remote service",
+    "No code or configuration was executed"
+  ]
+}

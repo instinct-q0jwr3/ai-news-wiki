@@ -1,11 +1,17 @@
 {
- "generated_at": "2026-11-21T04:02:00+00:00",
+ "generated_at": "2026-11-21T10:02:52+00:00",
  "stories": [
   {
-   "id": "6e4e4b581c23",
-   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "id": "fc5c4b2c7162",
+   "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
    "source": "Hacker News",
-   "url": "https://signal.org/blog/protecting-your-privacy/"
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+  },
+  {
+   "id": "65b16025b534",
+   "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+   "source": "Hacker News",
+   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
   },
   {
    "id": "eb9369c30c0f",
@@ -14,40 +20,40 @@
    "url": "https://news.ycombinator.com/item?id=50583761"
   },
   {
-   "id": "47d0a70f0fcc",
-   "title": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor's Composer 2 was built on Kimi K2.5",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
+   "id": "d4b09ea86246",
+   "title": "ClawDOS – An AI coding agent for DOS",
+   "source": "Hacker News",
+   "url": "http://ricapar.net/ClawDOS/"
   },
   {
-   "id": "3875fe11cced",
-   "title": "Artificial Analysis says Inkling 2 Mini, with 5.4B active parameters, matches Qwen3.8 27B (xhigh) on its Intelligence Index with ~5x fewer active parameters",
-   "source": "Techmeme",
-   "url": "https://artificialanalysis.ai/articles/inkling-2-mini"
+   "id": "5fd03ac15257",
+   "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
+   "source": "Hacker News",
+   "url": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393"
   },
   {
-   "id": "f598051ed0ef",
-   "title": "The Talk Show: ‘A Whoopsie Treason’",
-   "source": "Daring Fireball",
-   "url": "https://daringfireball.net/thetalkshow/2026/11/20/ep-457"
+   "id": "d8f07e649db2",
+   "title": "Muse Spark 1.3",
+   "source": "Hacker News",
+   "url": "https://dev.meta.ai/models/muse-spark"
   },
   {
-   "id": "3d3e6d267a8e",
-   "title": "Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August",
+   "id": "002a881a23cd",
+   "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\"",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?st=f6tFmc&reflink=desktopwebshare_permalink"
+   "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation"
   },
   {
-   "id": "2ead59ff2766",
-   "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
+   "id": "4cd9ed1637b6",
+   "title": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution",
    "source": "Techmeme",
-   "url": "https://x.com/oracle"
+   "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
   },
   {
-   "id": "80bea6ded163",
-   "title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom",
+   "id": "b146db6c4570",
+   "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&sharetype=gift&token=c6d010aa-7792-4679-9ca7-57a6e433dc70"
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls"
   }
  ]
 }

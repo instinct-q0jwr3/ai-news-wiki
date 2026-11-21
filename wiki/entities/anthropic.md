@@ -10,6 +10,8 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-21** - A Hacker News listing links to an Associated Press article about Anthropic’s offering, safety and shareholder pressure. The primary article was inaccessible and the feed provided no substantive excerpt. Its account of governance, investor obligations and… ([Anthropic's IPO raises questions about AI safety and shareholder pressure](../summaries/5fd03ac15257.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
+- **2026-11-21** - Scientific American reports that Tristan Buckmaster and Levent Alpöge claim a new AI-aided Navier-Stokes blowup result that addresses a disputed feature of an earlier OpenAI result. The article says the rushed write-up did not yet include the promised… ([NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution](../summaries/4cd9ed1637b6.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-21** - A Techmeme excerpt of Financial Times reporting describes a sharp Friday fall in the Nasdaq 100 and a larger weekly decline amid AI-investment concerns. The primary article was inaccessible.
 
 The Nasdaq 100 is not the Nasdaq Composite, and a weekly… ([Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom](../summaries/80bea6ded163.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) 🔒
