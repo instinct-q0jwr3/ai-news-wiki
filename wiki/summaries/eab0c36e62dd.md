@@ -1,6 +1,6 @@
 # Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.
 
-_type: news-summary · created: 2026-11-17 · updated: 2026-11-20 · confidence: high_
+_type: news-summary · created: 2026-11-17 · updated: 2026-11-21 · confidence: high_
 
 `marcus-on-ai` `compute-buildout`
 

@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-21 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-21** - A Hacker News participant describes a prolonged software-engineering job search, financial pressure and possible work outside the field. The examined opening discussion offers personal accounts of referrals, recruiting filters, consulting and adjacent… ([I have been unemployed for 2y.15YOE,US.What to do?](../summaries/eb9369c30c0f.md) · [Amazon](../entities/amazon.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-20** - The OpenComputer repository describes a self-hostable coding agent that accepts Slack tasks, runs isolated sessions and returns pull requests. Its architecture combines a VM gateway, rootless containers and persistence across local storage and a git-backed… ([Show HN: OpenComputer – an open source alternative to Devin](../summaries/0f03f03a17e0.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-20** - Cory Doctorow’s Pluralistic post reviews Lisa Hanawalt’s graphic memoir through its treatment of relationships, horses and bodily experience. The examined opening is a cultural review rather than an AI technology report.
 

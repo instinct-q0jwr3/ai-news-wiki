@@ -1,6 +1,6 @@
 # Concept: AI, jobs and displacement
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-20 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-21 · confidence: medium_
 
 `concept` `labor-displacement`
 
@@ -22,6 +22,7 @@ Claims and evidence about AI's effect on employment: layoffs attributed to AI, t
 
 ## Timeline
 
+- **2026-11-21** - A Hacker News participant describes a prolonged software-engineering job search, financial pressure and possible work outside the field. The examined opening discussion offers personal accounts of referrals, recruiting filters, consulting and adjacent… ([I have been unemployed for 2y.15YOE,US.What to do?](../summaries/eb9369c30c0f.md) · [Amazon](../entities/amazon.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-20** - Mother Jones reports an Alphabet Workers Union petition opposing a policy that would remove Search access from schools disabling Gemini tools. Employees argue that educators should choose how to use AI and that coercive bundling could drive schools away… ([Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI](../summaries/91013106faaa.md) · [Google](../entities/google.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-20** - A Bloomberg excerpt indexed by Techmeme describes an analysis of Chinese job advertisements and a relative decline in listings for occupations classified as more AI-exposed. The full analysis was inaccessible. Advertisement counts are not employment… ([An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions](../summaries/0303cdc9c071.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-19** - An Ask HN thread begins with a software engineer’s anxiety about future demand despite reporting higher personal output from AI. Replies offer competing stories about specialization, consulting and self-built software.
@@ -59,6 +60,3 @@ This measures one community’s job… (["Who is Hiring?" postings stuck near 12
 - **2026-11-09** - Financial Times writer Pilita Clark reports that as firms replace people with AI agents, setting managers' grade and pay gets harder, since both usually depend on headcount managed. ([As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage](../summaries/88a3bdeb6a3a.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-09** - The Wall Street Journal reports, per Techmeme, that US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting and legal roles grew. Basis: paywalled; only the headline is known. ([US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears](../summaries/25b82f76032b.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒
 - **2026-11-07** - Cory Doctorow's Pluralistic post covers 'Against Tech Oligarchy' by JS Tan and Clarissa Redwine, veterans of several tech-worker unionization drives that started well and then met fierce resistance in the second Trump term. He calls the book a superb… ([Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)](../summaries/0c8d175a5079.md) · [Google](../entities/google.md) · [Microsoft](../entities/microsoft.md) · [Meta](../entities/meta.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
-- **2026-11-07** - Rajesh Nambiar, president of India's Nasscom, told Nikkei Asia that recent college graduates could struggle to land technology jobs as companies automate entry-level coding and software testing with AI.
-
-He says India's tech education needs a rapid… ([Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curriculum overhaul](../summaries/a611267a94f9.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))

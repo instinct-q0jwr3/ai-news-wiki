@@ -1,0 +1,46 @@
+{
+  "id": "digest-2026-11-21",
+  "schema": 3,
+  "model": "agent-pass",
+  "lead": [
+    "The opening coverage separates device-level privacy controls, model-efficiency accounting and financing assertions. In each case, the useful question is which boundary the source can actually establish."
+  ],
+  "sections": [
+    {
+      "title": "Privacy boundaries depend on the platform",
+      "intro": "Signal’s own announcement explains why screenshot controls do not cover every route to decrypted application data.",
+      "stories": [
+        "6e4e4b581c23"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Cost proxies and proposed migrations need precise labels",
+      "intro": "Independent model comparisons and reported geopolitical plans describe different kinds of evidence.",
+      "stories": [
+        "3875fe11cced",
+        "47d0a70f0fcc"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A funding claim is not a financing audit",
+      "intro": "An unrelated profile post, early fundraising talks and an inaccessible market report each limit what can be checked.",
+      "stories": [
+        "2ead59ff2766",
+        "3d3e6d267a8e",
+        "80bea6ded163"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Personal accounts and episode lists have narrower scope",
+      "intro": "A discussion of unemployment is not a labor survey, and a podcast topic list is not its argument.",
+      "stories": [
+        "eb9369c30c0f",
+        "f598051ed0ef"
+      ],
+      "concepts": []
+    }
+  ]
+}

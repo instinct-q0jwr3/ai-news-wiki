@@ -1,0 +1,14 @@
+{
+  "id": "3875fe11cced",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Artificial Analysis reports Inkling 2 Mini’s task cost, completion time and Intelligence Index position while distinguishing stored parameters from repeated active computation. Its account says the model uses more output tokens than a comparator despite a lower active-parameter-times-token compute proxy.\n\nThat proxy is not measured energy consumption, and a tied index score does not imply identical performance on every task. Reported task prices use the stated provider rates and evaluation settings, rather than establishing the cheapest model for all users. The page’s unique-weight figure also differs from the vendor’s earlier active-parameter wording and should not be silently equated with it.",
+  "highlights": [
+    "Index score aggregates particular evaluations",
+    "Repeated layers affect active-compute accounting",
+    "Output-token count and task price differ",
+    "Compute proxy is not a power-meter reading",
+    "Provider rates and effort affect comparisons",
+    "Parameter terminology differs across sources"
+  ]
+}

@@ -1,6 +1,6 @@
 # Nvidia interim CEO Colette Kress says the company will stay "disciplined and selective" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours
 
-_type: news-summary · created: 2026-11-18 · updated: 2026-11-20 · confidence: high_
+_type: news-summary · created: 2026-11-18 · updated: 2026-11-21 · confidence: high_
 
 `techmeme` `nvidia`
 

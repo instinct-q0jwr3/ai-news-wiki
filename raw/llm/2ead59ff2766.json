@@ -1,0 +1,13 @@
+{
+  "id": "2ead59ff2766",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Techmeme excerpt attributes to Oracle a statement that it has secured funding for its OpenAI infrastructure contract and regards further vendor discussions as optional. Fetching the linked Oracle profile returned an unrelated pinned event post, not the financing statement.\n\nThe claim therefore remains supported only by the indexed excerpt in this pass. It is not independent verification of committed financing, loan terms, cash availability or the status of the underlying construction program.",
+  "highlights": [
+    "Feed attributes a financing claim to Oracle",
+    "Linked profile did not show the cited statement",
+    "Successful fetch is not relevant source verification",
+    "Funding assertion differs from inspected financing documents",
+    "No terms or completion status were checked"
+  ]
+}

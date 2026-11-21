@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-21 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-11-21** - Artificial Analysis reports Inkling 2 Mini’s task cost, completion time and Intelligence Index position while distinguishing stored parameters from repeated active computation. Its account says the model uses more output tokens than a comparator despite a… ([Artificial Analysis says Inkling 2 Mini, with 5.4B active parameters, matches Qwen3.8 27B (xhigh) on its Intelligence Index with ~5x fewer active parameters](../summaries/3875fe11cced.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-20** - A Bloomberg excerpt indexed by Techmeme reports new funding at Pragmatik Labs and a higher private valuation. The primary article was inaccessible. A financing valuation is not revenue, liquid market value or evidence of model quality, and the funding… ([Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August](../summaries/bb3fb5845460.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md)) 🔒
 - **2026-11-19** - A launch post presents a browser walkthrough of weight-space editing for a small Qwen model. The author explicitly says the intended full inspect-edit-evaluate loop exceeded available video memory and was replaced by an interactive example.
 

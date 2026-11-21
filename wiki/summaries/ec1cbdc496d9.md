@@ -1,6 +1,6 @@
 # Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-20 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-21 · confidence: high_
 
 `techmeme` `google` `gemini` `labor-displacement`
 

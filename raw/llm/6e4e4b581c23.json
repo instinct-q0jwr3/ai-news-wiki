@@ -1,0 +1,15 @@
+{
+  "id": "6e4e4b581c23",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Signal announces screenshot-related protections against operating-system AI capture on iOS 27 and supported Android environments, while explaining why these measures cannot cover every access route. It describes automatically enabling Android Screen security when assistant screen access is detected and acknowledges uneven device support.\n\nThe post explicitly says filesystem access remains outside this remedy and that macOS screenshot protection is not available in the same way. Its recommended exclusions and its call for better platform controls are the publisher’s guidance, not settings changed here. Encryption in transit does not itself prevent an authorized operating system from observing decrypted content on a device.",
+  "highlights": [
+    "Primary announcement details platform differences",
+    "Android detection cannot cover every vendor",
+    "Users can disable screenshot protection",
+    "Filesystem access remains a separate risk",
+    "macOS limitations are explicitly acknowledged",
+    "Platform-control requests are advocacy",
+    "No device or account settings were changed"
+  ]
+}

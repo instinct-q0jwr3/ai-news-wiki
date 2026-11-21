@@ -1,6 +1,6 @@
 # Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web
 
-_type: news-summary · created: 2026-11-20 · updated: 2026-11-20 · confidence: high_
+_type: news-summary · created: 2026-11-20 · updated: 2026-11-21 · confidence: high_
 
 `tldr-ai` `agentic-systems` `external-evaluation`
 

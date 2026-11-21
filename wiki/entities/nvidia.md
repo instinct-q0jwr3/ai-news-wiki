@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-20 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-21 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,12 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-21** - The Talk Show episode page lists a discussion of Nvidia leadership, Apple devices and entertainment news with Christina Warren. The retrieved text is a short episode description, not a transcript.
+
+No substantive argument about AI, Nvidia or a product can… ([The Talk Show: ‘A Whoopsie Treason’](../summaries/f598051ed0ef.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
+- **2026-11-21** - A Techmeme excerpt of Financial Times reporting describes a sharp Friday fall in the Nasdaq 100 and a larger weekly decline amid AI-investment concerns. The primary article was inaccessible.
+
+The Nasdaq 100 is not the Nasdaq Composite, and a weekly… ([Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom](../summaries/80bea6ded163.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-20** - A Bloomberg excerpt indexed by Techmeme reports licensing scrutiny of Nscale’s proposed remote GPU access for ByteDance and a large customer-revenue concentration. The full report and underlying rules were inaccessible. An attributed licensing requirement… ([Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue](../summaries/a65946ee4a9e.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒
 - **2026-11-20** - An Information excerpt indexed by Techmeme reports advanced acquisition talks involving Nvidia and Inception. The primary article was inaccessible. A reported negotiating price and earnouts do not establish a signed agreement, final consideration or… ([Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation](../summaries/541243ef6e75.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-19** - Daring Fireball’s feed commentary uses Anthropic’s offering to argue that frontier-model advantages may be temporary and criticizes company leadership. The linked aggregation page was inaccessible. These are editorial judgments, not evidence that a durable… ([Anthropic IPOs, Topping SpaceX for the Largest Ever](../summaries/ebaee0f29830.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) ⚠

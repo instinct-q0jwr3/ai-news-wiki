@@ -1,6 +1,6 @@
 # Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months
 
-_type: news-summary · created: 2026-11-17 · updated: 2026-11-20 · confidence: high_
+_type: news-summary · created: 2026-11-17 · updated: 2026-11-21 · confidence: high_
 
 `techmeme` `google` `gemini`
 

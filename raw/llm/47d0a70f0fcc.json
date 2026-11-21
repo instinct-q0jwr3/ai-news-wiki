@@ -1,0 +1,14 @@
+{
+  "id": "47d0a70f0fcc",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "CNBC reports that Cursor told congressional investigators it would explore phasing out Chinese-developed open-weight models because of geopolitical risk. The article separates the company’s reported plans from the committees’ broader recommendations on federal use and domestic alternatives.\n\nExploration is not a completed migration or a prohibition on every private user. The underlying committee report and any enacted rules were not independently inspected in this pass, and the companies’ lack of response is not confirmation of every conclusion in the report.",
+  "highlights": [
+    "Report cites information supplied to committees",
+    "Exploring a phaseout differs from completing one",
+    "Committee recommendations are not all enacted rules",
+    "Federal systems differ from private deployments",
+    "Vendor and agency replies were unavailable",
+    "No model configuration was changed"
+  ]
+}

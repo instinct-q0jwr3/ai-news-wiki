@@ -1,6 +1,6 @@
 # Anthropic IPO is set to redraw VC power rankings, with lesser-known firms like Spark Capital poised for outsized returns compared with larger, blue-chip rivals
 
-_type: news-summary · created: 2026-11-18 · updated: 2026-11-20 · confidence: high_
+_type: news-summary · created: 2026-11-18 · updated: 2026-11-21 · confidence: high_
 
 `techmeme` `anthropic`
 

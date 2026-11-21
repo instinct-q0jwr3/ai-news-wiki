@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-20 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-21 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,9 +10,12 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-21** - A Techmeme excerpt of Financial Times reporting describes a sharp Friday fall in the Nasdaq 100 and a larger weekly decline amid AI-investment concerns. The primary article was inaccessible.
+
+The Nasdaq 100 is not the Nasdaq Composite, and a weekly… ([Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom](../summaries/80bea6ded163.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-20** - NBC News reports Friday closing declines across major US stock indexes and a second-day fall in Anthropic shares. It places the trading session within a longer downturn involving interest rates, inflation, financing concerns and pressure on AI… ([Anthropic shares tank after IPO as the Nasdaq erases 2026 gains](../summaries/65b16025b534.md) · [Anthropic](../entities/anthropic.md))
-- **2026-11-20** - A So8res essay argues that Anthropic’s public communication and policy work fall short of its stated concern about catastrophic AI risk. The examined sections contrast interview responses with statements to technical audiences and advocate a stronger… ([Anthropic is not living up to its ideals](../summaries/199172461838.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-20** - A Hacker News listing links to a Wall Street Journal report about an AI-stock sell-off and Anthropic’s offering. The source was inaccessible and the listing contained no substantive excerpt. The headline’s aggregate loss figure, basket of companies,… ([Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street](../summaries/bc7f6a100325.md) · [Anthropic](../entities/anthropic.md)) 🔒
+- **2026-11-20** - A So8res essay argues that Anthropic’s public communication and policy work fall short of its stated concern about catastrophic AI risk. The examined sections contrast interview responses with statements to technical audiences and advocate a stronger… ([Anthropic is not living up to its ideals](../summaries/199172461838.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-20** - Simon Willison collects a passage from Levent Alpöge’s statement claiming a Claude-assisted proof of the Riemann Hypothesis and its generalized form. The page is a quotation with attribution, not an independent analysis of the proposed proof.
 
 The quoted… ([Quoting Levent Alpöge](../summaries/3e0d2439768d.md) · [Anthropic](../entities/anthropic.md))
