@@ -68,6 +68,33 @@
         "b146db6c4570"
       ],
       "concepts": []
+    },
+    {
+      "title": "Prompt exposure needs a traceable path",
+      "intro": "A canary investigation separates evidence of access from attribution to a particular provider or intermediary.",
+      "stories": [
+        "728289776a93"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "Making state and rights explicit",
+      "intro": "Replication positions and structured licensing metadata help communicate boundaries without making them universal guarantees.",
+      "stories": [
+        "3fa728a5d3ac",
+        "bcab14b0afa8"
+      ],
+      "concepts": []
+    },
+    {
+      "title": "A headline or ratio cannot complete the argument",
+      "intro": "An inaccessible market report, an interview description and a projected spending comparison each leave important checks open.",
+      "stories": [
+        "67c0b724b398",
+        "99219a4424e3",
+        "98e644e17b1e"
+      ],
+      "concepts": []
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "728289776a93",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Dragos reports an investigation that seeded AI-service requests with unique canary URLs and credentials, then traced later access to those assets. The researchers distinguish alleged provider intrusions, marketplace-seller misuse and downstream scraping or retention, including requests marked for restricted collection.\n\nThe report explains that a canary can reveal exposure without identifying the exact leaking hop, so it supplements detections with route tracing and provider investigations. These are the researchers’ findings, not independently reproduced incident reports for every service, and they do not establish that the user’s own data leaked. No credentials were planted, services connected or tests run in this pass.",
+  "highlights": [
+    "Investigation uses uniquely attributable bait per request",
+    "Provider breaches differ from seller access and scraping",
+    "Privacy flags do not prevent an existing intruder",
+    "Canary use reveals exposure not automatically the responsible hop",
+    "Route inference has unidentified intermediaries",
+    "Notifications and provider responses are reported",
+    "No claim about this user’s accounts follows"
+  ]
+}

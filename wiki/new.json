@@ -1,59 +1,41 @@
 {
- "generated_at": "2026-11-21T10:02:52+00:00",
+ "generated_at": "2026-11-21T16:03:45+00:00",
  "stories": [
   {
-   "id": "fc5c4b2c7162",
-   "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+   "id": "67c0b724b398",
+   "title": "Anthropic's IPO bank closed position meant to stabilize stock",
    "source": "Hacker News",
-   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+   "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20"
   },
   {
-   "id": "65b16025b534",
-   "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-   "source": "Hacker News",
-   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
+   "id": "bcab14b0afa8",
+   "title": "Relicensing to CC BY-SA and making it visible in Schema metadata",
+   "source": "Terence Eden",
+   "url": "https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/"
   },
   {
-   "id": "eb9369c30c0f",
-   "title": "I have been unemployed for 2y.15YOE,US.What to do?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50583761"
+   "id": "3fa728a5d3ac",
+   "title": "PostgreSQL 19 Released",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
   },
   {
-   "id": "d4b09ea86246",
-   "title": "ClawDOS – An AI coding agent for DOS",
-   "source": "Hacker News",
-   "url": "http://ricapar.net/ClawDOS/"
+   "id": "728289776a93",
+   "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+   "source": "Lobsters",
+   "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
   },
   {
-   "id": "5fd03ac15257",
-   "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
-   "source": "Hacker News",
-   "url": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393"
-  },
-  {
-   "id": "d8f07e649db2",
-   "title": "Muse Spark 1.3",
-   "source": "Hacker News",
-   "url": "https://dev.meta.ai/models/muse-spark"
-  },
-  {
-   "id": "002a881a23cd",
-   "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\"",
+   "id": "98e644e17b1e",
+   "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs",
    "source": "Techmeme",
-   "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation"
+   "url": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?unlocked_article_code=1.SFE.jZ7m.KdwX3UsrRw18&smid=url-share"
   },
   {
-   "id": "4cd9ed1637b6",
-   "title": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution",
+   "id": "99219a4424e3",
+   "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness",
    "source": "Techmeme",
-   "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
-  },
-  {
-   "id": "b146db6c4570",
-   "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips",
-   "source": "Techmeme",
-   "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls"
+   "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&sharetype=gift&token=956073db-4440-473e-97bd-a0af2932464c"
   }
  ]
 }

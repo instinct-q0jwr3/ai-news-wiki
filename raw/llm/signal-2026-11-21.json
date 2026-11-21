@@ -1,0 +1,38 @@
+{
+  "id": "signal-2026-11-21",
+  "date": "2026-11-21",
+  "status": "provisional",
+  "reserve": "002a881a23cd",
+  "picks": [
+    {
+      "id": "6e4e4b581c23",
+      "front": "Privacy",
+      "source": "signal.org",
+      "why": "Signal explains exactly where screenshot protections stop, including Android variation, macOS limits and filesystem access."
+    },
+    {
+      "id": "3875fe11cced",
+      "front": "Evaluation",
+      "source": "artificialanalysis.ai",
+      "why": "A compact comparison separates active computation, output tokens, task time and price instead of treating model size as the whole story."
+    },
+    {
+      "id": "d4b09ea86246",
+      "front": "Engineering",
+      "source": "ricapar.net",
+      "why": "A DOS coding harness makes the division between local tools, a TLS bridge and remote model inference unusually concrete."
+    },
+    {
+      "id": "728289776a93",
+      "front": "Security",
+      "source": "dragos.com",
+      "why": "A canary investigation distinguishes exposure from attribution across providers, resellers and undisclosed routing hops."
+    },
+    {
+      "id": "bcab14b0afa8",
+      "front": "Publishing",
+      "source": "shkspr.mobi",
+      "why": "A practical metadata example distinguishes authorship, rights ownership and a license notice without treating a label as legal certainty."
+    }
+  ]
+}

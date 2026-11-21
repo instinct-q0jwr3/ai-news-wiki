@@ -1,0 +1,14 @@
+{
+  "id": "bcab14b0afa8",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Terence Eden describes making copyright and licensing information visible to both readers and machines through linked license metadata and Schema.org properties. The post distinguishes the author, rights holder, license link and visible notice, then announces a CC BY-SA license for the blog.\n\nMachine-readable labels improve discoverability but do not by themselves settle ownership, compatibility or compliance for every item on a page. The example illustrates a markup pattern, not an independently validated legal assessment, and this pass did not change the wiki’s license or copy the source’s code.",
+  "highlights": [
+    "Metadata can link to license terms",
+    "Author and rights holder can be different",
+    "Visible notices complement structured properties",
+    "Different page parts can carry different labels",
+    "Labels do not establish rights to third-party content",
+    "No repository licensing change was made"
+  ]
+}

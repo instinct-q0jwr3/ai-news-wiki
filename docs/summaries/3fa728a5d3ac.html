@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PostgreSQL 19 Released · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1795277260"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>PostgreSQL 19 Released</h1>
+<p class="meta">type: news-summary · created: 2026-11-21 · updated: 2026-11-21 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Simon Willison highlights PostgreSQL 19’s described ability to wait for a replica to replay a specified write-ahead-log position before reading. His example separates a write on the primary from a later standby read and compares the pattern with MediaWiki’s existing replication handling.</p>
+<p>This is a link-post explanation, not an independently checked release note or tested deployment. Waiting for a chosen position does not make every replica instantly current, and the optional timeout can return an error. No SQL or database upgrade was executed.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Post discusses read-after-write consistency</li>
+<li>Application must retain the relevant log position</li>
+<li>Standby waits for replay rather than becoming instantly synchronous</li>
+<li>Timeout is a failure condition not a freshness guarantee</li>
+<li>MediaWiki comparison uses a different database implementation</li>
+<li>Release and code were not independently tested</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://simonwillison.net/2026/Nov/19/postgresql-19/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/ai-safety-incidents.html">AI safety incidents and controls</a> · <a href="../concepts/ai-policy-regulation.html">AI policy, regulation and litigation</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

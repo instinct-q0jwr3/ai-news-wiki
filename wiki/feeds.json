@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1434,
+  "stories": 1435,
   "last": "2026-11-21"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1414,
+  "stories": 1416,
   "last": "2026-11-21"
  },
  {
@@ -20,14 +20,14 @@
  {
   "name": "Simon Willison",
   "url": "https://simonwillison.net/atom/everything/",
-  "stories": 123,
-  "last": "2026-11-20"
+  "stories": 124,
+  "last": "2026-11-21"
  },
  {
   "name": "Lobsters",
   "url": "https://lobste.rs/rss",
-  "stories": 89,
-  "last": "2026-11-19"
+  "stories": 90,
+  "last": "2026-11-21"
  },
  {
   "name": "Latent.Space",
@@ -144,16 +144,16 @@
   "last": "2026-11-01"
  },
  {
+  "name": "Terence Eden",
+  "url": "https://shkspr.mobi/blog/feed/",
+  "stories": 4,
+  "last": "2026-11-21"
+ },
+ {
   "name": "lcamtuf",
   "url": "https://lcamtuf.substack.com/feed",
   "stories": 3,
   "last": "2026-09-25"
- },
- {
-  "name": "Terence Eden",
-  "url": "https://shkspr.mobi/blog/feed/",
-  "stories": 3,
-  "last": "2026-11-14"
  },
  {
   "name": "Krebs on Security",
