@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-21** - The agent-mcts repository describes a Monte Carlo tree-search harness that explores coding attempts in separate Git worktrees and uses tests, optionally supplemented by a model judge, to rank branches. Claude Code is its verified integration; the supplied… ([Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code](../summaries/9809e88c81f3.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-21** - A Hacker News listing links to Reuters reporting about an IPO stabilization position associated with Anthropic’s offering. The primary page was inaccessible and the feed supplied no substantive excerpt. The position, its closure, timing and possible market… ([Anthropic's IPO bank closed position meant to stabilize stock](../summaries/67c0b724b398.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-11-21** - A Techmeme excerpt of New York Times reporting attributes to Rhodium an estimate of large Chinese technology companies’ capital spending and compares it with AI-lab revenue. The primary article and underlying analysis were inaccessible.
 

@@ -1,0 +1,15 @@
+{
+  "id": "dc521942f3f2",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Ars Technica reports on HD Moore's canary investigation of AI providers, resellers and routing chains, adding a November 21 update about customer notification. The article says OpenRouter identified potential exposure of prompts sent to MiniMax, including routes through three resellers, and removed a zero-data-retention label from the affected model endpoints. The notification is reported via other public posts rather than an independently inspected customer mailbox here.\n\nThe account separates compromised hosts, reseller misuse and delayed fetching of private-looking URLs. Canary access can establish exposure, but attributing a leak to a particular hop requires the route comparisons and other investigation described by the researcher. This is coverage of the same investigation already indexed from Dragos, not a second independent experiment and not evidence of an incident affecting the reader's accounts.",
+  "highlights": [
+    "Secondary report covers the existing Dragos investigation",
+    "November 21 update describes an OpenRouter notification",
+    "Reported affected routes involve MiniMax and named resellers",
+    "Retention labels differ from technical prevention of exposure",
+    "Compromised infrastructure and intentional collection are distinct cases",
+    "Prompt decryption can occur at multiple intermediaries",
+    "No user credentials or private services were tested"
+  ]
+}

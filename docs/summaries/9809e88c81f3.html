@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1795299009"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code</h1>
+<p class="meta">type: news-summary · created: 2026-11-21 · updated: 2026-11-21 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>The agent-mcts repository describes a Monte Carlo tree-search harness that explores coding attempts in separate Git worktrees and uses tests, optionally supplemented by a model judge, to rank branches. Claude Code is its verified integration; the supplied Codex adapter has only fake-binary tests, and other adapters remain planned.</p>
+<p>Its own harder-task evaluation is unusually cautionary. Across ten runs per setting, tests-only search produced no better final answers than the first attempt and one worse answer; judge-assisted search improved four, tied four and worsened two, with a slightly negative mean change. The judge also used substantially more wall time. These small author-run measurements do not establish a general coding gain, and a passing visible test suite is not equivalent to hidden-test correctness. No installation or benchmark was run for this review.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Search branches filesystem and conversation state</li>
+<li>Each candidate is evaluated against a selected test command</li>
+<li>Optional judging adds another fallible ranking stage</li>
+<li>Harder-task sample contains ten runs per setting</li>
+<li>Tests-only mean change was minus 2.2 percentage points</li>
+<li>Judge-assisted mean change was minus 0.1 percentage points</li>
+<li>Judge choice preferred the better candidate in 38 of 62 comparisons</li>
+<li>Codex support is not verified against its real CLI</li>
+<li>Repository examples were read, not executed</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://github.com/natsu0529/agent-mcts">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/anthropic.html">Anthropic</a> · <a href="../concepts/agentic-systems.html">Agentic systems</a> · <a href="../concepts/ai-coding-agents.html">AI coding agents and the software pipeline</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

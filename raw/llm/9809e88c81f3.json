@@ -1,0 +1,17 @@
+{
+  "id": "9809e88c81f3",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "The agent-mcts repository describes a Monte Carlo tree-search harness that explores coding attempts in separate Git worktrees and uses tests, optionally supplemented by a model judge, to rank branches. Claude Code is its verified integration; the supplied Codex adapter has only fake-binary tests, and other adapters remain planned.\n\nIts own harder-task evaluation is unusually cautionary. Across ten runs per setting, tests-only search produced no better final answers than the first attempt and one worse answer; judge-assisted search improved four, tied four and worsened two, with a slightly negative mean change. The judge also used substantially more wall time. These small author-run measurements do not establish a general coding gain, and a passing visible test suite is not equivalent to hidden-test correctness. No installation or benchmark was run for this review.",
+  "highlights": [
+    "Search branches filesystem and conversation state",
+    "Each candidate is evaluated against a selected test command",
+    "Optional judging adds another fallible ranking stage",
+    "Harder-task sample contains ten runs per setting",
+    "Tests-only mean change was minus 2.2 percentage points",
+    "Judge-assisted mean change was minus 0.1 percentage points",
+    "Judge choice preferred the better candidate in 38 of 62 comparisons",
+    "Codex support is not verified against its real CLI",
+    "Repository examples were read, not executed"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "687309907c91",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "pwn.ai presents Upload2Shell as a Ghostscript Type 1 font-loader use-after-free that can escape the interpreter's safety boundary. Its disclosure index follows the same rendering component through print queues, email previews and upload pipelines, while distinguishing confirmed execution from merely tracing a route to Ghostscript. The directly fetched article is substantially fuller than the automated cache excerpt.\n\nThe researcher's matrix describes different access conditions for each application. A public upload route is not equivalent to an authenticated upload, and reaching a renderer is not itself proof of command execution in every product. The page identifies upstream and distribution fixes, but these remain the publisher's reported versions and trials here, not an independent advisory audit or reproduction. Separate Ghostscript findings involving other production services must not be conflated with this CVE.",
+  "highlights": [
+    "Underlying component is Ghostscript's font loader",
+    "Print, preview and upload routes have different prerequisites",
+    "Application matrix distinguishes execution from source-mapped reachability",
+    "Some paths require particular plugins or configurations",
+    "Publisher identifies Ghostscript 10.08.0 as an upstream fix",
+    "Distribution backports use their own version identifiers",
+    "Other production-service findings have separate roots",
+    "No proof of concept or exploit was executed"
+  ]
+}

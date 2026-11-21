@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-21** - Apple's support page describes daily limits for server-backed Apple Intelligence and Siri AI features in its 2027 software releases, with increased access through eligible iCloud+ plans starting at version 27.3. The baseline belongs to each device and… ([Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier](../summaries/dd0d93d65e70.md) · [Apple](../entities/apple.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-20** - The Verge reports on an Apple engineering listing for agents that can work across applications, websites and services. The article says the listing has since been removed and separates that hiring signal from existing and proposed Siri capabilities.
 
 A… ([Apple is building an AI agent](../summaries/9a192188389a.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md))

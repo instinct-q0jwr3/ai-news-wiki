@@ -1,0 +1,13 @@
+{
+  "id": "b7b3f708b1eb",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "A Show HN author says they used ChatGPT while building Outpost Racer, a browser racing game styled after the original PlayStation era. The live landing page exposes play and settings links but supplies almost no explanatory text.\n\nThe source supports a small personal-project announcement and the author's account of assistance, not a measured claim about development speed or autonomous software creation. Gameplay, controls, performance and the division of work between the person and the model were not tested.",
+  "highlights": [
+    "AI assistance is the creator's self-report",
+    "Landing page contains little readable documentation",
+    "Play and settings links are visible",
+    "Retro styling is an announced design goal",
+    "No gameplay review or productivity measurement follows"
+  ]
+}

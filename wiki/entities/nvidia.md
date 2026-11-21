@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-21** - A Techmeme excerpt attributes to the Financial Times a report that Amazon is in advanced talks to buy Decart for about $7.5 billion. The primary article returned an access error, so the reporting's sources, financial terms and strategic analysis could not… ([Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week](../summaries/02f357c1f4de.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-21** - The Talk Show episode page lists a discussion of Nvidia leadership, Apple devices and entertainment news with Christina Warren. The retrieved text is a short episode description, not a transcript.
 
 No substantive argument about AI, Nvidia or a product can… ([The Talk Show: ‘A Whoopsie Treason’](../summaries/f598051ed0ef.md) · [NVIDIA](../entities/nvidia.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠

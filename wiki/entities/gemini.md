@@ -10,6 +10,9 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-21** - Simon Willison's llm-gemini 0.38.1 release note fixes a missing extra-high reasoning setting for Gemini 4 Hydrogen and Neon. He distinguishes those models from Carbon, which he says supports only low, medium and high reasoning.
+
+His accompanying pelican… ([llm-gemini 0.38.1](../summaries/b81501fc1bfd.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-21** - A Techmeme excerpt identifies a Financial Times interview with Google DeepMind philosopher Henry Shevlin about machine consciousness, human-AI relationships and readiness for advanced AI. The primary interview was inaccessible.
 
 The topic list does not… ([An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness](../summaries/99219a4424e3.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md)) 🔒

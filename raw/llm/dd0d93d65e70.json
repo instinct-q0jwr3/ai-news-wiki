@@ -1,0 +1,16 @@
+{
+  "id": "dd0d93d65e70",
+  "schema": 1,
+  "model": "agent-pass",
+  "prose": "Apple's support page describes daily limits for server-backed Apple Intelligence and Siri AI features in its 2027 software releases, with increased access through eligible iCloud+ plans starting at version 27.3. The baseline belongs to each device and feature category; the extra allowance is pooled across the account's devices and any participating family members rather than multiplied independently for everyone.\n\nThe table lists up-to multipliers of 2, 5, 10 and 20 for the 200 GB, 2 TB, 6 TB and 12 TB plans. These are relative limits, not disclosed request counts or a promise of unlimited use. Regional exclusions are material: the page says increased access is unavailable in the EU and several other markets. This is documentation of a future rollout, not evidence that these benefits are available on a particular account today.",
+  "highlights": [
+    "Documentation concerns 2027 releases and version 27.3",
+    "50 GB retains the standard device allowance",
+    "Higher-plan multipliers are up-to values",
+    "Extra allowance is shared across devices and family",
+    "Limits reset daily without rollover",
+    "Basic Siri requests remain possible after advanced requests pause",
+    "EU exclusion prevents assuming increased access in Spain",
+    "No plan was purchased or account eligibility tested"
+  ]
+}
