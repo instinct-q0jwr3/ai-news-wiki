@@ -2910,5 +2910,61 @@
   "thin": 4,
   "total": 27,
   "unreadable": 2
+ },
+ "2026-11-22": {
+  "ok": 18,
+  "paywall": 5,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "22f9bf90868d",
+    "minutes": 1,
+    "source": "openrouter.ai",
+    "title": "Data Processing Incidents on Inference Providers",
+    "why": "A provider response makes enforcement actions concrete while separating its own account from independent verification."
+   },
+   {
+    "cat": "ok",
+    "front": "Legal data",
+    "id": "992540aaa49d",
+    "minutes": 2,
+    "source": "pandex.io",
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "why": "An institution-by-institution coverage register explains what a legal-data service does not hold as well as what it claims to offer."
+   },
+   {
+    "cat": "ok",
+    "front": "Climate",
+    "id": "6d515d1d1638",
+    "minutes": 7,
+    "source": "betterdatacenterproject.com",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "why": "An explicit marginal-power model shows how capacity, utilization and generation assumptions shape a lab-specific emissions forecast."
+   },
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "206cbe4dc021",
+    "minutes": 3,
+    "source": "morethanamachine.com",
+    "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+    "why": "A documented one-shot simulation task reveals shortcuts that attractive video alone can conceal, with single-run limits stated."
+   },
+   {
+    "cat": "ok",
+    "front": "Play",
+    "id": "1bad3788fa0c",
+    "minutes": 2,
+    "source": "github.com",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "why": "A role-reversal game uses hidden mission checks to distinguish a persuasive completion report from work actually done."
+   }
+  ],
+  "reserve": "1814162729e9",
+  "status": "provisional",
+  "thin": 0,
+  "total": 23,
+  "unreadable": 0
  }
 }

@@ -1,0 +1,14 @@
+{
+ "id": "1bad3788fa0c",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Worker 755 turns the usual coding-assistant relationship into a game: a human player carries out timed assignments for an LLM manager that treats the player as a software worker. The project's README describes an in-memory filesystem and simulated database, a manager that sees reports and command transcripts, and hidden mission checks that can catch it approving broken work. The tension is between producing a convincing report and actually preserving the fictional user's files and completing the task.\n\nThe repository also describes a scripted offline mode and hosted play using server credit or a player's own API key. These are the developer's descriptions, not a tested review of the game, its billing or its handling of credentials. A clever role reversal and mission-level checks do not establish a general measure of model reliability. No installation, sign-in or credential submission was performed for this editorial pass.",
+ "highlights": [
+  "The human player performs timed work for an LLM manager",
+  "The manager reviews reports and command transcripts",
+  "Hidden checks can expose approval of incomplete work",
+  "The project describes an in-memory simulated workplace",
+  "Hosted and scripted offline modes are documented",
+  "Developer description, not an independently tested game or security review"
+ ]
+}

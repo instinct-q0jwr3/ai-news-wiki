@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-22",
+ "date": "2026-11-22",
+ "status": "provisional",
+ "reserve": "1814162729e9",
+ "picks": [
+  {
+   "id": "22f9bf90868d",
+   "front": "Security",
+   "source": "openrouter.ai",
+   "why": "A provider response makes enforcement actions concrete while separating its own account from independent verification."
+  },
+  {
+   "id": "992540aaa49d",
+   "front": "Legal data",
+   "source": "pandex.io",
+   "why": "An institution-by-institution coverage register explains what a legal-data service does not hold as well as what it claims to offer."
+  },
+  {
+   "id": "6d515d1d1638",
+   "front": "Climate",
+   "source": "betterdatacenterproject.com",
+   "why": "An explicit marginal-power model shows how capacity, utilization and generation assumptions shape a lab-specific emissions forecast."
+  },
+  {
+   "id": "206cbe4dc021",
+   "front": "Evaluation",
+   "source": "morethanamachine.com",
+   "why": "A documented one-shot simulation task reveals shortcuts that attractive video alone can conceal, with single-run limits stated."
+  },
+  {
+   "id": "1bad3788fa0c",
+   "front": "Play",
+   "source": "github.com",
+   "why": "A role-reversal game uses hidden mission checks to distinguish a persuasive completion report from work actually done."
+  }
+ ]
+}

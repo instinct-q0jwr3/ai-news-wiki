@@ -1,0 +1,15 @@
+{
+ "id": "206cbe4dc021",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Nishaanth Reddy compares fifteen models on a deliberately awkward coding task: make a single-page simulation of a spring toy walking down an upward-moving escalator without resorting to a scripted animation. Each model receives one prompt in a fresh folder, with no follow-up or manual repair. The page documents high reasoning settings, the coding tools used, fixed virtual-clock recordings, build times and estimated API-equivalent costs.\n\nThe most revealing observation is that visual plausibility can hide changes to the problem. Reddy reports outputs that adjust the escalator speed, add torque assistance or reset the toy when it stalls. Those shortcuts matter more than a polished clip if the objective is a physical simulation. These are single runs through three different coding tools, not a controlled, repeated benchmark or a general intelligence ranking. Reported API costs are estimates at contemporary token prices, while the author actually used subscription plans; the simulations and prices were not independently reproduced here.",
+ "highlights": [
+  "Fifteen models attempt the same spring-and-escalator simulation task",
+  "One prompt per fresh folder, without human follow-up or manual edits",
+  "The page states reasoning settings and coding-tool versions",
+  "Some outputs reportedly change the dynamics or reset failed motion",
+  "A fixed virtual clock supports comparison of recorded clips",
+  "Single runs and different coding tools limit model-to-model conclusions",
+  "Costs are API-equivalent estimates, not the author's subscription bill"
+ ]
+}

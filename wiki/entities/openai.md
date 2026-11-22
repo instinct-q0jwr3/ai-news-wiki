@@ -10,6 +10,7 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-22** - Jonah Weiner examines Silicon Valley's use of taste as a proposed defense against generic AI output. The accessible opening defines taste as judgment about aesthetic rules and changing cultural conventions, then sets up a disagreement: some see that… ([Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with "taste" as a moat against AI slop and whether AI can learn it](../summaries/f1e1a056981c.md) · [OpenAI](../entities/openai.md)) 🔒
 - **2026-11-21** - A Show HN author says they used ChatGPT while building Outpost Racer, a browser racing game styled after the original PlayStation era. The live landing page exposes play and settings links but supplies almost no explanatory text.
 
 The source supports a… ([Show HN: I made a PS1 style racing game](../summaries/b7b3f708b1eb.md) · [OpenAI](../entities/openai.md)) ⚠

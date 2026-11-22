@@ -1,0 +1,14 @@
+{
+ "id": "b3ef6d3d1863",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The Financial Times item, as relayed by Techmeme, describes experts' concern that AI shortens preparation for attacks on industrial equipment by helping users read technical manuals and research earlier accidents. The distinction is between making preparatory knowledge easier to assemble and demonstrating that an AI system can independently compromise or operate a real industrial plant.\n\nOnly the feed excerpt was available in this pass; the primary article could not be retrieved. Its opening future scenario is illustrative, not evidence that the described disruption occurred. The excerpt does not establish a measured speedup, a new vulnerability, a demonstrated end-to-end attack or independent attribution of an incident. This story overlaps today's investor cyber-risk thesis thematically, but must not be treated as a separate experimental confirmation of it.",
+ "highlights": [
+  "Techmeme relays an FT report on industrial cyberattack preparation",
+  "Experts are quoted on manuals and accident research becoming easier to process",
+  "Preparation assistance is not autonomous industrial compromise",
+  "The future opening scenario is not a reported real incident",
+  "No measured speedup or end-to-end attack is established by the excerpt",
+  "Primary article unavailable; coverage is excerpt-only"
+ ]
+}
