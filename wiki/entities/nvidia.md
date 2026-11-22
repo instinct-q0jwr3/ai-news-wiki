@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-21 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-22 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-22** - Wired reports that matchmakers say more technology workers, not only executives, are worried about romantic espionage, with the Jensen Huang scandal involving an alleged asset of China's Ministry of State Security cited as the latest fuel for those… ([Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches "zero espionage" executive girlfriends](../summaries/be25a2ff6ba4.md) · [NVIDIA](../entities/nvidia.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-21** - A Techmeme excerpt attributes to the Financial Times a report that Amazon is in advanced talks to buy Decart for about $7.5 billion. The primary article returned an access error, so the reporting's sources, financial terms and strategic analysis could not… ([Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week](../summaries/02f357c1f4de.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-21** - The Talk Show episode page lists a discussion of Nvidia leadership, Apple devices and entertainment news with Christina Warren. The retrieved text is a short episode description, not a transcript.
 

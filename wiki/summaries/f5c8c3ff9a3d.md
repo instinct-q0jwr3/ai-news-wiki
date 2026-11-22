@@ -1,6 +1,6 @@
 # datasette-arrows 0.1a0
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-21 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-22 · confidence: high_
 
 `simon-willison` `anthropic`
 

@@ -1,1256 +1,1313 @@
 {
-  "id": "weekly-2026-W47",
-  "schema": 3,
-  "model": "agent-pass",
-  "lead": [
-    "A tested analog synthesizer, Datasette releases and inference tradeoffs provide concrete engineering detail. Hiring and compute estimates need their sample boundaries, while financing headlines remain attributed plans rather than completed outcomes."
-  ],
-  "sections": [
-    {
-      "title": "Hiring signals and public contact exposure",
-      "intro": "Community records reveal a narrow hiring sample and an anecdotal scam report, not economy-wide or forensic conclusions.",
-      "stories": [
-        "8df6b8be193a",
-        "c0b8ca5958bb"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "From circuits to serving constraints",
-      "intro": "A physical synthesizer build and inference engineering notes make the role of testing and workload choices visible.",
-      "stories": [
-        "a5db7f1b8901",
-        "721384ec85fc",
-        "c0d2379d96a6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agent tooling needs more than an installation",
-      "intro": "A reusable skill manifest and a testing framework address different parts of development; neither establishes trust by itself.",
-      "stories": [
-        "e5ce0d3e4dbb",
-        "dd748603ec0c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Datasette connects exports, prompts and applications",
-      "intro": "Four maintainer release notes describe specific changes across the data platform and its plugins.",
-      "stories": [
-        "58bd47a08a82",
-        "8b1995c75e00",
-        "23b31c283446",
-        "db9d958881e7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Estimating capacity and financing its expansion",
-      "intro": "Satellite-based compute estimates differ from company funding reports and inaccessible accounts of planned deals.",
-      "stories": [
-        "d95fcc4a622f",
-        "cd48de158929",
-        "2e11e792cd8e",
-        "a0a1b102d343"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Capital, professional work and human differentiation",
-      "intro": "Tax-software expansion and IPO demand sit alongside a truncated opinion about human-made brands.",
-      "stories": [
-        "416fcc4f194c",
-        "d4a101923e0b",
-        "061fc5395004"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A new flagship with only an indexed announcement",
-      "intro": "Two feed entries point to the same Qwen page; its specifications remain attributed because the article text was not readable.",
-      "stories": [
-        "bac8fed8270c",
-        "36e30a174d73"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Reports of harm need the right denominator",
-      "intro": "Child-safety reporting documents a sharp increase, while changes in detection remain part of its interpretation.",
-      "stories": [
-        "a0cf9bcdd67b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Reviewing code and judging subscriptions",
-      "intro": "A guided-review tool has a readable design account; a subscription complaint remains title-only.",
-      "stories": [
-        "874f975774e9",
-        "540da2637398"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Qwen comparisons and safeguards remain attributed",
-      "intro": "Vendor claims and indexed benchmark results are distinct from directly inspected evaluations.",
-      "stories": [
-        "b6ccd066d539",
-        "2a32990b4f59",
-        "a4b8ab3f31a2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Health research and connected patient records",
-      "intro": "A consumer study and clinical-data infrastructure pursue different goals, with benefits still requiring evidence.",
-      "stories": [
-        "c0ea354e7b0c",
-        "3be578acf141"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "New capital meets deployment constraints",
-      "intro": "Funding reports span management software, accounting and sensors; offshore data-center announcements remain proposals.",
-      "stories": [
-        "7c7ddee19ef0",
-        "70ebfe5504d1",
-        "76d779d5430d",
-        "5c7470741210"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Education and trade policy are works in progress",
-      "intro": "A literacy campaign, proposed national champions and export legislation need to be distinguished from final outcomes.",
-      "stories": [
-        "77dbd6c8880d",
-        "798cb02a10b2",
-        "1792febc3196",
-        "4c2377793700"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Observed cyber campaigns and the limits of their evidence",
-      "intro": "SiliconANGLE and [The Register](../summaries/f51b17e6669b.md) cover the same Google investigation, not independent forensic replications. A funding announcement is a different kind of security evidence.",
-      "stories": [
-        "c55f583b7ac9",
-        "27bbb64dd819"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Simulated worlds and isolated design choices",
-      "intro": "Driving predictions and controlled vision experiments test specific representations, while a physics headline remains unverified.",
-      "stories": [
-        "0ef208ee8ae4",
-        "7e7e145f37b7",
-        "4095d79344b0"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Evaluations, training and bottlenecks",
-      "intro": "Methods guidance and an explicitly limited small-model release offer a counterweight to broad capability claims.",
-      "stories": [
-        "9947b8de96c0",
-        "a3a765808527",
-        "6f25253ef10e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Shipping agent products with explicit limits",
-      "intro": "Private applications, durable software patterns and a protocol announcement address different product layers.",
-      "stories": [
-        "c6a44373ea58",
-        "f26845627ad1",
-        "da95cc2bdb02",
-        "b565bda1d2e6",
-        "9354ab5ab494",
-        "c68499267b48"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Customer context and clinical predictions",
-      "intro": "A CRM funding report describes a product; a health-model funding excerpt leaves clinical outcomes unresolved.",
-      "stories": [
-        "229a83abed4d",
-        "dc5d9f709248"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Nvidia commentary and public appeals",
-      "intro": "A strategic essay, a factional interpretation and a petition do not independently adjudicate the underlying allegations.",
-      "stories": [
-        "9cec9b86bbe9",
-        "92115e77d1be",
-        "814524838b76"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Who finances infrastructure and who bears its costs",
-      "intro": "Insurer exposure, local opposition and interim trade-rule reporting require different evidence and different caveats.",
-      "stories": [
-        "a527ca54a4fc",
-        "cbbf5443289f",
-        "54e7a233acf6",
-        "30387e084ed6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Shorter disclosure windows and faster reported intrusions",
-      "intro": "Anthropic changes its own future disclosure policy while FBI-linked reporting describes already observed misuse.",
-      "stories": [
-        "f0e7b8ebd7cb",
-        "a111c9f4249a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Child-protection tools and external scrutiny",
-      "intro": "New safety tools, assessor agreements and allegations in litigation represent different evidence, not interchangeable safety verdicts. The primary child-safety announcement is also indexed [here](../summaries/f6f8efc1508f.md).",
-      "stories": [
-        "d0719828a273",
-        "8393a772bff8",
-        "f6f8f5de8948"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Hands, homework and hardware input",
-      "intro": "A muscle-sensing sleeve has a detailed founder account; a course-policy headline remains inaccessible.",
-      "stories": [
-        "8cd4792e9009",
-        "07d91d37c9ec",
-        "4d0e09dd3e8a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Orders, optimization and export access",
-      "intro": "Prospective investments and executive opinions need different treatment from legal requirements.",
-      "stories": [
-        "023131b052fd",
-        "8ee4379a6732",
-        "04927ccfedbb",
-        "897ca9d3f363"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Who can use a signed-in session?",
-      "intro": "Browser access, local command approval and narrower operating-system permissions expose distinct boundaries. None is a universal safeguard.",
-      "stories": [
-        "1bbf2359261f",
-        "92e7bf937344",
-        "e959fc4a8728",
-        "249df63cfa61"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Serving costs and workload-specific claims",
-      "intro": "GPU porting, tracking throughput and cluster scheduling claims need their hardware and workload boundaries.",
-      "stories": [
-        "adb8d43a398b",
-        "2698fce9df1c",
-        "c17d19332482"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Maintenance includes shutdowns and review gates",
-      "intro": "A service closure and a logging fix are concrete changes; contribution filtering remains a proposed experiment.",
-      "stories": [
-        "af9b07226a1b",
-        "c8d402a32c26",
-        "6a9763582c08"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Demonstrations are not independent evaluations",
-      "intro": "An animated spreadsheet is a promotional example, placeholder charts are fictional, and unreadable learning resources cannot be reviewed.",
-      "stories": [
-        "025888ec0e70",
-        "5fb01a0f975b",
-        "f021e93c6bae",
-        "5e0d4e18b7d6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Snapshots, allegations and speculative risk",
-      "intro": "Historical portfolio disclosures, attributed misconduct allegations and political predictions must not be flattened into established present facts.",
-      "stories": [
-        "0062eecc288b",
-        "97b5826e973d",
-        "647ea49b7dab",
-        "7f0a051db2b5"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Backlogs, token bills and browser migration",
-      "intro": "Developer anecdotes and author-run cost estimates need different evidence from a tested migration or measured productivity gain.",
-      "stories": [
-        "4a13fe9b4338",
-        "dec0d9448b6d",
-        "f19e0c0056a7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Hardware roadmaps and contested expansion",
-      "intro": "A GPU announcement and reports of distillation, local restrictions and dealership funding describe plans and attributed findings, not uniform proof of deployment outcomes.",
-      "stories": [
-        "42a18560c2f1",
-        "4c974c57ad40",
-        "54cbd041903b",
-        "f5493a14c565"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Cost per successful run, not just token price",
-      "intro": "Benchmarks, verification methods and numerical alignment all depend on the measurement boundary.",
-      "stories": [
-        "9b78f0193aab",
-        "6e5771019ad9",
-        "4c55f02bac7f",
-        "b542d108672a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "What protein prediction and evaluation awareness reveal",
-      "intro": "Behavioral tests support bounded inferences, not direct access to training records or proof of deceptive intent.",
-      "stories": [
-        "b9ffdd905a05",
-        "82d7f1913932"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Routing, notebooks and lower-cost deployment",
-      "intro": "Launch claims distinguish current services, staged rollouts and future weight releases.",
-      "stories": [
-        "4ed797a61d83",
-        "c35464b39545",
-        "93295ec4c3ad",
-        "805706b0c66f",
-        "3adac9df72f2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Capital and infrastructure are still constraints",
-      "intro": "Financing reports, roadmaps and policy exposure should not be treated as completed deployment or financial outcomes.",
-      "stories": [
-        "60dc7db7771d",
-        "3d00cd70bd7a",
-        "2cab7830caba",
-        "3b2e315b3e11",
-        "5f7fd63c2937",
-        "9ba954c68349",
-        "7fec23053eb5",
-        "9990dd523e2d",
-        "5c7d12b452e4"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Risk arguments, legal allegations and early user reports",
-      "intro": "Commentary and partial reporting retain their limits rather than becoming verified common causes.",
-      "stories": [
-        "eab0c36e62dd",
-        "c2158fa031c1",
-        "73921541604d",
-        "fac77da1b0a0",
-        "faae4cbedf4d",
-        "e3ca83573b27",
-        "033acdfad6db",
-        "5638db057c7c",
-        "11ecefc76672"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Launch claims meet outside measurements",
-      "intro": "Model releases combine vendor comparisons, third-party indexes and workload-specific costs rather than one universal ranking.",
-      "stories": [
-        "469a3db8f8a2",
-        "f75cdcfbb667",
-        "bc282173ba4c",
-        "16d17f137b43",
-        "457a15c01643"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Privacy, outages and attribution",
-      "intro": "Retention changes are different from training choices; service disruption alone does not identify a coordinated attacker.",
-      "stories": [
-        "1cdfb8398bbb",
-        "7791046af256",
-        "c22e53855e8a",
-        "e04f2967eee8",
-        "904025e3ff01"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Practical systems beyond a larger model",
-      "intro": "Settings snapshots, browser-run Python and workload-aware inference offer concrete designs with distinct compatibility limits.",
-      "stories": [
-        "507d06b9231a",
-        "7dddcbc98095",
-        "efddb909bdaf",
-        "4497d49316ad",
-        "fd18b934f4cc",
-        "e378347837ac"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Money, creative responsibility and belief",
-      "intro": "Funding, lobbying narratives and cultural essays require different standards of evidence.",
-      "stories": [
-        "1a0afa1ca577",
-        "76d447eb6c73",
-        "ee54f36c1d32",
-        "51194ce554d6",
-        "a49ff87d7934"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Search clicks and the cost of review",
-      "intro": "Desktop search experiments and engineering-adoption studies measure different downstream effects. Their samples and identification limits matter.",
-      "stories": [
-        "e899e59c81a1",
-        "a6d0641f3e6f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Separating generated code from its executor",
-      "intro": "An external sandbox design narrows one execution boundary, while split inference assigns prompt processing and response generation to different hardware.",
-      "stories": [
-        "4dd2685da65f",
-        "77cfd79db59c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Launch demonstrations and inaccessible details",
-      "intro": "Author-run examples add context to release claims. Unreadable model and video announcements leave practical terms unverified.",
-      "stories": [
-        "d03943274ae7",
-        "cf5899006194",
-        "9579282dfd01"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Paper wealth is not committed capital",
-      "intro": "Indexed reporting about insider valuations and selective infrastructure investment cannot establish realized proceeds or future commitments.",
-      "stories": [
-        "66d06a804e6e",
-        "dd1f0e649abe"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "An attributed explanation for the outages",
-      "intro": "Anonymous-source reporting connects some disruptions with hurried patching, while incident-specific forensic confirmation remains unavailable.",
-      "stories": [
-        "0363eafd0857"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The publisher behind a falling traffic chart",
-      "intro": "A first-person account adds livelihood and reader relationships to the search-click debate, without isolating every cause.",
-      "stories": [
-        "8d1c2787fa9f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Security friction and social connection",
-      "intro": "An institutional critique and a youth survey address different human costs. Neither establishes a simple causal effect of AI.",
-      "stories": [
-        "686fd50db061",
-        "7f86df1452c0"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Office agents and the data behind them",
-      "intro": "Editable application outputs, governance promises and multimodal data infrastructure come with distinct verification needs.",
-      "stories": [
-        "9c85a5718f56",
-        "c9786778ac2b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Timing complaints, creative interfaces and projected returns",
-      "intro": "A short private-evaluation excerpt, a code-heavy application page and inaccessible financial reporting support only bounded conclusions.",
-      "stories": [
-        "df0a56f66071",
-        "eaf90a1cf8d3",
-        "d3e84fecb6a2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Learning energy and writing weights",
-      "intro": "Bounded reasoning benchmarks and hand-engineered networks expose useful mechanisms without proving a general replacement for training.",
-      "stories": [
-        "85ae7bf936fc",
-        "72c22040a5eb",
-        "1a6f97c61ece",
-        "5cbc6921ac0a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Durable work is not a verified outcome",
-      "intro": "Queues, workflow recovery, mission budgets and model confidence address different pieces of reliable agent execution.",
-      "stories": [
-        "798c8735bfcc",
-        "6830c7db22dc",
-        "79cd297f996f",
-        "4218b251a82d",
-        "f799547b67ac"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Delegation raises a data boundary question",
-      "intro": "Expanded task execution and a call for data minimization put convenience and authorized scope in direct tension.",
-      "stories": [
-        "9acafc34f909",
-        "165f2ae4912c",
-        "4099fdb215a4",
-        "5457061dff50",
-        "e50f73193df3"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Robotics data and authored characters",
-      "intro": "First-person training data and constrained animatronics are distinct paths toward systems acting in physical environments.",
-      "stories": [
-        "17e5bb3611a3",
-        "684af04894c7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Authorship and consciousness remain contested",
-      "intro": "Detector scores cannot adjudicate literary authorship, and philosophical objections are not experimental consciousness tests.",
-      "stories": [
-        "12759f585c95",
-        "e63430832ec4",
-        "5a25b1c66d06",
-        "179e590c3127"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Board decisions, negotiations and proposed rules",
-      "intro": "A conditional return offer, investment regret and reported policy discussions must remain distinct from completed decisions.",
-      "stories": [
-        "db93030dce73",
-        "9a146c68e5a7",
-        "7932cd302866",
-        "09b636ac9a37",
-        "8f244e136b85",
-        "78f30a2292f6",
-        "a2a17a3e5428"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Model speed and generated worlds",
-      "intro": "New Google releases combine benchmark claims with different access tiers and explicit research limits.",
-      "stories": [
-        "43e7dd620719",
-        "1b216eaf5fd1",
-        "1716c585ae29"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "From audit questions to maintained software",
-      "intro": "A parallel audit trial, software factories and rewrite critiques distinguish activity from independently reliable outcomes.",
-      "stories": [
-        "237672bc5461",
-        "d7b365ab6b18",
-        "2e52bfe7a641",
-        "2f7f81084eed",
-        "27394eb2d154"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Infrastructure reaches beyond the sandbox",
-      "intro": "Open-table indexes and environment lifecycles solve different constraints, while draft approval remains a claim to test.",
-      "stories": [
-        "0896c2b0ce4e",
-        "21205a0a1685",
-        "2ee7cbf8424e",
-        "ca2f718efe6e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Scanner identity is not a user-agent string",
-      "intro": "Observed probes for exposed configuration do not establish who controls a scanner, and vulnerability reports still need official advisories.",
-      "stories": [
-        "3aca80047cac",
-        "d34229657679"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Offering prices, ownership and opposition",
-      "intro": "Updated pricing reports, convertible ownership and advocacy need different standards from completed trading or adjudicated findings.",
-      "stories": [
-        "67835862d67f",
-        "d6bbe97eecb8",
-        "0ca08945f0ad",
-        "5576e271b577",
-        "922ef7ae50c1",
-        "3a65a7099408",
-        "96472f28438e",
-        "81229296622e",
-        "b838768b27a1"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Questions about education and cognition",
-      "intro": "An episode description and a short metaphor do not establish measured educational or cognitive effects.",
-      "stories": [
-        "7a350a27dc87",
-        "8d8766b67cd7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Offering terms replace earlier estimates",
-      "intro": "A primary pricing announcement gives a newer share count, while regional-tranche and investment-strategy reports remain separately sourced.",
-      "stories": [
-        "afb2565ea363",
-        "bc54c7ecffea",
-        "bfe2a65999f4",
-        "9a79fc36c72c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Speed projections meet measured task costs",
-      "intro": "Neon preference projections, evaluator measurements and launch-price reporting answer different questions.",
-      "stories": [
-        "b1490d672445",
-        "0085318bf23d",
-        "ec1cbdc496d9"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Verification is bounded by the checks",
-      "intro": "Coding gates, streaming exports and investigation workflows describe useful designs without proving every result correct.",
-      "stories": [
-        "477f08991e76",
-        "f5c8c3ff9a3d",
-        "a91534357939",
-        "e3402c51ea9d",
-        "9e403413ed44",
-        "6d5ac635ec4a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A false alert and institutional choices",
-      "intro": "Plaintiff allegations, school procurement discussions and government cybercrime spending require distinct evidence.",
-      "stories": [
-        "a01fbbc99326",
-        "4ec0d6ede325",
-        "0e1ed16d15ab",
-        "d24cff0cd99e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Reconstruction, creative credit and value capture",
-      "intro": "An inversion abstract, production notes and a historical analogy leave important questions open.",
-      "stories": [
-        "accbc1cc9ca3",
-        "283d9c222f01",
-        "c7f26de1ab1e",
-        "0e15981f91aa"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Word boundaries and compact illustrations",
-      "intro": "Two small tools make concrete representation choices, with vendor benchmarks and explicit scope limits.",
-      "stories": [
-        "3bf4035ac30a",
-        "1c2358600c6a"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Corrections and promotions complicate model comparisons",
-      "intro": "A roundup correction and temporary prices show why a launch ranking is not a stable universal ordering.",
-      "stories": [
-        "229d4c712eaa",
-        "01028392e62b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Investigations and uncertain identities",
-      "intro": "A contested identity link, reported agent concerns and an opened investigation must not become findings of guilt or confirmed leaks.",
-      "stories": [
-        "205bebd6a107",
-        "dd293e15d96f",
-        "16b272da3db0",
-        "676f22984d15"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Institutional choices under pressure",
-      "intro": "Campus objections, sovereign-model debates and travel hurdles have different sources and unresolved practical outcomes.",
-      "stories": [
-        "748f7eb450c4",
-        "d18b873eafe8",
-        "5e92a3a43973"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Funding and employee perspectives remain separate",
-      "intro": "Laboratory financing, IPO allocations and interview impressions measure neither scientific success nor consensus.",
-      "stories": [
-        "7e1e4e037f32",
-        "d8d7062f0d44",
-        "1d8d5dce6999"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "What people can turn off or keep local",
-      "intro": "Canva controls, a non-generative writing pitch and local-model advocacy approach user choice from different directions.",
-      "stories": [
-        "21c06208abc5",
-        "dc88f413a3db",
-        "4678ab14c6bf",
-        "b259f6a295d6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Running a product is more than generating code",
-      "intro": "Model-training platforms, incident models and continuous maintenance tools need separate checks for model quality and system behavior.",
-      "stories": [
-        "e788d1aca1aa",
-        "c144059b303d",
-        "385f9827a214",
-        "00a23b0be1c1",
-        "9906b3bfe565"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Cache economics and voice transport",
-      "intro": "Session switching and speech delivery have workload-specific costs that simple per-token or latency slogans miss.",
-      "stories": [
-        "d32533b30fc4",
-        "b32f3a117596",
-        "cb036fa8c3d3",
-        "5b38cef5d2ca"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Historical spending is not future capacity",
-      "intro": "Annualized compute estimates, proposed orbital servers and grid projections measure different stages of infrastructure.",
-      "stories": [
-        "e5ac0c0ab894",
-        "993e95419698",
-        "ef43f43364aa",
-        "aabfd507bb76",
-        "96ca3b8538da"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Arguments about power and the future",
-      "intro": "Engineering objections, timeline forecasts, policy visions and labor and copyright debates remain distinct kinds of evidence.",
-      "stories": [
-        "ff14cf8ca8e2",
-        "7771e73b67b1",
-        "dacd3286c254",
-        "b827849004e8",
-        "8488a8e24842",
-        "f0cb8026ed28",
-        "bb5816cf6717"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Commerce, craft and scarce shares",
-      "intro": "Unreadable interviews and financial excerpts support only limited conclusions about how value and access are distributed.",
-      "stories": [
-        "8d3c9acf2822",
-        "58c2d9366a1d",
-        "31d78ecfe775"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Cyberattack attribution needs an accessible record",
-      "intro": "A short indexed report does not establish the causal contribution of an intrusion tool.",
-      "stories": [
-        "da889bf83ea1"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A first trade is not a closing valuation",
-      "intro": "The offering price, opening trade and closing price describe different stages, while share-count conventions change the valuation.",
-      "stories": [
-        "67ea0c5a00f0",
-        "ba14e69f5e85",
-        "ebaee0f29830",
-        "03bf5b9e2789"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "What counts as checking a result",
-      "intro": "A physics announcement, missing table generators and verification arguments each need checks suited to their claims.",
-      "stories": [
-        "3dfc4c6d6922",
-        "8785cd22c077",
-        "3957e098eabf",
-        "9d5ef95c5d71"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Agent controls and the worlds used to test them",
-      "intro": "Computer-use previews and simulated websites address different layers of operational risk.",
-      "stories": [
-        "c11270c8084c",
-        "945a7e290889",
-        "e6b197ad0202",
-        "b9145b5f0df8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Working conditions and public opposition",
-      "intro": "Platform labor, career anxiety and protests describe distinct kinds of evidence about AI’s social effects.",
-      "stories": [
-        "59f923214a4a",
-        "84484020aa81",
-        "caf5eba5f64a",
-        "b75ac995e1fa",
-        "82d7888e18ff"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Products still need their own evidence",
-      "intro": "A design canvas, molecule models, a game review and a proposed device price cannot substitute for tests of their different promises.",
-      "stories": [
-        "43bd8521ab87",
-        "4489e177bad9",
-        "b68150f1db04",
-        "26f066e04764"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Local speech has modularity tradeoffs",
-      "intro": "An edited interview describes local control and component reuse without establishing universal benchmark parity.",
-      "stories": [
-        "7c6e0e378967"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "What a forecast or ranking actually establishes",
-      "intro": "A sparse ranking interface and a conditional superintelligence essay require different checks.",
-      "stories": [
-        "7a84715021d2",
-        "beb42b931c6f"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Reporting to authorities needs context",
-      "intro": "A secondhand account, an inaccessible court report and a leadership excerpt do not establish universal legal rules.",
-      "stories": [
-        "be1ed1dbc74d",
-        "951c8cf16a4e",
-        "70e71aeea194"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Usage growth has a cost side",
-      "intro": "Agent-created issues, trial abuse and missing demand arguments measure different parts of product economics.",
-      "stories": [
-        "987fc8875cbb",
-        "35f5fd629ae4",
-        "98a3088b1f57"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Approvals, hiring and demonstrations are different stages",
-      "intro": "Chip licensing, a reported development role and a console interface do not prove deployment outcomes.",
-      "stories": [
-        "1b575b62f37a",
-        "8bc253d1a3c3",
-        "fd2cac56fd03"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Paper gains and negotiating prices remain conditional",
-      "intro": "Estimated stakes and acquisition talks are not cash distributions or completed deals.",
-      "stories": [
-        "6084adc38d85",
-        "dde8d6fb29e2",
-        "541243ef6e75"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Market reactions do not isolate causes",
-      "intro": "A trading roundup, regional sell-off and postponed offering describe different stages and evidentiary limits.",
-      "stories": [
-        "9d31b418bde0",
-        "c1c754516a87",
-        "a8aa94b5375b"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Industrial monitoring meets access constraints",
-      "intro": "Equipment analytics and reported remote-compute licensing scrutiny require distinct technical and legal checks.",
-      "stories": [
-        "bb5a74594b59",
-        "a65946ee4a9e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Listings and interface rollouts have narrow meanings",
-      "intro": "Job advertisements are not employment totals, and a desktop rollout statement is not account-specific availability.",
-      "stories": [
-        "0303cdc9c071",
-        "391840735bd6"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Time windows matter in trading excerpts",
-      "intro": "A homepage link and inconsistent headline and excerpt prevent a precise price or offering-total comparison.",
-      "stories": [
-        "06d0cdb46f58"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Proof claims meet independent review",
-      "intro": "An author statement, a formalization report and a separate ETH review announcement are different stages of mathematical scrutiny.",
-      "stories": [
-        "0c48f382a921",
-        "6618523ad9cf",
-        "eca405337152",
-        "49de74c1ac42"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Hardware gains need the right denominator",
-      "intro": "Pre-silicon CPU comparisons and optical-operation energy do not automatically translate into whole-system wins.",
-      "stories": [
-        "f9957632da1c",
-        "132cb9e68de2",
-        "35e8e9a2eddd",
-        "b9a41bba9bec"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Nearly correct is not complete",
-      "intro": "Integration scoring, agent coordination and deferred schemas expose distinct limits behind automation headlines.",
-      "stories": [
-        "3a38b54864fe",
-        "7e336fd7d3be",
-        "536698282b31",
-        "66aa67c82e65"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Isolation must be tested at several layers",
-      "intro": "Synthetic websites, shared inference state and incomplete screenshot controls address different security boundaries.",
-      "stories": [
-        "cba5f2e65db1",
-        "85b8cd249acd",
-        "2abe949fc5a7"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Extraction and computer use change product boundaries",
-      "intro": "Specialized models and background app control come with rollout and evaluation limits.",
-      "stories": [
-        "a026531f9b6b",
-        "216cf4bf8746",
-        "9a192188389a",
-        "0b6822f42497",
-        "cd1a46d8f962",
-        "76aff1ac8e49"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Financing totals are not trading outcomes",
-      "intro": "Overallotment exercise, private valuations and intraday share moves must remain separate.",
-      "stories": [
-        "fb4cebfc73cc",
-        "2be753e45cb5",
-        "fc5c4b2c7162",
-        "1dba69797eec",
-        "bb3fb5845460"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Feed inclusion is not a substantive AI claim",
-      "intro": "A cultural review and an inaccessible podcast discussion have different limits from technical reporting.",
-      "stories": [
-        "f127e25cab2c",
-        "ece0b4804330"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "More computation is not more knowledge",
-      "intro": "A looped-model release and a repeated-advice experiment ask different questions about capability and diversity.",
-      "stories": [
-        "d3befbfaf819",
-        "3db3d2167907"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Verification starts with the claim being checked",
-      "intro": "Formal tools, research judgments and court citations all require a faithful target rather than a plausible-looking answer.",
-      "stories": [
-        "01a981b35824",
-        "5ca266fe801e",
-        "0bf1386ec779"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Proposed proofs remain separate proposals",
-      "intro": "A collected quotation adds attribution, not acceptance; two different mathematical proposals must not be collapsed.",
-      "stories": [
-        "3e0d2439768d",
-        "38f5e527805c"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Building agents still means choosing boundaries",
-      "intro": "An FPGA project, self-hosted sessions and extraction defenses expose different cost and security tradeoffs.",
-      "stories": [
-        "f22621acd445",
-        "0f03f03a17e0",
-        "a6e5d1528f81"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Adoption disputes are not automatic permissions",
-      "intro": "School choices, seller objections and safety criticism remain attributed positions with distinct evidence.",
-      "stories": [
-        "91013106faaa",
-        "ee74b45bd3b9",
-        "199172461838"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Markets, talks and threats have different finality",
-      "intro": "Closing prices, proposed rounds, deal talks and political statements must not become completed transactions or enacted rules.",
-      "stories": [
-        "65b16025b534",
-        "bc7f6a100325",
-        "09b53fce419b",
-        "33d26781a5fa",
-        "92275392d7d1",
-        "fbc5d059f4bc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Privacy boundaries depend on the platform",
-      "intro": "Signal’s own announcement explains why screenshot controls do not cover every route to decrypted application data.",
-      "stories": [
-        "6e4e4b581c23"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Cost proxies and proposed migrations need precise labels",
-      "intro": "Independent model comparisons and reported geopolitical plans describe different kinds of evidence.",
-      "stories": [
-        "3875fe11cced",
-        "47d0a70f0fcc"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A funding claim is not a financing audit",
-      "intro": "An unrelated profile post, early fundraising talks and an inaccessible market report each limit what can be checked.",
-      "stories": [
-        "2ead59ff2766",
-        "3d3e6d267a8e",
-        "80bea6ded163"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Personal accounts and episode lists have narrower scope",
-      "intro": "A discussion of unemployment is not a labor survey, and a podcast topic list is not its argument.",
-      "stories": [
-        "eb9369c30c0f",
-        "f598051ed0ef"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "The machine running the interface is not the model",
-      "intro": "A retro computing project makes the boundary between a local harness and remote inference unusually visible.",
-      "stories": [
-        "d4b09ea86246"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A claim still needs its missing checks",
-      "intro": "A rushed mathematical write-up and a flattened benchmark table each leave a different verification gap.",
-      "stories": [
-        "4cd9ed1637b6",
-        "d8f07e649db2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Organizational plans are not demonstrated outcomes",
-      "intro": "A new gameplay subsidiary, an inaccessible governance article and an export-rule excerpt establish different amounts of evidence.",
-      "stories": [
-        "002a881a23cd",
-        "5fd03ac15257",
-        "b146db6c4570"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Prompt exposure needs a traceable path",
-      "intro": "A canary investigation separates evidence of access from attribution to a particular provider or intermediary.",
-      "stories": [
-        "728289776a93"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Making state and rights explicit",
-      "intro": "Replication positions and structured licensing metadata help communicate boundaries without making them universal guarantees.",
-      "stories": [
-        "3fa728a5d3ac",
-        "bcab14b0afa8"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A headline or ratio cannot complete the argument",
-      "intro": "An inaccessible market report, an interview description and a projected spending comparison each leave important checks open.",
-      "stories": [
-        "67c0b724b398",
-        "99219a4424e3",
-        "98e644e17b1e"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Daily allowances are not unlimited access",
-      "intro": "Apple documents shared extra usage and regional exclusions for a future software rollout.",
-      "stories": [
-        "dd0d93d65e70"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A route into a renderer is not the same as a proven exploit",
-      "intro": "The Upload2Shell index separates tested application chains, configuration prerequisites and paths traced only to the underlying renderer.",
-      "stories": [
-        "687309907c91"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "More attempts and more tokens still need better evaluation",
-      "intro": "A coding-search project reports disappointing hidden-test results, while a plugin fix makes an expensive reasoning setting available.",
-      "stories": [
-        "9809e88c81f3",
-        "b81501fc1bfd"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "A notification adds context, not a second experiment",
-      "intro": "Ars covers the existing canary investigation and reports a routing-provider response, with attribution limits intact.",
-      "stories": [
-        "dc521942f3f2"
-      ],
-      "concepts": []
-    },
-    {
-      "title": "Personal projects and acquisition talks retain their limits",
-      "intro": "A creator account is not a productivity study, and an indexed deal report is not a completed purchase.",
-      "stories": [
-        "b7b3f708b1eb",
-        "02f357c1f4de"
-      ],
-      "concepts": []
-    }
-  ],
-  "week": "2026-W47"
+ "id": "weekly-2026-W47",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "A tested analog synthesizer, Datasette releases and inference tradeoffs provide concrete engineering detail. Hiring and compute estimates need their sample boundaries, while financing headlines remain attributed plans rather than completed outcomes."
+ ],
+ "sections": [
+  {
+   "title": "Hiring signals and public contact exposure",
+   "intro": "Community records reveal a narrow hiring sample and an anecdotal scam report, not economy-wide or forensic conclusions.",
+   "stories": [
+    "8df6b8be193a",
+    "c0b8ca5958bb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "From circuits to serving constraints",
+   "intro": "A physical synthesizer build and inference engineering notes make the role of testing and workload choices visible.",
+   "stories": [
+    "a5db7f1b8901",
+    "721384ec85fc",
+    "c0d2379d96a6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent tooling needs more than an installation",
+   "intro": "A reusable skill manifest and a testing framework address different parts of development; neither establishes trust by itself.",
+   "stories": [
+    "e5ce0d3e4dbb",
+    "dd748603ec0c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Datasette connects exports, prompts and applications",
+   "intro": "Four maintainer release notes describe specific changes across the data platform and its plugins.",
+   "stories": [
+    "58bd47a08a82",
+    "8b1995c75e00",
+    "23b31c283446",
+    "db9d958881e7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Estimating capacity and financing its expansion",
+   "intro": "Satellite-based compute estimates differ from company funding reports and inaccessible accounts of planned deals.",
+   "stories": [
+    "d95fcc4a622f",
+    "cd48de158929",
+    "2e11e792cd8e",
+    "a0a1b102d343"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Capital, professional work and human differentiation",
+   "intro": "Tax-software expansion and IPO demand sit alongside a truncated opinion about human-made brands.",
+   "stories": [
+    "416fcc4f194c",
+    "d4a101923e0b",
+    "061fc5395004"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A new flagship with only an indexed announcement",
+   "intro": "Two feed entries point to the same Qwen page; its specifications remain attributed because the article text was not readable.",
+   "stories": [
+    "bac8fed8270c",
+    "36e30a174d73"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reports of harm need the right denominator",
+   "intro": "Child-safety reporting documents a sharp increase, while changes in detection remain part of its interpretation.",
+   "stories": [
+    "a0cf9bcdd67b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reviewing code and judging subscriptions",
+   "intro": "A guided-review tool has a readable design account; a subscription complaint remains title-only.",
+   "stories": [
+    "874f975774e9",
+    "540da2637398"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Qwen comparisons and safeguards remain attributed",
+   "intro": "Vendor claims and indexed benchmark results are distinct from directly inspected evaluations.",
+   "stories": [
+    "b6ccd066d539",
+    "2a32990b4f59",
+    "a4b8ab3f31a2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Health research and connected patient records",
+   "intro": "A consumer study and clinical-data infrastructure pursue different goals, with benefits still requiring evidence.",
+   "stories": [
+    "c0ea354e7b0c",
+    "3be578acf141"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "New capital meets deployment constraints",
+   "intro": "Funding reports span management software, accounting and sensors; offshore data-center announcements remain proposals.",
+   "stories": [
+    "7c7ddee19ef0",
+    "70ebfe5504d1",
+    "76d779d5430d",
+    "5c7470741210"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Education and trade policy are works in progress",
+   "intro": "A literacy campaign, proposed national champions and export legislation need to be distinguished from final outcomes.",
+   "stories": [
+    "77dbd6c8880d",
+    "798cb02a10b2",
+    "1792febc3196",
+    "4c2377793700"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Observed cyber campaigns and the limits of their evidence",
+   "intro": "SiliconANGLE and [The Register](../summaries/f51b17e6669b.md) cover the same Google investigation, not independent forensic replications. A funding announcement is a different kind of security evidence.",
+   "stories": [
+    "c55f583b7ac9",
+    "27bbb64dd819"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Simulated worlds and isolated design choices",
+   "intro": "Driving predictions and controlled vision experiments test specific representations, while a physics headline remains unverified.",
+   "stories": [
+    "0ef208ee8ae4",
+    "7e7e145f37b7",
+    "4095d79344b0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Evaluations, training and bottlenecks",
+   "intro": "Methods guidance and an explicitly limited small-model release offer a counterweight to broad capability claims.",
+   "stories": [
+    "9947b8de96c0",
+    "a3a765808527",
+    "6f25253ef10e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Shipping agent products with explicit limits",
+   "intro": "Private applications, durable software patterns and a protocol announcement address different product layers.",
+   "stories": [
+    "c6a44373ea58",
+    "f26845627ad1",
+    "da95cc2bdb02",
+    "b565bda1d2e6",
+    "9354ab5ab494",
+    "c68499267b48"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Customer context and clinical predictions",
+   "intro": "A CRM funding report describes a product; a health-model funding excerpt leaves clinical outcomes unresolved.",
+   "stories": [
+    "229a83abed4d",
+    "dc5d9f709248"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Nvidia commentary and public appeals",
+   "intro": "A strategic essay, a factional interpretation and a petition do not independently adjudicate the underlying allegations.",
+   "stories": [
+    "9cec9b86bbe9",
+    "92115e77d1be",
+    "814524838b76"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Who finances infrastructure and who bears its costs",
+   "intro": "Insurer exposure, local opposition and interim trade-rule reporting require different evidence and different caveats.",
+   "stories": [
+    "a527ca54a4fc",
+    "cbbf5443289f",
+    "54e7a233acf6",
+    "30387e084ed6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Shorter disclosure windows and faster reported intrusions",
+   "intro": "Anthropic changes its own future disclosure policy while FBI-linked reporting describes already observed misuse.",
+   "stories": [
+    "f0e7b8ebd7cb",
+    "a111c9f4249a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Child-protection tools and external scrutiny",
+   "intro": "New safety tools, assessor agreements and allegations in litigation represent different evidence, not interchangeable safety verdicts. The primary child-safety announcement is also indexed [here](../summaries/f6f8efc1508f.md).",
+   "stories": [
+    "d0719828a273",
+    "8393a772bff8",
+    "f6f8f5de8948"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Hands, homework and hardware input",
+   "intro": "A muscle-sensing sleeve has a detailed founder account; a course-policy headline remains inaccessible.",
+   "stories": [
+    "8cd4792e9009",
+    "07d91d37c9ec",
+    "4d0e09dd3e8a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Orders, optimization and export access",
+   "intro": "Prospective investments and executive opinions need different treatment from legal requirements.",
+   "stories": [
+    "023131b052fd",
+    "8ee4379a6732",
+    "04927ccfedbb",
+    "897ca9d3f363"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Who can use a signed-in session?",
+   "intro": "Browser access, local command approval and narrower operating-system permissions expose distinct boundaries. None is a universal safeguard.",
+   "stories": [
+    "1bbf2359261f",
+    "92e7bf937344",
+    "e959fc4a8728",
+    "249df63cfa61"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Serving costs and workload-specific claims",
+   "intro": "GPU porting, tracking throughput and cluster scheduling claims need their hardware and workload boundaries.",
+   "stories": [
+    "adb8d43a398b",
+    "2698fce9df1c",
+    "c17d19332482"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Maintenance includes shutdowns and review gates",
+   "intro": "A service closure and a logging fix are concrete changes; contribution filtering remains a proposed experiment.",
+   "stories": [
+    "af9b07226a1b",
+    "c8d402a32c26",
+    "6a9763582c08"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Demonstrations are not independent evaluations",
+   "intro": "An animated spreadsheet is a promotional example, placeholder charts are fictional, and unreadable learning resources cannot be reviewed.",
+   "stories": [
+    "025888ec0e70",
+    "5fb01a0f975b",
+    "f021e93c6bae",
+    "5e0d4e18b7d6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Snapshots, allegations and speculative risk",
+   "intro": "Historical portfolio disclosures, attributed misconduct allegations and political predictions must not be flattened into established present facts.",
+   "stories": [
+    "0062eecc288b",
+    "97b5826e973d",
+    "647ea49b7dab",
+    "7f0a051db2b5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Backlogs, token bills and browser migration",
+   "intro": "Developer anecdotes and author-run cost estimates need different evidence from a tested migration or measured productivity gain.",
+   "stories": [
+    "4a13fe9b4338",
+    "dec0d9448b6d",
+    "f19e0c0056a7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Hardware roadmaps and contested expansion",
+   "intro": "A GPU announcement and reports of distillation, local restrictions and dealership funding describe plans and attributed findings, not uniform proof of deployment outcomes.",
+   "stories": [
+    "42a18560c2f1",
+    "4c974c57ad40",
+    "54cbd041903b",
+    "f5493a14c565"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cost per successful run, not just token price",
+   "intro": "Benchmarks, verification methods and numerical alignment all depend on the measurement boundary.",
+   "stories": [
+    "9b78f0193aab",
+    "6e5771019ad9",
+    "4c55f02bac7f",
+    "b542d108672a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "What protein prediction and evaluation awareness reveal",
+   "intro": "Behavioral tests support bounded inferences, not direct access to training records or proof of deceptive intent.",
+   "stories": [
+    "b9ffdd905a05",
+    "82d7f1913932"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Routing, notebooks and lower-cost deployment",
+   "intro": "Launch claims distinguish current services, staged rollouts and future weight releases.",
+   "stories": [
+    "4ed797a61d83",
+    "c35464b39545",
+    "93295ec4c3ad",
+    "805706b0c66f",
+    "3adac9df72f2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Capital and infrastructure are still constraints",
+   "intro": "Financing reports, roadmaps and policy exposure should not be treated as completed deployment or financial outcomes.",
+   "stories": [
+    "60dc7db7771d",
+    "3d00cd70bd7a",
+    "2cab7830caba",
+    "3b2e315b3e11",
+    "5f7fd63c2937",
+    "9ba954c68349",
+    "7fec23053eb5",
+    "9990dd523e2d",
+    "5c7d12b452e4"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Risk arguments, legal allegations and early user reports",
+   "intro": "Commentary and partial reporting retain their limits rather than becoming verified common causes.",
+   "stories": [
+    "eab0c36e62dd",
+    "c2158fa031c1",
+    "73921541604d",
+    "fac77da1b0a0",
+    "faae4cbedf4d",
+    "e3ca83573b27",
+    "033acdfad6db",
+    "5638db057c7c",
+    "11ecefc76672"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Launch claims meet outside measurements",
+   "intro": "Model releases combine vendor comparisons, third-party indexes and workload-specific costs rather than one universal ranking.",
+   "stories": [
+    "469a3db8f8a2",
+    "f75cdcfbb667",
+    "bc282173ba4c",
+    "16d17f137b43",
+    "457a15c01643"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Privacy, outages and attribution",
+   "intro": "Retention changes are different from training choices; service disruption alone does not identify a coordinated attacker.",
+   "stories": [
+    "1cdfb8398bbb",
+    "7791046af256",
+    "c22e53855e8a",
+    "e04f2967eee8",
+    "904025e3ff01"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Practical systems beyond a larger model",
+   "intro": "Settings snapshots, browser-run Python and workload-aware inference offer concrete designs with distinct compatibility limits.",
+   "stories": [
+    "507d06b9231a",
+    "7dddcbc98095",
+    "efddb909bdaf",
+    "4497d49316ad",
+    "fd18b934f4cc",
+    "e378347837ac"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Money, creative responsibility and belief",
+   "intro": "Funding, lobbying narratives and cultural essays require different standards of evidence.",
+   "stories": [
+    "1a0afa1ca577",
+    "76d447eb6c73",
+    "ee54f36c1d32",
+    "51194ce554d6",
+    "a49ff87d7934"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Search clicks and the cost of review",
+   "intro": "Desktop search experiments and engineering-adoption studies measure different downstream effects. Their samples and identification limits matter.",
+   "stories": [
+    "e899e59c81a1",
+    "a6d0641f3e6f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Separating generated code from its executor",
+   "intro": "An external sandbox design narrows one execution boundary, while split inference assigns prompt processing and response generation to different hardware.",
+   "stories": [
+    "4dd2685da65f",
+    "77cfd79db59c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Launch demonstrations and inaccessible details",
+   "intro": "Author-run examples add context to release claims. Unreadable model and video announcements leave practical terms unverified.",
+   "stories": [
+    "d03943274ae7",
+    "cf5899006194",
+    "9579282dfd01"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Paper wealth is not committed capital",
+   "intro": "Indexed reporting about insider valuations and selective infrastructure investment cannot establish realized proceeds or future commitments.",
+   "stories": [
+    "66d06a804e6e",
+    "dd1f0e649abe"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An attributed explanation for the outages",
+   "intro": "Anonymous-source reporting connects some disruptions with hurried patching, while incident-specific forensic confirmation remains unavailable.",
+   "stories": [
+    "0363eafd0857"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The publisher behind a falling traffic chart",
+   "intro": "A first-person account adds livelihood and reader relationships to the search-click debate, without isolating every cause.",
+   "stories": [
+    "8d1c2787fa9f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Security friction and social connection",
+   "intro": "An institutional critique and a youth survey address different human costs. Neither establishes a simple causal effect of AI.",
+   "stories": [
+    "686fd50db061",
+    "7f86df1452c0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Office agents and the data behind them",
+   "intro": "Editable application outputs, governance promises and multimodal data infrastructure come with distinct verification needs.",
+   "stories": [
+    "9c85a5718f56",
+    "c9786778ac2b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Timing complaints, creative interfaces and projected returns",
+   "intro": "A short private-evaluation excerpt, a code-heavy application page and inaccessible financial reporting support only bounded conclusions.",
+   "stories": [
+    "df0a56f66071",
+    "eaf90a1cf8d3",
+    "d3e84fecb6a2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Learning energy and writing weights",
+   "intro": "Bounded reasoning benchmarks and hand-engineered networks expose useful mechanisms without proving a general replacement for training.",
+   "stories": [
+    "85ae7bf936fc",
+    "72c22040a5eb",
+    "1a6f97c61ece",
+    "5cbc6921ac0a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Durable work is not a verified outcome",
+   "intro": "Queues, workflow recovery, mission budgets and model confidence address different pieces of reliable agent execution.",
+   "stories": [
+    "798c8735bfcc",
+    "6830c7db22dc",
+    "79cd297f996f",
+    "4218b251a82d",
+    "f799547b67ac"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Delegation raises a data boundary question",
+   "intro": "Expanded task execution and a call for data minimization put convenience and authorized scope in direct tension.",
+   "stories": [
+    "9acafc34f909",
+    "165f2ae4912c",
+    "4099fdb215a4",
+    "5457061dff50",
+    "e50f73193df3"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Robotics data and authored characters",
+   "intro": "First-person training data and constrained animatronics are distinct paths toward systems acting in physical environments.",
+   "stories": [
+    "17e5bb3611a3",
+    "684af04894c7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Authorship and consciousness remain contested",
+   "intro": "Detector scores cannot adjudicate literary authorship, and philosophical objections are not experimental consciousness tests.",
+   "stories": [
+    "12759f585c95",
+    "e63430832ec4",
+    "5a25b1c66d06",
+    "179e590c3127"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Board decisions, negotiations and proposed rules",
+   "intro": "A conditional return offer, investment regret and reported policy discussions must remain distinct from completed decisions.",
+   "stories": [
+    "db93030dce73",
+    "9a146c68e5a7",
+    "7932cd302866",
+    "09b636ac9a37",
+    "8f244e136b85",
+    "78f30a2292f6",
+    "a2a17a3e5428"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Model speed and generated worlds",
+   "intro": "New Google releases combine benchmark claims with different access tiers and explicit research limits.",
+   "stories": [
+    "43e7dd620719",
+    "1b216eaf5fd1",
+    "1716c585ae29"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "From audit questions to maintained software",
+   "intro": "A parallel audit trial, software factories and rewrite critiques distinguish activity from independently reliable outcomes.",
+   "stories": [
+    "237672bc5461",
+    "d7b365ab6b18",
+    "2e52bfe7a641",
+    "2f7f81084eed",
+    "27394eb2d154"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Infrastructure reaches beyond the sandbox",
+   "intro": "Open-table indexes and environment lifecycles solve different constraints, while draft approval remains a claim to test.",
+   "stories": [
+    "0896c2b0ce4e",
+    "21205a0a1685",
+    "2ee7cbf8424e",
+    "ca2f718efe6e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Scanner identity is not a user-agent string",
+   "intro": "Observed probes for exposed configuration do not establish who controls a scanner, and vulnerability reports still need official advisories.",
+   "stories": [
+    "3aca80047cac",
+    "d34229657679"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Offering prices, ownership and opposition",
+   "intro": "Updated pricing reports, convertible ownership and advocacy need different standards from completed trading or adjudicated findings.",
+   "stories": [
+    "67835862d67f",
+    "d6bbe97eecb8",
+    "0ca08945f0ad",
+    "5576e271b577",
+    "922ef7ae50c1",
+    "3a65a7099408",
+    "96472f28438e",
+    "81229296622e",
+    "b838768b27a1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Questions about education and cognition",
+   "intro": "An episode description and a short metaphor do not establish measured educational or cognitive effects.",
+   "stories": [
+    "7a350a27dc87",
+    "8d8766b67cd7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Offering terms replace earlier estimates",
+   "intro": "A primary pricing announcement gives a newer share count, while regional-tranche and investment-strategy reports remain separately sourced.",
+   "stories": [
+    "afb2565ea363",
+    "bc54c7ecffea",
+    "bfe2a65999f4",
+    "9a79fc36c72c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Speed projections meet measured task costs",
+   "intro": "Neon preference projections, evaluator measurements and launch-price reporting answer different questions.",
+   "stories": [
+    "b1490d672445",
+    "0085318bf23d",
+    "ec1cbdc496d9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Verification is bounded by the checks",
+   "intro": "Coding gates, streaming exports and investigation workflows describe useful designs without proving every result correct.",
+   "stories": [
+    "477f08991e76",
+    "f5c8c3ff9a3d",
+    "a91534357939",
+    "e3402c51ea9d",
+    "9e403413ed44",
+    "6d5ac635ec4a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A false alert and institutional choices",
+   "intro": "Plaintiff allegations, school procurement discussions and government cybercrime spending require distinct evidence.",
+   "stories": [
+    "a01fbbc99326",
+    "4ec0d6ede325",
+    "0e1ed16d15ab",
+    "d24cff0cd99e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reconstruction, creative credit and value capture",
+   "intro": "An inversion abstract, production notes and a historical analogy leave important questions open.",
+   "stories": [
+    "accbc1cc9ca3",
+    "283d9c222f01",
+    "c7f26de1ab1e",
+    "0e15981f91aa"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Word boundaries and compact illustrations",
+   "intro": "Two small tools make concrete representation choices, with vendor benchmarks and explicit scope limits.",
+   "stories": [
+    "3bf4035ac30a",
+    "1c2358600c6a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Corrections and promotions complicate model comparisons",
+   "intro": "A roundup correction and temporary prices show why a launch ranking is not a stable universal ordering.",
+   "stories": [
+    "229d4c712eaa",
+    "01028392e62b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Investigations and uncertain identities",
+   "intro": "A contested identity link, reported agent concerns and an opened investigation must not become findings of guilt or confirmed leaks.",
+   "stories": [
+    "205bebd6a107",
+    "dd293e15d96f",
+    "16b272da3db0",
+    "676f22984d15"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Institutional choices under pressure",
+   "intro": "Campus objections, sovereign-model debates and travel hurdles have different sources and unresolved practical outcomes.",
+   "stories": [
+    "748f7eb450c4",
+    "d18b873eafe8",
+    "5e92a3a43973"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Funding and employee perspectives remain separate",
+   "intro": "Laboratory financing, IPO allocations and interview impressions measure neither scientific success nor consensus.",
+   "stories": [
+    "7e1e4e037f32",
+    "d8d7062f0d44",
+    "1d8d5dce6999"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "What people can turn off or keep local",
+   "intro": "Canva controls, a non-generative writing pitch and local-model advocacy approach user choice from different directions.",
+   "stories": [
+    "21c06208abc5",
+    "dc88f413a3db",
+    "4678ab14c6bf",
+    "b259f6a295d6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Running a product is more than generating code",
+   "intro": "Model-training platforms, incident models and continuous maintenance tools need separate checks for model quality and system behavior.",
+   "stories": [
+    "e788d1aca1aa",
+    "c144059b303d",
+    "385f9827a214",
+    "00a23b0be1c1",
+    "9906b3bfe565"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cache economics and voice transport",
+   "intro": "Session switching and speech delivery have workload-specific costs that simple per-token or latency slogans miss.",
+   "stories": [
+    "d32533b30fc4",
+    "b32f3a117596",
+    "cb036fa8c3d3",
+    "5b38cef5d2ca"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Historical spending is not future capacity",
+   "intro": "Annualized compute estimates, proposed orbital servers and grid projections measure different stages of infrastructure.",
+   "stories": [
+    "e5ac0c0ab894",
+    "993e95419698",
+    "ef43f43364aa",
+    "aabfd507bb76",
+    "96ca3b8538da"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Arguments about power and the future",
+   "intro": "Engineering objections, timeline forecasts, policy visions and labor and copyright debates remain distinct kinds of evidence.",
+   "stories": [
+    "ff14cf8ca8e2",
+    "7771e73b67b1",
+    "dacd3286c254",
+    "b827849004e8",
+    "8488a8e24842",
+    "f0cb8026ed28",
+    "bb5816cf6717"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Commerce, craft and scarce shares",
+   "intro": "Unreadable interviews and financial excerpts support only limited conclusions about how value and access are distributed.",
+   "stories": [
+    "8d3c9acf2822",
+    "58c2d9366a1d",
+    "31d78ecfe775"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cyberattack attribution needs an accessible record",
+   "intro": "A short indexed report does not establish the causal contribution of an intrusion tool.",
+   "stories": [
+    "da889bf83ea1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A first trade is not a closing valuation",
+   "intro": "The offering price, opening trade and closing price describe different stages, while share-count conventions change the valuation.",
+   "stories": [
+    "67ea0c5a00f0",
+    "ba14e69f5e85",
+    "ebaee0f29830",
+    "03bf5b9e2789"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "What counts as checking a result",
+   "intro": "A physics announcement, missing table generators and verification arguments each need checks suited to their claims.",
+   "stories": [
+    "3dfc4c6d6922",
+    "8785cd22c077",
+    "3957e098eabf",
+    "9d5ef95c5d71"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent controls and the worlds used to test them",
+   "intro": "Computer-use previews and simulated websites address different layers of operational risk.",
+   "stories": [
+    "c11270c8084c",
+    "945a7e290889",
+    "e6b197ad0202",
+    "b9145b5f0df8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Working conditions and public opposition",
+   "intro": "Platform labor, career anxiety and protests describe distinct kinds of evidence about AI’s social effects.",
+   "stories": [
+    "59f923214a4a",
+    "84484020aa81",
+    "caf5eba5f64a",
+    "b75ac995e1fa",
+    "82d7888e18ff"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Products still need their own evidence",
+   "intro": "A design canvas, molecule models, a game review and a proposed device price cannot substitute for tests of their different promises.",
+   "stories": [
+    "43bd8521ab87",
+    "4489e177bad9",
+    "b68150f1db04",
+    "26f066e04764"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Local speech has modularity tradeoffs",
+   "intro": "An edited interview describes local control and component reuse without establishing universal benchmark parity.",
+   "stories": [
+    "7c6e0e378967"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "What a forecast or ranking actually establishes",
+   "intro": "A sparse ranking interface and a conditional superintelligence essay require different checks.",
+   "stories": [
+    "7a84715021d2",
+    "beb42b931c6f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reporting to authorities needs context",
+   "intro": "A secondhand account, an inaccessible court report and a leadership excerpt do not establish universal legal rules.",
+   "stories": [
+    "be1ed1dbc74d",
+    "951c8cf16a4e",
+    "70e71aeea194"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Usage growth has a cost side",
+   "intro": "Agent-created issues, trial abuse and missing demand arguments measure different parts of product economics.",
+   "stories": [
+    "987fc8875cbb",
+    "35f5fd629ae4",
+    "98a3088b1f57"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Approvals, hiring and demonstrations are different stages",
+   "intro": "Chip licensing, a reported development role and a console interface do not prove deployment outcomes.",
+   "stories": [
+    "1b575b62f37a",
+    "8bc253d1a3c3",
+    "fd2cac56fd03"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Paper gains and negotiating prices remain conditional",
+   "intro": "Estimated stakes and acquisition talks are not cash distributions or completed deals.",
+   "stories": [
+    "6084adc38d85",
+    "dde8d6fb29e2",
+    "541243ef6e75"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Market reactions do not isolate causes",
+   "intro": "A trading roundup, regional sell-off and postponed offering describe different stages and evidentiary limits.",
+   "stories": [
+    "9d31b418bde0",
+    "c1c754516a87",
+    "a8aa94b5375b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Industrial monitoring meets access constraints",
+   "intro": "Equipment analytics and reported remote-compute licensing scrutiny require distinct technical and legal checks.",
+   "stories": [
+    "bb5a74594b59",
+    "a65946ee4a9e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Listings and interface rollouts have narrow meanings",
+   "intro": "Job advertisements are not employment totals, and a desktop rollout statement is not account-specific availability.",
+   "stories": [
+    "0303cdc9c071",
+    "391840735bd6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Time windows matter in trading excerpts",
+   "intro": "A homepage link and inconsistent headline and excerpt prevent a precise price or offering-total comparison.",
+   "stories": [
+    "06d0cdb46f58"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proof claims meet independent review",
+   "intro": "An author statement, a formalization report and a separate ETH review announcement are different stages of mathematical scrutiny.",
+   "stories": [
+    "0c48f382a921",
+    "6618523ad9cf",
+    "eca405337152",
+    "49de74c1ac42"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Hardware gains need the right denominator",
+   "intro": "Pre-silicon CPU comparisons and optical-operation energy do not automatically translate into whole-system wins.",
+   "stories": [
+    "f9957632da1c",
+    "132cb9e68de2",
+    "35e8e9a2eddd",
+    "b9a41bba9bec"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Nearly correct is not complete",
+   "intro": "Integration scoring, agent coordination and deferred schemas expose distinct limits behind automation headlines.",
+   "stories": [
+    "3a38b54864fe",
+    "7e336fd7d3be",
+    "536698282b31",
+    "66aa67c82e65"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Isolation must be tested at several layers",
+   "intro": "Synthetic websites, shared inference state and incomplete screenshot controls address different security boundaries.",
+   "stories": [
+    "cba5f2e65db1",
+    "85b8cd249acd",
+    "2abe949fc5a7"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Extraction and computer use change product boundaries",
+   "intro": "Specialized models and background app control come with rollout and evaluation limits.",
+   "stories": [
+    "a026531f9b6b",
+    "216cf4bf8746",
+    "9a192188389a",
+    "0b6822f42497",
+    "cd1a46d8f962",
+    "76aff1ac8e49"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Financing totals are not trading outcomes",
+   "intro": "Overallotment exercise, private valuations and intraday share moves must remain separate.",
+   "stories": [
+    "fb4cebfc73cc",
+    "2be753e45cb5",
+    "fc5c4b2c7162",
+    "1dba69797eec",
+    "bb3fb5845460"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Feed inclusion is not a substantive AI claim",
+   "intro": "A cultural review and an inaccessible podcast discussion have different limits from technical reporting.",
+   "stories": [
+    "f127e25cab2c",
+    "ece0b4804330"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "More computation is not more knowledge",
+   "intro": "A looped-model release and a repeated-advice experiment ask different questions about capability and diversity.",
+   "stories": [
+    "d3befbfaf819",
+    "3db3d2167907"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Verification starts with the claim being checked",
+   "intro": "Formal tools, research judgments and court citations all require a faithful target rather than a plausible-looking answer.",
+   "stories": [
+    "01a981b35824",
+    "5ca266fe801e",
+    "0bf1386ec779"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Proposed proofs remain separate proposals",
+   "intro": "A collected quotation adds attribution, not acceptance; two different mathematical proposals must not be collapsed.",
+   "stories": [
+    "3e0d2439768d",
+    "38f5e527805c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Building agents still means choosing boundaries",
+   "intro": "An FPGA project, self-hosted sessions and extraction defenses expose different cost and security tradeoffs.",
+   "stories": [
+    "f22621acd445",
+    "0f03f03a17e0",
+    "a6e5d1528f81"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Adoption disputes are not automatic permissions",
+   "intro": "School choices, seller objections and safety criticism remain attributed positions with distinct evidence.",
+   "stories": [
+    "91013106faaa",
+    "ee74b45bd3b9",
+    "199172461838"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Markets, talks and threats have different finality",
+   "intro": "Closing prices, proposed rounds, deal talks and political statements must not become completed transactions or enacted rules.",
+   "stories": [
+    "65b16025b534",
+    "bc7f6a100325",
+    "09b53fce419b",
+    "33d26781a5fa",
+    "92275392d7d1",
+    "fbc5d059f4bc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Privacy boundaries depend on the platform",
+   "intro": "Signal’s own announcement explains why screenshot controls do not cover every route to decrypted application data.",
+   "stories": [
+    "6e4e4b581c23"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cost proxies and proposed migrations need precise labels",
+   "intro": "Independent model comparisons and reported geopolitical plans describe different kinds of evidence.",
+   "stories": [
+    "3875fe11cced",
+    "47d0a70f0fcc"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A funding claim is not a financing audit",
+   "intro": "An unrelated profile post, early fundraising talks and an inaccessible market report each limit what can be checked.",
+   "stories": [
+    "2ead59ff2766",
+    "3d3e6d267a8e",
+    "80bea6ded163"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Personal accounts and episode lists have narrower scope",
+   "intro": "A discussion of unemployment is not a labor survey, and a podcast topic list is not its argument.",
+   "stories": [
+    "eb9369c30c0f",
+    "f598051ed0ef"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The machine running the interface is not the model",
+   "intro": "A retro computing project makes the boundary between a local harness and remote inference unusually visible.",
+   "stories": [
+    "d4b09ea86246"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A claim still needs its missing checks",
+   "intro": "A rushed mathematical write-up and a flattened benchmark table each leave a different verification gap.",
+   "stories": [
+    "4cd9ed1637b6",
+    "d8f07e649db2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Organizational plans are not demonstrated outcomes",
+   "intro": "A new gameplay subsidiary, an inaccessible governance article and an export-rule excerpt establish different amounts of evidence.",
+   "stories": [
+    "002a881a23cd",
+    "5fd03ac15257",
+    "b146db6c4570"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Prompt exposure needs a traceable path",
+   "intro": "A canary investigation separates evidence of access from attribution to a particular provider or intermediary.",
+   "stories": [
+    "728289776a93"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Making state and rights explicit",
+   "intro": "Replication positions and structured licensing metadata help communicate boundaries without making them universal guarantees.",
+   "stories": [
+    "3fa728a5d3ac",
+    "bcab14b0afa8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A headline or ratio cannot complete the argument",
+   "intro": "An inaccessible market report, an interview description and a projected spending comparison each leave important checks open.",
+   "stories": [
+    "67c0b724b398",
+    "99219a4424e3",
+    "98e644e17b1e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Daily allowances are not unlimited access",
+   "intro": "Apple documents shared extra usage and regional exclusions for a future software rollout.",
+   "stories": [
+    "dd0d93d65e70"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A route into a renderer is not the same as a proven exploit",
+   "intro": "The Upload2Shell index separates tested application chains, configuration prerequisites and paths traced only to the underlying renderer.",
+   "stories": [
+    "687309907c91"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "More attempts and more tokens still need better evaluation",
+   "intro": "A coding-search project reports disappointing hidden-test results, while a plugin fix makes an expensive reasoning setting available.",
+   "stories": [
+    "9809e88c81f3",
+    "b81501fc1bfd"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A notification adds context, not a second experiment",
+   "intro": "Ars covers the existing canary investigation and reports a routing-provider response, with attribution limits intact.",
+   "stories": [
+    "dc521942f3f2"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Personal projects and acquisition talks retain their limits",
+   "intro": "A creator account is not a productivity study, and an indexed deal report is not a completed purchase.",
+   "stories": [
+    "b7b3f708b1eb",
+    "02f357c1f4de"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A routing layer answers the canary investigation",
+   "intro": "OpenRouter's incident announcement responds to the Dragos findings without claiming a new experiment or a breach of its own systems.",
+   "stories": [
+    "22f9bf90868d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The full renderer research keeps its tested scope",
+   "intro": "The Upload2Shell article behind yesterday's disclosure index separates demonstrated delegate chains from paths only traced to the renderer.",
+   "stories": [
+    "3db0b20a1ece"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Consensus blocks an autonomous-weapons mandate",
+   "intro": "A week of UN talks ends with a weaker instrument after objections attributed to Russia and reluctance from several military powers.",
+   "stories": [
+    "e66aff47a6cb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A prize essay argues, and a hypothetical explores",
+   "intro": "Anil Seth's case against conscious AI and a panel's thought experiment about a machine proof are positions and speculation, not results.",
+   "stories": [
+    "70cfc3eccb88",
+    "653a3c322400"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A legal corpus publishes what it does not hold",
+   "intro": "Pandex pairs its European law API and MCP server with an unusually explicit register of coverage gaps, all self-reported.",
+   "stories": [
+    "992540aaa49d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A link post endorses a process, not a product",
+   "intro": "Simon Willison points to Graham Dumpleton's documented AI-assisted build of the Muru server without claiming a tested evaluation.",
+   "stories": [
+    "1814162729e9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Espionage anxiety is marketing-ready before it is measured",
+   "intro": "Wired collects matchmaker anecdotes about honeypot fears while one matchmaker reports no increase and vendors already sell reassurance.",
+   "stories": [
+    "be25a2ff6ba4"
+   ],
+   "concepts": []
+  }
+ ],
+ "week": "2026-W47"
 }

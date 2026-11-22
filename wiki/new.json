@@ -1,23 +1,35 @@
 {
- "generated_at": "2026-11-21T22:04:52+00:00",
+ "generated_at": "2026-11-22T04:05:34+00:00",
  "stories": [
   {
-   "id": "687309907c91",
-   "title": "Upload2Shell · CVE-2026-125396",
+   "id": "992540aaa49d",
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
    "source": "Hacker News",
-   "url": "https://pwn.ai/upload2shell"
+   "url": "https://www.pandex.io"
   },
   {
-   "id": "b7b3f708b1eb",
-   "title": "Show HN: I made a PS1 style racing game",
+   "id": "22f9bf90868d",
+   "title": "Data Processing Incidents on Inference Providers",
    "source": "Hacker News",
-   "url": "https://outpostracer.com"
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
   },
   {
-   "id": "9809e88c81f3",
-   "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+   "id": "e66aff47a6cb",
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
    "source": "Hacker News",
-   "url": "https://github.com/natsu0529/agent-mcts"
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+  },
+  {
+   "id": "70cfc3eccb88",
+   "title": "The Mythology of Conscious AI",
+   "source": "Hacker News",
+   "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
+  },
+  {
+   "id": "653a3c322400",
+   "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
   },
   {
    "id": "dc521942f3f2",
@@ -26,22 +38,22 @@
    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
   },
   {
-   "id": "dd0d93d65e70",
-   "title": "Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier",
-   "source": "Daring Fireball",
-   "url": "https://support.apple.com/en-us/127901"
+   "id": "3db0b20a1ece",
+   "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+   "source": "Lobsters",
+   "url": "https://pwn.ai/upload2shell/research.html"
   },
   {
-   "id": "02f357c1f4de",
-   "title": "Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616"
-  },
-  {
-   "id": "b81501fc1bfd",
-   "title": "llm-gemini 0.38.1",
+   "id": "1814162729e9",
+   "title": "Muru",
    "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/"
+   "url": "https://simonwillison.net/2026/Nov/21/muru/"
+  },
+  {
+   "id": "be25a2ff6ba4",
+   "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
   }
  ]
 }

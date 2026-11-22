@@ -1,0 +1,68 @@
+{
+ "id": "digest-2026-11-22",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Accountability and evidence dominate the overnight batch: a routing layer answers the canary investigation, the full Ghostscript research article keeps its tested scope, and UN talks on autonomous weapons fail under their own consensus rule. A prize essay on conscious AI, a hypothetical Riemann discussion and a legal-data service each argue more than they prove.",
+  "A link post, a marketing-ready anxiety and a vendor coverage register round out the day: personal accounts and self-published figures are recorded with their limits attached."
+ ],
+ "sections": [
+  {
+   "title": "A routing layer answers the canary investigation",
+   "intro": "OpenRouter's incident announcement responds to the Dragos findings without claiming a new experiment or a breach of its own systems.",
+   "stories": [
+    "22f9bf90868d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "The full renderer research keeps its tested scope",
+   "intro": "The Upload2Shell article behind yesterday's disclosure index separates demonstrated delegate chains from paths only traced to the renderer.",
+   "stories": [
+    "3db0b20a1ece"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Consensus blocks an autonomous-weapons mandate",
+   "intro": "A week of UN talks ends with a weaker instrument after objections attributed to Russia and reluctance from several military powers.",
+   "stories": [
+    "e66aff47a6cb"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A prize essay argues, and a hypothetical explores",
+   "intro": "Anil Seth's case against conscious AI and a panel's thought experiment about a machine proof are positions and speculation, not results.",
+   "stories": [
+    "70cfc3eccb88",
+    "653a3c322400"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A legal corpus publishes what it does not hold",
+   "intro": "Pandex pairs its European law API and MCP server with an unusually explicit register of coverage gaps, all self-reported.",
+   "stories": [
+    "992540aaa49d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A link post endorses a process, not a product",
+   "intro": "Simon Willison points to Graham Dumpleton's documented AI-assisted build of the Muru server without claiming a tested evaluation.",
+   "stories": [
+    "1814162729e9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Espionage anxiety is marketing-ready before it is measured",
+   "intro": "Wired collects matchmaker anecdotes about honeypot fears while one matchmaker reports no increase and vendors already sell reassurance.",
+   "stories": [
+    "be25a2ff6ba4"
+   ],
+   "concepts": []
+  }
+ ]
+}

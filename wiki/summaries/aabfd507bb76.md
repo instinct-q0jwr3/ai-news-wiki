@@ -1,6 +1,6 @@
 # Carbon Emissions of US Data Centers Rival Countries
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-21 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-22 · confidence: high_
 
 `hacker-news` `compute-buildout`
 

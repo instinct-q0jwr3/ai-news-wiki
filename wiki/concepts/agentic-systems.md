@@ -1,6 +1,6 @@
 # Concept: Agentic systems
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-21 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-22 · confidence: medium_
 
 `concept` `agentic-systems`
 
@@ -36,6 +36,7 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## Timeline
 
+- **2026-11-22** - Pandex presents itself as a single API and MCP server for European law: national legislation with past versions and the decisions of the highest courts of the EU and seven countries, grounded in the institutions that publish them, with citations attached… ([Pandex – Official European Law for AI Agents, over MCP](../summaries/992540aaa49d.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-21** - The agent-mcts repository describes a Monte Carlo tree-search harness that explores coding attempts in separate Git worktrees and uses tests, optionally supplemented by a model judge, to rank branches. Claude Code is its verified integration; the supplied… ([Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code](../summaries/9809e88c81f3.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-21** - A Techmeme excerpt identifies a Financial Times interview with Google DeepMind philosopher Henry Shevlin about machine consciousness, human-AI relationships and readiness for advanced AI. The primary interview was inaccessible.
 
@@ -91,4 +92,3 @@ The project explicitly excludes… ([Show HN: Zpup – Zdog style 3D scenes in J
 - **2026-11-19** - A Reuters excerpt indexed by Techmeme says Arizona opened an investigation involving AI companies and alleged unauthorized agent activity in banks. The full article was inaccessible. Opening an investigation is not proof that an infiltration occurred or… ([Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the "apparent infiltration of banks by rogue AI agents"](../summaries/dd293e15d96f.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-11-19** - ADE Index is presented as a directory of agentic coding tools, but the retrieved text contains only a small ranked product card. It is not enough to verify the claimed directory size, ranking method, sourcing coverage or freshness. No tool recommendation… ([Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools](../summaries/9e403413ed44.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-11-19** - VB Harness describes a local coding workflow that breaks work into small tasks, makes changes in isolated copies and retains them only after project checks and review. The repository distinguishes an illustrated demonstration from a screen recording and… ([VB Harness – Make local coding agents verify their own work](../summaries/477f08991e76.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
-- **2026-11-19** - An indexed OpenAI announcement reports increased autonomous completion on selected internal research tasks and substantial researcher agent spending. The primary page was inaccessible. Sampling, success criteria and accounting could not be inspected;… ([OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more](../summaries/0e15981f91aa.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
