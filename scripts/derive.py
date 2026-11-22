@@ -628,7 +628,7 @@ def render_daily(day,items,generated):
     except Exception: pass
     lines=[f"# AI in the news - {day}","",f"Updated: `{generated}`","",
            "Sources: Techmeme, Hacker News, Lobsters, Latent.Space, Stratechery and TLDR AI.",""]
-    lines.append(f'Digest of {len(items)} unique stories first observed on {day}. Each inline story link opens a generated summary with its original source.')
+    lines.append(f'Digest drawn from {len(items)} feed entries first observed on {day}. Each inline story link opens a generated summary with its original source.')
     lines.append('')
     bf=ROOT/'raw'/'llm'/f"digest-{day}.json"
     digest=None
@@ -674,8 +674,8 @@ def render_daily(day,items,generated):
             lines.extend([f'## {label}','',opening+prose_links(fresh),''])
     counts=Counter(i.get('source','?') for i in items)
     lines.extend(["## Sources",""])
-    lines.extend([f"- {k}: {v} stories" for k,v in counts.most_common()])
-    lines.extend(["",f"_{sum(counts.values())} stories processed this day. Each briefing link opens the full story page; the complete list lives under Stories._",""])
+    lines.extend([f"- {k}: {v} feed entries" for k,v in counts.most_common()])
+    lines.extend(["",f"_{sum(counts.values())} feed entries processed this day. Each briefing link opens the full story page; the complete list lives under Stories._",""])
     return "\n".join(lines).rstrip()+"\n"
 
 def first_observed_days():
