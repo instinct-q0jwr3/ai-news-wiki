@@ -148,14 +148,24 @@ def cache_entry(x):
             try: age=(dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(c.get('fetched_at',''))).total_seconds()
             except Exception: age=1e9
             if c.get('status')=='error':
-                ttl=604800 if c.get('block') in ('bot-block','paywall') else 3600
+                # Permanently failing routes back off instead of retrying every hour:
+                # generic errors double their TTL per consecutive failure, capped at
+                # the same week as classified bot-blocks/paywalls. A new signal (the
+                # feed item changing URL, or manual re-fetch) still refreshes immediately.
+                ttl=604800 if c.get('block') in ('bot-block','paywall') else min(3600*(2**int(c.get('fails',0))),604800)
                 if age<ttl: return c,True
     return None,False
 
 def save_entry(x,status,text,note='',kind=None):
+    f=CACHE/f"{x['id']}.json"
+    fails=0
+    if status=='error' and f.exists():
+        try: fails=int(json.loads(f.read_text()).get('fails',0))+1
+        except Exception: fails=1
     d={'url':x.get('url'),'fetched_at':dt.datetime.now(dt.timezone.utc).isoformat(),'status':status,'note':note,'text':text[:MAX_TEXT]}
     if kind: d['block']=kind
-    (CACHE/f"{x['id']}.json").write_text(json.dumps(d,ensure_ascii=False))
+    if fails: d['fails']=fails
+    f.write_text(json.dumps(d,ensure_ascii=False))
 
 def _dom_of(url):
     try: return url.split('/')[2].lower()
