@@ -1,0 +1,15 @@
+{
+ "id": "925f13848d98",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "CNBC reports that Director of National Intelligence Jay Clayton warned of further interruptions as companies and government upgrade systems for the AI era. The article places his remarks alongside recent disruptions to air traffic, Outlook and banking, and reports Treasury Secretary Scott Bessent's reassurance about financial institutions. The concrete explanations cited are more specific than a general AI narrative: the FAA attributed its ground stop to a flood of data during router upgrades, and Microsoft cited an earlier network-capacity upgrade.\n\nThese are reported official and company explanations, not an independent forensic determination. The article says officials largely dismissed a coordinated or AI cyberattack; its reference to preparing for AI-related changes does not establish that AI caused the outages or that the incidents shared one cause. The summary preserves the distinction between operational upgrade failures, precautionary security work and evidence of a malicious campaign.",
+ "highlights": [
+  "CNBC reports Clayton warning about interruptions during upgrades",
+  "The FAA explanation concerns router-upgrade traffic",
+  "Microsoft attributes Outlook disruption to a network-capacity upgrade",
+  "Bessent offers reassurance about financial institutions",
+  "Official statements are not an independent forensic investigation",
+  "Preparing for AI-era systems does not prove AI caused an outage",
+  "The article does not establish one coordinated attack behind the incidents"
+ ]
+}
