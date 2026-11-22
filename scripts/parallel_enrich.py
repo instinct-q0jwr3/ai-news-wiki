@@ -24,7 +24,10 @@ def stale_error(x):
     if c.get('status') in ('ok', 'thin'): return False
     try: age = (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(c.get('fetched_at',''))).total_seconds()
     except Exception: age = 1e9
-    ttl = 604800 if c.get('block') in ('bot-block','paywall') else min(3600*(2**int(c.get('fails',0))),604800)
+    # Classified bot-blocks/paywalls are never stale: no automatic refetch without
+    # a new signal (a changed story URL already fails the url check above).
+    if c.get('block') in ('bot-block','paywall'): return False
+    ttl = min(3600*(2**int(c.get('fails',0))),604800)
     return c.get('status') == 'error' and age >= ttl
 
 def fetch_one(x):

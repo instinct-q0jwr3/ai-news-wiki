@@ -148,11 +148,14 @@ def cache_entry(x):
             try: age=(dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(c.get('fetched_at',''))).total_seconds()
             except Exception: age=1e9
             if c.get('status')=='error':
-                # Permanently failing routes back off instead of retrying every hour:
-                # generic errors double their TTL per consecutive failure, capped at
-                # the same week as classified bot-blocks/paywalls. A new signal (the
-                # feed item changing URL, or manual re-fetch) still refreshes immediately.
-                ttl=604800 if c.get('block') in ('bot-block','paywall') else min(3600*(2**int(c.get('fails',0))),604800)
+                # Classified anti-bot blocks and paywalls are states, not transient
+                # failures: they never re-enter the automatic refetch pool. Only a
+                # genuinely new signal about the route (the feed item's URL changed,
+                # so the url match above fails, or a manual re-fetch) re-opens it.
+                # Generic errors are transient candidates: they double their TTL per
+                # consecutive failure, capped at one week.
+                if c.get('block') in ('bot-block','paywall'): return c,True
+                ttl=min(3600*(2**int(c.get('fails',0))),604800)
                 if age<ttl: return c,True
     return None,False
 
