@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-22 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-23 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,8 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-23** - A Wall Street Journal profile examines Dario and Daniela Amodei and the culture they built at Anthropic. The accessible opening describes a company gathering organized by Daniela around preserving an unusual internal culture during rapid hiring. Techmeme's… ([A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness](../summaries/d658e22a4458.md) · [OpenAI](../entities/openai.md)) 🔒
+- **2026-11-23** - Jessica Wachtel's New Stack comparison tests GPT-6.2 Astra and Claude Fable 5.2 once each on three custom tasks: accounting close, a billing-code repair and completion task, and messy laboratory-data analysis. Both score full marks on accounting and data… ([GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much](../summaries/df2c9a661383.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-22** - OpenAI chief scientist Jakub Pachocki proposes using perplexity, alongside other measurements, to support shared development limits and safety standards. His argument is that improvements in pretraining prediction can expose capabilities that task-specific… ([Perplexity and Intelligence](../summaries/766be16a4851.md) · [OpenAI](../entities/openai.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-11-22** - Jonah Weiner examines Silicon Valley's use of taste as a proposed defense against generic AI output. The accessible opening defines taste as judgment about aesthetic rules and changing cultural conventions, then sets up a disagreement: some see that… ([Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with "taste" as a moat against AI slop and whether AI can learn it](../summaries/f1e1a056981c.md) · [OpenAI](../entities/openai.md)) 🔒
 - **2026-11-21** - A Show HN author says they used ChatGPT while building Outpost Racer, a browser racing game styled after the original PlayStation era. The live landing page exposes play and settings links but supplies almost no explanatory text.

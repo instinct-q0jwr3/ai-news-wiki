@@ -1,6 +1,6 @@
 # AI will not make you rich (2025)
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-22 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-23 · confidence: high_
 
 `hacker-news`
 

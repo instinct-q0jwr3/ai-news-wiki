@@ -1,0 +1,15 @@
+{
+ "id": "df2c9a661383",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Jessica Wachtel's New Stack comparison tests GPT-6.2 Astra and Claude Fable 5.2 once each on three custom tasks: accounting close, a billing-code repair and completion task, and messy laboratory-data analysis. Both score full marks on accounting and data analysis; Fable scores 110 of 110 on code and Astra 108. The reported total estimated cost is $7.60 for Fable versus $1.45 for Astra, with corresponding run times of 917 and 232 seconds. The coding difference is one missed billing rule rather than a broad failure across the suite.\n\nThese are one-run results at default API settings against the author's answer keys, not a repeated benchmark or general ranking. The article reports list prices, but those figures and estimated spend were not independently checked here. Its tests were not designed to measure a separate safety regression mentioned in the article. Lower cost and a near-tied total do not erase the practical importance of the single billing error, nor does a perfect run establish reliability on new tasks.",
+ "highlights": [
+  "Three author-designed tasks were run once per model at default API settings",
+  "Both models receive full accounting and data-analysis scores",
+  "Fable scores 110/110 and Astra 108/110 on billing code",
+  "Reported estimated totals are $7.60 versus $1.45",
+  "Reported total times are 917 versus 232 seconds",
+  "Astra's missed billing rule could matter despite a near-tied score",
+  "The tests do not measure the separate safety issue or establish general reliability"
+ ]
+}

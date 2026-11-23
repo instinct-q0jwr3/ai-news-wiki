@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-22 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-23 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-23** - Simon Willison describes using Claude Fable 5.2 to generate a specimen page for comparing ways to style HTML select controls. His practical motivation is that browser defaults look different; after experimentation, he favors custom appearance, spacing,… ([Select Styling Specimens](../summaries/4b24dceb0eff.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-23** - Jessica Wachtel's New Stack comparison tests GPT-6.2 Astra and Claude Fable 5.2 once each on three custom tasks: accounting close, a billing-code repair and completion task, and messy laboratory-data analysis. Both score full marks on accounting and data… ([GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much](../summaries/df2c9a661383.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-23** - The Washington Post's profile, as indexed by Techmeme, describes Dario Amodei shaping Anthropic's culture through essays, internal messages and recurring talks, while the company brings his ideas to outside opinion-makers. The accessible primary page… ([How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and "Vision Quest" talks, as Anthropic seeds his ideas with opinion-makers](../summaries/2edd35e9a94e.md) · [Anthropic](../entities/anthropic.md)) 🔒
 - **2026-11-22** - Gary Marcus comments on Levent Alpöge's reported claim of a Claude-assisted proof of the Riemann Hypothesis, emphasizing prolonged human guidance and the role of Lean and mathlib rather than a single autonomous answer. He argues that success in a formally… ([Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?](../summaries/661e012d6f31.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-22** - A Reuters report, available here through Techmeme's excerpt, says Anthropic imposed unusually tight controls on some banks involved in its IPO process. The excerpt attributes to sources restrictions to four-person teams, a file platform that logged viewing… ([amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals](../summaries/2d82d6ad353b.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-11-22** - The Better Data Center Project publishes a case study of Anthropic's power procurement, estimating that about 87% of the company's power will come from gas and 11% from coal in 2028, with CO2 emissions from power use at its contracted sites reaching 17 to… ([87% of the Anthropic power will come from gas and 11% from coal in 2028](../summaries/6d515d1d1638.md) · [Anthropic](../entities/anthropic.md))

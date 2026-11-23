@@ -1,6 +1,6 @@
 # International UN talks on controlling use of autonomous weapons collapse
 
-_type: news-summary · created: 2026-11-22 · updated: 2026-11-22 · confidence: high_
+_type: news-summary · created: 2026-11-22 · updated: 2026-11-23 · confidence: high_
 
 `hacker-news`
 

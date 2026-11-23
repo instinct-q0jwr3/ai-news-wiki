@@ -1,6 +1,6 @@
 # TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens
 
-_type: news-summary · created: 2026-11-20 · updated: 2026-11-22 · confidence: high_
+_type: news-summary · created: 2026-11-20 · updated: 2026-11-23 · confidence: high_
 
 `techmeme`
 

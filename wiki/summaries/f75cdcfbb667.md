@@ -1,6 +1,6 @@
 # Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2
 
-_type: news-summary · created: 2026-11-17 · updated: 2026-11-22 · confidence: high_
+_type: news-summary · created: 2026-11-17 · updated: 2026-11-23 · confidence: high_
 
 `techmeme` `openai` `anthropic` `ai-coding-agents`
 

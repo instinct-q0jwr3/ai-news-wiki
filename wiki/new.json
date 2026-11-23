@@ -1,59 +1,77 @@
 {
- "generated_at": "2026-11-22T22:08:19+00:00",
+ "generated_at": "2026-11-23T04:09:09+00:00",
  "stories": [
   {
-   "id": "766be16a4851",
-   "title": "Perplexity and Intelligence",
+   "id": "bdb23d306dc1",
+   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
    "source": "Hacker News",
-   "url": "https://openai.com/index/perplexity-and-intelligence/"
+   "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3"
   },
   {
-   "id": "a604788ab216",
-   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "id": "65334aa089fe",
+   "title": "Localcode, open source agentic coding on your Mac with one command",
    "source": "Hacker News",
-   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+   "url": "https://github.com/mjwsolo/localcode"
   },
   {
-   "id": "19d87d84b9f4",
-   "title": "Why Are We at the Mercy of the World's Weirdest Men?",
+   "id": "45fa33be494b",
+   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
    "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html"
+   "url": "https://0rwx.com/"
   },
   {
-   "id": "e2e8add7c0fc",
-   "title": "Harvard CS 2881R AI Safety",
+   "id": "09befd1aebbf",
+   "title": "What Happened in Fall 2026: AI and P vs. NP",
    "source": "Hacker News",
-   "url": "https://boazbk.github.io/mltheoryseminar/"
+   "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np"
   },
   {
-   "id": "469b6ffa8b74",
-   "title": "AI and hiring: bad for employees, bad for employers",
+   "id": "abc824b6cd61",
+   "title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
    "source": "Hacker News",
-   "url": "https://johnhempton.substack.com/p/ai-and-hiring-bad-for-employees-bad"
+   "url": "https://www.phoronix.com/news/LiberNT"
   },
   {
-   "id": "661e012d6f31",
-   "title": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann"
-  },
-  {
-   "id": "06b1f8bd30b0",
-   "title": "We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-   "source": "Lobsters",
-   "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
-  },
-  {
-   "id": "2d82d6ad353b",
-   "title": "amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals",
+   "id": "df2c9a661383",
+   "title": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/"
+   "url": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/"
   },
   {
-   "id": "925f13848d98",
-   "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age",
+   "id": "926f58c39a14",
+   "title": "Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+   "url": "https://www.axios.com/pro/fintech-deals/2026/11/17/arva-ai-20-million-series-a-bank-compliance"
+  },
+  {
+   "id": "2edd35e9a94e",
+   "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers",
+   "source": "Techmeme",
+   "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/"
+  },
+  {
+   "id": "d658e22a4458",
+   "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11"
+  },
+  {
+   "id": "d748dd16e506",
+   "title": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment",
+   "source": "Techmeme",
+   "url": "https://x.com/alexandr_wang"
+  },
+  {
+   "id": "4b24dceb0eff",
+   "title": "Select Styling Specimens",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
+  },
+  {
+   "id": "229dda19ab12",
+   "title": "Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director"
   }
  ]
 }

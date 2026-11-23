@@ -1,6 +1,6 @@
 # Alphabet's Isomorphic Labs raised a $5B Series C led by Sequoia and Greenoaks, after raising $2.1B in May and $600M in March 2025, to accelerate clinical trials
 
-_type: news-summary · created: 2026-11-17 · updated: 2026-11-22 · confidence: high_
+_type: news-summary · created: 2026-11-17 · updated: 2026-11-23 · confidence: high_
 
 `techmeme`
 

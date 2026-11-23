@@ -1,6 +1,6 @@
 # The anti-marketing aspect of the Gemini network
 
-_type: news-summary · created: 2026-11-12 · updated: 2026-11-22 · confidence: high_
+_type: news-summary · created: 2026-11-12 · updated: 2026-11-23 · confidence: high_
 
 `lobsters` `google` `gemini`
 

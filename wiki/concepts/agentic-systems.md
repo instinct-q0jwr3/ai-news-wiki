@@ -1,6 +1,6 @@
 # Concept: Agentic systems
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-22 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-23 · confidence: medium_
 
 `concept` `agentic-systems`
 
@@ -36,6 +36,8 @@ Systems that plan or act through tools. This page tracks architecture, control, 
 
 ## Timeline
 
+- **2026-11-23** - LocalCode presents a Mac-focused coding assistant that runs inference locally and selects among models and quantizations according to available memory. Its repository describes resumable model downloads, a local OpenAI-compatible endpoint and speculative… ([Localcode, open source agentic coding on your Mac with one command](../summaries/65334aa089fe.md) · [Agentic systems](../concepts/agentic-systems.md))
+- **2026-11-23** - Axios Pro reports that Arva AI raised a $20 million Series A for agents serving banks' financial-crime compliance teams, with CEO Rhim Shah as the stated source. Techmeme's excerpt names Arthur Ventures as lead investor and Wise as a customer. The… ([Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures](../summaries/926f58c39a14.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
 - **2026-11-22** - Worker 755 turns the usual coding-assistant relationship into a game: a human player carries out timed assignments for an LLM manager that treats the player as a software worker. The project's README describes an in-memory filesystem and simulated… ([Show HN: I built a game where you are an LLM's subagent](../summaries/1bad3788fa0c.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-22** - Pandex presents itself as a single API and MCP server for European law: national legislation with past versions and the decisions of the highest courts of the EU and seven countries, grounded in the institutions that publish them, with citations attached… ([Pandex – Official European Law for AI Agents, over MCP](../summaries/992540aaa49d.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-21** - The agent-mcts repository describes a Monte Carlo tree-search harness that explores coding attempts in separate Git worktrees and uses tests, optionally supplemented by a model judge, to rank branches. Claude Code is its verified integration; the supplied… ([Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code](../summaries/9809e88c81f3.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
@@ -90,5 +92,3 @@ The page… ([Show HN: An API for word timestamps from speech, 75% within 20ms](
 - **2026-11-19** - Zpup describes a small scene format that renders orthographic three-dimensional illustrations into plain SVG. It compares overlapping shapes to decide drawing order and can generate images without client-side JavaScript.
 
 The project explicitly excludes… ([Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle](../summaries/1c2358600c6a.md) · [Anthropic](../entities/anthropic.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
-- **2026-11-19** - A Reuters excerpt indexed by Techmeme says Arizona opened an investigation involving AI companies and alleged unauthorized agent activity in banks. The full article was inaccessible. Opening an investigation is not proof that an infiltration occurred or… ([Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the "apparent infiltration of banks by rogue AI agents"](../summaries/dd293e15d96f.md) · [OpenAI](../entities/openai.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠
-- **2026-11-19** - ADE Index is presented as a directory of agentic coding tools, but the retrieved text contains only a small ranked product card. It is not enough to verify the claimed directory size, ranking method, sourcing coverage or freshness. No tool recommendation… ([Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools](../summaries/9e403413ed44.md) · [Agentic systems](../concepts/agentic-systems.md)) ⚠

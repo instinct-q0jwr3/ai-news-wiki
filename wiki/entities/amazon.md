@@ -1,6 +1,6 @@
 # Amazon
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-22 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-23 · confidence: medium_
 
 `entity` `amazon` `agent-incidents` `agentic-commerce` `agentic-systems` `ai-coding-agents`
 
@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-23** - Techmeme attributes to Alexandr Wang the view that a reported Riemann Hypothesis proof signals that AI will exceed human performance in every field, including AI research, alongside a call for safety and alignment. That is a broad extrapolation from a… ([Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment](../summaries/d748dd16e506.md) · [Amazon](../entities/amazon.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-21** - A Techmeme excerpt attributes to the Financial Times a report that Amazon is in advanced talks to buy Decart for about $7.5 billion. The primary article returned an access error, so the reporting's sources, financial terms and strategic analysis could not… ([Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week](../summaries/02f357c1f4de.md) · [Amazon](../entities/amazon.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-21** - A Hacker News participant describes a prolonged software-engineering job search, financial pressure and possible work outside the field. The examined opening discussion offers personal accounts of referrals, recruiting filters, consulting and adjacent… ([I have been unemployed for 2y.15YOE,US.What to do?](../summaries/eb9369c30c0f.md) · [Amazon](../entities/amazon.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-20** - The OpenComputer repository describes a self-hostable coding agent that accepts Slack tasks, runs isolated sessions and returns pull requests. Its architecture combines a VM gateway, rootless containers and persistence across local storage and a git-backed… ([Show HN: OpenComputer – an open source alternative to Devin](../summaries/0f03f03a17e0.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

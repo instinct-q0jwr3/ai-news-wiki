@@ -1,0 +1,15 @@
+{
+ "id": "65334aa089fe",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "LocalCode presents a Mac-focused coding assistant that runs inference locally and selects among models and quantizations according to available memory. Its repository describes resumable model downloads, a local OpenAI-compatible endpoint and speculative decoding for selected model families. The useful distinction is between a local inference engine and an entirely offline application: the README explicitly identifies model downloads, web search and fetching, and added MCP servers as network paths.\n\nThese are project claims, not a reproduced speed, compatibility or security assessment. A recommendation that a model fits memory is not a guarantee about workload quality or long-context performance, and a local endpoint does not itself define a safe access boundary. The software was not installed, models were not downloaded and no network service was enabled in this pass.",
+ "highlights": [
+  "Mac-focused coding assistant with local inference",
+  "Repository describes model and quantization choices based on memory",
+  "Downloads are described as resumable and parallel",
+  "Selected families use speculative decoding",
+  "Downloads, web tools and added MCP servers remain network paths",
+  "Local inference is not equivalent to an entirely offline system",
+  "No installation or independent performance/security test was performed"
+ ]
+}

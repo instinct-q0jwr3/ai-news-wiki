@@ -1,6 +1,6 @@
 # Concept: Compute and the data-center build-out
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-22 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-23 · confidence: medium_
 
 `concept` `compute-buildout`
 
