@@ -1,0 +1,15 @@
+{
+ "id": "5f23ce81fd30",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "METR's capability update reports strong model performance on coding and optimization tasks with fast, verifiable feedback, while finding weaker judgment where feedback is slow or solution quality must generalize. It reports a roughly 3.6-month doubling of 50%-success task horizon on a combined suite, but emphasizes that harder tasks and new human baselines change what that number means. A separate capability index shows no strong overall public-frontier acceleration or deceleration in its tested sample.\n\nMETR remains uncertain about which capabilities are necessary for drastic AI R&D acceleration and how soon it could occur. Dataset cost, task selection, human expertise, elicitation and statistical choices affect its estimates. Swarms help on some verifiable tasks but have unclear or negative results elsewhere. These evaluations are evidence about a measured suite, not proof of autonomous replacement of a research organization or a date for a catastrophic transition.",
+ "highlights": [
+  "Strongest results occur on coding and optimization with clear feedback",
+  "Judgment is weaker when feedback is slow or generalization is hard to score",
+  "Combined-suite 50% horizon doubling is reported near 3.6 months",
+  "Public-frontier index shows no strong overall trend break",
+  "Task costs, human baselines and methodology remain material limits",
+  "Swarms are not uniformly helpful",
+  "The report does not establish a date for drastic R&D acceleration"
+ ]
+}

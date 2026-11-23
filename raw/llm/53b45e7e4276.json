@@ -1,0 +1,14 @@
+{
+ "id": "53b45e7e4276",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Baseten introduces bison-1 and groundhog-1, decision models built on Gemma 4 with text/image input and 128k API context. It reports bison-1 scoring 76 and ranking first of 19 on Artificial Analysis's Decision Index v2.1, with a Brier score of 0.14. The announcement attributes improved calibration partly to soft-label training and presents the models as alternatives to its Qwen-based family.\n\nThose rankings, calibration figures, prices and availability are the vendor's release claims, not a live independent leaderboard or deployment test. Groundhog matching an older model is described as an expectation, not a measured official result. A longer context window does not demonstrate reliable use of every detail, and country-of-origin positioning is not a security certification. Open weights and API access were not exercised.",
+ "highlights": [
+  "Gemma 4 backbones replace Qwen for these two models",
+  "Vendor describes text/image input and 128k context",
+  "Bison ranking and calibration are release-time claims",
+  "Groundhog's official-index comparison is an expectation",
+  "Context size does not prove long-document reliability",
+  "No independent deployment or leaderboard test was performed"
+ ]
+}

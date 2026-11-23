@@ -10,6 +10,9 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-23** - A cached read of the GeminiApp post announces GIF creation in Gemini using a model it calls Gemini Omni 1.2 Flash. The post advertises looping photo effects and memes, with smooth motion and frame consistency presented as product claims.
+
+An alternate read… ([Say hello to GIFs in Gemini](../summaries/a48274536049.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-21** - Simon Willison's llm-gemini 0.38.1 release note fixes a missing extra-high reasoning setting for Gemini 4 Hydrogen and Neon. He distinguishes those models from Carbon, which he says supports only low, medium and high reasoning.
 
 His accompanying pelican… ([llm-gemini 0.38.1](../summaries/b81501fc1bfd.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

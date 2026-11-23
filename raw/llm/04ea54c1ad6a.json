@@ -1,0 +1,14 @@
+{
+ "id": "04ea54c1ad6a",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Z.ai introduces GLM-5.4 as its first flagship Loop Transformer, adapting a pretrained base by reusing 28 layers for two iterations at a stated 750B scale. It describes per-token gates, shared global KV with a separate sliding window and reuse of sparse attention indices as ways to add computational depth without adding a second set of weights. The pitch is generalized coding across software, media and engineering tasks.\n\nThe architecture, throughput and comparisons are developer-reported. Its controlled 30B experiment uses about 10% more training compute at equal parameter count, so equal parameters do not mean equal compute. The company acknowledges excessively long thinking loops. API access and open weights are described as forthcoming rather than verified available, and demonstrations do not establish engineering reliability or the safety of physical designs.",
+ "highlights": [
+  "Developer describes two passes over 28 shared layers",
+  "Gates and hybrid cache aim to control scale and serving cost",
+  "Equal-parameter ablation still uses more training compute",
+  "Long thinking loops are an acknowledged limitation",
+  "Throughput and benchmark claims were not reproduced",
+  "API and open-weight release remain stated plans"
+ ]
+}

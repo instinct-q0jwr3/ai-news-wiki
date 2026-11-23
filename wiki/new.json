@@ -1,59 +1,155 @@
 {
- "generated_at": "2026-11-23T10:10:39+00:00",
+ "generated_at": "2026-11-23T16:12:05+00:00",
  "stories": [
   {
-   "id": "98bb95a4aec3",
-   "title": "Show HN: Drive around my village in 3D",
+   "id": "04ea54c1ad6a",
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
    "source": "Hacker News",
-   "url": "https://cherwellvalleymotorclub.app"
+   "url": "https://z.ai/blog/glm-5.4"
   },
   {
-   "id": "45610d659f3e",
-   "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
-   "source": "Troy Hunt",
-   "url": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/"
+   "id": "f24069d4ddeb",
+   "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
   },
   {
-   "id": "025283d349f9",
-   "title": "A look at AECJ, an Amazon employee group with over 1,000 members that is stepping up efforts to slow Amazon's data center expansion and spark debate over AI use",
+   "id": "2b6860b1ff70",
+   "title": "Buckle Up the AI Bubble Is Popping",
+   "source": "Hacker News",
+   "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/"
+  },
+  {
+   "id": "0a09a53f0cfb",
+   "title": "Nvidia's board says it voted to reinstate Jensen Huang after receiving input from \"senior levels\" of the US government; a probe into his conduct is ongoing",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80"
+   "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6"
   },
   {
-   "id": "216a00abf409",
-   "title": "New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers",
+   "id": "a99ba73bb646",
+   "title": "Bret Taylor's customer service AI startup Sierra says it's finalizing a $1.75B+ round led by Lightspeed and Greenoaks at a $30B valuation, up from $15.8B in May",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTQwNzgwMCwiZXhwIjoxNzk2MDEyNjAwLCJhcnRpY2xlSWQiOiJUT1hCU0RLR0lGUTMwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.3vmQa_rIIOmutX3CrjU1ib8_jJyygL3HHaYJC4NpNfo"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round"
   },
   {
-   "id": "de7d6ee35dce",
-   "title": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners",
+   "id": "33a0ab07c5ef",
+   "title": "Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market",
    "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/"
+   "url": "https://www.washingtonpost.com/technology/2026/11/23/how-nvidia-fought-years-washington-sell-its-prized-chips-china/"
   },
   {
-   "id": "1549ce3dad3f",
-   "title": "Notes on OpenAI's perplexity reveal",
-   "source": "seangoedecke",
-   "url": "https://seangoedecke.com/notes-on-openais-perplexity-reveal/"
+   "id": "594be16353a9",
+   "title": "Pluralistic: The Debt Trap (23 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/23/grasshoppers-v-ants/"
   },
   {
-   "id": "e2b3b3ab89cb",
-   "title": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent",
+   "id": "5f23ce81fd30",
+   "title": "AI R&D-Relevant Model Capabilities Are Improving Rapidly",
+   "source": "TLDR AI",
+   "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/"
+  },
+  {
+   "id": "e9ccadd58d91",
+   "title": "Amazon Earnings, The Chip Question, About Agents",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/"
+  },
+  {
+   "id": "860fb11c8ebf",
+   "title": "Q&A with Bret Taylor on his long career, co-founding Sierra, working with ex-Googlers, X's influence, AI call center agents, working as OpenAI chair, and more",
    "source": "Techmeme",
-   "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html?unlocked_article_code=1.SlE.7MPS.E8d7eCsFiexw&smid=url-share"
+   "url": "https://colossus.com/article/bret-taylor-founder-guy/"
   },
   {
-   "id": "5c6a78f94204",
-   "title": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race"
+   "id": "a48274536049",
+   "title": "Say hello to GIFs in Gemini",
+   "source": "TLDR AI",
+   "url": "https://x.com/geminiapp/status/2123813017855103449"
   },
   {
-   "id": "9e71bd6bdbd9",
-   "title": "The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers",
+   "id": "7a433ee16519",
+   "title": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"
+  },
+  {
+   "id": "ba7366774d25",
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "source": "TLDR AI",
+   "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+  },
+  {
+   "id": "df0e03974249",
+   "title": "Marlowe, which develops cloud infrastructure and performance tools to optimize non-Nvidia AI chips, raised a $277M seed led by Accel at a $1.15B valuation",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips"
+  },
+  {
+   "id": "9cec9b86bbe9",
+   "title": "Obituaries",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/obituaries/"
+  },
+  {
+   "id": "635e71993883",
+   "title": "Why Post-Training Could Teach Models to Evade Monitoring",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous"
+  },
+  {
+   "id": "2eaf0b77a9a5",
+   "title": "Lean verification of the Riemann Hypothesis",
+   "source": "TLDR AI",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+  },
+  {
+   "id": "ed579243b103",
+   "title": "Oregon and Virginia sue SpaceX, alleging Grok Imagine's \"spicy mode\" violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children",
+   "source": "Techmeme",
+   "url": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html"
+  },
+  {
+   "id": "b0e24ca0af66",
+   "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models",
+   "source": "TLDR AI",
+   "url": "https://research.nvidia.com/labs/genair/sigma/"
+  },
+  {
+   "id": "e627fa70c0bd",
+   "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context",
+   "source": "TLDR AI",
+   "url": "https://huggingface.co/tencent/Hy4"
+  },
+  {
+   "id": "53b45e7e4276",
+   "title": "Meet bison-1 and groundhog-1, frontier American decision models",
+   "source": "TLDR AI",
+   "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/"
+  },
+  {
+   "id": "d658e22a4458",
+   "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11"
+  },
+  {
+   "id": "6e96a574ab90",
+   "title": "The Most Important Charts in AI are Wrong",
+   "source": "TLDR AI",
+   "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are"
+  },
+  {
+   "id": "8e7447f2aa26",
+   "title": "Amazon Nearing $7.5 Billion Purchase of Decart",
+   "source": "TLDR AI",
+   "url": "https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart"
+  },
+  {
+   "id": "8e98f79b1c80",
+   "title": "Nvidia Board Reinstates Jensen Huang",
+   "source": "Daring Fireball",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
   }
  ]
 }

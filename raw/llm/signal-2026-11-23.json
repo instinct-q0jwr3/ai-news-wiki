@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-23",
+ "date": "2026-11-23",
+ "status": "provisional",
+ "reserve": "b0e24ca0af66",
+ "picks": [
+  {
+   "id": "2eaf0b77a9a5",
+   "front": "Mathematics",
+   "source": "leanprover-community.github.io",
+   "why": "A certification separates statement matching and kernel checks from an earlier announcement, with a detailed independent register."
+  },
+  {
+   "id": "8e98f79b1c80",
+   "front": "Governance",
+   "source": "nvidianews.nvidia.com",
+   "why": "The board directly announces reinstatement while explicitly retaining its investigation and compliance work."
+  },
+  {
+   "id": "5f23ce81fd30",
+   "front": "Evaluation",
+   "source": "metr.org",
+   "why": "A capability update makes task feedback, human baselines and uncertainty central to its strongest results."
+  },
+  {
+   "id": "ba7366774d25",
+   "front": "Engineering",
+   "source": "huggingface.co",
+   "why": "Harness-specific training gains come with task-validation controls and a clear limit on transfer."
+  },
+  {
+   "id": "45610d659f3e",
+   "front": "Security",
+   "source": "troyhunt.com",
+   "why": "An AI-written breach-disclosure analysis makes authorship, mailbox scope and sampling explicit rather than hiding them."
+  }
+ ]
+}

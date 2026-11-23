@@ -1,0 +1,13 @@
+{
+ "id": "594be16353a9",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Cory Doctorow's essay uses delayed consequences to connect smoking, climate harm, institutional cuts and infrastructure fragility. Its central argument is that organizations can remove resilience and appear more efficient for a long period before accumulated weaknesses become visible. Data centers and earlier cuts at Twitter serve as examples within that wider political-economic argument.\n\nThis is a causal interpretation built from examples and links, not a reliability audit of a particular network or a forecast with a tested failure date. The absence of an immediate visible failure cannot establish spare capacity was unnecessary, but the analogy alone cannot quantify how much redundancy any system needs. The essay's polemical judgments and its historical claims remain attributed rather than treated as new measurements.",
+ "highlights": [
+  "Delayed consequences are the essay's organizing idea",
+  "It distinguishes resilience from apparently idle capacity",
+  "AI infrastructure appears within a broader argument",
+  "Examples and analogies are not a network reliability audit",
+  "No failure date or optimal redundancy level is established"
+ ]
+}

@@ -350,3 +350,4 @@ Registro cronológico append-only de ingestas y mantenimiento.
 ## [2026-11-23] ingest | 330 AI stories | snapshot 20261123T040909Z
 ## [2026-11-23] ingest | 327 AI stories | snapshot 20261123T101039Z
 - Partial errors: Xe Iaso: The read operation timed out
+## [2026-11-23] ingest | 321 AI stories | snapshot 20261123T161205Z

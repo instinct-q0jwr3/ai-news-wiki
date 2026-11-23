@@ -2966,5 +2966,61 @@
   "thin": 0,
   "total": 32,
   "unreadable": 1
+ },
+ "2026-11-23": {
+  "ok": 29,
+  "paywall": 11,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Mathematics",
+    "id": "2eaf0b77a9a5",
+    "minutes": 3,
+    "source": "leanprover-community.github.io",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "why": "A certification separates statement matching and kernel checks from an earlier announcement, with a detailed independent register."
+   },
+   {
+    "cat": "ok",
+    "front": "Governance",
+    "id": "8e98f79b1c80",
+    "minutes": 3,
+    "source": "nvidianews.nvidia.com",
+    "title": "Nvidia Board Reinstates Jensen Huang",
+    "why": "The board directly announces reinstatement while explicitly retaining its investigation and compliance work."
+   },
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "5f23ce81fd30",
+    "minutes": 46,
+    "source": "metr.org",
+    "title": "AI R&D-Relevant Model Capabilities Are Improving Rapidly",
+    "why": "A capability update makes task feedback, human baselines and uncertainty central to its strongest results."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "ba7366774d25",
+    "minutes": 26,
+    "source": "huggingface.co",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "why": "Harness-specific training gains come with task-validation controls and a clear limit on transfer."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "45610d659f3e",
+    "minutes": 19,
+    "source": "troyhunt.com",
+    "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+    "why": "An AI-written breach-disclosure analysis makes authorship, mailbox scope and sampling explicit rather than hiding them."
+   }
+  ],
+  "reserve": "b0e24ca0af66",
+  "status": "provisional",
+  "thin": 3,
+  "total": 44,
+  "unreadable": 1
  }
 }
