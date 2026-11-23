@@ -1,0 +1,15 @@
+{
+ "id": "1549ce3dad3f",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Sean Goedecke comments on OpenAI's released perplexity graph, focusing on the gap between a pretraining loss curve and the usefulness people experience after post-training. He argues that dataset choice limits comparisons between labs, that the plotted metric says little about reinforcement-learning success, and that perceived jumps in model quality need not line up with the chart. His reading of the plotted trend challenges the idea that frontier progress has shifted entirely away from pretraining.\n\nThese are interpretations of a company's disclosure, not new training measurements or confirmation that two models literally share weights. The author labels possible scaling constraints, other labs' trends and the role of post-training as uncertain. He also notes that safety thresholds require a precise held-out dataset and that retrospective disclosure does not let outsiders monitor unreleased models. The related-post preview about alignment impossibility is not the argument of this article. No cross-lab metric equivalence or universal safety threshold was established.",
+ "highlights": [
+  "A commentary on OpenAI's disclosed perplexity chart",
+  "Dataset choice limits comparisons between labs",
+  "Pretraining loss does not directly measure post-training success",
+  "User-perceived capability jumps need not follow the plotted curve",
+  "Shared-base and scaling interpretations remain inferences",
+  "Safety thresholds would require a defined held-out dataset",
+  "The unrelated alignment-essay preview is excluded from this summary"
+ ]
+}

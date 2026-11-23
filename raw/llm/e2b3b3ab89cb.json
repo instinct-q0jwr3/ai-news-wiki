@@ -1,0 +1,14 @@
+{
+ "id": "e2b3b3ab89cb",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A New York Times report summarized by Techmeme describes Chinese civilian and military researchers worrying that US AI capabilities could compress nuclear decision-making and weaken China's deterrent. Its headline uses a 90-second decision window, while the excerpt emphasizes vulnerability to attack and China's own study of military AI.\n\nThe article remained inaccessible, including through its supplied share link. The underlying studies, assumptions behind 90 seconds and any official response were not inspected. The number is therefore a reported concern or scenario, not a measured operational decision time or evidence that an AI-controlled nuclear launch system is deployed. The entry must not turn strategic anxiety into a confirmed capability on either side.",
+ "highlights": [
+  "NYT reporting is summarized through the feed excerpt",
+  "The reported concern involves deterrence and shorter decision windows",
+  "The headline refers to 90 seconds",
+  "Underlying studies and their assumptions were not available",
+  "A scenario is not a measured operational response time",
+  "No deployment or autonomous nuclear-launch capability was verified"
+ ]
+}

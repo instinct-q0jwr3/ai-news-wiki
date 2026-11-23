@@ -1,0 +1,15 @@
+{
+ "id": "45610d659f3e",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Troy Hunt publishes an AI-written analysis of his breach-notification correspondence, preceded by his explanation of its scope and edits. He says Claude received access to the mailbox covering the last eight and a half years, rather than all 13 years of Have I Been Pwned. The generated account says it located 73 initial standard notifications and sampled replies across years before reading selected illustrative threads. It groups the friction into unreachable security contacts, premature denial, open-ended investigation and attempts to control disclosure.\n\nHunt endorses the pattern analysis and says he edited details to obscure organizations' identities. Readers see his published account, not the underlying mailbox, an audit of the model's search or a representative sample of every breach. The essay includes organizations that responded quickly and corrected notices, so it is not evidence that all companies behave alike. Its comparison between legal thresholds and user harm is an argument about disclosure practice, not jurisdiction-specific legal advice. No private correspondence was accessed for this wiki entry.",
+ "highlights": [
+  "Hunt explicitly discloses AI authorship and his own anonymizing edits",
+  "Mailbox scope is eight and a half years, not the service's full history",
+  "The generated account reports finding 73 standard first notifications",
+  "Selected threads illustrate recurring disclosure friction",
+  "Prompt responses and corrected notices provide counterexamples",
+  "Underlying emails and the AI retrieval process were not independently audited",
+  "The essay does not establish notification law for any particular jurisdiction"
+ ]
+}

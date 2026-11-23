@@ -1,0 +1,14 @@
+{
+ "id": "98bb95a4aec3",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Cherwell Valley Motor Club is a browser driving project whose creator says it began as a way to explore a village in an old car and expanded to races, events and multiplayer. The Hacker News submission attributes development assistance to Claude and the world geometry to UK government LIDAR and OpenStreetMap. A live page read exposed a car chooser, several road and rally cars, paint options and a loading progress indicator.\n\nThe creator's account of one week of work, force-feedback support and geographic scalability was not independently reproduced. The application shell confirms an interface, not driving quality, multiplayer reliability or simulation accuracy. A screenshot capture timed out, and no race, rig integration or visual map assessment was completed. This is an attributed hobby-project account, not a general measure of autonomous software-development capability.",
+ "highlights": [
+  "Browser driving project presented by its creator on Hacker News",
+  "The submission says Claude helped build it",
+  "UK LIDAR and OpenStreetMap are the stated world-data sources",
+  "A live read exposed car, paint and driving controls",
+  "Races, multiplayer and force feedback remain creator claims",
+  "No visual map, physics or hardware integration assessment was completed"
+ ]
+}

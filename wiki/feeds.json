@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1462,
+  "stories": 1463,
   "last": "2026-11-23"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1433,
+  "stories": 1439,
   "last": "2026-11-23"
  },
  {
@@ -80,8 +80,8 @@
  {
   "name": "seangoedecke",
   "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 18,
-  "last": "2026-11-11"
+  "stories": 19,
+  "last": "2026-11-23"
  },
  {
   "name": "Ed Zitron",
@@ -132,16 +132,16 @@
   "last": "2026-09-25"
  },
  {
+  "name": "Troy Hunt",
+  "url": "https://www.troyhunt.com/rss/",
+  "stories": 6,
+  "last": "2026-11-23"
+ },
+ {
   "name": "Westenberg",
   "url": "https://www.joanwestenberg.com/feed",
   "stories": 6,
   "last": "2026-11-17"
- },
- {
-  "name": "Troy Hunt",
-  "url": "https://www.troyhunt.com/rss/",
-  "stories": 5,
-  "last": "2026-11-01"
  },
  {
   "name": "Terence Eden",

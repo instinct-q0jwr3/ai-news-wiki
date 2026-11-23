@@ -1,0 +1,15 @@
+{
+ "id": "216a00abf409",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Bloomberg's feature describes two reported US policy changes affecting Southeast Asian neoclouds: permission requirements for advanced-chip shipments to four countries, and a coming restriction on providing remote access to Chinese users. Its central business question is whether operators can replace Chinese demand quickly enough to support capacity already financed or under construction. Executives and analysts describe licensing uncertainty, customer concentration and risks for lenders.\n\nThe article was recovered in full, but the underlying Commerce rule was not independently inspected. Its account of remote-access restrictions taking effect in February is attributed reporting, not legal guidance. Abandoned data centers are an analyst's worst-case scenario, not an established region-wide outcome. SemiAnalysis's estimate of roughly 300 MW used by Chinese customers and Capital Economics's projected Malaysian GDP effect remain their estimates; allegations of smuggling remain allegations, with denials preserved in the article. This is separate from a prior feed item about proposed rather than finalized restrictions.",
+ "highlights": [
+  "The feature distinguishes chip-shipment licensing from remote-access controls",
+  "Business exposure centers on replacing Chinese compute demand",
+  "Article reports a February start for remote-access restrictions",
+  "Underlying rule text was not inspected, so this is not compliance guidance",
+  "Abandoned projects are a worst-case forecast, not a completed outcome",
+  "Demand, credit and GDP figures are attributed estimates",
+  "Suspected diversion and company denials are not adjudicated findings"
+ ]
+}
