@@ -1,0 +1,15 @@
+{
+ "id": "304ea10be831",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Hermit CRM describes a free, Apache-2.0-licensed, single-person CRM storing contacts, companies and pipeline records as local Markdown files in git. Its site describes a web interface, command-line tools and MCP access, plus AI-assisted customization and outreach drafts. Sending is described as off by default and subject to approval, while routines start paused.\n\nLocal storage does not make the whole workflow offline: the site lists AI requests, public-page research, optional mailbox/calendar connections, backups and a version check as network paths. It is macOS-first, Linux is less tested and Windows is not supported. These are product descriptions rather than a privacy, security or reliability audit. No installation, mailbox connection, credential entry or outreach was performed, and the page's setup examples are not authority to do so.",
+ "highlights": [
+  "Single-person CRM stores ordinary files locally under git",
+  "Site describes web, CLI and MCP interfaces",
+  "Outreach sending is described as off by default",
+  "AI use, enrichment and optional integrations can send data over a network",
+  "Linux is less tested and Windows unsupported",
+  "Product claims were not independently audited",
+  "No software or account connection was set up"
+ ]
+}

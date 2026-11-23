@@ -1,0 +1,15 @@
+{
+ "id": "3b722d1bf8bb",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Simon Willison reports trying Ladybird's first alpha, a browser with its own implementation of much of the web stack. His examples include working WebAssembly-based tools and a failing Datasette Lite service-worker path. He relays the project's October conformance gains and attribution of many small fixes to coding agents, while saying the exact model versions behind that work are not established in his account.\n\nAn alpha release and more passing tests do not establish daily-driver security or compatibility with every site. The project explicitly makes no security promises at this stage, and Willison says he will not use it for sensitive logins. His performance impressions and the project's benchmark gains are attributed observations, not tests reproduced here. No browser was installed and no accounts were signed into through it.",
+ "highlights": [
+  "Willison reports first-alpha availability and personal trials",
+  "Some WebAssembly tools worked in his examples",
+  "Datasette Lite exposed a service-worker limitation",
+  "Conformance gains and coding-agent contribution are attributed",
+  "Exact models behind the October gains remain unspecified",
+  "Project makes no current security promises",
+  "No local installation or sensitive login was performed"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "0982d40d18e3",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Nari Labs presents NariQ quantizations of Qwen3.8-27B at 3, 2.5 and 2 bits per weight. Its card reports near-BF16 results on selected agentic, mathematical and visual tasks for the first two variants, with a substantial decline for 2-bit. It publishes trial counts, harness settings and a speed comparison, distinguishing its own runs from another project's results under a different harness.\n\nThe roughly 10 GB headline is a model-file size, not the memory needed for a full-context session: the card estimates around 30 GB for 3-bit at 262K context with the vision projector. Its own runtime fork is required, hardware support is limited and Apple performance is described as much slower. These are publisher experiments rather than independent reproduction. No binaries, models or scripts were installed or run, and near-BF16 on this suite does not imply equality on every workload.",
+ "highlights": [
+  "Publisher releases three quantization levels",
+  "3-bit and 2.5-bit results are near its BF16 baseline on selected tasks",
+  "2-bit loses substantial math and agent-task performance",
+  "File size is distinct from runtime memory and KV-cache cost",
+  "A project-specific runtime fork is currently required",
+  "Harness differences limit cross-project benchmark comparisons",
+  "No model download or independent benchmark was performed"
+ ]
+}

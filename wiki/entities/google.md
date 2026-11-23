@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-23** - Hermit CRM describes a free, Apache-2.0-licensed, single-person CRM storing contacts, companies and pipeline records as local Markdown files in git. Its site describes a web interface, command-line tools and MCP access, plus AI-assisted customization and… ([Show HN: Hermit CRM – Free open-source CRM for solopreneurs](../summaries/304ea10be831.md) · [Google](../entities/google.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-11-23** - A cached read of the GeminiApp post announces GIF creation in Gemini using a model it calls Gemini Omni 1.2 Flash. The post advertises looping photo effects and memes, with smooth motion and frame consistency presented as product claims.
 
 An alternate read… ([Say hello to GIFs in Gemini](../summaries/a48274536049.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

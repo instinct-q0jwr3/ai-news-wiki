@@ -1,0 +1,15 @@
+{
+ "id": "9c87aa829796",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "AWS CEO Matt Garman argues that AI safety should rely on engineered identity, least privilege, containment and independent telemetry rather than trusting a model or a last-resort shutdown. His Amazon-published essay uses Firecracker and Nitro as examples of controls outside a workload and argues for testing those boundaries as model capabilities change. It presents formal reasoning as useful for proving particular infrastructure properties, not every aspect of AI behavior.\n\nThis is a vendor executive's architectural argument, not an independent certification that every AWS deployment is secure or that existing controls eliminate all advanced-AI risks. Claims about isolation testing and monitoring need their own deployment-specific evidence. The article's broader assertions about model intent and the sufficiency of current tools are positions rather than settled results. No system configuration or security control was changed in response to the essay.",
+ "highlights": [
+  "Garman advocates identity and least privilege for agents",
+  "Containment and telemetry should be independent of the model",
+  "Firecracker and Nitro are vendor examples",
+  "Formal reasoning is framed as property-specific assurance",
+  "This is a vendor essay, not a security certification",
+  "It does not establish that every AI risk is solved",
+  "No infrastructure changes were made"
+ ]
+}

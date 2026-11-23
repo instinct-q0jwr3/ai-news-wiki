@@ -1,0 +1,15 @@
+{
+ "id": "aa68f127674b",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "ZDNET reports Claude Ship's Team and Enterprise beta for reviewing, fixing and, when a team's policy permits, approving GitHub pull requests. It separates Code Review findings, PR Steward's fixes and Claude Approvals' policy-based decision. PR Steward itself cannot approve or merge, and the article says additional approval checks should initially be observed before becoming branch-protection requirements.\n\nThe article's product description is not permission to enable it on a repository or delegate this wiki's review. Beta availability, privacy exclusions and token costs are reported rather than verified against a live account. An approval decision is not the same as merging or a guarantee that code is correct. No GitHub app, team policy, repository setting or spending limit was changed, and no promotional credits were claimed.",
+ "highlights": [
+  "Article separates review, repair and approval roles",
+  "PR Steward is described as unable to approve or merge",
+  "Approval is conditional on team policy and configured signals",
+  "Observe-only rollout is reported as the recommendation",
+  "Token costs and privacy restrictions may affect eligibility",
+  "Approval is not automatically merge or correctness",
+  "No integration, policy or account setting was changed"
+ ]
+}

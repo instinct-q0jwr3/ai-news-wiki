@@ -10,6 +10,7 @@ Amazon operates the largest cloud platform and a growing AI stack, from AWS infr
 
 ## Timeline
 
+- **2026-11-23** - AWS CEO Matt Garman argues that AI safety should rely on engineered identity, least privilege, containment and independent telemetry rather than trusting a model or a last-resort shutdown. His Amazon-published essay uses Firecracker and Nitro as examples… ([AWS CEO Matt Garman says AI safety can't rely on an "emergency brake" and that the same engineering discipline behind decades of secure systems applies to AI](../summaries/9c87aa829796.md) · [Amazon](../entities/amazon.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-23** - Ben Thompson's Stratechery update is titled Amazon Earnings, The Chip Question, About Agents. Its public deck says Amazon presents itself as different from other compute providers while signaling a willingness to sacrifice margin to serve frontier… ([Amazon Earnings, The Chip Question, About Agents](../summaries/e9ccadd58d91.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
 - **2026-11-23** - TLDR links a report titled Amazon Nearing $7.5 Billion Purchase of Decart. The supplied Information page was inaccessible, so this entry records the headline's prospective deal claim without reconstructing terms.
 
