@@ -1,6 +1,6 @@
 # What Happened in Fall 2026: AI and P vs. NP
 
-_type: news-summary · created: 2026-11-23 · updated: 2026-11-23 · confidence: high_
+_type: news-summary · created: 2026-11-23 · updated: 2026-11-24 · confidence: high_
 
 `hacker-news`
 

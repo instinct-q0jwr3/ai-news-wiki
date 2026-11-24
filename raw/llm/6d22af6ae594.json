@@ -1,0 +1,14 @@
+{
+ "id": "6d22af6ae594",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "OpenAI and Cisco introduce Shirudo, an open-source runtime using eBPF to apply temporary protections to running Linux systems while permanent patches are prepared. Their controlled Java4Shell example describes a Codex-generated input check attached to Elasticsearch without a restart. The announcement describes operator approval, signed shields and TPM-backed evidence of loading or removal.\n\nThe demonstration is a vendor-controlled example, not proof that shields work for arbitrary vulnerabilities without disrupting real workloads. The eBPF verifier checks its own program-safety rules, not complete application correctness. Temporary mitigation does not remove the need to patch, test workloads and validate deployment. No software, kernel program, keys or system settings were installed or changed here.",
+ "highlights": [
+  "Shirudo applies temporary runtime mitigations using eBPF",
+  "A controlled Elasticsearch example is reported by the vendors",
+  "Operators approve deployment rather than delegating authority by default",
+  "Signing and TPM records address particular integrity questions",
+  "The demonstration is not universal exploit prevention",
+  "Temporary shields do not replace permanent patches"
+ ]
+}

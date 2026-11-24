@@ -1,6 +1,6 @@
 # Amazon Earnings, The Chip Question, About Agents
 
-_type: news-summary · created: 2026-11-23 · updated: 2026-11-23 · confidence: high_
+_type: news-summary · created: 2026-11-23 · updated: 2026-11-24 · confidence: high_
 
 `stratechery` `amazon` `agentic-systems` `compute-buildout`
 

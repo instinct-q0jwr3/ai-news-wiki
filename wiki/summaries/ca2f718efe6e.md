@@ -1,6 +1,6 @@
 # Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay
 
-_type: news-summary · created: 2026-11-18 · updated: 2026-11-23 · confidence: high_
+_type: news-summary · created: 2026-11-18 · updated: 2026-11-24 · confidence: high_
 
 `techmeme` `google` `gemini` `agentic-systems` `ai-price-war`
 

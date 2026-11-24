@@ -1,7 +1,7 @@
 {
  "id": "signal-2026-11-23",
  "date": "2026-11-23",
- "status": "provisional",
+ "status": "final",
  "reserve": "b0e24ca0af66",
  "picks": [
   {
@@ -34,5 +34,6 @@
    "source": "troyhunt.com",
    "why": "An AI-written breach-disclosure analysis makes authorship, mailbox scope and sampling explicit rather than hiding them."
   }
- ]
+ ],
+ "reviewed_at": "2026-11-24T04:15:00Z"
 }

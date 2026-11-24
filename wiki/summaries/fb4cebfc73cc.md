@@ -1,6 +1,6 @@
 # Anthropic raises an additional $12.2B as underwriters exercise their "greenshoe" overallotment of shares, bringing the total raised in its IPO to $93.5B
 
-_type: news-summary · created: 2026-11-20 · updated: 2026-11-23 · confidence: high_
+_type: news-summary · created: 2026-11-20 · updated: 2026-11-24 · confidence: high_
 
 `techmeme` `anthropic`
 

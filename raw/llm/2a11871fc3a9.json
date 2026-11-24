@@ -1,0 +1,14 @@
+{
+ "id": "2a11871fc3a9",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Simon Willison releases datasette-charts 0.1a0, an alpha plugin suggesting chart types and allowing users to adjust a chosen chart. He says suggestions use sampling while displayed charts aggregate across the full result set through SQL, avoiding the previous limitation of charting only the visible page.\n\nThe returned chart data is capped at 5,000 rows, so full-result aggregation is not the same as drawing every raw observation. He attributes the initial prototype to work with Claude Fable 5.2, but that anecdote does not isolate the model's contribution or establish correctness. This account reports the author's release and architecture; no plugin installation, chart rendering or large-dataset performance test was performed.",
+ "highlights": [
+  "Alpha plugin suggests and edits visualizations",
+  "Suggestions sample rows for efficiency",
+  "Chart SQL aggregates the full query result",
+  "Displayed results have a 5,000-row cap",
+  "AI-assisted development is the author's account",
+  "No installation or performance test was performed"
+ ]
+}

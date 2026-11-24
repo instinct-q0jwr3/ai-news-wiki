@@ -1,6 +1,6 @@
 # Microsoft
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-24 · confidence: medium_
 
 `entity` `microsoft` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Microsoft develops and distributes AI through Azure, Copilot, research and major
 
 ## Timeline
 
+- **2026-11-24** - ToolFence Scan describes static checks of coding-agent skills, prompt files and MCP configurations before installation. Its repository lists rules for hidden Unicode, secret patterns, remote execution, concealment requests and broad permissions, plus… ([Toolfence-scan – static checks for Cursor/Claude/Copilot skills](../summaries/81e768fac495.md) · [Anthropic](../entities/anthropic.md) · [Microsoft](../entities/microsoft.md))
 - **2026-11-23** - Bloomberg's accessible opening reports that Marlowe raised a $277 million seed round led by Accel at a $1.15 billion valuation. It describes the six-month-old startup as co-founded by two Microsoft vice presidents and focused on increasing compute… ([Marlowe, which develops cloud infrastructure and performance tools to optimize non-Nvidia AI chips, raised a $277M seed led by Accel at a $1.15B valuation](../summaries/df0e03974249.md) · [Microsoft](../entities/microsoft.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-22** - CNBC reports that Director of National Intelligence Jay Clayton warned of further interruptions as companies and government upgrade systems for the AI era. The article places his remarks alongside recent disruptions to air traffic, Outlook and banking, and… ([After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for "bumps in the road" as systems are upgraded to adapt to the AI age](../summaries/925f13848d98.md) · [Microsoft](../entities/microsoft.md))
 - **2026-11-20** - The OpenComputer repository describes a self-hostable coding agent that accepts Slack tasks, runs isolated sessions and returns pull requests. Its architecture combines a VM gateway, rootless containers and persistence across local storage and a git-backed… ([Show HN: OpenComputer – an open source alternative to Devin](../summaries/0f03f03a17e0.md) · [Microsoft](../entities/microsoft.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

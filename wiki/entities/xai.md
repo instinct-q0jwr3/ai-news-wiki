@@ -1,6 +1,6 @@
 # SpaceXAI (xAI)
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-23 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-24 · confidence: medium_
 
 `entity` `xai` `agentic-systems` `ai-coding-agents` `ai-policy-regulation` `ai-price-war`
 
@@ -10,6 +10,7 @@ SpaceXAI (formerly xAI) develops the Grok model family and its voice and transcr
 
 ## Timeline
 
+- **2026-11-24** - VOYGR's PlaceBench publishes 150 time-bound questions about real places in 121 cities, answer keys, grades and a comparison of six assistants. It distinguishes a weighted score, the fully-correct share and consistency on twenty repeated questions. Its… ([Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)](../summaries/da1b279e88ea.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [External AI evaluation](../concepts/external-evaluation.md) · [The frontier model price war](../concepts/ai-price-war.md))
 - **2026-11-23** - The New York Times reports that Oregon and Virginia sued SpaceX under consumer-protection laws over Grok Imagine's sexualized imagery. It reports the states' allegations, requested financial damages and counts of at least 1.8 million images of women and 65… ([Oregon and Virginia sue SpaceX, alleging Grok Imagine's "spicy mode" violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children](../summaries/ed579243b103.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Amazon](../entities/amazon.md))
 - **2026-11-17** - Fakemetrics shows a Stripe-style revenue chart with placeholder figures and labels it suitable for a slide or joke. The short page does not substantiate a real business’s revenue or explain a broader product workflow. The displayed dollar amounts should be… ([Show HN: Fakemetrics.com – "build in public" like a superstar](../summaries/025888ec0e70.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [SpaceXAI (xAI)](../entities/xai.md) · [External AI evaluation](../concepts/external-evaluation.md)) ⚠
 - **2026-11-13** - The Information reports, according to Techmeme, that SpaceX cut roughly sixty Grok Imagine roles while prioritizing coding tools and Grok Bot. The original text was unavailable. The feed supports an attributed staffing report, not a confirmed shutdown of… ([SpaceX laid off ~60 Grok Imagine staffers in the past week, leaving a handful to keep the product alive, as it prioritizes AI coding tools and Grok Bot](../summaries/b13363b1a274.md) · [SpaceXAI (xAI)](../entities/xai.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md) · [AI, jobs and displacement](../concepts/labor-displacement.md)) 🔒

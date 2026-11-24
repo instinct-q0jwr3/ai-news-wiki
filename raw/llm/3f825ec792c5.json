@@ -1,0 +1,14 @@
+{
+ "id": "3f825ec792c5",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Anthropic's primary announcement describes Claude Ship as Code Review plus beta PR Steward and Claude Approvals. PR Steward fixes failing checks, conflicts and feedback but is designed not to approve or merge. Approvals evaluates a policy stored by the team, and the company recommends observe-only use before making its result a required check.\n\nThe primary source clarifies costs: policy classifiers and triggered reviews can be billed even in observe mode. Team and Enterprise GitHub repositories are the stated audience, but organizations using ZDR, HIPAA configuration or customer-managed encryption keys are excluded. Internal productivity changes are company observations, not a controlled causal evaluation. No repo policy, integration or spending setting was activated.",
+ "highlights": [
+  "Primary source separates review, repair and approval",
+  "PR Steward is not the approver or merger",
+  "Policies and branch rules constrain approval",
+  "Observe-only can still incur token costs",
+  "ZDR and certain other configurations are excluded",
+  "Internal productivity comparisons are not causal proof"
+ ]
+}

@@ -1,6 +1,6 @@
 # Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed
 
-_type: news-summary · created: 2026-11-15 · updated: 2026-11-23 · confidence: high_
+_type: news-summary · created: 2026-11-15 · updated: 2026-11-24 · confidence: high_
 
 `techmeme`
 

@@ -1,6 +1,6 @@
 # Patrick McGee on Johny Srouji and Nvidia
 
-_type: news-summary · created: 2026-11-14 · updated: 2026-11-23 · confidence: high_
+_type: news-summary · created: 2026-11-14 · updated: 2026-11-24 · confidence: high_
 
 `daring-fireball` `openai` `apple` `nvidia` `ai-safety-incidents` `compute-buildout` `labor-displacement`
 

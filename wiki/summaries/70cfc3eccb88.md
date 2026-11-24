@@ -1,6 +1,6 @@
 # The Mythology of Conscious AI
 
-_type: news-summary · created: 2026-11-22 · updated: 2026-11-23 · confidence: high_
+_type: news-summary · created: 2026-11-22 · updated: 2026-11-24 · confidence: high_
 
 `hacker-news`
 

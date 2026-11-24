@@ -1,0 +1,73 @@
+{
+ "id": "digest-2026-11-24",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "Runtime defense, code approval and cross-request safety monitoring expose distinct enforcement and data-custody questions. A dated places benchmark makes grading limits visible; product rollouts, investment automation and legal reporting keep claims separate from verified outcomes."
+ ],
+ "sections": [
+  {
+   "title": "Runtime shields and static scanners protect different boundaries",
+   "intro": "A temporary Linux mitigation and a configuration scanner describe scoped defenses, not universal protection.",
+   "stories": [
+    "6d22af6ae594",
+    "81e768fac495"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Approval policies and zero retention describe different contracts",
+   "intro": "Claude Ship separates repair from approval; EFS moves storage custody without eliminating monitoring or costs.",
+   "stories": [
+    "3f825ec792c5",
+    "c4f13e009e38"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Local facts need dated keys and repeatable judgments",
+   "intro": "PlaceBench exposes its grading and repeat limits, while a chart alpha distinguishes suggestions from full-query aggregation.",
+   "stories": [
+    "da1b279e88ea",
+    "2a11871fc3a9"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Unified workspaces are not permission to connect accounts",
+   "intro": "A demo inbox and a multi-pane IDE describe capabilities rather than tested privacy guarantees.",
+   "stories": [
+    "c92105008ec2",
+    "643727ebf23f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Product rollouts and portfolios keep claims separate from outcomes",
+   "intro": "A reported model rollout, a satellite first close and an investing beta do not establish universal availability or performance.",
+   "stories": [
+    "a8afa902723b",
+    "e40977053636",
+    "b43d320116d8"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Prosecutors make allegations, not findings of guilt",
+   "intro": "Two reports about a former OpenAI engineer retain their separate access limits and distinguish a prosecution filing from adjudicated facts.",
+   "stories": [
+    "9cec2a9e50a8",
+    "19605e021471"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Career anxiety is not a labor-market forecast",
+   "intro": "An Ask HN thread brings conflicting personal views, not a representative estimate of which jobs automation will change.",
+   "stories": [
+    "2a82c67bfb21"
+   ],
+   "concepts": []
+  }
+ ]
+}

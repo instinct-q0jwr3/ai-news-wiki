@@ -1,0 +1,15 @@
+{
+ "id": "da1b279e88ea",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "VOYGR's PlaceBench publishes 150 time-bound questions about real places in 121 cities, answer keys, grades and a comparison of six assistants. It distinguishes a weighted score, the fully-correct share and consistency on twenty repeated questions. Its reported table puts Dots first while several middle assistants overlap within confidence intervals.\n\nThe method uses an LLM judge, human calibration and a cross-check agreeing on 48 of 60 binary calls. Some keys rely on Maps listings, repeat tests may share conversational memory, and timing coverage differs across products. These are publisher results from one November run, not an independent reproduction or a durable ranking. Historical opening-hour examples are not current travel advice, and the product named Instinct in the table is reported without inferring unpublished implementation details.",
+ "highlights": [
+  "150 questions cover 121 cities and stated times",
+  "Weighted score is distinct from fully-correct rate",
+  "Only twenty questions have repeat trials",
+  "LLM grading and some Maps-only sourcing limit certainty",
+  "Memory continuity complicates repeat comparisons",
+  "One dated run does not establish permanent product rankings",
+  "No benchmark or real-world outing was reproduced"
+ ]
+}

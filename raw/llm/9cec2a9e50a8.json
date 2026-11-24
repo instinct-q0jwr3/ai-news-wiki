@@ -1,0 +1,14 @@
+{
+ "id": "9cec2a9e50a8",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A New York Times item summarized by Techmeme attributes to a court filing allegations that former OpenAI engineer Abdulrahman Alfozan recorded meetings and photographed a confidential term sheet. The excerpt mentions customers, AI safety and a foreign-government briefing.\n\nThe primary article returned an access error, and the filing, defense response and underlying recordings were not inspected. Allegations in a criminal proceeding are not adjudicated findings, and the presence of a foreign-government meeting does not by itself establish espionage or the identity of an intended recipient. The story is kept separate from a later Bloomberg account with its own access limits.",
+ "highlights": [
+  "Claims are attributed to a court filing via NYT",
+  "Feed mentions meeting recordings and a term-sheet photograph",
+  "Primary article and filing were not inspected",
+  "No finding of guilt is established",
+  "A recorded foreign-government briefing is not proof of espionage",
+  "Underlying confidential material was not accessed"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "643727ebf23f",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Incognide describes a tiled workspace combining chat, code, documents, browsers and media with optional agents and automations. Its repository documents no-AI, cloud-provider and local-model paths, alongside context management, memory and tool integrations. The HN headline celebrates a GitHub-star milestone.\n\nA star count is a transient popularity measure, not evidence of security or workflow quality. Local-model support does not mean every configuration is offline, especially with cloud APIs, browsing and external tools. Features in the README were not tested and no installer, provider connection, automation or memory process was enabled. The project's broad capability list should not be read as independently validated behavior.",
+ "highlights": [
+  "Project proposes a multi-pane research and coding workspace",
+  "No-AI, cloud and local model paths are documented",
+  "Automations and context management are optional capabilities",
+  "GitHub stars are not quality or security evidence",
+  "Cloud and external-tool paths can move data off-device",
+  "No installation or provider setup was performed"
+ ]
+}

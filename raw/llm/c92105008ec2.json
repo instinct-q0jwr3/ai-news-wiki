@@ -1,0 +1,13 @@
+{
+ "id": "c92105008ec2",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Show HN listing presents Juncts as one direct-message inbox for five apps that AI assistants can work in. The linked demo renders an inbox with example contacts, conversations and task-like controls, showing the product's intended interface rather than a connected personal account.\n\nThe material inspected does not establish which integrations are live, the permissions they require, pricing or message retention. Demo conversation text is sample content, not real requests from the named people. No accounts were linked, messages read from private services, reminders created or replies sent. The listing's capability claim remains a product claim rather than a tested integration.",
+ "highlights": [
+  "Listing claims a unified inbox across five apps",
+  "Public demo exposes example inbox content",
+  "Demo text is not a real communication request",
+  "Integration permissions and retention were not verified",
+  "No account connection or message action was performed"
+ ]
+}

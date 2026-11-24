@@ -1,0 +1,14 @@
+{
+ "id": "81e768fac495",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "ToolFence Scan describes static checks of coding-agent skills, prompt files and MCP configurations before installation. Its repository lists rules for hidden Unicode, secret patterns, remote execution, concealment requests and broad permissions, plus report formats and an optional bridge to another policy product.\n\nA rule match is a signal for review, not a finding that every flagged file is malicious; absence of a match cannot certify safety. The repository exposes suppressions and fixture tests but supplies no independently verified detection rate in the material read. No package was executed, no local credentials were scanned and no policy fragment was applied. Documentation commands are examples, not authorization.",
+ "highlights": [
+  "Static scanner targets agent-related configuration files",
+  "Rules include concealment, credential and broad-permission patterns",
+  "Reports and policy fragments are described",
+  "False positives and missed attacks remain possible",
+  "Fixture tests do not establish real-world detection rates",
+  "No installation, private scan or policy change was performed"
+ ]
+}
