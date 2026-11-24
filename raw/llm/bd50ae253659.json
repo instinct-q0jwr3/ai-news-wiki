@@ -1,0 +1,15 @@
+{
+ "id": "bd50ae253659",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The Hollywood Reporter says Tidal will reject and remove music it determines is wholly AI-generated from December 9 while continuing to allow AI-assisted work. It attributes to Tidal the claim that 43% of deliveries in ninety days were generated, rising above 60% on one November day, with most receiving no streams.\n\nThe figures describe the platform's classifications and incoming tracks, not an independently measured share of listener demand. Detection accuracy and the handling of disputed classifications were not tested here. The article's visible date is November 24, 2026 despite a conflicting fetch metadata date. This is announced policy, not proof that every removal is already complete.",
+ "highlights": [
+  "Wholly generated and AI-assisted work are treated differently",
+  "December 9 is the announced start",
+  "Forty-three percent refers to recent deliveries",
+  "November 6 has a separately reported higher daily share",
+  "Detection and appeal performance are unverified",
+  "Visible article date takes precedence over stale fetch metadata",
+  "No listener-demand share is inferred from upload volume"
+ ]
+}

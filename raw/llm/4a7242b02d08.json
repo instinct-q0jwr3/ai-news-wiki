@@ -1,0 +1,15 @@
+{
+ "id": "4a7242b02d08",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "KradleBench evaluates models in dynamic Minecraft tasks across collaboration, economy, conflict, logic and creativity. Its November 20 leaderboard places GPT-6.2 Astra slightly above a skilled human on the aggregate, while the page says the human remains stronger at strategy and conflict. Replays and per-run cost comparisons make different failure modes visible.\n\nThis is a benchmark publisher's account, not a universal ranking of intelligence or real-world teamwork. One skilled player is not a population-level human baseline, aggregate scores can hide dimension differences, and models receive structured observations and code-based actions rather than the same interaction mode as a typical player. No runs or grading were independently reproduced.",
+ "highlights": [
+  "Minecraft environment continues while models reason",
+  "Tasks last roughly two to fifteen minutes",
+  "Five dimensions contribute to the aggregate",
+  "Human baseline is a named skilled player",
+  "Human retains advantages in strategy and conflict",
+  "Structured observations and code actions shape the task",
+  "Leaderboard is not a universal intelligence ranking"
+ ]
+}

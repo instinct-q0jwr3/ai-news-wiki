@@ -1,0 +1,14 @@
+{
+ "id": "ebb13c975b3e",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Hacker News poster says Anthropic accused their company of model distillation and gave them a day to show otherwise. The poster denies training models and suggests automated regression benchmarks might have triggered concern. Replies discuss evidence, privacy, vendor dependence and possible appeals.\n\nThis is an unverified account of a private dispute, not an inspected notice, an authenticated company response or proof that benchmarking violates a particular policy. Commenters' assumptions about automated review, retention and alternative providers are not established facts. The thread does not authorize disclosure of any customer data or provide a reliable legal determination.",
+ "highlights": [
+  "Poster denies training a model",
+  "Regression testing is offered as a possible trigger",
+  "Underlying notice was not inspected",
+  "No Anthropic response is established",
+  "Comments contain speculation about review mechanisms",
+  "Privacy and vendor dependence are discussion themes"
+ ]
+}

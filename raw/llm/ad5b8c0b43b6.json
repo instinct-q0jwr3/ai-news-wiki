@@ -1,0 +1,15 @@
+{
+ "id": "ad5b8c0b43b6",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Anthropic announces beta installation of Claude artifacts as Mac and Windows apps, with their own windows and optional notifications, connectors and computer permissions. The primary page separates browser-like defaults, controlled app capabilities and full computer access, which can run programs and alter files without asking on every action.\n\nPermissions apply to the current version and are requested again after artifact updates, but externally supplied components can change without another prompt. Full access is limited to self-made apps or organization-made apps on eligible plans, and Anthropic does not review apps before installation. Enterprise defaults, HIPAA-ready and hybrid exclusions, online sign-in and usage limits constrain availability; nothing was installed or granted here.",
+ "highlights": [
+  "Beta rollout concerns Mac and Windows artifacts",
+  "Three permission levels have materially different reach",
+  "Full access can run programs and change or delete files",
+  "App updates request permission again",
+  "External webpage components are a stated exception",
+  "Enterprise access is initially off and Team full access is off",
+  "Online sign-in and plan usage limits still apply"
+ ]
+}

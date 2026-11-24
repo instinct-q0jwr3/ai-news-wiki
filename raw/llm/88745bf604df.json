@@ -1,0 +1,15 @@
+{
+ "id": "88745bf604df",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "OpenAI reports protein-design capabilities in the GPT-6 family using reasoning and general-purpose code, including computational tests and lab work with Onava. It says designs showed binding evidence across five targets and that redesigned minibinders and antibodies could retain binding.\n\nThe intrinsic-design claim must be separated from the laboratory workflow: specialized models supplied sequences and selected candidates for some wet-lab tests. Full structure prediction remains a weakness, and comparisons include an internal research model. Binding evidence is not therapeutic efficacy, clinical safety or a general replacement for specialist biology tools; the experiments were not reproduced here.",
+ "highlights": [
+  "General-purpose reasoning and code generate proposed designs",
+  "Computational study covers multiple protein tasks",
+  "Onava performs the reported laboratory work",
+  "Five selected targets show some binding evidence",
+  "Specialized tools assist sequencing and candidate selection",
+  "Full structure prediction remains a stated weakness",
+  "No clinical outcome or independent reproduction is established"
+ ]
+}

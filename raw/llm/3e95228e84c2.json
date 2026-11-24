@@ -1,0 +1,14 @@
+{
+ "id": "3e95228e84c2",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "An accessible Bloomberg opening reports Anthropic trading below its $83 IPO price on its fourth trading day. Its updated snapshot gives $81.04 at 1:18 p.m. New York time, down 2.4%, after a larger earlier decline amid broader equity weakness.\n\nOnly the opening was readable, not the full market analysis. These are timestamped intraday observations rather than a closing price or a live quote. Different levels in earlier reports can reflect different moments in trading and do not establish a lasting valuation or a forecast of returns.",
+ "highlights": [
+  "IPO reference price is $83",
+  "Updated snapshot is 1:18 p.m. New York time",
+  "Reported level is $81.04",
+  "Earlier decline was larger",
+  "Full Bloomberg context was inaccessible",
+  "No closing price or future return is inferred"
+ ]
+}

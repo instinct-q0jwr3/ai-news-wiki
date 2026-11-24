@@ -1,0 +1,14 @@
+{
+ "id": "920d51a93807",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Simon Willison links to historian Mark Humphries' account of GPT-6.2 Astra identifying a possible creator of an anonymous 1808 sketchbook. The account says the model connected a diary entry with a nearby dated visit and proposed checking a paper journal, which Humphries reports confirmed the hypothesis.\n\nThis is a secondary link post describing a particular case, not independent inspection of the archive or a benchmark of historical reasoning. The model's twenty-two-minute lead-finding phase differs from later human access to the paper source. The interpretation and significance remain attributed, and one successful attribution does not settle the future role of historians.",
+ "highlights": [
+  "Case concerns an anonymous 1808 sketchbook",
+  "A diary clue suggests the vicomte de Chabot",
+  "Paper journal access supplies later reported confirmation",
+  "Twenty-two minutes describes the model's search phase",
+  "Willison summarizes Humphries rather than auditing the archive",
+  "One case does not establish general historical-research reliability"
+ ]
+}

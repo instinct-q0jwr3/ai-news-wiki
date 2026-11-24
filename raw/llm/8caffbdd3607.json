@@ -1,0 +1,15 @@
+{
+ "id": "8caffbdd3607",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "An accessible Bloomberg opening introduces Epochal, founded by three early xAI members to pursue prediction of future events. The company describes an initial time-portal product that lets agents browse historical versions of the internet to practice forecasting without later information.\n\nThe full article was not accessible. The feed's reported $100 million personal investment by Guodong Zhang is not independently confirmed by the opening, and superhuman prediction is a goal rather than a demonstrated result. Historical simulations require controls against future-data leakage and overfitting; no predictive benchmark or investment outcome was verified.",
+ "highlights": [
+  "Three founding xAI members are reported as founders",
+  "Initial product uses archived internet states",
+  "Forecasting is the stated goal",
+  "Full Bloomberg article was inaccessible",
+  "Personal-investment figure remains feed-level reporting",
+  "No superhuman forecasting result is established",
+  "Historical evaluation can be affected by leakage"
+ ]
+}

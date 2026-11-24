@@ -1,0 +1,15 @@
+{
+ "id": "3eae09524452",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "New York's governor announces signing S.9408A/A.11144B, establishing a five-year moratorium on manufacturing, distribution and sale in New York of internet-connected toys with integrated conversational AI. The announcement says the law takes effect ninety days after signing and provides civil penalties up to $15,000 per day for each violation.\n\nThe official release is a primary source for the announcement, but it is not the full statutory text or an exhaustive treatment of definitions and exceptions. It concerns a specified category of connected chatbot toys, not every AI product, all electronic toys or immediate prohibition on the signing date. Consumer-test claims in the release retain their attribution.",
+ "highlights": [
+  "Governor announces a signed five-year moratorium",
+  "Scope is internet-connected conversational AI toys",
+  "Manufacturing, distribution and sale are named activities",
+  "Effective date is ninety days after signing",
+  "Release states penalties up to $15,000 per day per violation",
+  "Full legal definitions and exceptions were not independently parsed",
+  "Announcement does not ban every use of AI"
+ ]
+}

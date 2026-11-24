@@ -1,0 +1,15 @@
+{
+ "id": "36b9baa667be",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Versine's founders introduce an MCP-connected payment wallet using USDC on Base. Their launch post describes passkey approval for one-time transfers, configurable trusted-contact permissions and claims for people who do not yet have an account, with group payments as an example use.\n\nThis is founder-supplied product and regulatory framing, not an independent custody, compliance or security audit. Standing permission for trusted contacts changes approval risk; self-custody does not itself establish recoverability after a wrong transfer. Questions about disputes and passkey failures in comments remain unresolved observations, and no wallet, permission or transfer was created.",
+ "highlights": [
+  "Wallet balance is described as USDC on Base",
+  "One-time sends use app and passkey approval",
+  "Trusted contacts can use standing permissions",
+  "Off-platform recipients use a claim flow",
+  "Regulatory status is a founder claim, not legal verification",
+  "Reversal and dispute risks remain important unknowns",
+  "No payment action was taken"
+ ]
+}

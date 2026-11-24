@@ -1,107 +1,35 @@
 {
- "generated_at": "2026-11-24T16:17:53+00:00",
+ "generated_at": "2026-11-24T22:19:15+00:00",
  "stories": [
   {
-   "id": "c147e929a977",
-   "title": "LLM agents work for their parent companies, not for you",
+   "id": "3d77e693a5c9",
+   "title": "Tidal bans AI-generated music",
    "source": "Hacker News",
-   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
   },
   {
-   "id": "929bc91ad356",
-   "title": "Anthropic is below its IPO price",
+   "id": "3e95228e84c2",
+   "title": "Anthropic breaks below $83 IPO price",
    "source": "Hacker News",
-   "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
   },
   {
-   "id": "7128bf597193",
-   "title": "VP and VNP are different [OpenAI] [pdf]",
+   "id": "ebb13c975b3e",
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "source": "Hacker News",
-   "url": "https://github.com/openai/math/blob/main/preprints/VP-and-VNP-are-different-November-23-2026/paper.pdf"
+   "url": "https://news.ycombinator.com/item?id=50630809"
   },
   {
-   "id": "44201e514114",
-   "title": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
+   "id": "d1aaaee50682",
+   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+   "source": "Hacker News",
+   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
   },
   {
-   "id": "68691d358a2f",
-   "title": "Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
-  },
-  {
-   "id": "e9e0b805d899",
-   "title": "Pluralistic: Free lunches (24 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/24/move-fast-break-kings/"
-  },
-  {
-   "id": "70fac7b28014",
-   "title": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate",
-   "source": "Techmeme",
-   "url": "https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check"
-  },
-  {
-   "id": "84b790a339e0",
-   "title": "Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative"
-  },
-  {
-   "id": "1c4407818ec8",
-   "title": "Zipher, which uses AI agents to handle data workload execution and resource allocation, raised $53M across seed and Series A from TLV Partners and others",
-   "source": "Techmeme",
-   "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/"
-  },
-  {
-   "id": "dd3e7c91b0b9",
-   "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-  },
-  {
-   "id": "ba1bb00b0484",
-   "title": "Filing: the US Commerce Department adds Alibaba's Singaporean subsidiary, Apex Enterprise Solutions, to its Entity List alongside Megaspeed and five affiliates",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions"
-  },
-  {
-   "id": "04ea54c1ad6a",
-   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
-  },
-  {
-   "id": "6d6dafaeeabd",
-   "title": "I used to orchestrate agents. Now I orchestrate orchestrators",
-   "source": "TLDR AI",
-   "url": "https://www.nijho.lt/post/orchestrating-orchestrators/"
-  },
-  {
-   "id": "ee64a476df76",
-   "title": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44"
-  },
-  {
-   "id": "8f4fcb4edd9c",
-   "title": "Grok Bot to Get Local Computer Use",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/grok-bot-to-get-local-computer-use-and-dictation-in-any-app/"
-  },
-  {
-   "id": "b982cf2fb8bd",
-   "title": "The Individual Exception",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/the-individual-exception/"
-  },
-  {
-   "id": "56acd998af78",
-   "title": "Introducing Natural Voice",
-   "source": "TLDR AI",
-   "url": "https://www.natural.com/blog/voice"
+   "id": "fe4d1f895d1a",
+   "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+   "source": "Hacker News",
+   "url": "https://masondata.ai/"
   },
   {
    "id": "27e1b940a5de",
@@ -110,58 +38,124 @@
    "url": "https://www.anthropic.com/research/working-with-ai"
   },
   {
-   "id": "53d8ac1f4a34",
-   "title": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=waZnXv&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "6d22af6ae594",
-   "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+   "id": "36b9baa667be",
+   "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
    "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-shirudo/"
+   "url": "https://news.ycombinator.com/item?id=50634426"
   },
   {
-   "id": "9f83df890f3e",
-   "title": "OpenWorks",
-   "source": "TLDR AI",
-   "url": "https://openai.com/openworks/"
+   "id": "6c77d836b125",
+   "title": "Compiling web applications into verified operations for AI agents",
+   "source": "Hacker News",
+   "url": "https://protocolis.co/paper/"
   },
   {
-   "id": "96b32c19b6e5",
-   "title": "Recursive Self-Editing: LLMs Program Their Own Weight Edits for Self-Improvement",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2611.29513"
+   "id": "88745bf604df",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
   },
   {
-   "id": "8e98f79b1c80",
-   "title": "Nvidia Board Reinstates Jensen Huang",
+   "id": "e3cf614de6c3",
+   "title": "Quit Internet Videos Before AI Perfects Them",
+   "source": "Hacker News",
+   "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects"
+  },
+  {
+   "id": "7676d8895a3f",
+   "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
+   "source": "Hacker News",
+   "url": "https://github.com/hatchet-dev/brickie"
+  },
+  {
+   "id": "93fe1c8409b9",
+   "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+   "source": "Hacker News",
+   "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
+  },
+  {
+   "id": "e1dc180d94c9",
+   "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+   "source": "Hacker News",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026"
+  },
+  {
+   "id": "4a7242b02d08",
+   "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+   "source": "Hacker News",
+   "url": "https://www.kradle.ai?1"
+  },
+  {
+   "id": "3eae09524452",
+   "title": "New York Ban AI Toys for 5 Years",
+   "source": "Hacker News",
+   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
+  },
+  {
+   "id": "3c6ae9896dc3",
+   "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50633601"
+  },
+  {
+   "id": "a51782264575",
+   "title": "‘The Economy Is a Hostage Situation’",
    "source": "Daring Fireball",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+   "url": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&"
   },
   {
-   "id": "168e231e43db",
-   "title": "Supercharging transformer residual connections",
-   "source": "TLDR AI",
-   "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+   "id": "1bfcd0d192a4",
+   "title": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5",
+   "source": "Techmeme",
+   "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
   },
   {
-   "id": "d0d35ad9431b",
-   "title": "BREAKING: Employees at OpenAI and Anthropic are panicking",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-employees-at-openai-and"
+   "id": "8caffbdd3607",
+   "title": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events"
   },
   {
-   "id": "41562af36550",
-   "title": "Faster Quantum Algorithms with Agents and Formal Verification",
-   "source": "TLDR AI",
-   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+   "id": "5352e2900bda",
+   "title": "Patriotism, Trump-Style",
+   "source": "Daring Fireball",
+   "url": "https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/"
   },
   {
-   "id": "a200eabd2794",
-   "title": "RL infrastructure at Microsoft AI",
-   "source": "TLDR AI",
-   "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"
+   "id": "c32015587d80",
+   "title": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond"
+  },
+  {
+   "id": "887cbf371594",
+   "title": "Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
+  },
+  {
+   "id": "bd50ae253659",
+   "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days",
+   "source": "Techmeme",
+   "url": "https://www.hollywoodreporter.com/music/music-industry-news/tidal-bans-wholly-ai-generated-music-1236762171/"
+  },
+  {
+   "id": "0e404802dfb2",
+   "title": "David Sacks’s Pool Boy Is Cocky",
+   "source": "Daring Fireball",
+   "url": "https://www.threads.com/@karaswisher/post/DgGBe_XI147"
+  },
+  {
+   "id": "920d51a93807",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
+  },
+  {
+   "id": "ad5b8c0b43b6",
+   "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more",
+   "source": "Techmeme",
+   "url": "https://claude.com/resources/articles/install-as-app"
   }
  ]
 }

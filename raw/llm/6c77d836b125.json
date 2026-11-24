@@ -1,0 +1,15 @@
+{
+ "id": "6c77d836b125",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Protocolis describes a compiler that turns webpage controls into typed operations, executes a selected operation and rereads the page to report changes. Its author copy reports 3,443 counted runs and, for a matched long-task subset, 80 completions out of 105 compared with 46% for the best alternative in each comparison.\n\nThe accessible page is an abstract and headline results, with the arXiv version described as forthcoming. These are author-reported comparisons, not independently reproduced guarantees. Verified operations in this framing do not prove that every task is correct, authorized or secure, and the reported 22% disagreement over claimed long-task completion itself limits the language of certainty.",
+ "highlights": [
+  "Compiler derives operations from page controls",
+  "Execution includes a post-action read",
+  "Abstract reports 3,443 counted runs",
+  "Long-task subset is 80 of 105 completions",
+  "Judge disagreement is not eliminated",
+  "ArXiv publication is described as forthcoming",
+  "No general task-correctness or authorization guarantee follows"
+ ]
+}

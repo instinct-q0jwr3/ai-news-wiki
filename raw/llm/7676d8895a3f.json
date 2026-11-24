@@ -1,0 +1,15 @@
+{
+ "id": "7676d8895a3f",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Brickie is a beta project for durable coding sandboxes in a user-managed cloud or Kubernetes cluster. Its repository describes immutable object-store snapshots tied to Hatchet tasks, resumable and forkable workspaces, warm pools and runtime choices including Kata, gVisor and AWS Nitro.\n\nRetry safety, mTLS and FIPS-related statements are repository claims, not an audit of a particular deployed environment. Avoiding duplicate commands within its snapshot protocol does not guarantee exactly-once effects on every external service. The beta wire contract can change, and no example code, image or deployment instructions were executed.",
+ "highlights": [
+  "Snapshots are tied to individual task turns",
+  "Workspaces can resume or fork from stored state",
+  "Project builds on agent-sandbox and Hatchet",
+  "Docker and Kubernetes paths are described",
+  "Runtime choice affects isolation properties",
+  "Beta interfaces can change",
+  "No independent security or deployment test was performed"
+ ]
+}

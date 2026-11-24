@@ -15,7 +15,7 @@ Mistral's documentation page for Mistral Large 4, in public preview as of Octobe
 - 1.6B vision encoder; public preview.
 - Thin source; specs only.
 
-_Only a short excerpt of the source could be read._
+_The full source text could not be retrieved (blocked or unreadable page); this summary is based on the feed excerpt._
 
 ## Source
 
