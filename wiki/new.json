@@ -20,22 +20,34 @@
    "url": "https://github.com/openai/math/blob/main/preprints/VP-and-VNP-are-different-November-23-2026/paper.pdf"
   },
   {
+   "id": "44201e514114",
+   "title": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+",
+   "source": "Techmeme",
+   "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
+  },
+  {
+   "id": "68691d358a2f",
+   "title": "Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly",
+   "source": "Techmeme",
+   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
+  },
+  {
+   "id": "e9e0b805d899",
+   "title": "Pluralistic: Free lunches (24 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/24/move-fast-break-kings/"
+  },
+  {
    "id": "70fac7b28014",
    "title": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate",
    "source": "Techmeme",
    "url": "https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check"
   },
   {
-   "id": "9f83df890f3e",
-   "title": "OpenWorks",
-   "source": "TLDR AI",
-   "url": "https://openai.com/openworks/"
-  },
-  {
-   "id": "6d22af6ae594",
-   "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-   "source": "Hacker News",
-   "url": "https://openai.com/index/introducing-shirudo/"
+   "id": "84b790a339e0",
+   "title": "Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding",
+   "source": "Marcus on AI",
+   "url": "https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative"
   },
   {
    "id": "1c4407818ec8",
@@ -44,10 +56,94 @@
    "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/"
   },
   {
-   "id": "68691d358a2f",
-   "title": "Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly",
+   "id": "dd3e7c91b0b9",
+   "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+  },
+  {
+   "id": "ba1bb00b0484",
+   "title": "Filing: the US Commerce Department adds Alibaba's Singaporean subsidiary, Apex Enterprise Solutions, to its Entity List alongside Megaspeed and five affiliates",
    "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions"
+  },
+  {
+   "id": "04ea54c1ad6a",
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+  },
+  {
+   "id": "6d6dafaeeabd",
+   "title": "I used to orchestrate agents. Now I orchestrate orchestrators",
+   "source": "TLDR AI",
+   "url": "https://www.nijho.lt/post/orchestrating-orchestrators/"
+  },
+  {
+   "id": "ee64a476df76",
+   "title": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44"
+  },
+  {
+   "id": "8f4fcb4edd9c",
+   "title": "Grok Bot to Get Local Computer Use",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/grok-bot-to-get-local-computer-use-and-dictation-in-any-app/"
+  },
+  {
+   "id": "b982cf2fb8bd",
+   "title": "The Individual Exception",
+   "source": "Stratechery",
+   "url": "https://stratechery.com/2026/the-individual-exception/"
+  },
+  {
+   "id": "56acd998af78",
+   "title": "Introducing Natural Voice",
+   "source": "TLDR AI",
+   "url": "https://www.natural.com/blog/voice"
+  },
+  {
+   "id": "27e1b940a5de",
+   "title": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks",
+   "source": "Techmeme",
+   "url": "https://www.anthropic.com/research/working-with-ai"
+  },
+  {
+   "id": "53d8ac1f4a34",
+   "title": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO",
+   "source": "Techmeme",
+   "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=waZnXv&reflink=desktopwebshare_permalink"
+  },
+  {
+   "id": "6d22af6ae594",
+   "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+   "source": "Hacker News",
+   "url": "https://openai.com/index/introducing-shirudo/"
+  },
+  {
+   "id": "9f83df890f3e",
+   "title": "OpenWorks",
+   "source": "TLDR AI",
+   "url": "https://openai.com/openworks/"
+  },
+  {
+   "id": "96b32c19b6e5",
+   "title": "Recursive Self-Editing: LLMs Program Their Own Weight Edits for Self-Improvement",
+   "source": "TLDR AI",
+   "url": "https://arxiv.org/abs/2611.29513"
+  },
+  {
+   "id": "8e98f79b1c80",
+   "title": "Nvidia Board Reinstates Jensen Huang",
+   "source": "Daring Fireball",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+  },
+  {
+   "id": "168e231e43db",
+   "title": "Supercharging transformer residual connections",
+   "source": "TLDR AI",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
   },
   {
    "id": "d0d35ad9431b",
@@ -62,106 +158,10 @@
    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
   },
   {
-   "id": "6d6dafaeeabd",
-   "title": "I used to orchestrate agents. Now I orchestrate orchestrators",
-   "source": "TLDR AI",
-   "url": "https://www.nijho.lt/post/orchestrating-orchestrators/"
-  },
-  {
-   "id": "168e231e43db",
-   "title": "Supercharging transformer residual connections",
-   "source": "TLDR AI",
-   "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
-  },
-  {
-   "id": "27e1b940a5de",
-   "title": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks",
-   "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/working-with-ai"
-  },
-  {
    "id": "a200eabd2794",
    "title": "RL infrastructure at Microsoft AI",
    "source": "TLDR AI",
    "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"
-  },
-  {
-   "id": "b982cf2fb8bd",
-   "title": "The Individual Exception",
-   "source": "Stratechery",
-   "url": "https://stratechery.com/2026/the-individual-exception/"
-  },
-  {
-   "id": "84b790a339e0",
-   "title": "Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding",
-   "source": "Marcus on AI",
-   "url": "https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative"
-  },
-  {
-   "id": "53d8ac1f4a34",
-   "title": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO",
-   "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?st=waZnXv&reflink=desktopwebshare_permalink"
-  },
-  {
-   "id": "dd3e7c91b0b9",
-   "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-  },
-  {
-   "id": "8e98f79b1c80",
-   "title": "Nvidia Board Reinstates Jensen Huang",
-   "source": "Daring Fireball",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
-  },
-  {
-   "id": "04ea54c1ad6a",
-   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
-  },
-  {
-   "id": "56acd998af78",
-   "title": "Introducing Natural Voice",
-   "source": "TLDR AI",
-   "url": "https://www.natural.com/blog/voice"
-  },
-  {
-   "id": "e9e0b805d899",
-   "title": "Pluralistic: Free lunches (24 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/24/move-fast-break-kings/"
-  },
-  {
-   "id": "ee64a476df76",
-   "title": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44"
-  },
-  {
-   "id": "96b32c19b6e5",
-   "title": "Recursive Self-Editing: LLMs Program Their Own Weight Edits for Self-Improvement",
-   "source": "TLDR AI",
-   "url": "https://arxiv.org/abs/2611.29513"
-  },
-  {
-   "id": "ba1bb00b0484",
-   "title": "Filing: the US Commerce Department adds Alibaba's Singaporean subsidiary, Apex Enterprise Solutions, to its Entity List alongside Megaspeed and five affiliates",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions"
-  },
-  {
-   "id": "8f4fcb4edd9c",
-   "title": "Grok Bot to Get Local Computer Use",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/grok-bot-to-get-local-computer-use-and-dictation-in-any-app/"
-  },
-  {
-   "id": "44201e514114",
-   "title": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
   }
  ]
 }
