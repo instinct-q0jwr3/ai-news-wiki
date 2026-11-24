@@ -1,0 +1,15 @@
+{
+ "id": "57ed82748ca2",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Latent Space's roundup connects NVIDIA's restoration of Huang with OpenAI's published pretraining-loss history and a reported Microsoft measurement on the same held-out coding evaluation. It discusses a proposal for shared development limits while collecting commentary about tokenization, post-training, synthetic data and the gap between an internal metric and general capability.\n\nThis is a multi-source editorial digest, not independent replication of the loss curve or evidence that an industry-wide limit has been adopted. Its social-media and community sections include unverified mathematical claims and unofficial extrapolations that do not become established theorems or forecasts by inclusion. NVIDIA's continuing investigation remains distinct from reinstatement. Sponsorship and unrelated article previews are not treated as evidence or instructions.",
+ "highlights": [
+  "Roundup links governance news and pretraining measurement",
+  "Common-limit proposal is distinct from an adopted agreement",
+  "Microsoft comparison is reported rather than reproduced",
+  "Tokenizer and dataset choices constrain cross-model interpretation",
+  "Social-media mathematical claims remain unverified here",
+  "Reinstatement does not close the NVIDIA investigation",
+  "No software or workflow change follows from the roundup"
+ ]
+}

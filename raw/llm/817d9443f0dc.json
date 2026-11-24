@@ -1,0 +1,15 @@
+{
+ "id": "817d9443f0dc",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Genesis describes a codebase map and change-review helper that connects changed behavior to entry points, tests and possible risks. Its CLI checks cited source lines against a frozen repository snapshot, while Python parsing can mark incomplete maps. Test verdicts still come from an agent reading code rather than running the tests.\n\nThe project reports a ten-commit, five-project Python study with three runs per agent and LLM-based scoring. It discloses an important majority-class baseline: calling every change covered would already score 82%, and some metrics worsen even as others improve. Source-quote validation is not semantic proof, support outside Python is weaker, and risks can be missed. No package was installed, repository scanned or policy changed.",
+ "highlights": [
+  "Genesis maps behavior and test evidence around code changes",
+  "CLI checks source quotations against a snapshot",
+  "Test coverage judgments do not execute tests",
+  "Publisher study covers ten commits from five Python projects",
+  "Majority-class baseline and mixed metrics limit conclusions",
+  "Other-language completeness checks are weaker",
+  "No installation or independent review experiment was performed"
+ ]
+}

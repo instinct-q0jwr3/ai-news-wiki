@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-24** - An FT item indexed by Techmeme attributes skepticism about AI curing cancer within five to ten years to Novartis CEO and Anthropic board member Vas Narasimhan. The excerpt contrasts an engineering-oriented outlook with the complexity of human biology and… ([Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's "engineering mindset" overlooks human biology](../summaries/f6ac65278f77.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-11-23** - A cached read of the GeminiApp post announces GIF creation in Gemini using a model it calls Gemini Omni 1.2 Flash. The post advertises looping photo effects and memes, with smooth motion and frame consistency presented as product claims.
 
 An alternate read… ([Say hello to GIFs in Gemini](../summaries/a48274536049.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

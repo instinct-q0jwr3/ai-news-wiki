@@ -1,0 +1,14 @@
+{
+ "id": "bbd3f6a103d5",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "David Temkin presents Declare, a domain-specific UI language combining structure, state, layout and motion with compiler checks and explicit dependencies. The project demonstrates calendars, a desktop and an issue tracker, and argues that a small language plus useful diagnostics can make AI-generated interfaces easier to inspect and repair.\n\nIts ticket-app comparison is explicitly a single paired run, not an established benchmark: the publisher reports fewer lines and more hidden checks passed than its React example. Compiler checks and a proposed verification ladder establish only the properties they cover, not complete usability, accessibility or security. No language package or agent skill was installed and none of the interactive examples was operated or independently tested.",
+ "highlights": [
+  "Declare combines UI structure and behavior in a small language",
+  "Dependencies and diagnostics are central design claims",
+  "Publisher provides several application examples",
+  "React comparison is explicitly a single paired run",
+  "Compiler checks do not prove every aspect of UI quality",
+  "No installation or independent benchmark was performed"
+ ]
+}

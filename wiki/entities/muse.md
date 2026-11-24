@@ -10,6 +10,7 @@ Muse is Meta's personal AI agent for consumers, built by Meta Superintelligence 
 
 ## Timeline
 
+- **2026-11-24** - POLITICO reports Meta's UK rollout of Muse to adults for everyday tasks, alongside a previous warning from the Digital Regulation Cooperation Forum about consumer risks from agents. It relays Meta's privacy assurances and says use of interactions to… ([Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents](../summaries/70a4452eedbf.md) · [Meta](../entities/meta.md) · [Muse (Meta)](../entities/muse.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md))
 - **2026-11-21** - A Meta Muse Spark model page yielded a short, flattened benchmark table. Column and row relationships were not reliably preserved, so individual figures could not safely be assigned to tasks or compared across models.
 
 A model version named in the listing… ([Muse Spark 1.3](../summaries/d8f07e649db2.md) · [Muse (Meta)](../entities/muse.md)) ⚠

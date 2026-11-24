@@ -1,0 +1,14 @@
+{
+ "id": "e090f4c275a8",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "SiliconANGLE describes Cisco and OpenAI's wider secure-infrastructure ambitions and Shirudo's eBPF-based runtime shields. It places a controlled Java4Shell demonstration in an argument for faster mitigation while permanent fixes are prepared, discussing signed protections and hardware-backed verification.\n\nThe article's broad automatic-defense framing should be read alongside the narrower [primary announcement](../summaries/6d22af6ae594.md), which keeps deployment under operator approval and describes a specific demonstration. Neither source establishes protection from all unknown attacks without workload disruption. No kernel code, agent control plane or security configuration was installed; temporary shields are not a substitute for tested patches.",
+ "highlights": [
+  "Article describes a wider secure-infrastructure initiative",
+  "Shirudo uses runtime controls rather than a permanent code fix",
+  "Java4Shell is a controlled demonstration",
+  "Primary announcement retains operator deployment approval",
+  "General unknown-attack prevention is not established",
+  "No software or infrastructure change was made"
+ ]
+}
