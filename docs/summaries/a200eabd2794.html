@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>RL infrastructure at Microsoft AI · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1795537432"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>RL infrastructure at Microsoft AI</h1>
+<p class="meta">type: news-summary · created: 2026-11-24 · updated: 2026-11-24 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Microsoft AI describes Rocket, its internal reinforcement-learning framework for long post-training runs, including work on the three-trillion-parameter MAI Base 2. The architecture coordinates asynchronous rollouts, a learner and an adapted SGLang inference system, with policy-staleness controls, numerical-consistency work, recovery and runtime reconfiguration.</p>
+<p>The engineering report explains design choices for Microsoft's training recipe rather than establishing that one framework is best for all RL workloads. Reported efficiency gains and progress on an aggregate of public and private reasoning evaluations are company measurements, not an independently reproducible public leaderboard. A forecast of passing another model in coming weeks remains a forecast, and this work is explicitly separate from MAI Code 2.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Rocket targets long RL runs from base capabilities</li>
+<li>Stale rollouts and numeric mismatch are central problems</li>
+<li>Microsoft maintains an adapted SGLang inference stack</li>
+<li>Recovery uses reserved spare capacity</li>
+<li>Runtime elasticity trades controls against operational overhead</li>
+<li>Aggregate benchmark includes private evaluations</li>
+<li>Projected model comparisons are not achieved public results</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/">Read the original story</a> · <a href="https://tldr.tech/ai/2026-11-24">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/microsoft.html">Microsoft</a> · <a href="../concepts/compute-buildout.html">Compute and the data-center build-out</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

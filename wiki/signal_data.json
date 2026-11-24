@@ -3022,5 +3022,61 @@
   "thin": 3,
   "total": 53,
   "unreadable": 2
+ },
+ "2026-11-24": {
+  "ok": 38,
+  "paywall": 6,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Science",
+    "id": "41562af36550",
+    "minutes": 6,
+    "source": "deepmind.google",
+    "title": "Faster Quantum Algorithms with Agents and Formal Verification",
+    "why": "Formal circuit verification and resource reductions retain an explicit practical-hardware limit."
+   },
+   {
+    "cat": "ok",
+    "front": "Work",
+    "id": "27e1b940a5de",
+    "minutes": 46,
+    "source": "anthropic.com",
+    "title": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks",
+    "why": "Enterprise interviews expose hiring changes, bottlenecks and organizational choices behind reported gains."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "a200eabd2794",
+    "minutes": 22,
+    "source": "microsoft.ai",
+    "title": "RL infrastructure at Microsoft AI",
+    "why": "Long RL runs make numerical agreement, stale rollouts and recovery concrete engineering problems."
+   },
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "70fac7b28014",
+    "minutes": 8,
+    "source": "thedeepview.com",
+    "title": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate",
+    "why": "Messy workplace tasks reveal omissions, repetition variance and model-harness dependence."
+   },
+   {
+    "cat": "ok",
+    "front": "Security",
+    "id": "66e0ea1c2fbc",
+    "minutes": 3,
+    "source": "bleepingcomputer.com",
+    "title": "OpenRouter removes Together AI, Phala, and Novita over data policy violations; Novita says a misconfiguration sent some MiniMax requests to MiniMax official API",
+    "why": "Incident coverage distinguishes provider removals, precautionary ZDR changes and attributed explanations."
+   }
+  ],
+  "reserve": "9f83df890f3e",
+  "status": "provisional",
+  "thin": 1,
+  "total": 46,
+  "unreadable": 1
  }
 }

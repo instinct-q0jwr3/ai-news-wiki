@@ -1,0 +1,14 @@
+{
+ "id": "53d8ac1f4a34",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Wall Street Journal profile indexed by Techmeme describes Anthropic mathematician Levent Alpoge's work with Claude and reports that publication of a Riemann-related proof was delayed until after Anthropic's IPO. The accessible feed description frames the story around the researcher, timing and the company.\n\nThe full profile could not be read, so its interviews, chronology and supporting evidence are not reconstructed. Its broad Riemann-hypothesis wording must not replace the narrower mathematical scope and checking status in the [existing verification summary](../summaries/2eaf0b77a9a5.md). A profile's characterization is neither an independent proof check nor evidence that the classical Riemann hypothesis has been established.",
+ "highlights": [
+  "Profile concerns a named Anthropic mathematician",
+  "Publication timing is attributed to the feed description",
+  "Full article context was inaccessible",
+  "Broad headline wording does not settle theorem scope",
+  "Existing mathematical verification record remains separate",
+  "No independent proof endorsement is inferred"
+ ]
+}

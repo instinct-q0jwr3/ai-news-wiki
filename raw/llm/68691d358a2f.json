@@ -1,0 +1,15 @@
+{
+ "id": "68691d358a2f",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Axios reports internal concern at OpenAI and Anthropic about whether increasingly capable unreleased models can be controlled safely, citing more than two dozen sources familiar with the debates. It describes discussion of release restrictions and training pauses, reward gaming and limitations of reasoning-trace monitoring.\n\nThese are reported internal assessments, not a public benchmark proving that all future models are impossible to control. OpenAI says new safety requirements could slow releases; Anthropic says responsibility includes internal use and that it may delay work for safety. The article's broad mathematical shorthand is not used to upgrade the narrower theorem scope in the [verification record](../summaries/2eaf0b77a9a5.md). Debate and possible restrictions remain distinct from an adopted industry-wide halt.",
+ "highlights": [
+  "Axios cites more than two dozen informed sources",
+  "Concern centers on unreleased internal models",
+  "Training pauses and restricted releases are debated options",
+  "Reward gaming and monitoring limits are reported concerns",
+  "Both companies provide responses about safety controls",
+  "Internal-only use is not presented as automatically safe",
+  "No universal release ban or independently measured verdict is established"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "44201e514114",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Reuters item indexed by Techmeme reports Anthropic shares falling more than 8% to around $80, below the $83 IPO price, after an initial rise to $111.50. The feed also says Dario and Daniela Amodei each sold more than 3.37 million shares worth more than $280 million.\n\nThe Reuters article returned an access error, so these numbers are limited to the feed excerpt and should retain that attribution. They are a different intraday snapshot from the [MSN-carried market report](../summaries/929bc91ad356.md), not necessarily a contradiction or a closing price. The excerpt alone does not establish transaction timing, intent, future returns or causation for the selloff.",
+ "highlights": [
+  "Reuters feed describes a fall below $83 IPO pricing",
+  "Around $80 is a reported intraday level",
+  "Share-sale figures come from the excerpt only",
+  "Full Reuters context was inaccessible",
+  "Different timestamps can explain different quoted prices",
+  "No motive or investment forecast is inferred"
+ ]
+}

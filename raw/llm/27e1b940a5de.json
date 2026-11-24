@@ -1,0 +1,15 @@
+{
+ "id": "27e1b940a5de",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Anthropic's Working with AI study draws on 66 interviews with 58 enterprise customers. Interviewees generally describe gains through more or faster output rather than cost cuts, alongside limited reported domestic layoffs, slower hiring and reduced contractor use. The study argues that organizations benefit when they broaden roles, move people toward bottlenecks and support shared data and tools.\n\nThe sample consists of Anthropic customers and interview accounts, not a representative causal estimate of economy-wide employment effects. Reported hiring and contractor changes matter even when layoffs are uncommon. Examples of app building and workflow changes do not by themselves establish lasting productivity, and the study makes resistance, surveillance concerns and expert review part of its findings rather than assuming adoption is automatically beneficial.",
+ "highlights": [
+  "Study includes 66 interviews at 58 customer organizations",
+  "Most reported value comes from output expansion",
+  "Few domestic layoffs coexist with lower hiring",
+  "Contractor reductions are a separate employment effect",
+  "Code review and strategic work can become bottlenecks",
+  "Role redesign and shared infrastructure are reported responses",
+  "Customer selection and self-reporting limit generalization"
+ ]
+}

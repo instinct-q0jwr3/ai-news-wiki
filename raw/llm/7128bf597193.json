@@ -1,0 +1,15 @@
+{
+ "id": "7128bf597193",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "An OpenAI-hosted mathematical preprint claims a separation of VP and VNP over every field, including a stronger lower bound against border arithmetic circuits. Its abstract gives a superpolynomial bound of exp(Omega((log n)^(5/4))) and says the result applies to the permanent outside characteristic two. The paper defines its setting in terms of nonuniform arithmetic circuits computing formal polynomials.\n\nThese are the manuscript's claims, not an independently verified theorem in this summary. Reading its abstract and opening definitions does not validate the proof or establish expert acceptance, and no formal proof-checking result was inspected for this paper. Algebraic VP versus VNP must not be silently substituted for the Boolean P versus NP problem.",
+ "highlights": [
+  "OpenAI repository hosts the November 23 manuscript",
+  "Claim concerns algebraic VP and VNP",
+  "Lower bound is stated for border circuits",
+  "Permanent consequence excludes characteristic two",
+  "Nonuniform arithmetic circuits are the stated model",
+  "No independent proof verification is established here",
+  "The claim is not presented as a Boolean P versus NP resolution"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "id": "168e231e43db",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Google Research revisits DeepCrossAttention, an ICML 2025 architecture that lets each token mix representations from earlier layers using learned routing and depth-wise cross-attention. It describes experiments in language modeling, synthetic tasks and image classification and relates the approach to attention residuals and hyper-connections.\n\nThe post reports up to threefold faster matching quality and 30-40% parameter reductions in its experimental settings, not universal savings for every transformer or deployment. Depth-wise routing differs from ordinary attention across tokens and introduces implementation and memory considerations. This is a November 2026 explanation of earlier research, not a newly replicated result or a drop-in improvement tested here.",
+ "highlights": [
+  "DCA routes information across depth on a per-token basis",
+  "Mechanism uses learned weights and split query/key/value mixing",
+  "Article describes ICML 2025 work",
+  "Reported gains depend on task and baseline",
+  "Depth attention differs from sequence attention",
+  "Related residual architectures have distinct stability tradeoffs",
+  "No universal speed or parameter reduction is established"
+ ]
+}

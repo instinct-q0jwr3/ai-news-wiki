@@ -2,20 +2,20 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1481,
+  "stories": 1484,
   "last": "2026-11-24"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1459,
+  "stories": 1467,
   "last": "2026-11-24"
  },
  {
   "name": "TLDR AI",
   "url": "https://tldr.tech/ai",
-  "stories": 567,
-  "last": "2026-11-23"
+  "stories": 576,
+  "last": "2026-11-24"
  },
  {
   "name": "Simon Willison",
@@ -44,8 +44,8 @@
  {
   "name": "Pluralistic",
   "url": "https://pluralistic.net/feed/",
-  "stories": 64,
-  "last": "2026-11-23"
+  "stories": 65,
+  "last": "2026-11-24"
  },
  {
   "name": "Bert Hubert",
@@ -54,16 +54,16 @@
   "last": "2026-11-10"
  },
  {
-  "name": "Stratechery",
-  "url": "https://stratechery.com/feed/",
-  "stories": 33,
-  "last": "2026-11-23"
- },
- {
   "name": "Marcus on AI",
   "url": "https://garymarcus.substack.com/feed",
-  "stories": 32,
-  "last": "2026-11-22"
+  "stories": 34,
+  "last": "2026-11-24"
+ },
+ {
+  "name": "Stratechery",
+  "url": "https://stratechery.com/feed/",
+  "stories": 34,
+  "last": "2026-11-24"
  },
  {
   "name": "antirez",

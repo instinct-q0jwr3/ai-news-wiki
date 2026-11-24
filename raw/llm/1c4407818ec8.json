@@ -1,0 +1,14 @@
+{
+ "id": "1c4407818ec8",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "SiliconANGLE reports Zipher raising $53 million across seed and Series A rounds for agent-managed data workloads. The platform is described as choosing resources, schedules and execution frameworks across major clouds while customers set budgets and performance targets. Investors named include TLV Partners, Maor Investments and Glilot Capital Partners.\n\nCompany-wide efficiency claims of 40-60% are not an independent audit. The article separately quotes a Hertz executive reporting 25-40% compute savings depending on workload, which should not be collapsed into the broader vendor range. Funding and customer endorsements do not establish that autonomous rewriting is safe for every data pipeline or that savings survive all migration and oversight costs.",
+ "highlights": [
+  "Funding total combines seed and Series A",
+  "Product targets scheduling and resource allocation",
+  "Three major public clouds are described as supported",
+  "Customers set targets and budgets in the vendor account",
+  "Hertz quote has a different savings range from the company claim",
+  "No independent performance or safety audit is supplied"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "id": "d0d35ad9431b",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Gary Marcus responds to Axios reporting on internal safety debates at OpenAI and Anthropic by arguing that control has failed to keep pace with capability. He calls for withdrawal of internet-connected agents until adequate safeguards exist, external review and stronger government intervention if companies do not act voluntarily.\n\nThe piece is advocacy built around another outlet's reporting, not a new set of disclosed model evaluations. Marcus acknowledges that some public alarm may have a publicity component. His proposals and characterizations should remain attributed to him; the existence of debate does not establish that every deployed model is uncontrollable or that a new release policy has been adopted.",
+ "highlights": [
+  "Commentary responds to Axios reporting",
+  "Control and capability are treated as separate questions",
+  "Marcus advocates a pause for internet-connected agents",
+  "Independent review and government action are proposals",
+  "No new disclosed benchmark or test protocol is supplied",
+  "Policy advocacy is distinct from an enacted restriction"
+ ]
+}
