@@ -1,0 +1,15 @@
+{
+ "id": "86005e963813",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "alphaXiv presents OpenAI's matrix-multiplication manuscript with an abstract claiming exponent nine fourths over every field and an explicitly labeled AI-generated overview. That overview explains a contradiction argument involving tensor-network compression and list-distinctness lower bounds, while keeping circuit cost separate from hardware runtime.\n\nThis is another presentation of [the same preprint](../summaries/8b1e8b2640d9.md), not independent mathematical confirmation. An AI overview is a guide to the manuscript rather than expert certification; neither it nor its citation markers prove the argument correct. Exponent equality is not automatically a fixed-constant Theta(n^2.25) implementation, and no proof checker, algorithm or benchmark was run here.",
+ "highlights": [
+  "Abstract repeats the same exponent claim",
+  "Overview is labeled as AI-generated",
+  "Scope is formal arithmetic circuits",
+  "No experiment or hardware speedup is established",
+  "AI citation markers are not proof certification",
+  "Same manuscript is not independent corroboration",
+  "No formal verification was performed"
+ ]
+}

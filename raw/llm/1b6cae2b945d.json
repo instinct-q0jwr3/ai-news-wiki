@@ -1,0 +1,15 @@
+{
+ "id": "1b6cae2b945d",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "TestingCatalog reports Antigravity adding task checklists, separate planner and executor settings, and changes to Gemini access and quota pools. Cited team posts describe Carbon access for Pro users, Hydrogen for all users and live status for long-running work.\n\nThis is reporting on a staged rollout, not a check of any particular account's entitlement or current quota. The article associates checklists with version 2.34.0 and says model access may lag quota resets. Banked resets are still being designed; they should not be treated as a released allowance, and claims of lower token cost from a model pairing were not independently measured.",
+ "highlights": [
+  "Checklists expose task progress",
+  "Planner and executor can have separate effort settings",
+  "Reported model access varies by plan",
+  "Rollout timing can differ between quota reset and model availability",
+  "Version 2.34.0 is cited for checklists",
+  "Banked resets remain planned",
+  "No account, quota or installed version was changed"
+ ]
+}

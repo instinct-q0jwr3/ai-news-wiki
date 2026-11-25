@@ -1,65 +1,113 @@
 {
- "generated_at": "2026-11-25T10:22:09+00:00",
+ "generated_at": "2026-11-25T16:23:08+00:00",
  "stories": [
   {
-   "id": "41b215024112",
-   "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+   "id": "68bc6592512e",
+   "title": "Wall Street Expects Anthropic's Committed $900B Debt to Be Junk",
    "source": "Hacker News",
-   "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"
+   "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d"
   },
   {
-   "id": "b601feb3f9ce",
-   "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+   "id": "230a4cdacf1d",
+   "title": "EA uses AI and archival audio to revive John Motson in EA Sports FC 27",
    "source": "Hacker News",
-   "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026"
+   "url": "https://www.bbc.com/news/articles/c65y10j841jpo"
   },
   {
-   "id": "6971301ebfd8",
-   "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
-   "source": "Hacker News",
-   "url": "https://carry.md/"
+   "id": "b8ac386670e1",
+   "title": "Pluralistic: New York vs auto-enshittification (25 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/25/empire-state-strikes-back/"
   },
   {
-   "id": "4554eb91ad2e",
-   "title": "Meta and Amazon are discussing a potential deal to connect Muse to Amazon, ending Amazon's block; any deal would require a sign-off from both CEOs",
+   "id": "6b303a5a8068",
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "source": "TLDR AI",
+   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+  },
+  {
+   "id": "ad5b8c0b43b6",
+   "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more",
    "source": "Techmeme",
-   "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/"
+   "url": "https://claude.com/resources/articles/install-as-app"
   },
   {
-   "id": "12f4d26e7f17",
-   "title": "the EU plans to mobilize up to €50B for its Sovereign Tech Equity Fund to make long-term, high-risk bets on European AI and quantum computing companies",
+   "id": "a4c2dd78862d",
+   "title": "Cognition's SWE-2.1",
+   "source": "TLDR AI",
+   "url": "https://cognition.com/blog/swe-2-1"
+  },
+  {
+   "id": "c20765ed3da2",
+   "title": "Announcing vLLM-GR: Efficient Inference for Generative Recommendation",
+   "source": "TLDR AI",
+   "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement"
+  },
+  {
+   "id": "2f3101b02737",
+   "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work",
+   "source": "TLDR AI",
+   "url": "https://prismml.com/news/bonsai-2-5-27b"
+  },
+  {
+   "id": "20c8d22579cd",
+   "title": "What VP ≠ VNP Means",
+   "source": "TLDR AI",
+   "url": "https://www.friedgil.com/vpvnp"
+  },
+  {
+   "id": "1326334db9e5",
+   "title": "Swarms do not yet raise the roof",
+   "source": "TLDR AI",
+   "url": "https://www.paradigm3.org/research/swarms"
+  },
+  {
+   "id": "b1723adc56a8",
+   "title": "US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11%",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/53d4b629-7ae4-4d63-ac37-e773b1dd3af0"
+   "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a"
   },
   {
-   "id": "7da482e53fe7",
-   "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics",
+   "id": "2ebda0d81167",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "source": "TLDR AI",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+  },
+  {
+   "id": "1b6cae2b945d",
+   "title": "Google Adds Task Checklists to Antigravity",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro/"
+  },
+  {
+   "id": "2ececd6cbee9",
+   "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
+   "source": "TLDR AI",
+   "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia"
+  },
+  {
+   "id": "dff5ed82a80c",
+   "title": "ML compiler eng, your job is NP-hard",
+   "source": "TLDR AI",
+   "url": "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/"
+  },
+  {
+   "id": "26efc0822387",
+   "title": "Pushing the US Open-Weight Frontier",
+   "source": "TLDR AI",
+   "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models"
+  },
+  {
+   "id": "c42bfaa981de",
+   "title": "OpenAI prepares dedicated email inboxes for ChatGPT Dots",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/"
+  },
+  {
+   "id": "86005e963813",
+   "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
    "source": "Techmeme",
-   "url": "https://x.com/deedydas"
-  },
-  {
-   "id": "87c7354e78ac",
-   "title": "Muse boosts Meta's ad business by prompting Instagram users to organize saved posts in Muse, reducing shopping friction and increasing advertisers' ROI",
-   "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html"
-  },
-  {
-   "id": "e1c399bde918",
-   "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/"
-  },
-  {
-   "id": "fbfcd51170ae",
-   "title": "NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners",
-   "source": "Techmeme",
-   "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/"
-  },
-  {
-   "id": "bf98901f240f",
-   "title": "Dutch data protection authority advises against purchasing AI camera glasses",
-   "source": "Lobsters",
-   "url": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders"
+   "url": "https://www.alphaxiv.org/abs/2611.matrix-multiplication-exponent-lower-bound"
   }
  ]
 }

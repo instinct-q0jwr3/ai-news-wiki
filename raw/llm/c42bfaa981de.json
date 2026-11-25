@@ -1,0 +1,14 @@
+{
+ "id": "c42bfaa981de",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "TestingCatalog describes hidden email settings for ChatGPT Dots and cites an OpenAI staff post saying dedicated addresses are entering testing. The proposed feature would let people include an agent in an email conversation without using the owner's personal sending identity.\n\nThe article explicitly says the capability is not generally available, shows an account-unavailable state and gives no release date. Hidden interface controls and illustrative scheduling or refund scenarios do not establish that an inbox can be claimed today or that any action is authorized. This is distinct from connecting an existing user mailbox, and no address, account or message was created here.",
+ "highlights": [
+  "Article concerns testing and hidden interface elements",
+  "Unavailable account state is explicitly described",
+  "No firm launch date is given",
+  "Dedicated identity differs from connected personal email",
+  "Example workflows are prospective, not completed actions",
+  "No inbox or communication was set up"
+ ]
+}

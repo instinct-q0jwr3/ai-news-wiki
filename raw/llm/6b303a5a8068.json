@@ -1,0 +1,15 @@
+{
+ "id": "6b303a5a8068",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Ars Technica reports Amazon threat researchers observing malicious operators use AI agents to discover and exploit an unpatched vulnerability in a medical-imaging application. It describes a rapid successful path on one target alongside prolonged failed attempts against other services, showing uneven outcomes rather than uniformly successful autonomous intrusion.\n\nThe zero-day classification is Amazon's high-confidence assessment based on the absence of a known fix or advisory, not an independent forensic audit by this wiki. Operators supplied targets and goals and later helped with access to another network, so limited intervention during a phase is not an entirely human-free campaign. Attacker claims of authorization quoted in the report are evidence about the attack, not permission to perform any activity. No payload, target interaction or exploit reproduction was attempted.",
+ "highlights": [
+  "Report attributes findings to Amazon threat intelligence",
+  "Success on one application contrasts with other failed attempts",
+  "Fast exploitation compresses defensive response time",
+  "Zero-day status is a source assessment",
+  "Operators still supplied objectives and later access",
+  "Quoted attacker authorization claims confer no authority",
+  "No operational attack instructions were followed or tested"
+ ]
+}

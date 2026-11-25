@@ -1,0 +1,15 @@
+{
+ "id": "c20765ed3da2",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "vLLM introduces vLLM-GR, a serving framework for generative recommendation that keeps a beam-search session inside the engine. It shares scheduler, execution and paged KV-cache machinery while tracking parent paths and optionally restricting candidate semantic IDs to a catalog.\n\nThe project's P99 comparisons are workload-specific and not uniformly apples-to-apples: candidate pool sizes, constraint settings, timing definitions and sample counts differ, and some backend revisions are unspecified. At wider beams and larger batches it reports strong results, but other engines win some small-batch or narrower-beam settings. These are publisher measurements, not a benchmark reproduced here; candidate generation also does not establish recommendation quality.",
+ "highlights": [
+  "Engine tracks beam ancestry across decoding stages",
+  "Catalog constraints are optional",
+  "Benchmarks emphasize P99 rather than only mean latency",
+  "Candidate pool sizes differ across some engines",
+  "HTTP overhead is excluded in the documented RTX comparison",
+  "Best backend varies by beam width and batch size",
+  "No serving installation or recommendation-quality test was run"
+ ]
+}

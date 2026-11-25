@@ -1,0 +1,16 @@
+{
+ "id": "a4c2dd78862d",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Cognition releases SWE-2.1, describing pure-RL post-training on Kimi K3 and improvements in coding and long-horizon security work. It also announces a faster Cerebras-backed serving option and a Cyber variant with more permissive safeguards for defensive use, while describing training-time sandbox monitoring.\n\nVendor benchmark methods materially shape the figures: ExploitBench takes the union of flags over five attempts, whereas ExploitGym uses pass@1 with a six-hour timeout and mitigations disabled. Models use different preferred or internal harnesses, and timing is normalized rather than a direct wall-clock comparison. Neither an 80% ExploitBench score nor reported throughput is a universal real-world compromise or end-to-end speedup rate. No security workflow was run.",
+ "highlights": [
+  "Post-training is described as pure RL on Kimi K3",
+  "Long-horizon control is part of the training account",
+  "Cyber and standard safeguards differ",
+  "ExploitBench aggregates five attempts",
+  "ExploitGym reports pass@1 and separately judged success",
+  "Mitigations are disabled in that evaluation",
+  "Simulated time budgets differ from observed wall-clock delivery",
+  "No benchmark or vulnerability claim was independently reproduced"
+ ]
+}

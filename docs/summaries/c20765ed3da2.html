@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Announcing vLLM-GR: Efficient Inference for Generative Recommendation · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1795624136"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Announcing vLLM-GR: Efficient Inference for Generative Recommendation</h1>
+<p class="meta">type: news-summary · created: 2026-11-25 · updated: 2026-11-25 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>vLLM introduces vLLM-GR, a serving framework for generative recommendation that keeps a beam-search session inside the engine. It shares scheduler, execution and paged KV-cache machinery while tracking parent paths and optionally restricting candidate semantic IDs to a catalog.</p>
+<p>The project's P99 comparisons are workload-specific and not uniformly apples-to-apples: candidate pool sizes, constraint settings, timing definitions and sample counts differ, and some backend revisions are unspecified. At wider beams and larger batches it reports strong results, but other engines win some small-batch or narrower-beam settings. These are publisher measurements, not a benchmark reproduced here; candidate generation also does not establish recommendation quality.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Engine tracks beam ancestry across decoding stages</li>
+<li>Catalog constraints are optional</li>
+<li>Benchmarks emphasize P99 rather than only mean latency</li>
+<li>Candidate pool sizes differ across some engines</li>
+<li>HTTP overhead is excluded in the documented RTX comparison</li>
+<li>Best backend varies by beam width and batch size</li>
+<li>No serving installation or recommendation-quality test was run</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://vllm.ai/blog/2026-11-24-vllm-gr-announcement">Read the original story</a> · <a href="https://tldr.tech/ai/2026-11-25">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

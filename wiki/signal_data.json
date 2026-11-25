@@ -280,7 +280,7 @@
   "unreadable": 7
  },
  "2026-10-06": {
-  "ok": 47,
+  "ok": 48,
   "paywall": 6,
   "picks": [
    {
@@ -333,7 +333,7 @@
   "status": "final",
   "thin": 2,
   "total": 57,
-  "unreadable": 2
+  "unreadable": 1
  },
  "2026-10-07": {
   "ok": 68,
@@ -3078,5 +3078,61 @@
   "thin": 2,
   "total": 71,
   "unreadable": 2
+ },
+ "2026-11-25": {
+  "ok": 33,
+  "paywall": 4,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "1326334db9e5",
+    "minutes": 44,
+    "source": "paradigm3.org",
+    "title": "Swarms do not yet raise the roof",
+    "why": "Matched budgets and restarted single-agent baselines separate faster teams from a higher capability ceiling."
+   },
+   {
+    "cat": "ok",
+    "front": "Work",
+    "id": "26efc0822387",
+    "minutes": 20,
+    "source": "harvey.ai",
+    "title": "Pushing the US Open-Weight Frontier",
+    "why": "Legal task completion improves without uniform work-product preference gains, exposing judge and checkpoint-selection limits."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "c20765ed3da2",
+    "minutes": 6,
+    "source": "vllm.ai",
+    "title": "Announcing vLLM-GR: Efficient Inference for Generative Recommendation",
+    "why": "Beam-search serving results show why tail latency comparisons need candidate-pool and constraint details."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "bf98901f240f",
+    "minutes": 4,
+    "source": "autoriteitpersoonsgegevens.nl",
+    "title": "Dutch data protection authority advises against purchasing AI camera glasses",
+    "why": "A regulator separates product review from deep safety tests and explains risks to wearers and bystanders."
+   },
+   {
+    "cat": "ok",
+    "front": "Culture",
+    "id": "230a4cdacf1d",
+    "minutes": 5,
+    "source": "bbc.com",
+    "title": "EA uses AI and archival audio to revive John Motson in EA Sports FC 27",
+    "why": "A posthumous football voice recreation makes family permission and personal lifetime consent distinct questions."
+   }
+  ],
+  "reserve": "2f3101b02737",
+  "status": "provisional",
+  "thin": 2,
+  "total": 39,
+  "unreadable": 0
  }
 }

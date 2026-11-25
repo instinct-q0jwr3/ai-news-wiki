@@ -1,0 +1,16 @@
+{
+ "id": "dff5ed82a80c",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Ian Barber uses a layout-selection hardness result to examine the gap between mathematical optimization and compiler performance. His account says that improving an inaccurate conversion-cost heuristic changed little across most tested kernels, while downstream instruction order and register allocation could dominate individual outcomes.\n\nThis is a practitioner experiment and reading of another paper, not an independently reproduced theorem or broad benchmark. A solver optimum is only optimal under its cost model, and an isolated reported 15–26x improvement is not an expected general speedup. The post's central point is that practical choice sets can be small even when the general problem is NP-hard; calibration to later compiler stages matters.",
+ "highlights": [
+  "Layout-search complexity is distinct from real execution cost",
+  "Reported cost-model optimum can lose to heuristics",
+  "Most tested kernels changed little",
+  "Author reports eight slower, four faster and nine unchanged",
+  "Rematerialization reduces the need for conversions",
+  "Downstream register allocation can dominate",
+  "Large isolated speedup is not a universal expectation",
+  "No compiler code or benchmark was run"
+ ]
+}

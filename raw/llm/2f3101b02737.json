@@ -1,0 +1,16 @@
+{
+ "id": "2f3101b02737",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "PrismML announces Ternary Bonsai 2.5 27B, a Qwen3.8-based model aimed at local coding and multi-step tool use while retaining a claimed 5.9 GB model footprint. It reports fewer loops and stronger execution than its predecessor, with weights offered under Apache 2.0 and runtime support across several device families.\n\nThe vendor reports generation speeds with multi-token prediction on an H100 and RTX 4090, not guaranteed performance on every supported phone or laptop. The model footprint is not necessarily total runtime memory, especially once context caches and tools are included. The linked whitepaper and demos were not independently reproduced, and local execution alone does not guarantee that applications or their tools never transmit data.",
+ "highlights": [
+  "Based on Qwen3.8 27B",
+  "Vendor states a 5.9 GB model footprint",
+  "Focus is sustained tool use and coding",
+  "Speed figures use specified GPUs and MTP",
+  "Runtime memory can exceed weight storage",
+  "Apache 2.0 availability is a vendor statement",
+  "Local model use is not an audit of all application data flows",
+  "No weights or runtime were installed"
+ ]
+}

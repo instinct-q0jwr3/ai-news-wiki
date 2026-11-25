@@ -1,0 +1,14 @@
+{
+ "id": "20c8d22579cd",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Gil Fried explains VP versus VNP through the contrast between efficiently computing determinants and the apparently harder permanent. The essay presents arithmetic circuits as a restricted computational model and uses that restriction to explain why an algebraic separation does not directly settle Boolean P versus NP.\n\nThis is an informal explainer, not an independent review of the newly claimed proof. Its broad permanent language should be read alongside the original theorem's field and characteristic conditions; it does not establish an unrestricted Boolean lower bound or a practical impossibility for every input class. No proof, prize eligibility or formal checker output was verified here.",
+ "highlights": [
+  "Determinant and permanent motivate the distinction",
+  "Arithmetic circuit size is the relevant model",
+  "Boolean computation is a different scope",
+  "New proof is assumed rather than audited in this essay",
+  "Permanent claims require field restrictions",
+  "No P versus NP conclusion or prize award is established"
+ ]
+}
