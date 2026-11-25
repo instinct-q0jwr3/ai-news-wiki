@@ -1,0 +1,16 @@
+{
+ "id": "194c0944820d",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A new lsernau/grh-lean repository presents shorter Lean editions of Alpöge's proof of RH and GRH for Dirichlet L-functions, attributed to collaboration with Anthropic colleagues and Claude. The README describes approximately 300,000-line and 76,000-line editions with the same five theorems and only the three standard axioms.\n\nThe repository expressly calls itself a research artifact and says no mathematician has read the proof through and no paper accompanies it. Advertised machine checks and build-resource estimates were not reproduced here. This abbreviated artifact is separate from the original export checked in [Sutherland's verification record](../summaries/2eaf0b77a9a5.md); success of one artifact should not be silently transferred to another or widened beyond Dirichlet L-functions.",
+ "highlights": [
+  "Two editions have different reported line counts",
+  "README states the same five theorems",
+  "GRH scope is Dirichlet L-functions",
+  "Only standard axioms are advertised",
+  "Artifact is not maintained for contributions",
+  "No human mathematical read-through is claimed",
+  "No build was run for this wiki",
+  "Original-export certification is a separate record"
+ ]
+}

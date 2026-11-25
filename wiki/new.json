@@ -1,113 +1,125 @@
 {
- "generated_at": "2026-11-25T16:23:08+00:00",
+ "generated_at": "2026-11-25T22:24:15+00:00",
  "stories": [
   {
-   "id": "68bc6592512e",
-   "title": "Wall Street Expects Anthropic's Committed $900B Debt to Be Junk",
+   "id": "8b1e8b2640d9",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
    "source": "Hacker News",
-   "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d"
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
   },
   {
-   "id": "230a4cdacf1d",
-   "title": "EA uses AI and archival audio to revive John Motson in EA Sports FC 27",
+   "id": "47aa6f6528ac",
+   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
    "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/c65y10j841jpo"
+   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
   },
   {
-   "id": "b8ac386670e1",
-   "title": "Pluralistic: New York vs auto-enshittification (25 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/25/empire-state-strikes-back/"
+   "id": "de5dc8d59b79",
+   "title": "The polynomial Hirsch conjecture is false [pdf]",
+   "source": "Hacker News",
+   "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"
   },
   {
-   "id": "6b303a5a8068",
-   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-   "source": "TLDR AI",
-   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+   "id": "e0f2354c4614",
+   "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+   "source": "Hacker News",
+   "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/"
   },
   {
-   "id": "ad5b8c0b43b6",
-   "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more",
+   "id": "9b9e1682ee1c",
+   "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+   "source": "Hacker News",
+   "url": "https://danprice.ai/blog/opus-symphony"
+  },
+  {
+   "id": "87bb4622134c",
+   "title": "New York bans AI toys, including those using internet to talk to children",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
+  },
+  {
+   "id": "194c0944820d",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "source": "Hacker News",
+   "url": "https://github.com/lsernau/grh-lean"
+  },
+  {
+   "id": "05fe4983e6a9",
+   "title": "The New York Times tells photographers not to use the latest Photoshop",
+   "source": "Hacker News",
+   "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/"
+  },
+  {
+   "id": "57937c2b3cce",
+   "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+   "source": "Hacker News",
+   "url": "https://www.rchive.computer/"
+  },
+  {
+   "id": "3243fbb2168e",
+   "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling",
+   "source": "Hacker News",
+   "url": "https://abc7news.com/post/parents-openai-whistleblower-suchir-balaji-dispute-suicide-ruling-he-would-not-harm-himself/19170809/"
+  },
+  {
+   "id": "4cfd50ee86a9",
+   "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
+   "source": "Hacker News",
+   "url": "https://github.com/onatm/rustling"
+  },
+  {
+   "id": "65d05397b7c8",
+   "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+   "source": "Hacker News",
+   "url": "https://github.com/cerulion-inc/cerulion"
+  },
+  {
+   "id": "0b20981e11dc",
+   "title": "Migrating Our Messages API to Rust",
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+  },
+  {
+   "id": "6f352da7a668",
+   "title": "ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M",
    "source": "Techmeme",
-   "url": "https://claude.com/resources/articles/install-as-app"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value"
   },
   {
-   "id": "a4c2dd78862d",
-   "title": "Cognition's SWE-2.1",
-   "source": "TLDR AI",
-   "url": "https://cognition.com/blog/swe-2-1"
-  },
-  {
-   "id": "c20765ed3da2",
-   "title": "Announcing vLLM-GR: Efficient Inference for Generative Recommendation",
-   "source": "TLDR AI",
-   "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement"
-  },
-  {
-   "id": "2f3101b02737",
-   "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work",
-   "source": "TLDR AI",
-   "url": "https://prismml.com/news/bonsai-2-5-27b"
-  },
-  {
-   "id": "20c8d22579cd",
-   "title": "What VP ≠ VNP Means",
-   "source": "TLDR AI",
-   "url": "https://www.friedgil.com/vpvnp"
-  },
-  {
-   "id": "1326334db9e5",
-   "title": "Swarms do not yet raise the roof",
-   "source": "TLDR AI",
-   "url": "https://www.paradigm3.org/research/swarms"
-  },
-  {
-   "id": "b1723adc56a8",
-   "title": "US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11%",
+   "id": "b71a8d240060",
+   "title": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a"
+   "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios"
   },
   {
-   "id": "2ebda0d81167",
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-   "source": "TLDR AI",
-   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
-  },
-  {
-   "id": "1b6cae2b945d",
-   "title": "Google Adds Task Checklists to Antigravity",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro/"
-  },
-  {
-   "id": "2ececd6cbee9",
-   "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
-   "source": "TLDR AI",
-   "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia"
-  },
-  {
-   "id": "dff5ed82a80c",
-   "title": "ML compiler eng, your job is NP-hard",
-   "source": "TLDR AI",
-   "url": "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/"
-  },
-  {
-   "id": "26efc0822387",
-   "title": "Pushing the US Open-Weight Frontier",
-   "source": "TLDR AI",
-   "url": "https://www.harvey.ai/blog/applying-the-harvey-tenet-training-recipe-to-us-open-weight-models"
-  },
-  {
-   "id": "c42bfaa981de",
-   "title": "OpenAI prepares dedicated email inboxes for ChatGPT Dots",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/"
-  },
-  {
-   "id": "86005e963813",
-   "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
+   "id": "f4ff026ff969",
+   "title": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation",
    "source": "Techmeme",
-   "url": "https://www.alphaxiv.org/abs/2611.matrix-multiplication-exponent-lower-bound"
+   "url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/"
+  },
+  {
+   "id": "45e9552a8eff",
+   "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September",
+   "source": "Techmeme",
+   "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+  },
+  {
+   "id": "334ba8edc163",
+   "title": "US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+  },
+  {
+   "id": "9812986779ff",
+   "title": "Scott Aaronson on recent complexity theory AI achievements",
+   "source": "Lobsters",
+   "url": "https://scottaaronson.blog/?p=10379"
+  },
+  {
+   "id": "c2a589396aad",
+   "title": "an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
   }
  ]
 }

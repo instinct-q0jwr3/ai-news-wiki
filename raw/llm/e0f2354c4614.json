@@ -1,0 +1,15 @@
+{
+ "id": "e0f2354c4614",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Heidelberg's Algorithm Engineering Group presents an optimization skill organized around falsifiable performance hypotheses, minimal patches, benchmark measurements and correctness assertions. The project page reports a KaHIP session with 122 experiments, 69 hypotheses, 41 patches and a cumulative 3.9x improvement.\n\nThose are project-reported case results, not an independently reproduced general speedup. Correctness checks against selected outputs are valuable but not a proof over every possible input, and the benchmark, metric, assertions and budget require agreement before autonomous work. Install commands and examples on the page were treated only as documentation; no skill was installed or source code optimized here.",
+ "highlights": [
+  "Hypotheses predict direction and size before measurement",
+  "Accepted changes are intended to remain reviewable",
+  "Regressions are meant to be reverted",
+  "Page reports one detailed KaHIP optimization session",
+  "Correctness assertions define the tested boundary",
+  "Case-study speedup is not a universal rate",
+  "No installation or experiment was performed"
+ ]
+}

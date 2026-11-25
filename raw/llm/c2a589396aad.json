@@ -1,0 +1,15 @@
+{
+ "id": "c2a589396aad",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "CNBC reports sellers offering an unusually large supply of Nvidia GPUs after US restrictions on remote Chinese access to advanced chips. A named marketplace executive and unnamed sources describe thousands of B300s being floated for sale, linking the change to data centers originally intended to rent access to Chinese companies.\n\nOffered inventory is not the same as completed sales or a measured global oversupply. The report distinguishes an interim final rule described as effective November 19 from a separate proposed Remote Access Security Act that had passed the House but not the Senate. The original rule text and individual transaction compliance were not independently reviewed, and Nvidia declined comment.",
+ "highlights": [
+  "Sources describe GPUs offered rather than all sold",
+  "Thousands of B300s are mentioned",
+  "Remote rental access differs from direct chip shipment",
+  "Reported rule effective date is November 19",
+  "Separate House-passed bill is not yet enacted law",
+  "No market-wide surplus or individual violation is established",
+  "Original legal text was not independently audited"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "57937c2b3cce",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "RCHIVE advertises an offline catalog of files across internal, external and disconnected drives, preserving names, metadata and previews after a source is unplugged. Its organization rules first change a catalog view, with explicit copy or move jobs required to alter files on disk.\n\nThese are vendor claims, not tested recovery or privacy guarantees. Opening or copying an original still requires reconnecting its drive, and catalog search is not a replacement for a backup of the actual file. The site says operations are deterministic and currently do not use AI; it distinguishes metadata-based grouping from optional verified copy jobs. No drives were scanned, software installed or files moved.",
+ "highlights": [
+  "Catalog remains searchable when drives are offline",
+  "Original files still require the source drive",
+  "Organization view does not itself move files",
+  "Copy and move are separate explicit operations",
+  "Vendor offers optional SHA-256 content verification",
+  "Current product says it uses no AI",
+  "Offline catalog is not an original-file backup",
+  "No personal storage was accessed"
+ ]
+}

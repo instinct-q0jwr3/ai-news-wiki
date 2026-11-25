@@ -1,0 +1,16 @@
+{
+ "id": "47aa6f6528ac",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "An independently maintained code-golf benchmark revives thirty-two problems from a 2015 internal Google contest and runs models for thirty minutes per problem in eight languages. It measures short accepted programs rather than basic task completion: every complete model run solves all 256 cells, while byte-count scores vary substantially.\n\nThe human comparison principally uses JavaScript, Python and C++, excluding weaker historical Haskell participation and languages without human records. Oracle runs have more information and resources and set moving reference sizes; they are not the same as blind timed model runs. The headline's record claim is therefore benchmark-specific, not proof of universal coding superiority or AGI. No programs or leaderboard experiments were run here.",
+ "highlights": [
+  "Thirty-two problems across eight languages",
+  "Each timed cell gets thirty minutes",
+  "All complete runs pass all cells",
+  "Scores reward brevity rather than only correctness",
+  "Strong human comparison is JS/Python/C++",
+  "Oracle has additional access and sets reference sizes",
+  "Historical runtimes and contest quirks matter",
+  "No universal software-engineering ranking follows"
+ ]
+}

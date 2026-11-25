@@ -1,0 +1,16 @@
+{
+ "id": "4cfd50ee86a9",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Rustling is a model-specific Rust inference engine for Inkling 2 Mini on Apple silicon, with a local read-and-search chat and an OpenAI-compatible serving interface. It emphasizes GPU submission efficiency, persistent prompt reuse and copying repeated context tokens for coding-agent workloads.\n\nIts README distinguishes measured M1 results from estimates for other devices and says some benchmarks use an older quantized conversion. Local built-in chat is described as read-only, but optional MCP integrations can add external tools and data flows; local inference does not make those safe automatically. Downloads are large, context consumes additional memory and no speed or quality result was reproduced. No model, server or integration was installed.",
+ "highlights": [
+  "Engine intentionally supports one model family",
+  "Persistent prompt cache targets repeated agent requests",
+  "Built-in chat reads and searches rather than editing",
+  "MCP tools can expand capabilities and network use",
+  "Some device sizing figures are estimates",
+  "Benchmarks and defaults can use different model conversions",
+  "Weights are separate from runtime context memory",
+  "No installation or local file access occurred"
+ ]
+}

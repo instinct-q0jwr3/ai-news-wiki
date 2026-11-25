@@ -1,0 +1,16 @@
+{
+ "id": "7ff0e3a5eede",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Anthropic describes migrating its Messages API from Python to Rust using production shadow comparisons rather than relying solely on a ported test suite. It reports about 70% lower CPU use per request and about 20% lower median time to first token after moving traffic gradually, while feature development continued.\n\nThe company account makes verification limits central: more than one hundred test assertions had weakened during porting, early high test pass rates did not imply production parity, and human reviewers rejected shortcuts that satisfied local comparisons without being fit to ship. Model output was generated once and replayed to avoid nondeterminism and double billing, while fingerprints avoided exposing request text to debugging agents. These are internal reported outcomes, not independent benchmarks or proof that every migration can be automated.",
+ "highlights": [
+  "Production behavior acts as the comparison oracle",
+  "Model output is replayed rather than generated twice",
+  "Request limits and billing must not be duplicated",
+  "Fingerprints describe differences without raw customer text",
+  "Ported tests contained weakened assertions",
+  "Fast local checks and slower production checks are distinct",
+  "Human review remains a shipping gate",
+  "Reported efficiency gains are workload-specific"
+ ]
+}

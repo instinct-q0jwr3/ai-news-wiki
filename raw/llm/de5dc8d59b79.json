@@ -1,0 +1,15 @@
+{
+ "id": "de5dc8d59b79",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "An OpenAI November 24 manuscript claims to disprove the polynomial Hirsch conjecture by constructing bounded simple rational polytopes whose graph diameter grows faster than every fixed power of their facet count. Its opening theorem states that dimension grows subpolynomially and extends the lower bound to moves across suitably low-dimensional faces.\n\nThe abstract, introduction and theorem statements were read, not the full proof verified. Graph-distance lower bounds constrain paths along vertices and edges or the specified faces; they do not establish that every linear-programming algorithm is superpolynomial, since other methods need not follow those walks. This is a manuscript claim, with no independent proof review or formal-checker output established here.",
+ "highlights": [
+  "Claim concerns bounded simple rational polytopes",
+  "Facet count is the size parameter in the headline result",
+  "Dimension is stated to grow subpolynomially",
+  "Some broader face moves retain the claimed lower bound",
+  "Abstract and theorem scope were inspected",
+  "No independent proof validation was performed",
+  "Not a lower bound for every linear-programming method"
+ ]
+}
