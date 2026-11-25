@@ -1,0 +1,14 @@
+{
+ "id": "7da482e53fe7",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Techmeme entry points to discussion of OpenAI's preprint claiming the matrix-multiplication exponent is exactly nine fourths. The original artifact was already read for [the earlier manuscript summary](../summaries/8b1e8b2640d9.md), which distinguishes an arithmetic-circuit exponent from practical runtime and from the feed's stronger Theta wording.\n\nThe new entry's destination is a social profile rather than a resolved dated post, so it does not independently substantiate a particular commentator's words or proof assessment. It adds circulation of the same mathematical claim, not a new replication, peer review or formal verification. The proof remains unverified by this wiki, and no practical speedup or change to numerical libraries is established.",
+ "highlights": [
+  "Feed describes the same OpenAI manuscript",
+  "Earlier summary records abstract and theorem scope",
+  "Destination profile does not resolve a dated statement",
+  "No independent confirmation is added",
+  "Exponent equality is distinct from tight practical runtime",
+  "No proof checker or benchmark was executed"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "6971301ebfd8",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Carry advertises automatic local Markdown backups of chats, projects and available files from ChatGPT, Claude, Gemini and Grok, plus cross-provider search and continuation. Its examples show one file per conversation and explicit missing-file markers, aiming to reduce dependence on each provider's export interface.\n\nThese are product-page claims, not a tested capture or security audit. Carry says chat content stays on the device but discloses compatibility request metadata sent to carry.md, optional usage counts and licensing metadata sent to Polar. Continuing a chat attaches its transcript to another provider rather than universally importing native history; missing source files remain a coverage limit. No extension was installed, account connected or folder access granted.",
+ "highlights": [
+  "Vendor promises recurring Markdown saves to a chosen folder",
+  "Projects and retrievable attachments are included in examples",
+  "Missing downloads are marked rather than guaranteed recovered",
+  "Provider sessions are used for access",
+  "Compatibility metadata and optional usage telemetry leave the device",
+  "Continuation can disclose a transcript to the selected destination AI",
+  "Local storage claim is not an independent privacy audit",
+  "No installation or account access was performed"
+ ]
+}
