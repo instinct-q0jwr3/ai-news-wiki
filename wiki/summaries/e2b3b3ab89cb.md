@@ -1,6 +1,6 @@
 # Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent
 
-_type: news-summary · created: 2026-11-23 · updated: 2026-11-24 · confidence: high_
+_type: news-summary · created: 2026-11-23 · updated: 2026-11-25 · confidence: high_
 
 `techmeme`
 

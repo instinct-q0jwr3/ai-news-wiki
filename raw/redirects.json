@@ -50,6 +50,11 @@
   "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple"
  },
  {
+  "from": "06770ef30dc9",
+  "to": "ad5b8c0b43b6",
+  "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows"
+ },
+ {
   "from": "06b86062b24a",
   "to": "6665e346395d",
   "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)"
@@ -395,6 +400,11 @@
   "title": "Muse Spark Open"
  },
  {
+  "from": "36874d0ea3f8",
+  "to": "88745bf604df",
+  "title": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them"
+ },
+ {
   "from": "373e17efcd5a",
   "to": "0363eafd0857",
   "title": "Wall Street execs and the NSA told Congress this week's outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models"
@@ -628,6 +638,11 @@
   "from": "5ecf75903685",
   "to": "250ca1bd04c3",
   "title": "Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3"
+ },
+ {
+  "from": "5f1b2fc721d5",
+  "to": "85b8cd249acd",
+  "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed"
  },
  {
   "from": "5fd10480f430",

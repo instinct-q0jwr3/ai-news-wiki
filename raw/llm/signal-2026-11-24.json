@@ -1,7 +1,7 @@
 {
  "id": "signal-2026-11-24",
  "date": "2026-11-24",
- "status": "provisional",
+ "status": "final",
  "reserve": "9f83df890f3e",
  "picks": [
   {
@@ -35,5 +35,5 @@
    "why": "Incident coverage distinguishes provider removals, precautionary ZDR changes and attributed explanations."
   }
  ],
- "reviewed_at": "2026-11-24T16:22:05.476947+00:00"
+ "reviewed_at": "2026-11-25T04:24:20.018592+00:00"
 }

@@ -1,53 +1,83 @@
 {
- "generated_at": "2026-11-24T22:19:15+00:00",
+ "generated_at": "2026-11-25T04:20:33+00:00",
  "stories": [
   {
-   "id": "3d77e693a5c9",
-   "title": "Tidal bans AI-generated music",
+   "id": "8b1e8b2640d9",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
    "source": "Hacker News",
-   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
   },
   {
-   "id": "3e95228e84c2",
-   "title": "Anthropic breaks below $83 IPO price",
+   "id": "1fb1519e59a2",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
    "source": "Hacker News",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+   "url": "https://greydanus.github.io/2026/11/12/pengpt/"
   },
   {
-   "id": "ebb13c975b3e",
-   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50630809"
+   "id": "85b8cd249acd",
+   "title": "Sandboxed Models Can Communicate via Inference Servers",
+   "source": "TLDR AI",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
   },
   {
-   "id": "d1aaaee50682",
-   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+   "id": "b2045a67b7e2",
+   "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
    "source": "Hacker News",
-   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
+   "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/"
   },
   {
-   "id": "fe4d1f895d1a",
-   "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-   "source": "Hacker News",
-   "url": "https://masondata.ai/"
-  },
-  {
-   "id": "27e1b940a5de",
-   "title": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks",
+   "id": "ad5b8c0b43b6",
+   "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more",
    "source": "Techmeme",
-   "url": "https://www.anthropic.com/research/working-with-ai"
+   "url": "https://claude.com/resources/articles/install-as-app"
   },
   {
-   "id": "36b9baa667be",
-   "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+   "id": "e1da0158b9d4",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50634426"
+   "url": "https://www.proofatlas.ai/open-problems/"
   },
   {
-   "id": "6c77d836b125",
-   "title": "Compiling web applications into verified operations for AI agents",
+   "id": "e73e9e020816",
+   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
    "source": "Hacker News",
-   "url": "https://protocolis.co/paper/"
+   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/"
+  },
+  {
+   "id": "a6e2fc7f94f7",
+   "title": "Trump Made Up to $15M on Nvidia Stock After Huang’s Return",
+   "source": "Daring Fireball",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market"
+  },
+  {
+   "id": "ddcee0786b84",
+   "title": "Abolish Lock Poisoning",
+   "source": "Armin Ronacher",
+   "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/"
+  },
+  {
+   "id": "94ce87fe663d",
+   "title": "Matrix Multiplication is Θ(n^2.25)",
+   "source": "Lobsters",
+   "url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+  },
+  {
+   "id": "3226e4dd491d",
+   "title": "Asian tech stocks tumble, led by Japanese chip stocks, after a US tech sell-off; Advantest falls 12%+, Tokyo Electron 7%+, Samsung and SK Hynix 6%+",
+   "source": "Techmeme",
+   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+  },
+  {
+   "id": "e9c7bf1c4765",
+   "title": "A history professor says GPT-6.2 Astra solved a historical mystery in 22 minutes by identifying the creator of an anonymous 1808 sketchbook held at Yale",
+   "source": "Techmeme",
+   "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+  },
+  {
+   "id": "83b560f3e575",
+   "title": "Three LLM inflection points in twelve months",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
   },
   {
    "id": "88745bf604df",
@@ -56,106 +86,10 @@
    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
   },
   {
-   "id": "e3cf614de6c3",
-   "title": "Quit Internet Videos Before AI Perfects Them",
-   "source": "Hacker News",
-   "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects"
-  },
-  {
-   "id": "7676d8895a3f",
-   "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
-   "source": "Hacker News",
-   "url": "https://github.com/hatchet-dev/brickie"
-  },
-  {
-   "id": "93fe1c8409b9",
-   "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
-   "source": "Hacker News",
-   "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
-  },
-  {
-   "id": "e1dc180d94c9",
-   "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-   "source": "Hacker News",
-   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026"
-  },
-  {
-   "id": "4a7242b02d08",
-   "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-   "source": "Hacker News",
-   "url": "https://www.kradle.ai?1"
-  },
-  {
-   "id": "3eae09524452",
-   "title": "New York Ban AI Toys for 5 Years",
-   "source": "Hacker News",
-   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
-  },
-  {
-   "id": "3c6ae9896dc3",
-   "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50633601"
-  },
-  {
-   "id": "a51782264575",
-   "title": "‘The Economy Is a Hostage Situation’",
-   "source": "Daring Fireball",
-   "url": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&"
-  },
-  {
-   "id": "1bfcd0d192a4",
-   "title": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5",
+   "id": "77bd669e7a56",
+   "title": "HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives \"prudent\" fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments",
    "source": "Techmeme",
-   "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
-  },
-  {
-   "id": "8caffbdd3607",
-   "title": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events"
-  },
-  {
-   "id": "5352e2900bda",
-   "title": "Patriotism, Trump-Style",
-   "source": "Daring Fireball",
-   "url": "https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/"
-  },
-  {
-   "id": "c32015587d80",
-   "title": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond"
-  },
-  {
-   "id": "887cbf371594",
-   "title": "Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year",
-   "source": "Techmeme",
-   "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
-  },
-  {
-   "id": "bd50ae253659",
-   "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days",
-   "source": "Techmeme",
-   "url": "https://www.hollywoodreporter.com/music/music-industry-news/tidal-bans-wholly-ai-generated-music-1236762171/"
-  },
-  {
-   "id": "0e404802dfb2",
-   "title": "David Sacks’s Pool Boy Is Cocky",
-   "source": "Daring Fireball",
-   "url": "https://www.threads.com/@karaswisher/post/DgGBe_XI147"
-  },
-  {
-   "id": "920d51a93807",
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
-  },
-  {
-   "id": "ad5b8c0b43b6",
-   "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more",
-   "source": "Techmeme",
-   "url": "https://claude.com/resources/articles/install-as-app"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs"
   }
  ]
 }

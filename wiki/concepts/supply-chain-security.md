@@ -1,6 +1,6 @@
 # Concept: Supply Chain Security
 
-_type: concept · created: 2026-11-24 · updated: 2026-11-24 · confidence: medium_
+_type: concept · created: 2026-11-25 · updated: 2026-11-25 · confidence: medium_
 
 `concept` `supply-chain-security`
 

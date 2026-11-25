@@ -1,0 +1,15 @@
+{
+ "id": "e1da0158b9d4",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "ProofAtlas presents a directory of five hundred mathematical problems ranked by model-assessed importance. Pairwise LLM comparisons are combined with chosen model-family weights; entries expose status notes, sources and some ranking ranges, while reported resolutions remain in a historical section.\n\nThe site explicitly rejects expert-consensus and next-solution interpretations. It also says ranks were compacted after reported resolutions without refitting the numerical model, so uncertainty diagnostics come from an earlier larger pool. Only some entries have separately dated status reviews; labels and model confidence are not independent verification of a theorem or a fresh literature review of every entry.",
+ "highlights": [
+  "Ranking measures a modeled notion of importance",
+  "Family weights are choices, not correctness probabilities",
+  "Nearby ranks can be uncertain",
+  "Rank compaction did not include a new numerical fit",
+  "Status review dates differ from edition dates",
+  "Reported resolutions require their own source checks",
+  "Directory is not expert consensus or a prediction market"
+ ]
+}

@@ -1,6 +1,6 @@
 # AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, taking its total funding to $57.6M, and says its revenue grew ~800% YoY in 2026
 
-_type: news-summary · created: 2026-11-16 · updated: 2026-11-24 · confidence: high_
+_type: news-summary · created: 2026-11-16 · updated: 2026-11-25 · confidence: high_
 
 `techmeme` `agentic-systems`
 

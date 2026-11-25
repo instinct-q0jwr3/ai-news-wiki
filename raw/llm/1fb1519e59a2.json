@@ -1,0 +1,15 @@
+{
+ "id": "1fb1519e59a2",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Sam Greydanus describes PenGPT, small transformers for handwriting and sketches using a shared tokenization of pen movements. A six-million-parameter model adapts to handwriting examples and a fifty-four-million-parameter model draws from text-conditioned representations, with data preparation and ablation studies central to the account.\n\nThe post distinguishes curated hero images from unselected outputs and reports generated handwriting less legible than real samples, 54% versus 66% on its measure. Sketches struggle with binding and directional instructions, and reconstructed strokes are inferred from scans rather than recorded pen order. Results are author-reported, not independently reproduced, and the training datasets are not released.",
+ "highlights": [
+  "Handwriting and drawing use different model sizes",
+  "Pen motion is encoded with grid moves and BPE",
+  "Data filtering and captions materially affect results",
+  "Hero sketches are selected rather than random",
+  "Unselected results reveal binding failures",
+  "Legibility remains below the real-ink baseline",
+  "Scanned handwriting yields inferred stroke order"
+ ]
+}

@@ -1,6 +1,6 @@
 # Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A
 
-_type: news-summary · created: 2026-11-15 · updated: 2026-11-24 · confidence: high_
+_type: news-summary · created: 2026-11-15 · updated: 2026-11-25 · confidence: high_
 
 `techmeme` `agentic-systems`
 

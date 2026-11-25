@@ -1,6 +1,6 @@
 # Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns
 
-_type: news-summary · created: 2026-11-17 · updated: 2026-11-24 · confidence: high_
+_type: news-summary · created: 2026-11-17 · updated: 2026-11-25 · confidence: high_
 
 `hacker-news` `xiaomi`
 

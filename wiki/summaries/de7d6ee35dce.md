@@ -1,6 +1,6 @@
 # London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners
 
-_type: news-summary · created: 2026-11-23 · updated: 2026-11-24 · confidence: high_
+_type: news-summary · created: 2026-11-23 · updated: 2026-11-25 · confidence: high_
 
 `techmeme`
 

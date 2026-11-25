@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-24 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-25 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-25** - The Guardian estimates Donald Trump's Nvidia holdings gained up to $15 million after the rally accompanying Huang's reinstatement. It bases the upper estimate on financial-disclosure ranges and possible holdings as of September 30, and reports Trump saying… ([Trump Made Up to $15M on Nvidia Stock After Huang’s Return](../summaries/a6e2fc7f94f7.md) · [NVIDIA](../entities/nvidia.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md))
 - **2026-11-24** - A Wall Street Journal live-market excerpt describes technology shares retreating after the previous day's rally around Huang's return. The 3:53 p.m. ET update reports the Nasdaq down more than 1% and Anthropic down about 9%, while questioning whether… ([Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump](../summaries/e1dc180d94c9.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) 🔒
 - **2026-11-24** - A Daring Fireball item points to a Threads post criticizing Jason Calacanis in the debate around technology-industry power. The accessible post contains a personal insult and a referenced account, but little substantive context about the underlying… ([David Sacks’s Pool Boy Is Cocky](../summaries/0e404802dfb2.md) · [NVIDIA](../entities/nvidia.md)) ⚠
 - **2026-11-24** - The New York Post reports Donald Trump defending Jensen Huang's reinstatement by suggesting China could have recruited him otherwise. It quotes a CNBC interview in which Trump calls Huang a national asset and discusses pressure on Nvidia's board and… ([Patriotism, Trump-Style](../summaries/5352e2900bda.md) · [NVIDIA](../entities/nvidia.md))

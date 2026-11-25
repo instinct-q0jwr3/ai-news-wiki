@@ -1,6 +1,6 @@
 # Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-24 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-25 · confidence: high_
 
 `hacker-news`
 

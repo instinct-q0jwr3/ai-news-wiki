@@ -1,0 +1,15 @@
+{
+ "id": "ddcee0786b84",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Armin Ronacher argues that Rust mutex poisoning should become an opt-in mechanism rather than the default. He explains how a PoisonError can retain a lock guard, how unwrap can turn one panic into persistent later failures, and why existing async panic recovery and inconsistent interior-mutability behavior weaken the case for automatic poisoning.\n\nThis is an engineering position supported by examples, not an announced language change or proof that every invariant remains safe after a panic. The article describes discussion of nonpoisoning standard-library locks and proposes a separate wrapper. Choosing abort, unwind or explicit recovery still depends on the application; no code examples or library changes were run here.",
+ "highlights": [
+  "PoisonError can keep the mutex guard alive",
+  "One panic can trigger repeated later lock failures",
+  "Poisoning detects panics rather than every invalid early return",
+  "Async code frequently catches task panics",
+  "Author favors nonpoisoning defaults and explicit opt-in",
+  "Proposal is not an adopted Rust edition change",
+  "No application safety guarantee follows from ignoring poison"
+ ]
+}

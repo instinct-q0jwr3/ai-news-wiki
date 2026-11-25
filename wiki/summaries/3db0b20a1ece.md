@@ -1,6 +1,6 @@
 # GhostScript CVE 2026-125396: "Upload2Shell"
 
-_type: news-summary · created: 2026-11-22 · updated: 2026-11-24 · confidence: high_
+_type: news-summary · created: 2026-11-22 · updated: 2026-11-25 · confidence: high_
 
 `lobsters`
 

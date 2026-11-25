@@ -1,0 +1,14 @@
+{
+ "id": "83b560f3e575",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Simon Willison describes three perceived shifts in a year of LLM use: more dependable coding agents, persistent tool-using models able to pursue defined goals, and improved three-dimensional modeling and game design. Personal examples include debugging, locating a sound and repeated game playtesting.\n\nThis is a practitioner retrospective, not a controlled benchmark establishing uniform model reliability or universal development timelines. The category boundaries and judgments about entertaining games are the author's. Specific successful projects do not remove tool-access, review, cost or safety requirements for other tasks, and no example workflow was executed here.",
+ "highlights": [
+  "Retrospective identifies three personal inflection points",
+  "Coding usefulness is distinct from unrestricted autonomy",
+  "Tools and defined goals shape the reported results",
+  "Game quality judgments are subjective",
+  "Examples are not a representative benchmark",
+  "No universal model capability threshold is established"
+ ]
+}

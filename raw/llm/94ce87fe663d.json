@@ -1,0 +1,15 @@
+{
+ "id": "94ce87fe663d",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "An OpenAI-hosted November 24 preprint claims that the square matrix-multiplication exponent is exactly nine fourths over every field. It presents a lower bound for formal arithmetic circuits allowing addition, subtraction, multiplication and division, and combines it with cited upper bounds to state equality of the exponent.\n\nThe abstract and opening theorem were read, not independently verified. Equality of an asymptotic exponent is not automatically a tight Theta(n^2.25) runtime with fixed constants: the paper states upper circuits of size O(n^(9/4+epsilon)) for every positive epsilon. The claimed circuit lower bound is not an empirical runtime result or evidence that practical libraries should be replaced. Both feed URLs refer to the same manuscript, not independent confirmation.",
+ "highlights": [
+  "Claim is an arithmetic-circuit result over every field",
+  "Manuscript states exponent nine fourths",
+  "Lower bound counts multiplication or division gates",
+  "Upper-bound statement allows any positive epsilon",
+  "Feed Theta wording is stronger than exponent equality alone",
+  "No proof validation or expert consensus is established here",
+  "Two feed entries point to the same paper"
+ ]
+}

@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-24 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-25 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-25** - Simon Willison describes three perceived shifts in a year of LLM use: more dependable coding agents, persistent tool-using models able to pursue defined goals, and improved three-dimensional modeling and game design. Personal examples include debugging,… ([Three LLM inflection points in twelve months](../summaries/83b560f3e575.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-24** - An FT item indexed by Techmeme attributes skepticism about AI curing cancer within five to ten years to Novartis CEO and Anthropic board member Vas Narasimhan. The excerpt contrasts an engineering-oriented outlook with the complexity of human biology and… ([Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's "engineering mindset" overlooks human biology](../summaries/f6ac65278f77.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) 🔒
 - **2026-11-23** - A cached read of the GeminiApp post announces GIF creation in Gemini using a model it calls Gemini Omni 1.2 Flash. The post advertises looping photo effects and memes, with smooth motion and frame consistency presented as product claims.
 
