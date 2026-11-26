@@ -1,0 +1,15 @@
+{
+ "id": "d388a7cb5098",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Christian Henning's introduction to uncertainty in machine learning separates variability in outcomes from uncertainty due to missing knowledge and shows how both depend on what is measured. Its examples connect distributions to decisions, emphasizing that an average prediction can hide distinct plausible outcomes or rare costly failures.\n\nThe article is an educational synthesis rather than a new benchmark. It explains how model misspecification, sparse tail data and inductive assumptions can make a confident estimate unreliable, while also noting that not every decision requires perfectly faithful probabilities. Illustrative steering and energy examples are not validated control policies or individualized operational advice, and no model or experiment was run.",
+ "highlights": [
+  "Aleatoric and epistemic boundaries depend on inputs",
+  "Predictions and decisions are different",
+  "A point estimate can hide multiple modes",
+  "Low average loss need not protect rare cases",
+  "Tail estimates rely heavily on assumptions",
+  "Required calibration depends on the decision",
+  "No real-world control or forecasting action was taken"
+ ]
+}

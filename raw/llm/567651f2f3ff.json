@@ -1,0 +1,14 @@
+{
+ "id": "567651f2f3ff",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Reddit headline says Z.ai denies a GLM-5.5 delay and expects a December launch. A separately read [Neural Wire report](https://neuralwire.co/articles/z.ai-issues-clarification-on-glm-5.5-release-schedule/) attributes the same denial to company leadership via WeChat, conflicting with [the earlier Reuters-attributed delay report](../summaries/25f2480c5106.md).\n\nThe original company statement and screenshot were not independently authenticated in this pass; the readable Reddit page exposed only its headline. The December timing is therefore a reported company position, not a verified release commitment, and Reuters' anonymous-source account remains a conflicting report rather than silently becoming established fact. Neither proves the model is currently available or establishes its final capabilities.",
+ "highlights": [
+  "Reddit page exposes the clarification headline",
+  "Secondary reporting attributes denial to company leadership",
+  "December claim conflicts with reported early-2027 delay",
+  "Original WeChat statement was not authenticated here",
+  "Neither account establishes actual model availability",
+  "Capabilities and release date remain unresolved"
+ ]
+}

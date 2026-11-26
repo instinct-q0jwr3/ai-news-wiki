@@ -1,0 +1,15 @@
+{
+ "id": "5512517379e5",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The lip-dictation prototype for Claude Code uses an on-device visual speech-recognition model to turn silent mouth movements into draft text. Its README describes a camera helper on Apple Silicon, local inference, optional personal adaptation and a history of transcriptions and alternative readings.\n\nThe author explicitly calls accuracy modest: a published speech-video word-error figure does not predict silent-mouthing accuracy for an individual user. Local recognition does not mean no data is retained, since history stores text and training keeps mouth crops; setup also downloads external dependencies. Destructive-action caution is a prompt behavior, not a hard permission guarantee. No camera, plugin, model download, training or command was used.",
+ "highlights": [
+  "Prototype uses video rather than microphone input",
+  "Silent mouthing differs from its training conditions",
+  "Personal adaptation uses held-out phrase checks",
+  "History retains transcription text",
+  "Training crops are an exception to transient frames",
+  "Setup requires external downloads",
+  "No camera or local-data operation was performed"
+ ]
+}

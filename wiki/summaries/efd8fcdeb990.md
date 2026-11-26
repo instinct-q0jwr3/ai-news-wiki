@@ -1,0 +1,28 @@
+# The US Government Is Under AI Cyberattack
+
+_type: news-summary · created: 2026-11-26 · updated: 2026-11-26 · confidence: high_
+
+`hacker-news`
+
+## Summary
+
+Forbes summarizes reports of attacks on US intelligence agencies involving Artex, an AI-enabled penetration-testing tool. It attributes the agency targets and the reported impact on unclassified reconnaissance data to the New York Times, placing them in a wider discussion of automated cyberattacks.
+
+This is a secondary report, not a forensic disclosure showing every affected system, attacker identity or causal role of AI. Separate incidents and other newsletter items should not be collapsed into a single campaign. The headline does not establish that all government networks were compromised or that classified material was obtained. No tool repository, exploit, target or attack example was accessed or executed.
+
+## Highlights
+
+- Agency-attack account is attributed to other reporting
+- Reported affected data is described as unclassified
+- AI assistance differs from a new attack primitive
+- Other incidents have separate provenance
+- Full forensic scope remains unverified here
+- No offensive software or target was used
+
+## Source
+
+[Read the original story](https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack)
+
+## Related pages
+
+_No related entity or concept page yet._

@@ -1,0 +1,15 @@
+{
+ "id": "2d26f2a85747",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Session Vault advertises client-side encrypted backup and cross-machine retrieval of selected Claude Code transcripts. The page says it uses age encryption before upload and stores routing metadata such as session identity, project, original folder and an optional label, with a self-hosted server option.\n\nTranscript confidentiality and metadata confidentiality are different: the vendor's claim that it cannot read encrypted conversations does not mean the service stores no information about them. Cross-machine recovery depends on protecting the decryption key, and claims about Claude Code retention and continuation were not checked against official behavior. Installation instructions were read only; no transcript, key, account or configuration was accessed or uploaded.",
+ "highlights": [
+  "Encryption is described as happening before upload",
+  "Server retains project and session metadata",
+  "Key possession is essential for recovery",
+  "Self-hosting is offered",
+  "Vendor claims were not cryptographically audited",
+  "No transcript or persistent secret was handled",
+  "No plugin or account was created"
+ ]
+}

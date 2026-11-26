@@ -2,13 +2,13 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1530,
+  "stories": 1541,
   "last": "2026-11-26"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1507,
+  "stories": 1509,
   "last": "2026-11-26"
  },
  {
@@ -132,16 +132,16 @@
   "last": "2026-09-25"
  },
  {
+  "name": "Westenberg",
+  "url": "https://www.joanwestenberg.com/feed",
+  "stories": 7,
+  "last": "2026-11-26"
+ },
+ {
   "name": "Troy Hunt",
   "url": "https://www.troyhunt.com/rss/",
   "stories": 6,
   "last": "2026-11-23"
- },
- {
-  "name": "Westenberg",
-  "url": "https://www.joanwestenberg.com/feed",
-  "stories": 6,
-  "last": "2026-11-17"
  },
  {
   "name": "Terence Eden",

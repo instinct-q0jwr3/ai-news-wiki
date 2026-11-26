@@ -1,11 +1,23 @@
 {
- "generated_at": "2026-11-26T16:28:48+00:00",
+ "generated_at": "2026-11-26T22:31:01+00:00",
  "stories": [
   {
-   "id": "8cbf90db977e",
-   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "id": "5f1975d3acd1",
+   "title": "Moat: Your OpenRouter Replacement",
    "source": "Hacker News",
-   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+   "url": "https://commandcode.ai/moat"
+  },
+  {
+   "id": "bf6ca65e393b",
+   "title": "Ask HN: How do you find meaning of life at 41?",
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50657957"
+  },
+  {
+   "id": "9a5dc4c99a94",
+   "title": "AI made self-hosting fun again",
+   "source": "Hacker News",
+   "url": "https://janlukas.blog/posts/ai-self-hosting"
   },
   {
    "id": "8b39fa8ea2ac",
@@ -14,160 +26,76 @@
    "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/"
   },
   {
-   "id": "9e8c425d283e",
-   "title": "OpenAI may be in cost control mode",
+   "id": "be3a3f9d4dd6",
+   "title": "'AI' might be the end of our careers",
    "source": "Hacker News",
-   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+   "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/"
   },
   {
-   "id": "761c68c3bfc3",
-   "title": "Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse",
+   "id": "97824421ff8e",
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
    "source": "Hacker News",
-   "url": "https://medium.com/@smoking2man/authority-instead-of-substance-how-ai-exposed-the-emptiness-of-expert-discourse-fe54780aba53"
+   "url": "http://themouseless.dev/vim/"
   },
   {
-   "id": "dabd32358094",
-   "title": "GPT 6.2 Astra is superhuman in mathematical optimization",
-   "source": "TLDR AI",
-   "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html"
+   "id": "567651f2f3ff",
+   "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
+   "source": "Hacker News",
+   "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/"
   },
   {
-   "id": "15785879a1dc",
-   "title": "Paths to extreme power concentration",
-   "source": "TLDR AI",
-   "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration"
+   "id": "2d26f2a85747",
+   "title": "Back up your Claude Code sessions and use them on any machine",
+   "source": "Hacker News",
+   "url": "https://session-vault.dev/"
   },
   {
-   "id": "33f0b104bcf8",
-   "title": "How my context engineering changed for Gemini 4 Neon",
-   "source": "TLDR AI",
-   "url": "https://www.philschmid.de/gemini-4-neon-context-engineering"
+   "id": "5512517379e5",
+   "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+   "source": "Hacker News",
+   "url": "https://github.com/batanus/lip-dictation"
   },
   {
-   "id": "1ffa5684592c",
-   "title": "Trying /swarm in Google Antigravity",
-   "source": "TLDR AI",
-   "url": "https://flaviocopes.com/antigravity-swarm/"
+   "id": "19da416a1737",
+   "title": "Banks look to dump AI debt",
+   "source": "Hacker News",
+   "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt"
   },
   {
-   "id": "3496a550d8ea",
-   "title": "Quoting Jack Despain Zhou",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
+   "id": "e6261b40aca1",
+   "title": "Top-cited AI scientists at four US companies compared",
+   "source": "Hacker News",
+   "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/"
   },
   {
-   "id": "25f2480c5106",
-   "title": "Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs",
+   "id": "efd8fcdeb990",
+   "title": "The US Government Is Under AI Cyberattack",
+   "source": "Hacker News",
+   "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack"
+  },
+  {
+   "id": "d388a7cb5098",
+   "title": "An Introduction to Uncertainty in Machine Learning",
+   "source": "Hacker News",
+   "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/"
+  },
+  {
+   "id": "3511bab7377a",
+   "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+   "url": "https://aftermath.site/n3on-impersonator-ai-prison-260000-dollars-kick-stream/"
   },
   {
-   "id": "2571281d93da",
-   "title": "Fable 5.2 Tries Less on Some Hard Tasks",
-   "source": "TLDR AI",
-   "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
-  },
-  {
-   "id": "3418b3fe43db",
-   "title": "FrontierPhysics Shows Wide Gaps Across Physics Fields",
-   "source": "TLDR AI",
-   "url": "https://x.com/artificialanlys/status/2125691597602058284"
-  },
-  {
-   "id": "c8f16a2234c4",
-   "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
-   "source": "TLDR AI",
-   "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/#google_vignette?utm_source=tldrai"
-  },
-  {
-   "id": "e0d2ee08f364",
-   "title": "Pluralistic: Charles Koch is a cult leader (26 Nov 2026)",
-   "source": "Pluralistic",
-   "url": "https://pluralistic.net/2026/11/26/science-of-liberty/"
-  },
-  {
-   "id": "adc827bd4227",
-   "title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster",
+   "id": "910065e094ad",
+   "title": "SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era",
    "source": "Techmeme",
-   "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster"
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
   },
   {
-   "id": "0bd7d8c603b3",
-   "title": "OpenAI Begins Testing Private Inference",
-   "source": "TLDR AI",
-   "url": "https://x.com/sama/status/2125638790593274259"
-  },
-  {
-   "id": "1607406f830b",
-   "title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11"
-  },
-  {
-   "id": "06ebf62a3dbd",
-   "title": "Measuring and mitigating agent sandbox escape with Siren",
-   "source": "TLDR AI",
-   "url": "https://safeguards.anthropic.com/2026/siren/"
-  },
-  {
-   "id": "1513d07c189b",
-   "title": "Qualiaphobic Artificial Neural Networks",
-   "source": "TLDR AI",
-   "url": "https://bicamerallabs.org/qualiaphobia/"
-  },
-  {
-   "id": "545478b8b604",
-   "title": "Speculative Encoding: Many-to-Many Cache Translation",
-   "source": "TLDR AI",
-   "url": "https://x.com/RampLabs/status/2125625946229064118"
-  },
-  {
-   "id": "f9f0139203a4",
-   "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD",
-   "source": "Techmeme",
-   "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai"
-  },
-  {
-   "id": "9899e93afb4e",
-   "title": "A weekend of machine mathematics",
-   "source": "TLDR AI",
-   "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/"
-  },
-  {
-   "id": "b71b6d69a178",
-   "title": "Thariq Shihipar joins OpenAI after leaving Anthropic in October, saying he felt he could \"personally contribute the most\" to bringing AI to the world at OpenAI (@trq212)",
-   "source": "Techmeme",
-   "url": "https://x.com/trq212"
-  },
-  {
-   "id": "92e68e3ed906",
-   "title": "MAGI-2: A 480B Frontier Video Generation Model",
-   "source": "TLDR AI",
-   "url": "https://sand.ai/blog/magi-2/"
-  },
-  {
-   "id": "4ecbfdafaeec",
-   "title": "Fireworks AI is bringing an ultra-fast version of Kimi K3.1 Pro",
-   "source": "TLDR AI",
-   "url": "https://x.com/bebuu_ai/status/2125829912875696279"
-  },
-  {
-   "id": "c63b4f8475ce",
-   "title": "Perplexity Time Machine",
-   "source": "TLDR AI",
-   "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine"
-  },
-  {
-   "id": "5022da0e52e1",
-   "title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai"
-  },
-  {
-   "id": "31126e389ea7",
-   "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!",
-   "source": "TLDR AI",
-   "url": "https://modaic.dev/blog/latency-doesnt-lie"
+   "id": "858f0d2641f5",
+   "title": "The World Will Eat AI",
+   "source": "Westenberg",
+   "url": "https://www.joanwestenberg.com/p/the-world-will-eat-ai"
   }
  ]
 }

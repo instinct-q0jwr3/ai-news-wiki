@@ -2,13 +2,14 @@
  "id": "25f2480c5106",
  "schema": 1,
  "model": "agent-pass",
- "prose": "A Reuters-attributed Techmeme excerpt reports that Z.ai's planned GLM-5.5 flagship has missed a November release and may move into early 2027 or later, citing people familiar with its development. It links the delay to chip restrictions and tighter controls on distillation access.\n\nThe Reuters body was unavailable, so the sourcing, company responses, parameter count and causal attribution remain excerpt-level information. A possible delay is not a confirmed launch schedule or proof that development has stopped. Rules affecting hardware and policies restricting model use are different mechanisms and should not be collapsed into one blanket prohibition.",
+ "prose": "A Reuters-attributed Techmeme excerpt reports that Z.ai's planned GLM-5.5 flagship has missed a November release and may move into early 2027 or later, citing people familiar with its development. It links the delay to chip restrictions and tighter controls on distillation access.\n\nThe Reuters body was unavailable, so the sourcing, company responses, parameter count and causal attribution remain excerpt-level information. A possible delay is not a confirmed launch schedule or proof that development has stopped. Rules affecting hardware and policies restricting model use are different mechanisms and should not be collapsed into one blanket prohibition.\n\nUpdate, November 26 evening: a Reddit clarification headline and a separately read Neural Wire report attribute to Z.ai a denial and a December launch plan. The original company statement was not authenticated here. [The clarification summary](../summaries/567651f2f3ff.md) preserves the conflict; the earlier possible delay must not be read as an uncontested current schedule.",
  "highlights": [
   "Source is a Reuters-attributed feed excerpt",
   "Delay is reported rather than officially scheduled here",
   "Early 2027 remains a possibility, not a commitment",
   "Hardware and distillation constraints differ",
   "Company responses and full sourcing were not read",
-  "No model availability was tested"
+  "No model availability was tested",
+  "Later reported company denial conflicts with the delay account"
  ]
 }

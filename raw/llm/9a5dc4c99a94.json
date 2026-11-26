@@ -1,0 +1,15 @@
+{
+ "id": "9a5dc4c99a94",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A self-hosting enthusiast describes AI reducing the friction of configuring services, learning NixOS and assembling deployment automation. The author emphasizes renewed willingness to experiment and build small personal tools, not simply faster completion of existing work.\n\nThis is one person's account, with estimated counterfactual time savings rather than a controlled productivity experiment. Renovate and deployment pipelines themselves do not require AI, and the author acknowledges dependence on model providers even while creating software that can outlast them. The article does not establish that generated infrastructure is secure without review. No service, host, image or automation was installed or changed.",
+ "highlights": [
+  "Author reports renewed enthusiasm for self-hosting",
+  "Git-managed configuration makes assistance easier",
+  "Automation tools are not inherently AI tools",
+  "Time savings are personal estimates",
+  "Generated software can persist beyond its generating service",
+  "Security and reliability were not independently audited",
+  "No infrastructure action was performed"
+ ]
+}
