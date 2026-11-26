@@ -1,6 +1,6 @@
 # NVIDIA
 
-_type: organization · created: 2026-09-20 · updated: 2026-11-25 · confidence: medium_
+_type: organization · created: 2026-09-20 · updated: 2026-11-26 · confidence: medium_
 
 `entity` `nvidia` `agentic-systems` `ai-policy-regulation` `ai-price-war` `ai-safety-incidents`
 
@@ -10,6 +10,7 @@ NVIDIA supplies the GPUs, networking and software behind most frontier AI traini
 
 ## Timeline
 
+- **2026-11-26** - CBS investigates Nvidia relationships with US-based companies controlled by Chinese-owned businesses, tracing ownership and chip transactions through corporate and court records reviewed with C4ADS. It describes how US partner status and cross-border… ([Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia](../summaries/4513f57ab0a0.md) · [NVIDIA](../entities/nvidia.md) · [Small and specialist models](../concepts/small-specialist-models.md))
 - **2026-11-25** - CNBC reports sellers offering an unusually large supply of Nvidia GPUs after US restrictions on remote Chinese access to advanced chips. A named marketplace executive and unnamed sources describe thousands of B300s being floated for sale, linking the… ([an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips](../summaries/c2a589396aad.md) · [NVIDIA](../entities/nvidia.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-25** - Zvi Mowshowitz collects reporting and commentary on Jensen Huang's reinstatement at Nvidia, emphasizing presidential intervention, governance and national-security oversight. The article reproduces the company's account that the board unanimously restored… ([Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump](../summaries/2ececd6cbee9.md) · [NVIDIA](../entities/nvidia.md))
 - **2026-11-25** - A Techmeme excerpt of Financial Times reporting describes a Wednesday technology selloff, with the Nasdaq 100 down more than 4%, Nvidia and Anthropic more than 9%, Broadcom about 7% and Micron about 11%. The excerpt frames the move as a continuation of the… ([US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11%](../summaries/b1723adc56a8.md) · [Anthropic](../entities/anthropic.md) · [NVIDIA](../entities/nvidia.md)) 🔒

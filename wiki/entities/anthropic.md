@@ -1,6 +1,6 @@
 # Anthropic
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-25 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-26 · confidence: medium_
 
 `entity` `anthropic` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-26** - Federico Viticci's MacStories hands-on describes installed Claude artifacts as HTML interfaces launched through Electron shims and the main signed-in Claude app, rather than standalone native Swift apps. Personal experiments include disk analysis, shortcut… ([Hands-on with the "Install as app" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app](../summaries/2878b6d7a330.md) · [Anthropic](../entities/anthropic.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-25** - A new lsernau/grh-lean repository presents shorter Lean editions of Alpöge's proof of RH and GRH for Dirichlet L-functions, attributed to collaboration with Anthropic colleagues and Claude. The README describes approximately 300,000-line and 76,000-line… ([Much shorter version of GRH Lean verification from Anthropic](../summaries/194c0944820d.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-25** - Anthropic describes migrating its Messages API from Python to Rust using production shadow comparisons rather than relying solely on a ported test suite. It reports about 70% lower CPU use per request and about 20% lower median time to first token after… ([Migrating Our Messages API to Rust](../summaries/0b20981e11dc.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-25** - The Wall Street Journal reports Anthropic committing roughly $900 billion to computing over coming years, with its credit rating expected to influence financing plans after a large equity offering. The readable opening contrasts a very high equity… ([Wall Street Expects Anthropic's Committed $900B Debt to Be Junk](../summaries/68bc6592512e.md) · [Anthropic](../entities/anthropic.md)) 🔒

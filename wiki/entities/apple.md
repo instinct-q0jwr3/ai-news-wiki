@@ -1,6 +1,6 @@
 # Apple
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-25 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-26 · confidence: medium_
 
 `entity` `apple` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Apple integrates AI into devices and services, with an emphasis on on-device pro
 
 ## Timeline
 
+- **2026-11-26** - The Bureau of Investigative Journalism and ABC describe harmful interactions involving minors on MiniMax's Talkie and report Apple confirming a worldwide App Store removal over sexual content after receiving their findings. The investigation combines… ([Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children](../summaries/5a281cadf10c.md) · [Apple](../entities/apple.md))
 - **2026-11-25** - Rustling is a model-specific Rust inference engine for Inkling 2 Mini on Apple silicon, with a local read-and-search chat and an OpenAI-compatible serving interface. It emphasizes GPU submission efficiency, persistent prompt reuse and copying repeated… ([Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon](../summaries/4cfd50ee86a9.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-24** - Cory Doctorow's Free lunches essay argues that persistent technology-platform margins reflect barriers to competition rather than frictionless market efficiency. It links monopoly power to restrictive contracts, intellectual-property rules, arbitration,… ([Pluralistic: Free lunches (24 Nov 2026)](../summaries/e9e0b805d899.md) · [Google](../entities/google.md) · [Meta](../entities/meta.md) · [Apple](../entities/apple.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-23** - Cory Doctorow's essay uses delayed consequences to connect smoking, climate harm, institutional cuts and infrastructure fragility. Its central argument is that organizations can remove resilience and appear more efficient for a long period before… ([Pluralistic: The Debt Trap (23 Nov 2026)](../summaries/594be16353a9.md) · [Apple](../entities/apple.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md) · [The frontier model price war](../concepts/ai-price-war.md))

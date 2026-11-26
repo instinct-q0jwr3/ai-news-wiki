@@ -1,107 +1,23 @@
 {
- "generated_at": "2026-11-25T22:24:15+00:00",
+ "generated_at": "2026-11-26T04:25:06+00:00",
  "stories": [
   {
-   "id": "8b1e8b2640d9",
-   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "id": "4466701c70b6",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
    "source": "Hacker News",
-   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
   },
   {
-   "id": "47aa6f6528ac",
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "id": "f74e93380df1",
+   "title": "Bare Metal Qwen",
    "source": "Hacker News",
-   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
+   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"
   },
   {
-   "id": "de5dc8d59b79",
-   "title": "The polynomial Hirsch conjecture is false [pdf]",
+   "id": "6ad9c53087ec",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
    "source": "Hacker News",
-   "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"
-  },
-  {
-   "id": "e0f2354c4614",
-   "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-   "source": "Hacker News",
-   "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/"
-  },
-  {
-   "id": "9b9e1682ee1c",
-   "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
-   "source": "Hacker News",
-   "url": "https://danprice.ai/blog/opus-symphony"
-  },
-  {
-   "id": "87bb4622134c",
-   "title": "New York bans AI toys, including those using internet to talk to children",
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
-  },
-  {
-   "id": "194c0944820d",
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "source": "Hacker News",
-   "url": "https://github.com/lsernau/grh-lean"
-  },
-  {
-   "id": "05fe4983e6a9",
-   "title": "The New York Times tells photographers not to use the latest Photoshop",
-   "source": "Hacker News",
-   "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/"
-  },
-  {
-   "id": "57937c2b3cce",
-   "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-   "source": "Hacker News",
-   "url": "https://www.rchive.computer/"
-  },
-  {
-   "id": "3243fbb2168e",
-   "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling",
-   "source": "Hacker News",
-   "url": "https://abc7news.com/post/parents-openai-whistleblower-suchir-balaji-dispute-suicide-ruling-he-would-not-harm-himself/19170809/"
-  },
-  {
-   "id": "4cfd50ee86a9",
-   "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
-   "source": "Hacker News",
-   "url": "https://github.com/onatm/rustling"
-  },
-  {
-   "id": "65d05397b7c8",
-   "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
-   "source": "Hacker News",
-   "url": "https://github.com/cerulion-inc/cerulion"
-  },
-  {
-   "id": "0b20981e11dc",
-   "title": "Migrating Our Messages API to Rust",
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/migrating-api-to-rust"
-  },
-  {
-   "id": "6f352da7a668",
-   "title": "ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value"
-  },
-  {
-   "id": "b71a8d240060",
-   "title": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views",
-   "source": "Techmeme",
-   "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios"
-  },
-  {
-   "id": "f4ff026ff969",
-   "title": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation",
-   "source": "Techmeme",
-   "url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/"
-  },
-  {
-   "id": "45e9552a8eff",
-   "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September",
-   "source": "Techmeme",
-   "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806"
   },
   {
    "id": "334ba8edc163",
@@ -110,16 +26,46 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
   },
   {
-   "id": "9812986779ff",
-   "title": "Scott Aaronson on recent complexity theory AI achievements",
-   "source": "Lobsters",
-   "url": "https://scottaaronson.blog/?p=10379"
+   "id": "5a281cadf10c",
+   "title": "Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children",
+   "source": "Techmeme",
+   "url": "https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children"
   },
   {
-   "id": "c2a589396aad",
-   "title": "an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips",
+   "id": "4513f57ab0a0",
+   "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia",
    "source": "Techmeme",
-   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+  },
+  {
+   "id": "2878b6d7a330",
+   "title": "Hands-on with the \"Install as app\" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app",
+   "source": "Techmeme",
+   "url": "https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps/"
+  },
+  {
+   "id": "f41fcd2ff469",
+   "title": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+  },
+  {
+   "id": "e284238de69e",
+   "title": "A coalition of 42 AGs opposes Character.AI's plan to auction off data from 21M+ US accounts, 2.1M+ registered to minors, saying the sale lacks user protections",
+   "source": "Techmeme",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+  },
+  {
+   "id": "227fe1b6a733",
+   "title": "Quoting Scott Aaronson",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/"
+  },
+  {
+   "id": "f0530255a4a0",
+   "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/"
   }
  ]
 }

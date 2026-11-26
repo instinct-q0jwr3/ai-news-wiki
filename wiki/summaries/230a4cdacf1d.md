@@ -1,6 +1,6 @@
 # EA uses AI and archival audio to revive John Motson in EA Sports FC 27
 
-_type: news-summary · created: 2026-11-25 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-25 · updated: 2026-11-26 · confidence: high_
 
 `hacker-news`
 

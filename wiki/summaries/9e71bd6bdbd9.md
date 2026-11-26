@@ -1,6 +1,6 @@
 # The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers
 
-_type: news-summary · created: 2026-11-23 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-23 · updated: 2026-11-26 · confidence: high_
 
 `techmeme` `ai-policy-regulation`
 

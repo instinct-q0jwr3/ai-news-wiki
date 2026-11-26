@@ -1,0 +1,15 @@
+{
+ "id": "f41fcd2ff469",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "TechCrunch reports OpenAI beginning a unified Chat and Work rollout to a small group of Pro users, with a single shared usage meter. An OpenAI spokesperson says most users should not face more frequent resets, but some of the heaviest users may reach limits sooner, while Instant conversations remain outside the shared allowance.\n\nThe rollout is limited and broader December availability is a reported plan, not a check of every account today. This shared-meter change is distinct from [the separately reported Astra and Sol billing correction](../summaries/6ad9c53087ec.md); both can affect perceived access without being the same mechanism. No plan price, individual allowance or actual reset balance was verified here.",
+ "highlights": [
+  "Initial rollout is to a small Pro group",
+  "Chat and Work share an allowance",
+  "Instant is reported excluded and usable after limits",
+  "Some heavy users may hit limits sooner",
+  "Broader December rollout is planned",
+  "Shared meter differs from model-specific billing correction",
+  "No subscriber account or precise quota was tested"
+ ]
+}

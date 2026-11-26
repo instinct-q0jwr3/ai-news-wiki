@@ -1,6 +1,6 @@
 # NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners
 
-_type: news-summary · created: 2026-11-25 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-25 · updated: 2026-11-26 · confidence: high_
 
 `techmeme` `compute-buildout`
 

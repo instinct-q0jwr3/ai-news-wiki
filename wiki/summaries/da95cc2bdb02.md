@@ -1,6 +1,6 @@
 # Releasing Personal Agent Protocol 1.0
 
-_type: news-summary · created: 2026-11-16 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-16 · updated: 2026-11-26 · confidence: high_
 
 `tldr-ai` `agentic-systems`
 

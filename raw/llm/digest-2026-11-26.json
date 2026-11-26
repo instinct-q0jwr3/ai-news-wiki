@@ -1,0 +1,62 @@
+{
+ "id": "digest-2026-11-26",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "The first update separates two ChatGPT usage changes and reports a proposed sale of sensitive chatbot data under legal challenge. Directly confirmed photography guidance, child-safety reporting and hardware tracing keep their scopes explicit; bare-metal inference and desktop wrappers remain demonstrations with different dependencies."
+ ],
+ "sections": [
+  {
+   "title": "A confirmed photo-assignment restriction has a precise version scope",
+   "intro": "The Verge reports direct Times confirmation, without establishing that every image from Photoshop is generated.",
+   "stories": [
+    "4466701c70b6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Two ChatGPT usage changes should not be collapsed into one",
+   "intro": "A model-specific correction and a limited shared-meter rollout describe different mechanisms and leave individual entitlements unchecked.",
+   "stories": [
+    "6ad9c53087ec",
+    "f41fcd2ff469"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Bankruptcy data objections concern a proposed transaction",
+   "intro": "Attorneys general challenge a chat-data auction, distinct from the separate intellectual-property license.",
+   "stories": [
+    "e284238de69e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Child-safety investigation and chip tracing retain evidence boundaries",
+   "intro": "Talkie's reported store removal is not a universal shutdown; corporate ownership and allegations are not guilt.",
+   "stories": [
+    "5a281cadf10c",
+    "4513f57ab0a0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A minimal operating system and a desktop wrapper make different tradeoffs",
+   "intro": "Bare-metal inference is a limited project demonstration; Claude artifacts retain host-app, permission and sharing dependencies.",
+   "stories": [
+    "f74e93380df1",
+    "2878b6d7a330"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Software craft and mathematical excitement remain interpretation",
+   "intro": "An episode description and a selected quotation add perspective, not a verified product release or theorem.",
+   "stories": [
+    "f0530255a4a0",
+    "227fe1b6a733"
+   ],
+   "concepts": []
+  }
+ ]
+}

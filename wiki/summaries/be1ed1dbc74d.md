@@ -1,6 +1,6 @@
 # An FBI agent called a Claude user about his chats
 
-_type: news-summary · created: 2026-11-20 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-20 · updated: 2026-11-26 · confidence: high_
 
 `hacker-news` `anthropic` `agentic-systems`
 

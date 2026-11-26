@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-25 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-26 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-11-26** - The llm.asm project describes a bootable x86-64 environment running Qwen3-0.6B without a conventional host operating system inside the guest. Its shared assembly inference code can boot through BIOS or UEFI, with a small kernel and a much larger quantized… ([Bare Metal Qwen](../summaries/f74e93380df1.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-25** - Bloomberg's accessible opening says lenders have paused billions of dollars of loans linked to ByteDance, Alibaba and Tencent as US chip-access curbs create legal uncertainty for Asian data-center and neocloud financing. It describes near-complete deals… ([US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan](../summaries/334ba8edc163.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
 - **2026-11-24** - An accessible Bloomberg opening reports the Commerce Department adding Alibaba's Singapore subsidiary Apex Enterprise Solutions to the Entity List in a filing Monday. The designation restricts purchases of advanced US technology without a government… ([Filing: the US Commerce Department adds Alibaba's Singaporean subsidiary, Apex Enterprise Solutions, to its Entity List alongside Megaspeed and five affiliates](../summaries/ba1bb00b0484.md) · [Alibaba](../entities/alibaba.md)) 🔒
 - **2026-11-23** - Nari Labs presents NariQ quantizations of Qwen3.8-27B at 3, 2.5 and 2 bits per weight. Its card reports near-BF16 results on selected agentic, mathematical and visual tasks for the first two variants, with a substantial decline for 2-bit. It publishes… ([NariQ: BF16-level Qwen3.8-27B in a 10 GB file](../summaries/0982d40d18e3.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))

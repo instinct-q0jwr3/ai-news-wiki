@@ -1,0 +1,16 @@
+{
+ "id": "2878b6d7a330",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Federico Viticci's MacStories hands-on describes installed Claude artifacts as HTML interfaces launched through Electron shims and the main signed-in Claude app, rather than standalone native Swift apps. Personal experiments include disk analysis, shortcut launching and document routing, with macOS permissions and helper processes doing much of the underlying work.\n\nThe account distinguishes a working interface from native conventions, independent identity and durable access: shared artifacts can be revoked and depend on Claude and its account. Some technical explanations come from Claude's own analysis and are not an independent security audit. Viticci's speculation about Apple and future mobile distribution is opinion, not an announced roadmap. No artifact, permission, helper or computer command was executed for this wiki.",
+ "highlights": [
+  "Apps depend on the main Claude process and account",
+  "HTML and Electron differ from native Swift UI",
+  "Permission behavior includes host-app and OS boundaries",
+  "Examples are the author's personal workflows",
+  "Shared access can later be withdrawn",
+  "Some implementation descriptions are model-generated",
+  "Future ecosystem predictions are speculative",
+  "No installation, permission grant or example execution occurred"
+ ]
+}

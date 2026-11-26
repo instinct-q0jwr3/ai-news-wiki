@@ -1,6 +1,6 @@
 # Concept: Ai Business Models
 
-_type: concept · created: 2026-11-25 · updated: 2026-11-25 · confidence: medium_
+_type: concept · created: 2026-11-26 · updated: 2026-11-26 · confidence: medium_
 
 `concept` `ai-business-models`
 

@@ -1,6 +1,6 @@
 # Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved
 
-_type: news-summary · created: 2026-11-15 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-15 · updated: 2026-11-26 · confidence: high_
 
 `techmeme` `nvidia`
 

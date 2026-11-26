@@ -1,6 +1,6 @@
 # OpenAI reveals they solved VP ≠ VNP before Anthropic
 
-_type: news-summary · created: 2026-11-25 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-25 · updated: 2026-11-26 · confidence: high_
 
 `hacker-news` `openai` `anthropic`
 

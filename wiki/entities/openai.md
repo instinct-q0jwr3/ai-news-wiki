@@ -1,6 +1,6 @@
 # OpenAI
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-25 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-26 · confidence: medium_
 
 `entity` `openai` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ OpenAI develops frontier AI models and products, including the GPT, ChatGPT and 
 
 ## Timeline
 
+- **2026-11-26** - A post from the account thsottiaux says an erroneous launch discount on GPT-6.2 Astra and Sol usage has been corrected, so the same work consumes more of a plan allowance. It describes users reaching limits 40% faster on Astra and 25% faster on Sol than… ([OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](../summaries/6ad9c53087ec.md) · [OpenAI](../entities/openai.md))
+- **2026-11-26** - Latent Space introduces a conversation with Thariq Shihipar about AI making software cheap to produce while also allowing more attention to individual design choices. The accessible description uses a game and a personal Dock experiment to contrast… ([The Revolution vs The Renaissance — Thariq Shihipar, OpenAI](../summaries/f0530255a4a0.md) · [OpenAI](../entities/openai.md)) ⚠
+- **2026-11-26** - TechCrunch reports OpenAI beginning a unified Chat and Work rollout to a small group of Pro users, with a single shared usage meter. An OpenAI spokesperson says most users should not face more frequent resets, but some of the heaviest users may reach… ([OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner](../summaries/f41fcd2ff469.md) · [OpenAI](../entities/openai.md))
 - **2026-11-25** - An independently maintained code-golf benchmark revives thirty-two problems from a 2015 internal Google contest and runs models for thirty minutes per problem in eight languages. It measures short accepted programs rather than basic task completion: every… ([GPT-6.2 Astra is the first model to beat Googlers' code golf records](../summaries/47aa6f6528ac.md) · [OpenAI](../entities/openai.md) · [Google](../entities/google.md) · [External AI evaluation](../concepts/external-evaluation.md))
 - **2026-11-25** - ABC7 reports Suchir Balaji's parents expanding their campaign to challenge the official suicide ruling in his November 2024 death. It describes their private investigator, independent autopsy, foundation and work on whistleblower protections, while… ([Parents of OpenAI whistleblower intensify dispute over suicide ruling](../summaries/3243fbb2168e.md) · [OpenAI](../entities/openai.md))
 - **2026-11-25** - TestingCatalog describes hidden email settings for ChatGPT Dots and cites an OpenAI staff post saying dedicated addresses are entering testing. The proposed feature would let people include an agent in an email conversation without using the owner's… ([OpenAI prepares dedicated email inboxes for ChatGPT Dots](../summaries/c42bfaa981de.md) · [OpenAI](../entities/openai.md))

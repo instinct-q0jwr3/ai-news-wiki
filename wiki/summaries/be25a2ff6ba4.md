@@ -1,6 +1,6 @@
 # Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches "zero espionage" executive girlfriends
 
-_type: news-summary · created: 2026-11-22 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-22 · updated: 2026-11-26 · confidence: high_
 
 `techmeme` `nvidia` `labor-displacement`
 

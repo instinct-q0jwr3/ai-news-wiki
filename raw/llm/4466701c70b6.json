@@ -1,0 +1,15 @@
+{
+ "id": "4466701c70b6",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The Verge reports seeing and obtaining Times confirmation of an email requiring contributing photographers to avoid Photoshop 2027, release 28.0.0 and later updates, on Times assignments. The stated concern is that some functions may use generative AI without being obvious and add metadata identifying photographs as AI-generated.\n\nThis gives more direct sourcing than the earlier secondary account, but is still reporting of a specific assignment policy rather than a ban on all Adobe software. The article says the exact features triggering concern remain unclear. Metadata may indicate an AI-assisted edit rather than an entirely generated image; neither every tool nor every image from the version is shown to be affected. No software or image metadata was tested.",
+ "highlights": [
+  "Email is reported seen by The Verge",
+  "Times spokesperson confirms the requirement",
+  "Scope is work on Times assignments",
+  "Named release is Photoshop 2027 28.0.0 and updates",
+  "Specific problematic functions remain unclear",
+  "AI-edit metadata is not necessarily full-image generation",
+  "No general all-Adobe ban is established"
+ ]
+}

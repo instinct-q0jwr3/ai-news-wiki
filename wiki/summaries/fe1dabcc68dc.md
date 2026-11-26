@@ -1,6 +1,6 @@
 # Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI
 
-_type: news-summary · created: 2026-11-15 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-15 · updated: 2026-11-26 · confidence: high_
 
 `techmeme` `apple`
 

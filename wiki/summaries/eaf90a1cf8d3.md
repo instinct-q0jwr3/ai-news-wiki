@@ -1,6 +1,6 @@
 # Show HN: Director's Lookbook, named looks for image, video and music prompts
 
-_type: news-summary · created: 2026-11-18 · updated: 2026-11-25 · confidence: high_
+_type: news-summary · created: 2026-11-18 · updated: 2026-11-26 · confidence: high_
 
 `hacker-news` `anthropic`
 
