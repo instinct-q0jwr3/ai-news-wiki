@@ -3,7 +3,8 @@
  "schema": 3,
  "model": "agent-pass",
  "lead": [
-  "The first update separates two ChatGPT usage changes and reports a proposed sale of sensitive chatbot data under legal challenge. Directly confirmed photography guidance, child-safety reporting and hardware tracing keep their scopes explicit; bare-metal inference and desktop wrappers remain demonstrations with different dependencies."
+  "The first update separates two ChatGPT usage changes and reports a proposed sale of sensitive chatbot data under legal challenge. Directly confirmed photography guidance, child-safety reporting and hardware tracing keep their scopes explicit; bare-metal inference and desktop wrappers remain demonstrations with different dependencies.",
+  "The late-morning update pairs concrete human review of generated expressions with competing accounts of AI privacy and security. Market rotation, memory shortages and reported shipment restrictions remain dated observations rather than universal conclusions; vendor offers and personal complaints keep their evidence limits visible."
  ],
  "sections": [
   {
@@ -55,6 +56,59 @@
    "stories": [
     "f0530255a4a0",
     "227fe1b6a733"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Human review works best when the question is concrete",
+   "intro": "A restricted-language study asks users to judge distinguishing scenarios, not simply approve an opaque expression.",
+   "stories": [
+    "be423b6ffbe1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Private AI claims and data-access allegations require different evidence",
+   "intro": "An interview advocates privacy-preserving services; a separate Reuters excerpt reports a researcher's access allegation without the full incident details.",
+   "stories": [
+    "e27353d07d1f",
+    "256481b768ec"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Security automation reporting is not a compromise detector",
+   "intro": "Microsoft-attributed threat intelligence describes behavioral patterns and familiar techniques, without establishing every incident claim.",
+   "stories": [
+    "816c6bc42ebf"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Market rotation and supply constraints operate at different levels",
+   "intro": "Software performance, memory procurement pressure and a reported shipment pause retain their own dates, sources and limits.",
+   "stories": [
+    "8d71583b24d4",
+    "f098b58217c5",
+    "42156ea35ae5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A membership offer, a music game and a complaint are not comparable benchmarks",
+   "intro": "Vendor pricing, interface descriptions and social allegations require different kinds of validation.",
+   "stories": [
+    "5f1975d3acd1",
+    "4e5f0ebfe759",
+    "298d6526450f"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A second index adds no independent cryptographic verification",
+   "intro": "The newer feed framing points to Aaronson's existing post; secret algorithm claims remain unverified.",
+   "stories": [
+    "06e0210b5e27"
    ],
    "concepts": []
   }

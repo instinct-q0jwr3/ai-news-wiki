@@ -1,0 +1,15 @@
+{
+ "id": "f098b58217c5",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Wall Street Journal item carried by Techmeme describes companies creating procurement war rooms amid memory-chip shortages and says some prices have increased tenfold in a year, putting pressure on electronics prices. The excerpt frames supply constraints as a problem reaching downstream buyers rather than only data-center operators.\n\nThe full article was unavailable after the alternate fetch timed out, so the named chip categories, comparison dates, sourcing and purchasing terms were not inspected. The tenfold figure refers to some prices, not every memory part, an industry-wide average or an automatic tenfold increase in finished-device prices. No current retail price, inventory or supplier quote was checked.",
+ "highlights": [
+  "Summary relies on the feed excerpt",
+  "Some memory prices are reported up tenfold",
+  "Scope is not all memory products",
+  "Procurement war rooms indicate reported buyer responses",
+  "Input costs differ from finished-device prices",
+  "Full comparison periods and methods remain unread",
+  "No purchase or supplier availability check was made"
+ ]
+}

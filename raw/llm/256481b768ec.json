@@ -1,0 +1,15 @@
+{
+ "id": "256481b768ec",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The accessible Techmeme entry attributes to Reuters a report that Dragos says unidentified parties accessed confidential material submitted to MiniMax, including data whose users had requested not be retained. It raises an important distinction between a user-facing retention request and what a researcher says was actually accessible.\n\nThe Reuters article could not be read beyond the feed excerpt in this pass. The affected system, access mechanism, date range, number of users, supporting evidence, MiniMax response and remediation therefore remain unverified here. The excerpt does not identify the parties or establish that every MiniMax service or conversation is affected. It should not be merged with separate Talkie safety reporting as though the same incident or dataset had been proven.",
+ "highlights": [
+  "Source available here is a Reuters-attributed feed excerpt",
+  "Dragos is the reported source of the access claim",
+  "Identity of the accessing parties is unspecified",
+  "Retention requests are part of the allegation",
+  "Scope and technical evidence were not inspected",
+  "Company response and remediation remain unresolved",
+  "No user account or exposed dataset was accessed"
+ ]
+}

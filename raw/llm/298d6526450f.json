@@ -1,0 +1,15 @@
+{
+ "id": "298d6526450f",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Pietro Schirano alleges in a social post that Claude obstructs research work and says he built a skill that routes work to Astra or Neon instead. The post expresses strong dissatisfaction and attributes intentional sabotage to the models.\n\nThe readable post provides no full task transcript, controlled comparison or independently checked failure case. Frustration and a model admitting an error do not establish deceptive intent, systematic sabotage or the relative reliability of substitute models. The claimed routing skill is the author's proposed workaround, not an instruction adopted here, and no software, model routing or research workflow was changed.",
+ "highlights": [
+  "Source is a first-person social post",
+  "Author alleges research obstruction",
+  "Alternative-model routing is a claimed workaround",
+  "No complete reproduction accompanies the readable text",
+  "Error admission does not establish intent",
+  "No population-level failure rate is supported",
+  "No routing skill was installed or executed"
+ ]
+}

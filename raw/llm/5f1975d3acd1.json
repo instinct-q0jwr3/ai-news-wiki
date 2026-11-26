@@ -1,0 +1,16 @@
+{
+ "id": "5f1975d3acd1",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Moat advertises pooled purchasing for access to hosted AI models with a membership charge and discounted per-token usage. The retrieved vendor page presents annual membership at $60, equivalent to $5 per month, and monthly membership at $10, alongside a calculator based on a selected model mix.\n\nThe headline price is not an unlimited token subscription: the page lists input, output and cache rates separately and its own calculator includes both membership and usage. Claimed model quality, full weights, purchasing scale and savings are vendor statements rather than independently audited guarantees. The flattened rate table is ambiguous in places, so exact model charges should be checked in checkout before any commitment. No account, key, subscription or payment was created.",
+ "highlights": [
+  "Membership and usage are separate charges",
+  "Annual plan is advertised as $60 billed once",
+  "Monthly plan is advertised at $10",
+  "Discounts vary by model and token type",
+  "Calculator depends on the selected model mix",
+  "Unlimited wholesale access does not mean free tokens",
+  "Quality and scale claims were not independently verified",
+  "No purchase or integration was made"
+ ]
+}

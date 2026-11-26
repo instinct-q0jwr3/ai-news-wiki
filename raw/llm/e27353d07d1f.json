@@ -1,0 +1,16 @@
+{
+ "id": "e27353d07d1f",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "In a Conversations with Tyler interview, Moxie Marlinspike argues that conversational interfaces imply a privacy that underlying AI services may not provide, and describes his private chat service Confer. He favors monitoring model behavior rather than building systems that monitor every person's activity, while acknowledging that safety and privacy are difficult to reconcile.\n\nThe transcript is dated November 25 and says it was recorded October 10, so it is not a live reaction to every later mathematical or security report. Marlinspike explicitly does not know whether AI will break cryptography and offers possible ranges of outcomes, not evidence of a deployed break. His claims about Confer's privacy and a hoped-for defensive equilibrium remain interview statements, not a cryptographic audit, service test or forecast established here.",
+ "highlights": [
+  "Transcript publication is November 25",
+  "Conversation was recorded October 10",
+  "Privacy interface and backend access are distinguished",
+  "Confer claims are the founder's account",
+  "Model monitoring is advocated over actor surveillance",
+  "AI cryptographic-break risk is explicitly uncertain",
+  "Defense equilibrium timing is a personal expectation",
+  "No service signup or privacy audit was performed"
+ ]
+}

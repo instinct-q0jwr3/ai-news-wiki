@@ -1,0 +1,15 @@
+{
+ "id": "816c6bc42ebf",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The Record reports Microsoft attributing use of Artex to Chinese and North Korean state-backed groups and financially motivated attackers. It describes automation of familiar intrusion steps and emphasizes bursts of varied machine-speed activity as a defensive signal, rather than a novel attack primitive.\n\nThis is reporting of Microsoft's threat-intelligence attribution, not an independently reproduced incident investigation. Separate reports about particular US agencies remain allegations from their own sources, not proof supplied by the Microsoft account. Speed claims are not universal success rates, and an indicator alone cannot establish actor identity or compromise. No repository, attack tooling, target, credential search or exploitation example was opened or executed.",
+ "highlights": [
+  "Microsoft is the attributed intelligence source",
+  "Named groups include Salt and Crystal Typhoon",
+  "Reported mechanism automates existing techniques",
+  "Machine-speed behavioral patterns are described",
+  "Separate agency-attack allegations have separate provenance",
+  "Indicators do not alone establish a compromise",
+  "No offensive tooling or example was run"
+ ]
+}

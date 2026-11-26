@@ -1,71 +1,71 @@
 {
- "generated_at": "2026-11-26T04:25:06+00:00",
+ "generated_at": "2026-11-26T10:27:17+00:00",
  "stories": [
   {
-   "id": "4466701c70b6",
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "id": "5f1975d3acd1",
+   "title": "Moat: Your OpenRouter Replacement",
    "source": "Hacker News",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+   "url": "https://commandcode.ai/moat"
   },
   {
-   "id": "f74e93380df1",
-   "title": "Bare Metal Qwen",
+   "id": "4e5f0ebfe759",
+   "title": "Show HN: Synth Patch Hero",
    "source": "Hacker News",
-   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"
+   "url": "https://swarkentin.github.io/synth-patch-hero/"
   },
   {
-   "id": "6ad9c53087ec",
-   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "id": "298d6526450f",
+   "title": "Claude tries to sabotage research work at every stage",
    "source": "Hacker News",
-   "url": "https://twitter.com/thsottiaux/status/2125784147889393806"
+   "url": "https://twitter.com/skirano/status/2125371115979641188"
   },
   {
-   "id": "334ba8edc163",
-   "title": "US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan",
+   "id": "f098b58217c5",
+   "title": "Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+   "url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC"
   },
   {
-   "id": "5a281cadf10c",
-   "title": "Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children",
+   "id": "256481b768ec",
+   "title": "Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data",
    "source": "Techmeme",
-   "url": "https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children"
+   "url": "https://www.reuters.com/world/data-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-2026-11-26/"
   },
   {
-   "id": "4513f57ab0a0",
-   "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia",
+   "id": "be423b6ffbe1",
+   "title": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
+   "source": "Lobsters",
+   "url": "https://www.siddharthaprasad.com/papers/pafk-pick.pdf"
+  },
+  {
+   "id": "8d71583b24d4",
+   "title": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts",
    "source": "Techmeme",
-   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+   "url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65"
   },
   {
-   "id": "2878b6d7a330",
-   "title": "Hands-on with the \"Install as app\" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app",
+   "id": "e27353d07d1f",
+   "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more",
    "source": "Techmeme",
-   "url": "https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps/"
+   "url": "https://conversationswithtyler.com/episodes/moxie-marlinspike/"
   },
   {
-   "id": "f41fcd2ff469",
-   "title": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner",
+   "id": "816c6bc42ebf",
+   "title": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
   },
   {
-   "id": "e284238de69e",
-   "title": "A coalition of 42 AGs opposes Character.AI's plan to auction off data from 21M+ US accounts, 2.1M+ registered to minors, saying the sale lacks user protections",
+   "id": "06e0210b5e27",
+   "title": "leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown",
    "source": "Techmeme",
-   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+   "url": "https://scottaaronson.blog/?p=10379"
   },
   {
-   "id": "227fe1b6a733",
-   "title": "Quoting Scott Aaronson",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/"
-  },
-  {
-   "id": "f0530255a4a0",
-   "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/"
+   "id": "42156ea35ae5",
+   "title": "Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia, as the US steps up export controls",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?accessToken=zwAAAaKuNQQ-lc82jEUmoM5JUdOoR_A5rypRr894OKcVB9RGBdOqYCH1rysjcM8_V3g53u1A9NOvn7-PtUiQ488yW5PWvC5N09OZQc9GiKyhHdO5lhOroTBLn9OMFcQdt82IlAE.MEUCIAPJOFlcs0Bojv5ln7BmjmdLTj5dPHWXAdsn-FuOch_SAiEA5Eu4HIM2_h5rJDnldWxSlTi5axDZdg9vO7b_UplS1Nk&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902"
   }
  ]
 }

@@ -1,0 +1,14 @@
+{
+ "id": "06e0210b5e27",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A second feed index of Scott Aaronson's November 25 post emphasizes his report of hearing from sources about unreleased algorithms with possible consequences for deployed cryptography. It points to the same source as [the existing commentary summary](../summaries/9812986779ff.md), not independent corroboration.\n\nAaronson explicitly distinguishes confidence in public formal artifacts from uncertainty about secret cryptographic claims. The exact algorithms, applicable systems, resources and evidence are not available in this account; no concrete break is demonstrated. His alarm and expectations remain expert commentary rather than a security advisory or instruction to migrate any particular system.",
+ "highlights": [
+  "Same source article as the November 25 commentary",
+  "New feed framing emphasizes cryptographic rumors",
+  "Claims are attributed to unnamed sources",
+  "No specific deployed cryptosystem break is shown",
+  "Public proofs and private rumors have different evidence",
+  "No keys, services or cryptographic configuration were changed"
+ ]
+}
