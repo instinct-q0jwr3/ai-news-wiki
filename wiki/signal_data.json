@@ -3134,5 +3134,61 @@
   "thin": 2,
   "total": 57,
   "unreadable": 0
+ },
+ "2026-11-26": {
+  "ok": 41,
+  "paywall": 4,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "be423b6ffbe1",
+    "minutes": 117,
+    "source": "siddharthaprasad.com",
+    "title": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
+    "why": "Concrete scenarios make human review meaningful without claiming to verify arbitrary programs."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "c63b4f8475ce",
+    "minutes": 8,
+    "source": "perplexity.ai",
+    "title": "Perplexity Time Machine",
+    "why": "Historical retrieval separates hindsight leakage from forecasting ability, while retaining coverage and judge limits."
+   },
+   {
+    "cat": "ok",
+    "front": "Society",
+    "id": "e27353d07d1f",
+    "minutes": 40,
+    "source": "conversationswithtyler.com",
+    "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more",
+    "why": "Moxie separates a privacy-preserving interface from backend access and treats cryptographic risk as uncertain."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "06ebf62a3dbd",
+    "minutes": 17,
+    "source": "safeguards.anthropic.com",
+    "title": "Measuring and mitigating agent sandbox escape with Siren",
+    "why": "Siren distinguishes boundary crossing from misaligned use and reports mitigation benefits alongside evaluation limits."
+   },
+   {
+    "cat": "ok",
+    "front": "Culture",
+    "id": "92e68e3ed906",
+    "minutes": 10,
+    "source": "sand.ai",
+    "title": "MAGI-2: A 480B Frontier Video Generation Model",
+    "why": "A video-model launch exposes the tradeoff between visual polish and eliciting broader pretrained capabilities."
+   }
+  ],
+  "reserve": "9899e93afb4e",
+  "status": "provisional",
+  "thin": 2,
+  "total": 49,
+  "unreadable": 2
  }
 }

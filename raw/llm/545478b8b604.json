@@ -1,0 +1,15 @@
+{
+ "id": "545478b8b604",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Ramp Labs presents speculative encoding, a learned translator that maps hidden states between seven frozen models across forty-two directions so a receiver can avoid repeating some prefill work. It reports 96.9% average native-accuracy retention on tasks up to eight thousand tokens and latency gains on longer document questions.\n\nRetention is relative accuracy, not exact context equivalence or guaranteed preservation of every detail. Long-context tests assume the source memory already exists, use small document samples and show declining retention as length grows. A query-conditioned compressor helps on targeted questions but is not a lossless general memory transfer. The trained translator and alignment layers are additional machinery; no package, cache or benchmark was run here.",
+ "highlights": [
+  "Seven models span four families",
+  "One shared translator covers forty-two directions",
+  "Reported retention is a ratio to native accuracy",
+  "Long-context timing assumes precomputed source memory",
+  "Retention declines on longer documents",
+  "Query-conditioned compression is task-dependent",
+  "No exact or lossless state transfer is demonstrated"
+ ]
+}

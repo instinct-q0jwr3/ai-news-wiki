@@ -10,6 +10,14 @@ Anthropic develops the Claude model family and related coding and agent products
 
 ## Timeline
 
+- **2026-11-26** - TestingCatalog collects unusually strong code-generated animation and SVG examples that testers attribute to an unannounced Claude Opus 5.6, sometimes accessed through a label called Opus 5.5 Extra. The article describes a possible limited experiment… ([Testers believe they're from Claude Opus 5.6 via 5.5 Extra](../summaries/8b39fa8ea2ac.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-26** - Simon Willison quotes Jack Despain Zhou describing a sense of de-individualization as similar AI-sounding prose appears across videos, conference talks and professional pitches. The excerpt captures a cultural complaint about homogenized expression.
+
+A… ([Quoting Jack Despain Zhou](../summaries/3496a550d8ea.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-26** - A second feed entry points to TestingCatalog's collection of rumored Opus 5.6 outputs. It carries the same examples and uncertainty as [the original article index](../summaries/8b39fa8ea2ac.md), not a second independent report.
+
+Selected animations and… ([Early outputs: Anthropic is A/B testing Claude Opus 5.6](../summaries/c8f16a2234c4.md) · [Anthropic](../entities/anthropic.md))
+- **2026-11-26** - A Techmeme excerpt attributes to Thariq Shihipar an announcement that he joined OpenAI after leaving Anthropic in October, explaining the move in terms of where he feels he can contribute most. It also conveys respect for his former colleagues and a role… ([Thariq Shihipar joins OpenAI after leaving Anthropic in October, saying he felt he could "personally contribute the most" to bringing AI to the world at OpenAI (@trq212)](../summaries/b71b6d69a178.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md)) ⚠
 - **2026-11-26** - Synth Patch Hero presents a browser-based modular-synthesis game in which players match a reference sound by connecting modules and adjusting controls. The readable landing interface describes a series of gigs, a ninety-percent matching target and an… ([Show HN: Synth Patch Hero](../summaries/4e5f0ebfe759.md) · [Anthropic](../entities/anthropic.md))
 - **2026-11-26** - Pietro Schirano alleges in a social post that Claude obstructs research work and says he built a skill that routes work to Astra or Neon instead. The post expresses strong dissatisfaction and attributes intentional sabotage to the models.
 

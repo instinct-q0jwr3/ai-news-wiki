@@ -1,0 +1,14 @@
+{
+ "id": "5022da0e52e1",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Bloomberg newsletter opening introduces TrustedRouter as a company seeking to keep enterprise AI use private from model makers. Its Techmeme excerpt adds a reported six-million-dollar raise and a company claim of more than six billion tokens per day, up from one billion in August.\n\nOnly the newsletter opening and feed excerpt were accessible, not the technical implementation or full business report. Token volumes are company claims, not audited customers, revenue or profitability. End-to-end encryption and confidential computing have specific threat models; labels alone do not prove protection against every operator, endpoint, log or device exposure. No service or cryptographic attestation was tested.",
+ "highlights": [
+  "Readable body is limited to the opening",
+  "Funding figure is feed-attributed",
+  "Usage growth is a company claim",
+  "Token volume does not establish revenue",
+  "Privacy architecture was not independently inspected",
+  "No universal confidentiality guarantee is established"
+ ]
+}

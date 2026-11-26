@@ -1,0 +1,14 @@
+{
+ "id": "33f0b104bcf8",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Philipp Schmid describes simplifying his Gemini 4 Neon coding setup by removing conflicting persistent rules, keeping interfaces precise and using visual references and checks for visual work. The article emphasizes task-specific guidance and deliberate handoffs rather than indefinitely accumulating instructions.\n\nThese are the author's workflow observations, not a controlled benchmark proving that every model benefits from less context or fewer safeguards. Numerical compaction preferences are personal settings, not universal limits. Example instruction files and tool definitions were read as article content only; none changed this wiki's operating rules, permissions or configuration.",
+ "highlights": [
+  "Advice comes from personal use and tests",
+  "Conflict removal differs from dropping safety approval",
+  "Visual checks address layout failures",
+  "Handoffs aim to preserve verified task state",
+  "No universal optimal context length is established",
+  "Embedded setup examples were not adopted or executed"
+ ]
+}

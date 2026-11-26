@@ -1,0 +1,14 @@
+{
+ "id": "0bd7d8c603b3",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A post attributed to Sam Altman announces testing of OpenAI Private Inference with a small customer group as part of Private Intelligence. It also describes automated safety review with zero-data-retention and private safety processing without personnel access to underlying content.\n\nThe post is a brief announcement, not technical documentation proving the threat model, attestation flow, retention guarantees or broad availability. A pilot does not establish that every consumer chat, account or existing endpoint has the same protections. No customer enrollment, sales contact or account setting was changed.",
+ "highlights": [
+  "Testing is limited to a small group",
+  "Private Inference and Private Safety Processing are named",
+  "Personnel-access claim is attributed to the announcement",
+  "Threat model was not independently audited",
+  "No general consumer rollout is established",
+  "No enrollment or account action occurred"
+ ]
+}

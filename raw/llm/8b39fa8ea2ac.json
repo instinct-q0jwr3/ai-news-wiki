@@ -1,0 +1,14 @@
+{
+ "id": "8b39fa8ea2ac",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "TestingCatalog collects unusually strong code-generated animation and SVG examples that testers attribute to an unannounced Claude Opus 5.6, sometimes accessed through a label called Opus 5.5 Extra. The article describes a possible limited experiment rather than an announced release.\n\nThe publication itself says it cannot verify the underlying model identity, and the examples are selected social posts, not a controlled benchmark. Screenshots and author labels cannot establish which weights served a request, an official launch date or universal access. No account was tested, media comparison independently scored or code executed.",
+ "highlights": [
+  "Anthropic announcement is absent in the article",
+  "Tester labels include Opus-next and 5.5 Extra",
+  "Examples are selectively circulated outputs",
+  "Model identity remains unverified",
+  "No general quality ranking follows",
+  "No account or executable sample was tested"
+ ]
+}

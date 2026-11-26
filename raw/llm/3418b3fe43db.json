@@ -1,0 +1,15 @@
+{
+ "id": "3418b3fe43db",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Artificial Analysis reports a FrontierPhysics leaderboard using fifty-four private research tasks across nine fields, excluding two GPU tasks from the original set. Scores require numeric checks plus model-based manuscript review, with Fable 5.2 leading its reported run at 32%.\n\nA score is not the fraction of papers accepted by human journals: failed runs receive zero and passing runs receive a rubric share awarded by AI reviewers. Nearly half of Neon runs passing numeric checks failed review, illustrating why a computational result is not sufficient on its own. Configuration, costs and private tasks limit generalization; no task or judging process was independently reproduced.",
+ "highlights": [
+  "Fifty-four of fifty-six tasks are used",
+  "Two GPU tasks are excluded",
+  "Numeric validation and AI review are separate gates",
+  "Rubric-weighted score differs from pure pass rate",
+  "Reported lead is configuration-specific",
+  "No human journal acceptance is established",
+  "Private tasks constrain independent replication"
+ ]
+}

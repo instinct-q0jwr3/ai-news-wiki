@@ -1,0 +1,14 @@
+{
+ "id": "4ecbfdafaeec",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A social post from bebuu_ai describes a Fireworks ultra-fast Kimi K3.1 Pro endpoint at a premium over regular and high-speed alternatives, with a stated million-token context window. It quotes vendor speed targets for generation and agentic coding.\n\nThese are a third-party post's reported prices and performance claims, not a fresh official endpoint or checkout verification. The exact availability, billing unit treatment and workload behind the speed multipliers were not inspected. Faster generation need not mean proportionally faster end-to-end work, and no request, API key or purchase was made.",
+ "highlights": [
+  "Third-party post reports the endpoint",
+  "Premium is compared with two other offerings",
+  "One-million-token context is claimed",
+  "Speed targets are not independently measured",
+  "End-to-end latency can differ from generation speed",
+  "No endpoint or billing account was tested"
+ ]
+}

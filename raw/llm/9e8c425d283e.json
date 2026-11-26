@@ -1,0 +1,14 @@
+{
+ "id": "9e8c425d283e",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "An analysis on micjm.com interprets lower output and reasoning token usage in its real-work battle system as evidence that Astra and Sol 6.2 may be tuned for cost control. It compares spending and Elo against opponents and reports significance tests for reductions relative to earlier versions.\n\nThe visible text does not establish OpenAI's internal motivation or a general degradation on every task. Task mix, serving configuration and battle-system selection can affect the result; significance of a token reduction is not the same as proof of intentional underthinking. This is separate from the documented launch billing correction and was not independently reproduced.",
+ "highlights": [
+  "Evidence comes from one battle system",
+  "Output and reasoning token changes are reported",
+  "Cost-control motive is an inference",
+  "Task mix and configuration matter",
+  "P-values do not establish company intent",
+  "Billing correction is a separate mechanism"
+ ]
+}

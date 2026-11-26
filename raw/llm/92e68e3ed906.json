@@ -1,0 +1,15 @@
+{
+ "id": "92e68e3ed906",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Sand.ai announces MAGI-2, scaling its sparse audio-video model to 480 billion total and about twenty-eight billion active parameters with four trillion training tokens. The vendor describes up to thirty-second 1080p outputs, multiple references, editing and timeline control, and reports preference gains over its preview.\n\nThe page says 1080p uses a dedicated upscaler and presents selected demos and vendor evaluations rather than an independent quality audit. Early reasoning examples were tested without prompt enhancement, but the authors say those behaviors became harder to elicit after aesthetics-focused post-training. Planned open-source releases and a technical report are future work, not verified downloadable availability. No video generation, Sudoku validation or model execution occurred here.",
+ "highlights": [
+  "Total and active parameters differ",
+  "1080p output includes an upscaling stage",
+  "Reference and timeline features are vendor claims",
+  "Preference increase compares with its own preview",
+  "Post-training can trade reasoning elicitation for polish",
+  "Open-source release is promised rather than inspected",
+  "No generated example was independently scored"
+ ]
+}

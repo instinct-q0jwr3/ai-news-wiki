@@ -1,0 +1,15 @@
+{
+ "id": "c63b4f8475ce",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Perplexity introduces Time Machine for Search and Context APIs, serving stored page copies at or before a requested cutoff rather than the live web. The vendor describes up to a year of history at launch, intended to reduce hindsight leakage in research replay and forecasting evaluations.\n\nThe time boundary applies to its available crawl history, not a complete archive of every past webpage, and cannot remove knowledge already present in a model's weights. Vendor comparisons use automated leakage judgments, not proof of zero contamination; its own tests still flagged some returned material. Listed launch pricing is $5 per thousand searches and $1 per thousand context URLs, without historical surcharge, not a quote verified in an account. No API key or example request was used.",
+ "highlights": [
+  "Search and full-page retrieval share a cutoff",
+  "Results come from stored copies rather than live sites",
+  "Coverage depends on crawl history",
+  "Model-weight knowledge is a separate leakage channel",
+  "Vendor leakage judge found nonzero flagged pages",
+  "Reported forecast scores are setting-specific",
+  "No historical request or purchase was made"
+ ]
+}

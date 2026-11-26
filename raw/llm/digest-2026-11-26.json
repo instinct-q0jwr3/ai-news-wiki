@@ -4,7 +4,8 @@
  "model": "agent-pass",
  "lead": [
   "The first update separates two ChatGPT usage changes and reports a proposed sale of sensitive chatbot data under legal challenge. Directly confirmed photography guidance, child-safety reporting and hardware tracing keep their scopes explicit; bare-metal inference and desktop wrappers remain demonstrations with different dependencies.",
-  "The late-morning update pairs concrete human review of generated expressions with competing accounts of AI privacy and security. Market rotation, memory shortages and reported shipment restrictions remain dated observations rather than universal conclusions; vendor offers and personal complaints keep their evidence limits visible."
+  "The late-morning update pairs concrete human review of generated expressions with competing accounts of AI privacy and security. Market rotation, memory shortages and reported shipment restrictions remain dated observations rather than universal conclusions; vendor offers and personal complaints keep their evidence limits visible.",
+  "The afternoon adds primary-grounded Google access-policy reporting, evaluation results with clear setting limits, and tools for historical retrieval and approximate model-state transfer. Rumored releases and broad mathematical claims remain separated from verified identity, independent proof checking and account-level availability."
  ],
  "sections": [
   {
@@ -109,6 +110,110 @@
    "intro": "The newer feed framing points to Aaronson's existing post; secret algorithm claims remain unverified.",
    "stories": [
     "06e0210b5e27"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Google access rules have dates and defined data categories",
+   "intro": "Primary Google documents ground the policy report; they do not authorize any account migration.",
+   "stories": [
+    "8cbf90db977e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Rumored releases and cost tuning remain different kinds of inference",
+   "intro": "Selected outputs, token statistics and launch billing corrections do not establish secret model identity or company motive.",
+   "stories": [
+    "8b39fa8ea2ac",
+    "9e8c425d283e",
+    "adc827bd4227",
+    "25f2480c5106"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Effort and boundary behavior depend on the evaluation setting",
+   "intro": "Goodhart and Siren separate task effects, misaligned behavior and safeguards without converting test rates into production probabilities.",
+   "stories": [
+    "2571281d93da",
+    "06ebf62a3dbd",
+    "3418b3fe43db"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A mathematical weekend and selected optimizer results are not universal verification",
+   "intro": "Authors describe useful progress, web-assisted cases and limits that broad superhuman headlines can obscure.",
+   "stories": [
+    "9899e93afb4e",
+    "dabd32358094"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Cached history and translated state reduce different costs",
+   "intro": "Time Machine controls retrieved dates; speculative encoding approximates model state with measurable retention limits.",
+   "stories": [
+    "c63b4f8475ce",
+    "545478b8b604"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Model lineage and context workflows need cautious interpretation",
+   "intro": "Timing fingerprints are indirect, while setup advice and a swarm audit remain individual workflows.",
+   "stories": [
+    "31126e389ea7",
+    "33f0b104bcf8",
+    "1ffa5684592c"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Video scale adds creative control and a post-training tradeoff",
+   "intro": "MAGI-2 reports stronger output while noting that some pretrained reasoning became harder to elicit.",
+   "stories": [
+    "92e68e3ed906",
+    "4ecbfdafaeec"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Privacy pilots and router claims do not replace a threat-model audit",
+   "intro": "A limited OpenAI test and a startup profile describe different services and levels of evidence.",
+   "stories": [
+    "0bd7d8c603b3",
+    "5022da0e52e1"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Power and consciousness essays depend on their assumptions",
+   "intro": "Subjective concentration forecasts and proposed non-conscious architectures are arguments, not present empirical verdicts.",
+   "stories": [
+    "15785879a1dc",
+    "1513d07c189b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Style and authority are cultural questions, not authorship tests",
+   "intro": "Essays and selected quotations question institutional authority and homogenized expression without establishing AI provenance.",
+   "stories": [
+    "761c68c3bfc3",
+    "3496a550d8ea",
+    "e0d2ee08f364"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Financing, components and a researcher move carry distinct scopes",
+   "intro": "VC allocation reports, Avicena's raise and Shihipar's move do not establish a shared product outcome.",
+   "stories": [
+    "1607406f830b",
+    "f9f0139203a4",
+    "b71b6d69a178"
    ],
    "concepts": []
   }

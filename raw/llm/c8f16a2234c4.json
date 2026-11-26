@@ -1,0 +1,13 @@
+{
+ "id": "c8f16a2234c4",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A second feed entry points to TestingCatalog's collection of rumored Opus 5.6 outputs. It carries the same examples and uncertainty as [the original article index](../summaries/8b39fa8ea2ac.md), not a second independent report.\n\nSelected animations and tester labels cannot authenticate a model release. The article says there is no official confirmation and does not provide a systematic test across users, tasks or repeated runs. No code or media sample was executed.",
+ "highlights": [
+  "Same source as the earlier article index",
+  "No independent corroboration is added",
+  "Underlying model identity is unverified",
+  "Examples are selected rather than systematic",
+  "No universal rollout is established"
+ ]
+}

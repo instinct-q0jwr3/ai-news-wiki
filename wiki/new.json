@@ -1,71 +1,173 @@
 {
- "generated_at": "2026-11-26T10:27:17+00:00",
+ "generated_at": "2026-11-26T16:28:48+00:00",
  "stories": [
   {
-   "id": "5f1975d3acd1",
-   "title": "Moat: Your OpenRouter Replacement",
+   "id": "8cbf90db977e",
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
    "source": "Hacker News",
-   "url": "https://commandcode.ai/moat"
+   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
   },
   {
-   "id": "4e5f0ebfe759",
-   "title": "Show HN: Synth Patch Hero",
+   "id": "8b39fa8ea2ac",
+   "title": "Testers believe they're from Claude Opus 5.6 via 5.5 Extra",
    "source": "Hacker News",
-   "url": "https://swarkentin.github.io/synth-patch-hero/"
+   "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/"
   },
   {
-   "id": "298d6526450f",
-   "title": "Claude tries to sabotage research work at every stage",
+   "id": "9e8c425d283e",
+   "title": "OpenAI may be in cost control mode",
    "source": "Hacker News",
-   "url": "https://twitter.com/skirano/status/2125371115979641188"
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/"
   },
   {
-   "id": "f098b58217c5",
-   "title": "Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices",
+   "id": "761c68c3bfc3",
+   "title": "Authority Instead of Substance: How AI Exposed the Emptiness of Expert Discourse",
+   "source": "Hacker News",
+   "url": "https://medium.com/@smoking2man/authority-instead-of-substance-how-ai-exposed-the-emptiness-of-expert-discourse-fe54780aba53"
+  },
+  {
+   "id": "dabd32358094",
+   "title": "GPT 6.2 Astra is superhuman in mathematical optimization",
+   "source": "TLDR AI",
+   "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html"
+  },
+  {
+   "id": "15785879a1dc",
+   "title": "Paths to extreme power concentration",
+   "source": "TLDR AI",
+   "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration"
+  },
+  {
+   "id": "33f0b104bcf8",
+   "title": "How my context engineering changed for Gemini 4 Neon",
+   "source": "TLDR AI",
+   "url": "https://www.philschmid.de/gemini-4-neon-context-engineering"
+  },
+  {
+   "id": "1ffa5684592c",
+   "title": "Trying /swarm in Google Antigravity",
+   "source": "TLDR AI",
+   "url": "https://flaviocopes.com/antigravity-swarm/"
+  },
+  {
+   "id": "3496a550d8ea",
+   "title": "Quoting Jack Despain Zhou",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
+  },
+  {
+   "id": "25f2480c5106",
+   "title": "Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs",
    "source": "Techmeme",
-   "url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC"
+   "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
   },
   {
-   "id": "256481b768ec",
-   "title": "Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data",
+   "id": "2571281d93da",
+   "title": "Fable 5.2 Tries Less on Some Hard Tasks",
+   "source": "TLDR AI",
+   "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
+  },
+  {
+   "id": "3418b3fe43db",
+   "title": "FrontierPhysics Shows Wide Gaps Across Physics Fields",
+   "source": "TLDR AI",
+   "url": "https://x.com/artificialanlys/status/2125691597602058284"
+  },
+  {
+   "id": "c8f16a2234c4",
+   "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/#google_vignette?utm_source=tldrai"
+  },
+  {
+   "id": "e0d2ee08f364",
+   "title": "Pluralistic: Charles Koch is a cult leader (26 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/26/science-of-liberty/"
+  },
+  {
+   "id": "adc827bd4227",
+   "title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster",
    "source": "Techmeme",
-   "url": "https://www.reuters.com/world/data-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-2026-11-26/"
+   "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster"
   },
   {
-   "id": "be423b6ffbe1",
-   "title": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
-   "source": "Lobsters",
-   "url": "https://www.siddharthaprasad.com/papers/pafk-pick.pdf"
+   "id": "0bd7d8c603b3",
+   "title": "OpenAI Begins Testing Private Inference",
+   "source": "TLDR AI",
+   "url": "https://x.com/sama/status/2125638790593274259"
   },
   {
-   "id": "8d71583b24d4",
-   "title": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts",
+   "id": "1607406f830b",
+   "title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65"
+   "url": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11"
   },
   {
-   "id": "e27353d07d1f",
-   "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more",
-   "source": "Techmeme",
-   "url": "https://conversationswithtyler.com/episodes/moxie-marlinspike/"
+   "id": "06ebf62a3dbd",
+   "title": "Measuring and mitigating agent sandbox escape with Siren",
+   "source": "TLDR AI",
+   "url": "https://safeguards.anthropic.com/2026/siren/"
   },
   {
-   "id": "816c6bc42ebf",
-   "title": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals",
-   "source": "Techmeme",
-   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
+   "id": "1513d07c189b",
+   "title": "Qualiaphobic Artificial Neural Networks",
+   "source": "TLDR AI",
+   "url": "https://bicamerallabs.org/qualiaphobia/"
   },
   {
-   "id": "06e0210b5e27",
-   "title": "leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown",
-   "source": "Techmeme",
-   "url": "https://scottaaronson.blog/?p=10379"
+   "id": "545478b8b604",
+   "title": "Speculative Encoding: Many-to-Many Cache Translation",
+   "source": "TLDR AI",
+   "url": "https://x.com/RampLabs/status/2125625946229064118"
   },
   {
-   "id": "42156ea35ae5",
-   "title": "Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia, as the US steps up export controls",
+   "id": "f9f0139203a4",
+   "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD",
    "source": "Techmeme",
-   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?accessToken=zwAAAaKuNQQ-lc82jEUmoM5JUdOoR_A5rypRr894OKcVB9RGBdOqYCH1rysjcM8_V3g53u1A9NOvn7-PtUiQ488yW5PWvC5N09OZQc9GiKyhHdO5lhOroTBLn9OMFcQdt82IlAE.MEUCIAPJOFlcs0Bojv5ln7BmjmdLTj5dPHWXAdsn-FuOch_SAiEA5Eu4HIM2_h5rJDnldWxSlTi5axDZdg9vO7b_UplS1Nk&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902"
+   "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai"
+  },
+  {
+   "id": "9899e93afb4e",
+   "title": "A weekend of machine mathematics",
+   "source": "TLDR AI",
+   "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/"
+  },
+  {
+   "id": "b71b6d69a178",
+   "title": "Thariq Shihipar joins OpenAI after leaving Anthropic in October, saying he felt he could \"personally contribute the most\" to bringing AI to the world at OpenAI (@trq212)",
+   "source": "Techmeme",
+   "url": "https://x.com/trq212"
+  },
+  {
+   "id": "92e68e3ed906",
+   "title": "MAGI-2: A 480B Frontier Video Generation Model",
+   "source": "TLDR AI",
+   "url": "https://sand.ai/blog/magi-2/"
+  },
+  {
+   "id": "4ecbfdafaeec",
+   "title": "Fireworks AI is bringing an ultra-fast version of Kimi K3.1 Pro",
+   "source": "TLDR AI",
+   "url": "https://x.com/bebuu_ai/status/2125829912875696279"
+  },
+  {
+   "id": "c63b4f8475ce",
+   "title": "Perplexity Time Machine",
+   "source": "TLDR AI",
+   "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine"
+  },
+  {
+   "id": "5022da0e52e1",
+   "title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August",
+   "source": "Techmeme",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai"
+  },
+  {
+   "id": "31126e389ea7",
+   "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!",
+   "source": "TLDR AI",
+   "url": "https://modaic.dev/blog/latency-doesnt-lie"
   }
  ]
 }

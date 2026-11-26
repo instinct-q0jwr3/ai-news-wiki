@@ -1,0 +1,19 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Speculative Encoding: Many-to-Many Cache Translation · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1795710890"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>Speculative Encoding: Many-to-Many Cache Translation</h1>
+<p class="meta">type: news-summary · created: 2026-11-26 · updated: 2026-11-26 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Ramp Labs presents speculative encoding, a learned translator that maps hidden states between seven frozen models across forty-two directions so a receiver can avoid repeating some prefill work. It reports 96.9% average native-accuracy retention on tasks up to eight thousand tokens and latency gains on longer document questions.</p>
+<p>Retention is relative accuracy, not exact context equivalence or guaranteed preservation of every detail. Long-context tests assume the source memory already exists, use small document samples and show declining retention as length grows. A query-conditioned compressor helps on targeted questions but is not a lossless general memory transfer. The trained translator and alignment layers are additional machinery; no package, cache or benchmark was run here.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Seven models span four families</li>
+<li>One shared translator covers forty-two directions</li>
+<li>Reported retention is a ratio to native accuracy</li>
+<li>Long-context timing assumes precomputed source memory</li>
+<li>Retention declines on longer documents</li>
+<li>Query-conditioned compression is task-dependent</li>
+<li>No exact or lossless state transfer is demonstrated</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://x.com/RampLabs/status/2125625946229064118">Read the original story</a> · <a href="https://tldr.tech/ai/2026-11-26">TLDR AI issue</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p class="meta">No related entity or concept page yet.</p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

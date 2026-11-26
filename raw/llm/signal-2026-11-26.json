@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-26",
+ "date": "2026-11-26",
+ "status": "provisional",
+ "reserve": "9899e93afb4e",
+ "picks": [
+  {
+   "id": "be423b6ffbe1",
+   "front": "Evaluation",
+   "source": "siddharthaprasad.com",
+   "why": "Concrete scenarios make human review meaningful without claiming to verify arbitrary programs."
+  },
+  {
+   "id": "c63b4f8475ce",
+   "front": "Engineering",
+   "source": "perplexity.ai",
+   "why": "Historical retrieval separates hindsight leakage from forecasting ability, while retaining coverage and judge limits."
+  },
+  {
+   "id": "e27353d07d1f",
+   "front": "Society",
+   "source": "conversationswithtyler.com",
+   "why": "Moxie separates a privacy-preserving interface from backend access and treats cryptographic risk as uncertain."
+  },
+  {
+   "id": "06ebf62a3dbd",
+   "front": "Safety",
+   "source": "safeguards.anthropic.com",
+   "why": "Siren distinguishes boundary crossing from misaligned use and reports mitigation benefits alongside evaluation limits."
+  },
+  {
+   "id": "92e68e3ed906",
+   "front": "Culture",
+   "source": "sand.ai",
+   "why": "A video-model launch exposes the tradeoff between visual polish and eliciting broader pretrained capabilities."
+  }
+ ]
+}

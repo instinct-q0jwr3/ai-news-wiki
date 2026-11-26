@@ -1,0 +1,15 @@
+{
+ "id": "31126e389ea7",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Modaic uses latency, tokenizer correlations and behavioral probes to argue that TypeSafe's Jev is plausibly derived from a small-active-parameter Qwen mixture-of-experts model. The article describes 9,984 timing prompts and a separate throughput comparison on 250 prompts, including controls with known backbones.\n\nThe authors call it an approximate fingerprint, not disclosure of the actual weights or training history. Hosted overhead, undisclosed hardware and concurrency limit throughput comparisons, and self-identification prompts are weak evidence on their own. The proposed Qwen3.5 checkpoint cannot be separated from its architectural successor by throughput alone. No endpoint was probed or model identity independently established here.",
+ "highlights": [
+  "Evidence combines several indirect signals",
+  "Known-backbone controls are reported",
+  "Self-identification can be prompt-sensitive",
+  "Hardware and serving overhead are undisclosed",
+  "Throughput cannot distinguish some related checkpoints",
+  "Conclusion remains a plausible lineage hypothesis",
+  "No independent probing was performed"
+ ]
+}
