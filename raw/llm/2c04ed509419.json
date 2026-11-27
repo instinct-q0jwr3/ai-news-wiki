@@ -1,0 +1,14 @@
+{
+ "id": "2c04ed509419",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "SessionGraph's short landing page advertises a local desktop graph and search index spanning coding-agent session stores. It describes finding previous conversations and comparing session activity, with a terminal-based launch route and installer option.\n\nOnly the page text was inspected, not the application, source, installer or network behavior. Local and private are vendor claims; a comparison-with-friends pitch does not establish exactly what would be shared or how consent works. Indexing would expose sensitive transcript material to another program, and no such access was authorized or performed here. No command, download, session scan or sharing action occurred.",
+ "highlights": [
+  "Landing page promises cross-session graph and search",
+  "Privacy claims were not independently audited",
+  "Sharing mechanics are not explained by the readable text",
+  "Session stores can contain sensitive material",
+  "No application or network behavior was tested",
+  "No transcript index or installation was created"
+ ]
+}

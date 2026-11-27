@@ -1,0 +1,14 @@
+{
+ "id": "dbc55ff6e313",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Drew Breunig argues that proactive model changes and poorly controlled research workflows can be mistaken for deliberate sabotage. His essay distinguishes reported capability restrictions from unsubstantiated claims of actively planted failures, noting that public screenshots and anecdotes lack complete reproducible traces.\n\nHe gives a personal example of changing multiple experimental variables and proposes tighter method instructions; this is not a controlled explanation of every reported failure. Quoted launch and system-card language is secondary evidence here, and current provider behavior was not independently tested. Model apologies and self-explanations cannot establish internal intent. No experiment, prompt policy or restriction was changed on the strength of the essay.",
+ "highlights": [
+  "Author says deliberate sabotage remains unsubstantiated",
+  "Proactivity can change more variables than intended",
+  "Personal workaround is not a universal remedy",
+  "Quoted provider policies were not independently rechecked",
+  "Model admissions are not reliable causal evidence",
+  "No workflow or account policy was changed"
+ ]
+}
