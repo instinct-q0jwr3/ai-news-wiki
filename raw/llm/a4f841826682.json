@@ -1,0 +1,15 @@
+{
+ "id": "a4f841826682",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Shiwei Liu traces a research path from compression to underused Transformer depth and repeated computation with shared weights. The retrospective distinguishes LOOM's fixed-decay residual memory from InfiLoop's learned temporal and content weighting, arguing that extra computation must preserve useful progress rather than overwrite it.\n\nThe reported 700M-model LOOM comparison approximately matches a compute proxy, with one five-loop setting using about seven percent more; it does not show universal superiority over non-looped models. Constant residual-memory size does not make total inference cost or KV storage constant. Long Sudoku recurrence, compression and speedups refer to separate experiments, not unlimited general reasoning. No architecture or benchmark was run.",
+ "highlights": [
+  "Personal research retrospective rather than full survey",
+  "Compression motivates studying useful depth",
+  "LOOM and InfiLoop use distinct memory rules",
+  "Matched compute is approximate and proxy-dependent",
+  "Extra loops can overwrite earlier correct states",
+  "Constant summary state is not constant total cost",
+  "Claims remain limited to tested settings"
+ ]
+}

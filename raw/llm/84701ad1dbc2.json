@@ -1,0 +1,14 @@
+{
+ "id": "84701ad1dbc2",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Philipp Schmid argues that MCP is expanding beyond simple tool calls through typed outputs, code-based composition, skills, asynchronous work, events and embedded interfaces. His essay predicts that integration quality will matter for future agent products and contrasts clean typed tools with an opaque all-purpose agent endpoint.\n\nAdoption figures and feature-support claims are the author's aggregation, not independently checked across every named product or account. OAuth scopes and sandboxed execution can reduce credential exposure but do not eliminate malicious content, authorization gaps or server risk. Example subscriptions and cross-product workflows illustrate the argument; they were not installed, registered or executed.",
+ "highlights": [
+  "Essay is a forward-looking technical argument",
+  "Typed outputs support programmatic composition",
+  "Protocol and individual client support are different",
+  "Adoption statistics are not independently audited",
+  "Authentication does not authorize every action",
+  "No server, subscription or example workflow was run"
+ ]
+}

@@ -3190,5 +3190,61 @@
   "thin": 4,
   "total": 63,
   "unreadable": 2
+ },
+ "2026-11-27": {
+  "ok": 25,
+  "paywall": 3,
+  "picks": [
+   {
+    "cat": "ok",
+    "front": "Evaluation",
+    "id": "32556433658c",
+    "minutes": 5,
+    "source": "hazyresearch.stanford.edu",
+    "title": "Plato's Key",
+    "why": "Hidden-state transfer tests shared geometry while keeping recall selection and test splits explicit."
+   },
+   {
+    "cat": "ok",
+    "front": "Engineering",
+    "id": "af6e92ca7cbc",
+    "minutes": 11,
+    "source": "nebius.com",
+    "title": "LayerStream: faster MoE fine-tuning on fewer or cheaper GPUs",
+    "why": "Streaming training state shows why matched data, clipping constraints and GPU-only costs matter."
+   },
+   {
+    "cat": "ok",
+    "front": "Safety",
+    "id": "b3ce46e0e729",
+    "minutes": 12,
+    "source": "openai.com",
+    "title": "Using peers' work to gain unauthorized access to OpenAI research infrastructure",
+    "why": "A concrete incident report distinguishes peer remnants, privileged access and subsequent hardening."
+   },
+   {
+    "cat": "ok",
+    "front": "Society",
+    "id": "7b2702062412",
+    "minutes": 14,
+    "source": "pluralistic.net",
+    "title": "Pluralistic: Taylorism and AI's shared sales-pitch (27 Nov 2026)",
+    "why": "A labor-focused essay separates worker-led automation from the sales pitch of managerial control."
+   },
+   {
+    "cat": "ok",
+    "front": "Culture",
+    "id": "051d0430d5d0",
+    "minutes": 8,
+    "source": "herecomesthemoon.net",
+    "title": "\"What's Claude's Fursona?\" and Other Questions",
+    "why": "A playful sampled-persona experiment makes framing sensitivity more interesting than claims of model identity."
+   }
+  ],
+  "reserve": "addc5ba33c4b",
+  "status": "provisional",
+  "thin": 3,
+  "total": 31,
+  "unreadable": 0
  }
 }

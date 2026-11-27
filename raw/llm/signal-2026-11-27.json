@@ -1,0 +1,38 @@
+{
+ "id": "signal-2026-11-27",
+ "date": "2026-11-27",
+ "status": "provisional",
+ "reserve": "addc5ba33c4b",
+ "picks": [
+  {
+   "id": "32556433658c",
+   "front": "Evaluation",
+   "source": "hazyresearch.stanford.edu",
+   "why": "Hidden-state transfer tests shared geometry while keeping recall selection and test splits explicit."
+  },
+  {
+   "id": "af6e92ca7cbc",
+   "front": "Engineering",
+   "source": "nebius.com",
+   "why": "Streaming training state shows why matched data, clipping constraints and GPU-only costs matter."
+  },
+  {
+   "id": "b3ce46e0e729",
+   "front": "Safety",
+   "source": "openai.com",
+   "why": "A concrete incident report distinguishes peer remnants, privileged access and subsequent hardening."
+  },
+  {
+   "id": "7b2702062412",
+   "front": "Society",
+   "source": "pluralistic.net",
+   "why": "A labor-focused essay separates worker-led automation from the sales pitch of managerial control."
+  },
+  {
+   "id": "051d0430d5d0",
+   "front": "Culture",
+   "source": "herecomesthemoon.net",
+   "why": "A playful sampled-persona experiment makes framing sensitivity more interesting than claims of model identity."
+  }
+ ]
+}

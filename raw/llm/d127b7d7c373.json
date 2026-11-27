@@ -1,0 +1,14 @@
+{
+ "id": "d127b7d7c373",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The Guardian reports a UK sandbox trial in which a Papa John's agent ordered nine mini pizzas and initiated an account-to-account payment with Lloyds and TrueLayer. Participants described setting a mandate with spending limits and confirming the order, without giving the agent raw banking security information.\n\nThe first-purchase claim is attributed to TrueLayer, not an independently audited history of all UK payments. This was a regulated test, not universal public availability or proof that agents can spend without approval. Predictions about next year's shopping and statements about consumer protection are participant claims, not a verified remedy for every mistake. No bank access, mandate, order or payment was initiated here.",
+ "highlights": [
+  "Reported trial uses bank-to-bank rather than card payment",
+  "Mandate includes per-transaction and monthly limits",
+  "Customer confirmation remains part of the account",
+  "First claim belongs to the payment provider",
+  "Sandbox trial differs from general rollout",
+  "No purchase or banking action occurred"
+ ]
+}

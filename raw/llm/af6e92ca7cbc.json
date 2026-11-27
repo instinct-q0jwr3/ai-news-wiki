@@ -1,0 +1,15 @@
+{
+ "id": "af6e92ca7cbc",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Nebius describes LayerStream, a managed MoE training engine that moves optimizer state and saved activations into host memory and streams layer working state through GPUs. Its vendor tests report a Qwen pass over 25.8 million tokens falling from 22.4 to 7.1 minutes on the same sixteen H200 GPUs.\n\nThe main GLM cost and throughput comparison uses different data and an RL-loss baseline; separate matched-data loss checks cover only eighteen steps and do not prove equal downstream quality. Updates happen before full-model gradient norms are available, so exact global gradient clipping is unsupported. GPU-only cost extrapolations use dated vendor prices, not full bills or measured billion-token runs. No job, API or cloud spend was started.",
+ "highlights": [
+  "Mechanism trades GPU residency for host streaming",
+  "Same-hardware Qwen comparison is vendor-reported",
+  "Main GLM baseline differs in data and loss",
+  "Separate matched loss test spans one short epoch",
+  "Exact global gradient clipping is unsupported",
+  "Costs exclude non-GPU service overhead",
+  "No training or purchase was initiated"
+ ]
+}

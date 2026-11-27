@@ -1,0 +1,14 @@
+{
+ "id": "08a8a4e2274b",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Andrew Trask proposes measuring recursive self-improvement through fixed-threshold sample complexity and counterfactual research productivity, rather than compute allocation or code-review counts alone. The essay argues that reduced human involvement does not itself demonstrate an improved training algorithm.\n\nSuggested no-AI research groups and replayed engineering tasks are proposed experiments, not completed measurements. A fixed smaller threshold may not capture all scale-dependent improvements, while attribution needs care about data, compute and human ideation. The text is explicitly the author's personal view, not an employer policy or established statutory definition. No experiment, staffing rule or model operation was applied.",
+ "highlights": [
+  "Proposal separates capability growth from algorithmic improvement",
+  "Sample complexity uses a fixed capability target",
+  "Counterfactual groups aim to measure AI contribution",
+  "Review counts alone cannot establish causal improvement",
+  "Suggested experiments have costs and validity limits",
+  "No measured RSI result or adopted law is established"
+ ]
+}

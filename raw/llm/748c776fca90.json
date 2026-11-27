@@ -1,0 +1,14 @@
+{
+ "id": "748c776fca90",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "TestingCatalog reports an in-development Google Drive browsing interface for Claude, with document search and filtering shown as a possible dedicated navigation item. It suggests the design could eventually connect with Projects and existing conversational document features.\n\nThe article says final placement, file-management scope and release timing remain unclear. Embedded older announcements about existing connectors do not establish that the new browser is released, available on every account or covered by unchanged permissions. Moving files and adding project context are described possibilities, not independently tested capabilities. No Google connection, file access or account setting was changed.",
+ "highlights": [
+  "Report concerns development rather than confirmed release",
+  "Existing connectors and new browsing UI are distinct",
+  "Project integration is speculative",
+  "Release timing and scope remain unresolved",
+  "No account availability was tested",
+  "No file or connector action occurred"
+ ]
+}

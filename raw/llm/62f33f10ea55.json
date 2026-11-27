@@ -1,0 +1,14 @@
+{
+ "id": "62f33f10ea55",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "TestingCatalog describes an upcoming Hermes Desktop redesign and a wider roadmap including bots, mobile access and proactivity. It attributes readiness comments to Teknium and detailed interface descriptions and some dates to an explicitly unofficial release-watch account.\n\nEarly-next-week availability is an expectation, not a verified launch, and the article leaves the Google teaser unexplained. Prototype designs, roadmap entries and an open proactivity pull request should not become claims of currently working features. No desktop app, bot, integration, scheduled job or subscription was created.",
+ "highlights": [
+  "Desktop redesign is reported as awaiting final fixes",
+  "Some design claims come from an unofficial account",
+  "Mobile and bots are roadmap items",
+  "Proactivity work is not established complete",
+  "Unexplained Google teaser remains unresolved",
+  "No installation or automation occurred"
+ ]
+}

@@ -1,12 +1,6 @@
 {
- "generated_at": "2026-11-27T10:32:45+00:00",
+ "generated_at": "2026-11-27T16:34:01+00:00",
  "stories": [
-  {
-   "id": "26f1c5b646e4",
-   "title": "The group chat where your AI talks behind your back",
-   "source": "Hacker News",
-   "url": "https://construct22.com/"
-  },
   {
    "id": "b69b9ba3c902",
    "title": "Claude sabotaging SOTA ML research tasks",
@@ -14,22 +8,124 @@
    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
   },
   {
-   "id": "051d0430d5d0",
-   "title": "\"What's Claude's Fursona?\" and Other Questions",
+   "id": "9c76a60cb0f6",
+   "title": "Kimi for Science: More scientific ideas, made possible",
    "source": "Hacker News",
-   "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
+   "url": "https://www.kimi.ai/news/kimi-for-science-program"
   },
   {
-   "id": "d833191bd6c8",
-   "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off",
+   "id": "a4b68b05db24",
+   "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+   "source": "Hacker News",
+   "url": "https://bouncemarket.minhanhday.com/"
+  },
+  {
+   "id": "2dbd4abcb2a2",
+   "title": "AI on brink of making online security useless, mathematicians fear",
+   "source": "Hacker News",
+   "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8"
+  },
+  {
+   "id": "d127b7d7c373",
+   "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer"
+  },
+  {
+   "id": "997bc2cf4472",
+   "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+   "source": "Hacker News",
+   "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/"
+  },
+  {
+   "id": "addc5ba33c4b",
+   "title": "Your Model Is a Dependency",
+   "source": "TLDR AI",
+   "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html"
+  },
+  {
+   "id": "163cf690cfbb",
+   "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/"
+   "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html?unlocked_article_code=1.TlE.eHV_.2f70GvuLgZxe&smid=nytcore-ios-share"
   },
   {
-   "id": "00511b3b26a9",
-   "title": "Curb impacts of AI on programming to maintain EU sovereignty",
-   "source": "Lobsters",
-   "url": "https://www.draketo.de/software/curb-ai-impact"
+   "id": "748c776fca90",
+   "title": "Anthropic prepares Google Drive file browser for Claude",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude/"
+  },
+  {
+   "id": "24377e3ace7c",
+   "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US",
+   "source": "Techmeme",
+   "url": "https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/"
+  },
+  {
+   "id": "7b2702062412",
+   "title": "Pluralistic: Taylorism and AI's shared sales-pitch (27 Nov 2026)",
+   "source": "Pluralistic",
+   "url": "https://pluralistic.net/2026/11/27/taylor-made/"
+  },
+  {
+   "id": "b3ce46e0e729",
+   "title": "Using peers' work to gain unauthorized access to OpenAI research infrastructure",
+   "source": "TLDR AI",
+   "url": "https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/"
+  },
+  {
+   "id": "99a294e1191a",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "source": "TLDR AI",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+  },
+  {
+   "id": "af6e92ca7cbc",
+   "title": "LayerStream: faster MoE fine-tuning on fewer or cheaper GPUs",
+   "source": "TLDR AI",
+   "url": "https://nebius.com/blog/posts/layerstream-moe-fine-tuning"
+  },
+  {
+   "id": "08a8a4e2274b",
+   "title": "Measuring RSI",
+   "source": "TLDR AI",
+   "url": "https://andrewtrask.substack.com/p/measuring-rsi"
+  },
+  {
+   "id": "62f33f10ea55",
+   "title": "Nous Research readies Hermes Desktop redesign for next week",
+   "source": "TLDR AI",
+   "url": "https://www.testingcatalog.com/nous-research-readies-hermes-desktop-redesign-for-next-week/"
+  },
+  {
+   "id": "a4f841826682",
+   "title": "From Model Compression to Looped Transformers",
+   "source": "TLDR AI",
+   "url": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers/"
+  },
+  {
+   "id": "32556433658c",
+   "title": "Plato's Key",
+   "source": "TLDR AI",
+   "url": "https://hazyresearch.stanford.edu/blog/2026-11-25-platos-key"
+  },
+  {
+   "id": "84701ad1dbc2",
+   "title": "Why I'm Bullish on MCP for 2027",
+   "source": "TLDR AI",
+   "url": "https://www.philschmid.de/mcp-2027"
+  },
+  {
+   "id": "b0cd843bc1b5",
+   "title": "Thariq Shihipar has joined OpenAI",
+   "source": "TLDR AI",
+   "url": "https://x.com/trq212/status/2125675533761671405"
+  },
+  {
+   "id": "d3882453ed38",
+   "title": "Do scale-dependent algorithms cut against a software intelligence explosion?",
+   "source": "TLDR AI",
+   "url": "https://newsletter.forethought.org/p/do-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion"
   }
  ]
 }

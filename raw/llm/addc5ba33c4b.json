@@ -1,0 +1,15 @@
+{
+ "id": "addc5ba33c4b",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "César Soto-Valero argues that a deployed model should be managed as a software dependency, together with prompts, tools, retrieval, serving behavior and an exit path. The article proposes pinning versions, repeated paired regression tests, inventories, minimal dependencies, provenance checks and rehearsed fallbacks.\n\nThese are engineering recommendations, not an audit showing a particular system compliant or safe. A model identifier does not pin every serving computation, hashes do not prove trustworthy provenance, and an average gain can hide regressions. Provider retirement dates and legal interpretations in the article were not independently checked for operational reliance. Code samples, lockfile checks and tool-removal suggestions were read only; no account, dependency or policy changed.",
+ "highlights": [
+  "Behavior depends on more than model weights",
+  "Temperature zero is not a reproducibility guarantee",
+  "Paired tests expose regressions hidden by averages",
+  "Inventories and exit plans address concentration risk",
+  "Hashes do not establish a source is trustworthy",
+  "Legal and retirement details need independent current checks",
+  "No code or configuration was applied"
+ ]
+}

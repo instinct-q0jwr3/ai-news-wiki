@@ -1,0 +1,14 @@
+{
+ "id": "a4b68b05db24",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Bouncemarket presents a minimal game for buying shares on the left or right outcome of a bouncing ball. The readable interface describes point-denominated payouts and prices changing with purchased shares, but reveals little about the actual simulation or market mechanism.\n\nThe live animation, randomness, settlement logic and backend were not inspected, so the page cannot establish market efficiency or prediction quality. Feed placement does not establish an AI component, and point labels alone are insufficient to certify every possible payment or account condition. No shares, reset, account or transaction was used.",
+ "highlights": [
+  "Readable interface offers left and right shares",
+  "Winning shares are described as paying points",
+  "Prices reportedly respond to purchases",
+  "Simulation and settlement were not checked",
+  "No AI mechanism was established",
+  "No game action or transaction occurred"
+ ]
+}

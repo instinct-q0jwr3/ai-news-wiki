@@ -1,0 +1,14 @@
+{
+ "id": "d3882453ed38",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Tom Davidson examines whether algorithmic improvements that work better at larger scales weaken forecasts of a software-only intelligence explosion. His central distinction is between measuring progress at rising compute budgets and estimating what could improve if available compute stayed roughly fixed.\n\nHe judges one measurement bias likely small under guessed frequent recalibration, while leaving inaccessible-at-fixed-scale algorithms a larger uncertainty. Specific numerical examples are explicitly invented illustrations, not measured lab gains. The argument depends on model structure and unknown company measurement practices; it is not proof that an intelligence explosion will occur. No training or company-data analysis was performed.",
+ "highlights": [
+  "Scale-dependent gains can inflate fixed-compute extrapolations",
+  "Method of measuring efficiency determines the adjustment",
+  "Illustrative numbers are made up",
+  "Company methodology is explicitly guessed",
+  "Inaccessible algorithms remain an open uncertainty",
+  "No prediction is experimentally established"
+ ]
+}
