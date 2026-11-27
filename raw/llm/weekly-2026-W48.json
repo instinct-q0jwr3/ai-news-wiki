@@ -19,7 +19,8 @@
   "The late-morning update pairs concrete human review of generated expressions with competing accounts of AI privacy and security. Market rotation, memory shortages and reported shipment restrictions remain dated observations rather than universal conclusions; vendor offers and personal complaints keep their evidence limits visible.",
   "The afternoon adds primary-grounded Google access-policy reporting, evaluation results with clear setting limits, and tools for historical retrieval and approximate model-state transfer. Rumored releases and broad mathematical claims remain separated from verified identity, independent proof checking and account-level availability.",
   "The evening adds a reported Z.ai denial that leaves its release timing contested, and separates infrastructure enthusiasm from deskilling concerns. Backup tools, local dictation, bank risk transfers and a proposed SAP restructuring keep their privacy, execution and evidentiary boundaries explicit.",
-  "The first update separates bounded agent research from recursive self-improvement and a bubble-state estimate from an imminent-crash prediction. Product monitoring, authorship detection and legislative proposals keep their claims and evidence limits distinct."
+  "The first update separates bounded agent research from recursive self-improvement and a bubble-state estimate from an imminent-crash prediction. Product monitoring, authorship detection and legislative proposals keep their claims and evidence limits distinct.",
+  "The late-morning update separates fictional AI gossip and sampled personas from claims about model intentions. A research-sabotage allegation remains unverified, while European tooling advocacy and Taiwanese stock outflows keep their dates, sources and decision limits explicit."
  ],
  "sections": [
   {
@@ -1151,6 +1152,32 @@
    "intro": "The original policy article was inaccessible, limiting coverage to the attributed feed excerpt.",
    "stories": [
     "418f6239152b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Generated personas are not hidden opinions or stable identities",
+   "intro": "A fictional group-chat prompt and a sampled animal-persona exercise require different evidence from claims about actual model beliefs.",
+   "stories": [
+    "26f1c5b646e4",
+    "051d0430d5d0"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A sabotage allegation is not an experimental result",
+   "intro": "An opening social post lacks the protocol and artifacts needed to distinguish intent from ordinary research failure.",
+   "stories": [
+    "b69b9ba3c902"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "European tooling proposals and Taiwanese outflows have different scopes",
+   "intro": "One is older policy advocacy; the other is an attributed partial-month financial snapshot.",
+   "stories": [
+    "00511b3b26a9",
+    "d833191bd6c8"
    ],
    "concepts": []
   }
