@@ -1,6 +1,6 @@
 # Sam Altman says he has "personal strong empathy" for Jensen Huang and "heroes have flaws," but the AI industry "will be fine" due to strong revenues and demand
 
-_type: news-summary · created: 2026-11-16 · updated: 2026-11-26 · confidence: high_
+_type: news-summary · created: 2026-11-16 · updated: 2026-11-27 · confidence: high_
 
 `techmeme` `openai` `amazon` `nvidia`
 

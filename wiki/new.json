@@ -1,101 +1,41 @@
 {
- "generated_at": "2026-11-26T22:31:01+00:00",
+ "generated_at": "2026-11-27T04:31:47+00:00",
  "stories": [
   {
-   "id": "5f1975d3acd1",
-   "title": "Moat: Your OpenRouter Replacement",
+   "id": "e9d190edee40",
+   "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
    "source": "Hacker News",
-   "url": "https://commandcode.ai/moat"
+   "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
   },
   {
-   "id": "bf6ca65e393b",
-   "title": "Ask HN: How do you find meaning of life at 41?",
+   "id": "d9ec5b492f50",
+   "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
    "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50657957"
+   "url": "https://www.london.edu/think/ai-bubble-about-to-burst"
   },
   {
-   "id": "9a5dc4c99a94",
-   "title": "AI made self-hosting fun again",
-   "source": "Hacker News",
-   "url": "https://janlukas.blog/posts/ai-self-hosting"
+   "id": "fcffabdb05d5",
+   "title": "Who gets to decide if something is written by AI?",
+   "source": "seangoedecke",
+   "url": "https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/"
   },
   {
-   "id": "8b39fa8ea2ac",
-   "title": "Testers believe they're from Claude Opus 5.6 via 5.5 Extra",
-   "source": "Hacker News",
-   "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/"
-  },
-  {
-   "id": "be3a3f9d4dd6",
-   "title": "'AI' might be the end of our careers",
-   "source": "Hacker News",
-   "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/"
-  },
-  {
-   "id": "97824421ff8e",
-   "title": "Show HN: I wrote an entire Vim manual over 4 years",
-   "source": "Hacker News",
-   "url": "http://themouseless.dev/vim/"
-  },
-  {
-   "id": "567651f2f3ff",
-   "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
-   "source": "Hacker News",
-   "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/"
-  },
-  {
-   "id": "2d26f2a85747",
-   "title": "Back up your Claude Code sessions and use them on any machine",
-   "source": "Hacker News",
-   "url": "https://session-vault.dev/"
-  },
-  {
-   "id": "5512517379e5",
-   "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
-   "source": "Hacker News",
-   "url": "https://github.com/batanus/lip-dictation"
-  },
-  {
-   "id": "19da416a1737",
-   "title": "Banks look to dump AI debt",
-   "source": "Hacker News",
-   "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt"
-  },
-  {
-   "id": "e6261b40aca1",
-   "title": "Top-cited AI scientists at four US companies compared",
-   "source": "Hacker News",
-   "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/"
-  },
-  {
-   "id": "efd8fcdeb990",
-   "title": "The US Government Is Under AI Cyberattack",
-   "source": "Hacker News",
-   "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack"
-  },
-  {
-   "id": "d388a7cb5098",
-   "title": "An Introduction to Uncertainty in Machine Learning",
-   "source": "Hacker News",
-   "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/"
-  },
-  {
-   "id": "3511bab7377a",
-   "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K",
+   "id": "941cfb0ace37",
+   "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX",
    "source": "Techmeme",
-   "url": "https://aftermath.site/n3on-impersonator-ai-prison-260000-dollars-kick-stream/"
+   "url": "https://www.calcalistech.com/ctechnews/article/h18nob7kml"
   },
   {
-   "id": "910065e094ad",
-   "title": "SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era",
+   "id": "1f2bafbcfe5d",
+   "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+   "source": "Latent.Space",
+   "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/"
+  },
+  {
+   "id": "418f6239152b",
+   "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles",
    "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
-  },
-  {
-   "id": "858f0d2641f5",
-   "title": "The World Will Eat AI",
-   "source": "Westenberg",
-   "url": "https://www.joanwestenberg.com/p/the-world-will-eat-ai"
+   "url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html"
   }
  ]
 }

@@ -1,0 +1,44 @@
+{
+ "id": "digest-2026-11-27",
+ "schema": 3,
+ "model": "agent-pass",
+ "lead": [
+  "The first update separates bounded agent research from recursive self-improvement and a bubble-state estimate from an imminent-crash prediction. Product monitoring, authorship detection and legislative proposals keep their claims and evidence limits distinct."
+ ],
+ "sections": [
+  {
+   "title": "Experimental autonomy is not recursive self-improvement",
+   "intro": "A secondary DeepMind account and a Clay interview describe bounded automation alongside remaining human and infrastructure work.",
+   "stories": [
+    "e9d190edee40",
+    "1f2bafbcfe5d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A bubble estimate is not a timed crash forecast",
+   "intro": "A journalism-derived index emphasizes relative intensity, false alarms and asymmetric decision costs.",
+   "stories": [
+    "d9ec5b492f50"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agent visibility and authorship detection both raise authority questions",
+   "intro": "A funded monitoring product and an opinion essay offer different claims about assigning responsibility.",
+   "stories": [
+    "941cfb0ace37",
+    "fcffabdb05d5"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Legislative momentum remains distinct from enacted rules",
+   "intro": "The original policy article was inaccessible, limiting coverage to the attributed feed excerpt.",
+   "stories": [
+    "418f6239152b"
+   ],
+   "concepts": []
+  }
+ ]
+}

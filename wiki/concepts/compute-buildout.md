@@ -1,6 +1,6 @@
 # Concept: Compute and the data-center build-out
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-26 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
 
 `concept` `compute-buildout`
 
@@ -31,6 +31,8 @@ The race for compute links chip supply, energy, financing and geopolitics. This 
 
 ## Timeline
 
+- **2026-11-27** - The Decoder summarizes a DeepMind podcast in which Koray Kavukcuoglu says agents now allocate part of the lab's compute to experiments for Gemini. He describes a shift toward general-purpose models for science and products, with each generation still… ([AI agents now control part of DeepMind's compute for Gemini experiments](../summaries/e9d190edee40.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
+- **2026-11-27** - Latent.Space interviews Clay's Jeff Barg about rebuilding its go-to-market agent around a coding harness, shared data access and a CLI rather than a narrow set of predefined actions. The editorial overview describes saturated lead-qualification evals,… ([How Clay Builds GTM Agents — Jeff Barg, Head of AI](../summaries/1f2bafbcfe5d.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-26** - Cory Doctorow uses Charles Koch's management philosophy to criticize market fundamentalism, motivated reasoning and the use of scientific language to legitimize concentrated power. The essay contrasts long-term business investment with climate denial and… ([Pluralistic: Charles Koch is a cult leader (26 Nov 2026)](../summaries/e0d2ee08f364.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-25** - RCHIVE advertises an offline catalog of files across internal, external and disconnected drives, preserving names, metadata and previews after a source is unplugged. Its organization rules first change a catalog view, with explicit copy or move jobs… ([Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window](../summaries/57937c2b3cce.md) · [Meta](../entities/meta.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-25** - Bloomberg's accessible opening says lenders have paused billions of dollars of loans linked to ByteDance, Alibaba and Tencent as US chip-access curbs create legal uncertainty for Asian data-center and neocloud financing. It describes near-complete deals… ([US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan](../summaries/334ba8edc163.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
@@ -61,9 +63,3 @@ The race for compute links chip supply, energy, financing and geopolitics. This 
 - **2026-11-20** - A Techmeme excerpt of Bloomberg reporting says KKR-backed Helix Digital is discussing a purchase of EdgeCore at a multibillion-dollar valuation. The original article and transaction documents were inaccessible.
 
 An attributed valuation range during talks… ([Helix Digital, launched by KKR to invest in data centers, is in talks to buy EdgeCore in a deal that values the data center operator at $8B to $10B](../summaries/33d26781a5fa.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒
-- **2026-11-20** - A Techmeme excerpt of Axios reporting says President Trump threatened to block overseas data-center construction by US companies or tax it heavily. The primary report was inaccessible.
-
-A reported statement of intent is not an enacted prohibition or… ([Trump says he would block US companies from building data centers overseas or impose a "tremendous tax" on them if they do](../summaries/92275392d7d1.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) ⚠
-- **2026-11-20** - UC San Diego describes an independent community review of OpenAI and Anthropic claims concerning the Exponential Time Hypothesis. The announcement names researchers facilitating discussion, a public review forum and planned meetings.
-
-The institution’s… ([Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result](../summaries/eca405337152.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-26 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-27** - The Decoder summarizes a DeepMind podcast in which Koray Kavukcuoglu says agents now allocate part of the lab's compute to experiments for Gemini. He describes a shift toward general-purpose models for science and products, with each generation still… ([AI agents now control part of DeepMind's compute for Gemini experiments](../summaries/e9d190edee40.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-26** - Philipp Schmid describes simplifying his Gemini 4 Neon coding setup by removing conflicting persistent rules, keeping interfaces precise and using visual references and checks for visual work. The article emphasizes task-specific guidance and deliberate… ([How my context engineering changed for Gemini 4 Neon](../summaries/33f0b104bcf8.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-25** - An anonymous Comentr post reports Gemini twice beginning to output the lyrics of Twinkle Twinkle Little Star, then withdrawing them and displaying a refusal. The accessible text consists of that short account and reactions, with screenshots offered as… ([Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](../summaries/41b215024112.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠
 - **2026-11-25** - Carry advertises automatic local Markdown backups of chats, projects and available files from ChatGPT, Claude, Gemini and Grok, plus cross-provider search and continuation. Its examples show one file per conversation and explicit missing-file markers,… ([Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own](../summaries/6971301ebfd8.md) · [OpenAI](../entities/openai.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md) · [SpaceXAI (xAI)](../entities/xai.md) · [Google Gemini](../entities/gemini.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))

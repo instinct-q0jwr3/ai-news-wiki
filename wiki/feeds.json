@@ -2,14 +2,14 @@
  {
   "name": "Hacker News",
   "url": "https://news.ycombinator.com/",
-  "stories": 1541,
-  "last": "2026-11-26"
+  "stories": 1543,
+  "last": "2026-11-27"
  },
  {
   "name": "Techmeme",
   "url": "https://www.techmeme.com/feed.xml",
-  "stories": 1509,
-  "last": "2026-11-26"
+  "stories": 1511,
+  "last": "2026-11-27"
  },
  {
   "name": "TLDR AI",
@@ -32,8 +32,8 @@
  {
   "name": "Latent.Space",
   "url": "https://www.latent.space/feed",
-  "stories": 78,
-  "last": "2026-11-26"
+  "stories": 79,
+  "last": "2026-11-27"
  },
  {
   "name": "Daring Fireball",
@@ -72,16 +72,16 @@
   "last": "2026-09-26"
  },
  {
+  "name": "seangoedecke",
+  "url": "https://www.seangoedecke.com/rss.xml",
+  "stories": 20,
+  "last": "2026-11-27"
+ },
+ {
   "name": "Works on My Machine",
   "url": "https://worksonmymachine.substack.com/feed",
   "stories": 20,
   "last": "2026-09-25"
- },
- {
-  "name": "seangoedecke",
-  "url": "https://www.seangoedecke.com/rss.xml",
-  "stories": 19,
-  "last": "2026-11-23"
  },
  {
   "name": "Ed Zitron",

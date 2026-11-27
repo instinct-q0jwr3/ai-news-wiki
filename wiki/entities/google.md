@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-26 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-27** - The Decoder summarizes a DeepMind podcast in which Koray Kavukcuoglu says agents now allocate part of the lab's compute to experiments for Gemini. He describes a shift toward general-purpose models for science and products, with each generation still… ([AI agents now control part of DeepMind's compute for Gemini experiments](../summaries/e9d190edee40.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-26** - Tech Stackups argues that Google's new Workspace access rules disadvantage independent AI tools because some high-value actions remain partner-only. Separately read [Google terms](https://workspace.google.com/terms/ai-tools/) and [quota… ([Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](../summaries/8cbf90db977e.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))
 - **2026-11-26** - Cory Doctorow uses Charles Koch's management philosophy to criticize market fundamentalism, motivated reasoning and the use of scientific language to legitimize concentrated power. The essay contrasts long-term business investment with climate denial and… ([Pluralistic: Charles Koch is a cult leader (26 Nov 2026)](../summaries/e0d2ee08f364.md) · [Google](../entities/google.md) · [Amazon](../entities/amazon.md) · [Agentic systems](../concepts/agentic-systems.md) · [Small and specialist models](../concepts/small-specialist-models.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md) · [AI, jobs and displacement](../concepts/labor-displacement.md))
 - **2026-11-26** - Philipp Schmid describes simplifying his Gemini 4 Neon coding setup by removing conflicting persistent rules, keeping interfaces precise and using visual references and checks for visual work. The article emphasizes task-specific guidance and deliberate… ([How my context engineering changed for Gemini 4 Neon](../summaries/33f0b104bcf8.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))

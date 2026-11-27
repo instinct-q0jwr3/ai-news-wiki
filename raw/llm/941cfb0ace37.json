@@ -1,0 +1,14 @@
+{
+ "id": "941cfb0ace37",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "CTech reports a $10 million seed round for Dante Security led by NFX, with Alpha Drive, Inovia and private investors participating. The November 24 article describes a platform intended to trace organizational AI-agent actions to responsible employees and give security teams visibility into use of legitimate credentials.\n\nFunding and founding details are reported by the publication; visibility, compliance and cost-control benefits are company claims, not results of an independent product test. Valid credentials do not establish that an action reflects the employee's intent, but monitoring is also not demonstrated prevention of every malicious instruction. This pass did not inspect architecture, deployment permissions or customer evidence, and did not connect or install any security product.",
+ "highlights": [
+  "Round is reported as seed funding",
+  "Article predates this feed observation by several days",
+  "Platform aims to attribute agent activity to employees",
+  "Credential validity differs from action legitimacy",
+  "Compliance and prevention outcomes were not audited",
+  "No product connection or installation occurred"
+ ]
+}

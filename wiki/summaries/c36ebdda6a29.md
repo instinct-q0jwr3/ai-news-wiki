@@ -1,6 +1,6 @@
 # Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines
 
-_type: news-summary · created: 2026-11-22 · updated: 2026-11-26 · confidence: high_
+_type: news-summary · created: 2026-11-22 · updated: 2026-11-27 · confidence: high_
 
 `techmeme`
 

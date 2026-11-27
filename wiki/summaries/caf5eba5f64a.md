@@ -1,6 +1,6 @@
 # No Bailout for the AI Bubble, Anthropic IPO Protesters Say
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-26 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-27 · confidence: high_
 
 `hacker-news` `anthropic`
 

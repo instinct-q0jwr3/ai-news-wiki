@@ -1,6 +1,6 @@
 # Fireworks AI is bringing an ultra-fast version of Kimi K3.1 Pro
 
-_type: news-summary · created: 2026-11-26 · updated: 2026-11-26 · confidence: high_
+_type: news-summary · created: 2026-11-26 · updated: 2026-11-27 · confidence: high_
 
 `tldr-ai`
 

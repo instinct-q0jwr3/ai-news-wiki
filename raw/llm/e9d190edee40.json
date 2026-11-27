@@ -1,0 +1,14 @@
+{
+ "id": "e9d190edee40",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The Decoder summarizes a DeepMind podcast in which Koray Kavukcuoglu says agents now allocate part of the lab's compute to experiments for Gemini. He describes a shift toward general-purpose models for science and products, with each generation still assembled through substantial human research rather than a fixed recipe.\n\nThe available account is secondary and gives no fraction of compute, controlled productivity comparison or independent audit. Kavukcuoglu explicitly distinguishes this from full recursive self-improvement. His stated practice of not directly rewarding internal thought text is a claimed monitoring strategy, not proof that all model intentions are faithful, transparent or safe. No experiment, compute allocation or model operation was performed.",
+ "highlights": [
+  "Agents reportedly control some experimental compute",
+  "Fraction and effectiveness are not quantified",
+  "Account is attributed to a company podcast",
+  "Full recursive self-improvement is explicitly not achieved",
+  "Readable reasoning is not a safety guarantee",
+  "No model or compute operation was performed"
+ ]
+}
