@@ -1,0 +1,13 @@
+{
+ "id": "83f96cf4a255",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Ivan Kahl argues that letting AI agents code while you walk away is workable only if effort moves from supervising every step to planning up front and reviewing the finished pull request. His workflow: decide the architecture yourself and record decisions in ADRs, have the agent propose a task breakdown and refine it, slice work vertically so each task is testable, then let the agent implement in a sandbox while pipelines and an AI review check the result. Safety comes from rules that do not fade: branch protection, required reviews, secret scanning and a sandbox that assumes a hijacked agent, with no production credentials and a restricted network. He warns agents can be steered by text they read and can optimize for a green pipeline rather than correct behavior, so tests need protection too. This is a single author's experience report, not a controlled comparison, and its examples are one .NET codebase.",
+ "highlights": [
+  "Asynchronous agent work shifts human effort to planning before and reviewing after, not supervision during.",
+  "Architectural decisions stay human and get recorded as ADRs so agents implement rather than revisit them.",
+  "Work should be sliced vertically so every delegated task is independently testable.",
+  "The sandbox assumes a hijacked agent: no production credentials, restricted network, protected tests.",
+  "Single-author experience report; no controlled measurement of quality or speed gains."
+ ]
+}

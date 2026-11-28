@@ -1,0 +1,13 @@
+{
+ "id": "59f60cb3fa11",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Fleetlayer is a source-available, early-stage framework for running many Claude Code and Codex agents across several machines and accounts. A small node on each machine keeps one outbound connection to a control plane, so it works behind NAT; agents can message each other, share a signed-in browser through Playwright MCP, and act under per-user rules, such as an agent that reads strangers' email being allowed to message only its owner. A dashboard shows every machine, session, pending approval and event. The project explicitly targets the second-machine, second-account case and tells single-laptop users to stay with Claude Code's own features. These are vendor claims on a product page: the access-rule enforcement, account handling and security properties are unaudited, and nothing here was installed or tested.",
+ "highlights": [
+  "Fleetlayer connects Claude Code and Codex sessions across laptops, home servers and VPSs.",
+  "Each machine runs a node with one outbound control-plane connection, so NAT needs no open ports.",
+  "Agents can message each other and share a signed-in browser via Playwright MCP.",
+  "Per-user rules restrict what each agent may do; a dashboard shows sessions and pending approvals.",
+  "Vendor-described security model is unaudited; the project is early and built in public."
+ ]
+}

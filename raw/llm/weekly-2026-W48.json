@@ -23,7 +23,8 @@
   "The late-morning update separates fictional AI gossip and sampled personas from claims about model intentions. A research-sabotage allegation remains unverified, while European tooling advocacy and Taiwanese stock outflows keep their dates, sources and decision limits explicit.",
   "The afternoon separates actual evaluation-boundary failures from speculation about cryptography and self-improvement. Research proposals, vendor efficiency results and payment trials retain their verification, compute, permission and legal boundaries; unreleased interfaces stay unreleased.",
   "The evening adds competing forecasts, a primary tensor preprint and reports on copyright payments and a countersuit. It keeps subjective probabilities, legal allegations, partial profiles and product claims separate from verified outcomes, while revisiting sabotage claims without assuming intent.",
-  "The overnight batch keeps a reported AI-attributed eviction, competing sabotage claims and a lithography policy argument at their evidence level. An in-browser inference experiment and a plugin-design probe carry single-author measurement limits."
+  "The overnight batch keeps a reported AI-attributed eviction, competing sabotage claims and a lithography policy argument at their evidence level. An in-browser inference experiment and a plugin-design probe carry single-author measurement limits.",
+  "The late-morning batch pairs a vendor denial of sabotage claims with an unconfirmed encryption-break rumor, and keeps a bare-metal speed claim and a draft Pi provider at their evidence level. Two accounts of asynchronous agent work shift the human role to planning and review; Reddit's retention figures and Embo's robotics raise are company-reported."
  ],
  "sections": [
   {
@@ -1367,6 +1368,56 @@
    "intro": "A lithography veteran argues the MATCH Act could hand serviced, reverse-engineerable scanners to rivals.",
    "stories": [
     "f0721aad467a"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A draft provider is not an endorsed integration",
+   "intro": "A pull request would wire Google AI plan sign-in into the Pi coding agent; claims of official approval appear only in unverified comments.",
+   "stories": [
+    "846caf8c2148"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A bare-metal LLM runtime credits its speed to removing Linux",
+   "intro": "A 24 KB assembly OS claims up to 54% faster token generation than llama.cpp, as a single-author demonstration of one small model.",
+   "stories": [
+    "b2ada0bf4295"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A vendor denial joins the sabotage dispute",
+   "intro": "Anthropic-affiliated Edwin Arbus answers sabotage allegations with an account of two days of non-visible safeguards in June; neither side's evidence is independently verifiable here.",
+   "stories": [
+    "5a5ca850f71d"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Encryption-break rumors remain unconfirmed",
+   "intro": "Nature reports rumors of AI breaking public-key cryptography while the published record shows only a subexponential factoring claim and calls for reproducibility.",
+   "stories": [
+    "615989dbaec6"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Agentic work moves the effort to planning and review",
+   "intro": "An experience report and a new multi-machine framework both assume agents work unattended, guarded by sandboxes, rules and pipelines rather than constant supervision.",
+   "stories": [
+    "83f96cf4a255",
+    "59f60cb3fa11"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Reddit defends its logged-in moat and a robotics lab raises $110M",
+   "intro": "Reddit's COO argues seasoned logged-in users offset AI-search referral losses, while Embo launches with a large seed for video-pretrained robot world models; both are company accounts.",
+   "stories": [
+    "8c14afb6bc6c",
+    "0f31e74b1cdc"
    ],
    "concepts": []
   }

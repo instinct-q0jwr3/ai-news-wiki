@@ -1,0 +1,12 @@
+{
+ "id": "0f31e74b1cdc",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Embo emerged from stealth announcing a $110M seed round led by Andreessen Horowitz, with Khosla Ventures, DST Global, NVIDIA and others, to build world models for robotics. The company says its robot brain pretrains on massive amounts of internet video to learn objects, physical interactions and how tasks unfold, then practices motor skills in imagined scenarios, and is finetuned on experience from its own humanoid fleet and post-trained with reinforcement learning. The founding team cites work on Dreamer, VideoGPT and Diffusion Forcing and experience at Google DeepMind, Meta Superintelligence Labs, NVIDIA Cosmos, UC Berkeley and MIT, plus infrastructure for training multimodal models across 70,000 GPUs. This is a company launch announcement: no benchmark, demo video or customer is shown, and the capability claims are unproven.",
+ "highlights": [
+  "Embo raised a $110M seed led by a16z with Khosla, DST Global and NVIDIA participating.",
+  "The plan: pretrain world models on internet video, practice skills in simulation, finetune on a humanoid fleet.",
+  "Team cites Dreamer, VideoGPT and Diffusion Forcing and DeepMind, Meta, NVIDIA Cosmos, Berkeley and MIT pedigrees.",
+  "The announcement shows no benchmark, demo or customer; capability claims are unproven."
+ ]
+}

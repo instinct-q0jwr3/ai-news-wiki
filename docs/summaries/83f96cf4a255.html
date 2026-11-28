@@ -1,0 +1,16 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What It Takes to Let AI Agents Work While You Walk Away · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1795862409"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>What It Takes to Let AI Agents Work While You Walk Away</h1>
+<p class="meta">type: news-summary · created: 2026-11-28 · updated: 2026-11-28 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>Ivan Kahl argues that letting AI agents code while you walk away is workable only if effort moves from supervising every step to planning up front and reviewing the finished pull request. His workflow: decide the architecture yourself and record decisions in ADRs, have the agent propose a task breakdown and refine it, slice work vertically so each task is testable, then let the agent implement in a sandbox while pipelines and an AI review check the result. Safety comes from rules that do not fade: branch protection, required reviews, secret scanning and a sandbox that assumes a hijacked agent, with no production credentials and a restricted network. He warns agents can be steered by text they read and can optimize for a green pipeline rather than correct behavior, so tests need protection too. This is a single author's experience report, not a controlled comparison, and its examples are one .NET codebase.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>Asynchronous agent work shifts human effort to planning before and reviewing after, not supervision during.</li>
+<li>Architectural decisions stay human and get recorded as ADRs so agents implement rather than revisit them.</li>
+<li>Work should be sliced vertically so every delegated task is independently testable.</li>
+<li>The sandbox assumes a hijacked agent: no production credentials, restricted network, protected tests.</li>
+<li>Single-author experience report; no controlled measurement of quality or speed gains.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../concepts/agentic-systems.html">Agentic systems</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

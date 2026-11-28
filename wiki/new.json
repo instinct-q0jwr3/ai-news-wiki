@@ -1,65 +1,53 @@
 {
- "generated_at": "2026-11-28T04:35:21+00:00",
+ "generated_at": "2026-11-28T10:35:56+00:00",
  "stories": [
   {
-   "id": "168e231e43db",
-   "title": "Supercharging transformer residual connections",
-   "source": "TLDR AI",
-   "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
-  },
-  {
-   "id": "09bd4509af97",
-   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+   "id": "846caf8c2148",
+   "title": "Google adding official Google AI plan support to Pi coding agent",
    "source": "Hacker News",
-   "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+   "url": "https://github.com/earendil-works/pi/pull/12614"
   },
   {
-   "id": "754c02307cfe",
-   "title": "Show HN: Analysis of Hacker News predictions since 2008",
+   "id": "b2ada0bf4295",
+   "title": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
    "source": "Hacker News",
-   "url": "https://hnpredictions.com/"
+   "url": "https://twitter.com/superalesha/status/2125682626056839259"
   },
   {
-   "id": "81f5514ab105",
-   "title": "Claude silently added rules to ignore users skintone preferences in our app",
+   "id": "5a5ca850f71d",
+   "title": "Claude has not been trained to sabotage work",
    "source": "Hacker News",
-   "url": "https://twitter.com/jakozloski/status/2126281598517576049"
+   "url": "https://twitter.com/edwinarbus/status/2126507795642187855"
   },
   {
-   "id": "21e504568c02",
-   "title": "Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab",
+   "id": "615989dbaec6",
+   "title": "Has AI just cracked Internet encryption? Rumoured 'bombshell' stuns scientists",
    "source": "Hacker News",
-   "url": "https://tesseracted.com/experiments-llm-os/"
+   "url": "https://www.nature.com/articles/d41586-026-03875-6"
   },
   {
-   "id": "dbc55ff6e313",
-   "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following",
+   "id": "83f96cf4a255",
+   "title": "What It Takes to Let AI Agents Work While You Walk Away",
+   "source": "Hacker News",
+   "url": "https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/"
+  },
+  {
+   "id": "59f60cb3fa11",
+   "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+   "source": "Hacker News",
+   "url": "https://fleetlayer.ai/"
+  },
+  {
+   "id": "8c14afb6bc6c",
+   "title": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five",
    "source": "Techmeme",
-   "url": "https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html"
+   "url": "https://fortune.com/2026/11/26/reddit-coo-jen-wong-user-karma-moderator-model-ai/"
   },
   {
-   "id": "3a52c6424251",
-   "title": "datasette-charts 0.4a0",
-   "source": "Simon Willison",
-   "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
-  },
-  {
-   "id": "3d0e8dea859e",
-   "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks",
+   "id": "0f31e74b1cdc",
+   "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z",
    "source": "Techmeme",
-   "url": "https://x.com/edwinarbus"
-  },
-  {
-   "id": "f0721aad467a",
-   "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff",
-   "source": "Techmeme",
-   "url": "https://lithowar.com/lithography-war/"
-  },
-  {
-   "id": "281c94a1f130",
-   "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4"
+   "url": "https://embo.com/introducing-embo"
   }
  ]
 }

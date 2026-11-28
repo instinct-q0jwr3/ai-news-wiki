@@ -1,0 +1,13 @@
+{
+ "id": "615989dbaec6",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A Nature news explainer reports rumors that AI-generated algorithms could break public-key cryptography, while noting the rumors could not be confirmed. The visible record, per an independent explainer tracking the story, is narrower: Scott Aaronson wrote on November 24 that he had heard rumors that one or more AI labs are 'sitting on' polynomial-time factoring, while saying he did not know how much to credit them, and Google Research posted a paper the next morning claiming a proven but still subexponential factoring bound, not a polynomial one. No published paper, code or statement claims factoring in P or an attack on RSA, and researchers quoted in coverage are calling for code, data and methods to be released so results can be reproduced. The Nature article itself was not readable here (the site presented a client challenge), so this summary relies on search excerpts and third-party reporting of its contents.",
+ "highlights": [
+  "Nature reports unconfirmed rumors of an AI-driven break of public-key cryptography.",
+  "Aaronson's November 24 blog comment relayed the rumor while doubting how much to credit it.",
+  "Google's actual paper claims a subexponential factoring bound, not the rumored polynomial algorithm.",
+  "No lab has published code, data or a statement claiming factoring in P or an RSA attack.",
+  "The Nature page was blocked here; details come from excerpts and third-party accounts."
+ ]
+}

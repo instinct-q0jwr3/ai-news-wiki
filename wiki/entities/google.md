@@ -10,6 +10,7 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-28** - A draft pull request to the Pi coding agent proposes a google-ai-plan provider: sign in with a Google account through loopback OAuth with PKCE and DPoP-bound refresh tokens, then use the plan's Gemini models through an Interactions API endpoint. The PR… ([Google adding official Google AI plan support to Pi coding agent](../summaries/846caf8c2148.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md) · [AI coding agents and the software pipeline](../concepts/ai-coding-agents.md))
 - **2026-11-28** - The visible portion of hnpredictions.com tracks Hacker News predictions against later events, showing an example where a December 2025 forecast of a 2026 stock-market correction is marked as matched by a November 2026 downturn.
 
 Only the site's opening… ([Show HN: Analysis of Hacker News predictions since 2008](../summaries/754c02307cfe.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠

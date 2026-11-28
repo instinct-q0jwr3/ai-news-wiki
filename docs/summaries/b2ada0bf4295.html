@@ -1,0 +1,16 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>54% faster LLM token generation by removing the Linux OS and llama.cpp · AI Wiki</title><link rel="stylesheet" href="../assets/style.css?v=1795862409"></head><body><header><a class="brand" href="../index.html"><span>AI</span> wiki</a><nav><a href="../signal/index.html">Signal</a><a href="../daily/index.html">Daily</a><a href="../weekly/index.html">Weekly</a><a href="../summaries/index.html" class="active" aria-current="page">Stories</a><a href="../entities/index.html">Entities</a><a href="../concepts/index.html">Concepts</a><a href="../feeds/index.html">Feeds</a></nav><a class="search-link" href="../index.html#search">Search</a></header><main><article><h1>54% faster LLM token generation by removing the Linux OS and llama.cpp</h1>
+<p class="meta">type: news-summary · created: 2026-11-28 · updated: 2026-11-28 · confidence: high</p>
+<h2 id="summary">Summary</h2>
+<p>A developer reports baking a Qwen3-0.6B model into a 24,252-byte pure x86-64 assembly operating system that boots in 74 to 94 milliseconds and chats over VGA, keyboard and serial, with no Linux, C, Rust or libc underneath. Self-reported benchmarks on the same AMD EPYC 7642 claim 23.67 versus 16.63 tokens per second at one thread against llama.cpp, rising to 134.94 versus 103.03 at sixteen threads, with bit-exact output across thread counts and 0.99965 cosine similarity against PyTorch FP32. A diskless 2 GiB Proxmox VM reportedly boots to a prompt in under five seconds and decodes at 78 tokens per second. These are single-author measurements posted on X with a repository link; no independent reproduction, and the gains apply to one small quantized model rather than general LLM serving.</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li>A 24 KB assembly OS runs Qwen3-0.6B inference with no operating system or libc underneath.</li>
+<li>Claimed speedups over llama.cpp range from 31% to 54% on the same AMD EPYC 7642 CPU.</li>
+<li>Output is reported bit-exact across thread counts and near-identical to PyTorch FP32 reference.</li>
+<li>All figures are self-reported in a social post; no independent benchmark exists.</li>
+<li>The demonstration covers one 0.6B quantized model, not production-scale inference.</li>
+</ul>
+<h2 id="source">Source</h2>
+<p><a href="https://twitter.com/superalesha/status/2125682626056839259">Read the original story</a></p>
+<h2 id="related-pages">Related pages</h2>
+<p><a href="../entities/meta.html">Meta</a></p></article></main><footer>AI News Wiki · Sources linked in every entry</footer></body></html>

@@ -1,0 +1,13 @@
+{
+ "id": "846caf8c2148",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A draft pull request to the Pi coding agent proposes a google-ai-plan provider: sign in with a Google account through loopback OAuth with PKCE and DPoP-bound refresh tokens, then use the plan's Gemini models through an Interactions API endpoint. The PR describes streaming, signed thought replay, tool calls and usage reporting, plus explicit handling for daily-limit, eligibility and sign-in errors, and it states that pi-ai ships no Google client of its own, so host applications must register their own OAuth client. The scraped page is a noisy PR view with duplicated comments. Some commenters assert this is an official Google endpoint approved for Pi, but that claim appears only in comments and is unverified; another commenter argues Google's terms would not allow it. The change is a proposal in a pull request, not evidence of merged or endorsed Google support.",
+ "highlights": [
+  "Draft PR adds a google-ai-plan provider using loopback OAuth with PKCE and DPoP-bound refresh tokens.",
+  "Gemini plan models would be reached through an Interactions API with streaming, tool calls and usage reporting.",
+  "The PR itself says pi-ai ships no Google client; forks and apps must register their own OAuth client.",
+  "Commenter claims of official Google approval are unverified and appear only in PR comments.",
+  "A pull request is a proposal; the scrape does not show it merged or Google-endorsed."
+ ]
+}
