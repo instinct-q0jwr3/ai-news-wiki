@@ -1,0 +1,14 @@
+{
+ "id": "f0721aad467a",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "A lithography engineer with thirty years in the field argues that the proposed MATCH Act could backfire: banning sales and servicing of immersion scanners to China would strand roughly 350 ASML tools there, exposing their technology to rivals who could service, reverse-engineer and hire around them. The long essay grounds the argument in how alignment, overlay, rework and process variation actually constrain fabs.\n\nThis is an expert's policy argument, openly written to influence US legislation, not a neutral assessment; its claims about Chinese toolmaking limits and loopholes rest on the author's experience rather than cited data. The approximately 350 installed tools figure is an estimate. Technical background sections were read but the full sixty-thousand-word piece was truncated at the retrieval limit, so later sections and recommendations were not reviewed. No policy position is endorsed.",
+ "highlights": [
+  "Author is a veteran lithography engineer arguing policy",
+  "Central risk: stranded ASML tools inside China",
+  "Export-rule loopholes via slower, rework-heavy operation are described",
+  "Estimate of roughly 350 tools is not an official count",
+  "Argument is advocacy, not a neutral study",
+  "Article was read partially; later sections not reviewed"
+ ]
+}

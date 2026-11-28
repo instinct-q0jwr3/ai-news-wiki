@@ -1,6 +1,6 @@
 # Testers believe they're from Claude Opus 5.6 via 5.5 Extra
 
-_type: news-summary · created: 2026-11-26 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-26 · updated: 2026-11-28 · confidence: high_
 
 `hacker-news` `anthropic`
 

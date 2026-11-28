@@ -1,6 +1,6 @@
 # Qwen
 
-_type: product · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-28 · confidence: medium_
 
 `entity` `qwen` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Qwen is Alibaba's family of open-weight large language and image models. This pa
 
 ## Timeline
 
+- **2026-11-28** - Tesseracted describes an experimental terminal that runs Qwen-family models entirely in a browser tab: weights download once into cache and a roughly 52 KB WebAssembly module computes every token on the CPU, with no GPU code or inference API. The author… ([Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab](../summaries/21e504568c02.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-26** - Modaic uses latency, tokenizer correlations and behavioral probes to argue that TypeSafe's Jev is plausibly derived from a small-active-parameter Qwen mixture-of-experts model. The article describes 9,984 timing prompts and a separate throughput comparison… ([Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!](../summaries/31126e389ea7.md) · [Alibaba](../entities/alibaba.md) · [TypeSafe](../entities/typesafe.md) · [Qwen](../entities/qwen.md))
 - **2026-11-26** - The llm.asm project describes a bootable x86-64 environment running Qwen3-0.6B without a conventional host operating system inside the guest. Its shared assembly inference code can boot through BIOS or UEFI, with a small kernel and a much larger quantized… ([Bare Metal Qwen](../summaries/f74e93380df1.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-23** - Nari Labs presents NariQ quantizations of Qwen3.8-27B at 3, 2.5 and 2 bits per weight. Its card reports near-BF16 results on selected agentic, mathematical and visual tasks for the first two variants, with a substantial decline for 2-bit. It publishes… ([NariQ: BF16-level Qwen3.8-27B in a 10 GB file](../summaries/0982d40d18e3.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md) · [Agentic systems](../concepts/agentic-systems.md) · [External AI evaluation](../concepts/external-evaluation.md) · [Small and specialist models](../concepts/small-specialist-models.md))

@@ -1,6 +1,6 @@
 # Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B
 
-_type: news-summary · created: 2026-11-19 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-19 · updated: 2026-11-28 · confidence: high_
 
 `techmeme` `anthropic` `ai-policy-regulation`
 

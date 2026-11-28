@@ -1,6 +1,6 @@
 # A week with Apple Watch's Siri Recap and Live Rewind in beta: inaccurate summaries lag Amazon Bee, Granola, and Otter, and rarely justify the privacy trade-offs
 
-_type: news-summary · created: 2026-11-17 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-17 · updated: 2026-11-28 · confidence: high_
 
 `techmeme` `apple` `amazon`
 

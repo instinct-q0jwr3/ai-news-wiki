@@ -1,6 +1,6 @@
 # LayerStream: faster MoE fine-tuning on fewer or cheaper GPUs
 
-_type: news-summary · created: 2026-11-27 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-27 · updated: 2026-11-28 · confidence: high_
 
 `tldr-ai` `compute-buildout`
 

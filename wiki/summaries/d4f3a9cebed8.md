@@ -1,6 +1,6 @@
 # Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago
 
-_type: news-summary · created: 2026-10-11 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-10-11 · updated: 2026-11-28 · confidence: high_
 
 `daring-fireball` `apple`
 

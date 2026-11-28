@@ -1,6 +1,6 @@
 # Google
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-28 · confidence: medium_
 
 `entity` `google` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Google builds AI across Google DeepMind, Gemini and its consumer and cloud produ
 
 ## Timeline
 
+- **2026-11-28** - The visible portion of hnpredictions.com tracks Hacker News predictions against later events, showing an example where a December 2025 forecast of a 2026 stock-market correction is marked as matched by a November 2026 downturn.
+
+Only the site's opening… ([Show HN: Analysis of Hacker News predictions since 2008](../summaries/754c02307cfe.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-27** - TestingCatalog reports an in-development Google Drive browsing interface for Claude, with document search and filtering shown as a possible dedicated navigation item. It suggests the design could eventually connect with Projects and existing conversational… ([Anthropic prepares Google Drive file browser for Claude](../summaries/748c776fca90.md) · [Anthropic](../entities/anthropic.md) · [Google](../entities/google.md))
 - **2026-11-27** - The Decoder summarizes a DeepMind podcast in which Koray Kavukcuoglu says agents now allocate part of the lab's compute to experiments for Gemini. He describes a shift toward general-purpose models for science and products, with each generation still… ([AI agents now control part of DeepMind's compute for Gemini experiments](../summaries/e9d190edee40.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-26** - Tech Stackups argues that Google's new Workspace access rules disadvantage independent AI tools because some high-value actions remain partner-only. Separately read [Google terms](https://workspace.google.com/terms/ai-tools/) and [quota… ([Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](../summaries/8cbf90db977e.md) · [Google](../entities/google.md) · [Agentic systems](../concepts/agentic-systems.md))

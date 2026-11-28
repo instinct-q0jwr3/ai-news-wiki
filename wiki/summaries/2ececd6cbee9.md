@@ -1,6 +1,6 @@
 # Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump
 
-_type: news-summary · created: 2026-11-25 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-25 · updated: 2026-11-28 · confidence: high_
 
 `tldr-ai` `nvidia`
 

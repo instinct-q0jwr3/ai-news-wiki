@@ -1,6 +1,6 @@
 # Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+
 
-_type: news-summary · created: 2026-11-20 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-20 · updated: 2026-11-28 · confidence: high_
 
 `techmeme` `anthropic`
 

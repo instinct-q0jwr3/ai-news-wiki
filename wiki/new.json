@@ -1,59 +1,35 @@
 {
- "generated_at": "2026-11-27T22:34:20+00:00",
+ "generated_at": "2026-11-28T04:35:21+00:00",
  "stories": [
   {
-   "id": "26f1c5b646e4",
-   "title": "The group chat where your AI talks behind your back",
-   "source": "Hacker News",
-   "url": "https://construct22.com/"
+   "id": "168e231e43db",
+   "title": "Supercharging transformer residual connections",
+   "source": "TLDR AI",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
   },
   {
-   "id": "ef7926accd51",
-   "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+   "id": "09bd4509af97",
+   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
    "source": "Hacker News",
-   "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf"
+   "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
   },
   {
-   "id": "4f412a82a4ef",
-   "title": "The NFL Player Who Left Football for Math",
+   "id": "754c02307cfe",
+   "title": "Show HN: Analysis of Hacker News predictions since 2008",
    "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html"
+   "url": "https://hnpredictions.com/"
   },
   {
-   "id": "f221d3c1b832",
-   "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
+   "id": "81f5514ab105",
+   "title": "Claude silently added rules to ignore users skintone preferences in our app",
    "source": "Hacker News",
-   "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/"
+   "url": "https://twitter.com/jakozloski/status/2126281598517576049"
   },
   {
-   "id": "b34dad30f9b4",
-   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "id": "21e504568c02",
+   "title": "Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab",
    "source": "Hacker News",
-   "url": "https://github.com/skeeto/prospero"
-  },
-  {
-   "id": "8a9c187df410",
-   "title": "Claude Code Skills Now Sharable Across Teams",
-   "source": "Hacker News",
-   "url": "https://emergent.sh/news/claude-code-skills-now-sharable-across-teams"
-  },
-  {
-   "id": "2c04ed509419",
-   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-   "source": "Hacker News",
-   "url": "https://sessiongraph.ai/"
-  },
-  {
-   "id": "08663db2c98b",
-   "title": "Pan Cooke ( pancooke): \"A comic I wrote about AI art and what we risk to lose.\"",
-   "source": "Hacker News",
-   "url": "https://substack.com/@pancooke/note/c-395539528"
-  },
-  {
-   "id": "281c94a1f130",
-   "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both",
-   "source": "Techmeme",
-   "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4"
+   "url": "https://tesseracted.com/experiments-llm-os/"
   },
   {
    "id": "dbc55ff6e313",
@@ -62,22 +38,28 @@
    "url": "https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html"
   },
   {
-   "id": "83c9354a3de5",
-   "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels",
-   "source": "Techmeme",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says"
+   "id": "3a52c6424251",
+   "title": "datasette-charts 0.4a0",
+   "source": "Simon Willison",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
   },
   {
-   "id": "6a2019c23a4d",
-   "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more",
+   "id": "3d0e8dea859e",
+   "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks",
    "source": "Techmeme",
-   "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil"
+   "url": "https://x.com/edwinarbus"
   },
   {
-   "id": "a686ab80b9b5",
-   "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
-   "source": "Latent.Space",
-   "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/"
+   "id": "f0721aad467a",
+   "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff",
+   "source": "Techmeme",
+   "url": "https://lithowar.com/lithography-war/"
+  },
+  {
+   "id": "281c94a1f130",
+   "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both",
+   "source": "Techmeme",
+   "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4"
   }
  ]
 }

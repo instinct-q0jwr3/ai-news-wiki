@@ -1,6 +1,6 @@
 # AP: Avoid language that gives [AI] human characteristics
 
-_type: news-summary · created: 2026-09-24 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-09-24 · updated: 2026-11-28 · confidence: high_
 
 `hacker-news`
 

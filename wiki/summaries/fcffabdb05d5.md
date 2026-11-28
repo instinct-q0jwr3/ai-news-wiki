@@ -1,6 +1,6 @@
 # Who gets to decide if something is written by AI?
 
-_type: news-summary · created: 2026-11-27 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-27 · updated: 2026-11-28 · confidence: high_
 
 `seangoedecke`
 

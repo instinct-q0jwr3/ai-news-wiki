@@ -22,7 +22,8 @@
   "The first update separates bounded agent research from recursive self-improvement and a bubble-state estimate from an imminent-crash prediction. Product monitoring, authorship detection and legislative proposals keep their claims and evidence limits distinct.",
   "The late-morning update separates fictional AI gossip and sampled personas from claims about model intentions. A research-sabotage allegation remains unverified, while European tooling advocacy and Taiwanese stock outflows keep their dates, sources and decision limits explicit.",
   "The afternoon separates actual evaluation-boundary failures from speculation about cryptography and self-improvement. Research proposals, vendor efficiency results and payment trials retain their verification, compute, permission and legal boundaries; unreleased interfaces stay unreleased.",
-  "The evening adds competing forecasts, a primary tensor preprint and reports on copyright payments and a countersuit. It keeps subjective probabilities, legal allegations, partial profiles and product claims separate from verified outcomes, while revisiting sabotage claims without assuming intent."
+  "The evening adds competing forecasts, a primary tensor preprint and reports on copyright payments and a countersuit. It keeps subjective probabilities, legal allegations, partial profiles and product claims separate from verified outcomes, while revisiting sabotage claims without assuming intent.",
+  "The overnight batch keeps a reported AI-attributed eviction, competing sabotage claims and a lithography policy argument at their evidence level. An in-browser inference experiment and a plugin-design probe carry single-author measurement limits."
  ],
  "sections": [
   {
@@ -1317,6 +1318,55 @@
    "intro": "The note was accessible but its panels were not inspected, limiting any interpretation.",
    "stories": [
     "08663db2c98b"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "An automated assurance is not yet an adjudicated obligation",
+   "intro": "A reported eviction after AI-attributed rent emails raises disclosure and liability questions that remain factually and legally open.",
+   "stories": [
+    "09bd4509af97"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Sabotage allegations and a vendor denial both remain unverified",
+   "intro": "New social posts claim intentional interference while an Anthropic-affiliated response denies it; neither side's evidence was inspectable here.",
+   "stories": [
+    "81f5514ab105",
+    "3d0e8dea859e"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "In-browser inference trades prompt speed for locality",
+   "intro": "An experimental WebAssembly engine approaches native generation speed on one machine while lagging badly on prompt processing.",
+   "stories": [
+    "21e504568c02"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "A model as API design probe",
+   "intro": "datasette-charts improved its plugin hook after a Claude-built prototype exposed friction points.",
+   "stories": [
+    "3a52c6424251"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Prediction tracking needs its own methodology check",
+   "intro": "A visible match example is not an accuracy rate, and the site's scoring was not reviewed.",
+   "stories": [
+    "754c02307cfe"
+   ],
+   "concepts": []
+  },
+  {
+   "title": "Export controls can strand the technology they guard",
+   "intro": "A lithography veteran argues the MATCH Act could hand serviced, reverse-engineerable scanners to rivals.",
+   "stories": [
+    "f0721aad467a"
    ],
    "concepts": []
   }

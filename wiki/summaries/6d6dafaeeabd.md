@@ -1,6 +1,6 @@
 # I used to orchestrate agents. Now I orchestrate orchestrators
 
-_type: news-summary · created: 2026-11-24 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-24 · updated: 2026-11-28 · confidence: high_
 
 `tldr-ai` `agentic-systems`
 

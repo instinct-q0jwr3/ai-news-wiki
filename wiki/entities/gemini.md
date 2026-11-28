@@ -1,6 +1,6 @@
 # Google Gemini
 
-_type: product · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
+_type: product · created: 2026-09-19 · updated: 2026-11-28 · confidence: medium_
 
 `entity` `gemini` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,9 @@ Google's Gemini family spans the consumer app, the API, and a growing set of age
 
 ## Timeline
 
+- **2026-11-28** - The visible portion of hnpredictions.com tracks Hacker News predictions against later events, showing an example where a December 2025 forecast of a 2026 stock-market correction is marked as matched by a November 2026 downturn.
+
+Only the site's opening… ([Show HN: Analysis of Hacker News predictions since 2008](../summaries/754c02307cfe.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-27** - The Decoder summarizes a DeepMind podcast in which Koray Kavukcuoglu says agents now allocate part of the lab's compute to experiments for Gemini. He describes a shift toward general-purpose models for science and products, with each generation still… ([AI agents now control part of DeepMind's compute for Gemini experiments](../summaries/e9d190edee40.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [Agentic systems](../concepts/agentic-systems.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md))
 - **2026-11-26** - Philipp Schmid describes simplifying his Gemini 4 Neon coding setup by removing conflicting persistent rules, keeping interfaces precise and using visual references and checks for visual work. The article emphasizes task-specific guidance and deliberate… ([How my context engineering changed for Gemini 4 Neon](../summaries/33f0b104bcf8.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md))
 - **2026-11-25** - An anonymous Comentr post reports Gemini twice beginning to output the lyrics of Twinkle Twinkle Little Star, then withdrawing them and displaying a refusal. The accessible text consists of that short account and reactions, with screenshots offered as… ([Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](../summaries/41b215024112.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md)) ⚠

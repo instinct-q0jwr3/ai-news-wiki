@@ -1,0 +1,15 @@
+{
+ "id": "21e504568c02",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Tesseracted describes an experimental terminal that runs Qwen-family models entirely in a browser tab: weights download once into cache and a roughly 52 KB WebAssembly module computes every token on the CPU, with no GPU code or inference API. The author measures generation reaching roughly 65-75% of native llama.cpp speed on an Apple M3 Max.\n\nFigures are the author's own measurements on one machine over two days, not an independent benchmark. Prompt processing is far slower than native because it is done token by token, and the Qwen3.5 models were not benchmarked against llama.cpp at all. The page's privacy claim that nothing leaves the tab was not verified by inspecting network behavior. No code was run and no model was downloaded here.",
+ "highlights": [
+  "Engine computes on CPU via a 52 KB WebAssembly module",
+  "Generation reaches roughly 65-75% of native on one machine",
+  "Prompt ingestion is far slower than native llama.cpp",
+  "Qwen3.5 numbers lack a native comparison",
+  "Single-machine author measurements, not a broad benchmark",
+  "Privacy claim was not independently verified",
+  "No code was executed"
+ ]
+}

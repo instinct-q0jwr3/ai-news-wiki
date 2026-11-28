@@ -1,6 +1,6 @@
 # Alibaba
 
-_type: organization · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
+_type: organization · created: 2026-09-19 · updated: 2026-11-28 · confidence: medium_
 
 `entity` `alibaba` `agent-incidents` `agentic-systems` `ai-coding-agents` `ai-policy-regulation`
 
@@ -10,6 +10,7 @@ Alibaba develops the Qwen model family and AI cloud services. This page follows 
 
 ## Timeline
 
+- **2026-11-28** - Tesseracted describes an experimental terminal that runs Qwen-family models entirely in a browser tab: weights download once into cache and a roughly 52 KB WebAssembly module computes every token on the CPU, with no GPU code or inference API. The author… ([Show HN: A 52 KB WebAssembly engine that runs Qwen3.5-2B in a browser tab](../summaries/21e504568c02.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-26** - Modaic uses latency, tokenizer correlations and behavioral probes to argue that TypeSafe's Jev is plausibly derived from a small-active-parameter Qwen mixture-of-experts model. The article describes 9,984 timing prompts and a separate throughput comparison… ([Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!](../summaries/31126e389ea7.md) · [Alibaba](../entities/alibaba.md) · [TypeSafe](../entities/typesafe.md) · [Qwen](../entities/qwen.md))
 - **2026-11-26** - The llm.asm project describes a bootable x86-64 environment running Qwen3-0.6B without a conventional host operating system inside the guest. Its shared assembly inference code can boot through BIOS or UEFI, with a small kernel and a much larger quantized… ([Bare Metal Qwen](../summaries/f74e93380df1.md) · [Meta](../entities/meta.md) · [Alibaba](../entities/alibaba.md) · [Qwen](../entities/qwen.md))
 - **2026-11-25** - Bloomberg's accessible opening says lenders have paused billions of dollars of loans linked to ByteDance, Alibaba and Tencent as US chip-access curbs create legal uncertainty for Asian data-center and neocloud financing. It describes near-complete deals… ([US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan](../summaries/334ba8edc163.md) · [Alibaba](../entities/alibaba.md) · [Compute and the data-center build-out](../concepts/compute-buildout.md)) 🔒

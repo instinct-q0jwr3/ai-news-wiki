@@ -1,6 +1,6 @@
 # Concept: AI safety incidents and controls
 
-_type: concept · created: 2026-09-19 · updated: 2026-11-27 · confidence: medium_
+_type: concept · created: 2026-09-19 · updated: 2026-11-28 · confidence: medium_
 
 `concept` `ai-safety-incidents`
 
@@ -34,6 +34,9 @@ A connected record of reported failures, attacks and control proposals. A report
 
 ## Timeline
 
+- **2026-11-28** - The visible portion of hnpredictions.com tracks Hacker News predictions against later events, showing an example where a December 2025 forecast of a 2026 stock-market correction is marked as matched by a November 2026 downturn.
+
+Only the site's opening… ([Show HN: Analysis of Hacker News predictions since 2008](../summaries/754c02307cfe.md) · [Google](../entities/google.md) · [Google Gemini](../entities/gemini.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-27** - A Times headline and subtitle report concern that AI mathematical advances could undermine online security, including speculation that discoveries may be withheld. The accessible page did not expose the reporting behind those claims.
 
 This is… ([AI on brink of making online security useless, mathematicians fear](../summaries/2dbd4abcb2a2.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
@@ -65,4 +68,3 @@ This is… ([AI on brink of making online security useless, mathematicians fear]
 - **2026-11-21** - A Hacker News listing links to an Associated Press article about Anthropic’s offering, safety and shareholder pressure. The primary article was inaccessible and the feed provided no substantive excerpt. Its account of governance, investor obligations and… ([Anthropic's IPO raises questions about AI safety and shareholder pressure](../summaries/5fd03ac15257.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-19** - A Politico excerpt indexed by Techmeme reports formation of a bipartisan House caucus on AI safety and innovation. The primary article was inaccessible. A caucus’s stated aims do not establish legislative text, enacted rules, appropriations or bipartisan… ([A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI](../summaries/b75ac995e1fa.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) ⚠
 - **2026-11-19** - A New York Times excerpt indexed by Techmeme attributes criticism of frontier-model racing to investor Dustin Moskovitz. The full article was inaccessible. His stated reason for investing and present preference for slowing down are attributed views, not… ([Dustin Moskovitz, one of Anthropic's earliest investors, says he "invested in Anthropic to promote safety, not racing" and frontier AI labs "should slow down"](../summaries/f0cb8026ed28.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md)) 🔒
-- **2026-11-19** - A Washington Post excerpt indexed by Techmeme reports political spending by groups associated with Anthropic support and the election outcomes of backed candidates. The full article and spending records were inaccessible. Winning after support does not… ([Anthropic-backed pro-AI safety nonprofit Public First Action's PACs spent $25M+ in 12 states to help elect eight of the 13 House and Senate candidates it backed](../summaries/bb5816cf6717.md) · [Anthropic](../entities/anthropic.md) · [AI safety incidents and controls](../concepts/ai-safety-incidents.md) · [AI policy, regulation and litigation](../concepts/ai-policy-regulation.md)) 🔒

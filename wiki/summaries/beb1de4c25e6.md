@@ -1,6 +1,6 @@
 # Life on Claude Nine
 
-_type: news-summary · created: 2026-11-10 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-10 · updated: 2026-11-28 · confidence: high_
 
 `hacker-news` `anthropic`
 

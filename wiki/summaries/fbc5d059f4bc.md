@@ -1,6 +1,6 @@
 # 2026.47: Down in DC
 
-_type: news-summary · created: 2026-11-20 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-20 · updated: 2026-11-28 · confidence: high_
 
 `stratechery` `agentic-systems`
 

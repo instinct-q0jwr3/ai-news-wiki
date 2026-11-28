@@ -1,0 +1,14 @@
+{
+ "id": "3a52c6424251",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "Simon Willison released datasette-charts 0.4a0 after having Claude Opus 5.5 build an experimental plugin against its chart-type hook, which exposed friction points in the hook's design that this release addresses. The plugin now has its own site with a plugin-author tutorial and a gallery linking to interactive Datasette Lite demos.\n\nThe release note is the author's own account; the ergonomic improvements were not independently tested. Using a model to prototype against an API as a design probe is one developer's workflow, not evidence about the model's general coding ability. Sponsorship text was ignored. No plugin was installed or run.",
+ "highlights": [
+  "Release improves the plugin hook using prototype feedback",
+  "Claude Opus 5.5 was used as a design probe, per the author",
+  "New site adds tutorial and interactive gallery",
+  "Improvements were not independently verified",
+  "Single-author workflow, not a capability study",
+  "No software was installed"
+ ]
+}

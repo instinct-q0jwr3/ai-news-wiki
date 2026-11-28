@@ -1,0 +1,14 @@
+{
+ "id": "754c02307cfe",
+ "schema": 1,
+ "model": "agent-pass",
+ "prose": "The visible portion of hnpredictions.com tracks Hacker News predictions against later events, showing an example where a December 2025 forecast of a 2026 stock-market correction is marked as matched by a November 2026 downturn.\n\nOnly the site's opening section was readable, so its methodology, scoring rules, sample size and selection criteria could not be evaluated. A single displayed match says nothing about overall hit rate, and self-selected \"matched prior predictions\" links are the site's own judgment. No archive of all predictions or independent audit was inspected.",
+ "highlights": [
+  "Site matches old predictions to later events",
+  "Only the opening example was readable",
+  "Scoring methodology and full archive were not reviewed",
+  "One displayed match is not an accuracy rate",
+  "Matching judgments are the site's own",
+  "No prediction was made or endorsed"
+ ]
+}

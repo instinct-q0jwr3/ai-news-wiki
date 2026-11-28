@@ -1,6 +1,6 @@
 # AI on brink of making online security useless, mathematicians fear
 
-_type: news-summary · created: 2026-11-27 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-27 · updated: 2026-11-28 · confidence: high_
 
 `hacker-news` `ai-safety-incidents`
 

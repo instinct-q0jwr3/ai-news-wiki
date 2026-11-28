@@ -1,6 +1,6 @@
 # FAA expands AI advice to manage air traffic congestion across US airspace
 
-_type: news-summary · created: 2026-11-14 · updated: 2026-11-27 · confidence: high_
+_type: news-summary · created: 2026-11-14 · updated: 2026-11-28 · confidence: high_
 
 `hacker-news`
 
